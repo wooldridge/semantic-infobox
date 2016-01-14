@@ -5,15 +5,15 @@ This project sets up an example search application that includes a semantic info
 https://developer.marklogic.com/learn/semantic-infopanel
 
 1. On your MarkLogic Server, install the New Example Application (Oscars search) using Application Builder:
-```
+
    http://localhost:8000/appbuilder
-```
+
    Name the application and the application's database "oscars" and deploy it using the default settings.
 
 2. Add the full set of documents to the application database in Info Studio:
-```
+
    http://localhost:8000/infostudio
-```
+
    Create a New Flow and select the Oscars Example Data Loader as the Collector. This loads 391 documents. Under Document Settings, set    the URL pattern to the following:
 ```
    /oscars/{$filename}{$dot-ext}
