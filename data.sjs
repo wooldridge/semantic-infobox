@@ -39,6 +39,14 @@ for (var item of itr) {
       result[map[pred]] = obj;
     }
   }
+  // Handle 8.0-3 API (value props)
+  if (map[pred.value]) {
+    if (obj.value) {
+      result[map[pred.value]] = obj.value;
+    } else {
+      result[map[pred.value]] = obj;
+    }
+  }
 }
 
 result;
