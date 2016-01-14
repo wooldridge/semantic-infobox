@@ -53,7 +53,7 @@ https://developer.marklogic.com/learn/semantic-infopanel
 
    http://localhost:8998
 
-7. Place the project files into the root directory via the WebDAV interface.
+7. Place this project's directory into the root directory via the WebDAV interface.
 
 8. Access the application here:
 
