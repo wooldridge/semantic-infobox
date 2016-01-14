@@ -15,16 +15,14 @@ https://developer.marklogic.com/learn/semantic-infopanel
    http://localhost:8000/infostudio
 
    Create a New Flow and select the Oscars Example Data Loader as the Collector. This loads 391 documents. Under Document Settings, set    the URL pattern to the following:
-
-   `/oscars/{$filename}{$dot-ext}`
-
-   (Otherwise the new documents will not be searched in your application.)
-
+   ```
+   /oscars/{$filename}{$dot-ext}
+   ```
 3. Download the set of Oscar-related RDF triples located here:
 
    https://gist.github.com/mdubinko/7418688/raw/17a364828d7054ceb5eb630d8ea060307fcb4569/oscartrips.ttl
 
-4. Load the triples into the "oscars" database in Query Console:
+4. Load the triples into the "oscars" database in Query Console (changing the path as appropriate):
    ```
    import module namespace sem="http://marklogic.com/semantics"
      at "MarkLogic/semantics.xqy";
