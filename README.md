@@ -1,6 +1,6 @@
 ## semantic-infobox
 
-This project sets up an example search application that includes a semantic infobox. It borrows some of the strategy described here:
+This project sets up an example search application in MarkLogic that includes a semantic infobox in the results. It borrows from the following tutorial:
 
 https://developer.marklogic.com/learn/semantic-infopanel
 
@@ -22,7 +22,7 @@ https://developer.marklogic.com/learn/semantic-infopanel
 3. Enable the triple index for the "Documents" database in the Admin Interface. I.e., set the "triple index"
    setting to "true".
 
-   In Query Console, you should now be able to run the following SPARQL query and get results:
+   In Query Console, you should now be able to run the following SPARQL query against the "oscars" database and get results:
    ```
    prefix foaf: <http://xmlns.com/foaf/0.1/>
    construct { ?topic ?p ?o }
