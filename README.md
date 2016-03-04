@@ -4,31 +4,23 @@ This project sets up an example search application that includes a semantic info
 
 https://developer.marklogic.com/learn/semantic-infopanel
 
-1. On your MarkLogic Server, install the New Example Application (Oscars search) using Application Builder:
+1. On your MarkLogic Server, use the Admin Interface (at http://your-server:8001) to load the data
+   into the default Documents database.
 
-   http://localhost:8000/appbuilder
+   Click "Documents" in the Databases list and then click the "Load" tab. Type the pathname for your data
+   directory (e.g., /path/to/semantic-infobox/data/documents) and *.* for the filter, and then click
+   "Next". On the page that follows, click "OK" to load the data.
 
-   Name the application and the application's database "oscars" and deploy it using the default settings.
+   This will load 391 documents.
 
-2. Add the full set of documents to the application database in Info Studio:
-
-   http://localhost:8000/infostudio
-
-   Create a New Flow and select the Oscars Example Data Loader as the Collector. This loads 391 documents. Under Document Settings, set    the URL pattern to the following:
+2. Load the triples into the "oscars" database in Query Console (changing the path as appropriate):
    ```
-   /oscars/{$filename}{$dot-ext}
+   declareUpdate();
+   var sem = require('/MarkLogic/semantics.xqy');
+   sem.rdfLoad("/Users/mwooldri/semantic-infobox/data/triples/oscartrips.ttl")
    ```
-3. Download the set of Oscar-related RDF triples located here:
-
-   https://gist.github.com/mdubinko/7418688/raw/17a364828d7054ceb5eb630d8ea060307fcb4569/oscartrips.ttl
-
-4. Load the triples into the "oscars" database in Query Console (changing the path as appropriate):
-   ```
-   import module namespace sem="http://marklogic.com/semantics"
-     at "MarkLogic/semantics.xqy";
-   sem:rdf-load("/path/to/oscartrips.ttl")
-   ```
-5. Enable the triple index for the "oscars" database in the Admin UI. I.e., set the "triple index" setting to "true".
+3. Enable the triple index for the "Documents" database in the Admin Interface. I.e., set the "triple index"
+   setting to "true".
 
    In Query Console, you should now be able to run the following SPARQL query and get results:
    ```
@@ -40,21 +32,15 @@ https://developer.marklogic.com/learn/semantic-infopanel
      ?topic ?p ?o .
    }
    ```
-6. In the Admin UI, select Groups > Default > App Servers. Create a WebDAV server to give you filesystem access to the 
-   Oscars application data. Use the following and click OK:
+4. Node.js is required to run this application. In the project root directory, install the project
+   dependencies by running the following:
 
-   - server name: webdav-oscars
-   - root: /
-   - port: 8998
-   - database: oscars-modules
+   `npm install`
 
-   On a Mac, you can access the WebDAV server in the Finder by selecting Go > Connect to Server. Use the following as 
-   the server address:
+5. In the project root directory, start the application by running the following:
 
-   http://localhost:8998
+   `node server`
 
-7. Place this project's directory into the root directory via the WebDAV interface.
+6. Access the application here:
 
-8. Access the application here:
-
-   http://localhost:7998/semantic-infobox
+   http://your-server:8555
