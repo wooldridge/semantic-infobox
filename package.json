@@ -1,0 +1,26 @@
+{
+  "name": "semantic-infobox",
+  "version": "0.0.1",
+  "author": "Mike Wooldridge",
+  "description": "Semantic infobox demo for MarkLogic",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wooldridge/semantic-infobox"
+  },
+  "keywords": [
+    "semantics",
+    "marklogic"
+  ],
+  "homepage": "https://github.com/wooldridge/semantic-infobox",
+  "bugs": {
+    "url": "https://github.com/wooldridge/semantic-infobox/issues"
+  },
+  "dependencies": {
+    "express": "^4.13.4",
+    "request": "^2.69.0"
+  }
+}
