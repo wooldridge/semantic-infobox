@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="2007" span="1" winner="false" award="best-director" xmlns:wiki="http://marklogic.com/wikipedia">
+  <!--
+                            Copyright (c) 2010 MarkLogic Corporation.
+                            Permission is granted to copy, distribute and/or modify this document
+                            under the terms of the GNU Free Documentation License, Version 1.2
+                            or any later version published by the Free Software Foundation;
+                            with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+                            A copy of the license is included in the section entitled "GNU
+                            Free Documentation License"
+                            
+                            Content derived from http://en.wikipedia.org/wiki/The_Diving_Bell_and_the_Butterfly_(film) and http://en.wikipedia.org/wiki/Julian_Schnabel
+                            Modified in May 2009 by Mark Logic Corporation under the terms of the GNU Free Documentation License.
+                        -->
+  <wiki:name link="/wiki/Julian_Schnabel">Julian Schnabel</wiki:name>
+  <wiki:person link="/wiki/Julian_Schnabel" name="Julian Schnabel">
+    <wiki:oscar year="2007" span="1" winner="false" award="best-director" film-link="/wiki/The_Diving_Bell_and_the_Butterfly_(film)" film-title="The Diving Bell and the&#10;            Butterfly"/>
+    <wiki:image link="http://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/JulianSchnabel07TIFF.jpg/220px-JulianSchnabel07TIFF.jpg"/>
+    <wiki:birth>
+      <wiki:date>1951-10-26</wiki:date>
+      <wiki:place>
+	<wiki:primary link="/wiki/Brooklyn,_New_York">Brooklyn, New York</wiki:primary>
+	<wiki:secondary link=""/>
+      <enrich><woeid xmlns="http://where.yahooapis.com/v1/schema.rng">2459115</woeid><placeTypeName code="7" xmlns="http://where.yahooapis.com/v1/schema.rng">Town</placeTypeName><name xmlns="http://where.yahooapis.com/v1/schema.rng">New York</name><country code="US" type="Country" xmlns="http://where.yahooapis.com/v1/schema.rng">United States</country><admin1 code="US-NY" type="State" xmlns="http://where.yahooapis.com/v1/schema.rng">New York</admin1><admin2 xmlns="http://where.yahooapis.com/v1/schema.rng"/><admin3 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality1 type="Town" xmlns="http://where.yahooapis.com/v1/schema.rng">New York</locality1><locality2 xmlns="http://where.yahooapis.com/v1/schema.rng"/><postal xmlns="http://where.yahooapis.com/v1/schema.rng"/><centroid xmlns="http://where.yahooapis.com/v1/schema.rng"><latitude>40.714550</latitude><longitude>-74.007118</longitude></centroid><boundingBox xmlns="http://where.yahooapis.com/v1/schema.rng"><southWest><latitude>40.495682</latitude><longitude>-74.255653</longitude></southWest><northEast><latitude>40.917622</latitude><longitude>-73.689484</longitude></northEast></boundingBox><areaRank xmlns="http://where.yahooapis.com/v1/schema.rng">4</areaRank><popRank xmlns="http://where.yahooapis.com/v1/schema.rng">13</popRank></enrich></wiki:place>
+    </wiki:birth>
+    <wiki:description>
+      <wiki:abstract>
+	<p xmlns="http://www.w3.org/1999/xhtml"><b>Julian Schnabel</b> (born October 26, 1951) is an <a class="external" href="http://en.wikipedia.org/wiki/United_States" title="United States">American</a> <a class="external" href="http://en.wikipedia.org/wiki/Artist" title="Artist">artist</a> and <a class="external" href="http://en.wikipedia.org/wiki/Filmmaker" title="Filmmaker">filmmaker</a>. In the 1980s Schnabel received international media attention for his "plate paintings"â€”large-scale paintings set on broken ceramic plates.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">Schnabel directed <i><a class="external" href="http://en.wikipedia.org/wiki/Before_Night_Falls_(film)" title="Before Night Falls (film)">Before Night Falls</a></i>, which became <a class="external" href="http://en.wikipedia.org/wiki/Javier_Bardem" title="Javier Bardem">Javier Bardem</a>'s breakthrough <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award" title="Academy Award">Academy Award</a> nominated role and the four-time <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award" title="Academy Award">Academy Award</a> nominated <i><a class="external" href="http://en.wikipedia.org/wiki/The_Diving_Bell_and_the_Butterfly_(film)" title="The Diving Bell and the Butterfly (film)">The Diving Bell and the Butterfly</a></i>.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">He has won a <a class="external" href="http://en.wikipedia.org/wiki/Golden_Globe" title="Golden Globe">Golden Globe</a>, as well as <a class="external" href="http://en.wikipedia.org/wiki/BAFTA" title="BAFTA">BAFTA</a>, a <a class="external" href="http://en.wikipedia.org/wiki/C%C3%A9sar_Award" title="CÃ©sar Award">CÃ©sar Award</a>, a <a class="external" href="http://en.wikipedia.org/wiki/Golden_Palm" title="Golden Palm">Golden Palm</a>, two nominations for the <a class="external" href="http://en.wikipedia.org/wiki/Golden_Lion" title="Golden Lion">Golden Lion</a> and an <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award" title="Academy Award">Academy Award</a> nomination.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Early_life_and_education">Early life and education</span></h2>
+	<p xmlns="http://www.w3.org/1999/xhtml">Born in <a class="external" href="http://en.wikipedia.org/wiki/Brooklyn" title="Brooklyn">Brooklyn</a>, <a class="external" href="http://en.wikipedia.org/wiki/New_York_City" title="New York City">New York City</a> to Esta Greenberg and Jack Schnabel. Schnabel moved with his family to <a class="external" href="http://en.wikipedia.org/wiki/Brownsville,_Texas" title="Brownsville, Texas">Brownsville, Texas</a> when still young. It was in Brownsville that he spent most of his formative years and where he took up surfing and resolved to be an artist. He is from a <a class="external" href="http://en.wikipedia.org/wiki/Jewish" title="Jewish">Jewish</a> background and his mother was president of <a class="external" href="http://en.wikipedia.org/wiki/Hadassah" title="Hadassah">Hadassah</a>, the Women's Zionist Organization of America in 1948.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">He received his <a class="external" href="http://en.wikipedia.org/wiki/Bachelor_of_Fine_Arts" title="Bachelor of Fine Arts">B.F.A.</a> at the <a class="external" href="http://en.wikipedia.org/wiki/University_of_Houston" title="University of Houston">University of Houston</a>. After graduating, he sent an application to the independent study program at the <a class="external" href="http://en.wikipedia.org/wiki/Whitney_Museum_of_American_Art" title="Whitney Museum of American Art">Whitney Museum of American Art</a> in New York. His application included slides of his work sandwiched between two pieces of bread. He was admitted into the program. Schnabel worked as a short-order cook and frequented <a class="external" href="http://en.wikipedia.org/wiki/Max%27s_Kansas_City" title="Max's Kansas City">Max's Kansas City</a>, a restaurant-nightclub, while he worked on his art. In 1975, Schnabel had his first solo show at the Contemporary Arts Museum in Houston. Over the next few years he traveled frequently to Europe, where he was enormously impressed by the work of <a class="external" href="http://en.wikipedia.org/wiki/Antoni_Gaudi" title="Antoni Gaudi">Antoni Gaudi</a>, <a class="external" href="http://en.wikipedia.org/wiki/Cy_Twombly" title="Cy Twombly">Cy Twombly</a> and <a class="external" href="http://en.wikipedia.org/wiki/Joseph_Beuys" title="Joseph Beuys">Joseph Beuys</a>.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Art">Art</span></h2>
+	<p xmlns="http://www.w3.org/1999/xhtml">It was with his first solo show, at the <a class="external" href="http://en.wikipedia.org/wiki/Mary_Boone" title="Mary Boone">Mary Boone</a> Gallery in 1979, however, that Schnabel would truly come to be regarded as a major new force in the art world. He participated at the <a class="external" href="http://en.wikipedia.org/wiki/Venice_Biennale" title="Venice Biennale">Venice Biennale</a> in 1980, and by the mid-1980s had become a major figure in the <a class="external" href="http://en.wikipedia.org/wiki/Neo-expressionism" title="Neo-expressionism">Neo-expressionism</a> movement. By the time he exhibited his work in a show jointly organized by Boone and <a class="external" href="http://en.wikipedia.org/wiki/Leo_Castelli" title="Leo Castelli">Leo Castelli</a> in 1981, he had become firmly established. His now famous "plate paintings"â€”large-scale paintings set on broken ceramic platesâ€”received a boisterous and critical reception from the art world. A reputation for making brash pronouncements about his importance to the art world - <i>I'm the closest thing to Picasso that you'll see in this *#@ life</i> - engendered contempt from both colleagues and the viewing public. Schnabel is currently represented by The <a class="external" href="http://en.wikipedia.org/wiki/Pace_Gallery" title="Pace Gallery">Pace Gallery</a> in New York.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">Schnabel's signature works contain an underlying edge of brutality, while remaining suffused with compositional energy. Schnabel claims that he's <i>aiming at an emotional state, a state that people can literally walk into and be engulfed</i>.</p>
+      </wiki:abstract>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Museum_collections">Museum collections</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">His works are in the collections of various museums throughout the world, among them the <a class="external" href="http://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art" title="Metropolitan Museum of Art">Metropolitan Museum of Art</a>; <a class="external" href="http://en.wikipedia.org/wiki/Museum_of_Modern_Art" title="Museum of Modern Art">Museum of Modern Art</a>; The <a class="external" href="http://en.wikipedia.org/wiki/Whitney_Museum_of_American_Art" title="Whitney Museum of American Art">Whitney Museum of American Art</a>; The <a class="external" href="http://en.wikipedia.org/wiki/Museum_of_Contemporary_Art,_Los_Angeles" title="Museum of Contemporary Art, Los Angeles">Museum of Contemporary Art (MOCA), Los Angeles</a>; <a class="external" href="http://en.wikipedia.org/wiki/Los_Angeles_County_Museum_of_Art" title="Los Angeles County Museum of Art">Los Angeles County Museum of Art</a>; <a class="external" href="http://en.wikipedia.org/wiki/Museo_Nacional_Centro_de_Arte_Reina_Sof%C3%ADa" title="Museo Nacional Centro de Arte Reina SofÃ­a">Reina Sofia</a> and the <a class="external" href="http://en.wikipedia.org/wiki/Centre_Georges_Pompidou" title="Centre Georges Pompidou">Centre Georges Pompidou</a> in Paris.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Snchabel will have an upcoming exhibition at the <a class="external" href="http://en.wikipedia.org/wiki/Art_Gallery_of_Ontario" title="Art Gallery of Ontario">Art Gallery of Ontario</a> in <a class="external" href="http://en.wikipedia.org/wiki/Toronto" title="Toronto">Toronto</a> from September 1, 2010 to January 2, 2011, occupying the entirety of the gallery's fifth floor. It will examine "the rich interplay between [Schnabel's paintings and films]".</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Directing">Directing</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">In addition to his work as an artist, Schnabel has written and directed the films <i><a class="external" href="http://en.wikipedia.org/wiki/Basquiat" title="Basquiat">Basquiat</a></i>, a <a class="external" href="http://en.wikipedia.org/wiki/Biopic" title="Biopic">biopic</a> on the painter <a class="external" href="http://en.wikipedia.org/wiki/Jean-Michel_Basquiat" title="Jean-Michel Basquiat">Jean-Michel Basquiat</a> (1996), and <i><a class="external" href="http://en.wikipedia.org/wiki/Before_Night_Falls_(film)" title="Before Night Falls (film)">Before Night Falls</a></i> (2000), an adaptation of <a class="external" href="http://en.wikipedia.org/wiki/Reinaldo_Arenas" title="Reinaldo Arenas">Reinaldo Arenas</a>' autobiographical novel, which he also produced. He directed <i><a class="external" href="http://en.wikipedia.org/wiki/The_Diving_Bell_and_the_Butterfly_(film)" title="The Diving Bell and the Butterfly (film)">The Diving Bell and the Butterfly</a></i> (2007), an adaptation (with a screenplay by Ronald Harwood) of a French memoir by <a class="external" href="http://en.wikipedia.org/wiki/Jean-Dominique_Bauby" title="Jean-Dominique Bauby">Jean-Dominique Bauby</a>. <i><a class="external" href="http://en.wikipedia.org/wiki/The_Diving_Bell_and_the_Butterfly_(film)" title="The Diving Bell and the Butterfly (film)">The Diving Bell and the Butterfly</a></i> earned him the <a class="external" href="http://en.wikipedia.org/wiki/Best_Director_Award_(Cannes_Film_Festival)" title="Best Director Award (Cannes Film Festival)">award for best director</a> at the <a class="external" href="http://en.wikipedia.org/wiki/2007_Cannes_Film_Festival" title="2007 Cannes Film Festival">2007 Cannes Film Festival</a>, the <a class="external" href="http://en.wikipedia.org/wiki/Golden_Globe" title="Golden Globe">Golden Globe</a> for best director, the <a class="external" href="http://en.wikipedia.org/wiki/Independent_Spirit_Award" title="Independent Spirit Award">Independent Spirit Award</a> for best director, and a nomination for the <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Director" title="Academy Award for Best Director">Academy Award for Best Director</a>. Schnabel, who designed <a class="external" href="http://en.wikipedia.org/wiki/Lou_Reed" title="Lou Reed">Lou Reed</a>'s critically acclaimed 'Berlin' Tour in 2007, also released 'Berlin the Movie' (<a href="http://www.berlinthefilm.com/" rel="nofollow">http://www.berlinthefilm.com/</a>). Despite the fact that producing <i><a class="external" href="http://en.wikipedia.org/wiki/The_Diving_Bell_and_the_Butterfly_(film)" title="The Diving Bell and the Butterfly (film)">The Diving Bell and the Butterfly</a></i> might seem like a commission to do someone else's work, Schnabel took on the film. According to Schnabel,</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">His latest film <i><a class="external" href="http://en.wikipedia.org/wiki/Miral" title="Miral">Miral</a></i> was shot in Jerusalem in 2009.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Writing_and_recording">Writing and recording</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">Schnabel published his autobiography <i>CVJ: Nicknames of Maitre D's &amp; Other Excerpts From Life</i> (Random House, New York), in 1987 and released the album <i><a class="external" href="http://en.wikipedia.org/wiki/Every_Silver_Lining_Has_a_Cloud" title="Every Silver Lining Has a Cloud">Every Silver Lining Has a Cloud</a></i> on <a class="external" href="http://en.wikipedia.org/wiki/Island_Records" title="Island Records">Island Records</a> (Catalog #314-524 111-2) in 1995. Recorded in <a class="external" href="http://en.wikipedia.org/wiki/Brooklyn,_New_York" title="Brooklyn, New York">Brooklyn, New York</a> in 1993, the album features guest musicians including <a class="external" href="http://en.wikipedia.org/wiki/Bill_Laswell" title="Bill Laswell">Bill Laswell</a>, <a class="external" href="http://en.wikipedia.org/wiki/Bernie_Worrell" title="Bernie Worrell">Bernie Worrell</a>, <a class="external" href="http://en.wikipedia.org/wiki/Buckethead" title="Buckethead">Buckethead</a>, and <a class="external" href="http://en.wikipedia.org/wiki/Nicky_Skopelitis" title="Nicky Skopelitis">Nicky Skopelitis</a>.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Personal_life">Personal life</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">Schnabel lives in New York, maintaining studios in New York City and in <a class="external" href="http://en.wikipedia.org/wiki/Montauk,_New_York" title="Montauk, New York">Montauk</a> on the eastern end of <a class="external" href="http://en.wikipedia.org/wiki/Long_Island" title="Long Island">Long Island</a> with a house in <a class="external" href="http://en.wikipedia.org/wiki/San_Sebasti%C3%A1n" title="San SebastiÃ¡n">San Sebastian</a> in Spain. He has three children by his first wife, clothing designer Jacqueline Beaurang: two daughters, Lola, a painter and film-maker, Stella, a poet and actress, and a son, <a class="external" href="http://en.wikipedia.org/wiki/Vito_Schnabel" title="Vito Schnabel">Vito</a>, an art dealer.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">He also has twin sons, Cy and Olmo, by his second wife, Spanish Basque actress and model Olatz LÃ³pez Garmendia. Garmendia appeared in <i>Before Night Falls</i>, and is also to be seen in <i>The Diving Bell</i>, as Bauby's physical therapist. Schnabel is fluent in Spanish. He also learned French to direct <i>The Diving Bell and the Butterfly</i>.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Schnabel is currently in a relationship with Rula Jebreal. Jebreal penned the screenplay, and original source novel, for Schnabel's film <i><a class="external" href="http://en.wikipedia.org/wiki/Miral" title="Miral">Miral</a></i>.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">360 West 11th Street is a former West Village horse stable that Schnabel purchased and converted for residential use, adding five luxury condominiums in the style of a Northern Italian palazzo. It is named the <a class="external" href="http://en.wikipedia.org/wiki/Palazzo_Chupi" title="Palazzo Chupi">Palazzo Chupi</a> and it easy to spot because it is painted pink.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="See_also">See also</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Bruno_Bischofberger" title="Bruno Bischofberger">Bruno Bischofberger</a></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/List_of_artists_who_created_paintings_and_drawings_for_use_in_films" title="List of artists who created paintings and drawings for use in films">List of artists who created paintings and drawings for use in films</a></li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Filmography">Filmography</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Basquiat" title="Basquiat">Basquiat</a></i> (1996)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Before_Night_Falls_(film)" title="Before Night Falls (film)">Before Night Falls</a></i> (2000)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Diving_Bell_and_the_Butterfly_(film)" title="The Diving Bell and the Butterfly (film)">The Diving Bell and the Butterfly</a></i> (2007)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Berlin:_Live_At_St._Ann%27s_Warehouse" title="Berlin: Live At St. Ann's Warehouse">Lou Reed's Berlin</a></i> (2008)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Miral" title="Miral">Miral</a></i> (2010)</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="References">References</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.robilantvoena.com/inventory/search?param=artist&amp;value=s" rel="nofollow">Julian Schnabel's art work at Robilant + Voena</a></li>
+	<li><a href="http://www.imdb.com/name/nm0773603/" rel="nofollow">Julian Schnabel</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	<li><a href="http://thepacegallery.com" rel="nofollow">The Pace Gallery</a></li>
+	<li><a href="http://www.artcyclopedia.com/artists/schnabel_julian.html" rel="nofollow">Julian Schnabel at ArtCyclopedia</a></li>
+	<li><a href="http://www.leninimports.com/julian_schnabel.html" rel="nofollow">Bio of Julian Schnabel</a></li>
+	<li><a href="http://www.ubu.com/sound/schnabel.html" rel="nofollow">Julian Schnabel's music discussed at UBUWEB</a></li>
+	<li><a href="http://www.lefigaro.fr/magazine/20070504.MAG000000372_les_p_tits_cracks_contre_le_cancer.html" rel="nofollow">Julian Schnabel on Art Jury for Love &amp; Art Children's Foundation's 'L'Enfant et l'Art' collection, 2007.</a></li>
+	<li><a href="http://www.charlierose.com/view/interview/8913" rel="nofollow">Julian Schnabel</a> on <a class="external" href="http://en.wikipedia.org/wiki/Charlie_Rose_(talk_show)" title="Charlie Rose (talk show)">Charlie Rose</a> in 2008</li>
+      </ul>
+    </wiki:description>
+  </wiki:person>
+  <wiki:film-title link="/wiki/The_Diving_Bell_and_the_Butterfly_(film)">The Diving Bell and the
+            Butterfly</wiki:film-title>
+  <wiki:film link="/wiki/The_Diving_Bell_and_the_Butterfly_(film)" title="The Diving Bell and the&#10;            Butterfly">
+    <wiki:oscar-ref year="2007" span="1" winner="false" award="best-director" person-link="/wiki/Julian_Schnabel" person-name="Julian Schnabel"/>
+    <wiki:producer link="/wiki/Kathleen_Kennedy_(film_producer)">Kathleen Kennedy</wiki:producer>
+    <wiki:producer link="/w/index.php?title=Jon_Kilik&amp;action=edit&amp;redlink=1">Jon Kilik</wiki:producer>
+    <wiki:director link="/wiki/Julian_Schnabel">Julian Schnabel</wiki:director>
+    <wiki:distributor link="/wiki/Path%C3%A9">PathÃ©</wiki:distributor>
+    <wiki:distributor link="/wiki/Miramax_Films">Miramax Films</wiki:distributor>
+    <wiki:starring link="/wiki/Mathieu_Amalric">Mathieu Amalric</wiki:starring>
+    <wiki:starring link="/wiki/Emmanuelle_Seigner">Emmanuelle Seigner</wiki:starring>
+    <wiki:starring link="/wiki/Marie-Jos%C3%A9e_Croze">Marie-JosÃ©e Croze</wiki:starring>
+    <wiki:starring link="/wiki/Anne_Consigny">Anne Consigny</wiki:starring>
+    <wiki:starring link="/wiki/Max_von_Sydow">Max von Sydow</wiki:starring>
+    <wiki:language link="/wiki/French_language">French</wiki:language>
+    <wiki:description>
+      <wiki:abstract>
+	<p xmlns="http://www.w3.org/1999/xhtml"><i><b>The Diving Bell and the Butterfly</b></i> (<a class="external" href="http://en.wikipedia.org/wiki/French_language" title="French language">French</a>: <span lang="fr" xml:lang="fr"><i>Le scaphandre et le papillon</i></span>) is a 2007 biographical <a class="external" href="http://en.wikipedia.org/wiki/Drama_film" title="Drama film">drama film</a> based on the <a class="external" href="http://en.wikipedia.org/wiki/The_Diving_Bell_and_the_Butterfly" title="The Diving Bell and the Butterfly">memoir of the same name</a> by <a class="external" href="http://en.wikipedia.org/wiki/Jean-Dominique_Bauby" title="Jean-Dominique Bauby">Jean-Dominique Bauby</a>. The film depicts Bauby's life after suffering a massive stroke, on 8 December 1995, at the age of 42, which left him with a condition known as <a class="external" href="http://en.wikipedia.org/wiki/Locked-in_syndrome" title="Locked-in syndrome">locked-in syndrome</a>. The condition paralyzed him from the neck down. Although both eyes worked, doctors decided to sew up his right eye as it was not irrigating properly and they were worried that it would become infected. He was left with only his left eye and the only way that he could communicate was by blinking his left eyelid. The film was directed by <a class="external" href="http://en.wikipedia.org/wiki/Julian_Schnabel" title="Julian Schnabel">Julian Schnabel</a>, written by <a class="external" href="http://en.wikipedia.org/wiki/Ronald_Harwood" title="Ronald Harwood">Ronald Harwood</a>, and stars <a class="external" href="http://en.wikipedia.org/wiki/Mathieu_Amalric" title="Mathieu Amalric">Mathieu Amalric</a> as Bauby. It won awards at the <a class="external" href="http://en.wikipedia.org/wiki/2007_Cannes_Film_Festival" title="2007 Cannes Film Festival">Cannes Film Festival</a>, the <a class="external" href="http://en.wikipedia.org/wiki/Golden_Globes" title="Golden Globes">Golden Globes</a> and the <a class="external" href="http://en.wikipedia.org/wiki/BAFTA_Awards" title="BAFTA Awards">BAFTA Awards</a>, as well as four <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award" title="Academy Award">Academy Award</a> nominations.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Plot">Plot</span></h2>
+	<p xmlns="http://www.w3.org/1999/xhtml">The first third of the film is told from the main character's, Bauby, or Jean-Do as his friends call him, first person perspective. The film opens as Bauby wakes from his three-week coma in a hospital in <a class="external" href="http://en.wikipedia.org/wiki/Berck-sur-Mer" title="Berck-sur-Mer">Berck-sur-Mer</a>, <a class="external" href="http://en.wikipedia.org/wiki/France" title="France">France</a>. After an initial rather over-optimistic analysis from one doctor, a neurologist explains that he has <a class="external" href="http://en.wikipedia.org/wiki/Locked-in_syndrome" title="Locked-in syndrome">locked-in syndrome</a>, an extremely rare condition in which the patient is almost completely physically paralyzed, but remains mentally normal. At first, the viewer primarily hears Bauby's "thoughts" (he thinks he is speaking but no-one hears him), which are inaccessible to the other characters, and are seen through his one functioning eye.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">A speech therapist and physical therapist try to help Bauby become as functional as possible. Bauby cannot speak, but he develops a <a class="external" href="http://en.wikipedia.org/wiki/Partner_assisted_scanning" title="Partner assisted scanning">system of communication</a> with his <a class="external" href="http://en.wikipedia.org/wiki/Speech_and_language_therapist" title="Speech and language therapist">speech and language therapist</a> by blinking his left eye as she reads a list of letters to laboriously spell out his messages, letter by letter.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">Gradually, the film's restricted point of view broadens out, and the viewer begins to see Bauby from 'outside', in addition to experiencing incidents from his past, as well as his fantasies, in which he imagines beaches, mountains, the <a class="external" href="http://en.wikipedia.org/wiki/Empress_Eug%C3%A9nie" title="Empress EugÃ©nie">Empress EugÃ©nie</a>, and a large erotic feast with his therapist (with himself whole again). It is revealed that Bauby had been editor of the popular French fashion magazine <i><a class="external" href="http://en.wikipedia.org/wiki/Elle_(magazine)" title="Elle (magazine)">Elle</a></i>, and that he had a deal to write a book (which was originally going to be based on "<a class="external" href="http://en.wikipedia.org/wiki/The_Count_of_Monte_Cristo" title="The Count of Monte Cristo">The Count of Monte Cristo</a>" but from a female perspective). He decides that he will still write a book, using his slow and exhausting communication technique. A woman from a publishing house with which Bauby had the original book contract is brought in to take dictation.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">The new book explains what it is like to now be him, trapped in his body, which he sees as being within a <a class="external" href="http://en.wikipedia.org/wiki/Diving_bell" title="Diving bell">diving bell</a> unable to communicate with those outside. Due to either a misunderstanding or ease of filming, he is not in a bell, but in an old-fashioned deep-sea diving suit with brass helmet. However, he sees his spirit, still alive as a "Butterfly".</p>
+      </wiki:abstract>
+      <p xmlns="http://www.w3.org/1999/xhtml">Bauby eventually completes his memoir and hears the critics' responses. However, he dies of <a class="external" href="http://en.wikipedia.org/wiki/Pneumonia" title="Pneumonia">pneumonia</a> ten days after its publication.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Cast">Cast</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Mathieu_Amalric" title="Mathieu Amalric">Mathieu Amalric</a> as <a class="external" href="http://en.wikipedia.org/wiki/Jean-Dominique_Bauby" title="Jean-Dominique Bauby">Jean-Dominique Bauby</a></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Emmanuelle_Seigner" title="Emmanuelle Seigner">Emmanuelle Seigner</a> as CÃ©line Desmoulins</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Anne_Consigny" title="Anne Consigny">Anne Consigny</a> as Claude Mendibil</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Marie-Jos%C3%A9e_Croze" title="Marie-JosÃ©e Croze">Marie-JosÃ©e Croze</a> as Henriette Durand</li>
+	<li>Olatz LÃ³pez Garmendia as Marie Lopez</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Patrick_Chesnais" title="Patrick Chesnais">Patrick Chesnais</a> as Dr. Lepage</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Max_von_Sydow" title="Max von Sydow">Max von Sydow</a> as Mr. Bauby Sr.</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Isaach_De_Bankol%C3%A9" title="Isaach De BankolÃ©">Isaach De BankolÃ©</a> as Laurent</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Marina_Hands" title="Marina Hands">Marina Hands</a> as JosÃ©phine</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Niels_Arestrup" title="Niels Arestrup">Niels Arestrup</a> as Roussin</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Emma_de_Caunes" title="Emma de Caunes">Emma de Caunes</a> as <a class="external" href="http://en.wikipedia.org/wiki/Empress_Eug%C3%A9nie" title="Empress EugÃ©nie">Empress EugÃ©nie</a></li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Production">Production</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">Although made in France with a French-speaking cast, the film was originally to be produced by the American company <a class="external" href="http://en.wikipedia.org/wiki/Universal_Pictures" title="Universal Pictures">Universal Pictures</a>, and the screenplay was originally in English, with <a class="external" href="http://en.wikipedia.org/wiki/Johnny_Depp" title="Johnny Depp">Johnny Depp</a> slated to star as Bauby. According to the screenwriter, <a class="external" href="http://en.wikipedia.org/wiki/Ronald_Harwood" title="Ronald Harwood">Ronald Harwood</a>, the choice of Julian Schnabel as director was recommended by Depp. However, Universal Pictures subsequently withdrew, and <a class="external" href="http://en.wikipedia.org/wiki/Path%C3%A9" title="PathÃ©">PathÃ©</a> took up the project two years later. Depp dropped the project due to scheduling conflicts with <i><a class="external" href="http://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_At_World%27s_End" title="Pirates of the Caribbean: At World's End">Pirates of the Caribbean: At World's End</a></i>. Schnabel remained as director. The film was eventually produced by <a class="external" href="http://en.wikipedia.org/wiki/Path%C3%A9" title="PathÃ©">PathÃ©</a> and <a class="external" href="http://en.wikipedia.org/wiki/France_3_Cin%C3%A9ma" title="France 3 CinÃ©ma">France 3 CinÃ©ma</a>, in association with Banque Populaire Images 7 and the American <a class="external" href="http://en.wikipedia.org/wiki/The_Kennedy/Marshall_Company" title="The Kennedy/Marshall Company">Kennedy/Marshall Company</a>, and in participation with <a class="external" href="http://en.wikipedia.org/wiki/Canal%2B" title="Canal+">Canal+</a> and CinÃ© CinÃ©mas.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Schnabel said his influence for the film was drawn from personal experience. "My father got sick and he was dying. He was terrified of death and had never been sick in his life. So he was in this bed at my house, he was staying with me, and this script arrived for <i>The Diving Bell and the Butterfly</i>. As my father was dying, I read Ron Harwoodâ€™s script. It gave me a bunch of parameters that would make a film have a totally different structure. As a painter, as someone who doesnâ€™t want to make a painting that looks like the last one I made, I thought it was a really good palette. So personally and artistically these things all came together."</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">According to the <i><a class="external" href="http://en.wikipedia.org/wiki/New_York_Sun" title="New York Sun">New York Sun</a></i>, Schnabel insisted that the movie should be in French, resisting pressure by the production company to make it in English, believing that the rich language of the book would work better in the original French, and even went so far as to learn French to make the film. Harwood tells a slightly different story: PathÃ© wanted "to make the movie in both English and French, which is why bilingual actors were cast"; he continues that "Everyone secretly knew that two versions would be impossibly expensive", and that "Schnabel decided it should be made in French".</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Several aspects of Bauby's personal life were fictionalized in Schnabel's film, most notably his relationships with the mother of his children and his girlfriend.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Critical_reception">Critical reception</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">The film received universal acclaim from critics. As of July 26, 2008, the review aggregator <a class="external" href="http://en.wikipedia.org/wiki/Rotten_Tomatoes" title="Rotten Tomatoes">Rotten Tomatoes</a> reported that 94% of critics gave the film positive reviews, based on 142 reviews. <a class="external" href="http://en.wikipedia.org/wiki/Metacritic" title="Metacritic">Metacritic</a> reported the film had an average score of 92 out of 100, based on 36 reviews.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">The film appeared on many critics' top ten lists of the best films of 2007.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Awards_and_nominations">Awards and nominations</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">The film premiered in competition at the <a class="external" href="http://en.wikipedia.org/wiki/2007_Cannes_Film_Festival" title="2007 Cannes Film Festival">2007 Cannes Film Festival</a> on May 22, where Schnabel won the <a class="external" href="http://en.wikipedia.org/wiki/Prix_de_la_mise_en_sc%C3%A8ne" title="Prix de la mise en scÃ¨ne">Award for Best Director</a>. It was nominated for four <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award" title="Academy Award">Academy Awards</a>, and won a <a class="external" href="http://en.wikipedia.org/wiki/BAFTA" title="BAFTA">BAFTA</a> award. Schnabel also won Best Director at the <a class="external" href="http://en.wikipedia.org/wiki/65th_Golden_Globe_Awards" title="65th Golden Globe Awards">65th Golden Globe Awards</a>, where the film won Best Foreign Language Film. Because the film was produced by an American company, it was ineligible for the <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Foreign_Language_Film" title="Academy Award for Best Foreign Language Film">Academy Award for Best Foreign Language Film</a>.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml"><b>Wins</b></p>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><b><a class="external" href="http://en.wikipedia.org/wiki/BAFTA_Film_Awards_2007" title="BAFTA Film Awards 2007">61st BAFTA Awards</a></b>
+<ul>
+	    <li>BAFTA Award for Best Adapted Screenplay</li>
+	  </ul>
+</li>
+	<li><b><a class="external" href="http://en.wikipedia.org/wiki/65th_Golden_Globe_Awards" title="65th Golden Globe Awards">65th Golden Globe Awards</a></b>
+<ul>
+	    <li>Best Foreign Language Film</li>
+	    <li>Best Director - Motion Picture (<a class="external" href="http://en.wikipedia.org/wiki/Julian_Schnabel" title="Julian Schnabel">Julian Schnabel</a>)</li>
+	  </ul>
+</li>
+      </ul>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><b><a class="external" href="http://en.wikipedia.org/wiki/2007_Cannes_Film_Festival" title="2007 Cannes Film Festival">60th Cannes Film Festival</a></b>
+<ul>
+	    <li><a class="external" href="http://en.wikipedia.org/wiki/Best_Director_Award_(Cannes_Film_Festival)" title="Best Director Award (Cannes Film Festival)">Best Director</a></li>
+	    <li>Technical Grand Prize</li>
+	  </ul>
+</li>
+      </ul>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><b><a class="external" href="http://en.wikipedia.org/wiki/National_Board_of_Review" title="National Board of Review">National Board of Review</a></b>
+<ul>
+	    <li>Best Foreign Film</li>
+	  </ul>
+</li>
+      </ul>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><b><a class="external" href="http://en.wikipedia.org/wiki/Boston_Society_of_Film_Critics" title="Boston Society of Film Critics">Boston Society of Film Critics</a></b>
+<ul>
+	    <li>Best Director</li>
+	    <li>Best Cinematography</li>
+	    <li>Best Foreign Language Film</li>
+	  </ul>
+</li>
+      </ul>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><b><a class="external" href="http://en.wikipedia.org/wiki/New_York_Film_Critics_Online" title="New York Film Critics Online">New York Film Critics Online</a></b>
+<ul>
+	    <li>Best Picture (tie with <i><a class="external" href="http://en.wikipedia.org/wiki/There_Will_Be_Blood" title="There Will Be Blood">There Will Be Blood</a></i>)</li>
+	  </ul>
+</li>
+      </ul>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><b><a class="external" href="http://en.wikipedia.org/wiki/Los_Angeles_Film_Critics_Association" title="Los Angeles Film Critics Association">Los Angeles Film Critics Association</a></b>
+<ul>
+	    <li>Best Picture (runner-up)</li>
+	    <li>Best Director (runner-up)</li>
+	    <li>Best Foreign Language Film (runner-up)</li>
+	    <li>Best Cinematography</li>
+	  </ul>
+</li>
+      </ul>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><b><a class="external" href="http://en.wikipedia.org/wiki/Washington_D.C._Area_Film_Critics_Association" title="Washington D.C. Area Film Critics Association">Washington D.C. Area Film Critics Association</a></b>
+<ul>
+	    <li>Best Foreign Language Film</li>
+	  </ul>
+</li>
+      </ul>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><b><a class="external" href="http://en.wikipedia.org/wiki/San_Francisco_Film_Critics_Circle" title="San Francisco Film Critics Circle">San Francisco Film Critics Circle</a></b>
+<ul>
+	    <li>Best Foreign Language Film</li>
+	  </ul>
+</li>
+      </ul>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><b><a class="external" href="http://en.wikipedia.org/wiki/American_Film_Institute" title="American Film Institute">American Film Institute</a> Awards</b>
+<ul>
+	    <li>Top Ten AFI Movies of the Year</li>
+	  </ul>
+</li>
+      </ul>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><b><a class="external" href="http://en.wikipedia.org/wiki/Satellite_Awards" title="Satellite Awards">Satellite Awards</a></b>
+<ul>
+	    <li>Best Cinematography</li>
+	  </ul>
+</li>
+      </ul>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><b>The EDA Awards</b>
+<ul>
+	    <li>Best Editing</li>
+	    <li>Best Foreign Film</li>
+	    <li>Outstanding Achievement By A Woman In 2007</li>
+	  </ul>
+</li>
+      </ul>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><b><a class="external" href="http://en.wikipedia.org/wiki/Toronto_Film_Critics_Association" title="Toronto Film Critics Association">Toronto Film Critics Association</a></b>
+<ul>
+	    <li>Best Foreign Film (runner-up)</li>
+	  </ul>
+</li>
+      </ul>
+      <p xmlns="http://www.w3.org/1999/xhtml"><b>Nominations</b></p>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><b><a class="external" href="http://en.wikipedia.org/wiki/80th_Academy_Awards" title="80th Academy Awards">80th Academy Awards</a></b>
+<ul>
+	    <li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Director" title="Academy Award for Best Director">Best Director</a> (<a class="external" href="http://en.wikipedia.org/wiki/Julian_Schnabel" title="Julian Schnabel">Julian Schnabel</a>)</li>
+	    <li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Adapted_Screenplay" title="Academy Award for Best Adapted Screenplay">Best Adapted Screenplay</a> (<a class="external" href="http://en.wikipedia.org/wiki/Ronald_Harwood" title="Ronald Harwood">Ronald Harwood</a>)</li>
+	    <li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Cinematography" title="Academy Award for Best Cinematography">Best Cinematography</a> (<a class="external" href="http://en.wikipedia.org/wiki/Janusz_Kami%C5%84ski" title="Janusz KamiÅ„ski">Janusz KamiÅ„ski</a>)</li>
+	    <li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Film_Editing" title="Academy Award for Film Editing">Best Film Editing</a> (<a class="external" href="http://en.wikipedia.org/wiki/Juliette_Welfling" title="Juliette Welfling">Juliette Welfling</a>)</li>
+	  </ul>
+</li>
+      </ul>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><b><a class="external" href="http://en.wikipedia.org/wiki/2007_Cannes_Film_Festival" title="2007 Cannes Film Festival">60th Cannes Film Festival</a></b>
+<ul>
+	    <li>Golden Palm</li>
+	  </ul>
+</li>
+      </ul>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><b><a class="external" href="http://en.wikipedia.org/wiki/65th_Golden_Globe_Awards" title="65th Golden Globe Awards">65th Golden Globe Awards</a></b>
+<ul>
+	    <li>Best Screenplay - Motion Picture (<a class="external" href="http://en.wikipedia.org/wiki/Ronald_Harwood" title="Ronald Harwood">Ronald Harwood</a>)</li>
+	  </ul>
+</li>
+      </ul>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><b><a class="external" href="http://en.wikipedia.org/wiki/Directors_Guild_of_America" title="Directors Guild of America">Directors Guild of America</a></b>
+<ul>
+	    <li>Outstanding Directorial Achievement in Motion Pictures</li>
+	  </ul>
+</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="References">References</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><span class="official website"><a href="http://video.movies.go.com/thedivingbellandthebutterfly/main.html" rel="nofollow">Official website</a></span></li>
+	<li><span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(French)</span> <span class="official website"><a href="http://www.lescaphandre-lefilm.com/" rel="nofollow">Official website</a></span></li>
+	<li><a href="http://www.imdb.com/title/tt0401383/" rel="nofollow"><i>The Diving Bell and the Butterfly</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	<li><a href="http://www.allmovie.com/work/395604" rel="nofollow"><i>The Diving Bell and the Butterfly</i></a> at <a class="external" href="http://en.wikipedia.org/wiki/Allmovie" title="Allmovie">Allmovie</a></li>
+	<li><a href="http://www.boxofficemojo.com/movies/?id=divingbellandthebutterfly.htm" rel="nofollow"><i>The Diving Bell and the Butterfly</i></a> at <a class="external" href="http://en.wikipedia.org/wiki/Box_Office_Mojo" title="Box Office Mojo">Box Office Mojo</a></li>
+	<li><a href="http://www.rottentomatoes.com/m/diving_bell_and_the_butterfly/" rel="nofollow"><i>The Diving Bell and the Butterfly</i></a> at <a class="external" href="http://en.wikipedia.org/wiki/Rotten_Tomatoes" title="Rotten Tomatoes">Rotten Tomatoes</a></li>
+	<li><a href="http://www.metacritic.com/film/titles/divingbellandthebutterfly" rel="nofollow"><i>The Diving Bell and the Butterfly</i></a> at <a class="external" href="http://en.wikipedia.org/wiki/Metacritic" title="Metacritic">Metacritic</a></li>
+	<li><a href="http://ioncinema.com/news.php?nid=2312" rel="nofollow">IONCINEMA.com interviews Cast &amp; Crew of <i>The Diving Bell and the Butterfly</i></a></li>
+	<li><a href="http://www.nybooks.com/articles/21050" rel="nofollow">"The Nerve and The Will"</a> review at the <a class="external" href="http://en.wikipedia.org/wiki/The_New_York_Review_of_Books" title="The New York Review of Books">New York Review of Books</a></li>
+	<li><a href="http://www.salon.com/ent/feature/2008/02/23/diving_bell/index.html" rel="nofollow">"The truth about 'The Diving Bell and the Butterfly'"</a> article at <a class="external" href="http://en.wikipedia.org/wiki/Salon.com" title="Salon.com">Salon.com</a></li>
+      </ul>
+    </wiki:description>
+  </wiki:film>
+</wiki:nominee>

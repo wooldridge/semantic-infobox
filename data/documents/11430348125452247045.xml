@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="1967" span="1" winner="false" award="lead-actress" xmlns:wiki="http://marklogic.com/wikipedia">
+  <!--
+                            Copyright (c) 2010 MarkLogic Corporation.
+                            Permission is granted to copy, distribute and/or modify this document
+                            under the terms of the GNU Free Documentation License, Version 1.2
+                            or any later version published by the Free Software Foundation;
+                            with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+                            A copy of the license is included in the section entitled "GNU
+                            Free Documentation License"
+                            
+                            Content derived from http://en.wikipedia.org/wiki/The_Whisperers and http://en.wikipedia.org/wiki/Edith_Evans
+                            Modified in May 2009 by Mark Logic Corporation under the terms of the GNU Free Documentation License.
+                        -->
+  <wiki:name link="/wiki/Edith_Evans">Edith Evans</wiki:name>
+  <wiki:person link="/wiki/Edith_Evans" name="Edith Evans">
+    <wiki:oscar year="1967" span="1" winner="false" award="lead-actress" film-link="/wiki/The_Whisperers" film-title="The Whisperers"/>
+    <wiki:oscar year="1963" span="1" winner="false" award="supporting-actress" film-link="/wiki/Tom_Jones_(film)" film-title="Tom Jones"/>
+    <wiki:oscar year="1964" span="1" winner="false" award="supporting-actress" film-link="/wiki/The_Chalk_Garden" film-title="The Chalk Garden"/>
+    <wiki:image link="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Dame_Edith_Evans_Allan_Warren.jpg/220px-Dame_Edith_Evans_Allan_Warren.jpg"/>
+    <wiki:birth>
+      <wiki:date>1888-02-08</wiki:date>
+      <wiki:place>
+	<wiki:primary link="/wiki/London,_England">London, England</wiki:primary>
+	<wiki:secondary link=""/>
+      <enrich><woeid xmlns="http://where.yahooapis.com/v1/schema.rng">23416974</woeid><placeTypeName code="9" xmlns="http://where.yahooapis.com/v1/schema.rng">County</placeTypeName><name xmlns="http://where.yahooapis.com/v1/schema.rng">Greater London</name><country code="GB" type="Country" xmlns="http://where.yahooapis.com/v1/schema.rng">United Kingdom</country><admin1 code="GB-ENG" type="Country" xmlns="http://where.yahooapis.com/v1/schema.rng">England</admin1><admin2 code="GB-LND" type="County" xmlns="http://where.yahooapis.com/v1/schema.rng">Greater London</admin2><admin3 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality1 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality2 xmlns="http://where.yahooapis.com/v1/schema.rng"/><postal xmlns="http://where.yahooapis.com/v1/schema.rng"/><centroid xmlns="http://where.yahooapis.com/v1/schema.rng"><latitude>51.489578</latitude><longitude>-0.088160</longitude></centroid><boundingBox xmlns="http://where.yahooapis.com/v1/schema.rng"><southWest><latitude>51.286839</latitude><longitude>-0.510350</longitude></southWest><northEast><latitude>51.692322</latitude><longitude>0.334030</longitude></northEast></boundingBox><areaRank xmlns="http://where.yahooapis.com/v1/schema.rng">7</areaRank><popRank xmlns="http://where.yahooapis.com/v1/schema.rng">0</popRank></enrich></wiki:place>
+    </wiki:birth>
+    <wiki:death>
+      <wiki:date>14 October 1976</wiki:date>
+      <wiki:place>
+	<wiki:primary link="/wiki/Kent,_England">Kent, England</wiki:primary>
+	<wiki:secondary link=""/>
+      </wiki:place>
+    </wiki:death>
+    <wiki:description>
+      <wiki:abstract>
+	<p xmlns="http://www.w3.org/1999/xhtml"><b>Dame Edith Mary Evans</b>, <a class="external" href="http://en.wikipedia.org/wiki/Dame_Commander_of_the_Order_of_the_British_Empire" title="Dame Commander of the Order of the British Empire">DBE</a> (8 February 1888Â â€“ 14 October 1976) was a British actress. She was known for her work on the British stage. She also appeared in a number of films, for which she received three <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award" title="Academy Award">Academy Award</a> nominations, plus a <a class="external" href="http://en.wikipedia.org/wiki/BAFTA" title="BAFTA">BAFTA</a> and a <a class="external" href="http://en.wikipedia.org/wiki/Golden_Globe" title="Golden Globe">Golden Globe</a> award.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">Evans was particularly effective at portraying haughty aristocratic ladies, as in two of her most famous roles: Lady Bracknell in <i><a class="external" href="http://en.wikipedia.org/wiki/The_Importance_of_Being_Earnest" title="The Importance of Being Earnest">The Importance of Being Earnest</a></i> (both on stage and in the 1952 film), and Miss Western in the 1963 film of <i><a class="external" href="http://en.wikipedia.org/wiki/Tom_Jones_(film)" title="Tom Jones (film)">Tom Jones</a>.</i> By contrast, she played a poverty-stricken old woman in one of her most acclaimed film roles, in <i><a class="external" href="http://en.wikipedia.org/wiki/The_Whisperers" title="The Whisperers">The Whisperers</a></i> (1967).</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Theatre">Theatre</span></h2>
+	<p xmlns="http://www.w3.org/1999/xhtml">Edith Evans was born in <a class="external" href="http://en.wikipedia.org/wiki/London" title="London">London</a>, the daughter of Edward Evans, a civil servant, and his wife, Caroline Ellen Foster. She was educated at St Michael's Church of England School, <a class="external" href="http://en.wikipedia.org/wiki/Pimlico" title="Pimlico">Pimlico</a>, before being apprenticed at the age of 15 in 1903 as a <a class="external" href="http://en.wikipedia.org/wiki/Hatmaking" title="Hatmaking">milliner</a>.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">Her first stage appearance was with Miss Massey's Shakespeare Players in the role of Viola in <i><a class="external" href="http://en.wikipedia.org/wiki/Twelfth_Night" title="Twelfth Night">Twelfth Night</a></i> in October 1910. In 1912 she was discovered by the noted producer <a class="external" href="http://en.wikipedia.org/wiki/William_Poel" title="William Poel">William Poel</a> and made her first professional appearance for Poel in August of that year, playing the role of Gautami in a sixth-century Hindu classic, <i><a class="external" href="http://en.wikipedia.org/wiki/Sakuntala" title="Sakuntala">Sakuntala</a></i>. She received much attention with her performance as Cressida in <i><a class="external" href="http://en.wikipedia.org/wiki/Troilus_and_Cressida" title="Troilus and Cressida">Troilus and Cressida</a></i> in London and subsequently at <a class="external" href="http://en.wikipedia.org/wiki/Stratford_upon_Avon" title="Stratford upon Avon">Stratford upon Avon</a>.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">Her career spanned sixty years during which she played over 150 different roles, in works by <a class="external" href="http://en.wikipedia.org/wiki/Shakespeare" title="Shakespeare">Shakespeare</a>, <a class="external" href="http://en.wikipedia.org/wiki/William_Congreve_(playwright)" title="William Congreve (playwright)">Congreve</a>, <a class="external" href="http://en.wikipedia.org/wiki/Ibsen" title="Ibsen">Ibsen</a>, <a class="external" href="http://en.wikipedia.org/wiki/Wycherley" title="Wycherley">Wycherley</a>, <a class="external" href="http://en.wikipedia.org/wiki/Oscar_Wilde" title="Oscar Wilde">Wilde</a> and dramatists of her era including <a class="external" href="http://en.wikipedia.org/wiki/George_Bernard_Shaw" title="George Bernard Shaw">George Bernard Shaw</a>, <a class="external" href="http://en.wikipedia.org/wiki/Enid_Bagnold" title="Enid Bagnold">Enid Bagnold</a>, <a class="external" href="http://en.wikipedia.org/wiki/Christopher_Fry" title="Christopher Fry">Christopher Fry</a>, and <a class="external" href="http://en.wikipedia.org/wiki/Noel_Coward" title="Noel Coward">Noel Coward</a>. She created six of the characters of George Bernard Shaw: the Serpent, the Oracle, the She-Ancient, and the Ghost of the Serpent in <i><a class="external" href="http://en.wikipedia.org/wiki/Back_to_Methuselah" title="Back to Methuselah">Back to Methuselah</a></i> (1923); Orinthia in <i><a class="external" href="http://en.wikipedia.org/wiki/The_Apple_Cart" title="The Apple Cart">The Apple Cart</a></i> (1929); and Epifania in <i><a class="external" href="http://en.wikipedia.org/wiki/The_Millionairess" title="The Millionairess">The Millionairess</a></i> (1940). Other performances which many considered definitive were as Millamant in <i><a class="external" href="http://en.wikipedia.org/wiki/The_Way_of_the_World" title="The Way of the World">The Way of the World</a></i> (1924), Rosalind in <i><a class="external" href="http://en.wikipedia.org/wiki/As_You_Like_It" title="As You Like It">As You Like It</a></i> (1926 and 1936), the Nurse in <i><a class="external" href="http://en.wikipedia.org/wiki/Romeo_and_Juliet" title="Romeo and Juliet">Romeo and Juliet</a></i> (1932, 1934, 1935, and 1961), and, most notably, as Lady Bracknell in <i><a class="external" href="http://en.wikipedia.org/wiki/The_Importance_of_Being_Earnest" title="The Importance of Being Earnest">The Importance of Being Earnest</a></i> (1939), a role with which she became identified in the public's mind (in particular for her drippingly sarcastic delivery of the line: "A handbag?"). In 1964 she appeared as Judith Bliss in a revival of <i><a class="external" href="http://en.wikipedia.org/wiki/Hay_Fever" title="Hay Fever">Hay Fever</a></i> by NoÃ«l Coward, directed by the playwright himself, for the <a class="external" href="http://en.wikipedia.org/wiki/Royal_National_Theatre" title="Royal National Theatre">National Theatre Company</a> at the Old Vic.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Film">Film</span></h2>
+	<p xmlns="http://www.w3.org/1999/xhtml">Edith Evans had begun her film career in 1915, but was noted mostly for her stage work until she appeared in the 1949 films <i><a class="external" href="http://en.wikipedia.org/wiki/The_Queen_of_Spades_(1949_film)" title="The Queen of Spades (1949 film)">The Queen of Spades</a></i> and <i><a class="external" href="http://en.wikipedia.org/wiki/The_Last_Days_of_Dolwyn" title="The Last Days of Dolwyn">The Last Days of Dolwyn</a></i>. She was the Ghost of Christmas Past in the 1970 musical version of <i><a class="external" href="http://en.wikipedia.org/wiki/Scrooge_(1970_film)" title="Scrooge (1970 film)">Scrooge</a></i> starring <a class="external" href="http://en.wikipedia.org/wiki/Albert_Finney" title="Albert Finney">Albert Finney</a>.</p>
+      </wiki:abstract>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Portraits">Portraits</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml"><a class="external" href="http://en.wikipedia.org/wiki/Walter_Sickert" title="Walter Sickert">Walter Sickert</a> painted Edith Evans as Katharina, the lead character in <a class="external" href="http://en.wikipedia.org/wiki/Shakespeare" title="Shakespeare">Shakespeare</a>'s romantic comedy, <i><a class="external" href="http://en.wikipedia.org/wiki/The_Taming_of_the_Shrew" title="The Taming of the Shrew">The Taming of the Shrew</a></i>. A sculpted head of her was for many years on display at the <a class="external" href="http://en.wikipedia.org/wiki/Royal_Court_Theatre" title="Royal Court Theatre">Royal Court Theatre</a>, London.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Edith Evans was created a <a class="external" href="http://en.wikipedia.org/wiki/Order_of_the_British_Empire" title="Order of the British Empire">Dame Commander of the Order of the British Empire</a> (DBE) in 1946. She also received four honorary degrees from the universities of <a class="external" href="http://en.wikipedia.org/wiki/University_of_London" title="University of London">London</a> (1950), <a class="external" href="http://en.wikipedia.org/wiki/University_of_Cambridge" title="University of Cambridge">Cambridge</a> (1951), <a class="external" href="http://en.wikipedia.org/wiki/University_of_Oxford" title="University of Oxford">Oxford</a> (1954) and <a class="external" href="http://en.wikipedia.org/wiki/University_of_Hull" title="University of Hull">Hull</a> (1968).</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Her ashes rest at <a class="external" href="http://en.wikipedia.org/wiki/St_Paul%27s,_Covent_Garden" title="St Paul's, Covent Garden">St Paul's, Covent Garden</a>, <a class="external" href="http://en.wikipedia.org/wiki/London" title="London">London</a>. There is a <a class="external" href="http://en.wikipedia.org/wiki/Blue_plaque" title="Blue plaque">blue plaque</a> outside her house at 109 <a class="external" href="http://en.wikipedia.org/wiki/Ebury_Street" title="Ebury Street">Ebury Street</a>, London.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Filmography">Filmography</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Notes">Notes</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>1977 - <i>Ned's Girl</i> by <a class="external" href="http://en.wikipedia.org/wiki/Bryan_Forbes" title="Bryan Forbes">Bryan Forbes</a>, Elm Tree Books</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="References">References</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=6163" rel="nofollow">Edith Evans</a> at <a class="external" href="http://en.wikipedia.org/wiki/Find_a_Grave" title="Find a Grave">Find a Grave</a></li>
+	<li><a href="http://www.imdb.com/name/nm0262725/" rel="nofollow">Edith Evans</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	<li><a href="http://www.ibdb.com/person.asp?ID=39781" rel="nofollow">Edith Evans</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Broadway_Database" title="Internet Broadway Database">Internet Broadway Database</a></li>
+	<li><a href="http://www.screenonline.org.uk/people/id/452291/" rel="nofollow">Edith Evans biography and credits</a> at the <a class="external" href="http://en.wikipedia.org/wiki/British_Film_Institute" title="British Film Institute">British Film Institute</a>'s <a class="external" href="http://en.wikipedia.org/wiki/Screenonline" title="Screenonline">Screenonline</a></li>
+	<li><a href="http://www.bris.ac.uk/theatrecollection/search/people_sub_plays_all?forename=Edith&amp;surname=EVANS&amp;job=Actor&amp;pid=223&amp;image_view=Yesamp;x=19amp;y=17" rel="nofollow">Performances by Edith Evans listed in The Theatre Collection, University of Bristol</a></li>
+      </ul>
+    </wiki:description>
+  </wiki:person>
+  <wiki:film-title link="/wiki/The_Whisperers">The Whisperers</wiki:film-title>
+  <wiki:film link="/wiki/The_Whisperers" title="The Whisperers">
+    <wiki:oscar-ref year="1967" span="1" winner="false" award="lead-actress" person-link="/wiki/Edith_Evans" person-name="Edith Evans"/>
+    <wiki:producer link="/wiki/Michael_Laughlin">Michael Laughlin</wiki:producer>
+    <wiki:producer link="/w/index.php?title=Jack_Rix&amp;action=edit&amp;redlink=1">Jack Rix</wiki:producer>
+    <wiki:producer link="/w/index.php?title=Ronald_Shedlo&amp;action=edit&amp;redlink=1">Ronald Shedlo</wiki:producer>
+    <wiki:director link="/wiki/Bryan_Forbes">Bryan Forbes</wiki:director>
+    <wiki:writer link="/w/index.php?title=Robert_Nicolson&amp;action=edit&amp;redlink=1">Robert Nicolson</wiki:writer>
+    <wiki:writer link="/wiki/Bryan_Forbes">Bryan Forbes</wiki:writer>
+    <wiki:starring link="/wiki/Edith_Evans">Edith Evans</wiki:starring>
+    <wiki:description>
+      <p xmlns="http://www.w3.org/1999/xhtml"><i><b>The Whisperers</b></i> is a <a class="external" href="http://en.wikipedia.org/wiki/1967_in_film" title="1967 in film">1967</a> <a class="external" href="http://en.wikipedia.org/wiki/Cinema_of_the_United_Kingdom" title="Cinema of the United Kingdom">British</a> <a class="external" href="http://en.wikipedia.org/wiki/Drama_film" title="Drama film">drama film</a> directed by <a class="external" href="http://en.wikipedia.org/wiki/Bryan_Forbes" title="Bryan Forbes">Bryan Forbes</a>. It is based on the 1961 novel by <a class="external" href="http://en.wikipedia.org/w/index.php?title=Robert_Nicolson&amp;action=edit&amp;redlink=1" title="Robert Nicolson (page does not exist)">Robert Nicolson</a>.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Plot">Plot</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml"><i>The Whisperers</i> tells the story of an impoverished old woman living alone in a seedy apartment who enjoys a rich fantasy life as an heiress. When she discovers stolen money hidden by her son, she believes her fantasy has come true.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Cast">Cast</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Edith_Evans" title="Edith Evans">Edith Evans</a> - Mrs. Ross</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Nanette_Newman" title="Nanette Newman">Nanette Newman</a> - The Girl Upstairs</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Harry_Baird" title="Harry Baird">Harry Baird</a> - The Man Upstairs</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Jack_Austin" title="Jack Austin">Jack Austin</a> - Police Sergeant</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Gerald_Sim" title="Gerald Sim">Gerald Sim</a> - Mr. Conrad</li>
+	<li><a class="external" href="http://en.wikipedia.org/w/index.php?title=Lionel_Gamlin&amp;action=edit&amp;redlink=1" title="Lionel Gamlin (page does not exist)">Lionel Gamlin</a> - Mr. Conrad's Colleague</li>
+	<li><a class="external" href="http://en.wikipedia.org/w/index.php?title=Glen_Farmer&amp;action=edit&amp;redlink=1" title="Glen Farmer (page does not exist)">Glen Farmer</a> - 1st Redeemer</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Oliver_MacGreevy" title="Oliver MacGreevy">Oliver MacGreevy</a> - 2nd Redeemer</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Ronald_Fraser" title="Ronald Fraser">Ronald Fraser</a> - Charlie Ross</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Kenneth_Griffith" title="Kenneth Griffith">Kenneth Griffith</a> - Mr. Weaver</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Avis_Bunnage" title="Avis Bunnage">Avis Bunnage</a> - Mrs. Noonan</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/John_Orchard" title="John Orchard">John Orchard</a> - Grogan</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Peter_Thompson" title="Peter Thompson">Peter Thompson</a> - Publican</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Sarah_Forbes" title="Sarah Forbes">Sarah Forbes</a> - Mrs. Ross When Young</li>
+	<li><a class="external" href="http://en.wikipedia.org/w/index.php?title=Penny_Spencer&amp;action=edit&amp;redlink=1" title="Penny Spencer (page does not exist)">Penny Spencer</a> - Mavis Noonan</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Awards">Awards</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">Edith Evans was nominated for the <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actress" title="Academy Award for Best Actress">Academy Award for Best Actress</a>, and won the <a class="external" href="http://en.wikipedia.org/wiki/BAFTA_Award" title="BAFTA Award">BAFTA Award</a>, the <a class="external" href="http://en.wikipedia.org/wiki/Silver_Bear_for_Best_Actress" title="Silver Bear for Best Actress">Silver Bear for Best Actress</a> award at the <a class="external" href="http://en.wikipedia.org/wiki/17th_Berlin_International_Film_Festival" title="17th Berlin International Film Festival">17th Berlin International Film Festival</a>, the <a class="external" href="http://en.wikipedia.org/wiki/National_Board_of_Review" title="National Board of Review">National Board of Review</a> award, and the <a class="external" href="http://en.wikipedia.org/wiki/New_York_Film_Critics_Circle" title="New York Film Critics Circle">New York Film Critics Circle</a> award, all for Best Actress.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="References">References</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/title/tt0061180" rel="nofollow"><i>The Whisperers</i> (1967) at IMDB</a></li>
+      </ul>
+    </wiki:description>
+  </wiki:film>
+</wiki:nominee>

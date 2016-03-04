@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="1947" span="1" winner="false" award="lead-actor" xmlns:wiki="http://marklogic.com/wikipedia">
+	<!-- 
+		Copyright 2009-2012 MarkLogic Corporation.
+		Permission is granted to copy, distribute and/or modify this document
+		under the terms of the GNU Free Documentation License, Version 1.2
+		or any later version published by the Free Software Foundation;
+		with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+		A copy of the license is included in the section entitled "GNU
+		Free Documentation License
+	-->
+	<wiki:name link="/wiki/Gregory_Peck">Gregory Peck</wiki:name>
+	<wiki:person link="/wiki/Gregory_Peck" name="Gregory Peck">
+		<wiki:oscar year="1945" span="1" winner="false" award="lead-actor" film-link="/wiki/The_Keys_of_the_Kingdom" film-title="The Keys of the Kingdom"/>
+		<wiki:oscar year="1946" span="1" winner="false" award="lead-actor" film-link="/wiki/The_Yearling_(film)" film-title="The Yearling"/>
+		<wiki:oscar year="1947" span="1" winner="false" award="lead-actor" film-link="/wiki/Gentleman%27s_Agreement" film-title="Gentleman's Agreement"/>
+		<wiki:oscar year="1949" span="1" winner="false" award="lead-actor" film-link="/wiki/Twelve_O%27Clock_High" film-title="Twelve O'Clock High"/>
+		<wiki:oscar year="1962" span="1" winner="true" award="lead-actor" film-link="/wiki/To_Kill_a_Mockingbird_(film)" film-title="To Kill a Mockingbird"/>
+		<wiki:image link="http://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Gregory_Peck_in_Roman_Holiday_trailer_cropped.jpg/200px-Gregory_Peck_in_Roman_Holiday_trailer_cropped.jpg"/>
+		<wiki:birth>
+			<wiki:date>1916-04-05</wiki:date>
+			<wiki:place>
+				<wiki:primary link="/wiki/La_Jolla,_California">La Jolla, California</wiki:primary>
+				<wiki:secondary link=""/>
+			<enrich><woeid xmlns="http://where.yahooapis.com/v1/schema.rng">55864655</woeid><placeTypeName code="22" xmlns="http://where.yahooapis.com/v1/schema.rng">Suburb</placeTypeName><name xmlns="http://where.yahooapis.com/v1/schema.rng">Northern San Diego</name><country code="US" type="Country" xmlns="http://where.yahooapis.com/v1/schema.rng">United States</country><admin1 code="US-CA" type="State" xmlns="http://where.yahooapis.com/v1/schema.rng">California</admin1><admin2 code="" type="County" xmlns="http://where.yahooapis.com/v1/schema.rng">San Diego</admin2><admin3 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality1 type="Town" xmlns="http://where.yahooapis.com/v1/schema.rng">San Diego</locality1><locality2 type="Suburb" xmlns="http://where.yahooapis.com/v1/schema.rng">Northern San Diego</locality2><postal xmlns="http://where.yahooapis.com/v1/schema.rng"/><centroid xmlns="http://where.yahooapis.com/v1/schema.rng"><latitude>32.871262</latitude><longitude>-117.217667</longitude></centroid><boundingBox xmlns="http://where.yahooapis.com/v1/schema.rng"><southWest><latitude>32.756519</latitude><longitude>-117.282516</longitude></southWest><northEast><latitude>32.985989</latitude><longitude>-117.152832</longitude></northEast></boundingBox><areaRank xmlns="http://where.yahooapis.com/v1/schema.rng">5</areaRank><popRank xmlns="http://where.yahooapis.com/v1/schema.rng">0</popRank></enrich></wiki:place>
+		</wiki:birth>
+		<wiki:death>
+			<wiki:date>June 12, 2003 (aged 87)</wiki:date>
+			<wiki:place>
+				<wiki:primary link="/wiki/Los_Angeles,_California">Los Angeles,
+					California</wiki:primary>
+				<wiki:secondary link=""/>
+			</wiki:place>
+		</wiki:death>
+		<wiki:description>
+			<wiki:abstract>
+				<p xmlns="http://www.w3.org/1999/xhtml"><b>Gregory Peck</b> (5 April 1916 – 12 June
+					2003) was an American <a class="external" href="http://en.wikipedia.org/wiki/Film" title="Film">film</a>
+					<a class="external" href="http://en.wikipedia.org/wiki/Actor" title="Actor">actor</a>. He was one of <a class="external" href="http://en.wikipedia.org/wiki/20th_Century_Fox" title="20th Century Fox">20th Century Fox</a>'s most popular film stars,
+					from the 1940s to the 1960s, and played important roles well into the 1990s. One
+					of his most notable performances was as <a class="external" href="http://en.wikipedia.org/wiki/Atticus_Finch_(character)" title="Atticus Finch (character)">Atticus Finch</a> in the 1962 film version
+					of <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/To_Kill_a_Mockingbird" title="To Kill a Mockingbird">To Kill a Mockingbird</a>
+					</i>, for which he won his <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award" title="Academy Award">Academy Award</a>. President <a class="external" href="http://en.wikipedia.org/wiki/Lyndon_Johnson" title="Lyndon Johnson">Lyndon Johnson</a> honored Peck with the <a class="external" href="http://en.wikipedia.org/wiki/Presidential_Medal_of_Freedom" title="Presidential Medal of Freedom">Presidential Medal of Freedom</a> in
+					1969 for his lifetime <a class="external" href="http://en.wikipedia.org/wiki/Humanitarian" title="Humanitarian">humanitarian</a> efforts. In 1999, the <a class="external" href="http://en.wikipedia.org/wiki/American_Film_Institute" title="American Film Institute">American Film Institute</a> named Peck among
+					the <a class="external" href="http://en.wikipedia.org/wiki/AFI%27s_100_Years..._100_Stars" title="AFI's 100 Years... 100 Stars">Greatest Male Stars of All Time</a>,
+					ranking at #12.</p>
+			</wiki:abstract>
+			<p xmlns="http://www.w3.org/1999/xhtml">Peck was born <b>Eldred Gregory Peck</b> in <a class="external" href="http://en.wikipedia.org/wiki/San_Diego" title="San Diego">San Diego</a>,<a class="external" href="http://en.wikipedia.org/wiki/California" title="California">California</a>'s seaside community of <a class="external" href="http://en.wikipedia.org/wiki/La_Jolla" title="La Jolla">La Jolla</a>, the
+				son of <a class="external" href="http://en.wikipedia.org/wiki/Missouri" title="Missouri">Missouri</a>-born Bernice Mae "Bunny" Ayres and Gregory Pearl
+				Peck, who was a chemist and pharmacist. Peck's father was of English (paternal) and
+				Irish (maternal) heritage, and his mother was of Scots (paternal) and English
+				(maternal) ancestry. Peck's father was a <a class="external" href="http://en.wikipedia.org/wiki/Roman_Catholicism" title="Roman Catholicism">Catholic</a> and his mother converted upon marrying his father. Peck's
+				Irish-born paternal grandmother, Catherine Ashe, was related to <a class="external" href="http://en.wikipedia.org/wiki/Thomas_Ashe" title="Thomas Ashe">Thomas
+					Ashe</a>, who took part in the <a class="external" href="http://en.wikipedia.org/wiki/Easter_Rising" title="Easter Rising">Easter
+					Rising</a> less than three weeks after Peck's birth and died while on <a class="external" href="http://en.wikipedia.org/wiki/Hunger_strike" title="Hunger strike">hunger strike</a> in 1917. Peck's parents divorced by the
+				time he was six years old and he spent the next few years being raised by his
+				grandmother.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Peck was sent to a <a class="external" href="http://en.wikipedia.org/wiki/Roman_Catholic" title="Roman Catholic">Roman
+					Catholic</a> military school, St. John's Military Academy, in <a class="external" href="http://en.wikipedia.org/wiki/Los_Angeles,_California" title="Los Angeles, California">Los Angeles</a> at the age of 10. His
+				grandmother died while he was enrolled there, and his father again took over his
+				upbringing. At 14, Peck attended <a class="external" href="http://en.wikipedia.org/wiki/San_Diego_High_School" title="San Diego High School">San Diego High School</a> and lived with his
+				father. When he graduated, enrolled at <a class="external" href="http://en.wikipedia.org/wiki/San_Diego_State_University" title="San Diego State University">San Diego State University</a> (then called
+				San Diego State Teacher's College), joined the college's track team, took his first
+				theatre and public-speaking courses, and joined <a class="external" href="http://en.wikipedia.org/w/index.php?title=Epsilon_Eta&amp;action=edit&amp;redlink=1" title="Epsilon Eta (page does not exist)">Epsilon Eta</a> fraternity. He stayed
+				for just one academic year, thereafter obtaining admission to his first-choice
+				college, the <a class="external" href="http://en.wikipedia.org/wiki/University_of_California,_Berkeley" title="University of California, Berkeley">University of California,
+					Berkeley</a>. For a short time, he took a job driving a truck for an oil
+				company. In 1936, he declared himself a pre-medical student at Berkeley, and majored
+				in English. Since he was 6'3" and very strong, he also decided to row on the
+				university crew. Partly because of his great stature, the Berkeley acting coach
+				spotted Peck and decided he would be perfect for university theater work. Peck then
+				developed an interest in acting and was recruited by <a class="external" href="http://en.wikipedia.org/wiki/Edwin_Duerr" title="Edwin Duerr">Edwin
+					Duerr</a>, director of the university's Little Theater. He went on to appear in
+				five plays during his senior year. Although his tuition fee was only $26 a year,
+				Peck still struggled to pay, and had to work as a "hasher" (kitchen helper) for the
+				Alpha Gamma Delta sorority in exchange for meals. Peck would later say about
+				Berkeley that, "it was a very special experience for me and three of the greatest
+				years of my life. It woke me up and made me a human being." In 1997, he donated
+				$25,000 to the Berkeley crew in honor of his coach, the renowned <a class="external" href="http://en.wikipedia.org/wiki/Ky_Ebright" title="Ky Ebright">Ky
+				Ebright</a>.</p>
+			<wiki:career/>
+			<wiki:career>
+				<p xmlns="http://www.w3.org/1999/xhtml">After graduating from Berkeley with a BA
+					degree in English, Peck dropped the name "Eldred" and headed to <a class="external" href="http://en.wikipedia.org/wiki/New_York_City" title="New York City">New York City</a> to study at the <a class="external" href="http://en.wikipedia.org/wiki/Neighborhood_Playhouse" title="Neighborhood Playhouse">Neighborhood Playhouse</a> with the legendary
+					acting teacher <a class="external" href="http://en.wikipedia.org/wiki/Sanford_Meisner" title="Sanford Meisner">Sanford Meisner</a>. He was often broke and sometimes slept in <a class="external" href="http://en.wikipedia.org/wiki/Central_Park" title="Central Park">Central Park</a>. He worked at the 1939 <a class="external" href="http://en.wikipedia.org/wiki/World%27s_Fair" title="World's Fair">World's Fair</a> and as a tour guide for <a class="external" href="http://en.wikipedia.org/wiki/NBC" title="NBC">NBC</a>'s television broadcasting.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">He made his <a class="external" href="http://en.wikipedia.org/wiki/Broadway_theatre" title="Broadway theatre">Broadway</a> debut as the lead in <a class="external" href="http://en.wikipedia.org/wiki/Emlyn_Williams" title="Emlyn Williams">Emlyn Williams</a>' <i>
+						<a class="external" href="http://en.wikipedia.org/w/index.php?title=The_Morning_Star_(play)&amp;action=edit&amp;redlink=1" title="The Morning Star (play) (page does not exist)">The Morning
+							Star</a>
+					</i> in 1942. His second Broadway performance that year was in <i>
+						<a class="external" href="http://en.wikipedia.org/w/index.php?title=The_Willow_and_I&amp;action=edit&amp;redlink=1" title="The Willow and I (page does not exist)">The Willow and I</a>
+					</i> with <a class="external" href="http://en.wikipedia.org/wiki/Edward_Pawley" title="Edward Pawley">Edward Pawley</a>. Peck's acting abilities were in
+					high demand during <a class="external" href="http://en.wikipedia.org/wiki/World_War_II" title="World War II">World
+						War II</a>, since he was exempt from military service owing to a back injury
+					suffered while receiving dance and movement lessons from <a class="external" href="http://en.wikipedia.org/wiki/Martha_Graham" title="Martha Graham">Martha Graham</a> as part of his acting training. <a class="external" href="http://en.wikipedia.org/wiki/Twentieth_Century_Fox" title="Twentieth Century Fox">Twentieth Century Fox</a> claimed he had
+					injured his back while rowing at university, but in Peck's words, "In Hollywood,
+					they didn't think a dance class was macho enough, I guess. I've been trying to
+					straighten out that story for years."</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">In 1949, Peck founded <a class="external" href="http://en.wikipedia.org/wiki/The_La_Jolla_Playhouse" title="The La Jolla Playhouse">The La Jolla Playhouse</a>, at his
+					birthplace, along with his friends <a class="external" href="http://en.wikipedia.org/wiki/Mel_Ferrer" title="Mel Ferrer">Mel
+						Ferrer</a> and <a class="external" href="http://en.wikipedia.org/wiki/Dorothy_McGuire" title="Dorothy McGuire">Dorothy McGuire</a>. This local community theater and landmark (now in a
+					new home at the <a class="external" href="http://en.wikipedia.org/wiki/University_of_California,_San_Diego" title="University of California, San Diego">University of California, San
+						Diego</a>) still thrives today. It has attracted <a class="external" href="http://en.wikipedia.org/wiki/Hollywood" title="Hollywood">Hollywood</a> film stars on hiatus both as performers and enthusiastic
+					supporters since its inception.</p>
+			</wiki:career>
+			<wiki:career>
+				<p xmlns="http://www.w3.org/1999/xhtml">Peck's first film, <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Days_of_Glory_(1944_film)" title="Days of Glory (1944 film)">Days of Glory</a>
+					</i>, was released in 1944. He was nominated for the <a class="external" href="http://en.wikipedia.org/wiki/Academy_Awards" title="Academy Awards">Academy Award</a> for <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actor" title="Academy Award for Best Actor">Best Actor</a> five times, four of
+					which came in his first five years of film acting: for <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/The_Keys_of_the_Kingdom_(film)" title="The Keys of the Kingdom (film)">The Keys of the Kingdom</a>
+					</i> (1944), <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/The_Yearling_(film)" title="The Yearling (film)">The Yearling</a>
+					</i> (1946), <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Gentleman%27s_Agreement" title="Gentleman's Agreement">Gentleman's Agreement</a>
+					</i> (1947), and <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Twelve_O%27Clock_High" title="Twelve O'Clock High">Twelve O'Clock High</a>
+					</i> (1949).</p>
+				<p xmlns="http://www.w3.org/1999/xhtml"><i>The Keys of the Kingdom</i> emphasized
+					his stately presence. As the farmer Penny Barker in <i>The Yearling</i> his
+					good-humored warmth and affection toward the characters playing his son and wife
+					confounded critics who had been insisting he was a lifeless performer. <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Duel_in_the_Sun_(film)" title="Duel in the Sun (film)">Duel in the Sun</a>
+					</i> (1946) showed his range as an actor in his first "against type" role as a
+					cruel, libidinous gunslinger. <i>Gentleman's Agreement</i> established his power
+					in the "social conscience" genre in a film that took on the deep-seated but
+					subtle anti-Semitism of mid-century corporate America.<i>Twelve O'Clock High</i>
+					was the first of many successful war films in which Peck embodied the brave,
+					effective, yet human fighting man.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">Among his other films were <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Spellbound_(1945_film)" title="Spellbound (1945 film)">Spellbound</a>
+					</i> (1945), <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/The_Paradine_Case" title="The Paradine Case">The Paradine Case</a>
+					</i> (1947), <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/The_Gunfighter" title="The Gunfighter">The Gunfighter</a>
+					</i> (1950), <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Moby_Dick_(1956_film)" title="Moby Dick (1956 film)">Moby Dick</a>
+					</i> (1956), <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/On_the_Beach_(1959_film)" title="On the Beach (1959 film)">On the Beach</a>
+					</i> (1959), which brought to life the terrors of global nuclear war, <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/The_Guns_of_Navarone_(film)" title="The Guns of Navarone (film)">The Guns of Navarone</a>
+					</i> (1961), and <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Roman_Holiday" title="Roman Holiday">Roman Holiday</a>
+					</i> (1953), with <a class="external" href="http://en.wikipedia.org/wiki/Audrey_Hepburn" title="Audrey Hepburn">Audrey Hepburn</a> in her <a class="external" href="http://en.wikipedia.org/wiki/Academy_Awards" title="Academy Awards">Oscar</a>-winning role. Peck and Hepburn were close friends until her
+					death; Peck even introduced her to her first husband, <a class="external" href="http://en.wikipedia.org/wiki/Mel_Ferrer" title="Mel Ferrer">Mel
+						Ferrer</a>. Peck once again teamed up with director William Wyler in the
+					epic Western <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/The_Big_Country" title="The Big Country">The Big Country</a>
+					</i> (1958), which he co-produced.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">Peck won the Academy award with his fifth
+					nomination, playing <a class="external" href="http://en.wikipedia.org/wiki/Atticus_Finch" title="Atticus Finch">Atticus Finch</a>, a Depression-era lawyer and widowed father, in a film
+					adaptation of the <a class="external" href="http://en.wikipedia.org/wiki/Harper_Lee" title="Harper Lee">Harper
+						Lee</a>
+					<a class="external" href="http://en.wikipedia.org/wiki/Novel" title="Novel">novel</a>
+					<i>
+						<a class="external" href="http://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_(film)" title="To Kill a Mockingbird (film)">To Kill a Mockingbird</a>
+					</i>. Released in 1962 during the height of the <a class="external" href="http://en.wikipedia.org/wiki/US_civil_rights_movement" title="US civil rights movement">US civil rights movement</a> in the <a class="external" href="http://en.wikipedia.org/wiki/U.S._Southern_States" title="U.S. Southern States">South</a>, this movie and his role were Peck's
+					favorites. In 2003, Atticus Finch was named the top film hero of the past 100
+					years by the American Film Institute.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">He served as the president of the <a class="external" href="http://en.wikipedia.org/wiki/Academy_of_Motion_Picture_Arts_and_Sciences" title="Academy of Motion Picture Arts and Sciences">Academy of Motion
+						Picture Arts and Sciences</a> in 1967, <a class="external" href="http://en.wikipedia.org/wiki/Chairman" title="Chairman">Chairman</a>
+					of the Board of Trustees of the <a class="external" href="http://en.wikipedia.org/wiki/American_Film_Institute" title="American Film Institute">American Film Institute</a> from 1967 to
+					1969, Chairman of the Motion Picture and Television Relief Fund in 1971, and
+					National Chairman of the <a class="external" href="http://en.wikipedia.org/wiki/American_Cancer_Society" title="American Cancer Society">American Cancer Society</a> in 1966. He was
+					a member of the National Council on the Arts from 1964 to 1966.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">A physically powerful man, he was known to
+					do a majority of his own fight scenes, rarely using body or stunt doubles. In
+					fact, <a class="external" href="http://en.wikipedia.org/wiki/Robert_Mitchum" title="Robert Mitchum">Robert Mitchum</a>, his on-screen opponent in <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Cape_Fear_(1962_film)" title="Cape Fear (1962 film)">Cape Fear</a>
+					</i>, often said that Peck once accidentally punched him for real during their
+					final fight scene in the movie.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">Peck's rare attempts at unsympathetic roles
+					usually failed. He played the renegade son in the Western <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Duel_in_the_Sun_(film)" title="Duel in the Sun (film)">Duel in the Sun</a>
+					</i> and the infamous Nazi doctor Josef Mengele in <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/The_Boys_from_Brazil" title="The Boys from Brazil">The Boys from Brazil</a>
+					</i>. Critics could be unkind. <a class="external" href="http://en.wikipedia.org/wiki/Pauline_Kael" title="Pauline Kael">Pauline Kael</a> of the New Yorker once labeled Peck "competent but always
+					a little boring." He famously did not get along with <a class="external" href="http://en.wikipedia.org/wiki/Marlon_Brando" title="Marlon Brando">Marlon Brando</a>, who described him as "a wooden actor and a pompous
+					individual". Off-screen as well as on, Peck conveyed a quiet dignity. He had one
+					amicable divorce, and scandal never touched him.</p>
+			</wiki:career>
+			<wiki:career>
+				<p xmlns="http://www.w3.org/1999/xhtml">In the 1980s, Peck moved to television,
+					where he starred in the mini-series <i>The Blue and the Gray</i>, playing <a class="external" href="http://en.wikipedia.org/wiki/Abraham_Lincoln" title="Abraham Lincoln">Abraham Lincoln</a>. He also starred with <a class="external" href="http://en.wikipedia.org/wiki/Barbara_Bouchet" title="Barbara Bouchet">Barbara Bouchet</a> in the Television film <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/The_Scarlet_and_The_Black" title="The Scarlet and The Black">The Scarlet and The Black</a>
+					</i>, about a real-life Roman Catholic priest in the <a class="external" href="http://en.wikipedia.org/wiki/Vatican_City" title="Vatican City">Vatican</a> who smuggled Jews and other refugees away from the <a class="external" href="http://en.wikipedia.org/wiki/Nazism" title="Nazism">Nazis</a> during <a class="external" href="http://en.wikipedia.org/wiki/World_War_II" title="World War II">World
+						War II</a>.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">Gregory Peck, Robert Mitchum, and Martin
+					Balsam all had roles in the <a class="external" href="http://en.wikipedia.org/wiki/Cape_Fear_(1991_film)" title="Cape Fear (1991 film)">1991 remake of <i>Cape Fear</i></a> directed
+					by <a class="external" href="http://en.wikipedia.org/wiki/Martin_Scorsese" title="Martin Scorsese">Martin Scorsese</a>. All three were in the original
+						<a class="external" href="http://en.wikipedia.org/wiki/Cape_Fear_(1962_film)" title="Cape Fear (1962 film)">1962 version</a>. In the remake, Peck plays
+					Max Cady's lawyer.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">Peck retired from active film-making in
+					1991. Like <a class="external" href="http://en.wikipedia.org/wiki/Cary_Grant" title="Cary Grant">Cary Grant</a> before him, Peck spent the last few years
+					of his life touring the world doing speaking engagements in which he would show
+					clips from his movies, reminisce, and answer questions from the audience. He
+					came out of retirement to appear in the 1998 remake of one of his most famous
+					films, <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Moby_Dick_(1956_film)" title="Moby Dick (1956 film)">Moby Dick</a>
+					</i>, portraying Father Mapple (played by <a class="external" href="http://en.wikipedia.org/wiki/Orson_Welles" title="Orson Welles">Orson
+						Welles</a> in the 1956 version), with <a class="external" href="http://en.wikipedia.org/wiki/Patrick_Stewart" title="Patrick Stewart">Patrick Stewart</a> as <a class="external" href="http://en.wikipedia.org/wiki/Captain_Ahab" title="Captain Ahab">Captain Ahab</a>, the role Peck played in the earlier film.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">Peck had been slated to take the role of <a class="external" href="http://en.wikipedia.org/wiki/Grandpa_Joe" title="Grandpa Joe">Grandpa Joe</a> in the 2005 film <a class="external" href="http://en.wikipedia.org/wiki/Charlie_and_the_Chocolate_Factory" title="Charlie and the Chocolate Factory">Charlie and the Chocolate
+						Factory</a>, but died before shooting and release. <a class="external" href="http://en.wikipedia.org/wiki/David_Kelly_(actor)" title="David Kelly (actor)">David Kelly</a> replaced him in the role.</p>
+			</wiki:career>
+			<wiki:personal>
+				<p xmlns="http://www.w3.org/1999/xhtml">In 1947, while many Hollywood figures were
+					being <a class="external" href="http://en.wikipedia.org/wiki/Blacklist" title="Blacklist">blacklisted</a> for similar activities, he signed a letter
+					deploring a <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/House_Un-American_Activities_Committee" title="House Un-American Activities Committee">House Un-American
+							Activities Committee</a>
+					</i> investigation of alleged communists in the film industry.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">President <a class="external" href="http://en.wikipedia.org/wiki/Richard_Nixon" title="Richard Nixon">Richard Nixon</a> placed Peck on his <a class="external" href="http://en.wikipedia.org/wiki/Nixon%27s_Enemies_List" title="Nixon's Enemies List">enemies list</a> due to his <a class="external" href="http://en.wikipedia.org/wiki/Liberalism" title="Liberalism">liberal</a> activism.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">A lifelong supporter of the <a class="external" href="http://en.wikipedia.org/wiki/United_States_Democratic_Party" title="United States Democratic Party">Democratic Party</a>, Peck was
+					suggested in 1970 as a possible Democratic candidate to run against <a class="external" href="http://en.wikipedia.org/wiki/Ronald_Reagan" title="Ronald Reagan">Ronald Reagan</a> for the office of <a class="external" href="http://en.wikipedia.org/wiki/Governor_of_California" title="Governor of California">Governor of California</a>. Although he later
+					admitted that he had no interest in being a candidate himself for public office,
+					Peck encouraged one of his sons, Carey Peck, to run for political office. Carey
+					was defeated both times he tried for Congress, in 1978 and in 1980, by
+					Republican Congressman <a class="external" href="http://en.wikipedia.org/wiki/Robert_K._Dornan" title="Robert K. Dornan">Robert K. Dornan</a>, both times by slim
+					margins.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">In an interview with the Irish media, Peck
+					revealed that former <a class="external" href="http://en.wikipedia.org/wiki/President_of_the_United_States" title="President of the United States">President</a>
+					<a class="external" href="http://en.wikipedia.org/wiki/Lyndon_Johnson" title="Lyndon Johnson">Lyndon Johnson</a> had told him that, had he sought
+					re-election in 1968, he intended to offer Peck the post of U.S. ambassador to
+					Ireland — a post Peck, due to his Irish ancestry, said he might well have taken,
+					saying "[I]t would have been a great adventure". Author Michael Freedland, in
+					his biography of Peck, substantiates the report and says that Johnson indicated
+					that his presentation of the Medal of Freedom to Peck would perhaps make up for
+					his inability to confer the ambassadorship.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">Peck's liberal beliefs were frequently
+					reflected by his work. <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/The_Big_Country" title="The Big Country">The Big Country</a>
+					</i> was intended as a pacifist allegory for the <a class="external" href="http://en.wikipedia.org/wiki/Cold_War" title="Cold War">Cold War</a>,
+					while <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/The_Guns_of_Navarone" title="The Guns of Navarone">The Guns of Navarone</a>
+					</i> was considered very anti-war for a major American movie of its time.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">He was outspoken against the <a class="external" href="http://en.wikipedia.org/wiki/Vietnam_War" title="Vietnam War">Vietnam War</a>, while remaining supportive of his son,
+					Stephen, who was fighting there. In 1972, Peck produced the film version of <a class="external" href="http://en.wikipedia.org/wiki/Daniel_Berrigan" title="Daniel Berrigan">Daniel Berrigan</a>'s play <i>The Trial of the <a class="external" href="http://en.wikipedia.org/wiki/Catonsville_Nine" title="Catonsville Nine">Catonsville Nine</a></i> about the prosecution
+					of a group of Vietnam protesters for civil disobedience. Despite his initial
+					reluctance to portray the controversial <a class="external" href="http://en.wikipedia.org/wiki/General" title="General">General</a>
+					<a class="external" href="http://en.wikipedia.org/wiki/Douglas_MacArthur" title="Douglas MacArthur">Douglas MacArthur</a> on screen, he did so in 1977
+					and ended up with a great admiration for the man.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">In 1987, Peck did the voice over on
+					television commercials opposing President <a class="external" href="http://en.wikipedia.org/wiki/Ronald_Reagan" title="Ronald Reagan">Ronald Reagan</a>'s <a class="external" href="http://en.wikipedia.org/wiki/SCOTUS" title="SCOTUS">Supreme Court</a>
+					nomination of conservative jurist <a class="external" href="http://en.wikipedia.org/wiki/Robert_Bork" title="Robert Bork">Robert
+						Bork</a>. Bork's nomination was defeated.</p>
+			</wiki:personal>
+			<wiki:personal>
+				<p xmlns="http://www.w3.org/1999/xhtml">In October 1942, Peck married <a class="external" href="http://en.wikipedia.org/wiki/Finnish-American" title="Finnish-American">Finnish-born</a>
+					<a class="external" href="http://en.wikipedia.org/wiki/Greta_Kukkonen" title="Greta Kukkonen">Greta Kukkonen</a> with whom he had three sons. Greta
+					was awarded the <a class="external" href="http://en.wikipedia.org/wiki/Order_of_the_White_Rose" title="Order of the White Rose">Order of the White Rose</a>. They were
+					divorced on <a class="external" href="http://en.wikipedia.org/wiki/December_30" title="December 30">December 30</a>, <a class="external" href="http://en.wikipedia.org/wiki/1955" title="1955">1955</a>, but
+					maintained a very good relationship as parents to their sons, Jonathan, Stephen
+					and <a class="external" href="http://en.wikipedia.org/w/index.php?title=Carey_Peck&amp;action=edit&amp;redlink=1" title="Carey Peck (page does not exist)">Carey Peck</a>. Jonathan Peck, a
+					television news reporter, committed suicide in 1975. Stephen Peck is active in
+					support of American veterans from the Vietnam war. His first wife is
+					screenwriter Kimi Peck who co-wrote <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Little_Darlings" title="Little Darlings">Little Darlings</a>
+					</i> with Dalene Young. Carey Peck had political ambitions and ran for United
+					States Representative in California, with the support of his father and family.
+					He narrowly lost to conservative Republican <a class="external" href="http://en.wikipedia.org/wiki/Bob_Dornan" title="Bob Dornan">Bob
+						Dornan</a>.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">On <a class="external" href="http://en.wikipedia.org/wiki/December_31" title="December 31">December
+						31</a>, <a class="external" href="http://en.wikipedia.org/wiki/1955" title="1955">1955</a>, the day after his divorce was finalized, Gregory Peck
+					married <a class="external" href="http://en.wikipedia.org/w/index.php?title=Veronique_Passani&amp;action=edit&amp;redlink=1" title="Veronique Passani (page does not exist)">Veronique Passani</a>, a
+					Paris news reporter who had interviewed him in 1953 before he went to Italy to
+					film <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Roman_Holiday" title="Roman Holiday">Roman Holiday</a>
+					</i>. He asked her to lunch six months later and they became inseparable. They
+					had a son <a class="external" href="http://en.wikipedia.org/w/index.php?title=Anthony_Peck&amp;action=edit&amp;redlink=1" title="Anthony Peck (page does not exist)">Anthony Peck</a>, and a daughter
+						<a class="external" href="http://en.wikipedia.org/wiki/Cecilia_Peck" title="Cecilia Peck">Cecilia Peck</a>. They remained happily married until
+					Gregory Peck's death.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">Peck had grandchildren from both marriages.
+					Stephen has a daughter named Marisa, and a younger son named Ethan. Carey has
+					four children, three daughters Marisa, Isabelle, and Jasmine, and a son
+					Christopher. Anthony has a son, Zack, with model <a class="external" href="http://en.wikipedia.org/wiki/Cheryl_Tiegs" title="Cheryl Tiegs">Cheryl
+						Tiegs</a>. Cecilia has two children with writer Daniel Voll, son Harper and
+					daughter Ondine.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">Peck owned the <a class="external" href="http://en.wikipedia.org/wiki/Thoroughbred" title="Thoroughbred">thoroughbred</a>
+					<a class="external" href="http://en.wikipedia.org/wiki/Steeplechase_(horse_racing)" title="Steeplechase (horse racing)">steeplechase</a>
+					<a class="external" href="http://en.wikipedia.org/wiki/Horse_racing" title="Horse racing">racehorse</a> Different Class which raced in <a class="external" href="http://en.wikipedia.org/wiki/United_Kingdom" title="United Kingdom">England</a>. The horse was the favorite for the 1968
+						<a class="external" href="http://en.wikipedia.org/wiki/Grand_National" title="Grand National">Grand National</a> but finished 3rd. Peck was close
+					friends with French president <a class="external" href="http://en.wikipedia.org/wiki/Jacques_Chirac" title="Jacques Chirac">Jacques Chirac</a>.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">On <a class="external" href="http://en.wikipedia.org/wiki/June_12" title="June 12">June 12</a>, <a class="external" href="http://en.wikipedia.org/wiki/2003" title="2003">2003</a>, Peck died in his sleep from <a class="external" href="http://en.wikipedia.org/wiki/Cardiorespiratory_arrest" title="Cardiorespiratory arrest">cardiorespiratory arrest</a> and <a class="external" href="http://en.wikipedia.org/wiki/Bronchial_pneumonia" title="Bronchial pneumonia">bronchial pneumonia</a>, at the age of 87, in
+					his home in Holmby Hills. His wife of 48 years was by his side. Peck is buried
+					in a <a class="external" href="http://en.wikipedia.org/wiki/Mausoleum" title="Mausoleum">mausoleum</a> in the <a class="external" href="http://en.wikipedia.org/wiki/Cathedral_of_Our_Lady_of_the_Angels" title="Cathedral of Our Lady of the Angels">Cathedral of Our Lady of the
+						Angels</a> in <a class="external" href="http://en.wikipedia.org/wiki/Los_Angeles,_California" title="Los Angeles, California">Los Angeles, California</a>.</p>
+			</wiki:personal>
+			<wiki:awards>
+				<h2 xmlns="http://www.w3.org/1999/xhtml">
+					<span class="mw-headline">Awards</span>
+				</h2>
+				<p xmlns="http://www.w3.org/1999/xhtml">Peck was nominated for five <a class="external" href="http://en.wikipedia.org/wiki/Academy_Awards" title="Academy Awards">Academy Awards</a>, winning once. He was nominated in
+					1946 for <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/The_Keys_of_the_Kingdom_(film)" title="The Keys of the Kingdom (film)">The Keys of the Kingdom</a>
+					</i>, in 1947 for <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/The_Yearling_(film)" title="The Yearling (film)">The Yearling</a>
+					</i>, in 1948 for <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Gentleman%27s_Agreement" title="Gentleman's Agreement">Gentleman's Agreement</a>
+					</i>, and in 1950 for <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Twelve_O%27Clock_High" title="Twelve O'Clock High">Twelve O'Clock High</a>
+					</i>. He won the Oscar for best actor in 1963 for <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_(film)" title="To Kill a Mockingbird (film)">To Kill a Mockingbird</a>
+					</i>, and he received the Academy's <a class="external" href="http://en.wikipedia.org/wiki/Jean_Hersholt_Humanitarian_Award" title="Jean Hersholt Humanitarian Award">Jean Hersholt Humanitarian
+						Award</a> for 1967.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">Peck also received many <a class="external" href="http://en.wikipedia.org/wiki/Golden_Globe" title="Golden Globe">Golden
+						Globe</a> awards. He won in 1947 for <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/The_Yearling_(film)" title="The Yearling (film)">The Yearling</a>
+					</i>, in 1963 for <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_(film)" title="To Kill a Mockingbird (film)">To Kill a Mockingbird</a>
+					</i>, and in 1999 for the TV mini series <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Moby-Dick" title="Moby-Dick">Moby-Dick</a>
+					</i>. He was nominated in 1978 for <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/The_Boys_from_Brazil_(film)" title="The Boys from Brazil (film)">The Boys from Brazil</a>
+					</i>. He received the <a class="external" href="http://en.wikipedia.org/wiki/Cecil_B._DeMille_Award" title="Cecil B. DeMille Award">Cecil B. DeMille Award</a> in 1969, and was
+					given the Henrietta Award in 1951 and 1955 for <i>World Film Favorite —
+					Male</i>.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">In 1969, <a class="external" href="http://en.wikipedia.org/wiki/Lyndon_Johnson" title="Lyndon Johnson">Lyndon Johnson</a> honored Peck with the <a class="external" href="http://en.wikipedia.org/wiki/Presidential_Medal_of_Freedom" title="Presidential Medal of Freedom">Presidential Medal of Freedom</a>, the
+					nation's highest civilian honor.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">In 1971, the <a class="external" href="http://en.wikipedia.org/wiki/Screen_Actors_Guild" title="Screen Actors Guild">Screen Actors Guild</a> presented Peck with the
+					SAG Life Achievement Award. In 1989, the <a class="external" href="http://en.wikipedia.org/wiki/American_Film_Institute" title="American Film Institute">American Film Institute</a> gave Peck the <a class="external" href="http://en.wikipedia.org/wiki/AFI_Life_Achievement_Award" title="AFI Life Achievement Award">AFI Life Achievement Award</a>. He
+					received the <a class="external" href="http://en.wikipedia.org/wiki/Crystal_Globe" title="Crystal Globe">Crystal Globe</a> award for outstanding artistic contribution to world
+					cinema in 1996.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">In 2000, Peck was made a Doctor of Letters
+					by the <a class="external" href="http://en.wikipedia.org/wiki/National_University_of_Ireland" title="National University of Ireland">National University of Ireland</a>.
+					He was a founding patron of the <a class="external" href="http://en.wikipedia.org/wiki/University_College_Dublin" title="University College Dublin">University College Dublin</a> School of
+					Film, where he persuaded <a class="external" href="http://en.wikipedia.org/wiki/Martin_Scorsese" title="Martin Scorsese">Martin Scorsese</a> to become an honorary patron. Peck also became chair of
+					the American Cancer Society for a short time.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">For his contribution to the motion picture
+					industry, Gregory Peck has a star on the <a class="external" href="http://en.wikipedia.org/wiki/Hollywood_Walk_of_Fame" title="Hollywood Walk of Fame">Hollywood Walk of Fame</a> at 6100 Hollywood
+					Blvd. In November 2005, the star was stolen. It has since been replaced.</p>
+			</wiki:awards>
+			<h2 xmlns="http://www.w3.org/1999/xhtml">
+				<span class="mw-headline">See also</span>
+			</h2>
+			<ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>
+					<a class="external" href="http://en.wikipedia.org/wiki/List_of_notable_Presidential_Medal_of_Freedom_recipients" title="List of notable Presidential Medal of Freedom recipients">List of
+						notable Presidential Medal of Freedom recipients</a>
+				</li>
+	<li>
+					<a class="external" href="http://en.wikipedia.org/wiki/Steve_Landesberg" title="Steve Landesberg">Steve Landesberg</a>
+				</li>
+      </ul>
+			<h2 xmlns="http://www.w3.org/1999/xhtml">
+				<span class="mw-headline">Further reading</span>
+			</h2>
+			<ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>Fishgall, Gary. <i>Gregory Peck: A Biography</i>. New York: <a class="external" href="http://en.wikipedia.org/wiki/Charles_Scribner%27s_Sons" title="Charles Scribner's Sons">Scribner</a>. 2002. <a class="external" href="http://en.wikipedia.org/wiki/Special:BookSources/068485290X">ISBN
+						068485290X</a></li>
+	<li>Freedland, Michael. <i>Gregory Peck: A Biography</i>. New York: <a class="external" href="http://en.wikipedia.org/wiki/William_Morrow_and_Company" title="William Morrow and Company">William Morrow and Company</a>. 1980. <a class="external" href="http://en.wikipedia.org/wiki/Special:BookSources/0688036198">ISBN
+						0688036198</a></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Lynn_Haney" title="Lynn Haney">Haney, Lynn</a>. <i>Gregory Peck: A Charmed Life</i>. New
+					York: <a class="external" href="http://en.wikipedia.org/wiki/Carroll_%26_Graf_Publishers" title="Carroll &amp; Graf Publishers">Carroll &amp; Graf
+						Publishers</a>. 2004. <a class="external" href="http://en.wikipedia.org/wiki/Special:BookSources/0786714735">ISBN
+						0786714735</a></li>
+      </ul>
+			<h2 xmlns="http://www.w3.org/1999/xhtml">
+				<span class="mw-headline">External links</span>
+			</h2>
+			<ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=7568029" title="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=7568029" rel="nofollow">Gregory Peck</a> at <a class="external" href="http://en.wikipedia.org/wiki/Find_A_Grave" title="Find A Grave">Find A
+						Grave</a></li>
+	<li><a href="http://www.ibdb.com/person.asp?ID=55817" title="http://www.ibdb.com/person.asp?ID=55817" rel="nofollow">Gregory
+						Peck</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Broadway_Database" title="Internet Broadway Database">Internet Broadway Database</a></li>
+	<li><a href="http://www.imdb.com/name/nm60/" title="http://www.imdb.com/name/nm60/" rel="nofollow">Gregory Peck</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	<li><a href="http://tcmdb.com/participant/participant.jsp?participantId=149486" title="http://tcmdb.com/participant/participant.jsp?participantId=149486" rel="nofollow">Gregory Peck</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Turner_Classic_Movies" title="Turner Classic Movies">TCM Movie Database</a></li>
+	<li>
+					<a href="http://www.jefflangonline.com/peck/home/" title="http://www.jefflangonline.com/peck/home/" rel="nofollow">Gregory Peck
+						Online</a>
+				</li>
+      </ul>
+			<p xmlns="http://www.w3.org/1999/xhtml">
+				<br/>
+			</p>
+		</wiki:description>
+	</wiki:person>
+	<wiki:film-title link="/wiki/Gentleman%27s_Agreement">Gentleman's Agreement</wiki:film-title>
+	<wiki:film link="/wiki/Gentleman%27s_Agreement" title="Gentleman's Agreement">
+		<wiki:oscar-ref year="1947" span="1" winner="false" award="lead-actor" person-link="/wiki/Gregory_Peck" person-name="Gregory Peck"/>
+		<wiki:oscar-ref year="1947" span="1" winner="false" award="lead-actress" person-link="/wiki/Dorothy_McGuire" person-name="Dorothy McGuire"/>
+		<wiki:oscar-ref year="1947" span="1" winner="true" award="best-director" person-link="/wiki/Elia_Kazan" person-name="Elia Kazan"/>
+		<wiki:oscar-ref year="1947" span="1" winner="true" award="supporting-actress" person-link="/wiki/Celeste_Holm" person-name="Celeste Holm"/>
+		<wiki:oscar-ref year="1947" span="1" winner="false" award="supporting-actress" person-link="/wiki/Anne_Revere" person-name="Anne Revere"/>
+		<wiki:oscar year="1947" span="1" winner="true" award="best-picture"/>
+		<wiki:producer link="/wiki/Darryl_F._Zanuck">Darryl F. Zanuck</wiki:producer>
+		<wiki:director link="/wiki/Elia_Kazan">Elia Kazan</wiki:director>
+		<wiki:writer link="/wiki/Laura_Z._Hobson">Laura Z. Hobson</wiki:writer>
+		<wiki:writer link="/wiki/Moss_Hart">Moss Hart</wiki:writer>
+		<wiki:distributor link="/wiki/Twentieth_Century_Fox">Twentieth Century
+			Fox</wiki:distributor>
+		<wiki:starring link="/wiki/Gregory_Peck">Gregory Peck</wiki:starring>
+		<wiki:starring link="/wiki/Dorothy_McGuire">Dorothy McGuire</wiki:starring>
+		<wiki:starring link="/wiki/John_Garfield">John Garfield</wiki:starring>
+		<wiki:starring link="/wiki/Celeste_Holm">Celeste Holm</wiki:starring>
+		<wiki:starring link="/wiki/June_Havoc">June Havoc</wiki:starring>
+		<wiki:starring link="/wiki/Anne_Revere">Anne Revere</wiki:starring>
+		<wiki:language link="/wiki/English_language">English</wiki:language>
+		<wiki:description>
+			<wiki:abstract>
+				<p xmlns="http://www.w3.org/1999/xhtml"><i>
+						<b>Gentleman's Agreement</b>
+					</i> is a <a class="external" href="http://en.wikipedia.org/wiki/1947_in_film" title="1947 in film">1947</a>
+					<a class="external" href="http://en.wikipedia.org/wiki/Drama_film" title="Drama film">drama film</a> about a journalist (played by <a class="external" href="http://en.wikipedia.org/wiki/Gregory_Peck" title="Gregory Peck">Gregory Peck</a>) who goes undercover as a <a class="external" href="http://en.wikipedia.org/wiki/Jew" title="Jew">Jew</a>
+					to research <a class="external" href="http://en.wikipedia.org/wiki/Antisemitism" title="Antisemitism">antisemitism</a> in <a class="external" href="http://en.wikipedia.org/wiki/New_York_City" title="New York City">New
+						York City</a> and the affluent community of <a class="external" href="http://en.wikipedia.org/wiki/Darien,_Connecticut" title="Darien, Connecticut">Darien, Connecticut</a>. The movie was
+					controversial in its time, as was a similar film on the same subject, <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Crossfire_(film)" title="Crossfire (film)">Crossfire</a>
+					</i>, which was also released the same year and also nominated for a <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture" title="Academy Award for Best Picture">Best Picture Oscar</a>.
+						<i>Gentleman's Agreement</i> was based on <a class="external" href="http://en.wikipedia.org/wiki/Laura_Z._Hobson" title="Laura Z. Hobson">Laura Z. Hobson</a>'s 1947 <a class="external" href="http://en.wikipedia.org/wiki/Gentleman%27s_Agreement_(novel)" title="Gentleman's Agreement (novel)">novel of the same name</a>.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">The movie is available on <a class="external" href="http://en.wikipedia.org/wiki/DVD" title="DVD">DVD</a>
+					as part of the <a class="external" href="http://en.wikipedia.org/wiki/20th_Century_Fox_Studio_Classics" title="20th Century Fox Studio Classics">20th Century Fox Studio
+						Classics</a> collection.</p>
+			</wiki:abstract>
+			<wiki:plot>
+				<h2 xmlns="http://www.w3.org/1999/xhtml">
+					<span class="mw-headline">Plot</span>
+				</h2>
+				<p xmlns="http://www.w3.org/1999/xhtml">Philip Schuyler Green (<a class="external" href="http://en.wikipedia.org/wiki/Gregory_Peck" title="Gregory Peck">Gregory Peck</a>) is a widowed <a class="external" href="http://en.wikipedia.org/wiki/Journalist" title="Journalist">journalist</a> who has just moved to <a class="external" href="http://en.wikipedia.org/wiki/New_York_City" title="New York City">New
+						York City</a> with his son Tommy (<a class="external" href="http://en.wikipedia.org/wiki/Dean_Stockwell" title="Dean Stockwell">Dean Stockwell</a>) and mother (<a class="external" href="http://en.wikipedia.org/wiki/Anne_Revere" title="Anne Revere">Anne
+						Revere</a>). Green meets with magazine publisher John Minify (<a class="external" href="http://en.wikipedia.org/wiki/Albert_Dekker" title="Albert Dekker">Albert Dekker</a>), who asks Green to write an article
+					on <a class="external" href="http://en.wikipedia.org/wiki/Antisemitism" title="Antisemitism">antisemitism</a>. After initially struggling with how
+					to approach the topic in a fresh way, Green is inspired to adopt a Jewish
+					identity ("Phil Greenberg") and write about his own first-hand experiences.
+					Green and Minify agree to keep it secret that Phil is not actually Jewish; since
+					he and his family are new to New York and know almost no one, it should be easy
+					to hide.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">At a dinner party, Phil meets Minify's
+					divorced niece Kathy Lacey (<a class="external" href="http://en.wikipedia.org/wiki/Dorothy_McGuire" title="Dorothy McGuire">Dorothy McGuire</a>), who turns out to be the person who originally
+					suggested the story idea. Phil and Kathy begin dating. Though she seems to have
+						<a class="external" href="http://en.wikipedia.org/wiki/Liberalism" title="Liberalism">liberal</a> views, when he reveals what he intends to do,
+					she is taken aback and asks him if he actually is Jewish. The strain on their
+					relationship due to Kathy's subtle acquiescence to bigotry becomes a key theme
+					in the film.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">At the magazine, Phil is assigned a
+					secretary, Elaine Wales (<a class="external" href="http://en.wikipedia.org/wiki/June_Havoc" title="June Havoc">June
+						Havoc</a>), who discloses to him that she too is Jewish. She changed her
+					name in order to get the job (her application under her Jewish-sounding name,
+					Estelle Wilovsky, was rejected). Later, after Phil informs Minify about the <a class="external" href="http://en.wikipedia.org/wiki/Prejudice" title="Prejudice">prejudice</a> Wales encountered, Minify orders the
+					magazine to adopt hiring policies that are open to Jews. Wales has reservations
+					about the new policy, fearing that the "wrong Jews" will be hired and ruin
+					things for the few Jews working there now. Phil also befriends <a class="external" href="http://en.wikipedia.org/wiki/Fashion" title="Fashion">fashion</a> editor Anne Dettrey (<a class="external" href="http://en.wikipedia.org/wiki/Celeste_Holm" title="Celeste Holm">Celeste Holm</a>) who becomes a good friend and potential romantic partner,
+					particularly as strains develop in Phil and Kathy's relationship.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">As Phil's research project proceeds, his
+					childhood friend, Dave Goldman (<a class="external" href="http://en.wikipedia.org/wiki/John_Garfield" title="John Garfield">John
+						Garfield</a>), who is Jewish, moves to New York for a job and lives with the
+					Greens while he looks for a home for his family. Housing is scarce in New York,
+					but it is particularly difficult for Goldman, since not all landlords will rent
+					to a Jewish family. When Phil tells Dave about his project, Dave is supportive,
+					but concerned.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">As time goes on, Phil experiences several
+					incidents of bigotry. When his mother becomes ill with a heart condition, the
+					doctor discourages him from consulting a specialist with an obviously Jewish
+					name, suggesting he might be cheated by the Jewish doctor. When Phil reveals
+					that he is himself Jewish, the doctor becomes uncomfortable and leaves. Also,
+					when kids at school learn that Tommy is Jewish, he becomes the target of <a class="external" href="http://en.wikipedia.org/wiki/Bullying" title="Bullying">bullies</a>. Phil is troubled by the way Kathy consoles
+					Tommy, telling him that their taunts of "dirty Jew" are wrong because he isn't
+					Jewish, not that the <a class="external" href="http://en.wikipedia.org/wiki/Epithet" title="Epithet">epithet</a> is
+					wrong in and of itself.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">Kathy's attitudes are revealed further when
+					she and Phil announce their engagement. Her sister Jane (<a class="external" href="http://en.wikipedia.org/wiki/Jane_Wyatt" title="Jane Wyatt">Jane
+						Wyatt</a>) invites them to a celebration in her home in <a class="external" href="http://en.wikipedia.org/wiki/Darien,_Connecticut" title="Darien, Connecticut">Darien, Connecticut</a>, which is known to be a
+					"restricted" community where Jews are not welcome. Fearing an awkward scene,
+					Kathy wants to tell her family and friends that Phil is only pretending to be a
+					Jew, but Phil prevails on Kathy to tell only Jane. At the party, everyone is
+					very friendly to Phil, though many people are "unable" to attend at the last
+					minute.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">Dave announces that he will have to quit his
+					job because he cannot find a place for his family to live. Kathy owns a vacant
+					cottage in Darien, but though Phil sees it as the obvious solution to Dave's
+					problem, Kathy is unwilling to offend her neighbors by renting it to a Jewish
+					family. As a result, she and Phil break their engagement. Phil announces that he
+					will be moving away from New York when his article is published. When it comes
+					out, it is very well received by the magazine staff.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">Kathy meets with Dave and asks him for help.
+					Dave tells her that she is not antisemitic, but confronts her about times she
+					has been offended by antisemitic slurs, but kept silent. He also points out that
+					she might feel better speaking up. That conversation seems to be the turning
+					point for Kathy. The next day, Dave tells Phil that he and his family will be
+					moving into the cottage in Darien and Kathy will be moving in with her sister
+					next door to make sure they are treated well by their neighbors. When Phil hears
+					this, he reconciles with Kathy.</p>
+			</wiki:plot>
+			<wiki:reception>
+				<h2 xmlns="http://www.w3.org/1999/xhtml">
+					<span class="mw-headline">Critical Reception</span>
+				</h2>
+				<p xmlns="http://www.w3.org/1999/xhtml">Gentleman's Agreement received a generally
+					favorable reception from influential <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/The_New_York_Times" title="The New York Times">New York Times</a>
+					</i> critic <a class="external" href="http://en.wikipedia.org/wiki/Bosley_Crowther" title="Bosley Crowther">Bosley Crowther</a>. Crowther said that "every point about prejudice which
+					Miss Hobson had to make in her book has been made with superior illustration and
+					more graphic demonstration in the film, so that the sweep of her moral
+					indignation is not only widened but intensified thereby."</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">Crowther said that the movie shared the
+					novel's failings in that "explorations are narrowly confined to the upper-class
+					social and professional level to which he is immediately exposed." He also said
+					that the main character's shock at the extent of antisemitism was lacking in
+					credibility "it is, in a careful analysis, an extraordinarily naive role."<a href="http://movies.nytimes.com/movie/review?res=9E0DE7DE113AE233A25751C1A9679D946693D6CF" title="http://movies.nytimes.com/movie/review?res=9E0DE7DE113AE233A25751C1A9679D946693D6CF" rel="nofollow">[1]</a></p>
+				<p xmlns="http://www.w3.org/1999/xhtml">In addition to winning Academy Awards for
+					best picture and best director, Gentleman's Agreement was Fox's highest grossing
+					movie of 1947. The political nature of the film, however, upset the <a class="external" href="http://en.wikipedia.org/wiki/House_Un-American_Activities_Committee" title="House Un-American Activities Committee">House Un-American Activities
+						Committee</a>, with <a class="external" href="http://en.wikipedia.org/wiki/Elia_Kazan" title="Elia Kazan">Elia
+						Kazan</a>, <a class="external" href="http://en.wikipedia.org/wiki/Darryl_F._Zanuck" title="Darryl F. Zanuck">Darryl Zanuck</a>, <a class="external" href="http://en.wikipedia.org/wiki/John_Garfield" title="John Garfield">John
+						Garfield</a>, and <a class="external" href="http://en.wikipedia.org/wiki/Anne_Revere" title="Anne Revere">Anne
+						Revere</a> all being called to testify before the committee. Both Garfield
+					and Revere were placed on the <a class="external" href="http://en.wikipedia.org/wiki/Hollywood_Blacklist" title="Hollywood Blacklist">Hollywood Blacklist</a>, effectively ending
+					their careers.</p>
+			</wiki:reception>
+			<wiki:cast/>
+			<wiki:awards>
+				<h2 xmlns="http://www.w3.org/1999/xhtml">
+					<span class="mw-headline">Awards</span>
+				</h2>
+				<p xmlns="http://www.w3.org/1999/xhtml">The film won three Oscars:</p>
+				<ul xmlns="http://www.w3.org/1999/xhtml">
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture" title="Academy Award for Best Picture">Academy Award for Best
+							Picture</a> - <a class="external" href="http://en.wikipedia.org/wiki/20th_Century_Fox" title="20th Century Fox">20th Century-Fox</a> (<a class="external" href="http://en.wikipedia.org/wiki/Darryl_F._Zanuck" title="Darryl F. Zanuck">Darryl F. Zanuck</a>, producer)</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Supporting_Actress" title="Academy Award for Best Supporting Actress">Academy Award for Best
+							Supporting Actress</a> - <a class="external" href="http://en.wikipedia.org/wiki/Celeste_Holm" title="Celeste Holm">Celeste Holm</a></li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Directing" title="Academy Award for Directing">Academy Award for Directing</a> - <a class="external" href="http://en.wikipedia.org/wiki/Elia_Kazan" title="Elia Kazan">Elia Kazan</a></li>
+	</ul>
+				<p xmlns="http://www.w3.org/1999/xhtml">It was nominated for another five
+					Oscars:</p>
+				<ul xmlns="http://www.w3.org/1999/xhtml">
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actor" title="Academy Award for Best Actor">Academy Award for Best Actor</a> -
+						Gregory Peck</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actress" title="Academy Award for Best Actress">Academy Award for Best
+							Actress</a> - <a class="external" href="http://en.wikipedia.org/wiki/Dorothy_McGuire" title="Dorothy McGuire">Dorothy McGuire</a></li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Supporting_Actress" title="Academy Award for Best Supporting Actress">Academy Award for Best
+							Supporting Actress</a> - <a class="external" href="http://en.wikipedia.org/wiki/Anne_Revere" title="Anne Revere">Anne
+							Revere</a></li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Film_Editing" title="Academy Award for Film Editing">Academy Award for Film
+							Editing</a> - <a class="external" href="http://en.wikipedia.org/w/index.php?title=Harmon_Jones&amp;action=edit&amp;redlink=1" title="Harmon Jones (page does not exist)">Harmon Jones</a></li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Writing,_Screenplay" title="Academy Award for Best Writing, Screenplay">Academy Award for
+							Best Writing, Screenplay</a> - <a class="external" href="http://en.wikipedia.org/wiki/Moss_Hart" title="Moss Hart">Moss
+							Hart</a></li>
+	</ul>
+			</wiki:awards>
+			<h2 xmlns="http://www.w3.org/1999/xhtml">
+				<span class="mw-headline">External links</span>
+			</h2>
+			<ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/title/tt0039416/" title="http://www.imdb.com/title/tt0039416/" rel="nofollow">
+						<i>Gentleman's Agreement</i>
+					</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	<li><a href="http://tcmdb.com/title/title.jsp?stid=76108" title="http://tcmdb.com/title/title.jsp?stid=76108" rel="nofollow">
+						<i>Gentleman's Agreement</i>
+					</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Turner_Classic_Movies" title="Turner Classic Movies">TCM Movie Database</a></li>
+      </ul>
+		</wiki:description>
+	</wiki:film>
+</wiki:nominee>

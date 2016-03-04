@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="1927" span="2" winner="false" award="best-director" xmlns:wiki="http://marklogic.com/wikipedia">
+  <!--
+                            Copyright (c) 2010 MarkLogic Corporation.
+                            Permission is granted to copy, distribute and/or modify this document
+                            under the terms of the GNU Free Documentation License, Version 1.2
+                            or any later version published by the Free Software Foundation;
+                            with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+                            A copy of the license is included in the section entitled "GNU
+                            Free Documentation License"
+                            
+                            Content derived from http://en.wikipedia.org/wiki/Sorrell_and_Son and http://en.wikipedia.org/wiki/Herbert_Brenon
+                            Modified in May 2009 by Mark Logic Corporation under the terms of the GNU Free Documentation License.
+                        -->
+  <wiki:name link="/wiki/Herbert_Brenon">Herbert Brenon</wiki:name>
+  <wiki:person link="/wiki/Herbert_Brenon" name="Herbert Brenon">
+    <wiki:oscar year="1927" span="2" winner="false" award="best-director" film-link="/wiki/Sorrell_and_Son" film-title="Sorrell and Son"/>
+    <wiki:birth>
+      <wiki:date/>
+      <wiki:place>
+	<wiki:primary link=""/>
+	<wiki:secondary link=""/>
+      <enrich/></wiki:place>
+    </wiki:birth>
+    <wiki:description>
+      <wiki:abstract>
+	<p xmlns="http://www.w3.org/1999/xhtml"><b>Herbert Brenon</b> (January 13, 1880 â€“ June 21, 1958) was a film <a class="external" href="http://en.wikipedia.org/wiki/Film_director" title="Film director">director</a> during the era of <a class="external" href="http://en.wikipedia.org/wiki/Silent_movies" title="Silent movies">silent movies</a> through the 1930s. He was born in <a class="external" href="http://en.wikipedia.org/wiki/Dublin" title="Dublin">Dublin</a>, Ireland, and was educated at <a class="external" href="http://en.wikipedia.org/wiki/St_Paul%27s_School_(London)" title="St Paul's School (London)">St Paul's School</a> and at <a class="external" href="http://en.wikipedia.org/wiki/King%27s_College_London" title="King's College London">King's College London</a>. Before becoming a director, he performed in <a class="external" href="http://en.wikipedia.org/wiki/Vaudeville" title="Vaudeville">vaudeville</a> acts with his wife, <a class="external" href="http://en.wikipedia.org/w/index.php?title=Helen_Oberg&amp;action=edit&amp;redlink=1" title="Helen Oberg (page does not exist)">Helen Oberg</a>.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">Some of his more noteworthy films were the first movie adaptations of <i><a class="external" href="http://en.wikipedia.org/wiki/Peter_Pan_(1924_film)" title="Peter Pan (1924 film)">Peter Pan</a></i> (1924) and <i><a class="external" href="http://en.wikipedia.org/wiki/Beau_Geste_(1926_film)" title="Beau Geste (1926 film)">Beau Geste</a></i> (1926), <i><a class="external" href="http://en.wikipedia.org/wiki/Sorrell_and_Son" title="Sorrell and Son">Sorrell and Son</a></i> (1927) for which he was nominated for the <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Director" title="Academy Award for Best Director">Academy Award for Best Director</a> in the <a class="external" href="http://en.wikipedia.org/wiki/1st_Academy_Awards" title="1st Academy Awards">1st Academy Awards</a>, <i><a class="external" href="http://en.wikipedia.org/wiki/Laugh,_Clown,_Laugh" title="Laugh, Clown, Laugh">Laugh, Clown, Laugh</a></i> (1928) with <a class="external" href="http://en.wikipedia.org/wiki/Lon_Chaney,_Sr." title="Lon Chaney, Sr.">Lon Chaney, Sr.</a>, and <i><a class="external" href="http://en.wikipedia.org/wiki/The_Flying_Squad_(1940_film)" title="The Flying Squad (1940 film)">The Flying Squad</a></i> (1940), his last. He died in <a class="external" href="http://en.wikipedia.org/wiki/Los_Angeles" title="Los Angeles">Los Angeles</a>, <a class="external" href="http://en.wikipedia.org/wiki/California" title="California">California</a> and was interred in a private mausoleum at <a class="external" href="http://en.wikipedia.org/wiki/Woodlawn_Cemetery_(Bronx,_New_York)" title="Woodlawn Cemetery (Bronx, New York)">Woodlawn Cemetery</a>, <a class="external" href="http://en.wikipedia.org/wiki/Bronx" title="Bronx">Bronx</a>, <a class="external" href="http://en.wikipedia.org/wiki/NY" title="NY">NY</a>.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Selected_filmography">Selected filmography</span></h2>
+	<ul xmlns="http://www.w3.org/1999/xhtml">
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/Dr._Jekyll_and_Mr._Hyde_(1913_film)" title="Dr. Jekyll and Mr. Hyde (1913 film)">Dr. Jekyll and Mr. Hyde</a></i> (<a class="external" href="http://en.wikipedia.org/wiki/1913_in_film" title="1913 in film">1913</a>) with <a class="external" href="http://en.wikipedia.org/wiki/King_Baggot" title="King Baggot">King Baggot</a></li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/Absinthe" title="Absinthe">Absinthe</a></i> (1914)</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/Neptune%27s_Daughter_(1914_film)" title="Neptune's Daughter (1914 film)">Neptune's Daughter</a></i> (<a class="external" href="http://en.wikipedia.org/wiki/1914_in_film" title="1914 in film">1914</a>)</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Kreutzer_Sonata_(1915_film)" title="The Kreutzer Sonata (1915 film)">The Kreutzer Sonata</a></i> (1915) with Theda Bara</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Clemenceau_Case" title="The Clemenceau Case">The Clemenceau Case</a></i> (1915) with Theda Bara</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Two_Orphans_(1915_film)" title="The Two Orphans (1915 film)">The Two Orphans</a></i> (1915) with Theda Bara</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/Sin_(1915_film)" title="Sin (1915 film)">Sin</a></i> (<a class="external" href="http://en.wikipedia.org/wiki/1915_in_film" title="1915 in film">1915</a>) with <a class="external" href="http://en.wikipedia.org/wiki/Theda_Bara" title="Theda Bara">Theda Bara</a></li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/A_Daughter_of_the_Gods" title="A Daughter of the Gods">A Daughter of the Gods</a></i> (<a class="external" href="http://en.wikipedia.org/wiki/1916_in_film" title="1916 in film">1916</a>)</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/Moonshine_Valley" title="Moonshine Valley">Moonshine Valley</a></i> (<a class="external" href="http://en.wikipedia.org/wiki/1922_in_film" title="1922 in film">1922</a>)</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Spanish_Dancer_(1923_film)" title="The Spanish Dancer (1923 film)">The Spanish Dancer</a> (<a class="external" href="http://en.wikipedia.org/wiki/1923_in_film" title="1923 in film">1923</a>) with <a class="external" href="http://en.wikipedia.org/wiki/Pola_Negri" title="Pola Negri">Pola Negri</a> and <a class="external" href="http://en.wikipedia.org/wiki/Wallace_Beery" title="Wallace Beery">Wallace Beery</a></i></li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/Peter_Pan_(1924_film)" title="Peter Pan (1924 film)">Peter Pan</a></i> (<a class="external" href="http://en.wikipedia.org/wiki/1924_in_film" title="1924 in film">1924</a>)</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Great_Gatsby_(1926_film)" title="The Great Gatsby (1926 film)">The Great Gatsby</a></i> (1926) with <a class="external" href="http://en.wikipedia.org/wiki/Warner_Baxter" title="Warner Baxter">Warner Baxter</a></li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/Beau_Geste_(1926_film)" title="Beau Geste (1926 film)">Beau Geste</a></i> (<a class="external" href="http://en.wikipedia.org/wiki/1926_in_film" title="1926 in film">1926</a>) with Ronald Colman</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/Laugh,_Clown,_Laugh" title="Laugh, Clown, Laugh">Laugh, Clown, Laugh</a></i> (1928) with <a class="external" href="http://en.wikipedia.org/wiki/Lon_Chaney,_Sr." title="Lon Chaney, Sr.">Lon Chaney</a> and <a class="external" href="http://en.wikipedia.org/wiki/Loretta_Young" title="Loretta Young">Loretta Young</a></li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Rescue_(1929_film)" title="The Rescue (1929 film)">The Rescue</a></i> (1929) with <a class="external" href="http://en.wikipedia.org/wiki/Ronald_Colman" title="Ronald Colman">Ronald Colman</a> and <a class="external" href="http://en.wikipedia.org/wiki/Lily_Damita" title="Lily Damita">Lily Damita</a></li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/Honours_Easy" title="Honours Easy">Honours Easy</a></i> (1935)</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/Royal_Cavalcade" title="Royal Cavalcade">Royal Cavalcade</a></i> (1935)</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/Someone_at_the_Door_(1936_film)" title="Someone at the Door (1936 film)">Someone at the Door</a></i> (1936)</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/Living_Dangerously" title="Living Dangerously">Living Dangerously</a></i> (1936)</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/w/index.php?title=The_Live_Wire_(1937_film)&amp;action=edit&amp;redlink=1" title="The Live Wire (1937 film) (page does not exist)">The Live Wire</a></i> (1937)</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/w/index.php?title=The_Dominant_Sex&amp;action=edit&amp;redlink=1" title="The Dominant Sex (page does not exist)">The Dominant Sex</a></i> (1937)</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/w/index.php?title=Spring_Handicap&amp;action=edit&amp;redlink=1" title="Spring Handicap (page does not exist)">Spring Handicap</a></i> (1937)</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/w/index.php?title=Housemaster_(film)&amp;action=edit&amp;redlink=1" title="Housemaster (film) (page does not exist)">Housemaster</a></i> (1938)</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/Yellow_Sands_(film)" title="Yellow Sands (film)">Yellow Sands</a></i> (1938)</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/Black_Eyes_(film)" title="Black Eyes (film)">Black Eyes</a></i> (1939)</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Flying_Squad_(1940_film)" title="The Flying Squad (1940 film)">The Flying Squad</a></i> (1940)</li>
+	</ul>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+	<ul xmlns="http://www.w3.org/1999/xhtml">
+	  <li><a href="http://www.imdb.com/name/nm0107543/" rel="nofollow">Herbert Brenon</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	</ul>
+      </wiki:abstract>
+    </wiki:description>
+  </wiki:person>
+  <wiki:film-title link="/wiki/Sorrell_and_Son">Sorrell and Son</wiki:film-title>
+  <wiki:film link="/wiki/Sorrell_and_Son" title="Sorrell and Son">
+    <wiki:oscar-ref year="1927" span="2" winner="false" award="best-director" person-link="/wiki/Herbert_Brenon" person-name="Herbert Brenon"/>
+    <wiki:description>
+      <wiki:abstract>
+	<p xmlns="http://www.w3.org/1999/xhtml"><i><b>Sorrell and Son</b></i> (<a class="external" href="http://en.wikipedia.org/wiki/1927_in_film" title="1927 in film">1927</a>) was a <a class="external" href="http://en.wikipedia.org/wiki/Silent_film" title="Silent film">silent film</a> released on December 2, 1927 and nominated for the <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Director" title="Academy Award for Best Director">Academy Award for Best Director</a> in the <a class="external" href="http://en.wikipedia.org/wiki/1st_Academy_Awards" title="1st Academy Awards">1st Academy Awards</a> the following year. The film was based on the novel of the same name by <a class="external" href="http://en.wikipedia.org/wiki/Warwick_Deeping_(novelist)" title="Warwick Deeping (novelist)">Warwick Deeping</a>, Sorrell and Son, which became and remained a bestseller from its first publication in 1925 throughout the 1920s and 1930s.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">The screenplay was adapted by <a class="external" href="http://en.wikipedia.org/w/index.php?title=Elizabeth_Meehan&amp;action=edit&amp;redlink=1" title="Elizabeth Meehan (page does not exist)">Elizabeth Meehan</a>. It was written and directed by <a class="external" href="http://en.wikipedia.org/wiki/Herbert_Brenon" title="Herbert Brenon">Herbert Brenon</a>. Filming took place in <a class="external" href="http://en.wikipedia.org/wiki/England" title="England">England</a>.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">The film has been remade twice, once in 1934 with <a class="external" href="http://en.wikipedia.org/wiki/H.B._Warner" title="H.B. Warner">H.B. Warner</a> repeating his role as Stephen Sorrell, and as a British television serial in 1984.</p>
+      </wiki:abstract>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Cast">Cast</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/H.B._Warner" title="H.B. Warner">H.B. Warner</a> as Stephen Sorrell</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Anna_Q._Nilsson" title="Anna Q. Nilsson">Anna Q. Nilsson</a> as Dora Sorrell</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Mickey_McBan" title="Mickey McBan">Mickey McBan</a> as Kit (as a child)</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Carmel_Myers" title="Carmel Myers">Carmel Myers</a> as Flo Palfrey</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Lionel_Belmore" title="Lionel Belmore">Lionel Belmore</a> as John Palfrey</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Norman_Trevor" title="Norman Trevor">Norman Trevor</a> as Thomas Roland</li>
+	<li><a class="external" href="http://en.wikipedia.org/w/index.php?title=Betsy_Ann_Hisle&amp;action=edit&amp;redlink=1" title="Betsy Ann Hisle (page does not exist)">Betsy Ann Hisle</a> as Molly (as a child)</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Louis_Wolheim" title="Louis Wolheim">Louis Wolheim</a> as Buck</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Paul_McAllister" title="Paul McAllister">Paul McAllister</a> as Dr. Orange</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Alice_Joyce" title="Alice Joyce">Alice Joyce</a> as Fanny Garland</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Nils_Asther" title="Nils Asther">Nils Asther</a> as Christopher 'Kit' Sorrell</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Mary_Imogene_Robertson" title="Mary Imogene Robertson">Mary Nolan</a> as Molly Roland</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/title/tt0018429/" rel="nofollow"><i>Sorrell and Son (1927)</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	<li><a href="http://www.imdb.com/title/tt0025814/" rel="nofollow"><i>Sorrell and Son (1934)</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	<li><a href="http://www.imdb.com/title/tt0324912/" rel="nofollow"><i>Sorrell and Son (1984)</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+      </ul>
+    </wiki:description>
+  </wiki:film>
+</wiki:nominee>

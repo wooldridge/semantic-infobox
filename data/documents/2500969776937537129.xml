@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="1936" span="1" winner="false" award="best-picture" xmlns:wiki="http://marklogic.com/wikipedia">
+  <!--
+                            Copyright (c) 2010 MarkLogic Corporation.
+                            Permission is granted to copy, distribute and/or modify this document
+                            under the terms of the GNU Free Documentation License, Version 1.2
+                            or any later version published by the Free Software Foundation;
+                            with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+                            A copy of the license is included in the section entitled "GNU
+                            Free Documentation License"
+                            
+                            Content derived from http://en.wikipedia.org/wiki/Libeled_Lady
+                            Modified in May 2009 by Mark Logic Corporation under the terms of the GNU Free Documentation License.
+                        -->
+  <wiki:film-title link="/wiki/Libeled_Lady">Libeled Lady</wiki:film-title>
+  <wiki:film link="/wiki/Libeled_Lady" title="Libeled Lady">
+    <wiki:oscar year="1936" span="1" winner="false" award="best-picture"/>
+    <wiki:producer link="/wiki/Lawrence_Weingarten">Lawrence Weingarten</wiki:producer>
+    <wiki:director link="/wiki/Jack_Conway_(film-maker)">Jack Conway</wiki:director>
+    <wiki:writer link="/wiki/Maurine_Dallas_Watkins">Maurine Dallas Watkins</wiki:writer>
+    <wiki:distributor link="/wiki/Metro-Goldwyn-Mayer">Metro-Goldwyn-Mayer</wiki:distributor>
+    <wiki:starring link="/wiki/Jean_Harlow">Jean Harlow</wiki:starring>
+    <wiki:starring link="/wiki/William_Powell">William Powell</wiki:starring>
+    <wiki:starring link="/wiki/Myrna_Loy">Myrna Loy</wiki:starring>
+    <wiki:starring link="/wiki/Spencer_Tracy">Spencer Tracy</wiki:starring>
+    <wiki:starring link="/wiki/Walter_Connolly">Walter Connolly</wiki:starring>
+    <wiki:description>
+      <wiki:abstract>
+	<p xmlns="http://www.w3.org/1999/xhtml"><i><b>Libeled Lady</b></i> is a 1936 <a class="external" href="http://en.wikipedia.org/wiki/Screwball_comedy" title="Screwball comedy">screwball comedy</a> film starring <a class="external" href="http://en.wikipedia.org/wiki/Jean_Harlow" title="Jean Harlow">Jean Harlow</a>, <a class="external" href="http://en.wikipedia.org/wiki/William_Powell" title="William Powell">William Powell</a> (who were romantically involved at the time), <a class="external" href="http://en.wikipedia.org/wiki/Myrna_Loy" title="Myrna Loy">Myrna Loy</a> and <a class="external" href="http://en.wikipedia.org/wiki/Spencer_Tracy" title="Spencer Tracy">Spencer Tracy</a>. The movie was written by George Oppenheimer, Howard Emmett Rogers, Wallace Sullivan and <a class="external" href="http://en.wikipedia.org/wiki/Maurine_Dallas_Watkins" title="Maurine Dallas Watkins">Maurine Dallas Watkins</a>, and directed by <a class="external" href="http://en.wikipedia.org/wiki/Jack_Conway_(film-maker)" title="Jack Conway (film-maker)">Jack Conway</a>.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml"><i>Libeled Lady</i> was nominated for the <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture" title="Academy Award for Best Picture">Academy Award for Best Picture</a>. The film was <a class="external" href="http://en.wikipedia.org/wiki/Remake" title="Remake">remade</a> in 1946 as <i><a class="external" href="http://en.wikipedia.org/wiki/Easy_to_Wed" title="Easy to Wed">Easy to Wed</a></i> with <a class="external" href="http://en.wikipedia.org/wiki/Esther_Williams" title="Esther Williams">Esther Williams</a>, <a class="external" href="http://en.wikipedia.org/wiki/Van_Johnson" title="Van Johnson">Van Johnson</a>, and <a class="external" href="http://en.wikipedia.org/wiki/Lucille_Ball" title="Lucille Ball">Lucille Ball</a>.</p>
+      </wiki:abstract>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Plot">Plot</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">Wealthy Connie Allenbury (<a class="external" href="http://en.wikipedia.org/wiki/Myrna_Loy" title="Myrna Loy">Myrna Loy</a>) is falsely accused of breaking up a marriage and sues the <i>New York Evening Star</i> newspaper for $5,000,000 for <a class="external" href="http://en.wikipedia.org/wiki/Libel" title="Libel">libel</a>. Warren Haggerty (<a class="external" href="http://en.wikipedia.org/wiki/Spencer_Tracy" title="Spencer Tracy">Spencer Tracy</a>), the chief editor, desperately turns to former reporter and suave ladies' man Bill Chandler (<a class="external" href="http://en.wikipedia.org/wiki/William_Powell" title="William Powell">William Powell</a>) for help.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Bill figures that, if he can maneuver Connie into being alone with him when his wife shows up, the suit will have to be dropped. Chandler is not married, so Warren volunteers his long-suffering fiancÃ©e, Gladys Benton (<a class="external" href="http://en.wikipedia.org/wiki/Jean_Harlow" title="Jean Harlow">Jean Harlow</a>), over her loud protests.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Bill arranges to return to America from England on the same ocean liner as Connie and her father J. B. (<a class="external" href="http://en.wikipedia.org/wiki/Walter_Connolly" title="Walter Connolly">Walter Connolly</a>). He pays some men to pose as reporters and harass Connie at the dock, so that he can "rescue" her and become acquainted. On the sea voyage, Connie initially treats him with contempt, assuming that he is just the latest in a long line of fortune hunters after her money, but Bill gradually overcomes her suspicions.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Production">Production</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml"><i>Libeled Lady</i> went into production in mid-July 1936 and wrapped on 1 September. Location shooting took place in <a class="external" href="http://en.wikipedia.org/wiki/Sonora,_California" title="Sonora, California">Sonora, California</a>.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml"><a class="external" href="http://en.wikipedia.org/wiki/Lionel_Barrymore" title="Lionel Barrymore">Lionel Barrymore</a> was originally cast as Mr. Allenbury, while <a class="external" href="http://en.wikipedia.org/wiki/Rosalind_Russell" title="Rosalind Russell">Rosalind Russell</a> was originally considered to play Connie Allenbury.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Jean Harlow and William Powell were an off-screen couple, and Harlow wanted to play Connie Allenbury, so that her character and Powell's would wind up together. MGM insisted, however, that the film be another William Powell-Myrna Loy vehicle, as they originally intended. Harlow had already signed on to do the film but had to settle for the role of Gladys Benton. Nevertheless, as Gladys, top-billed Harlow got to play a wedding scene with Powell. During filming, Harlow changed her legal name from her birth name of Harlean Carpenter McGrew Bern Rosson to Jean Harlow. She would make only two more films before dying at the age of 26 in 1937.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Reception">Reception</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml"><i>Libeled Lady</i> was released on 9 October 1936, and earned $2.7 million at the box office. It received an <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award" title="Academy Award">Academy Award</a> nomination as Best Picture in 1937, but lost to <i><a class="external" href="http://en.wikipedia.org/wiki/The_Great_Ziegfeld" title="The Great Ziegfeld">The Great Ziegfeld</a></i>, which also starred William Powell and Myrna Loy.<br style="clear:both"/></p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Cast">Cast</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>Although he played many other roles as well in the 96 films he made in his ten year film career, E.E. Clive often played butlers, as in this film. <a class="external" href="http://en.wikipedia.org/wiki/Hattie_McDaniel" title="Hattie McDaniel">Hattie McDaniel</a> made a brief appearance as a maid, a role she played with great frequency. Billy Benedict (one of the original "<a class="external" href="http://en.wikipedia.org/wiki/The_Bowery_Boys" title="The Bowery Boys">The Bowery Boys</a>") had a key supporting role as 'Johnny'.</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Notes">Notes</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/title/tt0027884/" rel="nofollow"><i>Libeled Lady</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	<li><a href="http://tcmdb.com/title/title.jsp?stid=2363" rel="nofollow"><i>Libeled Lady</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Turner_Classic_Movies" title="Turner Classic Movies">TCM Movie Database</a></li>
+	<li><a href="http://www.allmovie.com/work/29138" rel="nofollow"><i>Libeled Lady</i></a> at <a class="external" href="http://en.wikipedia.org/wiki/Allmovie" title="Allmovie">Allmovie</a></li>
+	<li><a href="http://www.rottentomatoes.com/m/libeled_lady/" rel="nofollow"><i>Libeled Lady</i></a> at <a class="external" href="http://en.wikipedia.org/wiki/Rotten_Tomatoes" title="Rotten Tomatoes">Rotten Tomatoes</a></li>
+      </ul>
+    </wiki:description>
+  </wiki:film>
+</wiki:nominee>

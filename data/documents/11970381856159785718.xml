@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="1993" span="1" winner="false" award="supporting-actress" xmlns:wiki="http://marklogic.com/wikipedia">
+  <!--
+                            Copyright (c) 2010 MarkLogic Corporation.
+                            Permission is granted to copy, distribute and/or modify this document
+                            under the terms of the GNU Free Documentation License, Version 1.2
+                            or any later version published by the Free Software Foundation;
+                            with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+                            A copy of the license is included in the section entitled "GNU
+                            Free Documentation License"
+                            
+                            Content derived from http://en.wikipedia.org/wiki/Fearless_(1993_film) and http://en.wikipedia.org/wiki/Rosie_Perez
+                            Modified in May 2009 by Mark Logic Corporation under the terms of the GNU Free Documentation License.
+                        -->
+  <wiki:name link="/wiki/Rosie_Perez">Rosie Perez</wiki:name>
+  <wiki:person link="/wiki/Rosie_Perez" name="Rosie Perez">
+    <wiki:oscar year="1993" span="1" winner="false" award="supporting-actress" film-link="/wiki/Fearless_(1993_film)" film-title="Fearless"/>
+    <wiki:image link="http://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Rosie_Perez_portrait_2009.jpg/220px-Rosie_Perez_portrait_2009.jpg"/>
+    <wiki:birth>
+      <wiki:date>1964-09-06</wiki:date>
+      <wiki:place>
+	<wiki:primary link="/wiki/Bushwick,_Brooklyn">Bushwick</wiki:primary>
+	<wiki:secondary link="/wiki/New_York">New York</wiki:secondary>
+      <enrich><woeid xmlns="http://where.yahooapis.com/v1/schema.rng">12589335</woeid><placeTypeName code="9" xmlns="http://where.yahooapis.com/v1/schema.rng">County</placeTypeName><name xmlns="http://where.yahooapis.com/v1/schema.rng">Brooklyn</name><country code="US" type="Country" xmlns="http://where.yahooapis.com/v1/schema.rng">United States</country><admin1 code="US-NY" type="State" xmlns="http://where.yahooapis.com/v1/schema.rng">New York</admin1><admin2 code="" type="County" xmlns="http://where.yahooapis.com/v1/schema.rng">Brooklyn</admin2><admin3 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality1 type="Town" xmlns="http://where.yahooapis.com/v1/schema.rng">New York</locality1><locality2 xmlns="http://where.yahooapis.com/v1/schema.rng"/><postal xmlns="http://where.yahooapis.com/v1/schema.rng"/><centroid xmlns="http://where.yahooapis.com/v1/schema.rng"><latitude>40.655071</latitude><longitude>-73.948883</longitude></centroid><boundingBox xmlns="http://where.yahooapis.com/v1/schema.rng"><southWest><latitude>40.570679</latitude><longitude>-74.042068</longitude></southWest><northEast><latitude>40.739471</latitude><longitude>-73.833359</longitude></northEast></boundingBox><areaRank xmlns="http://where.yahooapis.com/v1/schema.rng">5</areaRank><popRank xmlns="http://where.yahooapis.com/v1/schema.rng">0</popRank></enrich></wiki:place>
+    </wiki:birth>
+    <wiki:description>
+      <wiki:abstract>
+	<p xmlns="http://www.w3.org/1999/xhtml"><b>Rosa MarÃ­a "Rosie" PÃ©rez</b> (born September 6, 1964) is an <a class="external" href="http://en.wikipedia.org/wiki/United_States" title="United States">American</a> <a class="external" href="http://en.wikipedia.org/wiki/Actress" title="Actress">actress</a>, <a class="external" href="http://en.wikipedia.org/wiki/Dancer" title="Dancer">dancer</a>, <a class="external" href="http://en.wikipedia.org/wiki/Choreographer" title="Choreographer">choreographer</a>, <a class="external" href="http://en.wikipedia.org/wiki/Film_director" title="Film director">director</a> and <a class="external" href="http://en.wikipedia.org/wiki/Activist" title="Activist">community activist</a>.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Early_life">Early life</span></h2>
+	<p xmlns="http://www.w3.org/1999/xhtml">PÃ©rez was born in the <a class="external" href="http://en.wikipedia.org/wiki/Brooklyn" title="Brooklyn">Brooklyn</a>, <a class="external" href="http://en.wikipedia.org/wiki/New_York" title="New York">New York</a> neighborhood of <a class="external" href="http://en.wikipedia.org/wiki/Bushwick,_Brooklyn" title="Bushwick, Brooklyn">Bushwick</a> to Puerto Rican parents. Her mother, Lydia PÃ©rez (<a class="external" href="http://en.wikipedia.org/wiki/Married_and_maiden_names" title="Married and maiden names">nÃ©e</a> FontaÃ±ez), a singer, was married to Ventura PÃ©rez at the time of Rosie's birth. However, Rosie's biological father is Ismael Serrano, a <a class="external" href="http://en.wikipedia.org/wiki/Merchant_Marine" title="Merchant Marine">Merchant Marine</a> with whom her mother had had an affair. Much of her young life was spent in foster care. She attended <a class="external" href="http://en.wikipedia.org/wiki/Grover_Cleveland_High_School_(New_York_City)" title="Grover Cleveland High School (New York City)">Grover Cleveland High School</a>, which is located in <a class="external" href="http://en.wikipedia.org/wiki/Ridgewood,_Queens" title="Ridgewood, Queens">Ridgewood</a>, in the New York City borough of <a class="external" href="http://en.wikipedia.org/wiki/Queens" title="Queens">Queens</a>, and <a class="external" href="http://en.wikipedia.org/wiki/Los_Angeles_City_College" title="Los Angeles City College">Los Angeles City College</a> in <a class="external" href="http://en.wikipedia.org/wiki/Los_Angeles" title="Los Angeles">Los Angeles</a>, <a class="external" href="http://en.wikipedia.org/wiki/California" title="California">California</a>.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Career">Career</span></h2>
+	<p xmlns="http://www.w3.org/1999/xhtml">PÃ©rez started her career in the late 1980s as a dancer on <i><a class="external" href="http://en.wikipedia.org/wiki/Soul_Train" title="Soul Train">Soul Train</a></i> and has choreographed <a class="external" href="http://en.wikipedia.org/wiki/Music_video" title="Music video">music videos</a> by <a class="external" href="http://en.wikipedia.org/wiki/Janet_Jackson" title="Janet Jackson">Janet Jackson</a>, <a class="external" href="http://en.wikipedia.org/wiki/Bobby_Brown" title="Bobby Brown">Bobby Brown</a>, <a class="external" href="http://en.wikipedia.org/wiki/Diana_Ross" title="Diana Ross">Diana Ross</a>, <a class="external" href="http://en.wikipedia.org/wiki/LL_Cool_J" title="LL Cool J">LL Cool J</a> and <a class="external" href="http://en.wikipedia.org/wiki/The_Boys_(band)" title="The Boys (band)">The Boys</a>. She was the choreographer for the dancing group the <a class="external" href="http://en.wikipedia.org/wiki/List_of_In_Living_Color_cast_members#Fly_Girls_.28house_dance_troupe.29" title="List of In Living Color cast members">Fly Girls</a> who were featured on every performance of <i><a class="external" href="http://en.wikipedia.org/wiki/In_Living_Color" title="In Living Color">In Living Color</a></i>. She was noticed in a dance club by <a class="external" href="http://en.wikipedia.org/wiki/Spike_Lee" title="Spike Lee">Spike Lee</a> in 1988, who hired her for her first major acting role in <i><a class="external" href="http://en.wikipedia.org/wiki/Do_the_Right_Thing" title="Do the Right Thing">Do the Right Thing</a></i>.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">She made her <a class="external" href="http://en.wikipedia.org/wiki/Broadway_theatre" title="Broadway theatre">Broadway</a> debut in <a class="external" href="http://en.wikipedia.org/wiki/Terrence_McNally" title="Terrence McNally">Terrence McNally</a>'s <i><a class="external" href="http://en.wikipedia.org/wiki/Frankie_and_Johnny_in_the_Clair_de_Lune" title="Frankie and Johnny in the Clair de Lune">Frankie and Johnny in the Clair de Lune</a></i>. Perez had her third major role in the hit comedy <i><a class="external" href="http://en.wikipedia.org/wiki/White_Men_Can%27t_Jump" title="White Men Can't Jump">White Men Can't Jump</a></i> co-starring <a class="external" href="http://en.wikipedia.org/wiki/Wesley_Snipes" title="Wesley Snipes">Wesley Snipes</a> and <a class="external" href="http://en.wikipedia.org/wiki/Woody_Harrelson" title="Woody Harrelson">Woody Harrelson</a>.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">PÃ©rez was nominated for the <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Supporting_Actress" title="Academy Award for Best Supporting Actress">Oscar for Best Supporting Actress</a> for her role in <a class="external" href="http://en.wikipedia.org/wiki/Peter_Weir" title="Peter Weir">Peter Weir</a>'s 1993 film <i><a class="external" href="http://en.wikipedia.org/wiki/Fearless_(1993_film)" title="Fearless (1993 film)">Fearless</a></i>. In 1997, she starred in <i><a class="external" href="http://en.wikipedia.org/wiki/Perdita_Durango" title="Perdita Durango">Perdita Durango</a></i>, a controversial film in which many scenes of excessive violence, sex and nudity were edited out of the version released in the United States, but remained intact in the version released throughout Latin America.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">She provides the voices of Click, the camera, on <a class="external" href="http://en.wikipedia.org/wiki/Nick_Jr._(block)" title="Nick Jr. (block)">Nick Jr.</a>'s <i><a class="external" href="http://en.wikipedia.org/wiki/Go,_Diego,_Go!" title="Go, Diego, Go!">Go, Diego, Go!</a></i> and Chel, a beautiful native woman in the <a class="external" href="http://en.wikipedia.org/wiki/DreamWorks_Animation" title="DreamWorks Animation">DreamWorks Animation</a> film <i><a class="external" href="http://en.wikipedia.org/wiki/The_Road_to_El_Dorado" title="The Road to El Dorado">The Road to El Dorado</a></i>. She played corrupt police officer Carol Brazier in the <a class="external" href="http://en.wikipedia.org/wiki/Judd_Apatow" title="Judd Apatow">Judd Apatow</a>-produced film <i><a class="external" href="http://en.wikipedia.org/wiki/Pineapple_Express_(film)" title="Pineapple Express (film)">Pineapple Express</a></i> co-starring <a class="external" href="http://en.wikipedia.org/wiki/Seth_Rogen" title="Seth Rogen">Seth Rogen</a> and <a class="external" href="http://en.wikipedia.org/wiki/James_Franco" title="James Franco">James Franco</a>. It was announced in August 2009 that Perez would appear on an episode of <i><a class="external" href="http://en.wikipedia.org/wiki/Law_%26_Order:_Special_Victims_Unit" title="Law &amp; Order: Special Victims Unit">Law &amp; Order: Special Victims Unit</a></i> in October 2009 about pedophiles' rights. Executive producer Neil Baer said the writers had Perez in mind when they wrote the role of a young sexual abuse victimâ€™s mother. She suffered a serious injury during the filming of the episode. Most recently, Perez is the subject of a released album by <a class="external" href="http://en.wikipedia.org/wiki/Felt_(hip_hop)" title="Felt (hip hop)">Felt</a> entitled <i><a class="external" href="http://en.wikipedia.org/wiki/Felt_3:_A_Tribute_To_Rosie_Perez" title="Felt 3: A Tribute To Rosie Perez">Felt 3: A Tribute To Rosie Perez</a></i>.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Activism">Activism</span></h2>
+	<p xmlns="http://www.w3.org/1999/xhtml">PÃ©rez is an activist for Puerto Rican rights. Her film <i>Yo Soy Boricua! Pa' Que TÃº Lo Sepas!</i> (<i>I'm Puerto Rican, Just So You Know!</i>) documents her activism. She starred in and directed the Spanish <a class="external" href="http://en.wikipedia.org/wiki/AIDS" title="AIDS">AIDS</a> PSA campaign "Join the Fight" for Cable Positive and <a class="external" href="http://en.wikipedia.org/wiki/Kismet_Films" title="Kismet Films">Kismet Films</a>. The campaign featured actor <a class="external" href="http://en.wikipedia.org/wiki/Wilmer_Valderrama" title="Wilmer Valderrama">Wilmer Valderrama</a>, <a class="external" href="http://en.wikipedia.org/wiki/Black_Entertainment_Television" title="Black Entertainment Television">BET</a>'s <a class="external" href="http://en.wikipedia.org/wiki/Julissa_Bermudez" title="Julissa Bermudez">Julissa Bermudez</a>, <a class="external" href="http://en.wikipedia.org/wiki/Telenovela" title="Telenovela">Telenovela</a> actor <a class="external" href="http://en.wikipedia.org/wiki/Erick_Elias" title="Erick Elias">Erick Elias</a>, singer/actress <a class="external" href="http://en.wikipedia.org/wiki/Lorena_Rojas" title="Lorena Rojas">Lorena Rojas</a>, 2006-2007 <a class="external" href="http://en.wikipedia.org/wiki/Miss_Universe" title="Miss Universe">Miss Universe</a> <a class="external" href="http://en.wikipedia.org/wiki/Zuleyka_Rivera" title="Zuleyka Rivera">Zuleyka Rivera</a> and actress <a class="external" href="http://en.wikipedia.org/wiki/Judy_Marte" title="Judy Marte">Judy Marte</a>. An <a class="external" href="http://en.wikipedia.org/wiki/English_language" title="English language">English-language</a> campaign was also directed by <a class="external" href="http://en.wikipedia.org/wiki/Liev_Schreiber" title="Liev Schreiber">Liev Schreiber</a>. President <a class="external" href="http://en.wikipedia.org/wiki/Barack_Obama" title="Barack Obama">Barack Obama</a> appointed her to The Presidential Advisory Council on HIV/AIDS (PACHA). She was sworn in on February 2, 2010.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">On January 6, 2000, she was arrested for <a class="external" href="http://en.wikipedia.org/wiki/Disorderly_conduct" title="Disorderly conduct">disorderly conduct</a> in <a class="external" href="http://en.wikipedia.org/wiki/Manhattan" title="Manhattan">Manhattan</a> following a rally to <a class="external" href="http://en.wikipedia.org/wiki/Navy-Vieques_protests" title="Navy-Vieques protests">protest</a> <a class="external" href="http://en.wikipedia.org/wiki/United_States_Navy" title="United States Navy">U.S. Navy</a> air weapons training, as well as other forms of payload on the government training range owned at <a class="external" href="http://en.wikipedia.org/wiki/Vieques,_Puerto_Rico" title="Vieques, Puerto Rico">Vieques</a>, itself a small island off the coast of then-<a class="external" href="http://en.wikipedia.org/wiki/Roosevelt_Roads_Naval_Station" title="Roosevelt Roads Naval Station">Roosevelt Roads Naval Station</a> ("Rosie Roads" itself was built in eastern <a class="external" href="http://en.wikipedia.org/wiki/Puerto_Rico" title="Puerto Rico">Puerto Rico</a> near <a class="external" href="http://en.wikipedia.org/wiki/Ceiba,_Puerto_Rico" title="Ceiba, Puerto Rico">Ceiba</a>, as a result of <a class="external" href="http://en.wikipedia.org/wiki/World_War_I" title="World War I">World War I</a> in 1919, and was important to the anti-<a class="external" href="http://en.wikipedia.org/wiki/Hitler" title="Hitler">Hitler</a> effort in <a class="external" href="http://en.wikipedia.org/wiki/World_War_II" title="World War II">World War II</a> â€” and other national protection efforts since until its recent closure).</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Filmography">Filmography</span></h2>
+	<ul xmlns="http://www.w3.org/1999/xhtml">
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/Do_the_Right_Thing" title="Do the Right Thing">Do the Right Thing</a></i> (1989) .... Tina</li>
+	  <li><i>Criminal Justice</i> (1990) .... Denise Moore</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/Night_on_Earth_(film)" title="Night on Earth (film)">Night on Earth</a></i> (1991) .... Angela</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/White_Men_Can%27t_Jump" title="White Men Can't Jump">White Men Can't Jump</a></i> (1992) .... Gloria Clemente</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/Untamed_Heart" title="Untamed Heart">Untamed Heart</a></i> (1993) .... Cindy</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/Fearless_(1993_film)" title="Fearless (1993 film)">Fearless</a></i> (1993) .... Carla Rodrigo</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/It_Could_Happen_to_You_(film)" title="It Could Happen to You (film)">It Could Happen to You</a></i> (1994) .... Muriel Lang</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/w/index.php?title=Somebody_to_Love_(film)&amp;action=edit&amp;redlink=1" title="Somebody to Love (film) (page does not exist)">Somebody to Love</a></i> (1994) .... Mercedes</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/Thumbelina" title="Thumbelina">Thumbelina</a></i> (1995).... Thumbelina</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/w/index.php?title=A_Brother%27s_Kiss&amp;action=edit&amp;redlink=1" title="A Brother's Kiss (page does not exist)">A Brother's Kiss</a></i> (1997) .... Debbie</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/Subway_Stories" title="Subway Stories">Subway Stories: Tales from the Underground</a></i> (1997) .... Mystery Girl</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/Perdita_Durango" title="Perdita Durango">Perdita Durango</a></i> (1997) .... Perdita Durango</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/The_24_Hour_Woman" title="The 24 Hour Woman">The 24 Hour Woman</a></i> (1999) .... Grace Santos</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Road_to_El_Dorado" title="The Road to El Dorado">The Road to El Dorado</a></i> (2000) (voice) .... Chel</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/Human_Nature_(film)" title="Human Nature (film)">Human Nature</a></i> (2001) .... Louise</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/Riding_in_Cars_with_Boys" title="Riding in Cars with Boys">Riding in Cars with Boys</a></i> (2001) .... Shirley Perr</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/King_of_the_Jungle_(film)" title="King of the Jungle (film)">King of the Jungle</a></i> (2001) .... Joanne</li>
+	  <li><i>Widows</i> (2002) .... Linda</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/w/index.php?title=From_the_104th_Floor&amp;action=edit&amp;redlink=1" title="From the 104th Floor (page does not exist)">From the 104th Floor</a></i> (2003) (voice) .... Narrator</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/w/index.php?title=Exactly&amp;action=edit&amp;redlink=1" title="Exactly (page does not exist)">Exactly</a></i> (2004) ....Angela</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/Lackawanna_Blues" title="Lackawanna Blues">Lackawanna Blues</a></i> (2004) ....Bertha</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/Just_Like_the_Son" title="Just Like the Son">Just Like the Son</a></i> (2006) .... Mrs. Ponders</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Take_(2008_film)" title="The Take (2008 film)">The Take</a></i> (2008) ....Marina De La Pena</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/Pineapple_Express_(film)" title="Pineapple Express (film)">Pineapple Express</a></i> (2008) .... Officer Carol Brazier</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/Lipstick_Jungle_(TV_series)" title="Lipstick Jungle (TV series)">Lipstick Jungle</a></i> (2008) ....Dahlia</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/Law_and_Order:_Special_Victims_Unit" title="Law and Order: Special Victims Unit">Law and Order: Special Victims Unit</a></i> (2009) .... Eva Banks (Episode 1105: Hardwired)</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Other_Guys" title="The Other Guys">The Other Guys</a></i> (2010) .... Herself</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/w/index.php?title=Lies_in_Plain_Sight&amp;action=edit&amp;redlink=1" title="Lies in Plain Sight (page does not exist)">Lies in Plain Sight</a></i> (2010)....Marisol Reyes</li>
+	</ul>
+	<ul xmlns="http://www.w3.org/1999/xhtml">
+	  <li><i>Subway Stories: Tales from the Underground</i> (1997)</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/The_24_Hour_Woman" title="The 24 Hour Woman">The 24 Hour Woman</a></i> (1999)</li>
+	</ul>
+	<ul xmlns="http://www.w3.org/1999/xhtml">
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/Do_the_Right_Thing" title="Do the Right Thing">Do the Right Thing</a></i> (1989)</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/In_Living_Color" title="In Living Color">In Living Color</a></i> (1990-1992)</li>
+	</ul>
+	<ul xmlns="http://www.w3.org/1999/xhtml">
+	  <li><i><a class="external" href="http://en.wikipedia.org/w/index.php?title=Yo_Soy_Boricua!_Pa%27_Que_Tu_Lo_Sepas!&amp;action=edit&amp;redlink=1" title="Yo Soy Boricua! Pa' Que Tu Lo Sepas! (page does not exist)">Yo Soy Boricua! Pa' Que Tu Lo Sepas!</a></i> (I'm Boricua, Just So You Know!) (2005)</li>
+	</ul>
+	<ul xmlns="http://www.w3.org/1999/xhtml">
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/The_World_Should_Revolve_Around_Me" title="The World Should Revolve Around Me">The World Should Revolve Around Me</a></i> (2008)</li>
+	</ul>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="See_also">See also</span></h2>
+	<ul xmlns="http://www.w3.org/1999/xhtml">
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/List_of_famous_Puerto_Ricans" title="List of famous Puerto Ricans">List of famous Puerto Ricans</a></li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/List_of_Puerto_Ricans_in_the_Academy_Awards" title="List of Puerto Ricans in the Academy Awards">List of Puerto Ricans in the Academy Awards</a></li>
+	</ul>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="References">References</span></h2>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+	<ul xmlns="http://www.w3.org/1999/xhtml">
+	  <li><a href="http://www.imdb.com/name/nm0001609/" rel="nofollow">Rosie Perez</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	  <li><a href="http://www.ibdb.com/person.asp?ID=106051" rel="nofollow">Rosie Perez</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Broadway_Database" title="Internet Broadway Database">Internet Broadway Database</a></li>
+	  <li><a href="http://www.lortel.org/LLA_archive/index.cfm?search_by=people&amp;first=Rosie&amp;last=Perez&amp;middle=" rel="nofollow">Rosie Perez</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Lortel_Archives" title="Lortel Archives">Internet Off-Broadway Database</a></li>
+	  <li><a href="http://www.kismetfilms.com/psa2006" rel="nofollow">2006-2007 Join the Fight PSA Campaign</a></li>
+	  <li><a href="http://www.independentfilm.com/festivals/videogalleryfest/rosie-perez-yo-soy-boricua.shtml" rel="nofollow">Watch: Rosie Perez interview about her Documentary "Yo Soy Boricua" on independentfilm.com</a></li>
+	</ul>
+      </wiki:abstract>
+    </wiki:description>
+  </wiki:person>
+  <wiki:film-title link="/wiki/Fearless_(1993_film)">Fearless</wiki:film-title>
+  <wiki:film link="/wiki/Fearless_(1993_film)" title="Fearless">
+    <wiki:oscar-ref year="1993" span="1" winner="false" award="supporting-actress" person-link="/wiki/Rosie_Perez" person-name="Rosie Perez"/>
+    <wiki:director link="/wiki/Peter_Weir">Peter Weir</wiki:director>
+    <wiki:writer link="/wiki/Rafael_Yglesias">Rafael Yglesias</wiki:writer>
+    <wiki:distributor link="/wiki/Warner_Bros.">Warner Bros.</wiki:distributor>
+    <wiki:starring link="/wiki/Jeff_Bridges">Jeff Bridges</wiki:starring>
+    <wiki:starring link="/wiki/Isabella_Rossellini">Isabella Rossellini</wiki:starring>
+    <wiki:starring link="/wiki/Rosie_Perez">Rosie Perez</wiki:starring>
+    <wiki:starring link="/wiki/Tom_Hulce">Tom Hulce</wiki:starring>
+    <wiki:starring link="/wiki/Benicio_del_Toro">Benicio del Toro</wiki:starring>
+    <wiki:starring link="/wiki/John_Turturro">John Turturro</wiki:starring>
+    <wiki:starring link="/wiki/Deirdre_O%27Connell_(actress)">Deirdre O'Connell</wiki:starring>
+    <wiki:language link="/wiki/English_language">English</wiki:language>
+    <wiki:description>
+      <wiki:abstract>
+	<p xmlns="http://www.w3.org/1999/xhtml"><i>For the Jet Li film of the same title see <a class="external" href="http://en.wikipedia.org/wiki/Fearless_(2006_film)" title="Fearless (2006 film)">Fearless (2006 film)</a></i></p>
+	<p xmlns="http://www.w3.org/1999/xhtml"><i><b>Fearless</b></i> is a 1993 film directed by <a class="external" href="http://en.wikipedia.org/wiki/Peter_Weir" title="Peter Weir">Peter Weir</a> and written by <a class="external" href="http://en.wikipedia.org/wiki/Rafael_Yglesias" title="Rafael Yglesias">Rafael Yglesias</a> from his novel of the same name. It was shot entirely in <a class="external" href="http://en.wikipedia.org/wiki/California" title="California">California</a>.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml"><a class="external" href="http://en.wikipedia.org/wiki/Rosie_Perez" title="Rosie Perez">Rosie Perez</a> was nominated for an <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Supporting_Actress" title="Academy Award for Best Supporting Actress">Academy Award for Best Supporting Actress</a> for her role as Carla Rodrigo. (She lost to <a class="external" href="http://en.wikipedia.org/wiki/Anna_Paquin" title="Anna Paquin">Anna Paquin</a> for <i><a class="external" href="http://en.wikipedia.org/wiki/The_Piano" title="The Piano">The Piano</a></i>.) <a class="external" href="http://en.wikipedia.org/wiki/Jeff_Bridges" title="Jeff Bridges">Jeff Bridges</a>' role as Max Klein is widely regarded as one of the best performances of his career. The film's soundtrack features part of the first movement of <a class="external" href="http://en.wikipedia.org/wiki/Henryk_G%C3%B3recki" title="Henryk GÃ³recki">Henryk GÃ³recki</a>'s <a class="external" href="http://en.wikipedia.org/wiki/Symphony_No._3_(G%C3%B3recki)" title="Symphony No. 3 (GÃ³recki)">Symphony No. 3</a>, subtitled <b>Symphony of Sorrowful Songs</b>.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Plot_summary">Plot summary</span></h2>
+      </wiki:abstract>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Aesthetic_elements">Aesthetic elements</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">A book containing the painting <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=The_Ascent_into_the_Empyrean&amp;action=edit&amp;redlink=1" title="The Ascent into the Empyrean (page does not exist)">The Ascent into the Empyrean</a></i> by <a class="external" href="http://en.wikipedia.org/wiki/Hieronymus_Bosch" title="Hieronymus Bosch">Hieronymus Bosch</a> is shown, and it is said that the dying go into the light of heaven "naked and alone". The final scene appears to be modeled on the painting.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Cast">Cast</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Jeff_Bridges" title="Jeff Bridges">Jeff Bridges</a>... Max Klein</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Isabella_Rossellini" title="Isabella Rossellini">Isabella Rossellini</a>... Laura Klein</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Rosie_Perez" title="Rosie Perez">Rosie Perez</a>... Carla Rodrigo</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Tom_Hulce" title="Tom Hulce">Tom Hulce</a>... Brillstein</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Benicio_del_Toro" title="Benicio del Toro">Benicio del Toro</a>... Manny Rodrigo</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/John_Turturro" title="John Turturro">John Turturro</a>... Dr. Bill Perlman</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Deirdre_O%27Connell_(actress)" title="Deirdre O'Connell (actress)">Deirdre O'Connell</a>... Nan Gordon</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/John_de_Lancie" title="John de Lancie">John de Lancie</a>... Jeff Gordon</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Debra_Monk" title="Debra Monk">Debra Monk</a>... Alison</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Historical_connections">Historical connections</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">The doomed flight in the movie bears many resemblances with the real-life crash landing of <a class="external" href="http://en.wikipedia.org/wiki/United_Airlines_Flight_232" title="United Airlines Flight 232">United Airlines Flight 232</a> in 1989:</p>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>The plane suffered a failure in the hydraulics system, following an engine explosion.</li>
+	<li>The crew attempted an emergency landing, and many of the passengers and crew survived.</li>
+	<li>The plane skids into a cornfield.</li>
+	<li>A man receives media coverage for saving the life of a small child.</li>
+	<li>A woman lost her baby because she had no means of securing him during the crash. The child was traveling on her lap.</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="References">References</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/title/tt0106881/" rel="nofollow"><i>Fearless</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	<li><a href="http://tcmdb.com/title/title.jsp?stid=18371" rel="nofollow"><i>Fearless</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Turner_Classic_Movies" title="Turner Classic Movies">TCM Movie Database</a></li>
+	<li><a href="http://www.rottentomatoes.com/m/1046151-fearless/" rel="nofollow"><i>Fearless</i></a> at <a class="external" href="http://en.wikipedia.org/wiki/Rotten_Tomatoes" title="Rotten Tomatoes">Rotten Tomatoes</a></li>
+	<li><a href="http://www.maximonline.com/Entertainment/Fearless/slideshow/3176/208.aspx" rel="nofollow"><i>Fearless</i> Clip</a> plane crash scene</li>
+      </ul>
+    </wiki:description>
+  </wiki:film>
+</wiki:nominee>

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="1935" span="1" winner="true" award="lead-actor" xmlns:wiki="http://marklogic.com/wikipedia">
+	<!-- 
+		Copyright 2009-2012 MarkLogic Corporation.
+		Permission is granted to copy, distribute and/or modify this document
+		under the terms of the GNU Free Documentation License, Version 1.2
+		or any later version published by the Free Software Foundation;
+		with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+		A copy of the license is included in the section entitled "GNU
+		Free Documentation License
+	-->
+	<wiki:name link="/wiki/Victor_McLaglen">Victor McLaglen</wiki:name>
+	<wiki:person link="/wiki/Victor_McLaglen" name="Victor McLaglen">
+		<wiki:oscar year="1935" span="1" winner="true" award="lead-actor" film-link="/wiki/The_Informer_(film)" film-title="The Informer"/>
+		<wiki:oscar year="1952" span="1" winner="false" award="supporting-actor" film-link="/wiki/The_Quiet_Man" film-title="The Quiet Man"/>
+		<wiki:image link="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Victor_McLaglen_in_Sea_Devils_trailer.jpg/180px-Victor_McLaglen_in_Sea_Devils_trailer.jpg"/>
+		<wiki:birth>
+			<wiki:date>1886-12-10</wiki:date>
+			<wiki:place>
+				
+								
+				<wiki:primary link="/wiki/Tunbridge_Wells">Tunbridge Wells</wiki:primary>
+				<wiki:secondary link="/wiki/Kent">Kent</wiki:secondary>
+			<enrich><woeid xmlns="http://where.yahooapis.com/v1/schema.rng">12695996</woeid><placeTypeName code="10" xmlns="http://where.yahooapis.com/v1/schema.rng">Local Administrative Area</placeTypeName><name xmlns="http://where.yahooapis.com/v1/schema.rng">Tunbridge Wells Borough</name><country code="GB" type="Country" xmlns="http://where.yahooapis.com/v1/schema.rng">United Kingdom</country><admin1 code="GB-ENG" type="Country" xmlns="http://where.yahooapis.com/v1/schema.rng">England</admin1><admin2 code="GB-KEN" type="County" xmlns="http://where.yahooapis.com/v1/schema.rng">Kent</admin2><admin3 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality1 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality2 xmlns="http://where.yahooapis.com/v1/schema.rng"/><postal xmlns="http://where.yahooapis.com/v1/schema.rng"/><centroid xmlns="http://where.yahooapis.com/v1/schema.rng"><latitude>51.102421</latitude><longitude>0.398440</longitude></centroid><boundingBox xmlns="http://where.yahooapis.com/v1/schema.rng"><southWest><latitude>51.003231</latitude><longitude>0.150230</longitude></southWest><northEast><latitude>51.201599</latitude><longitude>0.646660</longitude></northEast></boundingBox><areaRank xmlns="http://where.yahooapis.com/v1/schema.rng">6</areaRank><popRank xmlns="http://where.yahooapis.com/v1/schema.rng">0</popRank></enrich></wiki:place>
+		</wiki:birth>
+		<wiki:death>
+			<wiki:date>November 7, 1959 (aged 72)</wiki:date>
+			<wiki:place>
+				
+								
+				<wiki:primary link="/wiki/Newport_Beach">Newport Beach</wiki:primary>
+				<wiki:secondary link="/wiki/California">California</wiki:secondary>
+			</wiki:place>
+		</wiki:death>
+		<wiki:description>
+			<wiki:abstract>
+				<p xmlns="http://www.w3.org/1999/xhtml"><b>Victor Andrew de Bier Everleigh
+						McLaglen</b> (<a class="external" href="http://en.wikipedia.org/wiki/December_10" title="December 10">December
+						10</a>, <a class="external" href="http://en.wikipedia.org/wiki/1886" title="1886">1886</a> - <a class="external" href="http://en.wikipedia.org/wiki/November_7" title="November 7">November
+						7</a>, <a class="external" href="http://en.wikipedia.org/wiki/1959" title="1959">1959</a>) was an <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award" title="Academy Award">Academy Award</a> winning <a class="external" href="http://en.wikipedia.org/wiki/England" title="England">English</a>
+					<a class="external" href="http://en.wikipedia.org/wiki/Actor" title="Actor">actor</a>, <a class="external" href="http://en.wikipedia.org/wiki/Boxing" title="Boxing">boxer</a> and <a class="external" href="http://en.wikipedia.org/wiki/World_War_I" title="World War I">World
+						War I</a> veteran.</p>
+			</wiki:abstract>
+			<wiki:personal>
+				<h2 xmlns="http://www.w3.org/1999/xhtml">
+					<span class="mw-headline">Biography</span>
+				</h2>
+				<p xmlns="http://www.w3.org/1999/xhtml">McLaglen was born in <a class="external" href="http://en.wikipedia.org/wiki/Tunbridge_Wells" title="Tunbridge Wells">Tunbridge Wells</a>, <a class="external" href="http://en.wikipedia.org/wiki/Kent" title="Kent">Kent</a>, <a class="external" href="http://en.wikipedia.org/wiki/England" title="England">England</a>. His father, a <a class="external" href="http://en.wikipedia.org/wiki/Bishop" title="Bishop">bishop</a>, moved
+					the family to <a class="external" href="http://en.wikipedia.org/wiki/South_Africa" title="South Africa">South
+						Africa</a> when McLaglen was a child. He had four brothers who also became
+					actors, Arthur (1888-1972), an actor and sculptor, and Clifford (1892-1978),
+					Cyril (1899-1987), and Kenneth (c. 1901-1979). Other siblings included Frederick
+					(b. c1882), Sydney (b. ca1884), Lewis (b. ca1889), and a sister, Lily (b.
+					ca1893). Another brother, Leopold McLaglen, who appeared in one film, gained
+					notoriety prior to World War I as a showman and self-proclaimed World <a class="external" href="http://en.wikipedia.org/wiki/Ju-jutsu" title="Ju-jutsu">Ju-jutsu</a> Champion, who authored a book on the
+					subject.</p>
+			</wiki:personal>
+			<p xmlns="http://www.w3.org/1999/xhtml">He left home at fourteen to join the <a class="external" href="http://en.wikipedia.org/wiki/British_Army" title="British Army">British Army</a> with the intention of fighting in the <a class="external" href="http://en.wikipedia.org/wiki/Second_Boer_War" title="Second Boer War">Second Boer War</a>. However, much to his chagrin, he
+				was stationed at <a class="external" href="http://en.wikipedia.org/wiki/Windsor_Castle" title="Windsor Castle">Windsor Castle</a> with the <a class="external" href="http://en.wikipedia.org/wiki/Life_Guards_(British_Army)" title="Life Guards (British Army)">Life Guards</a> and was later forced to leave
+				the army when his true age was discovered.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Four years later, he moved to <a class="external" href="http://en.wikipedia.org/wiki/Canada" title="Canada">Canada</a>, where he earned a living as a wrestler and heavyweight boxer, with
+				several notable wins in the ring. One of his most famous fights was against
+				Heavyweight Champion <a class="external" href="http://en.wikipedia.org/wiki/Jack_Johnson_(boxer)" title="Jack Johnson (boxer)">Jack Johnson</a>, in a 6 round exhibition bout.
+				(This bout was Johnson's first bout since winning the heavyweight title from <a class="external" href="http://en.wikipedia.org/wiki/Tommy_Burns" title="Tommy Burns">Tommy Burns</a>.) Between bouts, McLaglen toured with a
+				circus, which offered $25 to anyone who could go three rounds with him. He returned
+				to England in 1913 and claimed to have served with the <a class="external" href="http://en.wikipedia.org/wiki/Royal_Irish_Fusiliers" title="Royal Irish Fusiliers">Royal Irish Fusiliers</a> during <a class="external" href="http://en.wikipedia.org/wiki/World_War_I" title="World War I">World War I</a> although he actually served as a Temporary
+				Captain with the 10th Battalion, <a class="external" href="http://en.wikipedia.org/wiki/Middlesex_Regiment" title="Middlesex Regiment">Middlesex Regiment</a>, now part of the <a class="external" href="http://en.wikipedia.org/wiki/The_Princess_of_Wales%27s_Royal_Regiment_(Queen%27s_and_Royal_Hampshires)" title="The Princess of Wales's Royal Regiment (Queen's and Royal Hampshires)">The Princess of Wales's Royal Regiment (Queen's and Royal Hampshires)</a>. He
+				served for a time as military Provost Marshal for the city of <a class="external" href="http://en.wikipedia.org/wiki/Baghdad" title="Baghdad">Baghdad</a>. He also
+				continued boxing, and was named Heavyweight Champion of the <a class="external" href="http://en.wikipedia.org/wiki/British_Army" title="British Army">British
+					Army</a> in 1918. After the war, he began taking roles in British silent
+				films.</p>
+			<wiki:career>
+				<p xmlns="http://www.w3.org/1999/xhtml">McLaglen's career took a surprise turn in
+					the 1920s, when he moved to <a class="external" href="http://en.wikipedia.org/wiki/Hollywood" title="Hollywood">Hollywood</a>. He became a popular character actor, with a particular knack
+					for playing drunks. The highlight of his career was an <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actor" title="Academy Award for Best Actor">Academy Award for Best Actor</a> for
+					his role in <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/The_Informer_(1935_movie)" title="The Informer (1935 movie)">The Informer</a>
+					</i> (1935), based on a novel by <a class="external" href="http://en.wikipedia.org/wiki/Liam_O%27Flaherty" title="Liam O'Flaherty">Liam O'Flaherty</a>; <a class="external" href="http://en.wikipedia.org/wiki/Frank_Tashlin" title="Frank Tashlin">Frank Tashlin</a>'s 1938 <a class="external" href="http://en.wikipedia.org/wiki/Cartoon" title="Cartoon">cartoon</a>
+					<i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Have_You_Got_Any_Castles%3F" title="Have You Got Any Castles?">Have You Got Any Castles?</a>
+					</i> features a caricature of McLaglen emerging from the novel and literally
+					informing someone about some shady characters. Near the end of his career,
+					McLaglen was nominated again, this time for <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Supporting_Actor" title="Academy Award for Best Supporting Actor">Best Supporting Actor</a>,
+					for his role opposite <a class="external" href="http://en.wikipedia.org/wiki/John_Wayne" title="John Wayne">John
+						Wayne</a> in <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/The_Quiet_Man" title="The Quiet Man">The Quiet Man</a>
+					</i> (1952). He was especially popular with director <a class="external" href="http://en.wikipedia.org/wiki/John_Ford" title="John Ford">John
+						Ford</a>, who frequently included McLaglen in his films. Toward the end of
+					his career, McLaglen made several guest appearances on television, particularly
+					in Western series such as <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Have_Gun,_Will_Travel" title="Have Gun, Will Travel">Have Gun, Will Travel</a>
+					</i> and <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Rawhide_(TV_series)" title="Rawhide (TV series)">Rawhide</a>
+					</i>. The episodes of those series in which McLaglen guest-starred were both
+					directed by his son, <a class="external" href="http://en.wikipedia.org/wiki/Andrew_V._McLaglen" title="Andrew V. McLaglen">Andrew V. McLaglen</a>, who later was a <a class="external" href="http://en.wikipedia.org/wiki/Film_director" title="Film director">film director</a>.</p>
+			</wiki:career>
+			<wiki:personal>
+				<p xmlns="http://www.w3.org/1999/xhtml">McLaglen was married three times. His first
+					marriage was to Enid Lamont in 1919. The couple had one daughter, Sheila, and
+					one son, <a class="external" href="http://en.wikipedia.org/wiki/Andrew_V._McLaglen" title="Andrew V. McLaglen">Andrew</a>, a television and film director, the
+					father of his grandchildren, Mary and Josh McLaglen, who are both film producers
+					and directors. Enid Lamont McLaglen died in 1942 as a result of a horse riding
+					accident. McLaglen married twice more, to Suzanne M. Brueggeman from 1943 until
+					1948 and to Margaret Pumphrey, whom he married in 1948 and remained so until his
+					death, of a <a class="external" href="http://en.wikipedia.org/wiki/Myocardial_infarction" title="Myocardial infarction">heart attack</a> in 1959. He had by that time
+					become a naturalized U.S. citizen. He was buried in Forest Lawn Memorial Park in
+						<a class="external" href="http://en.wikipedia.org/wiki/Glendale,_California" title="Glendale, California">Glendale, California</a>.</p>
+			</wiki:personal>
+			<h2 xmlns="http://www.w3.org/1999/xhtml">
+				<span class="mw-headline">See also</span>
+			</h2>
+			<ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>
+					<a class="external" href="http://en.wikipedia.org/wiki/List_of_bare-knuckle_boxers" title="List of bare-knuckle boxers">List of bare-knuckle boxers</a>
+				</li>
+      </ul>
+			<h2 xmlns="http://www.w3.org/1999/xhtml">
+				<span class="mw-headline">External links</span>
+			</h2>
+			<p xmlns="http://www.w3.org/1999/xhtml"><a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=3560" title="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=3560" rel="nofollow">Victor McLaglen</a> at <a class="external" href="http://en.wikipedia.org/wiki/Find_A_Grave" title="Find A Grave">Find A
+					Grave</a></p>
+			<ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/name/nm0572142/" title="http://www.imdb.com/name/nm0572142/" rel="nofollow">Victor
+						McLaglen</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	<li>
+					<a href="http://www.cyberboxingzone.com/boxing/mclaglen.htm" title="http://www.cyberboxingzone.com/boxing/mclaglen.htm" rel="nofollow">McLaglen's Record at Cyber Boxing Zone</a>
+				</li>
+	<li>
+					<a href="http://film.virtual-history.com/person.php?personid=879" title="http://film.virtual-history.com/person.php?personid=879" rel="nofollow">Photographs of Victor McLaglen</a>
+				</li>
+      </ul>
+		</wiki:description>
+	</wiki:person>
+	<wiki:film-title link="/wiki/The_Informer_(film)">The Informer</wiki:film-title>
+	<wiki:film link="/wiki/The_Informer_(film)" title="The Informer">
+		<wiki:oscar-ref year="1935" span="1" winner="true" award="lead-actor" person-link="/wiki/Victor_McLaglen" person-name="Victor McLaglen"/>
+		<wiki:oscar-ref year="1935" span="1" winner="true" award="best-director" person-link="/wiki/John_Ford" person-name="John Ford"/>
+		<wiki:oscar year="1935" span="1" winner="false" award="best-picture"/>
+		<wiki:producer link="/wiki/John_Ford">John Ford</wiki:producer>
+		<wiki:director link="/wiki/John_Ford">John Ford</wiki:director>
+		<wiki:writer link="/wiki/Dudley_Nichols">Dudley Nichols</wiki:writer>
+		<wiki:distributor link="/wiki/RKO_Radio_Pictures">RKO Radio Pictures</wiki:distributor>
+		<wiki:starring link="/wiki/Victor_McLaglen">Victor McLaglen</wiki:starring>
+		<wiki:starring link="/wiki/Heather_Angel">Heather Angel</wiki:starring>
+		<wiki:starring link="/wiki/Preston_Foster">Preston Foster</wiki:starring>
+		<wiki:starring link="/wiki/Margot_Grahame">Margot Grahame</wiki:starring>
+		<wiki:starring link="/wiki/Wallace_Ford">Wallace Ford</wiki:starring>
+		<wiki:starring link="/wiki/Una_O%27Connor">Una O'Connor</wiki:starring>
+		<wiki:description>
+			<wiki:abstract>
+				<p xmlns="http://www.w3.org/1999/xhtml"><i>
+						<b>The Informer</b>
+					</i> is a <a class="external" href="http://en.wikipedia.org/wiki/1935_in_film" title="1935 in film">1935</a> dramatic film, released by <a class="external" href="http://en.wikipedia.org/wiki/RKO" title="RKO">RKO</a>. The plot
+					concerns the underside of the <a class="external" href="http://en.wikipedia.org/wiki/Irish_War_of_Independence" title="Irish War of Independence">Irish War of Independence</a>, set in
+					1922. It stars <a class="external" href="http://en.wikipedia.org/wiki/Victor_McLaglen" title="Victor McLaglen">Victor McLaglen</a>, <a class="external" href="http://en.wikipedia.org/wiki/Heather_Angel" title="Heather Angel">Heather Angel</a>, <a class="external" href="http://en.wikipedia.org/wiki/Preston_Foster" title="Preston Foster">Preston Foster</a>, <a class="external" href="http://en.wikipedia.org/wiki/Margot_Grahame" title="Margot Grahame">Margot Grahame</a>, <a class="external" href="http://en.wikipedia.org/wiki/Wallace_Ford" title="Wallace Ford">Wallace Ford</a>, <a class="external" href="http://en.wikipedia.org/wiki/Una_O%27Connor" title="Una O'Connor">Una
+						O'Connor</a> and <a class="external" href="http://en.wikipedia.org/wiki/J.M._Kerrigan" title="J.M. Kerrigan">J.M.
+						Kerrigan</a>. The screenplay was written by <a class="external" href="http://en.wikipedia.org/wiki/Dudley_Nichols" title="Dudley Nichols">Dudley Nichols</a> from the novel <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/The_Informer_(novel)" title="The Informer (novel)">The Informer</a>
+					</i> by <a class="external" href="http://en.wikipedia.org/wiki/Liam_O%27Flaherty" title="Liam O'Flaherty">Liam O'Flaherty</a>. It was directed by <a class="external" href="http://en.wikipedia.org/wiki/John_Ford" title="John Ford">John Ford</a>.</p>
+			</wiki:abstract>
+			<wiki:plot>
+				<h2 xmlns="http://www.w3.org/1999/xhtml">
+					<span class="mw-headline">Plot</span>
+				</h2>
+				<p xmlns="http://www.w3.org/1999/xhtml">A brutish, but well-meaning Irishman, Gypo
+					Nolan (<a class="external" href="http://en.wikipedia.org/wiki/Victor_McLaglen" title="Victor McLaglen">Victor McLaglen</a>), informs on his best friend
+					Frankie McPhillip (<a class="external" href="http://en.wikipedia.org/wiki/Wallace_Ford" title="Wallace Ford">Wallace Ford</a>), who is a member of the <a class="external" href="http://en.wikipedia.org/wiki/Irish_Republican_Army" title="Irish Republican Army">Irish Republican Army</a>, in order to collect
+					the reward of £20 and sail to <a class="external" href="http://en.wikipedia.org/wiki/United_States" title="United States">America</a> with his girlfriend Katie Madden (<a class="external" href="http://en.wikipedia.org/wiki/Margot_Grahame" title="Margot Grahame">Margot Grahame</a>). The film traces his <a class="external" href="http://en.wikipedia.org/wiki/Conscience" title="Conscience">conscience</a>-stricken emotional disintegration that eventually leads him
+					to give himself away.</p>
+			</wiki:plot>
+			<wiki:cast>
+				<h2 xmlns="http://www.w3.org/1999/xhtml">
+					<span class="mw-headline">Cast</span>
+				</h2>
+				<ul xmlns="http://www.w3.org/1999/xhtml">
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Victor_McLaglen" title="Victor McLaglen">Victor McLaglen</a> - Gypo Nolan</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Heather_Angel" title="Heather Angel">Heather Angel</a> - Mary McPhillip</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Preston_Foster" title="Preston Foster">Preston Foster</a> - Dan Gallagher</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Margot_Grahame" title="Margot Grahame">Margot Grahame</a> - Katie Madden</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Wallace_Ford" title="Wallace Ford">Wallace Ford</a> - Frankie McPhillip</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Una_O%27Connor" title="Una O'Connor">Una O'Connor</a> - Mrs. McPhillip</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/J._M._Kerrigan" title="J. M. Kerrigan">J. M. Kerrigan</a> - Terry</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Joe_Sawyer" title="Joe Sawyer">Joe Sawyer</a> - Bartly Mulholland (as Joseph
+						Sauers)</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Neil_Fitzgerald" title="Neil Fitzgerald">Neil Fitzgerald</a> - Tommy Connor</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Donald_Meek" title="Donald Meek">Donald Meek</a> - Peter Mulligan</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/D%27Arcy_Corrigan" title="D'Arcy Corrigan">D'Arcy Corrigan</a> - The Blind Man</li>
+	  <li><a class="external" href="http://en.wikipedia.org/w/index.php?title=Leo_McCabe&amp;action=edit&amp;redlink=1" title="Leo McCabe (page does not exist)">Leo McCabe</a> - Donahue</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Steve_Pendleton" title="Steve Pendleton">Steve Pendleton</a> - Dennis Daly (as Gaylord
+						Pendleton)</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Francis_Ford_(actor)" title="Francis Ford (actor)">Francis Ford</a> - "Judge" Flynn</li>
+	  <li><a class="external" href="http://en.wikipedia.org/w/index.php?title=May_Boley&amp;action=edit&amp;redlink=1" title="May Boley (page does not exist)">May Boley</a> - Madame
+						Betty</li>
+	</ul>
+			</wiki:cast>
+			<wiki:awards>
+				<h2 xmlns="http://www.w3.org/1999/xhtml">
+					<span class="mw-headline">Awards and nominations</span>
+				</h2>
+				<p xmlns="http://www.w3.org/1999/xhtml">The film was nominated for the <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture" title="Academy Award for Best Picture">Academy Award for Best Picture</a>.
+					McLaglen won the <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actor" title="Academy Award for Best Actor">Academy Award for Best Leading
+						Actor</a> for his portrayal of Gypo Nolan, beating out <a class="external" href="http://en.wikipedia.org/wiki/Charles_Laughton" title="Charles Laughton">Charles Laughton</a> and <a class="external" href="http://en.wikipedia.org/wiki/Clark_Gable" title="Clark Gable">Clark
+						Gable</a> for the better-remembered <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Mutiny_on_the_Bounty_(1935_film)" title="Mutiny on the Bounty (1935 film)">Mutiny on the Bounty</a>
+					</i>, and Ford won for <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Directing" title="Academy Award for Directing">Best Director</a>. Dudley Nichols won
+					the <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Writing_Adapted_Screenplay" title="Academy Award for Writing Adapted Screenplay">Oscar for Best
+						Writing</a>, but turned it down because of Union disagreements. It was the
+					first time an Oscar was declined.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">The film's other awards and nominations:</p>
+				<ul xmlns="http://www.w3.org/1999/xhtml">
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/National_Board_of_Review_Awards_1935" title="National Board of Review Awards 1935">National Board of
+							Review</a> - Best Picture</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/New_York_Film_Critics_Circle_Awards_1935" title="New York Film Critics Circle Awards 1935">New York Film Critics
+							Circle Awards</a> - Best Film and Best Director</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Venice_Film_Festival" title="Venice Film Festival">Venice Film Festival</a> - <a class="external" href="http://en.wikipedia.org/wiki/John_Ford" title="John Ford">John Ford</a> nominated for the <a class="external" href="http://en.wikipedia.org/wiki/Mussolini_Cup" title="Mussolini Cup">Mussolini Cup</a></li>
+	</ul>
+			</wiki:awards>
+			<h2 xmlns="http://www.w3.org/1999/xhtml">
+				<span class="mw-headline">Trivia</span>
+			</h2>
+			<p xmlns="http://www.w3.org/1999/xhtml">A presentation copy of the script, originally
+				presented to a Seymour Roman and signed by many of the prominent cast and crew, was
+				ostensibly found in Madison, Wisconsin among items being cleaned out of an apartment
+				by a landlord. It was brought to the <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/Antiques_Roadshow#United_States" title="Antiques Roadshow">Antiques Roadshow</a>
+				</i> and was appraised for $4,000-$5,000.</p>
+			<h2 xmlns="http://www.w3.org/1999/xhtml">
+				<span class="mw-headline">External links</span>
+			</h2>
+			<ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/title/tt0026529/" title="http://www.imdb.com/title/tt0026529/" rel="nofollow">
+						<i>The Informer</i>
+					</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+      </ul>
+		</wiki:description>
+	</wiki:film>
+</wiki:nominee>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="1932" span="2" winner="false" award="best-picture" xmlns:wiki="http://marklogic.com/wikipedia">
+  <!--
+                            Copyright (c) 2010 MarkLogic Corporation.
+                            Permission is granted to copy, distribute and/or modify this document
+                            under the terms of the GNU Free Documentation License, Version 1.2
+                            or any later version published by the Free Software Foundation;
+                            with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+                            A copy of the license is included in the section entitled "GNU
+                            Free Documentation License"
+                            
+                            Content derived from http://en.wikipedia.org/wiki/A_Farewell_to_Arms_(1932_film)
+                            Modified in May 2009 by Mark Logic Corporation under the terms of the GNU Free Documentation License.
+                        -->
+  <wiki:film-title link="/wiki/A_Farewell_to_Arms_(1932_film)">A Farewell to Arms</wiki:film-title>
+  <wiki:film link="/wiki/A_Farewell_to_Arms_(1932_film)" title="A Farewell to Arms">
+    <wiki:oscar year="1932" span="2" winner="false" award="best-picture"/>
+    <wiki:producer link="/wiki/Benjamin_Glazer">Benjamin Glazer</wiki:producer>
+    <wiki:director link="/wiki/Frank_Borzage">Frank Borzage</wiki:director>
+    <wiki:distributor link="/wiki/Paramount_Pictures">Paramount Pictures</wiki:distributor>
+    <wiki:starring link="/wiki/Gary_Cooper">Gary Cooper</wiki:starring>
+    <wiki:starring link="/wiki/Helen_Hayes">Helen Hayes</wiki:starring>
+    <wiki:starring link="/wiki/Adolphe_Menjou">Adolphe Menjou</wiki:starring>
+    <wiki:description>
+      <p xmlns="http://www.w3.org/1999/xhtml"><i><b>A Farewell to Arms</b></i> is a 1932 <a class="external" href="http://en.wikipedia.org/wiki/United_States" title="United States">American</a> <a class="external" href="http://en.wikipedia.org/wiki/Drama_film" title="Drama film">drama film</a> directed by <a class="external" href="http://en.wikipedia.org/wiki/Frank_Borzage" title="Frank Borzage">Frank Borzage</a>. The screenplay by Oliver H.P. Garrett and <a class="external" href="http://en.wikipedia.org/wiki/Benjamin_Glazer" title="Benjamin Glazer">Benjamin Glazer</a> is based on the <a class="external" href="http://en.wikipedia.org/wiki/A_Farewell_to_Arms" title="A Farewell to Arms">1929 semi-autobiographical novel of the same name</a> by <a class="external" href="http://en.wikipedia.org/wiki/Ernest_Hemingway" title="Ernest Hemingway">Ernest Hemingway</a>.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Plot">Plot</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">Set in <a class="external" href="http://en.wikipedia.org/wiki/Europe" title="Europe">Europe</a> during <a class="external" href="http://en.wikipedia.org/wiki/World_War_I" title="World War I">World War I</a>, the plot focuses on the tragic romance between Frederick Henry (<a class="external" href="http://en.wikipedia.org/wiki/Gary_Cooper" title="Gary Cooper">Gary Cooper</a>), an American ambulance driver serving in the <a class="external" href="http://en.wikipedia.org/wiki/Italian_Army" title="Italian Army">Italian Army</a>, and English <a class="external" href="http://en.wikipedia.org/wiki/Red_Cross" title="Red Cross">Red Cross</a> <a class="external" href="http://en.wikipedia.org/wiki/Nurse" title="Nurse">nurse</a> Catherine Barkley (<a class="external" href="http://en.wikipedia.org/wiki/Helen_Hayes" title="Helen Hayes">Helen Hayes</a>). Major Rinaldi (<a class="external" href="http://en.wikipedia.org/wiki/Adolphe_Menjou" title="Adolphe Menjou">Adolphe Menjou</a>) envies their relationship and has Catherine transferred to <a class="external" href="http://en.wikipedia.org/wiki/Milan" title="Milan">Milan</a>. When Frederick is wounded in battle, he finds himself in the <a class="external" href="http://en.wikipedia.org/wiki/Hospital" title="Hospital">hospital</a> where Catherine works. They continue their affair until he returns to battle. Now-pregnant Catherine settles in <a class="external" href="http://en.wikipedia.org/wiki/Switzerland" title="Switzerland">Switzerland</a>, and when her many letters to Henry remain unanswered because his responses are held up by the censors, she assumes he has abandoned her. As the <a class="external" href="http://en.wikipedia.org/wiki/Armistice_with_Germany_(Compi%C3%A8gne)" title="Armistice with Germany (CompiÃ¨gne)">Armistice</a> nears, Frederick journeys to Switzerland to find Catherine, who dies in <a class="external" href="http://en.wikipedia.org/wiki/Childbirth" title="Childbirth">childbirth</a> with him at her side.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Cast_.28in_credits_order.29">Cast (in credits order)</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Helen_Hayes" title="Helen Hayes">Helen Hayes</a> as Catherine Barkley</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Gary_Cooper" title="Gary Cooper">Gary Cooper</a> as Lieutenant Frederic Henry</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Adolphe_Menjou" title="Adolphe Menjou">Adolphe Menjou</a> as Major Rinaldi</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Mary_Philips" title="Mary Philips">Mary Philips</a> as Helen Ferguson</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Jack_La_Rue" title="Jack La Rue">Jack La Rue</a> as Priest</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Blanche_Friderici" title="Blanche Friderici">Blanche Friderici</a> as Head Nurse</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Mary_Forbes" title="Mary Forbes">Mary Forbes</a> as Miss Van Campen</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Gilbert_Emery" title="Gilbert Emery">Gilbert Emery</a> as British Major</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Critical_reception">Critical reception</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">In his review in the <i><a class="external" href="http://en.wikipedia.org/wiki/New_York_Times" title="New York Times">New York Times</a></i>, <a class="external" href="http://en.wikipedia.org/wiki/Mordaunt_Hall" title="Mordaunt Hall">Mordaunt Hall</a> said, "There is too much sentiment and not enough strength in the pictorial conception of Ernest Hemingway's novel . . . the film account skips too quickly from one episode to another and the hardships and other experiences of Lieutenant Henry are passed over too abruptly, being suggested rather than told . . . Gary Cooper gives an earnest and splendid portrayal [and] Helen Hayes is admirable as Catherine . . . another clever characterization is contributed by Adolphe Menjou . . . it is unfortunate that these three players, serving the picture so well, do not have the opportunity to figure in more really dramatic interludes."</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Dan Callahan of <i><a class="external" href="http://en.wikipedia.org/wiki/Slant_Magazine" title="Slant Magazine">Slant Magazine</a></i> notes, "Hemingway . . . was grandly contemptuous of Frank Borzage's version of <i>A Farewell to Arms</i> . . . but time has been kind to the film. It launders out the writer's . . . pessimism and replaces it with a testament to the eternal love between a couple."</p>
+      <p xmlns="http://www.w3.org/1999/xhtml"><i><a class="external" href="http://en.wikipedia.org/wiki/Time_Out_London" title="Time Out London">Time Out London</a></i> calls it "not only the best film version of a Hemingway novel, but also one of the most thrilling visions of the power of sexual love that even Borzage ever made . . . no other director created images like these, using light and movement like brushstrokes, integrating naturalism and a daring expressionism in the same shot. This is romantic <a class="external" href="http://en.wikipedia.org/wiki/Melodrama" title="Melodrama">melodrama</a> raised to its highest degree."</p>
+      <p xmlns="http://www.w3.org/1999/xhtml"><a class="external" href="http://en.wikipedia.org/wiki/Channel_4" title="Channel 4">Channel 4</a> describes it as "an excellent adaptation . . . the two leads are ideal and irresistible here, particularly a reliably sensitive Cooper, who milks his everyman appeal to great effect."</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Awards_and_nominations">Awards and nominations</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture" title="Academy Award for Best Picture">Academy Award for Best Picture</a> (nominee)</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Art_Direction" title="Academy Award for Best Art Direction">Academy Award for Best Art Direction</a> (nominee)</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Cinematography" title="Academy Award for Best Cinematography">Academy Award for Best Cinematography</a> (<b>winner</b>)</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Sound" title="Academy Award for Sound">Academy Award for Sound</a> (<b>winner</b>)</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="See_also">See also</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/List_of_films_in_the_public_domain" title="List of films in the public domain">List of films in the public domain</a></li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="References">References</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/title/tt0022879/" rel="nofollow"><i>A Farewell to Arms</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	<li><i><a href="http://www.archive.org/details/farewell_to_arms" rel="nofollow">A Farewell to Arms</a></i> available for free download at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Archive" title="Internet Archive">Internet Archive</a> <small>[</small><a class="external" href="http://en.wikipedia.org/wiki/Special:WhatLinksHere/Template:Internet_Archive_film" title="Special:WhatLinksHere/Template:Internet Archive film"><small><i>more</i></small></a><small>]</small></li>
+	<li><a href="http://www.allmovie.com/work/16801" rel="nofollow"><i>A Farewell to Arms</i></a> at <a class="external" href="http://en.wikipedia.org/wiki/Allmovie" title="Allmovie">Allmovie</a></li>
+      </ul>
+    </wiki:description>
+  </wiki:film>
+</wiki:nominee>

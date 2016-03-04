@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="1983" span="1" winner="false" award="best-director" xmlns:wiki="http://marklogic.com/wikipedia">
+  <!--
+                            Copyright (c) 2010 MarkLogic Corporation.
+                            Permission is granted to copy, distribute and/or modify this document
+                            under the terms of the GNU Free Documentation License, Version 1.2
+                            or any later version published by the Free Software Foundation;
+                            with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+                            A copy of the license is included in the section entitled "GNU
+                            Free Documentation License"
+                            
+                            Content derived from http://en.wikipedia.org/wiki/The_Dresser and http://en.wikipedia.org/wiki/Peter_Yates
+                            Modified in May 2009 by Mark Logic Corporation under the terms of the GNU Free Documentation License.
+                        -->
+  <wiki:name link="/wiki/Peter_Yates">Peter Yates</wiki:name>
+  <wiki:person link="/wiki/Peter_Yates" name="Peter Yates">
+    <wiki:oscar year="1979" span="1" winner="false" award="best-director" film-link="/wiki/Breaking_Away" film-title="Breaking Away"/>
+    <wiki:oscar year="1983" span="1" winner="false" award="best-director" film-link="/wiki/The_Dresser" film-title="The Dresser"/>
+    <wiki:birth>
+      <wiki:date/>
+      <wiki:place>
+	<wiki:primary link=""/>
+	<wiki:secondary link=""/>
+      <enrich/></wiki:place>
+    </wiki:birth>
+    <wiki:description>
+      <p xmlns="http://www.w3.org/1999/xhtml"><b>Peter Yates</b> (born 24 July 1929 in <a class="external" href="http://en.wikipedia.org/wiki/Aldershot" title="Aldershot">Aldershot</a>, <a class="external" href="http://en.wikipedia.org/wiki/Hampshire" title="Hampshire">Hampshire</a>) is an <a class="external" href="http://en.wikipedia.org/wiki/England" title="England">English</a> <a class="external" href="http://en.wikipedia.org/wiki/Film_director" title="Film director">film director</a> and producer.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">He went to <a class="external" href="http://en.wikipedia.org/wiki/Charterhouse_School" title="Charterhouse School">Charterhouse School</a> as a boy, graduated from the <a class="external" href="http://en.wikipedia.org/wiki/Royal_Academy_of_Dramatic_Art" title="Royal Academy of Dramatic Art">Royal Academy of Dramatic Art</a> and worked for some years as an actor, director and stage manager.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">In the 1950s he started in the <a class="external" href="http://en.wikipedia.org/wiki/Movie_industry" title="Movie industry">movie industry</a> as a dubbing assistant and later an assistant director for <a class="external" href="http://en.wikipedia.org/wiki/Tony_Richardson" title="Tony Richardson">Tony Richardson</a>.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">He made his first film <i><a class="external" href="http://en.wikipedia.org/wiki/Summer_Holiday_(1963_film)" title="Summer Holiday (1963 film)">Summer Holiday</a></i> (1963) with Cliff Richard and later <i><a class="external" href="http://en.wikipedia.org/wiki/One_Way_Pendulum" title="One Way Pendulum">One Way Pendulum</a></i> (1964), before directing the crime thriller <i><a class="external" href="http://en.wikipedia.org/wiki/Robbery_(film)" title="Robbery (film)">Robbery</a></i>, a fictionalised version of the <a class="external" href="http://en.wikipedia.org/wiki/Great_Train_Robbery_(1963)" title="Great Train Robbery (1963)">Great Train Robbery</a>, in 1967. This led to his first American film, <i><a class="external" href="http://en.wikipedia.org/wiki/Bullitt" title="Bullitt">Bullitt</a></i>, the following year.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">He earned four <a class="external" href="http://en.wikipedia.org/wiki/Academy_Awards" title="Academy Awards">Oscar</a> nominations - one for <a class="external" href="http://en.wikipedia.org/wiki/Best_Director" title="Best Director">Best Director</a> and a second for Best <a class="external" href="http://en.wikipedia.org/wiki/Film_producer" title="Film producer">Producer</a> for the film <i><a class="external" href="http://en.wikipedia.org/wiki/Breaking_Away" title="Breaking Away">Breaking Away</a></i> in 1979, and another two (Director and Producer) for <i><a class="external" href="http://en.wikipedia.org/wiki/The_Dresser" title="The Dresser">The Dresser</a></i>, an adaptation of the popular stage play, in 1983.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Films_as_director">Films as director</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Saint_(TV_series)" title="The Saint (TV series)">The Saint</a></i> (1962) TV Series (7 episodes)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Summer_Holiday_(1963_film)" title="Summer Holiday (1963 film)">Summer Holiday</a></i> (1963)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Danger_Man" title="Danger Man">Danger Man</a></i> (1964) TV Series</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/One_Way_Pendulum" title="One Way Pendulum">One Way Pendulum</a></i> (1964)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Koroshi" title="Koroshi">Koroshi</a></i> (1966) (TV)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Robbery_(film)" title="Robbery (film)">Robbery</a></i> (1967)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Bullitt" title="Bullitt">Bullitt</a></i> (1968)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/John_and_Mary_(Film)" title="John and Mary (Film)">John and Mary</a></i> (1969)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Murphy%27s_War" title="Murphy's War">Murphy's War</a></i> (1971)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Hot_Rock_(film)" title="The Hot Rock (film)">The Hot Rock</a></i> (1972)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Friends_of_Eddie_Coyle" title="The Friends of Eddie Coyle">The Friends of Eddie Coyle</a></i> (1973)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/For_Pete%27s_Sake_(film)" title="For Pete's Sake (film)">For Pete's Sake</a></i> (1974)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Mother,_Jugs_%26_Speed" title="Mother, Jugs &amp; Speed">Mother, Jugs &amp; Speed</a></i> (1976)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Deep_(film)" title="The Deep (film)">The Deep</a></i> (1977)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Breaking_Away" title="Breaking Away">Breaking Away</a></i> (1979)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Eyewitness_(1981_film)" title="Eyewitness (1981 film)">Eyewitness</a></i> (1981)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Dresser" title="The Dresser">The Dresser</a></i> (1983)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Krull_(film)" title="Krull (film)">Krull</a></i> (1983)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Eleni_(film)" title="Eleni (film)">Eleni</a></i> (1985)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Suspect_(film)" title="Suspect (film)">Suspect</a></i> (1987)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/The_House_on_Carroll_Street" title="The House on Carroll Street">The House on Carroll Street</a></i> (1988)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/An_Innocent_Man_(film)" title="An Innocent Man (film)">An Innocent Man</a></i> (1989)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Year_of_the_Comet" title="Year of the Comet">Year of the Comet</a></i> (1992)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Run_of_the_Country" title="The Run of the Country">The Run of the Country</a></i> (1995)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Roommates_(film)" title="Roommates (film)">Roommates</a></i> (1995)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Curtain_Call_(1999_film)" title="Curtain Call (1999 film)">Curtain Call</a></i> (1999)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Don_Quixote_(2000_TV_film)" title="Don Quixote (2000 TV film)">Don Quixote</a></i> (2000) (TV)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/A_Separate_Peace" title="A Separate Peace">A Separate Peace</a></i> (2004) (TV)</li>
+	<li><i><a href="http://www.imdb.com/title/tt0453483/" rel="nofollow">The Girl in Melanie Klein</a></i> (2010) (announced)</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="References">References</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.screenonline.org.uk/people/id/827219/" rel="nofollow">Peter Yates</a> at the <a class="external" href="http://en.wikipedia.org/wiki/British_Film_Institute" title="British Film Institute">British Film Institute</a>'s <a class="external" href="http://en.wikipedia.org/wiki/Screenonline" title="Screenonline">Screenonline</a></li>
+	<li><a href="http://www.imdb.com/name/nm0946811/" rel="nofollow">IMDb's profile</a></li>
+      </ul>
+    </wiki:description>
+  </wiki:person>
+  <wiki:film-title link="/wiki/The_Dresser">The Dresser</wiki:film-title>
+  <wiki:film link="/wiki/The_Dresser" title="The Dresser">
+    <wiki:oscar-ref year="1983" span="1" winner="false" award="lead-actor" person-link="/wiki/Tom_Courtenay" person-name="Tom Courtenay"/>
+    <wiki:oscar-ref year="1983" span="1" winner="false" award="lead-actor" person-link="/wiki/Albert_Finney" person-name="Albert Finney"/>
+    <wiki:oscar-ref year="1983" span="1" winner="false" award="best-director" person-link="/wiki/Peter_Yates" person-name="Peter Yates"/>
+    <wiki:oscar year="1983" span="1" winner="false" award="best-picture"/>
+    <wiki:producer link="/wiki/Peter_Yates">Peter Yates</wiki:producer>
+    <wiki:director link="/wiki/Peter_Yates">Peter Yates</wiki:director>
+    <wiki:writer link="/wiki/Ronald_Harwood">Ronald Harwood</wiki:writer>
+    <wiki:starring link="/wiki/Albert_Finney">Albert Finney</wiki:starring>
+    <wiki:starring link="/wiki/Tom_Courtenay">Tom Courtenay</wiki:starring>
+    <wiki:starring link="/wiki/Eileen_Atkins">Eileen Atkins</wiki:starring>
+    <wiki:starring link="/wiki/Edward_Fox_(actor)">Edward Fox</wiki:starring>
+    <wiki:starring link="/wiki/Zena_Walker">Zena Walker</wiki:starring>
+    <wiki:language link="/wiki/English_language">English</wiki:language>
+    <wiki:description>
+      <p xmlns="http://www.w3.org/1999/xhtml"><i><b>The Dresser</b></i> is a <a class="external" href="http://en.wikipedia.org/wiki/1983_in_film" title="1983 in film">1983</a> film which tells the story of an aging actor's personal assistant, who struggles to keep his charge's life together. The film is based on a screenplay by <a class="external" href="http://en.wikipedia.org/wiki/Ronald_Harwood" title="Ronald Harwood">Ronald Harwood</a>, based on his successful <a class="external" href="http://en.wikipedia.org/wiki/West_End_theatre" title="West End theatre">West End</a> and <a class="external" href="http://en.wikipedia.org/wiki/Broadway_theatre" title="Broadway theatre">Broadway</a> play.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">The film was directed by <a class="external" href="http://en.wikipedia.org/wiki/Peter_Yates" title="Peter Yates">Peter Yates</a> and produced by Peter Yates and Ronald Harwood. The cinematography was by <a class="external" href="http://en.wikipedia.org/w/index.php?title=Kelvin_Pike&amp;action=edit&amp;redlink=1" title="Kelvin Pike (page does not exist)">Kelvin Pike</a>.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">The film stars <a class="external" href="http://en.wikipedia.org/wiki/Albert_Finney" title="Albert Finney">Albert Finney</a>, <a class="external" href="http://en.wikipedia.org/wiki/Tom_Courtenay" title="Tom Courtenay">Tom Courtenay</a>, <a class="external" href="http://en.wikipedia.org/wiki/Eileen_Atkins" title="Eileen Atkins">Eileen Atkins</a>, <a class="external" href="http://en.wikipedia.org/wiki/Michael_Gough" title="Michael Gough">Michael Gough</a> and <a class="external" href="http://en.wikipedia.org/wiki/Edward_Fox_(actor)" title="Edward Fox (actor)">Edward Fox</a>.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Background_and_production">Background and production</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">Ronald Harwood based the play on his experiences as <a class="external" href="http://en.wikipedia.org/wiki/Dresser_(theatre)" title="Dresser (theatre)">dresser</a> to distinguished English Shakespearean actor-manager <a class="external" href="http://en.wikipedia.org/wiki/Sir_Donald_Wolfit" title="Sir Donald Wolfit">Sir Donald Wolfit</a>, who is the "Sir" in the play. The play was first presented on March 6, 1980, at <a class="external" href="http://en.wikipedia.org/wiki/Royal_Exchange_Theatre,_Manchester" title="Royal Exchange Theatre, Manchester">The Royal Exchange Theatre</a> and then opened at the <a class="external" href="http://en.wikipedia.org/wiki/Queen%27s_Theatre" title="Queen's Theatre">Queen's Theatre</a> in <a class="external" href="http://en.wikipedia.org/wiki/London" title="London">London</a> April 30, 1980, with <a class="external" href="http://en.wikipedia.org/wiki/Freddie_Jones" title="Freddie Jones">Freddie Jones</a> as "Sir" and <a class="external" href="http://en.wikipedia.org/wiki/Tom_Courtenay" title="Tom Courtenay">Tom Courtenay</a> as Norman. The play was nominated for Best Play at the <a class="external" href="http://en.wikipedia.org/wiki/Laurence_Olivier_Awards" title="Laurence Olivier Awards">Laurence Olivier Awards</a> for 1980.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">The play opened at the <a class="external" href="http://en.wikipedia.org/wiki/Brooks_Atkinson_Theatre" title="Brooks Atkinson Theatre">Brooks Atkinson Theatre</a> on November 9, 1981 and ran for 200 performances, with Tom Courtenay repeating his performance as Norman and <a class="external" href="http://en.wikipedia.org/wiki/Paul_Rogers_(actor)" title="Paul Rogers (actor)">Paul Rogers</a> as "Sir". The play was nominated for the 1982 <a class="external" href="http://en.wikipedia.org/wiki/Tony_Award" title="Tony Award">Tony Award</a> for <a class="external" href="http://en.wikipedia.org/wiki/Tony_Award_for_Best_Play" title="Tony Award for Best Play">Best Play</a>, <a class="external" href="http://en.wikipedia.org/wiki/Tony_Award_for_Best_Performance_by_a_Leading_Actor_in_a_Play" title="Tony Award for Best Performance by a Leading Actor in a Play">Best Actor in a Play</a> (Tom Courtenay) and the <a class="external" href="http://en.wikipedia.org/wiki/Drama_Desk_Award" title="Drama Desk Award">Drama Desk Award</a> for Outstanding Actor in a Play (Paul Rogers).</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Academy_Award_nominations">Academy Award nominations</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">The film was nominated for <a class="external" href="http://en.wikipedia.org/wiki/Academy_Awards" title="Academy Awards">Academy Awards</a> for <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actor" title="Academy Award for Best Actor">Best Actor in a Leading Role</a> (Tom Courtenay and Albert Finney), <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Director" title="Academy Award for Best Director">Best Director</a>, <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture" title="Academy Award for Best Picture">Best Picture</a> and <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Writing_Adapted_Screenplay" title="Academy Award for Writing Adapted Screenplay">Best Writing, Screenplay Based on Material from Another Medium</a>.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="See_also">See also</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Dresser_(theatre)" title="Dresser (theatre)">Dresser</a></li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/title/tt0085461/" rel="nofollow"><i>The Dresser</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+      </ul>
+    </wiki:description>
+  </wiki:film>
+</wiki:nominee>

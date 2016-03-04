@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="1932" span="2" winner="false" award="best-picture" xmlns:wiki="http://marklogic.com/wikipedia">
+  <!--
+                            Copyright (c) 2010 MarkLogic Corporation.
+                            Permission is granted to copy, distribute and/or modify this document
+                            under the terms of the GNU Free Documentation License, Version 1.2
+                            or any later version published by the Free Software Foundation;
+                            with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+                            A copy of the license is included in the section entitled "GNU
+                            Free Documentation License"
+                            
+                            Content derived from http://en.wikipedia.org/wiki/Smilin%27_Through
+                            Modified in May 2009 by Mark Logic Corporation under the terms of the GNU Free Documentation License.
+                        -->
+  <wiki:film-title link="/wiki/Smilin%27_Through">Smilin' Through</wiki:film-title>
+  <wiki:film link="/wiki/Smilin%27_Through" title="Smilin' Through">
+    <wiki:oscar year="1932" span="2" winner="false" award="best-picture"/>
+    <wiki:description>
+      <p xmlns="http://www.w3.org/1999/xhtml"><i><b>Smilin' Through</b></i> may refer to:</p>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Smilin%27_Through_(song)" title="Smilin' Through (song)">"Smilin' Through" (song)</a>, a popular 1919 ballad</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Smilin%27_Through_(play)" title="Smilin' Through (play)"><i>Smilin' Through</i> (play)</a>, a 1919 Broadway play, partially rewritten to go with the song's lyrics</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Smilin%27_Through_(1922_film)" title="Smilin' Through (1922 film)"><i>Smilin' Through</i> (1922 film)</a>, an adaptation of the play, starring Norma Talmadge</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Smilin%27_Through_(1932_film)" title="Smilin' Through (1932 film)"><i>Smilin' Through</i> (1932 film)</a>, another play adaptation, featuring Norma Shearer and Fredric March</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Smilin%27_Through_(1941_film)" title="Smilin' Through (1941 film)"><i>Smilin' Through</i> (1941 film)</a>, another adaptation, with Jeanette MacDonald and Brian Aherne</li>
+	<li><i>Smilin' Through</i>, a 1982 album by <a class="external" href="http://en.wikipedia.org/wiki/Cleo_Laine" title="Cleo Laine">Cleo Laine</a> and <a class="external" href="http://en.wikipedia.org/wiki/Dudley_Moore" title="Dudley Moore">Dudley Moore</a></li>
+      </ul>
+    </wiki:description>
+  </wiki:film>
+</wiki:nominee>

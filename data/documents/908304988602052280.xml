@@ -1,0 +1,1095 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="1938" span="1" winner="false" award="lead-actor" xmlns:wiki="http://marklogic.com/wikipedia">
+	<!-- 
+		Copyright 2009-2012 MarkLogic Corporation.
+		Permission is granted to copy, distribute and/or modify this document
+		under the terms of the GNU Free Documentation License, Version 1.2
+		or any later version published by the Free Software Foundation;
+		with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+		A copy of the license is included in the section entitled "GNU
+		Free Documentation License
+	-->
+	<wiki:name link="/wiki/James_Cagney">James Cagney</wiki:name>
+	<wiki:person link="/wiki/James_Cagney" name="James Cagney">
+		<wiki:oscar year="1938" span="1" winner="false" award="lead-actor" film-link="/wiki/Angels_with_Dirty_Faces" film-title="Angels with Dirty Faces"/>
+		<wiki:oscar year="1942" span="1" winner="true" award="lead-actor" film-link="/wiki/Yankee_Doodle_Dandy" film-title="Yankee Doodle Dandy"/>
+		<wiki:oscar year="1955" span="1" winner="false" award="lead-actor" film-link="/wiki/Love_Me_or_Leave_Me_(film)" film-title="Love Me or Leave Me"/>
+		<wiki:image link="http://upload.wikimedia.org/wikipedia/commons/a/a3/James_Cagney_in_Yankee_Doodle_Dandy_trailer_2up.jpg"/>
+		<wiki:birth>
+			<wiki:date>1899-07-17</wiki:date>
+			<wiki:place>
+				<wiki:primary link="#cite_note-auteur-0 /wiki/New_York_City,_New_York">1New York
+					City</wiki:primary>
+				<wiki:secondary link="/wiki/New_York">New York</wiki:secondary>
+			<enrich><woeid xmlns="http://where.yahooapis.com/v1/schema.rng">2347591</woeid><placeTypeName code="8" xmlns="http://where.yahooapis.com/v1/schema.rng">State</placeTypeName><name xmlns="http://where.yahooapis.com/v1/schema.rng">New York</name><country code="US" type="Country" xmlns="http://where.yahooapis.com/v1/schema.rng">United States</country><admin1 code="US-NY" type="State" xmlns="http://where.yahooapis.com/v1/schema.rng">New York</admin1><admin2 xmlns="http://where.yahooapis.com/v1/schema.rng"/><admin3 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality1 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality2 xmlns="http://where.yahooapis.com/v1/schema.rng"/><postal xmlns="http://where.yahooapis.com/v1/schema.rng"/><centroid xmlns="http://where.yahooapis.com/v1/schema.rng"><latitude>42.855350</latitude><longitude>-76.501671</longitude></centroid><boundingBox xmlns="http://where.yahooapis.com/v1/schema.rng"><southWest><latitude>40.496029</latitude><longitude>-79.761971</longitude></southWest><northEast><latitude>45.012810</latitude><longitude>-71.856247</longitude></northEast></boundingBox><areaRank xmlns="http://where.yahooapis.com/v1/schema.rng">11</areaRank><popRank xmlns="http://where.yahooapis.com/v1/schema.rng">0</popRank></enrich></wiki:place>
+		</wiki:birth>
+		<wiki:death>
+			<wiki:date>March 30, 1986 (aged 86)</wiki:date>
+			<wiki:place>
+				<wiki:primary link="/wiki/Stanford,_New_York">Stanford</wiki:primary>
+				<wiki:secondary link="/wiki/New_York">New York</wiki:secondary>
+			</wiki:place>
+		</wiki:death>
+		<wiki:description>
+			<wiki:abstract>
+				<p xmlns="http://www.w3.org/1999/xhtml"><b>James Francis Cagney, Jr.</b> (July 17,
+					1899 – March 30, 1986) was an American film star who won acclaim for a wide
+					variety of roles, including the career-launching <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/The_Public_Enemy" title="The Public Enemy">The Public Enemy</a>
+					</i>. He was an accomplished <a class="external" href="http://en.wikipedia.org/wiki/Vaudeville" title="Vaudeville">vaudeville</a> performer, nominated for the <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actor" title="Academy Award for Best Actor">Academy Award for Best Actor</a> three
+					times in different decades, winning once for his portrayal of a song-and-dance
+					man in 1942 in <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Yankee_Doodle_Dandy" title="Yankee Doodle Dandy">Yankee Doodle Dandy</a>
+					</i>, but is still best known for his 'tough guy' roles. Like <a class="external" href="http://en.wikipedia.org/wiki/James_Stewart_(actor)" title="James Stewart (actor)">James Stewart</a>, Cagney became so familiar
+					to audiences that they usually referred to him as "Jimmy" Cagney — a billing
+					never found on any of his films.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">In 1999, the <a class="external" href="http://en.wikipedia.org/wiki/American_Film_Institute" title="American Film Institute">American Film Institute</a> ranked Cagney
+					eighth among the <a class="external" href="http://en.wikipedia.org/wiki/AFI%27s_100_Years..._100_Stars" title="AFI's 100 Years... 100 Stars">Greatest Male Stars of All
+					Time</a>.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">Cagney was among <a class="external" href="http://en.wikipedia.org/wiki/Stanley_Kubrick" title="Stanley Kubrick">Stanley Kubrick</a>'s favorite actors and was declared by <a class="external" href="http://en.wikipedia.org/wiki/Orson_Welles" title="Orson Welles">Orson Welles</a> as "maybe the greatest actor to ever
+					appear in front of a camera." Warner Brothers would arrange private screenings
+					of Cagney films for <a class="external" href="http://en.wikipedia.org/wiki/Winston_Churchill" title="Winston Churchill">Winston Churchill</a>.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml"><a class="external" href="http://en.wikipedia.org/wiki/Jack_Warner" title="Jack Warner">Jack
+						Warner</a> called him <i>The Professional Againster</i> as Cagney walked out
+					on major studio <a class="external" href="http://en.wikipedia.org/wiki/Warner_Brothers" title="Warner Brothers">Warner Brothers</a> numerous times, each time coming back on improved
+					personal and artistic terms. He was president of the <a class="external" href="http://en.wikipedia.org/wiki/Screen_Actors_Guild" title="Screen Actors Guild">Screen Actors Guild</a>, and made numerous
+					morale-boosting tours of troops during <a class="external" href="http://en.wikipedia.org/wiki/World_War_II" title="World War II">World
+						War II</a>.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">
+					<br/>
+				</p>
+			</wiki:abstract>
+			<wiki:personal>
+				<p xmlns="http://www.w3.org/1999/xhtml">Cagney was born on the <a class="external" href="http://en.wikipedia.org/wiki/Lower_East_Side" title="Lower East Side">Lower East Side</a> of <a class="external" href="http://en.wikipedia.org/wiki/Manhattan" title="Manhattan">Manhattan</a> in <a class="external" href="http://en.wikipedia.org/wiki/New_York_City" title="New York City">New
+						York City</a> above his father's saloon on the corner of <a class="external" href="http://en.wikipedia.org/wiki/Avenue_D_(Manhattan)" title="Avenue D (Manhattan)">Avenue D</a> and <a class="external" href="http://en.wikipedia.org/wiki/8th_Street_(Manhattan)" title="8th Street (Manhattan)">8th Street</a> to James Cagney Sr., an <a class="external" href="http://en.wikipedia.org/wiki/Irish_American" title="Irish American">Irish American</a> bartender and amateur <a class="external" href="http://en.wikipedia.org/wiki/Boxing" title="Boxing">boxer</a>, and Carolyn Nelson; his maternal grandfather was a Norwegian
+					ship captain while his maternal grandmother was an <a class="external" href="http://en.wikipedia.org/wiki/Irish_American" title="Irish American">Irish American</a>. The family moved twice when Cagney was still young,
+					first to East Seventy-Ninth Street, and then to East Ninety-Sixth Street. Cagney
+					was the second of seven children, two of whom died within months of birth;
+					Cagney himself had been very sick as a young child, so much so that his mother
+					feared he would die before being christened, all of which was a product of the
+					level of poverty in which they grew up. All the children were raised as
+					Catholic, all receiving <a class="external" href="http://en.wikipedia.org/wiki/Eucharist" title="Eucharist">Holy
+						Communion</a> and all being confirmed.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">The red-haired, blue-eyed Cagney graduated
+					from <a class="external" href="http://en.wikipedia.org/wiki/Stuyvesant_High_School" title="Stuyvesant High School">Stuyvesant High School</a> in <a class="external" href="http://en.wikipedia.org/wiki/New_York,_New_York" title="New York, New York">New York City</a> in 1918 and attended <a class="external" href="http://en.wikipedia.org/wiki/Columbia_College_of_Columbia_University" title="Columbia College of Columbia University">Columbia College of Columbia
+						University</a>, where he intended to major in art. He also took German and
+					joined the Student Army Training Corps. He dropped out after one semester and
+					returned home upon the death of his father in the <a class="external" href="http://en.wikipedia.org/wiki/Spanish_flu" title="Spanish flu">Spanish
+						flu</a> epidemic.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">He had a range of jobs early in his life,
+					all contributing to the family fund: junior architect, copy boy for the <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/New_York_Sun" title="New York Sun">New York Sun</a>
+					</i>, book custodian at the <a class="external" href="http://en.wikipedia.org/wiki/New_York_Public_Library" title="New York Public Library">New York Public Library</a>, <a class="external" href="http://en.wikipedia.org/wiki/Bellhop" title="Bellhop">bellhop</a>, <a class="external" href="http://en.wikipedia.org/wiki/Technical_drawing" title="Technical drawing">draughtsman</a> and a night doorman. Cagney
+					believed in hard work: "It was good for me. I feel sorry for the kid who has too
+					cushy a time of it. Suddenly he has to come to face-to-face with the realities
+					of life without any mama or papa to do his thinking for him."</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">He started <a class="external" href="http://en.wikipedia.org/wiki/Tap_dance" title="Tap dance">tap
+						dancing</a> as a boy (a skill that would eventually contribute to his
+					Academy Award) and was nicknamed 'Cellar-Door Cagney' after his habit of dancing
+					on slanted cellar doors. He was a good street fighter, fighting on his older
+					med-student brother Harry's behalf when it was required, taking on all-comers as
+					necessary. He engaged in amateur boxing, including a runner-up in the <a class="external" href="http://en.wikipedia.org/wiki/New_York_State" title="New York State">New York State</a> lightweight title. He was good
+					enough for his coaches to encourage him to turn professional, though his mother
+					would not let him. He played semi-professional baseball for a local side, and
+					indeed was good enough to entertain dreams of playing in the <a class="external" href="http://en.wikipedia.org/wiki/Major_League_Baseball" title="Major League Baseball">Major Leagues</a>.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">His introduction to films was unusual; when
+					visiting an aunt in <a class="external" href="http://en.wikipedia.org/wiki/Brooklyn" title="Brooklyn">Brooklyn</a>
+					who lived opposite <a class="external" href="http://en.wikipedia.org/wiki/Vitagraph_Studios" title="Vitagraph Studios">Vitagraph Studios</a>, Cagney would climb over the
+					fence to watch the filming of <a class="external" href="http://en.wikipedia.org/wiki/John_Bunny" title="John Bunny">John
+						Bunny</a> films. He became involved in <a class="external" href="http://en.wikipedia.org/wiki/Community_theatre" title="Community theatre">amateur dramatics</a>, starting as a scenery boy
+					for a Chinese pantomime at the London Hill <a class="external" href="http://en.wikipedia.org/wiki/Settlement_movement" title="Settlement movement">Settlement House</a>, where his brother, Harry,
+					was on-stage. He was quite happy working behind the scenes, he had no interest
+					in performing. One night, however, he stood in for Harry, who had been taken
+					ill. James was not an understudy, but his <a class="external" href="http://en.wikipedia.org/wiki/Eidetic_memory" title="Eidetic memory">photographic memory</a> of rehearsals allowed him to stand in for his
+					brother without making a mistake. After that he joined as a performer, in a
+					variety of roles for a number of companies.</p>
+			</wiki:personal>
+			<p xmlns="http://www.w3.org/1999/xhtml">While working at <a class="external" href="http://en.wikipedia.org/wiki/Wanamaker%27s" title="Wanamaker's">Wanamaker's</a> Department Store in 1919, Cagney learned (from a work colleague
+				who had already seen him dance) of a role in the upcoming <i>Every Sailor</i> based
+				on <i>Every Woman</i>, a war-time play in which the chorus is made up of servicemen
+				dressed as women. Cagney auditioned for the role of a chorus-girl, despite
+				considering it a waste of time because he only knew one <a class="external" href="http://en.wikipedia.org/wiki/Dance_move" title="Dance move">dance
+				step</a>, the Peabody, a complicated step which he knew perfectly. However, the step
+				was enough to convince that he could dance, copying other dancers moves while
+				waiting to go on. He didn't find it odd, nor was he embarrassed at playing a woman
+				on stage, and recalled later how he was able to shed his own natural shy persona
+				when he stepped onto the stage:</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Had Cagney's mother had her way, his stage
+				career would have ended when he quit <i>Every Sailor</i> after two months; proud as
+				she was of his performance, she felt it better that he get an education. Cagney
+				though appreciated the money, $35 a week, "A mountain of money for me in those
+				worrisome days." In deference to his mother's worries, he got yet another job, this
+				time as a brokerage house runner. This didn't stop him looking for more stage work
+				though, and he went on and successfully auditioned for a chorus part in <i>Pitter
+					Patter</i>, for which he earned $55 a week, sending $40 a week back to his
+				mother. So strong was his habit of working more than one job at a time, he also
+				acted as a dresser for one of the leads, portering the casts' luggage and
+				understudying the lead. Amongst the chorus line was 16 year-old Frances Willard
+				'Billie' Vernon, whom he would marry in 1922. The show began a 10 year association
+				with <a class="external" href="http://en.wikipedia.org/wiki/Vaudeville" title="Vaudeville">vaudeville</a> and <a class="external" href="http://en.wikipedia.org/wiki/Broadway_theatre" title="Broadway theatre">Broadway</a>.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml"><i>Pitter Patter</i> was not hugely successful,
+				but did well enough to run for 32 weeks and allowed Cagney to join the vaudeville
+				circuit. Cagney and Vernon toured separately with a number of different troupes,
+				reuniting as <i>Vernon and Nye</i> to do simple comedy routines and musical numbers.
+				The <i>Nye</i> was a rearrangement of the last syllable of Cagney's surname. One of
+				the troupes that Cagney would join was <i>Parker, Rand and Leach</i> when Leach
+				left. Leach was Archie Leach, who went on to fame as <a class="external" href="http://en.wikipedia.org/wiki/Cary_Grant" title="Cary Grant">Cary
+				Grant</a>.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">After more years of touring, performing and
+				struggling to make money to live and survive, Cagney and Vernon moved to <a class="external" href="http://en.wikipedia.org/wiki/Hawthorne,_California" title="Hawthorne, California">Hawthorne, California</a> in 1924, partly for
+				Cagney to meet his new mother-in-law who had just moved there from Chicago and
+				partly to investigate breaking into the movies. Their train fares were paid for by a
+				friend, the press officer of <i>Pitter Patter</i> who was also desperate to break
+				into acting and felt that Hollywood was the place to do it. They were not very
+				successful; Cagney's dance studio had few clients and folded, he and Vernon toured
+				the studios but could get no interest. Eventually they borrowed some money and
+				headed back to New York and vaudeville via Chicago and <a class="external" href="http://en.wikipedia.org/wiki/Milwaukee" title="Milwaukee">Milwaukee</a>,
+				enduring failure along the way attempting to make money on the stage.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Cagney secured his first significant non dancing
+				role in 1925. He played a young tough guy in the three act play by <a class="external" href="http://en.wikipedia.org/wiki/Maxwell_Anderson" title="Maxwell Anderson">Maxwell Anderson</a>, <i>Outside Looking In</i>,
+				earning $200 a week. As with <i>Pitter Patter</i>, Cagney went to the audition with
+				little confidence of getting the part; this was drama, not vaudeville. Cagney felt
+				that he only got the part of 'Little Red' as he was one of the two red-headed
+				performers in New York, and assumed he got the part because his hair was redder than
+				Alan Bunce's. Nevertheless, the play generally, and Cagney in particular, received
+				good reviews: <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/Life_(magazine)" title="Life (magazine)">Life</a>
+				</i> magazine wrote: "Mr Cagney, in a less spectacular role [than his co-star] makes
+				a few minutes silence during his mock-trial scene something that many a more
+				established actor might watch with profit", Burns Mantle that it "contained the most
+				honest acting now to be seen in New York".</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Cagney went back to vaudeville following the
+				show's four month run, for the next couple of years, again with varied success, but
+				off the back of <i>Outside Looking In</i> the Cagney's were much better able to pay
+				their bills. During this period, Cagney met <a class="external" href="http://en.wikipedia.org/wiki/George_M._Cohan" title="George M. Cohan">George M. Cohan</a>, whom he would go on to portray in Yankee Doodle Dandy,
+				though they never actually spoke.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Cagney secured the lead role in the 1926-27
+				season <a class="external" href="http://en.wikipedia.org/wiki/West_End_theatre" title="West End theatre">West End</a> production of <i>Broadway</i> by <a class="external" href="http://en.wikipedia.org/wiki/George_Abbott" title="George Abbott">George Abbott</a>. However, despite Cagney's discomfort in
+				doing so, the show's management insisted that Cagney copy Broadway lead <a class="external" href="http://en.wikipedia.org/wiki/Lee_Tracy" title="Lee Tracy">Lee Tracy</a>'s performance. The day before the show sailed for England, the
+				management decided that Cagney should be replaced. This was a devastating turn of
+				events for Cagney. Apart from the logistical difficulties this presented (their
+				luggage was in the hold of the ship and they had given up their apartment), he
+				almost quit show business. As Billie recalled:</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">The Cagneys had run-of-the-play contracts,
+				Billie was in the chorus line of the show, and with help from the Actors Equity
+				Association, Cagney took up the understudy role to Tracy on the Broadway show,
+				providing them with a desperately needed steady income. Cagney also set-up a dance
+				school for professionals to expand their skills. He then picked up another role in
+				the play <i>Women Go On Forever</i>, directed by <a class="external" href="http://en.wikipedia.org/wiki/John_Cromwell_(director)" title="John Cromwell (director)">John Cromwell</a>, that ran for four months. By
+				the end of the run, Cagney was exhausted after both acting and running the dance
+				school.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">He had built up a reputation as an innovative
+				teacher, and so when he was cast as the lead in <i>Grand Street Follies of 1928</i>
+				he also was appointed the <a class="external" href="http://en.wikipedia.org/wiki/Choreographer" title="Choreographer">choreographer</a>, and the show got rave reviews. This was followed by <i>Grand
+					Street Follies of 1929</i>.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">These led to a part in <a class="external" href="http://en.wikipedia.org/wiki/George_Kelly" title="George Kelly">George
+					Kelly's</a>
+				<i>Maggie the Magnificent</i>, a play not liked by the critics, although Cagney's
+				performance was. Cagney saw this role, (and <i>Women Go on Forever</i>) as
+				significant because of the talent that directed them, he learned "what a director
+				was for and what a director could do. They were directors who could play all the
+				parts in the play better than the actors cast for them."</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Playing opposite Cagney in <i>Maggie the
+					Magnificent</i> was <a class="external" href="http://en.wikipedia.org/wiki/Joan_Blondell" title="Joan Blondell">Joan
+					Blondell</a>, and the two were reunited a few months later in Marie Baumer's new
+				play <i>Penny Arcade</i>, a show that would change Cagney's life, and ensured that
+				he would never know poverty again.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">While the critics did not take to <i>Penny
+					Arcade</i>, Cagney and Blondell were both highly praised. <a class="external" href="http://en.wikipedia.org/wiki/Al_Jolson" title="Al Jolson">Al Jolson</a>,
+				sensing a potential film success, bought the rights for $20,000 and sold the play to
+					<a class="external" href="http://en.wikipedia.org/wiki/Warner_Brothers" title="Warner Brothers">Warner Brothers</a> with the stipulation that Cagney and
+				Blondell be cast in the film version, which became <i>Sinners' Holiday</i> and was
+				released in 1930. Cagney was given a $500-a-week, three-week contract. Cagney's
+				character, Harry Delano, is a tough guy who ends up a killer, but generates sympathy
+				because of his upbringing, and so Cagney's first screen role awakened a response
+				that other roles would through his career, that of sympathy for the 'bad' guy.
+				Cagney would also demonstrate the stubbornness that would also characterise his
+				career during filming; arguing with director <a class="external" href="http://en.wikipedia.org/wiki/John_Adolfi" title="John Adolfi">John
+					Adolfi</a> about a line:</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Despite this outburst, the studio liked him, and
+				before his three-week contract was up and while shooting was still going on on the
+				film, they gave Cagney a three-week extension and then a full seven-year contract at
+				$400 a week. It was not all great for Cagney however; the contract allowed Warner to
+				drop him at the end of any 40-week period, effectively guaranteeing him 40 weeks
+				income and after that there would be no further guarantees. As when he was growing
+				up, Cagney shared his money with his family.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">With the good reviews that Cagney received, he
+				immediately starred in another gangster role in <i>Doorway to Hell</i> which was a
+				financial hit, helping cement Cagney's growing reputation. He made four more movies
+				before his breakthrough role.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Warner Brothers′ succession of gangster movie
+				hits, in particular <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/Little_Caesar_(film)" title="Little Caesar (film)">Little Caesar</a>
+				</i> with <a class="external" href="http://en.wikipedia.org/wiki/Edward_G._Robinson" title="Edward G. Robinson">Edward G. Robinson</a>, and Cagney's strong reviews
+				in gangster movies in his short film career came together in the 1931 film <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/The_Public_Enemy" title="The Public Enemy">The Public Enemy</a>
+				</i>. Cagney was cast to play the role of nice-guy Matt Doyle, opposite Edward
+				Woods' role of Tom Powers. However, after the initial rushes, the two were swapped.
+				The film was low budget, costing only $151,000 to make, but went on to gross over $1
+				million, one of the first low budget films to do so.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">If the quality of the film itself was not
+				realized until much later, Cagney's performance certainly was. The <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/New_York_Herald_Tribune" title="New York Herald Tribune">New York Herald Tribune</a>
+				</i> described Cagney's performance as "the most ruthless, unsentimental appraisal
+				of the meanness of a petty killer the cinema has yet devised." Cagney received top
+				billing for the film and while he acknowledged the importance of the role to his
+				career, he always disputed that the role changed the way heroes and leading men were
+				portrayed, citing <a class="external" href="http://en.wikipedia.org/wiki/Clark_Gable" title="Clark Gable">Clark
+					Gable</a>'s slapping of <a class="external" href="http://en.wikipedia.org/wiki/Barbara_Stanwyck" title="Barbara Stanwyck">Barbara Stanwyck</a> six months earlier (in <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/Night_Nurse_(1931_film)" title="Night Nurse (1931 film)">Night Nurse</a>
+				</i>) as more important. Nevertheless, the scene where Cagney smashes a grapefruit
+				into <a class="external" href="http://en.wikipedia.org/wiki/Mae_Clarke" title="Mae Clarke">Mae Clarke</a>'s face is viewed by many critics as a one of
+				the most famous moments in movie history. The scene itself was a very late addition.
+				Who actually thought of the idea is a matter of debate; producer <a class="external" href="http://en.wikipedia.org/wiki/Darryl_Zanuck" title="Darryl Zanuck">Darryl
+					Zanuck</a> claimed he thought of the idea in a script conference, Director <a class="external" href="http://en.wikipedia.org/wiki/William_Wellman" title="William Wellman">William Wellman</a> claimed that the idea came to him
+				when he saw the grapefruit on the table during the shoot, and the writers Glasmon
+				and Bright claimed the scene was based on the real life of small-time gangster Hymie
+				Weiss who threw an omelette into the face of his girlfriend of the time. Cagney
+				himself usually cited the writers' version, but the fruit's victim, Clarke, agreed
+				that it was Wellman's idea, saying "I'm sorry I ever agreed to do the grapefruit
+				bit. I never dreamed it would be shown in the movie. Director Bill Wellman thought
+				of the idea suddenly. It wasn't even written into the script."</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">The impact of the scene was such that
+				film-makers have repeated its violence many times in cinema history; <a class="external" href="http://en.wikipedia.org/wiki/Lee_Marvin" title="Lee Marvin">Lee Marvin</a>'s scalding coffee into the face of <a class="external" href="http://en.wikipedia.org/wiki/Gloria_Grahame" title="Gloria Grahame">Gloria Grahame</a> in <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/The_Big_Heat" title="The Big Heat">The Big Heat</a>
+				</i> and <a class="external" href="http://en.wikipedia.org/wiki/Richard_Widmark" title="Richard Widmark">Richard Widmark</a>'s pushing of an old lady down the
+				stairs in <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/Kiss_of_Death_(1947_film)" title="Kiss of Death (1947 film)">Kiss of Death</a>
+				</i> both took their influence from Cagney's portrayal of Tom Powers. Cagney himself
+				was offered grapefruit in almost every restaurant he went in for years after, and
+				Clarke claimed it virtually ruined her career due to typecasting.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Cagney's stubbornness was starting to become
+				well known behind the scenes, not least after his refusal to join in a 100%
+				participation charity drive that was being pushed by <a class="external" href="http://en.wikipedia.org/wiki/Douglas_Fairbanks,_Jr." title="Douglas Fairbanks, Jr.">Douglas Fairbanks, Jr.</a>. Donating money to
+				charity wasn't the issue, being forced to was. Already he had acquired the nickname
+				'The Professional Againster'.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Warners were quick to combine their two rising
+				'gangster' stars in Cagney and Robinson for Cagney's next film (for which he
+				received second billing) <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/Smart_Money_(film)" title="Smart Money (film)">Smart Money</a>
+				</i> in 1931. So keen were the studio to follow up the success of Robinson's
+					<i>Little Caesar</i> that Cagney actual shot <i>Smart Money</i> at the same time
+				as <i>The Public Enemy</i>. As in <i>The Public Enemy</i>, Cagney is required to be
+				physically violent to a woman, this time slapping co-star <a class="external" href="http://en.wikipedia.org/wiki/Evalyn_Knapp" title="Evalyn Knapp">Evalyn
+					Knapp</a>, a signal that Warners were keen to keep Cagney in the public eye.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">With the introduction of the <a class="external" href="http://en.wikipedia.org/wiki/United_States_Motion_Picture_Production_Code_of_1930" title="United States Motion Picture Production Code of 1930">United States
+					Motion Picture Production Code of 1930</a>, and particularly its edicts
+				concerning on-screen violence, Warners decided to allow Cagney a change of pace, and
+				cast him in the comedy <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/Blonde_Crazy" title="Blonde Crazy">Blonde Crazy</a>
+				</i>, again opposite Blondell.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">As he completed filming of this comedy, <i>The
+					Public Enemy</i> was filling cinemas with all-night showings and Cagney began to
+				compare his pay with his peers, thinking his contract allowed for salary adjustments
+				based on the success of his films. Warners disagreed, however, and refused to a pay
+				raise, and also insisted that Cagney continue promoting studio films, even the ones
+				he wasn't in, something he was opposed to. Cagney wasn't prepared to be pushed
+				around, however, and packed his trunks, left his apartment to his brother Bill to
+				look after, and returned to New York with Billie.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">While the Cagneys were in New York, brother
+				Bill, who had effectively become James' agent, started talks with the studio about a
+				substantial pay rise and more personal freedom. Warner's hand was forced by the
+				success of <i>Blonde Crazy</i>, and they eventually offered Cagney an improved
+				contract of $1000 a week.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">His first film on his return from New York was
+				the 1932 film <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/Taxi!" title="Taxi!">Taxi!</a>
+				</i>, a significant film for two reasons: it was the first time that Cagney danced
+				on screen and secondly it was the last time he would allow himself to be shot at
+				with live ammunition, which was a common occurrence at the time, before blank
+				cartridges and squibs had been perfected. He had experienced it in <i>The Public
+					Enemy</i>, but this time he almost got hit. In his opening scene, Cagney spoke
+				fluent <a class="external" href="http://en.wikipedia.org/wiki/Yiddish" title="Yiddish">Yiddish</a>, a language he picked up during his boyhood in New
+				York City. The film was again praised by critics, and Warners had another hit on
+				their hands, and was swiftly followed by <i>The Crowd Roars</i> and <i>Winner Takes
+					All</i>.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml"><i>Taxi</i> was the source of one of Cagney's
+				most misquoted lines. Cagney never actually said, "Oooh, you dirty rat!", a line
+				commonly used by impressionists; the closest he got to it was the line in
+					<i>Taxi</i> "Come out and take it, you dirty, yellow-bellied rat, or I'll give
+				it to you through the door!"</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Despite this success, Cagney was not happy with
+				his contract, wanting more money for his successful films and offering to take a
+				smaller salary should his star wane in the future. Warners refused, and so Cagney
+				once again walked out. He was holding out for $4000 a week, the same amount as
+				Edward G. Robinson, Douglas Fairbanks, Jr., and <a class="external" href="http://en.wikipedia.org/wiki/Kay_Francis" title="Kay Francis">Kay
+					Francis</a>. Warners this time refused to cave in, and suspended Cagney. Cagney
+				announced that he would do his next three pictures for free if Warners canceled the
+				remaining five years on his contract. He also threatened to quit Hollywood and go
+				back to Columbia University and follow his brothers into medicine. After six months
+				of suspension, a deal, brokered by <a class="external" href="http://en.wikipedia.org/wiki/Frank_Capra" title="Frank Capra">Frank
+					Capra</a>, saw Cagney receiving an improved salary of around $3000 a week and a
+				guarantee of no more than four films a year and top billing.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Cagney, having learned about the block-booking
+					<a class="external" href="http://en.wikipedia.org/wiki/Studio_system" title="Studio system">studio system</a> that almost guaranteed them huge
+				profits, was determined to spread the wealth. He would also send money and goods to
+				old friends from his neighborhood, though he did not generally make this known.
+				Cagney's insistence on no more than four films a year was based on his experience of
+				the Hollywood acting trade where actors—even teenagers—would regularly work 100
+				hours a week turning out films. This experience would also be an integral part of
+				his involvement in the formation of the <a class="external" href="http://en.wikipedia.org/wiki/Screen_Actors_Guild" title="Screen Actors Guild">Screen Actors Guild</a>, which came into existence
+				in 1933.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Cagney returned to the studio and made <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/Hard_to_Handle" title="Hard to Handle">Hard to Handle</a>
+				</i>, followed by a steady stream of films, including the highly regarded <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/Footlight_Parade" title="Footlight Parade">Footlight Parade</a>
+				</i>, which gave Cagney the chance to return to his song-and-dance roots, and was
+				Warners first real attempt at the musical genre. It was thought of as one of
+				Cagney's best early films, featuring particular show-stopping scenes in the <a class="external" href="http://en.wikipedia.org/wiki/Busby_Berkeley" title="Busby Berkeley">Busby Berkeley</a> choreographed routines. His next
+				notable film was 1934's <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/Here_Comes_the_Navy" title="Here Comes the Navy">Here Comes the Navy</a>
+				</i> which saw him pair up with <a class="external" href="http://en.wikipedia.org/wiki/Pat_O%27Brien_(actor)" title="Pat O'Brien (actor)">Pat O'Brien</a> for the first time, which would lead
+				them to a long friendship.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">1935 was a critical year for Cagney. He was
+				listed as one of the 'Top Ten Moneymakers in Hollywood' for the first time. He was
+				cast more frequently outside of gangster roles; in <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/G-Men" title="G-Men">G-Men</a>
+				</i> he played a lawyer who joined the <a class="external" href="http://en.wikipedia.org/wiki/FBI" title="FBI">FBI</a>, and he also took on
+				his first, and only, <a class="external" href="http://en.wikipedia.org/wiki/Shakespeare" title="Shakespeare">Shakespearean</a> role, as <a class="external" href="http://en.wikipedia.org/wiki/Nick_Bottom" title="Nick Bottom">Nick
+					Bottom</a> in <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/A_Midsummer_Night%27s_Dream_(1935_film)" title="A Midsummer Night's Dream (1935 film)">A Midsummer Night's Dream</a>
+				</i>, which featured <a class="external" href="http://en.wikipedia.org/wiki/Mickey_Rooney" title="Mickey Rooney">Mickey
+					Rooney</a> as <a class="external" href="http://en.wikipedia.org/wiki/Puck_(Shakespeare)" title="Puck (Shakespeare)">Puck</a>, though it was not critically well
+				received.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Cagney's last 1935 movie was <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/Ceiling_Zero" title="Ceiling Zero">Ceiling Zero</a>
+				</i> and his third with Pat O'Brien. Significantly though, O'Brien received top
+				billing, above Cagney in what was a clear breach of his (Cagney's) contract. This,
+				combined with the fact that he had made five movies in 1934, again against his
+				contract terms, was too much for Cagney, and he brought legal proceedings against
+				Warners for <a class="external" href="http://en.wikipedia.org/wiki/Breach_of_contract" title="Breach of contract">breach of contract</a>. The dispute dragged on for
+				several months. Cagney received calls from <a class="external" href="http://en.wikipedia.org/wiki/David_O._Selznick" title="David O. Selznick">David Selznick</a> and <a class="external" href="http://en.wikipedia.org/wiki/Sam_Goldwyn" title="Sam Goldwyn">Sam
+					Goldwyn</a>, but neither felt in a position to offer him work while the dispute
+				went on.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">While the legal dispute rumbled on, with
+				Cagney's brother Bill representing James in court, James and Billie went back to New
+				York and looked for a country property where he could indulge in his passion for
+				farming.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Cagney spent most of the next year on his farm,
+				and only went back to work when Edward L. Alperson from the new, independent Grand
+				National films approached him to make movies at $100,000 a film and 10% of the
+				profits. Cagney made two films, <i>Great Guy</i> and <i>Something to Sing About</i>.
+				Cagney received good reviews for both, but overall the production quality was not up
+				to Warner standards and the films did not do especially well. A third film was
+				planned (<i>Dynamite</i>) but Grand National ran out of money.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">The timing was fortunate for Cagney, as the
+				courts decided the Warners lawsuit in Cagney's favor. He had done what many would
+				have thought unthinkable; taken on the studios and won. Not only did he win the
+				suit, but Warners knew that he was still a huge star, and invited him back in a
+				5-year, $150,000 a film deal, with no more than 2 films a year and with Cagney
+				having full say over what films he did and didn't make. William Cagney was also
+				guaranteed a deal in an assistant producer for the films James would star in.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Cagney had established the power of the walkout
+				as keeping the studios to their word:</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Cagney himself acknowledged the importance of
+				the walkout for other actors in breaking the dominance of the studio system.
+				Normally when stars walked out, the time they were absent was added on to the end of
+				their already long contract, as happened with <a class="external" href="http://en.wikipedia.org/wiki/Olivia_de_Havilland" title="Olivia de Havilland">Olivia de Havilland</a> and <a class="external" href="http://en.wikipedia.org/wiki/Bette_Davis" title="Bette Davis">Bette
+					Davis</a>. Cagney could walk out and came back with an improved contract.
+				Unsurprisingly, the whole of Hollywood watched the case closely for hints of how
+				future contracts might be handled..</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Artistically, the Grand National experiment was
+				a success for Cagney, who was able to move away from his traditional Warners tough
+				guy roles to more sympathetic characters. How far he could have experimented and
+				developed can never be known, but certainly back in the Warners fold he was back
+				playing tough guys.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Cagney's two films of 1938 both co-starred Pat
+				O'Brien, <i>Boy Meets Girl</i> and <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/Angels_with_Dirty_Faces" title="Angels with Dirty Faces">Angels with Dirty Faces</a>
+				</i>. The former saw Cagney in a comedy role that received mixed reviews. Warners
+				had allowed Cagney his change of pace, but they were keen to get him back to doing
+				what made them money, namely playing tough guys. Ironically, the script for
+					<i>Angels</i> was one that Cagney had hoped to do while with Grand National, but
+				the studio had been unable to secure funding.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Cagney starred as Rocky Sullivan, a gangster
+				fresh out of jail looking for his former associate (played by supporting player <a class="external" href="http://en.wikipedia.org/wiki/Humphrey_Bogart" title="Humphrey Bogart">Humphrey Bogart</a>, their first film together) who owes
+				him money. Whilst revisiting his old haunts he runs into his old friend Jerry
+				Connolly who is now a priest looking after the <a class="external" href="http://en.wikipedia.org/wiki/Dead_End_Kids" title="Dead End Kids">Dead End
+					Kids</a>. The kids idolize Rocky, much to Connolly's concern. After a messy
+				shoot-out, Sullivan is eventually captured by the police and <a class="external" href="http://en.wikipedia.org/wiki/Capital_punishment" title="Capital punishment">sentenced to death</a> by <a class="external" href="http://en.wikipedia.org/wiki/Electric_chair" title="Electric chair">electric chair</a>. Connolly pleads with Rocky to 'turn yellow' on his way to
+				the chair so that the Kids lose their respect for him, and hopefully avoid a life of
+				crime. Sullivan refuses, but on his way to the chair does beg for his life. The film
+				is ambiguous in whether this cowardice was for real or just for the Kids' benefit.
+				Cagney himself refused to say, insisting he liked the ambiguity and the audience
+				making its own mind up. The film is regarded by many as one of Cagney's finest and
+				garnered him an <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actor" title="Academy Award for Best Actor">Academy Award for Best Actor</a> nomination
+				for 1938 (losing out to <a class="external" href="http://en.wikipedia.org/wiki/Spencer_Tracy" title="Spencer Tracy">Spencer
+					Tracy</a> in <i><a class="external" href="http://en.wikipedia.org/wiki/Boys_Town_(film)" title="Boys Town (film)">Boys Town</a>,</i> a role which, ironically Cagney
+				had been considered for, but lost out on due to his tough guy image.), but winning
+				the <a class="external" href="http://en.wikipedia.org/wiki/New_York_Film_Critics_Circle_Award_for_Best_Actor" title="New York Film Critics Circle Award for Best Actor">New York Film Critics
+					Circle Award for Best Actor</a></p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Cagney's earlier insistence on not filming with
+				live ammunition came to good during the filming of <i>Angels with Dirty Faces</i>.
+				Having been told he would film a scene with real machine gun bullets, Cagney
+				refused, and insisted the shots be superimposed afterwards. As it turned out, he was
+				right, a ricocheting bullet passing through exactly where his head would have been.
+				Cagney's first year back at Warners saw him becoming the studio's highest earner,
+				earning $324,000.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Cagney completed his first decade of
+				movie-making in 1939, with <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/The_Roaring_Twenties" title="The Roaring Twenties">The Roaring Twenties</a>
+				</i>, his first film with <a class="external" href="http://en.wikipedia.org/wiki/Raoul_Walsh" title="Raoul Walsh">Raoul
+					Walsh</a> and last with Bogart. It was, perhaps more surprisingly, his last
+				'gangster' film for ten years. Cagney again got good reviews, <a class="external" href="http://en.wikipedia.org/wiki/Graham_Greene" title="Graham Greene">Graham
+					Greene</a> stating "Mr Cagney, of the bull-calf brow, is as always a superb and
+				witty actor". <i>The Roaring Twenties</i> was also the last film where violence was
+				explained as part of a poor upbringing or the environment around the character, as
+				in <i>The Public Enemy</i>. From this point on, violence was attached to mania, as
+				in <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/White_Heat" title="White Heat">White Heat</a>
+				</i>. 1939 also saw him second only to <a class="external" href="http://en.wikipedia.org/wiki/Gary_Cooper" title="Gary Cooper">Gary
+					Cooper</a> in the national wage stakes, earning $368,333.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">His next notable career role was playing <a class="external" href="http://en.wikipedia.org/wiki/George_M._Cohan" title="George M. Cohan">George M. Cohan</a> in <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/Yankee_Doodle_Dandy" title="Yankee Doodle Dandy">Yankee Doodle Dandy</a>
+				</i>, a film Cagney himself "took great pride in" and considered his best film.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Producer <a class="external" href="http://en.wikipedia.org/wiki/Hal_Wallis" title="Hal Wallis">Hal Wallis</a>
+				said that having seen Cohan in <i>I'd Rather Be Right</i>, he never considered
+				anyone other than Cagney for the role. Cagney himself, on the other hand, insists
+				that <a class="external" href="http://en.wikipedia.org/wiki/Fred_Astaire" title="Fred Astaire">Fred Astaire</a> had been the first choice and turned it
+				down.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Filming began the day after the <a class="external" href="http://en.wikipedia.org/wiki/Attack_on_Pearl_Harbor" title="Attack on Pearl Harbor">attack on Pearl Harbor</a>, and the cast and crew
+				worked in a "patriotic frenzy" as the US's early involvement in <a class="external" href="http://en.wikipedia.org/wiki/World_War_II" title="World War II">World War
+					II</a> gave the cast and crew a feeling that "they might be sending the last
+				message from the free world", according to actress <a class="external" href="http://en.wikipedia.org/wiki/Rosemary_DeCamp" title="Rosemary DeCamp">Rosemary DeCamp</a>.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Cohan himself had a private showing, shortly
+				before his death, and thanked Cagney "for a wonderful job". A paid for premiere with
+				seats ranging from $25 to $25,000, raised $5,750,000 in <a class="external" href="http://en.wikipedia.org/wiki/War_bond" title="War bond">war bonds</a> for
+				the US treasury.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Many critics of the time and since have declared
+				it to be Cagney's best film, and draw parallels between Cohan and Cagney; a career
+				begun in vaudeville, years of struggle before reaching the peak of their profession,
+				the surrounding with family (during his career, brothers Bill and Ed and sister
+				Jeanne worked for Cagney Productions), early marriage, and a wife who was happy to
+				sit back while he went on to stardom.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Certainly it was Cagney's most important film in
+				terms of awards, winning him the Best Actor Oscar (amongst three others Oscars for
+				the film and eight nominations). In his acceptance speech, Cagney said</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Coming on the back of his biggest success, and
+				particularly because it didn't come from a gangster movie, Cagney felt that it was
+				time, once again, to leave Warners. He had lost out on <i>Boys' Town</i> to Tracy,
+				and also lost the role of <a class="external" href="http://en.wikipedia.org/wiki/University_of_Notre_Dame" title="University of Notre Dame">Notre Dame</a> football coach <a class="external" href="http://en.wikipedia.org/wiki/Knute_Rockne" title="Knute Rockne">Knute Rockne</a> in <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/Knute_Rockne,_All_American" title="Knute Rockne, All American">Knute Rockne, All American</a>
+				</i> to his friend <a class="external" href="http://en.wikipedia.org/wiki/Pat_O%27Brien_(actor)" title="Pat O'Brien (actor)">Pat O'Brien</a>, both because of the hard-man image
+				that Warners had developed for him.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Having won his Oscar just as his Warners
+				contract was due for renewal, he could have asked for whatever he wanted and they
+				would have given it to him, but Cagney was determined to be his own man, and so
+				announced in March 1942 that he and brother Bill were setting up 'Cagney
+				Productions' to release films though <a class="external" href="http://en.wikipedia.org/wiki/United_Artists" title="United Artists">United
+					Artists</a>.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Free of Warners again, Cagney spent some time
+				relaxing on his farm in <a class="external" href="http://en.wikipedia.org/wiki/Martha%27s_Vineyard" title="Martha's Vineyard">Martha's Vineyard</a>, before volunteering to join the
+					<a class="external" href="http://en.wikipedia.org/wiki/USO" title="USO">USO</a>
+				and spending several weeks touring the US entertaining troops with vaudeville
+				routines and scenes from <i>Yankee Doodle Dandy</i>. In September 1942 he was
+				elected president of the <a class="external" href="http://en.wikipedia.org/wiki/Screen_Actors_Guild" title="Screen Actors Guild">Screen Actors Guild</a>.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Almost a year after announcing the creation of
+				his new production company, in March 1943 Cagney's new company produced its first
+				film, <i>Johnny Come Lately</i>. While the main studios were producing patriotic war
+				movies, Cagney was determined to stick to his own path and to continue to try and
+				shake off his tough guy image and produced a movie that was a "complete and
+				exhilarating exposition of the Cagney "alter-ego" on film". According to Cagney, the
+				film "made money but it was no great winner", and criticism of it varied from
+				excellent in <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/Time_(magazine)" title="Time (magazine)">Time</a>
+				</i> to the poor from New York's <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/PM_(newspaper)" title="PM (newspaper)">PM</a>
+				</i>.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Following the completion of the film, Cagney
+				went back to the USO and toured US military bases in the UK. He refused to do any
+				interviews with the UK press, preferring to concentrate on rehearsals and
+				performances, giving several shows a day for the <a class="external" href="http://en.wikipedia.org/wiki/Army_Signal_Corps" title="Army Signal Corps">Army Signal Corps</a>. The show, called <i>The American Cavalcade of Dance</i>
+				consisted of a history of American dance, from the earliest days through to <a class="external" href="http://en.wikipedia.org/wiki/Fred_Astaire" title="Fred Astaire">Fred Astaire</a>, and culminating with dances from
+					<i>Yankee Doodle Dandy</i>.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">The second movie Cagney's company would produce
+				was <i>Blood On the Sun</i>, a film for which Cagney, insisting on doing his own
+				stunts, required <a class="external" href="http://en.wikipedia.org/wiki/Judo" title="Judo">judo</a> training from Ken Kuniyuki, a judo expert, and Jack
+				Halloran, a former policeman. The Cagneys had hoped that a more action based James
+				Cagney film would appeal more to the audience, but the film fared worse at the box
+				office than <i>Johnny Come Lately</i>.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">At this time, Cagney heard of <a class="external" href="http://en.wikipedia.org/wiki/Audie_Murphy" title="Audie Murphy">Audie Murphy</a>, a young war hero who appeared on the
+				front of <i>Life</i> magazine. Cagney thought that he had the looks to be a success
+				in movies, and suggested that he come to Hollywood for a try-out, but Murphy could
+				not act, and his contract was loaned out then sold on.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">While negotiating the rights for their third
+				independent film, Cagney took up an offer from <a class="external" href="http://en.wikipedia.org/wiki/20th_Century_Fox" title="20th Century Fox">20th Century Fox</a> to star in <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/13_Rue_Madeleine" title="13 Rue Madeleine">13 Rue Madeleine</a>
+				</i> at $300,000 for two months work. The film was a success, and Cagney was keen to
+				pick up production of his new project, an adaptation of a Broadway play, <a class="external" href="http://en.wikipedia.org/wiki/William_Saroyan" title="William Saroyan">William Saroyan</a>'s <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/The_Time_of_Your_Life" title="The Time of Your Life">The Time of Your Life</a>
+				</i>. Saroyan himself loved the film but it was a commercial disaster, costing the
+				company half a million dollars, with audiences again struggling to accept Cagney out
+				of tough guy roles.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Cagney Productions was in serious trouble; poor
+				returns from the produced films and a legal dispute with Sam Goldwyn Studio over a
+				rental agreement all forced Cagney back to Warners. Cagney signed a
+				distribution-production deal with Warners for the film <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/White_Heat" title="White Heat">White Heat</a>
+				</i>, effectively Cagney Productions became a unit of Warner Brothers.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Cagney's portrayal of Cody Jarrett in the 1949
+				film <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/White_Heat" title="White Heat">White Heat</a>
+				</i> is one of his most memorable. Cinema had changed in the ten years since Walsh
+				had last directed Cagney (in <i>The Roaring Twenties</i>), and Cagney's portrayal of
+				gangsters changed too. Unlike Tom Powers in <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/The_Public_Enemy" title="The Public Enemy">The Public Enemy</a>
+				</i>, Jarrett has little or no sympathetic characteristics. In the 18 intervening
+				years, Cagney had started to grey and developed a paunch for the first time. He was
+				no longer a romantic commodity, and this was reflected in his portrayal of Jarrett.
+				Cagney himself had the idea of playing Jarrett as a psychotic:</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">The film has a number of memorable scenes and
+				lines. Cagney's closing lines of the film "Made it, Ma! Top of the world!" before
+				exploding in a huge fireball was voted the <a class="external" href="http://en.wikipedia.org/wiki/AFI%27s_100_Years..._100_Movie_Quotes" title="AFI's 100 Years... 100 Movie Quotes">18<sup>th</sup> greatest movie
+					line</a> by the <a class="external" href="http://en.wikipedia.org/wiki/American_Film_Institute" title="American Film Institute">American Film Institute</a>. Cagney's explosion
+				of rage in prison on being told of Jarrett's mother's death is one of his most
+				memorable and extraordinary performances.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Such was the violence that he gave the
+				performance some of the extras on the set were terrified of destruction that Cagney
+				wrought. Cagney attributed the performance to his father's alcohol induced rages
+				that he had seen as a child, as well as someone that he had seen on a visit to a
+				mental hospital.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">The film was a critical success, though some
+				critics wondered about the social impact of a character that they at least saw as
+				sympathetic. Cagney though was still struggling against the gangster typecasting,
+				saying to a journalist "It's what the people want me to do. Some day, though, I'd
+				like to make another movie that kids could go and see"</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">However, Warners, perhaps searching for another
+					<i>Yankee Doodle Dandy</i> gave Cagney a musical for his next picture, the 1950 <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/The_West_Point_Story_(film)" title="The West Point Story (film)">The West Point Story</a>
+				</i> with <a class="external" href="http://en.wikipedia.org/wiki/Doris_Day" title="Doris Day">Doris Day</a>, an actress he admired.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">The following film was another gangster movie,
+					<i>Kiss Tomorrow Goodbye</i>, which was Cagney Productions first movie for
+				Warners since returning. While it was compared, unfavourably to <i>White Heat</i> by
+				critics, it was fairly successful at the box office, with $500,000 going straight to
+				Cagney Productions' bankers to pay off their losses.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Cagney Productions was not a great success
+				however, and in 1953, the company ended and William Cagney produced his last film, <i>
+					<a class="external" href="http://en.wikipedia.org/w/index.php?title=A_Lion_Is_In_The_Streets&amp;action=edit&amp;redlink=1" title="A Lion Is In The Streets (page does not exist)">A Lion Is In The
+						Streets</a>
+				</i>.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Cagney's next most notable role was the 1955
+				film <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/Love_Me_or_Leave_Me_(film)" title="Love Me or Leave Me (film)">Love Me or Leave Me</a>
+				</i>, and his third with Day. Cagney played <a class="external" href="http://en.wikipedia.org/wiki/Martin_Snyder" title="Martin Snyder">Martin
+					"Moe the Gimp" Snyder</a>, a lame <a class="external" href="http://en.wikipedia.org/wiki/Jewish-American" title="Jewish-American">Jewish-American</a> gangster from <a class="external" href="http://en.wikipedia.org/wiki/Chicago" title="Chicago">Chicago</a>, a role
+					<a class="external" href="http://en.wikipedia.org/wiki/Spencer_Tracy" title="Spencer Tracy">Spencer Tracy</a> turned down. Cagney described the script
+				as "that extremely rare thing, the perfect script". When the film was released,
+				Snyder reportedly asked how Cagney had so accurately copied his limp, but Cagney
+				himself insisted he hadn't, he had made it up based on personal observation of other
+				people when they limped "What I did was very simple. I just slapped my foot down as
+				I turned it out while walking. That's all".</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">His performance earned him another Best Actor <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award" title="Academy Award">Academy Award</a> nomination, 17 years after his first.
+				Reviews were strong, and the film is considered to be one of his best of his later
+				career, and in Day he had found a co-star he could build a rapport with such as he
+				had had with Blondell at the start of his career, and Day herself was full of praise
+				for Cagney</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Cagney's next film was <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/Mister_Roberts_(1955_film)" title="Mister Roberts (1955 film)">Mister Roberts</a>
+				</i>, directed by <a class="external" href="http://en.wikipedia.org/wiki/John_Ford" title="John Ford">John Ford</a> and slated to star <a class="external" href="http://en.wikipedia.org/wiki/Spencer_Tracy" title="Spencer Tracy">Spencer
+					Tracy</a>. It was Tracy's involvement that ensured that Cagney accepted the
+				minor role, though in the end Tracy didn't take part and was replaced by <a class="external" href="http://en.wikipedia.org/wiki/Henry_Fonda" title="Henry Fonda">Henry Fonda</a>. Cagney had worked with Ford before on
+					<i>What Price Glory?</i>, and had got on fairly well. However, as soon as Ford
+				met Cagney at the airport, he (Ford) warned that they would "tangle asses", which
+				caught Cagney by surprise.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">The next day, Cagney was slightly late on set,
+				and Ford was fuming. Cagney cut short the imminent tirade, saying "When I started
+				this picture, you said that we would tangle asses before this was over. I'm ready
+				now - are you?" Ford walked away and he and Cagney had no more problems, even if he
+				never particularly liked Ford.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Cagney's skill at noticing tiny details in other
+				actor's performances re-appeared during the shooting of <i>Mister Roberts</i>. When
+				watching the <a class="external" href="http://en.wikipedia.org/wiki/Kraft_Music_Hall_(TV_series)" title="Kraft Music Hall (TV series)">Kraft Music Hall</a> anthology television
+				show some months before, Cagney had noticed <a class="external" href="http://en.wikipedia.org/wiki/Jack_Lemmon" title="Jack Lemmon">Jack
+					Lemmon</a> performing left-handed. The first thing that Cagney asked Lemmon when
+				they met to film was if he was still using his left hand. Lemmon was shocked, he had
+				done it on a whim, hadn't told anyone and thought no-one else had noticed.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">The film was a success, securing three Oscar
+				nominations, including <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture" title="Academy Award for Best Picture">Best Picture</a>, <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Sound" title="Academy Award for Sound">Best Sound Recording</a> and <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Supporting_Actor" title="Academy Award for Best Supporting Actor">Best Supporting Actor</a> for
+				Lemmon, who won. Whilst Cagney wasn't nominated, he had thoroughly enjoyed the
+				production. Filming on <a class="external" href="http://en.wikipedia.org/wiki/Midway_Island" title="Midway Island">Midway
+					Island</a> and in a more minor role meant that he had time to relax and engage
+				in his hobby of painting and also of drawing caricatures of the cast and crew.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Cagney worked with <a class="external" href="http://en.wikipedia.org/wiki/MGM" title="MGM">MGM</a> on the <a class="external" href="http://en.wikipedia.org/wiki/Western_film" title="Western film">Western film</a>
+				<i>
+					<a class="external" href="http://en.wikipedia.org/wiki/Tribute_to_a_Bad_Man" title="Tribute to a Bad Man">Tribute to a Bad Man</a>
+				</i>, a role that had originally be written for Spencer Tracy. Cagney received
+				praise for his performance, and the studio liked his work enough to offer him
+					<i>These Wilder Years</i> with <a class="external" href="http://en.wikipedia.org/wiki/Barbara_Stanwyck" title="Barbara Stanwyck">Barbara Stanwyck</a>. Cagney and Stanwyck got on well, both had worked in
+				vaudeville, and they entertained the cast and crew off-screen by singing and
+				dancing.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">In 1956, Cagney undertook one of his very rare
+				television roles, starring in <a class="external" href="http://en.wikipedia.org/wiki/Robert_Montgomery_(actor)" title="Robert Montgomery (actor)">Robert Montgomery</a>'s <i>Soldiers From the
+					War Returning</i>, as a favour to Montgomery who needed a strong fall season
+				opener to stop the network dropping his series. Cagney's appearance ensured that it
+				was a success. He made it clear to reporters afterwards that television was not his
+				medium "I do enough work in movies. This is a high-tension business. I have
+				tremendous admiration for the people who go through this sort of thing every week,
+				but it's not for me."</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Cagney's most significant film of 1956 was <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/Man_of_a_Thousand_Faces" title="Man of a Thousand Faces">Man of a Thousand Faces</a>
+				</i>, in which he played <a class="external" href="http://en.wikipedia.org/wiki/Lon_Chaney" title="Lon Chaney">Lon
+				Chaney</a>, a role which he received excellent reviews, with the <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/New_York_Journal_American" title="New York Journal American">New York Journal American</a>
+				</i> rating it one of his best performances, and the film, made for <a class="external" href="http://en.wikipedia.org/wiki/Universal_Pictures" title="Universal Pictures">Universal</a> taking big money. Again, Cagney's
+				skills of mimicry, combined with a physical similarity to Chaney, allowed him to
+				generate empathy for his character. It was the last time that Cagney would star on
+				film with his sister Jeanne.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">In 1957, Cagney ventured behind the camera for
+				the first, and only, time to direct <i>Short Cut to Hell</i>, a remake of the 1941
+					<a class="external" href="http://en.wikipedia.org/wiki/Alan_Ladd" title="Alan Ladd">Alan Ladd</a> film <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/This_Gun_for_Hire" title="This Gun for Hire">This Gun for Hire</a>
+				</i> based on the <a class="external" href="http://en.wikipedia.org/wiki/Graham_Greene" title="Graham Greene">Graham
+					Greene</a> novel <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/A_Gun_for_Sale" title="A Gun for Sale">A Gun for Sale</a>
+				</i>. Cagney had long been told by friends that he would be an excellent director,
+				so when he was approached by his friend producer <a class="external" href="http://en.wikipedia.org/wiki/A._C._Lyles" title="A. C. Lyles">A. C.
+					Lyles</a>, he instinctively said yes. He refused all offers of payment, saying
+				his was an actor, not a director. The film was low budget, and shot quickly, as
+				Cagney recalled: "We shot it in twenty days, and that was long enough for me. I find
+				directing a bore, I have no desire to tell other people their business".</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Cagney's next film was over a year later, in
+				1959, when he travelled to Ireland to film <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/Shake_Hands_with_the_Devil_(1959_film)" title="Shake Hands with the Devil (1959 film)">Shake Hands with the
+						Devil</a>
+				</i>, directed by <a class="external" href="http://en.wikipedia.org/wiki/Michael_Anderson_(director)" title="Michael Anderson (director)">Michael Anderson</a>. While in Ireland,
+				Cagney had hoped to spend some time tracing his ancestry, but time constraints and
+				poor weather meant that he was unable to fulfil this wish. It was the over-riding
+				message of the film, the violence inevitably leads to violence, that attracted
+				Cagney, who played an <a class="external" href="http://en.wikipedia.org/wiki/Irish_Republican_Army" title="Irish Republican Army">Irish Republican Army</a> commander, and resulted
+				in him producing what some critics would regard as his finest of his final
+				years.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Cagney's career was now winding down, and he
+				made only one film in 1960, the critically acclaimed <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/The_Gallant_Hours" title="The Gallant Hours">The Gallant Hours</a>
+				</i> in which he played <a class="external" href="http://en.wikipedia.org/wiki/William_F._Halsey" title="William F. Halsey">Admiral William F. "Bull" Halsey</a>. The film, whilst set during the <a class="external" href="http://en.wikipedia.org/wiki/Guadalcanal_Campaign" title="Guadalcanal Campaign">Guadalcanal Campaign</a> in the Pacific Ocean
+				during World War II, was not a war film but instead focused on the effect of
+				command. The film saw the return, in name only, of Cagney Productions, which shared
+				the production credit with Robert Montgomery's company, who also directed it. The
+				film was a success, and <i>The New York Times'</i> Bosley Crowther singled its star
+				out for praise: "It is Mr. Cagney's performance, controlled to the last detail, that
+				gives life and strong, heroic stature to the principal figure in the film. There is
+				no braggadocio in it, no straining for bold or sharp effects. It is one of the
+				quietest, most reflective, subtlest jobs that Mr Cagney has ever done."</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Cagney's final film, at least for 20 years,
+				would be a comedy. He was hand-picked by the film's director <a class="external" href="http://en.wikipedia.org/wiki/Billy_Wilder" title="Billy Wilder">Billy
+					Wilder</a> to play a <a class="external" href="http://en.wikipedia.org/wiki/Coca-Cola" title="Coca-Cola">Coca-Cola</a>
+				executive in the film <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/One,_Two,_Three" title="One, Two, Three">One, Two, Three</a>
+				</i>. Cagney had concerns with the script, remembering back 23 years to <i>Boy Meets
+					Girl</i> where scenes were re-shot to make them funnier by making them faster
+				with the opposite effect. Cagney received assurances from Wilder that the script was
+				balanced. Filming did not go well, though, with one scene requiring 50 takes,
+				something Cagney was totally unused to. In fact, the filming was one of the worst
+				experiences of Cagney's long career. One of the only positives to come out of it for
+				Cagney was his friendship with <a class="external" href="http://en.wikipedia.org/wiki/Pamela_Tiffin" title="Pamela Tiffin">Pamela
+					Tiffin</a>, to whom he gave acting guidance, imparting the secret that he'd
+				learned over his career: "You walk in, plant yourself squarely on both feet, look
+				the other fella in the eye, and tell the truth."</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">During the filming of <i>One, Two, Three</i>,
+				for the first time in his career, Cagney considering walking out of a film before
+				completion; he felt he had had too many years working inside studios, and combined
+				with a visit to <a class="external" href="http://en.wikipedia.org/wiki/Dachau_concentration_camp" title="Dachau concentration camp">Dachau concentration camp</a> during filming,
+				he decided that he'd had enough, and retired.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Cagney remained in retirement for twenty years,
+				conjuring up images of <a class="external" href="http://en.wikipedia.org/wiki/Jack_Warner" title="Jack Warner">Jack
+					Warner</a> every time he was tempted to return which soon dispelled the notion.
+				After he had turned down the offer to play Alfred Doolite in <a class="external" href="http://en.wikipedia.org/wiki/My_Fair_Lady_(film)" title="My Fair Lady (film)">My Fair Lady</a>, he found it far easier to rebuff
+				others, including a part in <a class="external" href="http://en.wikipedia.org/wiki/The_Godfather_Part_II" title="The Godfather Part II">The Godfather Part II</a>. He made a few public
+				appearances, preferring to spend the winters in Los Angeles, and the summers either
+				in his Martha's Vineyard farm, or at Verney Farms in New York. When in New York, he
+				and Billie held numerous parties at the Silver Horn restaurant, where they got to
+				know Marge Zimmermann, the proprietress.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Cagney had been diagnosed with <a class="external" href="http://en.wikipedia.org/wiki/Glaucoma" title="Glaucoma">glaucoma</a> and was taking eye-drops, but continued to have problems with his
+				vision. On Zimmerman's recommendation, he visited a different doctor, who identified
+				that the glaucoma was a misdiagnosis, and that Cagney was actually <a class="external" href="http://en.wikipedia.org/wiki/Diabetes" title="Diabetes">diabetic</a>. Zimmerman then took it upon herself to look after Cagney,
+				preparing his meals to reduce his blood <a class="external" href="http://en.wikipedia.org/wiki/Triglyceride" title="Triglyceride">triglyceride</a> level which had reached alarming proportions. Such was her
+				success, that by the time Cagney made a rare public appearance at his <a class="external" href="http://en.wikipedia.org/wiki/AFI" title="AFI">AFI</a>
+				Lifetime Achievement award ceremony in 1974 he had lost 20 pounds and his vision had
+				drastically improved.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">The ceremony itself, opened by <a class="external" href="http://en.wikipedia.org/wiki/Charlton_Heston" title="Charlton Heston">Charlton Heston</a> and introduced by <a class="external" href="http://en.wikipedia.org/wiki/Frank_Sinatra" title="Frank Sinatra">Frank Sinatra</a>, was attended by so many Hollywood stars
+				— said to be more than for any event in history — that one columnist wrote at the
+				time that a bomb in the dining room would have brought about the end of the movie
+				industry . During his acceptance speech, Cagney lightly chastised impressionist <a class="external" href="http://en.wikipedia.org/wiki/Frank_Gorshin" title="Frank Gorshin">Frank Gorshin</a>, saying, "Oh, Frankie, I never said
+				'MMMMmmmm, you dirty rat!' What I actually said was 'Judy, Judy, Judy!" which was
+				itself one of <a class="external" href="http://en.wikipedia.org/wiki/Cary_Grant" title="Cary Grant">Cary Grant</a>'s most famous misquotations.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">In 1977, whilst at <a class="external" href="http://en.wikipedia.org/wiki/Coldwater_Canyon" title="Coldwater Canyon">Coldwater Canyon</a> Cagney had a minor stroke, and after two weeks in
+				hospital, Zimmerman became his full-time carer, travelling with Jimmy and Billie
+				wherever they went. After the stroke, Cagney was no longer able to undertake many of
+				his favourite pastimes, horseriding and dancing, and as he became more depressed, he
+				even gave up his most beloved hobby of all, painting. Cagney's doctor realised that
+				his client was getting more and more depressed, and so encouraged by his wife Billie
+				and Zimmerman, Cagney took up the offer from <a class="external" href="http://en.wikipedia.org/wiki/Milo%C5%A1_Forman" title="Miloš Forman">Miloš
+					Forman</a> to star in the 1981 film '<a class="external" href="http://en.wikipedia.org/wiki/Ragtime_(film)" title="Ragtime (film)">Ragtime</a><i>.</i></p>
+			<p xmlns="http://www.w3.org/1999/xhtml">The film was shot mainly at Shepperton Studios
+				in London, and on his arrival at <a class="external" href="http://en.wikipedia.org/wiki/Southampton" title="Southampton">Southampton</a> after the trip on the <a class="external" href="http://en.wikipedia.org/wiki/RMS_Queen_Elizabeth_2" title="RMS Queen Elizabeth 2">Queen Elizabeth 2</a>, Cagney was mobbed by
+				hundreds of fans. Cunard officials, who were responsible for the security at the
+				dock said they had never seen anything like it, including visits by <a class="external" href="http://en.wikipedia.org/wiki/Marlon_Brando" title="Marlon Brando">Marlon Brando</a> and <a class="external" href="http://en.wikipedia.org/wiki/Robert_Redford" title="Robert Redford">Robert
+					Redford</a>. Despite being his first film for twenty years, Cagney was
+				immediately back into the swing. Fluffed lines and mis-queues were all done by his
+				co-stars, many of whom were in awe of Cagney. <a class="external" href="http://en.wikipedia.org/wiki/Howard_Rollins" title="Howard Rollins">Howard
+					Rollins</a>, who received a Best Supporting Actor Oscar nomination for his
+				performance, said "I was frightend to meet Mr Cagney. I asked him how to die in
+				front of camera. He said' Just die!'. It worked. Who would know more about dying
+				than him?" Cagney also repeated the advice he had given to Pamela Tiffin, and that
+				he had also given to <a class="external" href="http://en.wikipedia.org/wiki/Joan_Leslie" title="Joan Leslie">Joan
+					Leslie</a> and Lemmon.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">As filming progressed, Cagney's <a class="external" href="http://en.wikipedia.org/wiki/Sciatica" title="Sciatica">sciatica</a> worsened, but he continued on the nine week shoot. He and co-star
+				Pat O'Brien appeared on the <a class="external" href="http://en.wikipedia.org/wiki/Parkinson_(TV_series)" title="Parkinson (TV series)">Parkinson</a> talk show, and Cagney made a
+				surprise appearance at the <a class="external" href="http://en.wikipedia.org/wiki/Elizabeth_Bowes-Lyon" title="Elizabeth Bowes-Lyon">Queen Mother</a>'s command birthday performance at
+				the <a class="external" href="http://en.wikipedia.org/wiki/London_Palladium" title="London Palladium">London Palladium</a>. His appearance on-stage prompted
+				the Queen Mother to rise to her feet, the only time she did during the whole show,
+				and backstage afterwards broke with protocol to come and talk to Cagney
+				directly.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Cagney made a rare TV appearance in <i>Terrible
+					Joe Moran</i> in 1984, before finally retiring completely.</p>
+			<wiki:personal>
+				<p xmlns="http://www.w3.org/1999/xhtml">On September 28, 1922, Cagney married dancer
+					Frances Willard "Billie" Vernon with whom he remained for the rest of his life.
+					They met on the chorus line of <i>Pitter Patter</i>. They adopted a son, <a class="external" href="http://en.wikipedia.org/wiki/James_Cagney_Jr" title="James Cagney Jr">James Cagney Jr</a> (Jim) in 1941, and had a
+					daughter, Cathleen "Casey" Cagney. Cagney was a very private man, and whilst he
+					was more than willing to give the press photographs when necessary, he generally
+					spent his private time out of the public eye. </p>
+				<p xmlns="http://www.w3.org/1999/xhtml">As a young man, Cagney had always been
+					interested in farming - an interest sparked by an soil conservation lecture he
+					attended - and during his first walkout from Warners found a 100 acre farm in <a class="external" href="http://en.wikipedia.org/wiki/Martha%27s_Vineyard" title="Martha's Vineyard">Martha's Vineyard</a>; owning a farm had long been
+					a dream of his. Cagney loved the fact that there were no concrete roads
+					surrounding the property, only dirt-tracks. The house itself was rather run-down
+					and ramshackle, Billie was initially reluctant to move in, but soon came to love
+					the place as well. After getting inundated by movie fans, Cagney sent out a
+					rumour that he had hired a gunman as security. This ruse proved so successful
+					that when <a class="external" href="http://en.wikipedia.org/wiki/Spencer_Tracy" title="Spencer Tracy">Spencer Tracy</a> came to visit, his taxi driver
+					refused to drive up to the house saying "I hear they shoot!", forcing Tracy to
+					walk.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">In 1955, having shot three films on the
+					trot, Cagney bought a 120 acre farm in <a class="external" href="http://en.wikipedia.org/wiki/Dutchess_County" title="Dutchess County">Dutchess County</a>, <a class="external" href="http://en.wikipedia.org/wiki/Stanford,_New_York" title="Stanford, New York">Stanfordville, New York</a>, for $100,000. Cagney
+					named the farm <i>Verney Farm</i>, taking the first syllable from Billie's
+					maiden name, and the second from his own surname. Cagney didn't just live on the
+					farm, but turned it back into a working farm, selling some of the existing diary
+					cattle and replacing them with beef cattle. He expanded the farm over the years
+					to a 750 acre site. Such was Cagney's enthusiasm for farming, that when he was
+					awarded an honorary degree from <a class="external" href="http://en.wikipedia.org/wiki/Rollins_College" title="Rollins College">Rollins College</a>, he surprised the staff by writing a paper on soil
+					conservation, rather than just "turning up with <a class="external" href="http://en.wikipedia.org/wiki/Ava_Gardner" title="Ava Gardner">Ava
+						Gardner</a> on my arm", as he put it.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">Since a little boy sitting on the horses of
+					the local delivery riders and riding horse-drawn streetcars with his mother, he
+					had loved horses. He raised horses on his farms, off and on, specialising in <a class="external" href="http://en.wikipedia.org/wiki/Morgan_horse" title="Morgan horse">Morgans</a>, a breed of which he was particularly
+					fond.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">Cagney was also a keen sailor, owning boats
+					on both the Eastern and Western coasts of the USA , though he did suffer from
+					seasickness on random occasions, sometimes not suffering in a heavy sea, but
+					then being ill on a calm day.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">Cagney was also a keen painter, his most
+					favorite of hobbies and claimed in his autobiography that he may well have been
+					happier as a painter than a movie star, if somewhat poorer. One of his teachers
+					in later life was <a class="external" href="http://en.wikipedia.org/wiki/Sergei_Bongart" title="Sergei Bongart">Sergei Bongart</a>, who went on to own two of Cagney's paintings. Cagney
+					himself refused to sell his paintings, considering himself an amateur and
+					novice. He signed and sold only one painting, and that for charity, and was
+					bought by <a class="external" href="http://en.wikipedia.org/wiki/Johnny_Carson" title="Johnny Carson">Johnny Carson</a>.</p>
+			</wiki:personal>
+			<p xmlns="http://www.w3.org/1999/xhtml">In his autobiography, Cagney states that as a
+				young man he had no political views, he was simply more concerned with where the
+				next meal was coming from. Fanzines in the 1930s however, described his politics as
+				'radical'. This somewhat exaggerated view was enhanced by his public contractual
+				wranglings with Warners at the time, his joining of the <a class="external" href="http://en.wikipedia.org/wiki/Screen_Actors_Guild" title="Screen Actors Guild">Screen Actors Guild</a> in 1933 and his involvement
+				in the revolt against the so-called '<a class="external" href="http://en.wikipedia.org/w/index.php?title=Merriam_tax&amp;action=edit&amp;redlink=1" title="Merriam tax (page does not exist)">Merriam tax</a>'. During the <a class="external" href="http://en.wikipedia.org/wiki/California_gubernatorial_election,_1934" title="California gubernatorial election, 1934">1934 Californian
+					gubernatorial</a> campaign this 'tax' was levied by the studio heads
+				automatically taking a day's pay of their biggest earning stars and would help raise
+				half a million dollars for <a class="external" href="http://en.wikipedia.org/wiki/Frank_Merriam" title="Frank Merriam">Merriam</a>. Cagney (and <a class="external" href="http://en.wikipedia.org/wiki/Jean_Harlow" title="Jean Harlow">Jean
+					Harlow</a>) refused to pay.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">He supported <a class="external" href="http://en.wikipedia.org/wiki/Thomas_Mooney" title="Thomas Mooney">Thomas
+					Mooney</a>'s defense fund, but was put off by the behaviour of some of Mooney's
+				supporters at a rally. Around the same time he gave money for an ambulance for the
+				Spanish Republican Army during the <a class="external" href="http://en.wikipedia.org/wiki/Spanish_Civil_War" title="Spanish Civil War">Spanish Civil War</a>, which he put down to being 'a soft touch', and an action
+				which enhanced his liberal reputation. He also became involved in a 'liberal
+				group...with a leftist slant', along with <a class="external" href="http://en.wikipedia.org/wiki/Ronald_Reagan" title="Ronald Reagan">Ronald
+					Reagan</a>. However, when he and Reagan saw the direction the group was heading
+				in, they both resigned on the same night.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Cagney was accused of being a Communist
+				sympathizer in 1934, and again in 1940. The 1934 accusation stemmed from a letter
+				from a local communist official found by police alleging that Cagney would be
+				bringing other Hollywood stars to meetings. Cagney denied this, and <a class="external" href="http://en.wikipedia.org/wiki/Lincoln_Steffens" title="Lincoln Steffens">Lincoln Steffens</a>, husband of the letter-writer,
+				backed up this denial, asserting that the accusation stemmed solely from Cagney's
+				donation to striking cotton workers in <a class="external" href="http://en.wikipedia.org/wiki/San_Joaquin_Valley" title="San Joaquin Valley">San Joaquin Valley</a>. This donation would also be
+				claimed by William Cagney to be the root of the 1940 charges. Cagney was cleared by
+				Senator <a class="external" href="http://en.wikipedia.org/wiki/Martin_Dies,_Jr." title="Martin Dies, Jr.">Martin Dies, Jr.</a> on the <a class="external" href="http://en.wikipedia.org/wiki/House_Un-American_Activities_Committee" title="House Un-American Activities Committee">House Un-American Activities
+					Committee</a>.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Cagney became President of the Screen Actors
+				Guild in 1942 for a two year term. He took an active role in the Guild's work
+				against the <a class="external" href="http://en.wikipedia.org/wiki/Mafia" title="Mafia">Mafia</a>, who had taken an active interest in the movie industry.
+				Having failed to scare Cagney and the Guild off — having on one occasion phoned
+				Billie to tell her that Cagney was dead — Cagney alleges that they sent a hit man to
+				kill him by dropping a heavy light onto his head. On hearing about the rumor of the
+				hit, <a class="external" href="http://en.wikipedia.org/wiki/George_Raft" title="George Raft">George Raft</a> made a call and the hit was canceled.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">During the <a class="external" href="http://en.wikipedia.org/wiki/World_War_II" title="World War II">war</a>,
+				as well as his involvement in troop shows, he took part in racing exhibitions at the
+					<a class="external" href="http://en.wikipedia.org/wiki/Roosevelt_Raceway_(harness_racing)" title="Roosevelt Raceway (harness racing)">Roosevelt Raceway</a> to raise war
+				bonds, and allowed the Army to practice maneuvers at his Martha's Vineyard farm, as
+				well as selling seats for the premiere of <i>Yankee Doodle Dandy</i> to raise money
+				for war bonds.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">After the war, Cagney's politics started to
+				change. Cagney had worked on <a class="external" href="http://en.wikipedia.org/wiki/Franklin_D._Roosevelt" title="Franklin D. Roosevelt">Franklin D. Roosevelt</a>'s presidential
+				campaigns, including the <a class="external" href="http://en.wikipedia.org/wiki/United_States_presidential_election,_1940" title="United States presidential election, 1940">1940 presidential election</a>
+				against <a class="external" href="http://en.wikipedia.org/wiki/Wendell_Willkie" title="Wendell Willkie">Wendell Willkie</a>. However, by the time of the <a class="external" href="http://en.wikipedia.org/wiki/United_States_presidential_election,_1948" title="United States presidential election, 1948">1948 election</a>, he had
+				become disillusioned with <a class="external" href="http://en.wikipedia.org/wiki/Harry_S._Truman" title="Harry S. Truman">Harry S. Truman</a>, and voted for <a class="external" href="http://en.wikipedia.org/wiki/Thomas_E._Dewey" title="Thomas E. Dewey">Thomas E. Dewey</a>, his 'first non-Democratic vote'. By 1980, Cagney was
+				contributing financially to the Republican party, supporting his friend Reagan's bid
+				for the Presidency in the <a class="external" href="http://en.wikipedia.org/wiki/United_States_presidential_election,_1980" title="United States presidential election, 1980">Presidential election</a>.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">As he got older, he became more and more
+				conservative, referring to himself in his autobiography as 'arch-conservative'. He
+				put his move away from liberal politics as what he considered to be:</p>
+			<wiki:personal>
+				<p xmlns="http://www.w3.org/1999/xhtml">James Cagney died at his <a class="external" href="http://en.wikipedia.org/wiki/Dutchess_County" title="Dutchess County">Dutchess County</a> farm in <a class="external" href="http://en.wikipedia.org/wiki/Stanford,_New_York" title="Stanford, New York">Stanfordville, New York</a>, aged 86, of a <a class="external" href="http://en.wikipedia.org/wiki/Myocardial_infarction" title="Myocardial infarction">heart attack</a>. He is interred in the <a class="external" href="http://en.wikipedia.org/wiki/Cemetery_of_the_Gate_of_Heaven" title="Cemetery of the Gate of Heaven">Cemetery of the Gate of Heaven</a> in
+						<a class="external" href="http://en.wikipedia.org/wiki/Hawthorne,_New_York" title="Hawthorne, New York">Hawthorne, New York</a>. His pallbearers
+					included boxer <a class="external" href="http://en.wikipedia.org/wiki/Floyd_Patterson" title="Floyd Patterson">Floyd Patterson</a>, <a class="external" href="http://en.wikipedia.org/wiki/Mikhail_Baryshnikov" title="Mikhail Baryshnikov">Mikhail Baryshnikov</a> (who had hoped to play
+					Cagney on Broadway), actor <a class="external" href="http://en.wikipedia.org/wiki/Ralph_Bellamy" title="Ralph Bellamy">Ralph Bellamy</a> and director <a class="external" href="http://en.wikipedia.org/wiki/Milo%C5%A1_Forman" title="Miloš Forman">Miloš Forman</a>. His close friend President <a class="external" href="http://en.wikipedia.org/wiki/Ronald_Reagan" title="Ronald Reagan">Ronald Reagan</a> gave the eulogy at Cagney's funeral.</p>
+			</wiki:personal>
+			<wiki:awards>
+				<h2 xmlns="http://www.w3.org/1999/xhtml">
+					<span class="mw-headline">Honors</span>
+				</h2>
+				<p xmlns="http://www.w3.org/1999/xhtml">In 1974, Cagney received the Lifetime
+					Achievement Award of the <a class="external" href="http://en.wikipedia.org/wiki/American_Film_Institute" title="American Film Institute">American Film Institute</a>. He received <a class="external" href="http://en.wikipedia.org/wiki/John_F._Kennedy_Center_for_the_Performing_Arts" title="John F. Kennedy Center for the Performing Arts">the Kennedy
+						Center</a> Honors in 1980, and in 1984 his friend <a class="external" href="http://en.wikipedia.org/wiki/Ronald_Reagan" title="Ronald Reagan">Ronald Reagan</a> awarded him the <a class="external" href="http://en.wikipedia.org/wiki/Presidential_Medal_of_Freedom" title="Presidential Medal of Freedom">Presidential Medal of Freedom</a>.</p>
+			</wiki:awards>
+			<wiki:career>
+				<h2 xmlns="http://www.w3.org/1999/xhtml">
+					<span class="mw-headline">Television</span>
+				</h2>
+				<ul xmlns="http://www.w3.org/1999/xhtml">
+	  <li><i>The Ballad of Smokey the Bear</i> (<a class="external" href="http://en.wikipedia.org/wiki/1966_in_television" title="1966 in television">1966</a>) - voice, narrator</li>
+	  <li><i>Terrible Joe Moran</i> (<a class="external" href="http://en.wikipedia.org/wiki/1984_in_television" title="1984 in television">1984</a>)</li>
+	</ul>
+			</wiki:career>
+			<ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>
+					<cite style="font-style:normal" class="book" id="CITEREFCagney">Cagney, James.
+							<i>Cagney by Cagney</i>. <a class="external" href="http://en.wikipedia.org/wiki/Doubleday_(publisher)" title="Doubleday (publisher)">Doubleday</a>. <a class="external" href="http://en.wikipedia.org/wiki/Special:BookSources/0385520263">ISBN
+							0-385-52026-3</a>.</cite>
+					<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Cagney+by+Cagney&amp;rft.aulast=Cagney&amp;rft.aufirst=James&amp;rft.au=Cagney%2C+James&amp;rft.pub=%5B%5BDoubleday+%28publisher%29%7CDoubleday%5D%5D&amp;rft.isbn=0-385-52026-3&amp;rfr_id=info:sid/en.wikipedia.org:James_Cagney">
+						<span style="display: none;"> </span>
+					</span>
+				</li>
+	<li>
+					<cite style="font-style:normal" class="web" id="CITEREFGallagher">Gallagher,
+						Brian. <a href="http://www.imagesjournal.com/issue03/infocus/stars7.htm" title="http://www.imagesjournal.com/issue03/infocus/stars7.htm" rel="nofollow">"Some Historical Reflections on the Paradoxes of Stardom
+							in the American Film Industry, 1910-1960: Part Six"</a><span class="printonly">. <a href="http://www.imagesjournal.com/issue03/infocus/stars7.htm" title="http://www.imagesjournal.com/issue03/infocus/stars7.htm" rel="nofollow">http://www.imagesjournal.com/issue03/infocus/stars7.htm</a></span><span class="reference-accessdate">. Retrieved on 2008-03-03</span>.</cite>
+					<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Some+Historical+Reflections+on+the+Paradoxes+of+Stardom+in+the+American+Film+Industry%2C+1910-1960%3A+Part+Six&amp;rft.atitle=&amp;rft.aulast=Gallagher&amp;rft.aufirst=Brian&amp;rft.au=Gallagher%2C+Brian&amp;rft_id=http%3A%2F%2Fwww.imagesjournal.com%2Fissue03%2Finfocus%2Fstars7.htm&amp;rfr_id=info:sid/en.wikipedia.org:James_Cagney">
+						<span style="display: none;"> </span>
+					</span>
+				</li>
+	<li>
+					<cite style="font-style:normal" class="book" id="CITEREFMcGilligan1975">McGilligan, Patrick (1975). <i>Cagney: The Actor as Auteur</i>. New York:
+							<a class="external" href="http://en.wikipedia.org/wiki/Alfred_Smith_Barnes" title="Alfred Smith Barnes">A. S. Barnes and Co., Inc.</a>. <a class="external" href="http://en.wikipedia.org/wiki/Special:BookSources/0498014622">ISBN
+							0-498-01462-2</a>.</cite>
+					<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Cagney%3A+The+Actor+as+Auteur&amp;rft.aulast=McGilligan&amp;rft.aufirst=Patrick&amp;rft.au=McGilligan%2C+Patrick&amp;rft.date=1975&amp;rft.place=New+York&amp;rft.pub=%5B%5BAlfred+Smith+Barnes%7CA.+S.+Barnes+and+Co.%2C+Inc.%5D%5D&amp;rft.isbn=0-498-01462-2&amp;rfr_id=info:sid/en.wikipedia.org:James_Cagney">
+						<span style="display: none;"> </span>
+					</span>
+				</li>
+	<li>
+					<cite style="font-style:normal" class="book" id="CITEREFWarrenCagney.2C_James1986">Warren, Doug; Cagney, James (1986).
+							<i>Cagney: The Authorized Biography</i> (Mass Market Edition ed.). New
+						York: <a class="external" href="http://en.wikipedia.org/wiki/St._Martin%27s_Press" title="St. Martin's Press">St. Martin's Press</a>. <a class="external" href="http://en.wikipedia.org/wiki/Special:BookSources/0312902077">ISBN
+							0-312-90207-7</a>.</cite>
+					<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Cagney%3A+The+Authorized+Biography&amp;rft.aulast=Warren&amp;rft.aufirst=Doug&amp;rft.au=Warren%2C+Doug&amp;rft.au=Cagney%2C+James&amp;rft.date=1986&amp;rft.edition=Mass+Market+Edition&amp;rft.place=New+York&amp;rft.pub=%5B%5BSt.+Martin%27s+Press%5D%5D&amp;rft.isbn=0-312-90207-7&amp;rfr_id=info:sid/en.wikipedia.org:James_Cagney">
+						<span style="display: none;"> </span>
+					</span>
+				</li>
+      </ul>
+			<h2 xmlns="http://www.w3.org/1999/xhtml">
+				<span class="mw-headline">External links</span>
+			</h2>
+			<ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.ibdb.com/person.asp?ID=34200" title="http://www.ibdb.com/person.asp?ID=34200" rel="nofollow">James
+						Cagney</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Broadway_Database" title="Internet Broadway Database">Internet Broadway Database</a></li>
+	<li><a href="http://www.imdb.com/name/nm0000010/" title="http://www.imdb.com/name/nm0000010/" rel="nofollow">James Cagney</a>
+					at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	<li><a href="http://tcmdb.com/participant/participant.jsp?participantId=26868" title="http://tcmdb.com/participant/participant.jsp?participantId=26868" rel="nofollow">James Cagney</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Turner_Classic_Movies" title="Turner Classic Movies">TCM Movie Database</a></li>
+	<li><a href="http://www.allmovie.com/cg/avg.dll?p=avg&amp;sql=2:10165" title="http://www.allmovie.com/cg/avg.dll?p=avg&amp;sql=2:10165" rel="nofollow">James Cagney</a> at <a class="external" href="http://en.wikipedia.org/wiki/Allmovie" title="Allmovie">Allmovie</a></li>
+      </ul>
+			<p xmlns="http://www.w3.org/1999/xhtml">
+				<br/>
+			</p>
+		</wiki:description>
+	</wiki:person>
+	<wiki:film-title link="/wiki/Angels_with_Dirty_Faces">Angels with Dirty Faces</wiki:film-title>
+	<wiki:film link="/wiki/Angels_with_Dirty_Faces" title="Angels with Dirty Faces">
+		<wiki:oscar-ref year="1938" span="1" winner="false" award="lead-actor" person-link="/wiki/James_Cagney" person-name="James Cagney"/>
+		<wiki:oscar-ref year="1938" span="1" winner="false" award="best-director" person-link="/wiki/Michael_Curtiz" person-name="Michael Curtiz"/>
+		<wiki:producer link="/wiki/Samuel_Bischoff">Samuel Bischoff</wiki:producer>
+		<wiki:director link="/wiki/Michael_Curtiz">Michael Curtiz</wiki:director>
+		<wiki:writer link="/wiki/Warren_Duff">Warren Duff</wiki:writer>
+		<wiki:writer link="/wiki/Ben_Hecht">Ben Hecht</wiki:writer>
+		<wiki:writer link="/wiki/Charles_MacArthur">Charles MacArthur</wiki:writer>
+		<wiki:distributor link="/wiki/Warner_Bros._Pictures">Warner Bros.
+			Pictures</wiki:distributor>
+		<wiki:starring link="/wiki/James_Cagney">James Cagney</wiki:starring>
+		<wiki:starring link="/wiki/Pat_O%27Brien_(actor)">Pat O'Brien</wiki:starring>
+		<wiki:starring link="/wiki/The_Dead_End_Kids">The Dead End Kids</wiki:starring>
+		<wiki:starring link="/wiki/Humphrey_Bogart">Humphrey Bogart</wiki:starring>
+		<wiki:starring link="/wiki/Ann_Sheridan">Ann Sheridan</wiki:starring>
+		<wiki:starring link="/wiki/George_Bancroft_(actor)">George Bancroft</wiki:starring>
+		<wiki:language link="/wiki/English_language">English</wiki:language>
+		<wiki:description>
+			<wiki:abstract>
+				<p xmlns="http://www.w3.org/1999/xhtml"><i>
+						<b>Angels with Dirty Faces</b>
+					</i> is a <a class="external" href="http://en.wikipedia.org/wiki/1938_in_film" title="1938 in film">1938</a>
+					<a class="external" href="http://en.wikipedia.org/wiki/Warner_Bros." title="Warner Bros.">Warner Bros.</a>
+					<a class="external" href="http://en.wikipedia.org/wiki/Gangster_film" title="Gangster film">gangster film</a> directed by <a class="external" href="http://en.wikipedia.org/wiki/Michael_Curtiz" title="Michael Curtiz">Michael Curtiz</a> and starring <a class="external" href="http://en.wikipedia.org/wiki/James_Cagney" title="James Cagney">James
+						Cagney</a>, <a class="external" href="http://en.wikipedia.org/wiki/Pat_O%27Brien_(actor)" title="Pat O'Brien (actor)">Pat O'Brien</a>, the <a class="external" href="http://en.wikipedia.org/wiki/Dead_End_Kids" title="Dead End Kids">Dead
+						End Kids</a> and <a class="external" href="http://en.wikipedia.org/wiki/Humphrey_Bogart" title="Humphrey Bogart">Humphrey Bogart</a>, along with <a class="external" href="http://en.wikipedia.org/wiki/Ann_Sheridan" title="Ann Sheridan">Ann
+						Sheridan</a> and <a class="external" href="http://en.wikipedia.org/wiki/George_Bancroft_(actor)" title="George Bancroft (actor)">George Bancroft</a>. The film was written by
+					Rowland Brown, John Wexley and <a class="external" href="http://en.wikipedia.org/wiki/Warren_Duff" title="Warren Duff">Warren
+						Duff</a> with uncredited assistance from <a class="external" href="http://en.wikipedia.org/wiki/Ben_Hecht" title="Ben Hecht">Ben
+						Hecht</a> and <a class="external" href="http://en.wikipedia.org/wiki/Charles_MacArthur" title="Charles MacArthur">Charles MacArthur</a>.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">
+					<br/>
+				</p>
+			</wiki:abstract>
+			<wiki:plot>
+				<h2 xmlns="http://www.w3.org/1999/xhtml">
+					<span class="mw-headline">Plot</span>
+				</h2>
+				<p xmlns="http://www.w3.org/1999/xhtml">Rocky Sullivan (<a class="external" href="http://en.wikipedia.org/wiki/James_Cagney" title="James Cagney">James
+						Cagney</a>) and Jerry Connally (<a class="external" href="http://en.wikipedia.org/wiki/Pat_O%27Brien_(actor)" title="Pat O'Brien (actor)">Pat O'Brien</a>) are childhood friends who
+					robbed a railroad car as kids. Rocky saved Jerry's life during the chase by
+					pulling him out of the way of a steam train. Rocky was then caught by the
+					police, but Jerry - who could run faster - escaped. Rocky, after being sent to
+					reform school, grows up to become a notorious gangster, while Jerry has become a
+					priest.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">Rocky returns to his old neighborhood, where
+					Jerry is running a home that intends to keep young boys away from a life of
+					crime. Six of those boys, Soapy (<a class="external" href="http://en.wikipedia.org/wiki/Billy_Halop" title="Billy Halop">Billy
+						Halop</a>), Swing (<a class="external" href="http://en.wikipedia.org/wiki/Bobby_Jordan" title="Bobby Jordan">Bobby
+						Jordan</a>), Bim (<a class="external" href="http://en.wikipedia.org/wiki/Leo_Gorcey" title="Leo Gorcey">Leo
+						Gorcey</a>), Patsy (<a class="external" href="http://en.wikipedia.org/wiki/Gabriel_Dell" title="Gabriel Dell">Gabriel Dell</a>), Crabface (<a class="external" href="http://en.wikipedia.org/wiki/Huntz_Hall" title="Huntz Hall">Huntz
+						Hall</a>), and Hunky (<a class="external" href="http://en.wikipedia.org/wiki/Bernard_Punsly" title="Bernard Punsly">Bernard Punsly</a>), idolize Rocky, and Jerry attempts to keep his former
+					friend from corrupting them.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">Meanwhile Rocky gets involved with Frazier
+						(<a class="external" href="http://en.wikipedia.org/wiki/Humphrey_Bogart" title="Humphrey Bogart">Humphrey Bogart</a>), a crooked lawyer, and Keefer
+						(<a class="external" href="http://en.wikipedia.org/wiki/George_Bancroft_(actor)" title="George Bancroft (actor)">George Bancroft</a>), a shady businessman
+					and municipal contractor. They try to dispose of Rocky, but he finds the record
+					book that they keep where they list the bribes to city officials. Jerry learns
+					of these events and warns Rocky to leave before he informs the authorities.
+					Rocky ignores his advice and Jerry gets the public's attention and informs them
+					all of the crooked government, causing Frazier and Keefer to plot to kill him.
+					Rocky overhears this plot and kills them to protect his childhood friend.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">Rocky is then captured following an
+					elaborate shootout in a building, and sentenced to die. Jerry visits him just
+					before his execution and asks him to do him one last favor - to die pretending
+					to be a screaming, snivelling coward, which would end the boys' idolization of
+					him. Rocky refuses, and insists he will be "tough" to the end, and not give up
+					the one thing he has left, his pride. At the very last moment he appears to
+					change his mind and has to be dragged to the electric chair. The viewer is never
+					told whether Rocky genuinely was afraid, a "rotten sniveling coward," or if he
+					does it for the Father and the boys. The boys hear about what happened and
+					decide he was a coward. Then Father Jerry asks them to say a prayer with him,
+					"for a boy who couldn't run as fast as I could."</p>
+			</wiki:plot>
+			<wiki:awards>
+				<h2 xmlns="http://www.w3.org/1999/xhtml">
+					<span class="mw-headline">Awards and honors</span>
+				</h2>
+				<p xmlns="http://www.w3.org/1999/xhtml">James Cagney won the 1939 <a class="external" href="http://en.wikipedia.org/wiki/New_York_Film_Critics_Circle_Awards" title="New York Film Critics Circle Awards">New York Film Critics Circle
+						Award</a> for Best Actor for his role. In addition, the film was nominated
+					for <a class="external" href="http://en.wikipedia.org/wiki/Academy_Awards" title="Academy Awards">Academy Awards</a> for <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actor" title="Academy Award for Best Actor">Best Actor in a Leading Role</a> (James
+					Cagney), <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Directing" title="Academy Award for Directing">Best Director</a> and <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Writing_Original_Screenplay" title="Academy Award for Writing Original Screenplay">Best Writing, Original
+						Story</a>.</p>
+			</wiki:awards>
+			<h2 xmlns="http://www.w3.org/1999/xhtml">
+				<span class="mw-headline">Memorable lines</span>
+			</h2>
+			<ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>Father Jerry: <i>"All right, fellas... let's go say a prayer for a boy that
+						couldn't run as fast as I could."</i></li>
+	<li>Rocky Sullivan: <i>"Whadda ya hear; whadda ya say?!"'</i></li>
+	<li>Rocky : <i>" like sitting in a barber's chair.. "</i> just before going to the
+					electric chair.</li>
+      </ul>
+			<p xmlns="http://www.w3.org/1999/xhtml">When first offered the project, Cagney's agent
+				was convinced that his star property would never consent to playing a role where he
+				would be depicted as an abject coward being dragged to his execution. Cagney,
+				however, was enthusiastic about the chance to play Rocky. He saw it as a suitable
+				vehicle to prove to critics and front office honchos that he had a broad acting
+				range that extended far beyond tough guy roles. Bogart, for one, was very impressed
+				by the death house scene and informed Cagney as such.</p>
+			<h2 xmlns="http://www.w3.org/1999/xhtml">
+				<span class="mw-headline">In popular culture</span>
+			</h2>
+			<ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>Warner Brothers created a 1939 cartoon that spoofed the movie called <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Thugs_with_Dirty_Mugs" title="Thugs with Dirty Mugs">Thugs with Dirty Mugs</a>
+					</i>.</li>
+	<li>During the 1950s, three Argentinian footballers - Antonio Angelillo, Enrique
+					Sivori and Humberto Maschio - formed a talented inside forward line for their
+					Country. They acquired the nickname "Angels with Dirty Faces" when they all
+					moved to Italy in the latter part of the decade to play for the likes of
+					Juventus. The name was given on account of their typically South American colour
+					and ability. They were also known as ‘The Trio of Death’ because of their
+					clinical finishing.</li>
+	<li>A parody of the film appears in <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Home_Alone_(film)" title="Home Alone (film)">Home Alone</a>
+					</i> as <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Angels_with_Filthy_Souls" title="Angels with Filthy Souls">Angels with Filthy Souls</a>
+					</i>. In the parody, Gangster Johnny fires a lengthy machine gun salvo before
+					remarking, "Keep the change, ya filthy animal." Hardcore band, Angels with
+					Filthy Souls, are named after this reference.</li>
+	<li>In <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Home_Alone_2:_Lost_in_New_York" title="Home Alone 2: Lost in New York">Home Alone 2: Lost in New
+							York</a>
+					</i>, we see scenes from a sequel to that film, <i>Angels with Even Filthier
+						Souls</i>. In the sequel, Johnny fires his Tommy gun before saying "Merry
+					Christmas, ya filthy animal. And a Happy New Year." In the two movies, Kevin
+					uses the movies as an illusion to make others think that they were talking to
+					Johnny, and that he was shooting at them.</li>
+	<li>In the mid 80's Cannon Pictures, headed by <a class="external" href="http://en.wikipedia.org/wiki/Menahem_Golan" title="Menahem Golan">Menahem Golan</a>, planned a remake with <a class="external" href="http://en.wikipedia.org/wiki/Sylvester_Stallone" title="Sylvester Stallone">Sylvester Stallone</a> in the Cagney role and <a class="external" href="http://en.wikipedia.org/wiki/Christopher_Reeve" title="Christopher Reeve">Christopher Reeve</a> in the Pat O'Brien part,
+					with Golan himself directing. It got negative response in the press, and the
+					project was abandoned.</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/It%27s_Never_Too_Late_(Batman:_The_Animated_Series)" title="It's Never Too Late (Batman: The Animated Series)">It's Never Too
+						Late</a>, an episode of <a class="external" href="http://en.wikipedia.org/wiki/Batman:_The_Animated_Series" title="Batman: The Animated Series">Batman: The Animated Series</a>, alludes
+					to <i>Angels</i> by telling the story of the Stromwell brothers, one of whom
+					grows up to be a mob boss, the other a priest.</li>
+	<li>The famous Irish bar "<a class="external" href="http://en.wikipedia.org/wiki/Rocky_Sullivan%27s" title="Rocky Sullivan's">Rocky Sullivan's Pub</a>" in New York City was
+					named after Cagney's character.</li>
+	<li>Several musical artists, including <a class="external" href="http://en.wikipedia.org/wiki/Sugababes" title="Sugababes">Sugababes</a> and <a class="external" href="http://en.wikipedia.org/wiki/Tricky" title="Tricky">Tricky</a>, have
+					used the title "Angels with Dirty Faces" as the name of their album. Others,
+					including <a class="external" href="http://en.wikipedia.org/wiki/Sum_41" title="Sum 41">Sum 41</a>, <a class="external" href="http://en.wikipedia.org/wiki/Sham_69" title="Sham 69">Sham 69</a> and
+						<a class="external" href="http://en.wikipedia.org/wiki/Los_Lobos" title="Los Lobos">Los Lobos</a>, have songs entitled "Angels with Dirty
+					Faces", although Sum 41's version is actually a reference to another band's
+					name. The band <a class="external" href="http://en.wikipedia.org/wiki/Hawthorne_Heights" title="Hawthorne Heights">Hawthorne Heights</a> named a song after this
+					movie: "Angels with even filthier souls."</li>
+	<li>In the early 90s an Indian version of the film was made. Called <a class="external" href="http://en.wikipedia.org/wiki/Ram_Jaane" title="Ram Jaane">Ram Jaane</a>, it cast <a class="external" href="http://en.wikipedia.org/wiki/Shahrukh_Khan" title="Shahrukh Khan">Shahrukh Khan</a> in the role of Rocky. The movie was quite faithful to the
+					original (albeit Indianized).</li>
+	<li>Tiny Toons also parodies the death row scene, featuring Hampton the Pig as the
+					Priest and Buster Bunny as the condemned going to the Principals office.</li>
+	<li><i>Angels with Dirty Faces</i> is often cited as the favourite film of Dr.
+					Edward Fitzgerald in the hit UK television drama <a class="external" href="http://en.wikipedia.org/wiki/Cracker_(UK_TV_series)" title="Cracker (UK TV series)">Cracker</a>.</li>
+      </ul>
+			<h2 xmlns="http://www.w3.org/1999/xhtml">
+				<span class="mw-headline">External links</span>
+			</h2>
+			<ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/title/tt0029870/" title="http://www.imdb.com/title/tt0029870/" rel="nofollow">
+						<i>Angels with Dirty Faces</i>
+					</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	<li><a href="http://tcmdb.com/title/title.jsp?stid=585" title="http://tcmdb.com/title/title.jsp?stid=585" rel="nofollow">
+						<i>Angels with Dirty Faces</i>
+					</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Turner_Classic_Movies" title="Turner Classic Movies">TCM Movie Database</a></li>
+	<li><a href="http://www.allmovie.com/cg/avg.dll?p=avg&amp;sql=1:2391" title="http://www.allmovie.com/cg/avg.dll?p=avg&amp;sql=1:2391" rel="nofollow">
+						<i>Angels with Dirty Faces</i>
+					</a> at <a class="external" href="http://en.wikipedia.org/wiki/Allmovie" title="Allmovie">Allmovie</a></li>
+	<li><a href="http://www.filmsite.org/ange3.html" title="http://www.filmsite.org/ange3.html" rel="nofollow">
+						<i>Angels with Dirty Faces</i>
+					</a> at <a class="external" href="http://en.wikipedia.org/wiki/Filmsite.org" title="Filmsite.org">Filmsite.org</a></li>
+	<li>
+					<a href="http://www.dvdjournal.com/quickreviews/a/angelswithdirtyfaces.q.shtml" title="http://www.dvdjournal.com/quickreviews/a/angelswithdirtyfaces.q.shtml" rel="nofollow">DVD Journal review</a>
+				</li>
+	<li>
+					<a href="http://film.virtual-history.com/film.php?filmid=1310" title="http://film.virtual-history.com/film.php?filmid=1310" rel="nofollow">Bibliography</a>
+				</li>
+      </ul>
+			<p xmlns="http://www.w3.org/1999/xhtml">
+				<br/>
+			</p>
+		</wiki:description>
+	</wiki:film>
+</wiki:nominee>

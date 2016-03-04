@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="1937" span="1" winner="false" award="best-director" xmlns:wiki="http://marklogic.com/wikipedia">
+  <!--
+                            Copyright (c) 2010 MarkLogic Corporation.
+                            Permission is granted to copy, distribute and/or modify this document
+                            under the terms of the GNU Free Documentation License, Version 1.2
+                            or any later version published by the Free Software Foundation;
+                            with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+                            A copy of the license is included in the section entitled "GNU
+                            Free Documentation License"
+                            
+                            Content derived from http://en.wikipedia.org/wiki/The_Life_of_Emile_Zola and http://en.wikipedia.org/wiki/William_Dieterle
+                            Modified in May 2009 by Mark Logic Corporation under the terms of the GNU Free Documentation License.
+                        -->
+  <wiki:name link="/wiki/William_Dieterle">William Dieterle</wiki:name>
+  <wiki:person link="/wiki/William_Dieterle" name="William Dieterle">
+    <wiki:oscar year="1937" span="1" winner="false" award="best-director" film-link="/wiki/The_Life_of_Emile_Zola" film-title="The Life of Emile Zola"/>
+    <wiki:birth>
+      <wiki:date/>
+      <wiki:place>
+	<wiki:primary link=""/>
+	<wiki:secondary link=""/>
+      <enrich/></wiki:place>
+    </wiki:birth>
+    <wiki:description>
+      <wiki:abstract>
+	<p xmlns="http://www.w3.org/1999/xhtml"><b>William Dieterle</b> (July 15, 1893, <a class="external" href="http://en.wikipedia.org/wiki/Ludwigshafen_am_Rhein" title="Ludwigshafen am Rhein">Ludwigshafen am Rhein</a>, â€“ December 9, 1972, <a class="external" href="http://en.wikipedia.org/wiki/Ottobrunn" title="Ottobrunn">Ottobrunn</a>) was a <a class="external" href="http://en.wikipedia.org/wiki/Germany" title="Germany">German</a> <a class="external" href="http://en.wikipedia.org/wiki/Actor" title="Actor">actor</a> and <a class="external" href="http://en.wikipedia.org/wiki/Film_director" title="Film director">film director</a>, who worked in Hollywood for much of his career.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Career">Career</span></h2>
+	<p xmlns="http://www.w3.org/1999/xhtml">He was born Wilhelm Dieterle, the youngest child of nine, to <a class="external" href="http://en.wikipedia.org/wiki/Jewish" title="Jewish">Jewish</a> parents Jacob and Berthe Dieterle. As a child, he lived in considerable poverty and earned money by various means including carpentry and as a scrap dealer. He became interested in theater early and by the age of sixteen, he had joined a travelling theater company. His striking good looks and ambition soon paved the way as a leading romantic actor in theater productions. In 1919, he attracted the attention of <a class="external" href="http://en.wikipedia.org/wiki/Max_Reinhardt_(theatre_director)" title="Max Reinhardt (theatre director)">Max Reinhardt</a> in <a class="external" href="http://en.wikipedia.org/wiki/Berlin" title="Berlin">Berlin</a> who hired him as an actor for his productions. He started acting in German films in 1921 to make more money and quickly became a popular character actor. He tired of acting quickly and wanted to direct.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">He directed his first film in 1923, <i>Der Mensch am Wege</i>, which co-starred a young <a class="external" href="http://en.wikipedia.org/wiki/Marlene_Dietrich" title="Marlene Dietrich">Marlene Dietrich</a>, but he returned to acting for several years and appeared in such notable German films as <i>Das Wachsfigurenkabinett</i> (<i><a class="external" href="http://en.wikipedia.org/wiki/Waxworks_(film)" title="Waxworks (film)">Waxworks</a></i>) (1924) and <a class="external" href="http://en.wikipedia.org/wiki/F.W._Murnau" title="F.W. Murnau">F.W. Murnau</a>'s <i><a class="external" href="http://en.wikipedia.org/wiki/Faust" title="Faust">Faust</a></i> (1926). In 1927, Dieterle and his wife, <a class="external" href="http://en.wikipedia.org/w/index.php?title=Charlotte_Hagenbruch&amp;action=edit&amp;redlink=1" title="Charlotte Hagenbruch (page does not exist)">Charlotte Hagenbruch</a>, formed their own production company and returned to directing films, such as <i><a class="external" href="http://en.wikipedia.org/wiki/Sex_in_Chains" title="Sex in Chains">Sex in Chains</a></i> (1928) in which he also played the lead role.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">In 1930, Dieterle emigrated to the <a class="external" href="http://en.wikipedia.org/wiki/United_States" title="United States">United States</a> when he was offered a job in <a class="external" href="http://en.wikipedia.org/wiki/Hollywood" title="Hollywood">Hollywood</a> to make German versions of American films; he became a citizen of the United States in 1937. He adapted quickly to Hollywood filmmaking and was soon directing original films. His first, <i>The Last Flight</i> (1931), was a success and has been hailed as a forgotten masterpiece. Other films made during the 1930s include <i><a class="external" href="http://en.wikipedia.org/wiki/Jewel_Robbery" title="Jewel Robbery">Jewel Robbery</a></i> (1932), <i><a class="external" href="http://en.wikipedia.org/wiki/Adorable_(1933_film)" title="Adorable (1933 film)">Adorable</a></i> (1933), <i><a class="external" href="http://en.wikipedia.org/wiki/A_Midsummer_Night%27s_Dream_(1935_film)" title="A Midsummer Night's Dream (1935 film)">A Midsummer Night's Dream (1935 film)</a></i> with Reinhardt, <i><a class="external" href="http://en.wikipedia.org/wiki/The_Story_of_Louis_Pasteur" title="The Story of Louis Pasteur">The Story of Louis Pasteur</a></i> (1936), <i><a class="external" href="http://en.wikipedia.org/wiki/The_Life_of_Emile_Zola" title="The Life of Emile Zola">The Life of Emile Zola</a></i> (1937), <i><a class="external" href="http://en.wikipedia.org/wiki/Juarez_(1939_film)" title="Juarez (1939 film)">Juarez</a></i> (1939), <i><a class="external" href="http://en.wikipedia.org/wiki/The_Hunchback_of_Notre_Dame_(1939_film)" title="The Hunchback of Notre Dame (1939 film)">The Hunchback of Notre Dame</a></i> (1939), with <a class="external" href="http://en.wikipedia.org/wiki/Charles_Laughton" title="Charles Laughton">Charles Laughton</a> as Quasimodo and <i><a class="external" href="http://en.wikipedia.org/wiki/Kismet" title="Kismet">Kismet</a></i> (1944) with <a class="external" href="http://en.wikipedia.org/wiki/Ronald_Colman" title="Ronald Colman">Ronald Colman</a> and <a class="external" href="http://en.wikipedia.org/wiki/Marlene_Dietrich" title="Marlene Dietrich">Marlene Dietrich</a>.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">During the 1940s, Dieterle works were infused with more lush, romantic expression and many critics see the films of this period as some of his best works. They include <i><a class="external" href="http://en.wikipedia.org/wiki/The_Devil_and_Daniel_Webster" title="The Devil and Daniel Webster">The Devil and Daniel Webster</a></i> (also known as <i>All That Money Can Buy</i>, 1941), <i><a class="external" href="http://en.wikipedia.org/wiki/Love_Letters_(1945_film)" title="Love Letters (1945 film)">Love Letters</a></i> (1945) and <i><a class="external" href="http://en.wikipedia.org/wiki/Portrait_of_Jennie" title="Portrait of Jennie">Portrait of Jennie</a></i> (1948).</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">Dieterle's career declined in the 1950s during the <a class="external" href="http://en.wikipedia.org/wiki/McCarthyism" title="McCarthyism">McCarthyism</a> period. Although he was never blacklisted directly, his libertarian film <i>Blockade</i> (1938) as well as some of the people he worked with were considered suspect. He continued to make American films in the 1950s, including the <a class="external" href="http://en.wikipedia.org/wiki/Film_noir" title="Film noir">film noir</a> <i><a class="external" href="http://en.wikipedia.org/wiki/The_Turning_Point_(1952_film)" title="The Turning Point (1952 film)">The Turning Point</a></i> (1952), <i><a class="external" href="http://en.wikipedia.org/wiki/Salome_(1953_film)" title="Salome (1953 film)">Salome</a></i> (1953) with <a class="external" href="http://en.wikipedia.org/wiki/Rita_Hayworth" title="Rita Hayworth">Rita Hayworth</a>, <i><a class="external" href="http://en.wikipedia.org/wiki/Elephant_Walk" title="Elephant Walk">Elephant Walk</a></i> (1954) with <a class="external" href="http://en.wikipedia.org/wiki/Elizabeth_Taylor" title="Elizabeth Taylor">Elizabeth Taylor</a>, and a biopic of <a class="external" href="http://en.wikipedia.org/wiki/Richard_Wagner" title="Richard Wagner">Richard Wagner</a>, <i>Magic Fire</i> (1955) for <a class="external" href="http://en.wikipedia.org/wiki/Republic_Pictures" title="Republic Pictures">Republic Pictures</a>. He made some films in Germany and Italy, and a notorious U.S. flop, <i>Quick, Let's Get Married</i> (1964) - also known as <i>The Confession</i> or <i>Seven Different Ways</i> - with <a class="external" href="http://en.wikipedia.org/wiki/Ginger_Rogers" title="Ginger Rogers">Ginger Rogers</a> before retiring in 1965.</p>
+      </wiki:abstract>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Filmography">Filmography</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="References">References</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>Wakeman, John (ed.) World Film Directors, Vol. 1, 1890-1945. New York: H.W. Wilson Company, 1987.</li>
+	<li>Hillstrom, Laurie Collier (ed.) International Dictionary of Films and Filmmakers. Detroit: St. James Press, 1997.</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Bibliography">Bibliography</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>Books
+<ul>
+	    <li>Close upÂ : the contract director.- MetuchenÂ ; New-YorkÂ : Scarecrow Press, 1976.</li>
+	    <li>Strangers in paradiseÂ : the Hollywood emigres 1933-1950 / John Russel Taylor.- LondonÂ : Faber &amp; Faber, 1983 <a class="external" href="http://en.wikipedia.org/wiki/Special:BookSources/1892597004">ISBN 1892597004</a></li>
+	    <li>William Dieterle / HervÃ© Dumont.- ParisÂ : CNRS Ã©ditionsÂ : CinÃ©mathÃ¨que franÃ§aise, 2002</li>
+	    <li>William Dieterle, der Plutarch von Hollywood / Marta Mierendorff.- Berlin 1993 <a class="external" href="http://en.wikipedia.org/wiki/Special:BookSources/227106001X">ISBN 227106001X</a></li>
+	  </ul>
+</li>
+	<li>Magazines
+<ul>
+	    <li>Avant-ScÃ¨ne du CinÃ©ma, nÂ° 196, November 1977</li>
+	    <li>Cahiers du CinÃ©ma, nÂ° 532, February 1999</li>
+	    <li>Classic Film Collector, nÂ° 50, Springtime 1976</li>
+	    <li>Ecran, nÂ° 12, February 1973</li>
+	    <li>Film in Review, vol 8 nÂ° 4, April 1957</li>
+	    <li>Jeune CinÃ©ma, nÂ° 222, May-June 1993</li>
+	    <li>Sight and Sound vol 22 nÂ° 1, July-September 1952</li>
+	    <li>Sight and Sound, vol 19 nÂ° 3, May 1950</li>
+	    <li>Velvet Light Trap, nÂ° 15, Autumn 1975</li>
+	    <li>Wide Angle, vol 8 nÂ° 2, 1986</li>
+	  </ul>
+</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.theyshootpictures.com/dieterlewilliam.htm" rel="nofollow">They Shoot Pictures, Don't They?</a></li>
+	<li><a href="http://www.imdb.com/name/nm0226189/" rel="nofollow">William Dieterle</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	<li><a href="http://film.virtual-history.com/person.php?personid=785" rel="nofollow">Virtual History - Tobacco cards</a></li>
+	<li><span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(French)</span> <a href="http://cinema.encyclopedie.personnalites.bifi.fr/index.php?pk=8508" rel="nofollow">William Dieterle</a> in the BibliothÃ¨que du Film</li>
+	<li><a href="http://www.deutsches-filminstitut.de/dt2tp0111.htm" rel="nofollow">William Dieterle</a> in the Deutsche Filminstitut</li>
+      </ul>
+    </wiki:description>
+  </wiki:person>
+  <wiki:film-title link="/wiki/The_Life_of_Emile_Zola">The Life of Emile Zola</wiki:film-title>
+  <wiki:film link="/wiki/The_Life_of_Emile_Zola" title="The Life of Emile Zola">
+    <wiki:oscar-ref year="1937" span="1" winner="false" award="lead-actor" person-link="/wiki/Paul_Muni" person-name="Paul Muni"/>
+    <wiki:oscar-ref year="1937" span="1" winner="false" award="best-director" person-link="/wiki/William_Dieterle" person-name="William Dieterle"/>
+    <wiki:oscar-ref year="1937" span="1" winner="true" award="supporting-actor" person-link="/wiki/Joseph_Schildkraut" person-name="Joseph Schildkraut"/>
+    <wiki:oscar year="1937" span="1" winner="true" award="best-picture"/>
+    <wiki:producer link="/wiki/Henry_Blanke">Henry Blanke</wiki:producer>
+    <wiki:director link="/wiki/William_Dieterle">William Dieterle</wiki:director>
+    <wiki:starring link="/wiki/Paul_Muni">Paul Muni</wiki:starring>
+    <wiki:starring link="/wiki/Gloria_Holden">Gloria Holden</wiki:starring>
+    <wiki:starring link="/wiki/Gale_Sondergaard">Gale Sondergaard</wiki:starring>
+    <wiki:starring link="/wiki/Joseph_Schildkraut">Joseph Schildkraut</wiki:starring>
+    <wiki:description>
+      <wiki:abstract>
+	<p xmlns="http://www.w3.org/1999/xhtml"><i><b>The Life of Emile Zola</b></i> is a 1937 American <a class="external" href="http://en.wikipedia.org/wiki/Biographical_film" title="Biographical film">biographical film</a> of famous French author <a class="external" href="http://en.wikipedia.org/wiki/%C3%89mile_Zola" title="Ã‰mile Zola">Ã‰mile Zola</a>. It depicts his friendship with noted painter <a class="external" href="http://en.wikipedia.org/wiki/Paul_C%C3%A9zanne" title="Paul CÃ©zanne">Paul CÃ©zanne</a>, and his rise to fame through his prolific writing, with particular focus on his involvement in the <a class="external" href="http://en.wikipedia.org/wiki/Dreyfus_affair" title="Dreyfus affair">Dreyfus affair</a>. The film had its <a class="external" href="http://en.wikipedia.org/wiki/Premiere" title="Premiere">premiere</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Carthay_Circle_Theatre" title="Carthay Circle Theatre">Carthay Circle Theatre</a> in <a class="external" href="http://en.wikipedia.org/wiki/Los_Angeles" title="Los Angeles">Los Angeles</a> and was a great success both critically and financially; contemporary reviews cited it as the best biographical film made up to that time. It is still held in high regard by many critics. It is the second biographical film to win the <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture" title="Academy Award for Best Picture">Oscar for Best Picture</a>.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">In 2000, <i>The Life of Emile Zola</i> was selected for preservation in the United States <a class="external" href="http://en.wikipedia.org/wiki/National_Film_Registry" title="National Film Registry">National Film Registry</a> by the <a class="external" href="http://en.wikipedia.org/wiki/Library_of_Congress" title="Library of Congress">Library of Congress</a> as being "culturally, historically, or aesthetically significant".</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Plot">Plot</span></h2>
+	<p xmlns="http://www.w3.org/1999/xhtml">Struggling writer Ã‰mile Zola (<a class="external" href="http://en.wikipedia.org/wiki/Paul_Muni" title="Paul Muni">Paul Muni</a>) shares a drafty Paris attic with his friend, painter Paul CÃ©zanne (<a class="external" href="http://en.wikipedia.org/wiki/Vladimir_Sokoloff" title="Vladimir Sokoloff">Vladimir Sokoloff</a>). A chance encounter with a street prostitute (<a class="external" href="http://en.wikipedia.org/wiki/Erin_O%27Brien-Moore" title="Erin O'Brien-Moore">Erin O'Brien-Moore</a>) hiding from a police raid leads to his first bestseller, <i><a class="external" href="http://en.wikipedia.org/wiki/Nana_(novel)" title="Nana (novel)">Nana</a></i>, an exposÃ© of the seamy underside of Parisian life. Other successful books follow. Zola becomes rich and famous; he marries Alexandrine (<a class="external" href="http://en.wikipedia.org/wiki/Gloria_Holden" title="Gloria Holden">Gloria Holden</a>) and settles down to a comfortable life in his mansion. One day, his old friend CÃ©zanne, still poor and unknown, visits him before leaving the city. He tells Zola that he has become complacent, a far cry from the zealous reformer of his youth.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">Meanwhile, a French secret agent steals a letter addressed to a military officer in the German embassy. The letter confirms there is a spy within the top French army staff. With little thought (and much <a class="external" href="http://en.wikipedia.org/wiki/Antisemitism" title="Antisemitism">antisemitism</a>), the army commanders decide that <a class="external" href="http://en.wikipedia.org/wiki/Jew" title="Jew">Jewish</a> Captain Alfred Dreyfus (<a class="external" href="http://en.wikipedia.org/wiki/Joseph_Schildkraut" title="Joseph Schildkraut">Joseph Schildkraut</a>) is the traitor. He is courtmartialed and imprisoned on <a class="external" href="http://en.wikipedia.org/wiki/Devil%27s_Island" title="Devil's Island">Devil's Island</a> in <a class="external" href="http://en.wikipedia.org/wiki/French_Guyana" title="French Guyana">French Guyana</a>.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">Later, Colonel Picquart (<a class="external" href="http://en.wikipedia.org/wiki/Henry_O%27Neill" title="Henry O'Neill">Henry O'Neill</a>), the new chief of intelligence, discovers evidence implicating Major Walsin-Esterhazy (<a class="external" href="http://en.wikipedia.org/wiki/Robert_Barrat" title="Robert Barrat">Robert Barrat</a>) as the spy, but he is ordered by his superiors to remain silent, as this revelation would embarrass them. He is quickly reassigned to a distant post.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">Years go by. Finally, Dreyfus's loyal wife Lucie (<a class="external" href="http://en.wikipedia.org/wiki/Gale_Sondergaard" title="Gale Sondergaard">Gale Sondergaard</a>) pleads with Zola to take up her husband's cause. Zola is reluctant to give up his comfortable life, but the evidence she has brought him piques his curiosity and he recalls CÃ©zanne's parting words. He publishes a <a class="external" href="http://en.wikipedia.org/wiki/J%27accuse_(letter)" title="J'accuse (letter)">letter in the newspaper accusing the army of covering up a monstrous injustice</a>. Zola barely escapes from an angry mob incited by <a class="external" href="http://en.wikipedia.org/wiki/Agent_provocateur" title="Agent provocateur">agents provocateurs</a> employed by the military.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">As he had expected, he is brought to trial for <a class="external" href="http://en.wikipedia.org/wiki/Libel" title="Libel">libel</a>. His attorney, Maitre Labori (<a class="external" href="http://en.wikipedia.org/wiki/Donald_Crisp" title="Donald Crisp">Donald Crisp</a>) does his best, but the presiding judge refuses to allow him to bring up the Dreyfus affair and the military witnesses all commit perjury, with the exception of Picquart. Zola is found guilty and sentenced to a year in prison. He reluctantly accepts the advice of his friends and flees to England, where he continues to write on behalf of Dreyfus.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">A new administration finally admits that Dreyfus is innocent, those responsible for the coverup are forced to resign or are dismissed, and Walsin-Esterhazy flees the country. However, Zola dies of <a class="external" href="http://en.wikipedia.org/wiki/Carbon_monoxide_poisoning" title="Carbon monoxide poisoning">carbon monoxide poisoning</a> due to a faulty stove the night before the public ceremony in which Dreyfus is exonerated.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Cast">Cast</span></h2>
+	<ul xmlns="http://www.w3.org/1999/xhtml">
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Paul_Muni" title="Paul Muni">Paul Muni</a> as Ã‰mile Zola</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Gloria_Holden" title="Gloria Holden">Gloria Holden</a> as Alexandrine Zola</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Gale_Sondergaard" title="Gale Sondergaard">Gale Sondergaard</a> as Lucie Dreyfus</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Joseph_Schildkraut" title="Joseph Schildkraut">Joseph Schildkraut</a> as Captain <a class="external" href="http://en.wikipedia.org/wiki/Alfred_Dreyfus" title="Alfred Dreyfus">Alfred Dreyfus</a></li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Donald_Crisp" title="Donald Crisp">Donald Crisp</a> as Maitre Labori</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Erin_O%27Brien-Moore" title="Erin O'Brien-Moore">Erin O'Brien-Moore</a> as Nana</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/John_Litel" title="John Litel">John Litel</a> as Charpentier</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Henry_O%27Neill" title="Henry O'Neill">Henry O'Neill</a> as Colonel <a class="external" href="http://en.wikipedia.org/wiki/Georges_Picquart" title="Georges Picquart">Picquart</a></li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Morris_Carnovsky" title="Morris Carnovsky">Morris Carnovsky</a> as <a class="external" href="http://en.wikipedia.org/wiki/Anatole_France" title="Anatole France">Anatole France</a>, Zola's friend and supporter</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Louis_Calhern" title="Louis Calhern">Louis Calhern</a> as Major Dort</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Ralph_Morgan" title="Ralph Morgan">Ralph Morgan</a> as Commander of Paris</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Robert_Barrat" title="Robert Barrat">Robert Barrat</a> as Major <a class="external" href="http://en.wikipedia.org/wiki/Ferdinand_Walsin_Esterhazy" title="Ferdinand Walsin Esterhazy">Walsin-Esterhazy</a></li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Vladimir_Sokoloff" title="Vladimir Sokoloff">Vladimir Sokoloff</a> as Paul CÃ©zanne</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Grant_Mitchell_(actor)" title="Grant Mitchell (actor)">Grant Mitchell</a> as <a class="external" href="http://en.wikipedia.org/wiki/Georges_Clemenceau" title="Georges Clemenceau">Georges Clemenceau</a></li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Harry_Davenport_(actor)" title="Harry Davenport (actor)">Harry Davenport</a> as Chief of Staff</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Robert_Warwick" title="Robert Warwick">Robert Warwick</a> as Major Henry</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Charles_Richman_(actor)" title="Charles Richman (actor)">Charles Richman</a> as M. Delagorgue</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Gilbert_Emery" title="Gilbert Emery">Gilbert Emery</a> as Minister of War</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Walter_Kingsford" title="Walter Kingsford">Walter Kingsford</a> as Colonel Sandherr</li>
+	  <li>Paul Everton as Assistant Chief of Staff</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Montagu_Love" title="Montagu Love">Montagu Love</a> as M. Cavaignac</li>
+	  <li>Frank Sheridan as M. Van Cassell</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Lumsden_Hare" title="Lumsden Hare">Lumsden Hare</a> as Mr. Richards</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Marcia_Mae_Jones" title="Marcia Mae Jones">Marcia Mae Jones</a> as Helen Richards</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Florence_Roberts" title="Florence Roberts">Florence Roberts</a> as Madame Zola, Zola's mother</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Dickie_Moore_(actor)" title="Dickie Moore (actor)">Dickie Moore</a> as Pierre Dreyfus, Captain Dreyfus's son</li>
+	  <li>Rolla Gourvitch as Jeanne Dreyfus, Dreyfus's daughter</li>
+	</ul>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Awards">Awards</span></h2>
+	<ul xmlns="http://www.w3.org/1999/xhtml">
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture" title="Academy Award for Best Picture">Best Picture</a>: <a class="external" href="http://en.wikipedia.org/wiki/Warner_Bros." title="Warner Bros.">Warner Bros.</a> (<a class="external" href="http://en.wikipedia.org/wiki/Henry_Blanke" title="Henry Blanke">Henry Blanke</a>, producer)</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Supporting_Actor" title="Academy Award for Best Supporting Actor">Supporting Actor</a>: <a class="external" href="http://en.wikipedia.org/wiki/Joseph_Schildkraut" title="Joseph Schildkraut">Joseph Schildkraut</a></li>
+	  <li>Best Writing, Screenplay: <a class="external" href="http://en.wikipedia.org/w/index.php?title=Heinz_Herald&amp;action=edit&amp;redlink=1" title="Heinz Herald (page does not exist)">Heinz Herald</a>, <a class="external" href="http://en.wikipedia.org/w/index.php?title=Geza_Herczeg&amp;action=edit&amp;redlink=1" title="Geza Herczeg (page does not exist)">Geza Herczeg</a> and <a class="external" href="http://en.wikipedia.org/wiki/Norman_Reilly_Raine" title="Norman Reilly Raine">Norman Reilly Raine</a></li>
+	</ul>
+	<ul xmlns="http://www.w3.org/1999/xhtml">
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actor" title="Academy Award for Best Actor">Best Actor</a>: <a class="external" href="http://en.wikipedia.org/wiki/Paul_Muni" title="Paul Muni">Paul Muni</a></li>
+	  <li>Best Art Direction: <a class="external" href="http://en.wikipedia.org/wiki/Anton_Grot" title="Anton Grot">Anton Grot</a></li>
+	  <li>Best Assistant Director: Russell Saunders</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Directing" title="Academy Award for Directing">Best Director</a>: <a class="external" href="http://en.wikipedia.org/wiki/William_Dieterle" title="William Dieterle">William Dieterle</a></li>
+	  <li>Best Music, Score: <a class="external" href="http://en.wikipedia.org/wiki/Max_Steiner" title="Max Steiner">Max Steiner</a>, awarded to <a class="external" href="http://en.wikipedia.org/wiki/Leo_F._Forbstein" title="Leo F. Forbstein">Leo F. Forbstein</a></li>
+	  <li>Best Sound, Recording: <a class="external" href="http://en.wikipedia.org/w/index.php?title=Nathan_Levinson&amp;action=edit&amp;redlink=1" title="Nathan Levinson (page does not exist)">Nathan Levinson</a> (Warner Bros. SSD)</li>
+	  <li>Best Writing, Original Story: <a class="external" href="http://en.wikipedia.org/w/index.php?title=Heinz_Herald&amp;action=edit&amp;redlink=1" title="Heinz Herald (page does not exist)">Heinz Herald</a> and <a class="external" href="http://en.wikipedia.org/w/index.php?title=Geza_Herczeg&amp;action=edit&amp;redlink=1" title="Geza Herczeg (page does not exist)">Geza Herczeg</a></li>
+	</ul>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+	<ul xmlns="http://www.w3.org/1999/xhtml">
+	  <li><a href="http://www.imdb.com/title/tt0029146/" rel="nofollow"><i>The Life of Emile Zola</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	  <li><a href="http://www.allmovie.com/work/29244" rel="nofollow"><i>The Life of Emile Zola</i></a> at <a class="external" href="http://en.wikipedia.org/wiki/Allmovie" title="Allmovie">Allmovie</a></li>
+	  <li><a href="http://tcmdb.com/title/title.jsp?stid=81353" rel="nofollow"><i>The Life of Emile Zola</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Turner_Classic_Movies" title="Turner Classic Movies">TCM Movie Database</a></li>
+	</ul>
+      </wiki:abstract>
+    </wiki:description>
+  </wiki:film>
+</wiki:nominee>

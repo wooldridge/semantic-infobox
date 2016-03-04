@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="1957" span="1" winner="false" award="supporting-actress" xmlns:wiki="http://marklogic.com/wikipedia">
+  <!--
+                            Copyright (c) 2010 MarkLogic Corporation.
+                            Permission is granted to copy, distribute and/or modify this document
+                            under the terms of the GNU Free Documentation License, Version 1.2
+                            or any later version published by the Free Software Foundation;
+                            with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+                            A copy of the license is included in the section entitled "GNU
+                            Free Documentation License"
+                            
+                            Content derived from http://en.wikipedia.org/wiki/The_Bachelor_Party and http://en.wikipedia.org/wiki/Carolyn_Jones
+                            Modified in May 2009 by Mark Logic Corporation under the terms of the GNU Free Documentation License.
+                        -->
+  <wiki:name link="/wiki/Carolyn_Jones">Carolyn Jones</wiki:name>
+  <wiki:person link="/wiki/Carolyn_Jones" name="Carolyn Jones">
+    <wiki:oscar year="1957" span="1" winner="false" award="supporting-actress" film-link="/wiki/The_Bachelor_Party" film-title="The Bachelor Party"/>
+    <wiki:image link="http://upload.wikimedia.org/wikipedia/commons/1/16/Carolyn_Jones_in_The_Man_in_the_Net_trailer.jpg"/>
+    <wiki:birth>
+      <wiki:date>1930-04-28</wiki:date>
+      <wiki:place>
+	<wiki:primary link="#cite_note-birth-0 /wiki/Amarillo,_Texas">1Amarillo, Texas</wiki:primary>
+	<wiki:secondary link=""/>
+      <enrich><woeid xmlns="http://where.yahooapis.com/v1/schema.rng">12590259</woeid><placeTypeName code="9" xmlns="http://where.yahooapis.com/v1/schema.rng">County</placeTypeName><name xmlns="http://where.yahooapis.com/v1/schema.rng">Zapata</name><country code="US" type="Country" xmlns="http://where.yahooapis.com/v1/schema.rng">United States</country><admin1 code="US-TX" type="State" xmlns="http://where.yahooapis.com/v1/schema.rng">Texas</admin1><admin2 code="" type="County" xmlns="http://where.yahooapis.com/v1/schema.rng">Zapata</admin2><admin3 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality1 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality2 xmlns="http://where.yahooapis.com/v1/schema.rng"/><postal xmlns="http://where.yahooapis.com/v1/schema.rng"/><centroid xmlns="http://where.yahooapis.com/v1/schema.rng"><latitude>26.945351</latitude><longitude>-99.203941</longitude></centroid><boundingBox xmlns="http://where.yahooapis.com/v1/schema.rng"><southWest><latitude>26.571581</latitude><longitude>-99.453720</longitude></southWest><northEast><latitude>27.319111</latitude><longitude>-98.954170</longitude></northEast></boundingBox><areaRank xmlns="http://where.yahooapis.com/v1/schema.rng">7</areaRank><popRank xmlns="http://where.yahooapis.com/v1/schema.rng">0</popRank></enrich></wiki:place>
+    </wiki:birth>
+    <wiki:death>
+      <wiki:date>August 3, 1983</wiki:date>
+      <wiki:place>
+	<wiki:primary link="/wiki/West_Hollywood,_California">West Hollywood, California</wiki:primary>
+	<wiki:secondary link=""/>
+      </wiki:place>
+    </wiki:death>
+    <wiki:description>
+      <p xmlns="http://www.w3.org/1999/xhtml"><b>Carolyn Sue Jones</b> (April 28, 1930 â€“ August 3, 1983) was an <a class="external" href="http://en.wikipedia.org/wiki/United_States" title="United States">American</a> actress.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Jones began her film career in the early 1950s, and by the end of the decade had achieved recognition with a nomination for an <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Supporting_Actress" title="Academy Award for Best Supporting Actress">Academy Award for Best Supporting Actress</a> for <i><a class="external" href="http://en.wikipedia.org/wiki/The_Bachelor_Party" title="The Bachelor Party">The Bachelor Party</a></i> (1957) and a <a class="external" href="http://en.wikipedia.org/wiki/Golden_Globe_Award" title="Golden Globe Award">Golden Globe Award</a> as one of the most promising actresses of 1959. Her film career continued for a few years, and in 1964 she began playing the role of <a class="external" href="http://en.wikipedia.org/wiki/Morticia_Addams" title="Morticia Addams">Morticia Addams</a> in the television series <i><a class="external" href="http://en.wikipedia.org/wiki/The_Addams_Family_(TV_series)" title="The Addams Family (TV series)">The Addams Family</a></i>, receiving a Golden Globe Award nomination for her work.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Early_life">Early life</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">Jones was born in <a class="external" href="http://en.wikipedia.org/wiki/Amarillo,_Texas" title="Amarillo, Texas">Amarillo, Texas</a>, the daughter of Julius Alfred and Cloe Jeanette (nÃ©e Southern) Jones. After moving to California she joined the <a class="external" href="http://en.wikipedia.org/wiki/Pasadena_Playhouse" title="Pasadena Playhouse">Pasadena Playhouse</a> in 1947.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Career">Career</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">Jones secured a contract with <a class="external" href="http://en.wikipedia.org/wiki/Paramount_Pictures" title="Paramount Pictures">Paramount Pictures</a> and made her first film in 1952. In 1953, she married aspiring film-maker <a class="external" href="http://en.wikipedia.org/wiki/Aaron_Spelling" title="Aaron Spelling">Aaron Spelling</a> (converting to <a class="external" href="http://en.wikipedia.org/wiki/List_of_converts_to_Judaism" title="List of converts to Judaism">Judaism</a> upon their marriage) and her film career began to gain momentum. She had an uncredited bit part as a nightclub hostess in <i><a class="external" href="http://en.wikipedia.org/wiki/The_Big_Heat" title="The Big Heat">The Big Heat</a></i>, and a role in <i><a class="external" href="http://en.wikipedia.org/wiki/House_of_Wax_(1953_film)" title="House of Wax (1953 film)">House of Wax</a></i>, as the woman who is converted by <a class="external" href="http://en.wikipedia.org/wiki/Vincent_Price" title="Vincent Price">Vincent Price</a> into a <a class="external" href="http://en.wikipedia.org/wiki/Joan_of_Arc" title="Joan of Arc">Joan of Arc</a> statue, brought her good reviews.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">She was cast in <i><a class="external" href="http://en.wikipedia.org/wiki/From_Here_to_Eternity" title="From Here to Eternity">From Here to Eternity</a></i>, but a bout with <a class="external" href="http://en.wikipedia.org/wiki/Pneumonia" title="Pneumonia">pneumonia</a> forced her to withdraw. <a class="external" href="http://en.wikipedia.org/wiki/Donna_Reed" title="Donna Reed">Donna Reed</a>, almost a decade Jones's senior, was recast in her role and won an <a class="external" href="http://en.wikipedia.org/wiki/Academy_Awards" title="Academy Awards">Best Supporting Actress Oscar</a> for her performance.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Early in her career, she appeared in two <a class="external" href="http://en.wikipedia.org/wiki/Rod_Cameron" title="Rod Cameron">Rod Cameron</a> <a class="external" href="http://en.wikipedia.org/wiki/Television_syndication" title="Television syndication">syndicated</a> series, <i><a class="external" href="http://en.wikipedia.org/wiki/City_Detective_(TV_series)" title="City Detective (TV series)">City Detective</a></i> and <i><a class="external" href="http://en.wikipedia.org/wiki/State_Trooper_(TV_series)" title="State Trooper (TV series)">State Trooper</a></i>, as Betty Fowler in the 1956 episode, "The Paperhanger of Pioche". About this time, she guest starred in <a class="external" href="http://en.wikipedia.org/wiki/Ray_Milland" title="Ray Milland">Ray Milland</a>'s <a class="external" href="http://en.wikipedia.org/wiki/CBS" title="CBS">CBS</a> sitcom, <i><a class="external" href="http://en.wikipedia.org/wiki/Meet_Mr._McNutley" title="Meet Mr. McNutley">Meet Mr. McNutley</a></i>. In the late <a class="external" href="http://en.wikipedia.org/wiki/50s" title="50s">50s</a>, Jones appeared on the anthology series <i><a class="external" href="http://en.wikipedia.org/wiki/Alfred_Hitchcock_Presents" title="Alfred Hitchcock Presents">Alfred Hitchcock Presents</a></i> in an episode entitled "The Cheney Vase," in which she memorably stole her scenes as a secretary assisting her scheming boyfriend <a class="external" href="http://en.wikipedia.org/wiki/Darren_McGavin" title="Darren McGavin">Darren McGavin</a> in attempting an art theft, and opposite <a class="external" href="http://en.wikipedia.org/wiki/Ruta_Lee" title="Ruta Lee">Ruta Lee</a>. In the 1962-1963 season, Jones guest starred on CBS's <i><a class="external" href="http://en.wikipedia.org/wiki/The_Lloyd_Bridges_Show" title="The Lloyd Bridges Show">The Lloyd Bridges Show</a></i>, which Spelling created. While married to Spelling, she appeared on the <a class="external" href="http://en.wikipedia.org/wiki/NBC" title="NBC">NBC</a> program, <i><a class="external" href="http://en.wikipedia.org/wiki/Here%27s_Hollywood" title="Here's Hollywood">Here's Hollywood</a></i>.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Jones appeared in <i><a class="external" href="http://en.wikipedia.org/wiki/Invasion_of_the_Body_Snatchers" title="Invasion of the Body Snatchers">Invasion of the Body Snatchers</a></i> and was nominated for an <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Supporting_Actress" title="Academy Award for Best Supporting Actress">Academy Award for Best Supporting Actress</a> for <i><a class="external" href="http://en.wikipedia.org/wiki/The_Bachelor_Party" title="The Bachelor Party">The Bachelor Party</a></i>. In 1958, she shared a <a class="external" href="http://en.wikipedia.org/wiki/Golden_Globe_Award" title="Golden Globe Award">Golden Globe Award</a> for "Most Promising Newcomer" with <a class="external" href="http://en.wikipedia.org/wiki/Sandra_Dee" title="Sandra Dee">Sandra Dee</a> and <a class="external" href="http://en.wikipedia.org/wiki/Diane_Varsi" title="Diane Varsi">Diane Varsi</a>, and appeared with <a class="external" href="http://en.wikipedia.org/wiki/Elvis_Presley" title="Elvis Presley">Elvis Presley</a> in <i><a class="external" href="http://en.wikipedia.org/wiki/King_Creole" title="King Creole">King Creole</a></i>.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">In 1959, she played opposite <a class="external" href="http://en.wikipedia.org/wiki/Frank_Sinatra" title="Frank Sinatra">Frank Sinatra</a> in <a class="external" href="http://en.wikipedia.org/wiki/Frank_Capra" title="Frank Capra">Frank Capra</a>'s <i><a class="external" href="http://en.wikipedia.org/wiki/A_Hole_in_the_Head" title="A Hole in the Head">A Hole in the Head</a></i>, <a class="external" href="http://en.wikipedia.org/wiki/Dean_Martin" title="Dean Martin">Dean Martin</a> in <i><a class="external" href="http://en.wikipedia.org/wiki/Career_(1959_film)" title="Career (1959 film)">Career</a></i>, and <a class="external" href="http://en.wikipedia.org/wiki/Anthony_Quinn" title="Anthony Quinn">Anthony Quinn</a> in <i><a class="external" href="http://en.wikipedia.org/wiki/Last_Train_from_Gun_Hill" title="Last Train from Gun Hill">Last Train from Gun Hill</a></i>. In 1960, she guest starred with <a class="external" href="http://en.wikipedia.org/wiki/James_Best" title="James Best">James Best</a> and <a class="external" href="http://en.wikipedia.org/wiki/Jack_Mullaney" title="Jack Mullaney">Jack Mullaney</a> in the episode "Love on Credit" of <a class="external" href="http://en.wikipedia.org/wiki/Columbia_Broadcasting_System" title="Columbia Broadcasting System">CBS</a>'s <a class="external" href="http://en.wikipedia.org/wiki/Anthology_series" title="Anthology series">anthology series</a> <i><a class="external" href="http://en.wikipedia.org/wiki/The_DuPont_Show_with_June_Allyson" title="The DuPont Show with June Allyson">The DuPont Show with June Allyson</a></i>, a <a class="external" href="http://en.wikipedia.org/wiki/Four_Star_Television" title="Four Star Television">Four Star Television</a> production. By 1963, she and Spelling were separated, and by 1964 they were divorced. In 1964, with a long coal black wig, Jones began playing <a class="external" href="http://en.wikipedia.org/wiki/Morticia_Addams" title="Morticia Addams">Morticia Addams</a> in the <a class="external" href="http://en.wikipedia.org/wiki/Television_series" title="Television series">television series</a> <i><a class="external" href="http://en.wikipedia.org/wiki/The_Addams_Family_(TV_series)" title="The Addams Family (TV series)">The Addams Family</a></i>, a role which brought her success as a <a class="external" href="http://en.wikipedia.org/wiki/Comedy" title="Comedy">comedienne</a> and a Golden Globe Award nomination. She guest-starred on the 1960s TV series <i><a class="external" href="http://en.wikipedia.org/wiki/Batman_(TV_series)" title="Batman (TV series)">Batman</a></i>, playing Marsha, the Queen of Diamonds, and in 1976 appeared as the title character's mother, <a class="external" href="http://en.wikipedia.org/w/index.php?title=Hypolyte&amp;action=edit&amp;redlink=1" title="Hypolyte (page does not exist)">Hypolyte</a>, on the <i><a class="external" href="http://en.wikipedia.org/wiki/Wonder_Woman_(TV_series)" title="Wonder Woman (TV series)">Wonder Woman</a></i> TV series.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Literary_work">Literary work</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">In 1971, Jones wrote a novel titled, <i>Twice Upon a Time</i>, which was published by Trident Press. The story follows the life of Susan Maxwell, a "glamorous movie star" through her work as an actress and through her romances. There are similarities with this character and Jones herself, as it explores Hollywood life, as well as the character's roots in Texas; Jones herself was raised in Texas.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Personal_life_and_illness">Personal life and illness</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">Her acting career began to decline after the end of <i><a class="external" href="http://en.wikipedia.org/wiki/The_Addams_Family_(TV_series)" title="The Addams Family (TV series)">The Addams Family</a></i> in 1966, and while she continued to act, her roles were sporadic. One noteworthy role played by her was that of Mrs. Moore, the wife of the planter who was also "Chicken George's" father, in the <i><a class="external" href="http://en.wikipedia.org/wiki/Roots" title="Roots">Roots</a></i> mini-series.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">However, Jones' acting future once again appeared promising when she landed the role of the power-driven political matriarch Myrna Clegg in the CBS daytime television drama <i><a class="external" href="http://en.wikipedia.org/wiki/Capitol_(TV_series)" title="Capitol (TV series)">Capitol</a></i> in 1981. Sadly, her newfound success was short-lived. The following year, shortly after <i>Capitol</i> went on the air, she was diagnosed with <a class="external" href="http://en.wikipedia.org/wiki/Colon_cancer" title="Colon cancer">colon cancer</a> and she played many of her scenes in a wheelchair. The cancer spread quickly to her liver and stomach, and <a class="external" href="http://en.wikipedia.org/wiki/Marj_Dusay" title="Marj Dusay">Marj Dusay</a> finally took over her role when Jones became too ill to work.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Marriages">Marriages</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">Jones was married three times: to television producer <a class="external" href="http://en.wikipedia.org/wiki/Aaron_Spelling" title="Aaron Spelling">Aaron Spelling</a> from 1953 until their divorce in 1964; her voice coach, Herbert S. Greene, from 1968 until their divorce in 1977; and British actor Peter Bailey-Britton from 1982 until her death.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Death">Death</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml"><a class="external" href="http://en.wikipedia.org/wiki/Chemotherapy" title="Chemotherapy">Chemotherapy</a> did little to slow the course of her cancer and she died on August 3, 1983, aged 53, at her home in <a class="external" href="http://en.wikipedia.org/wiki/West_Hollywood,_California" title="West Hollywood, California">West Hollywood, California</a>, nine months after her wedding to Bailey-Britton on December 14, 1982.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Jones reportedly told her sister, Bette Moriarty, that she wanted her epitaph to be, "She gave joy to the world." Her body was entombed at Melrose Abbey Memorial Park Cemetery in <a class="external" href="http://en.wikipedia.org/wiki/Anaheim,_California" title="Anaheim, California">Anaheim, California</a>, beside her mother.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Filmography">Filmography</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Turning_Point_(1952_film)" title="The Turning Point (1952 film)">The Turning Point</a></i> (1952)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Road_to_Bali" title="Road to Bali">Road to Bali</a></i> (1952)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Off_Limits_(1953_film)" title="Off Limits (1953 film)">Off Limits</a></i> (1953)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/House_of_Wax_(1953_film)" title="House of Wax (1953 film)">House of Wax</a></i> (1953)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Big_Heat" title="The Big Heat">The Big Heat</a></i> (1953)</li>
+	<li><i>Geraldine</i> (1953)</li>
+	<li><i>Make Haste to Live</i> (1954)</li>
+	<li><i>The Saracen Blade</i> (1954)</li>
+	<li><i>Shield for Murder</i> (1954)</li>
+	<li><i>Three Hours to Kill</i> (1954)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/East_of_Eden_(film)" title="East of Eden (film)">East of Eden</a></i> (1955) (unconfirmed)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Seven_Year_Itch" title="The Seven Year Itch">The Seven Year Itch</a></i> (1955)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Tender_Trap_(film)" title="The Tender Trap (film)">The Tender Trap</a></i> (1955)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Invasion_of_the_Body_Snatchers" title="Invasion of the Body Snatchers">Invasion of the Body Snatchers</a></i> (1956)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Man_Who_Knew_Too_Much_(1956_film)" title="The Man Who Knew Too Much (1956 film)">The Man Who Knew Too Much</a></i> (1956)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Opposite_Sex" title="The Opposite Sex">The Opposite Sex</a></i> (1956)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Bachelor_Party" title="The Bachelor Party">The Bachelor Party</a></i> (1957)</li>
+	<li><i>Johnny Trouble</i> (1957)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Baby_Face_Nelson_(film)" title="Baby Face Nelson (film)">Baby Face Nelson</a></i> (1957)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Marjorie_Morningstar_(film)" title="Marjorie Morningstar (film)">Marjorie Morningstar</a></i> (1958)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/King_Creole" title="King Creole">King Creole</a></i> (1958)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Man_in_the_Net" title="The Man in the Net">The Man in the Net</a></i> (1959)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/A_Hole_in_the_Head" title="A Hole in the Head">A Hole in the Head</a></i> (1959)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Career_(1959_film)" title="Career (1959 film)">Career</a></i> (1959)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Last_Train_from_Gun_Hill" title="Last Train from Gun Hill">Last Train from Gun Hill</a></i> (1959)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Ice_Palace_(film)" title="Ice Palace (film)">Ice Palace</a></i> (1960)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/w/index.php?title=Sail_a_Crooked_Ship&amp;action=edit&amp;redlink=1" title="Sail a Crooked Ship (page does not exist)">Sail a Crooked Ship</a></i> (1961)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/How_the_West_Was_Won_(film)" title="How the West Was Won (film)">How the West Was Won</a></i> (1962)</li>
+	<li><i>A Ticklish Affair</i> (1963)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Addams_Family_(TV_series)" title="The Addams Family (TV series)">The Addams Family</a></i> (1964â€“66) (television)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Heaven_with_a_Gun" title="Heaven with a Gun">Heaven with a Gun</a></i> (1969)</li>
+	<li><i>Color Me Dead</i> (1969)</li>
+	<li><i>Roots</i> (1977)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Eaten_Alive" title="Eaten Alive">Eaten Alive</a></i> (1977)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Good_Luck,_Miss_Wyckoff" title="Good Luck, Miss Wyckoff">Good Luck, Miss Wyckoff</a></i> (1979)</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="References">References</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/name/nm0427700/" rel="nofollow">Carolyn Jones</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	<li><a href="http://www.allmovie.com/artist/36060" rel="nofollow">Carolyn Jones</a> at <a class="external" href="http://en.wikipedia.org/wiki/Allmovie" title="Allmovie">Allmovie</a></li>
+	<li><a href="http://movies.yahoo.com/movie/contributor/1800049340" rel="nofollow">Carolyn Jones</a> at <a class="external" href="http://en.wikipedia.org/wiki/Yahoo!_Movies" title="Yahoo! Movies">Yahoo! Movies</a></li>
+	<li><a href="http://www.tv.com/person/5432/summary.html" rel="nofollow">Carolyn Jones</a> at <a class="external" href="http://en.wikipedia.org/wiki/TV.com" title="TV.com">TV.com</a></li>
+	<li><a href="http://www.ibdb.com/person.asp?ID=101908" rel="nofollow">Carolyn Jones</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Broadway_Database" title="Internet Broadway Database">Internet Broadway Database</a></li>
+	<li><a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=1427" rel="nofollow">Carolyn Jones</a> at <a class="external" href="http://en.wikipedia.org/wiki/Find_a_Grave" title="Find a Grave">Find a Grave</a></li>
+	<li><a href="http://www.cultsirens.com/jones/jones.htm" rel="nofollow">Carolyn Jones at Cult Sirens</a></li>
+	<li><a href="http://www.filmreference.com/film/36/Carolyn-Jones.html" rel="nofollow">Carolyn Jones at filmreference.com</a></li>
+      </ul>
+    </wiki:description>
+  </wiki:person>
+  <wiki:film-title link="/wiki/The_Bachelor_Party">The Bachelor Party</wiki:film-title>
+  <wiki:film link="/wiki/The_Bachelor_Party" title="The Bachelor Party">
+    <wiki:oscar-ref year="1957" span="1" winner="false" award="supporting-actress" person-link="/wiki/Carolyn_Jones" person-name="Carolyn Jones"/>
+    <wiki:producer link="/wiki/Harold_Hecht">Harold Hecht</wiki:producer>
+    <wiki:director link="/wiki/Delbert_Mann">Delbert Mann</wiki:director>
+    <wiki:writer link="/wiki/Paddy_Chayefsky">Paddy Chayefsky</wiki:writer>
+    <wiki:distributor link="/wiki/United_Artists">United Artists</wiki:distributor>
+    <wiki:starring link="/wiki/Don_Murray_(actor)">Don Murray</wiki:starring>
+    <wiki:starring link="/wiki/E.G._Marshall">E.G. Marshall</wiki:starring>
+    <wiki:starring link="/wiki/Jack_Warden">Jack Warden</wiki:starring>
+    <wiki:starring link="/wiki/Carolyn_Jones">Carolyn Jones</wiki:starring>
+    <wiki:language link="/wiki/English_language">English</wiki:language>
+    <wiki:gross-revenue link="/wiki/United_States_Dollar">USD</wiki:gross-revenue>
+    <wiki:description>
+      <wiki:abstract>
+	<p xmlns="http://www.w3.org/1999/xhtml"><i><b>The Bachelor Party</b></i> is a 1953 teleplay by <a class="external" href="http://en.wikipedia.org/wiki/Paddy_Chayefsky" title="Paddy Chayefsky">Paddy Chayefsky</a> which was adapted by Chayefsky for a 1957 film.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Television">Television</span></h2>
+	<p xmlns="http://www.w3.org/1999/xhtml">Chayefsky's teleplay was produced by <a class="external" href="http://en.wikipedia.org/wiki/Fred_Coe" title="Fred Coe">Fred Coe</a> for <i><a class="external" href="http://en.wikipedia.org/wiki/The_Philco_Television_Playhouse" title="The Philco Television Playhouse">The Philco Television Playhouse</a></i> on October 11, 1953. <a class="external" href="http://en.wikipedia.org/wiki/Delbert_Mann" title="Delbert Mann">Delbert Mann</a> directed the following cast:</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">Helen ...............................Kathleen Maguire<br/>
+Charlie..............................<a class="external" href="http://en.wikipedia.org/wiki/Eddie_Albert" title="Eddie Albert">Eddie Albert</a><br/>
+Kenneth............................Bob Emmett<br/>
+The Bookkeeper................<a class="external" href="http://en.wikipedia.org/wiki/James_Westerfield" title="James Westerfield">James Westerfield</a><br/>
+The Bachelor.....................Joseph Mantell<br/>
+The Groom........................Douglas Gordon<br/>
+Julie..................................Anna Minot<br/>
+The Bartender....................Ely Segall<br/>
+The Bar Hag.......................Elaine Eldridge<br/>
+The Young Fellow...............Walter Kelly<br/>
+The Girl.............................<a class="external" href="http://en.wikipedia.org/wiki/Bettye_Ackerman" title="Bettye Ackerman">Bettye Ackerman</a><br/>
+The FiancÃ©e.......................Olive Dunbar</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Film_adaptation">Film adaptation</span></h2>
+	<p xmlns="http://www.w3.org/1999/xhtml">The 1957 film was directed by <a class="external" href="http://en.wikipedia.org/wiki/Delbert_Mann" title="Delbert Mann">Delbert Mann</a>, with <a class="external" href="http://en.wikipedia.org/wiki/Don_Murray_(actor)" title="Don Murray (actor)">Don Murray</a>, <a class="external" href="http://en.wikipedia.org/wiki/E.G._Marshall" title="E.G. Marshall">E.G. Marshall</a>, <a class="external" href="http://en.wikipedia.org/wiki/Jack_Warden" title="Jack Warden">Jack Warden</a> and <a class="external" href="http://en.wikipedia.org/wiki/Carolyn_Jones" title="Carolyn Jones">Carolyn Jones</a>. Jones was nominated for the 1958 Best Supporting Actress <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award" title="Academy Award">Academy Award</a> for her portrayal of a party girl who is actually very lonely.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Characters_and_story">Characters and story</span></h2>
+	<p xmlns="http://www.w3.org/1999/xhtml">Charlie Samson (Don Murray) is a hard-working married bookkeeper, struggling to advance himself by attending night school to become an accountant. He and four other of his bookkeeper coworkers throw a bachelor party for one of them, Arnold Craig (Philip Abbott), who is about to get married. After the party, they decide to go <a class="external" href="http://en.wikipedia.org/wiki/Bar-hopping" title="Bar-hopping">bar-hopping</a>. Charlie is Arnold's best man. Other coworkers attending the party including the older married man, Walter (E.G. Marshall), who has an unspecified health problem, and Eddie (Jack Warden), a happy-go-lucky bachelor. The night becomes a turning point for all five men.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">Charlie finds his loyalty to his wife tested during the evening, and he almost has an affair with a young woman (Carolyn Jones) he meets at a bar. Walter, in despair about his situation, wanders off during the evening. Arnold becomes drunk and ambivalent about getting married, and he breaks off the wedding only to change his mind after he sobers up and Charlie gives him a lecture about the benefits of married life. This, in spite of the fact that in the beginning of the story, Charlie had been regretting his marriage and had gone to the party with a serious intention of committing adultery. We last see Eddie at a bar, striking up a conversation with an older unattractive woman. In the end, Charlie decides that married life is the way to go, and that his struggle to build a home with his wife is worthwhile, and better than the empty and lonely existence of his friend Eddie, whom he used to envy.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Cast">Cast</span></h2>
+	<ul xmlns="http://www.w3.org/1999/xhtml">
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Don_Murray_(actor)" title="Don Murray (actor)">Don Murray</a> as <i>Charlie Samson</i></li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/E.G._Marshall" title="E.G. Marshall">E.G. Marshall</a> as <i>Walter</i></li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Jack_Warden" title="Jack Warden">Jack Warden</a> as <i>Eddie Watkins, the Bachelor</i></li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Philip_Abbott" title="Philip Abbott">Philip Abbott</a> as <i>Arnold Craig</i></li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Larry_Blyden" title="Larry Blyden">Larry Blyden</a> as <i>Kenneth</i></li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Patricia_Smith_(actress)" title="Patricia Smith (actress)">Patricia Smith</a> as <i>Helen Samson</i></li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Carolyn_Jones" title="Carolyn Jones">Carolyn Jones</a> as <i>The Existentialist</i></li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Nancy_Marchand" title="Nancy Marchand">Nancy Marchand</a> as <i>Mrs. Julie Samson</i></li>
+	</ul>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Awards">Awards</span></h2>
+	<p xmlns="http://www.w3.org/1999/xhtml"><i>The Bachelor Party</i> was nominated for one <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award" title="Academy Award">Oscar</a>, one <a class="external" href="http://en.wikipedia.org/wiki/British_Academy_of_Film_and_Television_Arts" title="British Academy of Film and Television Arts">BAFTA</a> award, and one award at the <a class="external" href="http://en.wikipedia.org/wiki/1957_Cannes_Film_Festival" title="1957 Cannes Film Festival">1957 Cannes Film Festival</a>:</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Chayefsky_on_The_Bachelor_Party">Chayefsky on <i>The Bachelor Party</i></span></h2>
+	<p xmlns="http://www.w3.org/1999/xhtml">Afterword to <i>The Bachelor Party</i>:</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="References">References</span></h2>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+	<ul xmlns="http://www.w3.org/1999/xhtml">
+	  <li><a href="http://www.imdb.com/title/tt0050156/" rel="nofollow"><i>The Bachelor Party</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	  <li><a href="http://www.allmovie.com/work/72866" rel="nofollow"><i>The Bachelor Party</i></a> at <a class="external" href="http://en.wikipedia.org/wiki/Allmovie" title="Allmovie">Allmovie</a></li>
+	  <li><a href="http://tcmdb.com/title/title.jsp?stid=67893" rel="nofollow"><i>The Bachelor Party</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Turner_Classic_Movies" title="Turner Classic Movies">TCM Movie Database</a></li>
+	  <li><a href="http://www.allmovie.com/work/72866" rel="nofollow"><i>The Bachelor Party</i></a> at <a class="external" href="http://en.wikipedia.org/wiki/Allmovie" title="Allmovie">Allmovie</a></li>
+	  <li><a href="http://www.rottentomatoes.com/m/1100826-bachelor_party/" rel="nofollow"><i>The Bachelor Party</i></a> at <a class="external" href="http://en.wikipedia.org/wiki/Rotten_Tomatoes" title="Rotten Tomatoes">Rotten Tomatoes</a></li>
+	  <li><a href="http://www.boxofficemojo.com/movies/?id=bachelorparty.htm.htm" rel="nofollow"><i>The Bachelor Party</i></a> at <a class="external" href="http://en.wikipedia.org/wiki/Box_Office_Mojo" title="Box Office Mojo">Box Office Mojo</a></li>
+	</ul>
+      </wiki:abstract>
+    </wiki:description>
+  </wiki:film>
+</wiki:nominee>

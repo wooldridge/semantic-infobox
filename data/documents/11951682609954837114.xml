@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="1947" span="1" winner="false" award="best-picture" xmlns:wiki="http://marklogic.com/wikipedia">
+  <!--
+                            Copyright (c) 2010 MarkLogic Corporation.
+                            Permission is granted to copy, distribute and/or modify this document
+                            under the terms of the GNU Free Documentation License, Version 1.2
+                            or any later version published by the Free Software Foundation;
+                            with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+                            A copy of the license is included in the section entitled "GNU
+                            Free Documentation License"
+                            
+                            Content derived from http://en.wikipedia.org/wiki/The_Bishop%27s_Wife
+                            Modified in May 2009 by Mark Logic Corporation under the terms of the GNU Free Documentation License.
+                        -->
+  <wiki:film-title link="/wiki/The_Bishop%27s_Wife">The Bishop's Wife</wiki:film-title>
+  <wiki:film link="/wiki/The_Bishop%27s_Wife" title="The Bishop's Wife">
+    <wiki:oscar-ref year="1947" span="1" winner="false" award="best-director" person-link="/wiki/Henry_Koster" person-name="Henry Koster"/>
+    <wiki:oscar year="1947" span="1" winner="false" award="best-picture"/>
+    <wiki:producer link="/wiki/Samuel_Goldwyn">Samuel Goldwyn</wiki:producer>
+    <wiki:director link="/wiki/Henry_Koster">Henry Koster</wiki:director>
+    <wiki:writer link="/wiki/Robert_Nathan">Robert Nathan</wiki:writer>
+    <wiki:writer link="/w/index.php?title=Leonardo_Bercovici&amp;action=edit&amp;redlink=1">Leonardo Bercovici</wiki:writer>
+    <wiki:writer link="/wiki/Robert_E._Sherwood">Robert E. Sherwood</wiki:writer>
+    <wiki:writer link="/wiki/Billy_Wilder">Billy Wilder</wiki:writer>
+    <wiki:writer link="/wiki/Charles_Brackett">Charles Brackett</wiki:writer>
+    <wiki:distributor link="/wiki/RKO_Pictures">RKO Radio Pictures Inc.</wiki:distributor>
+    <wiki:starring link="/wiki/Cary_Grant">Cary Grant</wiki:starring>
+    <wiki:starring link="/wiki/Loretta_Young">Loretta Young</wiki:starring>
+    <wiki:starring link="/wiki/David_Niven">David Niven</wiki:starring>
+    <wiki:description>
+      <wiki:abstract>
+	<p xmlns="http://www.w3.org/1999/xhtml"><i><b>The Bishop's Wife</b></i> (<a class="external" href="http://en.wikipedia.org/wiki/1947_in_film" title="1947 in film">1947</a>) is a <a class="external" href="http://en.wikipedia.org/wiki/Samuel_Goldwyn" title="Samuel Goldwyn">Samuel Goldwyn</a> <a class="external" href="http://en.wikipedia.org/wiki/Romantic_comedy_film" title="Romantic comedy film">romantic comedy</a> <a class="external" href="http://en.wikipedia.org/wiki/Feature_film" title="Feature film">feature film</a> starring <a class="external" href="http://en.wikipedia.org/wiki/Cary_Grant" title="Cary Grant">Cary Grant</a>, <a class="external" href="http://en.wikipedia.org/wiki/Loretta_Young" title="Loretta Young">Loretta Young</a>, and <a class="external" href="http://en.wikipedia.org/wiki/David_Niven" title="David Niven">David Niven</a> in a story about an angel who helps a bishop with his problems. It was released by <a class="external" href="http://en.wikipedia.org/wiki/RKO" title="RKO">RKO</a>. The film was adapted by <a class="external" href="http://en.wikipedia.org/w/index.php?title=Leonardo_Bercovici&amp;action=edit&amp;redlink=1" title="Leonardo Bercovici (page does not exist)">Leonardo Bercovici</a> and <a class="external" href="http://en.wikipedia.org/wiki/Robert_E._Sherwood" title="Robert E. Sherwood">Robert E. Sherwood</a> from the novel of the same name by <a class="external" href="http://en.wikipedia.org/wiki/Robert_Nathan" title="Robert Nathan">Robert Nathan</a>, and was directed by <a class="external" href="http://en.wikipedia.org/wiki/Henry_Koster" title="Henry Koster">Henry Koster</a>.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">The film won the <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Sound" title="Academy Award for Sound">Academy Award for Sound</a>, and was nominated for <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Directing" title="Academy Award for Directing">Best Director</a>, <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Film_Editing" title="Academy Award for Film Editing">Best Film Editing</a>, <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Original_Music_Score" title="Academy Award for Original Music Score">Best Music, Scoring of a Dramatic or Comedy Picture</a> and <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture" title="Academy Award for Best Picture">Best Picture</a>.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">It was remade in <a class="external" href="http://en.wikipedia.org/wiki/1996_in_film" title="1996 in film">1996</a> as <i><a class="external" href="http://en.wikipedia.org/wiki/The_Preacher%27s_Wife" title="The Preacher's Wife">The Preacher's Wife</a></i> starring <a class="external" href="http://en.wikipedia.org/wiki/Denzel_Washington" title="Denzel Washington">Denzel Washington</a>, <a class="external" href="http://en.wikipedia.org/wiki/Whitney_Houston" title="Whitney Houston">Whitney Houston</a>, and <a class="external" href="http://en.wikipedia.org/wiki/Courtney_B._Vance" title="Courtney B. Vance">Courtney B. Vance</a>.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Plot">Plot</span></h2>
+	<p xmlns="http://www.w3.org/1999/xhtml">Bishop Henry Brougham (<a class="external" href="http://en.wikipedia.org/wiki/David_Niven" title="David Niven">David Niven</a>) prays for divine guidance with the troubled building of a new <a class="external" href="http://en.wikipedia.org/wiki/Cathedral" title="Cathedral">cathedral</a>. His plea is seemingly answered by a suave <a class="external" href="http://en.wikipedia.org/wiki/Angel" title="Angel">angel</a> named Dudley (<a class="external" href="http://en.wikipedia.org/wiki/Cary_Grant" title="Cary Grant">Cary Grant</a>), who reveals his identity initially only to the clergyman.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">However, Dudley's mission isn't to help with the construction of the cathedral. He is there as a guide to Henry and the people around him. Henry has become obsessed with the building to the detriment of his duties and marriage to his neglected, unhappy wife, Julia (<a class="external" href="http://en.wikipedia.org/wiki/Loretta_Young" title="Loretta Young">Loretta Young</a>). Everyone, except for Henry, is charmed by the newcomer, even the non-religious Professor Wutheridge (<a class="external" href="http://en.wikipedia.org/wiki/Monty_Woolley" title="Monty Woolley">Monty Woolley</a>). Dudley finally and easily persuades the wealthy parishioners, particularly Mrs. Hamilton (<a class="external" href="http://en.wikipedia.org/wiki/Gladys_Cooper" title="Gladys Cooper">Gladys Cooper</a>), to contribute the needed funds, but not to build the cathedral. He helps Mrs. Hamilton decide to give her money to feed and clothe the needyâ€”much to Henry's chagrin. He also redecorates the Broghams' Christmas tree in two seconds, saves an old church by restoring interest in the boys' choir, and arranges for the typewriter to automatically type Henry's new sermon - which Dudley dictates without Henry's knowledge.</p>
+      </wiki:abstract>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Cast">Cast</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Cary_Grant" title="Cary Grant">Cary Grant</a> as Dudley</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Loretta_Young" title="Loretta Young">Loretta Young</a> as Julia Brougham</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/David_Niven" title="David Niven">David Niven</a> as Bishop Henry Brougham</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Monty_Woolley" title="Monty Woolley">Monty Woolley</a> as Professor Wutheridge</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/James_Gleason" title="James Gleason">James Gleason</a> as Sylvester, a sympathetic taxi driver</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Gladys_Cooper" title="Gladys Cooper">Gladys Cooper</a> as Mrs. Hamilton</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Elsa_Lanchester" title="Elsa Lanchester">Elsa Lanchester</a> as Matilda</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Sara_Haden" title="Sara Haden">Sara Haden</a> as Mildred Cassaway</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Karolyn_Grimes" title="Karolyn Grimes">Karolyn Grimes</a> as Debby Brougham</li>
+	<li>Tito Vuolo as Maggenti</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Regis_Toomey" title="Regis Toomey">Regis Toomey</a> as Mr. Miller</li>
+	<li>Sarah Edwards as Mrs. Duffy</li>
+	<li>Margaret McWade as Miss Trumbull</li>
+	<li>Anne O'Neal as Mrs. Ward</li>
+	<li>Ben Erway as Mr. Perry</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Eugene_Turner" title="Eugene Turner">Eugene Turner</a>, ice skating double for Cary Grant</li>
+      </ul>
+      <p xmlns="http://www.w3.org/1999/xhtml">Niven was originally cast as the angel, <a class="external" href="http://en.wikipedia.org/wiki/Dana_Andrews" title="Dana Andrews">Dana Andrews</a> as the bishop, and <a class="external" href="http://en.wikipedia.org/wiki/Teresa_Wright" title="Teresa Wright">Teresa Wright</a> as his wife. However, Wright had to bow out due to pregnancy. According to <a class="external" href="http://en.wikipedia.org/wiki/Robert_Osborne" title="Robert Osborne">Robert Osborne</a>, Andrews was lent to <a class="external" href="http://en.wikipedia.org/wiki/RKO" title="RKO">RKO</a> in order to obtain Loretta Young. Koster then brought in Cary Grant, but he wanted to play the angel, so the role of the bishop was given to Niven.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Production">Production</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">Production was not without troubles. Producer <a class="external" href="http://en.wikipedia.org/wiki/Samuel_Goldwyn" title="Samuel Goldwyn">Samuel Goldwyn</a> replaced director <a class="external" href="http://en.wikipedia.org/wiki/William_A._Seiter" title="William A. Seiter">William A. Seiter</a> with Henry Koster to create a completely new film. In early previews, audiences disliked the film, so <a class="external" href="http://en.wikipedia.org/wiki/Billy_Wilder" title="Billy Wilder">Billy Wilder</a> and <a class="external" href="http://en.wikipedia.org/wiki/Charles_Brackett" title="Charles Brackett">Charles Brackett</a> made uncredited rewrites.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Although no denomination is mentioned in the film, the characters are clearly members of the <a class="external" href="http://en.wikipedia.org/wiki/Episcopal_Church_(United_States)" title="Episcopal Church (United States)">Episcopal Church</a>. The <a class="external" href="http://en.wikipedia.org/wiki/Robert_Mitchell_Boys_Choir" title="Robert Mitchell Boys Choir">Robert Mitchell Boys Choir</a> appeared in the film, singing <i>O Sing to God</i> by <a class="external" href="http://en.wikipedia.org/wiki/Charles_Gounod" title="Charles Gounod">Charles Gounod</a>.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Adaptations_to_Other_Media">Adaptations to Other Media</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml"><i>The Bishop's Wife</i> was dramatized as a half-hour radio play on the March 1, 1948 broadcast of <a class="external" href="http://en.wikipedia.org/wiki/The_Screen_Guild_Theater" title="The Screen Guild Theater">The Screen Guild Theater</a> with Cary Grant, Loretta Young and David Niven in their original film roles. It was also presented on <a class="external" href="http://en.wikipedia.org/wiki/Lux_Radio_Theater" title="Lux Radio Theater">Lux Radio Theater</a> three times as an hour-long broadcast: first on December 19, 1949, with <a class="external" href="http://en.wikipedia.org/wiki/Tyrone_Power" title="Tyrone Power">Tyrone Power</a> and David Niven, second on May 11, 1953 with Cary Grant and Phyllis Thaxter and third on March 1, 1955, again with Grant and Thaxter.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">The soundtrack has been released on <a class="external" href="http://en.wikipedia.org/wiki/Compact_disc" title="Compact disc">compact disc</a>.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="References">References</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://tcmdb.com/title/title.jsp?stid=68818" rel="nofollow"><i>The Bishop's Wife</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Turner_Classic_Movies" title="Turner Classic Movies">TCM Movie Database</a></li>
+	<li><a href="http://www.imdb.com/title/tt0039190/" rel="nofollow"><i>The Bishop's Wife</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	<li><a href="http://www.allmovie.com/work/5762" rel="nofollow"><i>The Bishop's Wife</i></a> at <a class="external" href="http://en.wikipedia.org/wiki/Allmovie" title="Allmovie">Allmovie</a></li>
+      </ul>
+    </wiki:description>
+  </wiki:film>
+</wiki:nominee>

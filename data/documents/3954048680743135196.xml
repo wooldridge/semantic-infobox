@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="1996" span="1" winner="false" award="best-picture" xmlns:wiki="http://marklogic.com/wikipedia">
+  <!--
+                            Copyright (c) 2010 MarkLogic Corporation.
+                            Permission is granted to copy, distribute and/or modify this document
+                            under the terms of the GNU Free Documentation License, Version 1.2
+                            or any later version published by the Free Software Foundation;
+                            with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+                            A copy of the license is included in the section entitled "GNU
+                            Free Documentation License"
+                            
+                            Content derived from http://en.wikipedia.org/wiki/Secrets_%26_Lies
+                            Modified in May 2009 by Mark Logic Corporation under the terms of the GNU Free Documentation License.
+                        -->
+  <wiki:film-title link="/wiki/Secrets_%26_Lies">Secrets &amp; Lies</wiki:film-title>
+  <wiki:film link="/wiki/Secrets_%26_Lies" title="Secrets &amp; Lies">
+    <wiki:oscar-ref year="1996" span="1" winner="false" award="lead-actress" person-link="/wiki/Brenda_Blethyn" person-name="Brenda Blethyn"/>
+    <wiki:oscar-ref year="1996" span="1" winner="false" award="best-director" person-link="/wiki/Mike_Leigh" person-name="Mike Leigh"/>
+    <wiki:oscar-ref year="1996" span="1" winner="false" award="supporting-actress" person-link="/wiki/Marianne_Jean-Baptiste" person-name="Marianne Jean-Baptiste"/>
+    <wiki:oscar year="1996" span="1" winner="false" award="best-picture"/>
+    <wiki:description>
+      <p xmlns="http://www.w3.org/1999/xhtml"><b>Secrets and Lies</b> may refer to:</p>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Secrets_%26_Lies_(film)" title="Secrets &amp; Lies (film)">Secrets &amp; Lies <i>(film)</i></a></i>, a 1996 film directed by Mike Leigh</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Secrets_and_Lies_(30_Rock)" title="Secrets and Lies (30 Rock)">"Secrets and Lies" (30 Rock)</a>, a 2007 episode of <i>30 Rock</i></li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Secrets_and_Lies:_Digital_Security_in_a_Networked_World" title="Secrets and Lies: Digital Security in a Networked World">Secrets and Lies: Digital Security in a Networked World</a></i>, a book by Bruce Schneier</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Secrets_and_Lies_(Hager)" title="Secrets and Lies (Hager)"><i>Secrets and Lies</i> (Hager)</a>, a 1999 book by Nicky Hager</li>
+	<li>"<a class="external" href="http://en.wikipedia.org/wiki/List_of_Desperate_Housewives_episodes" title="List of Desperate Housewives episodes">Secrets and Lies</a>", a special 2007 recap episode of <i>Desperate Housewives</i></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Secrets_and_Lies_(The_Best_Years_episode)" title="Secrets and Lies (The Best Years episode)">"Secrets and Lies"</a>", a 2007 episode of <i>The Best Years</i></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Secrets_%26_Lies_(Degrassi:_The_Next_Generation)" title="Secrets &amp; Lies (Degrassi: The Next Generation)">"Secrets &amp; Lies" (Degrassi: The Next Generation)</a>, a 2001 episode of <i>Degrassi: The Next Generation</i></li>
+	<li>"<a class="external" href="http://en.wikipedia.org/wiki/Tigh_Me_Up,_Tigh_Me_Down" title="Tigh Me Up, Tigh Me Down">Tigh Me Up, Tigh Me Down</a>", an episode of the re-imagined <a class="external" href="http://en.wikipedia.org/wiki/Battlestar_Galactica_(2004_TV_series)" title="Battlestar Galactica (2004 TV series)">Battlestar Galactica (2004 TV series)</a></li>
+	<li><a class="external" href="http://en.wikipedia.org/w/index.php?title=Secrets_and_Lies_(David_Southwell_book)&amp;action=edit&amp;redlink=1" title="Secrets and Lies (David Southwell book) (page does not exist)">Secrets_and_Lies_(David_Southwell_book)</a>, a 2005 book by <a class="external" href="http://en.wikipedia.org/wiki/David_Southwell" title="David Southwell">David_Southwell</a></li>
+      </ul>
+    </wiki:description>
+  </wiki:film>
+</wiki:nominee>

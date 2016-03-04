@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="1992" span="1" winner="false" award="supporting-actor" xmlns:wiki="http://marklogic.com/wikipedia">
+  <!--
+                            Copyright (c) 2010 MarkLogic Corporation.
+                            Permission is granted to copy, distribute and/or modify this document
+                            under the terms of the GNU Free Documentation License, Version 1.2
+                            or any later version published by the Free Software Foundation;
+                            with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+                            A copy of the license is included in the section entitled "GNU
+                            Free Documentation License"
+                            
+                            Content derived from http://en.wikipedia.org/wiki/Mr._Saturday_Night and http://en.wikipedia.org/wiki/David_Paymer
+                            Modified in May 2009 by Mark Logic Corporation under the terms of the GNU Free Documentation License.
+                        -->
+  <wiki:name link="/wiki/David_Paymer">David Paymer</wiki:name>
+  <wiki:person link="/wiki/David_Paymer" name="David Paymer">
+    <wiki:oscar year="1992" span="1" winner="false" award="supporting-actor" film-link="/wiki/Mr._Saturday_Night" film-title="Mr. Saturday Night"/>
+    <wiki:birth>
+      <wiki:date>1954-08-30</wiki:date>
+      <wiki:place>
+	<wiki:primary link="/wiki/Oceanside,_New_York">Oceanside, New York</wiki:primary>
+	<wiki:secondary link="/wiki/United_States">U.S.</wiki:secondary>
+      <enrich><woeid xmlns="http://where.yahooapis.com/v1/schema.rng">12589341</woeid><placeTypeName code="9" xmlns="http://where.yahooapis.com/v1/schema.rng">County</placeTypeName><name xmlns="http://where.yahooapis.com/v1/schema.rng">Nassau</name><country code="US" type="Country" xmlns="http://where.yahooapis.com/v1/schema.rng">United States</country><admin1 code="US-NY" type="State" xmlns="http://where.yahooapis.com/v1/schema.rng">New York</admin1><admin2 code="" type="County" xmlns="http://where.yahooapis.com/v1/schema.rng">Nassau</admin2><admin3 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality1 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality2 xmlns="http://where.yahooapis.com/v1/schema.rng"/><postal xmlns="http://where.yahooapis.com/v1/schema.rng"/><centroid xmlns="http://where.yahooapis.com/v1/schema.rng"><latitude>40.746410</latitude><longitude>-73.595650</longitude></centroid><boundingBox xmlns="http://where.yahooapis.com/v1/schema.rng"><southWest><latitude>40.574478</latitude><longitude>-73.768066</longitude></southWest><northEast><latitude>40.918331</latitude><longitude>-73.423233</longitude></northEast></boundingBox><areaRank xmlns="http://where.yahooapis.com/v1/schema.rng">6</areaRank><popRank xmlns="http://where.yahooapis.com/v1/schema.rng">0</popRank></enrich></wiki:place>
+    </wiki:birth>
+    <wiki:description>
+      <p xmlns="http://www.w3.org/1999/xhtml"><b>David Paymer</b> (born August 30, 1954) is an <a class="external" href="http://en.wikipedia.org/wiki/United_States" title="United States">American</a> <a class="external" href="http://en.wikipedia.org/wiki/Actor" title="Actor">actor</a> and <a class="external" href="http://en.wikipedia.org/wiki/Television_director" title="Television director">television director</a>, seen in such films as <i><a class="external" href="http://en.wikipedia.org/wiki/Quiz_Show_(1994_film)" title="Quiz Show (1994 film)">Quiz Show</a></i>, <i><a class="external" href="http://en.wikipedia.org/wiki/Searching_for_Bobby_Fischer" title="Searching for Bobby Fischer">Searching for Bobby Fischer</a></i>, <i><a class="external" href="http://en.wikipedia.org/wiki/City_Slickers" title="City Slickers">City Slickers</a></i>, <i><a class="external" href="http://en.wikipedia.org/wiki/Crazy_People" title="Crazy People">Crazy People</a></i>, <i><a class="external" href="http://en.wikipedia.org/wiki/State_and_Main" title="State and Main">State and Main</a></i>, <i><a class="external" href="http://en.wikipedia.org/wiki/Payback_(film)" title="Payback (film)">Payback</a></i>, <i><a class="external" href="http://en.wikipedia.org/wiki/Get_Shorty" title="Get Shorty">Get Shorty</a></i>, <i><a class="external" href="http://en.wikipedia.org/wiki/Carpool_(film)" title="Carpool (film)">Carpool</a></i>, <i><a class="external" href="http://en.wikipedia.org/wiki/The_American_President_(film)" title="The American President (film)">The American President</a></i>, <i><a class="external" href="http://en.wikipedia.org/wiki/Ocean%27s_Thirteen" title="Ocean's Thirteen">Ocean's Thirteen</a></i>, and <i><a class="external" href="http://en.wikipedia.org/wiki/Drag_Me_to_Hell" title="Drag Me to Hell">Drag Me to Hell</a></i>. Paymer was nominated for an <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Supporting_Actor" title="Academy Award for Best Supporting Actor">Academy Award for Best Supporting Actor</a> in 1992 for <i><a class="external" href="http://en.wikipedia.org/wiki/Mr._Saturday_Night" title="Mr. Saturday Night">Mr. Saturday Night</a>.</i> He played the lead role as the Boss in <i><a class="external" href="http://en.wikipedia.org/wiki/Bartleby_(2001_film)" title="Bartleby (2001 film)">Bartleby</a></i>, an adaptation of <a class="external" href="http://en.wikipedia.org/wiki/Herman_Melville" title="Herman Melville">Herman Melville</a>'s "<a class="external" href="http://en.wikipedia.org/wiki/Bartleby,_the_Scrivener" title="Bartleby, the Scrivener">Bartleby, the Scrivener</a>." He played a <a class="external" href="http://en.wikipedia.org/wiki/Mafia" title="Mafia">mob</a> boss in the short-lived series <i><a class="external" href="http://en.wikipedia.org/wiki/Line_of_Fire" title="Line of Fire">Line of Fire</a></i>.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Personal_life">Personal life</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">Paymer was born in <a class="external" href="http://en.wikipedia.org/wiki/Oceanside,_New_York" title="Oceanside, New York">Oceanside, New York</a>, the son of Sylvia, a <a class="external" href="http://en.wikipedia.org/wiki/Travel_agent" title="Travel agent">travel agent</a>, and Marvin Paymer, a <a class="external" href="http://en.wikipedia.org/wiki/Pianist" title="Pianist">pianist</a> and musical director who originally worked in the <a class="external" href="http://en.wikipedia.org/wiki/Scrap_metal" title="Scrap metal">scrap metal</a> business. The two divorced in 1973. Paymer is <a class="external" href="http://en.wikipedia.org/wiki/Jew" title="Jew">Jewish</a>; his mother was born in <a class="external" href="http://en.wikipedia.org/wiki/Belgium" title="Belgium">Belgium</a> and left for the United States because of the <a class="external" href="http://en.wikipedia.org/wiki/Nazi" title="Nazi">Nazi</a> occupation. Paymer has a brother, Steve, and graduated from the <a class="external" href="http://en.wikipedia.org/wiki/University_of_Michigan" title="University of Michigan">University of Michigan</a> with a <a class="external" href="http://en.wikipedia.org/wiki/Bachelor_of_Arts" title="Bachelor of Arts">BA</a> in theater and psychology. Paymer is married to Liz Georges, with whom he has two children.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Career">Career</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">Paymer's acting career began in 1979 with the film <i><a class="external" href="http://en.wikipedia.org/wiki/The_In-Laws_(1979_film)" title="The In-Laws (1979 film)">The In-Laws</a></i>. Paymer has appeared in over 90 films in his career. He has also appeared in many popular television shows, including <i><a class="external" href="http://en.wikipedia.org/wiki/Taxi_(TV_series)" title="Taxi (TV series)">Taxi</a></i>, <i><a class="external" href="http://en.wikipedia.org/wiki/Happy_Days" title="Happy Days">Happy Days</a></i>, <i><a class="external" href="http://en.wikipedia.org/wiki/L.A._Law" title="L.A. Law">L.A. Law</a></i>, <i><a class="external" href="http://en.wikipedia.org/wiki/Ghost_Whisperer" title="Ghost Whisperer">Ghost Whisperer</a></i> and <i><a class="external" href="http://en.wikipedia.org/wiki/Entourage_(TV_series)" title="Entourage (TV series)">Entourage</a></i>. He has had recurring roles on <i><a class="external" href="http://en.wikipedia.org/wiki/Cheers" title="Cheers">Cheers</a></i>, <i><a class="external" href="http://en.wikipedia.org/wiki/Murphy_Brown" title="Murphy Brown">Murphy Brown</a></i>, and <i><a class="external" href="http://en.wikipedia.org/wiki/The_Larry_Sanders_Show" title="The Larry Sanders Show">The Larry Sanders Show</a></i>. He has also appeared in such films as <i><a class="external" href="http://en.wikipedia.org/wiki/Amistad_(1997_film)" title="Amistad (1997 film)">Amistad</a></i>, <i><a class="external" href="http://en.wikipedia.org/wiki/City_Hall_(film)" title="City Hall (film)">City Hall</a></i>, <i><a class="external" href="http://en.wikipedia.org/wiki/RFK_(film)" title="RFK (film)">RFK</a></i>, and <i><a class="external" href="http://en.wikipedia.org/wiki/Into_the_West_(miniseries)" title="Into the West (miniseries)">Into the West</a></i>. Paymer has also dabbled into the world of animation, lending his voice to the character "Sheldon" in the <a class="external" href="http://en.wikipedia.org/wiki/Kids%27_WB" title="Kids' WB">Kids' WB</a> cartoon series <i><a class="external" href="http://en.wikipedia.org/wiki/Channel_Umptee-3" title="Channel Umptee-3">Channel Umptee-3</a></i>.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Paymer has directed episodes of several popular television series, including <i><a class="external" href="http://en.wikipedia.org/wiki/Gilmore_Girls" title="Gilmore Girls">Gilmore Girls</a></i>, <i><a class="external" href="http://en.wikipedia.org/wiki/Grey%27s_Anatomy" title="Grey's Anatomy">Grey's Anatomy</a></i>, <i><a class="external" href="http://en.wikipedia.org/wiki/One_Tree_Hill_(TV_series)" title="One Tree Hill (TV series)">One Tree Hill</a></i>, <i><a class="external" href="http://en.wikipedia.org/wiki/Melrose_Place_(2009_TV_series)" title="Melrose Place (2009 TV series)">Melrose Place</a></i>, and <i><a class="external" href="http://en.wikipedia.org/wiki/Everwood" title="Everwood">Everwood</a></i>. In the television series <i><a class="external" href="http://en.wikipedia.org/wiki/Angel_(TV_series)" title="Angel (TV series)">Angel</a></i>, there is a running gag about <a class="external" href="http://en.wikipedia.org/wiki/Cordelia_Chase" title="Cordelia Chase">Cordelia Chase</a> socializing with Paymer and his brother, Steve.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Filmography">Filmography</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="References">References</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/name/nm0001601/" rel="nofollow">David Paymer</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+      </ul>
+    </wiki:description>
+  </wiki:person>
+  <wiki:film-title link="/wiki/Mr._Saturday_Night">Mr. Saturday Night</wiki:film-title>
+  <wiki:film link="/wiki/Mr._Saturday_Night" title="Mr. Saturday Night">
+    <wiki:oscar-ref year="1992" span="1" winner="false" award="supporting-actor" person-link="/wiki/David_Paymer" person-name="David Paymer"/>
+    <wiki:producer link="/wiki/Billy_Crystal">Billy Crystal</wiki:producer>
+    <wiki:director link="/wiki/Billy_Crystal">Billy Crystal</wiki:director>
+    <wiki:writer link="/wiki/Babaloo_Mandel">Babaloo Mandel</wiki:writer>
+    <wiki:writer link="/wiki/Lowell_Ganz">Lowell Ganz</wiki:writer>
+    <wiki:distributor link="/wiki/Columbia_Pictures">Columbia Pictures</wiki:distributor>
+    <wiki:starring link="/wiki/Billy_Crystal">Billy Crystal</wiki:starring>
+    <wiki:starring link="/wiki/David_Paymer">David Paymer</wiki:starring>
+    <wiki:starring link="/wiki/Julie_Warner">Julie Warner</wiki:starring>
+    <wiki:starring link="/wiki/Helen_Hunt">Helen Hunt</wiki:starring>
+    <wiki:starring link="/wiki/Ron_Silver">Ron Silver</wiki:starring>
+    <wiki:starring link="/wiki/Jerry_Lewis">Jerry Lewis</wiki:starring>
+    <wiki:description>
+      <wiki:abstract>
+	<p xmlns="http://www.w3.org/1999/xhtml"><i><b>Mr. Saturday Night</b></i> is a 1992 film that marks the directorial debut of its star, <a class="external" href="http://en.wikipedia.org/wiki/Billy_Crystal" title="Billy Crystal">Billy Crystal</a>.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">It focuses on the rise and fall of Buddy Young Jr., a fictional stand-up comedian. Crystal produced and co-wrote the screenplay with the writing duo <a class="external" href="http://en.wikipedia.org/wiki/Babaloo_Mandel" title="Babaloo Mandel">Babaloo Mandel</a> and <a class="external" href="http://en.wikipedia.org/wiki/Lowell_Ganz" title="Lowell Ganz">Lowell Ganz</a>. It was filmed from 1991 to 1992 and released on September 23, 1992, by <a class="external" href="http://en.wikipedia.org/wiki/Columbia_Pictures" title="Columbia Pictures">Columbia Pictures</a>.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">Co-star <a class="external" href="http://en.wikipedia.org/wiki/David_Paymer" title="David Paymer">David Paymer</a> received an <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award" title="Academy Award">Academy Award</a> nomination for Best Supporting Actor.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Plot">Plot</span></h2>
+	<p xmlns="http://www.w3.org/1999/xhtml"><i>Mr. Saturday Night</i> details how stand-up comedian Buddy Young Jr. became a television star, with the help of his brother and manager, Stan, but alienated many of those closest to him once his career began to fade.</p>
+      </wiki:abstract>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Cast">Cast</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Billy_Crystal" title="Billy Crystal">Billy Crystal</a> as Buddy Young, Jr.</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/David_Paymer" title="David Paymer">David Paymer</a> as Stan</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Julie_Warner" title="Julie Warner">Julie Warner</a> as Elaine</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Helen_Hunt" title="Helen Hunt">Helen Hunt</a> as Annie Wells</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Jerry_Orbach" title="Jerry Orbach">Jerry Orbach</a> as Phil Gussman</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Ron_Silver" title="Ron Silver">Ron Silver</a> as Larry Meyerson</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Mary_Mara" title="Mary Mara">Mary Mara</a> as Susan</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Box_office_performance">Box office performance</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Academy_Awards">Academy Awards</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">Paymer was nominated for an <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Supporting_Actor" title="Academy Award for Best Supporting Actor">Academy Award for Best Supporting Actor</a> for his performance. He lost to <a class="external" href="http://en.wikipedia.org/wiki/Gene_Hackman" title="Gene Hackman">Gene Hackman</a> for <i><a class="external" href="http://en.wikipedia.org/wiki/Unforgiven" title="Unforgiven">Unforgiven</a></i>.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Cameos">Cameos</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">Comedian <a class="external" href="http://en.wikipedia.org/wiki/Jerry_Lewis" title="Jerry Lewis">Jerry Lewis</a> has a cameo in the film.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Cultural_references">Cultural references</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Harry_Ritz" title="Harry Ritz">Harry Ritz</a></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Jack_Carter_(comedian)" title="Jack Carter (comedian)">Jack Carter</a></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Phil_Silvers" title="Phil Silvers">Phil Silvers</a></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Myron_Cohen" title="Myron Cohen">Myron Cohen</a></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Shecky_Greene" title="Shecky Greene">Shecky Greene</a></li>
+	<li>Herkie Styles</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Dick_Shawn" title="Dick Shawn">Dick Shawn</a></li>
+	<li>Fat <a class="external" href="http://en.wikipedia.org/wiki/Jack_E._Leonard" title="Jack E. Leonard">Jack E. Leonard</a></li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="DVD_releases">DVD releases</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="See_also">See also</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/List_of_American_films_of_1992" title="List of American films of 1992">List of American films of 1992</a></li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/title/tt0104928/" rel="nofollow"><i>Mr. Saturday Night</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+      </ul>
+    </wiki:description>
+  </wiki:film>
+</wiki:nominee>

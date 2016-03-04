@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="2001" span="1" winner="false" award="lead-actor" xmlns:wiki="http://marklogic.com/wikipedia">
+  <!--
+                            Copyright (c) 2010 MarkLogic Corporation.
+                            Permission is granted to copy, distribute and/or modify this document
+                            under the terms of the GNU Free Documentation License, Version 1.2
+                            or any later version published by the Free Software Foundation;
+                            with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+                            A copy of the license is included in the section entitled "GNU
+                            Free Documentation License"
+                            
+                            Content derived from http://en.wikipedia.org/wiki/In_the_Bedroom and http://en.wikipedia.org/wiki/Tom_Wilkinson
+                            Modified in May 2009 by Mark Logic Corporation under the terms of the GNU Free Documentation License.
+                        -->
+  <wiki:name link="/wiki/Tom_Wilkinson">Tom Wilkinson</wiki:name>
+  <wiki:person link="/wiki/Tom_Wilkinson" name="Tom Wilkinson">
+    <wiki:oscar year="2001" span="1" winner="false" award="lead-actor" film-link="/wiki/In_the_Bedroom" film-title="In the Bedroom"/>
+    <wiki:oscar year="2007" span="1" winner="false" award="supporting-actor" film-link="/wiki/Michael_Clayton_(film)" film-title="Michael Clayton"/>
+    <wiki:image link="http://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TomWilkinsonMar09.jpg/220px-TomWilkinsonMar09.jpg"/>
+    <wiki:birth>
+      <wiki:date>1948-02-05</wiki:date>
+      <wiki:place>
+	<wiki:primary link="/wiki/Leeds">Leeds</wiki:primary>
+	<wiki:secondary link="/wiki/West_Yorkshire">West Yorkshire</wiki:secondary>
+      <enrich><woeid xmlns="http://where.yahooapis.com/v1/schema.rng">12695873</woeid><placeTypeName code="10" xmlns="http://where.yahooapis.com/v1/schema.rng">Local Administrative Area</placeTypeName><name xmlns="http://where.yahooapis.com/v1/schema.rng">Leeds City</name><country code="GB" type="Country" xmlns="http://where.yahooapis.com/v1/schema.rng">United Kingdom</country><admin1 code="GB-ENG" type="Country" xmlns="http://where.yahooapis.com/v1/schema.rng">England</admin1><admin2 code="GB-WYK" type="County" xmlns="http://where.yahooapis.com/v1/schema.rng">West Yorkshire</admin2><admin3 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality1 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality2 xmlns="http://where.yahooapis.com/v1/schema.rng"/><postal xmlns="http://where.yahooapis.com/v1/schema.rng"/><centroid xmlns="http://where.yahooapis.com/v1/schema.rng"><latitude>53.822472</latitude><longitude>-1.546020</longitude></centroid><boundingBox xmlns="http://where.yahooapis.com/v1/schema.rng"><southWest><latitude>53.699020</latitude><longitude>-1.800370</longitude></southWest><northEast><latitude>53.945919</latitude><longitude>-1.291680</longitude></northEast></boundingBox><areaRank xmlns="http://where.yahooapis.com/v1/schema.rng">6</areaRank><popRank xmlns="http://where.yahooapis.com/v1/schema.rng">0</popRank></enrich></wiki:place>
+    </wiki:birth>
+    <wiki:description>
+      <p xmlns="http://www.w3.org/1999/xhtml"><b>Thomas Geoffrey "Tom" Wilkinson</b>, <a class="external" href="http://en.wikipedia.org/wiki/Order_of_the_British_Empire" title="Order of the British Empire">OBE</a> (born 5 February 1948) is an <a class="external" href="http://en.wikipedia.org/wiki/England" title="England">English</a> actor.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Personal_life">Personal life</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">Wilkinson was born in <a class="external" href="http://en.wikipedia.org/wiki/Leeds" title="Leeds">Leeds</a>, <a class="external" href="http://en.wikipedia.org/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a>, the son of Thomas Wilkinson, Sr., a <a class="external" href="http://en.wikipedia.org/wiki/Farmer" title="Farmer">farmer</a>. At the age of four, he moved with his family to <a class="external" href="http://en.wikipedia.org/wiki/Canada" title="Canada">Canada</a>, where they lived for several years before returning to <a class="external" href="http://en.wikipedia.org/wiki/England" title="England">England</a> and running a <a class="external" href="http://en.wikipedia.org/wiki/Pub" title="Pub">pub</a> in <a class="external" href="http://en.wikipedia.org/wiki/Cornwall" title="Cornwall">Cornwall</a>. Wilkinson graduated from the <a class="external" href="http://en.wikipedia.org/wiki/University_of_Kent" title="University of Kent">University of Kent</a>, where he was a member of <a class="external" href="http://en.wikipedia.org/wiki/T24_Drama_Society" title="T24 Drama Society">T24 Drama Society</a> (then named UKCD) and attended the <a class="external" href="http://en.wikipedia.org/wiki/Royal_Academy_of_Dramatic_Art" title="Royal Academy of Dramatic Art">Royal Academy of Dramatic Art</a>.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Wilkinson currently lives in North London with his wife, actress <a class="external" href="http://en.wikipedia.org/wiki/Diana_Hardcastle" title="Diana Hardcastle">Diana Hardcastle</a>, and their two children, Alice, 21, and Mollie, 19.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Career">Career</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">Wilkinson made his television debut in the mid-1970s and worked on several British <a class="external" href="http://en.wikipedia.org/wiki/Television_series" title="Television series">television series</a>, most notably the mini-series <i>First Among Equals</i> (1986). He first gained critical acclaim with his appearance as Mr Pecksniff, in the <a class="external" href="http://en.wikipedia.org/wiki/BBC" title="BBC">BBC</a>â€™s 1994 adaptation of <i><a class="external" href="http://en.wikipedia.org/wiki/Martin_Chuzzlewit_(TV_series)" title="Martin Chuzzlewit (TV series)">Martin Chuzzlewit</a></i>. He made only the occasional film (including a brief appearance in 1995â€™s <i><a class="external" href="http://en.wikipedia.org/wiki/Sense_and_Sensibility_(1995_film)" title="Sense and Sensibility (1995 film)">Sense and Sensibility</a></i>). After becoming part of the ensemble cast of the smash hit <i><a class="external" href="http://en.wikipedia.org/wiki/The_Full_Monty" title="The Full Monty">The Full Monty</a></i> in 1997, a role which earned him a <a class="external" href="http://en.wikipedia.org/wiki/BAFTA_Award_for_Best_Actor_in_a_Supporting_Role" title="BAFTA Award for Best Actor in a Supporting Role">BAFTA</a>, he began to take film roles more frequently, including supporting parts in <i><a class="external" href="http://en.wikipedia.org/wiki/Oscar_and_Lucinda" title="Oscar and Lucinda">Oscar and Lucinda</a></i>, <i><a class="external" href="http://en.wikipedia.org/wiki/Wilde_(film)" title="Wilde (film)">Wilde</a></i>, <i><a class="external" href="http://en.wikipedia.org/wiki/Shakespeare_in_Love" title="Shakespeare in Love">Shakespeare in Love</a></i>, and <i><a class="external" href="http://en.wikipedia.org/wiki/The_Patriot_(2000_film)" title="The Patriot (2000 film)">The Patriot</a></i>.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">His portrayal of the grief stricken father, Matt Fowler, in <a class="external" href="http://en.wikipedia.org/wiki/Todd_Field" title="Todd Field">Todd Field</a>â€™s <i><a class="external" href="http://en.wikipedia.org/wiki/In_the_Bedroom" title="In the Bedroom">In the Bedroom</a></i>, received international praise from critics. For the role, he was named <a class="external" href="http://en.wikipedia.org/wiki/New_York_Film_Critics_Circle_Award_for_Best_Actor" title="New York Film Critics Circle Award for Best Actor">Best Actor</a> of the Year by The New York Film Critics Circle, and went on to be nominated for the <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actor" title="Academy Award for Best Actor">Academy Award for Best Actor</a>. That success was followed up by <i><a class="external" href="http://en.wikipedia.org/wiki/Eternal_Sunshine_of_the_Spotless_Mind" title="Eternal Sunshine of the Spotless Mind">Eternal Sunshine of the Spotless Mind</a></i>, <i><a class="external" href="http://en.wikipedia.org/wiki/Normal_(2003_film)" title="Normal (2003 film)">Normal</a></i>, <i><a class="external" href="http://en.wikipedia.org/wiki/The_Exorcism_of_Emily_Rose" title="The Exorcism of Emily Rose">The Exorcism of Emily Rose</a></i>, <i><a class="external" href="http://en.wikipedia.org/wiki/Batman_Begins" title="Batman Begins">Batman Begins</a></i>, and <i><a class="external" href="http://en.wikipedia.org/wiki/Separate_Lies" title="Separate Lies">Separate Lies</a>.</i></p>
+      <p xmlns="http://www.w3.org/1999/xhtml">In 2007, Wilkinson played the manic depressive attorney Arthur Edens in <i><a class="external" href="http://en.wikipedia.org/wiki/Michael_Clayton_(film)" title="Michael Clayton (film)">Michael Clayton</a></i> and garnered much critical acclaim and a nomination for the Academy Award for Best Supporting Actor. The same year, he played an uncle planning for murder in Woody Allenâ€™s <i><a class="external" href="http://en.wikipedia.org/wiki/Cassandra%27s_Dream" title="Cassandra's Dream">Cassandra's Dream</a></i>.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">He received a <a class="external" href="http://en.wikipedia.org/wiki/Doctor_of_Letters" title="Doctor of Letters">Doctor of Letters</a> <a class="external" href="http://en.wikipedia.org/wiki/Honorary_degree" title="Honorary degree">honorary degree</a> from the University of Kent in July 2001. In the New Yearâ€™s Honours List published 31 December 2004, he was appointed an <a class="external" href="http://en.wikipedia.org/wiki/Order_of_the_British_Empire" title="Order of the British Empire">OBE</a> for services to <a class="external" href="http://en.wikipedia.org/wiki/Drama" title="Drama">drama</a>.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">In 2008, Wilkinson portrayed American patriot <a class="external" href="http://en.wikipedia.org/wiki/Benjamin_Franklin" title="Benjamin Franklin">Benjamin Franklin</a> in the HBO mini-series <i><a class="external" href="http://en.wikipedia.org/wiki/John_Adams_(TV_miniseries)" title="John Adams (TV miniseries)">John Adams</a></i>. In the HBO movie, <i><a class="external" href="http://en.wikipedia.org/wiki/Recount_(film)" title="Recount (film)">Recount</a></i>, Wilkinson, with an uncanny resemblance, also portrayed American <a class="external" href="http://en.wikipedia.org/wiki/Statesman" title="Statesman">statesman</a> and lawyer, <a class="external" href="http://en.wikipedia.org/wiki/James_A._Baker" title="James A. Baker">James A. Baker</a>, in Bakerâ€™s capacity as Chief Counsel to <a class="external" href="http://en.wikipedia.org/wiki/George_W._Bush" title="George W. Bush">George W. Bush</a> during the 2000 U.S. Presidential Election controversy, receiving an <a class="external" href="http://en.wikipedia.org/wiki/Primetime_Emmy_Award_for_Outstanding_Supporting_Actor_%E2%80%93_Miniseries_or_a_Movie" title="Primetime Emmy Award for Outstanding Supporting Actor â€“ Miniseries or a Movie">Emmy Award</a> for the former and a nomination for the latter. He also received a <a class="external" href="http://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Supporting_Actor_%E2%80%93_Series,_Miniseries_or_Television_Film" title="Golden Globe Award for Best Supporting Actor â€“ Series, Miniseries or Television Film">Golden Globe Award</a> and <a class="external" href="http://en.wikipedia.org/wiki/Screen_Actors_Guild_Award_for_Outstanding_Performance_by_a_Male_Actor_in_a_Miniseries_or_Television_Movie" title="Screen Actors Guild Award for Outstanding Performance by a Male Actor in a Miniseries or Television Movie">Screen Actors Guild Award</a> nomination for his role in <i><a class="external" href="http://en.wikipedia.org/wiki/John_Adams_(TV_miniseries)" title="John Adams (TV miniseries)">John Adams</a></i>. Wilkinson stars in the horror comedy Burke and Hare, who is directed by <a class="external" href="http://en.wikipedia.org/wiki/John_Landis" title="John Landis">John Landis</a>. His 2010 role as Harvard professor / covert CIA high official in <a class="external" href="http://en.wikipedia.org/wiki/Roman_Polanski" title="Roman Polanski">Roman Polanski</a>â€™s <i><a class="external" href="http://en.wikipedia.org/wiki/The_Ghost_Writer_(film)" title="The Ghost Writer (film)">The Ghost Writer</a></i> was well noticed.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Filmography">Filmography</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="References">References</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/name/nm929489/" rel="nofollow">Tom Wilkinson</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	<li><a href="http://www.screenonline.org.uk/people/id/565446/" rel="nofollow">Tom Wilkinson</a> at the <a class="external" href="http://en.wikipedia.org/wiki/British_Film_Institute" title="British Film Institute">British Film Institute</a>'s <a class="external" href="http://en.wikipedia.org/wiki/Screenonline" title="Screenonline">Screenonline</a></li>
+      </ul>
+    </wiki:description>
+  </wiki:person>
+  <wiki:film-title link="/wiki/In_the_Bedroom">In the Bedroom</wiki:film-title>
+  <wiki:film link="/wiki/In_the_Bedroom" title="In the Bedroom">
+    <wiki:oscar-ref year="2001" span="1" winner="false" award="lead-actor" person-link="/wiki/Tom_Wilkinson" person-name="Tom Wilkinson"/>
+    <wiki:oscar-ref year="2001" span="1" winner="false" award="lead-actress" person-link="/wiki/Sissy_Spacek" person-name="Sissy Spacek"/>
+    <wiki:oscar-ref year="2001" span="1" winner="false" award="supporting-actress" person-link="/wiki/Marisa_Tomei" person-name="Marisa Tomei"/>
+    <wiki:oscar year="2001" span="1" winner="false" award="best-picture"/>
+    <wiki:producer link="/wiki/Todd_Field">Todd Field</wiki:producer>
+    <wiki:producer link="/wiki/Ross_Katz">Ross Katz</wiki:producer>
+    <wiki:director link="/wiki/Todd_Field">Todd Field</wiki:director>
+    <wiki:distributor link="/wiki/Miramax_Films">Miramax Films</wiki:distributor>
+    <wiki:starring link="/wiki/Sissy_Spacek">Sissy Spacek</wiki:starring>
+    <wiki:starring link="/wiki/Tom_Wilkinson">Tom Wilkinson</wiki:starring>
+    <wiki:starring link="/wiki/Marisa_Tomei">Marisa Tomei</wiki:starring>
+    <wiki:starring link="/wiki/Nick_Stahl">Nick Stahl</wiki:starring>
+    <wiki:starring link="/wiki/Celia_Weston">Celia Weston</wiki:starring>
+    <wiki:starring link="/wiki/William_Mapother">William Mapother</wiki:starring>
+    <wiki:description>
+      <p xmlns="http://www.w3.org/1999/xhtml"><i><b>In the Bedroom</b></i> is a 2001 American film directed by <a class="external" href="http://en.wikipedia.org/wiki/Todd_Field" title="Todd Field">Todd Field</a>, and dedicated to <a class="external" href="http://en.wikipedia.org/wiki/Andre_Dubus" title="Andre Dubus">Andre Dubus</a>, whose <a class="external" href="http://en.wikipedia.org/wiki/Short_story" title="Short story">short story</a> <i><a class="external" href="http://en.wikipedia.org/wiki/Killings" title="Killings">Killings</a></i> is the source material on which the screenplay, by Field and Robert Festinger, is based. The film stars <a class="external" href="http://en.wikipedia.org/wiki/Tom_Wilkinson" title="Tom Wilkinson">Tom Wilkinson</a>, <a class="external" href="http://en.wikipedia.org/wiki/Sissy_Spacek" title="Sissy Spacek">Sissy Spacek</a>, <a class="external" href="http://en.wikipedia.org/wiki/Nick_Stahl" title="Nick Stahl">Nick Stahl</a>, <a class="external" href="http://en.wikipedia.org/wiki/Marisa_Tomei" title="Marisa Tomei">Marisa Tomei</a> and <a class="external" href="http://en.wikipedia.org/wiki/William_Mapother" title="William Mapother">William Mapother</a>.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">On its release the film was internationally praised for its direction, script, and actor's performances, possessing a 93% rating on <a class="external" href="http://en.wikipedia.org/wiki/Rotten_Tomatoes" title="Rotten Tomatoes">Rotten Tomatoes</a>, and a 100 percent rating among the "Cream of the Crop" critics. It went on to become the highest grossing non-<a class="external" href="http://en.wikipedia.org/wiki/IMAX" title="IMAX">IMAX</a> film in history to never reach the top 10 in a given week.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">With the exception of <i><a class="external" href="http://en.wikipedia.org/wiki/Napoleon_Dynamite" title="Napoleon Dynamite">Napoleon Dynamite</a></i>, <i>In the Bedroom</i> had the largest box office of any film premiering at the <a class="external" href="http://en.wikipedia.org/wiki/Sundance_Film_Festival" title="Sundance Film Festival">Sundance Film Festival</a> in the last decade.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml"><a class="external" href="http://en.wikipedia.org/wiki/A.O._Scott" title="A.O. Scott">A.O. Scott</a> included the film in his <a class="external" href="http://en.wikipedia.org/wiki/The_New_York_Times" title="The New York Times">The New York Times</a> Magazine essay "<i>The most important films of the past decade â€” and why they mattered</i>."</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">The film was nominated for the following <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award" title="Academy Award">Academy Awards</a>:</p>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture" title="Academy Award for Best Picture">Best Picture</a></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Writing_Adapted_Screenplay" title="Academy Award for Writing Adapted Screenplay">Best Writing, Screenplay Based on Material Previously Published</a></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actor" title="Academy Award for Best Actor">Actor in a Leading Role</a> (Wilkinson)</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actress" title="Academy Award for Best Actress">Actress in a Leading Role</a> (Spacek)</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Supporting_Actress" title="Academy Award for Best Supporting Actress">Actress in a Supporting Role</a> (Tomei)</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Plot">Plot</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">The film is set in Mid-Coast <a class="external" href="http://en.wikipedia.org/wiki/Maine" title="Maine">Maine</a>. The story concerns a young man, Frank Fowler (Stahl), who is in love with an older woman with children, Natalie Strout (Tomei). Fowler is applying to graduate school for <a class="external" href="http://en.wikipedia.org/wiki/Architecture" title="Architecture">architecture</a> but contemplating staying in town, working in the fishing industry to be near Natalie. Natalie's ex-husband, Richard Strout (Mapother), is violent and abusive.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Midway through the movie Richard kills Frank during a confrontation at Natalie's house, following a domestic dispute. Richard is set free on <a class="external" href="http://en.wikipedia.org/wiki/Bail" title="Bail">bail</a>, which causes Frank's parents, Dr. Matt Fowler (Wilkinson) and Ruth Fowler (Spacek), a <a class="external" href="http://en.wikipedia.org/wiki/Choir" title="Choir">choir</a> conductress, to become increasingly angry at seeing Richard running around town. Their anger grows when they learn that the lack of a direct <a class="external" href="http://en.wikipedia.org/wiki/Witness" title="Witness">witness</a> to their son's shooting allows the killer to avoid murder charges, since the <a class="external" href="http://en.wikipedia.org/wiki/District_attorney" title="District attorney">district attorney</a> may have difficulty proving that Richard killed Frank intentionally, as opposed to accidental manslaughter in a struggle, as defense attorney Marla Keyes (<a class="external" href="http://en.wikipedia.org/wiki/Karen_Allen" title="Karen Allen">Karen Allen</a>) argues. Later, Dr. Fowler, believing the court system cannot bring justice for his son, abducts, kills Richard and disposes of the body, with the help of a friend. Dr. Fowler returns home to his wife.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">The title refers to the rear compartment of a <a class="external" href="http://en.wikipedia.org/wiki/Lobster_trap" title="Lobster trap">lobster trap</a> known as the "bedroom" and the fact that it can only hold up to two <a class="external" href="http://en.wikipedia.org/wiki/Lobster" title="Lobster">lobsters</a> before they begin to turn on each other.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Wins_and_nominations">Wins and nominations</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">Awards won are in <b>bold text</b>.</p>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award" title="Academy Award">Academy Awards</a>:
+<ol>
+	    <li>Best Actor (Tom Wilkinson)</li>
+	    <li>Best Actress (Sissy Spacek)</li>
+	    <li>Best Picture</li>
+	    <li>Best Screenplay - Adapted (Robert Festinger and Todd Field)</li>
+	    <li>Best Supporting Actress (Marisa Tomei)</li>
+	  </ol>
+</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/BAFTA_Awards" title="BAFTA Awards">BAFTA Awards</a>:
+<ol>
+	    <li>Best Actor (Tom Wilkinson)</li>
+	    <li>Best Actress (Sissy Spacek)</li>
+	  </ol>
+</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Broadcast_Film_Critics_Association_Awards_2001" title="Broadcast Film Critics Association Awards 2001">Broadcast Film Critics</a>:
+<ol>
+	    <li><b>Best Actress</b> (Sissy Spacek)</li>
+	    <li>Best Film</li>
+	    <li>Best Supporting Actress (Marisa Tomei)</li>
+	  </ol>
+</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Chicago_Film_Critics_Association_Awards_2001" title="Chicago Film Critics Association Awards 2001">Chicago Film Critics</a>:
+<ol>
+	    <li>Best Actor (Tom Wilkinson)</li>
+	    <li>Best Actress (Sissy Spacek)</li>
+	    <li>Best Film</li>
+	    <li>Best Supporting Actress (Marisa Tomei)</li>
+	  </ol>
+</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Dallas-Fort_Worth_Film_Critics_Association_Awards_2001" title="Dallas-Fort Worth Film Critics Association Awards 2001">Dallas-Fort Worth Film Critics</a>:
+<ol>
+	    <li><b>Best Actress</b> (Sissy Spacek)</li>
+	    <li><b>Best Supporting Actress</b> (Marisa Tomei)</li>
+	  </ol>
+</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Florida_Film_Critics_Circle_Awards_2001" title="Florida Film Critics Circle Awards 2001">Florida Film Critics</a>:
+<ol>
+	    <li><b>Best Actress</b> (Sissy Spacek)</li>
+	  </ol>
+</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Golden_Globe_Awards_2001" title="Golden Globe Awards 2001">Golden Globe Awards</a>:
+<ol>
+	    <li><b>Best Actress - Drama</b> (Sissy Spacek)</li>
+	    <li>Best Film - Drama</li>
+	    <li>Best Supporting Actress (Marisa Tomei)</li>
+	  </ol>
+</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Independent_Spirit_Awards" title="Independent Spirit Awards">Independent Spirit Awards</a>:
+<ol>
+	    <li><b>Best Actor</b> (Tom Wilkinson)</li>
+	    <li><b>Best Actress</b> (Sissy Spacek)</li>
+	    <li><b>Best First Feature</b></li>
+	    <li>Best Screenplay (Robert Festinger and Todd Field)</li>
+	  </ol>
+</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Los_Angeles_Film_Critics_Association_Awards_2001" title="Los Angeles Film Critics Association Awards 2001">Los Angeles Film Critics</a>:
+<ol>
+	    <li><b>Best Actress</b> (Sissy Spacek)</li>
+	    <li><b>Best Film</b></li>
+	  </ol>
+</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/National_Board_of_Review_Awards_2001" title="National Board of Review Awards 2001">National Board of Review</a>:
+<ol>
+	    <li><b>Best Director</b> (Todd Field)</li>
+	    <li><b>Best Screenplay</b> (Robert Festinger and Todd Field)</li>
+	  </ol>
+</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/New_York_Film_Critics_Circle_Awards_2001" title="New York Film Critics Circle Awards 2001">New York Film Critics</a>:
+<ol>
+	    <li><b>Best Actor</b> (Tom Wilkinson)</li>
+	    <li><b>Best Actress</b> (Sissy Spacek)</li>
+	    <li><b>Best First Film</b> (Todd Field)</li>
+	  </ol>
+</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Online_Film_Critics_Society_Awards_2001" title="Online Film Critics Society Awards 2001">Online Film Critics</a>:
+<ol>
+	    <li>Best Actor (Tom Wilkinson)</li>
+	    <li>Best Actress (Sissy Spacek)</li>
+	    <li>Best Breakthrough Filmmaker (Todd Field)</li>
+	    <li>Best Director (Todd Field)</li>
+	    <li>Best Film</li>
+	    <li>Best Screenplay - Adapted (Robert Festinger and Todd Field)</li>
+	    <li>Best Supporting Actress (Marisa Tomei)</li>
+	  </ol>
+</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Satellite_Awards_2001" title="Satellite Awards 2001">Satellite Awards</a>:
+<ol>
+	    <li><b>Best Actress</b> (Sissy Spacek)</li>
+	    <li><b>Best Film - Drama</b></li>
+	    <li><b>Best Screenplay</b></li>
+	    <li>Best Supporting Actress - Drama (Marisa Tomei)</li>
+	  </ol>
+</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Screen_Actors_Guild_Awards" title="Screen Actors Guild Awards">Screen Actors' Guild Awards</a>:
+<ol>
+	    <li>Best Actor (Tom Wilkinson)</li>
+	    <li>Best Actress (Sissy Spacek)</li>
+	    <li>Best Ensemble Cast</li>
+	  </ol>
+</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Southeastern_Film_Critics_Association_Awards_2001" title="Southeastern Film Critics Association Awards 2001">Southeastern Film Critics</a>:
+<ol>
+	    <li><b>Best Actress</b> (Sissy Spacek)</li>
+	    <li><b>Best Supporting Actress</b> (Marisa Tomei)</li>
+	  </ol>
+</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/USC_Scripter_Award" title="USC Scripter Award">USC Scripter Award</a>:
+<ol>
+	    <li>USC Scripter Award (Robert Festinger and Todd Field (screenwriters);Andre Dubus (author))</li>
+	  </ol>
+</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Vancouver_Film_Critics_Circle" title="Vancouver Film Critics Circle">Vancouver Film Critics' Circle</a>:
+<ol>
+	    <li><b>Best Actress</b> (Sissy Spacek)</li>
+	  </ol>
+</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Film_archives">Film archives</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">A 35mm safety print is housed in the permanent collection of the <a class="external" href="http://en.wikipedia.org/wiki/UCLA_Film_%26_Television_Archive" title="UCLA Film &amp; Television Archive">UCLA Film &amp; Television Archive</a></p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="References">References</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/title/tt0247425/" rel="nofollow"><i>In the Bedroom</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	<li><a href="http://www.metacritic.com/film/titles/in-the-bedroom" rel="nofollow"><i>In the Bedroom</i></a> at <a class="external" href="http://en.wikipedia.org/wiki/Metacritic" title="Metacritic">Metacritic</a></li>
+	<li><a href="http://www.rottentomatoes.com/m/in_the_bedroom/" rel="nofollow"><i>In the Bedroom</i></a> at <a class="external" href="http://en.wikipedia.org/wiki/Rotten_Tomatoes" title="Rotten Tomatoes">Rotten Tomatoes</a></li>
+      </ul>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://query.nytimes.com/gst/fullpage.html?res=9E0DE7D91F3BF93AA3575BC0A9649C8B63&amp;scp=3&amp;sq=%22Todd%20Field%22%20%22In%20the%20Bedroom%22%20DVD&amp;st=cse/" rel="nofollow">'In the Bedroom' Without Frills</a> â€“ 9 August 2002, New York Times</li>
+	<li><a href="http://query.nytimes.com/gst/fullpage.html?res=990DE0DD113FF930A35752C0A9659C8B63&amp;scp=6&amp;sq=%22Todd%20Field%22%20%22In%20the%20Bedroom%22%20DVD&amp;st=cse/" rel="nofollow">The Best DVD's of 2002</a> â€“ 3 January 2003, New York Times</li>
+	<li><a href="http://www.thefilmjournal.com/issue1/inthebedroom.html" rel="nofollow">[1]</a>, The Film Journal Review of In the Bedroom by Rick Curnutte</li>
+	<li><a href="http://www.amazon.com/dp/1401359248" rel="nofollow">In the Bedroom: A Screenplay</a></li>
+	<li><a href="http://www.amazon.com/dp/1400030773" rel="nofollow">In the Bedroom</a>, preface by Todd Field</li>
+      </ul>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://internationalpsychoanalysis.net/2009/04/30/i-know-not-seems-in-the-bedroom-directed-by-todd-field-reviewed-by-harvey-roy-greenberg/" rel="nofollow">International Psychoanalysis, <i>I Know Not Seems</i> by Harvey Roy Greenberg</a> 30 April 2009</li>
+      </ul>
+    </wiki:description>
+  </wiki:film>
+</wiki:nominee>

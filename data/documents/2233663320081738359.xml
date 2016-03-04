@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="1963" span="1" winner="false" award="supporting-actor" xmlns:wiki="http://marklogic.com/wikipedia">
+  <!--
+                            Copyright (c) 2010 MarkLogic Corporation.
+                            Permission is granted to copy, distribute and/or modify this document
+                            under the terms of the GNU Free Documentation License, Version 1.2
+                            or any later version published by the Free Software Foundation;
+                            with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+                            A copy of the license is included in the section entitled "GNU
+                            Free Documentation License"
+                            
+                            Content derived from http://en.wikipedia.org/wiki/Tom_Jones_(film) and http://en.wikipedia.org/wiki/Hugh_Griffith
+                            Modified in May 2009 by Mark Logic Corporation under the terms of the GNU Free Documentation License.
+                        -->
+  <wiki:name link="/wiki/Hugh_Griffith">Hugh Griffith</wiki:name>
+  <wiki:person link="/wiki/Hugh_Griffith" name="Hugh Griffith">
+    <wiki:oscar year="1959" span="1" winner="true" award="supporting-actor" film-link="/wiki/Ben-Hur_(1959_film)" film-title="Ben-Hur"/>
+    <wiki:oscar year="1963" span="1" winner="false" award="supporting-actor" film-link="/wiki/Tom_Jones_(film)" film-title="Tom Jones"/>
+    <wiki:image link="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Hugh_Griffith_in_Ben_Hur_trailer.jpg/250px-Hugh_Griffith_in_Ben_Hur_trailer.jpg"/>
+    <wiki:birth>
+      <wiki:date>1912-05-30</wiki:date>
+      <wiki:place>
+	<wiki:primary link="/wiki/Anglesey">Anglesey</wiki:primary>
+	<wiki:secondary link="/wiki/Wales">Wales</wiki:secondary>
+      <enrich><woeid xmlns="http://where.yahooapis.com/v1/schema.rng">12578049</woeid><placeTypeName code="8" xmlns="http://where.yahooapis.com/v1/schema.rng">Country</placeTypeName><name xmlns="http://where.yahooapis.com/v1/schema.rng">Wales</name><country code="GB" type="Country" xmlns="http://where.yahooapis.com/v1/schema.rng">United Kingdom</country><admin1 code="GB-WLS" type="Country" xmlns="http://where.yahooapis.com/v1/schema.rng">Wales</admin1><admin2 xmlns="http://where.yahooapis.com/v1/schema.rng"/><admin3 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality1 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality2 xmlns="http://where.yahooapis.com/v1/schema.rng"/><postal xmlns="http://where.yahooapis.com/v1/schema.rng"/><centroid xmlns="http://where.yahooapis.com/v1/schema.rng"><latitude>52.404449</latitude><longitude>-3.985120</longitude></centroid><boundingBox xmlns="http://where.yahooapis.com/v1/schema.rng"><southWest><latitude>51.374550</latitude><longitude>-5.413860</longitude></southWest><northEast><latitude>53.435829</latitude><longitude>-2.649830</longitude></northEast></boundingBox><areaRank xmlns="http://where.yahooapis.com/v1/schema.rng">9</areaRank><popRank xmlns="http://where.yahooapis.com/v1/schema.rng">0</popRank></enrich></wiki:place>
+    </wiki:birth>
+    <wiki:death>
+      <wiki:date>14 May 1980</wiki:date>
+      <wiki:place>
+	<wiki:primary link="/wiki/London">London</wiki:primary>
+	<wiki:secondary link="/wiki/England">England</wiki:secondary>
+      </wiki:place>
+    </wiki:death>
+    <wiki:description>
+      <p xmlns="http://www.w3.org/1999/xhtml"><b>Hugh Emrys Griffith</b> (30 May 1912 â€“ 14 May 1980) was a <a class="external" href="http://en.wikipedia.org/wiki/Wales" title="Wales">Welsh</a> film, stage and television <a class="external" href="http://en.wikipedia.org/wiki/Actor" title="Actor">actor</a>.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Life_and_career">Life and career</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">Griffith was born in Marianglas, <a class="external" href="http://en.wikipedia.org/wiki/Anglesey" title="Anglesey">Anglesey</a>, <a class="external" href="http://en.wikipedia.org/wiki/Wales" title="Wales">Wales</a>, the son of Mary and William Griffith. He was educated at local schools and attempted to gain entrance to university, but failed the English examination. He was then urged to make a career in banking, becoming a bank clerk and transferring to <a class="external" href="http://en.wikipedia.org/wiki/London" title="London">London</a> to be closer to acting opportunities. Just as he was making progress and gained admission to the <a class="external" href="http://en.wikipedia.org/wiki/Royal_Academy_of_Dramatic_Arts" title="Royal Academy of Dramatic Arts">Royal Academy of Dramatic Arts</a>, he had to suspend his plans in order to serve in the army in <a class="external" href="http://en.wikipedia.org/wiki/India" title="India">India</a> and <a class="external" href="http://en.wikipedia.org/wiki/Burma" title="Burma">Burma</a> during <a class="external" href="http://en.wikipedia.org/wiki/World_War_II" title="World War II">World War II</a>. He resumed his acting career in 1947.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Griffith began his film career in British films during the late 1940s, and by the 1950s was also appearing in <a class="external" href="http://en.wikipedia.org/wiki/Cinema_of_the_United_States" title="Cinema of the United States">Hollywood</a> films. He also had a successful career as a <a class="external" href="http://en.wikipedia.org/wiki/Theatre" title="Theatre">stage</a> actor. In 1958, he was nominated for a <a class="external" href="http://en.wikipedia.org/wiki/Tony_Award" title="Tony Award">Tony Award</a> for <a class="external" href="http://en.wikipedia.org/wiki/Tony_Award_for_Best_Performance_by_a_Leading_Actor_in_a_Play" title="Tony Award for Best Performance by a Leading Actor in a Play">Best Actor in a Play</a> for his performance in <i><a class="external" href="http://en.wikipedia.org/wiki/Look_Homeward,_Angel_(play)" title="Look Homeward, Angel (play)">Look Homeward, Angel</a></i> on <a class="external" href="http://en.wikipedia.org/wiki/Broadway_theatre" title="Broadway theatre">Broadway</a>. He won the <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Supporting_Actor" title="Academy Award for Best Supporting Actor">Academy Award for Best Supporting Actor</a> for his role in <i><a class="external" href="http://en.wikipedia.org/wiki/Ben-Hur_(1959_film)" title="Ben-Hur (1959 film)">Ben-Hur</a></i> (1959), and received a second nomination for his role in <i><a class="external" href="http://en.wikipedia.org/wiki/Tom_Jones_(film)" title="Tom Jones (film)">Tom Jones</a></i> (1963). In 1960, he appeared in an <a class="external" href="http://en.wikipedia.org/wiki/The_Citadel_(1960)" title="The Citadel (1960)">adaptation</a> of <a class="external" href="http://en.wikipedia.org/wiki/A._J._Cronin" title="A. J. Cronin">A. J. Cronin</a>'s <i><a class="external" href="http://en.wikipedia.org/wiki/The_Citadel_(novel)" title="The Citadel (novel)">The Citadel</a></i>, and in 1968, he appeared as the magistrate in <i><a class="external" href="http://en.wikipedia.org/wiki/Oliver!_(film)" title="Oliver! (film)">Oliver!</a></i>. His later career was often blighted by his chronic <a class="external" href="http://en.wikipedia.org/wiki/Alcoholism" title="Alcoholism">alcoholism</a>.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">On television, he had major roles in <i><a class="external" href="http://en.wikipedia.org/wiki/Quatermass_II" title="Quatermass II">Quatermass II</a></i> (1955) and <i><a class="external" href="http://en.wikipedia.org/wiki/Clochemerle" title="Clochemerle">Clochemerle</a></i> (1972), but is best remembered for his role as lecherous funeral director Caradog Lloyd-Evans in the 1978 comedy <i><a class="external" href="http://en.wikipedia.org/wiki/Grand_Slam_(1978_film)" title="Grand Slam (1978 film)">Grand Slam</a></i>.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">He died from a <a class="external" href="http://en.wikipedia.org/wiki/Myocardial_infarction" title="Myocardial infarction">heart attack</a> in <a class="external" href="http://en.wikipedia.org/wiki/London" title="London">London</a> in 1980.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Griffith received an honorary degree from the <a class="external" href="http://en.wikipedia.org/wiki/University_of_Wales,_Bangor" title="University of Wales, Bangor">University of Wales, Bangor</a> in 1980.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Filmography">Filmography</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="References">References</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/name/nm0341518/" rel="nofollow">Hugh Griffith</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	<li><a href="http://www.ibdb.com/person.asp?ID=43159" rel="nofollow">Hugh Griffith</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Broadway_Database" title="Internet Broadway Database">Internet Broadway Database</a></li>
+	<li><a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=9454986" rel="nofollow">Hugh Griffith</a> at <a class="external" href="http://en.wikipedia.org/wiki/Find_a_Grave" title="Find a Grave">Find a Grave</a></li>
+      </ul>
+    </wiki:description>
+  </wiki:person>
+  <wiki:film-title link="/wiki/Tom_Jones_(film)">Tom Jones</wiki:film-title>
+  <wiki:film link="/wiki/Tom_Jones_(film)" title="Tom Jones">
+    <wiki:oscar-ref year="1963" span="1" winner="false" award="lead-actor" person-link="/wiki/Albert_Finney" person-name="Albert Finney"/>
+    <wiki:oscar-ref year="1963" span="1" winner="true" award="best-director" person-link="/wiki/Tony_Richardson" person-name="Tony Richardson"/>
+    <wiki:oscar-ref year="1963" span="1" winner="false" award="supporting-actor" person-link="/wiki/Hugh_Griffith" person-name="Hugh Griffith"/>
+    <wiki:oscar-ref year="1963" span="1" winner="false" award="supporting-actress" person-link="/wiki/Diane_Cilento" person-name="Diane Cilento"/>
+    <wiki:oscar-ref year="1963" span="1" winner="false" award="supporting-actress" person-link="/wiki/Edith_Evans" person-name="Edith Evans"/>
+    <wiki:oscar-ref year="1963" span="1" winner="false" award="supporting-actress" person-link="/wiki/Joyce_Redman" person-name="Joyce Redman"/>
+    <wiki:oscar year="1963" span="1" winner="true" award="best-picture"/>
+    <wiki:producer link="/wiki/Michael_Holden">Michael Holden</wiki:producer>
+    <wiki:producer link="/w/index.php?title=Oscar_Lewenstein&amp;action=edit&amp;redlink=1">Oscar Lewenstein</wiki:producer>
+    <wiki:producer link="/wiki/Michael_Balcon">Michael Balcon</wiki:producer>
+    <wiki:director link="/wiki/Tony_Richardson">Tony Richardson</wiki:director>
+    <wiki:writer link="/wiki/John_Osborne">John Osborne</wiki:writer>
+    <wiki:distributor link="/w/index.php?title=Lopert_Pictures&amp;action=edit&amp;redlink=1">Lopert Pictures</wiki:distributor>
+    <wiki:distributor link="/wiki/United_Artists">United Artists</wiki:distributor>
+    <wiki:starring link="/wiki/Albert_Finney">Albert Finney</wiki:starring>
+    <wiki:starring link="/wiki/Susannah_York">Susannah York</wiki:starring>
+    <wiki:starring link="/wiki/Hugh_Griffith">Hugh Griffith</wiki:starring>
+    <wiki:starring link="/wiki/Edith_Evans">Edith Evans</wiki:starring>
+    <wiki:starring link="/wiki/Diane_Cilento">Diane Cilento</wiki:starring>
+    <wiki:starring link="/wiki/Joyce_Redman">Joyce Redman</wiki:starring>
+    <wiki:description>
+      <p xmlns="http://www.w3.org/1999/xhtml"><i><b>Tom Jones</b></i> is a 1963 British <a class="external" href="http://en.wikipedia.org/wiki/Comedy_film" title="Comedy film">comedy film</a>. It is an adaptation of <a class="external" href="http://en.wikipedia.org/wiki/Henry_Fielding" title="Henry Fielding">Henry Fielding</a>'s classic novel <i><a class="external" href="http://en.wikipedia.org/wiki/The_History_of_Tom_Jones,_a_Foundling" title="The History of Tom Jones, a Foundling">The History of Tom Jones, a Foundling</a></i> (1749), starring <a class="external" href="http://en.wikipedia.org/wiki/Albert_Finney" title="Albert Finney">Albert Finney</a> as the titular hero. It was one of the most critically acclaimed and popular comedies of its time, winning four <a class="external" href="http://en.wikipedia.org/wiki/Academy_Awards" title="Academy Awards">Academy Awards</a>. The film was directed by <a class="external" href="http://en.wikipedia.org/wiki/Tony_Richardson" title="Tony Richardson">Tony Richardson</a> and the <a class="external" href="http://en.wikipedia.org/wiki/Screenplay" title="Screenplay">screenplay</a> was adapted by playwright <a class="external" href="http://en.wikipedia.org/wiki/John_Osborne" title="John Osborne">John Osborne</a>. The film is notable for its unusual comic style: the opening sequence is performed in the style of a <a class="external" href="http://en.wikipedia.org/wiki/Silent_movie" title="Silent movie">silent movie</a>, and characters sometimes break the <a class="external" href="http://en.wikipedia.org/wiki/Fourth_wall" title="Fourth wall">fourth wall</a> by looking directly into the camera and addressing the audience.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Plot">Plot</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">The story begins with a silent-movie sequence during which the good Squire Allworthy (<a class="external" href="http://en.wikipedia.org/wiki/George_Devine" title="George Devine">George Devine</a>) returns home after a lengthy stay in London and discovers a baby in his bed. Thinking that his barber, Mr. Partridge (<a class="external" href="http://en.wikipedia.org/wiki/Jack_MacGowran" title="Jack MacGowran">Jack MacGowran</a>), and one of his servants, Jenny Jones (<a class="external" href="http://en.wikipedia.org/wiki/Joyce_Redman" title="Joyce Redman">Joyce Redman</a>), have "birthed" the infant out of lust, the squire banishes them and chooses to raise little Tom Jones as if he were his own son.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Tom (<a class="external" href="http://en.wikipedia.org/wiki/Albert_Finney" title="Albert Finney">Albert Finney</a>) grows up to be a lively young man whose good looks and kind heart make him very popular with the opposite sex. However, he truly loves only one woman, the gentle Sophie Western (<a class="external" href="http://en.wikipedia.org/wiki/Susannah_York" title="Susannah York">Susannah York</a>), who returns his passion. Sadly, Tom is stigmatized as a <a class="external" href="http://en.wikipedia.org/wiki/Illegitimacy" title="Illegitimacy">bastard</a> and cannot wed a young lady of her high station. Sophie, too, must hide her feelings while her aunt (<a class="external" href="http://en.wikipedia.org/wiki/Edith_Evans" title="Edith Evans">Edith Evans</a>) and her father, Squire Western (<a class="external" href="http://en.wikipedia.org/wiki/Hugh_Griffith" title="Hugh Griffith">Hugh Griffith</a>) try to coerce her to marry a more suitable man - a man whom she hates.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">This young man is Blifil (<a class="external" href="http://en.wikipedia.org/wiki/David_Warner_(actor)" title="David Warner (actor)">David Warner</a>, in his film debut), the son of the Squire's widowed sister Bridget (<a class="external" href="http://en.wikipedia.org/wiki/Rachel_Kempson" title="Rachel Kempson">Rachel Kempson</a>). Although he is of legitimate birth, he is an ill-natured fellow with plenty of hypocritical 'virtue' but none of Tom's warmth, honesty, or high spirits. When Bridget dies unexpectedly, Blifil intercepts a letter which his mother intended for her brother's eyes only. What this letter contains is not revealed until the end of the movie; however, after his mother's funeral, Blifil and his two tutors, Mr. Thwackum (<a class="external" href="http://en.wikipedia.org/wiki/Peter_Bull" title="Peter Bull">Peter Bull</a>) and Mr. Square (<a class="external" href="http://en.wikipedia.org/wiki/John_Moffatt" title="John Moffatt">John Moffatt</a>), join forces to convince the squire that Tom is a villain. Allworthy gives Tom a small cash legacy and sorrowfully sends him out into the world to seek his fortune.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">In his road-traveling odyssey, Tom is knocked unconscious while defending the good name of his beloved Sophie and robbed of his legacy. He also flees from a jealous Irishman who falsely accuses him of having an affair with his wife, engages in deadly <a class="external" href="http://en.wikipedia.org/wiki/Swordsmanship" title="Swordsmanship">swordfights</a>, meets his alleged father and his alleged mother, saves a certain Mrs. Waters from an evil Redcoat Officer, and later beds the same Mrs. Waters. In a celebrated scene, Tom and Mrs. Waters sit opposite each other in the dining room of the Upton Inn, wordlessly consuming an enormous meal while gazing lustfully at each other.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Meanwhile, Sophie runs away from home soon after Tom's banishment to escape the attentions of the loathed Blifil. After narrowly missing each other at the Upton Inn, Tom and Sophie arrive separately in London. There, Tom attracts the attention of Lady Bellaston (<a class="external" href="http://en.wikipedia.org/wiki/Joan_Greenwood" title="Joan Greenwood">Joan Greenwood</a>), a promiscuous noblewoman over 40 years of age. She is rich, beautiful, and completely <a class="external" href="http://en.wikipedia.org/wiki/Amoralism" title="Amoralism">amoral</a>. Eventually, Tom ends up at <a class="external" href="http://en.wikipedia.org/wiki/Tyburn,_London" title="Tyburn, London">Tyburn Gaol</a>, facing a boisterous hanging crowd after two blackguardly agents of Blifil frame him for robbery and <a class="external" href="http://en.wikipedia.org/wiki/Attempted_murder" title="Attempted murder">attempted murder</a>. Allworthy learns the contents of the mysterious letter: Tom is not Jenny Jones's child, but Bridget's illegitimate son and Allworthy's nephew. Furthermore, since Blifil knew this, concealed it, and tried to destroy his half-brother, he is now in disgrace and disinherited. Allworthy uses this knowledge to get Tom a pardon, but Tom has already been conveyed to the gallows; his hanging is begun, but is interrupted by Squire Western, who cuts him down and takes him to Sophie. Tom now has permission to court Sophie, and all ends well with Tom embracing Sophie with Squire Western's blessing.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Production">Production</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml"><a class="external" href="http://en.wikipedia.org/wiki/Bridgwater" title="Bridgwater">Bridgwater</a>'s Castle Street was used as a location in several scenes.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Releases">Releases</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">The film was reissued in 1989; for this release, Richardson trimmed the film by seven minutes. The original full-length version is now once again available on DVD.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Awards_and_nominations">Awards and nominations</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml"><b>Wins</b></p>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture" title="Academy Award for Best Picture">Best Picture</a></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Director" title="Academy Award for Best Director">Best Director</a></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Original_Music_Score" title="Academy Award for Original Music Score">Best Music, Score - Substantially Original</a> (<a class="external" href="http://en.wikipedia.org/wiki/John_Addison" title="John Addison">John Addison</a>)</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Writing_Adapted_Screenplay" title="Academy Award for Writing Adapted Screenplay">Best Writing, Screenplay Based on Material from Another Medium</a></li>
+      </ul>
+      <p xmlns="http://www.w3.org/1999/xhtml"><b>Nominations</b></p>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actor" title="Academy Award for Best Actor">Best Actor in a Leading Role</a> (Albert Finney)</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Supporting_Actor" title="Academy Award for Best Supporting Actor">Best Actor in a Supporting Role</a> (Hugh Griffith)</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Supporting_Actress" title="Academy Award for Best Supporting Actress">Best Actress in a Supporting Role</a> (Diane Cilento)</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Supporting_Actress" title="Academy Award for Best Supporting Actress">Best Actress in a Supporting Role</a> (Dame Edith Evans)</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Supporting_Actress" title="Academy Award for Best Supporting Actress">Best Actress in a Supporting Role</a> (Joyce Redman)</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Art_Direction" title="Academy Award for Best Art Direction">Best Art Direction-Set Decoration, Color</a> (<a class="external" href="http://en.wikipedia.org/wiki/Ralph_W._Brinton" title="Ralph W. Brinton">Ralph W. Brinton</a>, <a class="external" href="http://en.wikipedia.org/wiki/Ted_Marshall" title="Ted Marshall">Ted Marshall</a>, <a class="external" href="http://en.wikipedia.org/wiki/Jocelyn_Herbert" title="Jocelyn Herbert">Jocelyn Herbert</a>, <a class="external" href="http://en.wikipedia.org/wiki/Josie_MacAvin" title="Josie MacAvin">Josie MacAvin</a>).</li>
+      </ul>
+      <p xmlns="http://www.w3.org/1999/xhtml"><i>Tom Jones</i> is the only film in the history of the Academy in which three actresses were nominated for Best Supporting Actress Oscar. All three nominations were unsuccessful, however, as the Academy Award in this category went to <a class="external" href="http://en.wikipedia.org/wiki/Margaret_Rutherford" title="Margaret Rutherford">Margaret Rutherford</a> for her role in <i><a class="external" href="http://en.wikipedia.org/wiki/The_V.I.P.s" title="The V.I.P.s">The V.I.P.s</a></i>.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml"><b>Wins</b></p>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/BAFTA_Award_for_Best_Film" title="BAFTA Award for Best Film">Best Film from any source</a></li>
+	<li>Best British Film</li>
+	<li>Best British Screenplay (John Osborne)</li>
+      </ul>
+      <p xmlns="http://www.w3.org/1999/xhtml"><b>Nominations</b></p>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>Best British Actor (Albert Finney)</li>
+	<li>Best British Actor (Hugh Griffith)</li>
+	<li>Best British Actress (Edith Evans)</li>
+      </ul>
+      <p xmlns="http://www.w3.org/1999/xhtml"><b>Wins</b></p>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>Best English-Language Foreign Film</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_-_Musical_or_Comedy" title="Golden Globe Award for Best Motion Picture - Musical or Comedy">Best Motion Picture - Comedy</a></li>
+	<li>Most Promising Newcomer - Male (Albert Finney) (tied with Stathis Giallelis for <i>America, America</i> (1963) and Robert Walker Jr. for <i>The Ceremony</i> (1963).</li>
+      </ul>
+      <p xmlns="http://www.w3.org/1999/xhtml"><b>Nominations</b></p>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>Best Motion Picture Actor - Musical/Comedy (Albert Finney)</li>
+	<li>Best Motion Picture Director (Tony Richardson)</li>
+	<li>Best Supporting Actor (Hugh Griffith)</li>
+	<li>Best Supporting Actress (Joan Greenwood)</li>
+      </ul>
+      <p xmlns="http://www.w3.org/1999/xhtml"><b><a class="external" href="http://en.wikipedia.org/wiki/New_York_Film_Critics_Circle_Awards" title="New York Film Critics Circle Awards">New York Film Critics Circle Awards</a></b></p>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/New_York_Film_Critics_Circle_Award_for_Best_Actor" title="New York Film Critics Circle Award for Best Actor">Best Actor</a> (Albert Finney)</li>
+	<li>Best Director (Tony Richardson)</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/New_York_Film_Critics_Circle_Award_for_Best_Picture" title="New York Film Critics Circle Award for Best Picture">Best Picture</a></li>
+      </ul>
+      <p xmlns="http://www.w3.org/1999/xhtml"><b><a class="external" href="http://en.wikipedia.org/wiki/Venice_Film_Festival" title="Venice Film Festival">Venice Film Festival</a></b></p>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><b>Volpi Cup</b>: Best Actor (Albert Finney)</li>
+	<li><b>Golden Lion</b>: Tony Richardson (nom)</li>
+      </ul>
+      <p xmlns="http://www.w3.org/1999/xhtml"><b><a class="external" href="http://en.wikipedia.org/wiki/Writers%27_Guild_of_Great_Britain" title="Writers' Guild of Great Britain">Writers' Guild of Great Britain</a></b></p>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>Best British Comedy Screenplay (John Osborne)</li>
+      </ul>
+      <p xmlns="http://www.w3.org/1999/xhtml"><b><a class="external" href="http://en.wikipedia.org/wiki/Grammy_Awards" title="Grammy Awards">Grammy Awards</a></b></p>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>Best Original Score from a Motion Picture (John Addison)</li>
+	<li>Best horse stunts and fencing sequence by stuntman &amp; stunt director (Ray Austin)</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Cast">Cast</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Albert_Finney" title="Albert Finney">Albert Finney</a> as Tom Jones</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Susannah_York" title="Susannah York">Susannah York</a> as Sophie Western</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Hugh_Griffith" title="Hugh Griffith">Hugh Griffith</a> as Squire Western</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Edith_Evans" title="Edith Evans">Edith Evans</a> as Miss Western</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Joan_Greenwood" title="Joan Greenwood">Joan Greenwood</a> as Lady Bellaston</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Diane_Cilento" title="Diane Cilento">Diane Cilento</a> as Molly Seagrim</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/George_Devine" title="George Devine">George Devine</a> as Squire Allworthy</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/David_Tomlinson" title="David Tomlinson">David Tomlinson</a> as Lord Fellamar</li>
+	<li><a class="external" href="http://en.wikipedia.org/w/index.php?title=Rosalind_Atkinson&amp;action=edit&amp;redlink=1" title="Rosalind Atkinson (page does not exist)">Rosalind Atkinson</a> as Mrs. Millar</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Wilfrid_Lawson_(actor)" title="Wilfrid Lawson (actor)">Wilfrid Lawson</a> as Black George</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Rosalind_Knight" title="Rosalind Knight">Rosalind Knight</a> as Mrs. Fitzpatrick</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Jack_MacGowran" title="Jack MacGowran">Jack MacGowran</a> as Partridge</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Freda_Jackson" title="Freda Jackson">Freda Jackson</a> as Mrs. Seagrim</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/David_Warner_(actor)" title="David Warner (actor)">David Warner</a> as Blifil</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Joyce_Redman" title="Joyce Redman">Joyce Redman</a> as Mrs. Waters/Jenny Jones</li>
+	<li><a class="external" href="http://en.wikipedia.org/w/index.php?title=James_Cairncross&amp;action=edit&amp;redlink=1" title="James Cairncross (page does not exist)">James Cairncross</a> as Parson Supple</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Rachel_Kempson" title="Rachel Kempson">Rachel Kempson</a> as Bridget Allworthy</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Peter_Bull" title="Peter Bull">Peter Bull</a> as Thwackum</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Angela_Baddeley" title="Angela Baddeley">Angela Baddeley</a> as Mrs. Wilkins</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/George_A._Cooper" title="George A. Cooper">George A. Cooper</a> as Fitzpatrick</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Jack_Stewart" title="Jack Stewart">Jack Stewart</a> as MacLachlan</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Patsy_Rowlands" title="Patsy Rowlands">Patsy Rowlands</a> as Honour</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/John_Moffatt_(actor)" title="John Moffatt (actor)">John Moffatt</a> as Square</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Avis_Bunnage" title="Avis Bunnage">Avis Bunnage</a> as Inn Keeper</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Mark_Dignam" title="Mark Dignam">Mark Dignam</a> as Lieutenant</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Michael_Brennan_(actor)" title="Michael Brennan (actor)">Michael Brennan</a> as Jailer at Newgate</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Lynn_Redgrave" title="Lynn Redgrave">Lynn Redgrave</a> as Susan</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Redmond_Phillips" title="Redmond Phillips">Redmond Phillips</a> as Lawyer Dowling</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Julian_Glover" title="Julian Glover">Julian Glover</a> as Northerton</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Ray_Austin" title="Ray Austin">Ray Austin</a> as Henchman &amp; Stunt Dierctor</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="See_also">See also</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/BFI_Top_100_British_films" title="BFI Top 100 British films">BFI Top 100 British films</a></li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="References">References</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/title/tt0057590/" rel="nofollow"><i>Tom Jones</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	<li><a href="http://www.allmovie.com/work/50295" rel="nofollow"><i>Tom Jones</i></a> at <a class="external" href="http://en.wikipedia.org/wiki/Allmovie" title="Allmovie">Allmovie</a></li>
+	<li><a href="http://tcmdb.com/title/title.jsp?stid=93524" rel="nofollow"><i>Tom Jones</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Turner_Classic_Movies" title="Turner Classic Movies">TCM Movie Database</a></li>
+	<li><a href="http://www.rottentomatoes.com/m/tom_jones/" rel="nofollow"><i>Tom Jones</i></a> at <a class="external" href="http://en.wikipedia.org/wiki/Rotten_Tomatoes" title="Rotten Tomatoes">Rotten Tomatoes</a></li>
+      </ul>
+    </wiki:description>
+  </wiki:film>
+</wiki:nominee>

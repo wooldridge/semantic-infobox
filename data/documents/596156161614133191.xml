@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="1946" span="1" winner="true" award="lead-actor" xmlns:wiki="http://marklogic.com/wikipedia">
+	<!-- 
+		Copyright 2009-2012 MarkLogic Corporation.
+		Permission is granted to copy, distribute and/or modify this document
+		under the terms of the GNU Free Documentation License, Version 1.2
+		or any later version published by the Free Software Foundation;
+		with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+		A copy of the license is included in the section entitled "GNU
+		Free Documentation License
+	-->
+	<wiki:name link="/wiki/Fredric_March">Fredric March</wiki:name>
+	<wiki:person link="/wiki/Fredric_March" name="Fredric March">
+		<wiki:oscar year="1930" span="2" winner="false" award="lead-actor" film-link="/wiki/The_Royal_Family_of_Broadway" film-title="The Royal Family of Broadway"/>
+		<wiki:oscar year="1931" span="2" winner="true" award="lead-actor" film-link="/wiki/Dr._Jekyll_and_Mr._Hyde_(1931_film)" film-title="Dr. Jekyll and Mr. Hyde"/>
+		<wiki:oscar year="1937" span="1" winner="false" award="lead-actor" film-link="/wiki/A_Star_Is_Born_(1937_film)" film-title="A Star Is Born"/>
+		<wiki:oscar year="1946" span="1" winner="true" award="lead-actor" film-link="/wiki/The_Best_Years_of_Our_Lives" film-title="The Best Years of Our Lives"/>
+		<wiki:oscar year="1951" span="1" winner="false" award="lead-actor" film-link="/wiki/Death_of_a_Salesman" film-title="Death of a Salesman"/>
+		<wiki:image link="http://upload.wikimedia.org/wikipedia/commons/thumb/3/33/FredricMarch1939.jpg/180px-FredricMarch1939.jpg"/>
+		<wiki:birth>
+			<wiki:date>1897-08-31</wiki:date>
+			<wiki:place>
+				<wiki:primary link="/wiki/Racine,_Wisconsin">Racine, Wisconsin</wiki:primary>
+				<wiki:secondary link=""/>
+			<enrich><woeid xmlns="http://where.yahooapis.com/v1/schema.rng">12590585</woeid><placeTypeName code="9" xmlns="http://where.yahooapis.com/v1/schema.rng">County</placeTypeName><name xmlns="http://where.yahooapis.com/v1/schema.rng">Racine</name><country code="US" type="Country" xmlns="http://where.yahooapis.com/v1/schema.rng">United States</country><admin1 code="US-WI" type="State" xmlns="http://where.yahooapis.com/v1/schema.rng">Wisconsin</admin1><admin2 code="" type="County" xmlns="http://where.yahooapis.com/v1/schema.rng">Racine</admin2><admin3 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality1 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality2 xmlns="http://where.yahooapis.com/v1/schema.rng"/><postal xmlns="http://where.yahooapis.com/v1/schema.rng"/><centroid xmlns="http://where.yahooapis.com/v1/schema.rng"><latitude>42.727261</latitude><longitude>-88.032631</longitude></centroid><boundingBox xmlns="http://where.yahooapis.com/v1/schema.rng"><southWest><latitude>42.610870</latitude><longitude>-88.307838</longitude></southWest><northEast><latitude>42.843639</latitude><longitude>-87.757423</longitude></northEast></boundingBox><areaRank xmlns="http://where.yahooapis.com/v1/schema.rng">6</areaRank><popRank xmlns="http://where.yahooapis.com/v1/schema.rng">0</popRank></enrich></wiki:place>
+		</wiki:birth>
+		<wiki:death>
+			<wiki:date>April 14, 1975 (aged 77)</wiki:date>
+			<wiki:place>
+				<wiki:primary link="/wiki/Los_Angeles,_California">Los Angeles,
+					California</wiki:primary>
+				<wiki:secondary link=""/>
+			</wiki:place>
+		</wiki:death>
+		<wiki:description>
+			<wiki:abstract>
+				<p xmlns="http://www.w3.org/1999/xhtml"><b>Fredric March</b> (August 31 1897 – April
+					14 1975) was an <a class="external" href="http://en.wikipedia.org/wiki/United_States" title="United States">American</a> two-time <a class="external" href="http://en.wikipedia.org/wiki/Academy_Awards" title="Academy Awards">Academy Award</a> and <a class="external" href="http://en.wikipedia.org/wiki/Tony_Award" title="Tony Award">Tony
+						Award</a>-winning <a class="external" href="http://en.wikipedia.org/wiki/Stage_(theatre)" title="Stage (theatre)">stage</a> and film <a class="external" href="http://en.wikipedia.org/wiki/Actor" title="Actor">actor</a>.</p>
+			</wiki:abstract>
+			<wiki:personal>
+				<p xmlns="http://www.w3.org/1999/xhtml">March was born <b>Ernest Frederick McIntyre
+						Bickel</b> in <a class="external" href="http://en.wikipedia.org/wiki/Racine,_Wisconsin" title="Racine, Wisconsin">Racine</a>, <a class="external" href="http://en.wikipedia.org/wiki/Wisconsin" title="Wisconsin">Wisconsin</a>, the son of Cora Brown Marcher and John F. Bickel. He
+					attended the Winslow Elementary School (established in 1855), Racine High
+					School, and the <a class="external" href="http://en.wikipedia.org/wiki/University_of_Wisconsin-Madison" title="University of Wisconsin-Madison">University of Wisconsin-Madison</a>
+					where he was a member of <a class="external" href="http://en.wikipedia.org/wiki/Alpha_Delta_Phi" title="Alpha Delta Phi">Alpha Delta Phi</a>. He began a career as a banker, but an emergency <a class="external" href="http://en.wikipedia.org/wiki/Appendectomy" title="Appendectomy">appendectomy</a> caused him to reevaluate his life, and
+					in 1920 he began working as an extra in movies made in <a class="external" href="http://en.wikipedia.org/wiki/New_York_City" title="New York City">New
+						York City</a>, using a shortened form of his mother's maiden name, Marcher.
+					He appeared on <a class="external" href="http://en.wikipedia.org/wiki/Broadway_theatre" title="Broadway theatre">Broadway</a> in 1926, and by the end of the decade
+					signed a film contract with <a class="external" href="http://en.wikipedia.org/wiki/Paramount_Pictures" title="Paramount Pictures">Paramount Pictures</a>.</p>
+			</wiki:personal>
+			<wiki:career>
+				<p xmlns="http://www.w3.org/1999/xhtml">March won an <a class="external" href="http://en.wikipedia.org/wiki/Academy_Awards" title="Academy Awards">Oscar</a> nomination in 1930 for <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/The_Royal_Family_of_Broadway" title="The Royal Family of Broadway">The Royal Family of Broadway</a>
+					</i>, in which he played a role based upon <a class="external" href="http://en.wikipedia.org/wiki/John_Barrymore" title="John Barrymore">John Barrymore</a>. He won the <a class="external" href="http://en.wikipedia.org/wiki/Oscar_for_Best_Actor" title="Oscar for Best Actor">Oscar for Best Actor</a> in 1932 for <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Dr._Jekyll_and_Mr._Hyde_(1931_film)" title="Dr. Jekyll and Mr. Hyde (1931 film)">Dr. Jekyll and Mr. Hyde</a>
+					</i>, and again in 1946 for <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/The_Best_Years_of_Our_Lives" title="The Best Years of Our Lives">The Best Years of Our Lives</a>
+					</i>. On <a class="external" href="http://en.wikipedia.org/wiki/March_25" title="March 25">March 25</a>, <a class="external" href="http://en.wikipedia.org/wiki/1954" title="1954">1954</a>, March
+					co-hosted the <a class="external" href="http://en.wikipedia.org/wiki/26th_Academy_Awards" title="26th Academy Awards">26th Annual Academy Awards</a> ceremony from <a class="external" href="http://en.wikipedia.org/wiki/New_York_City" title="New York City">New York City</a>, with co-host <a class="external" href="http://en.wikipedia.org/wiki/Donald_O%27Connor" title="Donald O'Connor">Donald O'Connor</a> in <a class="external" href="http://en.wikipedia.org/wiki/Los_Angeles" title="Los Angeles">Los
+						Angeles</a>.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">March was one of the few actors to resist
+					signing long-term contracts with the studios, and was able to <a class="external" href="http://en.wikipedia.org/wiki/Freelance" title="Freelance">freelance</a> and pick and choose his roles, in the
+					process also avoiding typecasting. By this time, he was working on Broadway as
+					often as in <a class="external" href="http://en.wikipedia.org/wiki/Hollywood" title="Hollywood">Hollywood</a>, and his screen career was not as prolific
+					as it had been.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">March, however, won two Best Actor <a class="external" href="http://en.wikipedia.org/wiki/Tony_Awards" title="Tony Awards">Tony Awards</a>: in 1947 for the play <i>
+						<a class="external" href="http://en.wikipedia.org/w/index.php?title=Years_Ago&amp;action=edit&amp;redlink=1" title="Years Ago (page does not exist)">Years Ago</a>
+					</i>, written by <a class="external" href="http://en.wikipedia.org/wiki/Ruth_Gordon" title="Ruth Gordon">Ruth
+						Gordon</a>; and in 1957 for his performance as James Tyrone in the original
+					Broadway production of <a class="external" href="http://en.wikipedia.org/wiki/Eugene_O%27Neill" title="Eugene O'Neill">Eugene O'Neill</a>'s <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Long_Day%27s_Journey_Into_Night" title="Long Day's Journey Into Night">Long Day's Journey Into Night</a>
+					</i>.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">March's neighbor in Connecticut, <a class="external" href="http://en.wikipedia.org/wiki/Playwright" title="Playwright">playwright</a>
+					<a class="external" href="http://en.wikipedia.org/wiki/Arthur_Miller" title="Arthur Miller">Arthur Miller</a>, was thought to favor March to
+					inaugurate the part of <a class="external" href="http://en.wikipedia.org/wiki/Willy_Loman" title="Willy Loman">Willy
+						Loman</a> in the <a class="external" href="http://en.wikipedia.org/wiki/Pulitzer_Prize" title="Pulitzer Prize">Pulitzer Prize</a>-winning <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Death_of_a_Salesman" title="Death of a Salesman">Death of a Salesman</a>
+					</i> (1949). However, March read the play and turned down the role, whereupon
+					director <a class="external" href="http://en.wikipedia.org/wiki/Elia_Kazan" title="Elia Kazan">Elia Kazan</a> cast <a class="external" href="http://en.wikipedia.org/wiki/Lee_J._Cobb" title="Lee J. Cobb">Lee J.
+						Cobb</a> as Willy, and <a class="external" href="http://en.wikipedia.org/wiki/Arthur_Kennedy" title="Arthur Kennedy">Arthur Kennedy</a> as one of Willy's sons, <a class="external" href="http://en.wikipedia.org/wiki/Biff_Loman" title="Biff Loman">Biff
+						Loman</a>, two men that the director had worked with in the film <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Boomerang_(1947_film)" title="Boomerang (1947 film)">Boomerang</a>
+					</i> (1947). March later regretted turning down the role and finally played
+					Willy Loman in <a class="external" href="http://en.wikipedia.org/wiki/Columbia_Pictures" title="Columbia Pictures">Columbia Pictures</a>'s 1951 film version of the
+					play, directed by <a class="external" href="http://en.wikipedia.org/wiki/Laslo_Benedek" title="Laslo Benedek">Laslo Benedek</a>. Perhaps March's greatest late-in-life role was in <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Inherit_the_Wind" title="Inherit the Wind">Inherit the Wind</a>
+					</i> (1960), opposite <a class="external" href="http://en.wikipedia.org/wiki/Spencer_Tracy" title="Spencer Tracy">Spencer Tracy</a>.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">When March underwent major surgery for <a class="external" href="http://en.wikipedia.org/wiki/Prostate_cancer" title="Prostate cancer">prostate cancer</a> in 1970, it seemed his career
+					was over, yet he managed to give one last great performance in <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/The_Iceman_Cometh_(1973_film)" title="The Iceman Cometh (1973 film)">The Iceman Cometh</a>
+					</i> (1973), as the complicated Irish bartender, Harry Hope. Coincidentally,
+					co-star <a class="external" href="http://en.wikipedia.org/wiki/Robert_Ryan" title="Robert Ryan">Robert Ryan</a> was entering the final stages of <a class="external" href="http://en.wikipedia.org/wiki/Lung_cancer" title="Lung cancer">lung cancer</a>, so the film was the last for both March
+					and Ryan.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">March has a star on the <a class="external" href="http://en.wikipedia.org/wiki/Hollywood_Walk_of_Fame" title="Hollywood Walk of Fame">Hollywood Walk of Fame</a> at 1616 Vine
+					Street.</p>
+			</wiki:career>
+			<wiki:personal>
+				<p xmlns="http://www.w3.org/1999/xhtml">Although March died in <a class="external" href="http://en.wikipedia.org/wiki/Los_Angeles" title="Los Angeles">Los
+						Angeles</a>, <a class="external" href="http://en.wikipedia.org/wiki/California" title="California">California</a> at the age of 77 from cancer, he considered the rural
+					Litchfield County town of New Milford, Connecticut his primary residence since
+					the 1930s. This property was subsequently home to American playwright <a class="external" href="http://en.wikipedia.org/wiki/Lillian_Hellman" title="Lillian Hellman">Lillian Hellman</a> as well as former Secretary of
+					State <a class="external" href="http://en.wikipedia.org/wiki/Henry_Kissinger" title="Henry Kissinger">Henry Kissinger</a>. March was married to actress <a class="external" href="http://en.wikipedia.org/wiki/Florence_Eldridge" title="Florence Eldridge">Florence Eldridge</a> from 1927 until his death,
+					and they had two adopted children. He was buried at his estate in <a class="external" href="http://en.wikipedia.org/wiki/New_Milford,_Connecticut" title="New Milford, Connecticut">New Milford, Connecticut</a>.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">Throughout his life, he and his wife were
+					supporters of the <a class="external" href="http://en.wikipedia.org/wiki/United_States_Democratic_Party" title="United States Democratic Party">Democratic Party</a> and <a class="external" href="http://en.wikipedia.org/wiki/Liberalism" title="Liberalism">liberal</a> political causes. His support for the
+					Republican (<a class="external" href="http://en.wikipedia.org/wiki/Second_Spanish_Republic" title="Second Spanish Republic">Second Spanish Republic</a>) side during the
+						<a class="external" href="http://en.wikipedia.org/wiki/Spanish_Civil_War" title="Spanish Civil War">Spanish Civil War</a> was particularly
+					controversial.</p>
+			</wiki:personal>
+			<h2 xmlns="http://www.w3.org/1999/xhtml">
+				<span class="mw-headline">External links</span>
+			</h2>
+			<ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/name/nm0545298/" title="http://www.imdb.com/name/nm0545298/" rel="nofollow">Fredric March</a>
+					at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	<li>
+					<a href="http://film.virtual-history.com/person.php?personid=283" title="http://film.virtual-history.com/person.php?personid=283" rel="nofollow">Photographs of Fredric March</a>
+				</li>
+	<li><a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=20066" title="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=20066" rel="nofollow">Fredric March</a> at <a class="external" href="http://en.wikipedia.org/wiki/Find_A_Grave" title="Find A Grave">Find A
+						Grave</a></li>
+      </ul>
+		</wiki:description>
+	</wiki:person>
+	<wiki:film-title link="/wiki/The_Best_Years_of_Our_Lives">The Best Years of Our
+		Lives</wiki:film-title>
+	<wiki:film link="/wiki/The_Best_Years_of_Our_Lives" title="The Best Years of Our Lives">
+		<wiki:oscar-ref year="1946" span="1" winner="true" award="lead-actor" person-link="/wiki/Fredric_March" person-name="Fredric March"/>
+		<wiki:oscar-ref year="1946" span="1" winner="true" award="best-director" person-link="/wiki/William_Wyler" person-name="William Wyler"/>
+		<wiki:oscar-ref year="1946" span="1" winner="true" award="supporting-actor" person-link="/wiki/Harold_Russell" person-name="Harold Russell"/>
+		<wiki:oscar year="1946" span="1" winner="true" award="best-picture"/>
+		<wiki:producer link="/wiki/Samuel_Goldwyn">Samuel Goldwyn</wiki:producer>
+		<wiki:director link="/wiki/William_Wyler">William Wyler</wiki:director>
+		<wiki:writer link="/wiki/Robert_E._Sherwood">Robert E. Sherwood</wiki:writer>
+		<wiki:writer link="/wiki/MacKinlay_Kantor">MacKinlay Kantor</wiki:writer>
+		<wiki:distributor link="/wiki/RKO_Radio_Pictures">RKO Radio Pictures</wiki:distributor>
+		<wiki:starring link="/wiki/Fredric_March">Fredric March</wiki:starring>
+		<wiki:starring link="/wiki/Myrna_Loy">Myrna Loy</wiki:starring>
+		<wiki:starring link="/wiki/Dana_Andrews">Dana Andrews</wiki:starring>
+		<wiki:starring link="/wiki/Teresa_Wright">Teresa Wright</wiki:starring>
+		<wiki:starring link="/wiki/Virginia_Mayo">Virginia Mayo</wiki:starring>
+		<wiki:language link="/wiki/English_language">English</wiki:language>
+		<wiki:description>
+			<wiki:abstract>
+				<p xmlns="http://www.w3.org/1999/xhtml"><i>
+						<b>The Best Years of Our Lives</b>
+					</i> (1946) is an <a class="external" href="http://en.wikipedia.org/wiki/Cinema_of_the_United_States" title="Cinema of the United States">American</a>
+					<a class="external" href="http://en.wikipedia.org/wiki/Drama_film" title="Drama film">drama film</a> about three servicemen trying to piece
+					their lives back together after coming home from <a class="external" href="http://en.wikipedia.org/wiki/World_War_II" title="World War II">World
+						War II</a>.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml"><a class="external" href="http://en.wikipedia.org/wiki/Samuel_Goldwyn" title="Samuel Goldwyn">Samuel Goldwyn</a> was motivated to produce the film after his wife Frances
+					read an <a class="external" href="http://en.wikipedia.org/wiki/August_7" title="August 7">7 August</a>
+					<a class="external" href="http://en.wikipedia.org/wiki/1944" title="1944">1944</a> article in <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Time_(magazine)" title="Time (magazine)">Time</a>
+					</i> magazine about the difficulties experienced by war veterans returning to
+					civilian life. Goldwyn hired former war correspondent <a class="external" href="http://en.wikipedia.org/wiki/MacKinlay_Kantor" title="MacKinlay Kantor">MacKinlay Kantor</a> to write the story, which was
+					first published as a novella, <i>Glory for Me</i>, which was written in <a class="external" href="http://en.wikipedia.org/wiki/Blank_verse" title="Blank verse">blank verse</a>. <a class="external" href="http://en.wikipedia.org/wiki/Robert_Sherwood" title="Robert Sherwood">Robert Sherwood</a> then wrote the screenplay. It was directed by <a class="external" href="http://en.wikipedia.org/wiki/William_Wyler" title="William Wyler">William Wyler</a>, with cinematography by <a class="external" href="http://en.wikipedia.org/wiki/Gregg_Toland" title="Gregg Toland">Gregg Toland</a>. The film won seven <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award" title="Academy Award">Academy Awards</a>.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">The <a class="external" href="http://en.wikipedia.org/wiki/Ensemble_cast" title="Ensemble cast">ensemble cast</a> includes <a class="external" href="http://en.wikipedia.org/wiki/Fredric_March" title="Fredric March">Fredric March</a>, <a class="external" href="http://en.wikipedia.org/wiki/Myrna_Loy" title="Myrna Loy">Myrna
+						Loy</a>, <a class="external" href="http://en.wikipedia.org/wiki/Dana_Andrews" title="Dana Andrews">Dana
+						Andrews</a>, <a class="external" href="http://en.wikipedia.org/wiki/Teresa_Wright" title="Teresa Wright">Teresa Wright</a>, <a class="external" href="http://en.wikipedia.org/wiki/Virginia_Mayo" title="Virginia Mayo">Virginia Mayo</a> and <a class="external" href="http://en.wikipedia.org/wiki/Hoagy_Carmichael" title="Hoagy Carmichael">Hoagy Carmichael</a>. It also features <a class="external" href="http://en.wikipedia.org/wiki/Harold_Russell" title="Harold Russell">Harold Russell</a>, a U.S. Naval officer who had lost
+					both his hands in combat.</p>
+			</wiki:abstract>
+			<wiki:plot>
+				<h2 xmlns="http://www.w3.org/1999/xhtml">
+					<span class="mw-headline">Plot</span>
+				</h2>
+				<p xmlns="http://www.w3.org/1999/xhtml">After World War II, demobilized servicemen
+					Fred Derry (<a class="external" href="http://en.wikipedia.org/wiki/Dana_Andrews" title="Dana Andrews">Dana Andrews</a>), Homer Parrish (<a class="external" href="http://en.wikipedia.org/wiki/Harold_Russell" title="Harold Russell">Harold Russell</a>) and Al Stephenson (<a class="external" href="http://en.wikipedia.org/wiki/Frederic_March" title="Frederic March">Frederic March</a>) meet while hitching a ride home in a bomber to Boone
+					City, a fictional Midwestern city, patterned after <a class="external" href="http://en.wikipedia.org/wiki/Cincinnati" title="Cincinnati">Cincinnati</a>, <a class="external" href="http://en.wikipedia.org/wiki/Ohio" title="Ohio">Ohio</a>. Fred was an
+					Army Air Forces captain and bombardier with the <a class="external" href="http://en.wikipedia.org/wiki/Eighth_Air_Force" title="Eighth Air Force">Eighth Air Force</a> in <a class="external" href="http://en.wikipedia.org/wiki/Europe" title="Europe">Europe</a>, who
+					still suffers from nightmares of combat. Homer had been in the Navy, losing both
+					of his hands from burns suffered when his <a class="external" href="http://en.wikipedia.org/wiki/Aircraft_carrier" title="Aircraft carrier">aircraft carrier</a> was sunk. For replacements, he
+					has mechanical hook <a class="external" href="http://en.wikipedia.org/wiki/Prostheses" title="Prostheses">prostheses</a>. Al served as an infantry sergeant in the <a class="external" href="http://en.wikipedia.org/wiki/25th_Infantry_Division_(United_States)" title="25th Infantry Division (United States)">25th Infantry Division</a>,
+					fighting in the Pacific.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">Prior to the war, Al had worked as a loan
+					officer for the Corn Belt Savings and Loan bank in Boone City. Though a mature
+					man with a loving family, his patient wife Milly (<a class="external" href="http://en.wikipedia.org/wiki/Myrna_Loy" title="Myrna Loy">Myrna
+						Loy</a>), adult daughter Peggy (<a class="external" href="http://en.wikipedia.org/wiki/Teresa_Wright" title="Teresa Wright">Teresa Wright</a>) and son Rob, he has trouble readjusting to civilian
+					life, as do his two chance acquaintances.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">The bank, anticipating an increase in loans
+					to returning war veterans, promotes Al to Vice President in charge of the small
+					loan department because of his war experience. However, after he approves a
+					chancy loan to a veteran, Al's boss Mr. Milton (<a class="external" href="http://en.wikipedia.org/wiki/Ray_Collins_(actor)" title="Ray Collins (actor)">Ray Collins</a>) advises him not to gamble on
+					further loans without collateral. At his welcome-home dinner, a slightly-drunk
+					Al gives a stirring speech, acknowledging that people will think that the bank
+					is gambling with the shareholders' money if he has his way, "And they'll be
+					right; we'll be gambling on the future of this country!" Mr. Milton applauds his
+					sentiments, but Al remarks later, "He'll back me up wholeheartedly until the
+					next time I help some little guy, then I'll have to fight it out again."</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">Before the war, Fred had been an unskilled
+					drugstore <a class="external" href="http://en.wikipedia.org/wiki/Soda_jerk" title="Soda jerk">soda jerk</a>, having been raised in a poor neighborhood.
+					He does not want to return to his old job, but has no choice, given the stiff
+					competition from other returning veterans and his lack of civilian skills. He
+					had met Marie (<a class="external" href="http://en.wikipedia.org/wiki/Virginia_Mayo" title="Virginia Mayo">Virginia Mayo</a>) while in training and married her shortly afterward,
+					before shipping out less than a month later. She took a job as a night club
+					waitress and set up her own apartment while Fred was overseas. She does not
+					relish being married to a soda jerk instead of an officer.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">Peggy meets and falls in love with Fred, and
+					holds Marie in contempt after discovering how shallow and selfish she is. Peggy
+					tells her parents she intends to break up Fred and Marie's marriage, only to be
+					told that their own marriage overcame similar problems. To protect Peggy, Al
+					pressures Fred to break off all contact with his daughter. Fred does so, but the
+					friendship between the two men ends.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">Homer was a football <a class="external" href="http://en.wikipedia.org/wiki/Quarterback" title="Quarterback">quarterback</a> before the war. Before leaving to fight, he had become
+					engaged to Wilma (<a class="external" href="http://en.wikipedia.org/wiki/Cathy_O%27Donnell" title="Cathy O'Donnell">Cathy O'Donnell</a>). When he returns, both Homer
+					and his parents have trouble dealing with his disability. He does not want to
+					burden Wilma with a handicapped man, so he pushes her away, although she is the
+					one person who has adjusted best to the situation. His uncle Butch (<a class="external" href="http://en.wikipedia.org/wiki/Hoagy_Carmichael" title="Hoagy Carmichael">Hoagy Carmichael</a>) owns a bar where the three
+					men meet from time to time. Butch counsels Homer, but is careful not to tell his
+					nephew what to do.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">When an obnoxious soda fountain customer,
+					who says that the war was fought against the wrong enemies, gets into an
+					altercation with Homer, Fred punches the troublemaker and loses his job. More
+					woes follow. After Fred discovers his wife with another man, she demands a
+					divorce. Fred decides to leave town. He says goodbye to his father (<a class="external" href="http://en.wikipedia.org/wiki/Roman_Bohnen" title="Roman Bohnen">Roman Bohnen</a>), and leaves behind his medals and
+					citations, saying dismissively that they were "passed out with the rations."
+					After he leaves, his father reads from one citation. He learns, apparently for
+					the first time, that Fred is a war hero, having been awarded the second-highest
+					medal for heroism, the <a class="external" href="http://en.wikipedia.org/wiki/Distinguished_Flying_Cross_(United_States)" title="Distinguished Flying Cross (United States)">Distinguished Flying
+						Cross</a>, for gallant conduct during a bombing mission.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">While waiting for an aircraft, Fred walks
+					around the airport to kill time and wanders into a vast <a class="external" href="http://en.wikipedia.org/wiki/Aircraft_boneyard" title="Aircraft boneyard">wartime aircraft "boneyard"</a>. Climbing into the
+					nose of a <a class="external" href="http://en.wikipedia.org/wiki/B-17_Flying_Fortress" title="B-17 Flying Fortress">B-17 Flying Fortress</a>, he begins to relive
+					intense memories of combat. He is brought out of his reverie by the boss of a
+					work crew salvaging the aluminum from the aircraft to build <a class="external" href="http://en.wikipedia.org/wiki/Pre-fabricated_housing" title="Pre-fabricated housing">pre-fabricated housing</a>. Fred talks the
+					man into giving him a job.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">Wilma tells Homer that her family wants her
+					to go away, since it seems that he won't marry her. He bluntly demonstrates how
+					hard life with him would be, but she is unfazed. When she makes it clear that
+					she loves him regardless, he gives in.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">A now-divorced Fred meets Peggy at Homer and
+					Wilma's wedding. After the ceremony, Fred approaches Peggy and holds her,
+					telling her that their life together will be a hard struggle, that they'd be
+					"kicked around." She is unfazed; they smile and kiss.</p>
+			</wiki:plot>
+			<wiki:cast>
+				<h2 xmlns="http://www.w3.org/1999/xhtml">
+					<span class="mw-headline">Cast</span>
+				</h2>
+				<p xmlns="http://www.w3.org/1999/xhtml">Principal credited cast members (in order of
+					on-screen credits) and roles: </p>
+				<p xmlns="http://www.w3.org/1999/xhtml">Casting brought together established stars
+					as well as character actors and relative unknowns. Famed drummer <a class="external" href="http://en.wikipedia.org/wiki/Gene_Krupa" title="Gene Krupa">Gene Krupa</a> is seen in archival footage, while <a class="external" href="http://en.wikipedia.org/wiki/Tennessee_Ernie_Ford" title="Tennessee Ernie Ford">Tennessee Ernie Ford</a>, later a famous
+					television star, appears as an uncredited "hillbilly singer" (in the first of
+					his only three film appearances). At the time the film was shot, Ford was
+					unknown as a singer, and working in <a class="external" href="http://en.wikipedia.org/wiki/San_Bernardino" title="San Bernardino">San Bernardino</a> as a radio announcer-<a class="external" href="http://en.wikipedia.org/wiki/Disc_jockey" title="Disc jockey">disc
+						jockey</a>, his singing skills not yet known. They would not emerge until he
+					began making records in 1949. Notable film producer and director <a class="external" href="http://en.wikipedia.org/wiki/Blake_Edwards" title="Blake Edwards">Blake Edwards</a> appears fleetingly as an uncredited
+					"Corporal". Actress Judy Wyler was also cast in her first role in her father's
+					production. </p>
+			</wiki:cast>
+			<h2 xmlns="http://www.w3.org/1999/xhtml">
+				<span class="mw-headline">Production</span>
+			</h2>
+			<p xmlns="http://www.w3.org/1999/xhtml">Director William Wyler had actually flown combat
+				missions over Europe in filming <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/Memphis_Belle:_A_Story_of_a_Flying_Fortress" title="Memphis Belle: A Story of a Flying Fortress">Memphis Belle</a>
+				</i> (1944) and worked hard to get realistic depictions of the combat veterans he
+				had encountered. One of the innovative elements he introduced was in asking all the
+				principal actors to purchase their own clothes to maintain an affinity for the
+				period and provide a more genuine "feel." Other Wyler touches included constructing
+				life-size sets which went against the standard larger sets that were more suited to
+				camera positions. The impact to the audience was immediate as each scene played out
+				in a realistic, natural way. </p>
+			<p xmlns="http://www.w3.org/1999/xhtml">The movie began filming on <a class="external" href="http://en.wikipedia.org/wiki/April_15" title="April 15">15 April</a>
+				<a class="external" href="http://en.wikipedia.org/wiki/1946" title="1946">1946</a>
+				at a variety of locations including the <a class="external" href="http://en.wikipedia.org/wiki/Los_Angeles_County_Arboretum_and_Botanic_Garden" title="Los Angeles County Arboretum and Botanic Garden">Los Angeles County
+					Arboretum and Botanic Garden</a>, <a class="external" href="http://en.wikipedia.org/wiki/Ontario_International_Airport" title="Ontario International Airport">Ontario International Airport</a>, <a class="external" href="http://en.wikipedia.org/wiki/Ontario,_California" title="Ontario, California">Ontario, California</a>, Raleigh Studios, <a class="external" href="http://en.wikipedia.org/wiki/Hollywood" title="Hollywood">Hollywood</a> and the Samuel Goldwyn/Warner Hollywood Studios.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml"><i>The Best Years of Our Lives</i> is notable
+				for <a class="external" href="http://en.wikipedia.org/wiki/Cinematographer" title="Cinematographer">cinematographer</a> Gregg Toland's use of <a class="external" href="http://en.wikipedia.org/wiki/Deep_focus" title="Deep focus">deep focus</a> photography, in which objects both close to
+				and distant from the camera are in sharp <a class="external" href="http://en.wikipedia.org/wiki/Focus" title="Focus">focus</a>.His evocative
+				sequence of Fred Derry reliving a combat mission while sitting in the remains of a
+				former bomber, utilized imaginative "zoom" effects to simulate an aircraft taking
+				off.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">The wartime combat aircraft that feature
+				prominently in the film were being destroyed in large numbers at the end of
+				hostilities. When former air force bombardier Derry walks among the aircraft ruins,
+				the sequence was filmed at the Ontario Army Air Field in Chino, California where the
+				former training facility had been converted into a scrap yard housing nearly 2,000
+				former combat aircraft in various states of disassembly.</p>
+			<wiki:reception>
+				<h2 xmlns="http://www.w3.org/1999/xhtml">
+					<span class="mw-headline">Reception</span>
+				</h2>
+				<p xmlns="http://www.w3.org/1999/xhtml">Shortly after its premiere at the Astor
+					Theater, New York, <a class="external" href="http://en.wikipedia.org/wiki/Bosley_Crowther" title="Bosley Crowther">Bosley Crowther</a>, film critic for <i><a class="external" href="http://en.wikipedia.org/wiki/The_New_York_Times" title="The New York Times">The New York Times</a>,</i> hailed the film
+					as a masterpiece, and wrote, "It is seldom that there comes a motion picture
+					which can be wholly and enthusiastically endorsed not only as superlative
+					entertainment but as food for quiet and humanizing thought... In working out
+					their solutions Mr. Sherwood and Mr. Wyler have achieved some of the most
+					beautiful and inspiring demonstrations of human fortitude that we have had in
+					films." He also said the <a class="external" href="http://en.wikipedia.org/wiki/Ensemble_cast" title="Ensemble cast">ensemble casting</a> gave the "'best' performance in this best film this
+					year from Hollywood."</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">A more recent critic, <a class="external" href="http://en.wikipedia.org/wiki/Dave_Kehr" title="Dave Kehr">Dave
+						Kehr</a>, is more reluctant to praise the film, but he makes the case for
+					why the film is important today. He wrote, "The film is very proud of itself,
+					exuding a stifling piety at times, but it works as well as this sort of thing
+					can, thanks to accomplished performances by Fredric March, Myrna Loy, and Dana
+					Andrews, who keep the human element afloat. Gregg Toland's deep-focus
+					photography, though, remains the primary source of interest for today's
+					audiences." <a class="external" href="http://en.wikipedia.org/wiki/David_Thomson" title="David Thomson">David Thomson</a> offers tempered praise: "I would concede that <i>Best
+						Years</i> is decent and humane... acutely observed, despite being so
+					meticulous a package. It would have taken uncommon genius and daring at that
+					time to sneak a view of an untidy or unresolved America past Goldwyn or the
+					public."</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">Not everyone was as complimentary.
+					Iconoclastic critic <a class="external" href="http://en.wikipedia.org/wiki/Manny_Farber" title="Manny Farber">Manny
+						Farber</a> called it "a horse-drawn truckload of liberal schmaltz."</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">Currently, the film has a 97% "Fresh" rating
+					at <a class="external" href="http://en.wikipedia.org/wiki/Rotten_Tomatoes" title="Rotten Tomatoes">Rotten Tomatoes</a>, based on 26 reviews.</p>
+			</wiki:reception>
+			<h2 xmlns="http://www.w3.org/1999/xhtml">
+				<span class="mw-headline">Popular culture</span>
+			</h2>
+			<p xmlns="http://www.w3.org/1999/xhtml">In 1949, characters in the <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/Steve_Canyon" title="Steve Canyon">Steve Canyon</a>
+				</i> comic strip by <a class="external" href="http://en.wikipedia.org/wiki/Milton_Caniff" title="Milton Caniff">Milton
+					Caniff</a> had to decide on one movie to show Snow Flower, the daughter of an
+				Indian potentate, that would show her how life was in the United States. Notices in
+				the strip asked readers to send suggestions to Caniff. The film chosen by characters
+				in the strip was <i>The Best Years of Our Lives</i>. (However, due to the aircraft
+				carrying the film being shot down, Snow Flower ends up seeing a home movies of the
+				USA, while incredulous Communist rebels watch <i>Best Years</i>.</p>
+			<wiki:awards>
+				<h2 xmlns="http://www.w3.org/1999/xhtml">
+					<span class="mw-headline">Awards and honors</span>
+				</h2>
+				<p xmlns="http://www.w3.org/1999/xhtml"><b>1947 <a class="external" href="http://en.wikipedia.org/wiki/Academy_Awards" title="Academy Awards">Academy Awards</a></b><br/> The film received
+					seven Academy Awards. Despite his touching Oscar-nominated performance, Harold
+					Russell was not a professional actor and the Board of Governors considered him a
+					long shot to win, so he was given an honorary award "for bringing hope and
+					courage to his fellow veterans through his appearance". However, he was named
+					Best Supporting Actor to a tumultuous reception, making him the only actor to
+					receive two Academy Awards for the same performance.</p>
+				<ul xmlns="http://www.w3.org/1999/xhtml">
+	  <li>Won: <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture" title="Academy Award for Best Picture">Best Picture</a> - <a class="external" href="http://en.wikipedia.org/wiki/Samuel_Goldwyn_Studio" title="Samuel Goldwyn Studio">Samuel Goldwyn Productions</a> (<a class="external" href="http://en.wikipedia.org/wiki/Samuel_Goldwyn" title="Samuel Goldwyn">Samuel Goldwyn</a>, producer)</li>
+	  <li>Won: <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actor" title="Academy Award for Best Actor">Best Leading Actor</a> - <a class="external" href="http://en.wikipedia.org/wiki/Fredric_March" title="Fredric March">Fredric March</a></li>
+	  <li>Won: <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Supporting_Actor" title="Academy Award for Best Supporting Actor">Best Supporting
+							Actor</a> - <a class="external" href="http://en.wikipedia.org/wiki/Harold_Russell" title="Harold Russell">Harold Russell</a></li>
+	  <li>Won: <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Directing" title="Academy Award for Directing">Best Director</a> - <a class="external" href="http://en.wikipedia.org/wiki/William_Wyler" title="William Wyler">William Wyler</a></li>
+	  <li>Won: <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Film_Editing" title="Academy Award for Film Editing">Best Editing</a> - Daniel
+						Mandell</li>
+	  <li>Won: <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Original_Music_Score" title="Academy Award for Original Music Score">Best Original Music
+							Score</a> - <a class="external" href="http://en.wikipedia.org/wiki/Hugo_Friedhofer" title="Hugo Friedhofer">Hugo Friedhofer</a></li>
+	  <li>Won: <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Writing_Adapted_Screenplay" title="Academy Award for Writing Adapted Screenplay">Best Adapted
+							Screenplay</a> - <a class="external" href="http://en.wikipedia.org/wiki/Robert_E._Sherwood" title="Robert E. Sherwood">Robert E. Sherwood</a></li>
+	  <li>Won: <a class="external" href="http://en.wikipedia.org/wiki/Academy_Honorary_Award" title="Academy Honorary Award">Academy Honorary Award</a> - <a class="external" href="http://en.wikipedia.org/wiki/Harold_Russell" title="Harold Russell">Harold Russell</a></li>
+	  <li>Nomination: <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Sound" title="Academy Award for Sound">Best Sound Mixing</a> - Gordon
+						Sawyer</li>
+	</ul>
+				<p xmlns="http://www.w3.org/1999/xhtml">
+					<b>1947 <a class="external" href="http://en.wikipedia.org/wiki/Golden_Globe_Awards" title="Golden Globe Awards">Golden Globe Awards</a></b>
+					<br/>
+				</p>
+				<ul xmlns="http://www.w3.org/1999/xhtml">
+	  <li>Won: Best Dramatic Motion Picture</li>
+	  <li>Won: Special Award for Best Non-Professional Acting - Harold Russell</li>
+	</ul>
+				<p xmlns="http://www.w3.org/1999/xhtml">
+					<b>1948 <a class="external" href="http://en.wikipedia.org/wiki/BAFTA_Awards" title="BAFTA Awards">BAFTA Awards</a></b>
+					<br/>
+				</p>
+				<ul xmlns="http://www.w3.org/1999/xhtml">
+	  <li>Won: <a class="external" href="http://en.wikipedia.org/wiki/BAFTA_Award_for_Best_Film_from_any_Source" title="BAFTA Award for Best Film from any Source">BAFTA Award for Best
+							Film from any Source</a></li>
+	</ul>
+				<p xmlns="http://www.w3.org/1999/xhtml">
+					<b>Other wins</b>
+					<br/>
+				</p>
+				<ul xmlns="http://www.w3.org/1999/xhtml">
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/National_Board_of_Review" title="National Board of Review">National Board of Review</a>: NBR Award
+						Best Director, William Wyler; 1946.</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/New_York_Film_Critics_Circle_Awards" title="New York Film Critics Circle Awards">New York Film Critics Circle
+							Awards</a>: NYFCC Award Best Director, William Wyler; Best Film;
+						1946.</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Bodil_Awards" title="Bodil Awards">Bodil Awards</a>: Bodil; Best American Film,
+						William Wyler; 1948.</li>
+	  <li>Cinema Writers Circle Awards, Spain: CEC Award; Best Foreign Film, USA;
+						1948.</li>
+	</ul>
+				<p xmlns="http://www.w3.org/1999/xhtml">In 1989, the <a class="external" href="http://en.wikipedia.org/wiki/National_Film_Registry" title="National Film Registry">National Film Registry</a> selected it for
+					preservation in the United States <a class="external" href="http://en.wikipedia.org/wiki/Library_of_Congress" title="Library of Congress">Library of Congress</a> as being deemed
+					"culturally, historically, or aesthetically significant."</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">
+					<b><a class="external" href="http://en.wikipedia.org/wiki/American_Film_Institute" title="American Film Institute">American Film Institute</a>
+						recognition</b>
+				</p>
+				<ul xmlns="http://www.w3.org/1999/xhtml">
+	  <li>1998 <a class="external" href="http://en.wikipedia.org/wiki/AFI%27s_100_Years..._100_Movies" title="AFI's 100 Years... 100 Movies">AFI's 100 Years... 100 Movies</a>
+						#37</li>
+	  <li>2006 <a class="external" href="http://en.wikipedia.org/wiki/AFI%27s_100_Years..._100_Cheers" title="AFI's 100 Years... 100 Cheers">AFI's 100 Years... 100 Cheers</a>
+						#11</li>
+	  <li>2007 <a class="external" href="http://en.wikipedia.org/wiki/AFI%27s_100_Years..._100_Movies_(10th_Anniversary_Edition)" title="AFI's 100 Years... 100 Movies (10th Anniversary Edition)">AFI's
+							100 Years... 100 Movies (10th Anniversary Edition)</a> #37</li>
+	</ul>
+			</wiki:awards>
+			<h2 xmlns="http://www.w3.org/1999/xhtml">
+				<span class="mw-headline">External links</span>
+			</h2>
+			<ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/title/tt0036868/" title="http://www.imdb.com/title/tt0036868/" rel="nofollow">
+						<i>The Best Years of Our Lives</i>
+					</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a>.</li>
+	<li><a href="http://www.allmovie.com/cg/avg.dll?p=avg&amp;sql=1:4943" title="http://www.allmovie.com/cg/avg.dll?p=avg&amp;sql=1:4943" rel="nofollow">
+						<i>The Best Years of Our Lives</i>
+					</a> at <a class="external" href="http://en.wikipedia.org/wiki/Allmovie" title="Allmovie">Allmovie</a>.</li>
+	<li><a href="http://tcmdb.com/title/title.jsp?stid=68507" title="http://tcmdb.com/title/title.jsp?stid=68507" rel="nofollow">
+						<i>The Best Years of Our Lives</i>
+					</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Turner_Classic_Movies" title="Turner Classic Movies">TCM Movie Database</a>.</li>
+	<li><a href="http://www.filmsite.org/besty.html" title="http://www.filmsite.org/besty.html" rel="nofollow">
+						<i>The Best Years of Our Lives</i>
+					</a> detailed synopsis/analysis at Film Site by Tim Dirks.</li>
+	<li><a href="http://www.reelclassics.com/Movies/BestYears/bestyears.htm" title="http://www.reelclassics.com/Movies/BestYears/bestyears.htm" rel="nofollow">
+						<i>The Best Years of Our Lives</i>
+					</a> film article at Reel Classics. Includes MP3s.</li>
+	<li><a href="http://www.thegoldenyears.org/years.html" title="http://www.thegoldenyears.org/years.html" rel="nofollow">
+						<i>The Best Years of Our Lives</i>
+					</a> at the Golden Years web site.</li>
+      </ul>
+		</wiki:description>
+	</wiki:film>
+</wiki:nominee>

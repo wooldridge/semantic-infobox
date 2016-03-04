@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="1951" span="1" winner="true" award="best-picture" xmlns:wiki="http://marklogic.com/wikipedia">
+  <!--
+                            Copyright (c) 2010 MarkLogic Corporation.
+                            Permission is granted to copy, distribute and/or modify this document
+                            under the terms of the GNU Free Documentation License, Version 1.2
+                            or any later version published by the Free Software Foundation;
+                            with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+                            A copy of the license is included in the section entitled "GNU
+                            Free Documentation License"
+                            
+                            Content derived from http://en.wikipedia.org/wiki/An_American_in_Paris_(film)
+                            Modified in May 2009 by Mark Logic Corporation under the terms of the GNU Free Documentation License.
+                        -->
+  <wiki:film-title link="/wiki/An_American_in_Paris_(film)">An American in Paris</wiki:film-title>
+  <wiki:film link="/wiki/An_American_in_Paris_(film)" title="An American in Paris">
+    <wiki:oscar-ref year="1951" span="1" winner="false" award="best-director" person-link="/wiki/Vincente_Minnelli" person-name="Vincente Minnelli"/>
+    <wiki:oscar year="1951" span="1" winner="true" award="best-picture"/>
+    <wiki:producer link="/wiki/Arthur_Freed">Arthur Freed</wiki:producer>
+    <wiki:director link="/wiki/Vincente_Minnelli">Vincente Minnelli</wiki:director>
+    <wiki:writer link="/wiki/Alan_Jay_Lerner">Alan Jay Lerner</wiki:writer>
+    <wiki:distributor link="/wiki/Metro-Goldwyn-Mayer">Metro-Goldwyn-Mayer</wiki:distributor>
+    <wiki:starring link="/wiki/Gene_Kelly">Gene Kelly</wiki:starring>
+    <wiki:starring link="/wiki/Leslie_Caron">Leslie Caron</wiki:starring>
+    <wiki:starring link="/wiki/Oscar_Levant">Oscar Levant</wiki:starring>
+    <wiki:starring link="/wiki/Georges_Gu%C3%A9tary">Georges GuÃ©tary</wiki:starring>
+    <wiki:starring link="/wiki/Nina_Foch">Nina Foch</wiki:starring>
+    <wiki:description>
+      <wiki:abstract>
+	<p xmlns="http://www.w3.org/1999/xhtml"><i><b>An American in Paris</b></i> is a 1951 <a class="external" href="http://en.wikipedia.org/wiki/Metro-Goldwyn-Mayer" title="Metro-Goldwyn-Mayer">MGM</a> <a class="external" href="http://en.wikipedia.org/wiki/Musical_film" title="Musical film">musical film</a> inspired by the <a class="external" href="http://en.wikipedia.org/wiki/An_American_in_Paris" title="An American in Paris">1928 orchestral composition</a> by <a class="external" href="http://en.wikipedia.org/wiki/George_Gershwin" title="George Gershwin">George Gershwin</a>. Starring <a class="external" href="http://en.wikipedia.org/wiki/Gene_Kelly" title="Gene Kelly">Gene Kelly</a>, <a class="external" href="http://en.wikipedia.org/wiki/Leslie_Caron" title="Leslie Caron">Leslie Caron</a>, and <a class="external" href="http://en.wikipedia.org/wiki/Oscar_Levant" title="Oscar Levant">Oscar Levant</a>, the film is set in <a class="external" href="http://en.wikipedia.org/wiki/Paris" title="Paris">Paris</a>, and was directed by <a class="external" href="http://en.wikipedia.org/wiki/Vincente_Minnelli" title="Vincente Minnelli">Vincente Minnelli</a> from a script by <a class="external" href="http://en.wikipedia.org/wiki/Alan_Jay_Lerner" title="Alan Jay Lerner">Alan Jay Lerner</a>. The music is by <a class="external" href="http://en.wikipedia.org/wiki/George_Gershwin" title="George Gershwin">George Gershwin</a>, with lyrics by his brother <a class="external" href="http://en.wikipedia.org/wiki/Ira_Gershwin" title="Ira Gershwin">Ira</a>, with additional music by <a class="external" href="http://en.wikipedia.org/wiki/Saul_Chaplin" title="Saul Chaplin">Saul Chaplin</a>, the music director.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">The story of the film is interspersed with show-stopping dance numbers choreographed by Gene Kelly and set to Gershwin tunes. Songs and music include "<a class="external" href="http://en.wikipedia.org/wiki/I_Got_Rhythm" title="I Got Rhythm">I Got Rhythm</a>," "I'll Build A Stairway to Paradise," "<a class="external" href="http://en.wikipedia.org/wiki/%27S_Wonderful" title="'S Wonderful">'S Wonderful</a>," and "<a class="external" href="http://en.wikipedia.org/wiki/Our_Love_is_Here_to_Stay" title="Our Love is Here to Stay">Our Love is Here to Stay</a>". The climax is "The American in Paris" ballet, a 16 minute dance featuring Kelly and Caron set to Gershwin's <i><a class="external" href="http://en.wikipedia.org/wiki/An_American_in_Paris" title="An American in Paris">An American in Paris</a></i>. The ballet alone cost more than $500,000, a staggering sum at the time.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Plot">Plot</span></h2>
+	<p xmlns="http://www.w3.org/1999/xhtml">Jerry Mulligan (Gene Kelly), an American World War II veteran, is now an exuberant expatriate in Paris trying to make a reputation as a <a class="external" href="http://en.wikipedia.org/wiki/Painting" title="Painting">painter</a>. His friend, Adam (Oscar Levant), is a struggling concert pianist who is a long time associate of a French singer, Henri Baurel (<a class="external" href="http://en.wikipedia.org/wiki/Georges_Gu%C3%A9tary" title="Georges GuÃ©tary">Georges GuÃ©tary</a>). A lonely society woman, Milo Roberts (<a class="external" href="http://en.wikipedia.org/wiki/Nina_Foch" title="Nina Foch">Nina Foch</a>), takes Jerry under her wing and supports him, but is more interested in Jerry than his art. Jerry remains oblivious to her feelings and falls in love with Lise (Leslie Caron), a French girl he meets at a restaurant. Lise loves him as well but she is already in a relationship with Henri, to whom she feels indebted for having saved her family during World War II.</p>
+      </wiki:abstract>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Cast">Cast</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Gene_Kelly" title="Gene Kelly">Gene Kelly</a> as Jerry Mulligan</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Leslie_Caron" title="Leslie Caron">Leslie Caron</a> as Lise Bouvier</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Oscar_Levant" title="Oscar Levant">Oscar Levant</a> as Adam Cook</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Georges_Gu%C3%A9tary" title="Georges GuÃ©tary">Georges GuÃ©tary</a> as Henri "Hank" Baurel</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Nina_Foch" title="Nina Foch">Nina Foch</a> as Milo Roberts</li>
+      </ul>
+      <p xmlns="http://www.w3.org/1999/xhtml"><b>Cast notes</b></p>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Hayden_Rorke" title="Hayden Rorke">Hayden Rorke</a>, best known for playing Dr. Bellows on the TV series <i><a class="external" href="http://en.wikipedia.org/wiki/I_Dream_of_Jeannie" title="I Dream of Jeannie">I Dream of Jeannie</a></i> has a small part as a friend of Nina Foch's character.</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Noel_Neill" title="Noel Neill">Noel Neill</a>, later to portray Lois Lane on the TV series <i><a class="external" href="http://en.wikipedia.org/wiki/The_Adventures_of_Superman" title="The Adventures of Superman">The Adventures of Superman</a></i>, has a small role as an American art student who tries to criticize Jerry Mulligan's paintings.</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Judy_Landon" title="Judy Landon">Judy Landon</a>, better known for her appearance in Kelly's next musical <a class="external" href="http://en.wikipedia.org/wiki/Singin%27_in_the_Rain" title="Singin' in the Rain">Singin' in the Rain</a> (and as the wife of <a class="external" href="http://en.wikipedia.org/wiki/Brian_Keith" title="Brian Keith">Brian Keith</a>), appears as a dancer in the Stairway to Paradise sequence.</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Soundtrack">Soundtrack</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>"<a class="external" href="http://en.wikipedia.org/wiki/Our_Love_Is_Here_to_Stay" title="Our Love Is Here to Stay">Our Love Is Here to Stay</a>"</li>
+	<li>"<a class="external" href="http://en.wikipedia.org/wiki/By_Strauss" title="By Strauss">By Strauss</a>"</li>
+	<li>"Tra-la-la (This Time It's Really Love)"</li>
+	<li>"<a class="external" href="http://en.wikipedia.org/wiki/I_Got_Rhythm" title="I Got Rhythm">I Got Rhythm</a>" (performed by Gene Kelly)</li>
+	<li>"I'll Build a Stairway to Paradise" (sung by Georges GuÃ©tary)</li>
+	<li>"<a class="external" href="http://en.wikipedia.org/wiki/%27S_Wonderful" title="'S Wonderful">'S Wonderful</a>" (sung by Gene Kelly and Georges GuÃ©tary, danced by Gene Kelly)</li>
+	<li>"<a class="external" href="http://en.wikipedia.org/wiki/Nice_Work_If_You_Can_Get_It_(song)" title="Nice Work If You Can Get It (song)">Nice Work If You Can Get It</a>" (sung by Georges GuÃ©tary)</li>
+	<li>"<a class="external" href="http://en.wikipedia.org/wiki/Embraceable_You" title="Embraceable You">Embraceable You</a>" (danced by Leslie Caron)</li>
+	<li>"An American in Paris Ballet" (danced by Gene Kelly, Leslie Caron and ensemble, at the end of the movie)</li>
+	<li>"<a class="external" href="http://en.wikipedia.org/wiki/Strike_Up_the_Band_(song)" title="Strike Up the Band (song)">Strike Up the Band</a>"</li>
+	<li>"<a class="external" href="http://en.wikipedia.org/wiki/Concerto_in_F_(Gershwin)" title="Concerto in F (Gershwin)">Concerto in F for Piano and Orchestra</a>" (played by Oscar Levant and The MGM Symphony Orchestra)</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Production">Production</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">The film was shot in Hollywood, so it features some quirks in the occasional French dialogue. Notably, near the beginning of the <i>I Got Rhythm</i> number, one of the 'French' children <i>Jerry, parle anglais <b>Ã  nous</b></i>, which sounds rather curious, containing mistakes both in direct object placement and in respectful address. In the French soundtrack, which switches to the original sound for the duration of the songs, the <i>Ã  nous</i> is masked through a <i>plop</i> sound, to make the sentence more palatable.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Hollywood movies set in France seldom used location shooting or <a class="external" href="http://en.wikipedia.org/wiki/Native_speakers" title="Native speakers">native speakers</a>. However, great care was sometimes put into reproducing Paris surroundings, as in <i>An American in Paris</i> or <i><a class="external" href="http://en.wikipedia.org/wiki/Irma_La_Douce" title="Irma La Douce">Irma La Douce</a></i>. Many French Paris-set movies of this era avoided location work too, and sometimes the same art directors (<a class="external" href="http://en.wikipedia.org/wiki/Alexandre_Trauner" title="Alexandre Trauner">Alexandre Trauner</a> being the best known example) worked on both sides of the Atlantic Ocean.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Awards_and_honors">Awards and honors</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml"><b>Wins</b></p>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture" title="Academy Award for Best Picture">Academy Award for Best Picture</a> â€” <a class="external" href="http://en.wikipedia.org/wiki/Arthur_Freed" title="Arthur Freed">Arthur Freed</a>, producer</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Art_Direction" title="Academy Award for Best Art Direction">Academy Award for Best Art â€” Set Decoration, Color</a> â€” <a class="external" href="http://en.wikipedia.org/wiki/E._Preston_Ames" title="E. Preston Ames">E. Preston Ames</a>, <a class="external" href="http://en.wikipedia.org/wiki/Cedric_Gibbons" title="Cedric Gibbons">Cedric Gibbons</a>, <a class="external" href="http://en.wikipedia.org/wiki/F._Keogh_Gleason" title="F. Keogh Gleason">F. Keogh Gleason</a>, and <a class="external" href="http://en.wikipedia.org/wiki/Edwin_B._Willis" title="Edwin B. Willis">Edwin B. Willis</a></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Cinematography" title="Academy Award for Best Cinematography">Academy Award for Best Cinematography, Color</a> â€” <a class="external" href="http://en.wikipedia.org/wiki/John_Alton" title="John Alton">John Alton</a> and <a class="external" href="http://en.wikipedia.org/wiki/Alfred_Gilks" title="Alfred Gilks">Alfred Gilks</a></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Costume_Design" title="Academy Award for Costume Design">Academy Award for Best Costume Design, Color</a> â€” <a class="external" href="http://en.wikipedia.org/wiki/Orry-Kelly" title="Orry-Kelly">Orry-Kelly</a>, <a class="external" href="http://en.wikipedia.org/wiki/Walter_Plunkett" title="Walter Plunkett">Walter Plunkett</a>, and <a class="external" href="http://en.wikipedia.org/wiki/Irene_Sharaff" title="Irene Sharaff">Irene Sharaff</a></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Original_Music_Score" title="Academy Award for Original Music Score">Academy Award for Best Musical Score</a> â€” <a class="external" href="http://en.wikipedia.org/wiki/Saul_Chaplin" title="Saul Chaplin">Saul Chaplin</a> and <a class="external" href="http://en.wikipedia.org/wiki/Johnny_Green" title="Johnny Green">Johnny Green</a></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Writing_Original_Screenplay" title="Academy Award for Writing Original Screenplay">Academy Award for Best Writing, Scoring and Screenplay</a> â€” <a class="external" href="http://en.wikipedia.org/wiki/Alan_Jay_Lerner" title="Alan Jay Lerner">Alan Jay Lerner</a></li>
+      </ul>
+      <p xmlns="http://www.w3.org/1999/xhtml"><b>Nominations</b></p>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Directing" title="Academy Award for Directing">Academy Award for Best Director</a> â€” Vincente Minnelli</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Film_Editing" title="Academy Award for Film Editing">Academy Award for Best Film Editing</a> â€” <a class="external" href="http://en.wikipedia.org/wiki/Adrienne_Fazan" title="Adrienne Fazan">Adrienne Fazan</a></li>
+      </ul>
+      <p xmlns="http://www.w3.org/1999/xhtml"><b>Wins</b></p>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_-_Musical_or_Comedy" title="Golden Globe Award for Best Motion Picture - Musical or Comedy">Golden Globe Award for Best Motion Picture - Musical or Comedy</a></li>
+      </ul>
+      <p xmlns="http://www.w3.org/1999/xhtml"><b>Nominations</b></p>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Director_-_Motion_Picture" title="Golden Globe Award for Best Director - Motion Picture">Golden Globe Award for Best Director - Motion Picture</a> â€” Vincente Minnelli</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Actor_-_Motion_Picture_Musical_or_Comedy" title="Golden Globe Award for Best Actor - Motion Picture Musical or Comedy">Golden Globe Award for Best Actor - Motion Picture Musical or Comedy</a> â€” <a class="external" href="http://en.wikipedia.org/wiki/Gene_Kelly" title="Gene Kelly">Gene Kelly</a></li>
+      </ul>
+      <p xmlns="http://www.w3.org/1999/xhtml"><a class="external" href="http://en.wikipedia.org/wiki/Gene_Kelly" title="Gene Kelly">Gene Kelly</a> received an <a class="external" href="http://en.wikipedia.org/wiki/Academy_Honorary_Award" title="Academy Honorary Award">Academy Honorary Award</a> that year for "his versatility as an actor, singer, director and dancer, and specifically for his brilliant achievements in the art of choreography on film." It was his only Oscar.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">The film was entered into the <a class="external" href="http://en.wikipedia.org/wiki/1952_Cannes_Film_Festival" title="1952 Cannes Film Festival">1952 Cannes Film Festival</a>.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">In 1993, <i>An American in Paris</i> was selected for preservation in the United States <a class="external" href="http://en.wikipedia.org/wiki/National_Film_Registry" title="National Film Registry">National Film Registry</a> as being "culturally, historically, or aesthetically significant".</p>
+      <p xmlns="http://www.w3.org/1999/xhtml"><b><a class="external" href="http://en.wikipedia.org/wiki/American_Film_Institute" title="American Film Institute">American Film Institute</a> recognition</b></p>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>1998: <a class="external" href="http://en.wikipedia.org/wiki/AFI%27s_100_Years..._100_Movies" title="AFI's 100 Years... 100 Movies">AFI's 100 Years... 100 Movies</a> - #68</li>
+	<li>2002: <a class="external" href="http://en.wikipedia.org/wiki/AFI%27s_100_Years..._100_Passions" title="AFI's 100 Years... 100 Passions">AFI's 100 Years... 100 Passions</a> - #39</li>
+	<li>2004: <a class="external" href="http://en.wikipedia.org/wiki/AFI%27s_100_Years..._100_Songs" title="AFI's 100 Years... 100 Songs">AFI's 100 Years... 100 Songs</a> - #32
+<ul>
+	    <li><a class="external" href="http://en.wikipedia.org/wiki/I_Got_Rhythm" title="I Got Rhythm">I Got Rhythm</a></li>
+	  </ul>
+</li>
+	<li>2006: <a class="external" href="http://en.wikipedia.org/wiki/AFI%27s_Greatest_Movie_Musicals" title="AFI's Greatest Movie Musicals">AFI's Greatest Movie Musicals</a> - #9</li>
+      </ul>
+      <p xmlns="http://www.w3.org/1999/xhtml">AFI also honored star Gene Kelly as #15 of the top 25 <a class="external" href="http://en.wikipedia.org/wiki/AFI%27s_100_Years..._100_Stars" title="AFI's 100 Years... 100 Stars">American male screen legends</a>.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Stage_adaptation">Stage adaptation</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">A stage version of the musical has been adapted by <a class="external" href="http://en.wikipedia.org/wiki/Ken_Ludwig" title="Ken Ludwig">Ken Ludwig</a>, and began previews at the <a class="external" href="http://en.wikipedia.org/wiki/Alley_Theatre" title="Alley Theatre">Alley Theatre</a> (<a class="external" href="http://en.wikipedia.org/wiki/Houston" title="Houston">Houston</a>) on April 29, 2008, officially opening on May 18 through June 22. The production, directed by Alley artistic director Gregory Boyd with choreography by Randy Skinner, stars <a class="external" href="http://en.wikipedia.org/wiki/Harry_Groener" title="Harry Groener">Harry Groener</a> and Kerry O'Malley. The musical has many of the film's original songs, and also incorporates other Gershwin songs, such as "They All Laughed", "Let's Call the Whole Thing Off" and "Love Walked In".</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="References">References</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/title/tt0043278/" rel="nofollow"><i>An American in Paris (film)</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	<li><a href="http://tcmdb.com/title/title.jsp?stid=67241" rel="nofollow"><i>An American in Paris (film)</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Turner_Classic_Movies" title="Turner Classic Movies">TCM Movie Database</a></li>
+	<li><a href="http://www.allmovie.com/work/2070" rel="nofollow"><i>An American in Paris (film)</i></a> at <a class="external" href="http://en.wikipedia.org/wiki/Allmovie" title="Allmovie">Allmovie</a></li>
+	<li><a href="http://www.rottentomatoes.com/m/american_in_paris/" rel="nofollow"><i>An American in Paris (film)</i></a> at <a class="external" href="http://en.wikipedia.org/wiki/Rotten_Tomatoes" title="Rotten Tomatoes">Rotten Tomatoes</a></li>
+	<li><a href="http://www.filmsite.org/amer.html" rel="nofollow">Filmsite.org's Greatest Films <i>An American in Paris</i></a></li>
+	<li><a href="http://www.combustiblecelluloid.com/amerparis.shtml" rel="nofollow">Combustible Celluloid's review of <i>An American in Paris</i></a></li>
+      </ul>
+    </wiki:description>
+  </wiki:film>
+</wiki:nominee>

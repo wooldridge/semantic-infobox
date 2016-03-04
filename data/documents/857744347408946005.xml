@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="1947" span="1" winner="false" award="lead-actor" xmlns:wiki="http://marklogic.com/wikipedia">
+	<!-- 
+		Copyright 2009-2012 MarkLogic Corporation.
+		Permission is granted to copy, distribute and/or modify this document
+		under the terms of the GNU Free Documentation License, Version 1.2
+		or any later version published by the Free Software Foundation;
+		with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+		A copy of the license is included in the section entitled "GNU
+		Free Documentation License
+	-->
+	<wiki:name link="/wiki/John_Garfield">John Garfield</wiki:name>
+	<wiki:person link="/wiki/John_Garfield" name="John Garfield">
+		<wiki:oscar year="1947" span="1" winner="false" award="lead-actor" film-link="/wiki/Body_and_Soul_(1947_film)" film-title="Body and Soul"/>
+		<wiki:oscar year="1938" span="1" winner="false" award="supporting-actor" film-link="/wiki/Four_Daughters" film-title="Four Daughters"/>
+		<wiki:image link="http://upload.wikimedia.org/wikipedia/commons/thumb/1/15/John_Garfield_in_Gentleman%27s_Agreement_trailer.jpg/200px-John_Garfield_in_Gentleman%27s_Agreement_trailer.jpg"/>
+		<wiki:birth>
+			<wiki:date>1913-03-04</wiki:date>
+			<wiki:place>
+				<wiki:primary link="/wiki/New_York_City,_New_York">New York City, New
+					York</wiki:primary>
+				<wiki:secondary link=""/>
+			<enrich><woeid xmlns="http://where.yahooapis.com/v1/schema.rng">2347591</woeid><placeTypeName code="8" xmlns="http://where.yahooapis.com/v1/schema.rng">State</placeTypeName><name xmlns="http://where.yahooapis.com/v1/schema.rng">New York</name><country code="US" type="Country" xmlns="http://where.yahooapis.com/v1/schema.rng">United States</country><admin1 code="US-NY" type="State" xmlns="http://where.yahooapis.com/v1/schema.rng">New York</admin1><admin2 xmlns="http://where.yahooapis.com/v1/schema.rng"/><admin3 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality1 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality2 xmlns="http://where.yahooapis.com/v1/schema.rng"/><postal xmlns="http://where.yahooapis.com/v1/schema.rng"/><centroid xmlns="http://where.yahooapis.com/v1/schema.rng"><latitude>42.855350</latitude><longitude>-76.501671</longitude></centroid><boundingBox xmlns="http://where.yahooapis.com/v1/schema.rng"><southWest><latitude>40.496029</latitude><longitude>-79.761971</longitude></southWest><northEast><latitude>45.012810</latitude><longitude>-71.856247</longitude></northEast></boundingBox><areaRank xmlns="http://where.yahooapis.com/v1/schema.rng">11</areaRank><popRank xmlns="http://where.yahooapis.com/v1/schema.rng">0</popRank></enrich></wiki:place>
+		</wiki:birth>
+		<wiki:death>
+			<wiki:date>May 21, 1952 (aged 39)</wiki:date>
+			<wiki:place>
+				<wiki:primary link="/wiki/New_York_City,_New_York">New York City, New
+					York</wiki:primary>
+				<wiki:secondary link=""/>
+			</wiki:place>
+		</wiki:death>
+		<wiki:description>
+			<wiki:abstract>
+				<p xmlns="http://www.w3.org/1999/xhtml"><b>John Garfield</b> (4 March 1913 – 21 May
+					1952) was an <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award" title="Academy Award">Academy Award</a>-nominated <a class="external" href="http://en.wikipedia.org/wiki/United_States" title="United States">American</a> actor. Garfield was especially adept at playing brooding,
+					rebellious, working-class character roles. Garfield is acknowledged as the
+					predecessor of such <a class="external" href="http://en.wikipedia.org/wiki/Method_acting" title="Method acting">Method</a> actors as <a class="external" href="http://en.wikipedia.org/wiki/Marlon_Brando" title="Marlon Brando">Marlon Brando</a>, <a class="external" href="http://en.wikipedia.org/wiki/James_Dean" title="James Dean">James
+						Dean</a>, and <a class="external" href="http://en.wikipedia.org/wiki/Montgomery_Clift" title="Montgomery Clift">Montgomery Clift</a>.</p>
+			</wiki:abstract>
+			<p xmlns="http://www.w3.org/1999/xhtml">Born <b>Jacob Julius Garfinkle</b> in <a class="external" href="http://en.wikipedia.org/wiki/New_York_City" title="New York City">New York City</a>, the son of <a class="external" href="http://en.wikipedia.org/wiki/History_of_the_Jews_in_Russia_and_the_Soviet_Union" title="History of the Jews in Russia and the Soviet Union">Russian Jewish</a>
+				immigrants David and Hannah Garfinkle, Garfield spent the first seven years of his
+				life in <a class="external" href="http://en.wikipedia.org/wiki/Sea_Gate,_Brooklyn" title="Sea Gate, Brooklyn">Sea Gate, Brooklyn</a>. After the death of his
+				mother, Garfield was sent to a school for difficult children in the <a class="external" href="http://en.wikipedia.org/wiki/Bronx" title="Bronx">Bronx</a>. It was under the guidance of the school's principal—the noted
+				educator <a class="external" href="http://en.wikipedia.org/wiki/Angelo_Patri" title="Angelo Patri">Angelo Patri</a>—that he was introduced to both <a class="external" href="http://en.wikipedia.org/wiki/Boxing" title="Boxing">boxing</a> and acting. He had also contracted a childhood illness, severely
+				damaging his heart and limiting his ability to engage in strenuous athletics. He
+				received a scholarship to <a class="external" href="http://en.wikipedia.org/wiki/Maria_Ouspenskaya" title="Maria Ouspenskaya">Maria Ouspenskaya</a>'s acting school, making his <a class="external" href="http://en.wikipedia.org/wiki/Broadway_theatre" title="Broadway theatre">Broadway</a> debut in 1932.</p>
+			<wiki:career>
+				<p xmlns="http://www.w3.org/1999/xhtml">He became a member of the <a class="external" href="http://en.wikipedia.org/wiki/Group_Theatre_(New_York)" title="Group Theatre (New York)">Group Theater</a>. The Group's play <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Golden_Boy_(play)" title="Golden Boy (play)">Golden Boy</a>
+					</i> was written for him by <a class="external" href="http://en.wikipedia.org/wiki/Clifford_Odets" title="Clifford Odets">Clifford Odets</a>, but ultimately he was cast in a supporting role rather
+					than the lead. Garfield decided to leave Broadway and try his luck in <a class="external" href="http://en.wikipedia.org/wiki/Hollywood" title="Hollywood">Hollywood</a>. In 1938, he received wide critical acclaim
+					and a nomination for the <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Supporting_Actor" title="Academy Award for Best Supporting Actor">Academy Award for Best
+						Supporting Actor</a> for his role in <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Four_Daughters" title="Four Daughters">Four Daughters</a>
+					</i>.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">At the onset of <a class="external" href="http://en.wikipedia.org/wiki/World_War_II" title="World War II">World
+						War II</a>, Garfield immediately attempted to enlist in the armed forces,
+					but was turned down because of his heart condition. Frustrated, he turned his
+					energies to supporting the war effort. He and actress <a class="external" href="http://en.wikipedia.org/wiki/Bette_Davis" title="Bette Davis">Bette
+						Davis</a> were the driving forces behind the opening of the <a class="external" href="http://en.wikipedia.org/wiki/Hollywood_Canteen" title="Hollywood Canteen">Hollywood Canteen</a>, a club offering food and
+					entertainment for American <a class="external" href="http://en.wikipedia.org/wiki/United_States_military" title="United States military">servicemen</a>. He later traveled to
+					Yugoslavia to help entertain for the war effort.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">Garfield graduated to leading roles in films
+					such as <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/The_Postman_Always_Rings_Twice_(1946_film)" title="The Postman Always Rings Twice (1946 film)">The Postman Always
+							Rings Twice</a>
+					</i> (1946) with <a class="external" href="http://en.wikipedia.org/wiki/Lana_Turner" title="Lana Turner">Lana
+						Turner</a>, <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Humoresque_(film)" title="Humoresque (film)">Humoresque</a>
+					</i> (1946) with <a class="external" href="http://en.wikipedia.org/wiki/Joan_Crawford" title="Joan Crawford">Joan
+						Crawford</a>, and the Oscar-winning Best Picture <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Gentleman%27s_Agreement" title="Gentleman's Agreement">Gentleman's Agreement</a>
+					</i> (1947). (In the latter film, Garfield took a featured, but supporting part
+					because he believed deeply in the project.) In 1948 he was nominated for the <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actor" title="Academy Award for Best Actor">Academy Award for Best Actor</a> for
+					his starring role in <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Body_and_Soul_(1947_film)" title="Body and Soul (1947 film)">Body and Soul</a>
+					</i> (1947). That same year, Garfield returned to Broadway in the play
+						<i>Skipper Next to God</i>. A strong-willed and often verbally combative
+					individual, Garfield did not hesitate to venture out on his own when the
+					opportunity arose. In 1946, when his contract with <a class="external" href="http://en.wikipedia.org/wiki/Warner_Bros." title="Warner Bros.">Warner
+						Bros.</a> expired, Garfield decided against renewal of his studio contract
+					and opted to start his own independent production company, one of the first <a class="external" href="http://en.wikipedia.org/wiki/Hollywood" title="Hollywood">Hollywood</a> stars to take this step.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">Long involved in liberal politics, Garfield
+					was caught up in the <a class="external" href="http://en.wikipedia.org/wiki/Communism" title="Communism">Communist</a> scare of the late 1940s and early 1950s, and supported the <a class="external" href="http://en.wikipedia.org/wiki/Committee_for_the_First_Amendment" title="Committee for the First Amendment">Committee for the First
+						Amendment</a>, which opposed governmental investigation of political
+					beliefs. When called to testify before the <a class="external" href="http://en.wikipedia.org/wiki/House_Committee_on_Un-American_Activities" title="House Committee on Un-American Activities">House Committee on
+						Un-American Activities</a>, which was empowered to investigate purported
+					communist infiltration in <a class="external" href="http://en.wikipedia.org/wiki/United_States" title="United States">America</a>, Garfield refused to name communist party members or followers,
+					testifying that, indeed, he knew none in the film industry. Indeed, Garfield
+					rejected Communism, and just prior to his death, in hopes of redeeming himself
+					in the eyes of the blacklisters, had written that he had been duped by Communist
+					ideology, in an unpublished article "I Was a Sucker for a Left Hook", a
+					reference to Garfield's movies about boxing. However, his forced testimony
+					before the committee had severely damaged his reputation. He was <a class="external" href="http://en.wikipedia.org/wiki/Hollywood_blacklist" title="Hollywood blacklist">blacklisted</a> in <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Red_Channels" title="Red Channels">Red Channels</a>
+					</i>, and barred from future employment as an actor by Hollywood <a class="external" href="http://en.wikipedia.org/wiki/Movie_studio" title="Movie studio">movie studio</a> bosses for the remainder of his
+					career.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">With film work scarce because of the
+					blacklist, Garfield returned to Broadway and starred in a 1952 revival of <i><a class="external" href="http://en.wikipedia.org/wiki/Golden_Boy" title="Golden Boy">Golden Boy</a>,</i> finally being cast in the lead
+					role denied him years before.</p>
+			</wiki:career>
+			<wiki:personal>
+				<p xmlns="http://www.w3.org/1999/xhtml">He and Roberta Seidman married in February
+					1935. Though his wife had been a member of the Communist Party, there was no
+					evidence that Garfield himself was ever a Communist. They had three children:
+					Katherine (1938-45), who died of an allergic reaction, <a class="external" href="http://en.wikipedia.org/w/index.php?title=David_Garfield&amp;action=edit&amp;redlink=1" title="David Garfield (page does not exist)">David</a> (1943-1994), and <a class="external" href="http://en.wikipedia.org/w/index.php?title=Julie_Garfield&amp;action=edit&amp;redlink=1" title="Julie Garfield (page does not exist)">Julie</a> (born 1946), the
+					latter two later becoming actors themselves.</p>
+			</wiki:personal>
+			<wiki:personal>
+				<p xmlns="http://www.w3.org/1999/xhtml">Long-term heart problems, allegedly
+					aggravated by the stress of his blacklisting, led to his early death at the age
+					of 39 on May 21, 1952. Garfield is interred at <a class="external" href="http://en.wikipedia.org/wiki/Westchester_Hills_Cemetery" title="Westchester Hills Cemetery">Westchester Hills Cemetery</a> in <a class="external" href="http://en.wikipedia.org/wiki/Hastings-on-Hudson,_New_York" title="Hastings-on-Hudson, New York">Hastings-on-Hudson</a>, <a class="external" href="http://en.wikipedia.org/wiki/Westchester_County" title="Westchester County">Westchester County</a>, <a class="external" href="http://en.wikipedia.org/wiki/New_York" title="New York">New York</a>.
+					Roberta Garfield married attorney Sidney Cohn in 1954, who died in 1991. She
+					died in January 2004.</p>
+			</wiki:personal>
+			<wiki:awards>
+				<h2 xmlns="http://www.w3.org/1999/xhtml">
+					<span class="mw-headline">Awards and nominations</span>
+				</h2>
+				<ul xmlns="http://www.w3.org/1999/xhtml">
+	  <li>1948 - nominated for <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actor" title="Academy Award for Best Actor">Academy Award for Best Actor</a>
+						for <i>
+							<a class="external" href="http://en.wikipedia.org/wiki/Body_and_Soul_(1947_film)" title="Body and Soul (1947 film)">Body and Soul</a>
+						</i></li>
+	  <li>1939 - nominated for <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Supporting_Actor" title="Academy Award for Best Supporting Actor">Academy Award for Best
+							Supporting Actor</a> for <i>
+							<a class="external" href="http://en.wikipedia.org/wiki/Four_Daughters" title="Four Daughters">Four Daughters</a>
+						</i></li>
+	</ul>
+				<p xmlns="http://www.w3.org/1999/xhtml">Garfield was given a star on the <a class="external" href="http://en.wikipedia.org/wiki/Hollywood_Walk_of_Fame" title="Hollywood Walk of Fame">Hollywood Walk of Fame</a> at 7065 <a class="external" href="http://en.wikipedia.org/wiki/Hollywood_Boulevard" title="Hollywood Boulevard">Hollywood Boulevard</a>.</p>
+			</wiki:awards>
+			<wiki:career/>
+			<ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><i>Swingtime in the Movies</i> (<a class="external" href="http://en.wikipedia.org/wiki/1938_in_film" title="1938 in film">1938</a>)</li>
+	<li><i>Meet the Stars #1: Chinese Garden Festival</i> (<a class="external" href="http://en.wikipedia.org/wiki/1940_in_film" title="1940 in film">1940</a>)</li>
+	<li><i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Show_Business_at_War" title="Show Business at War">Show Business at War</a>
+					</i> (<a class="external" href="http://en.wikipedia.org/wiki/1943_in_film" title="1943 in film">1943</a>)</li>
+	<li><i>Screen Snapshots: The Skolsky Party</i> (<a class="external" href="http://en.wikipedia.org/wiki/1946_in_film" title="1946 in film">1946</a>)</li>
+	<li><i>Screen Snapshots: Out of This World Series</i> (<a class="external" href="http://en.wikipedia.org/wiki/1947_in_film" title="1947 in film">1947</a>)</li>
+      </ul>
+			<h2 xmlns="http://www.w3.org/1999/xhtml">
+				<span class="mw-headline">Further reading</span>
+			</h2>
+			<ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Jim_Beaver" title="Jim Beaver">Jim Beaver</a>. <i>John Garfield: His Life and Films</i>
+					Cranbury NJ, A.S. Barnes &amp; Co., 1978 <a class="external" href="http://en.wikipedia.org/wiki/Special:BookSources/0498018903">ISBN
+						0-49801-890-3</a></li>
+	<li>Nott, Robert. <i>He Ran All the Way: The Life of John Garfield</i>. New York,
+					Limelight Editions, 2003 <a class="external" href="http://en.wikipedia.org/wiki/Special:BookSources/0879109858">ISBN
+						0-87910-985-8</a></li>
+	<li>Morris, George. <i>John Garfield</i>. New York, Jove Publications, 1977 <a class="external" href="http://en.wikipedia.org/wiki/Special:BookSources/0156462508">ISBN
+						0-15-646250-8</a></li>
+      </ul>
+			<h2 xmlns="http://www.w3.org/1999/xhtml">
+				<span class="mw-headline">External links</span>
+			</h2>
+			<ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/name/nm0002092/" title="http://www.imdb.com/name/nm0002092/" rel="nofollow">John Garfield</a>
+					at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	<li><a href="http://www.ibdb.com/person.asp?ID=41788" title="http://www.ibdb.com/person.asp?ID=41788" rel="nofollow">John
+						Garfield</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Broadway_Database" title="Internet Broadway Database">Internet Broadway Database</a></li>
+	<li>
+					<a href="http://themave.com/Garfield/" title="http://themave.com/Garfield/" rel="nofollow">John Garfield - The first Rebel</a>
+				</li>
+	<li><a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=382" title="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=382" rel="nofollow">John Garfield</a> at <a class="external" href="http://en.wikipedia.org/wiki/Find_A_Grave" title="Find A Grave">Find A
+						Grave</a></li>
+      </ul>
+		</wiki:description>
+	</wiki:person>
+	<wiki:film-title link="/wiki/Body_and_Soul_(1947_film)">Body and Soul</wiki:film-title>
+	<wiki:film link="/wiki/Body_and_Soul_(1947_film)" title="Body and Soul">
+		<wiki:oscar-ref year="1947" span="1" winner="false" award="lead-actor" person-link="/wiki/John_Garfield" person-name="John Garfield"/>
+		<wiki:director link="/wiki/Robert_Rossen">Robert Rossen</wiki:director>
+		<wiki:writer link="/wiki/Abraham_Polonsky">Abraham Polonsky</wiki:writer>
+		<wiki:distributor link="/wiki/United_Artists">United Artists</wiki:distributor>
+		<wiki:starring link="/wiki/John_Garfield">John Garfield</wiki:starring>
+		<wiki:starring link="/wiki/Lilli_Palmer">Lilli Palmer</wiki:starring>
+		<wiki:starring link="/wiki/Hazel_Brooks">Hazel Brooks</wiki:starring>
+		<wiki:starring link="/wiki/Anne_Revere">Anne Revere</wiki:starring>
+		<wiki:starring link="/wiki/William_Conrad">William Conrad</wiki:starring>
+		<wiki:language link="/wiki/English_language">English</wiki:language>
+		<wiki:description>
+			<wiki:abstract>
+				<p xmlns="http://www.w3.org/1999/xhtml"><i>
+						<b>Body and Soul</b>
+					</i> is a <a class="external" href="http://en.wikipedia.org/wiki/1947" title="1947">1947</a>
+					<a class="external" href="http://en.wikipedia.org/wiki/Film_noir" title="Film noir">film noir</a> which tells the story of a <a class="external" href="http://en.wikipedia.org/wiki/Boxing" title="Boxing">boxer</a> who becomes involved with crooked promoters. It stars <a class="external" href="http://en.wikipedia.org/wiki/John_Garfield" title="John Garfield">John Garfield</a>, <a class="external" href="http://en.wikipedia.org/wiki/Lilli_Palmer" title="Lilli Palmer">Lilli
+						Palmer</a>, <a class="external" href="http://en.wikipedia.org/wiki/Hazel_Brooks" title="Hazel Brooks">Hazel
+						Brooks</a>, <a class="external" href="http://en.wikipedia.org/wiki/Anne_Revere" title="Anne Revere">Anne
+						Revere</a> and <a class="external" href="http://en.wikipedia.org/wiki/William_Conrad" title="William Conrad">William Conrad</a>.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">The movie, written by <a class="external" href="http://en.wikipedia.org/wiki/Abraham_Polonsky" title="Abraham Polonsky">Abraham Polonsky</a> and directed by <a class="external" href="http://en.wikipedia.org/wiki/Robert_Rossen" title="Robert Rossen">Robert Rossen</a>, is considered the first great
+					boxing picture; it's also a cautionary tale about the lure of money—and how it
+					can derail even a strong common man in his pursuit of success.</p>
+			</wiki:abstract>
+			<wiki:plot>
+				<h2 xmlns="http://www.w3.org/1999/xhtml">
+					<span class="mw-headline">Plot</span>
+				</h2>
+				<p xmlns="http://www.w3.org/1999/xhtml">Charley Davis, against the wishes of his
+					mother, becomes a boxer. As he becomes more successful the fighter becomes
+					surrounded by shady characters, including an unethical promoter named Roberts,
+					who tempt the man with a number of vices. Charley finds himself faced with
+					increasingly difficult choices.</p>
+			</wiki:plot>
+			<h2 xmlns="http://www.w3.org/1999/xhtml">
+				<span class="mw-headline">Reaction</span>
+			</h2>
+			<p xmlns="http://www.w3.org/1999/xhtml">The film received positive reviews when first
+				released. Some modern film reviews find the film's message heavy handed today but
+				most reviewers continue to praise Garfield's performance. <a href="http://www.sover.net/~ozus/bodyandsoul.htm" title="http://www.sover.net/~ozus/bodyandsoul.htm" rel="nofollow">[1]</a></p>
+			<p xmlns="http://www.w3.org/1999/xhtml"><a class="external" href="http://en.wikipedia.org/wiki/TV_Guide" title="TV Guide">TV Guide</a>'s
+				review notes "The fight sequences, in particular, brought a kind of realism to the
+				genre that had never before existed (James Wong Howe wore skates and rolled around
+				the ring shooting the fight scenes with a hand-held camera). A knockout on all
+				levels." <a href="http://online.tvguide.com/movies/database/ShowMovie.asp?MI=20044" title="http://online.tvguide.com/movies/database/ShowMovie.asp?MI=20044" rel="nofollow">[2]</a></p>
+			<p xmlns="http://www.w3.org/1999/xhtml">It's known for its fight scenes which influenced
+				the Scorsese classic <a class="external" href="http://en.wikipedia.org/wiki/Raging_Bull" title="Raging Bull">Raging
+					Bull</a>.</p>
+			<wiki:awards>
+				<h2 xmlns="http://www.w3.org/1999/xhtml">
+					<span class="mw-headline">Awards</span>
+				</h2>
+				<p xmlns="http://www.w3.org/1999/xhtml">It won the <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Film_Editing" title="Academy Award for Film Editing">Academy Award for Film Editing</a>
+					and was nominated for <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actor" title="Academy Award for Best Actor">Best Actor in a Leading Role</a> (John
+					Garfield) and <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Writing_Original_Screenplay" title="Academy Award for Writing Original Screenplay">Best Writing, Original
+						Screenplay</a>.</p>
+			</wiki:awards>
+			<h2 xmlns="http://www.w3.org/1999/xhtml">
+				<span class="mw-headline">External links</span>
+			</h2>
+			<ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/title/tt0039204/" title="http://www.imdb.com/title/tt0039204/" rel="nofollow">
+						<i>Body and Soul (1947 film)</i>
+					</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+      </ul>
+		</wiki:description>
+	</wiki:film>
+</wiki:nominee>

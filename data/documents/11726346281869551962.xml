@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="1951" span="1" winner="false" award="supporting-actress" xmlns:wiki="http://marklogic.com/wikipedia">
+  <!--
+                            Copyright (c) 2010 MarkLogic Corporation.
+                            Permission is granted to copy, distribute and/or modify this document
+                            under the terms of the GNU Free Documentation License, Version 1.2
+                            or any later version published by the Free Software Foundation;
+                            with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+                            A copy of the license is included in the section entitled "GNU
+                            Free Documentation License"
+                            
+                            Content derived from http://en.wikipedia.org/wiki/The_Mating_Season_(film) and http://en.wikipedia.org/wiki/Thelma_Ritter
+                            Modified in May 2009 by Mark Logic Corporation under the terms of the GNU Free Documentation License.
+                        -->
+  <wiki:name link="/wiki/Thelma_Ritter">Thelma Ritter</wiki:name>
+  <wiki:person link="/wiki/Thelma_Ritter" name="Thelma Ritter">
+    <wiki:oscar year="1950" span="1" winner="false" award="supporting-actress" film-link="/wiki/All_About_Eve" film-title="All About Eve"/>
+    <wiki:oscar year="1951" span="1" winner="false" award="supporting-actress" film-link="/wiki/The_Mating_Season_(film)" film-title="The Mating Season"/>
+    <wiki:oscar year="1952" span="1" winner="false" award="supporting-actress" film-link="/wiki/With_a_Song_in_My_Heart_(film)" film-title="With a Song in My Heart"/>
+    <wiki:oscar year="1953" span="1" winner="false" award="supporting-actress" film-link="/wiki/Pickup_on_South_Street" film-title="Pickup on South Street"/>
+    <wiki:oscar year="1959" span="1" winner="false" award="supporting-actress" film-link="/wiki/Pillow_Talk_(film)" film-title="Pillow Talk"/>
+    <wiki:oscar year="1962" span="1" winner="false" award="supporting-actress" film-link="/wiki/Birdman_of_Alcatraz_(film)" film-title="Birdman of Alcatraz"/>
+    <wiki:image link="http://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Thelma_Ritter_in_The_Mating_Season_trailer.jpg/220px-Thelma_Ritter_in_The_Mating_Season_trailer.jpg"/>
+    <wiki:birth>
+      <wiki:date/>
+      <wiki:place>
+	<wiki:primary link="/wiki/Brooklyn,_New_York">Brooklyn, New York</wiki:primary>
+	<wiki:secondary link=""/>
+      <enrich><woeid xmlns="http://where.yahooapis.com/v1/schema.rng">2459115</woeid><placeTypeName code="7" xmlns="http://where.yahooapis.com/v1/schema.rng">Town</placeTypeName><name xmlns="http://where.yahooapis.com/v1/schema.rng">New York</name><country code="US" type="Country" xmlns="http://where.yahooapis.com/v1/schema.rng">United States</country><admin1 code="US-NY" type="State" xmlns="http://where.yahooapis.com/v1/schema.rng">New York</admin1><admin2 xmlns="http://where.yahooapis.com/v1/schema.rng"/><admin3 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality1 type="Town" xmlns="http://where.yahooapis.com/v1/schema.rng">New York</locality1><locality2 xmlns="http://where.yahooapis.com/v1/schema.rng"/><postal xmlns="http://where.yahooapis.com/v1/schema.rng"/><centroid xmlns="http://where.yahooapis.com/v1/schema.rng"><latitude>40.714550</latitude><longitude>-74.007118</longitude></centroid><boundingBox xmlns="http://where.yahooapis.com/v1/schema.rng"><southWest><latitude>40.495682</latitude><longitude>-74.255653</longitude></southWest><northEast><latitude>40.917622</latitude><longitude>-73.689484</longitude></northEast></boundingBox><areaRank xmlns="http://where.yahooapis.com/v1/schema.rng">4</areaRank><popRank xmlns="http://where.yahooapis.com/v1/schema.rng">13</popRank></enrich></wiki:place>
+    </wiki:birth>
+    <wiki:death>
+      <wiki:date>February 5, 1969</wiki:date>
+      <wiki:place>
+	<wiki:primary link="/wiki/New_York_City,_New_York">New York City, New York</wiki:primary>
+	<wiki:secondary link=""/>
+      </wiki:place>
+    </wiki:death>
+    <wiki:description>
+      <p xmlns="http://www.w3.org/1999/xhtml"><b>Thelma Ritter</b> (February 14, 1902 â€“ February 5, 1969) was an American supporting and character actress from the 1940s until her death in 1969.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Early_life">Early life</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">Ritter was born in <a class="external" href="http://en.wikipedia.org/wiki/Brooklyn,_New_York" title="Brooklyn, New York">Brooklyn, New York</a> in 1902. After appearing in high school plays and <a class="external" href="http://en.wikipedia.org/wiki/Summer_stock_theatre" title="Summer stock theatre">stock companies</a>, she trained as an actress at the <a class="external" href="http://en.wikipedia.org/wiki/American_Academy_of_Dramatic_Arts" title="American Academy of Dramatic Arts">American Academy of Dramatic Arts</a>. She established a stage career but took a hiatus to raise her two children by her husband, Joseph Moran, an actor turned advertising-executive.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Career">Career</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">Ritter did stock theater and radio shows early in her career, without much impact. Ritter's first movie role was in <i><a class="external" href="http://en.wikipedia.org/wiki/Miracle_on_34th_Street" title="Miracle on 34th Street">Miracle on 34th Street</a></i> (1947). She made a memorable impression in a brief uncredited part, as a frustrated mother unable to find the toy that <a class="external" href="http://en.wikipedia.org/wiki/Kris_Kringle" title="Kris Kringle">Kris Kringle</a> has promised to her son. Her second role, in writer-director <a class="external" href="http://en.wikipedia.org/wiki/Joseph_L._Mankiewicz" title="Joseph L. Mankiewicz">Joseph L. Mankiewicz</a>'s <i><a class="external" href="http://en.wikipedia.org/wiki/A_Letter_to_Three_Wives" title="A Letter to Three Wives">A Letter to Three Wives</a></i> (1949), also left a mark, although Ritter was again uncredited.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Mankiewicz kept Ritter in mind, and cast her as "Birdie" in <i><a class="external" href="http://en.wikipedia.org/wiki/All_About_Eve" title="All About Eve">All About Eve</a></i> (1950), which earned her an Oscar nomination. A second nomination followed for her work in <a class="external" href="http://en.wikipedia.org/wiki/Mitchell_Leisen" title="Mitchell Leisen">Mitchell Leisen</a>'s' classic ensemble <a class="external" href="http://en.wikipedia.org/wiki/Screwball_comedy" title="Screwball comedy">screwball comedy</a> <i><a class="external" href="http://en.wikipedia.org/wiki/The_Mating_Season_(film)" title="The Mating Season (film)">The Mating Season</a></i> (1951) starring <a class="external" href="http://en.wikipedia.org/wiki/Gene_Tierney" title="Gene Tierney">Gene Tierney</a> and <a class="external" href="http://en.wikipedia.org/wiki/John_Lund" title="John Lund">John Lund</a>. Ritter enjoyed steady film work for the next dozen years. She also appeared in many of the episodic drama TV series of the 1950s, such as <i><a class="external" href="http://en.wikipedia.org/wiki/Alfred_Hitchcock_Presents" title="Alfred Hitchcock Presents">Alfred Hitchcock Presents</a></i>, <i><a class="external" href="http://en.wikipedia.org/wiki/General_Electric_Theater" title="General Electric Theater">General Electric Theater</a></i>, and <i><a class="external" href="http://en.wikipedia.org/wiki/The_United_States_Steel_Hour" title="The United States Steel Hour">The United States Steel Hour</a></i>. Later film roles were as <a class="external" href="http://en.wikipedia.org/wiki/James_Stewart_(actor)" title="James Stewart (actor)">James Stewart</a>'s nurse in <i><a class="external" href="http://en.wikipedia.org/wiki/Rear_Window" title="Rear Window">Rear Window</a></i> (1954) and as <a class="external" href="http://en.wikipedia.org/wiki/Doris_Day" title="Doris Day">Doris Day</a>'s housekeeper in <i><a class="external" href="http://en.wikipedia.org/wiki/Pillow_Talk_(film)" title="Pillow Talk (film)">Pillow Talk</a></i> (1959).</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Although best-known for comedy roles, she played the occasional dramatic role, most notably in <i><a class="external" href="http://en.wikipedia.org/wiki/Pickup_on_South_Street" title="Pickup on South Street">Pickup on South Street</a></i> (1953) and <i><a class="external" href="http://en.wikipedia.org/wiki/The_Misfits_(film)" title="The Misfits (film)">The Misfits</a></i> (1961).</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Death">Death</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">In February 1969, shortly after having made an appearance on <i><a class="external" href="http://en.wikipedia.org/wiki/Jerry_Lewis" title="Jerry Lewis">The Jerry Lewis Show</a></i>, Ritter suffered a <a class="external" href="http://en.wikipedia.org/wiki/Myocardial_infarction" title="Myocardial infarction">heart attack</a>, which claimed her life at age 66 (just nine days before her 67th birthday).</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Filmography">Filmography</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Awards_and_nominations">Awards and nominations</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">During her career, Ritter was nominated for an <a class="external" href="http://en.wikipedia.org/wiki/Academy_Awards" title="Academy Awards">Oscar</a> six times, giving her the distinction of being one of the two actresses (tied with <a class="external" href="http://en.wikipedia.org/wiki/Deborah_Kerr" title="Deborah Kerr">Deborah Kerr</a>) most nominated for the award in an acting category without a win. The current record for all actors is <a class="external" href="http://en.wikipedia.org/wiki/Peter_O%27Toole" title="Peter O'Toole">Peter O'Toole</a> with eight nominations without a win, followed by <a class="external" href="http://en.wikipedia.org/wiki/Richard_Burton" title="Richard Burton">Richard Burton</a> with seven nominations. Both Kerr and O'Toole have received honorary awards from the Academy, however. In 1954, Thelma Ritter co-hosted the Oscar ceremony, notably trading wisecracks with <a class="external" href="http://en.wikipedia.org/wiki/Bob_Hope" title="Bob Hope">Bob Hope</a>.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Nominated <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Supporting_Actress" title="Academy Award for Best Supporting Actress">Best Actress in a Supporting Role</a> for:</p>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/All_About_Eve" title="All About Eve">All About Eve</a></i> (1950)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Mating_Season_(film)" title="The Mating Season (film)">The Mating Season</a></i> (1951)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/With_a_Song_in_My_Heart_(film)" title="With a Song in My Heart (film)">With a Song in My Heart</a></i> (1952)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Pickup_on_South_Street" title="Pickup on South Street">Pickup on South Street</a></i> (1953)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Pillow_Talk_(film)" title="Pillow Talk (film)">Pillow Talk</a></i> (1959)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Birdman_of_Alcatraz_(film)" title="Birdman of Alcatraz (film)">Birdman of Alcatraz</a></i> (1962)</li>
+      </ul>
+      <p xmlns="http://www.w3.org/1999/xhtml">Nominated Emmy Best Actress in a Supporting Role for the Goodyear Television Playhouse production of <i><a class="external" href="http://en.wikipedia.org/wiki/The_Catered_Affair" title="The Catered Affair">The Catered Affair</a></i>.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Nominated for <a class="external" href="http://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Supporting_Actress_-_Motion_Picture" title="Golden Globe Award for Best Supporting Actress - Motion Picture">Best Supporting Actress</a> for:</p>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/All_About_Eve" title="All About Eve">All About Eve</a></i> (1950)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Mating_Season_(film)" title="The Mating Season (film)">The Mating Season</a></i> (1951)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Boeing_Boeing_(1965_film)" title="Boeing Boeing (1965 film)">Boeing Boeing</a></i> (1965)</li>
+      </ul>
+      <p xmlns="http://www.w3.org/1999/xhtml">Awarded <a class="external" href="http://en.wikipedia.org/wiki/Tony_Award_for_Best_Leading_Actress_in_a_Musical" title="Tony Award for Best Leading Actress in a Musical">Best Actress (Musical)</a> (1957) for <i><a class="external" href="http://en.wikipedia.org/wiki/New_Girl_in_Town" title="New Girl in Town">New Girl in Town</a></i> in a rare tie (with her co-star, <a class="external" href="http://en.wikipedia.org/wiki/Gwen_Verdon" title="Gwen Verdon">Gwen Verdon</a>)</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="References">References</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=6237010" rel="nofollow">Thelma Ritter</a> at <a class="external" href="http://en.wikipedia.org/wiki/Find_a_Grave" title="Find a Grave">Find a Grave</a></li>
+	<li><a href="http://www.ibdb.com/person.asp?ID=57879" rel="nofollow">Thelma Ritter</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Broadway_Database" title="Internet Broadway Database">Internet Broadway Database</a></li>
+	<li><a href="http://www.imdb.com/name/nm0728812/" rel="nofollow">Thelma Ritter</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+      </ul>
+    </wiki:description>
+  </wiki:person>
+  <wiki:film-title link="/wiki/The_Mating_Season_(film)">The Mating Season</wiki:film-title>
+  <wiki:film link="/wiki/The_Mating_Season_(film)" title="The Mating Season">
+    <wiki:oscar-ref year="1951" span="1" winner="false" award="supporting-actress" person-link="/wiki/Thelma_Ritter" person-name="Thelma Ritter"/>
+    <wiki:producer link="/wiki/Charles_Brackett">Charles Brackett</wiki:producer>
+    <wiki:director link="/wiki/Mitchell_Leisen">Mitchell Leisen</wiki:director>
+    <wiki:writer link="/wiki/Richard_Breen">Richard Breen</wiki:writer>
+    <wiki:writer link="/wiki/Walter_Reisch">Walter Reisch</wiki:writer>
+    <wiki:writer link="/w/index.php?title=Caesar_Dunn&amp;action=edit&amp;redlink=1">Caesar Dunn</wiki:writer>
+    <wiki:distributor link="/wiki/Paramount_Pictures">Paramount Pictures</wiki:distributor>
+    <wiki:starring link="/wiki/Gene_Tierney">Gene Tierney</wiki:starring>
+    <wiki:starring link="/wiki/John_Lund">John Lund</wiki:starring>
+    <wiki:starring link="/wiki/Miriam_Hopkins">Miriam Hopkins</wiki:starring>
+    <wiki:starring link="/wiki/Thelma_Ritter">Thelma Ritter</wiki:starring>
+    <wiki:description>
+      <wiki:abstract>
+	<p xmlns="http://www.w3.org/1999/xhtml"><i><b>The Mating Season</b></i> is a <a class="external" href="http://en.wikipedia.org/wiki/1951_in_film" title="1951 in film">1951</a> classic <a class="external" href="http://en.wikipedia.org/wiki/Farce" title="Farce">farce</a> with elements of <a class="external" href="http://en.wikipedia.org/wiki/Screwball_comedy" title="Screwball comedy">screwball comedy</a>. A film made by <a class="external" href="http://en.wikipedia.org/wiki/Paramount_Pictures" title="Paramount Pictures">Paramount Pictures</a>, it was directed by <a class="external" href="http://en.wikipedia.org/wiki/Mitchell_Leisen" title="Mitchell Leisen">Mitchell Leisen</a> and produced by <a class="external" href="http://en.wikipedia.org/wiki/Charles_Brackett" title="Charles Brackett">Charles Brackett</a> from a <a class="external" href="http://en.wikipedia.org/wiki/Screenplay" title="Screenplay">screenplay</a> by Charles Brackett, <a class="external" href="http://en.wikipedia.org/wiki/Richard_Breen" title="Richard Breen">Richard Breen</a> and <a class="external" href="http://en.wikipedia.org/wiki/Walter_Reisch" title="Walter Reisch">Walter Reisch</a>, based on the play <i>Maggie</i> by Caesar Dunn. The <a class="external" href="http://en.wikipedia.org/wiki/Ensemble_cast" title="Ensemble cast">ensemble cast</a> stars <a class="external" href="http://en.wikipedia.org/wiki/Gene_Tierney" title="Gene Tierney">Gene Tierney</a>, <a class="external" href="http://en.wikipedia.org/wiki/John_Lund" title="John Lund">John Lund</a>, <a class="external" href="http://en.wikipedia.org/wiki/Miriam_Hopkins" title="Miriam Hopkins">Miriam Hopkins</a>, and <a class="external" href="http://en.wikipedia.org/wiki/Thelma_Ritter" title="Thelma Ritter">Thelma Ritter</a>.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Plot">Plot</span></h2>
+      </wiki:abstract>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Cast">Cast</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Gene_Tierney" title="Gene Tierney">Gene Tierney</a> as Maggie Carleton McNulty</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/John_Lund" title="John Lund">John Lund</a> as Val McNulty</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Miriam_Hopkins" title="Miriam Hopkins">Miriam Hopkins</a> as Fran Carleton</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Thelma_Ritter" title="Thelma Ritter">Thelma Ritter</a> as Ellen McNulty</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Jan_Sterling" title="Jan Sterling">Jan Sterling</a> as Betsy Donaldson</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Larry_Keating" title="Larry Keating">Larry Keating</a> as George Kalenger, Sr.</li>
+	<li>James Lorimer as George C. Kalenger, Jr.</li>
+	<li>Gladys Hurlbut as Natalie Conger</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Cora_Witherspoon" title="Cora Witherspoon">Cora Witherspoon</a> as Mrs. Owen Williamson</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Malcolm_Keen" title="Malcolm Keen">Malcolm Keen</a> as Owen Williamson</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Ellen_Corby" title="Ellen Corby">Ellen Corby</a> as Annie</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Billie_Bird" title="Billie Bird">Billie Bird</a> as Mugsy</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Awards">Awards</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/1st_Berlin_International_Film_Festival" title="1st Berlin International Film Festival">Berlin International Film Festival</a> - Bronze Berlin Bear (Comedies)</li>
+      </ul>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Supporting_Actress" title="Academy Award for Best Supporting Actress">Academy Award for Best Supporting Actress</a> (Thelma Ritter)</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="References">References</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/title/tt0043792/" rel="nofollow"><i>The Mating Season</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	<li><a href="http://www.allmovie.com/work/70621" rel="nofollow"><i>The Mating Season</i></a> at <a class="external" href="http://en.wikipedia.org/wiki/Allmovie" title="Allmovie">Allmovie</a></li>
+	<li><a href="http://archive.sensesofcinema.com/contents/directors/05/leisen.html" rel="nofollow">Senses of cinema: Mitchell Leisen</a></li>
+      </ul>
+    </wiki:description>
+  </wiki:film>
+</wiki:nominee>

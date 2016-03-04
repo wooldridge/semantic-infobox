@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="1932" span="2" winner="true" award="best-picture" xmlns:wiki="http://marklogic.com/wikipedia">
+  <!--
+                            Copyright (c) 2010 MarkLogic Corporation.
+                            Permission is granted to copy, distribute and/or modify this document
+                            under the terms of the GNU Free Documentation License, Version 1.2
+                            or any later version published by the Free Software Foundation;
+                            with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+                            A copy of the license is included in the section entitled "GNU
+                            Free Documentation License"
+                            
+                            Content derived from http://en.wikipedia.org/wiki/Cavalcade_(film)
+                            Modified in May 2009 by Mark Logic Corporation under the terms of the GNU Free Documentation License.
+                        -->
+  <wiki:film-title link="/wiki/Cavalcade_(film)">Cavalcade</wiki:film-title>
+  <wiki:film link="/wiki/Cavalcade_(film)" title="Cavalcade">
+    <wiki:oscar-ref year="1932" span="2" winner="false" award="lead-actress" person-link="/wiki/Diana_Wynyard" person-name="Diana Wynyard"/>
+    <wiki:oscar-ref year="1932" span="2" winner="true" award="best-director" person-link="/wiki/Frank_Lloyd" person-name="Frank Lloyd"/>
+    <wiki:oscar year="1932" span="2" winner="true" award="best-picture"/>
+    <wiki:description>
+      <p xmlns="http://www.w3.org/1999/xhtml"><b>Cavalcade</b> may refer to:</p>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Cavalcade" title="Cavalcade">Cavalcade</a>, a horseback procession, parade, or mass trail ride</li>
+	<li>A huge <a class="external" href="http://en.wikipedia.org/wiki/Parade" title="Parade">parade</a></li>
+	<li>A huge <a class="external" href="http://en.wikipedia.org/wiki/Procession" title="Procession">procession</a></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Cavalcade_(play)" title="Cavalcade (play)"><i>Cavalcade</i> (play)</a></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Cavalcade_(1933_film)" title="Cavalcade (1933 film)"><i>Cavalcade</i> (1933 film)</a>, Academy Award-winning film</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Cavalcade_(1960_film)" title="Cavalcade (1960 film)"><i>Cavalcade</i> (1960 film)</a>, Argentine film</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Cavalcade_(Catamenia_album)" title="Cavalcade (Catamenia album)"><i>Cavalcade</i> (Catamenia album)</a>, an album by metal band Catamenia</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Cavalcade_(The_Flatliners_album)" title="Cavalcade (The Flatliners album)"><i>Cavalcade</i> (The Flatliners album)</a>, an album by The Flatliners</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Cavalcade_Of_Glee_And_Dadaist_Happy_Hardcore_Pom_Poms" title="Cavalcade Of Glee And Dadaist Happy Hardcore Pom Poms">Cavalcade Of Glee And Dadaist Happy Hardcore Pom Poms</a>, an album by Venetian Snares</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Cavalcade_(horse)" title="Cavalcade (horse)">Cavalcade (horse)</a>, a thoroughbred horse</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Seth_MacFarlane%27s_Cavalcade_of_Cartoon_Comedy" title="Seth MacFarlane's Cavalcade of Cartoon Comedy">Cavalcade (animated series)</a>, a new animated series by Seth MacFarlane</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Kodak" title="Kodak">Kodak Cavalcade</a> slide projector, the precursor to the Kodak Carousel</li>
+      </ul>
+    </wiki:description>
+  </wiki:film>
+</wiki:nominee>

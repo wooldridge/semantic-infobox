@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="1965" span="1" winner="false" award="best-picture" xmlns:wiki="http://marklogic.com/wikipedia">
+  <!--
+                            Copyright (c) 2010 MarkLogic Corporation.
+                            Permission is granted to copy, distribute and/or modify this document
+                            under the terms of the GNU Free Documentation License, Version 1.2
+                            or any later version published by the Free Software Foundation;
+                            with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+                            A copy of the license is included in the section entitled "GNU
+                            Free Documentation License"
+                            
+                            Content derived from http://en.wikipedia.org/wiki/A_Thousand_Clowns
+                            Modified in May 2009 by Mark Logic Corporation under the terms of the GNU Free Documentation License.
+                        -->
+  <wiki:film-title link="/wiki/A_Thousand_Clowns">A Thousand Clowns</wiki:film-title>
+  <wiki:film link="/wiki/A_Thousand_Clowns" title="A Thousand Clowns">
+    <wiki:oscar-ref year="1965" span="1" winner="true" award="supporting-actor" person-link="/wiki/Martin_Balsam" person-name="Martin Balsam"/>
+    <wiki:oscar year="1965" span="1" winner="false" award="best-picture"/>
+    <wiki:producer link="/wiki/Fred_Coe">Fred Coe</wiki:producer>
+    <wiki:director link="/wiki/Fred_Coe">Fred Coe</wiki:director>
+    <wiki:writer link="/wiki/Herb_Gardner">Herb Gardner</wiki:writer>
+    <wiki:distributor link="/wiki/United_Artists">United Artists</wiki:distributor>
+    <wiki:starring link="/wiki/Jason_Robards">Jason Robards</wiki:starring>
+    <wiki:starring link="/wiki/Barbara_Harris_(actress)">Barbara Harris</wiki:starring>
+    <wiki:starring link="/wiki/Martin_Balsam">Martin Balsam</wiki:starring>
+    <wiki:description>
+      <wiki:abstract>
+	<p xmlns="http://www.w3.org/1999/xhtml"><i><b>A Thousand Clowns</b></i> is a 1965 American film which tells the story of a young boy who lives with his eccentric uncle Murray, who is forced to conform to society in order to keep custody of the boy. The movie was adapted by <a class="external" href="http://en.wikipedia.org/wiki/Herb_Gardner" title="Herb Gardner">Herb Gardner</a> from his 1962 play, and directed by <a class="external" href="http://en.wikipedia.org/wiki/Fred_Coe" title="Fred Coe">Fred Coe</a>. Gardner based the Murray Burns character on his friend, <a class="external" href="http://en.wikipedia.org/wiki/Jean_Shepherd" title="Jean Shepherd">Jean Shepherd</a>, who is said not to have appreciated the gesture.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Cast">Cast</span></h2>
+	<ul xmlns="http://www.w3.org/1999/xhtml">
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Jason_Robards" title="Jason Robards">Jason Robards</a>: Murray Burns</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Barbara_Harris_(actress)" title="Barbara Harris (actress)">Barbara Harris</a>: Dr. Sandra Markowitz</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Martin_Balsam" title="Martin Balsam">Martin Balsam</a>: Arnold Burns</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Barry_Gordon" title="Barry Gordon">Barry Gordon</a>: Nick Burns</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/William_Daniels" title="William Daniels">William Daniels</a>: Albert Amundson</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Gene_Saks" title="Gene Saks">Gene Saks</a>: Leo "Chuckles the Chipmunk" Herman</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Philip_Bruns" title="Philip Bruns">Philip Bruns</a>: Man in the Restaurant</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/John_McMartin" title="John McMartin">John McMartin</a>: Man in Office</li>
+	</ul>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Plot_summary">Plot summary</span></h2>
+	<p xmlns="http://www.w3.org/1999/xhtml">Unemployed television writer Murray Burns (Jason Robards), lives in a cluttered <a class="external" href="http://en.wikipedia.org/wiki/New_York_City" title="New York City">New York City</a> one-bedroom apartment with his 12-year-old nephew, Nick (Barry Gordon). Murray has been unemployed for five months after walking out on his previous job, writing jokes for a children's television show called "Chuckles the Chipmunk". Nick, the illegitimate son of Murray's sister, was left with Murray seven years earlier.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">When Nick writes a school assignment on the benefits of <a class="external" href="http://en.wikipedia.org/wiki/Unemployment_insurance" title="Unemployment insurance">unemployment insurance</a>, his school sends <a class="external" href="http://en.wikipedia.org/wiki/Social_worker" title="Social worker">social workers</a> to investigate his living conditions. Confronted by investigators for the Child Welfare Board, Sandra Markowitz (Barbara Harris) and her superior and boyfriend Albert Amundson (William Daniels), Murray is threatened with removal of the child from his custody unless he can prove he is a capable guardian of Nick.</p>
+      </wiki:abstract>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Awards_and_nominations">Awards and nominations</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">Martin Balsam won the <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Supporting_Actor" title="Academy Award for Best Supporting Actor">Academy Award for Best Supporting Actor</a> for his role in this film as Murray's brother and agent. The film was also nominated for <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture" title="Academy Award for Best Picture">Best Picture</a>, <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Original_Music_Score" title="Academy Award for Original Music Score">Best Music (Scoring of Music, Adaptation, or Treatment)</a>, and <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Writing_Adapted_Screenplay" title="Academy Award for Writing Adapted Screenplay">Best Writing (Screenplay Based on Material from Another Medium)</a>.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml"><a class="external" href="http://en.wikipedia.org/wiki/Jason_Robards" title="Jason Robards">Jason Robards</a> and <a class="external" href="http://en.wikipedia.org/wiki/Barbara_Harris_(actress)" title="Barbara Harris (actress)">Barbara Harris</a> were both nominated for <a class="external" href="http://en.wikipedia.org/wiki/Golden_Globe_Awards" title="Golden Globe Awards">Golden Globe Awards</a> for their performances. Robards for <a class="external" href="http://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Actor_-_Motion_Picture_Musical_or_Comedy" title="Golden Globe Award for Best Actor - Motion Picture Musical or Comedy">Best Actor - Musical/Comedy</a> and Harris for <a class="external" href="http://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Actress_-_Motion_Picture_Musical_or_Comedy" title="Golden Globe Award for Best Actress - Motion Picture Musical or Comedy">Best Actress - Musical/Comedy</a>.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Gardner won the <a class="external" href="http://en.wikipedia.org/wiki/Writers_Guild_of_America_Awards_1965" title="Writers Guild of America Awards 1965">1965 WGA Award</a> for Best Written American Comedy.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml"><a class="external" href="http://en.wikipedia.org/wiki/Ralph_Rosenblum" title="Ralph Rosenblum">Ralph Rosenblum</a> was nominated for the <a class="external" href="http://en.wikipedia.org/wiki/American_Cinema_Editors" title="American Cinema Editors">American Cinema Editors</a> 1966 "Golden Eddie" award for film editing.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="References">References</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">Karen Aldrich (<a class="external" href="http://en.wikipedia.org/wiki/Dinah_Manoff" title="Dinah Manoff">Dinah Manoff</a>) mentions A Thousand Clowns in 1980's <i><a class="external" href="http://en.wikipedia.org/wiki/Ordinary_People" title="Ordinary People">Ordinary People</a></i>.<br/>
+A Thousand Clowns is also the name of a popular '90s NY-based rock band.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/title/tt0059798/" rel="nofollow"><i>A Thousand Clowns</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	<li><a href="http://www.allmovie.com/work/49628" rel="nofollow"><i>A Thousand Clowns</i></a> at <a class="external" href="http://en.wikipedia.org/wiki/Allmovie" title="Allmovie">Allmovie</a></li>
+	<li><a href="http://www.rottentomatoes.com/m/thousand_clowns/" rel="nofollow"><i>A Thousand Clowns</i></a> at <a class="external" href="http://en.wikipedia.org/wiki/Rotten_Tomatoes" title="Rotten Tomatoes">Rotten Tomatoes</a></li>
+      </ul>
+    </wiki:description>
+  </wiki:film>
+</wiki:nominee>

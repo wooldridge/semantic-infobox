@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="1929" span="2" winner="false" award="lead-actress" xmlns:wiki="http://marklogic.com/wikipedia">
+  <!--
+                            Copyright (c) 2010 MarkLogic Corporation.
+                            Permission is granted to copy, distribute and/or modify this document
+                            under the terms of the GNU Free Documentation License, Version 1.2
+                            or any later version published by the Free Software Foundation;
+                            with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+                            A copy of the license is included in the section entitled "GNU
+                            Free Documentation License"
+                            
+                            Content derived from http://en.wikipedia.org/wiki/Sarah_and_Son and http://en.wikipedia.org/wiki/Ruth_Chatterton
+                            Modified in May 2009 by Mark Logic Corporation under the terms of the GNU Free Documentation License.
+                        -->
+  <wiki:name link="/wiki/Ruth_Chatterton">Ruth Chatterton</wiki:name>
+  <wiki:person link="/wiki/Ruth_Chatterton" name="Ruth Chatterton">
+    <wiki:oscar year="1928" span="2" winner="false" award="lead-actress" film-link="/wiki/Madame_X_(1929_film)" film-title="Madame X"/>
+    <wiki:oscar year="1929" span="2" winner="false" award="lead-actress" film-link="/wiki/Sarah_and_Son" film-title="Sarah and Son"/>
+    <wiki:image link="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Ruth_Chatterton_in_Female_trailer.jpg/250px-Ruth_Chatterton_in_Female_trailer.jpg"/>
+    <wiki:birth>
+      <wiki:date>1892-12-24</wiki:date>
+      <wiki:place>
+	<wiki:primary link="/wiki/New_York_City,_New_York">New York City</wiki:primary>
+	<wiki:secondary link="/wiki/New_York">New York</wiki:secondary>
+      <enrich><woeid xmlns="http://where.yahooapis.com/v1/schema.rng">2347591</woeid><placeTypeName code="8" xmlns="http://where.yahooapis.com/v1/schema.rng">State</placeTypeName><name xmlns="http://where.yahooapis.com/v1/schema.rng">New York</name><country code="US" type="Country" xmlns="http://where.yahooapis.com/v1/schema.rng">United States</country><admin1 code="US-NY" type="State" xmlns="http://where.yahooapis.com/v1/schema.rng">New York</admin1><admin2 xmlns="http://where.yahooapis.com/v1/schema.rng"/><admin3 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality1 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality2 xmlns="http://where.yahooapis.com/v1/schema.rng"/><postal xmlns="http://where.yahooapis.com/v1/schema.rng"/><centroid xmlns="http://where.yahooapis.com/v1/schema.rng"><latitude>42.855350</latitude><longitude>-76.501671</longitude></centroid><boundingBox xmlns="http://where.yahooapis.com/v1/schema.rng"><southWest><latitude>40.496029</latitude><longitude>-79.761971</longitude></southWest><northEast><latitude>45.012810</latitude><longitude>-71.856247</longitude></northEast></boundingBox><areaRank xmlns="http://where.yahooapis.com/v1/schema.rng">11</areaRank><popRank xmlns="http://where.yahooapis.com/v1/schema.rng">0</popRank></enrich></wiki:place>
+    </wiki:birth>
+    <wiki:death>
+      <wiki:date>November 24, 1961</wiki:date>
+      <wiki:place>
+	<wiki:primary link="/wiki/Norwalk,_Connecticut">Norwalk</wiki:primary>
+	<wiki:secondary link="/wiki/Connecticut">Connecticut</wiki:secondary>
+      </wiki:place>
+    </wiki:death>
+    <wiki:description>
+      <wiki:abstract>
+	<p xmlns="http://www.w3.org/1999/xhtml"><b>Ruth Chatterton</b> (December 24, 1892 â€“ November 24, 1961) was an American actress and novelist. She also flew planes and knew <a class="external" href="http://en.wikipedia.org/wiki/Amelia_Earhart" title="Amelia Earhart">Amelia Earhart</a>.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Early_life">Early life</span></h2>
+	<p xmlns="http://www.w3.org/1999/xhtml">Born in <a class="external" href="http://en.wikipedia.org/wiki/New_York_City" title="New York City">New York City</a> on <a class="external" href="http://en.wikipedia.org/wiki/Christmas_Eve" title="Christmas Eve">Christmas Eve</a> 1892, of English and French extraction to Walter Smith and Lillian Reed Chatterton. She was a descendant of the English poet <a class="external" href="http://en.wikipedia.org/wiki/Thomas_Chatterton" title="Thomas Chatterton">Thomas Chatterton</a>. She was on <a class="external" href="http://en.wikipedia.org/wiki/Broadway_theatre" title="Broadway theatre">Broadway</a> by the age of 14, as a dancer.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Career">Career</span></h2>
+	<p xmlns="http://www.w3.org/1999/xhtml">After leaving a private school at the age of 14, Ruth started off as a chorus girl in a stage play and was a star on the American stage by age eighteen. Her first film was <i><a class="external" href="http://en.wikipedia.org/wiki/Sins_of_the_Fathers" title="Sins of the Fathers">Sins of the Fathers</a></i> in 1928, and almost all of her films were <a class="external" href="http://en.wikipedia.org/wiki/Pre-Code" title="Pre-Code">pre-Code</a>. She was nominated for the <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actress" title="Academy Award for Best Actress">Academy Award for Best Actress</a> for two films: <i><a class="external" href="http://en.wikipedia.org/wiki/Madame_X_(1929_film)" title="Madame X (1929 film)">Madame X</a></i> (1929) and <i><a class="external" href="http://en.wikipedia.org/wiki/Sarah_and_Son" title="Sarah and Son">Sarah and Son</a></i> (1930). She starred in the <a class="external" href="http://en.wikipedia.org/wiki/Paramount_Pictures" title="Paramount Pictures">Paramount Pictures</a> all-star revue <i><a class="external" href="http://en.wikipedia.org/wiki/Paramount_on_Parade" title="Paramount on Parade">Paramount on Parade</a></i> (1930).</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">Her stage experience enhanced many of her film performances when the "silents" segued to the "talkies." Although her first "talkies" were merely filmed stage productions, her enunciation and acting were appreciated by the public and critics alike. When she left <a class="external" href="http://en.wikipedia.org/wiki/Paramount_Pictures" title="Paramount Pictures">Paramount</a>, her initial studio, for <a class="external" href="http://en.wikipedia.org/wiki/Warner_Brothers" title="Warner Brothers">Warner Brothers</a> (along with <a class="external" href="http://en.wikipedia.org/wiki/Kay_Francis" title="Kay Francis">Kay Francis</a> and <a class="external" href="http://en.wikipedia.org/wiki/William_Powell" title="William Powell">William Powell</a>), it was noted that the brothers Warner needed an infusion of "class."</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">She co-starred in the film <i><a class="external" href="http://en.wikipedia.org/wiki/Dodsworth_(film)" title="Dodsworth (film)">Dodsworth</a></i> (1936), for <a class="external" href="http://en.wikipedia.org/wiki/Samuel_Goldwyn" title="Samuel Goldwyn">Samuel Goldwyn</a> and <a class="external" href="http://en.wikipedia.org/wiki/United_Artists" title="United Artists">United Artists</a>, which is widely regarded as her finest film, although not a pre-Code film. Chatterton's last film was <i>A Royal Divorce</i> in 1938. However, she appeared on U.S. <a class="external" href="http://en.wikipedia.org/wiki/Television" title="Television">television</a> in several plays, including a TV adaptation of <i>Dodsworth</i>, in which she recreated her film role. Her last television appearance was as Gertrude in a 1953 adaptation of <i><a class="external" href="http://en.wikipedia.org/wiki/Hamlet" title="Hamlet">Hamlet</a></i>, with <a class="external" href="http://en.wikipedia.org/wiki/Maurice_Evans_(actor)" title="Maurice Evans (actor)">Maurice Evans</a> in the title role, on the <i><a class="external" href="http://en.wikipedia.org/wiki/Hallmark_Hall_of_Fame" title="Hallmark Hall of Fame">Hallmark Hall of Fame</a></i>. She then moved to England.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Later_life">Later life</span></h2>
+	<p xmlns="http://www.w3.org/1999/xhtml">Having left acting, she began a successful writing career, producing several novels. She was also one of the few <a class="external" href="http://en.wikipedia.org/wiki/Aviator" title="Aviator">aviatrices</a> at the time, and was acquainted with <a class="external" href="http://en.wikipedia.org/wiki/Amelia_Earhart" title="Amelia Earhart">Amelia Earhart</a>. Chatterton crisscrossed the U.S. several times solo.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">Chatterton's first husband was actor <a class="external" href="http://en.wikipedia.org/wiki/Ralph_Forbes" title="Ralph Forbes">Ralph Forbes</a>; they married in the mid 1920s. From 1932 to 1934, Chatterton was married to her younger, frequent film co-star <a class="external" href="http://en.wikipedia.org/wiki/George_Brent" title="George Brent">George Brent</a>, a fellow Warners player in the 1930s. Chatteron the only Hollywood denizen who attended <a class="external" href="http://en.wikipedia.org/wiki/Sylvia_of_Hollywood" title="Sylvia of Hollywood">Sylvia of Hollywood</a>'s second wedding in 1932: the Hollywood fitness guru also married a younger man. Her third and last husband was Barry Thomson, to whom she was married from 1942 to his death in 1960. Chatterton had no children.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">She died of a cerebral hemorrhage at the age of 67 in <a class="external" href="http://en.wikipedia.org/wiki/Norwalk,_Connecticut" title="Norwalk, Connecticut">Norwalk, Connecticut</a> in 1961. Ruth Chatterton was cremated and is interred in a niche in the Lugar Mausoleum (Section 11, Lot 303) at <a class="external" href="http://en.wikipedia.org/wiki/Beechwoods_Cemetery_(New_Rochelle,_New_York)" title="Beechwoods Cemetery (New Rochelle, New York)">Beechwoods Cemetery</a> in <a class="external" href="http://en.wikipedia.org/wiki/New_Rochelle" title="New Rochelle">New Rochelle</a>, <a class="external" href="http://en.wikipedia.org/wiki/NY" title="NY">NY</a>.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">Occasional, much-younger co-star <a class="external" href="http://en.wikipedia.org/wiki/Bette_Davis" title="Bette Davis">Bette Davis</a> recalled that Chatterton was "very kind" to her at Warners when Davis was starting out on her career.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">Chatterton has a star on the <a class="external" href="http://en.wikipedia.org/wiki/Hollywood_Walk_of_Fame" title="Hollywood Walk of Fame">Hollywood Walk of Fame</a> at 6263 Hollywood Blvd.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Filmography">Filmography</span></h2>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="References">References</span></h2>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+	<ul xmlns="http://www.w3.org/1999/xhtml">
+	  <li><a href="http://www.imdb.com/name/nm0154183/" rel="nofollow">Ruth Chatterton</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	  <li><a href="http://film.virtual-history.com/person.php?personid=2336" rel="nofollow">Photographs of Ruth Chatterton</a></li>
+	  <li><a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=6640989" rel="nofollow">Ruth Chatterton</a> at <a class="external" href="http://en.wikipedia.org/wiki/Find_a_Grave" title="Find a Grave">Find a Grave</a></li>
+	</ul>
+      </wiki:abstract>
+    </wiki:description>
+  </wiki:person>
+  <wiki:film-title link="/wiki/Sarah_and_Son">Sarah and Son</wiki:film-title>
+  <wiki:film link="/wiki/Sarah_and_Son" title="Sarah and Son">
+    <wiki:oscar-ref year="1929" span="2" winner="false" award="lead-actress" person-link="/wiki/Ruth_Chatterton" person-name="Ruth Chatterton"/>
+    <wiki:director link="/wiki/Dorothy_Arzner">Dorothy Arzner</wiki:director>
+    <wiki:writer link="/wiki/Zoe_Akins">Zoe Akins</wiki:writer>
+    <wiki:writer link="/w/index.php?title=Timothy_Shea&amp;action=edit&amp;redlink=1">Timothy Shea</wiki:writer>
+    <wiki:starring link="/wiki/Ruth_Chatterton">Ruth Chatterton</wiki:starring>
+    <wiki:starring link="/wiki/Fredric_March">Fredric March</wiki:starring>
+    <wiki:description>
+      <p xmlns="http://www.w3.org/1999/xhtml"><i><b>Sarah and Son</b></i> is a <a class="external" href="http://en.wikipedia.org/wiki/1930_in_film" title="1930 in film">1930 film</a> which tells the story of a woman who searches for the son that her abusive husband sold to a wealthy family. It stars <a class="external" href="http://en.wikipedia.org/wiki/Ruth_Chatterton" title="Ruth Chatterton">Ruth Chatterton</a>, <a class="external" href="http://en.wikipedia.org/wiki/Fredric_March" title="Fredric March">Fredric March</a>, <a class="external" href="http://en.wikipedia.org/w/index.php?title=Fuller_Mellish_Jr.&amp;action=edit&amp;redlink=1" title="Fuller Mellish Jr. (page does not exist)">Fuller Mellish Jr.</a>, <a class="external" href="http://en.wikipedia.org/wiki/Gilbert_Emery" title="Gilbert Emery">Gilbert Emery</a> and <a class="external" href="http://en.wikipedia.org/wiki/Doris_Lloyd" title="Doris Lloyd">Doris Lloyd</a>.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">The movie was adapted by <a class="external" href="http://en.wikipedia.org/wiki/Zoe_Akins" title="Zoe Akins">Zoe Akins</a> from the novel by <a class="external" href="http://en.wikipedia.org/w/index.php?title=Timothy_Shea&amp;action=edit&amp;redlink=1" title="Timothy Shea (page does not exist)">Timothy Shea</a>. It was directed by <a class="external" href="http://en.wikipedia.org/wiki/Dorothy_Arzner" title="Dorothy Arzner">Dorothy Arzner</a>.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Awards">Awards</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">It was nominated for the <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actress" title="Academy Award for Best Actress">Academy Award for Best Actress</a> (Ruth Chatterton).</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/title/tt0021335/" rel="nofollow"><i>Sarah and Son</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+      </ul>
+    </wiki:description>
+  </wiki:film>
+</wiki:nominee>

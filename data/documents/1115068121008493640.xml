@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="1935" span="1" winner="false" award="best-picture" xmlns:wiki="http://marklogic.com/wikipedia">
+  <!--
+                            Copyright (c) 2010 MarkLogic Corporation.
+                            Permission is granted to copy, distribute and/or modify this document
+                            under the terms of the GNU Free Documentation License, Version 1.2
+                            or any later version published by the Free Software Foundation;
+                            with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+                            A copy of the license is included in the section entitled "GNU
+                            Free Documentation License"
+                            
+                            Content derived from http://en.wikipedia.org/wiki/Alice_Adams_(film)
+                            Modified in May 2009 by Mark Logic Corporation under the terms of the GNU Free Documentation License.
+                        -->
+  <wiki:film-title link="/wiki/Alice_Adams_(film)">Alice Adams</wiki:film-title>
+  <wiki:film link="/wiki/Alice_Adams_(film)" title="Alice Adams">
+    <wiki:oscar-ref year="1935" span="1" winner="false" award="lead-actress" person-link="/wiki/Katharine_Hepburn" person-name="Katharine Hepburn"/>
+    <wiki:oscar year="1935" span="1" winner="false" award="best-picture"/>
+    <wiki:producer link="/wiki/Pandro_S._Berman">Pandro S. Berman</wiki:producer>
+    <wiki:director link="/wiki/George_Stevens">George Stevens</wiki:director>
+    <wiki:writer link="/wiki/Booth_Tarkington">Booth Tarkington</wiki:writer>
+    <wiki:starring link="/wiki/Katharine_Hepburn">Katharine Hepburn</wiki:starring>
+    <wiki:starring link="/wiki/Fred_MacMurray">Fred MacMurray</wiki:starring>
+    <wiki:starring link="/wiki/Fred_Stone">Fred Stone</wiki:starring>
+    <wiki:starring link="/wiki/Frank_Albertson">Frank Albertson</wiki:starring>
+    <wiki:starring link="/wiki/Ann_Shoemaker">Ann Shoemaker</wiki:starring>
+    <wiki:starring link="/wiki/Hedda_Hopper">Hedda Hopper</wiki:starring>
+    <wiki:starring link="/wiki/Hattie_McDaniel">Hattie McDaniel</wiki:starring>
+    <wiki:description>
+      <wiki:abstract>
+	<p xmlns="http://www.w3.org/1999/xhtml"><i><b>Alice Adams</b></i>, also known as <i><b>Booth Tarkington's Alice Adams</b></i>, is a 1935 <a class="external" href="http://en.wikipedia.org/wiki/Romantic_film" title="Romantic film">romantic film</a> <a class="external" href="http://en.wikipedia.org/wiki/Remake" title="Remake">remake</a> made by <a class="external" href="http://en.wikipedia.org/wiki/RKO" title="RKO">RKO</a>. It was directed by <a class="external" href="http://en.wikipedia.org/wiki/George_Stevens" title="George Stevens">George Stevens</a> and produced by <a class="external" href="http://en.wikipedia.org/wiki/Pandro_S._Berman" title="Pandro S. Berman">Pandro S. Berman</a> from a <a class="external" href="http://en.wikipedia.org/wiki/Screenplay" title="Screenplay">screenplay</a> by <a class="external" href="http://en.wikipedia.org/wiki/Dorothy_Yost" title="Dorothy Yost">Dorothy Yost</a>, <a class="external" href="http://en.wikipedia.org/w/index.php?title=Mortimer_Offner&amp;action=edit&amp;redlink=1" title="Mortimer Offner (page does not exist)">Mortimer Offner</a> adapted by <a class="external" href="http://en.wikipedia.org/wiki/Jane_Murfin" title="Jane Murfin">Jane Murfin</a> from the novel, <i><a class="external" href="http://en.wikipedia.org/wiki/Alice_Adams_(novel)" title="Alice Adams (novel)">Alice Adams</a></i>, by <a class="external" href="http://en.wikipedia.org/wiki/Booth_Tarkington" title="Booth Tarkington">Booth Tarkington</a>. The music score was by <a class="external" href="http://en.wikipedia.org/wiki/Max_Steiner" title="Max Steiner">Max Steiner</a> and <a class="external" href="http://en.wikipedia.org/wiki/Roy_Webb" title="Roy Webb">Roy Webb</a>, and the cinematography by <a class="external" href="http://en.wikipedia.org/wiki/Robert_De_Grasse" title="Robert De Grasse">Robert De Grasse</a>.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">The film starred <a class="external" href="http://en.wikipedia.org/wiki/Katharine_Hepburn" title="Katharine Hepburn">Katharine Hepburn</a> as Alice Adams with <a class="external" href="http://en.wikipedia.org/wiki/Fred_MacMurray" title="Fred MacMurray">Fred MacMurray</a>, <a class="external" href="http://en.wikipedia.org/wiki/Fred_Stone" title="Fred Stone">Fred Stone</a>, <a class="external" href="http://en.wikipedia.org/wiki/Evelyn_Venable" title="Evelyn Venable">Evelyn Venable</a>, <a class="external" href="http://en.wikipedia.org/wiki/Frank_Albertson" title="Frank Albertson">Frank Albertson</a>, <a class="external" href="http://en.wikipedia.org/wiki/Ann_Shoemaker" title="Ann Shoemaker">Ann Shoemaker</a>, <a class="external" href="http://en.wikipedia.org/wiki/Hedda_Hopper" title="Hedda Hopper">Hedda Hopper</a> and <a class="external" href="http://en.wikipedia.org/wiki/Hattie_McDaniel" title="Hattie McDaniel">Hattie McDaniel</a>.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Plot">Plot</span></h2>
+      </wiki:abstract>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Cast">Cast</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Katharine_Hepburn" title="Katharine Hepburn">Katharine Hepburn</a> as Alice Adams</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Fred_MacMurray" title="Fred MacMurray">Fred MacMurray</a> as Arthur Russell</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Fred_Stone" title="Fred Stone">Fred Stone</a> as Mr. Adams</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Evelyn_Venable" title="Evelyn Venable">Evelyn Venable</a> as Mildred Palmer</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Frank_Albertson" title="Frank Albertson">Frank Albertson</a> as Walter Adams</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Ann_Shoemaker" title="Ann Shoemaker">Ann Shoemaker</a> as Mrs. Adams</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Charles_Grapewin" title="Charles Grapewin">Charles Grapewin</a> as Mr. Lamb</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Grady_Sutton" title="Grady Sutton">Grady Sutton</a> as Frank Dowling</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Hedda_Hopper" title="Hedda Hopper">Hedda Hopper</a> as Mrs. Palmer</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Hattie_McDaniel" title="Hattie McDaniel">Hattie McDaniel</a> as Malena</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Jonathan_Hale" title="Jonathan Hale">Jonathan Hale</a> as Mr. Palmer</li>
+	<li>Janet McLeod as Henrietta Lamb</li>
+	<li>Virginia Howell as Mrs. Dowling</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Zeffie_Tilbury" title="Zeffie Tilbury">Zeffie Tilbury</a> as Mrs. Dresser</li>
+	<li>Ella McKenzie as Ella Dowling</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Academy_Awards_nominations">Academy Awards nominations</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">The film was nominated for two <a class="external" href="http://en.wikipedia.org/wiki/Academy_Awards" title="Academy Awards">Academy Awards</a> for <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture" title="Academy Award for Best Picture">Best Picture</a> and for <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actress" title="Academy Award for Best Actress">Best Actress</a> (Katharine Hepburn).</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Notes">Notes</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><i>Alice Adams</i> is a remake of the <a class="external" href="http://en.wikipedia.org/wiki/1923_in_film" title="1923 in film">1923</a> film based on the same novel, directed by <a class="external" href="http://en.wikipedia.org/wiki/Rowland_V._Lee" title="Rowland V. Lee">Rowland V. Lee</a>, produced by <a class="external" href="http://en.wikipedia.org/wiki/King_Vidor" title="King Vidor">King Vidor</a> and starring <a class="external" href="http://en.wikipedia.org/wiki/Florence_Vidor" title="Florence Vidor">Florence Vidor</a> and Vernon Steele.</li>
+	<li>Katharine Hepburn wanted <a class="external" href="http://en.wikipedia.org/wiki/William_Wyler" title="William Wyler">William Wyler</a> to direct the film, but producer Pandro S. Berman favored George Stevens.</li>
+	<li>RKO executives wanted <a class="external" href="http://en.wikipedia.org/wiki/Randolph_Scott" title="Randolph Scott">Randolph Scott</a> for the Fred MacMurray role, but he was involved in the production of <i><a class="external" href="http://en.wikipedia.org/wiki/So_Red_the_Rose_(film)" title="So Red the Rose (film)">So Red the Rose</a></i> (1935).</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="References">References</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/title/tt0026056/" rel="nofollow"><i>Alice Adams</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	<li><a href="http://www.allmovie.com/work/1:1471~T0" rel="nofollow"><i>Alice Adams</i></a> at <a class="external" href="http://en.wikipedia.org/wiki/Allmovie" title="Allmovie">Allmovie</a></li>
+      </ul>
+    </wiki:description>
+  </wiki:film>
+</wiki:nominee>

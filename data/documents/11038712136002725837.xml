@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="2004" span="1" winner="false" award="best-director" xmlns:wiki="http://marklogic.com/wikipedia">
+  <!--
+                            Copyright (c) 2010 MarkLogic Corporation.
+                            Permission is granted to copy, distribute and/or modify this document
+                            under the terms of the GNU Free Documentation License, Version 1.2
+                            or any later version published by the Free Software Foundation;
+                            with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+                            A copy of the license is included in the section entitled "GNU
+                            Free Documentation License"
+                            
+                            Content derived from http://en.wikipedia.org/wiki/Ray_(film) and http://en.wikipedia.org/wiki/Taylor_Hackford
+                            Modified in May 2009 by Mark Logic Corporation under the terms of the GNU Free Documentation License.
+                        -->
+  <wiki:name link="/wiki/Taylor_Hackford">Taylor Hackford</wiki:name>
+  <wiki:person link="/wiki/Taylor_Hackford" name="Taylor Hackford">
+    <wiki:oscar year="2004" span="1" winner="false" award="best-director" film-link="/wiki/Ray_(film)" film-title="Ray"/>
+    <wiki:birth>
+      <wiki:date>1944-12-31</wiki:date>
+      <wiki:place>
+	<wiki:primary link="/wiki/Santa_Barbara,_California">Santa Barbara, California</wiki:primary>
+	<wiki:secondary link=""/>
+      <enrich><woeid xmlns="http://where.yahooapis.com/v1/schema.rng">12587711</woeid><placeTypeName code="9" xmlns="http://where.yahooapis.com/v1/schema.rng">County</placeTypeName><name xmlns="http://where.yahooapis.com/v1/schema.rng">Santa Barbara</name><country code="US" type="Country" xmlns="http://where.yahooapis.com/v1/schema.rng">United States</country><admin1 code="US-CA" type="State" xmlns="http://where.yahooapis.com/v1/schema.rng">California</admin1><admin2 code="" type="County" xmlns="http://where.yahooapis.com/v1/schema.rng">Santa Barbara</admin2><admin3 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality1 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality2 xmlns="http://where.yahooapis.com/v1/schema.rng"/><postal xmlns="http://where.yahooapis.com/v1/schema.rng"/><centroid xmlns="http://where.yahooapis.com/v1/schema.rng"><latitude>34.743649</latitude><longitude>-120.056030</longitude></centroid><boundingBox xmlns="http://where.yahooapis.com/v1/schema.rng"><southWest><latitude>33.465111</latitude><longitude>-120.671722</longitude></southWest><northEast><latitude>35.114471</latitude><longitude>-119.027580</longitude></northEast></boundingBox><areaRank xmlns="http://where.yahooapis.com/v1/schema.rng">8</areaRank><popRank xmlns="http://where.yahooapis.com/v1/schema.rng">0</popRank></enrich></wiki:place>
+    </wiki:birth>
+    <wiki:description>
+      <wiki:abstract>
+	<p xmlns="http://www.w3.org/1999/xhtml"><b>Taylor Edwin Hackford</b> (born December 31, 1944) is an American film director.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Early_life">Early life</span></h2>
+	<p xmlns="http://www.w3.org/1999/xhtml">Hackford was born in <a class="external" href="http://en.wikipedia.org/wiki/Santa_Barbara,_California" title="Santa Barbara, California">Santa Barbara, California</a>, the son of Mary (nÃ©e Taylor), a waitress, and Joseph Hackford. He graduated from the <a class="external" href="http://en.wikipedia.org/wiki/University_of_Southern_California" title="University of Southern California">University of Southern California</a> in 1968, where he was a pre-law major focusing on international relations and economics. After graduating, he served as a <a class="external" href="http://en.wikipedia.org/wiki/Peace_Corps" title="Peace Corps">Peace Corps</a> volunteer in <a class="external" href="http://en.wikipedia.org/wiki/Bolivia" title="Bolivia">Bolivia</a>, where he started using Super 8 film in his spare time. He decided that he did not want to pursue a career in law, and instead got a mailroom position at <a class="external" href="http://en.wikipedia.org/wiki/KCET-TV" title="KCET-TV">KCET-TV</a>.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Career_anecdotes">Career anecdotes</span></h2>
+	<p xmlns="http://www.w3.org/1999/xhtml"><a class="external" href="http://en.wikipedia.org/wiki/Richard_Gere" title="Richard Gere">Richard Gere</a> balked at shooting the ending of Hackford's movie <i><a class="external" href="http://en.wikipedia.org/wiki/An_Officer_and_a_Gentleman" title="An Officer and a Gentleman">An Officer and a Gentleman</a></i> where his character arrives at his lover's factory wearing his Navy <a class="external" href="http://en.wikipedia.org/wiki/Uniforms_of_the_United_States_Navy#Service_Dress" title="Uniforms of the United States Navy">dress whites</a> and carries her off from the factory floor. Gere thought the ending wouldn't work because it was too sentimental. Hackford was initially inclined to agree with Gere until during a rehearsal the extras playing the workers began to cheer and cry. When Gere saw the scene later with the music underneath it at the right tempo, he said it sent chills up the back of his neck. Gere is now convinced Hackford made the right decision. Hackford kept <a class="external" href="http://en.wikipedia.org/wiki/Lou_Gossett_Jr." title="Lou Gossett Jr.">Lou Gossett Jr.</a> in separate living quarters from the other actors during <i>An Officer and a Gentleman</i> so he could intimidate them more during his scenes as a <a class="external" href="http://en.wikipedia.org/wiki/Drill_instructor" title="Drill instructor">drill instructor</a>.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">About his film, <i><a class="external" href="http://en.wikipedia.org/wiki/The_Idolmaker" title="The Idolmaker">The Idolmaker</a></i>, Hackford stated: "I make films about working-class people; show business is one of those things through which people can get themselves out of the lower rung of society. To me, the compelling story in <i>The Idolmaker</i> is the guy with a wonderful talent and a fairly strong ego has [that] to make it happen through puppets." Hackford stated about his movie <i><a class="external" href="http://en.wikipedia.org/wiki/Ray_(film)" title="Ray (film)">Ray</a></i>: "My proudest moments in <i>Ray</i> were in those 'chitlin' clubs. Ray Charles ended his life in concert halls, where people would go in tuxedos and quietly listen to a genius perform. But in these clubs, he had to get people up dancing. What I tried to create was a little of that energy and exuberance. The great thing about music is when you can get people on their feet."</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">In a 2005 interview, he confirmed that he never watched his own films, "When I finish a film, I put it away and I never look at it again. Occasionally I do now because of the DVDs and the commentary tracks. I usually put it aside and go onto the next. I never went to film school. I worked for the KCET public television station in L.A. I worked in concerts. I have done a lot of music. I feel very comfortable shooting music, and I think you can see that."</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">Hackford has directed music videos, including "<a class="external" href="http://en.wikipedia.org/wiki/Against_All_Odds_(Take_a_Look_at_Me_Now)" title="Against All Odds (Take a Look at Me Now)">Against All Odds (Take a Look at Me Now)</a>" by <a class="external" href="http://en.wikipedia.org/wiki/Phil_Collins" title="Phil Collins">Phil Collins</a> and "<a class="external" href="http://en.wikipedia.org/wiki/Say_You,_Say_Me" title="Say You, Say Me">Say You, Say Me</a>" by <a class="external" href="http://en.wikipedia.org/wiki/Lionel_Richie" title="Lionel Richie">Lionel Richie</a>.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">On July 25, 2009, Hackford was elected President of the <a class="external" href="http://en.wikipedia.org/wiki/Directors_Guild_of_America" title="Directors Guild of America">Directors Guild of America</a>.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Personal_life">Personal life</span></h2>
+	<p xmlns="http://www.w3.org/1999/xhtml">Hackford has been married to <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award" title="Academy Award">Academy Award</a>-winning actress <a class="external" href="http://en.wikipedia.org/wiki/Helen_Mirren" title="Helen Mirren">Helen Mirren</a> since 1997. Hackford met Mirren when he was directing her in <i><a class="external" href="http://en.wikipedia.org/wiki/White_Nights_(1985_film)" title="White Nights (1985 film)">White Nights</a></i> although their first meeting did not go well. He kept her waiting to audition for <i>White Nights</i>, and she was icy. "It was a strange way to meet Helen, because she is a lovely person," says Hackford, "but she didnâ€™t hold back her fury." Hackford and Mirren wed in 1997 after 12 years together. As a young woman Mirren had vowed never to marry.</p>
+      </wiki:abstract>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Filmography">Filmography</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Bukowski_(film)" title="Bukowski (film)">Bukowski</a></i> (1973)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Teenage_Father" title="Teenage Father">Teenage Father</a></i> (1978)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Idolmaker" title="The Idolmaker">The Idolmaker</a></i> (1980)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/An_Officer_and_a_Gentleman" title="An Officer and a Gentleman">An Officer and a Gentleman</a></i> (1982)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Against_All_Odds" title="Against All Odds">Against All Odds</a></i> (1984)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/White_Nights_(1985_film)" title="White Nights (1985 film)">White Nights</a></i> (1985)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Hail!_Hail!_Rock_%27n%27_Roll" title="Hail! Hail! Rock 'n' Roll">Hail! Hail! Rock 'n' Roll</a></i> (1987)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Everybody%27s_All-American_(film)" title="Everybody's All-American (film)">Everybody's All-American</a></i> (1988)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Blood_In_Blood_Out" title="Blood In Blood Out">Blood In Blood Out</a></i> (1993)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Dolores_Claiborne_(film)" title="Dolores Claiborne (film)">Dolores Claiborne</a></i> (1995)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Devil%27s_Advocate_(film)" title="The Devil's Advocate (film)">The Devil's Advocate</a></i> (1997)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Proof_of_Life" title="Proof of Life">Proof of Life</a></i> (2000)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Ray_(film)" title="Ray (film)">Ray</a></i> (2004)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Love_Ranch" title="Love Ranch">Love Ranch</a></i> (2010)</li>
+      </ul>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/La_Bamba_(film)" title="La Bamba (film)">La Bamba</a></i> (1987 )</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Long_Walk_Home" title="The Long Walk Home">The Long Walk Home</a></i> (1990)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/When_We_Were_Kings" title="When We Were Kings">When We Were Kings</a></i> (1996)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/G:MT_-_Greenwich_Mean_Time" title="G:MT - Greenwich Mean Time">G:MT - Greenwich Mean Time</a></i> (1999)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Bukowski_(film)" title="Bukowski (film)">Bukowski</a></i> (1973)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Against_All_Odds" title="Against All Odds">Against All Odds</a></i> (1984)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/White_Nights_(1985_film)" title="White Nights (1985 film)">White Nights</a></i> (1985)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Everybody%27s_All-American_(film)" title="Everybody's All-American (film)">Everybody's All-American</a></i> (1988)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Dolores_Claiborne_(film)" title="Dolores Claiborne (film)">Dolores Claiborne</a></i> (1995)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Devil%27s_Advocate_(film)" title="The Devil's Advocate (film)">The Devil's Advocate</a></i> (1997)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Proof_of_Life" title="Proof of Life">Proof of Life</a></i> (2000)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Ray_(film)" title="Ray (film)">Ray</a></i> (2004)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Love_Ranch" title="Love Ranch">Love Ranch</a></i> (2010)</li>
+      </ul>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Bukowski" title="Bukowski">Bukowski</a></i>â€”Himself (2003)</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Awards">Awards</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">Hackford received an <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Live_Action_Short_Film" title="Academy Award for Live Action Short Film">Academy Award for Live Action Short Film</a> for <i><a class="external" href="http://en.wikipedia.org/wiki/Teenage_Father" title="Teenage Father">Teenage Father</a></i> in 1979. He received two Oscar nominations in 2004 for the <a class="external" href="http://en.wikipedia.org/wiki/Ray_Charles" title="Ray Charles">Ray Charles</a> <a class="external" href="http://en.wikipedia.org/wiki/Biopic" title="Biopic">biopic</a> <i><a class="external" href="http://en.wikipedia.org/wiki/Ray_(film)" title="Ray (film)">Ray</a></i>. He was awarded the 2005 <a class="external" href="http://en.wikipedia.org/w/index.php?title=Film_Society_Award_for_Lifetime_Achievement_in_Directing&amp;action=edit&amp;redlink=1" title="Film Society Award for Lifetime Achievement in Directing (page does not exist)">Film Society Award for Lifetime Achievement in Directing</a>.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="References">References</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/name/nm0000431/" rel="nofollow">Taylor Hackford</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	<li><a href="http://peacecorpsonline.org/messages/messages/467/2028018.html" rel="nofollow">Peace Corps biography of Taylor Hackford</a> news clips</li>
+	<li>"<a href="http://www.peacecorps.gov/index.cfm?shell=learn.whatispc.notable.artsandlit" rel="nofollow">Notable Former Volunteers / Arts and Literature</a>". Peace Corps official site. Accessed 5 January 2007.</li>
+      </ul>
+    </wiki:description>
+  </wiki:person>
+  <wiki:film-title link="/wiki/Ray_(film)">Ray</wiki:film-title>
+  <wiki:film link="/wiki/Ray_(film)" title="Ray">
+    <wiki:oscar-ref year="2004" span="1" winner="true" award="lead-actor" person-link="/wiki/Jamie_Foxx" person-name="Jamie Foxx"/>
+    <wiki:oscar-ref year="2004" span="1" winner="false" award="best-director" person-link="/wiki/Taylor_Hackford" person-name="Taylor Hackford"/>
+    <wiki:oscar year="2004" span="1" winner="false" award="best-picture"/>
+    <wiki:producer link="/wiki/Taylor_Hackford">Taylor Hackford</wiki:producer>
+    <wiki:producer link="/wiki/Stuart_Benjamin">Stuart Benjamin</wiki:producer>
+    <wiki:producer link="/wiki/Howard_Baldwin">Howard Baldwin</wiki:producer>
+    <wiki:producer link="/w/index.php?title=Karen_Baldwin_(producer)&amp;action=edit&amp;redlink=1">Karen Baldwin</wiki:producer>
+    <wiki:director link="/wiki/Taylor_Hackford">Taylor Hackford</wiki:director>
+    <wiki:writer link="/w/index.php?title=James_L._White_(screenwriter)&amp;action=edit&amp;redlink=1">James L. White</wiki:writer>
+    <wiki:distributor link="/wiki/Universal_Pictures">Universal Pictures</wiki:distributor>
+    <wiki:starring link="/wiki/Jamie_Foxx">Jamie Foxx</wiki:starring>
+    <wiki:description>
+      <wiki:abstract>
+	<p xmlns="http://www.w3.org/1999/xhtml"><i><b>Ray</b></i> is a 2004 <a class="external" href="http://en.wikipedia.org/wiki/Biographical_film" title="Biographical film">biographical film</a> focusing on 30 years of the life of <a class="external" href="http://en.wikipedia.org/wiki/Rhythm_and_blues" title="Rhythm and blues">rhythm and blues</a> musician <a class="external" href="http://en.wikipedia.org/wiki/Ray_Charles" title="Ray Charles">Ray Charles</a>. The <a class="external" href="http://en.wikipedia.org/wiki/Independent_film" title="Independent film">independently produced film</a> was directed by <a class="external" href="http://en.wikipedia.org/wiki/Taylor_Hackford" title="Taylor Hackford">Taylor Hackford</a> and starred <a class="external" href="http://en.wikipedia.org/wiki/Jamie_Foxx" title="Jamie Foxx">Jamie Foxx</a> in the <a class="external" href="http://en.wikipedia.org/wiki/Title_role" title="Title role">title role</a>; Foxx received an <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actor#2000s" title="Academy Award for Best Actor">Academy Award for Best Actor</a> for his performance.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">Charles was set to attend an opening of the completed film, but he died before its premiere.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Plot">Plot</span></h2>
+	<p xmlns="http://www.w3.org/1999/xhtml">Born on a sharecropping plantation in Northern <a class="external" href="http://en.wikipedia.org/wiki/Florida_(U.S._state)" title="Florida (U.S. state)">Florida</a>, Ray Charles Robinson went blind at the age of seven. Inspired by a fiercely independent mother who insisted he make his own way in the world, Charles found his calling and his gift behind a piano keyboard. Touring across the Southern musical circuit, the soulful singer gained a reputation and then exploded with worldwide fame when he pioneered incorporating <a class="external" href="http://en.wikipedia.org/wiki/Gospel" title="Gospel">gospel</a>, <a class="external" href="http://en.wikipedia.org/wiki/Country_Music" title="Country Music">country</a>, <a class="external" href="http://en.wikipedia.org/wiki/Jazz" title="Jazz">jazz</a> and <a class="external" href="http://en.wikipedia.org/wiki/Orchestral" title="Orchestral">orchestral</a> influences into his inimitable style.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">As he revolutionized the way people appreciated music, he simultaneously fought <a class="external" href="http://en.wikipedia.org/wiki/Racial_segregation" title="Racial segregation">segregation</a> in the very clubs that launched him and championed artistsâ€™ rights within the corporate music business. The movie provides a portrait of Charlesâ€™ musical genius as he overcomes <a class="external" href="http://en.wikipedia.org/wiki/Heroin" title="Heroin">drug addiction</a> while transforming into one of his countryâ€™s most beloved performers.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Cast">Cast</span></h2>
+	<ul xmlns="http://www.w3.org/1999/xhtml">
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Jamie_Foxx" title="Jamie Foxx">Jamie Foxx</a> as <a class="external" href="http://en.wikipedia.org/wiki/Ray_Charles" title="Ray Charles">Ray Charles</a></li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Sharon_Warren" title="Sharon Warren">Sharon Warren</a> as his mother, <a class="external" href="http://en.wikipedia.org/w/index.php?title=Aretha_Williams&amp;action=edit&amp;redlink=1" title="Aretha Williams (page does not exist)">Aretha Williams</a></li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Kerry_Washington" title="Kerry Washington">Kerry Washington</a> as his wife, <a class="external" href="http://en.wikipedia.org/w/index.php?title=Della_Bea_Robinson&amp;action=edit&amp;redlink=1" title="Della Bea Robinson (page does not exist)">Della Bea Robinson</a></li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Regina_King" title="Regina King">Regina King</a> as <a class="external" href="http://en.wikipedia.org/wiki/Margie_Hendricks" title="Margie Hendricks">Margie Hendricks</a></li>
+	  <li><a class="external" href="http://en.wikipedia.org/w/index.php?title=Renee_Wilson&amp;action=edit&amp;redlink=1" title="Renee Wilson (page does not exist)">Renee Wilson</a> as <a class="external" href="http://en.wikipedia.org/w/index.php?title=Pat_Lyle&amp;action=edit&amp;redlink=1" title="Pat Lyle (page does not exist)">Pat Lyle</a></li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Larenz_Tate" title="Larenz Tate">Larenz Tate</a> as <a class="external" href="http://en.wikipedia.org/wiki/Quincy_Jones" title="Quincy Jones">Quincy Jones</a></li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Harry_J._Lennix" title="Harry J. Lennix">Harry Lennix</a> as Joe Adams</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Clifton_Powell" title="Clifton Powell">Clifton Powell</a> as Jeff Brown</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Curtis_Armstrong" title="Curtis Armstrong">Curtis Armstrong</a> as <a class="external" href="http://en.wikipedia.org/wiki/Ahmet_Ertegun" title="Ahmet Ertegun">Ahmet Ertegun</a></li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Richard_Schiff" title="Richard Schiff">Richard Schiff</a> as <a class="external" href="http://en.wikipedia.org/wiki/Jerry_Wexler" title="Jerry Wexler">Jerry Wexler</a></li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Kurt_Fuller" title="Kurt Fuller">Kurt Fuller</a> as Sam Clark</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Richard_Smith" title="Richard Smith">Richard Smith</a> as <a class="external" href="http://en.wikipedia.org/wiki/Til" title="Til">Til</a></li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Patrick_Bauchau" title="Patrick Bauchau">Patrick Bauchau</a> as Dr. Hacker</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Terrence_Howard" title="Terrence Howard">Terrence Howard</a> as <a class="external" href="http://en.wikipedia.org/w/index.php?title=Gossie_McKee&amp;action=edit&amp;redlink=1" title="Gossie McKee (page does not exist)">Gossie McKee</a></li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Chris_Thomas_King" title="Chris Thomas King">Chris Thomas King</a> as <a class="external" href="http://en.wikipedia.org/wiki/Lowell_Fulson" title="Lowell Fulson">Lowell Fulson</a></li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Wendell_Pierce" title="Wendell Pierce">Wendell Pierce</a> as <a class="external" href="http://en.wikipedia.org/w/index.php?title=Wilbur_Brassfield&amp;action=edit&amp;redlink=1" title="Wilbur Brassfield (page does not exist)">Wilbur Brassfield</a></li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Bokeem_Woodbine" title="Bokeem Woodbine">Bokeem Woodbine</a> as <a class="external" href="http://en.wikipedia.org/wiki/David_Newman_(jazz_musician)" title="David Newman (jazz musician)">David "Fathead" Newman</a></li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Aunjanue_Ellis" title="Aunjanue Ellis">Aunjanue Ellis</a> as <a class="external" href="http://en.wikipedia.org/w/index.php?title=Mary_Ann_Fisher&amp;action=edit&amp;redlink=1" title="Mary Ann Fisher (page does not exist)">Mary Ann Fisher</a></li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/C._J._Sanders" title="C. J. Sanders">C. J. Sanders</a> as Young <a class="external" href="http://en.wikipedia.org/wiki/Ray_Charles" title="Ray Charles">Ray Robinson</a></li>
+	  <li><a class="external" href="http://en.wikipedia.org/w/index.php?title=Denise_Dowse&amp;action=edit&amp;redlink=1" title="Denise Dowse (page does not exist)">Denise Dowse</a> as <a class="external" href="http://en.wikipedia.org/w/index.php?title=Marlene_Andres&amp;action=edit&amp;redlink=1" title="Marlene Andres (page does not exist)">Marlene Andres</a></li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Warwick_Davis" title="Warwick Davis">Warwick Davis</a> as Oberon</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/David_Krumholtz" title="David Krumholtz">David Krumholtz</a> as <a class="external" href="http://en.wikipedia.org/w/index.php?title=Milt_Shaw&amp;action=edit&amp;redlink=1" title="Milt Shaw (page does not exist)">Milt Shaw</a></li>
+	</ul>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Production">Production</span></h2>
+	<p xmlns="http://www.w3.org/1999/xhtml">The film's production was entirely financed by <a class="external" href="http://en.wikipedia.org/wiki/Philip_Anschutz" title="Philip Anschutz">Philip Anschutz</a>, through his Bristol Bay Productions company. Taylor Hackford stated in a DVD bonus feature that it took 15 years to make the film. He later clarified in the liner notes of the soundtrack album that it took that time to secure financing.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">Charles was given a <a class="external" href="http://en.wikipedia.org/wiki/Braille" title="Braille">Braille</a> copy of the film's original script; he objected only to a scene showing him taking up piano grudgingly, and a scene implying that Charles had shown mistress and lead "Raelette" Margie Hendricks how to shoot <a class="external" href="http://en.wikipedia.org/wiki/Heroin" title="Heroin">heroin</a>.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml"><i>Ray</i> debuted at the <a class="external" href="http://en.wikipedia.org/wiki/2004_Toronto_International_Film_Festival" title="2004 Toronto International Film Festival">2004 Toronto International Film Festival</a>.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Soundtrack">Soundtrack</span></h2>
+      </wiki:abstract>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>"<a class="external" href="http://en.wikipedia.org/w/index.php?title=Baby,_Let_Me_Hold_Your_Hand&amp;action=edit&amp;redlink=1" title="Baby, Let Me Hold Your Hand (page does not exist)">Baby, Let Me Hold Your Hand</a>"</li>
+	<li>"<a class="external" href="http://en.wikipedia.org/wiki/Mess_Around" title="Mess Around">Mess Around</a>"</li>
+	<li>"<a class="external" href="http://en.wikipedia.org/wiki/I_Got_a_Woman" title="I Got a Woman">I Got a Woman</a>"</li>
+	<li>"<a class="external" href="http://en.wikipedia.org/wiki/Hallelujah,_I_Love_Her_So" title="Hallelujah, I Love Her So">Hallelujah, I Love Her So</a>"</li>
+	<li>"<a class="external" href="http://en.wikipedia.org/wiki/Drown_in_My_Own_Tears" title="Drown in My Own Tears">Drown in My Own Tears</a>"</li>
+	<li>"What Kind of Man Are You?"</li>
+	<li>"Mary Ann"</li>
+	<li>"<a class="external" href="http://en.wikipedia.org/w/index.php?title=Leave_My_Woman_Alone&amp;action=edit&amp;redlink=1" title="Leave My Woman Alone (page does not exist)">Leave My Woman Alone</a>"</li>
+	<li>"<a class="external" href="http://en.wikipedia.org/wiki/Night_Time_Is_the_Right_Time" title="Night Time Is the Right Time">Night Time Is the Right Time</a>"</li>
+	<li>"<a class="external" href="http://en.wikipedia.org/w/index.php?title=I_Believe_To_My_Soul&amp;action=edit&amp;redlink=1" title="I Believe To My Soul (page does not exist)">I Believe To My Soul</a>"</li>
+	<li>"<a class="external" href="http://en.wikipedia.org/wiki/What%27d_I_Say_(song)" title="What'd I Say (song)">What'd I Say</a>"</li>
+	<li>"<a class="external" href="http://en.wikipedia.org/wiki/Georgia_on_My_Mind" title="Georgia on My Mind">Georgia on My Mind</a>"</li>
+	<li>"<a class="external" href="http://en.wikipedia.org/wiki/Hit_the_Road_Jack" title="Hit the Road Jack">Hit the Road Jack</a>"</li>
+	<li>"<a class="external" href="http://en.wikipedia.org/wiki/Unchain_My_Heart_(song)" title="Unchain My Heart (song)">Unchain My Heart</a>"</li>
+	<li>"<a class="external" href="http://en.wikipedia.org/wiki/You_Don%27t_Know_Me_(Eddy_Arnold_song)" title="You Don't Know Me (Eddy Arnold song)">You Don't Know Me</a>"</li>
+	<li>"<a class="external" href="http://en.wikipedia.org/wiki/I_Can%27t_Stop_Loving_You" title="I Can't Stop Loving You">I Can't Stop Loving You</a>"</li>
+	<li>"<a class="external" href="http://en.wikipedia.org/wiki/Bye_Bye_Love" title="Bye Bye Love">Bye Bye Love</a>"</li>
+	<li>"<a class="external" href="http://en.wikipedia.org/wiki/Born_to_Lose" title="Born to Lose">Born to Lose</a>"</li>
+	<li>"<a class="external" href="http://en.wikipedia.org/wiki/Hard_Times_(No_One_Knows_Better_Than_I)" title="Hard Times (No One Knows Better Than I)">Hard Times (No One Knows Better Than I)</a>"</li>
+	<li>"<a class="external" href="http://en.wikipedia.org/w/index.php?title=Everytime_I_Have_the_Blues&amp;action=edit&amp;redlink=1" title="Everytime I Have the Blues (page does not exist)">Everytime I Have the Blues</a>"</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Reception">Reception</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml"><i>Ray</i> was released in theaters on October 29, 2004 on a budget of $40 million. The film went on to become a box-office hit, earning $75 million in the U.S. with an additional $50 million internationally, bringing its world wide gross to $125 million.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">The film received mostly positive reviews. Most of the praise went to Jamie Foxx's <i>tour-de-force</i> performance for which he was awarded the <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actor" title="Academy Award for Best Actor">Academy Award for Best Actor</a>. The film however did receive some bad reviews, with critics complaining that the film suffered from a mediocre screenplay buoyed by powerful performances. Currently <i>Ray</i> has a certified fresh rating of 82% based on 188 reviews at <a class="external" href="http://en.wikipedia.org/wiki/Rotten_Tomatoes" title="Rotten Tomatoes">Rotten Tomatoes</a>.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">As noted in the film's final credits, <i>Ray</i> is based on true events, but includes some characters, names, locations, and events which have been changed and others which have been "fictionalized for dramatization purposes." Examples of the fictionalized scenes include:</p>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>In the film, when Ray's younger brother George drowns in their mother's wash tub, he stands there and does nothing as George drowns (because he thought George was joking). In his autobiography, Charles remembers trying to pull his brother out of the tub after realizing he was drowning but was unable to save him.</li>
+	<li>In the studio scene where Charles is taught the "Mess Around," he is told it is in the "key of G." The "Mess Around" is actually in the key of E flat.</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="References">References</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><span class="official website"><a href="http://www.raymovie.com/" rel="nofollow">Official website</a></span></li>
+	<li><a href="http://www.rottentomatoes.com/m/ray/" rel="nofollow"><i>Ray</i></a> at <a class="external" href="http://en.wikipedia.org/wiki/Rotten_Tomatoes" title="Rotten Tomatoes">Rotten Tomatoes</a></li>
+	<li><a href="http://www.imdb.com/title/tt0350258/" rel="nofollow"><i>Ray</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	<li><a href="http://www.allmovie.com/work/287477" rel="nofollow"><i>Ray</i></a> at <a class="external" href="http://en.wikipedia.org/wiki/Allmovie" title="Allmovie">Allmovie</a></li>
+	<li><a href="http://www.boxofficemojo.com/movies/?id=ray.htm" rel="nofollow"><i>Ray</i></a> at <a class="external" href="http://en.wikipedia.org/wiki/Box_Office_Mojo" title="Box Office Mojo">Box Office Mojo</a></li>
+	<li><a href="http://www.washingtonpost.com/wp-dyn/articles/A7913-2004Oct28.html" rel="nofollow">Taylor Hackford's Unchained Art</a>, an October 2004 article from the <i><a class="external" href="http://en.wikipedia.org/wiki/Washington_Post" title="Washington Post">Washington Post</a></i></li>
+	<li><a href="http://www.craigarmstrongonline.com/film_score/ray.htm" rel="nofollow">Craig Armstrong (Score Composer for <i>Ray</i>)</a></li>
+	<li><a href="http://www.slate.com/Default.aspx?id=2108507" rel="nofollow">It's a shame about Ray</a> a review at <a class="external" href="http://en.wikipedia.org/wiki/Slate_Magazine" title="Slate Magazine">Slate Magazine</a> that lists factual inaccuracies</li>
+	<li><a href="http://www.rollingstone.com/news/story/6596222/hit_the_road_jack" rel="nofollow">Background on the song Hit The Road Jack</a></li>
+      </ul>
+    </wiki:description>
+  </wiki:film>
+</wiki:nominee>

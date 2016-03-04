@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="1937" span="1" winner="false" award="best-director" xmlns:wiki="http://marklogic.com/wikipedia">
+  <!--
+                            Copyright (c) 2010 MarkLogic Corporation.
+                            Permission is granted to copy, distribute and/or modify this document
+                            under the terms of the GNU Free Documentation License, Version 1.2
+                            or any later version published by the Free Software Foundation;
+                            with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+                            A copy of the license is included in the section entitled "GNU
+                            Free Documentation License"
+                            
+                            Content derived from http://en.wikipedia.org/wiki/The_Good_Earth_(film) and http://en.wikipedia.org/wiki/Sidney_Franklin_(director)
+                            Modified in May 2009 by Mark Logic Corporation under the terms of the GNU Free Documentation License.
+                        -->
+  <wiki:name link="/wiki/Sidney_Franklin_(director)">Sidney Franklin</wiki:name>
+  <wiki:person link="/wiki/Sidney_Franklin_(director)" name="Sidney Franklin">
+    <wiki:oscar year="1937" span="1" winner="false" award="best-director" film-link="/wiki/The_Good_Earth_(film)" film-title="The Good Earth"/>
+    <wiki:birth>
+      <wiki:date>1893-03-21</wiki:date>
+      <wiki:place>
+	<wiki:primary link="/wiki/San_Francisco,_California">San Francisco, California</wiki:primary>
+	<wiki:secondary link=""/>
+      <enrich><woeid xmlns="http://where.yahooapis.com/v1/schema.rng">12587707</woeid><placeTypeName code="9" xmlns="http://where.yahooapis.com/v1/schema.rng">County</placeTypeName><name xmlns="http://where.yahooapis.com/v1/schema.rng">San Francisco</name><country code="US" type="Country" xmlns="http://where.yahooapis.com/v1/schema.rng">United States</country><admin1 code="US-CA" type="State" xmlns="http://where.yahooapis.com/v1/schema.rng">California</admin1><admin2 code="" type="County" xmlns="http://where.yahooapis.com/v1/schema.rng">San Francisco</admin2><admin3 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality1 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality2 xmlns="http://where.yahooapis.com/v1/schema.rng"/><postal xmlns="http://where.yahooapis.com/v1/schema.rng"/><centroid xmlns="http://where.yahooapis.com/v1/schema.rng"><latitude>37.767422</latitude><longitude>-122.443542</longitude></centroid><boundingBox xmlns="http://where.yahooapis.com/v1/schema.rng"><southWest><latitude>37.678799</latitude><longitude>-123.125740</longitude></southWest><northEast><latitude>37.832371</latitude><longitude>-122.356979</longitude></northEast></boundingBox><areaRank xmlns="http://where.yahooapis.com/v1/schema.rng">5</areaRank><popRank xmlns="http://where.yahooapis.com/v1/schema.rng">0</popRank></enrich></wiki:place>
+    </wiki:birth>
+    <wiki:death>
+      <wiki:date>May 18, 1972</wiki:date>
+      <wiki:place>
+	<wiki:primary link="/wiki/Santa_Monica,_California">Santa Monica, California</wiki:primary>
+	<wiki:secondary link=""/>
+      </wiki:place>
+    </wiki:death>
+    <wiki:description>
+      <wiki:abstract>
+	<p xmlns="http://www.w3.org/1999/xhtml"><b>Sidney Franklin</b> (March 21, 1893 â€” May 18, 1972) was an <a class="external" href="http://en.wikipedia.org/wiki/United_States" title="United States">American</a> <a class="external" href="http://en.wikipedia.org/wiki/Film_director" title="Film director">film director</a> and <a class="external" href="http://en.wikipedia.org/wiki/Film_producer" title="Film producer">producer</a>. His brother <a class="external" href="http://en.wikipedia.org/w/index.php?title=Chester_Franklin&amp;action=edit&amp;redlink=1" title="Chester Franklin (page does not exist)">Chester Franklin</a> also became a director during the <a class="external" href="http://en.wikipedia.org/wiki/Silent_film" title="Silent film">silent film</a> era.</p>
+      </wiki:abstract>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Forbidden_City" title="The Forbidden City">The Forbidden City</a></i> (1918)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/w/index.php?title=Treasure_Island_(1918_film)&amp;action=edit&amp;redlink=1" title="Treasure Island (1918 film) (page does not exist)">Treasure Island</a></i> (1918)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Smilin%27_Through_(1922_film)" title="Smilin' Through (1922 film)">Smilin' Through</a></i> (1922)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Beverly_of_Graustark" title="Beverly of Graustark">Beverly of Graustark</a></i> (1926)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Last_of_Mrs._Cheyney_(1929_film)" title="The Last of Mrs. Cheyney (1929 film)">The Last of Mrs. Cheyney</a></i> (1929)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/A_Lady%27s_Morals" title="A Lady's Morals">A Lady's Morals</a></i> (1930)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Private_Lives_(film)" title="Private Lives (film)">Private Lives</a></i> (1931)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Smilin%27_Through_(1932_film)" title="Smilin' Through (1932 film)">Smilin' Through</a></i> (1932)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Barretts_of_Wimpole_Street" title="The Barretts of Wimpole Street">The Barretts of Wimpole Street</a></i> (1934 and 1957 versions)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Dark_Angel_(1935_film)" title="The Dark Angel (1935 film)">The Dark Angel</a></i> (1935)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Good_Earth_(film)" title="The Good Earth (film)">The Good Earth</a></i> (1937)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Duel_in_the_Sun_(film)" title="Duel in the Sun (film)">Duel in the Sun</a></i> (1946).</li>
+      </ul>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Ninotchka" title="Ninotchka">Ninotchka</a></i> (1939) (associate producer)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Waterloo_Bridge_(1940_film)" title="Waterloo Bridge (1940 film)">Waterloo Bridge</a></i> (1940)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Mrs._Miniver_(film)" title="Mrs. Miniver (film)">Mrs. Miniver</a></i> (1942)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Random_Harvest_(film)" title="Random Harvest (film)">Random Harvest</a></i> (1942)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Madame_Curie_(film)" title="Madame Curie (film)">Madame Curie</a></i> (1943)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/The_White_Cliffs_of_Dover_(1944_film)" title="The White Cliffs of Dover (1944 film)">The White Cliffs of Dover</a></i> (1944)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Yearling_(film)" title="The Yearling (film)">The Yearling</a></i> (1946)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Homecoming_(1948_film)" title="Homecoming (1948 film)">Homecoming</a></i> (1948)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/w/index.php?title=Command_Decision_(1948_film)&amp;action=edit&amp;redlink=1" title="Command Decision (1948 film) (page does not exist)">Command Decision</a></i> (1948)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Miniver_Story" title="The Miniver Story">The Miniver Story</a></i> (1950)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Fearless_Fagan" title="Fearless Fagan">Fearless Fagan</a></i> (1952) (associate producer)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/w/index.php?title=Sky_Full_of_Moon&amp;action=edit&amp;redlink=1" title="Sky Full of Moon (page does not exist)">Sky Full of Moon</a></i> (1952)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Story_of_Three_Loves" title="The Story of Three Loves">The Story of Three Loves</a></i> (1953)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/w/index.php?title=Gypsy_Colt&amp;action=edit&amp;redlink=1" title="Gypsy Colt (page does not exist)">Gypsy Colt</a></i> (1953)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Young_Bess" title="Young Bess">Young Bess</a></i> (1953)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Torch_Song_(film)" title="Torch Song (film)">Torch Song</a></i> (1953)</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/name/nm0291548/" rel="nofollow">Sidney Franklin</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+      </ul>
+    </wiki:description>
+  </wiki:person>
+  <wiki:film-title link="/wiki/The_Good_Earth_(film)">The Good Earth</wiki:film-title>
+  <wiki:film link="/wiki/The_Good_Earth_(film)" title="The Good Earth">
+    <wiki:oscar-ref year="1937" span="1" winner="true" award="lead-actress" person-link="/wiki/Luise_Rainer" person-name="Luise Rainer"/>
+    <wiki:oscar-ref year="1937" span="1" winner="false" award="best-director" person-link="/wiki/Sidney_Franklin_(director)" person-name="Sidney Franklin"/>
+    <wiki:oscar year="1937" span="1" winner="false" award="best-picture"/>
+    <wiki:producer link="/wiki/Irving_Thalberg">Irving Thalberg</wiki:producer>
+    <wiki:director link="/wiki/Sidney_Franklin_(director)">Sidney Franklin</wiki:director>
+    <wiki:director link="/wiki/Victor_Fleming">Victor Fleming</wiki:director>
+    <wiki:director link="/wiki/Gustav_Machat%C3%BD">Gustav MachatÃ½</wiki:director>
+    <wiki:writer link="/wiki/Pearl_S._Buck">Pearl S. Buck</wiki:writer>
+    <wiki:writer link="/wiki/Donald_Davis_(writer)">Donald Davis</wiki:writer>
+    <wiki:writer link="/wiki/Owen_Davis">Owen Davis</wiki:writer>
+    <wiki:writer link="/wiki/Talbot_Jennings">Talbot Jennings</wiki:writer>
+    <wiki:writer link="/wiki/Tess_Slesinger">Tess Slesinger</wiki:writer>
+    <wiki:writer link="/w/index.php?title=Claudine_West&amp;action=edit&amp;redlink=1">Claudine West</wiki:writer>
+    <wiki:distributor link="/wiki/Metro-Goldwyn-Mayer">Metro-Goldwyn-Mayer</wiki:distributor>
+    <wiki:starring link="/wiki/Paul_Muni">Paul Muni</wiki:starring>
+    <wiki:starring link="/wiki/Luise_Rainer">Luise Rainer</wiki:starring>
+    <wiki:starring link="/wiki/Walter_Connolly">Walter Connolly</wiki:starring>
+    <wiki:starring link="/wiki/Tilly_Losch">Tilly Losch</wiki:starring>
+    <wiki:starring link="/wiki/Charley_Grapewin">Charley Grapewin</wiki:starring>
+    <wiki:language link="/wiki/English_language">English</wiki:language>
+    <wiki:description>
+      <wiki:abstract>
+	<p xmlns="http://www.w3.org/1999/xhtml"><i><b>The Good Earth</b></i> (<a class="external" href="http://en.wikipedia.org/wiki/1937_in_film" title="1937 in film">1937</a>) is a <a class="external" href="http://en.wikipedia.org/wiki/Feature_film" title="Feature film">film</a> about <a class="external" href="http://en.wikipedia.org/wiki/China" title="China">Chinese</a> farmers who struggle to survive. It was adapted by <a class="external" href="http://en.wikipedia.org/wiki/Talbot_Jennings" title="Talbot Jennings">Talbot Jennings</a>, <a class="external" href="http://en.wikipedia.org/wiki/Tess_Slesinger" title="Tess Slesinger">Tess Slesinger</a>, and <a class="external" href="http://en.wikipedia.org/w/index.php?title=Claudine_West&amp;action=edit&amp;redlink=1" title="Claudine West (page does not exist)">Claudine West</a> from the play by <a class="external" href="http://en.wikipedia.org/wiki/Donald_Davis_(writer)" title="Donald Davis (writer)">Donald Davis</a> and <a class="external" href="http://en.wikipedia.org/wiki/Owen_Davis" title="Owen Davis">Owen Davis</a>, which was in itself based on the <a class="external" href="http://en.wikipedia.org/wiki/1931_in_literature" title="1931 in literature">1931</a> <a class="external" href="http://en.wikipedia.org/wiki/The_Good_Earth" title="The Good Earth">novel of the same name</a> by <a class="external" href="http://en.wikipedia.org/wiki/Nobel_Prize" title="Nobel Prize">Nobel Prize</a>-winning author <a class="external" href="http://en.wikipedia.org/wiki/Pearl_S._Buck" title="Pearl S. Buck">Pearl S. Buck</a> The film was directed by <a class="external" href="http://en.wikipedia.org/wiki/Sidney_Franklin_(director)" title="Sidney Franklin (director)">Sidney Franklin</a>, <a class="external" href="http://en.wikipedia.org/wiki/Victor_Fleming" title="Victor Fleming">Victor Fleming</a> (uncredited) and <a class="external" href="http://en.wikipedia.org/wiki/Gustav_Machaty" title="Gustav Machaty">Gustav Machaty</a> (uncredited).</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">The film starred <a class="external" href="http://en.wikipedia.org/wiki/Paul_Muni" title="Paul Muni">Paul Muni</a> as Wang Lung. For her role as his wife O-Lan, <a class="external" href="http://en.wikipedia.org/wiki/Luise_Rainer" title="Luise Rainer">Luise Rainer</a> won an <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actress" title="Academy Award for Best Actress">Academy Award for Best Actress</a>. The film also won the <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Cinematography" title="Academy Award for Best Cinematography">Academy Award for Best Cinematography</a> for <a class="external" href="http://en.wikipedia.org/wiki/Karl_Freund" title="Karl Freund">Karl Freund</a>. It was nominated for <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Directing" title="Academy Award for Directing">Best Director</a>, <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Film_Editing" title="Academy Award for Film Editing">Best Film Editing</a> and <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture" title="Academy Award for Best Picture">Best Picture</a>. Its <a class="external" href="http://en.wikipedia.org/wiki/World_premiere" title="World premiere">world premiere</a> was at the elegant <a class="external" href="http://en.wikipedia.org/wiki/Carthay_Circle_Theatre" title="Carthay Circle Theatre">Carthay Circle Theatre</a> in <a class="external" href="http://en.wikipedia.org/wiki/Los_Angeles" title="Los Angeles">Los Angeles</a>.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Plot">Plot</span></h2>
+	<p xmlns="http://www.w3.org/1999/xhtml">Farmer Wang Lung (<a class="external" href="http://en.wikipedia.org/wiki/Paul_Muni" title="Paul Muni">Paul Muni</a>) marries O-Lan (<a class="external" href="http://en.wikipedia.org/wiki/Luise_Rainer" title="Luise Rainer">Luise Rainer</a>), a lowly servant at the Great House, the residence of the most powerful family in their village. O-Lan proves to be an excellent wife, hard working and uncomplaining. Wang Lung prospers. He buys more land, and O-Lan gives birth to two sons and a daughter. Meanwhile, the Great House begins to decline.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">All is well until a drought and the resulting famine drive the family to the brink. Desperate, Wang Lung considers the advice of his pessimistic, worthless uncle (<a class="external" href="http://en.wikipedia.org/wiki/Walter_Connolly" title="Walter Connolly">Walter Connolly</a>) to sell his land for food, but O-Lan opposes it. Instead, they travel south to a city in search of work. The family survives by begging and stealing. When a revolutionary gives a speech to try to drum up support for the army approaching despite rain in the north, Wang Lung and O-Lan realize the drought is over. They long to return to their farm, but they have no money for an ox, seed, and food.</p>
+      </wiki:abstract>
+      <p xmlns="http://www.w3.org/1999/xhtml">Years pass. Wang Lung's sons grow up into educated young men, and he has grown so wealthy that he purchases the Great House. Then, Wang Lung becomes besotted with Lotus (<a class="external" href="http://en.wikipedia.org/wiki/Tilly_Losch" title="Tilly Losch">Tilly Losch</a>), a pretty, young dancer at the local <a class="external" href="http://en.wikipedia.org/wiki/Tea_house" title="Tea house">tea house</a>, and makes her his second wife. He begins to find fault with the worn-out O-Lan and gives her pearls to Lotus.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">When Wang Lung discovers that Lotus has seduced Younger Son (<a class="external" href="http://en.wikipedia.org/w/index.php?title=Roland_Lui&amp;action=edit&amp;redlink=1" title="Roland Lui (page does not exist)">Roland Lui</a>), he orders his son to leave. Then a swarm of <a class="external" href="http://en.wikipedia.org/wiki/Locust" title="Locust">locusts</a> threatens the entire village. Using a strategy devised by Elder Son (<a class="external" href="http://en.wikipedia.org/wiki/Keye_Luke" title="Keye Luke">Keye Luke</a>), everyone unites to try to save the crops. Just when all seems lost, the wind shifts direction, taking the danger away. The near-disaster brings Wang Lung back to his senses. He reconciles with Younger Son. On the latter's wedding day, Wang Lung returns the pearls to O-Lan before she dies, exhausted by a hard life.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Cast">Cast</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Production">Production</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">Before Herbert Stothart and Edward Ward were engaged to provide the music, negotiations took place with Austrian composer <a class="external" href="http://en.wikipedia.org/wiki/Arnold_Schoenberg" title="Arnold Schoenberg">Arnold Schoenberg</a>, who is known to have made some musical sketches for the score before the plan fell through.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Pearl Buck intended the film to be cast with all Chinese or Chinese-American actors. <a class="external" href="http://en.wikipedia.org/wiki/Irving_Thalberg" title="Irving Thalberg">Irving Thalberg</a> also envisioned casting only Chinese actors, but had to concede that American audiences were not ready for such a film.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Though <a class="external" href="http://en.wikipedia.org/wiki/Anna_May_Wong" title="Anna May Wong">Anna May Wong</a> had been suggested for the role of O-Lan, the <a class="external" href="http://en.wikipedia.org/wiki/Hays_Code" title="Hays Code">Hays Code</a> anti-<a class="external" href="http://en.wikipedia.org/wiki/Miscegenation" title="Miscegenation">miscegenation</a> rules required Paul Muni's character's wife to be played by a white actress. MGM offered Wong the role of Lotus, but she refused, stating, "You're asking me - with Chinese blood - to do the only unsympathetic role in the picture featuring an all-American cast portraying Chinese characters." Many of the characters were played by <a class="external" href="http://en.wikipedia.org/wiki/Yellowface" title="Yellowface">Western actors made to look Asian</a> with aid of <a class="external" href="http://en.wikipedia.org/wiki/Make-up" title="Make-up">make-up</a> techniques developed by <a class="external" href="http://en.wikipedia.org/wiki/Jack_Dawn" title="Jack Dawn">Jack Dawn</a> and used for the first time in this film.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Because the <a class="external" href="http://en.wikipedia.org/wiki/Second_Sino-Japanese_War" title="Second Sino-Japanese War">Second Sino-Japanese War</a> was in progress, the Chinese government threatened not to approve the movie if any actors of Japanese descent were cast.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">The film's budget was $2.8 million, a small fortune at the time, and took three years to make. A five-hundred-acre farm in <a class="external" href="http://en.wikipedia.org/wiki/Chatsworth,_Los_Angeles,_California" title="Chatsworth, Los Angeles, California">Chatsworth, California</a> was transformed into a replica of Chinese farmland for this film.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Awards">Awards</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml"><i>The Good Earth</i> was nominated for a total of five <a class="external" href="http://en.wikipedia.org/wiki/Academy_Awards" title="Academy Awards">Academy Awards</a> including <a class="external" href="http://en.wikipedia.org/wiki/Best_Picture" title="Best Picture">Best Picture</a>, <a class="external" href="http://en.wikipedia.org/wiki/Best_Direction" title="Best Direction">Best Direction</a> (<a class="external" href="http://en.wikipedia.org/wiki/Sidney_Franklin" title="Sidney Franklin">Sidney Franklin</a>), <a class="external" href="http://en.wikipedia.org/wiki/Best_Cinematography" title="Best Cinematography">Best Cinematography</a> (<a class="external" href="http://en.wikipedia.org/wiki/Karl_Freund" title="Karl Freund">Karl Freund</a>), and <a class="external" href="http://en.wikipedia.org/wiki/Best_Film_Editing" title="Best Film Editing">Best Film Editing</a> (<a class="external" href="http://en.wikipedia.org/w/index.php?title=Basil_Wrangell&amp;action=edit&amp;redlink=1" title="Basil Wrangell (page does not exist)">Basil Wrangell</a>). In addition to the <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actress" title="Academy Award for Best Actress">Best Actress</a> award (Luise Rainer), the film won for <a class="external" href="http://en.wikipedia.org/wiki/Best_Cinematography" title="Best Cinematography">Best Cinematography</a>.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="References">References</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/title/tt0028944/" rel="nofollow"><i>The Good Earth</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	<li><a href="http://www.allmovie.com/work/20287" rel="nofollow"><i>The Good Earth</i></a> at <a class="external" href="http://en.wikipedia.org/wiki/Allmovie" title="Allmovie">Allmovie</a></li>
+	<li><a href="http://tcmdb.com/title/title.jsp?stid=182" rel="nofollow"><i>The Good Earth</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Turner_Classic_Movies" title="Turner Classic Movies">TCM Movie Database</a></li>
+      </ul>
+    </wiki:description>
+  </wiki:film>
+</wiki:nominee>

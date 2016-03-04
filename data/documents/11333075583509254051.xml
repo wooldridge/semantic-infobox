@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="1929" span="2" winner="false" award="best-picture" xmlns:wiki="http://marklogic.com/wikipedia">
+  <!--
+                            Copyright (c) 2010 MarkLogic Corporation.
+                            Permission is granted to copy, distribute and/or modify this document
+                            under the terms of the GNU Free Documentation License, Version 1.2
+                            or any later version published by the Free Software Foundation;
+                            with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+                            A copy of the license is included in the section entitled "GNU
+                            Free Documentation License"
+                            
+                            Content derived from http://en.wikipedia.org/wiki/Disraeli_(film)
+                            Modified in May 2009 by Mark Logic Corporation under the terms of the GNU Free Documentation License.
+                        -->
+  <wiki:film-title link="/wiki/Disraeli_(film)">Disraeli</wiki:film-title>
+  <wiki:film link="/wiki/Disraeli_(film)" title="Disraeli">
+    <wiki:oscar-ref year="1929" span="2" winner="true" award="lead-actor" person-link="/wiki/George_Arliss" person-name="George Arliss"/>
+    <wiki:oscar year="1929" span="2" winner="false" award="best-picture"/>
+    <wiki:producer link="/wiki/Warner_Brothers">Warner Brothers</wiki:producer>
+    <wiki:director link="/wiki/Alfred_E._Green">Alfred E. Green</wiki:director>
+    <wiki:writer link="/wiki/Julien_Josephson">Julien Josephson</wiki:writer>
+    <wiki:writer link="/w/index.php?title=De_Leon_Anthony&amp;action=edit&amp;redlink=1">De Leon Anthony</wiki:writer>
+    <wiki:distributor link="/wiki/Warner_Bros._Pictures">Warner Bros. Pictures</wiki:distributor>
+    <wiki:starring link="/wiki/George_Arliss">George Arliss</wiki:starring>
+    <wiki:starring link="/wiki/Doris_Lloyd">Doris Lloyd</wiki:starring>
+    <wiki:starring link="/wiki/David_Torrence">David Torrence</wiki:starring>
+    <wiki:starring link="/wiki/Joan_Bennett">Joan Bennett</wiki:starring>
+    <wiki:language link="/wiki/English_language">English</wiki:language>
+    <wiki:description>
+      <wiki:abstract>
+	<p xmlns="http://www.w3.org/1999/xhtml"><i><b>Disraeli</b></i> (1929) is a film that was adapted by <a class="external" href="http://en.wikipedia.org/wiki/Julien_Josephson" title="Julien Josephson">Julien Josephson</a> and <a class="external" href="http://en.wikipedia.org/w/index.php?title=De_Leon_Anthony&amp;action=edit&amp;redlink=1" title="De Leon Anthony (page does not exist)">De Leon Anthony</a> from a play by <a class="external" href="http://en.wikipedia.org/w/index.php?title=Louis_N._Parker&amp;action=edit&amp;redlink=1" title="Louis N. Parker (page does not exist)">Louis N. Parker</a>. The film was directed by <a class="external" href="http://en.wikipedia.org/wiki/Alfred_E._Green" title="Alfred E. Green">Alfred E. Green</a>. It stars <a class="external" href="http://en.wikipedia.org/wiki/George_Arliss" title="George Arliss">George Arliss</a> as British Prime Minister <a class="external" href="http://en.wikipedia.org/wiki/Benjamin_Disraeli" title="Benjamin Disraeli">Benjamin Disraeli</a>. His performance won him the <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actor" title="Academy Award for Best Actor">Academy Award for Best Actor in a Leading Role</a>. The story revolves around the British plan to buy the <a class="external" href="http://en.wikipedia.org/wiki/Suez_Canal" title="Suez Canal">Suez Canal</a> and the efforts of two spies to stop it.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Plot">Plot</span></h2>
+	<p xmlns="http://www.w3.org/1999/xhtml">In 1874, Disraeli's ambitious foreign policy, aiming to create a British empire, is voted down by the House of Commons after a speech by his great rival, <a class="external" href="http://en.wikipedia.org/wiki/William_Gladstone" title="William Gladstone">William Gladstone</a>. Later, Michael Probert, head of the <a class="external" href="http://en.wikipedia.org/wiki/Bank_of_England" title="Bank of England">Bank of England</a>, makes it clear he is vehemently opposed to Disraeli's plans, in particular the purchase of the <a class="external" href="http://en.wikipedia.org/wiki/Suez_Canal" title="Suez Canal">Suez Canal</a> to secure control of India.</p>
+      </wiki:abstract>
+      <p xmlns="http://www.w3.org/1999/xhtml">When Disraeli receives the welcome news that the spendthrift <a class="external" href="http://en.wikipedia.org/wiki/Khedive" title="Khedive">Khedive</a> of Egypt is in dire need of money and is willing to sell the controlling shares in the canal, he shares the information with Deeford. Then, knowing that he can expect no help from the Bank of England, he summons Hugh Myers, a leading Jewish banker. Foljambe asks Deeford if Myers is there to provide financial backing for the purchase of the canal. Deeford says nothing, but his manner makes it clear that Foljambe has guessed correctly. Mrs. Travers orders Foljambe to leave the country and warn their masters.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Disraeli is elated when he receives the news and makes no attempt to hide it from the prying Mrs. Travers. However, Myers comes and informs him that his banking house has been driven into bankruptcy by Russian sabotage; the check is worthless. Mrs. Travers exults in her key part in bringing about Disraeli's forthcoming disgrace. Thinking quickly, Disraeli summons Probert. Though the banker initially refuses to help, Disraeli forces him to sign a paper giving unlimited credit to Myers by threatening to revoke the bank's charter. (After, Probert leaves, Disraeli confesses to Clarissa and his wife that he has no such power.) As a result of Disraeli's success, Queen Victoria can add <a class="external" href="http://en.wikipedia.org/wiki/Empress_of_India" title="Empress of India">Empress of India</a> to her other titles.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Cast">Cast</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/George_Arliss" title="George Arliss">George Arliss</a> as Benjamin Disraeli</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Joan_Bennett" title="Joan Bennett">Joan Bennett</a> as Lady Clarissa Pevensey</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Florence_Arliss" title="Florence Arliss">Florence Arliss</a> as Lady Mary Beaconsfield</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Anthony_Bushell" title="Anthony Bushell">Anthony Bushell</a> as Lord Charles Deeford</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/David_Torrence" title="David Torrence">David Torrence</a> as Lord Michael Probert</li>
+	<li>Ivan F. Simpson as Sir Hugh Myers</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Doris_Lloyd" title="Doris Lloyd">Doris Lloyd</a> as Mrs. Travers</li>
+	<li>Gwendolyn Logan as Duchess of Glastonbury</li>
+	<li>Charles E. Evans as Mr. Potter</li>
+	<li>Cosmo Kyrle Bellew as Mr. Terle (as Kyrle Bellew)</li>
+	<li>Jack Deery as Bascot</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Michael_Visaroff" title="Michael Visaroff">Michael Visaroff</a> as Count Borsinov</li>
+	<li>Norman Cannon as Mr. Foljambe</li>
+	<li>Henry Carvill as Duke of Glastonbury</li>
+	<li>Shayle Gardner as Dr. Williams</li>
+	<li>Powell York as Flookes</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Margaret_Mann" title="Margaret Mann">Margaret Mann</a> as Queen Victoria</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Production">Production</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml"><i><a class="external" href="http://en.wikipedia.org/wiki/The_Green_Goddess_(1930_film)" title="The Green Goddess (1930 film)">The Green Goddess</a></i> was filmed in 1929 and completed before <i>Disraeli</i>, but was held out of release until 1930 at the request of Arliss because he felt this film was a better vehicle for his talkie debut. Silent films titled <i>Disraeli</i> were released in 1916 and 1921, with <a class="external" href="http://en.wikipedia.org/wiki/Disraeli_(1921_film)" title="Disraeli (1921 film)">the 1921 version</a> also starring Arliss.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Preservation">Preservation</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">The film survives in its 1934 re-release form. Originally released with sound on disc, sound on film was added at this later date, resulting in the left side of the image in surviving prints noticeably cropped in order to provide space on which to accommodate the soundtrack. The beginning title cards and screen credits and end title card, however, have been replaced and are therefore centered. Some <a class="external" href="http://en.wikipedia.org/wiki/Pre-Code" title="Pre-Code">Pre-Code</a> footage, about three minutes, was also deleted and is believed to be lost.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="References">References</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/title/tt0019823/" rel="nofollow"><i>Disraeli</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	<li><a href="http://tcmdb.com/title/title.jsp?stid=609" rel="nofollow"><i>Disraeli</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Turner_Classic_Movies" title="Turner Classic Movies">TCM Movie Database</a></li>
+      </ul>
+    </wiki:description>
+  </wiki:film>
+</wiki:nominee>

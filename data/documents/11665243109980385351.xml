@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="1981" span="1" winner="false" award="best-picture" xmlns:wiki="http://marklogic.com/wikipedia">
+  <!--
+                            Copyright (c) 2010 MarkLogic Corporation.
+                            Permission is granted to copy, distribute and/or modify this document
+                            under the terms of the GNU Free Documentation License, Version 1.2
+                            or any later version published by the Free Software Foundation;
+                            with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+                            A copy of the license is included in the section entitled "GNU
+                            Free Documentation License"
+                            
+                            Content derived from http://en.wikipedia.org/wiki/Atlantic_City_(film)
+                            Modified in May 2009 by Mark Logic Corporation under the terms of the GNU Free Documentation License.
+                        -->
+  <wiki:film-title link="/wiki/Atlantic_City_(film)">Atlantic City</wiki:film-title>
+  <wiki:film link="/wiki/Atlantic_City_(film)" title="Atlantic City">
+    <wiki:oscar-ref year="1981" span="1" winner="false" award="lead-actress" person-link="/wiki/Susan_Sarandon" person-name="Susan Sarandon"/>
+    <wiki:oscar-ref year="1981" span="1" winner="false" award="best-director" person-link="/wiki/Louis_Malle" person-name="Louis Malle"/>
+    <wiki:oscar year="1981" span="1" winner="false" award="best-picture"/>
+    <wiki:description>
+      <p xmlns="http://www.w3.org/1999/xhtml"><b>Atlantic City</b> may mean:</p>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Atlantic_City,_New_Jersey" title="Atlantic City, New Jersey">Atlantic City, New Jersey</a>, a city in New Jersey, United States</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Atlantic_City,_Wyoming" title="Atlantic City, Wyoming">Atlantic City, Wyoming</a>, a city in Wyoming, United States</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Atlantic_City_(1944_film)" title="Atlantic City (1944 film)"><i>Atlantic City</i> (1944 film)</a>, a musical film</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Atlantic_City_(1980_film)" title="Atlantic City (1980 film)"><i>Atlantic City</i> (1980 film)</a>, a drama film</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Atlantic_City_(song)" title="Atlantic City (song)">"Atlantic City" (song)</a>, a 1982 song by Bruce Springsteen</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Atlantic_City_(How_I_Met_Your_Mother)" title="Atlantic City (How I Met Your Mother)">"Atlantic City" (<i>How I Met Your Mother</i>)</a>, a 2006 episode of the TV series <i>How I Met Your Mother</i></li>
+      </ul>
+    </wiki:description>
+  </wiki:film>
+</wiki:nominee>

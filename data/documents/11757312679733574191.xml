@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="1927" span="2" winner="true" award="best-director" xmlns:wiki="http://marklogic.com/wikipedia">
+  <!--
+                            Copyright (c) 2010 MarkLogic Corporation.
+                            Permission is granted to copy, distribute and/or modify this document
+                            under the terms of the GNU Free Documentation License, Version 1.2
+                            or any later version published by the Free Software Foundation;
+                            with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+                            A copy of the license is included in the section entitled "GNU
+                            Free Documentation License"
+                            
+                            Content derived from http://en.wikipedia.org/wiki/Seventh_Heaven_(film) and http://en.wikipedia.org/wiki/Frank_Borzage
+                            Modified in May 2009 by Mark Logic Corporation under the terms of the GNU Free Documentation License.
+                        -->
+  <wiki:name link="/wiki/Frank_Borzage">Frank Borzage</wiki:name>
+  <wiki:person link="/wiki/Frank_Borzage" name="Frank Borzage">
+    <wiki:oscar year="1927" span="2" winner="true" award="best-director" film-link="/wiki/Seventh_Heaven_(film)" film-title="Seventh Heaven"/>
+    <wiki:oscar year="1931" span="2" winner="true" award="best-director" film-link="/wiki/Bad_Girl" film-title="Bad Girl"/>
+    <wiki:image link="http://upload.wikimedia.org/wikipedia/en/9/95/FrankBorzage.jpg"/>
+    <wiki:birth>
+      <wiki:date>1894-04-23</wiki:date>
+      <wiki:place>
+	<wiki:primary link="/wiki/Salt_Lake_City,_Utah">Salt Lake City, Utah</wiki:primary>
+	<wiki:secondary link=""/>
+      <enrich><woeid xmlns="http://where.yahooapis.com/v1/schema.rng">12590278</woeid><placeTypeName code="9" xmlns="http://where.yahooapis.com/v1/schema.rng">County</placeTypeName><name xmlns="http://where.yahooapis.com/v1/schema.rng">Salt Lake</name><country code="US" type="Country" xmlns="http://where.yahooapis.com/v1/schema.rng">United States</country><admin1 code="US-UT" type="State" xmlns="http://where.yahooapis.com/v1/schema.rng">Utah</admin1><admin2 code="" type="County" xmlns="http://where.yahooapis.com/v1/schema.rng">Salt Lake</admin2><admin3 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality1 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality2 xmlns="http://where.yahooapis.com/v1/schema.rng"/><postal xmlns="http://where.yahooapis.com/v1/schema.rng"/><centroid xmlns="http://where.yahooapis.com/v1/schema.rng"><latitude>40.668030</latitude><longitude>-111.906639</longitude></centroid><boundingBox xmlns="http://where.yahooapis.com/v1/schema.rng"><southWest><latitude>40.414219</latitude><longitude>-112.260101</longitude></southWest><northEast><latitude>40.921829</latitude><longitude>-111.553192</longitude></northEast></boundingBox><areaRank xmlns="http://where.yahooapis.com/v1/schema.rng">7</areaRank><popRank xmlns="http://where.yahooapis.com/v1/schema.rng">0</popRank></enrich></wiki:place>
+    </wiki:birth>
+    <wiki:death>
+      <wiki:date>June 19, 1962</wiki:date>
+      <wiki:place>
+	<wiki:primary link="/wiki/Hollywood,_California">Hollywood, California</wiki:primary>
+	<wiki:secondary link=""/>
+      </wiki:place>
+    </wiki:death>
+    <wiki:description>
+      <p xmlns="http://www.w3.org/1999/xhtml"><b>Frank Borzage</b> (pronounced <span title="Pronunciation in IPA" class="IPA"><a class="external" href="http://en.wikipedia.org/wiki/Wikipedia:IPA_for_English" title="Wikipedia:IPA for English">/bÉ”rËˆzeÉªÉ¡iË&#144;/</a></span>) (April 23, 1894 â€“ June 19, 1962) was an American <a class="external" href="http://en.wikipedia.org/wiki/Film_director" title="Film director">film director</a> and actor.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Biography">Biography</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">Frank Borzage's father, Luigi Borzaga, was born in <a class="external" href="http://en.wikipedia.org/wiki/Roncone" title="Roncone">Roncone</a>, <a class="external" href="http://en.wikipedia.org/wiki/Austria-Hungary" title="Austria-Hungary">Austria-Hungary</a> in 1859. As a stone mason, he sometimes worked in <a class="external" href="http://en.wikipedia.org/wiki/Switzerland" title="Switzerland">Switzerland</a>; he met his future wife, Maria Ruegg (b. 1860, <a class="external" href="http://en.wikipedia.org/wiki/Ricken" title="Ricken">Ricken</a> - d. 1947, <a class="external" href="http://en.wikipedia.org/wiki/Los_Angeles" title="Los Angeles">Los Angeles</a>), where she worked in a silk factory. Borzaga emigrated to <a class="external" href="http://en.wikipedia.org/wiki/Hazleton,_Pennsylvania" title="Hazleton, Pennsylvania">Hazleton, Pennsylvania</a> in the early 1880s where he worked as a coal miner. He brought his fiancee to the United States and they married in Hazleton in 1883.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Their first child, Henry, was born in 1885. The Borzaga family moved to <a class="external" href="http://en.wikipedia.org/wiki/Salt_Lake_City,_Utah" title="Salt Lake City, Utah">Salt Lake City, Utah</a>, where Frank Borzage was born, and the family remained based until 1919. The couple had fourteen children, eight of whom survived childhood: Henry (1885â€“1971), Mary Emma (1886-1906), Bill (1892â€“1973), Frank, Daniel (1896â€“1975, a performer and member of the <a class="external" href="http://en.wikipedia.org/wiki/John_Ford_Stock_Company" title="John Ford Stock Company">John Ford Stock Company</a>), Lew (1898â€“1974), Dolly (1901â€“2002) and Sue (1905â€“1998). Luigi Borzaga died in <a class="external" href="http://en.wikipedia.org/wiki/Los_Angeles" title="Los Angeles">Los Angeles</a> in a car accident in 1934; his wife Maria (Frank's mother) died of cancer in 1947.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">In 1912 Frank Borzage found employment as an actor in <a class="external" href="http://en.wikipedia.org/wiki/Hollywood" title="Hollywood">Hollywood</a>, and remained in the profession until 1917. His directorial debut came in 1915 with his film, <i>The Pitch o' Chance</i>.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">On June 7, 1916, Borzage married vaudeville and film actress Lorena "Rena" Rogers in Los Angeles and remained married until 1941. Borzage died of cancer in 1962, aged 68, and was interred in the <a class="external" href="http://en.wikipedia.org/wiki/Forest_Lawn_Memorial_Park_(Glendale)" title="Forest Lawn Memorial Park (Glendale)">Forest Lawn Memorial Park Cemetery</a> in <a class="external" href="http://en.wikipedia.org/wiki/Glendale,_California" title="Glendale, California">Glendale, California</a>. For his contributions to film, Borzage was awarded a star on the <a class="external" href="http://en.wikipedia.org/wiki/Hollywood_Walk_of_Fame" title="Hollywood Walk of Fame">Hollywood Walk of Fame</a>.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Career">Career</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">Borzage was a successful director throughout the 1920s but reached his peak in the late silent and early sound era. Absorbing visual influences from the German director <a class="external" href="http://en.wikipedia.org/wiki/F.W._Murnau" title="F.W. Murnau">F.W. Murnau</a>, who was also resident at Fox at this time, he developed his own style of lushly visual romanticism in a hugely successful series of films starring <a class="external" href="http://en.wikipedia.org/wiki/Janet_Gaynor" title="Janet Gaynor">Janet Gaynor</a> and <a class="external" href="http://en.wikipedia.org/wiki/Charles_Farrell" title="Charles Farrell">Charles Farrell</a>, including <i><a class="external" href="http://en.wikipedia.org/wiki/Seventh_Heaven_(1927_film)" title="Seventh Heaven (1927 film)">Seventh Heaven</a></i> (1927), for which he won the first <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Directing" title="Academy Award for Directing">Academy Award for Directing</a>, <i><a class="external" href="http://en.wikipedia.org/wiki/Street_Angel_(1928_film)" title="Street Angel (1928 film)">Street Angel</a></i> (1928) and <i>Lucky Star</i> (1929). (He won a second Oscar for 1931's <i><a class="external" href="http://en.wikipedia.org/wiki/Bad_Girl_(film)" title="Bad Girl (film)">Bad Girl</a></i>.)</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Borzage's trademark was intense identification with the feelings of young lovers in the face of adversity, love in his films triumphing over such trials as World War I (<i><a class="external" href="http://en.wikipedia.org/wiki/Seventh_Heaven_(1927_film)" title="Seventh Heaven (1927 film)">Seventh Heaven</a></i> and <i><a class="external" href="http://en.wikipedia.org/wiki/A_Farewell_to_Arms_(1932_film)" title="A Farewell to Arms (1932 film)">A Farewell to Arms</a></i> (1932)), disability (<i><a class="external" href="http://en.wikipedia.org/wiki/Lucky_Star_(film)" title="Lucky Star (film)">Lucky Star</a></i>), the Depression (<i><a class="external" href="http://en.wikipedia.org/wiki/Man%27s_Castle" title="Man's Castle">Man's Castle</a></i> (1933)), a thinly-disguised version of the <a class="external" href="http://en.wikipedia.org/wiki/RMS_Titanic" title="RMS Titanic">Titanic</a> disaster in <i><a class="external" href="http://en.wikipedia.org/wiki/History_Is_Made_at_Night_(1937_film)" title="History Is Made at Night (1937 film)">History Is Made at Night</a></i> (1937), and the rise of Nazism, a theme which Borzage had virtually to himself among Hollywood filmmakers from <i><a class="external" href="http://en.wikipedia.org/wiki/Little_Man,_What_Now%3F_(film)" title="Little Man, What Now? (film)">Little Man, What Now?</a></i> (1933) to <i><a class="external" href="http://en.wikipedia.org/wiki/Three_Comrades_(film)" title="Three Comrades (film)">Three Comrades</a></i> (1938) and <i><a class="external" href="http://en.wikipedia.org/wiki/The_Mortal_Storm" title="The Mortal Storm">The Mortal Storm</a></i> (1940).</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">His work after 1940, however, took a turn into religiosity in such films as <i><a class="external" href="http://en.wikipedia.org/wiki/Strange_Cargo_(1940_film)" title="Strange Cargo (1940 film)">Strange Cargo</a></i> (1940) and <i><a class="external" href="http://en.wikipedia.org/wiki/The_Big_Fisherman" title="The Big Fisherman">The Big Fisherman</a></i> (1959), and his once extremely high reputation fell as his earlier films became hard to see; of his later work only the <a class="external" href="http://en.wikipedia.org/wiki/Film_noir" title="Film noir">film noir</a> <i><a class="external" href="http://en.wikipedia.org/wiki/Moonrise_(film)" title="Moonrise (film)">Moonrise</a></i> (1948) has enjoyed much critical acclaim. After 1948, his output was sporadic, and his last film work was sequences in <a class="external" href="http://en.wikipedia.org/wiki/Edgar_G._Ulmer" title="Edgar G. Ulmer">Edgar G. Ulmer</a>'s 1962 film <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=L%27Atlantide_(1962_film)&amp;action=edit&amp;redlink=1" title="L'Atlantide (1962 film) (page does not exist)">L'Atlantide</a></i> (<i>Journey Beneath The Desert</i>), for which he was uncredited.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Selected_filmography">Selected filmography</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>1913Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=The_Mystery_of_Yellow_Aster_Mine&amp;action=edit&amp;redlink=1" title="The Mystery of Yellow Aster Mine (page does not exist)">The Mystery of Yellow Aster Mine</a></i></li>
+	<li>1913Â : <i><a class="external" href="http://en.wikipedia.org/wiki/The_Battle_of_Gettysburg_(1913_film)" title="The Battle of Gettysburg (1913 film)">The Battle of Gettysburg</a></i></li>
+	<li>1914Â : <i><a class="external" href="http://en.wikipedia.org/wiki/Samson_(1914_film)" title="Samson (1914 film)">Samson</a></i></li>
+	<li>1915Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=The_Pitch_o%27_Chance&amp;action=edit&amp;redlink=1" title="The Pitch o' Chance (page does not exist)">The Pitch o' Chance</a></i></li>
+	<li>1916Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=The_Pride_and_the_Man&amp;action=edit&amp;redlink=1" title="The Pride and the Man (page does not exist)">The Pride and the Man</a></i></li>
+	<li>1916Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=Dollars_of_Dross&amp;action=edit&amp;redlink=1" title="Dollars of Dross (page does not exist)">Dollars of Dross</a></i></li>
+	<li>1916Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=Life%27s_Harmony&amp;action=edit&amp;redlink=1" title="Life's Harmony (page does not exist)">Life's Harmony</a></i></li>
+	<li>1916Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=The_Silken_Spider&amp;action=edit&amp;redlink=1" title="The Silken Spider (page does not exist)">The Silken Spider</a></i></li>
+	<li>1916Â : <i><a class="external" href="http://en.wikipedia.org/wiki/The_Code_of_Honor" title="The Code of Honor">The Code of Honor</a></i></li>
+	<li>1916Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=Two_Bits_(1916_film)&amp;action=edit&amp;redlink=1" title="Two Bits (1916 film) (page does not exist)">Two Bits</a></i></li>
+	<li>1916Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=A_Flickering_Light&amp;action=edit&amp;redlink=1" title="A Flickering Light (page does not exist)">A Flickering Light</a></i></li>
+	<li>1916Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=Unlucky_Luke&amp;action=edit&amp;redlink=1" title="Unlucky Luke (page does not exist)">Unlucky Luke</a></i></li>
+	<li>1916Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=Jack_(1916_film)&amp;action=edit&amp;redlink=1" title="Jack (1916 film) (page does not exist)">Jack</a></i></li>
+	<li>1916Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=The_Pilgrim_(1916_film)&amp;action=edit&amp;redlink=1" title="The Pilgrim (1916 film) (page does not exist)">The Pilgrim</a></i></li>
+	<li>1916Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=The_Demon_of_Fear&amp;action=edit&amp;redlink=1" title="The Demon of Fear (page does not exist)">The Demon of Fear</a></i></li>
+	<li>1916Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=The_Quicksands_of_Deceit&amp;action=edit&amp;redlink=1" title="The Quicksands of Deceit (page does not exist)">The Quicksands of Deceit</a></i></li>
+	<li>1916Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=Nugget_Jim%27s_Pardner&amp;action=edit&amp;redlink=1" title="Nugget Jim's Pardner (page does not exist)">Nugget Jim's Pardner</a></i></li>
+	<li>1916Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=That_Gal_of_Burke%27s&amp;action=edit&amp;redlink=1" title="That Gal of Burke's (page does not exist)">That Gal of Burke's</a></i></li>
+	<li>1916Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=The_Courtin%27_of_Calliope_Clew&amp;action=edit&amp;redlink=1" title="The Courtin' of Calliope Clew (page does not exist)">The Courtin' of Calliope Clew</a></i></li>
+	<li>1916Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=Nell_Dale%27s_Men_Folks&amp;action=edit&amp;redlink=1" title="Nell Dale's Men Folks (page does not exist)">Nell Dale's Men Folks</a></i></li>
+	<li>1916Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=The_Forgotten_Prayer&amp;action=edit&amp;redlink=1" title="The Forgotten Prayer (page does not exist)">The Forgotten Prayer</a></i></li>
+	<li>1916Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=Matchin%27_Jim&amp;action=edit&amp;redlink=1" title="Matchin' Jim (page does not exist)">Matchin' Jim</a></i></li>
+	<li>1916Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=Land_o%27_Lizards&amp;action=edit&amp;redlink=1" title="Land o' Lizards (page does not exist)">Land o' Lizards</a></i></li>
+	<li>1916Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=Immediate_Lee&amp;action=edit&amp;redlink=1" title="Immediate Lee (page does not exist)">Immediate Lee</a></i></li>
+	<li>1917Â : <i>Flying Colors</i></li>
+	<li>1917Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=Until_They_Get_Me&amp;action=edit&amp;redlink=1" title="Until They Get Me (page does not exist)">Until They Get Me</a></i></li>
+	<li>1918Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=The_Gun_Woman&amp;action=edit&amp;redlink=1" title="The Gun Woman (page does not exist)">The Gun Woman</a></i></li>
+	<li>1918Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=The_Curse_of_Iku&amp;action=edit&amp;redlink=1" title="The Curse of Iku (page does not exist)">The Curse of Iku</a></i></li>
+	<li>1918Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=The_Shoes_That_Danced&amp;action=edit&amp;redlink=1" title="The Shoes That Danced (page does not exist)">The Shoes That Danced</a></i></li>
+	<li>1918Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=Innocent%27s_Progress&amp;action=edit&amp;redlink=1" title="Innocent's Progress (page does not exist)">Innocent's Progress</a></i></li>
+	<li>1918Â : <i><a class="external" href="http://en.wikipedia.org/wiki/Society_for_Sale" title="Society for Sale">Society for Sale</a></i></li>
+	<li>1918Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=An_Honest_Man&amp;action=edit&amp;redlink=1" title="An Honest Man (page does not exist)">An Honest Man</a></i></li>
+	<li>1918Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=Who_Is_to_Blame%3F&amp;action=edit&amp;redlink=1" title="Who Is to Blame? (page does not exist)">Who Is to Blame?</a></i></li>
+	<li>1918Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=The_Ghost_Flower&amp;action=edit&amp;redlink=1" title="The Ghost Flower (page does not exist)">The Ghost Flower</a></i></li>
+	<li>1918Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=The_Atom_(film,_1918)&amp;action=edit&amp;redlink=1" title="The Atom (film, 1918) (page does not exist)">The Atom</a></i></li>
+	<li>1919Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=Toton_the_Apache&amp;action=edit&amp;redlink=1" title="Toton the Apache (page does not exist)">Toton the Apache</a></i></li>
+	<li>1919Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=Whom_the_Gods_Would_Destroy_(1919_film)&amp;action=edit&amp;redlink=1" title="Whom the Gods Would Destroy (1919 film) (page does not exist)">Whom the Gods Would Destroy</a></i></li>
+	<li>1919Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=Prudence_on_Broadway&amp;action=edit&amp;redlink=1" title="Prudence on Broadway (page does not exist)">Prudence on Broadway</a></i></li>
+	<li>1920Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=Humoresque_(1920_film)&amp;action=edit&amp;redlink=1" title="Humoresque (1920 film) (page does not exist)">Humoresque</a></i></li>
+	<li>1921Â : <i><a class="external" href="http://en.wikipedia.org/wiki/Get-Rich-Quick_Wallingford_(1921_film)" title="Get-Rich-Quick Wallingford (1921 film)">Get-Rich-Quick Wallingford</a></i></li>
+	<li>1921Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=The_Duke_of_Chimney_Butte&amp;action=edit&amp;redlink=1" title="The Duke of Chimney Butte (page does not exist)">The Duke of Chimney Butte</a></i></li>
+	<li>1922Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=Back_Pay&amp;action=edit&amp;redlink=1" title="Back Pay (page does not exist)">Back Pay</a></i></li>
+	<li>1922Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=Billy_Jim&amp;action=edit&amp;redlink=1" title="Billy Jim (page does not exist)">Billy Jim</a></i></li>
+	<li>1922Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=The_Good_Provider&amp;action=edit&amp;redlink=1" title="The Good Provider (page does not exist)">The Good Provider</a></i></li>
+	<li>1922Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=The_Valley_of_Silent_Men&amp;action=edit&amp;redlink=1" title="The Valley of Silent Men (page does not exist)">The Valley of Silent Men</a></i></li>
+	<li>1922Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=The_Pride_of_Palomar&amp;action=edit&amp;redlink=1" title="The Pride of Palomar (page does not exist)">The Pride of Palomar</a></i></li>
+	<li>1923Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=The_Nth_Commandment&amp;action=edit&amp;redlink=1" title="The Nth Commandment (page does not exist)">The Nth Commandment</a></i></li>
+	<li>1923Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=Children_of_the_Dust_(film)&amp;action=edit&amp;redlink=1" title="Children of the Dust (film) (page does not exist)">Children of the Dust</a></i></li>
+	<li>1923Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=The_Age_of_Desire&amp;action=edit&amp;redlink=1" title="The Age of Desire (page does not exist)">The Age of Desire</a></i></li>
+	<li>1924Â : <i><a class="external" href="http://en.wikipedia.org/wiki/Secrets_(1924_film)" title="Secrets (1924 film)">Secrets</a></i></li>
+	<li>1925Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=The_Lady_(film)&amp;action=edit&amp;redlink=1" title="The Lady (film) (page does not exist)">The Lady</a></i></li>
+	<li>1925Â : <i><a class="external" href="http://en.wikipedia.org/wiki/Daddy%27s_Gone_A-Hunting" title="Daddy's Gone A-Hunting">Daddy's Gone A-Hunting</a></i></li>
+	<li>1925Â : <i><a class="external" href="http://en.wikipedia.org/wiki/The_Circle_(1925_film)" title="The Circle (1925 film)">The Circle</a></i></li>
+	<li>1925Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=Lazybones_(1925_film)&amp;action=edit&amp;redlink=1" title="Lazybones (1925 film) (page does not exist)">Lazybones</a></i></li>
+	<li>1925Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=Wages_for_Wives&amp;action=edit&amp;redlink=1" title="Wages for Wives (page does not exist)">Wages for Wives</a></i></li>
+	<li>1926Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=The_First_Year_(1926_film)&amp;action=edit&amp;redlink=1" title="The First Year (1926 film) (page does not exist)">The First Year</a></i></li>
+	<li>1926Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=The_Dixie_Merchant&amp;action=edit&amp;redlink=1" title="The Dixie Merchant (page does not exist)">The Dixie Merchant</a></i></li>
+	<li>1926Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=Early_to_Wed&amp;action=edit&amp;redlink=1" title="Early to Wed (page does not exist)">Early to Wed</a></i></li>
+	<li>1926Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=Marriage_License%3F&amp;action=edit&amp;redlink=1" title="Marriage License? (page does not exist)">Marriage License?</a></i></li>
+	<li>1927Â : <i><a class="external" href="http://en.wikipedia.org/wiki/Seventh_Heaven_(1927_film)" title="Seventh Heaven (1927 film)">Seventh Heaven</a></i></li>
+	<li>1928Â : <i><a class="external" href="http://en.wikipedia.org/wiki/Street_Angel_(1928_film)" title="Street Angel (1928 film)">Street Angel</a></i></li>
+	<li>1929Â : <i><a class="external" href="http://en.wikipedia.org/wiki/Lucky_Star_(1929_film)" title="Lucky Star (1929 film)">Lucky Star</a></i></li>
+	<li>1929Â : <i><a class="external" href="http://en.wikipedia.org/wiki/They_Had_to_See_Paris" title="They Had to See Paris">They Had to See Paris</a></i></li>
+	<li>1929Â : <i><a class="external" href="http://en.wikipedia.org/wiki/The_River_(1929_film)" title="The River (1929 film)">The River</a></i></li>
+	<li>1930Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=Song_o%27_My_Heart&amp;action=edit&amp;redlink=1" title="Song o' My Heart (page does not exist)">Song o' My Heart</a></i></li>
+	<li>1930Â : <i><a class="external" href="http://en.wikipedia.org/wiki/Liliom_(1930_film)" title="Liliom (1930 film)">Liliom</a></i></li>
+	<li>1931Â : <i><a class="external" href="http://en.wikipedia.org/wiki/Doctors%27_Wives_(1931_film)" title="Doctors' Wives (1931 film)">Doctors' Wives</a></i></li>
+	<li>1931Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=Young_as_You_Feel&amp;action=edit&amp;redlink=1" title="Young as You Feel (page does not exist)">Young as You Feel</a></i></li>
+	<li>1931Â : <i><a class="external" href="http://en.wikipedia.org/wiki/Bad_Girl_(film)" title="Bad Girl (film)">Bad Girl</a></i></li>
+	<li>1932Â : <i><a class="external" href="http://en.wikipedia.org/wiki/After_Tomorrow" title="After Tomorrow">After Tomorrow</a></i></li>
+	<li>1932Â : <i><a class="external" href="http://en.wikipedia.org/wiki/Young_America_(1932_film)" title="Young America (1932 film)">Young America</a></i></li>
+	<li>1932Â : <i><a class="external" href="http://en.wikipedia.org/wiki/A_Farewell_to_Arms_(1932_film)" title="A Farewell to Arms (1932 film)">A Farewell to Arms</a></i></li>
+	<li>1933Â : <i><a class="external" href="http://en.wikipedia.org/wiki/Secrets_(film)" title="Secrets (film)">Secrets</a></i></li>
+	<li>1933Â : <i><a class="external" href="http://en.wikipedia.org/wiki/Man%27s_Castle" title="Man's Castle">Man's Castle</a></i></li>
+	<li>1934Â : <i><a class="external" href="http://en.wikipedia.org/wiki/The_Paul_Street_Boys#Film.2C_TV_or_theatrical_adaptations" title="The Paul Street Boys">No Greater Glory</a></i></li>
+	<li>1934Â : <i><a class="external" href="http://en.wikipedia.org/wiki/Little_Man,_What_Now%3F_(film)" title="Little Man, What Now? (film)">Little Man, What Now?</a></i></li>
+	<li>1934Â : <i><a class="external" href="http://en.wikipedia.org/wiki/Flirtation_Walk" title="Flirtation Walk">Flirtation Walk</a></i></li>
+	<li>1935Â : <i><a class="external" href="http://en.wikipedia.org/wiki/Living_on_Velvet" title="Living on Velvet">Living on Velvet</a></i></li>
+	<li>1935Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=Stranded_(1935_film)&amp;action=edit&amp;redlink=1" title="Stranded (1935 film) (page does not exist)">Stranded</a></i></li>
+	<li>1935Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=Shipmates_Forever&amp;action=edit&amp;redlink=1" title="Shipmates Forever (page does not exist)">Shipmates Forever</a></i></li>
+	<li>1936Â : <i><a class="external" href="http://en.wikipedia.org/wiki/Desire_(1936_film)" title="Desire (1936 film)">Desire</a></i></li>
+	<li>1936Â : <i><a class="external" href="http://en.wikipedia.org/wiki/Hearts_Divided" title="Hearts Divided">Hearts Divided</a></i></li>
+	<li>1937Â : <i><a class="external" href="http://en.wikipedia.org/wiki/Green_Light_(1937_film)" title="Green Light (1937 film)">Green Light</a></i></li>
+	<li>1937Â : <i><a class="external" href="http://en.wikipedia.org/wiki/History_Is_Made_at_Night_(1937_film)" title="History Is Made at Night (1937 film)">History Is Made at Night</a></i></li>
+	<li>1937Â : <i><a class="external" href="http://en.wikipedia.org/wiki/Big_City_(1937_film)" title="Big City (1937 film)">Big City</a></i></li>
+	<li>1937Â : <i><a class="external" href="http://en.wikipedia.org/wiki/Mannequin_(1937_film)" title="Mannequin (1937 film)">Mannequin</a></i></li>
+	<li>1938Â : <i><a class="external" href="http://en.wikipedia.org/wiki/Three_Comrades_(film)" title="Three Comrades (film)">Three Comrades</a></i></li>
+	<li>1938Â : <i><a class="external" href="http://en.wikipedia.org/wiki/The_Shining_Hour" title="The Shining Hour">The Shining Hour</a></i></li>
+	<li>1939Â : <i><a class="external" href="http://en.wikipedia.org/wiki/Disputed_Passage" title="Disputed Passage">Disputed Passage</a></i></li>
+	<li>1940Â : <i><a class="external" href="http://en.wikipedia.org/wiki/I_Take_This_Woman_(1940_film)" title="I Take This Woman (1940 film)">I Take This Woman</a></i></li>
+	<li>1940Â : <i><a class="external" href="http://en.wikipedia.org/wiki/Strange_Cargo_(1940_film)" title="Strange Cargo (1940 film)">Strange Cargo</a></i></li>
+	<li>1940Â : <i><a class="external" href="http://en.wikipedia.org/wiki/The_Mortal_Storm" title="The Mortal Storm">The Mortal Storm</a></i></li>
+	<li>1940Â : <i><a class="external" href="http://en.wikipedia.org/wiki/Flight_Command" title="Flight Command">Flight Command</a></i></li>
+	<li>1941Â : <i><a class="external" href="http://en.wikipedia.org/wiki/Billy_the_Kid_(1941_film)" title="Billy the Kid (1941 film)">Billy the Kid</a></i></li>
+	<li>1941Â : <i><a class="external" href="http://en.wikipedia.org/wiki/Smilin%27_Through_(1941_film)" title="Smilin' Through (1941 film)">Smilin' Through</a></i></li>
+	<li>1942Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=The_Vanishing_Virginian&amp;action=edit&amp;redlink=1" title="The Vanishing Virginian (page does not exist)">The Vanishing Virginian</a></i></li>
+	<li>1942Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=Seven_Sweethearts&amp;action=edit&amp;redlink=1" title="Seven Sweethearts (page does not exist)">Seven Sweethearts</a></i></li>
+	<li>1943Â : <i><a class="external" href="http://en.wikipedia.org/wiki/Stage_Door_Canteen" title="Stage Door Canteen">Stage Door Canteen</a></i></li>
+	<li>1943Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=His_Butler%27s_Sister&amp;action=edit&amp;redlink=1" title="His Butler's Sister (page does not exist)">His Butler's Sister</a></i></li>
+	<li>1944Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=Till_We_Meet_Again_(1944_film)&amp;action=edit&amp;redlink=1" title="Till We Meet Again (1944 film) (page does not exist)">Till We Meet Again</a></i></li>
+	<li>1945Â : <i><a class="external" href="http://en.wikipedia.org/wiki/The_Spanish_Main" title="The Spanish Main">The Spanish Main</a></i></li>
+	<li>1946Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=I%27ve_Always_Loved_You&amp;action=edit&amp;redlink=1" title="I've Always Loved You (page does not exist)">I've Always Loved You</a></i></li>
+	<li>1946Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=Magnificent_Doll&amp;action=edit&amp;redlink=1" title="Magnificent Doll (page does not exist)">Magnificent Doll</a></i></li>
+	<li>1947Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=That%27s_My_Man&amp;action=edit&amp;redlink=1" title="That's My Man (page does not exist)">That's My Man</a></i></li>
+	<li>1948Â : <i><a class="external" href="http://en.wikipedia.org/wiki/Moonrise_(film)" title="Moonrise (film)">Moonrise</a></i></li>
+	<li>1958Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=China_Doll_(film)&amp;action=edit&amp;redlink=1" title="China Doll (film) (page does not exist)">China Doll</a></i></li>
+	<li>1959Â : <i><a class="external" href="http://en.wikipedia.org/wiki/The_Big_Fisherman" title="The Big Fisherman">The Big Fisherman</a></i></li>
+	<li>1961Â : <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=L%27Atlantide_(1961_film)&amp;action=edit&amp;redlink=1" title="L'Atlantide (1961 film) (page does not exist)">L'Atlantide</a></i></li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="References">References</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Further_reading">Further reading</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>Dumont, HervÃ©. <i>Frank Borzage: the Life and Times of a Hollywood Romantic</i>. McFarland, 2006.</li>
+	<li>Lamster, Frederick. <i>"Souls Made Great Through Love and Adversity": the Film Work of Frank Borzage</i>. Scarecrow, 1981.</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/name/nm0097648/" rel="nofollow">Frank Borzage</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	<li><a href="http://www.allmovie.com/artist/82529" rel="nofollow">Frank Borzage</a> at <a class="external" href="http://en.wikipedia.org/wiki/Allmovie" title="Allmovie">Allmovie</a></li>
+	<li><a href="http://www.sensesofcinema.com/contents/directors/03/borzage.html" rel="nofollow">Senses of Cinema: Great Directors Critical Database</a></li>
+	<li><a href="http://www.theyshootpictures.com/borzagefrank.htm" rel="nofollow">They Shoot Pictures, Don't They?</a></li>
+	<li><a href="http://www.archive.org/details/farewell_to_arms" rel="nofollow"><i>A Farewell to Arms</i> (1932)</a> - This Borzage-directed adaptation of <a class="external" href="http://en.wikipedia.org/wiki/Ernest_Hemingway" title="Ernest Hemingway">Ernest Hemingway's</a> <a class="external" href="http://en.wikipedia.org/wiki/A_Farewell_to_Arms" title="A Farewell to Arms">novel</a> has fallen into the public domain and is available online through the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Archive" title="Internet Archive">Internet Archive</a>.</li>
+	<li><a href="http://www.slantmagazine.com/film/features/frankborzage.asp" rel="nofollow">Flesh and Desire: The Films of Frank Borzage</a></li>
+	<li><a href="http://hellonfriscobay.blogspot.com/2006/08/frank-borzage-and-classical-hollywood.html" rel="nofollow">Frank Borzage and the Classic Hollywood Style</a></li>
+	<li><a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=4379" rel="nofollow">Frank Borzage</a> at <a class="external" href="http://en.wikipedia.org/wiki/Find_a_Grave" title="Find a Grave">Find a Grave</a></li>
+      </ul>
+    </wiki:description>
+  </wiki:person>
+  <wiki:film-title link="/wiki/Seventh_Heaven_(film)">Seventh Heaven</wiki:film-title>
+  <wiki:film link="/wiki/Seventh_Heaven_(film)" title="Seventh Heaven">
+    <wiki:oscar-ref year="1927" span="2" winner="true" award="lead-actress" person-link="/wiki/Janet_Gaynor" person-name="Janet Gaynor"/>
+    <wiki:oscar-ref year="1927" span="2" winner="true" award="best-director" person-link="/wiki/Frank_Borzage" person-name="Frank Borzage"/>
+    <wiki:oscar year="1927" span="2" winner="false" award="best-picture"/>
+    <wiki:description>
+      <p xmlns="http://www.w3.org/1999/xhtml"><b>Seventh Heaven</b> or <b>7th Heaven</b> may refer to:</p>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>The highest of <a class="external" href="http://en.wikipedia.org/wiki/Seven_Heavens" title="Seven Heavens">Seven Heavens</a> according to some religious traditions</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Film.2C_television.2C_and_theatre">Film, television, and theatre</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Seventh_Heaven_(1927_film)" title="Seventh Heaven (1927 film)"><i>Seventh Heaven</i> (1927 film)</a>, a silent film with Janet Gaynor</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Seventh_Heaven_(1937_film)" title="Seventh Heaven (1937 film)"><i>Seventh Heaven</i> (1937 film)</a>, a remake with James Stewart</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Seventh_Heaven_(1993_film)" title="Seventh Heaven (1993 film)"><i>Seventh Heaven</i> (1993 film)</a> (<i>De zevende zemel</i>), a Dutch romantic comedy</li>
+	<li><a class="external" href="http://en.wikipedia.org/w/index.php?title=Seventh_Heaven_(1997_film)&amp;action=edit&amp;redlink=1" title="Seventh Heaven (1997 film) (page does not exist)"><i>Seventh Heaven</i> (1997 film)</a> (<i>Le septiÃ¨me ciel</i>), a French film starring <a class="external" href="http://en.wikipedia.org/wiki/Sandrine_Kiberlain" title="Sandrine Kiberlain">Sandrine Kiberlain</a></li>
+	<li><i>Seventh Heaven</i>, a Broadway musical by <a class="external" href="http://en.wikipedia.org/wiki/Victor_Young" title="Victor Young">Victor Young</a></li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/7th_Heaven" title="7th Heaven">7th Heaven</a></i>, an American television series</li>
+	<li><a class="external" href="http://en.wikipedia.org/w/index.php?title=7th_Heaven_(documentary)&amp;action=edit&amp;redlink=1" title="7th Heaven (documentary) (page does not exist)"><i>7th Heaven</i> (documentary)</a> (<i>7. himmel</i>), a Norwegian film about Tatjana Lars Kristian Guldbrandsen, with music by <a class="external" href="http://en.wikipedia.org/wiki/John_Erik_Kaada" title="John Erik Kaada">John Erik Kaada</a></li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Music">Music</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Seventh_Heaven_(musician)" title="Seventh Heaven (musician)">Seventh Heaven (musician)</a>, a British music producer</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Seventh_Heaven_(Buck-Tick_album)" title="Seventh Heaven (Buck-Tick album)"><i>Seventh Heaven</i> (Buck-Tick album)</a></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Seventh_Heaven_(Kalafina_album)" title="Seventh Heaven (Kalafina album)"><i>Seventh Heaven</i> (Kalafina album)</a></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Seventh_Heaven_(song)" title="Seventh Heaven (song)">"Seventh Heaven" (song)</a>, a song by L'Arc-en-Ciel</li>
+	<li><i>Seventh Heaven</i>, an album by <a class="external" href="http://en.wikipedia.org/wiki/Takanori_Nishikawa" title="Takanori Nishikawa">T.M.Revolution</a></li>
+	<li>"Seventh Heaven", a song by Deep Purple from <i><a class="external" href="http://en.wikipedia.org/wiki/Abandon_(album)" title="Abandon (album)">Abandon</a></i></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/7th_Heaven_(band)" title="7th Heaven (band)">7th Heaven (band)</a>, an American rock band</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/7th_Heaven_(record_label)" title="7th Heaven (record label)">7th Heaven (record label)</a>, a Hi-NRG remix and music producing company based in London, UK</li>
+	<li><a class="external" href="http://en.wikipedia.org/w/index.php?title=7th_Heaven_(Vanity_song)&amp;action=edit&amp;redlink=1" title="7th Heaven (Vanity song) (page does not exist)">"7th Heaven" (Vanity song)</a>, a song by <a class="external" href="http://en.wikipedia.org/wiki/Vanity_(performer)" title="Vanity (performer)">Vanity</a></li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Literature">Literature</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Seventh_Heaven_(book)" title="Seventh Heaven (book)"><i>Seventh Heaven</i> (book)</a>, a poetry collection by Patti Smith, and the title poem</li>
+	<li><i>Seventh Heaven</i>, a novel by <a class="external" href="http://en.wikipedia.org/wiki/Alice_Hoffman" title="Alice Hoffman">Alice Hoffman</a></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/7th_Heaven_(novel)" title="7th Heaven (novel)"><i>7th Heaven</i> (novel)</a>, a novel in the Women's Murder Club Series by James Patterson</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Other">Other</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>Seventh Heaven, a sports team winning <a class="external" href="http://en.wikipedia.org/wiki/Game_seven" title="Game seven">game seven</a> in a best-of-seven playoff series</li>
+	<li>Seventh Heaven, a part of the <a class="external" href="http://en.wikipedia.org/wiki/Whistler-Blackcomb" title="Whistler-Blackcomb">Whistler-Blackcomb</a> Resort</li>
+	<li>Seventh Heaven, the revolving restaurant in the <a class="external" href="http://en.wikipedia.org/wiki/Ostankino_Tower" title="Ostankino Tower">Ostankino Tower</a> in Moscow, Russia</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/7th_Heaven_(frequent_flyer_program)" title="7th Heaven (frequent flyer program)">7th Heaven (frequent flyer program)</a>, the Air Jamaica frequentâ€“flyer program</li>
+	<li>7th Heaven, a fictional bar owned by <a class="external" href="http://en.wikipedia.org/wiki/Tifa_Lockhart" title="Tifa Lockhart">Tifa Lockhart</a> in the role-playing game <i>Final Fantasy VII</i></li>
+      </ul>
+    </wiki:description>
+  </wiki:film>
+</wiki:nominee>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="1979" span="1" winner="false" award="supporting-actor" xmlns:wiki="http://marklogic.com/wikipedia">
+  <!--
+                            Copyright (c) 2010 MarkLogic Corporation.
+                            Permission is granted to copy, distribute and/or modify this document
+                            under the terms of the GNU Free Documentation License, Version 1.2
+                            or any later version published by the Free Software Foundation;
+                            with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+                            A copy of the license is included in the section entitled "GNU
+                            Free Documentation License"
+                            
+                            Content derived from http://en.wikipedia.org/wiki/The_Rose_(film) and http://en.wikipedia.org/wiki/Frederic_Forrest
+                            Modified in May 2009 by Mark Logic Corporation under the terms of the GNU Free Documentation License.
+                        -->
+  <wiki:name link="/wiki/Frederic_Forrest">Frederic Forrest</wiki:name>
+  <wiki:person link="/wiki/Frederic_Forrest" name="Frederic Forrest">
+    <wiki:oscar year="1979" span="1" winner="false" award="supporting-actor" film-link="/wiki/The_Rose_(film)" film-title="The Rose"/>
+    <wiki:birth>
+      <wiki:date>1936-12-23</wiki:date>
+      <wiki:place>
+	<wiki:primary link="/wiki/Waxahachie,_Texas">Waxahachie, Texas</wiki:primary>
+	<wiki:secondary link="/wiki/United_States">U.S.</wiki:secondary>
+      <enrich><woeid xmlns="http://where.yahooapis.com/v1/schema.rng">12590077</woeid><placeTypeName code="9" xmlns="http://where.yahooapis.com/v1/schema.rng">County</placeTypeName><name xmlns="http://where.yahooapis.com/v1/schema.rng">Ellis</name><country code="US" type="Country" xmlns="http://where.yahooapis.com/v1/schema.rng">United States</country><admin1 code="US-TX" type="State" xmlns="http://where.yahooapis.com/v1/schema.rng">Texas</admin1><admin2 code="" type="County" xmlns="http://where.yahooapis.com/v1/schema.rng">Ellis</admin2><admin3 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality1 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality2 xmlns="http://where.yahooapis.com/v1/schema.rng"/><postal xmlns="http://where.yahooapis.com/v1/schema.rng"/><centroid xmlns="http://where.yahooapis.com/v1/schema.rng"><latitude>32.300629</latitude><longitude>-96.735153</longitude></centroid><boundingBox xmlns="http://where.yahooapis.com/v1/schema.rng"><southWest><latitude>32.051991</latitude><longitude>-97.087067</longitude></southWest><northEast><latitude>32.549271</latitude><longitude>-96.383240</longitude></northEast></boundingBox><areaRank xmlns="http://where.yahooapis.com/v1/schema.rng">7</areaRank><popRank xmlns="http://where.yahooapis.com/v1/schema.rng">0</popRank></enrich></wiki:place>
+    </wiki:birth>
+    <wiki:description>
+      <wiki:abstract>
+	<p xmlns="http://www.w3.org/1999/xhtml"><b>Frederic Fenimore Forrest, Jr.</b> (born December 23, 1936) is an American actor.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Life">Life</span></h2>
+	<p xmlns="http://www.w3.org/1999/xhtml">Forrest was born in <a class="external" href="http://en.wikipedia.org/wiki/Waxahachie,_Texas" title="Waxahachie, Texas">Waxahachie, Texas</a>, the son of Virginia Allie (nÃ©e McSpadden) and Frederic Fenimore Forrest, a furniture store owner. He is known for his roles as Chef in <i><a class="external" href="http://en.wikipedia.org/wiki/Apocalypse_Now" title="Apocalypse Now">Apocalypse Now</a></i>, <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=When_The_Legends_Die&amp;action=edit&amp;redlink=1" title="When The Legends Die (page does not exist)">When The Legends Die</a></i>, <i>It Lives Again</i>, the neo-Nazi surplus store owner in <i><a class="external" href="http://en.wikipedia.org/wiki/Falling_Down" title="Falling Down">Falling Down</a></i>, <i><a class="external" href="http://en.wikipedia.org/wiki/Right_to_Kill%3F" title="Right to Kill?">Right to Kill?</a></i> and for playing the writer <a class="external" href="http://en.wikipedia.org/wiki/Dashiell_Hammett" title="Dashiell Hammett">Dashiell Hammett</a> twice in film â€” in <i><a class="external" href="http://en.wikipedia.org/wiki/Hammett_(film)" title="Hammett (film)">Hammett</a></i> (1982) and in <i><a class="external" href="http://en.wikipedia.org/wiki/Citizen_Cohn" title="Citizen Cohn">Citizen Cohn</a></i> (1992 TV movie). He had a role as the renegade Mexican-Indian <a class="external" href="http://en.wikipedia.org/wiki/Blue_Duck_(Lonesome_Dove_series)" title="Blue Duck (Lonesome Dove series)">Blue Duck</a> in the 1989 miniseries, <i><a class="external" href="http://en.wikipedia.org/wiki/Lonesome_Dove" title="Lonesome Dove">Lonesome Dove</a></i>. He was <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award" title="Academy Award">Academy Award</a>-nominated in the Supporting Actor category for his role in <i><a class="external" href="http://en.wikipedia.org/wiki/The_Rose_(film)" title="The Rose (film)">The Rose</a></i>. He was married to <a class="external" href="http://en.wikipedia.org/wiki/Marilu_Henner" title="Marilu Henner">Marilu Henner</a> from 1980 to 1982.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Career">Career</span></h2>
+	<p xmlns="http://www.w3.org/1999/xhtml">Notable film roles include <i><a class="external" href="http://en.wikipedia.org/wiki/The_Conversation" title="The Conversation">The Conversation</a></i>, <i>Promise Him Anything</i> (TV), <i><a class="external" href="http://en.wikipedia.org/wiki/One_from_the_Heart_(film)" title="One from the Heart (film)">One from the Heart</a></i>, <i><a class="external" href="http://en.wikipedia.org/wiki/The_Stone_Boy" title="The Stone Boy">The Stone Boy</a></i>, <i><a class="external" href="http://en.wikipedia.org/wiki/The_Missouri_Breaks" title="The Missouri Breaks">The Missouri Breaks</a></i>, <i><a class="external" href="http://en.wikipedia.org/wiki/The_Deliberate_Stranger" title="The Deliberate Stranger">The Deliberate Stranger</a></i> (TV), and horror maestro <a class="external" href="http://en.wikipedia.org/wiki/Dario_Argento" title="Dario Argento">Dario Argento</a>'s first American film <i><a class="external" href="http://en.wikipedia.org/wiki/Trauma_(1993_film)" title="Trauma (1993 film)">Trauma</a></i>.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">On television, he played Captain Richard Jenko on the first season of the <a class="external" href="http://en.wikipedia.org/wiki/Fox_Television" title="Fox Television">Fox Television</a> series <i><a class="external" href="http://en.wikipedia.org/wiki/21_Jump_Street" title="21 Jump Street">21 Jump Street</a></i>, in 1987. Forrest was subsequently replaced by actor <a class="external" href="http://en.wikipedia.org/wiki/Steven_Williams" title="Steven Williams">Steven Williams</a>, who played Captain Adam Fuller for the remainder of the series.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Filmography">Filmography</span></h2>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="References">References</span></h2>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+	<ul xmlns="http://www.w3.org/1999/xhtml">
+	  <li><a href="http://www.imdb.com/name/nm0002078/" rel="nofollow">Frederic Forrest</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	</ul>
+      </wiki:abstract>
+    </wiki:description>
+  </wiki:person>
+  <wiki:film-title link="/wiki/The_Rose_(film)">The Rose</wiki:film-title>
+  <wiki:film link="/wiki/The_Rose_(film)" title="The Rose">
+    <wiki:oscar-ref year="1979" span="1" winner="false" award="lead-actress" person-link="/wiki/Bette_Midler" person-name="Bette Midler"/>
+    <wiki:oscar-ref year="1979" span="1" winner="false" award="supporting-actor" person-link="/wiki/Frederic_Forrest" person-name="Frederic Forrest"/>
+    <wiki:producer link="/wiki/Aaron_Russo">Aaron Russo</wiki:producer>
+    <wiki:producer link="/wiki/Marvin_Worth">Marvin Worth</wiki:producer>
+    <wiki:producer link="/wiki/Anthony_Ray">Anthony Ray</wiki:producer>
+    <wiki:director link="/wiki/Mark_Rydell">Mark Rydell</wiki:director>
+    <wiki:writer link="/w/index.php?title=Bill_Kerby&amp;action=edit&amp;redlink=1">Bill Kerby</wiki:writer>
+    <wiki:writer link="/wiki/Bo_Goldman">Bo Goldman</wiki:writer>
+    <wiki:writer link="/w/index.php?title=Story_by_Bill_Kerby&amp;action=edit&amp;redlink=1">Story by Bill Kerby</wiki:writer>
+    <wiki:distributor link="/wiki/20th_Century_Fox">20th Century Fox</wiki:distributor>
+    <wiki:starring link="/wiki/Bette_Midler">Bette Midler</wiki:starring>
+    <wiki:starring link="/wiki/Alan_Bates">Alan Bates</wiki:starring>
+    <wiki:starring link="/wiki/Frederic_Forrest">Frederic Forrest</wiki:starring>
+    <wiki:starring link="/wiki/Harry_Dean_Stanton">Harry Dean Stanton</wiki:starring>
+    <wiki:description>
+      <p xmlns="http://www.w3.org/1999/xhtml"><i><b>The Rose</b></i> is a <a class="external" href="http://en.wikipedia.org/wiki/1979_in_film" title="1979 in film">1979 film</a> which tells the story of a self-destructive 1960s <a class="external" href="http://en.wikipedia.org/wiki/Rock_and_roll" title="Rock and roll">rock</a> star who struggles to cope with the constant pressures of her career and the demands of her ruthless business manager. The film stars <a class="external" href="http://en.wikipedia.org/wiki/Bette_Midler" title="Bette Midler">Bette Midler</a>, <a class="external" href="http://en.wikipedia.org/wiki/Alan_Bates" title="Alan Bates">Alan Bates</a>, <a class="external" href="http://en.wikipedia.org/wiki/Frederic_Forrest" title="Frederic Forrest">Frederic Forrest</a>, <a class="external" href="http://en.wikipedia.org/wiki/Harry_Dean_Stanton" title="Harry Dean Stanton">Harry Dean Stanton</a>, <a class="external" href="http://en.wikipedia.org/wiki/Barry_Primus" title="Barry Primus">Barry Primus</a>, and <a class="external" href="http://en.wikipedia.org/wiki/David_Keith" title="David Keith">David Keith</a>.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">The story is loosely based on the life of singer <a class="external" href="http://en.wikipedia.org/wiki/Janis_Joplin" title="Janis Joplin">Janis Joplin</a>. Originally titled <i>Pearl</i>, after Joplin's nickname, and the title of <a class="external" href="http://en.wikipedia.org/wiki/Pearl_(album)" title="Pearl (album)">her last album</a>, it was fictionalized after her family declined to allow the producers the rights to her story. It was written by <a class="external" href="http://en.wikipedia.org/w/index.php?title=Bill_Kerby&amp;action=edit&amp;redlink=1" title="Bill Kerby (page does not exist)">Bill Kerby</a>, and <a class="external" href="http://en.wikipedia.org/wiki/Bo_Goldman" title="Bo Goldman">Bo Goldman</a> from a story by <a class="external" href="http://en.wikipedia.org/w/index.php?title=Bill_Kerby&amp;action=edit&amp;redlink=1" title="Bill Kerby (page does not exist)">Bill Kerby</a>, and directed by <a class="external" href="http://en.wikipedia.org/wiki/Mark_Rydell" title="Mark Rydell">Mark Rydell</a>.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml"><i>The Rose</i> was nominated for four <a class="external" href="http://en.wikipedia.org/wiki/Academy_Awards" title="Academy Awards">Academy Awards</a> including <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Supporting_Actor" title="Academy Award for Best Supporting Actor">Best Actor in a Supporting Role</a> (Frederic Forrest), <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actress" title="Academy Award for Best Actress">Best Actress in a Leading Role</a> (Bette Midler, in her screen debut), <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Film_Editing" title="Academy Award for Film Editing">Best Film Editing</a> and <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Sound" title="Academy Award for Sound">Best Sound</a>.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Midler performed the <a class="external" href="http://en.wikipedia.org/wiki/The_Rose_(soundtrack)" title="The Rose (soundtrack)">soundtrack album</a> for the film, and the <a class="external" href="http://en.wikipedia.org/wiki/The_Rose_(song)" title="The Rose (song)">title track</a> became one of her biggest hit singles in 1980.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Cast">Cast</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Bette_Midler" title="Bette Midler">Bette Midler</a> as Mary Rose Foster (The Rose)</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Alan_Bates" title="Alan Bates">Alan Bates</a> as Rudge Campbell</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Frederic_Forrest" title="Frederic Forrest">Frederic Forrest</a> as Houston Dyer</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Harry_Dean_Stanton" title="Harry Dean Stanton">Harry Dean Stanton</a> as Billy Ray</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Barry_Primus" title="Barry Primus">Barry Primus</a> as Dennis</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/David_Keith" title="David Keith">David Keith</a> as Pfc. Mal</li>
+	<li><a class="external" href="http://en.wikipedia.org/w/index.php?title=Sandra_McCabe&amp;action=edit&amp;redlink=1" title="Sandra McCabe (page does not exist)">Sandra McCabe</a> as Sarah Willingham</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Will_Hare" title="Will Hare">Will Hare</a> as Mr. Leonard</li>
+	<li><a class="external" href="http://en.wikipedia.org/w/index.php?title=James_Keane_(actor)&amp;action=edit&amp;redlink=1" title="James Keane (actor) (page does not exist)">James Keane</a> as Sam</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Doris_Roberts" title="Doris Roberts">Doris Roberts</a> as Mrs. Foster</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Production">Production</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">The film was originally offered to <a class="external" href="http://en.wikipedia.org/wiki/Ken_Russell" title="Ken Russell">Ken Russell</a>, who chose instead to direct <i><a class="external" href="http://en.wikipedia.org/wiki/Valentino_(1977_film)" title="Valentino (1977 film)">Valentino</a></i>. Russell has described this decision as the biggest mistake of his career.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Awards_and_nominations">Awards and nominations</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><b><a class="external" href="http://en.wikipedia.org/wiki/Golden_Globes" title="Golden Globes">Golden Globes</a></b>: <a class="external" href="http://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Actress_-_Motion_Picture_Musical_or_Comedy" title="Golden Globe Award for Best Actress - Motion Picture Musical or Comedy">Best Actress - Musical/Comedy</a> (Bette Midler), <a class="external" href="http://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Original_Song" title="Golden Globe Award for Best Original Song">Best Original Song</a> - <i><a class="external" href="http://en.wikipedia.org/wiki/The_Rose_(song)" title="The Rose (song)">The Rose</a></i> (<a class="external" href="http://en.wikipedia.org/wiki/Amanda_McBroom" title="Amanda McBroom">Amanda McBroom</a>), <a class="external" href="http://en.wikipedia.org/wiki/Golden_Globe_Award_for_New_Star_Of_The_Year_-_Actress" title="Golden Globe Award for New Star Of The Year - Actress">New Star of the Year in a Motion Picture - Female</a> (Bette Midler)</li>
+	<li><b><a class="external" href="http://en.wikipedia.org/wiki/National_Society_of_Film_Critics" title="National Society of Film Critics">National Society of Film Critics Awards</a></b>: <a class="external" href="http://en.wikipedia.org/wiki/National_Society_of_Film_Critics_Award_for_Best_Supporting_Actor" title="National Society of Film Critics Award for Best Supporting Actor">Best Supporting Actor</a> (Frederic Forrest)</li>
+      </ul>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><b><a class="external" href="http://en.wikipedia.org/wiki/Academy_Awards" title="Academy Awards">Academy Awards</a></b>: <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actress" title="Academy Award for Best Actress">Best Actress</a> (Bette Midler), <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Supporting_Actor" title="Academy Award for Best Supporting Actor">Best Supporting Actor</a> (Frederic Forrest), <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Film_Editing" title="Academy Award for Film Editing">Best Editing</a> (Robert L. Wolfe, Carroll Timothy O'Meara), <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Sound" title="Academy Award for Best Sound">Best Sound</a> (Theodore Soderberg, Douglas O. Williams, Paul Wells, James E. Webb)</li>
+	<li><b><a class="external" href="http://en.wikipedia.org/wiki/Golden_Globes" title="Golden Globes">Golden Globes</a></b>: <a class="external" href="http://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_-_Musical_or_Comedy" title="Golden Globe Award for Best Motion Picture - Musical or Comedy">Best Picture - Musical/Comedy</a>, <a class="external" href="http://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Supporting_Actor_-_Motion_Picture" title="Golden Globe Award for Best Supporting Actor - Motion Picture">Best Supporting Actor in a Motion Picture</a> (Frederic Forrest)</li>
+	<li><b><a class="external" href="http://en.wikipedia.org/wiki/BAFTA_Awards" title="BAFTA Awards">BAFTA Awards</a></b>: <a class="external" href="http://en.wikipedia.org/wiki/BAFTA_Award_for_Best_Actress_in_a_Leading_Role" title="BAFTA Award for Best Actress in a Leading Role">Best Actress</a> (Bette Midler), <a class="external" href="http://en.wikipedia.org/wiki/BAFTA_Award_for_Best_Sound" title="BAFTA Award for Best Sound">Best Sound</a> ((Theodore Soderberg, Douglas O. Williams, Paul Wells, James E. Webb)</li>
+	<li><b><a class="external" href="http://en.wikipedia.org/wiki/C%C3%A9sar_Awards" title="CÃ©sar Awards">CÃ©sar Awards</a></b>: <a class="external" href="http://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Foreign_Film" title="CÃ©sar Award for Best Foreign Film">Best Foreign Film</a> (Mark Rydell)</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Other_honors">Other honors</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>In 2004, the <a class="external" href="http://en.wikipedia.org/wiki/American_Film_Institute" title="American Film Institute">American Film Institute</a> ranked the song "The Rose" number 83 on their <i><a class="external" href="http://en.wikipedia.org/wiki/AFI%27s_100_Years...100_Songs" title="AFI's 100 Years...100 Songs">AFI's 100 Years...100 Songs</a></i> list.</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="See_also">See also</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/The_Rose_(song)" title="The Rose (song)">The Rose (song)</a></li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="References">References</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/title/tt0079826/" rel="nofollow"><i>The Rose</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	<li><a href="http://www.allmovie.com/work/42119" rel="nofollow"><i>The Rose</i></a> at <a class="external" href="http://en.wikipedia.org/wiki/Allmovie" title="Allmovie">Allmovie</a></li>
+	<li><a href="http://www.rottentomatoes.com/m/1017887-the_rose/" rel="nofollow"><i>The Rose</i></a> at <a class="external" href="http://en.wikipedia.org/wiki/Rotten_Tomatoes" title="Rotten Tomatoes">Rotten Tomatoes</a></li>
+      </ul>
+    </wiki:description>
+  </wiki:film>
+</wiki:nominee>

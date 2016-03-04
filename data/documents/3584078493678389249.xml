@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="1928" span="2" winner="false" award="best-director" xmlns:wiki="http://marklogic.com/wikipedia">
+  <!--
+                            Copyright (c) 2010 MarkLogic Corporation.
+                            Permission is granted to copy, distribute and/or modify this document
+                            under the terms of the GNU Free Documentation License, Version 1.2
+                            or any later version published by the Free Software Foundation;
+                            with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+                            A copy of the license is included in the section entitled "GNU
+                            Free Documentation License"
+                            
+                            Content derived from http://en.wikipedia.org/wiki/In_Old_Arizona and http://en.wikipedia.org/wiki/Irving_Cummings
+                            Modified in May 2009 by Mark Logic Corporation under the terms of the GNU Free Documentation License.
+                        -->
+  <wiki:name link="/wiki/Irving_Cummings">Irving Cummings</wiki:name>
+  <wiki:person link="/wiki/Irving_Cummings" name="Irving Cummings">
+    <wiki:oscar year="1928" span="2" winner="false" award="best-director" film-link="/wiki/In_Old_Arizona" film-title="In Old Arizona"/>
+    <wiki:image link="http://upload.wikimedia.org/wikipedia/en/thumb/b/b2/IrvingCummings.jpg/213px-IrvingCummings.jpg"/>
+    <wiki:birth>
+      <wiki:date/>
+      <wiki:place>
+	<wiki:primary link="/wiki/New_York,_New_York">New York, New York</wiki:primary>
+	<wiki:secondary link="/wiki/USA">USA</wiki:secondary>
+      <enrich><woeid xmlns="http://where.yahooapis.com/v1/schema.rng">2347591</woeid><placeTypeName code="8" xmlns="http://where.yahooapis.com/v1/schema.rng">State</placeTypeName><name xmlns="http://where.yahooapis.com/v1/schema.rng">New York</name><country code="US" type="Country" xmlns="http://where.yahooapis.com/v1/schema.rng">United States</country><admin1 code="US-NY" type="State" xmlns="http://where.yahooapis.com/v1/schema.rng">New York</admin1><admin2 xmlns="http://where.yahooapis.com/v1/schema.rng"/><admin3 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality1 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality2 xmlns="http://where.yahooapis.com/v1/schema.rng"/><postal xmlns="http://where.yahooapis.com/v1/schema.rng"/><centroid xmlns="http://where.yahooapis.com/v1/schema.rng"><latitude>42.855350</latitude><longitude>-76.501671</longitude></centroid><boundingBox xmlns="http://where.yahooapis.com/v1/schema.rng"><southWest><latitude>40.496029</latitude><longitude>-79.761971</longitude></southWest><northEast><latitude>45.012810</latitude><longitude>-71.856247</longitude></northEast></boundingBox><areaRank xmlns="http://where.yahooapis.com/v1/schema.rng">11</areaRank><popRank xmlns="http://where.yahooapis.com/v1/schema.rng">0</popRank></enrich></wiki:place>
+    </wiki:birth>
+    <wiki:death>
+      <wiki:date>18 April 1959</wiki:date>
+      <wiki:place>
+	<wiki:primary link="/wiki/Los_Angeles,_California">Los Angeles, California</wiki:primary>
+	<wiki:secondary link="/wiki/USA">USA</wiki:secondary>
+      </wiki:place>
+    </wiki:death>
+    <wiki:description>
+      <p xmlns="http://www.w3.org/1999/xhtml"><b>Irving Cummings</b> (October 9, 1888 - April 18, 1959), born <b>Irving Camisky</b> in <a class="external" href="http://en.wikipedia.org/wiki/New_York_City" title="New York City">New York City</a>, <a class="external" href="http://en.wikipedia.org/wiki/New_York" title="New York">New York</a> was an American movie actor, director, producer and writer.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Cummings started his acting career in his late teens on <a class="external" href="http://en.wikipedia.org/wiki/Broadway_theatre" title="Broadway theatre">Broadway</a> with the legendary <a class="external" href="http://en.wikipedia.org/wiki/Lillian_Russell" title="Lillian Russell">Lillian Russell</a>. He entered into movies in 1909 and quickly became a popular leading man. Few of the films he made as an actor are easily available, except for <a class="external" href="http://en.wikipedia.org/wiki/Buster_Keaton" title="Buster Keaton">Buster Keaton</a>'s first feature film, <i>The Saphead</i> (1920), in which Cummings plays a crooked stockbroker and <a class="external" href="http://en.wikipedia.org/wiki/Fred_Niblo" title="Fred Niblo">Fred Niblo</a>'s film <a class="external" href="http://en.wikipedia.org/wiki/Sex_(film)" title="Sex (film)">Sex</a>(1920), one of the first films to depict a new phenomenon in 1920s America, <i>The Flapper</i>. Both films are readily available on home video. Around that time, he started to direct action movies and occasional <a class="external" href="http://en.wikipedia.org/wiki/Comedy" title="Comedy">comedies</a>.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">In 1934, Cummings directed <i><a class="external" href="http://en.wikipedia.org/wiki/Grand_Canary_(film)" title="Grand Canary (film)">Grand Canary</a></i>, and in 1929, he was nominated for an <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award" title="Academy Award">Academy Award</a> for his direction of <i><a class="external" href="http://en.wikipedia.org/wiki/In_Old_Arizona" title="In Old Arizona">In Old Arizona</a></i>.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Cummings was known for the big splashy 1930s <a class="external" href="http://en.wikipedia.org/wiki/Technicolor" title="Technicolor">Technicolor</a> musicals with popular leading ladies such as <a class="external" href="http://en.wikipedia.org/wiki/Betty_Grable" title="Betty Grable">Betty Grable</a>, <a class="external" href="http://en.wikipedia.org/wiki/Alice_Faye" title="Alice Faye">Alice Faye</a>, and <a class="external" href="http://en.wikipedia.org/wiki/Shirley_Temple" title="Shirley Temple">Shirley Temple</a> (<i><a class="external" href="http://en.wikipedia.org/wiki/Little_Miss_Broadway" title="Little Miss Broadway">Little Miss Broadway</a></i>, 1938) he directed at <a class="external" href="http://en.wikipedia.org/wiki/20th_Century_Fox" title="20th Century Fox">20th Century Fox</a>.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Cummings died in <a class="external" href="http://en.wikipedia.org/wiki/Los_Angeles" title="Los Angeles">Los Angeles</a>, <a class="external" href="http://en.wikipedia.org/wiki/California" title="California">California</a> in 1959 of a heart ailment.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/name/nm0191899/" rel="nofollow">Irving Cummings</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	<li><a href="http://www.ibdb.com/person.asp?ID=36856" rel="nofollow">Irving Cummings</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Broadway_Database" title="Internet Broadway Database">Internet Broadway Database</a></li>
+      </ul>
+    </wiki:description>
+  </wiki:person>
+  <wiki:film-title link="/wiki/In_Old_Arizona">In Old Arizona</wiki:film-title>
+  <wiki:film link="/wiki/In_Old_Arizona" title="In Old Arizona">
+    <wiki:oscar-ref year="1928" span="2" winner="true" award="lead-actor" person-link="/wiki/Warner_Baxter" person-name="Warner Baxter"/>
+    <wiki:oscar-ref year="1928" span="2" winner="false" award="best-director" person-link="/wiki/Irving_Cummings" person-name="Irving Cummings"/>
+    <wiki:oscar year="1928" span="2" winner="false" award="best-picture"/>
+    <wiki:producer link="/wiki/Winfield_Sheehan">Winfield Sheehan</wiki:producer>
+    <wiki:director link="/wiki/Irving_Cummings">Irving Cummings</wiki:director>
+    <wiki:director link="/wiki/Raoul_Walsh">Raoul Walsh</wiki:director>
+    <wiki:writer link="/wiki/Tom_Barry">Tom Barry</wiki:writer>
+    <wiki:distributor link="/wiki/Fox_Film_Corporation">Fox Film Corporation</wiki:distributor>
+    <wiki:starring link="/wiki/Warner_Baxter">Warner Baxter</wiki:starring>
+    <wiki:starring link="/wiki/Edmund_Lowe">Edmund Lowe</wiki:starring>
+    <wiki:starring link="/wiki/Dorothy_Burgess">Dorothy Burgess</wiki:starring>
+    <wiki:description>
+      <wiki:abstract>
+	<p xmlns="http://www.w3.org/1999/xhtml"><i><b>In Old Arizona</b></i> is a 1929 American <a class="external" href="http://en.wikipedia.org/wiki/Western_film" title="Western film">Western film</a> directed by <a class="external" href="http://en.wikipedia.org/wiki/Irving_Cummings" title="Irving Cummings">Irving Cummings</a> and <a class="external" href="http://en.wikipedia.org/wiki/Raoul_Walsh" title="Raoul Walsh">Raoul Walsh</a>, nominated for five Academy Awards, including Best Picture. The film, which was based on the character of the <a class="external" href="http://en.wikipedia.org/wiki/The_Cisco_Kid" title="The Cisco Kid">Cisco Kid</a> in the story <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=The_Caballero%27s_Way&amp;action=edit&amp;redlink=1" title="The Caballero's Way (page does not exist)">The Caballero's Way</a></i> by <a class="external" href="http://en.wikipedia.org/wiki/O._Henry" title="O. Henry">O. Henry</a>, was a major innovation in <a class="external" href="http://en.wikipedia.org/wiki/Hollywood" title="Hollywood">Hollywood</a>: it was the first major Western to use the new technology of sound and the first <a class="external" href="http://en.wikipedia.org/wiki/Talkie" title="Talkie">talkie</a> to be filmed outdoors. The film made extensive use of authentic locations, filming in <a class="external" href="http://en.wikipedia.org/wiki/Bryce_Canyon_National_Park" title="Bryce Canyon National Park">Bryce Canyon National Park</a> and <a class="external" href="http://en.wikipedia.org/wiki/Zion_National_Park" title="Zion National Park">Zion National Park</a> in <a class="external" href="http://en.wikipedia.org/wiki/Utah" title="Utah">Utah</a> and the <a class="external" href="http://en.wikipedia.org/wiki/Mission_San_Fernando_Rey_de_Espana" title="Mission San Fernando Rey de Espana">San Fernando Mission</a> and the <a class="external" href="http://en.wikipedia.org/wiki/Mojave_Desert" title="Mojave Desert">Mojave Desert</a> in <a class="external" href="http://en.wikipedia.org/wiki/California" title="California">California</a>. The movie was released on January 20, 1929 (wide); (Dec. 25, 1928 Los Angeles Premiere).</p>
+	<p xmlns="http://www.w3.org/1999/xhtml"><i>In Old Arizona</i> was also instrumental in developing the image of the <a class="external" href="http://en.wikipedia.org/wiki/Singing_cowboy" title="Singing cowboy">singing cowboy</a>, with its star, <a class="external" href="http://en.wikipedia.org/wiki/Warner_Baxter" title="Warner Baxter">Warner Baxter</a>, singing <i>My Tonia</i>. Baxter went on to win the <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actor" title="Academy Award for Best Actor">Academy Award for Best Actor</a> for his performance. Other actors included <a class="external" href="http://en.wikipedia.org/wiki/Edmund_Lowe" title="Edmund Lowe">Edmund Lowe</a>, <a class="external" href="http://en.wikipedia.org/wiki/Dorothy_Burgess" title="Dorothy Burgess">Dorothy Burgess</a> and <a class="external" href="http://en.wikipedia.org/wiki/J._Farrell_MacDonald" title="J. Farrell MacDonald">J. Farrell MacDonald</a>,</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">Other nominations included <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Directing" title="Academy Award for Directing">Best Director</a> for <a class="external" href="http://en.wikipedia.org/wiki/Irving_Cummings" title="Irving Cummings">Irving Cummings</a>, <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Writing_Adapted_Screenplay" title="Academy Award for Writing Adapted Screenplay">Best Writing</a> for <a class="external" href="http://en.wikipedia.org/wiki/Tom_Barry" title="Tom Barry">Tom Barry</a> <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Cinematography" title="Academy Award for Best Cinematography">Best Cinematography</a> for <a class="external" href="http://en.wikipedia.org/wiki/Arthur_Edeson" title="Arthur Edeson">Arthur Edeson</a>, and <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture" title="Academy Award for Best Picture">Best Picture</a>.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Trivia">Trivia</span></h2>
+	<ul xmlns="http://www.w3.org/1999/xhtml">
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Raoul_Walsh" title="Raoul Walsh">Raoul Walsh</a> was set to direct and star in this film, but had to abandon the project when a <a class="external" href="http://en.wikipedia.org/wiki/Jackrabbit" title="Jackrabbit">jackrabbit</a> jumped through a windshield of a jeep he was driving and cost Walsh an eye.</li>
+	</ul>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+	<ul xmlns="http://www.w3.org/1999/xhtml">
+	  <li><a href="http://www.imdb.com/title/tt0020018/" rel="nofollow"><i>In Old Arizona</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	  <li><a href="http://www.allmovie.com/work/96402" rel="nofollow"><i>In Old Arizona</i></a> at <a class="external" href="http://en.wikipedia.org/wiki/Allmovie" title="Allmovie">Allmovie</a></li>
+	  <li><a href="http://tcmdb.com/title/title.jsp?stid=79094" rel="nofollow"><i>In Old Arizona</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Turner_Classic_Movies" title="Turner Classic Movies">TCM Movie Database</a></li>
+	</ul>
+      </wiki:abstract>
+    </wiki:description>
+  </wiki:film>
+</wiki:nominee>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="1990" span="1" winner="false" award="best-director" xmlns:wiki="http://marklogic.com/wikipedia">
+  <!--
+                            Copyright (c) 2010 MarkLogic Corporation.
+                            Permission is granted to copy, distribute and/or modify this document
+                            under the terms of the GNU Free Documentation License, Version 1.2
+                            or any later version published by the Free Software Foundation;
+                            with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+                            A copy of the license is included in the section entitled "GNU
+                            Free Documentation License"
+                            
+                            Content derived from http://en.wikipedia.org/wiki/Reversal_of_Fortune and http://en.wikipedia.org/wiki/Barbet_Schroeder
+                            Modified in May 2009 by Mark Logic Corporation under the terms of the GNU Free Documentation License.
+                        -->
+  <wiki:name link="/wiki/Barbet_Schroeder">Barbet Schroeder</wiki:name>
+  <wiki:person link="/wiki/Barbet_Schroeder" name="Barbet Schroeder">
+    <wiki:oscar year="1990" span="1" winner="false" award="best-director" film-link="/wiki/Reversal_of_Fortune" film-title="Reversal of Fortune"/>
+    <wiki:image link="http://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Barbet_Schroeder_%282883902011%29.jpg/220px-Barbet_Schroeder_%282883902011%29.jpg"/>
+    <wiki:birth>
+      <wiki:date>1941-08-26</wiki:date>
+      <wiki:place>
+	<wiki:primary link="/wiki/Tehran,_Iran">Tehran, Iran</wiki:primary>
+	<wiki:secondary link=""/>
+      <enrich><woeid xmlns="http://where.yahooapis.com/v1/schema.rng">2345785</woeid><placeTypeName code="8" xmlns="http://where.yahooapis.com/v1/schema.rng">Ostan</placeTypeName><name xmlns="http://where.yahooapis.com/v1/schema.rng">Tehran</name><country code="IR" type="Country" xmlns="http://where.yahooapis.com/v1/schema.rng">Iran</country><admin1 code="" type="Ostan" xmlns="http://where.yahooapis.com/v1/schema.rng">Tehran</admin1><admin2 xmlns="http://where.yahooapis.com/v1/schema.rng"/><admin3 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality1 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality2 xmlns="http://where.yahooapis.com/v1/schema.rng"/><postal xmlns="http://where.yahooapis.com/v1/schema.rng"/><centroid xmlns="http://where.yahooapis.com/v1/schema.rng"><latitude>35.631210</latitude><longitude>51.753651</longitude></centroid><boundingBox xmlns="http://where.yahooapis.com/v1/schema.rng"><southWest><latitude>34.978241</latitude><longitude>50.304180</longitude></southWest><northEast><latitude>36.284180</latitude><longitude>53.203121</longitude></northEast></boundingBox><areaRank xmlns="http://where.yahooapis.com/v1/schema.rng">9</areaRank><popRank xmlns="http://where.yahooapis.com/v1/schema.rng">0</popRank></enrich></wiki:place>
+    </wiki:birth>
+    <wiki:description>
+      <p xmlns="http://www.w3.org/1999/xhtml"><b>Barbet Schroeder</b> (born 26 August 1941) is a Franco-Swiss movie <a class="external" href="http://en.wikipedia.org/wiki/Film_director" title="Film director">director</a> and producer who started his career in <a class="external" href="http://en.wikipedia.org/wiki/France" title="France">French</a> cinema in the 1960s, working together with directors such as <a class="external" href="http://en.wikipedia.org/wiki/Jean-Luc_Godard" title="Jean-Luc Godard">Jean-Luc Godard</a> and <a class="external" href="http://en.wikipedia.org/wiki/Jacques_Rivette" title="Jacques Rivette">Jacques Rivette</a>.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Life_and_career">Life and career</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">Schroeder was born in <a class="external" href="http://en.wikipedia.org/wiki/Tehran,_Iran" title="Tehran, Iran">Tehran, Iran</a>, the son of Ursula, a <a class="external" href="http://en.wikipedia.org/wiki/Germany" title="Germany">German</a>-born physician, and Jean-William Schroeder, a <a class="external" href="http://en.wikipedia.org/wiki/Switzerland" title="Switzerland">Swiss</a> geologist.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Schroeder's production company "Les Films du Losange", founded by him at age 23, produced some of the best-known films of the <a class="external" href="http://en.wikipedia.org/wiki/French_New_Wave" title="French New Wave">French New Wave</a>. His directorial debut, <i><a class="external" href="http://en.wikipedia.org/wiki/More_(film)" title="More (film)">More</a></i> (1969), about <a class="external" href="http://en.wikipedia.org/wiki/Heroin" title="Heroin">heroin</a> addiction, became a hit in <a class="external" href="http://en.wikipedia.org/wiki/Europe" title="Europe">Europe</a>. <a class="external" href="http://en.wikipedia.org/wiki/Pink_Floyd" title="Pink Floyd">Pink Floyd</a> wrote music for this movie and released the album, <i><a class="external" href="http://en.wikipedia.org/wiki/Soundtrack_from_the_Film_More" title="Soundtrack from the Film More">Soundtrack from the Film More</a></i>. They also wrote the soundtrack for his 1972 film <i><a class="external" href="http://en.wikipedia.org/wiki/La_Vall%C3%A9e_(film)" title="La VallÃ©e (film)">La VallÃ©e</a></i>, released as the album <i><a class="external" href="http://en.wikipedia.org/wiki/Obscured_by_Clouds" title="Obscured by Clouds">Obscured by Clouds</a></i>.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">He later went on to direct more mainstream Hollywood fare, such as <i><a class="external" href="http://en.wikipedia.org/wiki/Barfly_(film)" title="Barfly (film)">Barfly</a></i> (1987) starring <a class="external" href="http://en.wikipedia.org/wiki/Mickey_Rourke" title="Mickey Rourke">Mickey Rourke</a>, <i><a class="external" href="http://en.wikipedia.org/wiki/Single_White_Female" title="Single White Female">Single White Female</a></i> (1992), and <i><a class="external" href="http://en.wikipedia.org/wiki/Reversal_of_Fortune" title="Reversal of Fortune">Reversal of Fortune</a></i> (1990), for which <a class="external" href="http://en.wikipedia.org/wiki/Jeremy_Irons" title="Jeremy Irons">Jeremy Irons</a> as <a class="external" href="http://en.wikipedia.org/wiki/Claus_von_B%C3%BClow" title="Claus von BÃ¼low">Claus von BÃ¼low</a> received an <a class="external" href="http://en.wikipedia.org/wiki/Academy_Awards" title="Academy Awards">Academy Award</a>. Despite his many commercially successful films, Schroeder continues to be interested in making smaller films with a more limited audience, such as the adaptation of <a class="external" href="http://en.wikipedia.org/wiki/Colombia" title="Colombia">Colombian</a> writer <a class="external" href="http://en.wikipedia.org/wiki/Fernando_Vallejo" title="Fernando Vallejo">Fernando Vallejo</a>'s controversial novel <i><a class="external" href="http://en.wikipedia.org/wiki/La_virgen_de_los_sicarios" title="La virgen de los sicarios">La virgen de los sicarios</a></i> (2000) or the documentary <i><a class="external" href="http://en.wikipedia.org/wiki/General_Idi_Amin_Dada:_A_Self_Portrait" title="General Idi Amin Dada: A Self Portrait">General Idi Amin Dada: A Self Portrait</a></i> (1974), featuring extensive interviews with the <a class="external" href="http://en.wikipedia.org/wiki/Uganda" title="Uganda">Ugandan</a> dictator and <i>Terror's advocate</i> (2007) about terrorism in the last 50 years seen through the eyes of a lawyer, <a class="external" href="http://en.wikipedia.org/wiki/Jacques_Verg%C3%A8s" title="Jacques VergÃ¨s">Jacques VergÃ¨s</a>, and his clients.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Schroeder has also made some appearances as an actor: playing one of the 'ghosts' in <a class="external" href="http://en.wikipedia.org/wiki/Jacques_Rivette" title="Jacques Rivette">Jacques Rivette</a>'s <i><a class="external" href="http://en.wikipedia.org/wiki/C%C3%A9line_et_Julie_vont_en_bateau" title="CÃ©line et Julie vont en bateau">CÃ©line et Julie vont en bateau</a></i> (<i>CÃ©line and Julie Go Boating</i>), his cameo as the President of France in <i><a class="external" href="http://en.wikipedia.org/wiki/Mars_Attacks!" title="Mars Attacks!">Mars Attacks!</a></i> (1996), a hair products salesman in <i><a class="external" href="http://en.wikipedia.org/wiki/Paris,_je_t%27aime" title="Paris, je t'aime">Paris, je t'aime</a></i> (2006) and the mechanic in <i><a class="external" href="http://en.wikipedia.org/wiki/The_Darjeeling_Limited" title="The Darjeeling Limited">The Darjeeling Limited</a></i> (2007).</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Schroeder directed the 12th episode of the 3rd season of the American dramatic television series "<a class="external" href="http://en.wikipedia.org/wiki/Mad_Men" title="Mad Men">Mad Men</a>â€&#157; that first aired on 1 November 2009. The episode was entitled "The Grown Ups," and was notable for its depiction of the events of the <a class="external" href="http://en.wikipedia.org/wiki/John_F._Kennedy_assassination" title="John F. Kennedy assassination">Kennedy assassination</a>.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Filmography">Filmography</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>1969Â : <i><a class="external" href="http://en.wikipedia.org/wiki/More_(film)" title="More (film)">More</a></i></li>
+	<li>1972Â : <i><a class="external" href="http://en.wikipedia.org/wiki/La_Vall%C3%A9e_(film)" title="La VallÃ©e (film)">La VallÃ©e</a></i></li>
+	<li>1974Â : <i><a class="external" href="http://en.wikipedia.org/wiki/General_Idi_Amin_Dada:_A_Self_Portrait" title="General Idi Amin Dada: A Self Portrait">GÃ©nÃ©ral Idi Amin Dada: Autoportrait</a></i> (<i>General Idi Amin Dada: A Self Portrait</i>) <small>(documentary)</small></li>
+	<li>1976Â : <i><a class="external" href="http://en.wikipedia.org/wiki/Ma%C3%AEtresse" title="MaÃ®tresse">MaÃ®tresse</a></i></li>
+	<li>1978Â : <i><a class="external" href="http://en.wikipedia.org/wiki/Koko:_A_Talking_Gorilla" title="Koko: A Talking Gorilla">Koko, le gorille qui parle</a></i> (<i>Koko: A Talking Gorilla</i>) <small>(documentary)</small></li>
+	<li>1984Â : <i><a class="external" href="http://en.wikipedia.org/wiki/Tricheurs" title="Tricheurs">Tricheurs</a></i></li>
+	<li>1987Â : <i><a class="external" href="http://en.wikipedia.org/wiki/Barfly_(film)" title="Barfly (film)">Barfly</a></i></li>
+	<li>1987Â : <i><a class="external" href="http://en.wikipedia.org/wiki/The_Charles_Bukowski_Tapes" title="The Charles Bukowski Tapes">The Charles Bukowski Tapes</a></i></li>
+	<li>1990Â : <i><a class="external" href="http://en.wikipedia.org/wiki/Reversal_of_Fortune" title="Reversal of Fortune">Reversal of Fortune</a></i></li>
+	<li>1992Â : <i><a class="external" href="http://en.wikipedia.org/wiki/Single_White_Female" title="Single White Female">Single White Female</a></i></li>
+	<li>1995Â : <i><a class="external" href="http://en.wikipedia.org/wiki/Kiss_of_Death_(1995_film)" title="Kiss of Death (1995 film)">Kiss of Death</a></i></li>
+	<li>1996Â : <i><a class="external" href="http://en.wikipedia.org/wiki/Before_and_After_(film)" title="Before and After (film)">Before and After</a></i></li>
+	<li>1998Â : <i><a class="external" href="http://en.wikipedia.org/wiki/Desperate_Measures" title="Desperate Measures">Desperate Measures</a></i></li>
+	<li>2000Â : <i><a class="external" href="http://en.wikipedia.org/wiki/La_virgen_de_los_sicarios" title="La virgen de los sicarios">La virgen de los sicarios</a></i></li>
+	<li>2002Â : <i><a class="external" href="http://en.wikipedia.org/wiki/Murder_by_Numbers" title="Murder by Numbers">Murder by Numbers</a></i></li>
+	<li>2007Â : <i><a class="external" href="http://en.wikipedia.org/wiki/Terror%27s_Advocate" title="Terror's Advocate">Terror's Advocate</a></i></li>
+	<li>2008Â : <i><a class="external" href="http://en.wikipedia.org/wiki/Inju:_The_Beast_in_the_Shadow" title="Inju: The Beast in the Shadow">Inju: The Beast in the Shadow</a></i></li>
+	<li>2009Â : <i><a class="external" href="http://en.wikipedia.org/wiki/Mad_Men_episodes#Season_3:_2009" title="Mad Men episodes">Mad Men; Season 3, Episode 12</a></i></li>
+      </ul>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>1963Â : <i><a class="external" href="http://en.wikipedia.org/wiki/The_Bakery_Girl_of_Monceau" title="The Bakery Girl of Monceau">The Bakery Girl of Monceau</a></i> (<a class="external" href="http://en.wikipedia.org/wiki/Eric_Rohmer" title="Eric Rohmer">Eric Rohmer</a>)</li>
+	<li>1965Â : <i>Paris vu Par...</i> (section <i>Gare du Nord</i>, <a class="external" href="http://en.wikipedia.org/wiki/Jean_Rouch" title="Jean Rouch">Jean Rouch</a>)</li>
+	<li>1974Â : <i><a class="external" href="http://en.wikipedia.org/wiki/Celine_et_Julie_vont_en_bateau" title="Celine et Julie vont en bateau">Celine and Julie go boating</a></i> (<a class="external" href="http://en.wikipedia.org/wiki/Jacques_Rivette" title="Jacques Rivette">Jacques Rivette</a>)</li>
+	<li>1994Â : <i><a class="external" href="http://en.wikipedia.org/wiki/La_Reine_Margot_(1994_film)" title="La Reine Margot (1994 film)">La Reine Margot</a></i> (<a class="external" href="http://en.wikipedia.org/wiki/Patrice_Ch%C3%A9reau" title="Patrice ChÃ©reau">Patrice ChÃ©reau</a>)</li>
+	<li>1996Â : <i><a class="external" href="http://en.wikipedia.org/wiki/Mars_Attacks!" title="Mars Attacks!">Mars Attacks!</a></i> (<a class="external" href="http://en.wikipedia.org/wiki/Tim_Burton" title="Tim Burton">Tim Burton</a>)</li>
+	<li>2006Â : <i><a class="external" href="http://en.wikipedia.org/wiki/Paris,_je_t%27aime" title="Paris, je t'aime">Paris, je t'aime</a></i> (<a class="external" href="http://en.wikipedia.org/wiki/Paris,_je_t%27aime" title="Paris, je t'aime">Various</a>)</li>
+	<li>2007Â : <i><a class="external" href="http://en.wikipedia.org/wiki/Darjeeling_Limited" title="Darjeeling Limited">Darjeeling Limited</a></i> (<a class="external" href="http://en.wikipedia.org/wiki/Wes_Anderson" title="Wes Anderson">Wes Anderson</a>)</li>
+	<li>2007Â : <i>Ne touchez pas la hache</i> (<a class="external" href="http://en.wikipedia.org/wiki/Jacques_Rivette" title="Jacques Rivette">Jacques Rivette</a>)</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="References">References</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.filmsdulosange.fr/" rel="nofollow">Les Films du Losange</a></li>
+	<li><a href="http://www.imdb.com/name/nm0775447/" rel="nofollow">Barbet Schroeder</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	<li><a href="http://www.barbetschroeder.com/" rel="nofollow">Barbet Schroeder Website</a></li>
+	<li><a href="http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/19870210/PEOPLE/812229998" rel="nofollow">A day on location with Schroeder's "Barfly"</a> by Roger Ebert</li>
+      </ul>
+    </wiki:description>
+  </wiki:person>
+  <wiki:film-title link="/wiki/Reversal_of_Fortune">Reversal of Fortune</wiki:film-title>
+  <wiki:film link="/wiki/Reversal_of_Fortune" title="Reversal of Fortune">
+    <wiki:oscar-ref year="1990" span="1" winner="true" award="lead-actor" person-link="/wiki/Jeremy_Irons" person-name="Jeremy Irons"/>
+    <wiki:oscar-ref year="1990" span="1" winner="false" award="best-director" person-link="/wiki/Barbet_Schroeder" person-name="Barbet Schroeder"/>
+    <wiki:producer link="/wiki/Edward_R._Pressman">Edward R. Pressman</wiki:producer>
+    <wiki:producer link="/wiki/Oliver_Stone">Oliver Stone</wiki:producer>
+    <wiki:director link="/wiki/Barbet_Schroeder">Barbet Schroeder</wiki:director>
+    <wiki:writer link="/wiki/Alan_M._Dershowitz">Alan M. Dershowitz</wiki:writer>
+    <wiki:writer link="/wiki/Nicholas_Kazan">Nicholas Kazan</wiki:writer>
+    <wiki:distributor link="/wiki/Warner_Bros.">Warner Bros.</wiki:distributor>
+    <wiki:distributor link="/wiki/PolyGram_Filmed_Entertainment">PolyGram Filmed Entertainment</wiki:distributor>
+    <wiki:distributor link="/wiki/Rank_Organisation">Rank Film Distribution</wiki:distributor>
+    <wiki:starring link="/wiki/Glenn_Close">Glenn Close</wiki:starring>
+    <wiki:starring link="/wiki/Jeremy_Irons">Jeremy Irons</wiki:starring>
+    <wiki:starring link="/wiki/Ron_Silver">Ron Silver</wiki:starring>
+    <wiki:description>
+      <wiki:abstract>
+	<p xmlns="http://www.w3.org/1999/xhtml"><i><b>Reversal of Fortune</b></i> is a 1990 film adapted from the 1985 book <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=Reversal_of_Fortune_(book)&amp;action=edit&amp;redlink=1" title="Reversal of Fortune (book) (page does not exist)">Reversal of Fortune: Inside the von BÃ¼low Case</a></i>, written by law professor <a class="external" href="http://en.wikipedia.org/wiki/Alan_Dershowitz" title="Alan Dershowitz">Alan Dershowitz</a>. It recounts the true story of the unexplained <a class="external" href="http://en.wikipedia.org/wiki/Coma" title="Coma">coma</a> of socialite <a class="external" href="http://en.wikipedia.org/wiki/Sunny_von_B%C3%BClow" title="Sunny von BÃ¼low">Sunny von BÃ¼low</a>, the subsequent <a class="external" href="http://en.wikipedia.org/wiki/Attempted_murder" title="Attempted murder">attempted murder</a> trial, and the eventual <a class="external" href="http://en.wikipedia.org/wiki/Acquittal" title="Acquittal">acquittal</a> of her husband, <a class="external" href="http://en.wikipedia.org/wiki/Claus_von_B%C3%BClow" title="Claus von BÃ¼low">Claus von BÃ¼low</a>, who had Dershowitz acting as his defense.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Cast_and_crew">Cast and crew</span></h2>
+	<p xmlns="http://www.w3.org/1999/xhtml">The film features <a class="external" href="http://en.wikipedia.org/wiki/Glenn_Close" title="Glenn Close">Glenn Close</a> as Sunny, <a class="external" href="http://en.wikipedia.org/wiki/Jeremy_Irons" title="Jeremy Irons">Jeremy Irons</a> as Claus, <a class="external" href="http://en.wikipedia.org/wiki/Ron_Silver" title="Ron Silver">Ron Silver</a> as Dershowitz, <a class="external" href="http://en.wikipedia.org/wiki/Annabella_Sciorra" title="Annabella Sciorra">Annabella Sciorra</a>, <a class="external" href="http://en.wikipedia.org/wiki/Uta_Hagen" title="Uta Hagen">Uta Hagen</a>, <a class="external" href="http://en.wikipedia.org/wiki/Fisher_Stevens" title="Fisher Stevens">Fisher Stevens</a>, <a class="external" href="http://en.wikipedia.org/wiki/Jack_Gilpin" title="Jack Gilpin">Jack Gilpin</a>, <a class="external" href="http://en.wikipedia.org/wiki/Felicity_Huffman" title="Felicity Huffman">Felicity Huffman</a> and <a class="external" href="http://en.wikipedia.org/wiki/Christine_Baranski" title="Christine Baranski">Christine Baranski</a>. <a class="external" href="http://en.wikipedia.org/wiki/Nicholas_Kazan" title="Nicholas Kazan">Nicholas Kazan</a> wrote the screenplay, <a class="external" href="http://en.wikipedia.org/wiki/Barbet_Schroeder" title="Barbet Schroeder">Barbet Schroeder</a> directed, and Dershowitz briefly appears as a judge.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Awards">Awards</span></h2>
+	<p xmlns="http://www.w3.org/1999/xhtml">Irons was awarded the <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actor" title="Academy Award for Best Actor">Academy Award for Best Actor</a>, Schroeder was nominated for <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Directing" title="Academy Award for Directing">Best Director</a>, and Kazan was nominated for the <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Writing_Original_Screenplay" title="Academy Award for Writing Original Screenplay">Best Adapted Screenplay</a> award.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Reception">Reception</span></h2>
+      </wiki:abstract>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Notes">Notes</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/title/tt0100486/" rel="nofollow"><i>Reversal of Fortune</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+      </ul>
+    </wiki:description>
+  </wiki:film>
+</wiki:nominee>

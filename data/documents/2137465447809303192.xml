@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="1977" span="1" winner="false" award="best-picture" xmlns:wiki="http://marklogic.com/wikipedia">
+  <!--
+                            Copyright (c) 2010 MarkLogic Corporation.
+                            Permission is granted to copy, distribute and/or modify this document
+                            under the terms of the GNU Free Documentation License, Version 1.2
+                            or any later version published by the Free Software Foundation;
+                            with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+                            A copy of the license is included in the section entitled "GNU
+                            Free Documentation License"
+                            
+                            Content derived from http://en.wikipedia.org/wiki/The_Goodbye_Girl
+                            Modified in May 2009 by Mark Logic Corporation under the terms of the GNU Free Documentation License.
+                        -->
+  <wiki:film-title link="/wiki/The_Goodbye_Girl">The Goodbye Girl</wiki:film-title>
+  <wiki:film link="/wiki/The_Goodbye_Girl" title="The Goodbye Girl">
+    <wiki:oscar-ref year="1977" span="1" winner="true" award="lead-actor" person-link="/wiki/Richard_Dreyfuss" person-name="Richard Dreyfuss"/>
+    <wiki:oscar-ref year="1977" span="1" winner="false" award="lead-actress" person-link="/wiki/Marsha_Mason" person-name="Marsha Mason"/>
+    <wiki:oscar-ref year="1977" span="1" winner="false" award="supporting-actress" person-link="/wiki/Quinn_Cummings" person-name="Quinn Cummings"/>
+    <wiki:oscar year="1977" span="1" winner="false" award="best-picture"/>
+    <wiki:producer link="/wiki/Ray_Stark">Ray Stark</wiki:producer>
+    <wiki:director link="/wiki/Herbert_Ross">Herbert Ross</wiki:director>
+    <wiki:writer link="/wiki/Neil_Simon">Neil Simon</wiki:writer>
+    <wiki:distributor link="/wiki/Warner_Bros.">Warner Bros.</wiki:distributor>
+    <wiki:distributor link="/wiki/Metro-Goldwyn-Mayer">Metro-Goldwyn-Mayer</wiki:distributor>
+    <wiki:starring link="/wiki/Richard_Dreyfuss">Richard Dreyfuss</wiki:starring>
+    <wiki:starring link="/wiki/Marsha_Mason">Marsha Mason</wiki:starring>
+    <wiki:starring link="/wiki/Quinn_Cummings">Quinn Cummings</wiki:starring>
+    <wiki:description>
+      <wiki:abstract>
+	<p xmlns="http://www.w3.org/1999/xhtml"><i><b>The Goodbye Girl</b></i> is a 1977 American romantic comedy-drama film. Directed by <a class="external" href="http://en.wikipedia.org/wiki/Herbert_Ross" title="Herbert Ross">Herbert Ross</a>, the film stars <a class="external" href="http://en.wikipedia.org/wiki/Richard_Dreyfuss" title="Richard Dreyfuss">Richard Dreyfuss</a>, <a class="external" href="http://en.wikipedia.org/wiki/Marsha_Mason" title="Marsha Mason">Marsha Mason</a>, <a class="external" href="http://en.wikipedia.org/wiki/Quinn_Cummings" title="Quinn Cummings">Quinn Cummings</a>, and <a class="external" href="http://en.wikipedia.org/wiki/Paul_Benedict" title="Paul Benedict">Paul Benedict</a>. The original <a class="external" href="http://en.wikipedia.org/wiki/Screenplay" title="Screenplay">screenplay</a> by <a class="external" href="http://en.wikipedia.org/wiki/Neil_Simon" title="Neil Simon">Neil Simon</a> centers on an odd trioâ€”an <a class="external" href="http://en.wikipedia.org/wiki/Egotistical" title="Egotistical">egotistical</a> struggling actor who has sublet a <a class="external" href="http://en.wikipedia.org/wiki/New_York_City" title="New York City">Manhattan</a> apartment from a friend, the current occupant (his friend's ex-girlfriend, whom has just been abandoned) and her precocious pre-teen daughter.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Plot">Plot</span></h2>
+	<p xmlns="http://www.w3.org/1999/xhtml">Paula McFadden (<a class="external" href="http://en.wikipedia.org/wiki/Marsha_Mason" title="Marsha Mason">Marsha Mason</a>) learns she has been dumped by her boyfriend Tony and he has sublet their apartment. Shortly thereafter, the neurotic, but sweet Elliot Garfield (<a class="external" href="http://en.wikipedia.org/wiki/Richard_Dreyfuss" title="Richard Dreyfuss">Richard Dreyfuss</a>) shows up unexpectedly in the middle of the night expecting to live there. Since she cannot return Elliot's rent money, Paula has no choice but to let him move in with her and her 10-year-old daughter Lucy (<a class="external" href="http://en.wikipedia.org/wiki/Quinn_Cummings" title="Quinn Cummings">Quinn Cummings</a>). However, she makes it very clear from the start that she considers him extremely annoying and unlikeable.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">Paula struggles to get back into shape to try to resume her career as a dancer. Meanwhile, Elliot has his own problems. He has landed the title role in an <a class="external" href="http://en.wikipedia.org/wiki/Off-off-Broadway" title="Off-off-Broadway">off-off-Broadway</a> production of <i><a class="external" href="http://en.wikipedia.org/wiki/Richard_III_(play)" title="Richard III (play)">Richard III</a></i>, but the director, Mark (<a class="external" href="http://en.wikipedia.org/wiki/Paul_Benedict" title="Paul Benedict">Paul Benedict</a>), wants him to play the character as an exaggerated stereotype of a homosexual, in Mark's words, "the queen who wanted to be king." Many theater critics from television stations and newspapers in New York City attend opening night, and they all savage the production, especially Elliot's performance. The play quickly closes.</p>
+      </wiki:abstract>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Cast">Cast</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Richard_Dreyfuss" title="Richard Dreyfuss">Richard Dreyfuss</a> as Elliot Garfield</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Marsha_Mason" title="Marsha Mason">Marsha Mason</a> as Paula McFadden</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Quinn_Cummings" title="Quinn Cummings">Quinn Cummings</a> as Lucy McFadden</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Paul_Benedict" title="Paul Benedict">Paul Benedict</a> as Mark</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Barbara_Rhoades" title="Barbara Rhoades">Barbara Rhoades</a> as Donna</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Theresa_Merritt" title="Theresa Merritt">Theresa Merritt</a> as Mrs. Crosby</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Michael_Shawn" title="Michael Shawn">Michael Shawn</a> as Ronnie</li>
+	<li>Patricia Pearcy as Rhonda</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Production">Production</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">The film began as a screenplay called <i>Bogart Slept Here</i> (essentially the story of what happened to Dustin Hoffman after he became a star), that was to star <a class="external" href="http://en.wikipedia.org/wiki/Robert_De_Niro" title="Robert De Niro">Robert De Niro</a> and Mason. After several table readings, it was decided De Niro wasn't right for the role. Dreyfuss was brought in to try out with Mason. At the end of the reading, Neil Simon decided, "It doesn't work, but they do." He rewrote the screenplay in six weeks.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">The title song was written and performed by <a class="external" href="http://en.wikipedia.org/wiki/David_Gates" title="David Gates">David Gates</a>, and was a #15 hit on the <a class="external" href="http://en.wikipedia.org/wiki/Billboard_Hot_100" title="Billboard Hot 100">Billboard Hot 100</a>.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">The film was co-produced by <a class="external" href="http://en.wikipedia.org/wiki/Warner_Bros." title="Warner Bros.">Warner Bros.</a> and <a class="external" href="http://en.wikipedia.org/wiki/Metro-Goldwyn-Mayer" title="Metro-Goldwyn-Mayer">Metro-Goldwyn-Mayer</a>, and now fully owned by the former. It is the only film in the WB library whose copyright is owned by both WB <i>and</i> <a class="external" href="http://en.wikipedia.org/wiki/Turner_Entertainment" title="Turner Entertainment">Turner Entertainment</a> (the initial buyer of MGM's pre-1986 library).</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Accolades">Accolades</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actor" title="Academy Award for Best Actor">Best Actor</a> - Dreyfuss. Thirty-year-old Dreyfuss was the youngest ever to win the Best Actor Oscar at the time. He has since been surpassed by <a class="external" href="http://en.wikipedia.org/wiki/Adrien_Brody" title="Adrien Brody">Adrien Brody</a>, who was 29 when he won for <i><a class="external" href="http://en.wikipedia.org/wiki/The_Pianist_(memoir)" title="The Pianist (memoir)">The Pianist</a></i>.</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture" title="Academy Award for Best Picture">Best Picture</a> nomination - Ray Stark</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actress" title="Academy Award for Best Actress">Best Actress</a> nomination - Mason</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Supporting_Actress" title="Academy Award for Best Supporting Actress">Supporting Actress</a> nomination - Cummings</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Writing_Original_Screenplay" title="Academy Award for Writing Original Screenplay">Best Screenplay Written Directly for the Screen</a> nomination - Simon</li>
+      </ul>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Motion_Picture_-_Musical_or_Comedy" title="Golden Globe Award for Best Motion Picture - Musical or Comedy">Best Motion Picture, Musical or Comedy</a></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Actor_-_Motion_Picture_Musical_or_Comedy" title="Golden Globe Award for Best Actor - Motion Picture Musical or Comedy">Best Motion Picture Actor, Musical or Comedy</a> - Dreyfuss</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Actress_-_Motion_Picture_Musical_or_Comedy" title="Golden Globe Award for Best Actress - Motion Picture Musical or Comedy">Best Motion Picture Actress, Musical or Comedy</a> - Mason</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Screenplay" title="Golden Globe Award for Best Screenplay">Best Motion Picture Screenplay</a> - Simon</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Supporting_Actress_-_Motion_Picture" title="Golden Globe Award for Best Supporting Actress - Motion Picture">Best Motion Picture Actress in a Supporting Role</a> nomination - Cummings</li>
+      </ul>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/BAFTA_Award_for_Best_Actor_in_a_Leading_Role" title="BAFTA Award for Best Actor in a Leading Role">Best Actor</a> - Dreyfuss</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/BAFTA_Award_for_Best_Actress_in_a_Leading_Role" title="BAFTA Award for Best Actress in a Leading Role">Best Actress</a> nomination - Mason</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/BAFTA_Award_for_Best_Screenplay" title="BAFTA Award for Best Screenplay">Best Screenplay</a> nomination - Simon</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Reception">Reception</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml"><a class="external" href="http://en.wikipedia.org/wiki/Roger_Ebert" title="Roger Ebert">Roger Ebert</a> gave the film a mixed, though mostly-favorable review. He was unimpressed with Mason's performance and the character as written, calling it "hardly ever sympathetic." However, he praised Dreyfuss and cited his <i>Richard III</i> scenes as "the funniest in a movie since Mel Brooks staged <i>Springtime for Hitler</i>." Ebert criticized the beginning as "awkward at times and never quite involving", but "enjoyed its conclusion so much that we almost forgot our earlier reservations."</p>
+      <p xmlns="http://www.w3.org/1999/xhtml"><a class="external" href="http://en.wikipedia.org/wiki/Vincent_Canby" title="Vincent Canby">Vincent Canby</a> of <i><a class="external" href="http://en.wikipedia.org/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i> found the film to be "exhausting without being much fun." and "relentlessly wisecracked".</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Musical_and_remake">Musical and remake</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml"><i>The Goodbye Girl</i> was subsequently developed into a <a class="external" href="http://en.wikipedia.org/wiki/The_Goodbye_Girl_(musical)" title="The Goodbye Girl (musical)">1993 Broadway musical of the same name</a> starring <a class="external" href="http://en.wikipedia.org/wiki/Martin_Short" title="Martin Short">Martin Short</a> and <a class="external" href="http://en.wikipedia.org/wiki/Bernadette_Peters" title="Bernadette Peters">Bernadette Peters</a>.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">A 2004 <a class="external" href="http://en.wikipedia.org/wiki/Turner_Network_Television" title="Turner Network Television">TNT</a> <a class="external" href="http://en.wikipedia.org/w/index.php?title=The_Goodbye_Girl_(2004_film)&amp;action=edit&amp;redlink=1" title="The Goodbye Girl (2004 film) (page does not exist)">remake</a> with <a class="external" href="http://en.wikipedia.org/wiki/Jeff_Daniels" title="Jeff Daniels">Jeff Daniels</a> and <a class="external" href="http://en.wikipedia.org/wiki/Patricia_Heaton" title="Patricia Heaton">Patricia Heaton</a> keeps the screenplay from the original version.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="References">References</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/title/tt0076095/" rel="nofollow"><i>The Goodbye Girl</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+      </ul>
+    </wiki:description>
+  </wiki:film>
+</wiki:nominee>

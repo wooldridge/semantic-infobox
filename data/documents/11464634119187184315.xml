@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="1956" span="1" winner="false" award="supporting-actress" xmlns:wiki="http://marklogic.com/wikipedia">
+  <!--
+                            Copyright (c) 2010 MarkLogic Corporation.
+                            Permission is granted to copy, distribute and/or modify this document
+                            under the terms of the GNU Free Documentation License, Version 1.2
+                            or any later version published by the Free Software Foundation;
+                            with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+                            A copy of the license is included in the section entitled "GNU
+                            Free Documentation License"
+                            
+                            Content derived from http://en.wikipedia.org/wiki/Baby_Doll and http://en.wikipedia.org/wiki/Mildred_Dunnock
+                            Modified in May 2009 by Mark Logic Corporation under the terms of the GNU Free Documentation License.
+                        -->
+  <wiki:name link="/wiki/Mildred_Dunnock">Mildred Dunnock</wiki:name>
+  <wiki:person link="/wiki/Mildred_Dunnock" name="Mildred Dunnock">
+    <wiki:oscar year="1951" span="1" winner="false" award="supporting-actress" film-link="/wiki/Death_of_a_Salesman" film-title="Death of a Salesman"/>
+    <wiki:oscar year="1956" span="1" winner="false" award="supporting-actress" film-link="/wiki/Baby_Doll" film-title="Baby Doll"/>
+    <wiki:birth>
+      <wiki:date>1901-01-25</wiki:date>
+      <wiki:place>
+	<wiki:primary link="/wiki/Baltimore,_Maryland">Baltimore, Maryland</wiki:primary>
+	<wiki:secondary link=""/>
+      <enrich><woeid xmlns="http://where.yahooapis.com/v1/schema.rng">12588679</woeid><placeTypeName code="9" xmlns="http://where.yahooapis.com/v1/schema.rng">County</placeTypeName><name xmlns="http://where.yahooapis.com/v1/schema.rng">Baltimore City</name><country code="US" type="Country" xmlns="http://where.yahooapis.com/v1/schema.rng">United States</country><admin1 code="US-MD" type="State" xmlns="http://where.yahooapis.com/v1/schema.rng">Maryland</admin1><admin2 code="" type="County" xmlns="http://where.yahooapis.com/v1/schema.rng">Baltimore City</admin2><admin3 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality1 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality2 xmlns="http://where.yahooapis.com/v1/schema.rng"/><postal xmlns="http://where.yahooapis.com/v1/schema.rng"/><centroid xmlns="http://where.yahooapis.com/v1/schema.rng"><latitude>39.304790</latitude><longitude>-76.620216</longitude></centroid><boundingBox xmlns="http://where.yahooapis.com/v1/schema.rng"><southWest><latitude>39.197239</latitude><longitude>-76.711479</longitude></southWest><northEast><latitude>39.372089</latitude><longitude>-76.528961</longitude></northEast></boundingBox><areaRank xmlns="http://where.yahooapis.com/v1/schema.rng">5</areaRank><popRank xmlns="http://where.yahooapis.com/v1/schema.rng">0</popRank></enrich></wiki:place>
+    </wiki:birth>
+    <wiki:death>
+      <wiki:date>July 5, 1991</wiki:date>
+      <wiki:place>
+	<wiki:primary link="/wiki/Oak_Bluffs,_Massachusetts">Oak Bluffs, Massachusetts</wiki:primary>
+	<wiki:secondary link=""/>
+      </wiki:place>
+    </wiki:death>
+    <wiki:description>
+      <wiki:abstract>
+	<p xmlns="http://www.w3.org/1999/xhtml"><b>Mildred Dunnock</b> (January 25, 1901 â€“ July 5, 1991) was an American <a class="external" href="http://en.wikipedia.org/wiki/Theater" title="Theater">theater</a>, film and television actress.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Early_life">Early life</span></h2>
+	<p xmlns="http://www.w3.org/1999/xhtml">Born in <a class="external" href="http://en.wikipedia.org/wiki/Baltimore,_Maryland" title="Baltimore, Maryland">Baltimore, Maryland</a> and graduated from Western Senior High School, Dunnock was a school teacher who did not start acting until she was in her early thirties. She attended <a class="external" href="http://en.wikipedia.org/wiki/Goucher_College" title="Goucher College">Goucher College</a> where she was a member of <a class="external" href="http://en.wikipedia.org/wiki/Alpha_Phi" title="Alpha Phi">Alpha Phi</a> sorority.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Career">Career</span></h2>
+	<p xmlns="http://www.w3.org/1999/xhtml">After a couple of roles in <a class="external" href="http://en.wikipedia.org/wiki/Broadway_theatre" title="Broadway theatre">Broadway</a> productions, Dunnock won praise for her performance as a Welsh school teacher in <i><a class="external" href="http://en.wikipedia.org/wiki/The_Corn_is_Green" title="The Corn is Green">The Corn is Green</a></i> (1940). The <a class="external" href="http://en.wikipedia.org/wiki/The_Corn_Is_Green_(1945_film)" title="The Corn Is Green (1945 film)">1945 film version</a> marked her screen debut opposite <a class="external" href="http://en.wikipedia.org/wiki/Bette_Davis" title="Bette Davis">Bette Davis</a>.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">During the 1940s Dunnock performed mostly on stage, in such dramas as <i><a class="external" href="http://en.wikipedia.org/wiki/Another_Part_of_the_Forest" title="Another Part of the Forest">Another Part of the Forest</a></i> (1946) and <i><a class="external" href="http://en.wikipedia.org/wiki/Death_of_a_Salesman" title="Death of a Salesman">Death of a Salesman</a></i> (1949) and in the musical <i><a class="external" href="http://en.wikipedia.org/wiki/Lute_Song_(musical)" title="Lute Song (musical)">Lute Song</a></i> (1946). She reprised her <i>Salesman</i> role in the 1951 film version. She originated the role of Big Mama in the <a class="external" href="http://en.wikipedia.org/wiki/Tennessee_Williams" title="Tennessee Williams">Tennessee Williams</a>' <i><a class="external" href="http://en.wikipedia.org/wiki/Cat_on_a_Hot_Tin_Roof" title="Cat on a Hot Tin Roof">Cat on a Hot Tin Roof</a></i>, although she lost the movie role to <a class="external" href="http://en.wikipedia.org/wiki/Judith_Anderson" title="Judith Anderson">Judith Anderson</a>. Her films include <i><a class="external" href="http://en.wikipedia.org/wiki/The_Trouble_with_Harry" title="The Trouble with Harry">The Trouble with Harry</a></i> (1955), <i><a class="external" href="http://en.wikipedia.org/wiki/Love_Me_Tender_(1956_film)" title="Love Me Tender (1956 film)">Love Me Tender</a></i> (1956), <i><a class="external" href="http://en.wikipedia.org/wiki/Baby_Doll" title="Baby Doll">Baby Doll</a></i> (1956), <i><a class="external" href="http://en.wikipedia.org/wiki/Peyton_Place_(film)" title="Peyton Place (film)">Peyton Place</a></i> (1957), <i><a class="external" href="http://en.wikipedia.org/wiki/The_Nun%27s_Story_(film)" title="The Nun's Story (film)">The Nun's Story</a></i> (1959), <i><a class="external" href="http://en.wikipedia.org/wiki/Butterfield_8" title="Butterfield 8">Butterfield 8</a></i> (1960), and <i><a class="external" href="http://en.wikipedia.org/wiki/Sweet_Bird_of_Youth" title="Sweet Bird of Youth">Sweet Bird of Youth</a></i> (1962).</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">She was the uncredited woman in the wheelchair pushed down the stairs to her death by <a class="external" href="http://en.wikipedia.org/wiki/Richard_Widmark" title="Richard Widmark">Richard Widmark</a> in the 1947 film <i><a class="external" href="http://en.wikipedia.org/wiki/Kiss_of_Death_(1947_film)" title="Kiss of Death (1947 film)">Kiss of Death</a></i>.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">In addition to her successful career as a character actress in film and theater, Dunnock appeared frequently in numerous TV series in guest roles, and later in her career, several made-for-television movies, including a remake of <i>Death of a Salesman</i> in which she played Linda Loman for the third time.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">Dunnock was twice nominated for an <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Supporting_Actress" title="Academy Award for Best Supporting Actress">Academy Award for Best Supporting Actress</a>, for <i><a class="external" href="http://en.wikipedia.org/wiki/Death_of_a_Salesman_(1951_film)" title="Death of a Salesman (1951 film)">Death of a Salesman</a></i> in 1951, and for <i>Baby Doll</i> in 1956. She was also nominated for the <a class="external" href="http://en.wikipedia.org/wiki/Golden_Globe" title="Golden Globe">Golden Globe</a> for Best Supporting Actress for <i>Baby Doll</i>. Her final film was <i><a class="external" href="http://en.wikipedia.org/wiki/The_Pick-up_Artist_(film)" title="The Pick-up Artist (film)">The Pick-up Artist</a></i> (1987), which starred <a class="external" href="http://en.wikipedia.org/wiki/Robert_Downey,_Jr." title="Robert Downey, Jr.">Robert Downey, Jr.</a> and <a class="external" href="http://en.wikipedia.org/wiki/Molly_Ringwald" title="Molly Ringwald">Molly Ringwald</a>.</p>
+      </wiki:abstract>
+      <p xmlns="http://www.w3.org/1999/xhtml">Dunnock died in <a class="external" href="http://en.wikipedia.org/wiki/Oak_Bluffs,_Massachusetts" title="Oak Bluffs, Massachusetts">Oak Bluffs, Massachusetts</a>, of natural causes at the age of 90.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/name/nm0242972/" rel="nofollow">Mildred Dunnock</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	<li><a href="http://www.ibdb.com/person.asp?ID=38755" rel="nofollow">Mildred Dunnock</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Broadway_Database" title="Internet Broadway Database">Internet Broadway Database</a></li>
+	<li><a href="http://www.lortel.org/LLA_archive/index.cfm?search_by=people&amp;first=Mildred&amp;last=Dunnock&amp;middle=" rel="nofollow">Mildred Dunnock</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Lortel_Archives" title="Lortel Archives">Internet Off-Broadway Database</a></li>
+	<li><a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=6678265" rel="nofollow">Mildred Dunnock</a> at <a class="external" href="http://en.wikipedia.org/wiki/Find_a_Grave" title="Find a Grave">Find a Grave</a></li>
+      </ul>
+    </wiki:description>
+  </wiki:person>
+  <wiki:film-title link="/wiki/Baby_Doll">Baby Doll</wiki:film-title>
+  <wiki:film link="/wiki/Baby_Doll" title="Baby Doll">
+    <wiki:oscar-ref year="1956" span="1" winner="false" award="lead-actress" person-link="/wiki/Carroll_Baker" person-name="Carroll Baker"/>
+    <wiki:oscar-ref year="1956" span="1" winner="false" award="supporting-actress" person-link="/wiki/Mildred_Dunnock" person-name="Mildred Dunnock"/>
+    <wiki:director link="/wiki/Elia_Kazan">Elia Kazan</wiki:director>
+    <wiki:writer link="/wiki/Tennessee_Williams">Tennessee Williams</wiki:writer>
+    <wiki:distributor link="/wiki/Warner_Bros.">Warner Bros.</wiki:distributor>
+    <wiki:starring link="/wiki/Karl_Malden">Karl Malden</wiki:starring>
+    <wiki:starring link="/wiki/Carroll_Baker">Carroll Baker</wiki:starring>
+    <wiki:starring link="/wiki/Eli_Wallach">Eli Wallach</wiki:starring>
+    <wiki:description>
+      <wiki:abstract>
+	<p xmlns="http://www.w3.org/1999/xhtml"><i><b>Baby Doll</b></i> is a 1956 <a class="external" href="http://en.wikipedia.org/wiki/Black_comedy" title="Black comedy">black comedy</a> /<a class="external" href="http://en.wikipedia.org/wiki/Drama_film" title="Drama film">drama film</a> directed by <a class="external" href="http://en.wikipedia.org/wiki/Elia_Kazan" title="Elia Kazan">Elia Kazan</a>. It was produced by Kazan and <a class="external" href="http://en.wikipedia.org/wiki/Tennessee_Williams" title="Tennessee Williams">Tennessee Williams</a>, and adapted by Williams from his own <a class="external" href="http://en.wikipedia.org/wiki/One-act_play" title="One-act play">one-act play</a> <i><a class="external" href="http://en.wikipedia.org/wiki/27_Wagons_Full_of_Cotton" title="27 Wagons Full of Cotton">27 Wagons Full of Cotton</a></i>. It stars <a class="external" href="http://en.wikipedia.org/wiki/Karl_Malden" title="Karl Malden">Karl Malden</a>, <a class="external" href="http://en.wikipedia.org/wiki/Carroll_Baker" title="Carroll Baker">Carroll Baker</a> and <a class="external" href="http://en.wikipedia.org/wiki/Eli_Wallach" title="Eli Wallach">Eli Wallach</a>, in his feature-film debut, and features <a class="external" href="http://en.wikipedia.org/wiki/Mildred_Dunnock" title="Mildred Dunnock">Mildred Dunnock</a> and <a class="external" href="http://en.wikipedia.org/wiki/Rip_Torn" title="Rip Torn">Rip Torn</a>.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">The film was controversial when it was released, provoking a response from the <a class="external" href="http://en.wikipedia.org/wiki/Catholic_Legion_of_Decency" title="Catholic Legion of Decency">Catholic Legion of Decency</a>, which attempted to have the film banned. Nevertheless, the film received nominations for major awards. Elia Kazan won the <a class="external" href="http://en.wikipedia.org/wiki/Golden_Globe_Award" title="Golden Globe Award">Golden Globe Award</a> for Best Director and the film was nominated for four other Golden Globe awards, as well as four <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award" title="Academy Award">Academy</a> awards and four <a class="external" href="http://en.wikipedia.org/wiki/BAFTA_Awards" title="BAFTA Awards">BAFTA Awards</a> awards, with Eli Wallach taking the BAFTA prize for "Most Promising Newcomer to Film."</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">The film is credited with originating the name and popularity of the <a class="external" href="http://en.wikipedia.org/wiki/Babydoll" title="Babydoll">babydoll</a> <a class="external" href="http://en.wikipedia.org/wiki/Nightgown" title="Nightgown">nightgown</a>, which derives from the costume worn by Baker's character.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Plot">Plot</span></h2>
+	<p xmlns="http://www.w3.org/1999/xhtml">In the <a class="external" href="http://en.wikipedia.org/wiki/Mississippi_Delta" title="Mississippi Delta">Mississippi Delta</a>, failing, bigoted, middle-aged <a class="external" href="http://en.wikipedia.org/wiki/Cotton_gin" title="Cotton gin">cotton gin</a>-owner Archie Lee Meighan (<a class="external" href="http://en.wikipedia.org/wiki/Karl_Malden" title="Karl Malden">Karl Malden</a>) has been married to pretty, empty-headed 19-year old virgin Baby Doll Meighan (<a class="external" href="http://en.wikipedia.org/wiki/Carroll_Baker" title="Carroll Baker">Carroll Baker</a>) for two years. Archie impatiently waits for Baby Doll's 20th birthday just a few days away when, by prior agreement with Baby Doll's dying father, the marriage can finally be consummated. In the meantime, Baby Doll still sleeps in a crib, wearing childish shorty-nightgowns and sucking her thumb, while Archie spies on her through a hole in a wall of their decrepit antebellum mansion, "Fox Tail".</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">Archie's competitor, Sicilian Silva Vacarro (<a class="external" href="http://en.wikipedia.org/wiki/Eli_Wallach" title="Eli Wallach">Eli Wallach</a>), who owns a newer and more modern cotton gin, has taken away all of Archie's business, and Archie retaliates by burning down Vacarro's gin. Suspecting Archie as the arsonist, Vacarro plans his revenge: he will pursue and seduce Baby Doll and terrorize her into signing an affidavit admitting her husband's guilt.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Cast">Cast</span></h2>
+	<ul xmlns="http://www.w3.org/1999/xhtml">
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Karl_Malden" title="Karl Malden">Karl Malden</a> as Archie Lee Meighan</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Carroll_Baker" title="Carroll Baker">Carroll Baker</a> as Baby Doll Meighan</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Eli_Wallach" title="Eli Wallach">Eli Wallach</a> as Silva Vacarro</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Mildred_Dunnock" title="Mildred Dunnock">Mildred Dunnock</a> as Aunt Rose Comfort</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Lonny_Chapman" title="Lonny Chapman">Lonny Chapman</a> as Rock</li>
+	  <li>Eades Hogue as Town Marshal</li>
+	  <li>Noah Williamson as Deputy</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/R.G._Armstrong" title="R.G. Armstrong">R.G. Armstrong</a> as Townsman Sid <i>(voice only, uncredited)</i></li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Madeleine_Sherwood" title="Madeleine Sherwood">Madeleine Sherwood</a> as Nurse in Doctor's Office <i>(uncredited)</i></li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Rip_Torn" title="Rip Torn">Rip Torn</a> as Dentist <i>(uncredited)</i></li>
+	</ul>
+      </wiki:abstract>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>Both <b>Eli Wallach</b> and <b>Rip Torn</b> made their film debuts in <i>Baby Doll</i>. It was <b>Carroll Baker'</b>s second film, having previously appeared in <i><a class="external" href="http://en.wikipedia.org/wiki/Giant_(film)" title="Giant (film)">Giant</a></i>.</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Production">Production</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">Although the film's title card says "Tennessee William's Baby Doll", and the film is based on Williams' one-act play <i><a class="external" href="http://en.wikipedia.org/wiki/27_Wagons_Full_of_Cotton" title="27 Wagons Full of Cotton">27 Wagons Full of Cotton</a></i>, in his autobiography director Elia Kazan claimed that Williams was only "half-heartedly" involved in writing the screenplay, of which Kazan himself actually wrote the majority. The film was shot in <a class="external" href="http://en.wikipedia.org/wiki/Benoit,_Mississippi" title="Benoit, Mississippi">Benoit, Mississippi</a>, in a plantation house built in 1848 and called "Old Burras Place," the only antebelleum house in <a class="external" href="http://en.wikipedia.org/wiki/Bolivar_County" title="Bolivar County">Bolivar County</a>. Other locations were <a class="external" href="http://en.wikipedia.org/wiki/Greenville,_Mississippi" title="Greenville, Mississippi">Greenville, Mississippi</a> and <a class="external" href="http://en.wikipedia.org/wiki/New_York_City" title="New York City">New York City</a>. According to Kazan, Williams did not stay long while the film was shooting in Benoit, because of the way people looked at him. Some locals were used for minor roles, and one, "Boll Weevil" not only acted but was the production unit's utility man as well.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">The working titles for the film included the name of the play and "Mississippi Woman"; actress Carroll Baker claims that Kazan changed the title to <i>Baby Doll</i> as a present to her. Although Baker was Kazan's first choice for the role, Williams would have preferred to see <a class="external" href="http://en.wikipedia.org/wiki/Marilyn_Monroe" title="Marilyn Monroe">Marilyn Monroe</a> get the part.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Response">Response</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">The film received a seal from the <a class="external" href="http://en.wikipedia.org/wiki/Motion_Picture_Code" title="Motion Picture Code">Motion Picture Code</a>, but the <a class="external" href="http://en.wikipedia.org/wiki/Catholic_Legion_of_Decency" title="Catholic Legion of Decency">Catholic Legion of Decency</a> gave it a "C" ("Condemned") rating and called it "grievously offensive to Christian and traditional standards of morality and decency." They succeeded in having the film withdrawn from release in most U.S. theaters because of their objections over its sexual themes. <i><a class="external" href="http://en.wikipedia.org/wiki/Variety_(magazine)" title="Variety (magazine)">Variety</a></i> noted that it was the first time in years that the Legion had condemned a major American film which had received the approval of the Code.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Other religious figures became involved in the controversy surrounding the film, including <a class="external" href="http://en.wikipedia.org/wiki/Francis_J._Spellman" title="Francis J. Spellman">Francis J. Spellman</a>, the Catholic Archbishop of New York, who called it "sinful" and forbade Catholics in the archdiocese to see the film and <a class="external" href="http://en.wikipedia.org/wiki/James_A._Pike" title="James A. Pike">James A. Pike</a> of the <a class="external" href="http://en.wikipedia.org/wiki/Episcopal_Church_(United_States)" title="Episcopal Church (United States)">Episcopal</a> <a class="external" href="http://en.wikipedia.org/wiki/Cathedral_of_St._John_the_Divine" title="Cathedral of St. John the Divine">Cathedral of St. John the Divine</a> in New York, who countered Spellman by ponting out that there was more "sensuality" in the film <i><a class="external" href="http://en.wikipedia.org/wiki/The_Ten_Commandments_(film)" title="The Ten Commandments (film)">The Ten Commandments</a></i> than there was in <i>Baby Doll</i>, and argued that "the church's duty is not to prevent adults from having the experience of this picture, but to give them a wholesome basis for interpretation and serious answers to questions that were asked with seriousness." Others agreed with Pike, including the Catholic Archbishop of <a class="external" href="http://en.wikipedia.org/wiki/Paris" title="Paris">Paris</a> and the head of the Catholic film Institute in the U.K., while the Catholic Bishop of <a class="external" href="http://en.wikipedia.org/wiki/Albany,_New_York" title="Albany, New York">Albany, New York</a> also forbade Catholics to see the film, which the <a class="external" href="http://en.wikipedia.org/wiki/American_Civil_Liberties_Union" title="American Civil Liberties Union">American Civil Liberties Union</a> objected to as a violation of the <a class="external" href="http://en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution" title="First Amendment to the United States Constitution">First Amendment</a>.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">The movie was banned in many countries, such as <a class="external" href="http://en.wikipedia.org/wiki/Sweden" title="Sweden">Sweden</a>, due to what was called exaggerated sexual content. The film was also condemned by <i><a class="external" href="http://en.wikipedia.org/wiki/Time_(magazine)" title="Time (magazine)">Time</a></i> magazine, which called it the "dirtiest American-made motion picture that had ever been legally exhibited". Due in part to the attempts to have it banned or suppressed, the film was not a commercial success. Kazan reported that it never made a profit.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Awards_and_honors">Awards and honors</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Awards" title="Academy Awards">Academy Awards</a> nominations (1956)
+<ul>
+	    <li>Best Actress â€“ Carroll Baker</li>
+	    <li>Best Adapted Screenplay â€“ Tennessee Williams</li>
+	    <li>Best Black and White Cinematography â€“ Boris Kaufman</li>
+	    <li>Best Supporting Actress â€“ Mildred Dunnock</li>
+	  </ul>
+</li>
+      </ul>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/BAFTA_Awards" title="BAFTA Awards">British Academy of Film and Television Arts Awards</a> nominations (1957)
+<ul>
+	    <li>Most Promising Newcomer â€“ Eli Wallach â€“ <i><b>winner</b></i></li>
+	    <li>Best Film from any Source</li>
+	    <li>Best Foreign Actor â€“ Karl Malden</li>
+	    <li>Best Foreign Actress â€“ Carroll Baker</li>
+	  </ul>
+</li>
+      </ul>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Hollywood_Foreign_Press_Association" title="Hollywood Foreign Press Association">Hollywood Foreign Press Association</a> <a class="external" href="http://en.wikipedia.org/wiki/Golden_Globe_Awards" title="Golden Globe Awards">Golden Globe Awards</a> nominations (1957)
+<ul>
+	    <li>Best Director â€“ Elia Kazan â€“ <i><b>winner</b></i></li>
+	    <li>Best Performance by an Actor in a Motion Picture - Drama â€“ Karl Malden</li>
+	    <li>Best Performance by an Actor in a Supporting Role in a Motion Picture â€“ Eli Wallach</li>
+	    <li>Best Performance by an Actress in a Motion Picture - Drama â€“ Carroll Baker</li>
+	    <li>Best Performance by an Actress in a Supporting Role in a Motion Picture â€“ Mildred Dunnock</li>
+	  </ul>
+</li>
+      </ul>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Writers_Guild_of_America" title="Writers Guild of America">Writers Guild of America</a> <a class="external" href="http://en.wikipedia.org/wiki/WGA_Awards" title="WGA Awards">WGA Awards</a> nominations (1957)
+<ul>
+	    <li>Best Written American Drama (Screen) â€“ Tennessee Williams</li>
+	  </ul>
+</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="References">References</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/title/tt0048973/" rel="nofollow"><i>Baby Doll</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	<li><a href="http://tcmdb.com/title/title.jsp?stid=67860" rel="nofollow"><i>Baby Doll</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Turner_Classic_Movies" title="Turner Classic Movies">TCM Movie Database</a></li>
+	<li><a href="http://www.allmovie.com/work/1:3571" rel="nofollow"><i>Baby Doll</i></a> at <a class="external" href="http://en.wikipedia.org/wiki/Allmovie" title="Allmovie">Allmovie</a></li>
+	<li><a href="http://movies.groups.yahoo.com/group/carrollbakerbabydoll/" rel="nofollow">Carroll Baker Baby Doll Fan Club</a></li>
+      </ul>
+    </wiki:description>
+  </wiki:film>
+</wiki:nominee>

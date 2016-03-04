@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="1955" span="1" winner="false" award="supporting-actor" xmlns:wiki="http://marklogic.com/wikipedia">
+  <!--
+                            Copyright (c) 2010 MarkLogic Corporation.
+                            Permission is granted to copy, distribute and/or modify this document
+                            under the terms of the GNU Free Documentation License, Version 1.2
+                            or any later version published by the Free Software Foundation;
+                            with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+                            A copy of the license is included in the section entitled "GNU
+                            Free Documentation License"
+                            
+                            Content derived from http://en.wikipedia.org/wiki/Trial_(1955_film) and http://en.wikipedia.org/wiki/Arthur_Kennedy
+                            Modified in May 2009 by Mark Logic Corporation under the terms of the GNU Free Documentation License.
+                        -->
+  <wiki:name link="/wiki/Arthur_Kennedy">Arthur Kennedy</wiki:name>
+  <wiki:person link="/wiki/Arthur_Kennedy" name="Arthur Kennedy">
+    <wiki:oscar year="1955" span="1" winner="false" award="supporting-actor" film-link="/wiki/Trial_(1955_film)" film-title="Trial"/>
+    <wiki:oscar year="1957" span="1" winner="false" award="supporting-actor" film-link="/wiki/Peyton_Place_(film)" film-title="Peyton Place"/>
+    <wiki:oscar year="1958" span="1" winner="false" award="supporting-actor" film-link="/wiki/Some_Came_Running" film-title="Some Came Running"/>
+    <wiki:birth>
+      <wiki:date/>
+      <wiki:place>
+	<wiki:primary link=""/>
+	<wiki:secondary link=""/>
+      <enrich/></wiki:place>
+    </wiki:birth>
+    <wiki:description>
+      <p xmlns="http://www.w3.org/1999/xhtml"><b>Arthur Kennedy</b> may refer to:</p>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Arthur_Kennedy_(actor)" title="Arthur Kennedy (actor)">Arthur Kennedy (actor)</a>, American film actor</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Arthur_Kennedy_(governor)" title="Arthur Kennedy (governor)">Arthur Kennedy (governor)</a>, British colonial administrator</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Arthur_Kennedy_(bishop)" title="Arthur Kennedy (bishop)">Arthur Kennedy (bishop)</a>, Roman Catholic Auxiliary Bishop-elect in Boston, Massachusetts.</li>
+      </ul>
+    </wiki:description>
+  </wiki:person>
+  <wiki:film-title link="/wiki/Trial_(1955_film)">Trial</wiki:film-title>
+  <wiki:film link="/wiki/Trial_(1955_film)" title="Trial">
+    <wiki:oscar-ref year="1955" span="1" winner="false" award="supporting-actor" person-link="/wiki/Arthur_Kennedy" person-name="Arthur Kennedy"/>
+    <wiki:director link="/wiki/Mark_Robson">Mark Robson</wiki:director>
+    <wiki:starring link="/wiki/Glenn_Ford">Glenn Ford</wiki:starring>
+    <wiki:starring link="/wiki/Dorothy_McGuire">Dorothy McGuire</wiki:starring>
+    <wiki:starring link="/wiki/Arthur_Kennedy_(actor)">Arthur Kennedy</wiki:starring>
+    <wiki:starring link="/wiki/Juano_Hernandez">Juano Hernandez</wiki:starring>
+    <wiki:description>
+      <wiki:abstract>
+	<p xmlns="http://www.w3.org/1999/xhtml"><i><b>Trial</b></i> is a 1955 American film directed by <a class="external" href="http://en.wikipedia.org/wiki/Mark_Robson" title="Mark Robson">Mark Robson</a> and written by Don Mankiewicz (novel and script). It stars <a class="external" href="http://en.wikipedia.org/wiki/Glenn_Ford" title="Glenn Ford">Glenn Ford</a>, <a class="external" href="http://en.wikipedia.org/wiki/Dorothy_McGuire" title="Dorothy McGuire">Dorothy McGuire</a>, <a class="external" href="http://en.wikipedia.org/wiki/Arthur_Kennedy_(actor)" title="Arthur Kennedy (actor)">Arthur Kennedy</a> and <a class="external" href="http://en.wikipedia.org/wiki/Juano_Hernandez" title="Juano Hernandez">Juano Hernandez</a>. It is about a <a class="external" href="http://en.wikipedia.org/wiki/Mexican_people" title="Mexican people">Mexican</a> boy accused of <a class="external" href="http://en.wikipedia.org/wiki/Rape" title="Rape">rape</a> and <a class="external" href="http://en.wikipedia.org/wiki/Murder" title="Murder">murder</a>; originally victimized by prejudiced accusers, he becomes a pawn of his communist defenders, whose propaganda purposes would be best served by a verdict of guilty.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Plot">Plot</span></h2>
+	<p xmlns="http://www.w3.org/1999/xhtml">Angel Chavez (<a class="external" href="http://en.wikipedia.org/w/index.php?title=Rafael_Campos&amp;action=edit&amp;redlink=1" title="Rafael Campos (page does not exist)">Rafael Campos</a>) is a <a class="external" href="http://en.wikipedia.org/wiki/Mexican_American" title="Mexican American">Mexican American</a> who lives in the small <a class="external" href="http://en.wikipedia.org/wiki/California" title="California">California</a> town of San Juno. During an annual event called Bass Night held at the town beach, he has wandered into the beach which is off-limits to Mexican Americans. There he meets up with a non-Hispanic girl from his high school class. She is suddenly struck down by a heart attack and dies. Angel is arrested and charged with murder. The film then cuts to the State University where a law professor, David Blake (<a class="external" href="http://en.wikipedia.org/wiki/Glenn_Ford" title="Glenn Ford">Glenn Ford</a>), is told he can no longer teach because he has never been to court to defend a client. Blake asks if he finds work with a law firm for the summer and gets courtroom experience, would he be able to teach in the fall semester. The dean agrees and Blake goes out to find work. He goes to a small law firm run by Bernard Castle (<a class="external" href="http://en.wikipedia.org/wiki/Arthur_Kennedy_(actor)" title="Arthur Kennedy (actor)">Arthur Kennedy</a>). Castle wants to defend Angel Chavez and agrees to hire Blake to handle the case. Castle then leaves on a trip to <a class="external" href="http://en.wikipedia.org/wiki/New_York_City" title="New York City">New York City</a> to raise money to defend Chavez with Angel's Mother (<a class="external" href="http://en.wikipedia.org/wiki/Katy_Jurado" title="Katy Jurado">Katy Jurado</a>). He leaves behind his law clerk Abbe Nyle (<a class="external" href="http://en.wikipedia.org/wiki/Dorothy_McGuire" title="Dorothy McGuire">Dorothy McGuire</a>) to help Blake and they soon fall in love. During the picking of a jury, Blake is called to New York to join Barney at a rally and discovers that Barney is a leader in a <a class="external" href="http://en.wikipedia.org/wiki/Communist" title="Communist">Communist</a> group and he is using David as a propaganda tool. David is insulted and betrayed by Barney but he soon returns to San Juno to see the trial to the end.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Awards_and_nominations">Awards and nominations</span></h2>
+	<ul xmlns="http://www.w3.org/1999/xhtml">
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Supporting_Actor" title="Academy Award for Best Supporting Actor">Academy Award for Best Supporting Actor</a> (nomination) - <a class="external" href="http://en.wikipedia.org/wiki/Arthur_Kennedy_(actor)" title="Arthur Kennedy (actor)">Arthur Kennedy</a></li>
+	</ul>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+	<ul xmlns="http://www.w3.org/1999/xhtml">
+	  <li><a href="http://www.imdb.com/title/tt0048748/" rel="nofollow"><i>Trial</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	</ul>
+      </wiki:abstract>
+    </wiki:description>
+  </wiki:film>
+</wiki:nominee>

@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="1932" span="2" winner="true" award="lead-actor" xmlns:wiki="http://marklogic.com/wikipedia">
+	<!-- 
+		Copyright 2009-2012 MarkLogic Corporation.
+		Permission is granted to copy, distribute and/or modify this document
+		under the terms of the GNU Free Documentation License, Version 1.2
+		or any later version published by the Free Software Foundation;
+		with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+		A copy of the license is included in the section entitled "GNU
+		Free Documentation License
+	-->
+	<wiki:name link="/wiki/Charles_Laughton">Charles Laughton</wiki:name>
+	<wiki:person link="/wiki/Charles_Laughton" name="Charles Laughton">
+		<wiki:oscar year="1932" span="2" winner="true" award="lead-actor" film-link="/wiki/The_Private_Life_of_Henry_VIII" film-title="The Private Life of Henry VIII"/>
+		<wiki:oscar year="1935" span="1" winner="false" award="lead-actor" film-link="/wiki/Mutiny_on_the_Bounty_(1935_film)" film-title="Mutiny on the Bounty"/>
+		<wiki:oscar year="1957" span="1" winner="false" award="lead-actor" film-link="/wiki/Witness_for_the_Prosecution" film-title="Witness for the Prosecution"/>
+		<wiki:image link="http://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Charles_Laughton.jpg/200px-Charles_Laughton.jpg"/>
+		<wiki:birth>
+			<wiki:date>1899-07-01</wiki:date>
+			<wiki:place>
+				
+				
+				<wiki:primary link="/wiki/Scarborough,_North_Yorkshire">Scarborough</wiki:primary>
+				<wiki:secondary link="/wiki/Yorkshire">Yorkshire</wiki:secondary>
+			<enrich><woeid xmlns="http://where.yahooapis.com/v1/schema.rng">12696048</woeid><placeTypeName code="10" xmlns="http://where.yahooapis.com/v1/schema.rng">Local Administrative Area</placeTypeName><name xmlns="http://where.yahooapis.com/v1/schema.rng">Scarborough Borough</name><country code="GB" type="Country" xmlns="http://where.yahooapis.com/v1/schema.rng">United Kingdom</country><admin1 code="GB-ENG" type="Country" xmlns="http://where.yahooapis.com/v1/schema.rng">England</admin1><admin2 code="GB-NYK" type="County" xmlns="http://where.yahooapis.com/v1/schema.rng">North Yorkshire</admin2><admin3 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality1 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality2 xmlns="http://where.yahooapis.com/v1/schema.rng"/><postal xmlns="http://where.yahooapis.com/v1/schema.rng"/><centroid xmlns="http://where.yahooapis.com/v1/schema.rng"><latitude>54.347328</latitude><longitude>-0.527630</longitude></centroid><boundingBox xmlns="http://where.yahooapis.com/v1/schema.rng"><southWest><latitude>54.132462</latitude><longitude>-1.064670</longitude></southWest><northEast><latitude>54.562199</latitude><longitude>-0.210830</longitude></northEast></boundingBox><areaRank xmlns="http://where.yahooapis.com/v1/schema.rng">6</areaRank><popRank xmlns="http://where.yahooapis.com/v1/schema.rng">0</popRank></enrich></wiki:place>
+		</wiki:birth>
+		<wiki:death>
+			<wiki:date>December 15, 1962 (aged 63)</wiki:date>
+			<wiki:place>
+				
+				
+				<wiki:primary link="/wiki/Hollywood,_California">Hollywood</wiki:primary>
+				<wiki:secondary link="/wiki/California">California</wiki:secondary>
+			</wiki:place>
+		</wiki:death>
+		<wiki:description>
+			<wiki:abstract>
+				<p xmlns="http://www.w3.org/1999/xhtml"><b>Charles Laughton</b> (1 July 1899 – 15
+					December 1962) was an <a class="external" href="http://en.wikipedia.org/wiki/England" title="England">English</a>
+					<a class="external" href="http://en.wikipedia.org/wiki/Academy_Award" title="Academy Award">Academy Award</a>-winning <a class="external" href="http://en.wikipedia.org/wiki/Theatre" title="Theatre">stage</a> and <a class="external" href="http://en.wikipedia.org/wiki/Film" title="Film">film</a>
+					<a class="external" href="http://en.wikipedia.org/wiki/Actor" title="Actor">actor</a>, <a class="external" href="http://en.wikipedia.org/wiki/Screenwriter" title="Screenwriter">screenwriter</a>, <a class="external" href="http://en.wikipedia.org/wiki/Film_producer" title="Film producer">producer</a> and one-time <a class="external" href="http://en.wikipedia.org/wiki/Film_director" title="Film director">director</a>.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">While best known for his historical roles in
+					films, he started his career as a remarkable stage actor. During a time when
+					many serious stage actors despised the motion picture medium, seeing it only as
+					a source of income, Laughton showed keen and serious interest in the pioneering
+					possibilities of film, and later other media, such as radio, recordings, and TV,
+					proving that quality work could be made available to audiences other than
+					theatre-goers. He became an <a class="external" href="http://en.wikipedia.org/wiki/United_States" title="United States">American</a> citizen in 1950.</p>
+			</wiki:abstract>
+			<p xmlns="http://www.w3.org/1999/xhtml">Laughton was born in <a class="external" href="http://en.wikipedia.org/wiki/Scarborough,_North_Yorkshire" title="Scarborough, North Yorkshire">Scarborough</a>, <a class="external" href="http://en.wikipedia.org/wiki/Yorkshire" title="Yorkshire">Yorkshire</a>,
+				England, the son of Robert Laughton by his wife Elizabeth (née Conlon). His mother
+				was a devout <a class="external" href="http://en.wikipedia.org/wiki/Catholic" title="Catholic">Catholic</a> and he attended <a class="external" href="http://en.wikipedia.org/wiki/Stonyhurst_College" title="Stonyhurst College">Stonyhurst College</a>, a <a class="external" href="http://en.wikipedia.org/wiki/Jesuit" title="Jesuit">Jesuit</a> school, in
+					<a class="external" href="http://en.wikipedia.org/wiki/Lancashire,_England" title="Lancashire, England">Lancashire, England</a>. He served during <a class="external" href="http://en.wikipedia.org/wiki/World_War_I" title="World War I">World War I</a> (in which he was <a class="external" href="http://en.wikipedia.org/wiki/Chemical_warfare" title="Chemical warfare">gassed</a>) first with the 2/1st Battalion of the Huntingdonshire Cyclist
+				Regiment and later with the 7th Battalion of the <a class="external" href="http://en.wikipedia.org/wiki/Northamptonshire_Regiment" title="Northamptonshire Regiment">Northamptonshire Regiment</a>.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">He started work in the family hotel business,
+				while participating in amateur theatricals in Scarborough. Finally allowed by his
+				family to become a drama student at <a class="external" href="http://en.wikipedia.org/wiki/RADA" title="RADA">RADA</a> in 1925, Laughton
+				made his first professional stage appearance on April 28, 1926 at the Barnes
+				Theatre, as Osip in the comedy <i>The Government Inspector</i>, in which he also
+				appeared at the London <a class="external" href="http://en.wikipedia.org/wiki/Gaiety_Theatre,_London" title="Gaiety Theatre, London">Gaiety Theatre</a> in May. Despite not having the
+				looks for a romantic lead, he impressed audiences with his talent and played
+				classical roles in two plays by Chekov, <i>The Cherry Orchard</i> and <i>The Three
+					Sisters</i>. He played the title role in Arnold Bennett's <i>Mr Prohack</i>
+				(Elsa Lanchester was also in the cast), Agatha Christie's Hercule Poirot in
+					<i>Alibi</i>, the title role in <i>Mr Pickwick</i> after Charles Dickens, Tony
+				Perelli in Edgar Wallace's <i>On the Spot</i> and William Marble in <i>Payment
+					Deferred</i>. He took this last play across the Atlantic and in it he made his
+				debut in the <a class="external" href="http://en.wikipedia.org/wiki/United_States_of_America" title="United States of America">USA</a> on September 24, 1931, at the <a class="external" href="http://en.wikipedia.org/wiki/Lyceum_Theatre_(New_York)" title="Lyceum Theatre (New York)">Lyceum Theatre (New York)</a>. He returned to
+				London for the 1933-34 Old Vic Season and was engaged in four Shakespeare roles (as
+				Macbeth and Henry VIII, Angelo in <i>Measure for Measure</i> and Prospero in <i>The
+					Tempest</i>). In 1936 he went to <a class="external" href="http://en.wikipedia.org/wiki/Paris" title="Paris">Paris</a> and on May 9
+				appeared at the <a class="external" href="http://en.wikipedia.org/wiki/Comedie_Francaise" title="Comedie Francaise">Comedie Francaise</a> as Sganarelle in the second act of <a class="external" href="http://en.wikipedia.org/wiki/Moliere" title="Moliere">Moliere</a>'s <i>Le
+					Medecin malgré lui</i>, the first English actor to appear at that theatre, where
+				he acted the part in French and received an ovation.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">Laughton commenced his film career in England
+				while still acting on the London stage. He took small roles in three short silent
+				comedies starring his wife <a class="external" href="http://en.wikipedia.org/wiki/Elsa_Lanchester" title="Elsa Lanchester">Elsa
+					Lanchester</a>, <i>Daydreams</i>, <i>Blue Bottles</i> and <i>The Tonic</i> (all
+				1928) which had been specially written for her by H. G. Wells. He made a brief
+				appearance as a disgruntled diner in another silent film <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/Piccadilly_(film)" title="Piccadilly (film)">Piccadilly</a>
+				</i> with <a class="external" href="http://en.wikipedia.org/wiki/Anna_May_Wong" title="Anna May Wong">Anna May Wong</a> in 1929. He appeared with Elsa
+				Lanchester again in a "film revue," featuring assorted British variety acts, called <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/Comets" title="Comets">Comets</a>
+				</i> (1930) in which they duetted in 'The Ballad of Frankie and Johnnie', and made
+				two other early British talkies: <i>Wolves</i> with <a class="external" href="http://en.wikipedia.org/wiki/Dorothy_Gish" title="Dorothy Gish">Dorothy
+					Gish</a> (1930) from a play set in a whaling camp in the frozen north, and
+					<i>Down River</i> (1931) in which he played a murderous, half-oriental
+				drug-smuggler.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">His New York stage debut in 1931 immediately led
+				to film offers and Laughton's first Hollywood film was <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/The_Old_Dark_House" title="The Old Dark House">The Old Dark House</a>
+				</i> (1932) with <a class="external" href="http://en.wikipedia.org/wiki/Boris_Karloff" title="Boris Karloff">Boris
+					Karloff</a> in which he played a bluff Yorkshire businessman marooned during a
+				storm with other travellers in a creepy mansion in the Welsh mountains. He then
+				played a demented submarine commander in <i>
+					<a class="external" href="http://en.wikipedia.org/w/index.php?title=The_Devil_and_the_Deep&amp;action=edit&amp;redlink=1" title="The Devil and the Deep (page does not exist)">The Devil and the
+						Deep</a>
+				</i> with <a class="external" href="http://en.wikipedia.org/wiki/Tallulah_Bankhead" title="Tallulah Bankhead">Tallulah Bankhead</a>, <a class="external" href="http://en.wikipedia.org/wiki/Gary_Cooper" title="Gary Cooper">Gary
+					Cooper</a> and <a class="external" href="http://en.wikipedia.org/wiki/Cary_Grant" title="Cary Grant">Cary Grant</a>
+				and followed this with his best-remembered film role of that year as <a class="external" href="http://en.wikipedia.org/wiki/Nero" title="Nero">Nero</a>
+				in <a class="external" href="http://en.wikipedia.org/wiki/Cecil_B._DeMille" title="Cecil B. DeMille">Cecil B. DeMille</a>'s <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/The_Sign_of_the_Cross_(film)" title="The Sign of the Cross (film)">The Sign of the Cross</a>
+				</i>. He also turned out a number of other memorable performances during that first
+				Hollywood trip, repeating his stage role as a murderer in <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/Payment_Deferred" title="Payment Deferred">Payment Deferred</a>
+				</i>, playing <a class="external" href="http://en.wikipedia.org/wiki/H._G._Wells" title="H. G. Wells">H. G. Wells</a>'s mad vivisectionist Dr. Moreau in <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/Island_of_Lost_Souls_(1933_film)" title="Island of Lost Souls (1933 film)">Island of Lost Souls</a>
+				</i>, and the meek raspberry-blowing clerk in the brief segment of <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/If_I_Had_A_Million" title="If I Had A Million">If I Had a Million</a>
+				</i> that was directed by <a class="external" href="http://en.wikipedia.org/wiki/Ernst_Lubitsch" title="Ernst Lubitsch">Ernst
+					Lubitsch</a>.</p>
+			<p xmlns="http://www.w3.org/1999/xhtml">His association with film director <a class="external" href="http://en.wikipedia.org/wiki/Alexander_Korda" title="Alexander Korda">Alexander Korda</a> began in 1933 with <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/The_Private_Life_of_Henry_VIII" title="The Private Life of Henry VIII">The Private Life of Henry VIII</a>
+				</i> (loosely based on the life of King <a class="external" href="http://en.wikipedia.org/wiki/Henry_VIII_of_England" title="Henry VIII of England">Henry VIII of England</a>), for which Laughton won
+				an <a class="external" href="http://en.wikipedia.org/wiki/Academy_Awards" title="Academy Awards">Academy Award</a>. However, he continued to act
+				occasionally in the theatre, and his American production of <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/Life_of_Galileo" title="Life of Galileo">Life of Galileo</a>
+				</i> by (and with) <a class="external" href="http://en.wikipedia.org/wiki/Bertolt_Brecht" title="Bertolt Brecht">Bertolt Brecht</a> is legendary.</p>
+			<wiki:career>
+				<p xmlns="http://www.w3.org/1999/xhtml">Laughton soon gave up the stage in
+					preference for a movie career and returned to Hollywood where his next film was <i>
+						<a class="external" href="http://en.wikipedia.org/w/index.php?title=White_Woman&amp;action=edit&amp;redlink=1" title="White Woman (page does not exist)">White Woman</a>
+					</i> (1933) in which he co-starred with <a class="external" href="http://en.wikipedia.org/wiki/Carole_Lombard" title="Carole Lombard">Carole Lombard</a> as a cockney river trader in the Malaysian jungle. Then
+					came <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/The_Barretts_of_Wimpole_Street" title="The Barretts of Wimpole Street">The Barretts of Wimpole
+							Street</a>
+					</i> (1934) as <a class="external" href="http://en.wikipedia.org/wiki/Norma_Shearer" title="Norma Shearer">Norma Shearer</a>'s malevolent father; <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Les_Mis%C3%A9rables_(1935_film)" title="Les Misérables (1935 film)">Les Misérables</a>
+					</i> (1935) as Javert, the police inspector; <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Mutiny_on_the_Bounty_(1935_film)" title="Mutiny on the Bounty (1935 film)">Mutiny on the Bounty</a>
+					</i> (1935) as <a class="external" href="http://en.wikipedia.org/wiki/Captain_Bligh" title="Captain Bligh">Captain Bligh</a>, one of his most famous screen roles, co-starring with <a class="external" href="http://en.wikipedia.org/wiki/Clark_Gable" title="Clark Gable">Clark Gable</a> as <a class="external" href="http://en.wikipedia.org/wiki/Fletcher_Christian" title="Fletcher Christian">Fletcher Christian</a>; and <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Ruggles_of_Red_Gap" title="Ruggles of Red Gap">Ruggles of Red Gap</a>
+					</i> (1935) as the very English butler transported to early 1900's America.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">Back in England, and again with Alexander
+					Korda, he played the title role in <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Rembrandt_(film)" title="Rembrandt (film)">Rembrandt</a>
+					</i> (1936). In 1937, also for Korda, he starred in an ill-fated film version of
+					the classic novel, <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/I,_Claudius_(film)" title="I, Claudius (film)">I, Claudius</a>
+					</i>, by <a class="external" href="http://en.wikipedia.org/wiki/Robert_Graves" title="Robert Graves">Robert Graves</a>, which was abandoned during filming
+					owing to the injuries suffered by co-star <a class="external" href="http://en.wikipedia.org/wiki/Merle_Oberon" title="Merle Oberon">Merle
+						Oberon</a> in a car crash. (Out-takes from this film provided the material
+					for a remarkable BBC TV documentary in 1965 entitled "The Epic That Never Was,"
+					narrated by Dirk Bogarde.)</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">After <i>I, Claudius</i>, he and the
+					ex-patriate German film producer <a class="external" href="http://en.wikipedia.org/wiki/Erich_Pommer" title="Erich Pommer">Erich
+						Pommer</a> founded the production company <a class="external" href="http://en.wikipedia.org/w/index.php?title=Mayflower_Pictures&amp;action=edit&amp;redlink=1" title="Mayflower Pictures (page does not exist)">Mayflower Pictures</a> in
+					the UK, which produced three films starring Laughton: <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/The_Vessel_of_Wrath" title="The Vessel of Wrath">Vessel of Wrath</a>
+					</i> (1938), based on a story by <a class="external" href="http://en.wikipedia.org/wiki/W._Somerset_Maugham" title="W. Somerset Maugham">W. Somerset Maugham</a>, in which Laughton's
+					wife Elsa Lanchester co-starred; <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Sidewalks_of_London" title="Sidewalks of London">Sidewalks of London</a>
+					</i>, a story about London street entertainers that also featured <a class="external" href="http://en.wikipedia.org/wiki/Vivien_Leigh" title="Vivien Leigh">Vivien Leigh</a> and <a class="external" href="http://en.wikipedia.org/wiki/Rex_Harrison" title="Rex Harrison">Rex
+						Harrison</a>; and <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Jamaica_Inn_(film)" title="Jamaica Inn (film)">Jamaica Inn</a>
+					</i>, with Maureen O'Hara and <a class="external" href="http://en.wikipedia.org/wiki/Robert_Newton" title="Robert Newton">Robert Newton</a>, based on a novel about Cornish smugglers by <a class="external" href="http://en.wikipedia.org/wiki/Daphne_du_Maurier" title="Daphne du Maurier">Daphne du Maurier</a>, and the last film <a class="external" href="http://en.wikipedia.org/wiki/Alfred_Hitchcock" title="Alfred Hitchcock">Alfred Hitchcock</a> directed in Britain before
+					moving to Hollywood in the late 1930s. The films produced were not successful
+					enough, and the company was saved from <a class="external" href="http://en.wikipedia.org/wiki/Bankruptcy" title="Bankruptcy">bankruptcy</a> when <a class="external" href="http://en.wikipedia.org/wiki/RKO_Pictures" title="RKO Pictures">RKO
+						Pictures</a> offered Laughton the title role of <a class="external" href="http://en.wikipedia.org/wiki/Quasimodo" title="Quasimodo">Quasimodo</a> in <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/The_Hunchback_of_Notre_Dame_(1939_film)" title="The Hunchback of Notre Dame (1939 film)">The Hunchback of Notre
+							Dame</a>
+					</i> (1939). Laughton and Pommer had plans to make further films, but the
+					outbreak of <a class="external" href="http://en.wikipedia.org/wiki/World_War_II" title="World War II">World War II</a>, which implied the loss of many
+					foreign markets, meant the end of the company.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">Laughton's film roles in the 1930s were
+					among his finest and consisted almost entirely of the costume and historical
+					drama parts for which he is best remembered (Nero, Henry VIII, Mr. Barrett,
+					Captain Bligh, Rembrandt, Quasimodo and others). In his modern-dress film roles
+					in his 1940s movies his acting style often led to variable results, particularly
+					in a number of roles for which he was not ideally cast. He played an Italian
+					vineyard owner in California in <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/They_Knew_What_They_Wanted_(film)" title="They Knew What They Wanted (film)">They Knew What They Wanted</a>
+					</i> (1940); a South Seas patriarch in <i>
+						<a class="external" href="http://en.wikipedia.org/w/index.php?title=The_Tuttles_of_Tahiti&amp;action=edit&amp;redlink=1" title="The Tuttles of Tahiti (page does not exist)">The Tuttles of
+							Tahiti</a>
+					</i> (1942); an American admiral in <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Stand_by_for_Action" title="Stand by for Action">Stand by for Action</a>
+					</i> (1942); a butler in <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Forever_and_a_Day_(film)" title="Forever and a Day (film)">Forever and a Day</a>
+					</i> (1943); and an Australian bar-owner in <i>
+						<a class="external" href="http://en.wikipedia.org/w/index.php?title=The_Man_from_Down_Under&amp;action=edit&amp;redlink=1" title="The Man from Down Under (page does not exist)">The Man from Down
+							Under</a>
+					</i> (1943).</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">Still, some of these post-thirties
+					performances could be remarkable when he came across a good script or a
+					perceptive director, such is the case of a cowardly school-master in occupied
+					France in <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/This_Land_is_Mine" title="This Land is Mine">This Land is Mine</a>
+					</i> (1943), by <a class="external" href="http://en.wikipedia.org/wiki/Jean_Renoir" title="Jean Renoir">Jean
+						Renoir</a>, in which he engaged himself most actively, in fact, while Renoir
+					was still working in an early script, Laughton would talk to him about <a class="external" href="http://en.wikipedia.org/wiki/Alphonse_Daudet" title="Alphonse Daudet">Alphonse Daudet</a>'s story "The Last Lesson", which
+					suggested to Renoir a relevant scene of the film.. He gave also an interesting
+					portrait of a henpecked husband who eventually murders his wife in <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/The_Suspect" title="The Suspect">The Suspect</a>
+					</i> (1944), directed by <a class="external" href="http://en.wikipedia.org/w/index.php?title=Robert_Siodmack&amp;action=edit&amp;redlink=1" title="Robert Siodmack (page does not exist)">Robert Siodmack</a>, who would
+					become a good friend of Laughton. He played sympathetically an impoverished
+					composer-pianist in <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Tales_of_Manhattan" title="Tales of Manhattan">Tales of Manhattan</a>
+					</i>, and managed to transmit the eagerness of a little man who suddenly gets
+					his only big chance to have success. He would also star in an up-dated version
+					of Oscar Wilde's <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/The_Canterville_Ghost" title="The Canterville Ghost">The Canterville Ghost</a>
+					</i> (1944), and in spite of Wilde's original flavour being mangled in order to
+					turn the story in a piece of wartime propaganda, he was able to recover irony
+					and weary melancholia of the character as Wilde originally devised him.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">Apart from these, he would enjoy his work in
+					two comedies he made with <a class="external" href="http://en.wikipedia.org/wiki/Deanna_Durbin" title="Deanna Durbin">Deanna Durbin</a>, <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/It_Started_with_Eve" title="It Started with Eve">It Started with Eve</a>
+					</i> (1941) and <i>
+						<a class="external" href="http://en.wikipedia.org/w/index.php?title=Because_of_Him&amp;action=edit&amp;redlink=1" title="Because of Him (page does not exist)">Because of Him</a>
+					</i> (1946). He also seemed to enjoy himself both as a blood-thirsty pirate in <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Captain_Kidd_(1945_film)" title="Captain Kidd (1945 film)">Captain Kidd</a>
+					</i> (1945) and as a malevolent judge in Alfred Hitchcock's <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/The_Paradine_Case" title="The Paradine Case">The Paradine Case</a>
+					</i> (1948). Laughton was on top form again as a megalomaniac press tycoon in <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/The_Big_Clock_(1948_film)" title="The Big Clock (1948 film)">The Big Clock</a>
+					</i> (1948). He had supporting roles as a Nazi in pre-war Paris in <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Arch_of_Triumph_(1948_film)" title="Arch of Triumph (1948 film)">Arch of Triumph</a>
+					</i> (1948); as a bishop in <i>
+						<a class="external" href="http://en.wikipedia.org/w/index.php?title=The_Girl_from_Manhattan&amp;action=edit&amp;redlink=1" title="The Girl from Manhattan (page does not exist)">The Girl from
+							Manhattan</a>
+					</i> (1948); as a seedy go-between in <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/The_Bribe" title="The Bribe">The Bribe</a>
+					</i> (1949); and a kindly widower in <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/The_Blue_Veil" title="The Blue Veil">The Blue Veil</a>
+					</i> (1951). He played a Bible-reading pastor in the multi-story <i>
+						<a class="external" href="http://en.wikipedia.org/w/index.php?title=A_Miracle_Can_Happen&amp;action=edit&amp;redlink=1" title="A Miracle Can Happen (page does not exist)">A Miracle Can
+							Happen</a>
+					</i> (1947) but his sequence was deleted and replaced with another featuring <a class="external" href="http://en.wikipedia.org/wiki/Dorothy_Lamour" title="Dorothy Lamour">Dorothy Lamour</a>, and in this form the film was
+					re-titled <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/On_Our_Merry_Way" title="On Our Merry Way">On Our Merry Way</a>
+					</i>. However, an original print of <i>
+						<a class="external" href="http://en.wikipedia.org/w/index.php?title=A_Miracle_Can_Happen&amp;action=edit&amp;redlink=1" title="A Miracle Can Happen (page does not exist)">A Miracle Can
+							Happen</a>
+					</i> was sent abroad for dubbing before the Laughton sequence was deleted and in
+					this form it was shown in <a class="external" href="http://en.wikipedia.org/wiki/Spain" title="Spain">Spain</a> under the
+					title <i>
+						<a class="external" href="http://en.wikipedia.org/w/index.php?title=Una_Encuesta_Llamada_Milagro&amp;action=edit&amp;redlink=1" title="Una Encuesta Llamada Milagro (page does not exist)">Una Encuesta
+							Llamada Milagro</a>
+					</i>.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">Laughton made his first colour film in Paris
+					as Inspector Maigret in <i>
+						<a class="external" href="http://en.wikipedia.org/w/index.php?title=The_Man_on_the_Eiffel_Tower&amp;action=edit&amp;redlink=1" title="The Man on the Eiffel Tower (page does not exist)">The Man on the
+							Eiffel Tower</a>
+					</i> (1949) and hammed it up enormously alongside Boris Karloff as a mad French
+					nobleman in a version of <a class="external" href="http://en.wikipedia.org/wiki/Robert_Louis_Stevenson" title="Robert Louis Stevenson">Robert Louis Stevenson</a>'s <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/The_Strange_Door" title="The Strange Door">The Strange Door</a>
+					</i> in 1951. He was a tramp in <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/O._Henry%27s_Full_House" title="O. Henry's Full House">O. Henry's Full House</a>
+					</i> (1952) in which he had a one-minute scene with <a class="external" href="http://en.wikipedia.org/wiki/Marilyn_Monroe" title="Marilyn Monroe">Marilyn Monroe</a>. He became a pirate again, buffoon-style this time, in <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Abbott_and_Costello_Meet_Captain_Kidd" title="Abbott and Costello Meet Captain Kidd">Abbott and Costello Meet
+							Captain Kidd</a>
+					</i> (1952). He guest-starred in an episode of the <i>Colgate Comedy Hour</i> on
+					TV which also featured Abbot and Costello and was notable for his delivery of
+					the <a class="external" href="http://en.wikipedia.org/wiki/Gettysburg_Address" title="Gettysburg Address">Gettysburg Address</a>. He played <a class="external" href="http://en.wikipedia.org/wiki/Herod_Antipas" title="Herod Antipas">Herod Antipas</a> in <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Salome" title="Salome">Salome</a>
+					</i> (1953, with Rita Hayworth in the title role) and repeated his role as Henry
+					VIII in <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Young_Bess" title="Young Bess">Young Bess</a>
+					</i> (1953). He returned to England to star in <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Hobson%27s_Choice_(1954_film)" title="Hobson's Choice (1954 film)">Hobson's Choice</a>
+					</i> (1954) directed by <a class="external" href="http://en.wikipedia.org/wiki/David_Lean" title="David Lean">David
+						Lean</a>.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">Laughton received Academy Award and <a class="external" href="http://en.wikipedia.org/wiki/Golden_Globe" title="Golden Globe">Golden Globe</a> nominations for his role as Sir
+					Wilfrid Robarts in the screen version of <a class="external" href="http://en.wikipedia.org/wiki/Agatha_Christie" title="Agatha Christie">Agatha Christie</a>'s play <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Witness_for_the_Prosecution" title="Witness for the Prosecution">Witness for the Prosecution</a>
+					</i> (1957).</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">He played a British admiral in <i>
+						<a class="external" href="http://en.wikipedia.org/w/index.php?title=Under_Ten_Flags&amp;action=edit&amp;redlink=1" title="Under Ten Flags (page does not exist)">Under Ten Flags</a>
+					</i> (1960) and worked for the only time with <a class="external" href="http://en.wikipedia.org/wiki/Laurence_Olivier" title="Laurence Olivier">Laurence Olivier</a>, in <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Spartacus_(film)" title="Spartacus (film)">Spartacus</a>
+					</i> (1960) as a wily Roman senator.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">His final film was <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Advise_and_Consent_(film)" title="Advise and Consent (film)">Advise and Consent</a>
+					</i> (1962), for which he received favorable comments for his performance as a
+					southern U.S. Senator (for which accent he studied recordings of the late
+					Mississippi Senator <a class="external" href="http://en.wikipedia.org/wiki/John_Stennis" title="John Stennis">John
+						Stennis</a>). Laughton worked on the film, which was directed by <a class="external" href="http://en.wikipedia.org/wiki/Otto_Preminger" title="Otto Preminger">Otto Preminger</a>, while he was dying from <a class="external" href="http://en.wikipedia.org/wiki/Bone_tumor" title="Bone tumor">bone cancer</a>.</p>
+			</wiki:career>
+			<p xmlns="http://www.w3.org/1999/xhtml">Laughton took a stab at directing a movie, and
+				the result was <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/The_Night_of_the_Hunter_(film)" title="The Night of the Hunter (film)">The Night of the Hunter</a>
+				</i> (1955), starring <a class="external" href="http://en.wikipedia.org/wiki/Robert_Mitchum" title="Robert Mitchum">Robert
+					Mitchum</a>, <a class="external" href="http://en.wikipedia.org/wiki/Shelley_Winters" title="Shelley Winters">Shelley Winters</a> and <a class="external" href="http://en.wikipedia.org/wiki/Lillian_Gish" title="Lillian Gish">Lillian
+					Gish</a>. This movie is often cited among today's critics as one of the best
+				movies of the 1950s., and has been selected by the United States National Film
+				Preservation Board for preservation in the Library of Congress. Unfortunately, at
+				the time it was originally released it was a critical and box-office failure, and
+				Laughton never had another chance to direct a film. He did not appear in the film,
+				but worked solely as a director. The documentary <i>Charles Laughton Directs The
+					Night of the Hunter</i> by Robert Gitt (2002) features preserved rushes and
+				outtakes with Laughton's audible off-camera direction.</p>
+			<wiki:career>
+				<p xmlns="http://www.w3.org/1999/xhtml">Laughton made his London stage debut in
+					Gogol's <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/The_Government_Inspector" title="The Government Inspector">The Government Inspector</a>
+					</i> (1926). He appeared in many West End plays in the following few years and
+					his earliest successes on the stage were in roles like Hercule Poirot in
+						<i>Alibi</i> (1928, the first actor to portray Agatha Christie's Belgian
+					detective <a class="external" href="http://en.wikipedia.org/wiki/Hercule_Poirot" title="Hercule Poirot">Hercule Poirot</a>) - a stage adaptation of <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/The_Murder_of_Roger_Ackroyd" title="The Murder of Roger Ackroyd">The Murder of Roger Ackroyd</a>
+					</i>) and William Marble in <i>Payment Deferred</i>, in which he made his Lyceum
+					Theatre (New York) debut in 1931.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">In 1926, he played the role of the criminal
+					Ficsur in the original London production of <a class="external" href="http://en.wikipedia.org/wiki/Ferenc_Molnar" title="Ferenc Molnar">Ferenc Molnar</a>'s <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Liliom" title="Liliom">Liliom</a>
+					</i>. While Laughton is most remembered for his film career, he would keep
+					working for the stage, as when, after the success of <i>The Private Life of
+						Henry VIII</i> he appeared at the <a class="external" href="http://en.wikipedia.org/wiki/Old_Vic_Theatre" title="Old Vic Theatre">Old Vic Theatre</a> in 1933 for a season of classic revivals. He appeared
+					in roles like <a class="external" href="http://en.wikipedia.org/wiki/Macbeth" title="Macbeth">Macbeth</a>, Lopakin in <i><a class="external" href="http://en.wikipedia.org/wiki/The_Cherry_Orchard" title="The Cherry Orchard">The Cherry Orchard</a>,</i>
+					<a class="external" href="http://en.wikipedia.org/wiki/Prospero" title="Prospero">Prospero</a> in <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/The_Tempest" title="The Tempest">The Tempest</a>
+					</i> and had a major personal success as <a class="external" href="http://en.wikipedia.org/wiki/Angelo_(Shakespeare)" title="Angelo (Shakespeare)">Angelo</a> in <i><a class="external" href="http://en.wikipedia.org/wiki/Measure_for_Measure" title="Measure for Measure">Measure for Measure</a>,</i> but felt his
+					appearance in the title role of <a class="external" href="http://en.wikipedia.org/wiki/Shakespeare" title="Shakespeare">Shakespeare's</a> play <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Henry_VIII_(play)" title="Henry VIII (play)">Henry VIII</a>
+					</i> was a mistake because audiences compared it with his Academy Award-winning
+					film. At the end of 1936, Laughton played <a class="external" href="http://en.wikipedia.org/wiki/Captain_Hook" title="Captain Hook">Captain Hook</a> and <a class="external" href="http://en.wikipedia.org/wiki/Elsa_Lanchester" title="Elsa Lanchester">Elsa Lanchester</a> played <a class="external" href="http://en.wikipedia.org/wiki/Peter_Pan" title="Peter Pan">Peter
+						Pan</a> in <a class="external" href="http://en.wikipedia.org/wiki/J._M._Barrie" title="J. M. Barrie">J. M.
+						Barrie</a>'s <a class="external" href="http://en.wikipedia.org/wiki/Peter_and_Wendy" title="Peter and Wendy">play</a> at the London Palladium.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">In America, Laughton worked closely with <a class="external" href="http://en.wikipedia.org/wiki/Bertolt_Brecht" title="Bertolt Brecht">Bertolt Brecht</a> on a new English version of
+					Brecht's play <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Galileo_(play)" title="Galileo (play)">Galileo</a>
+					</i>. Laughton played the title role at the play's premiere in <a class="external" href="http://en.wikipedia.org/wiki/Los_Angeles" title="Los Angeles">Los Angeles</a> on 30 July 1947 and later that year in
+					New York. This staging was directed by <a class="external" href="http://en.wikipedia.org/wiki/Joseph_Losey" title="Joseph Losey">Joseph
+						Losey</a>.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">Laughton had one of his most notable
+					successes in the theatre by directing and playing the <a class="external" href="http://en.wikipedia.org/wiki/Devil" title="Devil">Devil</a> in <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Don_Juan_in_Hell" title="Don Juan in Hell">Don Juan in Hell</a>
+					</i> beginning in 1950. The piece is actually the third act sequence from <a class="external" href="http://en.wikipedia.org/wiki/George_Bernard_Shaw" title="George Bernard Shaw">George Bernard Shaw</a>'s play <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Man_and_Superman" title="Man and Superman">Man and Superman</a>
+					</i>, frequently cut from productions to reduce its playing time, consisting of
+					a philosophical debate between <a class="external" href="http://en.wikipedia.org/wiki/Don_Juan" title="Don Juan">Don Juan</a>
+					and the Devil with contributions from Doña Ana and the statue of Ana's father.
+					Laughton conceived the piece as a staged reading and cast <a class="external" href="http://en.wikipedia.org/wiki/Charles_Boyer" title="Charles Boyer">Charles Boyer</a>, <a class="external" href="http://en.wikipedia.org/wiki/Cedric_Hardwicke" title="Cedric Hardwicke">Cedric Hardwicke</a>, and <a class="external" href="http://en.wikipedia.org/wiki/Agnes_Moorehead" title="Agnes Moorehead">Agnes Moorehead</a> (billed as "The First Drama Quartette") in the other
+					roles. It was Boyer instead of Laughton who won a special <a class="external" href="http://en.wikipedia.org/wiki/Tony_Award" title="Tony Award">Tony
+						Award</a> for the performance, possibly because Laughton was well-known for
+					not caring about awards and never attended awards ceremonies when he was
+					nominated for or won one, including the Oscars.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">He directed several plays on <a class="external" href="http://en.wikipedia.org/wiki/Broadway_theatre" title="Broadway theatre">Broadway</a>. His most notable box-office success
+					as a director came in 1954, with <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/The_Caine_Mutiny_Court-Martial" title="The Caine Mutiny Court-Martial">The Caine Mutiny
+							Court-Martial</a>
+					</i>, a full-length stage dramatization by <a class="external" href="http://en.wikipedia.org/wiki/Herman_Wouk" title="Herman Wouk">Herman
+						Wouk</a> of the court-martial scene in Wouk's novel <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/The_Caine_Mutiny" title="The Caine Mutiny">The Caine Mutiny</a>
+					</i>. The play, starring <a class="external" href="http://en.wikipedia.org/wiki/Henry_Fonda" title="Henry Fonda">Henry
+						Fonda</a> as defense attorney Barney Greenwald, opened the same year as the
+					film starring <a class="external" href="http://en.wikipedia.org/wiki/Humphrey_Bogart" title="Humphrey Bogart">Humphrey Bogart</a> as Captain Queeg and <a class="external" href="http://en.wikipedia.org/wiki/Jose_Ferrer" title="Jose Ferrer">Jose
+						Ferrer</a> as Greenwald based on the original novel, but did not affect that
+					film's box-office performance. Laughton also directed a staged reading in 1953
+					of <a class="external" href="http://en.wikipedia.org/wiki/Stephen_Vincent_Ben%C3%A9t" title="Stephen Vincent Benét">Stephen Vincent Benét</a>'s <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/John_Brown%27s_Body_(poem)" title="John Brown's Body (poem)">John Brown's Body</a>
+					</i>, a full-length poem about the <a class="external" href="http://en.wikipedia.org/wiki/American_Civil_War" title="American Civil War">American Civil War</a> and its aftermath. The
+					production starred <a class="external" href="http://en.wikipedia.org/wiki/Tyrone_Power" title="Tyrone Power">Tyrone
+						Power</a>, <a class="external" href="http://en.wikipedia.org/wiki/Raymond_Massey" title="Raymond Massey">Raymond Massey</a> (re-creating his film characterizations of <a class="external" href="http://en.wikipedia.org/wiki/Abraham_Lincoln" title="Abraham Lincoln">Abraham Lincoln</a> and <a class="external" href="http://en.wikipedia.org/wiki/John_Brown_(abolitionist)" title="John Brown (abolitionist)">John Brown</a>), and <a class="external" href="http://en.wikipedia.org/wiki/Judith_Anderson" title="Judith Anderson">Judith Anderson</a>. Laughton did not appear himself in either of these
+					productions, but <i>John Brown's Body</i> was recorded complete by Columbia
+					Masterworks, as was <i>Don Juan in Hell</i>.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">Laughton returned to the London stage in May
+						<a class="external" href="http://en.wikipedia.org/wiki/1958" title="1958">1958</a> to direct and star in <a class="external" href="http://en.wikipedia.org/wiki/Jane_Arden" title="Jane Arden">Jane
+						Arden</a>'s <a class="external" href="http://en.wikipedia.org/wiki/The_Party" title="The Party">The
+						Party</a> at the <a class="external" href="http://en.wikipedia.org/wiki/New_Theatre" title="New Theatre">New
+						Theatre</a> which also had <a class="external" href="http://en.wikipedia.org/wiki/Elsa_Lanchester" title="Elsa Lanchester">Elsa Lanchester</a> and <a class="external" href="http://en.wikipedia.org/wiki/Albert_Finney" title="Albert Finney">Albert Finney</a> in the cast. He made his final theatre appearances as <a class="external" href="http://en.wikipedia.org/wiki/Nick_Bottom" title="Nick Bottom">Nick Bottom</a> in <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/A_Midsummer_Night%27s_Dream" title="A Midsummer Night's Dream">A Midsummer Night's Dream</a>
+					</i> and as <a class="external" href="http://en.wikipedia.org/wiki/King_Lear" title="King Lear">King Lear</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Shakespeare_Memorial_Theatre" title="Shakespeare Memorial Theatre">Shakespeare Memorial Theatre</a> in
+					1959, although failing health resulted in both performances being disappointing,
+					according to some British critics. The fact that he tried an unorthodox approach
+					to the character of Lear, and was resented by some for having become an American
+					citizen may have also something to do with the lukewarm critical reception, as
+					well. His performance as King Lear came in for particular lambasting by critics,
+					with many reviews saying that the portly actor looked more like <a class="external" href="http://en.wikipedia.org/wiki/Old_King_Cole" title="Old King Cole">Old King Cole</a> than Shakespeare's creation, and
+					critic <a class="external" href="http://en.wikipedia.org/wiki/Kenneth_Tynan" title="Kenneth Tynan">Kenneth Tynan</a> wrote that Laughton's Nick Bottom
+					"...behaves in a manner that has nothing to do with acting, although it
+					perfectly hits off the demeanor of a rapscallion uncle dressed up to entertain
+					the children at a <a class="external" href="http://en.wikipedia.org/wiki/Christmas" title="Christmas">Christmas</a> party". Unfortunately, although a British production of <i>A
+						Midsummer Night's Dream</i> did air on television around this time, it was
+					not the one with Laughton, but rather a 1958 production with Paul Rogers as
+					Bottom.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">Although he did not appear in any later
+					plays, he continued to tour the U.S. with staged readings, including a very
+					successful appearance on the <a class="external" href="http://en.wikipedia.org/wiki/Stanford_University" title="Stanford University">Stanford University</a> campus in 1960.</p>
+			</wiki:career>
+			<wiki:career>
+				<p xmlns="http://www.w3.org/1999/xhtml">Laughton's voice first appeared on 78 rpm
+					records with the release of five British Regal Zonophone 10 inch discs entitled
+						<i>Voice of the Stars</i> issued annually from 1934 to 1938. These featured
+					short soundtrack snippets from the year's top films. He is heard on all five
+					records in, respectively, <i>The Private Life of Henry VIII</i>, <i>The Barretts
+						of Wimpole Street</i>, <i>Mutiny on the Bounty</i>, <i>I, Claudius</i>
+					(curiously, since this film was unfinished and thus never released), and
+						<i>Vessel of Wrath</i>. In 1937 he recorded Lincoln's <a class="external" href="http://en.wikipedia.org/wiki/Gettysburg_Address" title="Gettysburg Address">Gettysburg Address</a> on a 10" Columbia 78,
+					having made such an impression with it in <i>Ruggles of Red Gap</i>.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">He made several other spoken word recordings
+					and one of his most famous was his one-man album of <a class="external" href="http://en.wikipedia.org/wiki/Charles_Dickens" title="Charles Dickens">Charles Dickens</a>'s <i>Mr. Pickwick's Christmas</i>, a twenty-minute
+					version of the Christmas chapter from Dickens's <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/The_Pickwick_Papers" title="The Pickwick Papers">The Pickwick Papers</a>
+					</i>. It was first released by American <a class="external" href="http://en.wikipedia.org/wiki/Decca_Records" title="Decca Records">Decca</a> in 1944 as a four record 78 rpm set, but was afterwards
+					transferred to LP. It frequently appeared on LP with a companion piece, Decca's
+					1941 adaptation of Dickens's <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/A_Christmas_Carol" title="A Christmas Carol">A Christmas Carol</a>
+					</i>, starring <a class="external" href="http://en.wikipedia.org/wiki/Ronald_Colman" title="Ronald Colman">Ronald Colman</a> as Scrooge. Both stories were released together on a <a class="external" href="http://en.wikipedia.org/wiki/Deutsche_Grammophon" title="Deutsche Grammophon">Deutsche Grammophon</a>
+					<a class="external" href="http://en.wikipedia.org/wiki/CD" title="CD">CD</a> in
+					time for Christmas 2005. In 1943, Laughton recorded a reading of the Nativity
+					story from <a class="external" href="http://en.wikipedia.org/wiki/St._Luke%27s_Gospel" title="St. Luke's Gospel">St. Luke's Gospel</a>, and this was released in
+					1995 on CD on a <a class="external" href="http://en.wikipedia.org/wiki/Nimbus_Records" title="Nimbus Records">Nimbus Records</a> collection entitled <i>Prima Voce: The Spirit of
+						Christmas Past</i>.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">A Brunswick/American Decca LP entitled
+						<i>Readings from the Bible</i> featured Laughton reading Garden of Eden, The
+					Fiery Furnace, Noah's Ark, and David and Goliath. It was released in 1958.
+					Laughton had previously included several Bible readings when he played the title
+					role in the film <i>Rembrandt</i>.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">In an unusual move regarding a suspense
+					thriller, Laughton was also heard narrating the story on the <a class="external" href="http://en.wikipedia.org/wiki/Soundtrack_album" title="Soundtrack album">soundtrack album</a> of the film that he directed,
+						<i>Night of the Hunter</i>, accompanied by the film's score. This album has
+					also been released on CD.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">Also, and deriving from the movie they made
+					together, a complete radio show (18 June 1945) of <i>The Canterville Ghost</i>
+					was broadcast which featured Laughton and Margaret O'Brien. It has been issued
+					on a Pelican LP.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">His wife Elsa Lanchester made three LPs in
+					the 1950s <i>Songs for a Shuttered Parlour</i>, <i>Songs for a Smoke-Filled
+						Room</i>, and <i>Cockney London</i>. Laughton introduced the various numbers
+					with spoken introductions on the first two and wrote the sleeve notes for the
+					third.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">However, none of Laughton's other record
+					albums have been made available on CD as yet. There are two especially notable
+					ones still waiting. The first is a complete, two LP, Columbia Masterworks
+					recording of the 1950 Broadway staging of George Bernard Shaw's <i>Don Juan in
+						Hell</i>.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">The other notable recording unavailable on
+					CD is a two LP <a class="external" href="http://en.wikipedia.org/wiki/Capitol_Records" title="Capitol Records">Capitol Records</a> album that was released in 1962, the year of Laughton's
+					death, entitled <i>The Story Teller: A Session with Charles Laughton</i>. Taken
+					from the one-man stage shows that Laughton loved to appear in, it culls together
+					dramatic readings from several sources. Three of the excerpts are broadcast
+					annually on a <a class="external" href="http://en.wikipedia.org/wiki/Minnesota_Public_Radio" title="Minnesota Public Radio">Minnesota Public Radio</a>
+					<a class="external" href="http://en.wikipedia.org/wiki/Thanksgiving" title="Thanksgiving">Thanksgiving</a> program entitled <i>Giving Thanks</i>.
+						<i>The Story Teller</i> won a <a class="external" href="http://en.wikipedia.org/wiki/Grammy" title="Grammy">Grammy</a> in 1962
+					for <a class="external" href="http://en.wikipedia.org/wiki/Best_Spoken_Word_Recording" title="Best Spoken Word Recording">Best Spoken Word Recording</a>.</p>
+			</wiki:career>
+			<p xmlns="http://www.w3.org/1999/xhtml">It should be noted that Charles Laughton was the
+				first television host on <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/The_Ed_Sullivan_Show" title="The Ed Sullivan Show">The Ed Sullivan Show</a>
+				</i> to introduce <a class="external" href="http://en.wikipedia.org/wiki/Elvis_Presley" title="Elvis Presley">Elvis
+					Presley</a> to much of America, in 1956. Ed Sullivan had been injured in a car
+				accident and Laughton filled in for him. That same year, Laughton also hosted the
+				first of two programs devoted to classical music entitled "Festival of Music", and
+				telecast on the NBC <a class="external" href="http://en.wikipedia.org/wiki/Television_anthology_series" title="Television anthology series">television anthology series</a>. <i>
+					<a class="external" href="http://en.wikipedia.org/wiki/Producers%27_Showcase" title="Producers' Showcase">Producers' Showcase</a>
+				</i>.</p>
+			<wiki:personal>
+				<p xmlns="http://www.w3.org/1999/xhtml">He had a long and resilient marriage to
+					actress Elsa Lanchester, although, in her autobiography, Lanchester revealed
+					that Laughton was <a class="external" href="http://en.wikipedia.org/wiki/Gay" title="Gay">gay</a>. According to her own account, she was shocked to learn
+					about this, but eventually decided to remain married to him. However, she claims
+					as a result of this, she decided not to have children with him. The decision
+					caused him great grief, as he longed to become a father, as many friends of
+					Laughton, among them <a class="external" href="http://en.wikipedia.org/wiki/Maureen_O%27Hara" title="Maureen O'Hara">Maureen O'Hara</a> and <a class="external" href="http://en.wikipedia.org/wiki/Stanley_Cortez" title="Stanley Cortez">Stanley Cortez</a>, have stated. In her autobiographical book, Lanchester
+					relates a story regarding the police approaching Laughton at the door of their
+					London flat, with a hustler whom Laughton had approached (and who apparently
+					wanted to blackmail Charles asking for more money). When Laughton confessed,
+					Lanchester told him not to worry about it, that it didn't matter. "That's why he
+					cried . . . when I told him it didn't matter."</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">Elsa Lanchester appeared opposite him in
+					several films, including <i>Rembrandt</i> (1936) and <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/The_Big_Clock_(film)" title="The Big Clock (film)">The Big Clock</a>
+					</i> (1948). They both received Academy Award nominations for their performances
+					in <i>Witness for the Prosecution</i> (1957) - Laughton for Best Actor, and
+					Lanchester for Best Supporting Actress - but neither won.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">In 1950, the couple became American
+					citizens. The cremated remains of Charles Laughton are interred in the Court of
+					Remembrance courtyard, at <a class="external" href="http://en.wikipedia.org/wiki/Forest_Lawn_Memorial_Park_(Hollywood_Hills)" title="Forest Lawn Memorial Park (Hollywood Hills)">Forest Lawn - Hollywood
+						Hills Cemetery</a> in <a class="external" href="http://en.wikipedia.org/wiki/Los_Angeles,_California" title="Los Angeles, California">Los Angeles, California</a>.</p>
+			</wiki:personal>
+			<wiki:awards>
+				<h2 xmlns="http://www.w3.org/1999/xhtml">
+					<span class="mw-headline">Awards and nominations</span>
+				</h2>
+				<p xmlns="http://www.w3.org/1999/xhtml">Laughton won the <a class="external" href="http://en.wikipedia.org/wiki/New_York_Film_Critics_Circle_Awards_1935" title="New York Film Critics Circle Awards 1935">New York Film Critics
+						Circle Awards</a> for <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Mutiny_on_the_Bounty" title="Mutiny on the Bounty">Mutiny on the Bounty</a>
+					</i> and <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Ruggles_of_Red_Gap" title="Ruggles of Red Gap">Ruggles of Red Gap</a>
+					</i> in 1953.</p>
+				<ul xmlns="http://www.w3.org/1999/xhtml">
+	  <li>1933 Won <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actor" title="Academy Award for Best Actor">Best Actor in a Leading Role</a>, <i>
+							<a class="external" href="http://en.wikipedia.org/wiki/The_Private_Life_of_Henry_VIII" title="The Private Life of Henry VIII">The Private Life of Henry
+								VIII</a>
+						</i></li>
+	  <li>1936 Nominated Best Actor in a Leading Role, <i>
+							<a class="external" href="http://en.wikipedia.org/wiki/Mutiny_on_the_Bounty_(1935_film)" title="Mutiny on the Bounty (1935 film)">Mutiny on the Bounty</a>
+						</i></li>
+	  <li>1958 Nominated Best Actor in a Leading Role, <i>
+							<a class="external" href="http://en.wikipedia.org/wiki/Witness_for_the_Prosecution" title="Witness for the Prosecution">Witness for the Prosecution</a>
+						</i></li>
+	</ul>
+			</wiki:awards>
+			<wiki:career>
+				<h2 xmlns="http://www.w3.org/1999/xhtml">
+					<span class="mw-headline">Filmography</span>
+				</h2>
+				<p xmlns="http://www.w3.org/1999/xhtml">
+					<i>Unless otherwise stated the films are U.S. productions in black and
+						white.</i>
+				</p>
+			</wiki:career>
+			<wiki:career/>
+			<wiki:career/>
+			<wiki:career/>
+			<h2 xmlns="http://www.w3.org/1999/xhtml">
+				<span class="mw-headline">References</span>
+			</h2>
+			<ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>
+					<cite style="font-style:normal" class="book" id="CITEREFBrown.2C_William1970">Brown, William (1970). <i>Charles Laughton A Pictorial Treasury of his
+							Films</i>. New York: Falcon Enterprises.</cite>
+					<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Charles+Laughton+A+Pictorial+Treasury+of+his+Films&amp;rft.aulast=Brown%2C+William&amp;rft.au=Brown%2C+William&amp;rft.date=1970&amp;rft.place=New+York&amp;rft.pub=Falcon+Enterprises&amp;rfr_id=info:sid/en.wikipedia.org:Charles_Laughton">
+						<span style="display: none;"> </span>
+					</span>
+				</li>
+	<li>
+					<cite style="font-style:normal" class="book" id="CITEREFCallow.2C_Simon1988">Callow, Simon (1988). <i>Charles Laughton: A Difficult Actor</i>. New York:
+						Grove Press. <a class="external" href="http://en.wikipedia.org/wiki/Special:BookSources/0802110479">ISBN
+							0802110479</a>.</cite>
+					<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Charles+Laughton%3A+A+Difficult+Actor&amp;rft.aulast=Callow%2C+Simon&amp;rft.au=Callow%2C+Simon&amp;rft.date=1988&amp;rft.place=New+York&amp;rft.pub=Grove+Press&amp;rft.isbn=0802110479&amp;rfr_id=info:sid/en.wikipedia.org:Charles_Laughton">
+						<span style="display: none;"> </span>
+					</span>
+				</li>
+	<li>
+					<cite style="font-style:normal" class="book" id="CITEREFHigham.2C_Charles1976">Higham, Charles (1976). <i>Charles Laughton: An Intimate Biography</i>. New
+						York: Doubleday. <a class="external" href="http://en.wikipedia.org/wiki/Special:BookSources/0385094035">ISBN
+							0385094035</a>.</cite>
+					<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Charles+Laughton%3A+An+Intimate+Biography&amp;rft.aulast=Higham%2C+Charles&amp;rft.au=Higham%2C+Charles&amp;rft.date=1976&amp;rft.place=New+York&amp;rft.pub=Doubleday&amp;rft.isbn=0385094035&amp;rfr_id=info:sid/en.wikipedia.org:Charles_Laughton">
+						<span style="display: none;"> </span>
+					</span>
+				</li>
+	<li>
+					<cite style="font-style:normal" class="book" id="CITEREFJones.2C_Preston_Neal2004">Jones, Preston Neal (2004). <i>Heaven
+							and Hell to Play With: The Filming of The Night of the Hunter</i>. New
+						York: Limelight Editions. <a class="external" href="http://en.wikipedia.org/wiki/Special:BookSources/0879109742">ISBN
+							0879109742</a>.</cite>
+					<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Heaven+and+Hell+to+Play+With%3A+The+Filming+of+The+Night+of+the+Hunter&amp;rft.aulast=Jones%2C+Preston+Neal&amp;rft.au=Jones%2C+Preston+Neal&amp;rft.date=2004&amp;rft.place=New+York&amp;rft.pub=Limelight+Editions&amp;rft.isbn=0879109742&amp;rfr_id=info:sid/en.wikipedia.org:Charles_Laughton">
+						<span style="display: none;"> </span>
+					</span>
+				</li>
+	<li>
+					<cite style="font-style:normal" class="book" id="CITEREFLanchester.2C_Elsa1938">Lanchester, Elsa (1938). <i>Charles Laughton and I</i>. London: Faber and
+						Faber. pp. 271.</cite>
+					<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Charles+Laughton+and+I&amp;rft.aulast=Lanchester%2C+Elsa&amp;rft.au=Lanchester%2C+Elsa&amp;rft.date=1938&amp;rft.pages=pp.%26nbsp%3B271&amp;rft.place=London&amp;rft.pub=Faber+and+Faber&amp;rfr_id=info:sid/en.wikipedia.org:Charles_Laughton">
+						<span style="display: none;"> </span>
+					</span>
+				</li>
+	<li>
+					<cite style="font-style:normal" class="book" id="CITEREFLanchester.2C_Elsa1983">Lanchester, Elsa (1983). <i>Elsa Lanchester Herself</i>. London: Michael
+						Joseph. pp. 336. <a class="external" href="http://en.wikipedia.org/wiki/Special:BookSources/0718123093">ISBN
+							0718123093</a>.</cite>
+					<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Elsa+Lanchester+Herself&amp;rft.aulast=Lanchester%2C+Elsa&amp;rft.au=Lanchester%2C+Elsa&amp;rft.date=1983&amp;rft.pages=pp.%26nbsp%3B336&amp;rft.place=London&amp;rft.pub=Michael+Joseph&amp;rft.isbn=0718123093&amp;rfr_id=info:sid/en.wikipedia.org:Charles_Laughton">
+						<span style="display: none;"> </span>
+					</span>
+				</li>
+	<li>
+					<cite style="font-style:normal" class="book" id="CITEREFLyon.2C_James_K.1980">Lyon, James K. (1980). <i>Bertolt Brecht in America</i>. Princeton:
+						Princeton University Press. <a class="external" href="http://en.wikipedia.org/wiki/Special:BookSources/019502639X">ISBN
+							019502639X</a>.</cite>
+					<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Bertolt+Brecht+in+America&amp;rft.aulast=Lyon%2C+James+K.&amp;rft.au=Lyon%2C+James+K.&amp;rft.date=1980&amp;rft.place=Princeton&amp;rft.pub=Princeton+University+Press&amp;rft.isbn=019502639X&amp;rfr_id=info:sid/en.wikipedia.org:Charles_Laughton">
+						<span style="display: none;"> </span>
+					</span>
+				</li>
+	<li>
+					<cite style="font-style:normal" class="book" id="CITEREFParker.2C_John_.28ed.29.2C1947">Parker, John (ed), (1947).
+							<i>Who's Who in the Theatre 10th revised edition</i>. London.
+						pp. 892–3..</cite>
+					<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Who%27s+Who+in+the+Theatre++10th+revised+edition&amp;rft.aulast=Parker%2C+John+%28ed%29%2C&amp;rft.au=Parker%2C+John+%28ed%29%2C&amp;rft.date=1947&amp;rft.pages=pp.%26nbsp%3B892%E2%80%933.&amp;rft.place=London&amp;rfr_id=info:sid/en.wikipedia.org:Charles_Laughton">
+						<span style="display: none;"> </span>
+					</span>
+				</li>
+	<li>
+					<cite style="font-style:normal" class="book" id="CITEREFSinger.2C_Kurt1954">Singer, Kurt (1954). <i>The Charles Laughton Story</i>. London: John C.
+						Winston Company.</cite>
+					<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Charles+Laughton+Story&amp;rft.aulast=Singer%2C+Kurt&amp;rft.au=Singer%2C+Kurt&amp;rft.date=1954&amp;rft.place=London&amp;rft.pub=John+C.+Winston+Company&amp;rfr_id=info:sid/en.wikipedia.org:Charles_Laughton">
+						<span style="display: none;"> </span>
+					</span>
+				</li>
+	<li><i>Tell Me a Story</i> (1957) and <i>The Fabulous Country</i> (1962). Two
+					literary anthologies selected by Charles Laughton. They contain pieces which
+					were presented by him in his reading tours across America, with written
+					introductions which give some insight about Laughton's thoughts. This selection
+					presents texts from the <a class="external" href="http://en.wikipedia.org/wiki/Bible" title="Bible">Bible</a>, <a class="external" href="http://en.wikipedia.org/wiki/Charles_Dickens" title="Charles Dickens">Charles Dickens</a>, <a class="external" href="http://en.wikipedia.org/wiki/Thomas_Wolfe" title="Thomas Wolfe">Thomas
+						Wolfe</a>, <a class="external" href="http://en.wikipedia.org/wiki/Ray_Bradbury" title="Ray Bradbury">Ray
+						Bradbury</a>, and <a class="external" href="http://en.wikipedia.org/wiki/James_Thurber" title="James Thurber">James Thurber</a> to name just a few.</li>
+	<li>Diverse authors, articles in The Stonyhurst magazine: <i>Charles Laughton at
+						Stonyhurst</i> by David Knight (Volume LIV, No. 501, 2005), <i>Charles
+						Laughton. A Talent in Bloom (1899-1931)</i>, by Gloria Porta (Volume LIV,
+					No. 502, 2006)</li>
+      </ul>
+			<h2 xmlns="http://www.w3.org/1999/xhtml">
+				<span class="mw-headline">External links</span>
+			</h2>
+			<ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/name/nm0001452/" title="http://www.imdb.com/name/nm0001452/" rel="nofollow">Charles
+						Laughton</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	<li><a href="http://tcmdb.com/participant/participant.jsp?participantId=109397" title="http://tcmdb.com/participant/participant.jsp?participantId=109397" rel="nofollow">Charles Laughton</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Turner_Classic_Movies" title="Turner Classic Movies">TCM Movie Database</a></li>
+	<li><a href="http://www.ibdb.com/person.asp?ID=9812" title="http://www.ibdb.com/person.asp?ID=9812" rel="nofollow">Charles
+						Laughton</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Broadway_Database" title="Internet Broadway Database">Internet Broadway Database</a></li>
+	<li><a href="http://www.screenonline.org.uk/people/id/462922/" title="http://www.screenonline.org.uk/people/id/462922/" rel="nofollow">Charles Laughton</a> at the <a class="external" href="http://en.wikipedia.org/wiki/British_Film_Institute" title="British Film Institute">British Film Institute</a>'s <a class="external" href="http://en.wikipedia.org/wiki/Screenonline" title="Screenonline">Screenonline</a></li>
+	<li>
+					<a href="http://rootingforlaughton.blogspot.com" title="http://rootingforlaughton.blogspot.com" rel="nofollow"><i>Rooting for
+							Laughton</i>: <i>Laughtonians of the world, unite!</i> (Weblog)</a>
+				</li>
+	<li>
+					<a href="http://www.fyne.co.uk/index.php?item=547" title="http://www.fyne.co.uk/index.php?item=547" rel="nofollow">Gay
+						Greats</a>
+				</li>
+	<li><a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=606" title="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=606" rel="nofollow">Charles Laughton</a> at <a class="external" href="http://en.wikipedia.org/wiki/Find_A_Grave" title="Find A Grave">Find A
+						Grave</a></li>
+      </ul>
+			<p xmlns="http://www.w3.org/1999/xhtml">
+				<span id="interwiki-ca-fa"></span>
+			</p>
+		</wiki:description>
+	</wiki:person>
+	<wiki:film-title link="/wiki/The_Private_Life_of_Henry_VIII">The Private Life of Henry
+		VIII</wiki:film-title>
+	<wiki:film link="/wiki/The_Private_Life_of_Henry_VIII" title="The Private Life of Henry VIII">
+		<wiki:oscar-ref year="1932" span="2" winner="true" award="lead-actor" person-link="/wiki/Charles_Laughton" person-name="Charles Laughton"/>
+		<wiki:oscar year="1932" span="2" winner="false" award="best-picture"/>
+		<wiki:director link="/wiki/Alexander_Korda">Alexander Korda</wiki:director>
+		<wiki:writer link="/wiki/Lajos_Bir%C3%B3">Lajos Biró</wiki:writer>
+		<wiki:writer link="/wiki/Arthur_Wimperis">Arthur Wimperis</wiki:writer>
+		<wiki:distributor link="/wiki/United_Artists">United Artists</wiki:distributor>
+		<wiki:starring link="/wiki/Charles_Laughton">Charles Laughton</wiki:starring>
+		<wiki:starring link="/wiki/Robert_Donat">Robert Donat</wiki:starring>
+		<wiki:starring link="/wiki/Merle_Oberon">Merle Oberon</wiki:starring>
+		<wiki:starring link="/wiki/Elsa_Lanchester">Elsa Lanchester</wiki:starring>
+		<wiki:starring link="/wiki/Franklin_Dyall">Franklin Dyall</wiki:starring>
+		<wiki:starring link="/wiki/Miles_Mander">Miles Mander</wiki:starring>
+		<wiki:language link="/wiki/English_language">English</wiki:language>
+		<wiki:description>
+			<wiki:abstract>
+				<p xmlns="http://www.w3.org/1999/xhtml"><i>
+						<b>The Private Life of Henry VIII</b>
+					</i>
+					<a class="external" href="http://en.wikipedia.org/wiki/1933_in_film" title="1933 in film">1933</a> film about the English king. It was written by
+						<a class="external" href="http://en.wikipedia.org/wiki/Lajos_Bir%C3%B3" title="Lajos Biró">Lajos Biró</a> and <a class="external" href="http://en.wikipedia.org/wiki/Arthur_Wimperis" title="Arthur Wimperis">Arthur Wimperis</a>, and directed by Sir <a class="external" href="http://en.wikipedia.org/wiki/Alexander_Korda" title="Alexander Korda">Alexander Korda</a>.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml"><a class="external" href="http://en.wikipedia.org/wiki/Charles_Laughton" title="Charles Laughton">Charles Laughton</a> won the 1933 Academy Award as
+						<a class="external" href="http://en.wikipedia.org/wiki/Best_Actor" title="Best Actor">Best Actor</a> for his performance as Henry. The film was
+					the first <a class="external" href="http://en.wikipedia.org/wiki/United_Kingdom" title="United Kingdom">British</a> production to be nominated for the <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture" title="Academy Award for Best Picture">Academy Award for Best
+					Picture</a>.</p>
+			</wiki:abstract>
+			<wiki:plot>
+				<h2 xmlns="http://www.w3.org/1999/xhtml">
+					<span class="mw-headline">Plot</span>
+				</h2>
+				<p xmlns="http://www.w3.org/1999/xhtml">In May 1536, immediately following the
+					execution of his second wife, <a class="external" href="http://en.wikipedia.org/wiki/Anne_Boleyn" title="Anne Boleyn">Anne
+						Boleyn</a> (<a class="external" href="http://en.wikipedia.org/wiki/Merle_Oberon" title="Merle Oberon">Merle
+						Oberon</a>), King <a class="external" href="http://en.wikipedia.org/wiki/Henry_VIII_of_England" title="Henry VIII of England">Henry VIII</a> (Charles Laughton) marries her
+					maid, the plain <a class="external" href="http://en.wikipedia.org/wiki/Lady_Jane_Seymour" title="Lady Jane Seymour">Jane Seymour</a> (<a class="external" href="http://en.wikipedia.org/wiki/Wendy_Barrie" title="Wendy Barrie">Wendy
+						Barrie</a>). However, she dies in childbed eighteen months later. He then
+					weds a German princess, <a class="external" href="http://en.wikipedia.org/wiki/Anne_of_Cleves" title="Anne of Cleves">Anne of Cleves</a> (played by Laughton's real-life wife <a class="external" href="http://en.wikipedia.org/wiki/Elsa_Lanchester" title="Elsa Lanchester">Elsa Lanchester</a>). This marriage ends in divorce when Anne deliberately
+					makes herself unattractive so that she can be free to re-marry her sweetheart.
+					After this divorce, Henry marries the beautiful and ambitious Lady <a class="external" href="http://en.wikipedia.org/wiki/Catherine_Howard" title="Catherine Howard">Katherine Howard</a> (<a class="external" href="http://en.wikipedia.org/wiki/Binnie_Barnes" title="Binnie Barnes">Binnie Barnes</a>). She has rejected love all her life in favour of
+					ambition, but after her marriage, she falls in love with Henry's handsome
+					courtier <a class="external" href="http://en.wikipedia.org/wiki/Thomas_Culpeper" title="Thomas Culpeper">Thomas Culpeper</a> (<a class="external" href="http://en.wikipedia.org/wiki/Robert_Donat" title="Robert Donat">Robert
+						Donat</a>). Their liaison is discovered by Henry's advisers and the couple
+					are executed. Henry's final marriage, to <a class="external" href="http://en.wikipedia.org/wiki/Catherine_Parr" title="Catherine Parr">Catherine Parr</a> (<a class="external" href="http://en.wikipedia.org/wiki/Everley_Gregg" title="Everley Gregg">Everley Gregg</a>), receives less than five minutes of screentime.</p>
+			</wiki:plot>
+			<wiki:cast>
+				<h2 xmlns="http://www.w3.org/1999/xhtml">
+					<span class="mw-headline">Cast</span>
+				</h2>
+				<ul xmlns="http://www.w3.org/1999/xhtml">
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Charles_Laughton" title="Charles Laughton">Charles Laughton</a> as Henry VIII</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Merle_Oberon" title="Merle Oberon">Merle Oberon</a> as Anne Boleyn</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Wendy_Barrie" title="Wendy Barrie">Wendy Barrie</a> as Jane Seymour</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Elsa_Lanchester" title="Elsa Lanchester">Elsa Lanchester</a> as Anne of Cleves</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Binnie_Barnes" title="Binnie Barnes">Binnie Barnes</a> as Katherine Howard</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Robert_Donat" title="Robert Donat">Robert Donat</a> as Thomas Culpepper</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Franklin_Dyall" title="Franklin Dyall">Franklin Dyall</a> as <a class="external" href="http://en.wikipedia.org/wiki/Thomas_Cromwell,_1st_Earl_of_Essex" title="Thomas Cromwell, 1st Earl of Essex">Thomas Cromwell</a></li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Miles_Mander" title="Miles Mander">Miles Mander</a> as Wriothesley</li>
+	  <li>Laurence Hanray as Archbishop <a class="external" href="http://en.wikipedia.org/wiki/Thomas_Cranmer" title="Thomas Cranmer">Thomas Cranmer</a></li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/William_Austin" title="William Austin">William Austin</a> as Duke of Cleves</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/John_Loder_(actor)" title="John Loder (actor)">John Loder</a> as Thomas Peynell</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Everley_Gregg" title="Everley Gregg">Everley Gregg</a> as Catherine Parr</li>
+	</ul>
+			</wiki:cast>
+			<h2 xmlns="http://www.w3.org/1999/xhtml">
+				<span class="mw-headline">Inaccuracy</span>
+			</h2>
+			<p xmlns="http://www.w3.org/1999/xhtml">Historically, the film is wildly inaccurate -
+				with the possible exception of the Anne Boleyn storyline at the beginning. It does
+				not portray Henry's first (and longest) marriage to the Spanish princess, <a class="external" href="http://en.wikipedia.org/wiki/Catherine_of_Aragon" title="Catherine of Aragon">Catherine of Aragon</a>.</p>
+			<wiki:reception>
+				<h2 xmlns="http://www.w3.org/1999/xhtml">
+					<span class="mw-headline">Reception</span>
+				</h2>
+				<p xmlns="http://www.w3.org/1999/xhtml">It was hugely successful as a commercial
+					film and it advanced <a class="external" href="http://en.wikipedia.org/wiki/Alexander_Korda" title="Alexander Korda">Alexander Korda</a> and <a class="external" href="http://en.wikipedia.org/wiki/Charles_Laughton" title="Charles Laughton">Charles Laughton</a>'s careers. It was <a class="external" href="http://en.wikipedia.org/wiki/Merle_Oberon" title="Merle Oberon">Merle Oberon</a>'s first major film role and it began
+					her rise to <a class="external" href="http://en.wikipedia.org/wiki/Hollywood" title="Hollywood">Hollywood</a> stardom. Laughton would later reprise his
+					role in 1953 in the film <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Young_Bess" title="Young Bess">Young Bess</a>
+					</i>, opposite <a class="external" href="http://en.wikipedia.org/wiki/Jean_Simmons" title="Jean Simmons">Jean
+						Simmons</a> as his young daughter, <a class="external" href="http://en.wikipedia.org/wiki/Elizabeth_I_of_England" title="Elizabeth I of England">Elizabeth I</a>. No other feature-length film
+					would deal with all of Henry's wives until <i>
+						<a class="external" href="http://en.wikipedia.org/wiki/Henry_VIII_and_his_Six_Wives" title="Henry VIII and his Six Wives">Henry VIII and his Six Wives</a>
+					</i> in 1973.</p>
+				<p xmlns="http://www.w3.org/1999/xhtml">It is famous for creating the public image
+					of a jolly Henry VIII gorging himself at public banquets and chasing pretty
+					women all day.</p>
+			</wiki:reception>
+			<ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>The Great British Films, Jerry Vermilye, 1978, Citadel Press, <a class="external" href="http://en.wikipedia.org/wiki/Special:BookSources/080650661X">ISBN
+						080650661X</a></li>
+      </ul>
+			<h2 xmlns="http://www.w3.org/1999/xhtml">
+				<span class="mw-headline">External links</span>
+			</h2>
+			<ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/title/tt0024473/" title="http://www.imdb.com/title/tt0024473/" rel="nofollow">
+						<i>The Private Life of Henry VIII</i>
+					</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	<li><a href="http://tcmdb.com/title/title.jsp?stid=87210" title="http://tcmdb.com/title/title.jsp?stid=87210" rel="nofollow">
+						<i>The Private Life of Henry VIII</i>
+					</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Turner_Classic_Movies" title="Turner Classic Movies">TCM Movie Database</a></li>
+	<li><a href="http://www.oldmovies.net.au/the-private-life-of-henry-viii/" title="http://www.oldmovies.net.au/the-private-life-of-henry-viii/" rel="nofollow"><i>The Prvate Life of Henry VIII</i> review</a> at <a href="http://www.oldmovies.net.au/" title="http://www.oldmovies.net.au/" rel="nofollow">Old Movies</a></li>
+      </ul>
+		</wiki:description>
+	</wiki:film>
+</wiki:nominee>

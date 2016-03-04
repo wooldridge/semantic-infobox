@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="1989" span="1" winner="true" award="best-picture" xmlns:wiki="http://marklogic.com/wikipedia">
+  <!--
+                            Copyright (c) 2010 MarkLogic Corporation.
+                            Permission is granted to copy, distribute and/or modify this document
+                            under the terms of the GNU Free Documentation License, Version 1.2
+                            or any later version published by the Free Software Foundation;
+                            with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+                            A copy of the license is included in the section entitled "GNU
+                            Free Documentation License"
+                            
+                            Content derived from http://en.wikipedia.org/wiki/Driving_Miss_Daisy
+                            Modified in May 2009 by Mark Logic Corporation under the terms of the GNU Free Documentation License.
+                        -->
+  <wiki:film-title link="/wiki/Driving_Miss_Daisy">Driving Miss Daisy</wiki:film-title>
+  <wiki:film link="/wiki/Driving_Miss_Daisy" title="Driving Miss Daisy">
+    <wiki:oscar-ref year="1989" span="1" winner="false" award="lead-actor" person-link="/wiki/Morgan_Freeman" person-name="Morgan Freeman"/>
+    <wiki:oscar-ref year="1989" span="1" winner="true" award="lead-actress" person-link="/wiki/Jessica_Tandy" person-name="Jessica Tandy"/>
+    <wiki:oscar-ref year="1989" span="1" winner="false" award="supporting-actor" person-link="/wiki/Dan_Aykroyd" person-name="Dan Aykroyd"/>
+    <wiki:oscar year="1989" span="1" winner="true" award="best-picture"/>
+    <wiki:producer link="/wiki/Richard_D._Zanuck">Richard D. Zanuck</wiki:producer>
+    <wiki:producer link="/w/index.php?title=Lili_Fini_Zanuck&amp;action=edit&amp;redlink=1">Lili Fini Zanuck</wiki:producer>
+    <wiki:director link="/wiki/Bruce_Beresford">Bruce Beresford</wiki:director>
+    <wiki:writer link="/wiki/Alfred_Uhry">Alfred Uhry</wiki:writer>
+    <wiki:distributor link="/wiki/Warner_Bros._Pictures">Warner Bros. Pictures</wiki:distributor>
+    <wiki:starring link="/wiki/Morgan_Freeman">Morgan Freeman</wiki:starring>
+    <wiki:starring link="/wiki/Jessica_Tandy">Jessica Tandy</wiki:starring>
+    <wiki:starring link="/wiki/Dan_Aykroyd">Dan Aykroyd</wiki:starring>
+    <wiki:starring link="/wiki/Esther_Rolle">Esther Rolle</wiki:starring>
+    <wiki:starring link="/wiki/Patti_LuPone">Patti Lupone</wiki:starring>
+    <wiki:description>
+      <wiki:abstract>
+	<p xmlns="http://www.w3.org/1999/xhtml"><i><b>Driving Miss Daisy</b></i> is a 1989 American <a class="external" href="http://en.wikipedia.org/wiki/Comedy-drama" title="Comedy-drama">comedy-drama</a> film adapted from the <a class="external" href="http://en.wikipedia.org/wiki/Alfred_Uhry" title="Alfred Uhry">Alfred Uhry</a> <a class="external" href="http://en.wikipedia.org/wiki/Driving_Miss_Daisy_(play)" title="Driving Miss Daisy (play)">play of the same title</a>. The film was directed by <a class="external" href="http://en.wikipedia.org/wiki/Bruce_Beresford" title="Bruce Beresford">Bruce Beresford</a> with <a class="external" href="http://en.wikipedia.org/wiki/Morgan_Freeman" title="Morgan Freeman">Morgan Freeman</a> reprising Hoke's role and <a class="external" href="http://en.wikipedia.org/wiki/Jessica_Tandy" title="Jessica Tandy">Jessica Tandy</a> playing Miss Daisy. The story defines Daisy and her point of view through a network of relationships and emotions by focusing on her home life, synagogue, friends, family, fears, and concerns. Hoke is rarely seen out of Miss Daisy's presence, although the title implies that the story is told from his perspective. <i>Driving Miss Daisy</i> won the <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture" title="Academy Award for Best Picture">Academy Award for Best Picture</a>.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Plot">Plot</span></h2>
+	<p xmlns="http://www.w3.org/1999/xhtml">It is 1948 and Mrs. ("Miss") Daisy Werthan (<a class="external" href="http://en.wikipedia.org/wiki/Jessica_Tandy" title="Jessica Tandy">Jessica Tandy</a>), a 72-year-old Jewish widow, lives in <a class="external" href="http://en.wikipedia.org/wiki/Atlanta" title="Atlanta">Atlanta</a>, <a class="external" href="http://en.wikipedia.org/wiki/Georgia_(U.S._state)" title="Georgia (U.S. state)">Georgia</a>, alone except for an African American housemaid named Idella (<a class="external" href="http://en.wikipedia.org/wiki/Esther_Rolle" title="Esther Rolle">Esther Rolle</a>). After a driving mishap where her <a class="external" href="http://en.wikipedia.org/wiki/Chrysler" title="Chrysler">Chrysler</a> automobile is demolished, Miss Daisyâ€™s son, Boolie (<a class="external" href="http://en.wikipedia.org/wiki/Dan_Aykroyd" title="Dan Aykroyd">Dan Aykroyd</a>), tells her she will have to get a <a class="external" href="http://en.wikipedia.org/wiki/Chauffeur" title="Chauffeur">chauffeur</a> because no insurance company will insure her. She refuses, but Boolie is determined to find her one. Meanwhile, she is stuck at home and is unable to run errands or visit friends.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">Boolie finds a man named Hoke Colburn (<a class="external" href="http://en.wikipedia.org/wiki/Morgan_Freeman" title="Morgan Freeman">Morgan Freeman</a>), who had driven for a local judge until he died, and he decided to remain in the area rather than accompany the judge's widow when she moved away.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">Miss Daisy at first refuses to let Hoke drive her, going so far as to walk to the local <a class="external" href="http://en.wikipedia.org/wiki/Piggly_Wiggly" title="Piggly Wiggly">Piggly Wiggly</a>. It is revealed that her reluctance to be driven around is because she is embarrassed. People might think she is either too elderly to drive, or so well off that she can pay for a driver.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">Daisy starts to accept Hoke and the fact that she needs him to drive her around. Miss Daisy finds out that Hoke cannot read, so she teaches him how to read. Over the years Hoke drives Daisy in a succession of vehicles including a <a class="external" href="http://en.wikipedia.org/wiki/Hudson_Commodore" title="Hudson Commodore">Hudson Commodore</a> and a series of <a class="external" href="http://en.wikipedia.org/wiki/Cadillac" title="Cadillac">Cadillacs</a>. When it became time to trade in the Hudson for a new Cadillac in 1955, Hoke purchased the Hudson and used it as his personal vehicle. He repeated the practice with Miss Daisy's subsequent vehicles as well.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">Miss Daisy has Hoke drive her to her brother's 90 birthday party in <a class="external" href="http://en.wikipedia.org/wiki/Mobile,_Alabama" title="Mobile, Alabama">Mobile, Alabama</a>. Hoke reveals, during the trip, that it is the first time that he has left his home state of Georgia. During their trip from Atlanta to Mobile, Daisy realizes that Hoke's race affects how others treat him in this society. Therefore, she is further opened to the social aspects of discrimination. As Daisy and Hoke spend time together, she gains appreciation for Hoke's many skills.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">One day in 1963, while watching <i><a class="external" href="http://en.wikipedia.org/wiki/The_Edge_of_Night" title="The Edge of Night">The Edge of Night</a></i> in the kitchen, Idella dies. Miss Daisy is saddened because Idella was very close to her. She and her family attend the funeral, but they sit at the back of the church, and are the only white people in attendance.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">The racism and prejudice that permeated American society during the time period in which the story takes place is explored in this movie, especially when Hoke is questioned by a pair of <a class="external" href="http://en.wikipedia.org/wiki/Alabama_Highway_Patrol" title="Alabama Highway Patrol">Alabama highway patrolmen</a>, who make out-of-earshot comments about Miss Daisy being Jewish and Hoke being black. After her synagogue is bombed (an actual event) Miss Daisy realizes that she is subject to many of the same prejudices as Hoke. But in the course of the movie, American society undergoes radical changes, and Miss Daisy soon attends a dinner in which Dr. <a class="external" href="http://en.wikipedia.org/wiki/Martin_Luther_King" title="Martin Luther King">Martin Luther King</a> gives a speech. She initially invites Boolie to the dinner, but he declines, and suggests that Miss Daisy invite Hoke. She asks him on the car ride there but in the wrong way, which ends up that she goes by herself.</p>
+      </wiki:abstract>
+      <p xmlns="http://www.w3.org/1999/xhtml">Two years later, in 1973, the family home is sold, and Hoke has given up driving. Hoke is now 85 and Miss Daisy is 97. Boolie and Hoke meet at Miss Daisy's house one final time before the new owner takes possession, and they drive over to the retirement home to visit Miss Daisy. The movie ends on <a class="external" href="http://en.wikipedia.org/wiki/Thanksgiving" title="Thanksgiving">Thanksgiving</a> with Hoke feeding Miss Daisy a piece of pie.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Cast">Cast</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Morgan_Freeman" title="Morgan Freeman">Morgan Freeman</a> as Hoke Colburn</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Jessica_Tandy" title="Jessica Tandy">Jessica Tandy</a> as Daisy Werthan</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Dan_Aykroyd" title="Dan Aykroyd">Dan Aykroyd</a> as Boolie Werthan</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Esther_Rolle" title="Esther Rolle">Esther Rolle</a> as Idella</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Patti_LuPone" title="Patti LuPone">Patti Lupone</a> as Florine Werthan</li>
+	<li>Joann Havrilla as Miss McClatchley</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/William_Hall,_Jr." title="William Hall, Jr.">William Hall, Jr.</a> as Oscar</li>
+	<li>Muriel Moore as Miriam</li>
+	<li>Sylvia Kaler as Beulah</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Accolades">Accolades</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">The Oscar campaign for the film was directed by publicist <a class="external" href="http://en.wikipedia.org/wiki/Ronni_Chasen" title="Ronni Chasen">Ronni Chasen</a>.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">At the <a class="external" href="http://en.wikipedia.org/wiki/62nd_Academy_Awards" title="62nd Academy Awards">62nd Academy Awards</a> for <a class="external" href="http://en.wikipedia.org/wiki/1989_in_film" title="1989 in film">1989</a>, <i>Driving Miss Daisy</i> received a total of four awards from nine nominations. The four awards included: <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture" title="Academy Award for Best Picture">Best Picture</a>, <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actress" title="Academy Award for Best Actress">Best Actress</a> (Jessica Tandy), <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Makeup" title="Academy Award for Makeup">Best Makeup</a>, and <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Writing_Adapted_Screenplay" title="Academy Award for Writing Adapted Screenplay">Best Adapted Screenplay</a>. The remaining five nominations included: <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actor" title="Academy Award for Best Actor">Best Actor</a> (Morgan Freeman), <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Supporting_Actor" title="Academy Award for Best Supporting Actor">Best Supporting Actor</a> (Dan Aykroyd), <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Art_Direction" title="Academy Award for Best Art Direction">Best Art Direction</a>, <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Costume_Design" title="Academy Award for Costume Design">Best Costume Design</a>, and <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Film_Editing" title="Academy Award for Film Editing">Best Film Editing</a>.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml"><i>Driving Miss Daisy</i> also achieved the following distinctions at the 62nd Academy Awards ceremony:</p>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>it is the only film based on an <a class="external" href="http://en.wikipedia.org/wiki/Off_Broadway" title="Off Broadway">off Broadway</a> production ever to win an Academy Award for Best Picture;</li>
+	<li>it is the last Best Picture winner to date to receive a <a class="external" href="http://en.wikipedia.org/wiki/Motion_Picture_Association_of_America_film_rating_system" title="Motion Picture Association of America film rating system">PG rating</a>;</li>
+	<li>it is the last film to date (and one of only three films ever) to win Best Picture without having received a <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Director" title="Academy Award for Best Director">Best Director</a> nomination;and</li>
+	<li>Jessica Tandy, at age 80, became both the <a class="external" href="http://en.wikipedia.org/wiki/List_of_oldest_and_youngest_Academy_Award_winners_and_nominees" title="List of oldest and youngest Academy Award winners and nominees">oldest winner</a> and the <a class="external" href="http://en.wikipedia.org/wiki/List_of_oldest_and_youngest_Academy_Award_winners_and_nominees" title="List of oldest and youngest Academy Award winners and nominees">oldest nominee</a> ever in the history of the Best Actress category.</li>
+      </ul>
+      <p xmlns="http://www.w3.org/1999/xhtml"><i>Driving Miss Daisy</i> also won three <a class="external" href="http://en.wikipedia.org/wiki/Golden_Globe_Award" title="Golden Globe Award">Golden Globe Awards</a> (Best Picture, Best Actor <a class="external" href="http://en.wikipedia.org/wiki/Morgan_Freeman" title="Morgan Freeman">Morgan Freeman</a>, and Best Actress <a class="external" href="http://en.wikipedia.org/wiki/Jessica_Tandy" title="Jessica Tandy">Jessica Tandy</a>) in the Comedy/Musical genre. At the 1989 <a class="external" href="http://en.wikipedia.org/wiki/Writers_Guild_of_America_Award" title="Writers Guild of America Award">Writers Guild of America Awards</a>, the film won in the Best Adapted Screenplay category. Rounding out its <a class="external" href="http://en.wikipedia.org/wiki/United_States" title="United States">United States</a> awards, the film won both Best Picture and Best Actor from the <a class="external" href="http://en.wikipedia.org/wiki/National_Board_of_Review_of_Motion_Pictures" title="National Board of Review of Motion Pictures">National Board of Review of Motion Pictures</a>. In the <a class="external" href="http://en.wikipedia.org/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>, <i>Driving Miss Daisy</i> was nominated for four <a class="external" href="http://en.wikipedia.org/wiki/British_Academy_Film_Awards" title="British Academy Film Awards">British Academy Film Awards</a>, with Jessica Tandy winning in the Best Actress category.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Filming_locations">Filming locations</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Georgia_(U.S._state)" title="Georgia (U.S. state)">Georgia</a>, USA
+<ul>
+	    <li><a class="external" href="http://en.wikipedia.org/wiki/Atlanta,_Georgia" title="Atlanta, Georgia">Atlanta, Georgia</a>
+<ul>
+		<li>Fulton Supply Company</li>
+		<li>Euclid Avenue near the <a class="external" href="http://en.wikipedia.org/wiki/Little_Five_Points" title="Little Five Points">Little Five Points</a> intersection in the <a class="external" href="http://en.wikipedia.org/wiki/Inman_Park" title="Inman Park">Inman Park</a> Neighborhood</li>
+		<li>1589 <a class="external" href="http://en.wikipedia.org/wiki/Peachtree_Street" title="Peachtree Street">Peachtree Street</a> NE</li>
+		<li><a class="external" href="http://en.wikipedia.org/wiki/Castleberry_Hill" title="Castleberry Hill">Castleberry Hill</a></li>
+		<li><a class="external" href="http://en.wikipedia.org/wiki/Druid_Hills,_Georgia" title="Druid Hills, Georgia">Druid Hills, Georgia</a>
+<ul>
+		    <li>822 Lullwater Road</li>
+		  </ul>
+</li>
+	      </ul>
+</li>
+	    <li><a class="external" href="http://en.wikipedia.org/wiki/Decatur,_Georgia" title="Decatur, Georgia">Decatur, Georgia</a>
+<ul>
+		<li><a class="external" href="http://en.wikipedia.org/wiki/Agnes_Scott_College" title="Agnes Scott College">Agnes Scott College</a>, 141 E. College Avenue</li>
+	      </ul>
+</li>
+	    <li><a class="external" href="http://en.wikipedia.org/wiki/Douglasville,_Georgia" title="Douglasville, Georgia">Douglasville, Georgia</a></li>
+	    <li><a class="external" href="http://en.wikipedia.org/wiki/Griffin,_Georgia" title="Griffin, Georgia">Griffin, Georgia</a></li>
+	  </ul>
+</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Soundtrack">Soundtrack</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">The film's score was composed by <a class="external" href="http://en.wikipedia.org/wiki/Hans_Zimmer" title="Hans Zimmer">Hans Zimmer</a>, who won a <a class="external" href="http://en.wikipedia.org/wiki/Broadcast_Music_Incorporated" title="Broadcast Music Incorporated">BMI Film Music Award</a> and was nominated for a <a class="external" href="http://en.wikipedia.org/wiki/Grammy_Award" title="Grammy Award">Grammy Award</a> for Best Instrumental Composition Written for a Motion Picture or for Television for his work. The score was performed entirely by Zimmer, done electronically using samplers and synthesizers, and did not feature a single live instrument. There is a scene, however, in which the "Song to the Moon" from the opera <i><a class="external" href="http://en.wikipedia.org/wiki/Rusalka" title="Rusalka">Rusalka</a></i> by <a class="external" href="http://en.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k" title="AntonÃ­n DvoÅ™Ã¡k">AntonÃ­n DvoÅ™Ã¡k</a> is heard on the car radio as sung by <a class="external" href="http://en.wikipedia.org/wiki/Gabriela_Be%C5%88a%C4%8Dkov%C3%A1" title="Gabriela BeÅˆaÄ&#141;kovÃ¡">Gabriela BeÅˆaÄ&#141;kovÃ¡</a>. The soundtrack was issued on <a class="external" href="http://en.wikipedia.org/wiki/Var%C3%A8se_Sarabande" title="VarÃ¨se Sarabande">VarÃ¨se Sarabande</a>.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Home_release">Home release</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>U.S. release: April 30, 1997</li>
+	<li>Special edition: February 4, 2003</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="References">References</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/title/tt0097239/" rel="nofollow"><i>Driving Miss Daisy</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	<li><a href="http://www.allmovie.com/work/14828" rel="nofollow"><i>Driving Miss Daisy</i></a> at <a class="external" href="http://en.wikipedia.org/wiki/Allmovie" title="Allmovie">Allmovie</a></li>
+	<li><a href="http://www.boxofficemojo.com/movies/?id=drivingmissdaisy.htm" rel="nofollow"><i>Driving Miss Daisy</i></a> at <a class="external" href="http://en.wikipedia.org/wiki/Box_Office_Mojo" title="Box Office Mojo">Box Office Mojo</a></li>
+	<li><a href="http://www.rottentomatoes.com/m/driving_miss_daisy/" rel="nofollow"><i>Driving Miss Daisy</i></a> at <a class="external" href="http://en.wikipedia.org/wiki/Rotten_Tomatoes" title="Rotten Tomatoes">Rotten Tomatoes</a></li>
+	<li><i><a href="http://www.lortel.org/LLA_archive/index.cfm?search_by=show&amp;id=1345" rel="nofollow">Driving Miss Daisy</a></i> at the <a class="external" href="http://en.wikipedia.org/wiki/Lortel_Archives" title="Lortel Archives">Internet off-Broadway Database</a></li>
+	<li><a href="http://www.daisyonbroadway.com" rel="nofollow">Official Broadway Website</a></li>
+      </ul>
+    </wiki:description>
+  </wiki:film>
+</wiki:nominee>

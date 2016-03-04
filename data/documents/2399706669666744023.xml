@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="1989" span="1" winner="false" award="best-director" xmlns:wiki="http://marklogic.com/wikipedia">
+  <!--
+                            Copyright (c) 2010 MarkLogic Corporation.
+                            Permission is granted to copy, distribute and/or modify this document
+                            under the terms of the GNU Free Documentation License, Version 1.2
+                            or any later version published by the Free Software Foundation;
+                            with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+                            A copy of the license is included in the section entitled "GNU
+                            Free Documentation License"
+                            
+                            Content derived from http://en.wikipedia.org/wiki/My_Left_Foot_(film) and http://en.wikipedia.org/wiki/Jim_Sheridan
+                            Modified in May 2009 by Mark Logic Corporation under the terms of the GNU Free Documentation License.
+                        -->
+  <wiki:name link="/wiki/Jim_Sheridan">Jim Sheridan</wiki:name>
+  <wiki:person link="/wiki/Jim_Sheridan" name="Jim Sheridan">
+    <wiki:oscar year="1989" span="1" winner="false" award="best-director" film-link="/wiki/My_Left_Foot_(film)" film-title="My Left Foot"/>
+    <wiki:oscar year="1993" span="1" winner="false" award="best-director" film-link="/wiki/In_the_Name_of_the_Father_(film)" film-title="In the Name of the Father"/>
+    <wiki:image link="http://upload.wikimedia.org/wikipedia/en/3/39/Jimsher.jpg"/>
+    <wiki:birth>
+      <wiki:date>1949-02-06</wiki:date>
+      <wiki:place>
+	<wiki:primary link="/wiki/Dublin">Dublin</wiki:primary>
+	<wiki:secondary link="/wiki/Ireland">Ireland</wiki:secondary>
+      <enrich><woeid xmlns="http://where.yahooapis.com/v1/schema.rng">2345254</woeid><placeTypeName code="8" xmlns="http://where.yahooapis.com/v1/schema.rng">County</placeTypeName><name xmlns="http://where.yahooapis.com/v1/schema.rng">Dublin</name><country code="IE" type="Country" xmlns="http://where.yahooapis.com/v1/schema.rng">Ireland</country><admin1 code="IE-D" type="County" xmlns="http://where.yahooapis.com/v1/schema.rng">Dublin</admin1><admin2 xmlns="http://where.yahooapis.com/v1/schema.rng"/><admin3 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality1 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality2 xmlns="http://where.yahooapis.com/v1/schema.rng"/><postal xmlns="http://where.yahooapis.com/v1/schema.rng"/><centroid xmlns="http://where.yahooapis.com/v1/schema.rng"><latitude>53.404598</latitude><longitude>-6.305430</longitude></centroid><boundingBox xmlns="http://where.yahooapis.com/v1/schema.rng"><southWest><latitude>53.178749</latitude><longitude>-6.546810</longitude></southWest><northEast><latitude>53.638329</latitude><longitude>-5.995730</longitude></northEast></boundingBox><areaRank xmlns="http://where.yahooapis.com/v1/schema.rng">7</areaRank><popRank xmlns="http://where.yahooapis.com/v1/schema.rng">0</popRank></enrich></wiki:place>
+    </wiki:birth>
+    <wiki:description>
+      <p xmlns="http://www.w3.org/1999/xhtml"><b>Jim Sheridan</b> (born 6 February 1949) is an <a class="external" href="http://en.wikipedia.org/wiki/Republic_of_Ireland" title="Republic of Ireland">Irish</a> <a class="external" href="http://en.wikipedia.org/wiki/Film_director" title="Film director">film director</a>. A six-time <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award" title="Academy Award">Academy Award</a> nominee, Sheridan is perhaps best known for his films <i><a class="external" href="http://en.wikipedia.org/wiki/My_Left_Foot_(film)" title="My Left Foot (film)">My Left Foot</a></i>, <i><a class="external" href="http://en.wikipedia.org/wiki/In_the_Name_of_the_Father_(film)" title="In the Name of the Father (film)">In the Name of the Father</a></i>, <i><a class="external" href="http://en.wikipedia.org/wiki/Get_Rich_or_Die_Tryin%27_(film)" title="Get Rich or Die Tryin' (film)">Get Rich or Die Tryin'</a></i> and <i><a class="external" href="http://en.wikipedia.org/wiki/In_America_(film)" title="In America (film)">In America</a></i>.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Life_and_career">Life and career</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">Sheridan was born in <a class="external" href="http://en.wikipedia.org/wiki/Dublin" title="Dublin">Dublin</a>, the son of Anna and Peter Sheridan, an actor and railroad worker. Sheridan was initially educated by the <a class="external" href="http://en.wikipedia.org/wiki/Irish_Christian_Brothers" title="Irish Christian Brothers">Irish Christian Brothers</a> and later graduated from <a class="external" href="http://en.wikipedia.org/wiki/University_College_Dublin" title="University College Dublin">University College Dublin</a>. He emigrated to Canada and then New York City in 1981.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">In 1979 Jim, or Shay Sheridan wrote two plays. The first, an Irish beggar's opera called "The Ha'penny Place", was staged in the Project Arts Centre, and the second, a piece of <a class="external" href="http://en.wikipedia.org/wiki/Agitprop" title="Agitprop">agitprop</a> theatre called "The Last Post", was staged nearby in Connolly Hall. Interestingly, an actor called Jer O'Leary, a long time friend and political associate of Jim's, appeared in both these plays, and went on to appear in small parts in almost all of Sheridan's pictures. In 1989, he directed <i>My Left Foot</i>, which became a critical and commercial success and won <a class="external" href="http://en.wikipedia.org/wiki/Daniel_Day-Lewis" title="Daniel Day-Lewis">Daniel Day-Lewis</a> and <a class="external" href="http://en.wikipedia.org/wiki/Brenda_Fricker" title="Brenda Fricker">Brenda Fricker</a> Academy Awards. He followed that with <i><a class="external" href="http://en.wikipedia.org/wiki/The_Field" title="The Field">The Field</a></i> (with <a class="external" href="http://en.wikipedia.org/wiki/Richard_Harris_(actor)" title="Richard Harris (actor)">Richard Harris</a>) in 1990; then with <i><a class="external" href="http://en.wikipedia.org/wiki/In_the_Name_of_the_Father_(film)" title="In the Name of the Father (film)">In the Name of the Father</a></i> in 1993, a fictionalized re-telling of the case of the <a class="external" href="http://en.wikipedia.org/wiki/Guildford_Four" title="Guildford Four">Guildford Four</a>. In 1996 he co-wrote <i><a class="external" href="http://en.wikipedia.org/wiki/Some_Mother%27s_Son" title="Some Mother's Son">Some Mother's Son</a></i> with Terry George. <i><a class="external" href="http://en.wikipedia.org/wiki/The_Boxer_(film)" title="The Boxer (film)">The Boxer</a></i> (with <a class="external" href="http://en.wikipedia.org/wiki/Daniel_Day-Lewis" title="Daniel Day-Lewis">Daniel Day-Lewis</a>) was nominated for a <a class="external" href="http://en.wikipedia.org/wiki/Golden_Globe" title="Golden Globe">Golden Globe</a> for best film drama in 1997. In 2003, he released the semi-autobiographical <i><a class="external" href="http://en.wikipedia.org/wiki/In_America" title="In America">In America</a></i>, which tells the story of a family of Irish immigrants trying to succeed in New York. The film received positive reviews and earned <a class="external" href="http://en.wikipedia.org/wiki/Samantha_Morton" title="Samantha Morton">Samantha Morton</a> and <a class="external" href="http://en.wikipedia.org/wiki/Djimon_Hounsou" title="Djimon Hounsou">Djimon Hounsou</a> Academy Award nominations. In 2005 he released <i><a class="external" href="http://en.wikipedia.org/wiki/Get_Rich_or_Die_Tryin%27_(2005_film)" title="Get Rich or Die Tryin' (2005 film)">Get Rich or Die Tryin'</a></i>, a film starring rap star <a class="external" href="http://en.wikipedia.org/wiki/50_Cent" title="50 Cent">50 Cent</a>. He is connected with the upcoming film adaptation of <i><a class="external" href="http://en.wikipedia.org/wiki/Artemis_Fowl_(novel)" title="Artemis Fowl (novel)">Artemis Fowl</a></i> and is rumoured to have written the screenplay and been asked to direct it.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Sheridan helmed the 2009 film <i><a class="external" href="http://en.wikipedia.org/wiki/Brothers_(2009_film)" title="Brothers (2009 film)">Brothers</a></i>, starring <a class="external" href="http://en.wikipedia.org/wiki/Tobey_Maguire" title="Tobey Maguire">Tobey Maguire</a> and <a class="external" href="http://en.wikipedia.org/wiki/Jake_Gyllenhaal" title="Jake Gyllenhaal">Jake Gyllenhaal</a>, which was shot in New Mexico. He also directed the thriller <i><a class="external" href="http://en.wikipedia.org/wiki/Dream_House_(film)" title="Dream House (film)">Dream House</a></i>, which stars <a class="external" href="http://en.wikipedia.org/wiki/Daniel_Craig" title="Daniel Craig">Daniel Craig</a>, <a class="external" href="http://en.wikipedia.org/wiki/Naomi_Watts" title="Naomi Watts">Naomi Watts</a> and <a class="external" href="http://en.wikipedia.org/wiki/Rachel_Weisz" title="Rachel Weisz">Rachel Weisz</a>.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Sheridan has three daughters, Naomi Sheridan, <a class="external" href="http://en.wikipedia.org/wiki/Kirsten_Sheridan" title="Kirsten Sheridan">Kirsten Sheridan</a> and Tess Sheridan, with whom he has collaborated, most notably with Naomi and Kirsten on the screenplay for <i>In America</i>.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Filmography">Filmography</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/My_Left_Foot_(film)" title="My Left Foot (film)">My Left Foot</a></i> (1989)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Field" title="The Field">The Field</a></i> (1990)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/In_the_Name_of_the_Father_(film)" title="In the Name of the Father (film)">In the Name of the Father</a></i> (1993)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Some_Mother%27s_Son" title="Some Mother's Son">Some Mother's Son</a></i> (1996) (writing credit)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Boxer_(film)" title="The Boxer (film)">The Boxer</a></i> (1997)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/In_America" title="In America">In America</a></i> (2003)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Get_Rich_or_Die_Tryin%27_(2005_film)" title="Get Rich or Die Tryin' (2005 film)">Get Rich or Die Tryin'</a></i> (2005)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Brothers_(2009_film)" title="Brothers (2009 film)">Brothers</a></i> (2009)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Dream_House_(film)" title="Dream House (film)">Dream House</a></i> (2011)</li>
+	<li><i>Emerald City</i> (TBA)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Artemis_Fowl_(series)#Upcoming_film" title="Artemis Fowl (series)">Artemis Fowl</a></i> (TBA)</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Awards_and_nominations">Awards and nominations</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml"><i><b><a class="external" href="http://en.wikipedia.org/wiki/Academy_Awards" title="Academy Awards">Academy Awards</a></b></i></p>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>Best Original Screenplay - <i><a class="external" href="http://en.wikipedia.org/wiki/In_America" title="In America">In America</a></i> (2003) Nominated (as Co-Writer)</li>
+	<li>Best Adapted Screenplay - <i><a class="external" href="http://en.wikipedia.org/wiki/In_the_Name_of_the_Father_(film)" title="In the Name of the Father (film)">In the Name of the Father</a></i> (1993) Nominated (as Co-Writer)</li>
+	<li>Best Director - <i><a class="external" href="http://en.wikipedia.org/wiki/In_the_Name_of_the_Father_(film)" title="In the Name of the Father (film)">In the Name of the Father</a></i> (1993) Nominated (as Director)</li>
+	<li>Best Picture - <i><a class="external" href="http://en.wikipedia.org/wiki/In_the_Name_of_the_Father_(film)" title="In the Name of the Father (film)">In the Name of the Father</a></i> (1993) Nominated (as Co-Producer)</li>
+	<li>Best Adapted Screenplay - <i><a class="external" href="http://en.wikipedia.org/wiki/My_Left_Foot_(film)" title="My Left Foot (film)">My Left Foot</a></i> (1989) Nominated (as Co-Writer)</li>
+	<li>Best Director - <i><a class="external" href="http://en.wikipedia.org/wiki/My_Left_Foot_(film)" title="My Left Foot (film)">My Left Foot</a></i> (1989) Nominated (as Director)</li>
+      </ul>
+      <p xmlns="http://www.w3.org/1999/xhtml"><i><b><a class="external" href="http://en.wikipedia.org/wiki/BAFTAs" title="BAFTAs">British Academy Awards</a></b></i></p>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>Best Adapted Screenplay - <i><a class="external" href="http://en.wikipedia.org/wiki/In_the_Name_of_the_Father_(film)" title="In the Name of the Father (film)">In the Name of the Father</a></i> (1993) Nominated (as Co-Writer)</li>
+      </ul>
+      <p xmlns="http://www.w3.org/1999/xhtml"><i><b><a class="external" href="http://en.wikipedia.org/wiki/Golden_Globes" title="Golden Globes">Golden Globes</a></b></i></p>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>Best Screenplay - <i><a class="external" href="http://en.wikipedia.org/wiki/In_America" title="In America">In America</a></i> (2003) Nominated (as Co-Writer)</li>
+	<li>Best Director - <i><a class="external" href="http://en.wikipedia.org/wiki/The_Boxer_(film)" title="The Boxer (film)">The Boxer</a></i> (1997) Nominated</li>
+      </ul>
+      <p xmlns="http://www.w3.org/1999/xhtml"><i><b><a class="external" href="http://en.wikipedia.org/wiki/Independent_Spirit_Awards" title="Independent Spirit Awards">Independent Spirit Awards</a></b></i></p>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>Best Director - <i><a class="external" href="http://en.wikipedia.org/wiki/In_America" title="In America">In America</a></i> (2003) Nominated</li>
+      </ul>
+      <p xmlns="http://www.w3.org/1999/xhtml"><i><b><a class="external" href="http://en.wikipedia.org/wiki/National_Board_of_Review" title="National Board of Review">National Board of Review</a></b></i></p>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>Best Original Screenplay - <i><a class="external" href="http://en.wikipedia.org/wiki/In_America" title="In America">In America</a></i> (2003) Win (as Co-Writer)</li>
+      </ul>
+      <p xmlns="http://www.w3.org/1999/xhtml"><i><b><a class="external" href="http://en.wikipedia.org/wiki/Writers_Guild_of_America" title="Writers Guild of America">Writers Guild of America</a></b></i></p>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>Best Original Screenplay - <i><a class="external" href="http://en.wikipedia.org/wiki/In_America" title="In America">In America</a></i> (2003) Nominated (as Co-Writer)</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="References">References</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/name/nm0006487/" rel="nofollow">Jim Sheridan</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	<li><a href="http://www.lib.berkeley.edu/MRC/ukbib.html#sheridan" rel="nofollow">Jim Sheridan Bibliography</a> (via UC Berkeley)</li>
+      </ul>
+    </wiki:description>
+  </wiki:person>
+  <wiki:film-title link="/wiki/My_Left_Foot_(film)">My Left Foot</wiki:film-title>
+  <wiki:film link="/wiki/My_Left_Foot_(film)" title="My Left Foot">
+    <wiki:oscar-ref year="1989" span="1" winner="false" award="best-director" person-link="/wiki/Jim_Sheridan" person-name="Jim Sheridan"/>
+    <wiki:oscar-ref year="1989" span="1" winner="true" award="supporting-actress" person-link="/wiki/Brenda_Fricker" person-name="Brenda Fricker"/>
+    <wiki:oscar year="1989" span="1" winner="false" award="best-picture"/>
+    <wiki:producer link="/w/index.php?title=Noel_Pearson_(producer)&amp;action=edit&amp;redlink=1">Noel Pearson</wiki:producer>
+    <wiki:director link="/wiki/Jim_Sheridan">Jim Sheridan</wiki:director>
+    <wiki:writer link="/wiki/Christy_Brown">Christy Brown</wiki:writer>
+    <wiki:writer link="/wiki/Shane_Connaughton">Shane Connaughton</wiki:writer>
+    <wiki:distributor link="/w/index.php?title=Granada_Films&amp;action=edit&amp;redlink=1">Granada Films</wiki:distributor>
+    <wiki:distributor link="/wiki/Miramax_Films">Miramax Films</wiki:distributor>
+    <wiki:starring link="/wiki/Daniel_Day-Lewis">Daniel Day-Lewis</wiki:starring>
+    <wiki:starring link="/wiki/Ray_McAnally">Ray McAnally</wiki:starring>
+    <wiki:starring link="/wiki/Brenda_Fricker">Brenda Fricker</wiki:starring>
+    <wiki:starring link="/wiki/Hugh_O%27Conor">Hugh O'Conor</wiki:starring>
+    <wiki:description>
+      <p xmlns="http://www.w3.org/1999/xhtml"><i><b>My Left Foot: The Story of Christy Brown</b></i> is a 1989 Irish <a class="external" href="http://en.wikipedia.org/wiki/Drama_film" title="Drama film">drama film</a> directed by <a class="external" href="http://en.wikipedia.org/wiki/Jim_Sheridan" title="Jim Sheridan">Jim Sheridan</a> and starring <a class="external" href="http://en.wikipedia.org/wiki/Daniel_Day-Lewis" title="Daniel Day-Lewis">Daniel Day-Lewis</a>. It tells the true story of <a class="external" href="http://en.wikipedia.org/wiki/Christy_Brown" title="Christy Brown">Christy Brown</a>, an <a class="external" href="http://en.wikipedia.org/wiki/Ireland" title="Ireland">Irishman</a> born with <a class="external" href="http://en.wikipedia.org/wiki/Cerebral_palsy" title="Cerebral palsy">cerebral palsy</a>, who could control only his left foot. Christy Brown grew up in a poor, working class family, and became a writer and artist. The film also stars <a class="external" href="http://en.wikipedia.org/wiki/Ray_McAnally" title="Ray McAnally">Ray McAnally</a>, <a class="external" href="http://en.wikipedia.org/wiki/Brenda_Fricker" title="Brenda Fricker">Brenda Fricker</a>, <a class="external" href="http://en.wikipedia.org/wiki/Fiona_Shaw" title="Fiona Shaw">Fiona Shaw</a>, <a class="external" href="http://en.wikipedia.org/wiki/Julie_Hale" title="Julie Hale">Julie Hale</a>, Alison Whelan, Kirsten Sheridan, Declan Croghan, Eanna MacLiam, Marie Conmee, and <a class="external" href="http://en.wikipedia.org/wiki/Cyril_Cusack" title="Cyril Cusack">Cyril Cusack</a>. It was adapted by Shane Connaughton and Jim Sheridan from the <a class="external" href="http://en.wikipedia.org/wiki/My_Left_Foot_(book)" title="My Left Foot (book)">book of the same name</a> by <a class="external" href="http://en.wikipedia.org/wiki/Christy_Brown" title="Christy Brown">Christy Brown</a>.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">It won the <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actor" title="Academy Award for Best Actor">Academy Award for Best Actor</a> (Daniel Day-Lewis) and <a class="external" href="http://en.wikipedia.org/wiki/Best_Actress_in_a_Supporting_Role" title="Best Actress in a Supporting Role">Best Actress in a Supporting Role</a> (Brenda Fricker). It was also nominated for <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Directing" title="Academy Award for Directing">Best Director</a>, <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture" title="Academy Award for Best Picture">Best Picture</a> and <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Writing_Adapted_Screenplay" title="Academy Award for Writing Adapted Screenplay">Best Writing, Screenplay Based on Material from Another Medium</a>.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">It also won the <a class="external" href="http://en.wikipedia.org/wiki/New_York_Film_Critics_Circle_Awards_1989" title="New York Film Critics Circle Awards 1989">NYFCC Best Picture Award</a> for 1989.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Cast">Cast</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Daniel_Day-Lewis" title="Daniel Day-Lewis">Daniel Day-Lewis</a> as <a class="external" href="http://en.wikipedia.org/wiki/Christy_Brown" title="Christy Brown">Christy Brown</a></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Brenda_Fricker" title="Brenda Fricker">Brenda Fricker</a> as Bridget Brown</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Ray_McAnally" title="Ray McAnally">Ray McAnally</a> as Paddy Brown</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Fiona_Shaw" title="Fiona Shaw">Fiona Shaw</a> as Dr. Eileen Cole</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Hugh_O%27Conor" title="Hugh O'Conor">Hugh O'Conor</a> as young <a class="external" href="http://en.wikipedia.org/wiki/Christy_Brown" title="Christy Brown">Christy Brown</a></li>
+	<li>Kristen Sheridan as Sharon Brown</li>
+	<li>Alison Whelan as Sheila Brown</li>
+	<li>Eanna MacLiam as Benny Brown</li>
+	<li>Declan Croghan as Tom Brown</li>
+	<li>Marie Conremme as Sadie Brown</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Cyril_Cusack" title="Cyril Cusack">Cyril Cusack</a> as Lord Castlewelland</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Phelim_Drew" title="Phelim Drew">Phelim Drew</a> as Brian</li>
+	<li>Ruth McCabe as Mary Carr</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Awards_and_nominations">Awards and nominations</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">Awards that are in <b>bold</b> were won, while other awards listed are nominations only.</p>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>
+<ul>
+	    <li><b>Best Actor</b> (Daniel Day-Lewis)</li>
+	    <li><b>Best Supporting Actress</b> (Brenda Fricker)</li>
+	    <li>Best Director (Jim Sheridan)</li>
+	    <li>Best Picture</li>
+	    <li>Best Screenplay - Adapted (Shane Connaughton and Jim Sheridan)</li>
+	  </ul>
+</li>
+      </ul>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>
+<ul>
+	    <li><b>Best Actor</b> (Daniel Day-Lewis)</li>
+	    <li><b>Best Supporting Actor</b> (Ray McAnally)</li>
+	    <li>Best Film</li>
+	    <li>Best Makeup (Ken Jennings)</li>
+	    <li>Best Screenplay - Adapted (Shane Connaughton and Jim Sheridan)</li>
+	  </ul>
+</li>
+      </ul>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>
+<ul>
+	    <li>Best Actor (Daniel Day-Lewis)</li>
+	  </ul>
+</li>
+      </ul>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>
+<ul>
+	    <li>Best Actor (Daniel Day-Lewis)</li>
+	    <li>Best Supporting Actress (Brenda Fricker)</li>
+	  </ul>
+</li>
+      </ul>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>
+<ul>
+	    <li>Best Foreign Film</li>
+	  </ul>
+</li>
+      </ul>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>
+<ul>
+	    <li><b>Actor of the Year</b> (Daniel Day-Lewis)</li>
+	  </ul>
+</li>
+      </ul>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>
+<ul>
+	    <li><b>Best Actor</b> (Daniel Day-Lewis)</li>
+	    <li><b>Best Supporting Actress</b> (Brenda Fricker)</li>
+	  </ul>
+</li>
+      </ul>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>
+<ul>
+	    <li><b>Best Actor</b> (Daniel Day-Lewis)</li>
+	  </ul>
+</li>
+      </ul>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>
+<ul>
+	    <li><b>Best Actor</b> (Daniel Day-Lewis)</li>
+	    <li><b>Best Film</b></li>
+	  </ul>
+</li>
+      </ul>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>
+<ul>
+	    <li>Best Screenplay - Adapted (Shane Connaughton and Jim Sheridan)</li>
+	  </ul>
+</li>
+      </ul>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>
+<ul>
+	    <li>Best Motion Picture - Drama</li>
+	    <li>Best Young Supporting Actor - Motion Picture (<a class="external" href="http://en.wikipedia.org/wiki/Hugh_O%27Conor" title="Hugh O'Conor">Hugh O'Conor</a>)</li>
+	  </ul>
+</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Cultural_references">Cultural references</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>On the television sketch show <i><a class="external" href="http://en.wikipedia.org/wiki/In_Living_Color" title="In Living Color">In Living Color</a></i>, <a class="external" href="http://en.wikipedia.org/wiki/Jim_Carrey" title="Jim Carrey">Jim Carrey</a> played a Kickboxing expert who could only move his left foot. The sketch was known as <i>My Left Foot of Fury</i>.</li>
+	<li>An episode of <i><a class="external" href="http://en.wikipedia.org/wiki/The_Critic" title="The Critic">The Critic</a></i> has <a class="external" href="http://en.wikipedia.org/wiki/Jay_Sherman" title="Jay Sherman">Jay Sherman</a> wearing a <i>My Left Foot</i> sock, a promotion item given to him when viewing the film. In another episode dealing with classic films being updated with "happy endings", Jay states that he "doesn't want the guy from <i>My Left Foot</i> becoming a punter for <a class="external" href="http://en.wikipedia.org/wiki/The_Bears" title="The Bears">The Bears</a>".</li>
+	<li>In the animated T.V. series <i><a class="external" href="http://en.wikipedia.org/wiki/The_Marvelous_Misadventures_of_Flapjack" title="The Marvelous Misadventures of Flapjack">The Marvelous Misadventures of Flapjack</a></i>, a movie poster promoting a film called "My Left Tentacle" in front of a theater, a reference to the film; is seen as Flapjack leads Captain K'nuckles around the docks during the episode "Lead em' and Weep"</li>
+	<li>In the 1999 film, <i><a class="external" href="http://en.wikipedia.org/wiki/Flawless_(1999_film)" title="Flawless (1999 film)">Flawless</a></i>, Walter Koontz (<a class="external" href="http://en.wikipedia.org/wiki/Robert_De_Niro" title="Robert De Niro">Robert De Niro</a>) suffers a stroke and is partially disabled. When a <a class="external" href="http://en.wikipedia.org/wiki/Drag_queen" title="Drag queen">drag queen</a> meets him for the first time, he remarks, "You've got a kind of <i>My Left Foot</i> thing going on, huh?" For the rest of the movie, he refers to him as 'Mr. My Left Foot.'</li>
+	<li>In an episode of <i><a class="external" href="http://en.wikipedia.org/wiki/Family_Guy" title="Family Guy">Family Guy</a></i>, "<a class="external" href="http://en.wikipedia.org/wiki/Jungle_Love" title="Jungle Love">Jungle Love</a>", there is a flashback joke of <a class="external" href="http://en.wikipedia.org/wiki/Stewie_Griffin" title="Stewie Griffin">Stewie Griffin</a> performing a song and dance routine from a staged musical production of "My Left Foot", wherein Stewie, while seated in a wheelchair, performs an elaborate <a class="external" href="http://en.wikipedia.org/wiki/Tap_dance" title="Tap dance">tap dance</a> with only his left foot.</li>
+	<li>In an episode of <i><a class="external" href="http://en.wikipedia.org/wiki/Gilmore_Girls" title="Gilmore Girls">Gilmore Girls</a></i> <a class="external" href="http://en.wikipedia.org/wiki/Lorelai_Gilmore" title="Lorelai Gilmore">Lorelai</a> tells <a class="external" href="http://en.wikipedia.org/wiki/Luke_Danes" title="Luke Danes">Luke</a> that she was just doing a rendition of Daniel Day-Lewis' performance in <i>My Left Foot</i> and how she did it with her right foot to give a very different effect.</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="See_also">See also</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/BFI_Top_100_British_films" title="BFI Top 100 British films">BFI Top 100 British films</a></li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="References">References</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/title/tt0097937/" rel="nofollow"><i>My Left Foot (film)</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	<li><a href="http://tcmdb.com/title/title.jsp?stid=84348" rel="nofollow"><i>My Left Foot (film)</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Turner_Classic_Movies" title="Turner Classic Movies">TCM Movie Database</a></li>
+	<li><a href="http://www.boxofficemojo.com/movies/?id=myleftfoot.htm" rel="nofollow"><i>My Left Foot (film)</i></a> at <a class="external" href="http://en.wikipedia.org/wiki/Box_Office_Mojo" title="Box Office Mojo">Box Office Mojo</a></li>
+	<li><a href="http://vorontzov.com/2010/05/12/my-left-foot-dir-by-jim-sheridan-1989/" rel="nofollow">My Left Foot <span style="font-style:italic">(film)</span>, an attempt of interpretation</a></li>
+      </ul>
+    </wiki:description>
+  </wiki:film>
+</wiki:nominee>

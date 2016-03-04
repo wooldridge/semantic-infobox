@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="1928" span="2" winner="false" award="lead-actor" xmlns:wiki="http://marklogic.com/wikipedia">
+  <!--
+                            Copyright (c) 2010 MarkLogic Corporation.
+                            Permission is granted to copy, distribute and/or modify this document
+                            under the terms of the GNU Free Documentation License, Version 1.2
+                            or any later version published by the Free Software Foundation;
+                            with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+                            A copy of the license is included in the section entitled "GNU
+                            Free Documentation License"
+                            
+                            Content derived from http://en.wikipedia.org/wiki/Alibi_(1929_film) and http://en.wikipedia.org/wiki/Chester_Morris
+                            Modified in May 2009 by Mark Logic Corporation under the terms of the GNU Free Documentation License.
+                        -->
+  <wiki:name link="/wiki/Chester_Morris">Chester Morris</wiki:name>
+  <wiki:person link="/wiki/Chester_Morris" name="Chester Morris">
+    <wiki:oscar year="1928" span="2" winner="false" award="lead-actor" film-link="/wiki/Alibi_(1929_film)" film-title="Alibi"/>
+    <wiki:image link="http://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Chester_Morris_in_Corsair.jpg/220px-Chester_Morris_in_Corsair.jpg"/>
+    <wiki:birth>
+      <wiki:date>1901-02-16</wiki:date>
+      <wiki:place>
+	<wiki:primary link="/wiki/New_York_City,_New_York">New York City, New York</wiki:primary>
+	<wiki:secondary link=""/>
+      <enrich><woeid xmlns="http://where.yahooapis.com/v1/schema.rng">2347591</woeid><placeTypeName code="8" xmlns="http://where.yahooapis.com/v1/schema.rng">State</placeTypeName><name xmlns="http://where.yahooapis.com/v1/schema.rng">New York</name><country code="US" type="Country" xmlns="http://where.yahooapis.com/v1/schema.rng">United States</country><admin1 code="US-NY" type="State" xmlns="http://where.yahooapis.com/v1/schema.rng">New York</admin1><admin2 xmlns="http://where.yahooapis.com/v1/schema.rng"/><admin3 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality1 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality2 xmlns="http://where.yahooapis.com/v1/schema.rng"/><postal xmlns="http://where.yahooapis.com/v1/schema.rng"/><centroid xmlns="http://where.yahooapis.com/v1/schema.rng"><latitude>42.855350</latitude><longitude>-76.501671</longitude></centroid><boundingBox xmlns="http://where.yahooapis.com/v1/schema.rng"><southWest><latitude>40.496029</latitude><longitude>-79.761971</longitude></southWest><northEast><latitude>45.012810</latitude><longitude>-71.856247</longitude></northEast></boundingBox><areaRank xmlns="http://where.yahooapis.com/v1/schema.rng">11</areaRank><popRank xmlns="http://where.yahooapis.com/v1/schema.rng">0</popRank></enrich></wiki:place>
+    </wiki:birth>
+    <wiki:death>
+      <wiki:date>September 11, 1970</wiki:date>
+      <wiki:place>
+	<wiki:primary link="/wiki/New_Hope,_Pennsylvania">New Hope, Pennsylvania</wiki:primary>
+	<wiki:secondary link=""/>
+      </wiki:place>
+    </wiki:death>
+    <wiki:description>
+      <wiki:abstract>
+	<p xmlns="http://www.w3.org/1999/xhtml"><b>Chester Morris</b> (February 16, 1901 â€“ September 11, 1970) was an American actor, who starred in the <i><a class="external" href="http://en.wikipedia.org/wiki/Boston_Blackie" title="Boston Blackie">Boston Blackie</a></i> detective series of the 1940s.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Career">Career</span></h2>
+	<p xmlns="http://www.w3.org/1999/xhtml">He was born <b>John Chester Brooks Morris</b> in <a class="external" href="http://en.wikipedia.org/wiki/New_York_City" title="New York City">New York City</a>, the son of Broadway stage actor <a class="external" href="http://en.wikipedia.org/w/index.php?title=William_Morris_(actor)&amp;action=edit&amp;redlink=1" title="William Morris (actor) (page does not exist)">William Morris</a>. He made his Broadway debut at 17 in <a class="external" href="http://en.wikipedia.org/wiki/Lionel_Barrymore" title="Lionel Barrymore">Lionel Barrymore</a>'s <i>The Copperhead</i>. At 17, he billed himself as "the youngest leading man in the country". His film career began in 1917 in <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=An_Amateur_Orphan&amp;action=edit&amp;redlink=1" title="An Amateur Orphan (page does not exist)">An Amateur Orphan</a></i>. He was nominated for the <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actor" title="Academy Award for Best Actor">Academy Award for Best Actor</a> for <i><a class="external" href="http://en.wikipedia.org/wiki/Alibi_(1929_film)" title="Alibi (1929 film)">Alibi</a></i> (1929) directed by <a class="external" href="http://en.wikipedia.org/wiki/Roland_West" title="Roland West">Roland West</a>. He also starred in <i><a class="external" href="http://en.wikipedia.org/wiki/The_Bat_Whispers" title="The Bat Whispers">The Bat Whispers</a></i> (1930) and <i><a class="external" href="http://en.wikipedia.org/wiki/Corsair_(film)" title="Corsair (film)">Corsair</a></i> (1931), both directed by West.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">He starred in the early prison film <i><a class="external" href="http://en.wikipedia.org/wiki/The_Big_House_(1930_film)" title="The Big House (1930 film)">The Big House</a></i> (<a class="external" href="http://en.wikipedia.org/wiki/1930_in_film" title="1930 in film">1930</a>). His career gradually declined in the late <a class="external" href="http://en.wikipedia.org/wiki/1930_in_film" title="1930 in film">1930s</a>, with roles in <a class="external" href="http://en.wikipedia.org/wiki/B-movie" title="B-movie">B-movies</a> such as <i><a class="external" href="http://en.wikipedia.org/w/index.php?title=Smashing_the_Rackets&amp;action=edit&amp;redlink=1" title="Smashing the Rackets (page does not exist)">Smashing the Rackets</a></i> with <a class="external" href="http://en.wikipedia.org/wiki/Edward_J._Pawley" title="Edward J. Pawley">Edward J. Pawley</a> (<a class="external" href="http://en.wikipedia.org/wiki/1938_in_film" title="1938 in film">1938</a>) and <i><a class="external" href="http://en.wikipedia.org/wiki/Five_Came_Back" title="Five Came Back">Five Came Back</a></i> (<a class="external" href="http://en.wikipedia.org/wiki/1939_in_film" title="1939 in film">1939</a>). His career revived when from 1941 to 1949 he played the character <a class="external" href="http://en.wikipedia.org/wiki/Boston_Blackie" title="Boston Blackie">Boston Blackie</a> in 14 low-budget movies produced by <a class="external" href="http://en.wikipedia.org/wiki/Columbia_Pictures" title="Columbia Pictures">Columbia Pictures</a>, starting with <i><a class="external" href="http://en.wikipedia.org/wiki/Meet_Boston_Blackie" title="Meet Boston Blackie">Meet Boston Blackie</a></i>, and one season of radio shows.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">Through the 1950s and 1960s, Morris worked mainly in television, with a recurring role as detective Lieutenant Max Ritter in the <a class="external" href="http://en.wikipedia.org/wiki/CBS" title="CBS">CBS</a> summer replacement series, <i><a class="external" href="http://en.wikipedia.org/wiki/Diagnosis:_Unknown" title="Diagnosis: Unknown">Diagnosis: Unknown</a></i>, which aired from July to September 1960. He also made occasional forays into regional theatre, an exception being <i><a class="external" href="http://en.wikipedia.org/wiki/The_She_Creature" title="The She Creature">The She Creature</a></i>, where he played Dr. Carlo Lombardi. It was reported in <i>Variety</i> that Morris's <a class="external" href="http://en.wikipedia.org/wiki/Brylcreem" title="Brylcreem">Brylcreem</a> expenses exceeded any other item in the film's budget. After his last Boston Blackie movie, he only performed in three more films, including his final role in <i><a class="external" href="http://en.wikipedia.org/wiki/The_Great_White_Hope" title="The Great White Hope">The Great White Hope</a></i> (<a class="external" href="http://en.wikipedia.org/wiki/1970_in_film" title="1970 in film">1970</a>).</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Personal_life">Personal life</span></h2>
+      </wiki:abstract>
+      <p xmlns="http://www.w3.org/1999/xhtml">Morris was dying of cancer when he committed suicide in room 202 at the former Holiday Inn of New Hope by taking an overdose of <a class="external" href="http://en.wikipedia.org/wiki/Barbiturates" title="Barbiturates">barbiturates</a> in 1970. At the time of his death, he was appearing in a stage production of <i><a class="external" href="http://en.wikipedia.org/wiki/The_Caine_Mutiny_Court_Martial" title="The Caine Mutiny Court Martial">The Caine Mutiny Court Martial</a></i> at the <a class="external" href="http://en.wikipedia.org/wiki/Bucks_County_Playhouse" title="Bucks County Playhouse">Bucks County Playhouse</a> in <a class="external" href="http://en.wikipedia.org/wiki/New_Hope,_Pennsylvania" title="New Hope, Pennsylvania">New Hope, Pennsylvania</a>.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Partial_filmography">Partial filmography</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Alibi_(1929_film)" title="Alibi (1929 film)">Alibi</a></i> (1929)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/She_Couldn%27t_Say_No_(1930_film)" title="She Couldn't Say No (1930 film)">She Couldn't Say No</a></i> (1930)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Divorcee" title="The Divorcee">The Divorcee</a></i> (1930)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Big_House_(1930_film)" title="The Big House (1930 film)">The Big House</a></i> (1930)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Bat_Whispers" title="The Bat Whispers">The Bat Whispers</a></i> (1930)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Corsair_(film)" title="Corsair (film)">Corsair</a></i> (1931)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Miracle_Man_(1932_film)" title="The Miracle Man (1932 film)">The Miracle Man</a></i> (1932)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Red-Headed_Woman" title="Red-Headed Woman">Red-Headed Woman</a></i> (1932)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Blondie_Johnson" title="Blondie Johnson">Blondie Johnson</a></i> (1933)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Tomorrow_at_Seven" title="Tomorrow at Seven">Tomorrow at Seven</a></i> (1933)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Gay_Bride" title="The Gay Bride">The Gay Bride</a></i> (1934)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Public_Hero_No._1" title="Public Hero No. 1">Public Hero No. 1</a></i> (1935)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Three_Godfathers_(1936_film)" title="Three Godfathers (1936 film)">Three Godfathers</a></i> (1936)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Flight_From_Glory" title="Flight From Glory">Flight From Glory</a></i> (1937)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/w/index.php?title=Smashing_The_Rackets&amp;action=edit&amp;redlink=1" title="Smashing The Rackets (page does not exist)">Smashing The Rackets</a></i> (1938)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Blind_Alley_(film)" title="Blind Alley (film)">Blind Alley</a></i> (1939)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Five_Came_Back" title="Five Came Back">Five Came Back</a></i> (1939)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Thunder_Afloat" title="Thunder Afloat">Thunder Afloat</a></i> (1939)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/w/index.php?title=Pacific_Liner&amp;action=edit&amp;redlink=1" title="Pacific Liner (page does not exist)">Pacific Liner</a></i> (1939)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Meet_Boston_Blackie" title="Meet Boston Blackie">Meet Boston Blackie</a></i> (1941)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Aerial_Gunner" title="Aerial Gunner">Aerial Gunner</a></i> (1943)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Tornado_(1943_film)" title="Tornado (1943 film)">Tornado</a></i> (1943)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Chance_of_a_Lifetime" title="The Chance of a Lifetime">The Chance of a Lifetime</a></i> (1943)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Gambler%27s_Choice" title="Gambler's Choice">Gambler's Choice</a></i> (1944)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Double_Exposure_(1944_film)" title="Double Exposure (1944 film)">Double Exposure</a></i> (1944)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/w/index.php?title=One_Mysterious_Night&amp;action=edit&amp;redlink=1" title="One Mysterious Night (page does not exist)">One Mysterious Night</a></i> (1944)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Unchained_(film)" title="Unchained (film)">Unchained</a></i> (1955)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/The_She_Creature" title="The She Creature">The She Creature</a></i> (1957)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Great_White_Hope_(film)" title="The Great White Hope (film)">The Great White Hope</a></i> (1970)</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="References">References</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.chester-morris.com" rel="nofollow">The Chester Morris Web</a></li>
+	<li><a href="http://www.imdb.com/name/nm0606431/" rel="nofollow">Chester Morris</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	<li><a href="http://www.ibdb.com/person.asp?ID=53754" rel="nofollow">Chester Morris</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Broadway_Database" title="Internet Broadway Database">Internet Broadway Database</a></li>
+	<li><a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=8283" rel="nofollow">Chester Morris</a> at <a class="external" href="http://en.wikipedia.org/wiki/Find_a_Grave" title="Find a Grave">Find a Grave</a></li>
+      </ul>
+    </wiki:description>
+  </wiki:person>
+  <wiki:film-title link="/wiki/Alibi_(1929_film)">Alibi</wiki:film-title>
+  <wiki:film link="/wiki/Alibi_(1929_film)" title="Alibi">
+    <wiki:oscar-ref year="1928" span="2" winner="false" award="lead-actor" person-link="/wiki/Chester_Morris" person-name="Chester Morris"/>
+    <wiki:oscar year="1928" span="2" winner="false" award="best-picture"/>
+    <wiki:director link="/wiki/Roland_West">Roland West</wiki:director>
+    <wiki:writer link="/wiki/Elaine_Sterne_Carrington">Elaine Sterne Carrington</wiki:writer>
+    <wiki:distributor link="/wiki/United_Artists">United Artists</wiki:distributor>
+    <wiki:starring link="/wiki/Chester_Morris">Chester Morris</wiki:starring>
+    <wiki:starring link="/wiki/Mae_Busch">Mae Busch</wiki:starring>
+    <wiki:description>
+      <wiki:abstract>
+	<p xmlns="http://www.w3.org/1999/xhtml"><i><b>Alibi</b></i> is a 1929 American crime film written by <a class="external" href="http://en.wikipedia.org/wiki/Elaine_Sterne_Carrington" title="Elaine Sterne Carrington">Elaine Sterne Carrington</a>, <a class="external" href="http://en.wikipedia.org/wiki/J.C._Nugent" title="J.C. Nugent">J.C. Nugent</a>, <a class="external" href="http://en.wikipedia.org/wiki/C._Gardner_Sullivan" title="C. Gardner Sullivan">C. Gardner Sullivan</a>, <a class="external" href="http://en.wikipedia.org/wiki/Roland_West" title="Roland West">Roland West</a>, and <a class="external" href="http://en.wikipedia.org/wiki/John_Griffith_Wray" title="John Griffith Wray">John Griffith Wray</a> from the <a class="external" href="http://en.wikipedia.org/wiki/Stage_play" title="Stage play">stage play</a>, <i>Nightstick</i>, by Carrington, Nugent and Wray. The film was directed by <a class="external" href="http://en.wikipedia.org/wiki/Roland_West" title="Roland West">Roland West</a>. Alternate titles for the film include <i>The Perfect Alibi</i> and <i>Nightstick</i>.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">The movie is a crime melodrama starring <a class="external" href="http://en.wikipedia.org/wiki/Chester_Morris" title="Chester Morris">Chester Morris</a>, <a class="external" href="http://en.wikipedia.org/wiki/Harry_Stubbs" title="Harry Stubbs">Harry Stubbs</a>, <a class="external" href="http://en.wikipedia.org/wiki/Mae_Busch" title="Mae Busch">Mae Busch</a> and <a class="external" href="http://en.wikipedia.org/wiki/Eleanore_Griffith" title="Eleanore Griffith">Eleanore Griffith</a>. Director West experimented a great deal with sound, music, and camera angles.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Reception">Reception</span></h2>
+	<p xmlns="http://www.w3.org/1999/xhtml">The film was nominated for three <a class="external" href="http://en.wikipedia.org/wiki/Academy_Awards" title="Academy Awards">Academy Awards</a>, including one for <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actor" title="Academy Award for Best Actor">Best Actor in a Leading Role</a> (Chester Morris), <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Art_Direction" title="Academy Award for Best Art Direction">Best Art Direction</a> (<a class="external" href="http://en.wikipedia.org/wiki/William_Cameron_Menzies" title="William Cameron Menzies">William Cameron Menzies</a>) and <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture" title="Academy Award for Best Picture">Best Picture</a>.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+	<ul xmlns="http://www.w3.org/1999/xhtml">
+	  <li><a href="http://www.imdb.com/title/tt0019630/" rel="nofollow"><i>Alibi</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	  <li><a href="http://www.allmovie.com/work/83414" rel="nofollow"><i>Alibi</i></a> at <a class="external" href="http://en.wikipedia.org/wiki/Allmovie" title="Allmovie">Allmovie</a></li>
+	</ul>
+      </wiki:abstract>
+    </wiki:description>
+  </wiki:film>
+</wiki:nominee>

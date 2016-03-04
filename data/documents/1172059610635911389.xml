@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="1947" span="1" winner="false" award="best-picture" xmlns:wiki="http://marklogic.com/wikipedia">
+  <!--
+                            Copyright (c) 2010 MarkLogic Corporation.
+                            Permission is granted to copy, distribute and/or modify this document
+                            under the terms of the GNU Free Documentation License, Version 1.2
+                            or any later version published by the Free Software Foundation;
+                            with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+                            A copy of the license is included in the section entitled "GNU
+                            Free Documentation License"
+                            
+                            Content derived from http://en.wikipedia.org/wiki/Great_Expectations_(1946_film)
+                            Modified in May 2009 by Mark Logic Corporation under the terms of the GNU Free Documentation License.
+                        -->
+  <wiki:film-title link="/wiki/Great_Expectations_(1946_film)">Great Expectations</wiki:film-title>
+  <wiki:film link="/wiki/Great_Expectations_(1946_film)" title="Great Expectations">
+    <wiki:oscar-ref year="1947" span="1" winner="false" award="best-director" person-link="/wiki/David_Lean" person-name="David Lean"/>
+    <wiki:oscar year="1947" span="1" winner="false" award="best-picture"/>
+    <wiki:producer link="/wiki/Anthony_Havelock-Allan">Anthony Havelock-Allan</wiki:producer>
+    <wiki:producer link="/wiki/Ronald_Neame">Ronald Neame</wiki:producer>
+    <wiki:director link="/wiki/David_Lean">David Lean</wiki:director>
+    <wiki:writer link="/wiki/Anthony_Havelock-Allan">Anthony Havelock-Allan</wiki:writer>
+    <wiki:writer link="/wiki/Cecil_McGivern">Cecil McGivern</wiki:writer>
+    <wiki:writer link="/wiki/Ronald_Neame">Ronald Neame</wiki:writer>
+    <wiki:writer link="/wiki/Kay_Walsh">Kay Walsh</wiki:writer>
+    <wiki:writer link="/wiki/Charles_Dickens">Charles Dickens</wiki:writer>
+    <wiki:distributor link="/wiki/Rank_Organization">General Film Distributors (GFD) Ltd.</wiki:distributor>
+    <wiki:distributor link="/wiki/Universal_Studios">Universal Studios</wiki:distributor>
+    <wiki:starring link="/wiki/John_Mills">John Mills</wiki:starring>
+    <wiki:starring link="/wiki/Anthony_Wager">Anthony Wager</wiki:starring>
+    <wiki:starring link="/wiki/Jean_Simmons">Jean Simmons</wiki:starring>
+    <wiki:starring link="/wiki/Valerie_Hobson">Valerie Hobson</wiki:starring>
+    <wiki:starring link="/wiki/Alec_Guinness">Alec Guinness</wiki:starring>
+    <wiki:starring link="/wiki/Martita_Hunt">Martita Hunt</wiki:starring>
+    <wiki:starring link="/wiki/Finlay_Currie">Finlay Currie</wiki:starring>
+    <wiki:description>
+      <wiki:abstract>
+	<p xmlns="http://www.w3.org/1999/xhtml"><i><b>Great Expectations</b></i> is a 1946 <a class="external" href="http://en.wikipedia.org/wiki/Cinema_of_the_United_Kingdom" title="Cinema of the United Kingdom">British film</a> which won two <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award" title="Academy Award">Academy Awards</a> and was nominated for three others (best picture, best director and best screenplay). It was directed by <a class="external" href="http://en.wikipedia.org/wiki/David_Lean" title="David Lean">David Lean</a>, based on the <a class="external" href="http://en.wikipedia.org/wiki/Great_Expectations" title="Great Expectations">novel</a> by <a class="external" href="http://en.wikipedia.org/wiki/Charles_Dickens" title="Charles Dickens">Charles Dickens</a> and stars <a class="external" href="http://en.wikipedia.org/wiki/John_Mills" title="John Mills">John Mills</a>, <a class="external" href="http://en.wikipedia.org/wiki/Valerie_Hobson" title="Valerie Hobson">Valerie Hobson</a>, <a class="external" href="http://en.wikipedia.org/wiki/Finlay_Currie" title="Finlay Currie">Finlay Currie</a>, <a class="external" href="http://en.wikipedia.org/wiki/Martita_Hunt" title="Martita Hunt">Martita Hunt</a> and <a class="external" href="http://en.wikipedia.org/wiki/Alec_Guinness" title="Alec Guinness">Alec Guinness</a>. <a class="external" href="http://en.wikipedia.org/wiki/Jean_Simmons" title="Jean Simmons">Jean Simmons</a>, who played the role of the young Estella in the film, later played Miss Havisham in a <a class="external" href="http://en.wikipedia.org/wiki/Great_Expectations_(1989_film)" title="Great Expectations (1989 film)">1989 version</a> directed by <a class="external" href="http://en.wikipedia.org/wiki/Kevin_Connor_(director)" title="Kevin Connor (director)">Kevin Connor</a>.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">The script, a slimmed-down version of Dickens's novel which had been inspired after seeing an abridged stage version of the novel, in which Alec Guinness (responsible for the adaptation) played Herbert Pocket and Martita Hunt was Miss Havisham â€“ casting that was carried over into the film - was written by <a class="external" href="http://en.wikipedia.org/wiki/Anthony_Havelock-Allan" title="Anthony Havelock-Allan">Anthony Havelock-Allan</a>, <a class="external" href="http://en.wikipedia.org/wiki/David_Lean" title="David Lean">David Lean</a>, <a class="external" href="http://en.wikipedia.org/wiki/Cecil_McGivern" title="Cecil McGivern">Cecil McGivern</a>, <a class="external" href="http://en.wikipedia.org/wiki/Ronald_Neame" title="Ronald Neame">Ronald Neame</a> and <a class="external" href="http://en.wikipedia.org/wiki/Kay_Walsh" title="Kay Walsh">Kay Walsh</a>. The film was produced by Ronald Neame and photographed by <a class="external" href="http://en.wikipedia.org/wiki/Guy_Green_(director)" title="Guy Green (director)">Guy Green</a>. It was the first of two films Lean directed based on Dickens' novels, the other being his 1948 adaptation of <i><a class="external" href="http://en.wikipedia.org/wiki/Oliver_Twist_(1948_film)" title="Oliver Twist (1948 film)">Oliver Twist</a></i>.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Plot">Plot</span></h2>
+	<p xmlns="http://www.w3.org/1999/xhtml">An orphan, Phillip "Pip" Pirrip (<a class="external" href="http://en.wikipedia.org/wiki/Anthony_Wager" title="Anthony Wager">Anthony Wager</a>), lives with his shrewish older sister and her kind-hearted blacksmith husband, Joe Gargery (<a class="external" href="http://en.wikipedia.org/wiki/Bernard_Miles" title="Bernard Miles">Bernard Miles</a>). One day, Pip runs into an escaped convict, Abel Magwitch (<a class="external" href="http://en.wikipedia.org/wiki/Finlay_Currie" title="Finlay Currie">Finlay Currie</a>). Magwitch intimidates the boy into getting him some food and a file for his chains. However, the man is caught when he attacks another escapee he hates and is taken back to prison.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">Later, Miss Havisham (<a class="external" href="http://en.wikipedia.org/wiki/Martita_Hunt" title="Martita Hunt">Martita Hunt</a>), a rich, aloof spinster arranges to have the boy come to her mansion regularly, to provide her company and to play with a cruel but beautiful teenage girl, Estella (<a class="external" href="http://en.wikipedia.org/wiki/Jean_Simmons" title="Jean Simmons">Jean Simmons</a>). Estella mocks Pip's coarse manners at every opportunity, but Pip quickly falls in love with her. Once, he meets one of Miss Havisham's relations, Herbert Pocket (John Forrest), a boy about his age. Pip also bumps into Mr. Jaggers (<a class="external" href="http://en.wikipedia.org/wiki/Francis_L._Sullivan" title="Francis L. Sullivan">Francis L. Sullivan</a>), Miss Havisham's lawyer. The visits come to an end when Pip turns 14 and begins his apprenticeship as a blacksmith. Estella leaves also, to learn to become a lady.</p>
+      </wiki:abstract>
+      <p xmlns="http://www.w3.org/1999/xhtml">After Pip turns 21, a visit from Joe Gargery shows that Pip has become a snob, as evidenced by his ill-concealed irritation at Joe's clumsy manners. Joe brings a request from Miss Havisham to see her. There he is delighted to be reunited with Estella (<a class="external" href="http://en.wikipedia.org/wiki/Valerie_Hobson" title="Valerie Hobson">Valerie Hobson</a>), though she warns him point-blank, "You must know, Pip, I have no heart," but Pip does not believe it. She is about to enter London society. Estella and Pip spend much time together, though she flirts with many men, especially the unpopular, though wealthy and well-born Bentley Drummle, much to Pip's disgust. However, she confesses to Pip that though she flirts with Drummle, she has absolutely no feelings for him.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Pip receives another visitor from the past. Magwitch appears and tells Pip that he is his patron, not Miss Havisham. Mr. Jaggers confirms the news, if indirectly, inasmuch as Magwitch has apparently been <a class="external" href="http://en.wikipedia.org/wiki/Transportation" title="Transportation">transported</a> to Australia (where he made the fortune that has paid for Pip's refinement) and will be hanged if found in England. When Jagger's assistant, Mr. Wemmick, warns Pip that an old enemy (the other escapee at the beginning of the film) knows that Magwitch is in London, Pip makes preparations to smuggle the old man onto a <a class="external" href="http://en.wikipedia.org/wiki/Packet_boat" title="Packet boat">packet boat</a> and accompany him to the Continent.</p>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>The happy ending of the film differs greatly from the novel, which takes place 11 years after most of the events and is slightly more ambiguous.</li>
+	<li>The characters of Orlick, Matthew and Belinda Pocket, Startop, Mr. and Mrs. Hubbard, Mr. Creppock, Mrs. Wopsle, Mr. Barley, The Society of the Finches and Miss Skiffins are omitted.</li>
+	<li>The convict who is Magwitch's nemesis is not named in the film. It is revealed in the novel that he is Compyeson, the man who jilted Miss Havisham.</li>
+	<li>Pip's sister's assault at the hands of Orlick is deleted; instead she dies of illness far earlier than she does in the novel.</li>
+	<li>Biddy is portrayed as being closer to Joe's age than Pip's, and Pip never intends to marry her as he does in the book.</li>
+	<li>In the novel, the immolation of Miss Havisham happens later, after Estella is married, and is not immediately fatal. She instead passes away during Pip's illness.</li>
+	<li>Wemmick's dual personality is only briefly shown.</li>
+	<li>Drummle does not appear until after Estella arrives in London, and he does in fact marry her in the novel.</li>
+	<li>Estella's true parentage is never revealed to her in the novel.</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Cast">Cast</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/John_Mills" title="John Mills">John Mills</a> as Pip as an adult</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Jean_Simmons" title="Jean Simmons">Jean Simmons</a> as <a class="external" href="http://en.wikipedia.org/wiki/Estella_Havisham" title="Estella Havisham">Estella</a> as a girl</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Valerie_Hobson" title="Valerie Hobson">Valerie Hobson</a> as Estella as an adult</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Martita_Hunt" title="Martita Hunt">Martita Hunt</a> as Miss Havisham</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Finlay_Currie" title="Finlay Currie">Finlay Currie</a> as <a class="external" href="http://en.wikipedia.org/wiki/Abel_Magwitch" title="Abel Magwitch">Abel Magwitch</a></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Francis_L._Sullivan" title="Francis L. Sullivan">Francis L. Sullivan</a> as Mr. Jaggers</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Bernard_Miles" title="Bernard Miles">Bernard Miles</a> as Joe Gargery</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Alec_Guinness" title="Alec Guinness">Alec Guinness</a> as Herbert Pocket as an adult</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Anthony_Wager" title="Anthony Wager">Anthony Wager</a> as Pip as a boy</li>
+	<li><a class="external" href="http://en.wikipedia.org/w/index.php?title=John_Forrest_(actor)&amp;action=edit&amp;redlink=1" title="John Forrest (actor) (page does not exist)">John Forrest</a> as Herbert Pocket as a boy</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Freda_Jackson" title="Freda Jackson">Freda Jackson</a> as Mrs. Joe Gargery</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Ivor_Barnard" title="Ivor Barnard">Ivor Barnard</a> as Mr. Wemmick</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Torin_Thatcher" title="Torin Thatcher">Torin Thatcher</a> as Bentley Drummle</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/O.B._Clarence" title="O.B. Clarence">O.B. Clarence</a> as The Aged Parent</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Reception">Reception</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">The film won critical praises upon release, with many of them hailing it as the finest film yet made from a Dickens' novel. In 1999, it came fifth in a <a class="external" href="http://en.wikipedia.org/wiki/BFI_Top_100_British_films" title="BFI Top 100 British films">BFI poll of the top 100 British films</a>, while in 2004, <i><a class="external" href="http://en.wikipedia.org/wiki/Total_Film" title="Total Film">Total Film</a></i> named it the fourteenth greatest British film of all time.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml"><i>Great Expectations</i> won <a class="external" href="http://en.wikipedia.org/wiki/Academy_Awards" title="Academy Awards">Academy Awards</a> for <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Art_Direction" title="Academy Award for Best Art Direction">Best Art Direction-Set Decoration, Black-and-White</a> (<a class="external" href="http://en.wikipedia.org/wiki/John_Bryan_(art_director)" title="John Bryan (art director)">John Bryan</a>, <a class="external" href="http://en.wikipedia.org/wiki/Wilfred_Shingleton" title="Wilfred Shingleton">Wilfred Shingleton</a>) and <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Cinematography" title="Academy Award for Best Cinematography">Best Cinematography, Black-and-White</a>, and was nominated for <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Directing" title="Academy Award for Directing">Best Director</a>, <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture" title="Academy Award for Best Picture">Best Picture</a> and <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Writing_Adapted_Screenplay" title="Academy Award for Writing Adapted Screenplay">Best Writing, Screenplay</a>.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="See_also">See also</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/BFI_Top_100_British_films" title="BFI Top 100 British films">BFI Top 100 British films</a></li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="References">References</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>The Great British Films, pp 102â€“105, Jerry Vermilye, 1978, Citadel Press, <a class="external" href="http://en.wikipedia.org/wiki/Special:BookSources/080650661X">ISBN 080650661X</a></li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/title/tt0038574/" rel="nofollow"><i>Great Expectations</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	<li><i><a href="http://www.archive.org/details/GreatExpectations1946" rel="nofollow">Great Expectations</a></i> available for free download at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Archive" title="Internet Archive">Internet Archive</a> <small>[</small><a class="external" href="http://en.wikipedia.org/wiki/Special:WhatLinksHere/Template:Internet_Archive_film" title="Special:WhatLinksHere/Template:Internet Archive film"><small><i>more</i></small></a><small>]</small></li>
+	<li><a href="http://www.screenonline.org.uk/film/id/459186/" rel="nofollow"><i>Great Expectations</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/British_Film_Institute" title="British Film Institute">British Film Institute</a>'s <a class="external" href="http://en.wikipedia.org/wiki/Screenonline" title="Screenonline">Screenonline</a></li>
+	<li><a href="http://www.allmovie.com/work/20656" rel="nofollow"><i>Great Expectations</i></a> at <a class="external" href="http://en.wikipedia.org/wiki/Allmovie" title="Allmovie">Allmovie</a></li>
+	<li><a href="http://tcmdb.com/title/title.jsp?stid=76862" rel="nofollow"><i>Great Expectations (1946 film)</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Turner_Classic_Movies" title="Turner Classic Movies">TCM Movie Database</a></li>
+      </ul>
+    </wiki:description>
+  </wiki:film>
+</wiki:nominee>

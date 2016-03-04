@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="1936" span="1" winner="false" award="best-picture" xmlns:wiki="http://marklogic.com/wikipedia">
+  <!--
+                            Copyright (c) 2010 MarkLogic Corporation.
+                            Permission is granted to copy, distribute and/or modify this document
+                            under the terms of the GNU Free Documentation License, Version 1.2
+                            or any later version published by the Free Software Foundation;
+                            with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+                            A copy of the license is included in the section entitled "GNU
+                            Free Documentation License"
+                            
+                            Content derived from http://en.wikipedia.org/wiki/Dodsworth_(film)
+                            Modified in May 2009 by Mark Logic Corporation under the terms of the GNU Free Documentation License.
+                        -->
+  <wiki:film-title link="/wiki/Dodsworth_(film)">Dodsworth</wiki:film-title>
+  <wiki:film link="/wiki/Dodsworth_(film)" title="Dodsworth">
+    <wiki:oscar-ref year="1936" span="1" winner="false" award="lead-actor" person-link="/wiki/Walter_Huston" person-name="Walter Huston"/>
+    <wiki:oscar-ref year="1936" span="1" winner="false" award="best-director" person-link="/wiki/William_Wyler" person-name="William Wyler"/>
+    <wiki:oscar-ref year="1936" span="1" winner="false" award="supporting-actress" person-link="/wiki/Maria_Ouspenskaya" person-name="Maria Ouspenskaya"/>
+    <wiki:oscar year="1936" span="1" winner="false" award="best-picture"/>
+    <wiki:producer link="/wiki/Samuel_Goldwyn">Samuel Goldwyn</wiki:producer>
+    <wiki:director link="/wiki/William_Wyler">William Wyler</wiki:director>
+    <wiki:writer link="/wiki/Sidney_Howard">Sidney Howard</wiki:writer>
+    <wiki:writer link="/wiki/Sinclair_Lewis">Sinclair Lewis</wiki:writer>
+    <wiki:distributor link="/wiki/United_Artists">United Artists</wiki:distributor>
+    <wiki:starring link="/wiki/Walter_Huston">Walter Huston</wiki:starring>
+    <wiki:starring link="/wiki/Ruth_Chatterton">Ruth Chatterton</wiki:starring>
+    <wiki:starring link="/wiki/Paul_Lukas">Paul Lukas</wiki:starring>
+    <wiki:starring link="/wiki/Mary_Astor">Mary Astor</wiki:starring>
+    <wiki:description>
+      <p xmlns="http://www.w3.org/1999/xhtml"><i><b>Dodsworth</b></i> is a <a class="external" href="http://en.wikipedia.org/wiki/1936_in_film" title="1936 in film">1936</a> <a class="external" href="http://en.wikipedia.org/wiki/United_States" title="United States">American</a> <a class="external" href="http://en.wikipedia.org/wiki/Drama_film" title="Drama film">drama film</a> directed by <a class="external" href="http://en.wikipedia.org/wiki/William_Wyler" title="William Wyler">William Wyler</a>. <a class="external" href="http://en.wikipedia.org/wiki/Sidney_Howard" title="Sidney Howard">Sidney Howard</a> based the screenplay on his <a class="external" href="http://en.wikipedia.org/wiki/Dodsworth_(play)" title="Dodsworth (play)">1934 stage adaptation</a> of <a class="external" href="http://en.wikipedia.org/wiki/Dodsworth" title="Dodsworth">the 1929 novel</a> by <a class="external" href="http://en.wikipedia.org/wiki/Sinclair_Lewis" title="Sinclair Lewis">Sinclair Lewis</a>. Through the title character, it examines the differences between US and European intellect, manners, and morals.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Synopsis">Synopsis</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">Middle-aged Sam Dodsworth is the head of Dodsworth Motor Company, an automobile manufacturing firm. His wife Fran, a shallow and vain woman obsessed with the notion of growing old, convinces her spouse Sam to sell his interest in the company and take her to <a class="external" href="http://en.wikipedia.org/wiki/Europe" title="Europe">Europe</a>. Before long, Fran begins to view herself as a sophisticated world traveler and Sam as boring and unimaginative. Searching for excitement in her life, she begins spending time with other men and eventually informs Sam that she's leaving him for a member of the <a class="external" href="http://en.wikipedia.org/wiki/Nobility" title="Nobility">nobility</a>. While in <a class="external" href="http://en.wikipedia.org/wiki/Italy" title="Italy">Italy</a>, Sam reunites with Edith Cortright, a divorcee he first met aboard the <a class="external" href="http://en.wikipedia.org/wiki/RMS_Queen_Mary" title="RMS Queen Mary">Queen Mary</a> en route to Europe, and the two fall in love. When Fran's plans to marry the nobleman fall through and she calls off the divorce, Sam rejoins her on a ship to sail back to America but in the climactic scene, Sam realizes his marriage to Fran is over and gets off the ship at the last moment to rejoin Edith after he realizes just how much he cares for her.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Production_notes">Production notes</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml"><a class="external" href="http://en.wikipedia.org/wiki/Walter_Huston" title="Walter Huston">Walter Huston</a> appeared in the 1934 <a class="external" href="http://en.wikipedia.org/wiki/Broadway_theatre" title="Broadway theatre">Broadway</a> production, which co-starred <a class="external" href="http://en.wikipedia.org/wiki/Fay_Bainter" title="Fay Bainter">Fay Bainter</a> as Fran. Huston recreated his role yet again for a <a class="external" href="http://en.wikipedia.org/wiki/Lux_Radio_Theatre" title="Lux Radio Theatre">Lux Radio Theatre</a> broadcast in October 1937 .</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">This was one of two 1936 films based on plays directed by William Wyler. The other was <i><a class="external" href="http://en.wikipedia.org/wiki/These_Three" title="These Three">These Three</a></i> starring <a class="external" href="http://en.wikipedia.org/wiki/Miriam_Hopkins" title="Miriam Hopkins">Miriam Hopkins</a> which was an adaptation of <a class="external" href="http://en.wikipedia.org/wiki/Lillian_Hellman" title="Lillian Hellman">Lillian Hellman</a>'s <i><a class="external" href="http://en.wikipedia.org/wiki/The_Children%27s_Hour_(play)" title="The Children's Hour (play)">The Children's Hour</a></i> that was sanitized to meet the <a class="external" href="http://en.wikipedia.org/wiki/Production_Code" title="Production Code">Production Code</a>'s standards.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">The film was named one of the year's ten best by the <i><a class="external" href="http://en.wikipedia.org/wiki/New_York_Times" title="New York Times">New York Times</a></i> and was one of the top twenty <a class="external" href="http://en.wikipedia.org/wiki/Box_office" title="Box office">box office</a> films of the year.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">In 1990, <i>Dodsworth</i> was selected for preservation in the United States <a class="external" href="http://en.wikipedia.org/wiki/National_Film_Registry" title="National Film Registry">National Film Registry</a>. In 2005, <i><a class="external" href="http://en.wikipedia.org/wiki/Time_(magazine)" title="Time (magazine)">Time</a></i> named it one of the 100 best movies of the past 80 years .</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Principal_cast">Principal cast</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Walter_Huston" title="Walter Huston">Walter Huston</a> ..... Sam Dodsworth</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Ruth_Chatterton" title="Ruth Chatterton">Ruth Chatterton</a> ..... Fran Dodsworth</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Paul_Lukas" title="Paul Lukas">Paul Lukas</a> ..... Arnold Iselin</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Mary_Astor" title="Mary Astor">Mary Astor</a> ..... Mrs. Edith Cortright</li>
+	<li><a class="external" href="http://en.wikipedia.org/w/index.php?title=Kathryn_Marlowe&amp;action=edit&amp;redlink=1" title="Kathryn Marlowe (page does not exist)">Kathryn Marlowe</a> ..... Emily Dodsworth McKee</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/David_Niven" title="David Niven">David Niven</a> ..... Captain Clyde Lockert</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Gregory_Gaye" title="Gregory Gaye">Gregory Gaye</a> ..... Baron Kurt Von Obersdorf</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Maria_Ouspenskaya" title="Maria Ouspenskaya">Maria Ouspenskaya</a> .....Baroness Von Obersdorf</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Spring_Byington" title="Spring Byington">Spring Byington</a> ..... Matey Pearson</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Odette_Myrtil" title="Odette Myrtil">Odette Myrtil</a> .... RenÃ©e De Penable</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Principal_production_credits">Principal production credits</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Film_producer" title="Film producer">Producers</a> ..... <a class="external" href="http://en.wikipedia.org/wiki/Samuel_Goldwyn" title="Samuel Goldwyn">Samuel Goldwyn</a>, Merritt Hulburd</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Film_score" title="Film score">Original Music</a> ..... <a class="external" href="http://en.wikipedia.org/wiki/Alfred_Newman" title="Alfred Newman">Alfred Newman</a></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Cinematography" title="Cinematography">Cinematography</a> ..... <a class="external" href="http://en.wikipedia.org/wiki/Rudolph_Mat%C3%A9" title="Rudolph MatÃ©">Rudolph MatÃ©</a></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Art_director" title="Art director">Art Direction</a> ..... Richard Day</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Costume_Design" title="Costume Design">Costume Design</a> ..... Omar Kiam</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Critical_reception">Critical reception</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">In his review in the <i>New York Times</i>, Frank S. Nugent described it as "admirable" and added, "William Wyler . . . has had the skill to execute it in cinematic terms, and a gifted cast has been able to bring the whole alive to our complete satisfaction . . . [the film] has done more than justice to Mr. Howard's play, converting a necessarily episodic tale . . . into a smooth-flowing narrative of sustained interest, well-defined performance and good talk." </p>
+      <p xmlns="http://www.w3.org/1999/xhtml"><i>Time</i> said it was "directed with a proper understanding of its values by William Wyler, splendidly cast and brilliantly played." </p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Awards_and_nominations">Awards and nominations</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture" title="Academy Award for Best Picture">Academy Award for Best Picture</a> (nominee) </li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actor" title="Academy Award for Best Actor">Academy Award for Best Actor</a> (Walter Huston, nominee)</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Supporting_Actress" title="Academy Award for Best Supporting Actress">Academy Award for Best Supporting Actress</a> (Maria Ouspenskaya, nominee)</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Directing" title="Academy Award for Directing">Academy Award for Best Director</a> (nominee)</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Art_Direction" title="Academy Award for Best Art Direction">Academy Award for Best Art Direction</a> (<b>winner</b>)</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Sound" title="Academy Award for Sound">Academy Award for Best Sound, Recording</a> (nominee)</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Writing_Adapted_Screenplay" title="Academy Award for Writing Adapted Screenplay">Academy Award for Best Writing, Screenplay</a> (nominee)</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="References">References</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/title/tt0027532/" rel="nofollow"><i>Dodsworth</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+      </ul>
+    </wiki:description>
+  </wiki:film>
+</wiki:nominee>

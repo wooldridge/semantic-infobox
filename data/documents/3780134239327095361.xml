@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="1949" span="1" winner="false" award="best-picture" xmlns:wiki="http://marklogic.com/wikipedia">
+  <!--
+                            Copyright (c) 2010 MarkLogic Corporation.
+                            Permission is granted to copy, distribute and/or modify this document
+                            under the terms of the GNU Free Documentation License, Version 1.2
+                            or any later version published by the Free Software Foundation;
+                            with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+                            A copy of the license is included in the section entitled "GNU
+                            Free Documentation License"
+                            
+                            Content derived from http://en.wikipedia.org/wiki/The_Heiress
+                            Modified in May 2009 by Mark Logic Corporation under the terms of the GNU Free Documentation License.
+                        -->
+  <wiki:film-title link="/wiki/The_Heiress">The Heiress</wiki:film-title>
+  <wiki:film link="/wiki/The_Heiress" title="The Heiress">
+    <wiki:oscar-ref year="1949" span="1" winner="true" award="lead-actress" person-link="/wiki/Olivia_de_Havilland" person-name="Olivia de Havilland"/>
+    <wiki:oscar-ref year="1949" span="1" winner="false" award="best-director" person-link="/wiki/William_Wyler" person-name="William Wyler"/>
+    <wiki:oscar-ref year="1949" span="1" winner="false" award="supporting-actor" person-link="/wiki/Ralph_Richardson" person-name="Ralph Richardson"/>
+    <wiki:oscar year="1949" span="1" winner="false" award="best-picture"/>
+    <wiki:producer link="/wiki/William_Wyler">William Wyler</wiki:producer>
+    <wiki:director link="/wiki/William_Wyler">William Wyler</wiki:director>
+    <wiki:writer link="/wiki/Henry_James">Henry James</wiki:writer>
+    <wiki:writer link="/w/index.php?title=Ruth_Goetz&amp;action=edit&amp;redlink=1">Ruth Goetz</wiki:writer>
+    <wiki:writer link="/w/index.php?title=Augustus_Goetz&amp;action=edit&amp;redlink=1">Augustus Goetz</wiki:writer>
+    <wiki:distributor link="/wiki/Paramount_Pictures">Paramount Pictures</wiki:distributor>
+    <wiki:starring link="/wiki/Olivia_de_Havilland">Olivia de Havilland</wiki:starring>
+    <wiki:starring link="/wiki/Montgomery_Clift">Montgomery Clift</wiki:starring>
+    <wiki:starring link="/wiki/Ralph_Richardson">Ralph Richardson</wiki:starring>
+    <wiki:starring link="/wiki/Miriam_Hopkins">Miriam Hopkins</wiki:starring>
+    <wiki:starring link="/wiki/Ray_Collins_(actor)">Ray Collins</wiki:starring>
+    <wiki:description>
+      <wiki:abstract>
+	<p xmlns="http://www.w3.org/1999/xhtml"><i><b>The Heiress</b></i> is a 1949 American drama film. It was written by <a class="external" href="http://en.wikipedia.org/w/index.php?title=Ruth_Goetz&amp;action=edit&amp;redlink=1" title="Ruth Goetz (page does not exist)">Ruth</a> and <a class="external" href="http://en.wikipedia.org/w/index.php?title=Augustus_Goetz&amp;action=edit&amp;redlink=1" title="Augustus Goetz (page does not exist)">Augustus Goetz</a>, adapted from their 1947 <a class="external" href="http://en.wikipedia.org/wiki/The_Heiress_(play)" title="The Heiress (play)">play of the same title</a> that was based on the 1880 novel <i><a class="external" href="http://en.wikipedia.org/wiki/Washington_Square_(novel)" title="Washington Square (novel)">Washington Square</a></i> by <a class="external" href="http://en.wikipedia.org/wiki/Henry_James" title="Henry James">Henry James</a>. The film was directed by <a class="external" href="http://en.wikipedia.org/wiki/William_Wyler" title="William Wyler">William Wyler</a>, with starring performances by <a class="external" href="http://en.wikipedia.org/wiki/Olivia_de_Havilland" title="Olivia de Havilland">Olivia de Havilland</a> as Catherine Sloper, <a class="external" href="http://en.wikipedia.org/wiki/Montgomery_Clift" title="Montgomery Clift">Montgomery Clift</a> as Morris Townsend, and <a class="external" href="http://en.wikipedia.org/wiki/Ralph_Richardson" title="Ralph Richardson">Ralph Richardson</a> as Dr. Sloper.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Plot_synopsis">Plot synopsis</span></h2>
+	<p xmlns="http://www.w3.org/1999/xhtml">Catherine Sloper (<a class="external" href="http://en.wikipedia.org/wiki/Olivia_de_Havilland" title="Olivia de Havilland">Olivia de Havilland</a>) is a plain, painfully shy woman whose emotionally detached father (<a class="external" href="http://en.wikipedia.org/wiki/Ralph_Richardson" title="Ralph Richardson">Ralph Richardson</a>) makes no secret of his disappointment in her. When she meets the charming Morris Townsend (<a class="external" href="http://en.wikipedia.org/wiki/Montgomery_Clift" title="Montgomery Clift">Montgomery Clift</a>), she immediately is taken by the attention that he lavishes upon her, attention she so desperately seeks from her father. Catherine falls madly in love with Morris and they plan to marry.</p>
+      </wiki:abstract>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Cast_and_characters">Cast and characters</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Olivia_de_Havilland" title="Olivia de Havilland">Olivia de Havilland</a> â€“ Catherine Sloper</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Montgomery_Clift" title="Montgomery Clift">Montgomery Clift</a> â€“ Morris Townsend</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Ralph_Richardson" title="Ralph Richardson">Ralph Richardson</a> â€“ Dr. Austin Sloper</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Miriam_Hopkins" title="Miriam Hopkins">Miriam Hopkins</a> â€“ Aunt Lavinia</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Mona_Freeman" title="Mona Freeman">Mona Freeman</a> â€“ Marian Almond</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Vanessa_Brown" title="Vanessa Brown">Vanessa Brown</a> â€“ Maria</li>
+	<li><a class="external" href="http://en.wikipedia.org/w/index.php?title=Betty_Linley&amp;action=edit&amp;redlink=1" title="Betty Linley (page does not exist)">Betty Linley</a> â€“ Mrs. Montgomery</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Ray_Collins" title="Ray Collins">Ray Collins</a> â€“ Jefferson Almond</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Selena_Royle" title="Selena Royle">Selena Royle</a> â€“ Elizabeth Almond</li>
+	<li><a class="external" href="http://en.wikipedia.org/w/index.php?title=Paul_Lees&amp;action=edit&amp;redlink=1" title="Paul Lees (page does not exist)">Paul Lees</a> â€“ Arthur Townsend</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Harry_Antrim" title="Harry Antrim">Harry Antrim</a> â€“ Mr. Abeel</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Russ_Conway" title="Russ Conway">Russ Conway</a> â€“ Quintus</li>
+	<li><a class="external" href="http://en.wikipedia.org/w/index.php?title=David_Thursby&amp;action=edit&amp;redlink=1" title="David Thursby (page does not exist)">David Thursby</a> â€“ Geier</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Productions">Productions</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml"><a class="external" href="http://en.wikipedia.org/wiki/Wendy_Hiller" title="Wendy Hiller">Wendy Hiller</a> originated the role of Catherine on <a class="external" href="http://en.wikipedia.org/wiki/Broadway_theatre" title="Broadway theatre">Broadway</a>; in the <a class="external" href="http://en.wikipedia.org/wiki/West_End_theatre" title="West End theatre">West End</a>, <a class="external" href="http://en.wikipedia.org/wiki/Peggy_Ashcroft" title="Peggy Ashcroft">Peggy Ashcroft</a> portrayed the title character.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">After seeing <i>The Heiress</i> on Broadway, <a class="external" href="http://en.wikipedia.org/wiki/Olivia_de_Havilland" title="Olivia de Havilland">Olivia de Havilland</a> approached William Wyler about directing her in a screen adaptation of the play. He agreed and encouraged <a class="external" href="http://en.wikipedia.org/wiki/Paramount_Pictures" title="Paramount Pictures">Paramount Pictures</a> executives to purchase the rights from the playwrights for $250,000 and offer them $10,000 per week to write the screenplay. The couple was asked to make Morris less of a <a class="external" href="http://en.wikipedia.org/wiki/Villain" title="Villain">villain</a> than he was in their play and the original novel in deference to the studio's desire to capitalize on <a class="external" href="http://en.wikipedia.org/wiki/Montgomery_Clift" title="Montgomery Clift">Montgomery Clift</a>'s reputation as a romantic leading man.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml"><a class="external" href="http://en.wikipedia.org/wiki/Ralph_Richardson" title="Ralph Richardson">Ralph Richardson</a> reprised the role of Austin Sloper he originated in the London production.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">The film premiered at <a class="external" href="http://en.wikipedia.org/wiki/Radio_City_Music_Hall" title="Radio City Music Hall">Radio City Music Hall</a> in <a class="external" href="http://en.wikipedia.org/wiki/New_York_City" title="New York City">New York City</a>.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">The play was revived on Broadway in 1995, starring <a class="external" href="http://en.wikipedia.org/wiki/Cherry_Jones" title="Cherry Jones">Cherry Jones</a> as Catherine and featuring <a class="external" href="http://en.wikipedia.org/wiki/Philip_Bosco" title="Philip Bosco">Philip Bosco</a>, <a class="external" href="http://en.wikipedia.org/wiki/Patricia_Conolly" title="Patricia Conolly">Patricia Conolly</a>, <a class="external" href="http://en.wikipedia.org/wiki/Frances_Sternhagen" title="Frances Sternhagen">Frances Sternhagen</a>, and <a class="external" href="http://en.wikipedia.org/wiki/Jon_Tenney" title="Jon Tenney">Jon Tenney</a> </p>
+      <p xmlns="http://www.w3.org/1999/xhtml">The film was remade under the <a class="external" href="http://en.wikipedia.org/wiki/Washington_Square_(film)" title="Washington Square (film)">original Henry James title</a> in 1997.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Critical_reception">Critical reception</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">In his review in the <i><a class="external" href="http://en.wikipedia.org/wiki/New_York_Times" title="New York Times">New York Times</a></i>, <a class="external" href="http://en.wikipedia.org/wiki/Bosley_Crowther" title="Bosley Crowther">Bosley Crowther</a> said the film "crackles with allusive life and fire in its tender and agonized telling of an extraordinarily characterful tale" and added, "Mr. Wyler . . . has given this somewhat austere drama an absorbing intimacy and a warming illusion of nearness that it did not have on the stage. He has brought the full-bodied people very closely and vividly to view, while maintaining the clarity and sharpness of their personalities, their emotions and their styles . . . <i>The Heiress</i> is one of the handsome, intense and adult dramas of the year."</p>
+      <p xmlns="http://www.w3.org/1999/xhtml"><i><a class="external" href="http://en.wikipedia.org/wiki/TV_Guide" title="TV Guide">TV Guide</a></i> rates the film five out of a possible five stars and adds, "This powerful and compelling drama . . . owes its triumph to the deft hand of director William Wyler and a remarkable lead performance by Olivia de Havilland.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml"><i><a class="external" href="http://en.wikipedia.org/wiki/Time_Out_London" title="Time Out London">Time Out London</a></i> calls the film "typically plush, painstaking and cold. . . . highly professional and heartless."</p>
+      <p xmlns="http://www.w3.org/1999/xhtml"><a class="external" href="http://en.wikipedia.org/wiki/Channel_4" title="Channel 4">Channel 4</a> says of the performances, "de Havilland's portrayal . . . is spine-chilling . . . Clift brings a subtle ambiguity to one of his least interesting roles, and Richardson is also excellent."</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Awards_and_nominations">Awards and nominations</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actress" title="Academy Award for Best Actress">Academy Award for Best Actress</a> (Olivia de Havilland)</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Art_Direction" title="Academy Award for Best Art Direction">Academy Award for Best Art Direction/Set Decoration, Black and White</a> (<a class="external" href="http://en.wikipedia.org/wiki/John_Meehan" title="John Meehan">John Meehan</a>, <a class="external" href="http://en.wikipedia.org/wiki/Harry_Horner" title="Harry Horner">Harry Horner</a>, and <a class="external" href="http://en.wikipedia.org/wiki/Emile_Kuri" title="Emile Kuri">Emile Kuri</a>)</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Costume_Design" title="Academy Award for Costume Design">Academy Award for Best Costume Design, Black and White</a> (<a class="external" href="http://en.wikipedia.org/wiki/Edith_Head" title="Edith Head">Edith Head</a>, and <a class="external" href="http://en.wikipedia.org/wiki/Gile_Steele" title="Gile Steele">Gile Steele</a>)</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Original_Music_Score" title="Academy Award for Original Music Score">Academy Award for Original Music Score</a> (<a class="external" href="http://en.wikipedia.org/wiki/Aaron_Copland" title="Aaron Copland">Aaron Copland</a>)</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Actress_-_Motion_Picture_Drama" title="Golden Globe Award for Best Actress - Motion Picture Drama">Golden Globe Award for Best Actress - Motion Picture</a> (Olivia de Havilland)</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/National_Board_of_Review_Award_for_Best_Actor" title="National Board of Review Award for Best Actor">National Board of Review Award for Best Actor</a> (Ralph Richardson)</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/New_York_Film_Critics_Circle_Award_for_Best_Actress" title="New York Film Critics Circle Award for Best Actress">New York Film Critics Circle Award for Best Actress</a> (Olivia de Havilland)</li>
+      </ul>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture" title="Academy Award for Best Picture">Academy Award for Best Picture</a></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Director" title="Academy Award for Best Director">Academy Award for Best Director</a></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Supporting_Actor" title="Academy Award for Best Supporting Actor">Academy Award for Best Supporting Actor</a> (Ralph Richardson)</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Cinematography" title="Academy Award for Best Cinematography">Academy Award for Best Cinematography, Black and White</a></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Supporting_Actress_-_Motion_Picture" title="Golden Globe Award for Best Supporting Actress - Motion Picture">Golden Globe Award for Best Supporting Actress - Motion Picture</a> (Miriam Hopkins)</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Golden_Globe_Award_for_Best_Director_-_Motion_Picture" title="Golden Globe Award for Best Director - Motion Picture">Golden Globe Award for Best Director - Motion Picture</a></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Writers_Guild_of_America_Award" title="Writers Guild of America Award">Writers Guild of America Award</a> for Best Written American Drama</li>
+      </ul>
+      <p xmlns="http://www.w3.org/1999/xhtml">In 1996, <i>The Heiress</i> was selected for preservation in the United States <a class="external" href="http://en.wikipedia.org/wiki/National_Film_Registry" title="National Film Registry">National Film Registry</a> by the <a class="external" href="http://en.wikipedia.org/wiki/Library_of_Congress" title="Library of Congress">Library of Congress</a> as being "culturally, historically, or aesthetically significant".</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="References">References</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/title/tt41452/" rel="nofollow"><i>The Heiress</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	<li><a href="http://www.rottentomatoes.com/m/heiress/" rel="nofollow"><i>The Heiress</i></a> at <a class="external" href="http://en.wikipedia.org/wiki/Rotten_Tomatoes" title="Rotten Tomatoes">Rotten Tomatoes</a></li>
+	<li><a href="http://www.allmovie.com/work/22035" rel="nofollow"><i>The Heiress</i></a> at <a class="external" href="http://en.wikipedia.org/wiki/Allmovie" title="Allmovie">Allmovie</a></li>
+	<li><a href="http://tcmdb.com/title/title.jsp?stid=77655" rel="nofollow"><i>The Heiress</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Turner_Classic_Movies" title="Turner Classic Movies">TCM Movie Database</a></li>
+	<li>George Toles, " Eloquent Objects, Mesmerising Commododities in William Wyler's <i>The Heiress</i> in the Stanley Cavell special issue, Jeffrey Crouse (ed.), <i>Film International</i>, Issue 22, Vol. 4, Number 4, 2006, pp. 48-67.</li>
+      </ul>
+    </wiki:description>
+  </wiki:film>
+</wiki:nominee>

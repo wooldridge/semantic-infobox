@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="1999" span="1" winner="false" award="best-director" xmlns:wiki="http://marklogic.com/wikipedia">
+  <!--
+                            Copyright (c) 2010 MarkLogic Corporation.
+                            Permission is granted to copy, distribute and/or modify this document
+                            under the terms of the GNU Free Documentation License, Version 1.2
+                            or any later version published by the Free Software Foundation;
+                            with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+                            A copy of the license is included in the section entitled "GNU
+                            Free Documentation License"
+                            
+                            Content derived from http://en.wikipedia.org/wiki/The_Cider_House_Rules_(film) and http://en.wikipedia.org/wiki/Lasse_Hallstr%C3%B6m
+                            Modified in May 2009 by Mark Logic Corporation under the terms of the GNU Free Documentation License.
+                        -->
+  <wiki:name link="/wiki/Lasse_Hallstr%C3%B6m">Lasse HallstrÃ¶m</wiki:name>
+  <wiki:person link="/wiki/Lasse_Hallstr%C3%B6m" name="Lasse HallstrÃ¶m">
+    <wiki:oscar year="1987" span="1" winner="false" award="best-director" film-link="/wiki/My_Life_as_a_Dog" film-title="My Life as a Dog"/>
+    <wiki:oscar year="1999" span="1" winner="false" award="best-director" film-link="/wiki/The_Cider_House_Rules_(film)" film-title="The Cider House Rules"/>
+    <wiki:birth>
+      <wiki:date>1946-06-02</wiki:date>
+      <wiki:place>
+	<wiki:primary link="/wiki/Stockholm">Stockholm</wiki:primary>
+	<wiki:secondary link="/wiki/Sweden">Sweden</wiki:secondary>
+      <enrich><woeid xmlns="http://where.yahooapis.com/v1/schema.rng">12587478</woeid><placeTypeName code="9" xmlns="http://where.yahooapis.com/v1/schema.rng">Municipality</placeTypeName><name xmlns="http://where.yahooapis.com/v1/schema.rng">Stockholm Kommun</name><country code="SE" type="Country" xmlns="http://where.yahooapis.com/v1/schema.rng">Sweden</country><admin1 code="SE-AB" type="County" xmlns="http://where.yahooapis.com/v1/schema.rng">Stockholm</admin1><admin2 code="" type="Municipality" xmlns="http://where.yahooapis.com/v1/schema.rng">Stockholm Kommun</admin2><admin3 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality1 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality2 xmlns="http://where.yahooapis.com/v1/schema.rng"/><postal xmlns="http://where.yahooapis.com/v1/schema.rng"/><centroid xmlns="http://where.yahooapis.com/v1/schema.rng"><latitude>59.333691</latitude><longitude>17.980141</longitude></centroid><boundingBox xmlns="http://where.yahooapis.com/v1/schema.rng"><southWest><latitude>59.227058</latitude><longitude>17.760380</longitude></southWest><northEast><latitude>59.440311</latitude><longitude>18.199900</longitude></northEast></boundingBox><areaRank xmlns="http://where.yahooapis.com/v1/schema.rng">5</areaRank><popRank xmlns="http://where.yahooapis.com/v1/schema.rng">0</popRank></enrich></wiki:place>
+    </wiki:birth>
+    <wiki:description>
+      <p xmlns="http://www.w3.org/1999/xhtml"><b>Lars Sven "Lasse" HallstrÃ¶m</b> (born 2 June 1946) is a <a class="external" href="http://en.wikipedia.org/wiki/Sweden" title="Sweden">Swedish</a> <a class="external" href="http://en.wikipedia.org/wiki/Film_director" title="Film director">film director</a>. He was nominated for an <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Director" title="Academy Award for Best Director">Academy Award for Best Director</a> for <i><a class="external" href="http://en.wikipedia.org/wiki/My_Life_as_a_Dog" title="My Life as a Dog">My Life as a Dog</a> (Mitt liv som hund)</i> (1985) and later for <i><a class="external" href="http://en.wikipedia.org/wiki/The_Cider_House_Rules_(film)" title="The Cider House Rules (film)">The Cider House Rules</a></i> (1999).</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Life_and_career">Life and career</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">HallstrÃ¶m was born in <a class="external" href="http://en.wikipedia.org/wiki/Stockholm,_Sweden" title="Stockholm, Sweden">Stockholm, Sweden</a>. His father was a <a class="external" href="http://en.wikipedia.org/wiki/Dentist" title="Dentist">dentist</a> and his mother was the Swedish writer Karin Lyberg (1907â€“2000). His maternal grandfather, Ernst Lyberg, was the Swedish Minister of Finance in the first cabinet of <a class="external" href="http://en.wikipedia.org/wiki/Carl_Gustaf_Ekman" title="Carl Gustaf Ekman">Carl Gustaf Ekman</a> (1926â€“1928) and leader of the <a class="external" href="http://en.wikipedia.org/wiki/Liberal_Party_of_Sweden" title="Liberal Party of Sweden">Liberal Party of Sweden</a> (1930â€“1933).</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">HallstrÃ¶m learned his craft making <a class="external" href="http://en.wikipedia.org/wiki/Music_video" title="Music video">music videos</a>, in particular for the group <a class="external" href="http://en.wikipedia.org/wiki/ABBA" title="ABBA">ABBA</a>. Since the international success of <i><a class="external" href="http://en.wikipedia.org/wiki/My_Life_as_a_Dog" title="My Life as a Dog">My Life as a Dog</a></i> (1985), for which he was nominated for <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award" title="Academy Award">Academy Awards</a> for writing and directing, HallstrÃ¶m has worked in <a class="external" href="http://en.wikipedia.org/wiki/American_movies" title="American movies">American movies</a>. His first notable American success was <i><a class="external" href="http://en.wikipedia.org/wiki/What%27s_Eating_Gilbert_Grape" title="What's Eating Gilbert Grape">What's Eating Gilbert Grape</a></i> (1993). He reached his greatest level of prominence when he was nominated for an <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award" title="Academy Award">Academy Award</a> for best director for the critically-acclaimed movie <i><a class="external" href="http://en.wikipedia.org/wiki/The_Cider_House_Rules_(film)" title="The Cider House Rules (film)">The Cider House Rules</a></i> (1999) and then later directed the well-received film <i><a class="external" href="http://en.wikipedia.org/wiki/Chocolat_(movie)" title="Chocolat (movie)">Chocolat</a></i> (2000), both which were nominated for the <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture" title="Academy Award for Best Picture">Academy Award for Best Picture</a>.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">HallstrÃ¶m has two children, Johan (b. 1976) from his first marriage to Malou HallstrÃ¶m (died 3 February 2005) and Tora (b. 1995) by actress <a class="external" href="http://en.wikipedia.org/wiki/Lena_Olin" title="Lena Olin">Lena Olin</a>, his current wife.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Almost all of ABBA's promotional films were directed and shot by HallstrÃ¶m, with the only (seven total) exceptions being "<a class="external" href="http://en.wikipedia.org/wiki/Arrival_(ABBA_album)" title="Arrival (ABBA album)">When I Kissed the Teacher</a>" (1977); "<a class="external" href="http://en.wikipedia.org/wiki/Chiquitita" title="Chiquitita">Chiquitita</a>" (1979), which was made by the <a class="external" href="http://en.wikipedia.org/wiki/BBC" title="BBC">BBC</a>; "<a class="external" href="http://en.wikipedia.org/wiki/I_Have_a_Dream_(song)" title="I Have a Dream (song)">I Have a Dream</a>" (1979); "<a class="external" href="http://en.wikipedia.org/wiki/On_and_On_and_On_(ABBA_song)" title="On and On and On (ABBA song)">On and On and On</a>" (1980); "<a class="external" href="http://en.wikipedia.org/wiki/Lay_All_Your_Love_On_Me" title="Lay All Your Love On Me">Lay All Your Love On Me</a>" (1981); "<a class="external" href="http://en.wikipedia.org/wiki/The_Day_Before_You_Came" title="The Day Before You Came">The Day Before You Came</a> (1982)" and "<a class="external" href="http://en.wikipedia.org/wiki/Under_Attack" title="Under Attack">Under Attack</a>" (1983), which were both directed by <a class="external" href="http://en.wikipedia.org/wiki/Kjell_Sundvall" title="Kjell Sundvall">Kjell Sundvall</a> and Kjell-Ã…ke Andersson. In 1999, HallstrÃ¶m directed the music video for <a class="external" href="http://en.wikipedia.org/wiki/Northern_Line_(band)" title="Northern Line (band)">Northern Line</a>'s debut single "Run for Your life".</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Music_videos">Music videos</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">(The following is a complete list of all the <a class="external" href="http://en.wikipedia.org/wiki/ABBA" title="ABBA">ABBA</a> <a class="external" href="http://en.wikipedia.org/wiki/Music_video" title="Music video">music videos</a> that were directed by Lasse HallstrÃ¶m.)</p>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>1974 - "<a class="external" href="http://en.wikipedia.org/wiki/Waterloo_(ABBA_song)" title="Waterloo (ABBA song)">Waterloo</a>"</li>
+	<li>1974 - "<a class="external" href="http://en.wikipedia.org/wiki/Ring_Ring_(song)" title="Ring Ring (song)">Ring Ring</a>"</li>
+	<li>1974 - "<a class="external" href="http://en.wikipedia.org/wiki/Mamma_Mia_(song)" title="Mamma Mia (song)">Mamma Mia</a>"</li>
+	<li>1975 - "<a class="external" href="http://en.wikipedia.org/wiki/SOS_(ABBA_song)" title="SOS (ABBA song)">SOS</a>"</li>
+	<li>1975 - "<a class="external" href="http://en.wikipedia.org/wiki/Bang-A-Boomerang" title="Bang-A-Boomerang">Bang-A-Boomerang</a>"</li>
+	<li>1975 - "<a class="external" href="http://en.wikipedia.org/wiki/I_Do,_I_Do,_I_Do,_I_Do,_I_Do" title="I Do, I Do, I Do, I Do, I Do">I Do, I Do, I Do, I Do, I Do</a>"</li>
+	<li>1976 - "<a class="external" href="http://en.wikipedia.org/wiki/Fernando_(song)" title="Fernando (song)">Fernando</a>"</li>
+	<li>1976 - "<a class="external" href="http://en.wikipedia.org/wiki/Dancing_Queen" title="Dancing Queen">Dancing Queen</a>"</li>
+	<li>1976 - "<a class="external" href="http://en.wikipedia.org/wiki/Money,_Money,_Money" title="Money, Money, Money">Money, Money, Money</a>"</li>
+	<li>1977 - "<a class="external" href="http://en.wikipedia.org/wiki/Knowing_Me,_Knowing_You" title="Knowing Me, Knowing You">Knowing Me, Knowing You</a>"</li>
+	<li>1977 - "<a class="external" href="http://en.wikipedia.org/wiki/That%27s_Me_(song)" title="That's Me (song)">That's Me</a>"</li>
+	<li>1977 - "<a class="external" href="http://en.wikipedia.org/wiki/The_Name_of_the_Game" title="The Name of the Game">The Name of the Game</a>"</li>
+	<li>1978 - "<a class="external" href="http://en.wikipedia.org/wiki/Take_a_Chance_on_Me" title="Take a Chance on Me">Take a Chance on Me</a>"</li>
+	<li>1978 - "<a class="external" href="http://en.wikipedia.org/wiki/Eagle_(song)" title="Eagle (song)">Eagle</a>"</li>
+	<li>1978 - "<a class="external" href="http://en.wikipedia.org/wiki/One_Man,_One_Woman" title="One Man, One Woman">One Man, One Woman</a>"</li>
+	<li>1978 - "<a class="external" href="http://en.wikipedia.org/wiki/Thank_You_For_The_Music" title="Thank You For The Music">Thank You for the Music</a>"</li>
+	<li>1978 - "<a class="external" href="http://en.wikipedia.org/wiki/Summer_Night_City" title="Summer Night City">Summer Night City</a>"</li>
+	<li>1979 - "<a class="external" href="http://en.wikipedia.org/wiki/Does_Your_Mother_Know" title="Does Your Mother Know">Does Your Mother Know</a>"</li>
+	<li>1979 - "<a class="external" href="http://en.wikipedia.org/wiki/Voulez-Vous_(song)" title="Voulez-Vous (song)">Voulez-Vous</a>"</li>
+	<li>1979 - "<a class="external" href="http://en.wikipedia.org/wiki/Gimme!_Gimme!_Gimme!_(A_Man_After_Midnight)" title="Gimme! Gimme! Gimme! (A Man After Midnight)">Gimme! Gimme! Gimme! (A Man After Midnight)</a>"</li>
+	<li>1980 - "<a class="external" href="http://en.wikipedia.org/wiki/The_Winner_Takes_It_All" title="The Winner Takes It All">The Winner Takes It All</a>"</li>
+	<li>1980 - "<a class="external" href="http://en.wikipedia.org/wiki/Super_Trouper_(song)" title="Super Trouper (song)">Super Trouper</a>"</li>
+	<li>1980 - "<a class="external" href="http://en.wikipedia.org/wiki/Happy_New_Year_(song)" title="Happy New Year (song)">Happy New Year</a>"</li>
+	<li>1981 - "<a class="external" href="http://en.wikipedia.org/wiki/When_All_Is_Said_and_Done_(song)" title="When All Is Said and Done (song)">When All Is Said and Done</a>"</li>
+	<li>1981 - "<a class="external" href="http://en.wikipedia.org/wiki/One_of_Us_(ABBA_song)" title="One of Us (ABBA song)">One of Us</a>"</li>
+	<li>1982 - "<a class="external" href="http://en.wikipedia.org/wiki/Head_Over_Heels_(ABBA_song)" title="Head Over Heels (ABBA song)">Head Over Heels</a>"</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Filmography">Filmography</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>1973 - <i>Ska vi gÃ¥ hem till dej eller till mej eller var och en till sitt?</i> (Shall we go to your place or my place or you to yours and me to mine?)</li>
+	<li>1975 - <i><a class="external" href="http://en.wikipedia.org/wiki/A_Guy_and_a_Gal" title="A Guy and a Gal">A Guy and a Gal</a> (En Kille och en tjej)</i></li>
+	<li>1977 - <i><a class="external" href="http://en.wikipedia.org/wiki/Abba:_The_Movie" title="Abba: The Movie">Abba: The Movie</a></i></li>
+	<li>1979 - <i><a class="external" href="http://en.wikipedia.org/wiki/Father_to_Be" title="Father to Be">Father to Be</a> (Jag Ã¤r med barn)</i></li>
+	<li>1981 - <i><a class="external" href="http://en.wikipedia.org/wiki/Tuppen" title="Tuppen">Tuppen</a></i> (The Rooster)</li>
+	<li>1981 - <i>Gyllene Tider - Parkliv</i> (Gyllene Tider - Tourlife) (A tourmovie with <a class="external" href="http://en.wikipedia.org/wiki/Gyllene_Tider" title="Gyllene Tider">Gyllene Tider</a>, <a class="external" href="http://en.wikipedia.org/wiki/Per_Gessle" title="Per Gessle">Per Gessle</a>'s band before <a class="external" href="http://en.wikipedia.org/wiki/Roxette" title="Roxette">Roxette</a>)</li>
+	<li>1983 - <i>TvÃ¥ killar och en tjej</i> (Two Guys and a Gal)</li>
+	<li>1985 - <i><a class="external" href="http://en.wikipedia.org/wiki/My_Life_as_a_Dog" title="My Life as a Dog">My Life as a Dog</a> (Mitt liv som hund)</i></li>
+	<li>1986 - <i><a class="external" href="http://en.wikipedia.org/wiki/Alla_vi_barn_i_Bullerbyn" title="Alla vi barn i Bullerbyn">Alla vi barn i Bullerbyn</a></i> (All us children in Bullerby)</li>
+	<li>1987 - <i>Mer om oss barn i Bullerbyn</i> (More about all us children in Bullerby)</li>
+	<li>1991 - <i><a class="external" href="http://en.wikipedia.org/wiki/Once_Around" title="Once Around">Once Around</a></i></li>
+	<li>1993 - <i><a class="external" href="http://en.wikipedia.org/wiki/What%27s_Eating_Gilbert_Grape" title="What's Eating Gilbert Grape">What's Eating Gilbert Grape</a></i></li>
+	<li>1995 - <i><a class="external" href="http://en.wikipedia.org/wiki/Something_to_Talk_About_(film)" title="Something to Talk About (film)">Something to Talk About</a></i></li>
+	<li>1999 - <i><a class="external" href="http://en.wikipedia.org/wiki/The_Cider_House_Rules_(film)" title="The Cider House Rules (film)">The Cider House Rules</a></i></li>
+	<li>2000 - <i><a class="external" href="http://en.wikipedia.org/wiki/Chocolat_(movie)" title="Chocolat (movie)">Chocolat</a></i></li>
+	<li>2001 - <i><a class="external" href="http://en.wikipedia.org/wiki/The_Shipping_News_(film)" title="The Shipping News (film)">The Shipping News</a></i></li>
+	<li>2005 - <i><a class="external" href="http://en.wikipedia.org/wiki/An_Unfinished_Life" title="An Unfinished Life">An Unfinished Life</a></i></li>
+	<li>2005 - <i><a class="external" href="http://en.wikipedia.org/wiki/Casanova_(2005_film)" title="Casanova (2005 film)">Casanova</a></i></li>
+	<li>2007 - <i><a class="external" href="http://en.wikipedia.org/wiki/The_Hoax_(film)" title="The Hoax (film)">The Hoax</a></i></li>
+	<li>2009 - <i><a class="external" href="http://en.wikipedia.org/wiki/Hachiko:_A_Dog%27s_Story" title="Hachiko: A Dog's Story">Hachiko: A Dog's Story</a></i></li>
+	<li>2010 - <i><a class="external" href="http://en.wikipedia.org/wiki/Dear_John_(2010_film)" title="Dear John (2010 film)">Dear John</a></i></li>
+	<li>2010 - <i><a class="external" href="http://en.wikipedia.org/wiki/The_Danish_Girl_(film)" title="The Danish Girl (film)">The Danish Girl</a></i></li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="See_also">See also</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/ABBA_discography#Videography" title="ABBA discography">ABBA discography</a></li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="References">References</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/name/nm0002120/" rel="nofollow">Lasse HallstrÃ¶m</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	<li><a href="http://www.sfi.se/en-gb/Swedish-film-database/Item/?type=PERSON&amp;itemid=70630" rel="nofollow">Lasse HallstrÃ¶m</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Swedish_Film_Database" title="Swedish Film Database">Swedish Film Database</a></li>
+      </ul>
+    </wiki:description>
+  </wiki:person>
+  <wiki:film-title link="/wiki/The_Cider_House_Rules_(film)">The Cider House Rules</wiki:film-title>
+  <wiki:film link="/wiki/The_Cider_House_Rules_(film)" title="The Cider House Rules">
+    <wiki:oscar-ref year="1999" span="1" winner="false" award="best-director" person-link="/wiki/Lasse_Hallstr%C3%B6m" person-name="Lasse HallstrÃ¶m"/>
+    <wiki:oscar-ref year="1999" span="1" winner="true" award="supporting-actor" person-link="/wiki/Michael_Caine" person-name="Michael Caine"/>
+    <wiki:oscar year="1999" span="1" winner="false" award="best-picture"/>
+    <wiki:producer link="/wiki/Richard_N._Gladstein">Richard N. Gladstein</wiki:producer>
+    <wiki:producer link="/wiki/Bob_Weinstein">Bob Weinstein</wiki:producer>
+    <wiki:producer link="/wiki/Harvey_Weinstein">Harvey Weinstein</wiki:producer>
+    <wiki:director link="/wiki/Lasse_Hallstr%C3%B6m">Lasse HallstrÃ¶m</wiki:director>
+    <wiki:writer link="/wiki/John_Irving">John Irving</wiki:writer>
+    <wiki:distributor link="/wiki/Miramax_Films">Miramax Films</wiki:distributor>
+    <wiki:starring link="/wiki/Tobey_Maguire">Tobey Maguire</wiki:starring>
+    <wiki:starring link="/wiki/Michael_Caine">Michael Caine</wiki:starring>
+    <wiki:starring link="/wiki/Charlize_Theron">Charlize Theron</wiki:starring>
+    <wiki:starring link="/wiki/Paul_Rudd">Paul Rudd</wiki:starring>
+    <wiki:starring link="/wiki/Delroy_Lindo">Delroy Lindo</wiki:starring>
+    <wiki:starring link="/wiki/Erykah_Badu">Erykah Badu</wiki:starring>
+    <wiki:description>
+      <wiki:abstract>
+	<p xmlns="http://www.w3.org/1999/xhtml"><i><b>The Cider House Rules</b></i> is a 1999 American <a class="external" href="http://en.wikipedia.org/wiki/Drama_film" title="Drama film">drama film</a> directed by <a class="external" href="http://en.wikipedia.org/wiki/Lasse_Hallstr%C3%B6m" title="Lasse HallstrÃ¶m">Lasse HallstrÃ¶m</a>, based on <a class="external" href="http://en.wikipedia.org/wiki/John_Irving" title="John Irving">John Irving</a>'s <a class="external" href="http://en.wikipedia.org/wiki/The_Cider_House_Rules" title="The Cider House Rules">novel of the same name</a>. The film won two <a class="external" href="http://en.wikipedia.org/wiki/Academy_Awards" title="Academy Awards">Academy Awards</a>. John Irving documented his involvement in bringing the novel to the screen in his book, <i>My Movie Business</i>.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Plot">Plot</span></h2>
+	<p xmlns="http://www.w3.org/1999/xhtml">Homer Wells (<a class="external" href="http://en.wikipedia.org/wiki/Tobey_Maguire" title="Tobey Maguire">Tobey Maguire</a>), an <a class="external" href="http://en.wikipedia.org/wiki/Orphan" title="Orphan">orphan</a>, is the film's <a class="external" href="http://en.wikipedia.org/wiki/Protagonist" title="Protagonist">protagonist</a>. He grew up in an <a class="external" href="http://en.wikipedia.org/wiki/Orphanage" title="Orphanage">orphanage</a> directed by Dr. Wilbur Larch (<a class="external" href="http://en.wikipedia.org/wiki/Michael_Caine" title="Michael Caine">Michael Caine</a>) after being returned twice by foster parents. His first <a class="external" href="http://en.wikipedia.org/wiki/Foster_Care" title="Foster Care">foster parents</a> thought he was too quiet and the second parents beat him. Dr. Larch is addicted to <a class="external" href="http://en.wikipedia.org/wiki/Diethyl_ether" title="Diethyl ether">ether</a> and is also secretly an <a class="external" href="http://en.wikipedia.org/wiki/Abortion" title="Abortion">abortionist</a>. Larch trains Homer in <a class="external" href="http://en.wikipedia.org/wiki/Obstetrics" title="Obstetrics">obstetrics</a> and abortions as an <a class="external" href="http://en.wikipedia.org/wiki/Apprentice" title="Apprentice">apprentice</a>, despite Homer never even having attended high school.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">The film continues as Homer decides to leave the orphanage with Candy Kendall (<a class="external" href="http://en.wikipedia.org/wiki/Charlize_Theron" title="Charlize Theron">Charlize Theron</a>) and her boyfriend, Wally Worthington (<a class="external" href="http://en.wikipedia.org/wiki/Paul_Rudd" title="Paul Rudd">Paul Rudd</a>), a young couple who work at the Worthington family apple orchard. They had come to the clinic to have an abortion. Wally leaves to fight in <a class="external" href="http://en.wikipedia.org/wiki/World_War_II" title="World War II">World War II</a>. While Wally is away, Homer and Candy have an affair. Later, Wally's plane is shot down and he is paralyzed from the waist down. When he returns home, Candy takes care of him and leaves Homer.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">While he is away from the orphanage, Homer lives on the Worthington estate. He goes to work picking apples with Arthur Rose's (<a class="external" href="http://en.wikipedia.org/wiki/Delroy_Lindo" title="Delroy Lindo">Delroy Lindo</a>) team. Arthur and his team are migrant workers who are employed seasonally at the orchard by the Worthingtons. Mr. Rose <a class="external" href="http://en.wikipedia.org/wiki/Incest" title="Incest">impregnates his own daughter</a> (<a class="external" href="http://en.wikipedia.org/wiki/Erykah_Badu" title="Erykah Badu">Erykah Badu</a>), and Homer, who disapproves of abortions, realizes that in Rose's case, he must perform one for her. Later, when Arthur makes another amorous advance toward his daughter, she stabs him, and as a last request, the dying Arthur asks the other workers to tell the police that his death was a suicide. Eventually Homer decides to return to the orphanage after Dr. Larch's death from inhaling an <a class="external" href="http://en.wikipedia.org/wiki/Diethyl_ether" title="Diethyl ether">ether</a> overdose, and works as the new director.</p>
+      </wiki:abstract>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Cast">Cast</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Tobey_Maguire" title="Tobey Maguire">Tobey Maguire</a> as Homer Wells</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Michael_Caine" title="Michael Caine">Michael Caine</a> as Dr. Wilbur Larch</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Charlize_Theron" title="Charlize Theron">Charlize Theron</a> as Candy Kendall</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Paul_Rudd" title="Paul Rudd">Paul Rudd</a> as Lt. Wally Worthington</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Delroy_Lindo" title="Delroy Lindo">Delroy Lindo</a> as Arthur Rose</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Erykah_Badu" title="Erykah Badu">Erykah Badu</a> as Rose Rose</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Heavy_D" title="Heavy D">Heavy D</a> as Peaches</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Kieran_Culkin" title="Kieran Culkin">Kieran Culkin</a> as Buster</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Jane_Alexander" title="Jane Alexander">Jane Alexander</a> as Nurse Edna</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Kathy_Baker" title="Kathy Baker">Kathy Baker</a> as Nurse Angela</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Kate_Nelligan" title="Kate Nelligan">Kate Nelligan</a> as Olive Worthington</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Paz_de_la_Huerta" title="Paz de la Huerta">Paz de la Huerta</a> as Mary Agnes</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/J.K._Simmons" title="J.K. Simmons">J.K. Simmons</a> as Ray Kendall</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Evan_Parke" title="Evan Parke">Evan Parke</a> as Jack</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Jimmy_Flynn" title="Jimmy Flynn">Jimmy Flynn</a> as Vernon</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Erik_Per_Sullivan" title="Erik Per Sullivan">Erik Per Sullivan</a> as Fuzzy S.</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Skye_McCole_Bartusiak" title="Skye McCole Bartusiak">Skye McCole Bartusiak</a> as Hazel</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Reception">Reception</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">The film received a mixed reaction from critics. <a class="external" href="http://en.wikipedia.org/wiki/Roger_Ebert" title="Roger Ebert">Roger Ebert</a> of the <i><a class="external" href="http://en.wikipedia.org/wiki/Chicago_Sun-Times" title="Chicago Sun-Times">Chicago Sun-Times</a></i> awarded it just two stars, saying: "The story touches many themes, lingers with some of them, moves on and arrives at nowhere in particular."  By contrast, <a class="external" href="http://en.wikipedia.org/wiki/Leonard_Maltin" title="Leonard Maltin">Leonard Maltin</a> awarded the film a rare four-star rating. On the review aggregator <a class="external" href="http://en.wikipedia.org/wiki/Rotten_Tomatoes" title="Rotten Tomatoes">Rotten Tomatoes</a> it holds a favorable 72 percent rating.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Differences_from_novel">Differences from novel</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">Due to time constraints, the film excludes many portions of the novel, including the characters Melony (another orphan) and Angel (Candy and Homer's secret child) who were major characters in the book. <a class="external" href="http://en.wikipedia.org/wiki/John_Irving" title="John Irving">John Irving</a>, who wrote the film's screenplay, has stated that he made this decision because he would rather have omitted subplots and characters than write an adaptation that could not really do justice to them.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Academy_Awards">Academy Awards</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml"><i>The Cider House Rules</i> won two <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award" title="Academy Award">Academy Awards</a> and was nominated for an additional five:</p>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>Won - <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Supporting_Actor" title="Academy Award for Best Supporting Actor">Best Actor in a Supporting Role</a>: <a class="external" href="http://en.wikipedia.org/wiki/Michael_Caine" title="Michael Caine">Michael Caine</a>;</li>
+	<li>Won - <a class="external" href="http://en.wikipedia.org/wiki/Best_Writing,_Screenplay_Based_on_Material_from_Another_Medium" title="Best Writing, Screenplay Based on Material from Another Medium">Best Adapted Screenplay</a>: <a class="external" href="http://en.wikipedia.org/wiki/John_Irving" title="John Irving">John Irving</a>;</li>
+	<li>Nominated - <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture" title="Academy Award for Best Picture">Best Picture</a>: <a class="external" href="http://en.wikipedia.org/wiki/Richard_N._Gladstein" title="Richard N. Gladstein">Richard N. Gladstein</a>;</li>
+	<li>Nominated - <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Directing" title="Academy Award for Directing">Best Director</a>: <a class="external" href="http://en.wikipedia.org/wiki/Lasse_Hallstr%C3%B6m" title="Lasse HallstrÃ¶m">Lasse HallstrÃ¶m</a>;</li>
+	<li>Nominated - <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Film_Editing" title="Academy Award for Film Editing">Best Editing</a>: <a class="external" href="http://en.wikipedia.org/wiki/Lisa_Zeno_Churgin" title="Lisa Zeno Churgin">Lisa Zeno Churgin</a>;</li>
+	<li>Nominated - <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Original_Music_Score" title="Academy Award for Original Music Score">Best Music, Original Score</a>: <a class="external" href="http://en.wikipedia.org/wiki/Rachel_Portman" title="Rachel Portman">Rachel Portman</a>; and</li>
+	<li>Nominated - <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Art_Direction" title="Academy Award for Best Art Direction">Best Art Direction</a>: David Gropman and Beth A. Rubino.</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Cultural_references">Cultural references</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>"<a class="external" href="http://en.wikipedia.org/wiki/The_Cyber_House_Rules" title="The Cyber House Rules">The Cyber House Rules</a>", an episode of <i><a class="external" href="http://en.wikipedia.org/wiki/Futurama" title="Futurama">Futurama</a></i> set in an orphanage, makes several references to <i>The Cider House Rules</i>.</li>
+	<li>"Radio Free Sealab", the pilot episode of <i><a class="external" href="http://en.wikipedia.org/wiki/Sealab_2021" title="Sealab 2021">Sealab 2021</a></i>, sees Captain Murphy close a broadcast with the line "Goodnight you princes of Sealab, you kings of the ocean" as part of a Michael Caine impersonation.</li>
+	<li>"<a class="external" href="http://en.wikipedia.org/wiki/Return_to_Spider-Skull_Island" title="Return to Spider-Skull Island">Return to Spider-Skull Island</a>", an episode of <i><a class="external" href="http://en.wikipedia.org/wiki/The_Venture_Bros." title="The Venture Bros.">The Venture Bros.</a></i>, sees Dr. Orpheus looking after the titular brothers. In his usual bombastic manner, after putting them to bed, he proclaims "Goodnight, you princes of Venture, you kings of sleepovers."</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="See_also">See also</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Ventfort_Hall" title="Ventfort Hall">Ventfort Hall</a></li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Notes">Notes</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/title/tt0124315/" rel="nofollow"><i>The Cider House Rules</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	<li><a href="http://www.boxofficemojo.com/movies/?id=ciderhouserules.htm" rel="nofollow"><i>The Cider House Rules</i></a> at <a class="external" href="http://en.wikipedia.org/wiki/Box_Office_Mojo" title="Box Office Mojo">Box Office Mojo</a></li>
+	<li><a href="http://www.rottentomatoes.com/m/cider_house_rules/" rel="nofollow"><i>The Cider House Rules</i></a> at <a class="external" href="http://en.wikipedia.org/wiki/Rotten_Tomatoes" title="Rotten Tomatoes">Rotten Tomatoes</a></li>
+	<li><a href="http://www.metacritic.com/film/titles/ciderhouserules" rel="nofollow"><i>The Cider House Rules</i></a> at <a class="external" href="http://en.wikipedia.org/wiki/Metacritic" title="Metacritic">Metacritic</a></li>
+      </ul>
+    </wiki:description>
+  </wiki:film>
+</wiki:nominee>

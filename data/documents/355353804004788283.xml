@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="1996" span="1" winner="false" award="supporting-actress" xmlns:wiki="http://marklogic.com/wikipedia">
+  <!--
+                            Copyright (c) 2010 MarkLogic Corporation.
+                            Permission is granted to copy, distribute and/or modify this document
+                            under the terms of the GNU Free Documentation License, Version 1.2
+                            or any later version published by the Free Software Foundation;
+                            with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+                            A copy of the license is included in the section entitled "GNU
+                            Free Documentation License"
+                            
+                            Content derived from http://en.wikipedia.org/wiki/The_Crucible_(film) and http://en.wikipedia.org/wiki/Joan_Allen
+                            Modified in May 2009 by Mark Logic Corporation under the terms of the GNU Free Documentation License.
+                        -->
+  <wiki:name link="/wiki/Joan_Allen">Joan Allen</wiki:name>
+  <wiki:person link="/wiki/Joan_Allen" name="Joan Allen">
+    <wiki:oscar year="2000" span="1" winner="false" award="lead-actress" film-link="/wiki/The_Contender_(film)" film-title="The Contender"/>
+    <wiki:oscar year="1995" span="1" winner="false" award="supporting-actress" film-link="/wiki/Nixon_(film)" film-title="Nixon"/>
+    <wiki:oscar year="1996" span="1" winner="false" award="supporting-actress" film-link="/wiki/The_Crucible_(film)" film-title="The Crucible"/>
+    <wiki:image link="http://upload.wikimedia.org/wikipedia/commons/thumb/3/32/JoanAllen2000_cropped.jpg/220px-JoanAllen2000_cropped.jpg"/>
+    <wiki:birth>
+      <wiki:date>1956-08-20</wiki:date>
+      <wiki:place>
+	<wiki:primary link="/wiki/Rochelle,_Illinois">Rochelle, Illinois</wiki:primary>
+	<wiki:secondary link=""/>
+      <enrich><woeid xmlns="http://where.yahooapis.com/v1/schema.rng">12588148</woeid><placeTypeName code="9" xmlns="http://where.yahooapis.com/v1/schema.rng">County</placeTypeName><name xmlns="http://where.yahooapis.com/v1/schema.rng">Ogle</name><country code="US" type="Country" xmlns="http://where.yahooapis.com/v1/schema.rng">United States</country><admin1 code="US-IL" type="State" xmlns="http://where.yahooapis.com/v1/schema.rng">Illinois</admin1><admin2 code="" type="County" xmlns="http://where.yahooapis.com/v1/schema.rng">Ogle</admin2><admin3 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality1 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality2 xmlns="http://where.yahooapis.com/v1/schema.rng"/><postal xmlns="http://where.yahooapis.com/v1/schema.rng"/><centroid xmlns="http://where.yahooapis.com/v1/schema.rng"><latitude>42.045109</latitude><longitude>-89.313744</longitude></centroid><boundingBox xmlns="http://where.yahooapis.com/v1/schema.rng"><southWest><latitude>41.886150</latitude><longitude>-89.688553</longitude></southWest><northEast><latitude>42.204071</latitude><longitude>-88.938927</longitude></northEast></boundingBox><areaRank xmlns="http://where.yahooapis.com/v1/schema.rng">7</areaRank><popRank xmlns="http://where.yahooapis.com/v1/schema.rng">0</popRank></enrich></wiki:place>
+    </wiki:birth>
+    <wiki:description>
+      <p xmlns="http://www.w3.org/1999/xhtml"><b>Joan Allen</b> (born August 20, 1956) is an American actress. She worked in theatre, television and film during her early career, and achieved recognition for her <a class="external" href="http://en.wikipedia.org/wiki/Broadway_theatre" title="Broadway theatre">Broadway</a> debut in <i><a class="external" href="http://en.wikipedia.org/wiki/Burn_This" title="Burn This">Burn This</a></i>, winning a <a class="external" href="http://en.wikipedia.org/wiki/Tony_Award_for_Best_Performance_by_a_Leading_Actress_in_a_Play" title="Tony Award for Best Performance by a Leading Actress in a Play">Tony Award for Best Performance by a Leading Actress in a Play</a> in 1989.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">She has received three <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award" title="Academy Award">Academy Award</a> nominations; she was nominated for <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Supporting_Actress" title="Academy Award for Best Supporting Actress">Best Supporting Actress</a> for <i><a class="external" href="http://en.wikipedia.org/wiki/Nixon_(film)" title="Nixon (film)">Nixon</a></i> (1995) and <i><a class="external" href="http://en.wikipedia.org/wiki/The_Crucible_(1996_film)" title="The Crucible (1996 film)">The Crucible</a></i> (1996), and for <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actress" title="Academy Award for Best Actress">Best Actress</a> for <i><a class="external" href="http://en.wikipedia.org/wiki/The_Contender_(2000_film)" title="The Contender (2000 film)">The Contender</a></i> (2000).</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Her other films include <i><a class="external" href="http://en.wikipedia.org/wiki/The_Ice_Storm" title="The Ice Storm">The Ice Storm</a></i> (1996), <i><a class="external" href="http://en.wikipedia.org/wiki/Face/Off" title="Face/Off">Face/Off</a></i> (1997), <i><a class="external" href="http://en.wikipedia.org/wiki/Pleasantville_(film)" title="Pleasantville (film)">Pleasantville</a></i> (1998), <i><a class="external" href="http://en.wikipedia.org/wiki/The_Notebook" title="The Notebook">The Notebook</a></i>, <i><a class="external" href="http://en.wikipedia.org/wiki/The_Bourne_Supremacy_(film)" title="The Bourne Supremacy (film)">The Bourne Supremacy</a></i> (2004) and <i><a class="external" href="http://en.wikipedia.org/wiki/The_Bourne_Ultimatum_(film)" title="The Bourne Ultimatum (film)">The Bourne Ultimatum</a></i> (2007).</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Early_life">Early life</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">Allen, the youngest of four children, was born in <a class="external" href="http://en.wikipedia.org/wiki/Rochelle,_Illinois" title="Rochelle, Illinois">Rochelle, Illinois</a>, the daughter of Dorothea Marie (nÃ©e Wirth), a homemaker, and James Jefferson Allen, a <a class="external" href="http://en.wikipedia.org/wiki/Gas_station" title="Gas station">gas station</a> owner. She has an older brother, David, and two older sisters, Mary and Lynn. Allen attended <a class="external" href="http://en.wikipedia.org/wiki/Rochelle_Township_High_School" title="Rochelle Township High School">Rochelle Township High School</a>, and was voted most likely to succeed. She attended <a class="external" href="http://en.wikipedia.org/wiki/Northern_Illinois_University" title="Northern Illinois University">Northern Illinois University</a> where she graduated with a BFA in Theatre Performance.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Allen began her performing career as a <a class="external" href="http://en.wikipedia.org/wiki/Stage_(theatre)" title="Stage (theatre)">stage</a> actress and on television before making her film debut in the movie, <i><a class="external" href="http://en.wikipedia.org/wiki/Compromising_Positions" title="Compromising Positions">Compromising Positions</a></i> (1985). She became a member of the <a href="http://www.steppenwolf.org" rel="nofollow">Steppenwolf Theatre Company</a> ensemble in 1977 when <a class="external" href="http://en.wikipedia.org/wiki/John_Malkovich" title="John Malkovich">John Malkovich</a> asked her to join. She's been a member ever since. In 1984, she won a <a class="external" href="http://en.wikipedia.org/wiki/Clarence_Derwent_Awards" title="Clarence Derwent Awards">Clarence Derwent Award</a> for her portrayal of Hellen Stott in <i><a class="external" href="http://en.wikipedia.org/wiki/And_a_Nightingale_Sang" title="And a Nightingale Sang">And a Nightingale Sang</a></i>.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Career">Career</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">In 1989, Allen won a <a class="external" href="http://en.wikipedia.org/wiki/Tony_Award" title="Tony Award">Tony Award</a> for her <a class="external" href="http://en.wikipedia.org/wiki/Broadway_theatre" title="Broadway theatre">Broadway</a> debut performance in <i><a class="external" href="http://en.wikipedia.org/wiki/Burn_This" title="Burn This">Burn This</a></i>. She also starred in the <a class="external" href="http://en.wikipedia.org/wiki/Pulitzer_Prize" title="Pulitzer Prize">Pulitzer Prize</a>-winning play <i><a class="external" href="http://en.wikipedia.org/wiki/The_Heidi_Chronicles" title="The Heidi Chronicles">The Heidi Chronicles</a></i>.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">She received <a class="external" href="http://en.wikipedia.org/wiki/Academy_Awards" title="Academy Awards">Academy Award</a> nominations for <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Supporting_Actress" title="Academy Award for Best Supporting Actress">Best Supporting Actress</a> for her roles as <a class="external" href="http://en.wikipedia.org/wiki/Pat_Nixon" title="Pat Nixon">Pat Nixon</a> in <i><a class="external" href="http://en.wikipedia.org/wiki/Nixon_(film)" title="Nixon (film)">Nixon</a></i> (1995) and as Elizabeth Proctor, a woman accused of witchcraft, in <i><a class="external" href="http://en.wikipedia.org/wiki/The_Crucible_(1996_film)" title="The Crucible (1996 film)">The Crucible</a></i> (1996). She was also nominated for <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actress" title="Academy Award for Best Actress">Best Actress</a> for her role in <i><a class="external" href="http://en.wikipedia.org/wiki/The_Contender_(2000_film)" title="The Contender (2000 film)">The Contender</a></i> (2000), in which she played a politician who becomes the object of scandal.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">She had starring roles in the drama <i><a class="external" href="http://en.wikipedia.org/wiki/The_Ice_Storm" title="The Ice Storm">The Ice Storm</a></i> directed by <a class="external" href="http://en.wikipedia.org/wiki/Ang_Lee" title="Ang Lee">Ang Lee</a> and the action thriller <i><a class="external" href="http://en.wikipedia.org/wiki/Face/Off" title="Face/Off">Face/Off</a></i> directed by <a class="external" href="http://en.wikipedia.org/wiki/John_Woo" title="John Woo">John Woo</a>, both released in 1997, as well as in the comedy <i><a class="external" href="http://en.wikipedia.org/wiki/Pleasantville_(film)" title="Pleasantville (film)">Pleasantville</a></i> (1998).</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">In 2001, Allen starred in the mini-series <i><a class="external" href="http://en.wikipedia.org/wiki/The_Mists_of_Avalon_(miniseries)" title="The Mists of Avalon (miniseries)">The Mists of Avalon</a></i> on <a class="external" href="http://en.wikipedia.org/wiki/Turner_Network_Television" title="Turner Network Television">TNT</a> and earned an Emmy nomination for the role. In 2005, she received many positive notices for her leading role in the comedy/drama <i><a class="external" href="http://en.wikipedia.org/wiki/The_Upside_of_Anger" title="The Upside of Anger">The Upside of Anger</a></i>, in which she played an alcoholic housewife.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">She played CIA Department Director Pamela Landy in <i><a class="external" href="http://en.wikipedia.org/wiki/The_Bourne_Supremacy_(film)" title="The Bourne Supremacy (film)">The Bourne Supremacy</a></i> and <i><a class="external" href="http://en.wikipedia.org/wiki/The_Bourne_Ultimatum_(film)" title="The Bourne Ultimatum (film)">The Bourne Ultimatum</a></i>. Allen appeared in a remake of the film <i><a class="external" href="http://en.wikipedia.org/wiki/Death_Race_(film)" title="Death Race (film)">Death Race</a></i>, playing a <a class="external" href="http://en.wikipedia.org/wiki/Prison" title="Prison">prison</a> warden.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">On November 6, 2008, <i><a class="external" href="http://en.wikipedia.org/wiki/TV_Guide" title="TV Guide">TV Guide</a></i> reported that Allen would star as <a class="external" href="http://en.wikipedia.org/wiki/Georgia_O%E2%80%99Keeffe" title="Georgia Oâ€™Keeffe">Georgia Oâ€™Keeffe</a> in <a class="external" href="http://en.wikipedia.org/wiki/Lifetime_Television" title="Lifetime Television">Lifetime Television</a>â€™s biopic chronicling the artistâ€™s life.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Allen returned to Broadway in March 2009, when she played the role of Katherine Keenan in <a class="external" href="http://en.wikipedia.org/wiki/Michael_Jacobs" title="Michael Jacobs">Michael Jacobs</a>' play <i><a class="external" href="http://en.wikipedia.org/wiki/Impressionism_(play)" title="Impressionism (play)">Impressionism</a></i> opposite <a class="external" href="http://en.wikipedia.org/wiki/Jeremy_Irons" title="Jeremy Irons">Jeremy Irons</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Gerald_Schoenfeld_Theatre" title="Gerald Schoenfeld Theatre">Gerald Schoenfeld Theatre</a>.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Personal_life">Personal life</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">In 1990, Allen married actor <a class="external" href="http://en.wikipedia.org/wiki/Peter_Friedman" title="Peter Friedman">Peter Friedman</a>. They separated in 2002, but live close to each other to share time with their daughter, Sadie, born in 1994.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Filmography">Filmography</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Theatre">Theatre</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><i>Burn This</i></li>
+	<li><i>The Heidi Chronicles</i></li>
+	<li><i>The Crucible and Nixon</i></li>
+	<li><i>The Contender</i></li>
+	<li><i>Three Sisters</i></li>
+	<li><i>Waiting For The Parade</i></li>
+	<li><i>Love Letters</i></li>
+	<li><i>The Marriage of Bette and Boo</i></li>
+	<li><i>(And a Nightingale Sang...)</i></li>
+	<li><i>Nixon and Pleasantville</i></li>
+	<li><i>The Upside of Anger</i></li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="References">References</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.steppenwolf.org/ensemble/members/details.aspx?id=11" rel="nofollow">Joan Allen</a> at <a href="http://www.steppenwolf.org" rel="nofollow">Steppenwolf Theatre Company</a></li>
+	<li><a href="http://www.imdb.com/name/nm0000260/" rel="nofollow">Joan Allen</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	<li><a href="http://www.ibdb.com/person.asp?ID=29666" rel="nofollow">Joan Allen</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Broadway_Database" title="Internet Broadway Database">Internet Broadway Database</a></li>
+	<li><a href="http://www.allmovie.com/artist/1026" rel="nofollow">Joan Allen</a> at <a class="external" href="http://en.wikipedia.org/wiki/Allmovie" title="Allmovie">Allmovie</a></li>
+      </ul>
+    </wiki:description>
+  </wiki:person>
+  <wiki:film-title link="/wiki/The_Crucible_(film)">The Crucible</wiki:film-title>
+  <wiki:film link="/wiki/The_Crucible_(film)" title="The Crucible">
+    <wiki:oscar-ref year="1996" span="1" winner="false" award="supporting-actress" person-link="/wiki/Joan_Allen" person-name="Joan Allen"/>
+    <wiki:description>
+      <p xmlns="http://www.w3.org/1999/xhtml">A <b><a class="external" href="http://en.wikipedia.org/wiki/Crucible" title="Crucible">crucible</a></b> is a heat-resistant container in which materials can be heated to very high temperatures.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml"><b>Crucible</b> may also refer to:</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Literature.2C_drama.2C_and_film">Literature, drama, and film</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Crucible" title="The Crucible">The Crucible</a></i>, a play by Arthur Miller about the Salem witch trials
+<ul>
+	    <li><a class="external" href="http://en.wikipedia.org/wiki/The_Crucible_(1957_film)" title="The Crucible (1957 film)"><i>The Crucible</i> (1957 film)</a> (French: <i>Les SorciÃ¨res de Salem</i>), a film with a screenplay by Jean-Paul Sartre based on Miller's play</li>
+	    <li><a class="external" href="http://en.wikipedia.org/wiki/The_Crucible_(1996_film)" title="The Crucible (1996 film)"><i>The Crucible</i> (1996 film)</a>, a film written by Miller based on his play</li>
+	    <li><a class="external" href="http://en.wikipedia.org/wiki/The_Crucible_(opera)" title="The Crucible (opera)"><i>The Crucible</i> (opera)</a>, an opera by Robert Ward based on Miller's play</li>
+	  </ul>
+</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/The_Crucible_(trilogy)" title="The Crucible (trilogy)">The Crucible (trilogy)</a>, a series of novels by Sara Douglass</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Crucible_Theatre" title="Crucible Theatre">Crucible Theatre</a>, Sheffield, England</li>
+	<li><i>Crucible: The Trial of Cyric the Mad</i>, the fifth novel of <a class="external" href="http://en.wikipedia.org/wiki/The_Avatar_Series" title="The Avatar Series">The Avatar Series</a></li>
+	<li>Crucible, better known as <a class="external" href="http://en.wikipedia.org/wiki/Burner_(comics)" title="Burner (comics)">Burner</a>, a character from Marvel Comics</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Music">Music</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Crucible_(album)" title="Crucible (album)"><i>Crucible</i> (album)</a>, an album by Halford</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/The_Crucible_(Sandra_McCracken_album)" title="The Crucible (Sandra McCracken album)"><i>The Crucible</i> (Sandra McCracken album)</a></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/The_Crucible_(John_Zorn_album)" title="The Crucible (John Zorn album)"><i>The Crucible</i> (John Zorn album)</a></li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Television">Television</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/The_Crucible_(Frasier)" title="The Crucible (Frasier)">"The Crucible" (<i>Frasier</i>)</a>, an episode of <i>Frasier</i></li>
+	<li>"The Crucible", an episode of the documentary series <i><a class="external" href="http://en.wikipedia.org/wiki/Canada:_A_People%27s_History#Series_4" title="Canada: A People's History">Canada: A People's History</a></i></li>
+	<li><i>The Crucible</i>, a <a class="external" href="http://en.wikipedia.org/wiki/List_of_Doctor_Who_vehicles#The_Crucible" title="List of Doctor Who vehicles">spaceship in the <i>Doctor Who</i> universe</a></li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Other_uses">Other uses</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Crucible_(software)" title="Crucible (software)">Crucible (software)</a>, a peer code review application from Atlassian, Inc.</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Crucible_(geodemography)" title="Crucible (geodemography)">Crucible (geodemography)</a>, a geodemography system by the grocery company Tesco</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/The_Crucible_(arts_education_center)" title="The Crucible (arts education center)">The Crucible (arts education center)</a>, a non-profit industrial arts studio in Oakland, California, US</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/The_Crucible_(UNC_Student_Publication)" title="The Crucible (UNC Student Publication)"><i>The Crucible</i> (UNC Student Publication)</a>, a student newspaper at the University of Northern Colorado</li>
+	<li>The Crucible, the final test in <a class="external" href="http://en.wikipedia.org/wiki/United_States_Marine_Corps_Recruit_Training" title="United States Marine Corps Recruit Training">United States Marine Corps Recruit Training</a></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/World_Snooker_Championship" title="World Snooker Championship">World Snooker Championship</a>, hosted annually at the Crucible Theatre (see above), commonly referred to as "the Crucible"</li>
+	<li>"Crucible", a fictional city in the computer game <i><a class="external" href="http://en.wikipedia.org/wiki/The_Elder_Scrolls_IV:_Shivering_Isles" title="The Elder Scrolls IV: Shivering Isles">The Elder Scrolls IV: Shivering Isles</a></i></li>
+	<li>"Crucible", a minigame in the video game <i><a class="external" href="http://en.wikipedia.org/wiki/Fable_II#Recreation" title="Fable II">Fable II</a></i></li>
+      </ul>
+    </wiki:description>
+  </wiki:film>
+</wiki:nominee>

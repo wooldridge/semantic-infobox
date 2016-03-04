@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="1938" span="1" winner="false" award="best-picture" xmlns:wiki="http://marklogic.com/wikipedia">
+  <!--
+                            Copyright (c) 2010 MarkLogic Corporation.
+                            Permission is granted to copy, distribute and/or modify this document
+                            under the terms of the GNU Free Documentation License, Version 1.2
+                            or any later version published by the Free Software Foundation;
+                            with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+                            A copy of the license is included in the section entitled "GNU
+                            Free Documentation License"
+                            
+                            Content derived from http://en.wikipedia.org/wiki/The_Citadel_(film)
+                            Modified in May 2009 by Mark Logic Corporation under the terms of the GNU Free Documentation License.
+                        -->
+  <wiki:film-title link="/wiki/The_Citadel_(film)">The Citadel</wiki:film-title>
+  <wiki:film link="/wiki/The_Citadel_(film)" title="The Citadel">
+    <wiki:oscar-ref year="1938" span="1" winner="false" award="lead-actor" person-link="/wiki/Robert_Donat" person-name="Robert Donat"/>
+    <wiki:oscar-ref year="1938" span="1" winner="false" award="best-director" person-link="/wiki/King_Vidor" person-name="King Vidor"/>
+    <wiki:oscar year="1938" span="1" winner="false" award="best-picture"/>
+    <wiki:producer link="/wiki/Victor_Saville">Victor Saville</wiki:producer>
+    <wiki:director link="/wiki/King_Vidor">King Vidor</wiki:director>
+    <wiki:writer link="/wiki/A._J._Cronin">A. J. Cronin</wiki:writer>
+    <wiki:writer link="/wiki/Ian_Dalrymple">Ian Dalrymple</wiki:writer>
+    <wiki:writer link="/wiki/Frank_Wead">Frank Wead</wiki:writer>
+    <wiki:distributor link="/wiki/Metro-Goldwyn-Mayer">Metro-Goldwyn-Mayer</wiki:distributor>
+    <wiki:starring link="/wiki/Robert_Donat">Robert Donat</wiki:starring>
+    <wiki:starring link="/wiki/Rosalind_Russell">Rosalind Russell</wiki:starring>
+    <wiki:starring link="/wiki/Ralph_Richardson">Ralph Richardson</wiki:starring>
+    <wiki:starring link="/wiki/Rex_Harrison">Rex Harrison</wiki:starring>
+    <wiki:description>
+      <wiki:abstract>
+	<p xmlns="http://www.w3.org/1999/xhtml"><i><b>The Citadel</b></i> is a <a class="external" href="http://en.wikipedia.org/wiki/1938_in_film" title="1938 in film">1938</a> film based on <a class="external" href="http://en.wikipedia.org/wiki/The_Citadel_(novel)" title="The Citadel (novel)">the novel</a> by <a class="external" href="http://en.wikipedia.org/wiki/A._J._Cronin" title="A. J. Cronin">A. J. Cronin</a>, first published in <a class="external" href="http://en.wikipedia.org/wiki/1937" title="1937">1937</a>. The film was directed by <a class="external" href="http://en.wikipedia.org/wiki/King_Vidor" title="King Vidor">King Vidor</a> and produced by <a class="external" href="http://en.wikipedia.org/wiki/Victor_Saville" title="Victor Saville">Victor Saville</a>.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Plot">Plot</span></h2>
+	<p xmlns="http://www.w3.org/1999/xhtml"><a class="external" href="http://en.wikipedia.org/wiki/Robert_Donat" title="Robert Donat">Robert Donat</a> stars as the idealistic newly-qualified Scottish doctor, Andrew Manson, who is dedicated to treating Welsh miners suffering from <a class="external" href="http://en.wikipedia.org/wiki/Tuberculosis" title="Tuberculosis">tuberculosis</a>. Initially, he is full of lofty scientific goals, though his purpose erodes when he later moves to London to treat rich <a class="external" href="http://en.wikipedia.org/wiki/Hypochondriacs" title="Hypochondriacs">hypochondriacs</a>. <a class="external" href="http://en.wikipedia.org/wiki/Rosalind_Russell" title="Rosalind Russell">Rosalind Russell</a> stars as Christine, his wife, who tries to set him back on the original path. <a class="external" href="http://en.wikipedia.org/wiki/Ralph_Richardson" title="Ralph Richardson">Ralph Richardson</a> plays Manson's best friend, Dr. Philip Denny, and <a class="external" href="http://en.wikipedia.org/wiki/Rex_Harrison" title="Rex Harrison">Rex Harrison</a> acts in his first notable screen role as Freddie Hampton.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Awards">Awards</span></h2>
+	<p xmlns="http://www.w3.org/1999/xhtml">The film was nominated for Oscars in 4 categories: <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture" title="Academy Award for Best Picture">Best Picture</a>, <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actor" title="Academy Award for Best Actor">Best Actor</a> (Robert Donat), <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Directing" title="Academy Award for Directing">Direction</a>, and <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Writing_Adapted_Screenplay" title="Academy Award for Writing Adapted Screenplay">Adapted Screenplay</a>.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">The film won the Best Picture Award from both the <a class="external" href="http://en.wikipedia.org/wiki/New_York_Film_Critics_Circle_Awards" title="New York Film Critics Circle Awards">New York Film Critics Circle</a> and the <a class="external" href="http://en.wikipedia.org/wiki/National_Board_of_Review_of_Motion_Pictures" title="National Board of Review of Motion Pictures">National Board of Review</a>. It is a <i><a class="external" href="http://en.wikipedia.org/wiki/New_York_Times" title="New York Times">New York Times</a></i> Critics' Pick and is also listed in <i>The New York Times Guide to the Best 1,000 Movies Ever Made</i>. â€Ž</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Cast">Cast</span></h2>
+	<ul xmlns="http://www.w3.org/1999/xhtml">
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Robert_Donat" title="Robert Donat">Robert Donat</a> as Dr. Andrew Manson</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Rosalind_Russell" title="Rosalind Russell">Rosalind Russell</a> as Christine Barlow</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Ralph_Richardson" title="Ralph Richardson">Ralph Richardson</a> as Dr. Philip Denny</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Rex_Harrison" title="Rex Harrison">Rex Harrison</a> as Freddie Hampton</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Emlyn_Williams" title="Emlyn Williams">Emlyn Williams</a> as Mr. Owen</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Penelope_Dudley_Ward" title="Penelope Dudley Ward">Penelope Dudley Ward</a> as Toppy LeRoy</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Francis_L._Sullivan" title="Francis L. Sullivan">Francis L. Sullivan</a> as Ben Chenkin</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Mary_Clare" title="Mary Clare">Mary Clare</a> as Mrs. Orlando</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Cecil_Parker" title="Cecil Parker">Cecil Parker</a> as Charles Every</li>
+	  <li>Percy Parsons as Richard Stillman</li>
+	  <li>Basil Gill as Dr. Edward Page</li>
+	  <li>Dilys Davis as Blodwen Page</li>
+	  <li>Joss Ambler as Dr. Llewellyn</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Nora_Swinburne" title="Nora Swinburne">Nora Swinburne</a> as Mrs. Thornton</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Edward_Chapman_(actor)" title="Edward Chapman (actor)">Edward Chapman</a> as Joe Morgan</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Athene_Seyler" title="Athene Seyler">Athene Seyler</a> as Lady Raebank</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Felix_Aylmer" title="Felix Aylmer">Felix Aylmer</a> as Mr. Boon</li>
+	  <li>Elliott Mason as District Nurse</li>
+	  <li>Joyce Bland as Nurse Sharp</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Eliot_Makeham" title="Eliot Makeham">Eliot Makeham</a> as Dai Jenkins</li>
+	  <li>D.J. Williams as Old Thomas</li>
+	</ul>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+	<ul xmlns="http://www.w3.org/1999/xhtml">
+	  <li><a href="http://tcmdb.com/title/title.jsp?scarlettTitleId=3217" rel="nofollow"><i>The Citadel</i> at Turner Classic Movies</a> (trailer)</li>
+	  <li><a href="http://www.tcm.com/thismonth/article/?cid=87774" rel="nofollow">TCM article</a></li>
+	  <li><a href="http://www.britmovie.co.uk/films/The-Citadel_1938/" rel="nofollow">Britmovie website</a></li>
+	  <li><a href="http://www.variety.com/review/VE1117789921.html?categoryid=31&amp;cs=1" rel="nofollow"><i>Variety</i> review</a></li>
+	  <li><a href="http://movies2.nytimes.com/gst/movies/movie.html?v_id=9728" rel="nofollow"><i>New York Times</i> overview</a></li>
+	  <li><a href="http://litmed.med.nyu.edu/Annotation?action=view&amp;annid=10092" rel="nofollow">Literature, Arts, and Medicine Database entry</a></li>
+	  <li><a href="http://www.imdb.com/title/tt0029995/" rel="nofollow"><i>The Citadel</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	  <li><a href="http://www.allmovie.com/work/9728" rel="nofollow"><i>The Citadel</i></a> at <a class="external" href="http://en.wikipedia.org/wiki/Allmovie" title="Allmovie">Allmovie</a></li>
+	  <li><a href="http://www.bfi.org.uk/features/ultimatefilm/chart/details.php?ranking=82" rel="nofollow">British Film Institute: The Ultimate Film List</a></li>
+	  <li><a href="http://www.60yearsofnhsscotland.co.uk/history/birth-of-nhs-scotland/an-expectant-public.html" rel="nofollow">Article about Cronin and the NHS</a></li>
+	</ul>
+      </wiki:abstract>
+    </wiki:description>
+  </wiki:film>
+</wiki:nominee>

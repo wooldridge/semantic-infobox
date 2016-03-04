@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="1990" span="1" winner="false" award="lead-actress" xmlns:wiki="http://marklogic.com/wikipedia">
+  <!--
+                            Copyright (c) 2010 MarkLogic Corporation.
+                            Permission is granted to copy, distribute and/or modify this document
+                            under the terms of the GNU Free Documentation License, Version 1.2
+                            or any later version published by the Free Software Foundation;
+                            with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+                            A copy of the license is included in the section entitled "GNU
+                            Free Documentation License"
+                            
+                            Content derived from http://en.wikipedia.org/wiki/Mr._and_Mrs._Bridge and http://en.wikipedia.org/wiki/Joanne_Woodward
+                            Modified in May 2009 by Mark Logic Corporation under the terms of the GNU Free Documentation License.
+                        -->
+  <wiki:name link="/wiki/Joanne_Woodward">Joanne Woodward</wiki:name>
+  <wiki:person link="/wiki/Joanne_Woodward" name="Joanne Woodward">
+    <wiki:oscar year="1957" span="1" winner="true" award="lead-actress" film-link="/wiki/The_Three_Faces_of_Eve" film-title="The Three Faces of Eve"/>
+    <wiki:oscar year="1968" span="1" winner="false" award="lead-actress" film-link="/wiki/Rachel,_Rachel" film-title="Rachel, Rachel"/>
+    <wiki:oscar year="1973" span="1" winner="false" award="lead-actress" film-link="/wiki/Summer_Wishes,_Winter_Dreams" film-title="Summer Wishes, Winter Dreams"/>
+    <wiki:oscar year="1990" span="1" winner="false" award="lead-actress" film-link="/wiki/Mr._and_Mrs._Bridge" film-title="Mr. and Mrs. Bridge"/>
+    <wiki:image link="http://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Joanne_Woodward_in_The_Stripper_2_cropped.jpg/220px-Joanne_Woodward_in_The_Stripper_2_cropped.jpg"/>
+    <wiki:birth>
+      <wiki:date>Joanne Gignilliat Trimmier Woodward1930-02-27</wiki:date>
+      <wiki:place>
+	<wiki:primary link="/wiki/Thomasville,_Georgia">Thomasville, Georgia</wiki:primary>
+	<wiki:secondary link=""/>
+      <enrich><woeid xmlns="http://where.yahooapis.com/v1/schema.rng">12588005</woeid><placeTypeName code="9" xmlns="http://where.yahooapis.com/v1/schema.rng">County</placeTypeName><name xmlns="http://where.yahooapis.com/v1/schema.rng">Thomas</name><country code="US" type="Country" xmlns="http://where.yahooapis.com/v1/schema.rng">United States</country><admin1 code="US-GA" type="State" xmlns="http://where.yahooapis.com/v1/schema.rng">Georgia</admin1><admin2 code="" type="County" xmlns="http://where.yahooapis.com/v1/schema.rng">Thomas</admin2><admin3 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality1 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality2 xmlns="http://where.yahooapis.com/v1/schema.rng"/><postal xmlns="http://where.yahooapis.com/v1/schema.rng"/><centroid xmlns="http://where.yahooapis.com/v1/schema.rng"><latitude>30.868231</latitude><longitude>-83.927689</longitude></centroid><boundingBox xmlns="http://where.yahooapis.com/v1/schema.rng"><southWest><latitude>30.658510</latitude><longitude>-84.119240</longitude></southWest><northEast><latitude>31.077959</latitude><longitude>-83.736153</longitude></northEast></boundingBox><areaRank xmlns="http://where.yahooapis.com/v1/schema.rng">7</areaRank><popRank xmlns="http://where.yahooapis.com/v1/schema.rng">0</popRank></enrich></wiki:place>
+    </wiki:birth>
+    <wiki:description>
+      <wiki:abstract>
+	<p xmlns="http://www.w3.org/1999/xhtml"><b>Joanne Gignilliat Trimmier Woodward</b> (born February 27, 1930) is an <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award" title="Academy Award">Academy Award</a>-winning American actress, television and theatrical producer, and widow of <a class="external" href="http://en.wikipedia.org/wiki/Paul_Newman" title="Paul Newman">Paul Newman</a>. She is perhaps best-known for her Academy Award winning role in <i><a class="external" href="http://en.wikipedia.org/wiki/The_Three_Faces_of_Eve" title="The Three Faces of Eve">The Three Faces of Eve</a></i> (1958).</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Early_life">Early life</span></h2>
+	<p xmlns="http://www.w3.org/1999/xhtml">Woodward was born in <a class="external" href="http://en.wikipedia.org/wiki/Thomasville,_Georgia" title="Thomasville, Georgia">Thomasville, Georgia</a>, daughter of Elinor Gignilliat (<a class="external" href="http://en.wikipedia.org/wiki/Married_and_maiden_names" title="Married and maiden names">nÃ©e</a> Trimmier) and Wade Woodward, Jr., who at one point was <a class="external" href="http://en.wikipedia.org/wiki/Vice_president" title="Vice president">vice president</a> of publisher <a class="external" href="http://en.wikipedia.org/wiki/Charles_Scribner%27s_Sons" title="Charles Scribner's Sons">Charles Scribner's Sons</a>. Her middle name, "Gignilliat", originates from distant <a class="external" href="http://en.wikipedia.org/wiki/Huguenot" title="Huguenot">Huguenot</a> ancestry. She was influenced to become an actress by her mother's love of movies. Her mother named her after <a class="external" href="http://en.wikipedia.org/wiki/Joan_Crawford" title="Joan Crawford">Joan Crawford</a>, using the Southern pronunciation of the name - "Joanne". Attending the premiere of <i><a class="external" href="http://en.wikipedia.org/wiki/Gone_with_the_Wind_(film)" title="Gone with the Wind (film)">Gone with the Wind</a></i> in <a class="external" href="http://en.wikipedia.org/wiki/Atlanta,_Georgia" title="Atlanta, Georgia">Atlanta</a>, nine-year-old Woodward rushed out into the parade of stars and sat on the lap of <a class="external" href="http://en.wikipedia.org/wiki/Laurence_Olivier" title="Laurence Olivier">Laurence Olivier</a>, star <a class="external" href="http://en.wikipedia.org/wiki/Vivien_Leigh" title="Vivien Leigh">Vivien Leigh</a>'s partner and future husband. She eventually worked with Olivier in 1979, in a <a class="external" href="http://en.wikipedia.org/wiki/Television" title="Television">television</a> production of <i><a class="external" href="http://en.wikipedia.org/wiki/Come_Back,_Little_Sheba_(1977_TV_program)" title="Come Back, Little Sheba (1977 TV program)">Come Back, Little Sheba</a></i>. During rehearsals, she mentioned this incident to him and he told her he remembered her doing it.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">Woodward lived in Thomasville until she was in the second grade. Her family relocated to <a class="external" href="http://en.wikipedia.org/wiki/Marietta,_Georgia" title="Marietta, Georgia">Marietta, Georgia</a>. They moved once again when she was a junior in high school, after her parents divorced. She graduated from Greenville High School in 1947, in <a class="external" href="http://en.wikipedia.org/wiki/Greenville,_South_Carolina" title="Greenville, South Carolina">Greenville, South Carolina</a>. Woodward won many <a class="external" href="http://en.wikipedia.org/wiki/Beauty_contest" title="Beauty contest">beauty contests</a> as a teenager. She appeared in theatrical productions at Greenville High and in Greenville's Little Theatre, playing Laura Wingfield in their staging of <i>The Glass Menagerie</i> directed by Robert Hemphill McLane. She returned to Greenville in 1976 to play Amanda Wingfield in another Little Theatre production of <i>The Glass Menagerie</i>. She had also returned in 1955 for the premiere of her debut movie, <i><a class="external" href="http://en.wikipedia.org/wiki/Count_Three_and_Pray_(film)" title="Count Three and Pray (film)">Count Three And Pray</a></i>, at the Paris Theatre on North Main Street.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">Woodward majored in drama at <a class="external" href="http://en.wikipedia.org/wiki/Louisiana_State_University" title="Louisiana State University">Louisiana State University</a>, where she was an initiate of <a class="external" href="http://en.wikipedia.org/wiki/Chi_Omega" title="Chi Omega">Chi Omega</a> sorority, then headed to <a class="external" href="http://en.wikipedia.org/wiki/New_York_City" title="New York City">New York City</a> to perform on the stage.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Career">Career</span></h2>
+	<p xmlns="http://www.w3.org/1999/xhtml">Woodward's first film was a post-<a class="external" href="http://en.wikipedia.org/wiki/American_Civil_War" title="American Civil War">Civil War</a> <a class="external" href="http://en.wikipedia.org/wiki/Western_(genre)" title="Western (genre)">Western</a>, <i><a class="external" href="http://en.wikipedia.org/wiki/Count_Three_and_Pray_(film)" title="Count Three and Pray (film)">Count Three and Pray</a></i>, in 1955. She continued to move between <a class="external" href="http://en.wikipedia.org/wiki/Hollywood" title="Hollywood">Hollywood</a> and <a class="external" href="http://en.wikipedia.org/wiki/Broadway_theatre" title="Broadway theatre">Broadway</a>, eventually <a class="external" href="http://en.wikipedia.org/wiki/Understudy" title="Understudy">understudying</a> in the New York production of <i><a class="external" href="http://en.wikipedia.org/wiki/Picnic_(play)" title="Picnic (play)">Picnic</a></i>, which featured <a class="external" href="http://en.wikipedia.org/wiki/Paul_Newman" title="Paul Newman">Paul Newman</a>. The two were married in 1958 after their work together in the film <i><a class="external" href="http://en.wikipedia.org/wiki/The_Long,_Hot_Summer" title="The Long, Hot Summer">The Long, Hot Summer</a></i>. By that time, Woodward had starred in <i><a class="external" href="http://en.wikipedia.org/wiki/The_Three_Faces_of_Eve" title="The Three Faces of Eve">The Three Faces of Eve</a></i> (1957), for which she won the 1957 <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actress" title="Academy Award for Best Actress">Academy Award for Best Actress</a>.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">She appeared with husband <a class="external" href="http://en.wikipedia.org/wiki/Paul_Newman" title="Paul Newman">Paul Newman</a> in ten featured films:</p>
+	<ul xmlns="http://www.w3.org/1999/xhtml">
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Long,_Hot_Summer" title="The Long, Hot Summer">The Long, Hot Summer</a></i> (1958)</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/Rally_%27Round_the_Flag,_Boys!_(film)" title="Rally 'Round the Flag, Boys! (film)">Rally 'Round the Flag, Boys!</a></i> (1958)</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/From_the_Terrace" title="From the Terrace">From the Terrace</a></i> (1960)</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/Paris_Blues" title="Paris Blues">Paris Blues</a></i> (1961)</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/A_New_Kind_of_Love" title="A New Kind of Love">A New Kind of Love</a></i> (1963)</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/Winning" title="Winning">Winning</a></i> (1969)</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/WUSA_(film)" title="WUSA (film)">WUSA</a></i> (1970)</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Drowning_Pool_(film)" title="The Drowning Pool (film)">The Drowning Pool</a></i> (1975)</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/Harry_%26_Son" title="Harry &amp; Son">Harry &amp; Son</a></i> (1984) - (directed by Newman)</li>
+	  <li><i><a class="external" href="http://en.wikipedia.org/wiki/Mr._and_Mrs._Bridge" title="Mr. and Mrs. Bridge">Mr. and Mrs. Bridge</a></i> (1990)</li>
+	</ul>
+	<p xmlns="http://www.w3.org/1999/xhtml">Both appeared in the <a class="external" href="http://en.wikipedia.org/wiki/HBO" title="HBO">HBO</a> miniseries <i><a class="external" href="http://en.wikipedia.org/wiki/Empire_Falls_(miniseries)" title="Empire Falls (miniseries)">Empire Falls</a></i> but had no scenes together.</p>
+      </wiki:abstract>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Rachel,_Rachel" title="Rachel, Rachel">Rachel, Rachel</a></i> (1968)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/They_Might_Be_Giants_(film)" title="They Might Be Giants (film)">They Might Be Giants</a></i> (1971)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Effect_of_Gamma_Rays_on_Man-in-the-Moon_Marigolds_(film)" title="The Effect of Gamma Rays on Man-in-the-Moon Marigolds (film)">The Effect of Gamma Rays on Man-in-the-Moon Marigolds</a></i> - which featured their daughter, <a class="external" href="http://en.wikipedia.org/wiki/Nell_Potts" title="Nell Potts">Nell Potts</a> (1972)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Shadow_Box" title="The Shadow Box">The Shadow Box</a></i> (1980) - (television movie)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Glass_Menagerie_(1987_film)" title="The Glass Menagerie (1987 film)">The Glass Menagerie</a></i> (1987)</li>
+      </ul>
+      <p xmlns="http://www.w3.org/1999/xhtml">Woodward has continued to act, in such films as <i><a class="external" href="http://en.wikipedia.org/wiki/Summer_Wishes,_Winter_Dreams" title="Summer Wishes, Winter Dreams">Summer Wishes, Winter Dreams</a></i> and <i><a class="external" href="http://en.wikipedia.org/wiki/Philadelphia_(film)" title="Philadelphia (film)">Philadelphia</a></i> (1993) in which she played the mother to <a class="external" href="http://en.wikipedia.org/wiki/Tom_Hanks" title="Tom Hanks">Tom Hanks</a>' character, and in television. She appeared in the television films <i><a class="external" href="http://en.wikipedia.org/wiki/Sybil_(1976_film)" title="Sybil (1976 film)">Sybil</a></i>, opposite <a class="external" href="http://en.wikipedia.org/wiki/Sally_Field" title="Sally Field">Sally Field</a>, and <i><a class="external" href="http://en.wikipedia.org/wiki/Crisis_at_Central_High" title="Crisis at Central High">Crisis at Central High</a></i>. She was the narrator for <a class="external" href="http://en.wikipedia.org/wiki/Martin_Scorsese" title="Martin Scorsese">Martin Scorsese</a>'s screen version of <i><a class="external" href="http://en.wikipedia.org/wiki/The_Age_of_Innocence" title="The Age of Innocence">The Age of Innocence</a></i>.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Woodward was a co-producer and starred in a 1993 broadcast of the play <i>Blind Spot</i>, for which she was nominated for an <a class="external" href="http://en.wikipedia.org/wiki/Primetime_Emmy_Award_for_Outstanding_Lead_Actress_%E2%80%93_Miniseries_or_a_Movie" title="Primetime Emmy Award for Outstanding Lead Actress â€“ Miniseries or a Movie">Emmy Award for Outstanding Lead Actress â€“ Miniseries or a Movie</a>. She was executive producer of the 2003 television production of <i><a class="external" href="http://en.wikipedia.org/wiki/Our_Town_(2003_film)" title="Our Town (2003 film)">Our Town</a></i>, featuring Newman as the stage manager (for which he was nominated for an <a class="external" href="http://en.wikipedia.org/wiki/Emmy_Award" title="Emmy Award">Emmy Award</a>.) She wrote the teleplay and directed a 1982 production of <a class="external" href="http://en.wikipedia.org/wiki/Shirley_Jackson" title="Shirley Jackson">Shirley Jackson</a>'s story <i>Come Along with Me</i>, for which husband Newman provided the voice of the character Hughie under the screen name of P. L. Neuman.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Woodward is the artistic director of the <a class="external" href="http://en.wikipedia.org/wiki/Westport_Country_Playhouse" title="Westport Country Playhouse">Westport Country Playhouse</a>.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">She recorded a reading of singer <a class="external" href="http://en.wikipedia.org/wiki/John_Mellencamp" title="John Mellencamp">John Mellencamp</a>'s song "The Real Life" for his box set <i><a class="external" href="http://en.wikipedia.org/wiki/On_the_Rural_Route_7609" title="On the Rural Route 7609">On the Rural Route 7609</a></i>.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Personal_life">Personal life</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">Woodward was rumored to have been engaged to author <a class="external" href="http://en.wikipedia.org/wiki/Gore_Vidal" title="Gore Vidal">Gore Vidal</a> prior to marrying <a class="external" href="http://en.wikipedia.org/wiki/Paul_Newman" title="Paul Newman">Paul Newman</a>. Apparently, however, there was no real engagement: Vidal later claimed it was a stunt to attract Newman's attention. Woodward shared a house with Vidal in <a class="external" href="http://en.wikipedia.org/wiki/Los_Angeles" title="Los Angeles">Los Angeles</a> for a short time and remained friends. Woodward married Paul Newman on January 29, 1958. The couple chose to share few details of their personal life throughout their 50 years of marriage.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Woodward and Newman had three daughters - Elinor Teresa (1959) known on screen as Nell Potts and generally as <a class="external" href="http://en.wikipedia.org/wiki/Nell_Newman" title="Nell Newman">Nell Newman</a>); Melissa "Lissy" Stewart (1961); and Claire "Clea" Olivia Newman (1965) - and two grandsons (Lissy's children).</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">In 1990, Woodward graduated from <a class="external" href="http://en.wikipedia.org/wiki/Sarah_Lawrence_College" title="Sarah Lawrence College">Sarah Lawrence College</a> with her daughter Clea. Newman delivered the commencement address, during which he said he dreamed that a woman had asked, "How dare you accept this invitation to give the commencement address when you are merely hanging on to the coattails of the accomplishments of your wife?"</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">In 1988, Newman and Woodward established the Hole in the Wall Gang Camp, named for the outlaws in <i><a class="external" href="http://en.wikipedia.org/wiki/Butch_Cassidy_and_the_Sundance_Kid" title="Butch Cassidy and the Sundance Kid">Butch Cassidy and the Sundance Kid</a></i>. The eleven camps permit seriously ill youngsters to enjoy the great outdoors, at no cost to them or their families.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Paul Newman died of <a class="external" href="http://en.wikipedia.org/wiki/Cancer" title="Cancer">cancer</a> on September 26, 2008, age 83. Woodward continues to live in <a class="external" href="http://en.wikipedia.org/wiki/Westport,_Connecticut" title="Westport, Connecticut">Westport, Connecticut</a>.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Filmography">Filmography</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Awards">Awards</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">In 1958, Woodward won the <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actress" title="Academy Award for Best Actress">Academy Award for Best Actress</a> for <i><a class="external" href="http://en.wikipedia.org/wiki/The_Three_Faces_of_Eve" title="The Three Faces of Eve">The Three Faces of Eve</a></i>. She was nominated for Best Actress in 1969 for <i><a class="external" href="http://en.wikipedia.org/wiki/Rachel,_Rachel" title="Rachel, Rachel">Rachel, Rachel</a></i>, in 1974 for <i><a class="external" href="http://en.wikipedia.org/wiki/Summer_Wishes,_Winter_Dreams" title="Summer Wishes, Winter Dreams">Summer Wishes, Winter Dreams</a></i>, and in 1991 for <i><a class="external" href="http://en.wikipedia.org/wiki/Mr._and_Mrs._Bridge" title="Mr. and Mrs. Bridge">Mr. and Mrs. Bridge</a></i>. She was named <a class="external" href="http://en.wikipedia.org/wiki/Prix_d%27interpr%C3%A9tation_f%C3%A9minine" title="Prix d'interprÃ©tation fÃ©minine">Best Actress</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Cannes_Film_Festival" title="Cannes Film Festival">Cannes Film Festival</a> in 1974 for her performance in <i><a class="external" href="http://en.wikipedia.org/wiki/The_Effect_of_Gamma_Rays_on_Man-in-the-Moon_Marigolds" title="The Effect of Gamma Rays on Man-in-the-Moon Marigolds">The Effect of Gamma Rays on Man-in-the-Moon Marigolds</a></i>.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Woodward won two <a class="external" href="http://en.wikipedia.org/wiki/Emmy_Awards" title="Emmy Awards">Emmy Awards</a> for Outstanding Lead Actress in a Miniseries or TV Movie, for <i>See How She Runs</i> (1978) as a divorced teacher who trains for a marathon, and in <i>Do You Remember Love?</i> (1985) as a professor who begins to suffer from <a class="external" href="http://en.wikipedia.org/wiki/Alzheimer%27s_disease" title="Alzheimer's disease">Alzheimer's disease</a>. She has been nominated an additional five times for her roles on television.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">A popular (but untrue) bit of Hollywood lore is that Woodward was the first celebrity to receive a star on the <a class="external" href="http://en.wikipedia.org/wiki/Hollywood_Walk_of_Fame" title="Hollywood Walk of Fame">Hollywood Walk of Fame</a>. In fact, the original 1,550 stars were created and installed as a unit in 1960; no one star was officially "first." (The first star actually completed was director <a class="external" href="http://en.wikipedia.org/wiki/Stanley_Kramer" title="Stanley Kramer">Stanley Kramer</a>'s.) The origin of this legend is not known with certainty; but according to <a class="external" href="http://en.wikipedia.org/wiki/Johnny_Grant" title="Johnny Grant">Johnny Grant</a>, the long-time <a class="external" href="http://en.wikipedia.org/wiki/Honorary_Mayor_of_Hollywood" title="Honorary Mayor of Hollywood">Honorary Mayor of Hollywood</a>, Woodward was the first celebrity to agree to pose with her star for photographers, and therefore was singled out in the collective public imagination as the first awardee.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="References">References</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Further_reading">Further reading</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/name/nm0940946/" rel="nofollow">Joanne Woodward</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	<li><a href="http://www.allmovie.com/artist/joanne-woodward-117305" rel="nofollow">Joanne Woodward</a> at <a class="external" href="http://en.wikipedia.org/wiki/Allmovie" title="Allmovie">Allmovie</a></li>
+	<li><a href="http://support.nature.org/site/PageServer?pagename=joannewoodward_ed6" rel="nofollow">Joanne Woodward's thoughts on Earth Day 2006</a></li>
+      </ul>
+    </wiki:description>
+  </wiki:person>
+  <wiki:film-title link="/wiki/Mr._and_Mrs._Bridge">Mr. and Mrs. Bridge</wiki:film-title>
+  <wiki:film link="/wiki/Mr._and_Mrs._Bridge" title="Mr. and Mrs. Bridge">
+    <wiki:oscar-ref year="1990" span="1" winner="false" award="lead-actress" person-link="/wiki/Joanne_Woodward" person-name="Joanne Woodward"/>
+    <wiki:producer link="/wiki/Ismail_Merchant">Ismail Merchant</wiki:producer>
+    <wiki:director link="/wiki/James_Ivory_(director)">James Ivory</wiki:director>
+    <wiki:writer link="/wiki/Ruth_Prawer_Jhabvala">Ruth Prawer Jhabvala</wiki:writer>
+    <wiki:writer link="/wiki/Evan_S._Connell">Evan S. Connell</wiki:writer>
+    <wiki:distributor link="/wiki/Cineplex_Odeon_Films">Cineplex Odeon Films</wiki:distributor>
+    <wiki:distributor link="/wiki/Miramax_Films">Miramax Films</wiki:distributor>
+    <wiki:starring link="/wiki/Paul_Newman">Paul Newman</wiki:starring>
+    <wiki:starring link="/wiki/Joanne_Woodward">Joanne Woodward</wiki:starring>
+    <wiki:starring link="/wiki/Blythe_Danner">Blythe Danner</wiki:starring>
+    <wiki:starring link="/wiki/Simon_Callow">Simon Callow</wiki:starring>
+    <wiki:starring link="/wiki/Kyra_Sedgwick">Kyra Sedgwick</wiki:starring>
+    <wiki:starring link="/wiki/Robert_Sean_Leonard">Robert Sean Leonard</wiki:starring>
+    <wiki:starring link="/wiki/Austin_Pendleton">Austin Pendleton</wiki:starring>
+    <wiki:starring link="/wiki/Gale_Garnett">Gale Garnett</wiki:starring>
+    <wiki:starring link="/wiki/Remak_Ramsay">Remak Ramsay</wiki:starring>
+    <wiki:starring link="/wiki/John_Bell">John Bell</wiki:starring>
+    <wiki:starring link="/wiki/Marcus_Giamatti">Marcus Giamatti</wiki:starring>
+    <wiki:language link="/wiki/English_language">English</wiki:language>
+    <wiki:description>
+      <p xmlns="http://www.w3.org/1999/xhtml"><i><b>Mr. &amp; Mrs. Bridge</b></i> is a 1990 <a class="external" href="http://en.wikipedia.org/wiki/Merchant_Ivory_Productions" title="Merchant Ivory Productions">Merchant Ivory Film</a> based on the novels by <a class="external" href="http://en.wikipedia.org/wiki/Evan_S._Connell" title="Evan S. Connell">Evan S. Connell</a> of the same name. It is directed by <a class="external" href="http://en.wikipedia.org/wiki/James_Ivory_(director)" title="James Ivory (director)">James Ivory</a>, with a screenplay by <a class="external" href="http://en.wikipedia.org/wiki/Ruth_Prawer_Jhabvala" title="Ruth Prawer Jhabvala">Ruth Prawer Jhabvala</a> and produced by <a class="external" href="http://en.wikipedia.org/wiki/Ismail_Merchant" title="Ismail Merchant">Ismail Merchant</a>.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Plot">Plot</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">The film tells the story of a traditional family living in the <a class="external" href="http://en.wikipedia.org/wiki/Country_Club_District" title="Country Club District">Country Club District</a> of <a class="external" href="http://en.wikipedia.org/wiki/Kansas_City,_Missouri" title="Kansas City, Missouri">Kansas City, Missouri</a>, during the 1930s and 1940s. The Bridges grapple with changing mores and expectations. Mr. Bridge, played by <a class="external" href="http://en.wikipedia.org/wiki/Paul_Newman" title="Paul Newman">Paul Newman</a>, is a lawyer who resists his children's rebellion against the <a class="external" href="http://en.wikipedia.org/wiki/Conservatism" title="Conservatism">conservative</a> values he holds dear. Mrs. Bridge, played by <a class="external" href="http://en.wikipedia.org/wiki/Joanne_Woodward" title="Joanne Woodward">Joanne Woodward</a>, labors to maintain a Pollyanna view of the world against her husband's emotional distance and her children's eagerness to adopt a world view more modern than her own.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">The movie features <a class="external" href="http://en.wikipedia.org/wiki/Blythe_Danner" title="Blythe Danner">Blythe Danner</a> as Mrs. Bridge's troubled friend, <a class="external" href="http://en.wikipedia.org/wiki/Simon_Callow" title="Simon Callow">Simon Callow</a> as a foreign psychiatrist the Bridges find unsavory, Saundra McClain as the Bridges' maid, and, as the Bridge children, <a class="external" href="http://en.wikipedia.org/wiki/Kyra_Sedgwick" title="Kyra Sedgwick">Kyra Sedgwick</a>, <a class="external" href="http://en.wikipedia.org/wiki/Robert_Sean_Leonard" title="Robert Sean Leonard">Robert Sean Leonard</a>, and Margaret Welsh. It was filmed entirely on location in <a class="external" href="http://en.wikipedia.org/wiki/Kansas_City" title="Kansas City">Kansas City</a>, <a class="external" href="http://en.wikipedia.org/wiki/Paris" title="Paris">Paris</a>, France, and <a class="external" href="http://en.wikipedia.org/wiki/Ottawa" title="Ottawa">Ottawa</a>, Canada. It was nominated for the <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actress" title="Academy Award for Best Actress">Academy Award for Best Actress</a> (Joanne Woodward).</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="The_Cast">The Cast</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Paul_Newman" title="Paul Newman">Paul Newman</a> - <i>Walter Bridge</i></li>
+	<li>Saundra McClain - <i>Harriet</i></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Joanne_Woodward" title="Joanne Woodward">Joanne Woodward</a> - <i>India Bridge</i></li>
+	<li>Margaret Welsh - <i>Carolyn Bridge</i></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/John_Bell" title="John Bell">John Bell</a> - <i>Douglas Bridge (as a boy)</i></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Kyra_Sedgwick" title="Kyra Sedgwick">Kyra Sedgwick</a> - <i>Ruth Bridge</i></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Simon_Callow" title="Simon Callow">Simon Callow</a> - <i>Dr. Alex Sauer</i></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Remak_Ramsay" title="Remak Ramsay">Remak Ramsay</a> - <i>Virgil Barron</i></li>
+	<li>Addison Myers - <i>Man at Businessmen's Table</i></li>
+	<li>Roger Burget - <i>Man at Businessmen's Table</i></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Blythe_Danner" title="Blythe Danner">Blythe Danner</a> - <i>Grace Barron</i></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Austin_Pendleton" title="Austin Pendleton">Austin Pendleton</a> - <i>Mr. Gadbury</i></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Gale_Garnett" title="Gale Garnett">Gale Garnett</a> - <i>Mabel Ong</i></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Al_Christy" title="Al Christy">Al Christy</a> - <i>Judge</i></li>
+	<li>Joe Tinoco - <i>Plaintiff</i></li>
+	<li>Ben Stephenson - <i>Law Clerk</i></li>
+	<li>Diane Kagan - <i>Julia</i></li>
+	<li>Alison Sneegas - <i>Band Vocalist</i></li>
+	<li>Mark Yonally - <i>Youth at High School Dance</i></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Buck_Baker" title="Buck Baker">Buck Baker</a> - <i>Scoutmaster</i></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Robert_Sean_Leonard" title="Robert Sean Leonard">Robert Sean Leonard</a> - <i>Douglas Bridge (grown-up)</i></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Danny_Cox" title="Danny Cox">Danny Cox</a> - <i>Country Club Steward</i></li>
+	<li>Robyn Rosenfeld - <i>Genevieve</i></li>
+	<li>Roch Leibovici - <i>Watch Seller on the Quai</i></li>
+	<li>Hubert Saint-Macary - <i>Copyist in the <a class="external" href="http://en.wikipedia.org/wiki/Louvre" title="Louvre">Louvre</a></i></li>
+	<li>Laurence Goua - <i>Principal <a class="external" href="http://en.wikipedia.org/wiki/Can-Can" title="Can-Can">Can-Can</a> Dancer</i></li>
+	<li>The Nicolodis - <i><a class="external" href="http://en.wikipedia.org/wiki/Moulin_Rouge" title="Moulin Rouge">Moulin Rouge</a> Tumblers</i></li>
+	<li>Judy Judd - <i>First Bridge Player</i></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Nora_Denney" title="Nora Denney">Nora Denney</a> - <i>Second Bridge Player</i></li>
+	<li>Robert Levine - <i>Avrum Rhinegold</i></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Charles_Perkins" title="Charles Perkins">Charles Perkins</a> - <i>Jazz Musician</i></li>
+	<li>Allen Monroe - <i>Jazz Musician</i></li>
+	<li>Richard Ross - <i>Jazz Musician</i></li>
+	<li>Milton Abel - <i>Jazz Musician</i></li>
+	<li>Spencer Keesee - <i>Couperin</i></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Marcus_Giamatti" title="Marcus Giamatti">Marcus Giamatti</a> - <i>Gil Davis</i></li>
+	<li>Robin Humphrey - <i>Bridal Gown Lady</i></li>
+	<li>Kathy Quinn-Byrne - <i>Paquita</i></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/John_Anthony" title="John Anthony">John Anthony</a> - <i>Rod</i></li>
+	<li>Jennifer Conforti - <i>Rod's Girl</i></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Tom_Hall" title="Tom Hall">Tom Hall</a> - <i>Aztec Room Waiter</i></li>
+	<li>Joanne Carr - <i>Prison Matron</i></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Robert_Westenberg" title="Robert Westenberg">Robert Westenberg</a> - <i>Ruth's Boyfriend</i></li>
+	<li>Florence Hall - <i>The Barrons' Maid</i></li>
+	<li>Lee Lambert - <i>Corporal Cipkowski</i></li>
+	<li>Jocelyn Hamilton - <i>Florist's Assistant</i></li>
+	<li>Andy Knott - <i>Flower Shop Owner</i></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Melissa_Newman" title="Melissa Newman">Melissa Newman</a> - <i>Young India at the Pool</i></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Linden_Ashby" title="Linden Ashby">Linden Ashby</a></li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Malachy_McCourt" title="Malachy McCourt">Malachy McCourt</a>	 - <i>Dr. Forster</i></li>
+	<li>Richard Alan Nichols - <i>Italian Man</i></li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Awards">Awards</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml"><b>1990 New York Film Critics Circle Awards</b></p>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>WonÂ : Best Screenplay for <a class="external" href="http://en.wikipedia.org/wiki/Ruth_Prawer_Jhabvala" title="Ruth Prawer Jhabvala">Ruth Prawer Jhabvala</a></li>
+	<li>WonÂ : Best Actress for Joanne Woodward</li>
+      </ul>
+      <p xmlns="http://www.w3.org/1999/xhtml"><b>1991 Kansas City Film Critics Circle</b></p>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>WonÂ : Best Actress for Joanne Woodward</li>
+      </ul>
+      <p xmlns="http://www.w3.org/1999/xhtml"><b>1991 Academy Awards</b></p>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>NominatedÂ : <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actress" title="Academy Award for Best Actress">Best Actress in a Leading Role</a> for <a class="external" href="http://en.wikipedia.org/wiki/Joanne_Woodward" title="Joanne Woodward">Joanne Woodward</a></li>
+      </ul>
+      <p xmlns="http://www.w3.org/1999/xhtml"><b>1991 Golden Globes</b></p>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>NominatedÂ : Best Performance by an Actress in a Motion Picture - Drama for Joanne Woodward</li>
+      </ul>
+      <p xmlns="http://www.w3.org/1999/xhtml"><b>1991 Independent Spirit Awards</b></p>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>NominatedÂ : Best Female Lead for Joanne Woodward</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/title/tt0100200/" rel="nofollow"><i>Mr. &amp; Mrs. Bridge</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+      </ul>
+    </wiki:description>
+  </wiki:film>
+</wiki:nominee>

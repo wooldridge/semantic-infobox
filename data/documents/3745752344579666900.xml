@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="1940" span="1" winner="false" award="lead-actress" xmlns:wiki="http://marklogic.com/wikipedia">
+  <!--
+                            Copyright (c) 2010 MarkLogic Corporation.
+                            Permission is granted to copy, distribute and/or modify this document
+                            under the terms of the GNU Free Documentation License, Version 1.2
+                            or any later version published by the Free Software Foundation;
+                            with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+                            A copy of the license is included in the section entitled "GNU
+                            Free Documentation License"
+                            
+                            Content derived from http://en.wikipedia.org/wiki/Our_Town_(1940_film) and http://en.wikipedia.org/wiki/Martha_Scott
+                            Modified in May 2009 by Mark Logic Corporation under the terms of the GNU Free Documentation License.
+                        -->
+  <wiki:name link="/wiki/Martha_Scott">Martha Scott</wiki:name>
+  <wiki:person link="/wiki/Martha_Scott" name="Martha Scott">
+    <wiki:oscar year="1940" span="1" winner="false" award="lead-actress" film-link="/wiki/Our_Town_(1940_film)" film-title="Our Town"/>
+    <wiki:image link="http://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Martha_Scott_in_The_Ten_Commandments_film_trailer.jpg/180px-Martha_Scott_in_The_Ten_Commandments_film_trailer.jpg"/>
+    <wiki:birth>
+      <wiki:date>1912-09-22</wiki:date>
+      <wiki:place>
+	<wiki:primary link="/wiki/Jamesport,_Missouri">Jamesport, Missouri</wiki:primary>
+	<wiki:secondary link=""/>
+      <enrich><woeid xmlns="http://where.yahooapis.com/v1/schema.rng">12588996</woeid><placeTypeName code="9" xmlns="http://where.yahooapis.com/v1/schema.rng">County</placeTypeName><name xmlns="http://where.yahooapis.com/v1/schema.rng">Daviess</name><country code="US" type="Country" xmlns="http://where.yahooapis.com/v1/schema.rng">United States</country><admin1 code="US-MO" type="State" xmlns="http://where.yahooapis.com/v1/schema.rng">Missouri</admin1><admin2 code="" type="County" xmlns="http://where.yahooapis.com/v1/schema.rng">Daviess</admin2><admin3 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality1 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality2 xmlns="http://where.yahooapis.com/v1/schema.rng"/><postal xmlns="http://where.yahooapis.com/v1/schema.rng"/><centroid xmlns="http://where.yahooapis.com/v1/schema.rng"><latitude>39.960571</latitude><longitude>-93.988861</longitude></centroid><boundingBox xmlns="http://where.yahooapis.com/v1/schema.rng"><southWest><latitude>39.784550</latitude><longitude>-94.218773</longitude></southWest><northEast><latitude>40.136600</latitude><longitude>-93.758949</longitude></northEast></boundingBox><areaRank xmlns="http://where.yahooapis.com/v1/schema.rng">7</areaRank><popRank xmlns="http://where.yahooapis.com/v1/schema.rng">0</popRank></enrich></wiki:place>
+    </wiki:birth>
+    <wiki:death>
+      <wiki:date>May 28, 2003</wiki:date>
+      <wiki:place>
+	<wiki:primary link="/wiki/Van_Nuys,_Los_Angeles,_California">Van Nuys, Los Angeles, California</wiki:primary>
+	<wiki:secondary link=""/>
+      </wiki:place>
+    </wiki:death>
+    <wiki:description>
+      <p xmlns="http://www.w3.org/1999/xhtml"><b>Martha Ellen Scott</b> (September 22, 1912 â€“ May 28, 2003) was an <a class="external" href="http://en.wikipedia.org/wiki/United_States" title="United States">American</a> actress best known for her roles as mother of the lead character in numerous films and television shows.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Early_life">Early life</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">Scott was born in <a class="external" href="http://en.wikipedia.org/wiki/Jamesport,_Missouri" title="Jamesport, Missouri">Jamesport, Missouri</a>, the daughter of Letha (<a class="external" href="http://en.wikipedia.org/wiki/Married_and_maiden_names" title="Married and maiden names">nÃ©e</a> McKinley) and Walter Scott, an engineer and garage owner; her mother was a second-cousin of U.S. President <a class="external" href="http://en.wikipedia.org/wiki/William_McKinley" title="William McKinley">William McKinley</a>. Scott became interested in acting in high school. She got her start acting in shortened <a class="external" href="http://en.wikipedia.org/wiki/William_Shakespeare" title="William Shakespeare">Shakespeare</a> productions at the <a class="external" href="http://en.wikipedia.org/wiki/Century_of_Progress" title="Century of Progress">Century of Progress</a> <a class="external" href="http://en.wikipedia.org/wiki/Expo_(exhibition)" title="Expo (exhibition)">world's fair</a> in <a class="external" href="http://en.wikipedia.org/wiki/Chicago" title="Chicago">Chicago</a> (1933â€“34).</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Films">Films</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">Scott eventually went to <a class="external" href="http://en.wikipedia.org/wiki/New_York_City" title="New York City">New York City</a>, where she was cast as the original Emily in the <a class="external" href="http://en.wikipedia.org/wiki/Broadway_theatre" title="Broadway theatre">Broadway</a> production of <i><a class="external" href="http://en.wikipedia.org/wiki/Our_Town" title="Our Town">Our Town</a></i>. Her film debut in <i><a class="external" href="http://en.wikipedia.org/wiki/Our_Town_(1940_film)" title="Our Town (1940 film)">Our Town</a></i> in 1940 saw her receiving an <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award" title="Academy Award">Academy Award</a> nomination for <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actress" title="Academy Award for Best Actress">Best Actress</a> for her critically acclaimed performance as Emily Webb. Scott's co-star was <a class="external" href="http://en.wikipedia.org/wiki/William_Holden" title="William Holden">William Holden</a>, in the role of George Gibbs. Unfortunately, the censors sanitized the film's last scene after Emily has died (set in a cemetery after Emily's death during childbirth in the stage production), and allowed her to live to make for a happy ending.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">She appeared in films such as <i><a class="external" href="http://en.wikipedia.org/wiki/The_Ten_Commandments_(1956_film)" title="The Ten Commandments (1956 film)">The Ten Commandments</a></i>, <i><a class="external" href="http://en.wikipedia.org/wiki/Ben-Hur_(1959_film)" title="Ben-Hur (1959 film)">Ben-Hur</a></i>, <i><a class="external" href="http://en.wikipedia.org/wiki/Airport_1975" title="Airport 1975">Airport 1975</a></i> and <i><a class="external" href="http://en.wikipedia.org/wiki/The_Turning_Point_(1977_film)" title="The Turning Point (1977 film)">The Turning Point</a></i>. In both <i>The Ten Commandments</i> and <i>Ben-Hur</i>, she played <a class="external" href="http://en.wikipedia.org/wiki/Charlton_Heston" title="Charlton Heston">Charlton Heston</a>'s character's mother.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">She married radio producer and announcer Carlton Alsop in 1940, and jazz pianist and composer <a class="external" href="http://en.wikipedia.org/wiki/Mel_Powell" title="Mel Powell">Mel Powell</a> in 1946.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Producer">Producer</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">In 1968, she joined <a class="external" href="http://en.wikipedia.org/wiki/Henry_Fonda" title="Henry Fonda">Henry Fonda</a> and <a class="external" href="http://en.wikipedia.org/wiki/Robert_Ryan" title="Robert Ryan">Robert Ryan</a> in forming a theatrical production company called "The Plumstead Playhouse". It later became the Plumstead Theatre Company and moved to <a class="external" href="http://en.wikipedia.org/wiki/Los_Angeles" title="Los Angeles">Los Angeles</a>. The company produced <i><a class="external" href="http://en.wikipedia.org/wiki/First_Monday_in_October" title="First Monday in October">First Monday in October</a></i>, both on stage and on film (<a class="external" href="http://en.wikipedia.org/wiki/Walter_Matthau" title="Walter Matthau">Walter Matthau</a> and <a class="external" href="http://en.wikipedia.org/wiki/Jill_Clayburgh" title="Jill Clayburgh">Jill Clayburgh</a> appeared in the film). Scott co-produced both versions. Her last production was <i><a class="external" href="http://en.wikipedia.org/wiki/Twelve_Angry_Men_(play)" title="Twelve Angry Men (play)">Twelve Angry Men</a></i>, which was performed at the Henry Fonda Theatre in <a class="external" href="http://en.wikipedia.org/wiki/Hollywood,_California" title="Hollywood, California">Hollywood, California</a>.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Television">Television</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">In the 1970s, she played <a class="external" href="http://en.wikipedia.org/wiki/Bob_Newhart" title="Bob Newhart">Bob Newhart</a>'s mother on <i><a class="external" href="http://en.wikipedia.org/wiki/The_Bob_Newhart_Show" title="The Bob Newhart Show">The Bob Newhart Show</a></i>. She also played <a class="external" href="http://en.wikipedia.org/wiki/Linda_Gray" title="Linda Gray">Linda Gray</a>'s mother on <i><a class="external" href="http://en.wikipedia.org/wiki/Dallas_(TV_series)" title="Dallas (TV series)">Dallas</a></i> and <a class="external" href="http://en.wikipedia.org/wiki/Lee_Majors" title="Lee Majors">Lee Majors</a>' mother on <i><a class="external" href="http://en.wikipedia.org/wiki/The_Six_Million_Dollar_Man" title="The Six Million Dollar Man">The Six Million Dollar Man</a></i>. She was also a surrogate mother of sorts to <a class="external" href="http://en.wikipedia.org/wiki/Lindsay_Wagner" title="Lindsay Wagner">Lindsay Wagner</a> on <i><a class="external" href="http://en.wikipedia.org/wiki/The_Bionic_Woman" title="The Bionic Woman">The Bionic Woman</a></i>. In 1975, she portrayed <a class="external" href="http://en.wikipedia.org/wiki/Gena_Rowlands" title="Gena Rowlands">Gena Rowlands</a>' wealthy mother, who is murdered by her son-in-law (played by <a class="external" href="http://en.wikipedia.org/wiki/Oskar_Werner" title="Oskar Werner">Oskar Werner</a>) in <i>Playback</i>, an episode of <i><a class="external" href="http://en.wikipedia.org/wiki/Columbo_(TV_series)" title="Columbo (TV series)">Columbo</a></i>. In 1983, she appeared in an episode of <i><a class="external" href="http://en.wikipedia.org/wiki/Magnum,_P.I." title="Magnum, P.I.">Magnum, P.I.</a></i>, and in the television movie <i><a class="external" href="http://en.wikipedia.org/wiki/Adam_(TV_movie)" title="Adam (TV movie)">Adam</a></i>. In the late 1980s, she and <a class="external" href="http://en.wikipedia.org/wiki/Jeffrey_Lynn" title="Jeffrey Lynn">Jeffrey Lynn</a> acted in an episode of <i><a class="external" href="http://en.wikipedia.org/wiki/Murder,_She_Wrote" title="Murder, She Wrote">Murder, She Wrote</a></i>, which was a direct sequel to their 1949 feature film <i>Strange Bargain</i>.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Death">Death</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">She died in 2003 at the age of 90 from natural causes and was interred next to her husband, Mel Powell, in the Masonic Cemetery in her native <a class="external" href="http://en.wikipedia.org/wiki/Jamesport,_Missouri" title="Jamesport, Missouri">Jamesport, Missouri</a>.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Scott has a star on the <a class="external" href="http://en.wikipedia.org/wiki/Hollywood_Walk_of_Fame" title="Hollywood Walk of Fame">Hollywood Walk of Fame</a>, next to the Fonda Theatre.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Partial_filmography">Partial filmography</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Our_Town_(film)" title="Our Town (film)">Our Town</a></i> (1940)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Howards_of_Virginia" title="The Howards of Virginia">The Howards of Virginia</a></i> (1940)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Cheers_for_Miss_Bishop" title="Cheers for Miss Bishop">Cheers for Miss Bishop</a></i> (1941)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/One_Foot_in_Heaven" title="One Foot in Heaven">One Foot in Heaven</a></i> (1941)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Hi_Diddle_Diddle" title="Hi Diddle Diddle">Hi Diddle Diddle</a></i> (1943)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/In_Old_Oklahoma" title="In Old Oklahoma">In Old Oklahoma</a></i> (1943)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/So_Well_Remembered" title="So Well Remembered">So Well Remembered</a></i> (1947)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Desperate_Hours_(film)" title="The Desperate Hours (film)">The Desperate Hours</a></i> (1955)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Ten_Commandments_(1956_film)" title="The Ten Commandments (1956 film)">The Ten Commandments</a></i> (1956)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Sayonara" title="Sayonara">Sayonara</a></i> (1957)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Ben-Hur_(1959_film)" title="Ben-Hur (1959 film)">Ben-Hur</a></i> (1959)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Charlotte%27s_Web_(1973_film)" title="Charlotte's Web (1973 film)">Charlotte's Web</a></i> (1973) (voice)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Thursday%27s_Game" title="Thursday's Game">Thursday's Game</a></i> (1974) (TV)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Airport_1975" title="Airport 1975">Airport 1975</a></i> (1974)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/The_Turning_Point_(1977_film)" title="The Turning Point (1977 film)">The Turning Point</a></i> (1977)</li>
+	<li><i><a class="external" href="http://en.wikipedia.org/wiki/Adam_(TV_film)" title="Adam (TV film)">Adam</a></i> (1983) (TV)</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="References">References</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/name/nm0779549/" rel="nofollow">Martha Scott</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	<li><a href="http://www.ibdb.com/person.asp?ID=59425" rel="nofollow">Martha Scott</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Broadway_Database" title="Internet Broadway Database">Internet Broadway Database</a></li>
+	<li><a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=7512665" rel="nofollow">Martha Scott</a> at <a class="external" href="http://en.wikipedia.org/wiki/Find_a_Grave" title="Find a Grave">Find a Grave</a></li>
+      </ul>
+    </wiki:description>
+  </wiki:person>
+  <wiki:film-title link="/wiki/Our_Town_(1940_film)">Our Town</wiki:film-title>
+  <wiki:film link="/wiki/Our_Town_(1940_film)" title="Our Town">
+    <wiki:oscar-ref year="1940" span="1" winner="false" award="lead-actress" person-link="/wiki/Martha_Scott" person-name="Martha Scott"/>
+    <wiki:oscar year="1940" span="1" winner="false" award="best-picture"/>
+    <wiki:producer link="/wiki/Sol_Lesser">Sol Lesser</wiki:producer>
+    <wiki:director link="/wiki/Sam_Wood">Sam Wood</wiki:director>
+    <wiki:writer link="/wiki/Thornton_Wilder">Thornton Wilder</wiki:writer>
+    <wiki:distributor link="/wiki/United_Artists">United Artists</wiki:distributor>
+    <wiki:starring link="/wiki/William_Holden">William Holden</wiki:starring>
+    <wiki:starring link="/wiki/Martha_Scott">Martha Scott</wiki:starring>
+    <wiki:starring link="/wiki/Fay_Bainter">Fay Bainter</wiki:starring>
+    <wiki:language link="/wiki/English_language">English</wiki:language>
+    <wiki:description>
+      <wiki:abstract>
+	<p xmlns="http://www.w3.org/1999/xhtml"><i><b>Our Town</b></i> is a <a class="external" href="http://en.wikipedia.org/wiki/1940_in_film" title="1940 in film">1940</a> film adaptation of a <a class="external" href="http://en.wikipedia.org/wiki/Play_(theatre)" title="Play (theatre)">play</a> of the <a class="external" href="http://en.wikipedia.org/wiki/Our_Town" title="Our Town">same name</a> by <a class="external" href="http://en.wikipedia.org/wiki/Thornton_Wilder" title="Thornton Wilder">Thornton Wilder</a> starring <a class="external" href="http://en.wikipedia.org/wiki/William_Holden" title="William Holden">William Holden</a>, <a class="external" href="http://en.wikipedia.org/wiki/Martha_Scott" title="Martha Scott">Martha Scott</a>, <a class="external" href="http://en.wikipedia.org/wiki/Fay_Bainter" title="Fay Bainter">Fay Bainter</a>, <a class="external" href="http://en.wikipedia.org/wiki/Beulah_Bondi" title="Beulah Bondi">Beulah Bondi</a>, <a class="external" href="http://en.wikipedia.org/wiki/Thomas_Mitchell_(actor)" title="Thomas Mitchell (actor)">Thomas Mitchell</a>, <a class="external" href="http://en.wikipedia.org/wiki/Guy_Kibbee" title="Guy Kibbee">Guy Kibbee</a> and <a class="external" href="http://en.wikipedia.org/wiki/Frank_Craven" title="Frank Craven">Frank Craven</a>. It was adapted by <a class="external" href="http://en.wikipedia.org/w/index.php?title=Harry_Chandlee&amp;action=edit&amp;redlink=1" title="Harry Chandlee (page does not exist)">Harry Chandlee</a>, Craven and Wilder. It was directed by <a class="external" href="http://en.wikipedia.org/wiki/Sam_Wood" title="Sam Wood">Sam Wood</a>. The movie was nominated for the <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture" title="Academy Award for Best Picture">Academy Award for Best Picture</a>.  Scott, who repeated her stage role as Emily Webb, was nominated for the <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actress" title="Academy Award for Best Actress">Academy Award for Best Actress</a>, and <a class="external" href="http://en.wikipedia.org/wiki/Aaron_Copland" title="Aaron Copland">Aaron Copland</a> was nominated for <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Original_Music_Score" title="Academy Award for Original Music Score">Best Score</a>.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">The film was a faithful reproduction of the play except for two significant changes: the film used scenery, where the play had not, and the events of the third act, which in the play revolve around the death of one of the main characters, were turned into a dream that she awakens from, able to resume a normal life. Producer <a class="external" href="http://en.wikipedia.org/wiki/Sol_Lesser" title="Sol Lesser">Sol Lesser</a> worked with Wilder in creating these changes.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">A radio adaptation of the film on <i><a class="external" href="http://en.wikipedia.org/wiki/Lux_Radio_Theater" title="Lux Radio Theater">Lux Radio Theater</a></i> on May 6, 1940 with Holden and Scott, used the altered film ending.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">The U.S. copyright of the film was not renewed after its first term expired in 1968, although because it is a <a class="external" href="http://en.wikipedia.org/wiki/Derivative_work" title="Derivative work">derivative work</a> from a play that is still under U.S. copyright, it cannot be said to be in the <a class="external" href="http://en.wikipedia.org/wiki/Public_domain" title="Public domain">public domain</a>.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Cast">Cast</span></h2>
+	<ul xmlns="http://www.w3.org/1999/xhtml">
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/William_Holden" title="William Holden">William Holden</a> - George Gibbs</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Martha_Scott" title="Martha Scott">Martha Scott</a> - Emily Webb</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Fay_Bainter" title="Fay Bainter">Fay Bainter</a> - Mrs. Gibbs</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Beulah_Bondi" title="Beulah Bondi">Beulah Bondi</a> - Mrs. Webb</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Thomas_Mitchell_(actor)" title="Thomas Mitchell (actor)">Thomas Mitchell</a> - Doc Gibbs</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Guy_Kibbee" title="Guy Kibbee">Guy Kibbee</a> - Mr. Webb</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Stuart_Erwin" title="Stuart Erwin">Stuart Erwin</a> - Howie Newsome</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Frank_Craven" title="Frank Craven">Frank Craven</a> - Stage Manager</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Doro_Merande" title="Doro Merande">Doro Merande</a> - Mrs. Louella Soames</li>
+	  <li><a class="external" href="http://en.wikipedia.org/w/index.php?title=Philip_Wood&amp;action=edit&amp;redlink=1" title="Philip Wood (page does not exist)">Philip Wood</a> - Simon Stimson</li>
+	  <li><a class="external" href="http://en.wikipedia.org/w/index.php?title=Ruth_Tobey&amp;action=edit&amp;redlink=1" title="Ruth Tobey (page does not exist)">Ruth Tobey</a> - Rebecca Gibbs (as Ruth Toby)</li>
+	  <li><a class="external" href="http://en.wikipedia.org/w/index.php?title=Douglas_Gardner&amp;action=edit&amp;redlink=1" title="Douglas Gardner (page does not exist)">Douglas Gardner</a> - Wally Webb</li>
+	  <li><a class="external" href="http://en.wikipedia.org/w/index.php?title=Arthur_B._Allen&amp;action=edit&amp;redlink=1" title="Arthur B. Allen (page does not exist)">Arthur B. Allen</a> - Prof. Willard (as Arthur Allen)</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Charles_Trowbridge" title="Charles Trowbridge">Charles Trowbridge</a> - Rev. Dr. Ferguson</li>
+	  <li><a class="external" href="http://en.wikipedia.org/wiki/Spencer_Charters" title="Spencer Charters">Spencer Charters</a> - Const. Bill Warren</li>
+	</ul>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="References">References</span></h2>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+	<ul xmlns="http://www.w3.org/1999/xhtml">
+	  <li><a href="http://www.imdb.com/title/tt0032881/" rel="nofollow"><i>Our Town</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	  <li><i><a href="http://www.archive.org/details/Our_Town" rel="nofollow">Our Town</a></i> available for free download at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Archive" title="Internet Archive">Internet Archive</a> <small>[</small><a class="external" href="http://en.wikipedia.org/wiki/Special:WhatLinksHere/Template:Internet_Archive_film" title="Special:WhatLinksHere/Template:Internet Archive film"><small><i>more</i></small></a><small>]</small></li>
+	</ul>
+      </wiki:abstract>
+    </wiki:description>
+  </wiki:film>
+</wiki:nominee>

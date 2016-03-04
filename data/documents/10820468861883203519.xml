@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="1966" span="1" winner="false" award="supporting-actress" xmlns:wiki="http://marklogic.com/wikipedia">
+  <!--
+                            Copyright (c) 2010 MarkLogic Corporation.
+                            Permission is granted to copy, distribute and/or modify this document
+                            under the terms of the GNU Free Documentation License, Version 1.2
+                            or any later version published by the Free Software Foundation;
+                            with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+                            A copy of the license is included in the section entitled "GNU
+                            Free Documentation License"
+                            
+                            Content derived from http://en.wikipedia.org/wiki/Alfie_(1966_film) and http://en.wikipedia.org/wiki/Vivien_Merchant
+                            Modified in May 2009 by Mark Logic Corporation under the terms of the GNU Free Documentation License.
+                        -->
+  <wiki:name link="/wiki/Vivien_Merchant">Vivien Merchant</wiki:name>
+  <wiki:person link="/wiki/Vivien_Merchant" name="Vivien Merchant">
+    <wiki:oscar year="1966" span="1" winner="false" award="supporting-actress" film-link="/wiki/Alfie_(1966_film)" film-title="Alfie"/>
+    <wiki:image link="http://upload.wikimedia.org/wikipedia/en/3/38/Vivien_Merchant.png"/>
+    <wiki:birth>
+      <wiki:date>1929-07-22</wiki:date>
+      <wiki:place>
+	<wiki:primary link="/wiki/Manchester">Manchester</wiki:primary>
+	<wiki:secondary link="/wiki/Lancashire">Lancashire</wiki:secondary>
+      <enrich><woeid xmlns="http://where.yahooapis.com/v1/schema.rng">12695841</woeid><placeTypeName code="10" xmlns="http://where.yahooapis.com/v1/schema.rng">Local Administrative Area</placeTypeName><name xmlns="http://where.yahooapis.com/v1/schema.rng">Manchester City</name><country code="GB" type="Country" xmlns="http://where.yahooapis.com/v1/schema.rng">United Kingdom</country><admin1 code="GB-ENG" type="Country" xmlns="http://where.yahooapis.com/v1/schema.rng">England</admin1><admin2 code="GB-GTM" type="County" xmlns="http://where.yahooapis.com/v1/schema.rng">Greater Manchester</admin2><admin3 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality1 xmlns="http://where.yahooapis.com/v1/schema.rng"/><locality2 xmlns="http://where.yahooapis.com/v1/schema.rng"/><postal xmlns="http://where.yahooapis.com/v1/schema.rng"/><centroid xmlns="http://where.yahooapis.com/v1/schema.rng"><latitude>53.442299</latitude><longitude>-2.233410</longitude></centroid><boundingBox xmlns="http://where.yahooapis.com/v1/schema.rng"><southWest><latitude>53.340141</latitude><longitude>-2.319970</longitude></southWest><northEast><latitude>53.544449</latitude><longitude>-2.146850</longitude></northEast></boundingBox><areaRank xmlns="http://where.yahooapis.com/v1/schema.rng">5</areaRank><popRank xmlns="http://where.yahooapis.com/v1/schema.rng">0</popRank></enrich></wiki:place>
+    </wiki:birth>
+    <wiki:death>
+      <wiki:date>3 October 1982</wiki:date>
+      <wiki:place>
+	<wiki:primary link="/wiki/London">London</wiki:primary>
+	<wiki:secondary link="/wiki/England">England</wiki:secondary>
+      </wiki:place>
+    </wiki:death>
+    <wiki:description>
+      <p xmlns="http://www.w3.org/1999/xhtml"><b>Vivien Merchant</b> (born Ada Thompson 22 July 1929 â€“ 3 October 1982) was a <a class="external" href="http://en.wikipedia.org/wiki/United_Kingdom" title="United Kingdom">British</a> actress. She performed in many stage productions and several films, including <i><a class="external" href="http://en.wikipedia.org/wiki/Alfie_(1966_film)" title="Alfie (1966 film)">Alfie</a></i> (1966) and <i><a class="external" href="http://en.wikipedia.org/wiki/Frenzy" title="Frenzy">Frenzy</a></i> (1972). Her performance in <i>Alfie</i> earned her Academy Award and Golden Globe nominations for Best Supporting Actress, and the National Board of Review Award for Best Supporting Actress.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">She was the first wife of the <a class="external" href="http://en.wikipedia.org/wiki/Playwright" title="Playwright">playwright</a> <a class="external" href="http://en.wikipedia.org/wiki/Harold_Pinter" title="Harold Pinter">Harold Pinter</a>, whom she met when working as a <a class="external" href="http://en.wikipedia.org/wiki/Repertory" title="Repertory">repertory</a> actress and married in 1956. Their son, Daniel, was born in 1958. Having performed the role of Rose in a production of his first play, <i><a class="external" href="http://en.wikipedia.org/wiki/The_Room" title="The Room">The Room</a></i> (1957) at the <a class="external" href="http://en.wikipedia.org/wiki/Hampstead_Theatre" title="Hampstead Theatre">Hampstead Theatre</a> in 1960, she also appeared in many of Pinter's subsequent works, including as Ruth in <i><a class="external" href="http://en.wikipedia.org/wiki/The_Homecoming" title="The Homecoming">The Homecoming</a></i> (1964) on stage (1965) and screen (<a class="external" href="http://en.wikipedia.org/wiki/The_Homecoming_(film)" title="The Homecoming (film)">The Homecoming</a>, 1973). The last of his plays in which she performed was <i><a class="external" href="http://en.wikipedia.org/wiki/Old_Times" title="Old Times">Old Times</a></i> (1971) as Anna.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Their marriage began disintegrating in the mid-1960s. From 1962 to 1969, Harold Pinter had a clandestine affair with <a class="external" href="http://en.wikipedia.org/wiki/Joan_Bakewell" title="Joan Bakewell">Joan Bakewell</a>, which informs Pinter's play <i><a class="external" href="http://en.wikipedia.org/wiki/Betrayal_(play)" title="Betrayal (play)">Betrayal</a></i> and his film adaptation, also called <i><a class="external" href="http://en.wikipedia.org/wiki/Betrayal_(1983_film)" title="Betrayal (1983 film)">Betrayal</a></i>.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">In 1975 Pinter began a serious affair with the <a class="external" href="http://en.wikipedia.org/wiki/Historian" title="Historian">historian</a> Lady <a class="external" href="http://en.wikipedia.org/wiki/Antonia_Fraser" title="Antonia Fraser">Antonia Fraser</a>, the wife of Sir <a class="external" href="http://en.wikipedia.org/wiki/Hugh_Fraser_(politician)" title="Hugh Fraser (politician)">Hugh Fraser</a>, which he confessed to his wife that March. At first, Merchant took it very well, saying positive things about Fraser, according to her friend artist Guy Vaesen (as cited by Billington); but, Vaesen recalled, after "a female friend of Vivien's trotted round to her house and poisoned her mind against Antonia ... Life in Hanover Terrace [where the Pinters then lived] gradually became impossible". Pinter left, and Vivien Merchant filed for divorce and gave interviews to the <a class="external" href="http://en.wikipedia.org/wiki/Tabloid" title="Tabloid">tabloid press</a>, expressing her distress. The Frasers' divorce became final in 1977 and the Pinters' in 1980. In 1980 Pinter married Antonia Fraser.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">Vivien Merchant never overcame her grief and bitterness at losing Pinter, dying at the age of 53 on 3 October 1982, from acute alcoholism.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Notes">Notes</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/name/nm0580357/" rel="nofollow">Vivien Merchant</a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+      </ul>
+    </wiki:description>
+  </wiki:person>
+  <wiki:film-title link="/wiki/Alfie_(1966_film)">Alfie</wiki:film-title>
+  <wiki:film link="/wiki/Alfie_(1966_film)" title="Alfie">
+    <wiki:oscar-ref year="1966" span="1" winner="false" award="lead-actor" person-link="/wiki/Michael_Caine" person-name="Michael Caine"/>
+    <wiki:oscar-ref year="1966" span="1" winner="false" award="supporting-actress" person-link="/wiki/Vivien_Merchant" person-name="Vivien Merchant"/>
+    <wiki:oscar year="1966" span="1" winner="false" award="best-picture"/>
+    <wiki:director link="/wiki/Lewis_Gilbert">Lewis Gilbert</wiki:director>
+    <wiki:writer link="/wiki/Bill_Naughton">Bill Naughton</wiki:writer>
+    <wiki:distributor link="/wiki/Paramount_Pictures">Paramount Pictures</wiki:distributor>
+    <wiki:starring link="/wiki/Michael_Caine">Michael Caine</wiki:starring>
+    <wiki:starring link="/wiki/Shelley_Winters">Shelley Winters</wiki:starring>
+    <wiki:starring link="/wiki/Millicent_Martin">Millicent Martin</wiki:starring>
+    <wiki:starring link="/wiki/Vivien_Merchant">Vivien Merchant</wiki:starring>
+    <wiki:description>
+      <wiki:abstract>
+	<p xmlns="http://www.w3.org/1999/xhtml"><i><b>Alfie</b></i> is a <a class="external" href="http://en.wikipedia.org/wiki/1966_in_film" title="1966 in film">1966</a> <a class="external" href="http://en.wikipedia.org/wiki/British_film" title="British film">British film</a> directed by <a class="external" href="http://en.wikipedia.org/wiki/Lewis_Gilbert" title="Lewis Gilbert">Lewis Gilbert</a>, starring <a class="external" href="http://en.wikipedia.org/wiki/Michael_Caine" title="Michael Caine">Michael Caine</a>. It is an adaptation by <a class="external" href="http://en.wikipedia.org/wiki/Bill_Naughton" title="Bill Naughton">Bill Naughton</a> of his own <a class="external" href="http://en.wikipedia.org/wiki/Novel" title="Novel">novel</a> and <a class="external" href="http://en.wikipedia.org/wiki/Play_(theatre)" title="Play (theatre)">play</a> of the same name. The film was released by <a class="external" href="http://en.wikipedia.org/wiki/Paramount_Pictures" title="Paramount Pictures">Paramount Pictures</a>.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml"><i>Alfie</i> tells the story of a young man who leads a promiscuous lifestyle until several life reversals make him rethink his purposes and goals in life. Alfie frequently breaks the <a class="external" href="http://en.wikipedia.org/wiki/Fourth_wall" title="Fourth wall">fourth wall</a> by speaking directly to the camera narrating and justifying his actions. His words often contrast and/or totally contradict his actions.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Synopsis">Synopsis</span></h2>
+	<p xmlns="http://www.w3.org/1999/xhtml">The film begins with Alfie Elkins (Caine) ending a relationship with a married woman (Martin) and getting the woman from another of his affairs pregnant (<a class="external" href="http://en.wikipedia.org/wiki/Julia_Foster" title="Julia Foster">Julia Foster</a>). The film then follows his life for a few years, documenting events that lead to the character's emotional growth, starting with the birth of his son.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">Watching his child grow brings out a more caring side of Alfie, including his having a health check in case of hereditary diseases, but his inability to commit to the child's mother leads to her marrying a bus conductor (<a class="external" href="http://en.wikipedia.org/wiki/Graham_Stark" title="Graham Stark">Graham Stark</a>). The health check reveals Alfie has shadows on his lungs, and this, combined with being banned from seeing his son, leads him to have a small breakdown.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">Alfie then spends some time in a convalescent home. Here he meets Harry (<a class="external" href="http://en.wikipedia.org/wiki/Alfie_Bass" title="Alfie Bass">Alfie Bass</a>), who confronts him about his delusion that he is doing no harm, and Harry's wife (<a class="external" href="http://en.wikipedia.org/wiki/Vivien_Merchant" title="Vivien Merchant">Vivien Merchant</a>), who he gets pregnant in a <a class="external" href="http://en.wikipedia.org/wiki/One-night_stand" title="One-night stand">one-night stand</a>. The subsequent abortion is a turning point for the character, and the only time other than his passing out/breakdown where he exhibits real emotion - breaking down in tears at the sight of the aborted fetus.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">At the film's climax, Alfie decides to change his non-committal ways and settle down. He chooses Ruby (<a class="external" href="http://en.wikipedia.org/wiki/Shelley_Winters" title="Shelley Winters">Shelley Winters</a>), who is an older, voluptuous and promiscuous American he met while working taking holiday photos. Unfortunately, the day he chooses to suggest this to Ruby, he finds a younger man in her bed, leaving him disheartened at the film's end and wondering â€œWhat's it all about? You know what I mean.â€&#157;</p>
+      </wiki:abstract>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Music">Music</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Awards_and_recognition">Awards and recognition</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">The film won the <a class="external" href="http://en.wikipedia.org/wiki/Jury_Prize_(Cannes_Film_Festival)" title="Jury Prize (Cannes Film Festival)">Special Jury Prize</a> at the <a class="external" href="http://en.wikipedia.org/wiki/1966_Cannes_Film_Festival" title="1966 Cannes Film Festival">1966 Cannes Film Festival</a>. It was also nominated for several <a class="external" href="http://en.wikipedia.org/wiki/Academy_Awards" title="Academy Awards">Academy Awards</a> including <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actor" title="Academy Award for Best Actor">Best Actor in a Leading Role</a> (Michael Caine), <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Supporting_Actress" title="Academy Award for Best Supporting Actress">Best Actress in a Supporting Role</a> (<a class="external" href="http://en.wikipedia.org/wiki/Vivien_Merchant" title="Vivien Merchant">Vivien Merchant</a>), <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Song" title="Academy Award for Best Song">Best Song</a> (<a class="external" href="http://en.wikipedia.org/wiki/Burt_Bacharach" title="Burt Bacharach">Burt Bacharach</a> and <a class="external" href="http://en.wikipedia.org/wiki/Hal_David" title="Hal David">Hal David</a> for "<a class="external" href="http://en.wikipedia.org/wiki/Alfie_(song)" title="Alfie (song)">Alfie</a>") (a UK hit record for <a class="external" href="http://en.wikipedia.org/wiki/Cilla_Black" title="Cilla Black">Cilla Black</a>, but performed by <a class="external" href="http://en.wikipedia.org/wiki/Millicent_Martin" title="Millicent Martin">Millicent Martin</a> in the original UK release and <a class="external" href="http://en.wikipedia.org/wiki/Cher" title="Cher">Cher</a> in the American print of the movie), <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture" title="Academy Award for Best Picture">Best Picture</a> and <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Writing_Adapted_Screenplay" title="Academy Award for Writing Adapted Screenplay">Best Writing (Screenplay Based on Material from Another Medium)</a>.</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">In 2004 the <a class="external" href="http://en.wikipedia.org/wiki/Magazine" title="Magazine">magazine</a> <i><a class="external" href="http://en.wikipedia.org/wiki/Total_Film" title="Total Film">Total Film</a></i> named it the 48th greatest British film of all time.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Cast">Cast</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Michael_Caine" title="Michael Caine">Michael Caine</a> - Alfie Elkins</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Shelley_Winters" title="Shelley Winters">Shelley Winters</a> - Ruby</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Millicent_Martin" title="Millicent Martin">Millicent Martin</a> - Siddie</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Julia_Foster" title="Julia Foster">Julia Foster</a> - Gilda</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Jane_Asher" title="Jane Asher">Jane Asher</a> - Annie</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Shirley_Anne_Field" title="Shirley Anne Field">Shirley Anne Field</a> - Carla</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Vivien_Merchant" title="Vivien Merchant">Vivien Merchant</a> - Lily</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Eleanor_Bron" title="Eleanor Bron">Eleanor Bron</a> - The Doctor</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Denholm_Elliott" title="Denholm Elliott">Denholm Elliott</a> - The Abortionist</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Alfie_Bass" title="Alfie Bass">Alfie Bass</a> - Harry Clamacraft</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Graham_Stark" title="Graham Stark">Graham Stark</a> - Humphrey</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Murray_Melvin" title="Murray Melvin">Murray Melvin</a> - Nat</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Sydney_Tafler" title="Sydney Tafler">Sydney Tafler</a> - Frank</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Remake">Remake</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml">The film was <a class="external" href="http://en.wikipedia.org/wiki/Remake" title="Remake">remade</a> in <a class="external" href="http://en.wikipedia.org/wiki/2004" title="2004">2004</a> in an updated version starring <a class="external" href="http://en.wikipedia.org/wiki/Jude_Law" title="Jude Law">Jude Law</a>.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Popular_culture_references">Popular culture references</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>Much dialogue from the film was sampled by the band <a class="external" href="http://en.wikipedia.org/wiki/Carter_USM" title="Carter USM">Carter USM</a> for their <a class="external" href="http://en.wikipedia.org/wiki/1991" title="1991">1991</a> album <i>30 Something</i>.</li>
+      </ul>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>The LP, "Nino Tempo's Rock 'N Roll Beach Party" (1956 Liberty Records â€¦ LRP3023) can be seen hanging in Alfie's apartment in several key scenes.</li>
+      </ul>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>New York <a class="external" href="http://en.wikipedia.org/wiki/Post-hardcore" title="Post-hardcore">post-hardcore</a> band <a class="external" href="http://en.wikipedia.org/wiki/Polar_Bear_Club" title="Polar Bear Club">Polar Bear Club</a> references "Alfie Elkins '66" in their song "Drifting Thing" off their 2009 release <a class="external" href="http://en.wikipedia.org/wiki/Chasing_Hamburg" title="Chasing Hamburg">Chasing Hamburg</a>.</li>
+      </ul>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li>The soundtrack to <i><a class="external" href="http://en.wikipedia.org/wiki/Austin_Powers_in_Goldmember" title="Austin Powers in Goldmember">Austin Powers in Goldmember</a></i> (in which <a class="external" href="http://en.wikipedia.org/wiki/Michael_Caine" title="Michael Caine">Michael Caine</a> appears) contains a song entitled "Alfie (What's it All About Austin)". This song is a cover of the title song of the movie, with all occurrences of "Alfie" replaced with "Austin".</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="See_also">See also</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/BFI_Top_100_British_films" title="BFI Top 100 British films">BFI Top 100 British films</a></li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="References">References</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/title/tt0060086/" rel="nofollow"><i>Alfie</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+	<li><a href="http://www.allmovie.com/work/1446" rel="nofollow"><i>Alfie</i></a> at <a class="external" href="http://en.wikipedia.org/wiki/Allmovie" title="Allmovie">Allmovie</a></li>
+	<li><span class="citation web"><a href="http://caine-home.narod.ru/60-16/60-16.html" rel="nofollow">"Michael Caine's Russian Home"</a> (in <a class="external" href="http://en.wikipedia.org/wiki/Russian_language" title="Russian language">Russian language</a>). caine-home.narod.ru<span class="printonly">. <a href="http://caine-home.narod.ru/60-16/60-16.html" rel="nofollow">http://caine-home.narod.ru/60-16/60-16.html</a></span><span class="reference-accessdate">. Retrieved 2008-03-31</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Michael+Caine%27s+Russian+Home&amp;rft.atitle=&amp;rft.pub=caine-home.narod.ru&amp;rft_id=http%3A%2F%2Fcaine-home.narod.ru%2F60-16%2F60-16.html&amp;rfr_id=info:sid/en.wikipedia.org:Alfie_(1966_film)"><span style="display: none;">Â </span></span>, Screenshots from the film</li>
+      </ul>
+    </wiki:description>
+  </wiki:film>
+</wiki:nominee>

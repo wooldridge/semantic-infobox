@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki:nominee year="1943" span="1" winner="false" award="best-picture" xmlns:wiki="http://marklogic.com/wikipedia">
+  <!--
+                            Copyright (c) 2010 MarkLogic Corporation.
+                            Permission is granted to copy, distribute and/or modify this document
+                            under the terms of the GNU Free Documentation License, Version 1.2
+                            or any later version published by the Free Software Foundation;
+                            with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+                            A copy of the license is included in the section entitled "GNU
+                            Free Documentation License"
+                            
+                            Content derived from http://en.wikipedia.org/wiki/The_More_the_Merrier
+                            Modified in May 2009 by Mark Logic Corporation under the terms of the GNU Free Documentation License.
+                        -->
+  <wiki:film-title link="/wiki/The_More_the_Merrier">The More the Merrier</wiki:film-title>
+  <wiki:film link="/wiki/The_More_the_Merrier" title="The More the Merrier">
+    <wiki:oscar-ref year="1943" span="1" winner="false" award="lead-actress" person-link="/wiki/Jean_Arthur" person-name="Jean Arthur"/>
+    <wiki:oscar-ref year="1943" span="1" winner="false" award="best-director" person-link="/wiki/George_Stevens" person-name="George Stevens"/>
+    <wiki:oscar-ref year="1943" span="1" winner="true" award="supporting-actor" person-link="/wiki/Charles_Coburn" person-name="Charles Coburn"/>
+    <wiki:oscar year="1943" span="1" winner="false" award="best-picture"/>
+    <wiki:director link="/wiki/George_Stevens">George Stevens</wiki:director>
+    <wiki:writer link="/wiki/Robert_Russell">Robert Russell</wiki:writer>
+    <wiki:writer link="/wiki/Frank_Ross_(producer)">Frank Ross</wiki:writer>
+    <wiki:writer link="/wiki/Lewis_R._Foster">Lewis R. Foster</wiki:writer>
+    <wiki:writer link="/wiki/Garson_Kanin">Garson Kanin</wiki:writer>
+    <wiki:distributor link="/wiki/Columbia_Pictures">Columbia Pictures</wiki:distributor>
+    <wiki:starring link="/wiki/Jean_Arthur">Jean Arthur</wiki:starring>
+    <wiki:starring link="/wiki/Joel_McCrea">Joel McCrea</wiki:starring>
+    <wiki:starring link="/wiki/Charles_Coburn">Charles Coburn</wiki:starring>
+    <wiki:description>
+      <wiki:abstract>
+	<p xmlns="http://www.w3.org/1999/xhtml"><i><b>The More the Merrier</b></i> is a 1943 American comedy film made by <a class="external" href="http://en.wikipedia.org/wiki/Columbia_Pictures" title="Columbia Pictures">Columbia Pictures</a> which makes fun of the housing shortage during <a class="external" href="http://en.wikipedia.org/wiki/World_War_II" title="World War II">World War II</a>, especially in <a class="external" href="http://en.wikipedia.org/wiki/Washington,_D.C." title="Washington, D.C.">Washington, D.C.</a>. It stars <a class="external" href="http://en.wikipedia.org/wiki/Jean_Arthur" title="Jean Arthur">Jean Arthur</a>, <a class="external" href="http://en.wikipedia.org/wiki/Joel_McCrea" title="Joel McCrea">Joel McCrea</a>, <a class="external" href="http://en.wikipedia.org/wiki/Charles_Coburn" title="Charles Coburn">Charles Coburn</a>, <a class="external" href="http://en.wikipedia.org/wiki/Stanley_Clements" title="Stanley Clements">Stanley Clements</a> and Richard Gaines. The movie was directed by <a class="external" href="http://en.wikipedia.org/wiki/George_Stevens" title="George Stevens">George Stevens</a> and written by Richard Flournoy, <a class="external" href="http://en.wikipedia.org/wiki/Lewis_R._Foster" title="Lewis R. Foster">Lewis R. Foster</a>, <a class="external" href="http://en.wikipedia.org/wiki/Garson_Kanin" title="Garson Kanin">Garson Kanin</a> (uncredited), <a class="external" href="http://en.wikipedia.org/wiki/Frank_Ross_(producer)" title="Frank Ross (producer)">Frank Ross</a> (who was Jean Arthur's husband at the time), and <a class="external" href="http://en.wikipedia.org/wiki/Robert_Russell" title="Robert Russell">Robert Russell</a>.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">Coburn won the <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Supporting_Actor" title="Academy Award for Best Supporting Actor">Academy Award for Best Supporting Actor</a>, while Arthur was nominated for <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Actress" title="Academy Award for Best Actress">Best Actress in a Leading Role</a>. Other nominations included <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Directing" title="Academy Award for Directing">Best Director</a>, <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture" title="Academy Award for Best Picture">Best Picture</a>, <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Best_Story" title="Academy Award for Best Story">Best Writing, Original Story</a> and <a class="external" href="http://en.wikipedia.org/wiki/Academy_Award_for_Writing_Original_Screenplay" title="Academy Award for Writing Original Screenplay">Best Writing, Screenplay</a>.</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">This film was remade in 1966 as <i><a class="external" href="http://en.wikipedia.org/wiki/Walk,_Don%27t_Run" title="Walk, Don't Run">Walk, Don't Run</a></i>, with <a class="external" href="http://en.wikipedia.org/wiki/Cary_Grant" title="Cary Grant">Cary Grant</a>, <a class="external" href="http://en.wikipedia.org/wiki/Samantha_Eggar" title="Samantha Eggar">Samantha Eggar</a> and <a class="external" href="http://en.wikipedia.org/wiki/Jim_Hutton" title="Jim Hutton">Jim Hutton</a>.</p>
+	<h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Plot">Plot</span></h2>
+	<p xmlns="http://www.w3.org/1999/xhtml">During World War II, retired millionaire Benjamin Dingle (Charles Coburn) arrives in Washington, D.C. as an adviser on the housing shortage and finds that his hotel suite will not be available for two days. He sees an ad for a roommate and talks the reluctant young woman, Connie Milligan (Jean Arthur), into letting him <a class="external" href="http://en.wikipedia.org/wiki/Sublet" title="Sublet">sublet</a> half of her apartment. Then he runs into Sergeant Joe Carter (Joel McCrea), who has no place to stay while he waits to be shipped overseas. Dingle generously rents him half of his half.</p>
+      </wiki:abstract>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Cast">Cast</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Jean_Arthur" title="Jean Arthur">Jean Arthur</a> as Constance Milligan</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Joel_McCrea" title="Joel McCrea">Joel McCrea</a> as Joe Carter</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Charles_Coburn" title="Charles Coburn">Charles Coburn</a> as Benjamin Dingle</li>
+	<li><a class="external" href="http://en.wikipedia.org/w/index.php?title=Richard_Gaines&amp;action=edit&amp;redlink=1" title="Richard Gaines (page does not exist)">Richard Gaines</a> as Charles J. Pendergast</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Bruce_Bennett" title="Bruce Bennett">Bruce Bennett</a> as FBI Agent Evans</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Frank_Sully" title="Frank Sully">Frank Sully</a> as FBI Agent Pike</li>
+	<li>Clyde Fillmore as Senator Noonan</li>
+	<li><a class="external" href="http://en.wikipedia.org/wiki/Stanley_Clements" title="Stanley Clements">Stanley Clements</a> as Morton Rodakiewicz</li>
+	<li>Jean Stevens as Dancer (as Peggy Carroll)</li>
+      </ul>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="DVD_release">DVD release</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Reception">Reception</span></h2>
+      <p xmlns="http://www.w3.org/1999/xhtml"><a class="external" href="http://en.wikipedia.org/wiki/Bosley_Crowther" title="Bosley Crowther">Bosley Crowther</a> of <i><a class="external" href="http://en.wikipedia.org/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i> enjoyed the film, calling it "as warm and refreshing a ray of sunshine as we've had in a very late Spring." He praised all three leads, the writers, and the director, singling out Coburn as "the comical crux of the film" who "handles the job in fine fettle." <i><a class="external" href="http://en.wikipedia.org/wiki/TV_Guide" title="TV Guide">TV Guide</a></i> characterizes it as "a delightful and effervescent comedy marked with terrific performances" and praises Coburn as "nothing short of superb, stealing scene after scene with astonishing ease. Time Out Film Guide notes that, "despite a belated drift towards sentimentality, this remains a refreshingly intimate movie."</p>
+      <p xmlns="http://www.w3.org/1999/xhtml">It currently has a 100% fresh rating on the <a class="external" href="http://en.wikipedia.org/wiki/Rotten_Tomatoes" title="Rotten Tomatoes">Rotten Tomatoes</a> website, certifying it as fresh.</p>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="Notes">Notes</span></h2>
+      <h2 xmlns="http://www.w3.org/1999/xhtml"> <span class="mw-headline" id="External_links">External links</span></h2>
+      <ul xmlns="http://www.w3.org/1999/xhtml">
+	<li><a href="http://www.imdb.com/title/tt0036172/" rel="nofollow"><i>The More the Merrier</i></a> at the <a class="external" href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+      </ul>
+    </wiki:description>
+  </wiki:film>
+</wiki:nominee>
