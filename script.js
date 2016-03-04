@@ -25,7 +25,7 @@ $('#submit').click(function(event) {
   var results = '';
   var results2 = '';
   // Get search results
-  var url = '/v1/search?format=json&view=all&options=all&start=1&pageLength=10&q=' + str;
+  var url = 'http://localhost:8000/v1/search?format=json&view=all&options=all&start=1&pageLength=10&q=' + str;
   $.get(url, function(data) {
     $('#spinner').hide();
     $('#summary').html('Results found: ' + data.total);
