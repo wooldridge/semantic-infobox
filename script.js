@@ -25,7 +25,7 @@ $('#submit').click(function(event) {
   var results = '';
   var results2 = '';
   // Get search results
-  var url = 'http://localhost:8000/v1/search?format=json&view=all&options=all&start=1&pageLength=10&q=' + str;
+  var url = '/search?q=' + str;
   $.get(url, function(data) {
     $('#spinner').hide();
     $('#summary').html('Results found: ' + data.total);
@@ -47,7 +47,7 @@ $('#submit').click(function(event) {
       }
       $('#results').html(results);
       // Get spotlight result
-      var url2 = '/semantic-infobox/data.sjs?query=' + first;
+      var url2 = '/sparql?q=' + first;
       $.get(url2, function(data2) {
         if (data2.name) {
           $('#infobox').show();
