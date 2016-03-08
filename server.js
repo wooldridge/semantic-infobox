@@ -1,3 +1,5 @@
+// NODE.JS MIDDLE TIER - NOT USED
+
 var request = require('request'),
     express = require('express');
 

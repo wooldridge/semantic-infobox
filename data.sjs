@@ -1,3 +1,5 @@
+// SERVER-SIDE SEMANTICS SCRIPT - NOT USED
+
 var sem = require('/MarkLogic/semantics.xqy');
 
 // Format search query from HTTP request (example: "Titanic"@en)
