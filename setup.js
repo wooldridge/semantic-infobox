@@ -1,4 +1,5 @@
-var request = require('request');
+var rp = require('request-promise'),
+    fs = require('fs');
 
 var auth = {
   user: 'admin',
@@ -6,7 +7,13 @@ var auth = {
   sendImmediately: false
 };
 
-var indexes = {
+function start() {
+  createDatabase();
+}
+
+var databaseConfig = {
+  "database-name": "infobox",
+  "triple-index": true,
   "range-element-index": [
     {
       "scalar-type": "string",
@@ -59,30 +66,107 @@ var indexes = {
   ],
 };
 
-request({
-  method: "PUT",
-  url: 'http://localhost:8002/manage/v2/databases/Documents/properties?format=json',
-  //body: JSON.stringify(indexes),
-  body: indexes,
-  json: true,
-  headers: {
-    'Content-Type': 'application/json'
-  },
-  auth: auth
-}, function (error, response) {
-  if (response) {
-    if ((response.statusCode >= 200) && (response.statusCode < 300)) {
-      console.log(JSON.stringify(response));
-    } else {
-      console.log('Error: '+ response.statusCode);
-      console.log(response);
-    }
-  } else {
-    console.log('Error: No response object');
-  }
-});
+function createDatabase() {
+  var options = {
+    method: 'POST',
+    uri: 'http://localhost:8002/manage/v2/databases',
+    body: databaseConfig,
+    json: true,
+    headers: {
+      'Content-Type': 'application/json'
+    },
+    auth: auth
+  };
+  rp(options)
+    .then(function (parsedBody) {
+      console.log('Database created');
+      getHost();
+    })
+    .catch(function (err) {
+      console.log(err);
+    });
+}
 
-var options = {
+function getHost() {
+  var options = {
+    method: 'GET',
+    uri: 'http://localhost:8002/manage/v2/hosts',
+    json: true,
+    headers: {
+      'Content-Type': 'application/json'
+    },
+    auth: auth
+  };
+  rp(options)
+    .then(function (parsedBody) {
+      var hostName = parsedBody['host-default-list']['list-items']['list-item'][0].nameref;
+      console.log('Host name: ' + hostName);
+      createForest(hostName);
+    })
+    .catch(function (err) {
+      console.log(err);
+    });
+}
+
+var forestConfig = {
+  "forest-name": "infobox",
+  "host": "macpro-3170.hq.marklogic.com",
+  "database": "infobox"
+}
+
+function createForest(hostName) {
+  var options = {
+    method: 'POST',
+    uri: 'http://localhost:8002/manage/v2/forests',
+    body: forestConfig,
+    json: true,
+    headers: {
+      'Content-Type': 'application/json'
+    },
+    auth: auth
+  };
+  rp(options)
+    .then(function (parsedBody) {
+      console.log('Forest created and attached');
+      createREST();
+    })
+    .catch(function (err) {
+      console.log(err);
+    });
+}
+
+var restConfig = {
+  "rest-api": {
+    "name": "infobox-rest",
+    "database": "infobox",
+    "modules-database": "infobox-modules",
+    "port": "8554",
+    "error-format": "json"
+  }
+}
+
+function createREST() {
+  var options = {
+    method: 'POST',
+    uri: 'http://localhost:8002/v1/rest-apis',
+    body: restConfig,
+    json: true,
+    headers: {
+      'Content-Type': 'application/json'
+    },
+    auth: auth
+  };
+  rp(options)
+    .then(function (parsedBody) {
+      console.log('REST instance created');
+      createOptions();
+    })
+    .catch(function (err) {
+      console.log(err);
+    });
+}
+
+var searchOptions = {
   "options": {
     "search-option": [
       "unfiltered"
@@ -402,30 +486,81 @@ var options = {
   }
 };
 
-var auth = {
-  user: 'admin',
-  pass: 'admin',
-  sendImmediately: false
-};
+function createOptions() {
+  var options = {
+    method: 'PUT',
+    uri: 'http://localhost:8554/v1/config/query/infobox',
+    body: searchOptions,
+    json: true,
+    headers: {
+      'Content-Type': 'application/json'
+    },
+    auth: auth
+  };
+  rp(options)
+    .then(function (parsedBody) {
+      console.log('Search options created');
+      loadDocs();
+    })
+    .catch(function (err) {
+      console.log(err);
+    });
+}
 
-request({
-  method: "PUT",
-  url: 'http://localhost:8000/v1/config/query/infobox',
-  body: JSON.stringify(options),
-  json: true,
-  headers: {
-    'Content-Type': 'application/json'
-  },
-  auth: auth
-}, function (error, response) {
-  if (response) {
-    if ((response.statusCode >= 200) && (response.statusCode < 300)) {
-      console.log(JSON.stringify(response));
-    } else {
-      console.log('Error: '+ response.statusCode);
-      console.log(response);
-    }
-  } else {
-    console.log('Error: No response object');
-  }
-});
+var docsPath = '/Users/mwooldri/semantic-infobox/data/documents/',
+    files = fs.readdirSync(docsPath);
+    count = 0;
+
+function loadDocs() {
+  var currDoc = files.shift();
+  count++;
+  var buffer;
+  buffer = fs.readFileSync(docsPath + currDoc);
+
+  var options = {
+    method: 'PUT',
+    uri: 'http://localhost:8554/v1/documents?uri=/oscars/' + currDoc,
+    body: buffer,
+    headers: {
+      'Content-Type': 'application/xml'
+    },
+    auth: auth
+  };
+  rp(options)
+    .then(function (parsedBody) {
+      console.log('Documents loaded: ' + count);
+      if (files.length > 0) {
+        loadDocs();
+      } else {
+        console.log('Documents loaded');
+        loadTriples();
+      }
+    })
+    .catch(function (err) {
+      console.log(err);
+    });
+}
+
+var triplesPath = '/Users/mwooldri/semantic-infobox/data/triples/oscartrips.ttl';
+
+function loadTriples() {
+  var content = fs.readFileSync(triplesPath);
+  var options = {
+    method: 'PUT',
+    uri: 'http://localhost:8554/v1/graphs?default',
+    body: content,
+    headers: {
+      'Content-Type': 'text/turtle'
+    },
+    auth: auth
+  };
+  rp(options)
+    .then(function (response) {
+      console.log('Triples loaded');
+    })
+    .catch(function (err) {
+      console.log(err);
+    });
+}
+
+start();
