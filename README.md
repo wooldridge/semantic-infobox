@@ -4,43 +4,35 @@ This project sets up an example search application in MarkLogic that includes a 
 
 https://developer.marklogic.com/learn/semantic-infopanel
 
-1. On your MarkLogic Server, use the Admin Interface (at http://your-server:8001) to load the data
-   into the default Documents database.
+### Requirements
 
-   Click "Documents" in the Databases list and then click the "Load" tab. Type the pathname for your data
-   directory (e.g., /path/to/semantic-infobox/data/documents) and *.* for the filter, and then click
-   "Next". On the page that follows, click "OK" to load the data.
+- MarkLogic version 8.0-4 or later
+- Node.js version 0.10 or later
 
-   This will load 391 documents.
+### Setup
 
-2. Load the triples into the "oscars" database in Query Console (changing the path as appropriate):
-   ```
-   declareUpdate();
-   var sem = require('/MarkLogic/semantics.xqy');
-   sem.rdfLoad("/Users/mwooldri/semantic-infobox/data/triples/oscartrips.ttl")
-   ```
-3. Enable the triple index for the "Documents" database in the Admin Interface. I.e., set the "triple index"
-   setting to "true".
-
-   In Query Console, you should now be able to run the following SPARQL query against the "oscars" database and get results:
-   ```
-   prefix foaf: <http://xmlns.com/foaf/0.1/>
-   construct { ?topic ?p ?o }
-   where
-   {
-     ?topic foaf:name "Zorba the Greek"@en .
-     ?topic ?p ?o .
-   }
-   ```
-4. Node.js is required to run this application. In the project root directory, install the project
-   dependencies by running the following:
+1. In the project root directory, install the dependencies by running the following:
 
    `npm install`
 
-5. In the project root directory, start the application by running the following:
+2. Start your MarkLogic Server.
 
-   `node server`
+3. In the project root directory, set up the project by running the following:
 
-6. Access the application here:
+   `node setup`
 
-   http://your-server:8555
+   This configures:
+
+   - a MarkLogic database, database forest, and database indexes.
+   - a MarkLogic REST service for communicating with the database via HTTP.
+   - basic search options to support the application.
+
+   It also loads:
+
+   - example documents and semantic triples for our application.
+   - the HTML, JavaScript, and CSS for our application into MarkLogic.
+
+4. Restart MarkLogic to load the application, then access it here:
+
+   http://localhost:8554/app/
+
