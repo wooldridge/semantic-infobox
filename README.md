@@ -11,28 +11,30 @@ https://developer.marklogic.com/learn/semantic-infopanel
 
 ### Setup
 
-1. In the project root directory, install the dependencies by running the following:
+1. In the project root directory, install dependencies by running the following:
 
    `npm install`
 
-2. Start your MarkLogic Server.
+2. Start MarkLogic Server.
 
-3. In the project root directory, set up the project by running the following:
+3. In the project root directory, set up the application by running the following:
 
    `node setup`
 
    This configures:
 
-   - a MarkLogic database, database forest, and database indexes.
-   - a MarkLogic REST service for communicating with the database via HTTP.
+   - a database, a database forest, and database indexes.
+   - a REST service for communicating with MarkLogic via HTTP.
    - basic search options to support the application.
 
    It also loads:
 
-   - example documents and semantic triples for our application.
-   - the HTML, JavaScript, and CSS for our application into MarkLogic.
+   - example documents and semantic triples
+   - HTML, JavaScript, and CSS
 
-4. Restart MarkLogic to load the application, then access it here:
+4. Restart MarkLogic to load the application.
+
+5. Access the application here:
 
    http://localhost:8554/app/
 
