@@ -508,11 +508,11 @@ function createOptions() {
 }
 
 var docsPath = '/Users/mwooldri/semantic-infobox/data/documents/',
-    files = fs.readdirSync(docsPath);
+    docsFiles = fs.readdirSync(docsPath);
     count = 0;
 
 function loadDocs() {
-  var currDoc = files.shift();
+  var currDoc = docsFiles.shift();
   count++;
   var buffer;
   buffer = fs.readFileSync(docsPath + currDoc);
@@ -529,7 +529,7 @@ function loadDocs() {
   rp(options)
     .then(function (parsedBody) {
       console.log('Documents loaded: ' + count);
-      if (files.length > 0) {
+      if (docsFiles.length > 0) {
         loadDocs();
       } else {
         console.log('Documents loaded');
@@ -557,6 +557,36 @@ function loadTriples() {
   rp(options)
     .then(function (response) {
       console.log('Triples loaded');
+      loadApp();
+    })
+    .catch(function (err) {
+      console.log(err);
+    });
+}
+
+var appPath = '/Users/mwooldri/semantic-infobox/app/',
+    appFiles = fs.readdirSync(appPath);
+
+function loadApp() {
+  var currFile = appFiles.shift();
+  count++;
+  var buffer;
+  buffer = fs.readFileSync(appPath + currFile);
+
+  var options = {
+    method: 'PUT',
+    uri: 'http://localhost:8554/v1/documents?database=infobox-modules&uri=/app/' + currFile,
+    body: buffer,
+    auth: auth
+  };
+  rp(options)
+    .then(function (parsedBody) {
+      console.log('Document loaded: ' + currFile);
+      if (appFiles.length > 0) {
+        loadApp();
+      } else {
+        console.log('App loaded');
+      }
     })
     .catch(function (err) {
       console.log(err);
