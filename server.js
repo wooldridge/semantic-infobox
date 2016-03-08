@@ -10,7 +10,6 @@ app.use(express.static(__dirname + '/'));
 // Log requests
 router.use(function(req, res, next) {
   console.log('%s %s', req.method, req.url);
-  console.dir(req.query);
   next();
 });
 
@@ -23,7 +22,7 @@ var auth = {
 // /v1/search POST
 app.get('/search', function(req, res){
   var q = req.query.q;
-  var url = 'http://localhost:8000/v1/search?options=infobox';
+  var url = 'http://localhost:8554/v1/search?options=infobox';
   var body = {
     "query": {
       "queries": [{
@@ -115,7 +114,7 @@ function processResults(items) {
 
 // /v1/graphs/sparql POST
 app.get('/sparql', function(req, res){
-  var url = 'http://localhost:8000/v1/graphs/sparql';
+  var url = 'http://localhost:8554/v1/graphs/sparql';
   var q = '"' + req.query.q + '"@en';
   var body = 'PREFIX foaf: <http://xmlns.com/foaf/0.1/> ' +
               'CONSTRUCT { ?subj ?pred ?obj } ' +
