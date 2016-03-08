@@ -1,3 +1,7 @@
+/**
+ * Construct snippet HTML from match values.
+ * @param {object} matches - matches data from search result.
+ */
 function formatSnippet(matches) {
   var result = '<div class="snippet">';
   for (var match of matches) {
@@ -14,6 +18,10 @@ function formatSnippet(matches) {
   return result;
 }
 
+/**
+ * Extract useful infobox data from triple results.
+ * @param {object} items - triple results from SPARQL endpoint.
+ */
 function processTriples(items) {
   // Predicates to search for
   var map = {}
@@ -37,7 +45,10 @@ function processTriples(items) {
   return result;
 }
 
-$('#submit').click(function(event) {
+/**
+ * Handle search submission by performing search and getting infobox data.
+ */
+$( "#submit" ).on( "click", function(event) {
   event.preventDefault();
   // Dismiss any previous results
   $('#summary').html('');
@@ -97,6 +108,7 @@ $('#submit').click(function(event) {
           results += '</div>';
         }
         $('#results').html(results);
+        // Get infobox data
         var q = '"' + first + '"@en';
         var results2 = '';
         var sparql = 'PREFIX foaf: <http://xmlns.com/foaf/0.1/> ' +
