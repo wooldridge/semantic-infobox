@@ -17,7 +17,9 @@ https://developer.marklogic.com/learn/semantic-infopanel
 
 2. Start MarkLogic Server.
 
-3. In the project root directory, set up the application by running the following:
+3. Create a `config.js` file by copying `config_sample.js`. Edit the path, host, and authentication properties for your setup.
+
+4. In the project root directory, set up the application by running the following:
 
    `node setup`
 
@@ -32,9 +34,10 @@ https://developer.marklogic.com/learn/semantic-infopanel
    - example documents and semantic triples
    - HTML, JavaScript, and CSS
 
-4. Restart MarkLogic to load the application.
+5. Restart MarkLogic to load the application.
 
-5. Access the application here:
+6. Access the application here:
 
    http://localhost:8554/app/
 
+7. To remove the REST service, databases, and forests, you can run `node teardown`. Then you can edit the project files and run `node setup` again.
