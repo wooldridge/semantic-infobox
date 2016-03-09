@@ -59,7 +59,7 @@ function processTriples(items) {
 }
 
 /**
- * Handle search submission by performing search and getting infobox data.
+ * Handle UI search submission by performing search and getting infobox data.
  */
 $( "#submit" ).on( "click", function(event) {
   event.preventDefault();
