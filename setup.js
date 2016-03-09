@@ -2,331 +2,11 @@ var config = require('./config'),
     rp = require('request-promise'),
     fs = require('fs');
 
-var databaseConfig = {
-  "database-name": config.database.name,
-  "triple-index": true,
-  "range-element-index": [
-    {
-      "scalar-type": "string",
-      "namespace-uri": "http://marklogic.com/wikipedia",
-      "localname": "name",
-      "collation": "http://marklogic.com/collation/",
-      "range-value-positions": false,
-      "invalid-values": "reject"
-    },
-    {
-      "scalar-type": "string",
-      "namespace-uri": "http://marklogic.com/wikipedia",
-      "localname": "film-title",
-      "collation": "http://marklogic.com/collation/",
-      "range-value-positions": false,
-      "invalid-values": "reject"
-    }
-  ],
-  "range-element-attribute-index": [
-    {
-      "scalar-type": "gYear",
-      "parent-namespace-uri": "http://marklogic.com/wikipedia",
-      "parent-localname": "nominee",
-      "namespace-uri": "",
-      "localname": "year",
-      "collation": "",
-      "range-value-positions": false,
-      "invalid-values": "reject"
-    },
-    {
-      "scalar-type": "string",
-      "parent-namespace-uri": "http://marklogic.com/wikipedia",
-      "parent-localname": "nominee",
-      "namespace-uri": "",
-      "localname": "award",
-      "collation": "http://marklogic.com/collation/",
-      "range-value-positions": false,
-      "invalid-values": "reject"
-    },
-    {
-      "scalar-type": "string",
-      "parent-namespace-uri": "http://marklogic.com/wikipedia",
-      "parent-localname": "nominee",
-      "namespace-uri": "",
-      "localname": "winner",
-      "collation": "http://marklogic.com/collation/",
-      "range-value-positions": false,
-      "invalid-values": "reject"
-    }
-  ],
-};
-
-var forestConfig = {
-  "forest-name": config.database.name + '-1',
-  "database": config.database.name
-}
-
-var restConfig = {
-  "rest-api": {
-    "name": config.database.name + "-rest",
-    "database": config.database.name,
-    "modules-database": config.database.name + "-modules",
-    "port": config.database.port,
-    "error-format": "json"
-  }
-}
-
-var searchOptions = {
-  "options": {
-    "search-option": [
-      "unfiltered"
-    ],
-    "page-length": 10,
-    "term": {
-      "apply": "term",
-      "empty": {
-        "apply": "all-results"
-      },
-      "term-option": [
-        "punctuation-insensitive"
-      ]
-    },
-    "constraint": [
-      {
-        "name": "award",
-        "range": {
-          "collation": "http://marklogic.com/collation/",
-          "type": "xs:string",
-          "facet": true,
-          "facet-option": [
-            "limit=10"
-          ],
-          "attribute": {
-            "ns": "",
-            "name": "award"
-          },
-          "element": {
-            "ns": "http://marklogic.com/wikipedia",
-            "name": "nominee"
-          }
-        }
-      },
-      {
-        "name": "decade",
-        "range": {
-          "type": "xs:gYear",
-          "facet": true,
-          "bucket": [
-            {
-              "ge": "2000",
-              "name": "2000s",
-              "label": "2000s"
-            },
-            {
-              "lt": "2000",
-              "ge": "1990",
-              "name": "1990s",
-              "label": "1990s"
-            },
-            {
-              "lt": "1990",
-              "ge": "1980",
-              "name": "1980s",
-              "label": "1980s"
-            },
-            {
-              "lt": "1980",
-              "ge": "1970",
-              "name": "1970s",
-              "label": "1970s"
-            },
-            {
-              "lt": "1970",
-              "ge": "1960",
-              "name": "1960s",
-              "label": "1960s"
-            },
-            {
-              "lt": "1960",
-              "ge": "1950",
-              "name": "1950s",
-              "label": "1950s"
-            },
-            {
-              "lt": "1950",
-              "ge": "1940",
-              "name": "1940s",
-              "label": "1940s"
-            },
-            {
-              "lt": "1940",
-              "ge": "1930",
-              "name": "1930s",
-              "label": "1930s"
-            },
-            {
-              "lt": "1930",
-              "name": "1920s",
-              "label": "1920s"
-            }
-          ],
-          "facet-option": [
-            "limit=10"
-          ],
-          "attribute": {
-            "ns": "",
-            "name": "year"
-          },
-          "element": {
-            "ns": "http://marklogic.com/wikipedia",
-            "name": "nominee"
-          }
-        }
-      },
-      {
-        "name": "win",
-        "range": {
-          "collation": "http://marklogic.com/collation/",
-          "type": "xs:string",
-          "facet": true,
-          "facet-option": [
-            "limit=10"
-          ],
-          "attribute": {
-            "ns": "",
-            "name": "winner"
-          },
-          "element": {
-            "ns": "http://marklogic.com/wikipedia",
-            "name": "nominee"
-          }
-        }
-      },
-      {
-        "name": "name",
-        "range": {
-          "collation": "http://marklogic.com/collation/",
-          "type": "xs:string",
-          "facet": true,
-          "facet-option": [
-            "frequency-order",
-            "descending",
-            "limit=10"
-          ],
-          "element": {
-            "ns": "http://marklogic.com/wikipedia",
-            "name": "name"
-          }
-        }
-      },
-      {
-        "name": "film",
-        "range": {
-          "collation": "http://marklogic.com/collation/",
-          "type": "xs:string",
-          "facet": true,
-          "facet-option": [
-            "frequency-order",
-            "descending",
-            "limit=10"
-          ],
-          "element": {
-            "ns": "http://marklogic.com/wikipedia",
-            "name": "film-title"
-          }
-        }
-      },
-      {
-        "name": "inname",
-        "word": {
-          "element": {
-            "ns": "http://marklogic.com/wikipedia",
-            "name": "name"
-          },
-          "term-option": [
-            "punctuation-insensitive"
-          ]
-        },
-        "annotation": [
-          ""
-        ]
-      },
-      {
-        "name": "intitle",
-        "word": {
-          "element": {
-            "ns": "http://marklogic.com/wikipedia",
-            "name": "film-title"
-          },
-          "term-option": [
-            "punctuation-insensitive"
-          ]
-        },
-        "annotation": [
-          ""
-        ]
-      }
-    ],
-    "transform-results": {
-      "apply": "snippet",
-      "preferred-elements": {
-        "element": [
-          {
-            "ns": "http://www.w3.org/1999/xhtml",
-            "name": "p"
-          }
-        ]
-      },
-      "max-matches": "2",
-      "max-snippet-chars": "150",
-      "per-match-tokens": "20"
-    },
-    "return-query": true,
-    "extract-metadata": {
-      "qname": [
-        {
-          "elem-ns": "http://marklogic.com/wikipedia",
-          "elem-name": "name"
-        },
-        {
-          "elem-ns": "http://marklogic.com/wikipedia",
-          "elem-name": "film-title"
-        },
-        {
-          "elem-ns": "http://marklogic.com/wikipedia",
-          "elem-name": "nominee",
-          "attr-ns": "",
-          "attr-name": "award"
-        },
-        {
-          "elem-ns": "http://marklogic.com/wikipedia",
-          "elem-name": "nominee",
-          "attr-ns": "",
-          "attr-name": "year"
-        }
-      ],
-      "constraint-value": [
-        {
-          "ref": "award"
-        },
-        {
-          "ref": "decade"
-        },
-        {
-          "ref": "win"
-        },
-        {
-          "ref": "name"
-        },
-        {
-          "ref": "film"
-        }
-      ]
-    }
-  }
-};
-
 function createDatabase() {
   var options = {
     method: 'POST',
-    uri: 'http://localhost:8002/manage/v2/databases',
-    body: databaseConfig,
+    uri: 'http://' + config.host + ':8002/manage/v2/databases',
+    body: config.databaseSetup,
     json: true,
     headers: {
       'Content-Type': 'application/json'
@@ -335,7 +15,7 @@ function createDatabase() {
   };
   rp(options)
     .then(function (parsedBody) {
-      console.log('Database created: ' + databaseConfig["database-name"]);
+      console.log('Database created: ' + config.databaseSetup["database-name"]);
       getHost();
     })
     .catch(function (err) {
@@ -348,7 +28,7 @@ var hostName = '';
 function getHost() {
   var options = {
     method: 'GET',
-    uri: 'http://localhost:8002/manage/v2/hosts',
+    uri: 'http://' + config.host + ':8002/manage/v2/hosts',
     json: true,
     headers: {
       'Content-Type': 'application/json'
@@ -367,11 +47,11 @@ function getHost() {
 }
 
 function createForest(hostName) {
-  forestConfig["host"] = hostName;
+  config.forestSetup["host"] = hostName;
   var options = {
     method: 'POST',
-    uri: 'http://localhost:8002/manage/v2/forests',
-    body: forestConfig,
+    uri: 'http://' + config.host + ':8002/manage/v2/forests',
+    body: config.forestSetup,
     json: true,
     headers: {
       'Content-Type': 'application/json'
@@ -380,7 +60,7 @@ function createForest(hostName) {
   };
   rp(options)
     .then(function (parsedBody) {
-      console.log('Forest created and attached: ' + forestConfig["forest-name"]);
+      console.log('Forest created and attached: ' + config.forestSetup["forest-name"]);
       createREST();
     })
     .catch(function (err) {
@@ -391,8 +71,8 @@ function createForest(hostName) {
 function createREST() {
   var options = {
     method: 'POST',
-    uri: 'http://localhost:8002/v1/rest-apis',
-    body: restConfig,
+    uri: 'http://' + config.host + ':8002/v1/rest-apis',
+    body: config.restSetup,
     json: true,
     headers: {
       'Content-Type': 'application/json'
@@ -401,7 +81,7 @@ function createREST() {
   };
   rp(options)
     .then(function (parsedBody) {
-      console.log('REST instance created at port: ' + restConfig["rest-api"]["port"]);
+      console.log('REST instance created at port: ' + config.restSetup["rest-api"]["port"]);
       createOptions();
     })
     .catch(function (err) {
@@ -412,8 +92,8 @@ function createREST() {
 function createOptions() {
   var options = {
     method: 'PUT',
-    uri: 'http://localhost:8554/v1/config/query/infobox',
-    body: searchOptions,
+    uri: 'http://' + config.host + ':8554/v1/config/query/infobox',
+    body: config.searchSetup,
     json: true,
     headers: {
       'Content-Type': 'application/json'
@@ -430,7 +110,7 @@ function createOptions() {
     });
 }
 
-var docsPath = config.path + 'semantic-infobox/data/documents/',
+var docsPath = config.path + 'data/documents/',
     docsFiles = fs.readdirSync(docsPath);
     count = 0;
 
@@ -442,7 +122,7 @@ function loadDocs() {
 
   var options = {
     method: 'PUT',
-    uri: 'http://localhost:8554/v1/documents?uri=/oscars/' + currDoc,
+    uri: 'http://' + config.host + ':8554/v1/documents?uri=/oscars/' + currDoc,
     body: buffer,
     headers: {
       'Content-Type': 'application/xml'
@@ -463,13 +143,13 @@ function loadDocs() {
     });
 }
 
-var triplesPath = config.path + 'semantic-infobox/data/triples/oscartrips.ttl';
+var triplesPath = config.path + 'data/triples/oscartrips.ttl';
 
 function loadTriples() {
   var content = fs.readFileSync(triplesPath);
   var options = {
     method: 'PUT',
-    uri: 'http://localhost:8554/v1/graphs?default',
+    uri: 'http://' + config.host + ':8554/v1/graphs?default',
     body: content,
     headers: {
       'Content-Type': 'text/turtle'
@@ -486,7 +166,7 @@ function loadTriples() {
     });
 }
 
-var appPath = config.path + 'semantic-infobox/app/'
+var appPath = config.path + 'app/'
     appFiles = fs.readdirSync(appPath);
 
 function loadApp() {
@@ -497,7 +177,7 @@ function loadApp() {
 
   var options = {
     method: 'PUT',
-    uri: 'http://localhost:8554/v1/documents?database=infobox-modules&uri=/' + currFile,
+    uri: 'http://' + config.host + ':8554/v1/documents?database=infobox-modules&uri=/' + currFile,
     body: buffer,
     auth: config.auth
   };
