@@ -38,7 +38,20 @@ function processTriples(items) {
       var obj = items[subj][pred][0];
       // If predicate matches, store object value in results
       if (map[pred]) {
-        result[map[pred]] = obj.value;
+        // Can be an object or string
+        if (obj.value) {
+          result[map[pred]] = obj.value;
+        } else {
+          result[map[pred]] = obj;
+        }
+      }
+      // Handle 8.0-3 API (value props)
+      if (map[pred.value]) {
+        if (obj.value) {
+          result[map[pred.value]] = obj.value;
+        } else {
+          result[map[pred.value]] = obj;
+        }
       }
     }
   }
@@ -83,9 +96,11 @@ $( "#submit" ).on( "click", function(event) {
   $.ajax({
     method: 'POST',
     url: '/v1/search?options=infobox&format=json',
-    data: JSON.stringify(query),
-    contentType: 'application/json',
-    dataType: 'json'
+    headers: {
+      'Accept': 'application/json',
+      'Content-Type': 'application/json'
+    },
+    data: JSON.stringify(query)
   }).done(
     function(data) {
       console.dir(data);
@@ -121,9 +136,11 @@ $( "#submit" ).on( "click", function(event) {
         $.ajax({
             method: 'POST',
             url: '/v1/graphs/sparql',
-            data: sparql,
-            contentType: 'application/sparql-query',
-            dataType: 'json'
+            headers: {
+              'Accept': 'application/rdf+json',
+              'Content-Type': 'application/sparql-query'
+            },
+            data: sparql
           }).done(
             function(data2) {
               var results = processTriples(data2);
@@ -136,7 +153,11 @@ $( "#submit" ).on( "click", function(event) {
                 results2 += '<div class="infobox-desc">' + desc + '</div>';
                 $('#infobox').html(results2);
               }
+            }).fail(function(jqXHR2, textStatus2) {
+              console.dir(jqXHR2);
             });
       }
+  }).fail(function(jqXHR, textStatus) {
+    console.dir(jqXHR);
   });
 });
