@@ -110,7 +110,7 @@ function createOptions() {
     });
 }
 
-var docsPath = config.path + 'data/documents/',
+var docsPath = config.path + 'data/documents/worldbank/',
     docsFiles = fs.readdirSync(docsPath);
     count = 0;
 
@@ -122,7 +122,7 @@ function loadDocs() {
 
   var options = {
     method: 'PUT',
-    uri: 'http://' + config.host + ':8554/v1/documents?uri=/oscars/' + currDoc,
+    uri: 'http://' + config.host + ':8554/v1/documents?uri=/worldbank/documents/' + currDoc,
     body: buffer,
     headers: {
       'Content-Type': 'application/xml'
@@ -131,10 +131,10 @@ function loadDocs() {
   };
   rp(options)
     .then(function (parsedBody) {
+      console.log('Documents loaded: ' + count);
       if (docsFiles.length > 0) {
         loadDocs();
       } else {
-        console.log('Documents loaded: ' + count);
         loadTriples();
       }
     })
@@ -143,23 +143,33 @@ function loadDocs() {
     });
 }
 
-var triplesPath = config.path + 'data/triples/oscartrips.ttl';
+var triplesPath = config.path + 'data/triples/worldbank/';
+    triplesFiles = fs.readdirSync(triplesPath);
+    count = 0;
 
 function loadTriples() {
-  var content = fs.readFileSync(triplesPath);
+  var currTriples = triplesFiles.shift();
+  count++;
+  var buffer;
+  buffer = fs.readFileSync(triplesPath + currTriples);
+
   var options = {
     method: 'PUT',
-    uri: 'http://' + config.host + ':8554/v1/graphs?default',
-    body: content,
+    uri: 'http://' + config.host + ':8554/v1/documents?uri=/worldbank/triples/' + currTriples,
+    body: buffer,
     headers: {
-      'Content-Type': 'text/turtle'
+      'Content-Type': 'application/xml'
     },
     auth: config.auth
   };
   rp(options)
-    .then(function (response) {
-      console.log('Triples loaded');
-      loadApp();
+    .then(function (parsedBody) {
+      console.log('Triples loaded: ' + count);
+      if (triplesFiles.length > 0) {
+        loadTriples();
+      } else {
+        loadApp();
+      }
     })
     .catch(function (err) {
       console.log(err);
