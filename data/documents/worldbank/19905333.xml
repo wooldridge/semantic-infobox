@@ -1,0 +1,1413 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>                                                   80540&#13;
+                                        Access to Finance&#13;
+                                                 FORUM&#13;
+                                 Reports by CGAP and Its Partners&#13;
+                                                No. 9, April 2014&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+The Art of the Responsible Exit in&#13;
+        Microfinance Equity Sales&#13;
+&#13;
+      Daniel Rozas with Deborah Drake, Estelle Lahaye,&#13;
+               Katharine McKee, and Danielle Piskadlo&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                a&#13;
+&amp;#12;    As the microfinance industry matures, a question that has come into sharper focus is&#13;
+ how social investors committed to advancing responsible finance practices should â&#128;&#156;exit&#13;
+ responsiblyâ&#128;&#157; from the microfinance institutions (MFIs) in which they have invested over&#13;
+ the years. As they prepare to sell their stakes, what options do development-minded&#13;
+ investors have to help ensure responsible behavior by their partner MFI into the future&#13;
+ and healthy development of the broader market?&#13;
+    In this paper the Center for Financial Inclusion at Accion (CFI) and the Consultative&#13;
+ Group to Assist the Poor (CGAP) seek to spark discussion among the stakeholders&#13;
+ working to advance financial inclusion and in particular the investor community that will&#13;
+ result in greater clarity around the goal of responsible exits and the policies and practices&#13;
+ that would support it.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+ Acknowledgments&#13;
+    CFI and CGAP would like to thank the 50 investor staff and industry experts (see&#13;
+ Annex H) who were willing to share their own experiences and insights. In particular, we&#13;
+ would like to thank Accion Investments, Aavishkaar-Goodwell, CARE, Caspian&#13;
+ Investments, Developing World Markets, Enclude, KfW and Triodos Investment&#13;
+ Management for sharing the more in-depth experiences described in the case studies in&#13;
+ the appendices. We would also like to especially thank lead author Daniel Rozas and our&#13;
+ reviewers Elisabeth Rhyne, Mayada El-Zoghbi, Sarah Rotman, and Michael Tarazi.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Â© 2014,&#13;
+Consultative Group to Assist the Poor (CGAP)&#13;
+and Center for Financial Inclusion (CFI)&#13;
+1818 H Street NW, MSN P3-300,&#13;
+Washington DC 20433&#13;
+&#13;
+&#13;
+Internet: www.cgap.org&#13;
+Email: cgap@worldbank.org&#13;
+Telephone: +1 202 473 9594&#13;
+&#13;
+Rights and Permissions&#13;
+This work is available under the Creative Commons Attribution 3.0 Unported license (CC BY 3.0) http:// creativecom-&#13;
+mons.org/licenses/by/3.0. Under the Creative Commons Attribution license, you are free to copy, distribute, transmit,&#13;
+and adapt this work, including for commercial purposes, under the following conditions:&#13;
+Attributionâ&#128;&#148;Cite the work as follows: Rozas, Daniel. 2014. â&#128;&#156;The Art of the Responsible Exit in Microfinance Equity&#13;
+Sales.â&#128;&#157; Forum 9. Washington, D.C.: CGAP and Center for Financial Inclusion. License: Creative Commons Attribution&#13;
+CC BY 3.0&#13;
+Translationsâ&#128;&#148;If you create a translation of this work, add the following disclaimer along with the attribution: This trans-&#13;
+lation was not created by CGAP and Center for Financial Inclusion at Accion and should not be considered an official&#13;
+translation. CGAP and Center for Financial Inclusion shall not be liable for any content or error in this translation.&#13;
+All queries on rights and licenses should be addressed to CGAP Publications, The World Bank Group, 1818 H Street&#13;
+NW, MSN P3-300, Washington, DC 20433, USA; e-mail: cgap@world bank.org.&#13;
+&amp;#12;                 Contents&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+	 SECTION 1. 	Introductionâ&#128;&#131;1&#13;
+&#13;
+	 SECTION 2. 	   Four Decisionsâ&#128;&#131;3&#13;
+ 2.1	When?â&#128;&#131;3&#13;
+		&#13;
+ 2.2	 To Whom?â&#128;&#131;4&#13;
+		&#13;
+		&#13;
+ 2.3	How?â&#128;&#131;5&#13;
+&#13;
+ 2.4	 How Much?â&#128;&#131;7&#13;
+		&#13;
+	 SECTION 3. 	   Market Development Considerations for Exiting DFIsâ&#128;&#131;9&#13;
+	 SECTION 4. 	   Responsible Exits: Looking Aheadâ&#128;&#131;11&#13;
+	APPENDICES&#13;
+&#13;
+	APPENDIX A	     Accion Investments: Selling an Entire Portfolioâ&#128;&#131;12&#13;
+	APPENDIX B	     Equitas: Separating Governance from Ownershipâ&#128;&#131;13&#13;
+	APPENDIX C	     KfW: Selling Back to the Holdingâ&#128;&#131;14&#13;
+	APPENDIX D	     Arohan: A Distress Saleâ&#128;&#131;15&#13;
+	APPENDIX E	     Edyficar: An NGO Selling to a Bankâ&#128;&#131;17&#13;
+	APPENDIX F	     Sathapana: A Multi-Stakeholder Exitâ&#128;&#131;19&#13;
+	APPENDIX G	     Focus Group on Social vs. Financial Returnâ&#128;&#131;21&#13;
+	APPENDIX H	     List of Intervieweesâ&#128;&#131;23&#13;
+	APPENDIX I	Sourcesâ&#128;&#131;24&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                        i&#13;
+&amp;#12;ii&#13;
+&amp;#12;                                                                                                                                        1&#13;
+                                                                                                                        SECTION&#13;
+&#13;
+&#13;
+&#13;
+Introduction&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+E&#13;
+      quity as a funding instrument is particularly important                 healthy development of the overall market? And what if they&#13;
+      to responsible development of financial markets. At its                 reinvest the proceeds from a sale into younger mission-&#13;
+      core, it supports the growth and diversification of mi-                 focused institutions and underserved markets: is such an exit&#13;
+crofinance institutions (MFIs) and other financial institutions               then automatically socially responsible?&#13;
+that serve the poor, and it is especially vital to the expansion of               Equity exits are not a new phenomenon in a sector where&#13;
+deposit services.                                                             the first funds were created well over a decade ago and a&#13;
+   But beyond that, equity holdings can add value when                        number of sales have already happened (Glisovic, Gonzalez,&#13;
+paired with active governance.1 First, they offer development-                Saltuk, and Rozeira de Mariz 2012). They are also expected&#13;
+minded shareholders the opportunity to provide leadership                     to accelerate. According to MicroRate/Luminis, between&#13;
+to partner MFIs, including guidance to ensure that the overall                2014 and 2016, at least two equity and six hybrid funds worth&#13;
+strategy and specific products and practices are responsible.                 nearly $600 million are scheduled to mature (Figure 1).&#13;
+Second, they can promote responsible development of the                           In this context, this paper seeks to explore the concept of a&#13;
+broader market to the extent that they demonstrate the                        responsible exit along four strategic decisions: (i) the timing&#13;
+viability of responsible MFI business models (including by                    of the equity sale, (ii) buyer selection, (iii) the governance and&#13;
+sharing relevant information on partner MFIsâ&#128;&#153; performance                     use of shareholder agreements to achieve social objectives,&#13;
+with other market actors) and crowd in additional investors                   and (iv) how social and financial returns are balanced when&#13;
+with goals and funding types that are appropriate for                         selecting among bids. We also examine how DFIs can use exits&#13;
+microfinance. This point is especially important for&#13;
+development finance institutions (DFIs), which are owned&#13;
+by donor governments and thus are mandated to be catalytic                           FIGURE 1&#13;
+and â&#128;&#156;additionalâ&#128;&#157; in promoting private sector development.&#13;
+   Most microfinance investment intermediaries (MIIs) and                          Microfinance Fund Maturity Schedule&#13;
+DFIs have committed explicitly to do right by clients through&#13;
+industry initiatives such as the Smart Campaign and the                                   Hybrid - $ mln&#13;
+Principles for Investors in Inclusive Finance (PIIF), which                               Equity - $ mln&#13;
+urge and support them to choose partners carefully and inte-                                                      245&#13;
+                                                                                                                        218&#13;
+grate specific responsible finance practices throughout their&#13;
+                                                                                                                              87&#13;
+investment processes.                                                                                       106                    90             54&#13;
+                                                                                     69       60&#13;
+   As the holdings of MIIs and DFIs mature, the sale of eq-                                            33         20          24        43   27   8&#13;
+uity stakes is becoming an increasingly important task and&#13;
+one that requires consideration of additional dimensions of                               Hybrid - #&#13;
+&#13;
+responsible finance and responsible market development.                                   Equity - #&#13;
+                                                                                                                              3&#13;
+When investors that seek to be socially responsible exit, they&#13;
+face the challenge that they will give up their right to help                                                     1                               1&#13;
+oversee or govern the investee. To what extent canâ&#128;&#148;or                                                  2                 2         2&#13;
+                                                                                      1       1             1     1           1         1    1    1&#13;
+shouldâ&#128;&#148;investors seek to ensure that the sale of their stakes&#13;
+in MFIs will result in ongoing responsible behavior by their                        2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020&#13;
+&#13;
+(former) partners and new owners and even contribute to                       Source: MicroRate/Luminis&#13;
+&#13;
+&#13;
+&#13;
+   &amp;#7; owever, DFIs and MIIs do not always succeed in providing active governance support to partner MFIs. McKee (2012) and recent studies from CFI on&#13;
+1. H&#13;
+   governance and investor and board behavior during sectoral crises document that equity investors often fail to provide adequate guidance and expertise&#13;
+   in the board room and other governance processes.&#13;
+&#13;
+&#13;
+                                                                                                                                                       1&#13;
+&amp;#12;to encourage responsible market development given their                    This paper is not intended to be prescriptive. The practice&#13;
+particular role as publicly funded entities. We interviewed             of selling equity in MFIs is still evolving, and the complexi-&#13;
+more than 40 representatives from MIIs, nongovernment or-               ties of the transactions make each sale unique. Rather than&#13;
+ganizations (NGOs), DFIs, MFIs, and merger-and-acquisition              setting out specific guidelines, we hope to draw on investor&#13;
+(M&amp;A) specialists to capture their experience, perspectives,            experiences to highlight key exit-related decisions for MIIs&#13;
+and emerging lessons on equity sale transactions. In addition,          and DFIs, and in so doing, we hope to spur a focused debate&#13;
+we conducted six case studies of equity exits, which are de-            on how to exit in such a way that the interests of investors,&#13;
+scribed in detail in the appendices.                                    MFIs, and their clients are balanced.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+       BOX 1&#13;
+&#13;
+     Key Findings&#13;
+&#13;
+          Exits of equity investments are still relatively recent but   about the kind of capital and expertise the MFI most needs&#13;
+     lessons on how to ensure ongoing responsible behavior by           in its next chapter.&#13;
+     partners and the broader market are emerging. There are                3. How? In principle, putting provisions in shareholder&#13;
+     several overarching themes that affect the options that in-        agreements and setting up alternative mission-oriented gov-&#13;
+     vestors are likely to face: market context and stage of devel-     ernance structures could help enshrine the MFIâ&#128;&#153;s mission and&#13;
+     opment; share of ownership being sold; and the MFIâ&#128;&#153;s own-          social commitments to send an important signal to potential&#13;
+     ership structure, governance arrangements, and place in its        investors when current owners seek a buyer for their shares.&#13;
+     life cycle. As a result, there is no single approach to ensure     We analyze several examples of this approach. It should be&#13;
+     a responsible exit. However, investors need to carefully           noted, however, that the legal enforceability of such provi-&#13;
+     think about four main strategic decisions:                         sions varies widely and their relevance may be limited when a&#13;
+          1. When? The desired timing and avenue of exit should         controlling stake is being sold. The risk also exists that overly&#13;
+     form a key part of an investorâ&#128;&#153;s decision to invest. These         restrictive and complex legal provisions could pose unreason-&#13;
+     plans and preferences should be discussed with the other           able barriers to exit.&#13;
+     equity investors and the MFIâ&#128;&#153;s management. That said, rare-            4. How Much? The selling party may have multiple offers to&#13;
+     ly did the exit opportunity materialize exactly as planned,        choose from, with each bidder offering a different mix of price&#13;
+     and ability to adapt and respond flexibly was a feature in         and nonprice characteristics. Since cashing out nearly always&#13;
+     many exits. For fixed-term funds, exit timing is built into the    entails giving up say over the investeeâ&#128;&#153;s future social or devel-&#13;
+     prospectus, but at least one case study suggests that this         opmental mission, we examined more specifically how inves-&#13;
+     structure may not be optimal for the specific role of anchor       tors described weighing price- versus mission-related features&#13;
+     investor.                                                          of the potential new owner. The findings suggest that many&#13;
+          2. To Whom? There are advantages and disadvantag-             investors currently may be using a two-step process in which&#13;
+     es of selling to a microfinance investor versus an investor        they first screen buyers for suitability (including mission fit) and&#13;
+     outside of the microfinance ecosystem. On the one hand,            then make their final selection based on the most attractive&#13;
+     it is easier to find a like-minded buyer within the ecosys-        price. We also note that high-priced sales to new buyers in the&#13;
+     tem, which can mitigate concerns about mission drift or            microfinance sector may risk locking an MFI into a strategy that&#13;
+     reputation risk. On the other hand, for more mature MFIs,          may harm both its clients and the broader market.&#13;
+     investors such as local or regional banks might be better              Finally, because of their specific mandate, DFIs have a&#13;
+     placed to play a strategic role by bringing strong balance         special role to play in private-sector development. The way&#13;
+     sheets, operational expertise, and local market linkages           they exitâ&#128;&#148;when, how, to whom, and for how muchâ&#128;&#148;can&#13;
+     that the MFIs need to develop further. Exiting DFIs and            send important signals to other market players. By integrat-&#13;
+     MIIs can be guided by careful and deliberate due dili-             ing a market development dimension into these four key de-&#13;
+     gence to ascertain the buyerâ&#128;&#153;s intentions and commit-              cisions, DFIs have an opportunity to fulfill their mandate to&#13;
+     ment to the MFIâ&#128;&#153;s mission, combined with judgment                  play a broader catalytic role.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+2&#13;
+&amp;#12;                                                                                                                             2&#13;
+                                                                                                               SECTION&#13;
+&#13;
+&#13;
+&#13;
+Four Decisions&#13;
+&#13;
+&#13;
+&#13;
+A&#13;
+         s noted in Box 1, there are four key questions equity                 nance roles, Aavishkaar Goodwell decided to sell half of its&#13;
+         investors have to wrestle with when trying to respon-                 shares and worked with the MFI management to select the&#13;
+         sibly exit an MFI: (1) when to sell, (2) who to sell to,              most appropriate buyer. Despite the unusual limitations at-&#13;
+(3) with what conditions, and (4) at what price. Several over-                 tached to Equitasâ&#128;&#153; stock, the investor had no difficulty in&#13;
+arching themes affect these decisions and the actual options                   finding willing and suitable buyers. Indeed, the MFIâ&#128;&#153;s ex-&#13;
+that investors have: the context and stage of development of                   traordinary growth as well as the excitement around the SKS&#13;
+the market (e.g., less-developed markets tend to have more                     initial public offering (IPO) created attractive conditions.2&#13;
+circumscribed exit opportunities); the size of the stake being                 The fund was then able to redeploy its capital in younger&#13;
+sold (â&#128;&#156;anchorâ&#128;&#157; investors face a different set of choices than in-              markets and institutions where it expected to have a greater&#13;
+vestors selling noncontrolling stakes); and the MFIâ&#128;&#153;s stage in                 impact and better fulfill its double bottom line.&#13;
+its own life cycle, ownership structure, and governance ar-                        For fixed-term funds and their investees, the â&#128;&#156;whenâ&#128;&#157;&#13;
+rangements. The decision might also create tensions with                       question can be particularly challenging. For example, the&#13;
+other shareholders and/or the MFI management, making the                       Indian fixed-term fund Bellwether was an anchor investor in&#13;
+selling process more complicated to manage. Ultimately, the                    Arohan and had been instrumental in supporting this MFI in&#13;
+final decision requires balancing among competing demands,                     its early stages of growth (Appendix D). However, when Aro-&#13;
+demonstrating that exiting responsibly is an art of tradeoffs.                 han was facing a severe liquidity shortage at the height of the&#13;
+                                                                               Andhra Pradesh microcredit crisis, Bellwether was unable to&#13;
+2.1â&#128;&#130;When?                                                                      provide the capital Arohan needed. With its equity already&#13;
+   Plan your exit before you enter. This phrase was repeated                   fully invested and the fund itself scheduled to mature soon,&#13;
+in so many interviews that it seems almost a mantra for eq-                    Bellwether had few options. Meanwhile, with Arohan strug-&#13;
+uity investors. In fact, the exit plan can be an integral part of              gling for survival and the sector in crisis, conditions for sale&#13;
+their decision to invest. Our findings suggest that a few in-                  were exceptionally poor. Ultimately Bellwether found a will-&#13;
+vestors are starting to integrate exit criteria into their pre-                ing buyer in Intellecash, but this was not the exit it had&#13;
+investment due diligence, including the possible exit strate-                  planned.&#13;
+gies according to the stage of market development. Some                            Bellwetherâ&#128;&#153;s example highlights the important role of an-&#13;
+investors also suggested discussing exit planning upfront                      chor investors and their investing strategies. Anchor inves-&#13;
+with pre-existing shareholders, co-investors, and the MFIâ&#128;&#153;s                    tors generally hold a large (although not necessarily majori-&#13;
+management, and referencing the question of exits in the                       ty) stake that comes with a governance role that is often&#13;
+shareholdersâ&#128;&#153; agreement or the MFIâ&#128;&#153;s charter.                                  more active than that of other shareholders. Ideally, anchor&#13;
+   Upfront plans notwithstanding, exits rarely materialize                     investors should have sufficiently long investment horizons&#13;
+exactly as plannedâ&#128;&#148;the ability to adapt and respond flexibly                   and deep enough pockets to be able to support their invest-&#13;
+to unexpected circumstances is no less important. When the                     ees with additional capital when needed, while providing&#13;
+early stage investor Aavishkaar Goodwell invested in Equitas                   strategic guidance and necessary expertise on the board of&#13;
+in India (Appendix B), the plan was to stay in for at least five               directors. However, as Bellwetherâ&#128;&#153;s case demonstrates, the&#13;
+years, during which Aavishkaar Goodwell expected to be ac-                     fixed-term fundsâ&#128;&#153; timing limitations and limited capacity for&#13;
+tively involved in governance and provide technical support.                   later stage investment may result in negative consequences&#13;
+However, within two years Equitas had grown so fast that it                    for both the investor and the MFI. Fixed-term funds can play&#13;
+had far outstripped the needs of typical early stage MFIs.                     an important role in bringing diversified capital into the sec-&#13;
+Aavishkaar Goodwellâ&#128;&#153;s stake had been diluted in the process,                   tor, especially by crowding in local sources of funding, but&#13;
+and it had to give up its board seat. Unable to put up addi-                   their structures may not be best suited for the role of anchor&#13;
+tional capital and continue its influential advisory and gover-                investor.&#13;
+&#13;
+2. On 28 July 2010 SKS, Indiaâ&#128;&#153;s largest MFI, became the first Indian MFI to float its shares through an IPO.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                             3&#13;
+&amp;#12;   For anchor investors, the stakes are higher in an exit, es-                and the limited number of actors involved mean that a seller&#13;
+pecially with respect to balancing social and financial re-                   is likely to have longstanding knowledge of the buyer and its&#13;
+turns. Consider the case of the sale of Edyficar in Peru by the               reputation. As a result, selling within the microfinance eco-&#13;
+large international NGO CARE International (Appendix E).                      system simplifies the process of meeting the minimum stan-&#13;
+CARE founded Edyficar as an NGO MFI in 1985 and, over                         dard for a â&#128;&#156;responsibleâ&#128;&#157; buyer and is less likely to raise sig-&#13;
+the next quarter-century, supported its development, includ-                  nificant concerns about mission drift or reputation risk.&#13;
+ing transformation into a regulated, deposit-taking institu-                      A good example of a sale within the microfinance eco-&#13;
+tion. However, following Edyficarâ&#128;&#153;s transformation, CARE                      system is the purchase of Accion Investments (AINV) by&#13;
+was increasingly unable to provide the requisite technical                    Bamboo Finance (Appendix A). Both Accion and Bamboo&#13;
+expertise and governance support. Having recognized that it                   are long-term members of the sector and subscribe to the&#13;
+was becoming an impediment to Edyficarâ&#128;&#153;s development,                         same responsible finance commitments. The familiarity&#13;
+CARE sought to sell its anchor shareholding position. Unlike                  goes further stillâ&#128;&#148;Bamboo and its former sister organiza-&#13;
+Bellwether, it did not face any fixed exit horizons, yet CAREâ&#128;&#153;s               tion, Blue Orchard, had direct investments in many of Ac-&#13;
+decision to sell Edyficar was not easy, especially in light of                cionâ&#128;&#153;s MFIs, and one of Bambooâ&#128;&#153;s senior staff was a director&#13;
+the long and close history of the two institutions.                           of AINV. As the seller, Accion had little need to evaluate the&#13;
+   Edyficarâ&#128;&#153;s sale illustrates the critical role anchor investors             buyerâ&#128;&#153;s like-mindedness on the issues that mattered; it&#13;
+play in MFI development. In the course of our research, we                    knew where Bamboo stood.&#13;
+identified cases where the limited capacity of such anchor                        Despite the apparent advantages, selling within the eco-&#13;
+investors (including founding NGOs) to provide growth cap-                    system is not necessarily the best course of action. In some&#13;
+ital and technical expertise may have constrained the part-                   cases, seeking buyers outside the microfinance ecosystem is&#13;
+ner MFIâ&#128;&#153;s ability to diversify products and scale up. (In some                an outright necessity: most MIIs in the market do not have&#13;
+cases, lack of access to growth equity may even force MFIs to                 sufficient capital to buy large stakes in mature MFIs while&#13;
+finance growth with retained earnings, which in turn can                      maintaining a diversified portfolio. For mature MFIs, local&#13;
+create pressure to maintain higher profit margins including                   actors such as domestic commercial banks can make excel-&#13;
+through higher prices for their clients.)                                     lent strategic investors, bringing operational depth, a more&#13;
+                                                                              diversified product line, and longstanding regulatory rela-&#13;
+2.2â&#128;&#130;To Whom?                                                                  tionships, in addition to capital and access to low-cost depos-&#13;
+   No other aspect of an equity sale looms quite as large as                  its. Such actors are usually found in markets with growing&#13;
+the selection of the buyer. The decision consists of two key                  economies or relatively well-developed financial sectorsâ&#128;&#148;&#13;
+issues: first, ascertaining to what extent the buyer is a like-               the same markets where large MFIs are also more likely to&#13;
+minded investor that shares a commitment to the MFIâ&#128;&#153;s stat-                   develop. As a result, for selling shareholders, finding such&#13;
+ed mission and can be trusted to â&#128;&#156;stay the courseâ&#128;&#157; over time;                 investors has not generally been difficult.&#13;
+and second, whether the buyer can add value to the MFI in                         The chief challenge of going outside the microfinance&#13;
+terms of strategic direction, specialized expertise, and                      ecosystem is the difficulty of assessing buyer like-mindedness.&#13;
+growth capital.                                                               To start with, the seller is less likely to be familiar with the&#13;
+   For purposes of defining â&#128;&#156;like-minded investor,â&#128;&#157; prospec-                  potential buyer. And such buyers are also less likely to be&#13;
+tive buyers fall into two broad categories: members of the                    aware of, and have subscribed to, industry standards such as&#13;
+microfinance investment ecosystem (such as current share-                     the Smart Campaign Client Protection Principles. In our&#13;
+holders, MIIs, DFIs, or large MFIs or their holding compa-                    interviews, selling investors mention paying close attention&#13;
+nies) and external actors (often local or regional investors,                 to the following in their due diligence on prospective buyers:&#13;
+including commercial banks and venture capital firms).&#13;
+   Within the microfinance ecosystem most investors share                     â&#128;¢	 The buyerâ&#128;&#153;s rationale for the purchase and its&#13;
+                                                                                 strategic plans and alignment with the MFIâ&#128;&#153;s own&#13;
+somewhat similar goals and responsible finance commit-&#13;
+                                                                                 strategy&#13;
+ments, and nearly all tend to subscribe to the sectorâ&#128;&#153;s basic set&#13;
+of client protection principles and social performance expec-                 â&#128;¢	 Willingness to reference mission-related objectives in&#13;
+tations.3 Most importantly, the small size of the ecosystem                      the shareholder agreement among owners of the MFI4&#13;
+&#13;
+   &amp;#7; he Social Performance Task Force (SPTF) brings together more than 1,500 members (MFIs, donors, investors, associations, etc.) to agree on a common&#13;
+3. T&#13;
+   social performance framework and to develop an action plan to move social performance forward. SPTF facilitates a social investors working group that&#13;
+   aims to explore good practices related to investment for social as well as financial outcomes and also promote social investment.&#13;
+   A shareholdersâ&#128;&#153; agreement is an agreement among the shareholders of a company, and it supplements (or supersedes) the companyâ&#128;&#153;s charter. It is com-&#13;
+4. &amp;#7;&#13;
+   mon practice in a company where there are a relatively small number of shareholders and often regulates issues such as voting rights, control and man-&#13;
+   agement, dispute resolution, etc. Shareholdersâ&#128;&#153; agreements are not always legally enforceable.&#13;
+&#13;
+4&#13;
+&amp;#12;â&#128;¢	 The prospective buyerâ&#128;&#153;s prior activities or&#13;
+   investments in micro, small, and medium enterprises                  BOX 2&#13;
+   (MSME) or low-income finance&#13;
+                                                                     A Fund to Invest in Mature MFIs&#13;
+â&#128;¢	 The comfort level of the MFIâ&#128;&#153;s management and,&#13;
+   where relevant, the founding NGO/promoter with the                    For some time, MIIs have exhibited a common invest-&#13;
+   potential shareholder                                             ment model: each usually seeks to invest around $3 million&#13;
+                                                                     to $5 million, most want a board seat, and most have an&#13;
+   One example of the challenge of assessing buyers is the           eventual exit timeline. This limits the range of investable&#13;
+case of Sathapana, a Cambodian MFI held by several social            MFIs to small and mid-sized operations. Institutions that&#13;
+and development investors (Appendix F). The outside-the-             grow past that thresholdâ&#128;&#148;around $100 million in assetsâ&#128;&#148;&#13;
+ecosystem bidder in that case was Maruhan Japan Bank                 no longer present realistic investment options for these&#13;
+(MJB), an existing commercial bank in Cambodia that was              funds.&#13;
+already lending to Sathapana and other MFIs. The bid was                 The recent launch of the responsAbility Participations&#13;
+financially attractive and brought many strategic advantages.        fund is meant to fill this void. Specifically designed to in-&#13;
+However, one concern that arose was that MJB was wholly              vest in mature MFIs and small emerging market banks, the&#13;
+                                                                     fund expects its typical investments to be in the $20 million&#13;
+owned by Maruhan Corporation in Japan, whose business&#13;
+                                                                     to $25 million range, entitle the fund to a board seat, and&#13;
+includes slot-machine gaming. To address this concern, the&#13;
+                                                                     be subject to social performance requirements. In other&#13;
+sellers requested a specific legal commitment from the par-&#13;
+                                                                     words, it meets the â&#128;&#156;desirable buyerâ&#128;&#157; criteria for many&#13;
+ent company that the scope of its Cambodian operations               other funds seeking to sell their stakes in mature MFIs. The&#13;
+would remain limited to the banking sector and would not             fund is distinctive in one other dimensionâ&#128;&#148;it has an â&#128;&#156;ever-&#13;
+extend into gaming.                                                  greenâ&#128;&#157; structure that focuses on delivering dividend yield&#13;
+   Another example is the case of CAREâ&#128;&#153;s sale of Edyficar            rather than capital gains, which enables it to avoid a spe-&#13;
+(Appendix E). As an NGO focused on fighting poverty around           cific exit timeline.&#13;
+the world, CARE faced a considerable challenge in assessing&#13;
+like-mindedness when it sold its majority stake in Edyficar to&#13;
+Banco del Credito del Peru (BCP), a purely commercial bank       consumer lending directly or through an affiliate. This fact&#13;
+with no explicit social mission. However, BCP offered Edyfi-     might merit additional due diligence on the sellerâ&#128;&#153;s part to&#13;
+car the banking expertise and balance sheet strength that        assess the bidderâ&#128;&#153;s commitment to responsible finance and&#13;
+CARE could not possibly provide. A key factor that played        better understand whether and how this line of business&#13;
+into CAREâ&#128;&#153;s decision was BCPâ&#128;&#153;s claim that it would in fact       might affect the character of the MFI.&#13;
+maintain Edyficarâ&#128;&#153;s missionâ&#128;&#148;and do so out of largely com-           In summary, when looking for a buyer, it helps to consider&#13;
+mercial motives. BCP had previously tried to build its own       whether an existing microfinance investor is likely to come&#13;
+microcredit operation. While it was not successful, the bank     forward, since such investors almost by definition pose a&#13;
+took away the lesson that microfinance required an inher-        lower risk to the MFIâ&#128;&#153;s mission. However, particularly when&#13;
+ently different approach from its retail banking model. This     large equity stakes are involved, such buyers may prove un-&#13;
+experience enhanced the credibility of BCPâ&#128;&#153;s assertion that it   suitable or altogether unavailable, and going outside the mi-&#13;
+would not change Edyficarâ&#128;&#153;s mission or operations, especial-     crofinance ecosystem can bring other advantages and may&#13;
+ly when BCP underscored its commitment by agreeing to            prove a better choice. In such cases, most of those inter-&#13;
+sign year-long contracts with key management. The signals        viewed found it likely that a seller with a careful and deliber-&#13;
+proved convincing, and CARE chose BCP from among its op-         ate due diligence process could reasonably ascertain the bid-&#13;
+tions. Even now, with three years of hindsight, both CARE        derâ&#128;&#153;s intentions. At the same time, the microfinance&#13;
+and Edyficarâ&#128;&#153;s long-time management regard the sale as suc-      investment sector also would benefit by broadening the ca-&#13;
+cessful and consistent with the long-term goals of all parties   pacity of socially responsible funds to absorb larger-ticket&#13;
+to the transaction.                                              equity transactions (see Box 2).&#13;
+   However, not all such sales to buyers outside the sector&#13;
+end as well. Our interviews yielded cases that were described&#13;
+                                                                 2.3â&#128;&#130;How?&#13;
+as less successful, including the 2005 sale of Russian KMB&#13;
+Bank to Italian bank Intesa, which within a few years had           While efforts to assess buyer like-mindedness and com-&#13;
+abandoned KMBâ&#128;&#153;s original focus on SME lending, largely           mitment to the MFIâ&#128;&#153;s mission are critical, these are not the&#13;
+undoing the efforts of its founding investors. Another           only doors through which development-oriented sellers can&#13;
+scenario that could become increasingly common is that of a      exit gracefully. What if they could put in place some mecha-&#13;
+commercial bank bidder that engages in substantial               nism to constrain buyers from steering the MFI away from&#13;
+                                                                                                                                     5&#13;
+&amp;#12;its mission even after the sale? The research uncovered&#13;
+growing interest in, and use of, the shareholdersâ&#128;&#153; agreement                          BOX 3&#13;
+to codify the MFIâ&#128;&#153;s mission and social commitments. Such&#13;
+                                                                                   Governing from a Minority&#13;
+provisions can send an important signal to potential inves-&#13;
+tors, a warning to those who would prefer not to be thus con-&#13;
+                                                                                       Companies can choose to have multiple classes of com-&#13;
+strained. That said, the legal enforceability of such share-&#13;
+                                                                                   mon stock, usually denoted as Class A and Class B shares&#13;
+holder provisions varies widely from one jurisdiction to                           with one class having more voting rights than the other.&#13;
+another, and this approach would work only so long as the                          This can set up a system whereby a relatively small minority&#13;
+majority of investors support these commitments. (And this                         of shareholders could maintain governing control of the&#13;
+option can become moot in cases where a controlling stake is                       company. For example, in 2006, when McDonaldâ&#128;&#153;s sold its&#13;
+being sold.)                                                                       Class B shares of Chipotle Mexican Grill it provided its&#13;
+   Shareholdersâ&#128;&#153; agreements in the microfinance sector of-                         holders 10 times the voting power of Class A holdersâ&#128;&#153; while&#13;
+ten have provisions that serve to protect minority sharehold-                      holding fewer outstanding shares.&#13;
+ers when others are seeking to exit. In fact, the right of first                       Other examples of such governance include family-&#13;
+refusal (ROFR) was commonly cited during our interviews.5                          owned institutions and entities chartered by foundations,&#13;
+                                                                                   where the founders seek to retain significant say in gover-&#13;
+ROFR permits existing investors to acquire shares before a&#13;
+                                                                                   nance, even as they raise equity from public investors.&#13;
+third party buys them. It can enable existing investors to&#13;
+                                                                                   State-owned enterprises, especially where governments&#13;
+send strong signals to potential bidders, keep a tighter con-&#13;
+                                                                                   own minority stakes, are likewise vehicles that provide a&#13;
+trol on who buys the MFIâ&#128;&#153;s shares, and protect its adherence                       strong governing voice with a limited equity investment.&#13;
+to its mission and social commitments. Minority sharehold-&#13;
+ers can typically use these protective provisions to exit when&#13;
+the proposed transaction significantly alters their planned&#13;
+strategy for the MFI, or more simply, to take advantage of a                  voting rights to minority shares). Some legal structures6 spe-&#13;
+favorable price. But couldnâ&#128;&#153;t such rights also be exercised to                cifically allow minority shareholders to have a significant say&#13;
+protect the social mission of the institution?                                on certain key issues, including changes to the institutionâ&#128;&#153;s&#13;
+   Such minority shareholder protections can have down                        mission, while other structures may allow minority share-&#13;
+sides, however. For one, they set up a structure of dual rights               holders to exercise outright control (see Box 3).&#13;
+among the shareholders (those initiating the sale and those                       These structures need to be approached with care, to en-&#13;
+exercising minority protections) that can lead to tension                     sure that otherwise suitable potential investors are not put&#13;
+among shareholders. They can also have unintended conse-                      off by having less say in governance. However, when done&#13;
+quences. For example, when one social investor decided to                     correctly, alternative governance structures to support a&#13;
+exit from an MFI owned by a mix of social and commercial                      strong social mission can remain attractive on a strictly com-&#13;
+shareholders, a commercial investor decided to exercise its                   mercial basis.&#13;
+ROFR prerogative to buy the stake. This threatened to shift                       Equitas offers one such example (Appendix B). Since a&#13;
+the balance on the board away from the social investors that                  majority of its board members serve as independent direc-&#13;
+made up the governing majority unless the remaining social                    tors, shareholders are prevented from having full run of the&#13;
+investors exercised their own ROFR rights to increase their                   institutionâ&#128;&#153;s governance. Furthermore, Equitasâ&#128;&#153; shareholder&#13;
+stakes (which they did). Some investors mentioned situations                  agreement sets a return on equity (ROE) ceiling of 25 percent&#13;
+where minority shareholder protections present so great a                     and earmarks funds for charitable activities. Despite these&#13;
+barrier for the seller as to make an exit impossible altogether.              limitations and lack of shareholder control, Equitas has re-&#13;
+   Minority shareholder rights are not the only means for                     mained attractive to purely commercial investors. One pri-&#13;
+keeping an MFI focused on its mission. Other avenues in-                      vate equity firm, Canaan Partners, which purchased Equitas&#13;
+clude executing long-term contracts with existing manage-                     shares before the Andhra Pradesh crisis pointed out that it&#13;
+ment or putting in place self-perpetuating governance struc-                  was drawn by the fact that Equitasâ&#128;&#153; governance structure,&#13;
+tures that prevent takeover by any one shareholder. There                     combined with its strong management, helped generate sol-&#13;
+are also examples where investors can exercise post-exit in-                  id but stable returns over the long term, in clear contrast to&#13;
+fluence (e.g., by adding the requirement that key institutional               the potentially higher-return but more volatile model of&#13;
+decisions be made by a super-majority or ascribing majority                   many of Equitasâ&#128;&#153; competitors at the time.&#13;
+&#13;
+&#13;
+5. First refusal rights are common to commercial private equity and venture capital investments and are not unique to microfinance.&#13;
+6. Such as the Kommanditgesellschaft auf Aktien in Germany.&#13;
+&#13;
+&#13;
+6&#13;
+&amp;#12;    Mechanisms that embed a self-sustaining social mission         volunteered that the price was the topmost factor in its deci-&#13;
+in organizational governance structures are among the              sion. And yet, delving deeper into other cases, it became ap-&#13;
+least understood elements of social investing. Future analy-       parent that the final sale nearly always went to the highest or&#13;
+sis could shed further light on how such techniques can at-        second-highest bidder.&#13;
+tract a broader spectrum of capital while maintaining a               Since few investors were willing to discuss details of their&#13;
+strong social mission.                                             decisions on price and accepted (and rejected) bids, we&#13;
+    The board of directors plays a leading role in changes in      attempted an experiment, by presenting a focus group of 33&#13;
+shareholder composition and governance structures. An exit         equity investors with a hypothetical scenario in which they&#13;
+that entails a significant change in board composition is like-    were selling an MFI with social objectives (Appendix G). All&#13;
+ly to bring with it important changes in the governance bal-       sale prices were purposefully set well above a reasonable&#13;
+ance among directors and that between directors and the            return threshold (substantially exceeding average stock-&#13;
+CEO. Naturally, that would include cases where the exiting         market returns, for example), and the hypothetical buyers&#13;
+shareholder is selling a controlling stake. But minority share-    offered a wide range of social returns: a local commercial&#13;
+holders may also have an outsize influence on the institu-         bank that appeared to provide partial support to the MFIâ&#128;&#153;s&#13;
+tionâ&#128;&#153;s governance. Such influence may be exercised by found-       social objectives made an offer equivalent to 2.1 price-to-&#13;
+ing investors whose stakes may have diluted over time, or          book (P/B), a holding company with a strong social focus&#13;
+perhaps by network NGOs that provide technical assistance          offered 1.6 P/B, and a private equity investor with no&#13;
+and institutional support as well as equity. An exit by such       documented social mission offered 2.7 P/B.&#13;
+investors may substantially shift the institutionâ&#128;&#153;s gover-            Stating that they were â&#128;&#156;going with their mind, rather than&#13;
+nanceâ&#128;&#148;a change for which boards should prepare in antici-          their heart,â&#128;&#157; most investors chose the mid-priced offer (67&#13;
+pation of the exit.                                                percent average annual return) from a local commercial&#13;
+    Beyond the board, the perspective of the CEO and the top       bank, which held out the benefit of a strong balance sheet&#13;
+leadership team is no less important. Except in cases where        and local and regional market depth but only partially sup-&#13;
+management is expected to be replaced, getting its buy-in is&#13;
+critical. If managementâ&#128;&#153;s incentives are not aligned with the&#13;
+sale, the result can be problematic to all parties involved                BOX 4&#13;
+(Rhyne, et al. 2009). This was a key consideration for both&#13;
+Edyficar and Sathapana, whose managers had been leading                The Perils of High Valuations&#13;
+the organizations for many years. Their buy-in and comfort&#13;
+with the new shareholder was key, and the buyersâ&#128;&#153; willing-                 Under normal circumstances investors will choose a&#13;
+ness to extend management contracts as part of the purchase            higher price over a lower one, all else being equal. But is&#13;
+agreement played an important role in securing the confi-              there such a thing as too high a price?&#13;
+                                                                           For social investors, the answer should be yes. An&#13;
+dence of both management and the selling shareholders.&#13;
+                                                                       equity valuation is a reflection of the buyerâ&#128;&#153;s expectations&#13;
+                                                                       of future profits and gains in enterprise value. If those two&#13;
+2.4â&#128;&#130;How Much?                                                          factors run significantly below expectations, the buyer may&#13;
+                                                                       not meet its required return or potentially suffer a lossâ&#128;&#148;&#13;
+   The concept of balanced returns is relevant to all MFIs             even if the institution itself remains profitable. As a result,&#13;
+and their funders but takes on particular significance for MII         when the purchase price is based on expectations of very&#13;
+and DFI equity investors. Unlike creditors, shareholders               high profits and/or growth, it can make it difficult for the&#13;
+earn their primary (and sometimes only) financial return               company to change course down the road.&#13;
+upon sale. Yet the sale nearly always entails giving up a say              Consider the examples of Compartamos and SKS,&#13;
+over the investeeâ&#128;&#153;s future social or developmental mission.            whose IPOs both commanded high valuations. In the case&#13;
+   Thus, the fourth key decision we explored is the price in-          of Compartamos this may have affected managementâ&#128;&#153;s&#13;
+vestors look for when they sell their shares and how they              willingness and ability to reduce interest rates charged to&#13;
+                                                                       clients. In the case of SKS, the high valuations paid in the&#13;
+choose between competing bids that offer different combi-&#13;
+                                                                       run up to the IPO may have contributed to what has now&#13;
+nations of financial versus (future) social returns. Despite its&#13;
+                                                                       proven to be unsustainable growth. In both cases, the ex-&#13;
+critical importance to achieving balanced returns, pricing is          ceptionally high valuations either attracted unsuitable buy-&#13;
+one of the areas that few investors proved willing to com-             ers or motivated unsustainable behaviors by the institu-&#13;
+ment on in-depth. One of the most common themes voiced                 tions themselves or by others seeking to capitalize on the&#13;
+by those interviewed for this paper was that price was an im-          apparent high profits in the sector.&#13;
+portant, but not the driving element, in deciding which offer&#13;
+                                                                   Source: Oâ&#128;&#153;Donohue, et al. (2010).&#13;
+to accept. Among the cases studied, only one shareholder&#13;
+                                                                                                                                         7&#13;
+&amp;#12;ported the MFIâ&#128;&#153;s social objectives. Only one out of the four      then make their final selection based on the most attractive&#13;
+investor groups chose the lowest-priced, but still highly prof-   price. This example stresses the trade-offs investors face in&#13;
+itable offer (46 percent average annual return), even though      balancing returns of social and financial performance.&#13;
+most investors acknowledged that the buyer provided the              To the extent that DFIs or MIIs seek to maximize their&#13;
+best support for the MFIâ&#128;&#153;s social objectives. Meanwhile, all      profitâ&#128;&#148;even after first applying a social performance filter to&#13;
+investors unanimously rejected the highest-priced offer (91       the bidsâ&#128;&#148;merits further investigation, since a high-priced&#13;
+percent average annual return) from a short-term investor         sale could lock an MFI into pursuing a strategy that could&#13;
+with no interest in the MFIâ&#128;&#153;s social mission.                     hurt its clients or even pose risks to the broader microfinance&#13;
+   If this admittedly primitive experiment indicates actual       sector. When an MFIâ&#128;&#153;s shares command too high a price, two&#13;
+investor preferences, then the outcome could be interpreted       factors are at play: high growth, high profit margins, or both.&#13;
+to suggest that investor choices may be guided by a two-step      High-priced equity can increase risks of market volatility&#13;
+process in which they first screen buyers for suitability and     compared to markets with moderately priced equity.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+8&#13;
+&amp;#12;                                                                                                                                     3&#13;
+                                                                                                                 SECTION&#13;
+&#13;
+&#13;
+&#13;
+Market Development Considerations for Exiting DFIs&#13;
+&#13;
+&#13;
+&#13;
+A&#13;
+         s publicly funded institutions, DFIsâ&#128;&#153; mandate is to                   might offer stronger proof of the attractiveness of the core&#13;
+         provide longer-term, patient capital to the private                   microfinance business. Likewise, a DFIâ&#128;&#153;s return expectations&#13;
+         sector for investments that promote development.                      can provide an important indication for what other market&#13;
+As a result, their investments are best placed where private                   actors ought to expect. On the one hand, relatively high re-&#13;
+investors fail to invest sufficiently because of real or perceived             turns could help bring in mainstream sources of capital, but&#13;
+risks. But beyond developing individual retail institutions to                 as noted, when price expectations go beyond a certain range,&#13;
+the point where they can demonstrate the viability of the                      they also risk attracting future buyers with growth and prof-&#13;
+business and attract private investments, DFIs could aspire                    itability goals that are hard to reconcile with the nature of&#13;
+to play a broader catalytic role in developing more inclusive                  microfinance products and clients segments. As the sectorâ&#128;&#153;s&#13;
+financial markets. They could make their investment                            viability is proven, the risk premium should decrease over&#13;
+decisions based on a broader and a more detailed assessment                    time in most markets.&#13;
+of market needs (El-Zoghbi and Lauer 2013). Often, the most                       To date there has been only a handful of DFI exits from&#13;
+catalytic priorities for market development are in three                       MFIs. Several factors explain this. Our research suggests&#13;
+areas: (1) improving information, (2) building the capacity of                 that while DFIs analyze and discuss their future exit options&#13;
+all market actors, and (3) creating market incentives and an                   at entry, DFIsâ&#128;&#153; longer time horizon and incentives may weak-&#13;
+enabling policy environment. DFIs may already engage in                        en the â&#128;&#156;exit culture.â&#128;&#157; In their desire to mitigate reputational&#13;
+these different areas to some extent, depending on the nature                  risk and/or help ensure steadfast commitment of MFIs to&#13;
+of their funding instruments among other factors. But they                     their mission, some of these publicly funded institutions&#13;
+face inherent limitations in their ability to be the local,                    have tended to include a number of restrictions in their&#13;
+neutral, flexible â&#128;&#156;facilitatorâ&#128;&#157; that could support market-                     shareholder agreements. When they do look to sell, these&#13;
+building across the board over the longer term. In fact, DFIs                  provisions combined with the overall complexity of the legal&#13;
+likely will contribute more to market development to the                       documents and procedures have had the effect of slowing&#13;
+extent they can coordinate closely with local â&#128;&#156;facilitatorsâ&#128;&#157;                   down the sales process or putting off interested buyers. In&#13;
+that undertake deep and ongoing market analysis and engage                     addition, DFIs typically have preferred taking a minority&#13;
+in these three catalytic areas.                                                stake, which can be less attractive to potential bidders (espe-&#13;
+    This market development perspective has implications                       cially if the holding period is long and the stake has been di-&#13;
+for DFIsâ&#128;&#153; equity investments at both the entry and exit stages                 luted). While these present serious challenges, our inter-&#13;
+that require further analysis and discussion. For example,                     views suggest that DFIs are starting to push themselves to&#13;
+entry into a relatively immature or â&#128;&#156;frontierâ&#128;&#157; market might                    find ways to exit.&#13;
+itself have a more catalytic effect than putting the same funds                   One example of DFI exits is with start-ups or â&#128;&#156;greenfieldâ&#128;&#157;&#13;
+into a more established market, as it offers more opportuni-                   institutions sponsored by international networks or holding&#13;
+ties to demonstrate the viability of base-of-the-pyramid mar-                  companies (Appendix C). These retail institutions are often&#13;
+ket segments and the MFI business model. Whether the MFI                       created in frontier markets and are meant to set examples for&#13;
+partner is a startup or an existing institution, the specifics of              others to follow, by demonstrating the viability of the&#13;
+how a DFI engages over time, including in governance, can                      microfinance segments they serve, as well as efficient&#13;
+encourage private investors to â&#128;&#156;crowd inâ&#128;&#157; or even take the                     operations and responsible practices.7 After showing several&#13;
+DFIâ&#128;&#153;s place outright.                                                          years of sustainability, some DFIs have sold their greenfield&#13;
+    The way a DFI exitsâ&#128;&#148;when, how, to whom, and for how                        MFI shares back to the holding company. The result typically&#13;
+muchâ&#128;&#148;can send important signals to other market players.                       changes only the nature of their involvement in the MFIsâ&#128;&#153;&#13;
+To the extent that the buyer is a local commercial investor or                 governance, without changing its ultimate ownership since&#13;
+bank, rather than another DFI or DFI-funded entity, this                       they usually are also a major shareholder in the holdings.&#13;
+&#13;
+   &amp;#7; recent IFC and CGAP study shows that in Ghana, the DRC, and Madagascar, the most important effect on market building has come from greenfield&#13;
+7. A&#13;
+   MFI investment in staff training and development while playing a pioneering role in expanding access to financial services. See, Earne, Jansson, Koning,&#13;
+   and Flaming (2014).&#13;
+&#13;
+&#13;
+                                                                                                                                                         9&#13;
+&amp;#12;Applying a market development perspective raises questions        effects? Would the market impact have been greater if the DFI&#13;
+about this exit strategy: does the DFI continue to add value at   had sold its shares to a suitable private investor instead of the&#13;
+the holding company level (as many sponsors seem to believe)?     holding company? Should the proceeds be re-invested in other&#13;
+Were lessons about the business model and performance             frontier markets? These questions merit further discussion&#13;
+widely shared with the market to ensure demonstration             among development finance professionals.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+10&#13;
+&amp;#12;                                                                                                             4&#13;
+                                                                                          SECTION&#13;
+&#13;
+&#13;
+&#13;
+Responsible Exits: Looking Ahead&#13;
+&#13;
+&#13;
+&#13;
+T&#13;
+         he aim of this paper is to explore the issues of         fixed-term funds, and with a governing minority stake for&#13;
+         responsible investing during equity sales and            most investors including the DFIs. Over time, this model&#13;
+         stimulate debate without prescribing practice,           has had positive effects in creating strong institutions&#13;
+which we consider premature. However, as exits start to           serving the poor. Some shortcomings are also coming into&#13;
+accelerate, we hope that the four key decisionsâ&#128;&#148;when, to          focus, however. Fixed-term funds do not offer the flexibility&#13;
+whom, how, and how muchâ&#128;&#148;will provide a useful                     that is required in an evolving sector where market&#13;
+framework for development-oriented investors to use in            conditions can still be unpredictable. However, some&#13;
+evaluating their exit options. In addition, we see a number       investors are showing interest in taking majority stakes.&#13;
+of specific areas that warrant further exploration.               Other models that prioritize delivering dividend yield&#13;
+   Active governance of MFIs through to exit. Active and          rather than capital gains are also gaining traction. Other&#13;
+balanced engagement in MFI governance by social investors is      equity investing models merit further analysis since they&#13;
+widely reported to be a weak spot overall (McKee 2012). Most      could reduce exit trade-offs.&#13;
+of those interviewed for this paper felt that among the              Balanced returns and reasonable growth. The&#13;
+governance areas that need strengthening, boards need to pay      microfinance investment sector is currently involved in a&#13;
+more attention to the specific goal of responsible exit and how   lively debate about how best to balance the financial&#13;
+to best achieve it. Waiting until exit is imminent to raise the   bottom line with one or more social or development&#13;
+question at the board level is unlikely to optimize the outcome   objectives. While the concepts of and emerging metrics&#13;
+for the selling investors, the MFI, or the other stakeholders.    for â&#128;&#156;balanced returnsâ&#128;&#157; and â&#128;&#156;reasonable growthâ&#128;&#157; extend&#13;
+Further discussion and exchange of experience is needed on        well beyond the specific issues surrounding responsible&#13;
+the role of new ownership models and shareholder agreement        exit, the four exit decisions explored in this paper are&#13;
+provisions, along with further analysis of alternative            deeply rooted in the double bottom line nature of MFIs&#13;
+governance models that rely on independent or minority            and their owners. Each investor has its own goals&#13;
+control to sustain an MFIâ&#128;&#153;s social mission.                       preferences that it seeks to achieve at exit, and the market&#13;
+   Exploring new equity investing models. The first               would benefit from improved articulation of those&#13;
+generation of equity investing is carried out mainly by           preferences and how best to advance them.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                            11&#13;
+&amp;#12;               A&#13;
+APPENDIX&#13;
+&#13;
+&#13;
+&#13;
+                                    Accion Investments: Selling an Entire Portfolio&#13;
+&#13;
+&#13;
+&#13;
+I&#13;
+    n late 2009, the board of Accion Investments (AINV) was      agement and board were immediately intrigued. Bamboo&#13;
+    pondering its future. The larger investments were begin-     was an established global private equity group with years of&#13;
+    ning to outgrow the fund, while the less mature invest-      experience in microfinance investing. Surely, a sale to a sin-&#13;
+ ments required continued financial and governance sup-          gle investor would come with fewer complications, and as a&#13;
+ port. Recapitalization was possible but not necessarily         longstanding actor within the microfinance ecosystem,&#13;
+ desirable. Some of the fundâ&#128;&#153;s investors wanted to sell their    Bamboo easily met the test of a like-minded investor. As an&#13;
+ entire stake. Others were willing to remain but wanted an       existing investor in AINV, Bamboo was familiar with its&#13;
+ external sale to provide a reality check on how the market      portfolio companies making for a simpler due diligence&#13;
+ valued the fundâ&#128;&#153;s investments.                                  process and a faster sale. It also helped that in most of these&#13;
+    AINV was one of the first equity funds in microfinance,      investees, AINV held a relatively small stake, meaning that&#13;
+ created when MFIs desperately needed equity and the             an exit did not entail a strategic shift in ownership of its&#13;
+ commercialization of MFIs was just emerging. By design,         MFIs.&#13;
+ as the portfolio of AINV grew, it came to include a mix of         Still, there were complications. AINV held strategic (i.e.,&#13;
+ established MFIs in South America, younger ones in Cen-         larger) stakes in some portfolio companies, while other in-&#13;
+ tral America, and recent start-ups in Africa.                   vestees required more technical support than Bamboo&#13;
+    When the fundâ&#128;&#153;s board tasked its managers to present         could provide. The solution was to carve out less mature&#13;
+ the available exit options, they named a set of principles      MFIs in Africa and sell them jointly to Bamboo and Accion&#13;
+ that should be followed: any transactions should leave port-    International, thus ensuring ongoing support from Accion&#13;
+ folio companies with solid shareholding structures, be fair     Internationalâ&#128;&#153;s capacity-building operation. Additionally,&#13;
+ and transparent and coordinated with co-investors, and          as an anchor shareholder of BancoSol in Bolivia, Accion In-&#13;
+ provide fund investors with a profitable return.                ternational agreed to buy AINVâ&#128;&#153;s interest in that MFI.&#13;
+    The managers identified four options for an exit: floating      Given AINVâ&#128;&#153;s close relationship with Accion Interna-&#13;
+ the company on a small stock market, recapitalizing the         tional and Bambooâ&#128;&#153;s existing stake in the fund, conflicts of&#13;
+ fund, selling it whole to a like-minded investor, or selling    interest were inevitable. This was recognized early on, and&#13;
+ individual MFIs. Among these, a stock flotation seemed of       the fund engaged a legal specialist in conflict of interest to&#13;
+ limited valueâ&#128;&#148;AINV was relatively small and too globally        guide management and the board. This meant taking steps&#13;
+ diversified. The diversity of the fund also posed a challenge   to clearly differentiate buyers from sellers: those AINV di-&#13;
+ to finding a single investor that would be interested in all    rectors who held roles at Accion International or Bamboo&#13;
+ the companyâ&#128;&#153;s assets. A case-by-case sale seemed the most       recused themselves from all board decisions related to the&#13;
+ likely strategy, allowing management to find the right kind     sale.&#13;
+ of buyer for each MFI or group of MFIs. However, such an           While the final negotiations took place among three par-&#13;
+ approach posed its own risksâ&#128;&#148;larger, more mature invest-        tiesâ&#128;&#148;AINV, Bamboo, and Accion Internationalâ&#128;&#148;the num-&#13;
+ ments could sell quickly, leaving the fund with smaller, less   ber of stakeholders in the transaction was far greater. MFI&#13;
+ profitable companies that would be more costly and take         boards and management had to be apprised of the plans,&#13;
+ longer to sell. Moreover, microfinance is a small, intercon-    and regulators in each of the countries were informed of&#13;
+ nected world. The process would not stay quiet for long         the potential transaction, which also involved engaging lo-&#13;
+ and could lead to difficult questions: how would Accion In-     cal legal counsel in each of the relevant countries.&#13;
+ ternational (AINVâ&#128;&#153;s sponsor) explain its disengagement             Completion of the transaction required 18 months as the&#13;
+ from Latin American partners, for example?                      result of cooperation needed from over a dozen institutions&#13;
+    Thus, when an AINV shareholder, Bamboo Finance, ex-          and their boards, as well as regulators, outside investors,&#13;
+ pressed interest in the entire portfolio in June 2011, man-     and other microfinance equity funds.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+ 12&#13;
+&amp;#12;                                                                                                                B&#13;
+                                                                                           APPENDIX&#13;
+&#13;
+&#13;
+&#13;
+Equitas: Separating Governance from Ownership&#13;
+&#13;
+&#13;
+&#13;
+I&#13;
+  n mid-2010, when Aavishkaar-Goodwell was considering               childrenâ&#128;&#153;s education, as well as a commitment to&#13;
+  selling part of its stake in the South Indian MFI Equitas, it      employ one corporate social responsibility staff for&#13;
+  found itself in a rather peculiar position. Aavishkaar-            every 10 branches, whose job would be to conduct&#13;
+Goodwell views itself as an early-stage investor, yet here it        medical and skill development camps.&#13;
+was contemplating an exit, just two years into its investment&#13;
+as a founding investor. Equitas had grown so quickly that         â&#128;¢	 Financial return ceiling. Equitas capped its ROE at&#13;
+Goodwell was becoming too small to maintain a significant            25 percent and set a minimum capital adequacy of 20&#13;
+share in the company. Moreover, Equitasâ&#128;&#153; development was             percent (including off-balance sheet transactions).&#13;
+outpacing the type of close advisory and governance involve-&#13;
+                                                                     Together, these steps limit the financial returns of invest-&#13;
+ment that Goodwell normally seeks to provide portfolio&#13;
+                                                                  ing in Equitas (though at a rather competitive level), while&#13;
+companies.&#13;
+                                                                  keeping in place the financial downside of fixed profit alloca-&#13;
+   The other peculiar position for Aavishkaar-Goodwell is&#13;
+                                                                  tions to charitable activities. Meanwhile, by vesting indepen-&#13;
+that its search for an appropriate investor proved perhaps&#13;
+                                                                  dent directorsâ&#128;&#148;themselves selected on the basis of their pro-&#13;
+simpler than it might have been. After all, this was during the&#13;
+                                                                  fessional independenceâ&#128;&#148;with final say over the companyâ&#128;&#153;s&#13;
+height of the microcredit bubble, just months before the SKS&#13;
+                                                                  affairs, Equitas has made it effectively impossible for inves-&#13;
+IPO. Bids from venture capital funds seeking quick gains in&#13;
+                                                                  tors to alter those original commitments.&#13;
+what was then seen as a quick path to an IPO were easy to&#13;
+                                                                     While these embedded commitments create a self-&#13;
+come by. But Equitas was different in many ways.&#13;
+                                                                  selecting pool of potential investors who are comfortable&#13;
+   Like most of its peers in microfinance, Equitas was a&#13;
+                                                                  with such limits, Aavishkaar worked with the Equitas team&#13;
+nonbank financial company (NBFC). What sets it apart are&#13;
+                                                                  to select the most appropriate buyer from among the bid-&#13;
+some highly unusual governance and social commitments,&#13;
+                                                                  ders. Their final choice was Canaan Partners, a traditional&#13;
+which are enshrined in the companyâ&#128;&#153;s initial Articles of In-&#13;
+                                                                  U.S.-based venture capital firm focused entirely on finan-&#13;
+corporation:&#13;
+                                                                  cial returns.&#13;
+â&#128;¢	 Majority independent board. The board is com-                     For Canaan, Equitas was in many respects a departure&#13;
+   posed of a majority of independent directors, chaired          from the normâ&#128;&#148;it is the only investment in India in which&#13;
+   by an independent and nonexecutive directorâ&#128;&#148;all of             Canaan does not have a board seat, and it is the only one with&#13;
+   whom are well-known and accomplished individuals               explicit social commitments and an earnings cap. However,&#13;
+   with backgrounds mainly in finance and development.            in this structure, as well as in the companyâ&#128;&#153;s focus on effi-&#13;
+                                                                  ciency and quality of execution, Canaan saw the prospects of&#13;
+â&#128;¢	 No controlling shareholder. During the initial sub-            solid, but stable returns over the long termâ&#128;&#148;the very oppo-&#13;
+   scription round, no shareholder was allowed to own             site of the high-return, but also high-risk deals that were tak-&#13;
+   more than 15 percent of the company, and the board             ing place in other Indian MFIs at the time.&#13;
+   can reject any transactions that would result in a stake          Clearly, the unusual self-perpetuating governance and&#13;
+   of more than 24 percent.                                       mission focus at Equitas did not limit its ability to tap com-&#13;
+                                                                  mercial capital, but in fact may have helped maintain the&#13;
+â&#128;¢	 Explicit social commitments. Equitas enshrined                 company on the kind of stable footing that many of its com-&#13;
+   several substantial commitments to its social mission,         petitors had lost during the go-go years of Indian microfi-&#13;
+   including donating 5 percent of its profits to pay for         nance.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                               13&#13;
+&amp;#12;                 C&#13;
+APPENDIX&#13;
+&#13;
+&#13;
+&#13;
+                                       KfW: Selling Back to the Holding&#13;
+&#13;
+&#13;
+&#13;
+ W&#13;
+             ith an equity portfolio amounting to close to            point, while continuing to support the latter with addition-&#13;
+             US$950 million, KfW may well be the largest single       al capital investments as needed.&#13;
+             investor in MFIs and small banks. It has also never         The decision to exit is based primarily on assessment of&#13;
+ fully exited from any of its positions in retail financial service   the subsidiaryâ&#128;&#153;s sustainability and ability to maintain and&#13;
+ providers, with one notable exception: KfW has already com-          further develop institutional capacity, while generating&#13;
+ pleted seven exits in ProCredit banks around the world.              moderate annual growth of 5â&#128;&#147;10 percent using retained&#13;
+    While an important part of its investment strategy, these         earnings. The subsidiary must also demonstrate that it ad-&#13;
+ seven transactions are in some ways closer to an internal            heres to its mission, acts as a market standard-setter, and&#13;
+ institutional reorganization of an ownership stake than a            promotes healthy (but not excessive) competition.&#13;
+ full exit. KfW has a dual interest in ProCredit: as a direct            To avoid the potential for conflict of interest of selling to a&#13;
+ investor in many ProCredit subsidiaries around the world,            related institution in the form of the holding company (and&#13;
+ as well as one of the anchor investors in ProCredit Holding.         one in which KfW has a major stake), the valuation and pric-&#13;
+ Part one of KfWâ&#128;&#153;s strategy involves investing in new Pro-            ing is calculated by an external party, and the premium tends&#13;
+ Credit subsidiaries and staying closely involved in the retail       to be modest. Even after these sales, KfW continues to pro-&#13;
+ institutionâ&#128;&#153;s governanceâ&#128;&#148;an involvement that demands ex-             mote a supportive environment in which the subsidiary (and&#13;
+ tensive time from KfWâ&#128;&#153;s staff. In response, part two of              other market players) can have lasting positive impact, includ-&#13;
+ KfWâ&#128;&#153;s strategy aims to rationalize its resources, by selling         ing by developing credit bureaus, deposit insurance schemes,&#13;
+ the ProCredit subsidiary back to ProCredit Holding at some           and other financial sector infrastructure improvements.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+ 14&#13;
+&amp;#12;                                                                                                               D&#13;
+                                                                                          APPENDIX&#13;
+&#13;
+&#13;
+&#13;
+Arohan: A Distress Sale&#13;
+&#13;
+&#13;
+&#13;
+I&#13;
+  t was spring 2012, and the Hyderabad-based fund manager        growth impossible, but Arohan was forced to severely curtail&#13;
+  Caspian faced a dilemma. One of its holdings, Arohan Fi-       its lending. By spring 2012, Arohanâ&#128;&#153;s portfolio shrank to less&#13;
+  nancial Services in Calcutta, was losing money fast. During    than half its peak size.&#13;
+the prior 18 months since the start of the crisis in Andhra          Expecting the market to recover, Arohan had retained&#13;
+Pradesh, Arohan had shrunk to a third of its peak size, losing   most of its staff and branches. When the market failed to&#13;
+nearly half of its equity.                                       stabilize, Arohan had to face substantial losses. Besides&#13;
+   As a manager whose two funds owned a combined 55 per-         eroding equity, the losses had two additional impacts on&#13;
+cent stake in Arohan, Caspian felt the problem acutelyâ&#128;&#148;the       Arohan: first, they further exacerbated its liquidity predica-&#13;
+MFI was continuing on a downward spiral and may not have         ment, given that banks were even less willing to lend to a&#13;
+survived without an infusion of new equity. To make matters      loss-making institution. Second, the losses eroded the value&#13;
+worse, the dominant positionâ&#128;&#148;40 percent of Arohanâ&#128;&#148;was            of the enterprise, making the exit from Arohan still more&#13;
+held by Bellwether, Caspianâ&#128;&#153;s oldest fund that was set to ma-    difficult sell. Arohan faced an additional hurdle: its share of&#13;
+ture in two years.                                               foreign ownership was already near its legal limit of 75 per-&#13;
+   The trouble afflicting Arohan was shared by many small-       cent. Any investment would thus have to come from local&#13;
+and mid-sized MFIs throughout India. Since the start of the      sourcesâ&#128;&#148;many of whom were already burned by exposure&#13;
+Andhra Pradesh crisis in late 2010, Indian banks, which at       to Indian MFIs.&#13;
+the time, constituted the primary source of the sectorâ&#128;&#153;s fund-       Many rejected the offerâ&#128;&#148;from private equity funds and&#13;
+ing had either turned off or greatly restricted lending to all   from other MFIs. But Arohanâ&#128;&#153;s star was not so easily extin-&#13;
+but the largest and most stable MFIs.                            guished. Intellecap, the investment firm hired by Caspian,&#13;
+   The situation at Arohan was especially acute. On the eve      was affiliated with Intellecash, which prior to the crisis had&#13;
+of the crisis, Arohan had embarked on a growth surge aimed       served as an incubator for aspiring microfinance start-ups,&#13;
+at doubling its portfolio by March 2011, and it had just         providing them with the full suite of tools to start and oper-&#13;
+doubled its branches and staff. With the onslaught of the        ate an MFI. Intellecash also managed its own small microfi-&#13;
+crisis, bank funding was frozen; not only was portfolio          nance operation in an area adjacent to Arohan.&#13;
+                                                                     At the time Intellecap was seeking out potential Arohan&#13;
+                                                                 investors, Intellecash had just embarked on a new acquisi-&#13;
+     FIGURE AD-1                                                 tion-based strategy. Here was an organization looking for ex-&#13;
+                                                                 actly the kind of challenge that Arohan presented, and&#13;
+    Cost Basis Rises as Portfolio Shrinks                        through its strong ties to the Aavishkaar-Goodwell fund, it&#13;
+         21.7&#13;
+                                                                 could raise sufficient capital to both buy out Bellwetherâ&#128;&#153;s&#13;
+                           20.2         Loan Portfolio           stake and infuse Arohan with the capital it required.&#13;
+                                        Operating expense            Intellecash brought more than just capital to the table. Its&#13;
+                                                                 experience working with many different MFIs made it in&#13;
+                                                                 many ways the perfect partner in a merger, while its strong&#13;
+                                                                 ties to the banking community in India was critical when it&#13;
+                                                                 came to helping pull Arohan out of its liquidity squeeze. The&#13;
+                                             10.6                heads of both Arohan and Intellecash both had competen-&#13;
+                                                                 cies and interests that supported a positive partnership. Fi-&#13;
+                                                                 nally, the financial engineers at Intellecap were able to struc-&#13;
+                                                                 ture the transaction in a way that greatly reduced Arohanâ&#128;&#153;s&#13;
+                                                                 foreign-ownership share, thus greatly improving its pros-&#13;
+                                  3.4               3.3&#13;
+                1.8&#13;
+                                                                 pects for future investment.&#13;
+                                                                     What looked promising at the outset has not disappoint-&#13;
+         March 2010        March 2011       March 2012&#13;
+                                                                 ed. In the half-year since the merger, Arohan has returned to&#13;
+                                                                 profitability and has begun to grow. By all accounts, the man-&#13;
+                                                                                                                              15&#13;
+&amp;#12;aging team is functioning wellâ&#128;&#148;an item of some importance           what if there had been no Intellecash? Did Arohan have any&#13;
+when the merger involves the companyâ&#128;&#153;s founder. And most            other options?&#13;
+importantly, Arohan seems to have succeeded in escaping its            Not many. Its existing investors (Bellwether, The Dell&#13;
+liquidity squeeze.                                                  Foundation, and Caspianâ&#128;&#153;s other fund, the India Financial&#13;
+   However, given that Arohan had no other interested buy-          Inclusion Fund) all wanted Arohan to survive and were will-&#13;
+ers besides Intellecash, it is hard not to conclude that the sale   ing to pursue a Plan Bâ&#128;&#148;an infusion of limited equity, just&#13;
+and its subsequent success owe much to sheer luck. With its         enough to keep the organization afloat, but critically, proba-&#13;
+partnerships in capital markets via Intellecap, and its explic-     bly not enough to pull it out of its liquidity squeeze. Under&#13;
+it acquisition-focused strategy backed by the Aavishkaar-           this scenario, Bellwether would have maintained (but not&#13;
+Goodwell fund, Intellecash was a unique organization that           increased) its stake, essentially buying time and hoping that&#13;
+had positioned itself to play the very role it was now under-       the India microfinance sector would recover sufficiently to&#13;
+taking in Arohanâ&#128;&#153;s turnaround.                                      sell Arohan in the next two years. But certainly, there were&#13;
+   But by all accounts, the offer from Intellecash was unex-        no guarantees, and infusing more equity was simply beyond&#13;
+pected by both Caspian and Arohan. So one has to wonderâ&#128;&#148;            the capacity of its existing shareholders.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+16&#13;
+&amp;#12;                                                                                                                       E&#13;
+                                                                                                APPENDIX&#13;
+&#13;
+&#13;
+&#13;
+Edyficar: An NGO Selling to a Bank&#13;
+&#13;
+&#13;
+&#13;
+I&#13;
+  n summer 2008, the management of CARE was facing&#13;
+  a choice: should it sell its single largest asset, Edyfi-            FIGURE AE-1&#13;
+  car?&#13;
+   A decade earlier, CARE created Edyficar as part of its pov-        Edyficarâ&#128;&#153;s Legal Status Reflects on Average&#13;
+erty fighting program in Peru. Now, it was a thriving enter-          Loan Size ($)&#13;
+prise, the third largest MFI in Peru, employing a thousand              1,600&#13;
+&#13;
+staff, serving 180,000 borrowers, and accounting for over 20                                                           Financiera&#13;
+                                                                        1,400&#13;
+percent of all of CAREâ&#128;&#153;s total assets. That same year, Edyficar&#13;
+transitioned from a microenterprise lender (an EDPYME) to               1,200&#13;
+                                                                                                       EDPYME&#13;
+&#13;
+a Financiera (an NBFI), under the Superintendency of Banks.&#13;
+   CARE is an NGO focused on fighting poverty around the                1,000&#13;
+                                                                                       NGO&#13;
+world. While a large part of that includes financial services&#13;
+                                                                         800&#13;
+for the poorâ&#128;&#148;mostly through the promotion of village sav-&#13;
+ings and loan associations (VSLAs)â&#128;&#148;full-service banking                  600&#13;
+had never been part of CAREâ&#128;&#153;s domain of activities. Yet thatâ&#128;&#153;s&#13;
+where Edyficar was heading, and moreover it would not be                 400&#13;
+&#13;
+long before Edyficar would grow to be larger than its parent.&#13;
+                                                                         200&#13;
+   It was also clear that the VSLA model, which targeted far&#13;
+poorer rural residents in countries poorer than Peru, was a                 -&#13;
+                                                                                1998     2000   2002     2004   2006    2008        2010&#13;
+closer match to CAREâ&#128;&#153;s mission than Edyficar was, whose&#13;
+loans at that point were averaging about $1,000 per client.&#13;
+   Those same elements that distanced Edyficar from CARE&#13;
+also meant that CARE was increasingly less able to support            In time, it had fielded four serious offers, all from local or&#13;
+the MFI on its journey. Further growth meant more capital         regional organizations, including banks and other MFIs.&#13;
+and deeper expertiseâ&#128;&#148;something CARE would have been               Among these, CARE selected Banco de Credito del Peru&#13;
+hard-pressed to come up with.                                     (BCP) as the winning bidder. BCP offered $96 million for&#13;
+   By 2008, its management recognized the difficult decision      buying out all of Edyficarâ&#128;&#153;s shareholders, representing a P/B&#13;
+they had to make: they would have to sell Edyficar. After some    valuation of 2.5 times. This was high by both global and&#13;
+deliberation, they also recognized that a partial sale would      country standards, but considering its profitability (30 per-&#13;
+not workâ&#128;&#148;they had to sell the whole thing. Since its transfor-    cent average ROE during 2007â&#128;&#147;2009), the price was in fact&#13;
+mation to a financiera, the evolutionary path for Edyficar was    well below that of its peers, which by JP Morgan estimates&#13;
+leading it ever further away from CAREâ&#128;&#153;s core mission (see        should be 3.5 times P/B for that ROE level (CGAP and JP&#13;
+Figure AE-1 for a look at Edyficarâ&#128;&#153;s fast-rising average loan     Morgan 2011).&#13;
+amount starting in 2008). Selling a partial stake and retaining       Nevertheless, from CAREâ&#128;&#153;s perspective, the price was not&#13;
+significant say in governance would simply serve to slow that     the driving factor in its decision. Rather, the main reason was&#13;
+evolutionary process, and would serve neither party well.         a qualitative one: BCPâ&#128;&#153;s strategy was to keep Edyficar as it&#13;
+   As a global NGO with many stakeholders, CARE took a            was. During the due diligence period, BCP was especially re-&#13;
+methodical approach to preparing for the sale, seeking inter-     spectful of Edyficarâ&#128;&#153;s management and staff, and it commit-&#13;
+nal consensus, including buy-in from Edyficarâ&#128;&#153;s senior man-       ted to keep existing branding, management, and the mission&#13;
+agement. It also maintained close consultation with minority      all in place. To demonstrate that commitment, BCP agreed to&#13;
+shareholders, as well as with the Banking Superintendency.        sign one-year contracts with Edyficarâ&#128;&#153;s most senior execu-&#13;
+Recognizing its own limited knowledge of the process, CARE        tives as part of the transaction.&#13;
+retained Morgan Stanley, which had expertise in both merg-            As both CARE and Edifycar understood at the time, BCPâ&#128;&#153;s&#13;
+ers and acquisitions and microfinance, along with a strong        perspective was guided by a recognition that microfinance&#13;
+ground presence in Peru.                                          was very different from banking. Some years before, BCP had&#13;
+&#13;
+                                                                                                                                           17&#13;
+&amp;#12;tried and failed to launch its own microfinance operation.       chalking up a 44 percent cumulative annual growth rate&#13;
+That experience and its lessons were encapsulated by some-       (CAGR) for the three years since the sale. And while this also&#13;
+thing one of BCPâ&#128;&#153;s directors said during the negotiations: â&#128;&#156;If   reflects an increase in average loan size, thatâ&#128;&#153;s in many ways&#13;
+we were to try to do what Edyficar did, we would fail.â&#128;&#157;          less a reflection on Edyficarâ&#128;&#153;s new owner, than on the chang-&#13;
+   This is not to say that selling to BCP entailed no change.    ing market landscape in Peru, where average MFI loan&#13;
+Both parties understood that back-end operations, IT sys-        amounts exceed those of Edyficar. Deposits have also ex-&#13;
+tems, regulatory reporting, and other relevant services would    panded enormously, from $30 million at the time of sale to&#13;
+be either merged or leveraged in some way. And as one of the     over $500 million now, though this consists almost exclu-&#13;
+leading banks in Peru, BCP could also unlock access to the       sively of very large private and institutional accounts, aver-&#13;
+capital markets as well as its own balance sheet. In short,      aging $300,000. Savings products for Edyficarâ&#128;&#153;s microfi-&#13;
+BCP would be the partner that could fulfill the potential        nance clients have not yet been rolled out.&#13;
+Edyficar had gained by becoming a financiera, and do so             Edyficar today is far from the organization that CARE&#13;
+without undermining Edyficarâ&#128;&#153;s internal ethos.                   founded 15 years ago. It has charted its own path, and BCP&#13;
+   These expectations have largely proved correct. Edyficar      has proven the right partner to join it for the past three years&#13;
+continues to be led by the same general manager as before,       and walk with it into the future. Meanwhile, CARE was able&#13;
+and it continues to focus on microenterprise lending. It has     to put the proceeds to work combating poverty both in Peru&#13;
+also continued on its rapid growth path, with the portfolio      and around the world.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+18&#13;
+&amp;#12;                                                                                                                                                  F&#13;
+                                                                                                                     APPENDIX&#13;
+&#13;
+&#13;
+&#13;
+Sathapana: A Multi-Stakeholder Exit&#13;
+&#13;
+&#13;
+&#13;
+S&#13;
+        athapana is in many ways the quintessential MFI story.&#13;
+        Founded in 1995 as an NGO focused on providing                           FIGURE AF-1&#13;
+        health and education services to the poor of Cambodia,&#13;
+it quickly found its way to microfinance. During the early                      Growing MFI in a Growing Market&#13;
+2000s, it was supported by GTZ and the World Bank. In                            160                                                                         8.0%&#13;
+2003 it had transformed into a commercial enterprise and&#13;
+                                                                                 140                                                                         7.0%&#13;
+established a credit relationship with Triodos Investment&#13;
+Management and Blue Orchard. The original shareholders                           120                                                                         6.0%&#13;
+included the founding NGO and the staff association. In&#13;
+2004, it received its first equity investmentâ&#128;&#148;from Shore-                        100                                                                         5.0%&#13;
+                                                                                                  Market Share (%)&#13;
+Capâ&#128;&#148;and in 2006, welcomed FMO and Triodos-Doen8 as&#13;
+                                                                                  80                                                                         4.0%&#13;
+additional equity investors.&#13;
+    In 2009, it received a nonbanking deposit license and saw                     60                                                                         3.0%&#13;
+                                                                                                                              Assets ($ mln)&#13;
+its first equity sale, when Developing World Markets (DWM)&#13;
+bought ShoreCapâ&#128;&#153;s stake. By 2012, the MFI had assets of $150                      40                                                                         2.0%&#13;
+&#13;
+million, deposits of $67 million, and a CAGR that averaged 51                     20                                                                         1.0%&#13;
+percent over the 12 years since 2000. ROE since its first com-&#13;
+mercial investment from ShoreCap averaged 25 percent.                              0                                                                         0.0%&#13;
+&#13;
+    Since about 2008, Sathapana held the position of the                           2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012&#13;
+&#13;
+fourth largest MFI in the country, with a market share of&#13;
+about 5 percent. However, in many ways, Sathapana stood&#13;
+apart from the field. Its focus had been shifting toward the&#13;
+SME sector, and by 2011, over 25 percent of its portfolio was&#13;
+                                                                                 FIGURE AF-2&#13;
+in SME loans, averaging $8000â&#128;&#148;nearly 10 times the sector&#13;
+average.                                                                        Average Loan Amounts (USD)&#13;
+    In 2012 the shareholders approved a new strategic plan&#13;
+                                                                                 2000&#13;
+that envisioned transforming Sathapana into a commercial                                          Avg Sathapana Loan                                        1,779&#13;
+bank, broadening its products and services, and positioning it                                    Microcredit        $1,282&#13;
+for a potential regional expansion. The plan also entailed a sig-                                 SME                $8,001&#13;
+&#13;
+nificant capital increase, with a further equity infusion envi-                  1500&#13;
+                                                                                                                                         Sathapana&#13;
+sioned within a few years. FMO and Triodos had been hands-&#13;
+on investors: both held board seats, were actively engaged in&#13;
+governance, and supported training programs. However, it                         1000&#13;
+                                                                                                                                                      857&#13;
+had now been six years since their investment, and Sathapana&#13;
+had reached a new level of maturity in terms of performance,&#13;
+footprint in the market, risk management, and governance.                         500                                                    Cambodia MFIs&#13;
+They considered the timing appropriate for an exit for these&#13;
+reasons as well as their desire to reduce their Cambodia expo-&#13;
+sure (both also held stakes in other Cambodian MFIs). In light&#13;
+                                                                                       0&#13;
+of Sathapanaâ&#128;&#153;s new strategy, the time was ripe to bring in a                               2001         2003         2005       2007           2009   2011&#13;
+new strategic shareholder that shared Sathapanaâ&#128;&#153;s vision and&#13;
+had the resources and capacity to help implement it.&#13;
+   &amp;#7; riodos-Doen Foundation (Triodos Doen) was launched in 1994 by the DOEN Foundation and Triodos Bank. Since December 2013 it has been operating&#13;
+8. T&#13;
+   as Triodos Sustainable Finance Foundation, under the exclusive management of Triodos Investment Management and without active involvement of the&#13;
+   DOEN Foundation.&#13;
+&#13;
+                                                                                                                                                                    19&#13;
+&amp;#12;    When FMO and Triodos decided to sell, they informed                         action and the buyer.10 The selection criteria for the bidders&#13;
+Sathapanaâ&#128;&#153;s other shareholders, senior management, and the                      focused on three key areas: strategic fit with Sathapana and&#13;
+board of their decision. In these discussions, it became ap-                    its mission, financial capacity, and a competitive price.&#13;
+parent that the sale would have to be done on a cooperative                         The auction was competitive, attracting local, regional,&#13;
+basisâ&#128;&#148;FMO and Triodos together held 40 percent of Sath-                         and international institutions. Ultimately, the sellers selected&#13;
+apana, in other words, a major but noncontrolling stake.                        Maruhan Japan Bank (MJB), a local commercial bank estab-&#13;
+However, selling a controlling stake could yield significantly                  lished in 2008 that was already lending to multiple Cambo-&#13;
+more interest and potentially a better price from the type of                   dian MFIs, including Sathapana. In addition to offering the&#13;
+strategic investor they were seeking. The other sharehold-                      highest bid, MJB also had a regional growth strategy aligned&#13;
+ersâ&#128;&#148;including DWM, which owned the largest stake (35 per-                       with Sathapanaâ&#128;&#153;sâ&#128;&#148;both saw Cambodia as a home base for&#13;
+cent)â&#128;&#148;also held tagalong rights, which gave them the right                      what would ultimately be broader operations in Southeast&#13;
+to sell their shares alongside those of FMO and Triodos. The                    Asia. Because MJB had only a single branch and no overlap&#13;
+sellers thus had to seek a buyer willing to buy these addi-                     with Sathapanaâ&#128;&#153;s client base, integrating operations was also&#13;
+tional shares.                                                                  not a significant factor. Plus, MJB was favored by Sathapanaâ&#128;&#153;s&#13;
+    For the tagalong shareholders, the sale was a significant                   management, whom the buyer sought to retain by extending&#13;
+opportunity. Although DWM had only recently invested in                         employment contracts with the CEO and his key staff.&#13;
+Sathapana, it recognized that joining in a strategic sale would                     However, along with its strong strategic fit, MJB also&#13;
+likely produce a better outcome than retaining its shares. Be-                  posed a dilemma: in addition to owning banks across the&#13;
+sides providing a higher price, the bid also met DWMâ&#128;&#153;s stra-                    ASEAN region, MJBâ&#128;&#153;s parent company, Maruhan Corpora-&#13;
+tegic objective to develop deeper links among its partner                       tion, operates a large number of slot machine-type parlors&#13;
+MFIs and the broader financial systems within which they                        (Pachinko) across Japan.11 To resolve this dilemma, the sell-&#13;
+operate. For the staff association, comprised mainly of mid-                    ers asked for special assuranceâ&#128;&#148;a request to the parent com-&#13;
+dle- and lower-middle-income Cambodians, this was an un-                        pany for a specific undertaking that the scope of its Cambo-&#13;
+usual opportunity to monetize their shares, and the share-                      dian operations would remain limited to the banking sector.&#13;
+holders, through their M&amp;A adviser, sought to make sure the                     This helped separate the positive aspects of MJB from the&#13;
+staff association was fully informed about the consequences                     concerns posed by its ownerâ&#128;&#153;s gaming business. As social in-&#13;
+of joining the sale or retaining their shares. Finally, for the                 vestors, the sellers wanted to ensure that Sathapanaâ&#128;&#153;s social&#13;
+founding NGO the sale presented an opportunity to mone-                         and developmental mission would continue following the&#13;
+tize part of its stake, while retaining a voice in post-sale gov-               sale. To that end, they led the amendment of the MFIâ&#128;&#153;s char-&#13;
+ernance.                                                                        ter (to which MJB became a signatory) to clearly spell out its&#13;
+    However, the presence of tagalong rights had conse-                         commitment to provide financial services to the poor. In ad-&#13;
+quences. DWM and its tagalong partners had the flexibility                      dition, MJB agreed to accommodate the founding NGOâ&#128;&#153;s re-&#13;
+of participating (or not) in the sale, but with fewer obliga-                   quest to sell only half of its shares while contracting options&#13;
+tions than FMO and Triodos, which had initiated the process                     to exercise the remainder at a later time. This allowed the&#13;
+and were ultimately responsible for carrying out the deal.                      NGO to retain its board seat, through which it could help&#13;
+Over the course of the transaction, this mix of different rights                maintain Sathapanaâ&#128;&#153;s mission focus after the sale.&#13;
+and responsibilities increased the complexity of the process.                       The offer from MJB also met the expectations of the tag-&#13;
+    In view of this complex and intensive process, FMO and                      along shareholders, all of whom joined the sale. Though&#13;
+Triodos engaged ShoreBank International (SBI)9 as the                           these tagalong rights divided the shareholders and may have&#13;
+M&amp;A adviser right from the beginning. In addition, Sathapa-                     complicated the process, they did not change what ultimate-&#13;
+naâ&#128;&#153;s CEO was actively involved, providing input on the initial                  ly was a positive outcome for all. In the end, MJB acquired&#13;
+list of potential investors who had already demonstrated in-                    95.1 percent of Sathapanaâ&#128;&#153;s shares, with the remaining 4.9&#13;
+terest (this included the winning bidder) and facilitated                       percent retained by the founding NGO. With this, Sathapana&#13;
+close communication with the National Bank of Cambodia,                         had closed its social investor chapter, setting forth on a new&#13;
+which had to provide regulatory approval for both the trans-                    path.&#13;
+&#13;
+9.	&amp;#7;SBI was a part of the ShoreBank group to which Sathapanaâ&#128;&#153;s earlier investor, ShoreCap, had belonged, and thus were also well-acquainted with Sath-&#13;
+    apana and the Cambodia market. As of October 2013, SBI is operating as Enclude.&#13;
+    The transaction faced greater regulatory scrutiny because the buyer was deemed influential according to Cambodian law, meaning it would own more&#13;
+10.	&amp;#7;&#13;
+    than 20 percent of the financial institution. Such investors face greater obligations toward the regulator, which may enjoin influential shareholders to&#13;
+    increase the companyâ&#128;&#153;s capital until solvency standards are met.&#13;
+    While gambling is illegal in Japan, Pachinko is not, in part because it can be also used as a recreational arcade game. Historically, Pachinko has been a&#13;
+11.	&amp;#7;&#13;
+    widely accepted activity in the country.&#13;
+&#13;
+20&#13;
+&amp;#12;                                                                                                                                  G&#13;
+                                                                                                            APPENDIX&#13;
+&#13;
+&#13;
+&#13;
+Focus Group on Social vs. Financial Return&#13;
+&#13;
+   The following scenario was presented to a group of inves-                    One of the MFIâ&#128;&#153;s goals is to broaden its loan offerings&#13;
+tors. Participants, all representatives of microfinance equity               (currently 93 percent of its portfolio is in microenterprise&#13;
+funds, were divided into four groups and asked to choose                     loans, 4 percent in housing, and 3 percent in emergency&#13;
+which offer they would accept. Three groups chose the local                  loans). On the savings side, it has set a goal of depositors sur-&#13;
+commercial bank, even though two of them recognized that                     passing borrowers in three years and deposits reaching 70&#13;
+the holding company held out higher social return (one in-                   percent of loan portfolio. However, it has had trouble keep-&#13;
+vestor described the choice as â&#128;&#156;going with my mind, not my                   ing deposit accounts active (40 percent of the deposit ac-&#13;
+heartâ&#128;&#157;). One group chose the holding company, citing mis-                    counts have negligible balances; two-thirds of deposits come&#13;
+sion alignment as the reason. No investors chose the private                 from the largest 500 accounts, averaging $20,000 each). The&#13;
+equity investor as a viable option, due to its lack of fit with              MFI needs an additional $10 million in equity to continue its&#13;
+the MFIâ&#128;&#153;s mission, though some did mention that it was a                     growth.&#13;
+painful choice, given that they were giving up substantially                    Five years ago, the fund you manage invested $3.2 million&#13;
+higher financial returns.                                                    in this MFI, which at the time was just two years old (your&#13;
+                                                                             original 40 percent share has since been diluted to 30 per-&#13;
+Consider the following scenario                                              cent). Since the beginning, youâ&#128;&#153;ve played a leading role in&#13;
+   You are a 30 percent shareholder in an MFI that you in-                   governance and were the driver behind the MFIâ&#128;&#153;s transfor-&#13;
+vested in five years ago. Now, it has a $90 million portfolio and            mation into a bank and its push for savings. Another three&#13;
+almost 90,000 borrowers. Two years ago it acquired a banking                 smaller investors (combined 50 percent stake) have indicat-&#13;
+license, and now has 30,000 deposit accounts at $15 million                  ed that they would probably sell together with you, thus a&#13;
+total raised. The remaining 70 percent of the MFIâ&#128;&#153;s portfolio is             total of 80 percent could be sold (the rest is mostly manage-&#13;
+funded via debt, mostly from foreign sources. For the past five              ment shares, some local wealthy investors, and a stake in an&#13;
+years, the MFI has been growing at 30 percent CAGR.                          employee stock ownership plan).&#13;
+&#13;
+The offers&#13;
+&#13;
+            Local commercial bank                                Holding company                                  Private equity investor&#13;
+ Background                                        Background                                          Background&#13;
+&#13;
+ The third largest bank in the country, seeking    A moderate-size holding company with six            Foreign private equity fund active in the&#13;
+ to expand its down-market presence. It has        MFIs in its portfolio, mostly in the same           region. Has made several recent investments&#13;
+ previously tried to build its own microfinance    region. It has developed an especially strong       in consumer finance companies in nearby&#13;
+ lending program, which was unsuccessful.          savings methodology (five of its MFIs have          countries. Most of its investments are resold&#13;
+                                                   more savers than borrowers, and portfolios          in 3â&#128;&#147;4 years.&#13;
+                                                   mostly funded by deposits). Deposits average&#13;
+ The bank would like to keep MFI operations        $400â&#128;&#147;600.                                           Other finance companies have sought&#13;
+ separate, integrating only main back office                                                           partnerships with large household retailers.&#13;
+ functions and MIS. It agrees to sign a one-year   The holding company wants to keep the               Also offers short-term loans to wage-earners&#13;
+ contract with current management.                 CEO (who holds the holding company in high          (payday loans), at prices slightly above MFI&#13;
+                                                   regard). It will bring two of its savings experts   rates for comparable products.&#13;
+                                                   to align the MFIâ&#128;&#153;s savings program to its&#13;
+                                                   methodology.                                        Offers management significant options as&#13;
+                                                                                                       part of the deal. Management is interested.&#13;
+                                                                                                                                            Continued&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                      21&#13;
+&amp;#12;           Local commercial bank                                 Holding company                                Private equity investor&#13;
+Social Mission                                     Social Mission                                    Social Mission&#13;
+&#13;
+No explicit mission, but regulator (Central        Primary mission to expand savings and credit      No social mission.&#13;
+Bank) is well-run and includes requirements        services to the poor. Focus less on microen-&#13;
+such as standard pricing disclosure and has        terprise lending and more on financial inclu-     Regulator (Central Bank) is well-run and in-&#13;
+expressed concerns about avoiding market           sion, including low-income wage-earners.          cludes requirements such as standard pricing&#13;
+overheating.                                       Loan portfolios of other MFIs include up to       disclosure and has expressed concerns about&#13;
+                                                   10 percent in housing loans and as high as 25     avoiding market overheating.&#13;
+Itâ&#128;&#153;s clear the bank is mostly interested in        percent in consumption loans.&#13;
+growing the high-yield MFI portfolio, though&#13;
+larger clients will be able to access the bankâ&#128;&#153;s   Has engaged a rating agency to conduct&#13;
+broader offerings. It has a broad ATM net-         Smart Certification for one of its MFIs. Plans&#13;
+work and money transfer service, but has very      to roll out to others in time. Partners with&#13;
+few deposit accounts below $500.                   research institutions to evaluate its level and&#13;
+                                                   quality of outreach, but largely uninterested&#13;
+                                                   in client impact analysis.&#13;
+Price                                              Price                                             Price&#13;
+&#13;
+$13.9 million, or 2.1 P/B. Extends same offer      $10.6 million, or 1.6 P/B. Prefers to buy just    $17.8 million, or 2.7 P/B. Extends same offer&#13;
+to the other investors, conditional upon your      your stake, plus $10 million in fresh shares.     to the other investors, conditional upon your&#13;
+sale.                                              Agreed to sign a three-year buy-out option        sale.&#13;
+                                                   with other investors, who are comfortable&#13;
+                                                   with offer.&#13;
+&#13;
+&#13;
+Which one will you accept and why?&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+22&#13;
+&amp;#12;                                                                                                       H&#13;
+                                                                                    APPENDIX&#13;
+&#13;
+&#13;
+&#13;
+List of Interviewees&#13;
+&#13;
+&#13;
+Name                        Organization                       Name                   Organization&#13;
+Sushma Kaushik              Aavishkaar                         Dina Pons              Incofin IM&#13;
+Mary Chaffin                Accion                             Anurag Agrawal         Intellecap&#13;
+John Fischer                                                   Manoj Nambiar          IntelleCash Microfinance Net-&#13;
+Anne-Marie Chidzero         Africap Microfinance Fund                                 work Company&#13;
+&#13;
+Marcus Fedder               Agora Microfinance                 David Munnich          Investisseurs &amp; Partenaires&#13;
+&#13;
+Anne Contreras              Arendt &amp; Medernach                 Matthias Adler         KfW&#13;
+&#13;
+Shubhankar Sengupta         Arohan                             Martin Hagen&#13;
+&#13;
+Ximena Escobar de Nogales   Bamboo Finance                     Ira Lieberman          LIPAM International, Inc.&#13;
+&#13;
+Xavier Pierluca                                                Kaspar Wansleben       Luxembourg Microfinance&#13;
+                                                                                      Development Fund (LMDF)&#13;
+Melchior de Muralt          BlueOrchard&#13;
+                                                               Geeta Goel             Michael &amp; Susan Dell&#13;
+Alok Mittal                 Canaan Partners                                           Foundation&#13;
+LatÃ© Lawson                 CARE                               Doug Young             MicroVest&#13;
+Peter Buijs                                                    Fernando Campero       MIF&#13;
+Vishal Bharat               Caspian Advisors Private Limited   Stefan Harpe           Oikocredit&#13;
+Fernanda Lima               Developing World Markets           Frank Rubio&#13;
+Brad Swanson                                                   Alex Silva             Omitrix&#13;
+Ana Maria Zegarra           Edifycar                           Jean-Gabriel Dayre     Proparco&#13;
+Edvardas Bumsteinas         EIB                                Elodie Parent&#13;
+Laurie Spengler             Enclude (formerly ShoreBank        Michael Fiebig         responsAbility&#13;
+                            International)&#13;
+Ian Callaghan                                                  Henry Gonzalez&#13;
+Jesse Fripp                                                    Mildred Callear        SEAF&#13;
+PN Vasudevan                Equitas                            Frank Streppel         Triodos&#13;
+Arno de Vette               FMO                                Mark van Doesburgh     Triple Jump&#13;
+Els Boerhof                 Goodwell Investments               Luis Guerra&#13;
+Paul DiLeo                  Grassroots Capital Management      Judith Mayer           University of Munich&#13;
+Martin Holtmann             IFC                                CJ Juhasz              WWB Asset Management&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                      23&#13;
+&amp;#12;               I&#13;
+APPENDIX&#13;
+&#13;
+&#13;
+&#13;
+                                 Sources&#13;
+&#13;
+ CGAP. 2012. â&#128;&#156;CGAP Funder Survey.â&#128;&#157; Washington, D.C.:         McKee, Katharine. 2012. â&#128;&#156;Voting the Double Bottom Line:&#13;
+   CGAP.                                                       Active Governance by Microfinance Equity Investors.â&#128;&#157;&#13;
+ Earne, Julie, Tor Jansson, Antonique Koning, and Mark         Focus Note 79. Washington, D.C.: CGAP.&#13;
+   Flamming. 2014. â&#128;&#156;Greenfield MFIs in Sub-Saharan           MicroRate. 2007. â&#128;&#156;Microfinance Investment Vehicle&#13;
+   Africa: A Business Model for Advancing Access to            Survey.â&#128;&#157; Washington, D.C.: MicroRate.&#13;
+   Finance.â&#128;&#157; Forum 8. Washington, D.C.: CGAP and IFC.        â&#128;&#148;â&#128;&#148;â&#128;&#148;. 2012. â&#128;&#156;Microfinance Investment Vehicle Survey.â&#128;&#157;&#13;
+ El-Zoghbi, Mayada, and Kate Lauer. 2013. â&#128;&#156;Facilitating        Washington, D.C.: MicroRate.&#13;
+    Market Development to Advance Financial Inclusion.â&#128;&#157;      Oâ&#128;&#153;Donohue, Nick, et al. 2010. â&#128;&#156;All Eyes on Microfinance Asset&#13;
+    Focus Note 89. Washington, D.C.: CGAP, October.            Quality: Microfinance Global Valuation Survey.â&#128;&#157; Occasion-&#13;
+ Glisovic, Jasmina, Henry Gonzalez, Yasemin Saltuk, and        al Paper 16. Washington, D.C.: CGAP and J.P. Morgan.&#13;
+    Frederic Rozeira de Mariz. 2012. â&#128;&#156;Volume Growth and      Rhyne, Elisabeth, et al. 2009. â&#128;&#156;Aligning Interests: Address-&#13;
+    Value Contraction: Global Microfinance Equity Valua-       ing Management and Stakeholder Incentives during&#13;
+    tion Survey 2012.â&#128;&#157; Forum 3. Washington, D.C.: CGAP         Microfinance Institution Transformations.â&#128;&#157; Toronto:&#13;
+    and J. P. Morgan.                                          Calmeadow Foundation.&#13;
+ Marulanda, Beatriz, Lizabeth Fajury, Mariana Paredes, and   Rozas, Daniel. 2011. â&#128;&#156;Weathering the Storm: Hazards,&#13;
+   Frank Gomez. 2010. â&#128;&#156;Failures in Microfinance: Lessons       Beacons, and Life Rafts.â&#128;&#157; Washington, D.C.: Center for&#13;
+   Learned.â&#128;&#157; Toronto: Calmeadow Foundation.                    Financial Inclusion at Accion.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+ 24&#13;
+&amp;#12;&amp;#12;&amp;#12;&amp;#12;&amp;#12;</ml:original-txt><ml:search-metadata><doc id="19905333">
+        <url>
+            http://documents.worldbank.org/curated/en/2014/04/19905333/art-responsible-exit-microfinance-equity-sales
+        </url>
+        <availablein>English</availablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2014/04/19905333/art-responsible-exit-microfinance-equity-sales</url_friendly_title>
+        <new_url>2014/04/19905333/art-responsible-exit-microfinance-equity-sales</new_url>
+        <disclosure_date>2014-08-01T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2014-08-01T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/08/01/000333037_20140801144949/Rendered/INDEX/805400NWP0CGAP00Box385295B00PUBLIC0.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/08/01/000333037_20140801144949/Rendered/PDF/805400NWP0CGAP00Box385295B00PUBLIC0.pdf</pdfurl>
+        <docdt>2014-04-01T00:00:00Z</docdt>
+        <datestored>2014-08-01T00:00:00Z</datestored>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            The art of the responsible exit in
+            microfinance equity sales
+        </repnme>
+        <abstracts>
+            Equity as a funding instrument is
+            particularly important to responsible development of
+            financial markets. At its core, it supports the growth and
+            diversification of microfinance institutions (MFIs) and
+            other financial institutions that serve the poor, and it is
+            especially vital to the expansion of deposit services. In
+            this context, this paper seeks to explore the concept of a
+            responsible exit along four strategic decisions: (i) the
+            timing of the equity sale, (ii) buyer selection, (iii) the
+            governance and use of shareholder agreements to achieve
+            social objectives, and (iv) how social and financial returns
+            are balanced when selecting among bids. The author also
+            examine how DFIs can use exits to encourage responsible
+            market development given their particular role as publicly
+            funded entities. This paper is not intended to be
+            prescriptive. The practice of selling equity in MFIs is
+            still evolving, and the complexities of the transactions
+            make each sale unique. Rather than setting out specific
+            guidelines, the author hope to draw on investor experiences
+            to highlight key exit-related decisions for MFIs and DFIs,
+            and in so doing, the author hope to spur a focused debate on
+            how to exit in such a way that the interests of investors,
+            MFIs, and their clients are balanced.
+        </abstracts>
+        <docna>
+            The art of the responsible exit in
+            microfinance equity sales
+        </docna>
+        <display_title>The art of the responsible exit
+            in microfinance equity sales</display_title>
+        <listing_relative_url>/research/2014/04/19905333/art-responsible-exit-microfinance-equity-sales</listing_relative_url>
+        <topic>Microfinance m1327227 367,Private Equity Funds m1327220 344,Finance and Growth m1327404 1081,Access to Finance m1327464 1249,Energy Efficiency Finance m1326603 1697</topic>
+        <docty>Working Paper (Numbered Series)</docty>
+        <subtopic>Microfinance,Access to Finance,Emerging Markets,Debt Markets,Investment and Investment Climate</subtopic>
+        <teratopic>Finance and Financial Sector Development,Macroeconomics and Economic Growth,Private Sector Development</teratopic>
+        <count>World</count>
+        <authors>
+            <author>Rozas, Daniel</author>
+            <author>Drake, Deborah</author>
+            <author>Lahaye, Estelle</author>
+            <author>McKee, Katharine</author>
+            <author>Piskadlo, Danielle</author>
+        </authors>
+        <entityids>
+            <entityid>000333037_20140801144949</entityid>
+        </entityids>
+        <admreg>The World Region,The World Region</admreg>
+        <colti>CGAP Access to Finance Forum ; no. 9</colti>
+        <lang>English</lang>
+        <historic_topic>Finance and Financial Sector Development,Macroeconomics and Economic Growth,Private Sector Development</historic_topic>
+        <topicv3>Microfinance m1327227 367,Private Equity Funds m1327220 344,Finance and Growth m1327404 1081,Access to Finance m1327464 1249,Energy Efficiency Finance m1326603 1697</topicv3>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            Access to Finance, access to financial
+            services, accounting, Asset Management, Asset Quality, ATM
+            network, auction, balance sheet, balance sheets, banking
+            sector, barrier, bid, bids, branches, capital adequacy,
+            capital funds, capital gains, capital investments, capital
+            markets, CC, Central Bank, charter, client base, commercial
+            bank, commercial banks, commercial capital, commercial
+            investment, commercial investor, commercial investors,
+            common stock, competitors, conflict of interest, conflicts
+            of interest, consumer finance, consumer lending, corporate
+            social responsibility, Corporation, credibility, credit
+            bureaus, credit relationship, creditors, debt, deposit,
+            deposit accounts, deposit insurance, deposit services,
+            deposit-taking institution, depositors, deposits,
+            development finance, development finance institutions,
+            direct investments, dispute resolution, diversification,
+            diversified portfolio, dividend, dividend yield, double
+            bottom line, due diligence, earnings, emergency loans,
+            emerging market, employee, enforceability, equity fund,
+            equity funds, equity holdings, equity investing, equity
+            investment, equity investments, equity investors, equity
+            portfolio, equity stakes, equity valuation, expansion,
+            exposure, finance companies, financial capacity, financial
+            company, financial engineers, financial institution,
+            financial institutions, financial markets, financial
+            performance, financial return, financial returns, financial
+            sector, financial sector infrastructure, financial sectors,
+            financial service, financial service providers, financial
+            services, financial systems, foreign ownership, fund
+            manager, global private equity, group of investors, growth
+            rate, holding, holding companies, holding company, housing
+            loans, income, initial public offering, institutional
+            capacity, institutional support, instrument, interest rates,
+            interests of investors, investing, investment decisions,
+            investment horizons, Investment Management, investment
+            options, investment processes, investment strategy,
+            Investment Vehicle, investor preferences, IPO, jurisdiction,
+            lack of access, legal counsel, legal provisions, lender,
+            less-developed markets, liquidity, Loan, loan amount, loan
+            amounts, Loan Portfolio, Loan portfolios, Loan Size, local
+            market, market conditions, market depth, Market Development,
+            market players, market share, market standard, market
+            volatility, Maturity, medium enterprises, merger, mergers,
+            MFI, MFIs, microcredit, microcredit operation, Microfinance,
+            microfinance clients, microfinance equity funds,
+            microfinance industry, Microfinance Institution,
+            microfinance institutions, microfinance lending,
+            microfinance sector, minority shareholder, minority
+            shareholder protections, Minority shareholder rights,
+            minority shareholders, money transfer, National Bank,
+            outreach, outside investors, ownership structure, parent
+            company, party, payday loans, policy environment,
+            portfolios, potential investors, private equity, private
+            equity investor, private investments, private investor,
+            private investors, private sector development, profit
+            margins, profitability, rapid growth, regulator, regulators,
+            regulatory scrutiny, reputation, reputation risk, retail
+            banking, return, returns, risk management, risk premium,
+            savings, Savings products, shareholder, shareholders, small
+            banks, SME, SME lending, social commitments, social
+            investment, social investor, social investors, social
+            mission, social performance, socially responsible funds,
+            solvency, sponsor, sponsors, start-ups, startup, stock
+            market, strategic investor, strategic investors, Sustainable
+            Finance, technical assistance, technical support,
+            transaction, Valuations, venture capital, venture capital
+            firm, venture capital firms, venture capital funds, venture
+            capital investments, village, World Markets
+        </keywd>
+        <owner>Finance &amp; Markets - Consult. Grp (GFMGP)</owner>
+        <repnb>80540</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>Economic Policy and Debt</ml:concept><ml:concept>ICT</ml:concept><ml:concept>ICT for Development</ml:concept><ml:concept>Information Technology</ml:concept><ml:concept>Information and Communication Technologies (ICT)</ml:concept><ml:concept>Transportation</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Environment</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Macroeconomic Vulnerability and Debt</ml:concept><ml:concept>Information and Communication Technologies</ml:concept><ml:concept>Transport</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Economic Growth</ml:concept><ml:concept>Environment and Natural Resources</ml:concept><ml:concept>Health, Nutrition and Population</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Alternative Sentencing Options</ml:concept><ml:concept>Community Policing</ml:concept><ml:concept>Community based Policing</ml:concept><ml:concept>Correctional Services and Facilities</ml:concept><ml:concept>Corrections</ml:concept><ml:concept>Crime Policies</ml:concept><ml:concept>Crime Prevention</ml:concept><ml:concept>Crime and Society</ml:concept><ml:concept>Defense Services</ml:concept><ml:concept>Detention</ml:concept><ml:concept>Enforcement Policies and Oversight Mechanism</ml:concept><ml:concept>Forensic</ml:concept><ml:concept>Forensic Services</ml:concept><ml:concept>Investigation</ml:concept><ml:concept>Investigative Task Force Police</ml:concept><ml:concept>Juvenile Justice</ml:concept><ml:concept>Law Enforcement</ml:concept><ml:concept>Offender Reintegration</ml:concept><ml:concept>Police Administration and Management</ml:concept><ml:concept>Police Reform</ml:concept><ml:concept>Problem solving Policing</ml:concept><ml:concept>Prosecution</ml:concept><ml:concept>Restorative Justice</ml:concept><ml:concept>Therapeutic Justice</ml:concept><ml:concept>Victim Assistance</ml:concept><ml:concept>Victim Services</ml:concept><ml:concept>Victim-Offender Mediation</ml:concept><ml:concept>Commercial Banks</ml:concept><ml:concept>Retail Banking</ml:concept><ml:concept>Nutritional supplements</ml:concept><ml:concept>Vitamins</ml:concept><ml:concept>Ports</ml:concept><ml:concept>Organisational Structures</ml:concept><ml:concept>Organizational Assessments</ml:concept><ml:concept>Business Models</ml:concept><ml:concept>Financial Inclusion Strategies</ml:concept><ml:concept>Investment and Investment Climate</ml:concept><ml:concept>Ecosystems and Natural Habitats</ml:concept><ml:concept>Governance and Public Accountability (GPA)</ml:concept><ml:concept>Incentives for Good Government</ml:concept><ml:concept>National Governance</ml:concept><ml:concept>Enforcement of Judgements</ml:concept><ml:concept>Informal Dispute Resolution</ml:concept><ml:concept>Foreign Direct Investments</ml:concept><ml:concept>Linkages</ml:concept><ml:concept>Emerging Markets</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Criminal Justice</ml:concept><ml:concept>Volatility</ml:concept><ml:concept>Commercial Banking</ml:concept><ml:concept>Access to Finance</ml:concept><ml:concept>Supplements</ml:concept><ml:concept>Ports &amp; Waterways</ml:concept><ml:concept>Governance Structures</ml:concept><ml:concept>Telecommunications Organizational Design</ml:concept><ml:concept>Financial Inclusion</ml:concept><ml:concept>Microfinance</ml:concept><ml:concept>Savings</ml:concept><ml:concept>Investment Climate</ml:concept><ml:concept>Ecosystems</ml:concept><ml:concept>Governance</ml:concept><ml:concept>Dispute Resolution</ml:concept><ml:concept>FDI Spillovers</ml:concept><ml:concept>Negotiation</ml:concept></ml:concepts><ml:geo-regions/></ml:annotations></ml:doc-envelope>

@@ -1,0 +1,1406 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>                                                 100636&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                       Modeling the&#13;
+DISCUSSION&#13;
+PAPER&#13;
+                       Impact of Large&#13;
+MFM Global Practice    Infrastructure&#13;
+No. 7&#13;
+November 2015&#13;
+                       Projects: A Case&#13;
+                       Study from Niger&#13;
+Olivier Beguy&#13;
+SÃ©bastien Dessus       Macroeconomic Assessment of Public&#13;
+Abdoulahi Garba&#13;
+Jason Hayman&#13;
+                       Investment Options (MAPIO)&#13;
+Johannes Herderschee&#13;
+&amp;#12;MFM DISCUSSION PAPER NO. 7&#13;
+&#13;
+&#13;
+Abstract&#13;
+Evidence illustrates that investment in infrastructure is essential to accelerate inclusive growth. Indeed, a&#13;
+number of Sub-Saharan African (SSA) countries have begun to devote greater resources to large-scale&#13;
+public investment projects. Nevertheless, while massive projects can potentially generate large benefits&#13;
+there are considerable risks. Cost overruns, poor implementation quality, inadequate operational and&#13;
+maintenance capacity, and negative social or environmental impacts can severely undercut a projectâ&#128;&#153;s&#13;
+anticipated social and economic returns. Moreover, projects, which are expensive to develop and maintain&#13;
+can impact on debt dynamics and in some cases macroeconomic stability.&#13;
+&#13;
+Yet, given the complex nature of such projects it is often difficult to ascertain whether it is worthwhile to&#13;
+proceed with a project and if so, how should it be financed and implemented. Historically, computable&#13;
+general equilibrium (CGE) models have been used to assess the prospective impacts of large public&#13;
+investment projects. However, such models are a complex and time-consuming process and are often too&#13;
+broad to precisely capture the localized impact of specific projects.&#13;
+&#13;
+This paper proposes a simple, but more user-friendly model. By inputting information on the projectâ&#128;&#153;s&#13;
+construction, operation, and anticipated returns, the user is able to assess the projectâ&#128;&#153;s net impact on the&#13;
+economy and weigh up the costs and benefits of different approaches. The model was developed in&#13;
+response to a request from the Nigerien authorities to assess the macroeconomic impact of Nigerâ&#128;&#153;s&#13;
+Kandaji Dam project. It found that while costs would equal more than 10 percent of 2013 GDP during&#13;
+2014-48, the expansion of domestic production spurred by increased demand during the construction&#13;
+phase would increase GDP by 0.25 percent above the baseline projection and boost fiscal revenues by an&#13;
+additional 0.45 percentage points of GDP.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Corresponding author: (obeguy@worldbank.org, sdessus@worldbank.org,&#13;
+agarba@worldbank.org, jherderschee@worldbank.org)&#13;
+JEL Classification: E1, E27, O0, O11&#13;
+&#13;
+Keywords: Infrastructure Economics and Finance, Macroeconomic Analyses of Economic Development&#13;
+&#13;
+&#13;
+&#13;
+                                                      i&#13;
+&amp;#12;This series is produced by the Macroeconomics and Fiscal Management (MFM) Global Practice of the World Bank.&#13;
+The papers in this series aim to provide a vehicle for publishing preliminary results on MFM topics to encourage&#13;
+discussion and debate. The findings, interpretations, and conclusions expressed in this paper are entirely those of the&#13;
+author(s) and should not be attributed in any manner to the World Bank, to its affiliated organizations or to members&#13;
+of its Board of Executive Directors or the countries they represent. Citation and the use of material presented in this&#13;
+series should take into account this provisional character.&#13;
+&#13;
+&#13;
+For information regarding the MFM Discussion Paper Series, please contact the Editor, Bernard Funck at&#13;
+bfunck@worldbank.org.&#13;
+&#13;
+&#13;
+&#13;
+Â© 2015 The International Bank for Reconstruction and Development / The World Bank&#13;
+1818 H Street, NW Washington, DC 20433&#13;
+All rights reserved.&#13;
+&#13;
+&#13;
+                                                          ii&#13;
+&amp;#12;                 ACRONYMS AND ABREVIATIONS&#13;
+(Franc) CFA   West African CFA Franc (Franc de la CommunautÃ© FinanciÃ¨re&#13;
+              Africaine)&#13;
+&#13;
+   CGE        Computable General Equilibrium&#13;
+&#13;
+   DSA        Debt Sustainability Analysis&#13;
+&#13;
+   EIRR       Economic Internal Rate of Return&#13;
+&#13;
+&#13;
+&#13;
+  EWIRR       Economy-wide Internal Rate of Return&#13;
+&#13;
+   FIRR       Fiscal Financial Internal Rate of Return&#13;
+&#13;
+   GDP        Gross Domestic Product&#13;
+&#13;
+   IMF        International Monetary Fund&#13;
+&#13;
+&#13;
+&#13;
+   IRR        Internal Rate of Return&#13;
+&#13;
+   MPC        Marginal Propensity to Consume&#13;
+&#13;
+   MPM        Marginal Propensity to Import&#13;
+&#13;
+&#13;
+&#13;
+   PIRR       Project Internal Rate of Return&#13;
+&#13;
+   SSA        Sub-Saharan Africa&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                    iii&#13;
+&amp;#12;       Macroeconomic Assessment of Public Investment Options (MAPIO):&#13;
+&#13;
+                  Modeling the Impact of Large Infrastructure Projects:&#13;
+                                A Case Study from Niger1&#13;
+                Olivier Beguy2, SÃ©bastien Dessus3, Abdoulahi Garba4, Jason Hayman5&#13;
+                                    and Johannes Herderschee6&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+1. Introduction&#13;
+&#13;
+There is a broad consensus in the development literature that sustained investment in infrastructure is&#13;
+essential to accelerating inclusive growth. In many countries in Sub-Saharan Africa (SSA) deficiencies in&#13;
+basic infrastructure inhibit diversification, keeping much of the continentâ&#128;&#153;s population locked in subsistence&#13;
+agriculture and unable to reap the economic benefits of modern technology and global trade (African Center&#13;
+for Economic Transformation, 2014). According to recent estimates (World Bank 2010) SSA countries&#13;
+would need to invest US$93 billion, or 15 percent of their aggregate GDP, every year for ten years in order&#13;
+to catch up with Mauritius, the regional leader in infrastructure.&#13;
+This renewed focus on infrastructure investment is based on numerous empirical studies identifying both a&#13;
+countryâ&#128;&#153;s existing infrastructure stock and its public investment rate as key determinants of economic&#13;
+growth.7 Using a neoclassical convergence framework Calderon (2009) finds that the rate at which SSA&#13;
+countries are converging towards a common steady-state equilibrium is significantly influenced by their&#13;
+respective endowments of physical infrastructure, including paved roads, railways, airports and seaports,&#13;
+energy generation and transmission networks, and irrigation and drainage systems. As many of these are&#13;
+public goods and/or natural monopolies the government must take the lead in providing them, either directly&#13;
+through public investment or indirectly through partnerships with the private sector.8 In either case, it is&#13;
+imperative that the government ensure that the economic impact of new infrastructure projects justifies its&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+1&#13;
+  The model presented in this paper was prepared in response to a request from the Nigerien authorities. However,&#13;
+since many other countries are confronted with these same issues the authors decided to make the approach and results&#13;
+available to a wider audience. The authors are grateful for technical comments from participants at a workshop in&#13;
+Niamey in May 2014 and for editorial suggestions from Sean Lothrop and Judite Fernandes who prepared the paper&#13;
+for publication.&#13;
+2&#13;
+  Economist, World Bank Macroeconomic and Fiscal Management Global Practice.&#13;
+3&#13;
+  Program Leader, World Bank Africa Region.&#13;
+4&#13;
+  Economist, World Bank Macroeconomic and Fiscal Management Global Practice.&#13;
+5&#13;
+  Consultant, World Bank Macroeconomic and Fiscal Management Global Practice.&#13;
+6&#13;
+  Senior Economist, World Bank Macroeconomic and Fiscal Management Global Practice.&#13;
+7&#13;
+  The relationship between public investment and economic growth has been confirmed using a range of different&#13;
+estimation methods. See Ashauer (1989), Khan and Kumar (1997) and Dessus and Herrera (2000).&#13;
+8&#13;
+  The public sectorâ&#128;&#153;s role in financing investment in public goods or assets that control natural monopolies and correct&#13;
+market failures is well established. See Lijesen and Shestalova (2007).&#13;
+&amp;#12;fiscal cost, including both the initial capital investment and all recurrent expenditures generated by its&#13;
+operation.9&#13;
+Recognizing the economic importance of infrastructure development, many SSA countries have begun to&#13;
+devote greater resources to public investment, with a particular emphasis on large-scale projects. In certain&#13;
+countries, especially those that have benefited from the Heavily Indebted Poor Countries program and the&#13;
+Multilateral Debt Relief Initiative, much of this investment has been financed by increased borrowing,&#13;
+while others have focused on boosting domestic revenues. Some resource-rich countries have pledged&#13;
+future exports to secure loans from non-traditional external partners, notably China. In some cases these&#13;
+agreements have raised questions about transparency and accountability in natural resource management.&#13;
+Agreements pledging future exports as collateral for development loans require careful and objective&#13;
+scrutiny of their terms and provisions, as well as the institutional context in which they will be implemented.&#13;
+While massive investment projects have the potential to yield enormous benefits, they also entail&#13;
+considerable risks. Cost overruns, poor implementation quality, inadequate operational and maintenance&#13;
+capacity, and negative social or environmental impacts can severely undercut a projectâ&#128;&#153;s anticipated social&#13;
+and economic returns. Large-scale projects can also indirectly threaten macroeconomic stability though the&#13;
+impact of project-related borrowing on debt dynamics, the long-term fiscal commitment posed by their&#13;
+operational and maintenance costs, the influence of project procurement rules on national suppliers,&#13;
+inflationary effects generated increased domestic spending, or the potential appreciation of the real&#13;
+exchange rate. Macroeconomic instability may in turn disrupt the implementation of the project or reduce&#13;
+its economic value. In some cases the microeconomic impact of an investment project may offset its&#13;
+macroeconomic consequences, but in other cases each may reinforce and exacerbate the other.&#13;
+Investment policies play an important role in determining the economic ramifications of a large public&#13;
+project. For example, procurement rules requiring an extensive bidding process may reduce a projectâ&#128;&#153;s total&#13;
+cost but increase the time required for its implementation. In some circumstances a more expensive but&#13;
+rapidly completed project may be preferable to a less costly project with a longer gestation period.&#13;
+Policymakers must weigh these tradeoffs and consider them in terms of the nature of the project and the&#13;
+countryâ&#128;&#153;s unique economic context.&#13;
+Governments frequently rely on debt sustainability analyses (DSAs) to evaluate the macroeconomic risks&#13;
+posed by different public investment strategies and to estimate the financing envelope available for new&#13;
+projects. DSAs typically assess the extent to which key macroeconomic variables, such as the debt-to-GDP&#13;
+ratio or the debt-service-to-exports ratio, are at risk of exceeding specified thresholds over a given time&#13;
+horizon. But while the terms at which countries borrow (their â&#128;&#156;debt-repayment profileâ&#128;&#157;) can be known with&#13;
+relative certainty, less attention is devoted to evaluating the costs and benefits of the specific projects that&#13;
+this borrowing finances. In most cases assessments of the marginal macroeconomic impacts of investment&#13;
+projects are restricted to broad assumptions about future GDP growth rates, inflation, exports and fiscal&#13;
+revenues; however, in order to accurately and comprehensively appraise the macroeconomic effects of&#13;
+large-scale investment projects a more systematic approach is required.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+9&#13;
+  Even infrastructure provided through public-private partnerships may still involve public resources or entail an&#13;
+explicit or implicit public guarantee exposing the government to potential contingent liabilities.&#13;
+                                                        2&#13;
+&amp;#12;Computable general equilibrium (CGE) models are often used to assess the prospective impacts of large&#13;
+public investment projects. For example, the â&#128;&#156;MAMS modelâ&#128;&#157; (Bourguignon et al., 2004; Lofgren and Diaz-&#13;
+Bonilla, 2010) aims to capture both the effects of increased demand for investment-related goods and&#13;
+services (e.g. building supplies, construction services, etc.) and the supply-side effects of increased&#13;
+productivity in sectors that benefit from the completed project. However, CGE modeling is a complex and&#13;
+time-consuming process, and the resulting models are often too broad to precisely capture the localized&#13;
+impact of specific projects. As such they tend to be better suited to assessing the implications of national&#13;
+development strategies and estimating tradeoffs between competing investment-policy objectives rather&#13;
+than the more focused and detailed analysis required to appraise individual investments.&#13;
+This paper proposes a simple model designed to estimate an investment projectâ&#128;&#153;s impact on key&#13;
+macroeconomic variables based solely on the information contained in a standard project document. The&#13;
+model can be applied using a widely available spreadsheet program (e.g. Microsoft Excel) rather than more&#13;
+sophisticated statistical software. It requires accurate and detailed information regarding the projectâ&#128;&#153;s&#13;
+construction, operation, and anticipated returns, but compared to CGE modeling its analytical capacity&#13;
+requirements are very modest. The model is narrowly tailored to assess the short- and long-term&#13;
+implications of a specific project, all of the assumptions that underpin its results are clearly indicated, and&#13;
+its consideration of other variables are deliberately limited. It is hoped that the availability of a simple yet&#13;
+accurate tool for assessing the macroeconomic implications of proposed projects will enhance the public&#13;
+investment management capacity of governments in SSA and help to maximize the returns to both external&#13;
+development financing and domestic revenues.&#13;
+The model was originally developed in response to a request from the Nigerien authorities, and this working&#13;
+paper includes an assessment of the macroeconomic impact of Nigerâ&#128;&#153;s Kandaji Dam project as a case study.&#13;
+The dam is expected to generate some 120 MKW of electricity each year, and water from its reservoir will&#13;
+irrigate an estimated 45,000 hectares of agricultural land. The total construction cost is projected at US$785&#13;
+million, or more than 10 percent of Nigerâ&#128;&#153;s 2013 GDP. The project will be financed by concessional loans&#13;
+provided by 10 of Nigerâ&#128;&#153;s development partners, including international development banks. The mod el&#13;
+assesses the projectâ&#128;&#153;s impact on a set of key macroeconomic variables over the 2014-48 period.&#13;
+Section 2, below, presents the main equations used in the model. Section 3 applies the model to Nigerâ&#128;&#153;s&#13;
+Kandaji Dam project. Section 4 discusses the modelâ&#128;&#153;s broader applications and explores a number of related&#13;
+policy issues. Section 5 concludes the paper.&#13;
+&#13;
+2. The Model&#13;
+&#13;
+The model is designed to estimate the impact of a given investment project on a discrete set of&#13;
+macroeconomic variables. Like CGE models it assesses both the increase in demand that occurs as a result&#13;
+of the projectâ&#128;&#153;s construction and the boost to supply generated by its completion. It also projects real price&#13;
+changes, revealing potential â&#128;&#156;Dutch diseaseâ&#128;&#157; effects caused by additional demand that cannot be fully&#13;
+accommodated by a corresponding supply response. In its current state the model focuses solely on the&#13;
+direct monetary implications of the investment project. However, it could be elaborated to estimate potential&#13;
+multiplier effects as well.&#13;
+&#13;
+&#13;
+                                                       3&#13;
+&amp;#12;In the baseline scenario nominal baseline GDPtBÎ&#152; is the sum of its demand components: baseline&#13;
+consumption CtB , baseline investment ItB , baseline government spending GtB , baseline exports X tB, and&#13;
+baseline imports MtB .&#13;
+&#13;
+&#13;
+GDPtBÎ&#152; = CtB + ItB + GtB + XtB â&#136;&#146; MtB                                                               (1)&#13;
+                                                             â&#136;&#151;d&#13;
+If the government decides to commit additional financing Gt     to a new investment program, these funds&#13;
+will be allocated across economic sectors j and used to purchase input types i.&#13;
+&#13;
+&#13;
+ â&#136;&#151;d&#13;
+Gt  = â&#136;&#145;N         â&#136;&#151;d&#13;
+       ij=1 Î¸ij Gt                                                                                 (2)&#13;
+&#13;
+The project will require a combination of the following input types:&#13;
+                                   N&#13;
+    ï&#130;·   international labor Liâ&#136;&#151;d             â&#136;&#151;d&#13;
+                              t = â&#136;&#145;ij=1 Î¸1j Gt&#13;
+                              N&#13;
+    ï&#130;·   domestic labor Ldâ&#136;&#151;d             â&#136;&#151;d&#13;
+                         t = â&#136;&#145;ij=1 Î¸2j Gt&#13;
+                                     N&#13;
+    ï&#130;·   international capital Kiâ&#136;&#151;d             â&#136;&#151;d&#13;
+                                t = â&#136;&#145;ij=1 Î¸3j Gt&#13;
+                                N&#13;
+    ï&#130;·   domestic capital Kdâ&#136;&#151;d             â&#136;&#151;d&#13;
+                           t = â&#136;&#145;ij=1 Î¸4j Gt&#13;
+&#13;
+&#13;
+&#13;
+2.1 Demand-Side Effects Caused by Project Implementation&#13;
+During its construction phase the projectâ&#128;&#153;s implementation will boost demand for certain goods and&#13;
+services, which will impact the following macroeconomic variables:&#13;
+    ï&#130;·   Consumption&#13;
+    ï&#130;·   Investment&#13;
+    ï&#130;·   Imports&#13;
+    ï&#130;·   Tax revenues&#13;
+    ï&#130;·   GDP&#13;
+    ï&#130;·   The GDP deflator&#13;
+&#13;
+Demand-side effects can be estimated by making simple assumptions about the marginal propensity to&#13;
+consume Î±ij for input types i across 5 selected sectors j, namely construction, agriculture, transportation,&#13;
+manufacturing and services.&#13;
+&#13;
+&#13;
+                       â&#136;&#151;d&#13;
+ â&#136;&#151;d&#13;
+Ct  = â&#136;&#145;N&#13;
+       ij=1 Î±ij (Lit        + Ldt â&#136;&#151;d + Kdt â&#136;&#151;d + Kit â&#136;&#151;d )                                           (3)&#13;
+&#13;
+This equation can be broken down further to estimate the demand function for each input type.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                      4&#13;
+&amp;#12;The marginal propensity to consume for international labor is calculated as the residual after deducting the&#13;
+marginal propensity to import, Î´1j across j economic sectors.10&#13;
+&#13;
+                         â&#136;&#151;d&#13;
+â&#136;&#145;N      â&#136;&#151;d       N&#13;
+ ij=1 Lit Î±1j = â&#136;&#145;ij=1 Lit (1 â&#136;&#146; Î´1j )                                                               (3.1)&#13;
+&#13;
+It is assumed that a portion of domestic labor income will be subject to taxation, where Ï&#132;1j is the marginal&#13;
+rate of taxation, while an additional share of labor income will be allocated to domestic savings, where Ï&#137;ij&#13;
+is the marginal propensity to save. The marginal propensity to consume (MPC) is typically high from&#13;
+domestic labor income, and some of the increase in consumer demand will be satisfied by imports.&#13;
+&#13;
+&#13;
+â&#136;&#145;N      â&#136;&#151;d       N      â&#136;&#151;d&#13;
+ ij=1 Ldt Î±2j = â&#136;&#145;ij=1 Ldt (1 â&#136;&#146; Ï&#132;1j â&#136;&#146; Î´2j â&#136;&#146; Ï&#137;1j )                                                   (3.2)&#13;
+&#13;
+Most large-scale public investment projects in SSA involve some amount of international capital, and this&#13;
+share tends to increase for projects that are especially massive or complex. Since all imported capital Î´3j&#13;
+is equal to one, the MPC is zero for international capital.&#13;
+&#13;
+&#13;
+â&#136;&#145;N      â&#136;&#151;d       N      â&#136;&#151;d&#13;
+ ij=1 Kit Î±3j = â&#136;&#145;ij=1 Kit (1 â&#136;&#146; Î´3j )                                                               (3.3)&#13;
+&#13;
+Finally, it is assumed that domestic capital Kdâ&#136;&#151;d&#13;
+                                               t will be supplied by domestic firms. The MPC for domestic&#13;
+capital can therefore be calculated by deducting taxes, savings, imports and investment, where Î²1j equals&#13;
+the marginal propensity to invest.&#13;
+&#13;
+&#13;
+                         â&#136;&#151;d&#13;
+â&#136;&#145;N      â&#136;&#151;d       N&#13;
+ ij=1 Kdt Î±4j = â&#136;&#145;ij=1 Kdt (1 â&#136;&#146; í µí¼&#143;2j â&#136;&#146; Î´4j â&#136;&#146; Ï&#137;2j â&#136;&#146; Î²1j )                                            (3.4)&#13;
+&#13;
+Thus we can calculate the effect on the following variables:&#13;
+&#13;
+                                      â&#136;&#151;d&#13;
+                        â&#136;&#151;d&#13;
+Additional investment, It  = â&#136;&#145;N&#13;
+                              ij=1 Kdt Î²1j                                                                   (4)&#13;
+&#13;
+                     â&#136;&#151;d&#13;
+Additional imports, Mt  = â&#136;&#145;N&#13;
+                           ij=1 Î´ij (Lit&#13;
+                                         â&#136;&#151;d&#13;
+                                            + Ldt â&#136;&#151;d + Kit â&#136;&#151;d + Kdt â&#136;&#151;d )                                     (5)&#13;
+&#13;
+                                             â&#136;&#151;d   â&#136;&#151;d&#13;
+Additional tax revenue, Ttâ&#136;&#151;d = â&#136;&#145;N&#13;
+                                ij=1 Ï&#132;ij (Kdt +Ldt )                                                         (6)&#13;
+&#13;
+This enables us to estimate the overall increase in demand generated by the projectâ&#128;&#153;s construction,&#13;
+which is the sum of consumption and investment.&#13;
+&#13;
+10&#13;
+   The marginal propensity to save is included in the estimate of the marginal propensity to import, since any savings&#13;
+are assumed to be held overseas. It should be noted that the balance of payments will indicate higher imports and&#13;
+larger current transfers. However, these equations reveal the actual net effect on imports.&#13;
+                                                          5&#13;
+&amp;#12;       â&#136;&#151;d    â&#136;&#151;d&#13;
+TDt = Ct  + It                                                                                                 (7)&#13;
+&#13;
+Once total demand estimates have been obtained for the projected implementation period it is assumed that&#13;
+firms will have complete information about changes in demand and act rationally. Therefore, their supply&#13;
+response will be based on the average increase in total demand over the period. Simple assumptions are&#13;
+                                                   dQS    P&#13;
+made regarding the elasticity of supply( dP jt â&#136;&#151; Qjt ) over time and across sectors.11&#13;
+                                                     jt       jt&#13;
+&#13;
+The elasticity of supply for each sector reflects a number of factors. Supply is more likely to be elastic if:&#13;
+     ï&#130;·   There is excess capacity in the sector;&#13;
+     ï&#130;·   Sector producers hold significant inventories or stocks of raw materials;&#13;
+     ï&#130;·   Factors of production (labor and capital) can be easily substituted; or&#13;
+     ï&#130;·   The projectâ&#128;&#153;s implementation period is long enough that producers are able to fully adjust to new&#13;
+         demand conditions.&#13;
+&#13;
+Once the elasticity of supply has been estimated it is possible to calculate changes in real economic output&#13;
+GDPtâ&#136;&#151;d arising from average demand effects Ì&#133;Ì&#133;Ì&#133;Ì&#133;Ì&#133;&#13;
+                                             TDj .&#13;
+&#13;
+&#13;
+                             dQSjt       Pjt&#13;
+GDPtâ&#136;&#151;d = â&#136;&#145;N    Ì&#133;Ì&#133;Ì&#133;Ì&#133;Ì&#133;&#13;
+          tj=1 í µí±&#135;í µí°·j â&#136;&#151; (             â&#136;&#151;         )                                                               (8.1)&#13;
+                              dPjt       Qjt&#13;
+&#13;
+&#13;
+The equation below is used to estimate the price increase Ptâ&#136;&#151;d that occurs as a result of additional demand.&#13;
+This is particularly important for determining the impact on the GDP deflator, which is calculated in the&#13;
+equation below.&#13;
+&#13;
+&#13;
+                             dQSjt       P&#13;
+Ptâ&#136;&#151; = â&#136;&#145;N&#13;
+       j=1 TDjt â&#136;&#151; (1 â&#136;&#146;               â&#136;&#151; Qjt ))                                                                  (8.2)&#13;
+                              dPjt           jt&#13;
+&#13;
+&#13;
+&#13;
+The increase in nominal output GDPtâ&#136;&#151;d&#13;
+                                   Î&#152; generated by these demand effects can therefore be calculated as:&#13;
+    â&#136;&#151;d                   â&#136;&#151;d&#13;
+GDPtÎ&#152;  = â&#136;&#145;N     â&#136;&#151;&#13;
+          j=1 Pjt + (GDPjt â&#136;&#151; DEFjtB )                                                                          (9)&#13;
+&#13;
+The next step is to calculate changes in real and nominal GDP by adding the additional nominal and real&#13;
+GDP values to their respective baselines.&#13;
+&#13;
+    d       â&#136;&#151;d&#13;
+GDPtÎ&#152; = GDPtÎ&#152;  + GDPtBÎ&#152;                                                                                        (10.1)&#13;
+&#13;
+GDPtd = GDPtâ&#136;&#151;d + GDPtB                                                                                         (10.2)&#13;
+&#13;
+11&#13;
+  The elasticity of supply is often empirically difficult to measure due to incomplete or inaccurate data. It is also not&#13;
+possible to isolate firmsâ&#128;&#153; pricing and supply decisions due to the demand effects of the investment project.&#13;
+                                                                   6&#13;
+&amp;#12;                                                                     d&#13;
+This provides us with a revised estimate of the GDP deflator DEFt      , which is obtained by dividing nominal&#13;
+GDP by real GDP across economic sectors j. The estimate reflects the demand effects of the investment&#13;
+project on prices in different sectors, and indicates potential second-order effects on other variables such as&#13;
+exports and private investment.&#13;
+&#13;
+   d        GDPd&#13;
+DEFtj         d)&#13;
+      = ( GDPtÎ&#152;                                                                                       (10.3)&#13;
+                     t&#13;
+&#13;
+                                        d&#13;
+Changes in the consumer price index CPIt  can then be estimated by assuming a simple relationship&#13;
+with the baseline GDP deflator, in which:&#13;
+&#13;
+   d      CPI        d&#13;
+CPIt = (DEFtB ) â&#136;&#151; DEFt                                                                                (11)&#13;
+                tB&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+2.2 Supply-Side Effects Generated by the Completed Project&#13;
+Once the construction of the project has been completed it will produce additional increases in real GDP&#13;
+by fulfilling its economic functions. The increase in nominal GDP is obtained by multiplying real GDP by&#13;
+the baseline GDP deflator.&#13;
+&#13;
+&#13;
+    â&#136;&#151;s&#13;
+GDPtÎ&#152;  = â&#136;&#145;N                â&#136;&#151;s&#13;
+          j=1 DEFjtB â&#136;&#151; GDPtÎ&#152;                                                                          (12)&#13;
+&#13;
+After deducting tax revenues the resulting increase in nominal GDP will create additional consumption,&#13;
+                                                     â&#136;&#151;s&#13;
+investment, exports and import substitution effects Mt  as a result of the increased productive capacity of&#13;
+the domestic economy. This is calculated as:&#13;
+&#13;
+&#13;
+    â&#136;&#151;s&#13;
+GDPtÎ&#152;  = â&#136;&#145;N        â&#136;&#151;s        â&#136;&#151;s&#13;
+          ij=1 GDPtÎ&#152; Î¦ij + Î¼Gt                                                                        (13)&#13;
+&#13;
+                                                                                                  â&#136;&#151;s&#13;
+where Î¦ij is the proportion of GDP that goes to demand components i, consumption Ct                  ,&#13;
+            â&#136;&#151;s            â&#136;&#151;s                        â&#136;&#151;s                   â&#136;&#151;s&#13;
+investment It , exports Xt , import substitution Mt and tax revenue Tt , across economic sectors&#13;
+j. Meanwhile, í µí¼&#135; is the share of additional tax revenue that goes to increased public spending. It is&#13;
+assumed additional tax revenue resulting from supply-side effects will not be spent by the&#13;
+government, and hence í µí¼&#135; is equal to zero.&#13;
+&#13;
+                                                                               â&#136;&#151;s&#13;
+Adding the increase in nominal output generated by supply-side effects GDPtÎ&#152;      to the demand-&#13;
+                     d&#13;
+related increase GDPtÎ&#152; obtained above yields the total nominal increase in output GDPtÎ&#152; .&#13;
+&#13;
+    d       â&#136;&#151;s     â&#136;&#151;s    d       â&#136;&#151;s    d       â&#136;&#151;s            d&#13;
+GDPtÎ&#152; + GDPtÎ&#152;  = (Ct  + Ct ) + (It  + It ) + (Xt  + X tB )+ Gt + Ttâ&#136;&#151;s + Mt&#13;
+                                                                         â&#136;&#151;s&#13;
+                                                                                                      (14)&#13;
+&#13;
+Dividing nominal output and its demand components by the baseline GDP deflator produces an&#13;
+estimate of real GDP and its demand-related components.&#13;
+&#13;
+                                                      7&#13;
+&amp;#12;2.3 Overall Effects on Key Macroeconomic Variables&#13;
+The impact of the investment project on the specified range of macroeconomic variables is summarized&#13;
+below:&#13;
+                      â&#136;&#151;s    d&#13;
+Consumption, Ct = Ct     + Ct                                                                           (15.1)&#13;
+                   â&#136;&#151;s    d&#13;
+Investment, It = It   + It                                                                              (15.2)&#13;
+                â&#136;&#151;s&#13;
+Exports, Xt = Xt   + XtB                                                                                (15.3)&#13;
+                â&#136;&#151;s       d&#13;
+Imports, Mt = Mt    â&#136;&#146; Mt                                                                                (15.4)&#13;
+Total demand, TDt = Ct + It                                                                             (15.5)&#13;
+Tax revenue, Tt = Ttd + Ttâ&#136;&#151;s                                                                            (15.6)&#13;
+                                               â&#136;&#151;&#13;
+Total revenue, TR t = Tt + Ut , where Ut = ut Gt                                                        (15.7)&#13;
+&#13;
+Ut are total user fees, and ut are user fees as a proportion of additional government spending.&#13;
+&#13;
+The revised GDP deflator resulting from demand and supply effects can then be calculated as:&#13;
+          GDPtÎ&#152;&#13;
+DEFt =                                                                                                  (15.8)&#13;
+           GDPt&#13;
+&#13;
+2.4 The Impact of the Investment Project on Debt Dynamics&#13;
+The impact of public investment projects on debt dynamics is an important consideration for any&#13;
+government, and it is an especially critical concern when a significant share of investment spending is&#13;
+financed by borrowing, even if much of that borrowing is on concessional terms.&#13;
+Nominal debt can be estimated using the following equation, where current debt Dt depends on last yearâ&#128;&#153;s&#13;
+debt Dtâ&#136;&#146;1 multiplied by the average interest rate it on foreign and domestic debt minus the primary balance&#13;
+PBt and seignorage revenue Î&#148;Mt . This can be expressed as&#13;
+Dt = Dtâ&#136;&#146;1 (1 + it ) â&#136;&#146; (PBt + Î&#148;Mt )                                                                      (16)&#13;
+&#13;
+where, the average interest rate it = Ï±id + (1 â&#136;&#146; Ï±)if                                                   (16.1)&#13;
+&#13;
+and, Ï± = Ddt /Dt represents the share of domestic debt in total debt, while if and id are the interest&#13;
+rates on foreign and domestic debt, respectively.12&#13;
+&#13;
+Debt sustainability is estimated by dividing the current debt stock by nominal GDP. Debt as a proportion&#13;
+of GDP dt depends on debt dynamics Ï&#133;t , along with last yearâ&#128;&#153;s debt stock, dtâ&#136;&#146;1 , the primary balance and&#13;
+seigniorage as a percentage of GDP:&#13;
+&#13;
+&#13;
+dt = Ï&#133;t dtâ&#136;&#146;1 â&#136;&#146; (pbt + mt )                                                                              (17)&#13;
+&#13;
+&#13;
+12&#13;
+  It is assumed that foreign debt is denominated in euros or in a euro-backed currency such as the CFA franc, and&#13;
+therefore an exchange-rate term is not required.&#13;
+                                                       8&#13;
+&amp;#12;                   (1+it )&#13;
+where Ï&#133;t =                                                                                          (18)&#13;
+              (1+gt )(1+Ï&#128;t )&#13;
+&#13;
+&#13;
+An investment projectâ&#128;&#153;s anticipated impact on debt dynamics should be a major consideration for national&#13;
+policymakers and their development partners. If Ï&#133;t &gt; 1, then debt as a proportion of GDP is likely to be&#13;
+unsustainable. Therefore, if the expected borrowing cost of the investment project represents a significant&#13;
+share of GDP, it is important from the outset to compare the interest rate on new debt with the projected&#13;
+growth rate of real GDP g t and the GDP deflator, Ï&#128;t .&#13;
+&#13;
+2.5 The Internal Rate of Return&#13;
+Finally, the internal rate of return (IRR) for the program can be estimated based on:&#13;
+    ï&#130;·   The fiscal financial internal rate of return (FIRR);&#13;
+    ï&#130;·   The economic internal rate of return (EIRR);&#13;
+    ï&#130;·   The economy-wide internal rate of return (EWIRR); and,&#13;
+    ï&#130;·   The IRR for indirect costs and benefits generated by the project (PIRR).&#13;
+&#13;
+The FIRR provides us with the IRR for the government, as it calculates the public costs of the project minus&#13;
+the revenues it will generate. To obtain the FIRR project financing is split into loans and grants:&#13;
+&#13;
+ â&#136;&#151;d    â&#136;&#151;d&#13;
+Gt  = Gt  (Ï&#135;1t + Ï&#135;2t )                                                                     (19.1)&#13;
+&#13;
+where Ï&#135;1t and Ï&#135;2t represent the relative share of project spending financed by loans and grants,&#13;
+                                                                                     â&#136;&#151;d&#13;
+respectively. Defining the total loans required for the investment project as lt = Gt   Ï&#135;1t , and&#13;
+         â&#136;&#151;d&#13;
+GR t = Gt Ï&#135;1t enables us to calculate the programâ&#128;&#153;s FIRR as:&#13;
+             lt (rt +at )+(RCt â&#136;&#146;Ut) â&#136;&#146;Tâ&#136;&#151;&#13;
+FIRR = â&#136;&#145;N&#13;
+        t&#13;
+                                      t&#13;
+                                                                                                    (19.2)&#13;
+                        (1+IRR)&#13;
+&#13;
+where, rt and at denote the interest rate and amortization costs of all project loans, while RCt&#13;
+represents the projectâ&#128;&#153;s recurrent costs and Ut indicates user fees levied by the government to cover&#13;
+a share of the projectâ&#128;&#153;s recurrent costs.&#13;
+&#13;
+                                                                            â&#136;&#151;d&#13;
+The EIRR is estimated by subtracting additional public investment spending Gt  and recurrent costs&#13;
+RCt from the project-related increase in GDP determined above.&#13;
+                     â&#136;&#151; â&#136;&#146;[ í µí°º â&#136;&#151;í µí±&#145; +RC ]&#13;
+              í µí°ºí µí°·í µí±&#131;í µí±¡&#13;
+EIRR = â&#136;&#145;N&#13;
+        t&#13;
+                            í µí±¡      t&#13;
+                                                                                                    (19.3)&#13;
+                    (1+IRR)&#13;
+&#13;
+Similarly, the economy-wide IRR is estimated by deducting private investment costs PIt and additional&#13;
+public investment and recurrent costs from the project-related increase in GDP. This indicator measures of&#13;
+the impact of the program on the broader national economy.&#13;
+                        â&#136;&#151; â&#136;&#146;[ í µí°º â&#136;&#151;í µí±&#145; +PI +RC ]&#13;
+                 í µí°ºí µí°·í µí±&#131;í µí±¡&#13;
+EWIRR = â&#136;&#145;N&#13;
+         t&#13;
+                               í µí±¡      t   t&#13;
+                                                                                                    (19.4)&#13;
+                           (1+IRR)&#13;
+&#13;
+&#13;
+                                                     9&#13;
+&amp;#12;Finally, we can estimate the IRR for indirect project costs and benefits by deducting private investment&#13;
+costs PIt from the increase in GDP generated by demand-side effects GDPtâ&#136;&#151;d . This indicates the returns to&#13;
+the private sector resulting from the projectâ&#128;&#153;s implementation.&#13;
+             GDPâ&#136;&#151;d&#13;
+                t â&#136;&#146;PIt&#13;
+PIRR = â&#136;&#145;N&#13;
+        t                                                                                        (19.5)&#13;
+               (1+IRR)&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                   10&#13;
+&amp;#12;3. Case Study: The Kandadji Dam in Niger&#13;
+&#13;
+The following section uses the model described above to assess the prospective macroeconomic impact of&#13;
+a large public investment project currently underway in Niger. The construction of the Kandadji Dam on&#13;
+the Niger River will significantly increase the countryâ&#128;&#153;s electricity supply and provide irrigation to&#13;
+surrounding farmland. Applying the model requires making assumptions regarding the various parameters&#13;
+outlined in the previous section. These parameters will vary by sector and by country, and the assumptions&#13;
+used in this section are not necessarily applicable to other projects. This section discusses how the model&#13;
+incorporates the data for a specific project as well as selected values for the estimated parameters. In all&#13;
+cases the effectiveness of the model will depend in large part on the accuracy and availability of detailed&#13;
+macroeconomic statistics and basic project-related information, both of which will differ by country. As&#13;
+the parameter assumptions will also impact the reliability of the model, a sensitivity test evaluating the&#13;
+impact of changes in certain key parameters is included.&#13;
+&#13;
+3.1 Context: Niger and the Construction of the Kandadji Dam&#13;
+Niger is a large, landlocked country in Sahelian West Africa, with a total land area of 1.267 million square&#13;
+kilometers and a population of about 16 million. Niger currently ranks 186th out of the 187 countries&#13;
+included in the UN Human Development Index, and in 2010 its GDP per capita (purchasing power parity)&#13;
+was US$720.&#13;
+The model was developed in response to a request from the Nigerien authorities, and the anticipated launch&#13;
+of the Kandadji Dam project provides a natural opportunity for a case study. Moreover, Niger is an&#13;
+especially appropriate country in which to apply the model. Despite repeated shocks, including droughts,&#13;
+flooding and regional instability, Niger has managed to steadily increase its per capita GDP since 2000.&#13;
+This trend has been underpinned by a relatively high rate of public investment, which reached x percent of&#13;
+GDP in 2013. In addition, macroeconomic analysis in Niger is facilitated by its fixed exchange rate,13 which&#13;
+simplifies the calculation of domestic price changes and effectively eliminates potential monetary policy&#13;
+adjustments as an exogenous variable.14&#13;
+Over the next decade the Nigerien authorities are planning to undertake a number of new public investment&#13;
+projects with significant macroeconomic implications. In recent years the bulk of Nigerâ&#128;&#153;s public investment&#13;
+budget has been devoted to rehabilitating and expanding the road network, but the government is now&#13;
+rapidly diversifying its investment program.&#13;
+The Kandaji Dam is one of the largest public investment projects ever undertaken in Niger, and its economic&#13;
+benefits are expected to be substantial. At present, Nigerâ&#128;&#153;s agricultural sector, which accounts for around&#13;
+60 percent of GDP and employs 80 percent of the population, is heavily dependent on the Niger River basin,&#13;
+the countryâ&#128;&#153;s only reliable source of water. The construction of the Kandaji Dam and its reservoir will not&#13;
+only significantly boost agricultural production and enhance the sectorâ&#128;&#153;s resilience to droughts, it will also&#13;
+&#13;
+&#13;
+&#13;
+13&#13;
+   Niger is a member of the West African Economic and Monetary Union (WAEMU) and uses its common currency,&#13;
+the West African CFA franc. The CFA is pegged to the euro, and monetary policy is managed at the regional level by&#13;
+the Central Bank of West African States (Banque Centrale des Ã&#137;tats de l'Afrique de l'Ouest â&#128;&#147; BCEAO).&#13;
+14&#13;
+   The model is easier to manage in a fixed exchange-rate environment but it can also be used in countries with other&#13;
+monetary and exchange-rate policies.&#13;
+                                                         11&#13;
+&amp;#12;dramatically increase the countryâ&#128;&#153;s electricity-generation capacity, opening new production possibilities&#13;
+both within and beyond the agricultural sector.15&#13;
+The Kandadji Dam is the first large project to be implemented under a new public investment program set&#13;
+forth in Nigerâ&#128;&#153;s most recent poverty reduction strategy paper. The present analysis treats the dam as an&#13;
+individual project, but the model could also be used to assess the impact of the public investment program&#13;
+as a whole. Provision is made in the model to outline the stream of costs and benefits project-by-project,&#13;
+taking into account cross-spillover effects.&#13;
+This approach would be useful in cases where multiple projects generated complementary benefits, making&#13;
+their combined impact greater than the sum of their individual returns, or in cases where simultaneous&#13;
+implementation increases pressure on domestic supply, compounding the macroeconomic impact of the&#13;
+construction phase. The model allows projects to be analyzed individually and then integrated into a single&#13;
+set of investment variables, so that an entire investment program can be assessed as though it were a single&#13;
+project.&#13;
+&#13;
+3.2 Methodological Approach and Assumptions&#13;
+The values used below were determined through a standard financial programming model. The baseline&#13;
+reflects a set of macroeconomic projections that exclude the investment project. The historical data used in&#13;
+the macroeconomic framework are taken from the IMF website, however the projections are unique to this&#13;
+analysis. The model excludes a significant proportion of the public investment program, which not only&#13;
+lowers the estimated fiscal expenditures but also reduces the economic growth and imports projections. For&#13;
+example, future agricultural output is extrapolated from the average growth rate during 2000-13, which was&#13;
+below 4 percent. The authoritiesâ&#128;&#153; current agricultural growth projections are significantly higher than this,&#13;
+as they assume a significant increase in public and private investment in the sector. This paperâ&#128;&#153;s baseline&#13;
+projections deliberately exclude changes in investment in order to isolate the impact of the project.&#13;
+The set of assumptions regarding the national accounts are described in Table 1, below. These assumptions&#13;
+are made on the basis of accuracy, simplicity and proportionality; they include (i) the allocation of public&#13;
+resources to different input types; (ii) each input typeâ&#128;&#153;s contribution to domestic consumption, imports,&#13;
+investments, savings and tax revenues; and (iii) firmsâ&#128;&#153; supply decisions and price responses to increases in&#13;
+demand, which vary by sector.16&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+15&#13;
+   Since the 1970s Niger has repeatedly experienced severe droughts, and the variability of the Niger River has&#13;
+constrained agricultural production, exacerbated food insecurity, and disrupted the countryâ&#128;&#153;s water supply.&#13;
+16&#13;
+   Sectors that are relatively slow to adjust supply, such as construction, tend to exhibit larger price effects that persist&#13;
+over a longer period than more responsive sectors, such as services.&#13;
+                                                            12&#13;
+&amp;#12;                                          Table 1: Selected assumptions used in the model&#13;
+                                                  Table X. Selected assumptions for the model&#13;
+                                 Coeff.                          Value       Source/ justification&#13;
+&#13;
+&#13;
+&#13;
+                                                         in percent of resource types&#13;
+Resource share: inter. Labor                                              23 Based on program costs.&#13;
+ Local labor                                                                9 Based on program costs.&#13;
+ Inter. capital                                                           54 Based on program costs.&#13;
+ Local capital                                                            14 Based on program costs.&#13;
+MPC: inter labor                                                          30 Based on estimates of accomodation, living expenses, savings, and&#13;
+ Local labor                                                              80 taxes as a proportion of incomes.&#13;
+ Inter. capital                                                             0&#13;
+ Local capital                                                            70&#13;
+MPI                                                                       10&#13;
+                                                         in percent of total resources&#13;
+MRT                                                                     0.02 Assume low taxes due to tax evasion.&#13;
+MPM (in percent of total res.)                                            72 Assume high MPM due to large capital imports for the program.&#13;
+MPS                                                                         6&#13;
+                                                        other assumptions (in percent)&#13;
+Average int. rate                                                         2.5 Program is primarily financed by concessional foreign loans.&#13;
+Elasticity of supply&#13;
+  Const.: short-run                                                       10   Supply response constrained by fixed capital and lack of substitution with labor.&#13;
+           long-run                                                       90&#13;
+  Agriculture: short-run                                                  15   Supply is fixed in the short-run. Assumption of 15% stocks.&#13;
+             long-run                                                     90&#13;
+  Transport: short-run                                                    30   Significant spare capacity in the short-run.&#13;
+             long-run                                                     90&#13;
+  Manufacturing: short-run                                                40   Moderate spare capacity to increase output.&#13;
+             long-run                                                     90&#13;
+  Services: short-run                                                     75   Labor constitute large proportion of output.&#13;
+             long-run                                                     95&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+3.3 Impacts on Key Macroeconomic and Fiscal Indicators&#13;
+As noted above the total cost of constructing the Kandadji Dam is estimated at US$785 million, or more&#13;
+than 10 percent of Nigerâ&#128;&#153;s GDP in 2013. During the construction phase the implementation of the project&#13;
+will make a significant contribution to aggregate demand over a period of several years. This impact is&#13;
+likely to be concentrated in certain sectors, such as construction and transportation, while semi-subsistence&#13;
+agricultural production will be less affected. The model identifies the additional demand for some sector-&#13;
+specific goods and services and assesses the extent to which this demand will met by increased supply or&#13;
+by higher prices. Once completed, the dam will boost both agricultural output and electricity generation&#13;
+capacity as reported in the cost-benefit analysis prepared by the project team. The model projects the&#13;
+completed projectâ&#128;&#153;s impact on net exports, domestic savings and investment, but it begins by examining&#13;
+changes in prices and domestic supply generated during the construction phase.&#13;
+Impact on prices: The results indicate a low overall impact on the GDP deflator, but substantial&#13;
+fluctuations are observed across sectors and over time. A significant increase in construction prices is&#13;
+observed at the start of the implementation phase, but after the project is completed the GDP deflator drops&#13;
+below the baseline. This is due to both the completed projectâ&#128;&#153;s impact on economic productivity, as well as&#13;
+the increase in supply prompted by additional demand during its construction.&#13;
+Impact on supply: As described above, the project is expected to increase aggregate supply in two waysâ&#128;&#148;&#13;
+by boosting aggregate supply during the construction phase and then by expanding the productive capacity&#13;
+                                                                      13&#13;
+&amp;#12;of the economy once it is complete. The model estimates that the overall effect on supply will yield a 1.4&#13;
+percent increase in real GDP at the end of the construction phase. This supply expansion will put downward&#13;
+pressure on prices once the dam becomes operational, and an increase in the quantity demanded will restore&#13;
+equilibrium. During the construction phase the most significant increases in supply are projected to occur&#13;
+in the construction and agricultural sectors. At the end of the implementation phase the productive capacity&#13;
+of the construction sector is projected to increase by 3.9 percent. The model assumes that the additional&#13;
+capacity developed during the construction phase will be put to other uses after the project is completed,&#13;
+and that learning-by-doing will produce a lasting increase in the competitiveness of the sector.&#13;
+The completion of the project is expected to significantly increase long-term agricultural output and&#13;
+electricity generation. The cost-benefit analysis prepared by the project team projects that agriculture sector&#13;
+will grow by 0.33 percent of GDP and that the electricity supply will rise by 0.55 percent.&#13;
+The model does not capture multiplier effects that may result from the expansion of the agricultural and&#13;
+electricity sector, and the supply-side projections should be regarded as lower-bound estimates. This&#13;
+approach is deliberately conservative and reflects incomplete data on which to base estimates of the&#13;
+projectâ&#128;&#153;s prospective multiplier effects. If these data were available, it could be integrated into the model;&#13;
+this would increase the projectâ&#128;&#153;s estimated rate of return and lessen its impact on debt sustainability.&#13;
+Impact on imports: Imports initially increase during the projectâ&#128;&#153;s construction phase. The increase in&#13;
+additional imports due to the project is estimated at around 0.4 percent during the first year of&#13;
+implementation; it then rises in each subsequent year, ultimately reaching 5 percent in the year of the&#13;
+projectâ&#128;&#153;s completion. This effect is reversed once the project is operational, as expanding domestic&#13;
+production significantly reduces import demand.&#13;
+Impact on exports: The impact on exports are limited, since it is assumed that the large proportion of&#13;
+project benefits will result in an increase in import substitution.&#13;
+Fiscal impact: As with exports the public revenue impact of the project is observed only after its&#13;
+completion. Expenditures increase during the projectâ&#128;&#153;s construction, and while some of these investment&#13;
+costs are covered by grants, the fiscal deficit significantly widens. Higher fiscal costs continue after the&#13;
+project is completed, due to the demands of its operation and maintenance, but the government also starts&#13;
+to receive user fees and additional tax revenues generated by increased production. However, the net impact&#13;
+on the fiscal deficit remains negative over the projection period, as almost all additional tax revenues are&#13;
+devoted to resettling communities displaced by the dam and reservoir.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                      14&#13;
+&amp;#12;                                        Figure 1: Impacts on key macroeconomic and fiscal indicators&#13;
+                      Effect on imports (CFA Bn)                                                                          Effect on exports (CFA Bn)&#13;
+                                                                                                     1200&#13;
+   1800&#13;
+                                                                                                     1100&#13;
+   1700&#13;
+&#13;
+                                                                                                     1000&#13;
+   1600&#13;
+&#13;
+   1500                                                                                               900&#13;
+&#13;
+&#13;
+   1400                                                                                               800&#13;
+           2014       2015     2016         2017      2018       2019      2020                                2014       2015      2016        2017    2018       2019      2020&#13;
+&#13;
+                  Imports without program              Imports with program                                           Exports without program              Exports with program&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                         Effect on GDP deflator                                                                              Effect on GDP (CFA Bn)&#13;
+    119                                                                                              4600&#13;
+&#13;
+                                                                                                     4400&#13;
+    114&#13;
+                                                                                                     4200&#13;
+&#13;
+    109                                                                                              4000&#13;
+&#13;
+                                                                                                     3800&#13;
+    104                                                                                              3600&#13;
+           2014      2015      2016         2017     2018        2019      2020                                2014       2015      2016        2017    2018       2019      2020&#13;
+           GDP deflator without program              GDP deflator with program&#13;
+                                                                                                                  Real GDP without program                 Real GDP with program&#13;
+           Const. sector without program             Const. sector with program&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                        Effect on debt (% of GDP)&#13;
+      45&#13;
+      40&#13;
+      35&#13;
+      30&#13;
+      25&#13;
+      20&#13;
+      15&#13;
+      10&#13;
+       5&#13;
+       0&#13;
+           2014                                        2019                                        2024                                         2029&#13;
+&#13;
+                                      Public debt with program                    domestic debt with program                foreign debt with program&#13;
+                                      Public debt without program                 domestic debt without program             foreign debt without program&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Debt impact: The impact on debt dynamics is projected to be limited based on the assumptions regarding&#13;
+grants and concessional loans. Initially, debt is expected to increase as a percentage of GDP, rising to 37&#13;
+percent in 2020 compared to a baseline projection of 32 percent. However, the completion and operation&#13;
+of the project will ultimately reduce the debt-to-GDP ratio, which is projected to fall to 30 percent by 2032.&#13;
+In the baseline projection the debt-to-GDP ratio drops to 27 percent, somewhat lower than in the project&#13;
+scenario, but the decline is less steep. In the project scenario the debt-to-GDP ratio falls by around 500 basis&#13;
+points after the dam is completed, whereas in the baseline scenario it drops by just 460 basis points. The&#13;
+cost of the investment generates a net increase in the stock of public debt at the end of the implementation&#13;
+                                                                                      15&#13;
+&amp;#12;period; however, the debt stock decreases over time due to the assumed primary surplus of 2 percent of&#13;
+GDP during the period. The overall impact on the public debt is presented in the debt sustainability analysis,&#13;
+the conclusions of which are summarized below.&#13;
+&#13;
+&#13;
+                                           Table 2: Internal rate of return (IRR) by type&#13;
+                                             Type                                                                Internal rate of return&#13;
+&#13;
+ Fiscal financial (FIRR)                                                                                                          4&#13;
+&#13;
+ Economic (EIRR)                                                                                                               17&#13;
+&#13;
+ Economy-wide (EWRR)                                                                                                           14&#13;
+&#13;
+ Projectâ&#128;&#153;s indirect costs and benefits (PIRR)                                                                                  12&#13;
+&#13;
+&#13;
+&#13;
+3.4 Sensitivity Analysis&#13;
+A sensitivity analysis was applied to the model to assess how it responds to different values for the&#13;
+coefficients described above, particularly the fiscal financial internal rate of return. The table below&#13;
+summarizes the results of sensitivity tests on three coefficients: the interest rate of foreign financing if the&#13;
+marginal propensity to import Î´ij, and the elasticity of supply dQSjt /dPjt â&#136;&#151; Pjt /Q jt.&#13;
+&#13;
+&#13;
+                                Table 3: Sensitivity tests of coefficient assumptions, in percent&#13;
+Coefficient                                                              Assumed         Sensitivity                 Internal rate of return (IRR) 2/&#13;
+                                                                         value           value 3/         FIRR           EIRR        EWIRR        PIRR&#13;
+&#13;
+&#13;
+  , REP 1/                                                                     2.5, 40           18, 20          -           17          14          12&#13;
+                                                                                    72               40          4           21          18           -&#13;
+                       2/                                                      10, 90              5, 5          4           14          12           -&#13;
+&#13;
+Notes&#13;
+1/ These coefficients, represent the terms of the foreign financing of the program, namely the interest rate on foreign debt, i(f) and the repayment&#13;
+period of the loan, REP. Their respective assumed values assuming IDA loan terms are in column i.&#13;
+2/ The short-run and long-run supply response to an increase in demand are reported for the elasticity of supply. Respective values are in column i.&#13;
+3/ The sensitivity value makes changes to the respective assumed values of the variables to estimate the impact on the internal rates of return.&#13;
+&#13;
+&#13;
+Scenario 1: Sensitivity to External Financing Terms&#13;
+&#13;
+The terms on which the projectâ&#128;&#153;s external financing is obtained have a limited impact on macroeconomic&#13;
+variables. Project costs represent a small share of total debt, peaking at roughly 15 percent of debt. Even&#13;
+under adverse loan terms the effect on debt financing is not severe enough to prompt the government to&#13;
+increase taxes or reduce spending, and as a result its impact on most macroeconomic variables is negligible.&#13;
+While negligible impacts are not shown here, some of the more significant effects of adverse loan terms are&#13;
+described below. Figure 2 shows a slight increase in debt ratios towards the end of the program period as&#13;
+opposed to the decline observed in the original results. In a more extreme stress test the debt breaches its&#13;
+&#13;
+                                                                         16&#13;
+&amp;#12;threshold, both as a share of GDP and as a percentage of exports of goods and services. This would require&#13;
+the adoption of austerity measures to return the debt to a sustainable level, with second-order effects on&#13;
+macroeconomic variables.&#13;
+&#13;
+&#13;
+                   Figure 2: The sensitivity of macroeconomic variables to changes in project financing terms&#13;
+                                  Debt-to-GDP ratio                                          External debt service-to-exports of goods and&#13;
+ 60                                                                                                          services ratio&#13;
+ 50                                                                              25&#13;
+&#13;
+ 40                                                                              20&#13;
+&#13;
+ 30                                                                              15&#13;
+&#13;
+ 20                                                                              10&#13;
+&#13;
+ 10                                                                               5&#13;
+&#13;
+     0                                                                            0&#13;
+          2014             2019                 2024                 2029             2014            2019               2024                 2029&#13;
+                              Baseline      Extreme stress test                                              Baseline   Extreme stress test&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                 External debt-to-exports of goods and services                                     Debt service-to-revenue ratio&#13;
+                                     ratio                                       25&#13;
+ 200&#13;
+                                                                                 20&#13;
+&#13;
+ 150                                                                             15&#13;
+&#13;
+ 100                                                                             10&#13;
+&#13;
+     50                                                                           5&#13;
+&#13;
+                                                                                  0&#13;
+      0&#13;
+                                                                                      2014            2019               2024                 2029&#13;
+          2014             2019               2024                2029&#13;
+                              Baseline      Extreme stress test                                              Baseline   Extreme stress test&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Scenario 2: Sensitivity to the Marginal Propensity to Import (MPM)&#13;
+&#13;
+A reduction in the MPM parameter has a moderate impact on IRR indicators and macroeconomic variables,&#13;
+particularly GDP, the GDP deflator and imports. The effect on debt dynamics is insignificant and is not&#13;
+reported here. An increase in tax revenue is observed, but this effect is very small.&#13;
+Reducing the MPM implies a large-scale substitution of local labor Î¸2j for international capitalÎ¸3j . This&#13;
+is more likely in the case of relatively labor-intensive projects such as road construction as opposed to the&#13;
+capital-intensive Kandaji Dam. In some situations it may be possible to replace international capital with&#13;
+domestic labor, but this would likely increase the time required for project implementation.&#13;
+Substituting domestic labor for imported capital increases the marginal propensity to consume and therefore&#13;
+intensifies domestic demand for goods and services during implementation. This increases the demand-side&#13;
+effects of project implementation, permanently raising the annual GDP growth rate by around 0.2 percent.&#13;
+It also magnifies the initial price increase in the construction sector (as shown below), which then declines&#13;
+in subsequent years as the expanding supply of construction services lower prices.17 Finally, rising demand&#13;
+pressure generates a modest increase in the IRR.&#13;
+&#13;
+&#13;
+&#13;
+17&#13;
+  The effect of the price increase in the construction sector is assumed not to affect exports, since the construction&#13;
+sector does not export goods and services.&#13;
+                                                                            17&#13;
+&amp;#12;This scenario demonstrates the limitations of the model, which excludes the resource-allocation effects of&#13;
+traditional CGE modeling. While this model reveals how the project will affect the construction sector&#13;
+directly it ignores the indirect impact of changing construction prices on other sectors. Consequently, any&#13;
+potentially negative effects caused by the reallocation of productive resources are omitted. It is possible&#13;
+that the presence of idle or under-utilized assets would allow the construction sector to expand without&#13;
+negatively impacting other sectors, but this is unlikely given the highly specialized and scarce construction&#13;
+skills and services required by the Kandadji Dam project.&#13;
+                     Figure 3: The sensitivity of macroeconomic variables to a reduction in the MPM&#13;
+                   Effect on imports (CFA Bn)                                                                        Effect on exports (CFA Bn)&#13;
+                                                                                                1200&#13;
+ 1800&#13;
+                                                                                                1100&#13;
+ 1700&#13;
+&#13;
+                                                                                                1000&#13;
+ 1600&#13;
+&#13;
+ 1500                                                                                             900&#13;
+&#13;
+&#13;
+ 1400                                                                                             800&#13;
+        2014       2015     2016         2017    2018       2019      2020                                2014       2015      2016        2017    2018        2019     2020&#13;
+&#13;
+               Imports without program            Imports with program                                           Exports without program               Exports with program&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                      Effect on GDP deflator                                                                            Effect on GDP (CFA Bn)&#13;
+ 119                                                                                            4600&#13;
+&#13;
+                                                                                                4400&#13;
+ 114&#13;
+                                                                                                4200&#13;
+&#13;
+ 109                                                                                            4000&#13;
+&#13;
+                                                                                                3800&#13;
+ 104                                                                                            3600&#13;
+        2014      2015      2016         2017   2018        2019      2020                                2014       2015      2016        2017       2018     2019      2020&#13;
+        GDP deflator without program            GDP deflator with program&#13;
+                                                                                                             Real GDP without program                 Real GDP with program&#13;
+        Const. sector without program           Const. sector with program&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                   Effect on debt (% of GDP)&#13;
+   45&#13;
+   40&#13;
+   35&#13;
+   30&#13;
+   25&#13;
+   20&#13;
+   15&#13;
+   10&#13;
+    5&#13;
+    0&#13;
+        2014                                      2019                                        2024                                         2029&#13;
+&#13;
+                                 Public debt with program                    domestic debt with program                foreign debt with program&#13;
+                                 Public debt without program                 domestic debt without program             foreign debt without program&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Scenario 3: Sensitivity to the Elasticity of Supply&#13;
+&#13;
+A significant reduction in the elasticity of supply results in minor changes in the IIRs and in macroeconomic&#13;
+variables, particularly GDP growth. For the purposes of the sensitivity test the elasticity of supply was&#13;
+&#13;
+                                                                                     18&#13;
+&amp;#12;assumed to be close to zero (.05) in order to reduce the supply response and increase the price response to&#13;
+demand effects stemming from the projectâ&#128;&#153;s implementation. Under this scenario the GDP growth rate fell&#13;
+by just 0.2 percent during the construction phase, as the impact of demand effects on real GDP were&#13;
+virtually eliminated. This affected the IRRs, which fell by an average of 3 percentage points. Effects on&#13;
+other macroeconomic variables were generally limited. While the change in the overall GDP deflator was&#13;
+minor, an initial price shock increased prices in the construction sector. However, the impact of this price&#13;
+shock diminished quickly over time.&#13;
+               Figure 4: The sensitivity of macroeconomic variables to changes in the elasticity of supply&#13;
+                   Effect on imports (CFA Bn)                                                                        Effect on exports (CFA Bn)&#13;
+                                                                                                1200&#13;
+ 1800&#13;
+                                                                                                1100&#13;
+ 1700&#13;
+&#13;
+                                                                                                1000&#13;
+ 1600&#13;
+&#13;
+ 1500                                                                                             900&#13;
+&#13;
+&#13;
+ 1400                                                                                             800&#13;
+        2014       2015     2016         2017    2018       2019      2020                                2014       2015      2016        2017    2018        2019     2020&#13;
+&#13;
+               Imports without program            Imports with program                                           Exports without program               Exports with program&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                      Effect on GDP deflator                                                                            Effect on GDP (CFA Bn)&#13;
+ 119                                                                                            4600&#13;
+&#13;
+                                                                                                4400&#13;
+ 114&#13;
+                                                                                                4200&#13;
+&#13;
+ 109                                                                                            4000&#13;
+&#13;
+                                                                                                3800&#13;
+ 104                                                                                            3600&#13;
+        2014      2015      2016         2017   2018        2019      2020                                2014       2015      2016        2017       2018     2019      2020&#13;
+        GDP deflator without program            GDP deflator with program&#13;
+                                                                                                             Real GDP without program                 Real GDP with program&#13;
+        Const. sector without program           Const. sector with program&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                   Effect on debt (% of GDP)&#13;
+   45&#13;
+   40&#13;
+   35&#13;
+   30&#13;
+   25&#13;
+   20&#13;
+   15&#13;
+   10&#13;
+    5&#13;
+    0&#13;
+        2014                                      2019                                        2024                                         2029&#13;
+&#13;
+                                 Public debt with program                    domestic debt with program                foreign debt with program&#13;
+                                 Public debt without program                 domestic debt without program             foreign debt without program&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                     19&#13;
+&amp;#12;4. Policy Applications&#13;
+&#13;
+Large public investment projects typically involve many policy decisions both before and after a given&#13;
+project is selected. This section discusses how the model described in the working paper can be used to&#13;
+assess the macroeconomic impact of different policy options. For instance, the model can be used to&#13;
+compare a baseline strategy for implementing the project with an alternative that is less expensive, but that&#13;
+increases the time required. This is merely one example designed to illustrate the modelâ&#128;&#153;s policy&#13;
+applications, but it could be used to compare the Kandaji Dam projectâ&#128;&#153;s construction plan with those of&#13;
+similar projects elsewhere in SSA, such as the Renaissance Dam in Ethiopia. The Kandadji Dam is being&#13;
+built according to World Bank-sanctioned competitive procurement policies that reduce project costs but&#13;
+lengthen construction time. By contrast, the Renaissance Dam used single-source contracting that&#13;
+accelerated construction but increased project costs.&#13;
+The model presents the results for both a baseline and an alternative scenario in which competitive&#13;
+procurement practices reduce costs by 20 percent but increase construction time by 50 percent. The IRRs&#13;
+for the baseline and alternative scenarios are presented in Table 4, below. The results are broadly similar,&#13;
+indicating that a 20 percent reduction in costs may justify a 50 percent increase in construction time. The&#13;
+FIRR is significantly better under the alternative scenario, and there are noticeable differences between the&#13;
+EIRR and EWIRR. The effect on macroeconomic variables is also limited, and the results are not presented&#13;
+here. Extending the construction time cuts GDP growth by around 0.14 percentage points, but all other&#13;
+macroeconomic impacts are insignificant. Overall, policies that promote the swift completion of the project&#13;
+tend to become more attractive the higher the interest rate on new debt and the larger the economic impact&#13;
+of the completed project.&#13;
+&#13;
+&#13;
+                Table 4: Internal rates of return under the baseline and alternative scenarios&#13;
+                                                                                       Scenario&#13;
+                                                                               Current     Altern.&#13;
+   FIRR                                                                            3.8          4.3&#13;
+   EIRR                                                                           17.0         18.5&#13;
+   EWIRR                                                                          14.1         14.6&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                     20&#13;
+&amp;#12;5. Conclusion&#13;
+&#13;
+The model described in the working paper allows policymakers to assess the impact of public investment&#13;
+projects on a range of current and future macroeconomic variables. It estimates the macroeconomic costs&#13;
+and benefits of a given project and projects its economic effects both during construction and after&#13;
+completion. By conditioning macroeconomic projections under alternative investment scenarios the model&#13;
+can be used to inform investment policy decisions both over time and between sectors. It can also shed light&#13;
+on the implications of using different methods to implement a single project.&#13;
+Nevertheless, the model requires accurate information about the project and key macroeconomic indicators,&#13;
+and analysts must make informed judgments regarding the coefficients and estimated parameters used. The&#13;
+data on elasticities, for example, are exogenous. The extent that data are available to inform these judgments&#13;
+will vary by country, and the results are particularly sensitive to the following assumptions: (i) the supply&#13;
+response of the domestic economy during the construction phase; (ii) the increase in output generated by&#13;
+the completion of the project; and, (iii) the origin and terms of project financing. Costly financing&#13;
+mechanisms, even for projects with long-term benefits, may significantly increase debt service payments&#13;
+during the construction phase. Although increased economic productivity and/ or user fees may ultimately&#13;
+offset these costs, an initial spike in debt service could threaten to breach the debt sustainability thresholds&#13;
+defined by the World Bank and IMF.&#13;
+The case study presented for the Kandadji Dam project indicates that its total cost will equal more than 10&#13;
+percent of 2013 GDP during the 2014-48 period examined by the model. However, the expansion of&#13;
+domestic production spurred by increased demand during the construction phase is projected to push 2018&#13;
+GDP some 0.25 percent above the baseline projection, boosting fiscal revenues by an additional 0.45&#13;
+percentage points of GDP. Imports would be 5 percent above the baseline, assuming that the projectâ&#128;&#153;s&#13;
+marginal propensity to import was around 72%. Ceteris paribus, the marginal propensity to import will be&#13;
+lowest for low-tech, labor-intensive projects with a clear impact on demand, such as a rural road expansion,&#13;
+and highest for high-tech, capital-intensive projects with limited ties to the broader national economy, such&#13;
+as an offshore oil platform. The Kandaji Dam essentially splits the difference, combining a substantial&#13;
+degree of import content with the mobilization of local productive factors.&#13;
+The model is designed for simplicity and ease of use. It is based on an excel spreadsheet rather than more&#13;
+sophisticated statistical software, and all assumptions and formulas are directly visible to the analyst. The&#13;
+model uses standard definitions for national accounts statistics, and its projections are designed to be&#13;
+consistent with existing policy classifications. The model presents the set of macroeconomic variables&#13;
+typically used in a debt sustainability analysis (DSA), including those highlighted in the DSA framework&#13;
+used by the World Bank and IMF.&#13;
+However, despite being user friendly the model has a number of limitations:&#13;
+        ï&#130;·   First, this is a static model and does not consider through feed-through effects, particularly at&#13;
+            the macroeconomic level. As a result, the model is particularly unsuitable for projects that have&#13;
+            significant spillover effects or which are likely to induce rapid structural change. Such projects&#13;
+            would call for a more traditional general equilibrium approach. This type of structural change&#13;
+            could be indicated by one sector expanding much more rapidly than any other, but the example&#13;
+            of the Kandadji Dam did not reveal such an expansion in the baseline scenario.&#13;
+                                                      21&#13;
+&amp;#12;ï&#130;·   Second, in estimating the impact of a project/ program on the macroeconomic variables the&#13;
+    model is highly dependent on robust impact estimates.&#13;
+ï&#130;·   Third, the equations underpinning the model describe the broad effects of the project on the&#13;
+    macroeconomic variables. While these mainly hold true, care should be taken to customize&#13;
+    these to particular country contexts.&#13;
+ï&#130;·   Fourth, following on from the previous point this the model does not consider exchange rate&#13;
+    effects, since most trade is within a fixed exchange rate regime (CFA).&#13;
+ï&#130;·   Fifth, given the limited number of equations, the model is highly sensitive to assumptions&#13;
+    underpinning the model. This was noted in sensitivity tests of some of the coefficients.&#13;
+Nevertheless, there is considerable scope to expand the model while keeping its user friendliness.&#13;
+For example, incorporating second and third order spending effects into the model.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                           22&#13;
+&amp;#12;References&#13;
+African Center for Economic Transformation (2014), African Transformation Report: Growth with depth,&#13;
+Accra, Ghana.&#13;
+&#13;
+Aschauer, D. (1989). "Is public expenditure productive?", Journal of Monetary Economics, Vol. 23, 177-&#13;
+200.&#13;
+&#13;
+Bourguignon, F., M. Bussolo, L. A. Pereira da Silva, H. Timmer and D. van der Mensbrugghe (2004),&#13;
+â&#128;&#156;MAMS â&#128;&#147; MAquette for MDG Simulations: a simple Macro-Micro Linkage Model for Country-Specific&#13;
+Modeling of the Millennium Development Goals or MDGs,â&#128;&#157; Mimeo, World Bank, Washington D.C.&#13;
+&#13;
+Calderon, C. (2009), â&#128;&#156;Infrastructure and Growth in Africa.â&#128;&#157; Working Paper 3, Africa Infrastructure Country&#13;
+Diagnostic, January, World Bank, Washington, DC.&#13;
+&#13;
+Dessus, S. and R. Herrera (2000), â&#128;&#156;Public Capital and Growth Revisited: A Panel Data Assessmentâ&#128;&#157;,&#13;
+Economic Development and Cultural Change, Vol. 48, No. 2, 407-18.&#13;
+Khan, S. and M. Kumar (1997), â&#128;&#156;Public and private investment and the growth process in developing&#13;
+countriesâ&#128;&#157;, Oxford Bulletin of Economics and Statistics, Vol. 59, No. 1, 69-88.&#13;
+&#13;
+Lijesen, M. and V. Shestalova (2007), â&#128;&#156;Public and private roles in road infrastructure: An exploration of&#13;
+market failure, public instruments and government failureâ&#128;&#157;, CPB Document 146, Netherlands Bureau for&#13;
+Economic Policy Analysis, The Hague.&#13;
+&#13;
+Lofgren, H. and C. Diaz-Bonilla, 2010, MAMS: An Economy-wide Model for Development Strategy&#13;
+Analysis, Mimeo, World Bank, Washington D.C.&#13;
+&#13;
+World Bank (2010), Africaâ&#128;&#153;s Infrastructure: A Time for Transformation. Washington, DC. USA.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                   23&#13;
+&amp;#12;</ml:original-txt><ml:search-metadata><doc id="25247595">
+        <url>
+            http://documents.worldbank.org/curated/en/2015/11/25247595/modeling-impact-large-infrastructure-projects-case-study-niger-macroeconomic-assessment-public-investment-options-mapio
+        </url>
+        <availablein>English</availablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2015/11/25247595/modeling-impact-large-infrastructure-projects-case-study-niger-macroeconomic-assessment-public-investment-options-mapio</url_friendly_title>
+        <new_url>2015/11/25247595/modeling-impact-large-infrastructure-projects-case-study-niger-macroeconomic-assessment-public-investment-options-mapio</new_url>
+        <disclosure_date>2015-11-04T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2015-11-04T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <docm_id>090224b083193636</docm_id>
+        <chronical_docm_id>090224b083193636</chronical_docm_id>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2015/11/04/090224b083193636/1_0/Rendered/INDEX/Modeling0the0i0ment0Options00MAPIO0.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2015/11/04/090224b083193636/1_0/Rendered/PDF/Modeling0the0i0ment0Options00MAPIO0.pdf</pdfurl>
+        <docdt>2015-11-01T21:30:02Z</docdt>
+        <datestored>2015-11-04T00:00:00Z</datestored>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            Modeling the impact of large infrastructure
+            projects : a case study from Niger - Macroeconomic
+            Assessment of Public Investment Options (MAPIO)
+        </repnme>
+        <abstracts>
+            Evidence illustrates that investment in
+            infrastructure is essential to accelerate inclusive growth.
+            Indeed, a number of Sub-Saharan African (SSA) countries have
+            begun to devote greater resources to large-scale public
+            investment projects. Nevertheless, while massive projects
+            can potentially generate large benefits there are
+            considerable risks. Cost overruns, poor implementation
+            quality, inadequate operational and maintenance capacity,
+            and negative social or environmental impacts can severely
+            undercut a project’s anticipated social and economic
+            returns. Moreover, projects, which are expensive to develop
+            and maintain can impact on debt dynamics and in some cases
+            macroeconomic stability. Yet, given the complex nature of
+            such projects it is often difficult to ascertain whether it
+            is worthwhile to proceed with a project and if so, how
+            should it be financed and implemented. Historically,
+            computable general equilibrium (CGE) models have been used
+            to assess the prospective impacts of large public investment
+            projects. However, such models are a complex and
+            time-consuming process and are often too broad to precisely
+            capture the localized impact of specific projects. This
+            paper proposes a simple, but more user-friendly model. By
+            inputting information on the project’s construction,
+            operation, and anticipated returns, the user is able to
+            assess the project’s net impact on the economy and weigh up
+            the costs and benefits of different approaches. The model
+            was developed in response to a request from the Nigerien
+            authorities to assess the macroeconomic impact of Niger’s
+            Kandaji Dam project. It found that while costs would equal
+            more than 10 percent of 2013 GDP during 2014-48, the
+            expansion of domestic production spurred by increased demand
+            during the construction phase will increase GDP by 0.25
+            percent above the baseline projection and boost fiscal
+            revenues by an additional 0.45 percentage points of GDP.
+        </abstracts>
+        <docna>
+            Modeling the impact of large infrastructure
+            projects : a case study from Niger - Macroeconomic
+            Assessment of Public Investment Options (MAPIO)
+        </docna>
+        <display_title>Modeling the impact of large
+            infrastructure projects : a case study from Niger -
+            Macroeconomic Assessment of Public Investment Options (MAPIO)</display_title>
+        <listing_relative_url>/research/2015/11/25247595/modeling-impact-large-infrastructure-projects-case-study-niger-macroeconomic-assessment-public-investment-options-mapio</listing_relative_url>
+        <topic>Public Investment Management Index
+            m1326537 2067,Investment Law m1326734 977,Investment Incentives m1327702 1284,Public Investment Management m1326102 718,Infrastructure Funds m1327219 342,Infrastructure and Post-Conflict
+            Reconstruction m1326163 2485,Infrastructure and Growth m1326244 1083</topic>
+        <subtopic>Debt Markets,Emerging Markets,Public Sector Development,Currencies and Exchange Rates,Economic Theory &amp; Research</subtopic>
+        <docty>Working Paper (Numbered Series)</docty>
+        <teratopic>Finance and Financial Sector Development,Private Sector Development,Macroeconomics and Economic Growth</teratopic>
+        <count>Niger</count>
+        <authors>
+            <author>Beguy,Olivier</author>
+            <author>Dessus, Sébastien</author>
+            <author>Garba,Abdoulahi</author>
+            <author>Hayman,Jason Joaquin</author>
+            <author>Herderschee,Johannes</author>
+        </authors>
+        <geo_region_mdks>
+            <geo_region_mdk>Sub-Saharan Africa!$!Sub-Saharan Africa</geo_region_mdk>
+            <geo_region_mdk>West Africa!$!West Africa</geo_region_mdk>
+            <geo_region_mdk>World!$!517191</geo_region_mdk>
+            <geo_region_mdk>Sahel!$!Sahel</geo_region_mdk>
+        </geo_region_mdks>
+        <entityids>
+            <entityid>090224b083193636_1_0</entityid>
+        </entityids>
+        <admreg>Africa,Africa</admreg>
+        <colti>MFM Global Practice discussion paper,no. 7</colti>
+        <lang>English</lang>
+        <historic_topic>Finance and Financial Sector Development,Private Sector Development,Macroeconomics and Economic Growth</historic_topic>
+        <topicv3>Public Investment Management Index
+            m1326537 2067,Investment Law m1326734 977,Investment Incentives m1327702 1284,Public Investment Management m1326102 718,Infrastructure Funds m1327219 342,Infrastructure and Post-Conflict
+            Reconstruction m1326163 2485,Infrastructure and Growth m1326244 1083</topicv3>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            contingent liabilities, monetary policy,
+            deficit, basis points, foreign debt, elasticity of supply,
+            international capital, stock, national economy, structural
+            change, interest, rate of return, projections, investment
+            rate, debt stock, government spending, investment policies,
+            interest rate, real gdp, exchange, balance of payments, gdp
+            per capita, exports, developing countries, elasticity,
+            infrastructure development, total debt, revenues, loan,
+            variables, repayment period, market failure, tax, payments,
+            agricultural output, inflation, international bank,
+            macroeconomic analyses, instruments, budget, central bank,
+            development, macroeconomic stability, influence, investment
+            spending, costs, alternative investment, currency, domestic
+            capital, development strategies, finances, recurrent
+            expenditures, options, macroeconomic risks, interest rates,
+            monetary fund, failures, net exports, debt, private
+            investment, return, international development, domestic
+            debt, loans, tax revenues, inventories, debt service, gross
+            domestic product, borrowing cost, finance, loan terms,
+            public investment, taxes, fixed exchange rate, fiscal
+            deficit, expenditure, natural monopolies, infrastructure
+            investment, debt financing, macroeconomic instability,
+            consumption, aggregate supply, capital, debt-service,
+            transparency, market failures, foreign financing, future,
+            value, economic value, competitiveness, returns, fixed
+            capital, macroeconomics, purchasing power, economic sectors,
+            development strategy, demand, investment projects, aggregate
+            demand, share of investment, repayment, price changes,
+            economic functions, expenditures, agriculture, amortization,
+            real exchange rate, market, internal rates of return,
+            foreign loans, investment policy, debt ratios, public debt,
+            macroeconomic variables, side effects, taxation, economic
+            development, investment strategies, trade, marginal
+            propensity to save, gdp, goods, global trade, growth rate,
+            stocks, investment, macroeconomic analysis, rates of return,
+            share, collateral, poverty, monopolies, supply, debt service
+            payments, revenue, external debt, internal rate of return,
+            investments, consumer price index, multiplier effects,
+            marginal propensity to import, exchange rate, gdp deflator,
+            public spending, capital investment, liabilities, marginal
+            propensity to consume, prices, guarantee, growth
+            projections, benefits, debt relief, human development
+        </keywd>
+        <owner>Macro &amp; Fiscal Mgmt - GP (GMFDR)</owner>
+        <geo_regions>
+            <geo_region>Sub-Saharan Africa</geo_region>
+            <geo_region>West Africa</geo_region>
+            <geo_region>World</geo_region>
+            <geo_region>Sahel</geo_region>
+        </geo_regions>
+        <repnb>100636</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>Economic Policy and Debt</ml:concept><ml:concept>Transportation</ml:concept><ml:concept>Water Resources</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Economic Management</ml:concept><ml:concept>Macroeconomic Management</ml:concept><ml:concept>Macroeconomic Policy</ml:concept><ml:concept>Macroeconomics Policy</ml:concept><ml:concept>Macroeconomics and Economic Growth</ml:concept><ml:concept>Macroeconomics and Growth</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Social Protections and Labor</ml:concept><ml:concept>International Competitiveness</ml:concept><ml:concept>International Economics and Trade</ml:concept><ml:concept>Trade Liberalization</ml:concept><ml:concept>Trade Liberalization and Regional Integration</ml:concept><ml:concept>Trade Restrictiveness</ml:concept><ml:concept>Trade and Integration</ml:concept><ml:concept>Macroeconomic Vulnerability and Debt</ml:concept><ml:concept>Transport</ml:concept><ml:concept>Water</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Agriculture and Food Security</ml:concept><ml:concept>Macroeconomic and Structural Policies</ml:concept><ml:concept>Economic Growth</ml:concept><ml:concept>Health, Nutrition and Population</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Social Protection and Labor</ml:concept><ml:concept>Trade</ml:concept><ml:concept>Infrastructure Economics and Finance</ml:concept><ml:concept>Public Infrastructure</ml:concept><ml:concept>Irrigated Agriculture</ml:concept><ml:concept>Natural Resource Management and Biodiversity</ml:concept><ml:concept>Natural Resources Management and Rural Issues</ml:concept><ml:concept>Macroeconomic Analysis</ml:concept><ml:concept>Debt Management</ml:concept><ml:concept>Debt Policy</ml:concept><ml:concept>Debt Policy and Management</ml:concept><ml:concept>Public Debt Management</ml:concept><ml:concept>DSA</ml:concept><ml:concept>Debt Management &amp; Fiscal Sustainability</ml:concept><ml:concept>Debt and Fiscal Sustainability (DSA)</ml:concept><ml:concept>Shared Prosperity</ml:concept><ml:concept>Demographics</ml:concept><ml:concept>Analysis &amp; Monitoring</ml:concept><ml:concept>Delivery Units</ml:concept><ml:concept>Grievance Redress</ml:concept><ml:concept>Indicators</ml:concept><ml:concept>M&amp;E</ml:concept><ml:concept>Performance Measurement</ml:concept><ml:concept>Performance Reviews</ml:concept><ml:concept>Rapid Results Approaches</ml:concept><ml:concept>Consumption</ml:concept><ml:concept>Economic Development</ml:concept><ml:concept>Income</ml:concept><ml:concept>Debt Markets</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Agriculture</ml:concept><ml:concept>Infrastructure and Growth</ml:concept><ml:concept>Taxation</ml:concept><ml:concept>Irrigation and Drainage</ml:concept><ml:concept>Airports</ml:concept><ml:concept>Natural Resource Management</ml:concept><ml:concept>Natural Resource Management </ml:concept><ml:concept>Infrastructure</ml:concept><ml:concept>Savings</ml:concept><ml:concept>Macroeconomic Monitoring</ml:concept><ml:concept>Debt</ml:concept><ml:concept>Debt Relief</ml:concept><ml:concept>Debt and Fiscal Sustainability</ml:concept><ml:concept>Inclusive Growth</ml:concept><ml:concept>Population</ml:concept><ml:concept>Monitoring and Evaluation</ml:concept></ml:concepts><ml:geo-regions><ml:geo-region>Africa</ml:geo-region><ml:geo-region>Niger</ml:geo-region></ml:geo-regions></ml:annotations></ml:doc-envelope>

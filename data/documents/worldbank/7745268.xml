@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>22684&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+</ml:original-txt><ml:search-metadata><doc id="7745268">
+        <url>
+            http://documents.worldbank.org/curated/en/2001/01/7745268/world-development-report-20002001-attacking-poverty
+        </url>
+        <availablein>Russian,Spanish,Portuguese,French,English,Chinese,Arabic</availablein>
+        <fullavailablein>
+            <available_in lang="Russian" entityid="000090341_20070706133508" node_id="7745268"/>
+            <available_in lang="Spanish" entityid="000160016_20051115162915" node_id="7745268"/>
+            <available_in lang="Portuguese" entityid="000020953_20070912110712" node_id="7745268"/>
+            <available_in lang="French" entityid="000090341_20070509132502" node_id="7745268"/>
+            <available_in lang="English" entityid="000425962_20130304112816" node_id="7745268"/>
+            <available_in lang="Chinese" entityid="000310607_20070712141534" node_id="7745268"/>
+        </fullavailablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2001/01/7745268/world-development-report-20002001-attacking-poverty</url_friendly_title>
+        <new_url>2001/01/7745268/world-development-report-20002001-attacking-poverty</new_url>
+        <disclosure_date>2007-06-21T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2007-06-21T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <docm_id>090224b0828b8283</docm_id>
+        <chronical_docm_id>090224b0828b8283</chronical_docm_id>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2007/06/21/000020953_20070621083649/Rendered/INDEX/226840ARABIC0W17132010591001Public1.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2007/06/21/000020953_20070621083649/Rendered/PDF/226840ARABIC0W17132010591001Public1.pdf</pdfurl>
+        <datestored>2007-06-21T00:00:00Z</datestored>
+        <docdt>2001-01-01T00:00:00Z</docdt>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            World development report 2000/2001 :
+            attacking poverty
+        </repnme>
+        <abstracts>
+            This report focuses on the dimensions of
+            poverty, and how to create a better world, free of poverty.
+            The analysis explores the nature, and evolution of poverty,
+            and its causes, to present a framework for action. The
+            opportunity for expanding poor people's assets is
+            addressed, arguing that major reductions in human
+            deprivation are indeed possible, that economic growth,
+            inequality, and poverty reduction, can be harnessed through
+            economic integration, and technological change, dependent
+            not only on the evolvement of markets, but on the choices
+            for public action at the global, national, and local levels.
+            Actions to facilitate empowerment include state
+            institutional responsiveness in building social institutions
+            which will improve well-being, and health, to allow
+            increased income-earning potential, access to education, and
+            eventual removal of social barriers. Security aspects are
+            enhanced, by assessing risk management towards reducing
+            vulnerability to economic crises, and natural disasters. The
+            report expands on the dimensions of human deprivation, to
+            include powerlessness and voicelessness, vulnerability and
+            fear. International dimensions are explored, through global
+            actions to fight poverty, analyzing global trade, capital
+            flows, and how to reform development assistance to forge
+            change in the livelihoods of the poor.
+        </abstracts>
+        <docna>
+            World development report 2000/2001 :
+            attacking poverty
+        </docna>
+        <display_title>تقرير عن التنمية في العالم 2000 /
+            2001: شن هجوم على الفقر</display_title>
+        <listing_relative_url>/research/2001/01/7745268/world-development-report-20002001-attacking-poverty</listing_relative_url>
+        <issn>0163-5085</issn>
+        <count>World</count>
+        <lang>Arabic</lang>
+        <sectr>(Historic)Multisector,Education,Health and other social services,Water, sanitation and flood protection,Agriculture, fishing, and forestry</sectr>
+        <majdocty>Publications,Publications &amp; Research</majdocty>
+        <keywd>
+            Poverty reduction strategies; Market forces;
+            Economic integration; Technological change; Poverty
+            mitigation; Poverty severity; Poverty targeted programs;
+            Equal opportunity; Equal treatment principle; Empowerment;
+            Education for all; Health care delivery; Risk management;
+            Asset maintenance; Vulnerability; Disadvantaged groups;
+            Ethnic groups; Service delivery; Community participation;
+            Civil society; Public administration; Decentralization in
+            government; Institutional change; Institution building;
+            Nongovernmental organizations; Private investments; Income
+            generation; Income growth; Political participation;
+            Development assistance; Reform policy; Economic shocks;
+            Social assistance programs; Social institutions;
+            International trade; Globalization; Capital flows
+            Poverty reduction strategies; Market forces;
+            Economic integration; Technological change; Poverty
+            mitigation; Poverty severity; Poverty targeted programs;
+            Equal opportunity; Equal treatment principle; Empowerment;
+            Education for all; Health care delivery; Risk management;
+            Asset maintenance; Vulnerability; Disadvantaged groups;
+            Ethnic groups; Service delivery; Community participation;
+            Civil society; Public administration; Decentralization in
+            government; Institutional change; Institution building;
+            Nongovernmental organizations; Private investments; Income
+            generation; Income growth; Political participation;
+            Development assistance; Reform policy; Economic shocks;
+            Social assistance programs; Social institutions;
+            International trade; Globalization; Capital flows,,
+        </keywd>
+        <isbn>977-320-059-0</isbn>
+        <majtheme>Human development,Rural development,Social dev/gender/inclusion</majtheme>
+        <alt_title>
+            Relatorio sobre o desenvolvimento
+            mundial 2000/2001 : luta contra a pobreza
+            Informe sobre el desarrollo mundial
+            2000/2001 : Lucha contra la pobreza
+            Rapport sur le developpement dans le
+            monde 2000/2001 : combattre la pauvrete
+        </alt_title>
+        <projn>1W-World Development Report 2000: Poverty.
+            -- P059263</projn>
+        <subtopic>Services &amp; Transfers to Poor,Health Economics &amp; Finance,Achieving Shared Growth,Rural Poverty Reduction,Poverty Assessment</subtopic>
+        <docty>World Development Report</docty>
+        <teratopic>Health, Nutrition and Population,Poverty Reduction</teratopic>
+        <authors>
+            <author>Kanbur, Ravi</author>
+            <author>Calvo, Christina Malmberg</author>
+            <author>Das Gupta, Monica</author>
+            <author>Grootaert, Christiaan</author>
+            <author>Kwakwa, Victoria</author>
+            <author>Lustig, Nora</author>
+        </authors>
+        <entityids>
+            <entityid>000020953_20070621083649</entityid>
+        </entityids>
+        <admreg>The World Region,The World Region</admreg>
+        <subsc>Non-Sector Specific,Primary education,Micro- and SME finance,Health,General water, sanitation and flood
+            protection sector,Agricultural extension and research</subsc>
+        <theme>Education for all,Gender,Health system performance,Nutrition and food security,Rural policies and institutions</theme>
+        <colti>World development report</colti>
+        <historic_topic>Health, Nutrition and Population,Poverty Reduction</historic_topic>
+        <prdln>World Development Report</prdln>
+        <owner>World Development Report (DECWD)</owner>
+        <trustfund>TF022207-BNPP-POVERTY:WORLD DEVELOPMENT
+            REPORT 2000 (POVERTY): FOCUS ON RISK, VU</trustfund>
+        <repnb>22684</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts/><ml:geo-regions/></ml:annotations></ml:doc-envelope>

@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>26895&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+</ml:original-txt><ml:search-metadata><doc id="7750268">
+        <url>
+            http://documents.worldbank.org/curated/en/2003/06/7750268/world-development-report-2004-making-services-work-poor-people
+        </url>
+        <availablein>Chinese,English,Arabic,Spanish,French,Russian,Vietnamese</availablein>
+        <fullavailablein>
+            <available_in lang="Chinese" entityid="000333038_20100811000458" node_id="7750268"/>
+            <available_in lang="English" entityid="000425962_20130304162203" node_id="7750268"/>
+            <available_in lang="Arabic" entityid="000456286_20141231102049" node_id="7750268"/>
+            <available_in lang="Spanish" entityid="000160016_20040323133808" node_id="7750268"/>
+            <available_in lang="French" entityid="000012009_20040730102437" node_id="7750268"/>
+            <available_in lang="Russian" entityid="000386194_20120731030050" node_id="7750268"/>
+        </fullavailablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2003/06/7750268/world-development-report-2004-making-services-work-poor-people</url_friendly_title>
+        <new_url>2003/06/7750268/world-development-report-2004-making-services-work-poor-people</new_url>
+        <disclosure_date>2007-06-22T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2007-06-22T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <docm_id>090224b0828b90d6</docm_id>
+        <chronical_docm_id>090224b0828b90d6</chronical_docm_id>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2007/06/22/000310607_20070622163052/Rendered/INDEX/268950VIETNAME18213155371601PUBLIC1.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2007/06/22/000310607_20070622163052/Rendered/PDF/268950VIETNAME18213155371601PUBLIC1.pdf</pdfurl>
+        <datestored>2007-06-22T00:00:00Z</datestored>
+        <docdt>2003-06-30T00:00:00Z</docdt>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Revised</versiontyp>
+        <versiontyp_key>1309936</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            World Development Report 2004 : making
+            services work for poor people
+        </repnme>
+        <abstracts>
+            The World Development Report (WDR) 2004
+            warns that broad improvements in human welfare will not
+            occur unless poor people receive wider access to affordable,
+            better quality services in health, education, water,
+            sanitation, and electricity. Without such improvements,
+            freedom from illness and from illiteracy,  two of the most
+            important ways poor people can escape poverty, will remain
+            elusive to many. This report builds an analytical and
+            practical framework for using resources, whether internal or
+            external, more effectively by making services work for poor
+            people. The focus is on those services that have the most
+            direct link with human development, education, health,
+            water, sanitation, and electricity. This presents an
+            enormous challenge, because making services work for the
+            poor involves changing, not only service delivery
+            arrangements, but also public sector institutions, and how
+            foreign aid is transferred. This WDR explores the many
+            dimensions of poverty, through outcomes of service delivery
+            for poor people, and stipulates affordable access to
+            services is low especially for poor people in addition to a
+            wide range of failures in quality. The public responsibility
+            is highlighted, addressing the need for more public
+            spending, and technical adjustments, based on incentives and
+            understanding what, and why services need to be improved.
+            Thus, through an analytical framework, it is suggested the
+            complexity of accountability must be established, as well as
+            instruments for reforming institutions to improve services,
+            illustrated through various case studies, both in
+            developing, and developed countries. The report further
+            outlines that scaling up reforms means sectoral reforms must
+            be linked to ongoing or nascent public sector reforms, in
+            areas such as budget management, decentralization, and
+            public administration reform, stimulated through information
+            as a catalyst for change, and as an input to prod the
+            success of other reforms.
+        </abstracts>
+        <docna>
+            World Development Report 2004 : making
+            services work for poor people
+        </docna>
+        <display_title>World Development Report 2004 :
+            making services work for poor people</display_title>
+        <listing_relative_url>/research/2003/06/7750268/world-development-report-2004-making-services-work-poor-people</listing_relative_url>
+        <projn>1W-Making Services Work For Poor People -- P077773</projn>
+        <docty>World Development Report</docty>
+        <subtopic>Health Economics &amp; Finance,Health Monitoring &amp; Evaluation,Regional Rural Development,Governance Indicators,Poverty Assessment</subtopic>
+        <count>World</count>
+        <issn>0163-5085</issn>
+        <authors>
+            <author>Ahmad, Junaid</author>
+            <author>Commins, Stephen</author>
+            <author>Devarajan, Shantayanan</author>
+            <author>Filmer, Deon</author>
+            <author>Hammer, Jeffrey</author>
+            <author>Pritchett, Lant</author>
+            <author>Reinikka, Ritva</author>
+            <author>Shah, Shekhar</author>
+            <author>Soucat, Agnès</author>
+        </authors>
+        <entityids>
+            <entityid>000310607_20070622163052</entityid>
+        </entityids>
+        <theme>Education for all,Other human development,Other public sector governance,Population and reproductive health</theme>
+        <subsc>Health,Sanitation,Primary education</subsc>
+        <admreg>The World Region,The World Region</admreg>
+        <colti>World development report</colti>
+        <lang>Vietnamese</lang>
+        <prdln>World Development Report</prdln>
+        <sectr>Health and other social services,Water, sanitation and flood protection,Education</sectr>
+        <majdocty>Publications,Publications &amp; Research</majdocty>
+        <isbn>0-8213-5537-6</isbn>
+        <keywd>
+            Poverty incidence; Basic services;
+            Accessible services; Reform policy; Public-private
+            partnerships; Public spending; Infrastructure regulation;
+            Infrastructure funding; Basic education; Public health care;
+            Nutrition; Safe water supply; Sanitation; Electricity;
+            Decentralization; Donor finance; Public administration;
+            Budget management; Information dissemination; Sectoral
+            reforms; Development assistance;
+            Poverty incidence; Basic services;
+            Accessible services; Reform policy; Public-private
+            partnerships; Public spending; Infrastructure regulation;
+            Infrastructure funding; Basic education; Public health care;
+            Nutrition; Safe water supply; Sanitation; Electricity;
+            Decentralization; Donor finance; Public administration;
+            Budget management; Information dissemination; Sectoral
+            reforms; Development assistance;,,
+        </keywd>
+        <owner>World Development Report (DECWD)</owner>
+        <trustfund>BBRSB-BB RESEARCH SUPPORT BUDGET,TF021130-PROTECTION OF ENVIRONMENT IN
+            MEDITERRANEAN REGION,TF021432-UN SPECIAL INITIATIVE FOR AFRICA,TF023271-IBRD METAP-SPECIAL GRANT
+            PROGRAM (SGP),TF024068-BNPP-HEALTH: OTHER HNP GLOBAL - HDNHE,TF050787-WORLD DEVLOPMENT REPORT
+            2003/04: MAKING SERVICES WORK FOR POOR PEOPLE,TF051183-KCP-BACKGROUND STUDIES FOR
+            WORLD DEVELOPMENT REPORT 2004,TF051186-KCP-PROSPECTIVES ON MAKING
+            SERVICES WORK FOR POOR PEOPLE (WDR 2004),TF051582-WORLD DEVELOPMENT REPORT 2004,TFM50787-WORLD DEVLOPMENT REPORT
+            2003/04: MAKING SERVICES WORK FOR POOR PEOPLE-T,TFS21130-PROTECTION OF ENVIRONMENT IN
+            MEDITERRANEAN REGION,TFS23271-IBRD METAP-SPECIAL GRANT
+            PROGRAM (SGP),TFS50787-WORLD DEVLOPMENT REPORT
+            2003/04: MAKING SERVICES WORK FOR POOR PEOPLE-T,UN008850-MEDITERRANEAN ENVIRONMENTAL
+            TECH ASST,UN009940-MEDITERRANEAN ENVIRONMENTAL
+            TECH ASST</trustfund>
+        <majtheme>Human development,Public sector governance</majtheme>
+        <repnb>26895</repnb>
+        <alt_title>
+            Ngan Hang The Gioi - Bao cao Phat trien
+            The Gioi 2004 : Cai thien cac dich vu de phuc vu nguoi ngheo
+            Rapport sur le developpement dans le
+            monde 2004 : des services pour les pauvres
+            Informe sobre el desarrollo mundial 2004
+            : servicios para los pobres
+        </alt_title>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts/><ml:geo-regions/></ml:annotations></ml:doc-envelope>

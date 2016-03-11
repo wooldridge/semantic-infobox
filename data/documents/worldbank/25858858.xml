@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>                                 102963&#13;
+&#13;
+&#13;
+world development report&#13;
+&#13;
+&#13;
+          BACKGROUND PAPER&#13;
+&#13;
+          Digital Dividends&#13;
+&#13;
+&#13;
+          Sharing is caring? Not quite.&#13;
+          Some observations about â&#128;&#152;the&#13;
+          sharing economyâ&#128;&#153;&#13;
+          DesirÃ©e van Welsum&#13;
+          World Bank Group&#13;
+&amp;#12;&amp;#12;                                                            Table of Contents&#13;
+Introduction ..................................................................................................................................... 1&#13;
+Definitions....................................................................................................................................... 1&#13;
+Trends ............................................................................................................................................. 3&#13;
+Winners and losers in the sharing economy ................................................................................. 10&#13;
+&#13;
+   Opportunities ............................................................................................................................. 10&#13;
+&#13;
+   Challenges ................................................................................................................................. 11&#13;
+&#13;
+   Barriers ...................................................................................................................................... 12&#13;
+&#13;
+   New divides ............................................................................................................................... 12&#13;
+Growth opportunities .................................................................................................................... 13&#13;
+&#13;
+   Developing countries................................................................................................................. 13&#13;
+&#13;
+   Substitution or complementarity? ............................................................................................. 14&#13;
+&amp;#12;                                                 Introduction&#13;
+&#13;
+Fast evolving cloud-computing platforms that enable new business models, combined with a rapid&#13;
+uptake in digital technologies by consumers and a change in consumer behavior and preferences&#13;
+have enabled the emergence of a so-called â&#128;&#152;sharing economyâ&#128;&#153;. With new start-ups offering all&#13;
+kinds of services springing up every day, there was soon talk of the â&#128;&#152;Uber1 of everythingâ&#128;&#153; or â&#128;&#152;the&#13;
+uberification of the service economyâ&#128;&#153; (figure 1).2 But these technology enabled business models&#13;
+also raise a number of questions, such as what are we really sharing in the â&#128;&#152;sharingâ&#128;&#153; economy, who&#13;
+participates in it, who benefits from it, what are the barriers and the risks, and does it offer growth&#13;
+opportunities for developing countries?&#13;
+&#13;
+    Figure 1: The â&#128;&#152;uberification of the US service economy&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                  Definitions&#13;
+&#13;
+The term â&#128;&#152;sharing economyâ&#128;&#153; is somewhat of a misnomer: what exactly is being shared, and is it&#13;
+really sharing if we pay to â&#128;&#152;shareâ&#128;&#153; or is it just a form of renting (figure 2) or paying for a service?&#13;
+In reality, most of these new/digital economy services involve the more efficient utilization&#13;
+(â&#128;&#152;sharingâ&#128;&#153;) of physical assets (a house, car, physical space, machinery, tools, appliances, clothes,&#13;
+shoes, bags/accessories), or time (e.g. through tasks such as cooking, cleaning, assembly of&#13;
+furniture, doing DIY3 jobs, running errands, etc.). It seems that for sharing economy users, access&#13;
+to assets is more important than ownership of such assets.&#13;
+&#13;
+&#13;
+&#13;
+1&#13;
+  https://www.uber.com/.&#13;
+2&#13;
+  http://schlaf.me/post/81679927670.&#13;
+3&#13;
+  Do-It-Yourself (DIY).&#13;
+&#13;
+&#13;
+                                                      -1-&#13;
+&amp;#12;    Figure 2: Sharing, or renting?&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+    Source: http://www.gravitytank.com/pdfs/info_graphics/SharingEconomy_web.pdf.&#13;
+&#13;
+&#13;
+In sharing economy transactions there is generally an exchange of money, as users/consumers are&#13;
+clearly willing to pay for this â&#128;&#152;sharingâ&#128;&#153;, and often the creation of some form of employment.&#13;
+However, while the new platform based companies of the sharing economy create opportunities&#13;
+to generate income, they do not tend to share the wealth that is being created in the company as a&#13;
+result of the individualsâ&#128;&#153; willingness to â&#128;&#152;shareâ&#128;&#153;/ make their assetsâ&#128;&#148;car, house, time etc.â&#128;&#148;&#13;
+available.&#13;
+&#13;
+Perhaps these new services providers are not that different from traditional â&#128;&#152;brick-and-mortarâ&#128;&#153;&#13;
+companies that share profits with shareholders but not necessarily with their employees. The term&#13;
+â&#128;&#152;platform capitalismâ&#128;&#153;4 has been used to characterize the principle of the sharing economy. This can&#13;
+apply to the â&#128;&#152;largeâ&#128;&#153; aggregator companies that provide the technologies and the platform, but also&#13;
+to the â&#128;&#152;person companiesâ&#128;&#153;/ micro-entrepreneurs that they enable (e.g. people renting out their&#13;
+physical assets or selling their time on-demand). The â&#128;&#152;on-demand economyâ&#128;&#153; and â&#128;&#152;the matching&#13;
+economyâ&#128;&#153; have also been offered as alternative, and arguably more accurate, terms for the â&#128;&#152;sharing&#13;
+economyâ&#128;&#153;.5 These alternative terms also reflect the increasing preference for consumersâ&#128;&#153; instant&#13;
+gratification of their specific needs, anywhere anytime. However, economist Robert Reich argues&#13;
+that the â&#128;&#152;share-the-scrapsâ&#128;&#153; economy would be a more appropriate term, fearing that rather than&#13;
+offering increased opportunities, the â&#128;&#152;sharing economyâ&#128;&#153; is actually â&#128;&#152;hurtling us backwardsâ&#128;&#153;. 6&#13;
+&#13;
+It appears that what differentiates sharing economy type firms or services from traditional brick&#13;
+and mortar companies is that they act more like â&#128;&#152;instant matchmakersâ&#128;&#153;, matching demand and&#13;
+supply for the use of physical assets and time. There are really two types of services provided by&#13;
+the â&#128;&#152;sharing economyâ&#128;&#153; platform based companies. The first category is comprised of those services&#13;
+that enable the sharing of physical assets. They match those looking for the â&#128;&#152;time share useâ&#128;&#153; of a&#13;
+physical asset with those supplying it. The second category is more of a matching service persÃ©,&#13;
+matching those with time to do things with those who need the services of that time. Examples in&#13;
+&#13;
+4&#13;
+  http://www.spiegel.de/netzwelt/netzpolitik/sascha-lobo-sharing-economy-wie-bei-uber-ist-plattform-kapitalismus-&#13;
+a-989584.html.&#13;
+5&#13;
+   http://www.businessinsider.com/the-on-demand-economy-2014-7;&#13;
+http://conversableeconomist.blogspot.com/2015/05/the-sharing-economy.html?m=1.&#13;
+6&#13;
+   http://robertreich.org/post/109894095095.&#13;
+&#13;
+&#13;
+                                                      -2-&#13;
+&amp;#12;this category include dog walkers, people who run errands, clean, or do furniture assembly and&#13;
+other DIY jobs around the house (e.g. Handy and TaskRabbit7). How is this different from what&#13;
+already existed? The new platform based services companies make the matching of supply and&#13;
+demand of these services easier and faster with the introduction of apps and online platforms, a&#13;
+convenient â&#128;&#152;placeâ&#128;&#153; where producers and consumers of these services meet, connect and transact in&#13;
+one seamless process, available anywhere anytime on mobile devices. It has also allowed an even&#13;
+greater degree of â&#128;&#152;on-demandâ&#128;&#153; services, with ever-greater customization and specialization to the&#13;
+needs of customers.&#13;
+&#13;
+The main innovation in the sharing economy business model comes from the technology platforms&#13;
+and mobile apps that bring together and aggregate demand and supply in ways that were not&#13;
+possible before (faster, cheaper and more efficiently allocated and coordinated) - including in&#13;
+geographical areas/ service sectors where less density would make this more complicated, creating&#13;
+new business opportunities. The Internet reduces transaction friction in connecting those offering&#13;
+assets or services and those wishing to consume them and enables that at massive scale with&#13;
+instantaneous matching. The success of â&#128;&#152;sharing economyâ&#128;&#153; companies such as Uber or Airbnb8&#13;
+depends greatly on the ability to efficiently share a physical asset (car, house), but in the case of&#13;
+concierge or delivery services, for example, there is no real â&#128;&#152;sharingâ&#128;&#153; involved in the transaction,&#13;
+other than the time of the person running the errands and doing the chores. In the latter cases value&#13;
+is derived by more efficiently allocating human resources and capacity, and more efficiently&#13;
+matching demand and supply.&#13;
+&#13;
+                                                  Trends&#13;
+&#13;
+The sharing economy depends on peopleâ&#128;&#153;s willingness to share (figure 3). For example, according&#13;
+to a Nielsen survey, 28% of global respondents were willing to share or rent their electronic devices&#13;
+for a fee (respondents in Asia-Pacific were more willing to do so at 39%). Other items global&#13;
+respondents were willing to rent include power tools (23%), bicycles (22%), clothing (22%),&#13;
+household items (22%), sports equipment (22%), cars (21%), outdoor camping gear (18%),&#13;
+furniture (17%), homes (15%) motorcycles (13%) and pets (7%). In addition, 26% of global&#13;
+respondents will rent lessons or services via the Internet, such as music lessons or dog sitting&#13;
+services.9&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+7&#13;
+  https://www.handy.com/ and https://www.taskrabbit.com/.&#13;
+8&#13;
+  https://www.airbnb.com.&#13;
+9&#13;
+  http://www.nielsen.com/lb/en/press-room/2014/global-consumers-embrace-the-share-economy.html.&#13;
+&#13;
+&#13;
+                                                   -3-&#13;
+&amp;#12; Figure 3: The sharing economy depends on peopleâ&#128;&#153;s willingness to share&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+ Source: http://www.statista.com/chart/2323/the-rise-of-the-sharing-economy/.&#13;
+&#13;
+&#13;
+The sharing economy covers many sectors (see also figure 2), including transport, delivery and&#13;
+logistics, travel and hospitality, home services, dining, food and beverages, and finance, each with&#13;
+their own substantial market potential. Some companies are developing and expanding globally,&#13;
+whereas other markets are still more confined to the US often in dense urban areas, and/or&#13;
+developed countries. For example, as of early March 2015, Airbnb reported operating in more than&#13;
+34,000 cities and 190 countries (figure 4), and over 25 million guests.10 At the same time, Uber&#13;
+was available in 55 countries, with a presence in some 150 cities in North America (figure 5), 11&#13;
+cities in Central and South America, 63 cities in Europe, Middle East and Africa, and 45 cities in&#13;
+Asia Pacific.11 Other services are only available in defined and smaller geographic areas, at least&#13;
+initially, such as one-hour delivery by Amazonâ&#128;&#148;only available in (some parts of) the Manhattan&#13;
+borough of New York City.12&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+10&#13;
+   https://www.airbnb.com/about/about-us (accessed 2 March 2015).&#13;
+11&#13;
+   https://www.uber.com/cities (accessed 2 March 2015).&#13;
+12&#13;
+   As of early March 2015.&#13;
+&#13;
+&#13;
+                                                      -4-&#13;
+&amp;#12;Figure 4: Worldwide Airbnb listings as of early March 2015&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Source: https://www.airbnb.com/about/about-us.&#13;
+&#13;
+&#13;
+Figure 5: Active Uber drivers in the US, November 2014&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Source: https://s3.amazonaws.com/uber-static/comms/PDF/Uber_Driver-Partners_Hall_Kreuger_2015.pdf.&#13;
+Note: The map indicates the number of Uber driver-partners who took at least four trips in November 2014, by&#13;
+Census MSA.&#13;
+&#13;
+&#13;
+&#13;
+                                                   -5-&#13;
+&amp;#12;In contrast to these globally operating services platforms, growth in the market for peer-to-leer&#13;
+lending, for example, is for now more concentrated in the United States, with reported growth rates&#13;
+of around 250%.13 The US the market is especially growing fast with companies such as Lending&#13;
+Club14 and Prosper15 (figure 6).&#13;
+&#13;
+ Figure 6: The US peer-to-peer lending market&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+ Source: European Commission, DG Enterprise and Industry (2013), â&#128;&#152;The sharing economy: Accessibility based&#13;
+ business models for peer-to-peer marketsâ&#128;&#148;Case study 12â&#128;&#153;:&#13;
+ http://ec.europa.eu/enterprise/policies/innovation/policy/business-innovation-observatory/files/case-studies/12-&#13;
+ she-accessibility-based-business-models-for-peer-to-peer-markets_en.pdf.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+13&#13;
+   European Commission, DG Enterprise and Industry (2013), â&#128;&#152;The sharing economy: Accessibility based business&#13;
+models for peer-to-peer markets â&#128;&#147; Case study 12â&#128;&#153;: http://ec.europa.eu/enterprise/policies/innovation/policy/business-&#13;
+innovation-observatory/files/case-studies/12-she-accessibility-based-business-models-for-peer-to-peer-&#13;
+markets_en.pdf&#13;
+14&#13;
+   https://www.lendingclub.com/&#13;
+15&#13;
+   https://www.prosper.com/&#13;
+&#13;
+&#13;
+                                                        -6-&#13;
+&amp;#12;Sharing economy startup companies are also successful in funding rounds with many keen&#13;
+investors, and the estimated market size is large and growing (figures 7a and 7b).&#13;
+&#13;
+ Figure 7a: There are investment opportunities in the sharing economy&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+ Source: http://www.gravitytank.com/pdfs/info_graphics/SharingEconomy_web.pdf.&#13;
+ Note: By December 2014, Uber was worth over $40bn, and Airbnb a rumored $13bn. 16 PwC also estimates that total&#13;
+ revenues for the five most prominent sharing economy sectors (peer-to-peer (P2P) finance, online staffing, P2P&#13;
+ accommodation, car sharing and music/video streaming) could rise from $15bn in 2014 to around $335 by 2025. 17&#13;
+&#13;
+&#13;
+ Figure 7b: Sharing economy firms are successful in funding rounds (June 2014)&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+ Source: http://venturebeat.com/2014/06/19/uber-and-airbnbs-incredible-growth-in-4-charts/.&#13;
+ Note: By December 2014, Uber was worth over $40bn, and Airbnb a rumored $13bn. 18&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+16&#13;
+   http://www.wsj.com/articles/ubers-new-funding-values-it-at-over-41-billion-1417715938 and&#13;
+http://upstart.bizjournals.com/money/loot/2015/01/05/companies-are-on-the-ipo-watch-list-for-2015.html?page=all&#13;
+17&#13;
+   http://pwc.blogs.com/press_room/2014/08/five-key-sharing-economy-sectors-could-generate-9-billion-of-uk-&#13;
+revenues-by-2025.html.&#13;
+18&#13;
+   http://www.wsj.com/articles/ubers-new-funding-values-it-at-over-41-billion-1417715938 and&#13;
+http://upstart.bizjournals.com/money/loot/2015/01/05/companies-are-on-the-ipo-watch-list-for-2015.html?page=all.&#13;
+&#13;
+&#13;
+                                                      -7-&#13;
+&amp;#12;The sharing economy offers opportunities for people across the demographic spectrum (Uber&#13;
+example in table 1) to generate an income (Uber example in table 2), either full time or part-time&#13;
+(Uber example in table 3), and/or as a complement to other employment, being a parent at home,&#13;
+or while in education.19&#13;
+&#13;
+Table 1: Characteristics of Uberâ&#128;&#153;s Driver-Partners, Taxi Drivers and All Workers&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Source: https://s3.amazonaws.com/uber-static/comms/PDF/Uber_Driver-Partners_Hall_Kreuger_2015.pdf.&#13;
+&#13;
+Note: The American Community Survey (ACS) data pertain to the same 20 Uber markets as the Benenson Strategy&#13;
+Group (BSG) survey, and are for 2012 and 2013.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+19&#13;
+     https://s3.amazonaws.com/uber-static/comms/PDF/Uber_Driver-Partners_Hall_Kreuger_2015.pdf.&#13;
+&#13;
+&#13;
+                                                     -8-&#13;
+&amp;#12;Table 2: Comparison of Median Hourly Earnings of Uber Driver-Partners and Hourly Wages of Taxi Drivers&#13;
+and Chauffeurs&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Source: https://s3.amazonaws.com/uber-static/comms/PDF/Uber_Driver-Partners_Hall_Kreuger_2015.pdf.&#13;
+&#13;
+Note: For Uber Driver-Partners: Uber. Data aggregated to the driver-month level and medians of hourly earnings&#13;
+reported for Uberâ&#128;&#153;s driver-partners who drove at least one hour a week during the month of October 2014. Earnings&#13;
+per hour are net of Uber fees but do not adjust for expenses. For OES Taxi Drivers and Chauffeurs: OES data from&#13;
+May 2013. OES average for all areas in last row is weighted by the number of taxi drivers and chauffeurs in the 20&#13;
+BSG market areas. The figure reported for Uber in the last row is the weighted average of median earnings per hour&#13;
+in the 20 market areas, where weights are the number of taxi drivers and chauffeurs in the market area. Abbreviations:&#13;
+BOS=Boston, CHI=Chicago, DC=Washington DC, NY=New York City, and SF=San Francisco.&#13;
+&#13;
+&#13;
+&#13;
+Table 3: Distribution of Uberâ&#128;&#153;s Driver-Partners and Taxi Drivers and Chauffeurs by Hours Worked (USA)&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Source: https://s3.amazonaws.com/uber-static/comms/PDF/Uber_Driver-Partners_Hall_Kreuger_2015.pdf.&#13;
+&#13;
+Note: Uber and 2012-13 American Community Survey. Data for Uber driver-partners pertain to each week when they&#13;
+worked at least one hour in October 2014. ACS hours based on â&#128;&#156;usual hours worked per week past 12 months.â&#128;&#157; All&#13;
+data are for BSG surveyed market areas.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                        -9-&#13;
+&amp;#12;                                Winners and losers in the sharing economy&#13;
+&#13;
+In the absence of official, or even comprehensive, statistics it is difficult to determine precisely&#13;
+who is participating in the sharing economy, and what the impacts and net effects are. In addition,&#13;
+outcomes will depend on the type of service under consideration, and may also differ between the&#13;
+user/consumer side and supply side of these transactions. For example, it can be argued that on the&#13;
+supply side, a person needs to own desirable assets (e.g. a car, housing, equipment) in order to&#13;
+share them. But certain companies offer help in acquiring the assets (e.g. Uber helping out with&#13;
+new car financing), and in other cases less desirable lower income housing may become a&#13;
+(sustainable tourism) tourist attraction, as in the case of Favela Experience20 in Brazil.&#13;
+&#13;
+On the user/consumer side, these services may make assets available to those who might otherwise&#13;
+not be able to afford them (car, machinery, tools, etc.). In the case of services that are more based&#13;
+on the availability of time, the general tendency appears to be for relatively lower wage type&#13;
+services to be supplied to relatively better off, often younger, urban professionals. In addition,&#13;
+some Internet (and mobile) connectivity and use is required to participate. Without access to the&#13;
+Internet, participation in the sharing economy is pretty much ruled out. This means that certain&#13;
+parts of the developed world (e.g. rural and/or remote areas) and parts of the developing world are&#13;
+unlikely to participate, at least in the near future. In the developing world in particular, affordable&#13;
+access and use may be a barrier, as well as the availability of supply. Many of these services also&#13;
+rely on credit cards and/or other online or mobile payment systems, which may exclude part of the&#13;
+developing world, for now. Much innovation is under way in developing and rolling out new&#13;
+(mobile) payment and financing mechanisms in order to grow financial inclusion beyond the&#13;
+traditional financial systems in place in the developed world.&#13;
+&#13;
+Opportunities&#13;
+&#13;
+Those who benefit in the sharing economy include the successful companies, their founders,&#13;
+owners, investors and employees, but also consumers who have more efficient access to (more of)&#13;
+these services. Participants in these service models benefit from the opportunity to generate income&#13;
+including as a supplement to other sources of income (figure 8). Indeed, in some cases, the sharing&#13;
+economy creates new full time employment opportunities, in other cases part-time opportunities&#13;
+or freelance and contracting opportunities, which allow people to complement their existing jobs&#13;
+or earn extra money while in education, for example.21&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+20&#13;
+  http://www.favelaexperience.com/&#13;
+21&#13;
+  For example, Jonathan Hall and Alan Krueger find that â&#128;&#156;drivers who partner with Uber appear to be attracted to&#13;
+the platform in large part because of the flexibility it offers, the level of compensation, and the fact that earnings per&#13;
+hour do not vary much with hours worked, which facilitates part-time and variable hoursâ&#128;&#157;.&#13;
+https://s3.amazonaws.com/uber-static/comms/PDF/Uber_Driver-Partners_Hall_Kreuger_2015.pdf&#13;
+&#13;
+&#13;
+                                                          - 10 -&#13;
+&amp;#12; Figure 8: Average additional income earned by sharing economy â&#128;&#152;providersâ&#128;&#153;&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+ Source: http://www.gravitytank.com/pdfs/info_graphics/SharingEconomy_web.pdf.&#13;
+&#13;
+&#13;
+It is clear that many participants on the supply side benefit from greater flexibility in choosing&#13;
+when to work or make assets available, and on the demand side users/consumers benefit from&#13;
+customized and/or on-demand services. The users/consumers may also benefit as they have a more&#13;
+efficient way to satisfy their needs, and in cases it may give them access to goods and services they&#13;
+might otherwise not be able to afford. For example, a person may not be able to buy a certain type&#13;
+of power tool, but they can afford to â&#128;&#152;shareâ&#128;&#153; it for an hour or a day without having to buy it&#13;
+themselves.22 Or someone may be able to just buy a personâ&#128;&#153;s time for the duration it takes to hang&#13;
+up a picture frame rather than having to employ a full-time handyman. At the aggregate level, the&#13;
+allocation and use of time and resources should become more efficient, and services gaps may be&#13;
+bridged. More efficient use of physical assets and other resources that might otherwise be idle&#13;
+should aid sustainable development. Especially in the developed world this can be seen as a&#13;
+positive development to counter some of the consumerist tendencies where people are thought to&#13;
+â&#128;&#152;have more than they needâ&#128;&#153;. Thus, sharing assets can be seen as putting less strain on societies&#13;
+going forward. In addition, more sharing can improve community welfare and reduce negative&#13;
+environmental impacts, including in developing countries.23&#13;
+&#13;
+Challenges&#13;
+&#13;
+In many cases, existing (traditional/ brick-and-mortar) companies with large and capital intensive&#13;
+physical asset inventoriesâ&#128;&#148;such as taxi companies and hotel chainsâ&#128;&#148;are most challenged by&#13;
+alternative models that manage asset allocation more efficiently. However, in theory, this creates&#13;
+more competition which should incite existing companies to innovate, change pricing policies, and&#13;
+improve the quality, delivery and efficiency of their services. Consumers are generally free to&#13;
+choose, so all companies can compete for their business. Provided the regulatory environment&#13;
+&#13;
+&#13;
+&#13;
+22&#13;
+   In the words of Brian Chesky, founder of Airbnb: â&#128;&#156;There are 80 million power drills in America that are used an&#13;
+average of 13 minutes. Does everyone really need their own drill?â&#128;&#157;;&#13;
+http://www.nytimes.com/2013/07/21/opinion/sunday/friedman-welcome-to-the-sharing-economy.html?_r=1&#13;
+23&#13;
+   http://www.nytimes.com/roomfordebate/2014/05/06/regulating-the-sharing-economy/a-digital-economic-opening-&#13;
+for-the-worlds-poor.&#13;
+&#13;
+&#13;
+                                                     - 11 -&#13;
+&amp;#12;adapts and enables new entrants and new business models, the overall impact on the economy&#13;
+should be positive.&#13;
+&#13;
+While workers in these sharing economy companies have employment/income generation&#13;
+opportunities, they may be disadvantaged longer term as current systems do not generally entitle&#13;
+them to benefits, health insurance, sick leave, unemployment insurance/benefits, pension schemes,&#13;
+or training. It is also likely that the competition from new â&#128;&#152;sharing economyâ&#128;&#153; business models will&#13;
+cause traditional business to constrain and reduce worker benefits and protections in order to&#13;
+compete effectively. Going forward it is important for governments and policy makers to think&#13;
+about how to address the implications of these social aspects of the sharing economy. One example&#13;
+would be a system where benefits are â&#128;&#152;portableâ&#128;&#153;â&#128;&#148;attached to the person rather than the job or&#13;
+companyâ&#128;&#148;so workers take it with them wherever they go.&#13;
+&#13;
+Barriers&#13;
+&#13;
+The main barriers in the sharing economy revolve around regulation, (access to affordable and&#13;
+high class) infrastructure, and trust in the online economy. In many cases regulation is outdated&#13;
+and cannot accommodate the implications of the technologies and services offered in the new&#13;
+sharing economy. Keeping pace with rapid changes in marketsâ&#128;&#148;particularly those driven by&#13;
+technologyâ&#128;&#148;has been a perennial problem for policy makers and regulators. The tendency is to&#13;
+regulate or control that which is not yet well understood or appears to be (too) disruptive to existing&#13;
+models. In developing countries, and in parts of developed countries, infrastructure (hard and soft)&#13;
+can also act as a barrier. Indeed, the hard (physical) infrastructure has to be available to be able to&#13;
+create platform services that run on top of the infrastructure. People must also have the skills and&#13;
+tools (affordable broadband connections, smart phones etc.) to use them. Trust is another key&#13;
+ingredient in the sharing economy eco-system, both in terms of the treatment of the personal data&#13;
+that are collected, stored and used by the companies offering the services, and also in the reliability&#13;
+and quality of the service delivery (e.g. getting packages undamaged and on-time, by delivery staff&#13;
+who are professional and have been vetted including through background checks). Indeed, Uber&#13;
+(for example) has had incidents in which drivers have been accused of criminal and/or harmful&#13;
+activities. The absence of, or lack of access to, some form of credit card or online/mobile payment&#13;
+systems may also exclude people from being able to use sharing economy type services.&#13;
+&#13;
+New divides&#13;
+&#13;
+New â&#128;&#152;sharing economy dividesâ&#128;&#153; may be appearing in terms of the availability of sharing economy&#13;
+type services offerings and supply opportunities. Some of the â&#128;&#152;on -demandâ&#128;&#153; services (such as&#13;
+delivery, picking up and shipping parcels, food preparation and delivery, washing/dry cleaning,&#13;
+etc.) are in great demand in particular by relatively well-off professionals in urban areas, but&#13;
+possibly less so in more remote or poor areas. As these services tend to require volume and scale,&#13;
+they are also unlikely to be available in areas with less population density and/or in more remote&#13;
+rural areas. At the same time, there might be less demand for certain types of services too (for&#13;
+example, the delivery service Parcel24 acts as a middle man in delivery in buildings in urban areas&#13;
+where there is no one to sign for UPS and FedEx deliveries when the customer is not at home,&#13;
+whereas in rural areas packages can often be left outside the home). The availability of affordable&#13;
+&#13;
+24&#13;
+     https://fromparcel.com/.&#13;
+&#13;
+&#13;
+                                                - 12 -&#13;
+&amp;#12;and reliable infrastructure can be another divider. If people do not have the sharing economy&#13;
+technology, tools and skills they cannot participate in the sharing economy (this can be seen as an&#13;
+extension of the so-called â&#128;&#152;digital divideâ&#128;&#153;). Hence, there is a divide in who has access to the sharing&#13;
+economy services, either through affordable infrastructure availability, and/or through the services&#13;
+offering available.&#13;
+&#13;
+                                            Growth opportunities&#13;
+&#13;
+Developing countries&#13;
+&#13;
+The argument is often made that many of the sharing economy type services (e.g. delivery services,&#13;
+concierge type services) already exist in developing countries, but informally. Even when this is&#13;
+the case, there is scope to make the process more efficient, and more beneficial (if more people&#13;
+can benefit from consuming the services and/or from becoming a supplier of the services) through&#13;
+the use of the sharing economy technologies and platforms. In developed countries, the shift to&#13;
+platform services based employment could be seen as a shift to more informal types of working&#13;
+arrangements, more â&#128;&#152;informalâ&#128;&#153; ways to generate income, whereas in developing countries it could&#13;
+be seen as a way to formalize services that already existed informally while also increasing the&#13;
+opportunities and scope for innovation and creation of new services. A local development&#13;
+argument can also be made in locations where sharing economy companies offer their services, in&#13;
+particular if/when they use local workers, and if it leads to agglomeration effects. If these&#13;
+companies invest in a locality it may improve the infrastructure (or the infrastructure may have&#13;
+been improved to attract them), create more local investment, attract other businesses, and create&#13;
+(more) employment opportunities.&#13;
+&#13;
+It can also be argued that the â&#128;&#152;sharing economyâ&#128;&#153; attributes may be more inclusive and provide&#13;
+more economic opportunities for developing countries. For example, it is sometimes argued that&#13;
+the user/customer review system used by many â&#128;&#152;sharing economyâ&#128;&#153; type services can overcome&#13;
+some of the informational problems that traditionally justify regulation. Take the review systems&#13;
+used by Uber and Airbnb on both the supply side (drivers and accommodation) and the customer&#13;
+side. These systems might (arguably) be able to bypass the need for more formal regulation to&#13;
+maintain certain standards and safeguards: â&#128;&#156;in a country with a corrupt government, would you be&#13;
+more confident having a cab driver with a long list of good reviews or one with a bureaucratically&#13;
+issued license?.â&#128;&#157;25 Many developing countries are still plagued by issues that can make doing&#13;
+business there in the traditional sense and/or with large companies and fixed investments&#13;
+unattractive, such as unreliable or corrupt governance, difficulties in access to funding, weak/non-&#13;
+existent regulation and enforcement of (intellectual) property rights, business models that require&#13;
+large amounts of capital investment that is not footloose (i.e. not easy to pull out or move rapidly).&#13;
+However, sharing economy business models provide opportunities that can bypass many of these&#13;
+weaknesses as they typically require less capital investment, can benefit from peer or crowd&#13;
+funding type models, and the peer-to-peer and review systems may help overcome the governance&#13;
+and regulatory issues.&#13;
+&#13;
+In spite of differences in culture and attitudes, which could be a barrier to doing business and or&#13;
+engaging in transactions and exchanges online, a 2014 Nielsen survey found a relatively high&#13;
+&#13;
+25&#13;
+     http://www.forbes.com/sites/modeledbehavior/2014/08/04/the-sharing-economy-and-developing-countries/.&#13;
+&#13;
+&#13;
+                                                      - 13 -&#13;
+&amp;#12;willingness of online consumers in developing regions to participate in the sharing economy,&#13;
+showing â&#128;&#156;how the web can quickly become part of the culture.â&#128;&#157; The report argues that â&#128;&#156;online&#13;
+consumers in developing markets often represent a younger and more affluent demographic than&#13;
+the general population, which can contribute to greater eagerness and enthusiasm.â&#128;&#157;26 However, it&#13;
+may also be the case that some of these services already existed informally, and that the willingness&#13;
+to â&#128;&#152;shareâ&#128;&#153; was already more part of the culture in some countries.&#13;
+&#13;
+Substitution or complementarity?&#13;
+&#13;
+How much the sharing economy contributes to growth and employment opportunities will in part&#13;
+also depend on whether it substitutes or complements the traditional economy. This is a difficult&#13;
+question to answer, at least for now, as the answer may depend on the type of service, and/or may&#13;
+change over time. If people rent (share) their car, house or tools rather than using traditional taxi&#13;
+services, staying at hotels, or buying their own tools there are substitution effects at play. If the&#13;
+availability of shared services makes them more affordable it can also lead to additional&#13;
+complementary consumption. For example, in the case of Airbnb, if the availability of cheaper&#13;
+accommodation increases the number of people who can travel, and/or increases the length of stay,&#13;
+potentially increasing the total amount of local spending, there may still be positive growth effects&#13;
+in spite of a substitution effect, especially when these factors also increase associated consumption&#13;
+(e.g. eating out in restaurants, visiting tourist attractions, buying souvenirs). Some services may&#13;
+act as a complement to existing products and services (e.g. Parcel delivers in cases where UPS or&#13;
+FedEx cannot deliver, thus acting as a complement). The sharing economy also allows for hyper-&#13;
+specialization and customization which creates niches that might otherwise be challenging to&#13;
+supply. It is difficult to predict today how the overall aggregate effects will play out. While there&#13;
+is a lot of disruption in some sectors, in does not necessarily have to mean destruction.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+26&#13;
+     http://www.nielsen.com/lb/en/press-room/2014/global-consumers-embrace-the-share-economy.html.&#13;
+&#13;
+&#13;
+                                                     - 14 -&#13;
+&amp;#12;</ml:original-txt><ml:search-metadata><doc id="25858858">
+        <url>
+            http://documents.worldbank.org/curated/en/2016/02/25858858/world-development-report-2016-digital-dividends-sharing-caring-not-quite-some-observations-sharing-economy
+        </url>
+        <availablein>English</availablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2016/02/25858858/world-development-report-2016-digital-dividends-sharing-caring-not-quite-some-observations-sharing-economy</url_friendly_title>
+        <new_url>2016/02/25858858/world-development-report-2016-digital-dividends-sharing-caring-not-quite-some-observations-sharing-economy</new_url>
+        <disclosure_date>2016-02-02T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2016-02-02T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <docm_id>090224b08412d627</docm_id>
+        <chronical_docm_id>090224b08412d627</chronical_docm_id>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2016/02/02/090224b08412d627/1_0/Rendered/INDEX/World0developm00the0sharing0economy.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2016/02/02/090224b08412d627/1_0/Rendered/PDF/World0developm00the0sharing0economy.pdf</pdfurl>
+        <datestored>2016-02-02T00:00:00Z</datestored>
+        <docdt>2016-01-01T04:22:05Z</docdt>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            World development report 2016 : digital
+            dividends - sharing is caring? : not quite some observations
+            about the sharing economy
+        </repnme>
+        <abstracts>
+            Fast evolving cloud-computing platforms
+            that enable new business models, combined with a rapid
+            uptake in digital technologies by consumers and a change in
+            consumer behavior and preferences have enabled the emergence
+            of sharing economy. It seems that for sharing economy users,
+            access to assets is more important than ownership of such
+            assets. In sharing economy transactions there is generally
+            an exchange of money, as users and consumers are clearly
+            willing to pay for this sharing, and often the creation of
+            some form of employment. There are two types of services
+            provided by the sharing economy platform based companies.
+            The first category is comprised of those services that
+            enable the sharing of physical assets. The second category
+            is more of a matching service perse, matching those with
+            time to do things with those who need the services of that
+            time. The main innovation in the sharing economy business
+            model comes from the technology platforms and mobile apps
+            that bring together and aggregate demand and supply in ways
+            that were not possible before (faster, cheaper, and more
+            efficiently allocated and coordinated) - including in
+            geographical areas and service sectors where less density
+            will make this more complicated, creating new business opportunities.
+        </abstracts>
+        <docna>
+            World development report 2016 : digital
+            dividends - sharing is caring? : not quite some observations
+            about the sharing economy
+        </docna>
+        <display_title>World development report 2016 :
+            digital dividends - sharing is caring? : not quite some
+            observations about the sharing economy</display_title>
+        <listing_relative_url>/research/2016/01/25858858/world-development-report-2016-digital-dividends-sharing-caring-not-quite-some-observations-sharing-economy</listing_relative_url>
+        <topic>ICT Innovation Methodologies m1325946 2401,Broadband Networks m1327576 291,Network Management m1325939 672,Smart Networks m1326607 2368,ICT Infrastructure m1326395 667</topic>
+        <subtopic>ICT Policy and Strategies,Technology Industry,Transport Economics Policy &amp; Planning,Economic Theory &amp; Research,Housing &amp; Human Habitats</subtopic>
+        <docty>World Development Report</docty>
+        <teratopic>Communities and Human Settlements,Industry,Transport,Information and Communication Technologies,Macroeconomics and Economic Growth</teratopic>
+        <count>World</count>
+        <authors>
+            <author>Van Welsum,Desiree</author>
+        </authors>
+        <entityids>
+            <entityid>090224b08412d627_1_0</entityid>
+        </entityids>
+        <admreg>The World Region,The World Region</admreg>
+        <colti>World development report</colti>
+        <lang>English</lang>
+        <historic_topic>Communities and Human Settlements,Industry,Transport,Information and Communication Technologies,Macroeconomics and Economic Growth</historic_topic>
+        <topicv3>ICT Innovation Methodologies m1325946 2401,Broadband Networks m1327576 291,Network Management m1325939 672,Smart Networks m1326607 2368,ICT Infrastructure m1326395 667</topicv3>
+        <majdocty>Publications,Publications &amp; Research</majdocty>
+        <keywd>
+            skills, unemployment, technology, equipment,
+            travel, computing, business opportunities, wages, policies,
+            consumer behavior, participation, cars, income, value,
+            credit, homes, environmental impacts, walkers, property
+            rights, demand, accessibility, systems, services, aggregate
+            demand, population density, urban areas, household, housing,
+            consumers, economy, welfare, health, business models,
+            models, assets, bicycles, system, san, market, traditional
+            economy, cities, wealth, policy, taxi drivers, devices,
+            internet, taxi services, trends, car, drivers, goods,
+            theory, substitution effect, digital, investment, phones,
+            hotels, training, favela, transport, rural areas, partners,
+            rent, logistics, investments, it, funding, trips, markets,
+            connectivity, community, at, digital technologies, capital
+            investment, technologies, outcomes, dividends, inventories,
+            appliances, service, car sharing, broadband, renting, html,
+            attributes, dog walkers, hotel, digital divide, infrastructure
+        </keywd>
+        <owner>World Development Report (DECWD)</owner>
+        <repnb>102963</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>ICT</ml:concept><ml:concept>ICT for Development</ml:concept><ml:concept>Information Technology</ml:concept><ml:concept>Information and Communication Technologies (ICT)</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Social Protections and Labor</ml:concept><ml:concept>International Competitiveness</ml:concept><ml:concept>International Economics and Trade</ml:concept><ml:concept>Trade Liberalization</ml:concept><ml:concept>Trade Liberalization and Regional Integration</ml:concept><ml:concept>Trade Restrictiveness</ml:concept><ml:concept>Trade and Integration</ml:concept><ml:concept>City Development Strategies</ml:concept><ml:concept>Information and Communication Technologies</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Health, Nutrition and Population</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Social Protection and Labor</ml:concept><ml:concept>Trade</ml:concept><ml:concept>Urban Development</ml:concept><ml:concept>Human Resource Management Capacities</ml:concept><ml:concept>Human Resource Management Systems</ml:concept><ml:concept>Staffing Needs Assessments</ml:concept><ml:concept>Nutritional supplements</ml:concept><ml:concept>Vitamins</ml:concept><ml:concept>ICT Policy and Strategies</ml:concept><ml:concept>ICT Sector Development</ml:concept><ml:concept>Business Models</ml:concept><ml:concept>Payment Instruments</ml:concept><ml:concept>Payment Systems &amp; Infrastructure</ml:concept><ml:concept>Securities Settlement Systems</ml:concept><ml:concept>Settlement Systems</ml:concept><ml:concept>Financial Inclusion Strategies</ml:concept><ml:concept>Pensions &amp; Retirement Systems</ml:concept><ml:concept>Demographics</ml:concept><ml:concept>Mobile Money</ml:concept><ml:concept>Mobile Payments</ml:concept><ml:concept>Governance and Public Accountability (GPA)</ml:concept><ml:concept>Incentives for Good Government</ml:concept><ml:concept>National Governance</ml:concept><ml:concept>Wage Setting</ml:concept><ml:concept>Wages, Compensation and Benefits</ml:concept><ml:concept>Connectivity</ml:concept><ml:concept>Lagging Regions</ml:concept><ml:concept>Consumption</ml:concept><ml:concept>Income</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Human Resources</ml:concept><ml:concept>Health Insurance</ml:concept><ml:concept>Supplements</ml:concept><ml:concept>Sick Leave</ml:concept><ml:concept>Infrastructure</ml:concept><ml:concept>ICT Strategy, Policy and Regulation</ml:concept><ml:concept>Telecommunications Organizational Design</ml:concept><ml:concept>Payment Systems</ml:concept><ml:concept>Financial Inclusion</ml:concept><ml:concept>Pensions</ml:concept><ml:concept>Population</ml:concept><ml:concept>Electronic Payments</ml:concept><ml:concept>Governance</ml:concept><ml:concept>Wages</ml:concept><ml:concept>Connectivity and Lagging Regions</ml:concept></ml:concepts><ml:geo-regions/></ml:annotations></ml:doc-envelope>

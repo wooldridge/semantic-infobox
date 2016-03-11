@@ -1,0 +1,1124 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>                                                81121&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                          23/2013&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+     Caseflow Management&#13;
+                      &amp;#3;&#13;
+&#13;
+         Key Principles&#13;
+and the Systems to Support Them&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Dr. Heike P. Gramckow and Valerie Nussenblatt&#13;
+&amp;#12;About the Justice and Development Working Paper Series&#13;
+&#13;
+The Justice and Development Working Paper Series serves as a platform for new and innovative&#13;
+thinking on justice and development that features work from World Bank and external authors. It&#13;
+is a product of the World Bankâ&#128;&#153;s Justice Reform Practice Group, which generates knowledge and&#13;
+provides advice and assistance to Bank staff and Bank client countries on improving state and&#13;
+nonstate justice system institutions and mechanisms. Justice and Development disseminates the&#13;
+findings of works in progress to facilitate a more rapid exchange of ideas about development&#13;
+issues and justice reform.&#13;
+&#13;
+Editorial Policy&#13;
+&#13;
+ The Justice and Development Working Paper Series publishes original research papers on law,&#13;
+ justice, and development. Publication proposals may be made by Bank staff and external&#13;
+ contributors. Manuscripts must be in English and no longer than 25â&#128;&#147;40 pages. They can be&#13;
+ submitted at any time. All submitted papers will be acknowledged and carefully reviewed by the&#13;
+ editorial committee. Criteria for selection include rigorous scholarship and topics about&#13;
+ innovative approaches to law, justice, and development generally, particularly topics related to&#13;
+     x institutional reform of justice sector agencies&#13;
+     x justice in development, including community legal empowerment and access to justice&#13;
+         programming&#13;
+     x criminal justice reform and administration&#13;
+     x justice systems in conflict-affected and fragile areas&#13;
+     x monitoring and evaluation of justice systems and projects.&#13;
+Inquiries:                                 Telephone: +1 202 473 5941&#13;
+Justice Reform Practice Group              Email: justicedevelopmentworkingpapers@worldbank.org&#13;
+The Legal Vice Presidency                  Website: www.worldbank.org/lji&#13;
+The World Bank&#13;
+1818 H Street NW&#13;
+Washington DC 20433, USA&#13;
+&#13;
+&#13;
+Disclaimer:&#13;
+This working paper is published to promote the World Bankâ&#128;&#153;s work to the development community with the least possible delay.&#13;
+The manuscript of this paper therefore has not been prepared in accordance with the procedures appropriate to formally edited&#13;
+texts. Some sources cited in this paper may be information documents that are not readily available. The findings, interpretations&#13;
+and conclusions expressed herein are those of the author(s) and do not necessarily reflect the views of the International Bank&#13;
+for Reconstruction and Development, the World Bank and its affiliated organizations, or those of the executive directors of the&#13;
+World Bank or the governments they represent. The World Bank does not guarantee the accuracy of the data included in this&#13;
+work. The boundaries, colors, denominations and other information shown on any map in this work do not imply any judgment&#13;
+on the part of the World Bank of the legal status of any territory or the endorsement or acceptance of such boundaries.&#13;
+&#13;
+&#13;
+Â© 2013 The International Bank for Reconstruction and Development/The World Bank&#13;
+&amp;#12;Table of Contents&#13;
+&#13;
+&#13;
+Foreword .................................................................................................................................................. ii&#13;
+About the Authors ................................................................................................................................. ii&#13;
+Abstract .................................................................................................................................................... 1&#13;
+1. Introduction ....................................................................................................................................... 1&#13;
+2. What is Caseflow Management within a Court Environment? .......................................... 2&#13;
+3. What are Case Management Information Systems? ............................................................. 4&#13;
+   3.1 Core Functions to Promote Efficiency .............................................................................................. 4&#13;
+   3.2 Extended Functionalities ....................................................................................................................... 6&#13;
+   3.3 Core System Functions and Terminology........................................................................................ 7&#13;
+4. Planning for, Selecting, and Implementing New Case Management Software ............ 9&#13;
+   4.1 Assessment and Planning ................................................................................................................... 10&#13;
+   4.2 Procurement Decisions ....................................................................................................................... 11&#13;
+   4.3 Development and Testing ................................................................................................................... 12&#13;
+   4.4 Implementation ...................................................................................................................................... 14&#13;
+5. Conclusions ....................................................................................................................................... 14&#13;
+References ............................................................................................................................................. 15&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                              i&#13;
+&amp;#12;Foreword&#13;
+This short working paper is based on a document that was originally written at the request of the&#13;
+Ministry of Justice of Morocco. The aim was to provide a brief overview of and introduction to&#13;
+the key principles of case management and case management systems, as well as software&#13;
+solutions to support such systems. Since such information is often requested by Bank staff and&#13;
+judiciaries that are starting to embark on reforms that include process enhancements and&#13;
+automation, the paper was adjusted to reflect the needs of other judiciaries that are in similar&#13;
+situations. This paper provides a quick overview of case management for courts, the systems to&#13;
+support it and general steps involved in planning for and implementing appropriate case&#13;
+management approaches and automation that reflects the needs and capacities of the jurisdiction.&#13;
+A more detailed guide to the development of automated case management systems that outlines&#13;
+the alternatives available and steps involved in more detail and in light of a typical lending&#13;
+project cycle will also be available shortly.&#13;
+&#13;
+About the Authors&#13;
+Dr. Heike Gramckow is a Lead Counsel with the Justice Reform Group in the Legal Vice&#13;
+Presidential Unit of The World Bank in Washington, DC, where she advises on justice reform&#13;
+issues and conducts related research. She has been working on justice sector reform issues for&#13;
+nearly 30 years. Before joining the Bank, she was Deputy Director of the International Division&#13;
+of the National Center for State Courts and served as Director for Research and Development for&#13;
+the American Prosecutors Research Institute.&#13;
+&#13;
+During her career, Dr. Gramckow has worked with courts, prosecutors, and police in the United&#13;
+States and throughout the world, especially on justice system management and reform. She has&#13;
+directed several justice reform programs, conducted justice system assessments, and provided&#13;
+advice on justice sector reform to the governments of numerous countries, including Argentina,&#13;
+Bosnia, Bulgaria, Egypt, Germany, Haiti, Hungary, Indonesia, Kenya, Mali, Mexico, Mongolia,&#13;
+Morocco, Nigeria, Papua New Guinea, Romania, Saudi Arabia, Serbia, Syria, the United Arab&#13;
+Emirates, and the United States. She has worked with common law and civil law systems as well&#13;
+as with Shariâ&#128;&#153;a courts and other traditional justice systems. She has trained judges, prosecutors,&#13;
+and court personnel on management, budget and strategic planning, reengineering, and&#13;
+substantive issues, such as victim assistance, drug case management, juvenile offenders, and&#13;
+domestic violence. She also provided advice on establishing sustainable mechanisms for&#13;
+continuing education, introducing effective information technology and communications (ITC)&#13;
+solutions, and designing good governance structures that support democratic and accountable&#13;
+agencies.&#13;
+&#13;
+Dr. Gramckow holds a law degree and a doctorate in law from the University of Hamburg,&#13;
+Germany. She has taught undergraduate and graduate courses on international criminal justice&#13;
+systems and juvenile justice at American University and the George Washington University in&#13;
+Washington, DC, and is widely published in the United States and internationally.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                ii&#13;
+&amp;#12;Valerie Nussenblatt, Esq. is a consultant in the World Bank's Africa Region specializing in&#13;
+justice sector issues and competitiveness. She has also worked in the Bank's Justice Reform&#13;
+Practice Group in the Legal Vice Presidency of the World Bank in Washington DC providing&#13;
+analysis and support to Bank operations. She holds a law degree from the University of&#13;
+Maryland School of Law, and a masters degree in International Relations from the London&#13;
+School of Economics and Political Science.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                            iii&#13;
+&amp;#12;    Caseflow Management: Key Principles and the&#13;
+             Systems to Support Them&#13;
+&#13;
+                     by Dr. Heike P. Gramckow and Valerie Nussenblatt&#13;
+&#13;
+                                          Abstract&#13;
+It has become increasingly clear that courts across the globe must do more to better organize and&#13;
+manage their caseload and that automation alone is not the answer. In response to this need,&#13;
+caseflow management has emerged to become the central method of promoting greater court&#13;
+responsibility and accountability for efficient case processing. For over thirty years court case&#13;
+management concepts have evolved, starting in the US, spreading to other industrialized&#13;
+common law countries initially. Yet, for many judicial systems, the concept, techniques, and&#13;
+supporting systems of caseflow management are still relatively new ideas that need to be more&#13;
+fully understood. This paper helps develop a basic understanding of caseflow management by&#13;
+defining the concept, outlining the various techniques used, presenting in general the different&#13;
+case management information systems that support those techniques, and outlining the core steps&#13;
+a judicial system can take to plan for, select, and implement case management software. The aim&#13;
+is to provide an introduction for assisting judiciaries in developing a caseflow management&#13;
+approach that works best in their own environment.&#13;
+&#13;
+1. Introduction&#13;
+The notion that courts need to have mechanisms in place to actively control and manage their&#13;
+caseload beyond the processing rules laid out in procedural codes is a relatively new one. The&#13;
+first country to recognize the need for active case management within a court setting was the&#13;
+United States. Beginning in the 1970s, courts there began&#13;
+to apply case management techniquesâ&#128;&#148;or more precisely        Track Record&#13;
+caseflow management. Based on workflow management            Case management techniques were&#13;
+techniques developed by management improvement               first applied in the United States in&#13;
+experts in other sectors, courts started to develop          the late 1970s. Today, these&#13;
+approaches that would help keep track of cases, thus         techniques are applied in courts on&#13;
+ensuring that they would move through the court system in    every continent and in countries&#13;
+a more efficient manner, and also providing information to   that follow different legal traditions&#13;
+allocate time and resources based on case requirements       and have different judicial needs.&#13;
+(Steelman 1997, 158â&#128;&#147;60).                                     This includes countries such as&#13;
+                                                                Chile and Mexico, Jordan and&#13;
+                                                                Egypt, Nigeria and South Africa,&#13;
+The lessons and experiences of various U.S. jurisdictions       Macedonia and Ukraine, Singapore&#13;
+were first replicated in Canada and other industrialized        and Hong Kong, and Mongolia and&#13;
+common law jurisdictions, such as the United Kingdom,           the Philippines.&#13;
+Ireland, and Australia. In the late 1980s, the first civil law&#13;
+jurisdictions to experiment with these approaches were the evolving democracies in Latin&#13;
+America, largely as a result of U.S.-influenced development assistance. Since then, and&#13;
+particularly since the beginning of the 21st century, caseflow management has become the&#13;
+&#13;
+                                                1&#13;
+&amp;#12;defining element across the globe of greater court responsibility and accountability for efficient&#13;
+case processing without sacrificing quality, not just in high-income countries and irrespective of&#13;
+the underlying legal framework. Nevertheless, for many judiciaries, the concepts of caseflow&#13;
+management, the systems required to implement good case management techniques, and the&#13;
+automated solutions to support those systems are all new ideas that still need to be more fully&#13;
+understood to develop approaches that work best in each courtâ&#128;&#153;s own environment.&#13;
+&#13;
+2. What is Caseflow Management within a Court&#13;
+Environment?&#13;
+Caseflow management is a set of principles and techniques that enhance greater processing&#13;
+efficiency, thereby reducing delays and case backlogs and encouraging generally better services&#13;
+from courts. Caseflow management promotes early court control of cases and active court&#13;
+management of the progression of cases from initial filing to disposition, covering all phases,&#13;
+including those that follow the initial&#13;
+disposition, such as appeals and&#13;
+enforcement.1 It provides for greater          Standard Management Principles&#13;
+predictability of court events, which can      The standard principles courts apply to manage&#13;
+increase public trust, and also increases the  cases efficiently include:&#13;
+transparency and accountability of courts&#13;
+                                               x Introduction of early court engagement in&#13;
+due to greater adherence to standardized           managing case information exchanges and&#13;
+processing steps and better reporting              continuous monitoring of case progress&#13;
+capacities.                                    x Creation of realistic schedules and meaningful&#13;
+                                                         pretrial court events that aim at early disclosure,&#13;
+Although courts have differed in how they                reducing late process motions, and facilitating&#13;
+apply caseflow management concepts                       early settlement&#13;
+depending on their own needs and local               x   Development of fast and reliable notification&#13;
+legal culture, courts across the globe have              options&#13;
+applied standard principles to manage cases          x   Introduction of feasible early and alternative&#13;
+efficiently that have evolved into a set                 settlement options for some or all dispute issues&#13;
+range of caseflow management techniques.             x   Establishment of firm and realistic appearance&#13;
+The underlying principle is thatâ&#128;&#148;in                      dates and other procedural timelines internally&#13;
+compliance with the guiding procedural                   and externally&#13;
+codesâ&#128;&#148;the court, and not lawyers or                  x   Development of different processing tracks that&#13;
+                                                         allow for swift processing of simple cases and&#13;
+litigants, controls the manner in which each&#13;
+                                                         adequate timelines for more complex case types&#13;
+case will be processed through the system.&#13;
+                                                     x   Team management of court cases and court&#13;
+                                                         calendars by the judge and court staff&#13;
+In order to develop meaningful rules for             x   Transfer of administrative responsibilities from&#13;
+implementing     caseflow    management,                 judges to court support staff&#13;
+courts first must review their own                   x   Development of mechanisms that control&#13;
+operations and then define performance                   frivolous appeals and allow for reasonable limits&#13;
+goals and measures, such as creating                     to appeals in minor cases&#13;
+timelines for processing cases that follow&#13;
+&#13;
+1&#13;
+ See for example, the description of caseflow management on the website of the National Association of Court&#13;
+Management, at http://www.nacmnet.org/CCCG/cccg_3_corecompetency_cfm.html.&#13;
+&#13;
+                                                     2&#13;
+&amp;#12;acceptable time standards for different case types and processing steps, and adjusting work&#13;
+practices to be more efficient to better meet these goals. Such changes require different and more&#13;
+consistent administrative actions from court staff as well as changes in the judgeâ&#128;&#153;s role in the&#13;
+process.&#13;
+&#13;
+The following caseflow management techniques have been developed and are currently being&#13;
+applied to address several of the above principles:&#13;
+&#13;
+    x   Timelines for key case processing steps, such as from filing to notification, from&#13;
+        notification to first hearing, and so forth. These timelines will need to differ by case&#13;
+        complexity to focus resources toward processing cases in a timely fashion without&#13;
+        sacrificing fairness and quality. Realistically, such timelines will allow for some flexibility&#13;
+        by case type and for special circumstances; ideally, they are also combined with certain&#13;
+        enforcement measures, such as fines or even case dismissal to ensure discipline among all&#13;
+        parties involved.&#13;
+&#13;
+    x   Firm and credible hearing dates and limits to the number of hearing adjournments,&#13;
+        meaning that the court establishes and publishes hearing dates and policies that allow for&#13;
+        reasonable adjournment justifications, and enforces its own rules within a reasonable&#13;
+        margin of discretion.&#13;
+&#13;
+    x   Pretrial and scheduling conferences to narrow down contentious issues and evidentiary&#13;
+        questions before the trial, while discouraging unnecessary pretrial motions or other delay&#13;
+        tactics. These also help ensure that all parties understand what information needs to be&#13;
+        provided when and what each party is expected to do at each processing stage.&#13;
+&#13;
+    x   Early disclosure requirements and limits to late submission of evidence to ensure that both&#13;
+        parties are aware of the evidence that will be presented and that available evidence is not&#13;
+        held back to delay the trial and force trial continuations.&#13;
+&#13;
+    x   Alternative dispute settlement processes that may encompass a broad range of options to&#13;
+        resolve cases through mediation outside of the court or as a court-annexed function,&#13;
+        arbitration, and the establishment of small claims courts. For criminal cases this can mean&#13;
+        the introduction of case deferrals pending completion of a condition and certain forms of&#13;
+        negotiating charges and sentences via plea agreements.&#13;
+&#13;
+    x   Summary judgments and similar forms of no contest processes that allow courts to make a&#13;
+        decision without a trial, often based on written statements and evidence presented for the&#13;
+        record when there is no dispute as to the facts of the case and one party is entitled to&#13;
+        judgment as a matter of law.2&#13;
+&#13;
+    x   Differentiated case management (DCM) processes that provide multiple tracks for case&#13;
+        disposition with differing procedural requirements and timeframes depending on the&#13;
+        complexity of the case type. Based on the different processing needs, courts establish&#13;
+&#13;
+2&#13;
+    See http://www.answers.com/topic/summary-judgment.&#13;
+&#13;
+                                                         3&#13;
+&amp;#12;     special track timelines and a screening process to assign cases to the appropriate tracks.&#13;
+     Courts then continuously monitor case progress to ensure adherence to track deadlines and&#13;
+     requirements, and establish procedures for changing the track assignment if needed&#13;
+     (Cooper, Solomon, and Bakke 1993; NCSC 2001a, 28). DCM projects can potentially&#13;
+     reduce case processing times and increase court productivity because greater numbers of&#13;
+     cases can be handled more efficiently without sacrificing quality or increasing resources&#13;
+     (see Jacoby, Gramckow, and Ratledge 1992).&#13;
+&#13;
+Caseflow management also means that the court develops the operational policies and tools to&#13;
+guide and adhere to new procedures, assesses and adjusts resource needs to effectively manage&#13;
+cases, monitors performance and outcomes to assure quality and justice, and effectively&#13;
+communicates processing standards and requirements internally and externally.&#13;
+&#13;
+3. What are Case Management Information Systems?&#13;
+Case management information systems (CMIS) are tools that support caseflow management&#13;
+either manually and in hard copy or, with the advancement of technology, more commonly,&#13;
+through automation. A good CMIS is developed to support the above outlined caseflow&#13;
+management techniques and the related organizational functions throughout the entire court&#13;
+process. If appropriate case management techniques are developed and translated into CMIS,&#13;
+they offer the ability to effectively track the status of cases and their position in the court process,&#13;
+support the development of caseload and possibly workload statistics and management reports,&#13;
+and monitor case processes, all of which contribute to performance monitoring. Regularly&#13;
+gathered statistical information of the flow of cases&#13;
+through the court process can identify process                 Varying Degrees of Computerization&#13;
+bottlenecks and case delays, which together can&#13;
+inform about needed resource and process                       Case management information systems&#13;
+adjustments. CMIS, whether automated or not, also              are not always computerized. In fact, the&#13;
+provide judges with the information needed to control          degree of sophistication varies among&#13;
+timely processing and produce a complete and reliable          case management systems applied in&#13;
+case record. Since such a system helps locate and              courts across the globe, as does the&#13;
+preserve case records (see USAID 2001), it can also            degree of automation. Case management&#13;
+                                                               and related data collection does not&#13;
+facilitate and likely reduce appellate reviews.&#13;
+                                                              require automation, since the focus is on&#13;
+3.1 Core Functions to Promote                                 realistic rules for moving cases forward&#13;
+                                                              and solid mechanisms to track and&#13;
+Efficiency                                                    enforce adherence to these rules. Still,&#13;
+                                                              automation can greatly enhance the&#13;
+There are some core functions that CMIS usually               speed, reliability, monitoring, and&#13;
+support to ensure that cases move efficiently through         tracking of case processes, resulting in&#13;
+the court, regardless of the type of case or the legal        better reporting and analytical capacities&#13;
+system in which the court is operating (USAID 2001;           to guide the management of cases.&#13;
+Gramckow 2005). They include:&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                   4&#13;
+&amp;#12;    1) Controlling data and defining electronic, paper, and other media3 input to case records.&#13;
+       The system provides control over the format and content of forms that have to be entered&#13;
+       into court records. It delineates the information and case papers that need to be submitted&#13;
+       and in which form for the creation of valid and complete court records, ensuring uniformity&#13;
+       of the data elements entered into the CMIS and ultimately the completeness of the record.&#13;
+&#13;
+    2) Establishing record control. The system establishes a framework for record control by&#13;
+       assigning numerical identifiers to the case; by entering the case into the index by number,&#13;
+       date of filing, or names of parties; and by creating a folder located in the record system.&#13;
+&#13;
+    3) Managing case processing and record updating. The system maintains and continuously&#13;
+       updates records and case histories, allowing for the caseâ&#128;&#153;s status and progress to be traced&#13;
+       and delays to be detected. This also provides judges and court staff with an overview of&#13;
+       activity in each case, helps in maintaining control over cases, and provides for transparency&#13;
+       and external accountability.&#13;
+&#13;
+    4) Scheduling case events and tasks and sending notifications. The system can include tools to&#13;
+       facilitate calendar and scheduling functions for case events, such as hearings and other&#13;
+       tasks, sending out notices to relevant parties or attorneys ensuring efficient use of time by&#13;
+       judges, attorneys, and all parties involved. Calendars announce court events, and also&#13;
+       indicate judicial assignments and allocate courtrooms. Random judicial assignments can&#13;
+       help to assure fairness and build public trust in the court system.&#13;
+&#13;
+    5) Controlling and storing final records. Case information systems also ensure that the case&#13;
+       history is entered at the conclusion of a case, and that it is archived as a closed case.&#13;
+&#13;
+    6) Reporting management information. The system provides statistics or other court&#13;
+       management information on the size and nature of caseloads and their successful handling.&#13;
+       Statistics can either be an automatic byproduct of a system or the result of a separate&#13;
+       process to gather statistical information. Most case management systems generate&#13;
+       management reports on caseload data regarding the nature and number of dispositions,&#13;
+       including the case clearance rate, size of the pending workload, identification of cases that&#13;
+       are languishing in the system, and the extent of delays from filing to disposition.&#13;
+&#13;
+    7) Bolstering court administration support functions. Enhanced support for broader court&#13;
+       management functions can include expenditure accounting, budgeting, tracking, collecting&#13;
+       and accounting for filing fees, revenue accounting, and accounts receivable, as well as the&#13;
+       full range of human resource and talent management functions. These applications can be&#13;
+       integrated with or at least connected to case management solutions thereby enabling the&#13;
+       court to manage its resources according to case volume and demands.4&#13;
+&#13;
+&#13;
+&#13;
+3&#13;
+ Such other media today can be photos, electronic scans of documents, video, audio or digital recordings.&#13;
+4&#13;
+ In Belgium, already in 2001, the IT programs of penitentiary institutions had an automated system that dealt with&#13;
+accounting logistic services and administration of staff; in the late 1990s, software for the Courts of Ontario was&#13;
+developed that would integrate document management, scheduling and financial management.&#13;
+&#13;
+                                                        5&#13;
+&amp;#12;3.2 Extended Functionalities&#13;
+In addition to these core functions, other technology applications that support court operations&#13;
+more broadly are available and preferably linked to the case management system not developed&#13;
+and applied as a separate solution. These include systems for electronic document management,&#13;
+electronic filing, or judicial decision-making support functions.&#13;
+&#13;
+ x   Electronic document management. This function provides for document storage and&#13;
+     databases, and also for the production of standardized and automated forms (i.e. for&#13;
+     decisions, notifications, letters, etc.) that increase the efficiency and accuracy of court staff&#13;
+     and judges, which in turn can potentially increase the number of processes completed and&#13;
+     hearings that can be held per day, reduce errors and limit undesired manipulations of the&#13;
+     process, including reducing the opportunities for corruption. It entails the imaging of all&#13;
+     paper documents filed with the court and converting them to manageable and searchable&#13;
+     text files. These functions may be part of a case management system, or may be introduced&#13;
+     on their own into courts, sometimes as precursors to more complex case management&#13;
+     systems (NCSC 2004).&#13;
+&#13;
+ x   E-filing and paperless courts. Electronic filing and judicial electronic data and document&#13;
+     interchange can further enhance case&#13;
+     information systems. Proper legislative         Functions that Support Judicial Decision&#13;
+                                                     Making: Country Examples&#13;
+     provisions are needed, however, to&#13;
+     establish procedures and implement                  Caseflow management is not just about&#13;
+     measures for assuring the authenticity and      efficient administrative processes but also about&#13;
+     integrity of court information held in          efficient and better informed judicial decision&#13;
+     electronic form (Fabri 2001). The               making.&#13;
+     introduction of paperless courts, where             In Croatia, a networked and searchable legal&#13;
+     parties, court staff, and judges work with      information   system in pilot courts is now&#13;
+     and create electronic documents, requires       functioning. In the Basque Region in Spain, a&#13;
+     an electronic data management system that       Documentary Information System provides&#13;
+     consists of a repository for storing            databases on jurisprudence and legislation. In&#13;
+     electronic documents, a relational database,    Ireland , an â&#128;&#156;Electronic Bench Bookâ&#128;&#157; is a Lotus&#13;
+                                                     Notes application providing judges with online&#13;
+     and the necessary software to manage the&#13;
+                                                     access to rules, statutes, regulations, and other&#13;
+     system. The process involves scanning to        electronic legal information services such as&#13;
+     convert paper documents to imaged ones,         Lexis-Nexis and Justis.com. In England and&#13;
+     as well as indexing for efficient access to     Wales, the eLIS (electronic Library and&#13;
+     the imaged documents (Abdulaziz and             Information Services) provides a portal to legal&#13;
+     Druke 2003).                                    information on the Internet to the judiciary.&#13;
+                                                          Providing judges with instant access to&#13;
+ x   Judicial decision-making support functions.       databases of court decisions, software to&#13;
+     In addition to case and court management          simplify drafting of decisions, and access to&#13;
+     functions, more advanced court information        data bases such as criminal records, incomes, or&#13;
+                                                       property registers supports the work of&#13;
+     systems typically also have legal research&#13;
+                                                       individual judges and greatly contributes to&#13;
+     support components (World Bank 2007;              increasing consistency among judges and&#13;
+     Fabri 2001, 11; Velicogna 2009, 29), which        overall court predictability.&#13;
+     give judges virtual access to statutory&#13;
+&#13;
+                                                 6&#13;
+&amp;#12;      codes, judicial opinions, treatises, legal journals, and other sources. Combined with content&#13;
+      management software that allows for relational searches to find relevant text components&#13;
+      or to support indexing and document creation with text templates and text search functions,&#13;
+      these further ease the work of the court. These support functions can also potentially reduce&#13;
+      error and enhance the quality of court decisions by freeing up time for research and&#13;
+      formulating decisions.&#13;
+&#13;
+In addition, sentencing support tools can provide judges with access to a range of databases from&#13;
+courts and other agencies that provide them with much needed background information on&#13;
+offenders and relevant sentencing patterns in similar cases. The information can help focus&#13;
+sentencing hearings and plea negotiations (where allowed) on public safety outcomes (Marcus&#13;
+2006).&#13;
+&#13;
+3.3 Different System Functions and Terminology&#13;
+As the automation of courts, along with the application of increasingly modern case and court&#13;
+management approaches, have evolved, so have the systems supporting them. As a result, the&#13;
+terminology used to describe these systems has changed to reflect increasingly complex&#13;
+operations. At the same time, use of different terms is not always consistent which can lead to&#13;
+misunderstanding as to what functions a particular system actually supports. The below&#13;
+paragraphs provide some clarification of the terminology applied to these systems.&#13;
+&#13;
+Case tracking systems. Case tracking systems provide information to track the status and location&#13;
+of a case from filing through disposition. A manual case tracking process collects data in registry&#13;
+and docket ledgers or registers of actions that provide information regarding case status,&#13;
+documents received, case events, and case results. Automated case tracking systems will&#13;
+generally collect and sort this information by case type, event, judge, or location and distribute it&#13;
+to a presiding judge, individual judges, and/or court management staff. The combined&#13;
+information provides an overview of case activities and a comprehensive case record, and can&#13;
+also detect processing delays. Today, a majority of courts in higher-income and even middle-&#13;
+income countries have at least an automated case tracking system.5 In many of these countries,&#13;
+the functions supported by these automated systems also include electronic registering of cases,&#13;
+development of caseload statistics and management reports, calendar management and&#13;
+scheduling of cases for trial, printing of cases lists, and storing of court records and records of&#13;
+judgments (see, for example, Bauer 2001, 53; Schmidt 2001; Rabineau and Beltrame 2001; Bork&#13;
+and Schroeder 2001). Basic case tracking systems have also been introduced in low income&#13;
+countries, often with support of international donors.6&#13;
+&#13;
+As outlined above, more sophisticated electronic CMIS will include all the information and&#13;
+functions of a case tracking system plus other functions to ensure cases move efficiently through&#13;
+&#13;
+5&#13;
+  For example, according to data collected by European Commission for the Efficiency of Justice (CEPEJ), already&#13;
+in 2004 about half of the 45 responding countries in Europe had case tracking systems in 100 percent of the courts,&#13;
+nine in more than 50 percent of the courts, five in less than 50 percent, and six in less than 10 percent. See&#13;
+Velicogna (2009, 23). Similarly, courts in many Latin American countries are supported by at least basic automated&#13;
+systems. See Hammergren (20011, 7).&#13;
+6&#13;
+  Examples of such support provided by USAID, for example, can be found in pilot courts in Afghanistan,&#13;
+Indonesia, Nigeria, and Nepal, all courts across Mongolia, and many other developing nations.&#13;
+&#13;
+                                                        7&#13;
+&amp;#12;the system. This can include not only random case assignment to judges, but assignment and&#13;
+reminders of processing tasks for staff and judges; not just production of forms, templates, and&#13;
+checklists to support efficient and standard data and information entry but creation of case files&#13;
+and court records and automated sending of notifications; and production of more comprehensive&#13;
+management reports and court statistics. Where electronic filing is available, the system will&#13;
+guide data entry from external parties and integrate this externally submitted information into the&#13;
+case file. The new system may also include an archive component that allows for easy retrieval&#13;
+of archived court documents.&#13;
+&#13;
+To increase public accessibility, many of these systems can be connected to Internet-based&#13;
+information portals where case status and court decisions may be published and accessible to the&#13;
+public externally or on information kiosks located in the courts. In combination with other&#13;
+information technology solutions, such systems can generate automatic notifications that may be&#13;
+sent via e-mail or short message service (SMS), or to message boards in the court.&#13;
+&#13;
+Court management systems. Such systems support broader court management functions in&#13;
+addition to those focusing on managing cases. They can include modules that bolster budget and&#13;
+financial management, human resource management, facility and asset management, and even&#13;
+internal and external information and knowledge management. Courts often have different&#13;
+software applications to handle these components. The integration of these different parts into&#13;
+the case management system is desirable and cost effective in the long run, but requires a&#13;
+significant investment of time and effort for development and implementation on the part of the&#13;
+court and other related agencies. Particularly if information exchange and integration with other&#13;
+courts and agencies (such as prosecution and corrections or municipal agencies) is desired, it&#13;
+requires significant work to ensure that all agencies hold the same vision for data integration and&#13;
+are willing to share data and systems.&#13;
+&#13;
+Integrated justice information systems. Case management systems may also be designed to&#13;
+connect to other courts and relevant justice system or municipal agencies for information transfer&#13;
+and coordination of operations. The integration of information systems and case management&#13;
+options across courts and other relevant agencies has many benefits, but also involves a number&#13;
+of legal, organizational, managerial, technical, and security barriers, such as variations in the&#13;
+organizational culture, information dissemination and privacy policies, or technical issues related&#13;
+to differences in information system automation across courts and agencies (Bureau of Justice&#13;
+Assistance 1999). Other issues that may arise are concerns over data security or the need for a&#13;
+reliable and accepted system for assuring the security and integrity of court information that is&#13;
+held and transmitted in electronic form (Fabri 2001, 10).&#13;
+&#13;
+Elements of a Good Case Management System&#13;
+&#13;
+Indicators of a good data control system&#13;
+x Data categories and elements are clearly defined and coherent and consistent throughout the&#13;
+    court database.&#13;
+x Data elements are compatible with other related information systems in other agencies (i.e.,&#13;
+    the police and prosecution).&#13;
+x The system controls the quality, completeness, and format of forms coming into the court and&#13;
+&#13;
+                                                8&#13;
+&amp;#12;    generated by the court.&#13;
+&#13;
+Indicators of a good record control system&#13;
+x Each case has its own numerical identifier that can be tracked across different court levels&#13;
+    and ideally also across agencies.&#13;
+x Cases are numbered within each year, and not consecutively over a multiyear period.&#13;
+x An index provides cross-references to the names of all parties and related case files.&#13;
+x Non-electronic material is held in folders or other containers and stored in an orderly way.&#13;
+x New documents for cases are placed accurately and in a timely manner in the folderâ&#128;&#148;in hard&#13;
+    copy and/or electronically.&#13;
+x There is a system for tracking the location of folders and related documents/exhibits that may&#13;
+    be temporarily held elsewhere.&#13;
+&#13;
+Indicators of a good case process/record updating system&#13;
+x There is an accessible register of all events and filings for each case.&#13;
+x The register is accurate and up to date.&#13;
+&#13;
+Indicators of a good scheduling system&#13;
+x It enables the court to move cases effectively to disposition according to time standards and&#13;
+    procedures developed in consultation with relevant stakeholders.&#13;
+x It avoids the rescheduling of the same event.&#13;
+x It has a timely and efficient notification system.&#13;
+x It stimulates efficient use of time by judges, attorneys, and parties.&#13;
+&#13;
+Indicators of a good case closure system&#13;
+x There is a comprehensive and timely case-closing routine.&#13;
+x The system can store and archive records.&#13;
+x Court judgments are made available and enforceable.&#13;
+&#13;
+Indicators of a good management reporting system&#13;
+x The reports facilitate the management of case movement.&#13;
+x The reports help to identify processing and other work patterns that need to be changed.&#13;
+x The reports encourage and affect justice system reforms.&#13;
+&#13;
+Source: USAID (2001).&#13;
+&#13;
+&#13;
+&#13;
+4. Planning for, Selecting, and Implementing New Case&#13;
+Management Software&#13;
+As outlined above, case management systems are tools that support case management techniques&#13;
+and organizational adjustments aimed at making the court process more efficient, predictable,&#13;
+and transparent. Before computers were affordable enough to be used widely in courts, this&#13;
+included just a well-designed manual system of registers, records books, ledgers, calendars,&#13;
+forms, and index cards. Automation of these â&#128;&#156;systemsâ&#128;&#157; means that manual processes and paper-&#13;
+&#13;
+                                                 9&#13;
+&amp;#12;based information are translated into software programs that greatly enhance the speed,&#13;
+reliability, and tracking of case processes, resulting in better reporting and analytical capacities&#13;
+for the management of cases. Naturally, the basis for a good automated system is a well-&#13;
+structured and streamlined manual system, as automation alone will not make inefficient&#13;
+processes better.&#13;
+                                                          Automation: Where to Start?&#13;
+The many steps involved in developing and&#13;
+implementing a case management system can be                  The civil caseload tends to be the largest in&#13;
+broken down into four main phases, some of which          many courts across the globe. Starting automation&#13;
+overlap: (1) assessment and planning, (2)                 there is thus likely to have a significant impact on&#13;
+procurement, (3) development and testing, and (4)         court operations. Automating civil case procedures&#13;
+implementation.                                           also tends to be less difficult, since there are fewer&#13;
+                                                          important information elements that need to be&#13;
+4.1 Assessment and Planning                               tracked than in criminal cases, and the need to link&#13;
+                                                          information to other agencies is lower. Courts in&#13;
+The introduction of automation to handle cases            jurisdictions as diverse as Abu Dhabi and Mongolia&#13;
+requires careful planning, effort, and time, each of      have opted for automating civil cases first for these&#13;
+which will vary according to system complexity.           reasons.&#13;
+                                                              When fewer resources are available, targeting a&#13;
+Before starting any automation enhancement&#13;
+                                                          smaller but still high-impact caseload, such as&#13;
+process, courts need to have a clear vision of their      commercial cases, can be very effective to&#13;
+automation goals, fully understanding what is             demonstrate the benefit of automation. Morocco&#13;
+involved and what impact the desired changes will         and Serbia are countries that have successfully&#13;
+have. The court must clearly define its needs, goals,     taken this approach.&#13;
+and objectives, as well as identify what processing           When resistance to changing processes is high&#13;
+and automation changes can be made within the             and staff and other resource capacities to support&#13;
+existing legal framework and resource capacities and      automation are initially low, focusing on the&#13;
+where amendments will be needed.                          automation of only a few court processes where&#13;
+                                                          impact can be seen quickly is a good option. For&#13;
+Ideally, the court reviews its business processes,        example, Egypt piloted the creation of a one-stop&#13;
+                                                          filing counter in the North Cairo First Instance&#13;
+maps case flow through the court, assesses and&#13;
+                                                          Court, which has the highest caseload in the&#13;
+evaluates operations and management systems in            country. The impact was significant, since the new&#13;
+place, and determines whether there is a need to          filing process required only three steps in one&#13;
+redesign processes before embarking on major              location, instead of over 40 actions that had to be&#13;
+automation. In addition, the collection of reliable       conducted in various offices across the court.&#13;
+court data will be essential for determining where&#13;
+automation will have a significant impact and what&#13;
+functions should have priority for automation. A court may decide to first focus on automating&#13;
+its civil caseload, which often represents the majority of cases for many courts. The larger the&#13;
+percentage of a courtâ&#128;&#153;s work supported by automation, the greater the impact of a well-designed&#13;
+system. The assessment also has to consider staff capacities and training requirements and other&#13;
+end-user needs and capacities, as well as whether current court facilities and other infrastructure&#13;
+can support the envisioned automation. IT development costs as well as likely future use and&#13;
+maintenance costs incurred by the system must be considered equally. The results of the&#13;
+assessment need to clearly state under what circumstances automation would add value to court&#13;
+operations, and what options for streamlining and automation are available.&#13;
+&#13;
+&#13;
+&#13;
+                                                10&#13;
+&amp;#12;The review of court functions and procedures to be supported by case management software&#13;
+should begin with core case processing functions, starting with case filing and then moving along&#13;
+the process through the court until final disposition. Adequate sequencing of automation of the&#13;
+different processing steps is important, but this does not always mean that the initial steps need&#13;
+to be fully automated before stages later in the process can be considered. For example,&#13;
+archiving functions are often sufficiently separate from the ongoing court operations such that&#13;
+they can be successfully automated even when the core court process is still undergoing&#13;
+procedural changes and is in the earlier automation stages.&#13;
+&#13;
+The use of pilot courts to initially introduce new case management systems with the expectation&#13;
+of a roll-out to the rest of the countryâ&#128;&#153;s courts is a means to test the efficiency and effectiveness&#13;
+of a new system and to learn lessons for developing and maintaining a strong application.&#13;
+&#13;
+4.2 Procurement Decisions&#13;
+The functions to be supported by case management systems and the degree of sophistication&#13;
+needed will influence the choice of software, together with other factors, such as the availability&#13;
+of human and financial resources to develop, maintain, and continuously upgrade the system.&#13;
+&#13;
+Depending on what a court needs and can afford, courts may turn to off-the-shelf case&#13;
+management information system software packages that then have to be customized to the&#13;
+courtâ&#128;&#153;s requirements, or, like the commercial courts in Morocco, they may develop their own&#13;
+customized case management information software from scratch.&#13;
+&#13;
+What matters most when selecting software to automate efficient case processing and&#13;
+management in any court system is that the software properly meets the needs and resources of&#13;
+the court and supports organizational adjustments required now and in the future. To be&#13;
+successful, case management information software should be chosen only after automation needs&#13;
+and resources for the design and for continuous maintenance and upgrading have been&#13;
+thoroughly reviewed. This includes implications on hardware requirements, such as server&#13;
+capacities, and staff capacities to apply and maintain the application over time. Ideally, a court-&#13;
+wide or even justice sector ICT strategy is in place or conducted to ensure the software is&#13;
+appropriately supported and is the right fit now and at least for a couple of years into the future.&#13;
+The actual design should happen only after the courtâ&#128;&#153;s business procedures have also been&#13;
+reviewed for opportunities to streamline operations, and after management information needs&#13;
+have been established.&#13;
+&#13;
+Once a court has a clear picture of its automation requirements and some possible solutions, it&#13;
+can determine what software options are the most appropriateâ&#128;&#148;that is, whether to upgrade or&#13;
+modify existing software, change to a new software solution, or develop a system in-house with&#13;
+little or more external assistance.&#13;
+&#13;
+For those courts with an existing system, the decision on whether to upgrade or replace an&#13;
+existing configuration, possibly even using a different software platform, requires research into&#13;
+costs, time, and expertise requirements, as well as the adequacy of current facilities and&#13;
+resources (Webster 1996).&#13;
+&#13;
+&#13;
+                                                 11&#13;
+&amp;#12;A court may choose to acquire off-the-shelf solutions for a range of processes from specialized&#13;
+vendors, but these too must be modified and adapted to meet its specific needs. These&#13;
+applications have generally been created with the special needs of a particular countryâ&#128;&#153;s courts in&#13;
+mind (the most prevalent ones promoted today tend to be based on U.S., Australian, and Finnish&#13;
+court models), which means that adjustment to local needs will be more difficult the more a&#13;
+courtâ&#128;&#153;s processes and needs differ from the base model. Like other proprietary systems, many&#13;
+off-the-shelf solutions are subject to costly licensing fees; at the same time, their vendors may&#13;
+offer attractive options for the provision of continued maintenance and future updates or&#13;
+additional functionalities to the system.&#13;
+&#13;
+Other courts decide to develop customized software for various applications, such as case&#13;
+tracking, human resource management, and so on, using either proprietary or open source&#13;
+software platforms. This is an attractive option when courts have access to affordable quality&#13;
+human resource capacities internally or via consultants, as well as to contracting companies to&#13;
+develop, maintain, and continuously upgrade and extend the solution to other agencies. If the&#13;
+chosen software platform is easily adaptable to all court levels and possibly other relevant&#13;
+agencies in a particular jurisdiction, its potential for national-level roll-out and connectivity to&#13;
+other courts and related agencies is high and will likely result in a cost-effective solution.&#13;
+&#13;
+Advantages of open source software include the reduced dependence on software vendors and&#13;
+the lower total cost of ownership. Unlike proprietary software applications that are subject to&#13;
+licensing fees, open source software may be modified, incorporated into other software, and even&#13;
+redistributed without requiring a royalty or fee. Open source software also makes available the&#13;
+source code and the right to modify it, to redistribute any modifications and improvements to it,&#13;
+and to use the software in any way needed. A common concern related to the use of open source&#13;
+software, however, is that the court itself is responsible for maintenance and the ongoing need&#13;
+for upgrading. In the end, which platform to choose is context specific and depends on financial,&#13;
+time, and human resource considerations, including the availability of software packages that can&#13;
+be adjusted.&#13;
+&#13;
+Today, among the major brands of proprietary software platforms that allow for complex&#13;
+operations tracking and management functions, few major differences exist. As late as 2011,&#13;
+Oracle-based systems or IBM- and Microsoft-based systems have been used with almost equal&#13;
+results for providing solid platforms for case and court management software. This means that it&#13;
+is more important to identify the platform that can support envisioned automation results and be&#13;
+maintained and adjusted in the near and mid-term future, with local resources and the need for&#13;
+local cross-agency connectivity in mind.&#13;
+&#13;
+4.3 Development and Testing&#13;
+The process and organizational review conducted during the planning phase will have&#13;
+determined which procedures will be automated and when, and the information they will capture&#13;
+for operations and management, information exchange, and interconnectivity requirements. In&#13;
+addition, this phase will determine the capabilities the software should provide and the data it&#13;
+must maintain. To be successful, this process will also result in developing procedural and&#13;
+information standards. More importantly, full functional standards and technical specifications&#13;
+&#13;
+&#13;
+                                                12&#13;
+&amp;#12;have to be developed for each implementation phase. The creation of a user group to guide the&#13;
+process and work hand in hand with the software developers is essential for:&#13;
+&#13;
+      x     defining and communicating the scope and nature of the proposed system&#13;
+      x     communicating the functional requirements to vendors who can supply software or to&#13;
+            systems designers, if the plan is to use in-house staff to build or modify a preexisting&#13;
+            system&#13;
+      x     providing a benchmark for evaluating and selecting software, if the decision is made to&#13;
+            procure a new software system (Webster 1996)&#13;
+&#13;
+Based on a solid caseflow mapping process, functional standards and specification details can be&#13;
+developed. These also have to reflect any process modifications that resulted from the earlier&#13;
+analysis of the business flow models. While the functional specifications are developed,&#13;
+additional areas for process improvement may be identified and considered for possible inclusion&#13;
+(see Kujanen and Sarvilinna 2001, 41).&#13;
+&#13;
+Functional standards help in identifying data requirements for the different functions the system&#13;
+is expected to perform, such as case initiation, case maintenance, and calendaring. For each&#13;
+function, the needed range of data has to be defined, which tend to cluster around four core data&#13;
+types: (1) persons-related data (defendants, parties, attorneys) (2) time-related data, such as&#13;
+processing, decision-making, and hearing data, (3) case data (history, event, statistics, and&#13;
+records), and (4) financial data (fees, fines, resources, maintenance, and services, including jail).&#13;
+Each type of data relates to the other and is interrelated, creating a relational database. These&#13;
+relationships have to be defined when building a court case management information system that&#13;
+will successfully retrieve and store information (Steelman, McMillan, and Goerdt 2000). A case&#13;
+management system links the data types as they are needed throughout the court process to&#13;
+individual functions and decisions, and compiles them into reports.&#13;
+&#13;
+                      Main Data Groups for a Case Management Information System&#13;
+                                                                                          Document and&#13;
+                                                                                                               System and&#13;
+          Case            Person                Event                  Financial             Report&#13;
+                                                                                                                 Utility&#13;
+                                                                                           Generation&#13;
+Case data type by    Information on       Information on          Financial data on     Information on      Information on&#13;
+key case             litigants, judges,   past and future         activities in cases   official court      functions ancillary&#13;
+categories.          attorneys, and       events in a case                              documents           to case processing&#13;
+Depending on the     other individual                             i.e. payments,&#13;
+jurisdiction this    and organizational   x Filings               financial             x Summons and       x Exhibits&#13;
+may include:         participants         x Scheduled             obligations,            other served        (property&#13;
+                                            events                accounting              processes           management)&#13;
+x   Tort                                  x Hearings              activities (fees,     x Forms and other   x File&#13;
+x   Contracts                               Disposition           judgments), etc.        documents            management&#13;
+x   Real property                         x Post-trial                                    issued by the     x Document&#13;
+x   Small claims                            activity                                      court                management&#13;
+x   Family                                                                              x Management&#13;
+x   Traffic                                                                               and statistical&#13;
+x   Misdemeanor                                                                           information&#13;
+x   Felonies&#13;
+x   Other&#13;
+Source: Adjusted from NCSC (2001b).&#13;
+&#13;
+&#13;
+&#13;
+                                                             13&#13;
+&amp;#12;Once the overall structure and data details and relationships are defined, the design is translated&#13;
+into code. Individual system components are then tested first, followed by tests of the entire&#13;
+system. It is good practice to conduct these tests with several sample cases and then repeat them&#13;
+to allow for process simulation over time, thereby generating the kind of management reports the&#13;
+court will need. Here, like in all other earlier process steps, the user group needs to be involved&#13;
+in reviewing the test results.&#13;
+&#13;
+4.4 Implementation&#13;
+As mentioned above, using a few pilot courts to experiment with the new application is a good&#13;
+approach to identify if further adjustments to the system and its operations need to be made, to&#13;
+develop a better understanding of training and user support needs, and to plan and budget for a&#13;
+realistic roll-out to other courts.&#13;
+&#13;
+It is also important to monitor and evaluate progress and results when implementing a case&#13;
+management automation project. Detailed and concrete implementation milestones and outcome&#13;
+indicators should be set to measure project performance and the quality of implementation.&#13;
+&#13;
+&#13;
+5. Conclusions&#13;
+&#13;
+Case management and supporting systems are at the core of well-functioning courts that deliver&#13;
+fair and just decisions in a timely manner. The basis of any system is the design of an efficient&#13;
+process â&#128;&#147; a key requirement that can be taken by any court that desires to perform well even&#13;
+when resources are scarce and automation may be out of reach for some time. Considering the&#13;
+advancements of technology and the ever sinking cost of computer systems, automation of at&#13;
+least the basic case management processes to track the flow of cases is within reach of almost&#13;
+any court that has access to steady electricity, a relatively sound infrastructure and a workforce&#13;
+that can manage simple computer entries. These basic systems are not very complex, greatly&#13;
+increase court efficiency and accountability and are no longer very costly; when well designed,&#13;
+they can reduce operational costs. At the same time, they require a solid assessment of current&#13;
+operations, the desire to develop optimal processes and commitment to deliver good court&#13;
+services. They require time and commitment to design a good system from the court itself â&#128;&#147; no&#13;
+software developer be this a local expert or an international software company can design a well-&#13;
+functioning system unless the courtâ&#128;&#153;s leadership and relevant court users are extensively&#13;
+involved in the design, testing and roll-out. And no case management system, even the most&#13;
+sophisticated automated one can deliver results if the data it collects are not translated into&#13;
+management reports that those in charge are actively using and responding to. That is what good&#13;
+case management is all about â&#128;&#147; establishing effective processes, tracking if the processes are&#13;
+adhered to and responding when things do not develop as they should.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                14&#13;
+&amp;#12;References&#13;
+Abdulaziz, Mohyeddin K., and William E. Druke. 2003. â&#128;&#156;Building the â&#128;&#152;Paperlessâ&#128;&#153; Court.â&#128;&#157; Paper&#13;
+      presented at the Eighth National Court Technology Conference, Kansas City, MO,&#13;
+      October.&#13;
+&#13;
+Bauer, Peter. 2001. â&#128;&#156;A Show Case for the Future: E-Justice in Austria.â&#128;&#157; In Justice and&#13;
+       Technology in Europe: How ICT is Changing the Judicial Business, ed. Marco Fabri and&#13;
+       Francesco Contini, 45â&#128;&#147;66. The Hague: Kluwer Law International.&#13;
+&#13;
+Bork, Katrine, and Rune Schroeder. 2001. â&#128;&#156;The Development of Case Management Systems:&#13;
+       ICT in the Danish Judicial System.â&#128;&#157; In Justice and Technology in Europe: How ICT is&#13;
+       Changing the Judicial Business, ed. Marco Fabri and Francesco Contini, 163â&#128;&#147;173. The&#13;
+       Hague: Kluwer Law International.&#13;
+&#13;
+Bureau of Justice Assistance. 1999. â&#128;&#156;Report of the National Task Force on Court Automation&#13;
+      and Integration.â&#128;&#157; Bureau of Justice Assistance, U.S. Department of Justice, Washington,&#13;
+      DC.&#13;
+&#13;
+Cooper, Caroline, Maureen Solomon, and Holly Bakke. 1993. â&#128;&#156;Differentiated Case&#13;
+      Management: Implementation Manual.â&#128;&#157; Bureau of Justice Assistance, U.S. Department&#13;
+      of Justice, Washington, DC.&#13;
+&#13;
+Fabri, Marco. 2001. â&#128;&#156;Introduction: State of the Art, Critical Issues, and Trends of ICT in&#13;
+       European Judicial Systems.â&#128;&#157; In Justice and Technology in Europe: How ICT is Changing&#13;
+       the Judicial Business, ed. Marco Fabri and Francesco Contini. The Hague: Kluwer Law&#13;
+       International.&#13;
+&#13;
+Gramckow, Heike. 2005. â&#128;&#156;Can US-Type Court Management Approaches Work in Civil Law&#13;
+      Systems? Experiences from the Balkans and Beyond.â&#128;&#157; European Journal on Criminal&#13;
+      Policy and Research 11 (1): 97â&#128;&#147;120.&#13;
+&#13;
+Hammergren, Linn. 2011. â&#128;&#156;Judicial Governance and the Use of ICT.â&#128;&#157; In Buenas PrÃ¡cticas para&#13;
+la implementaciÃ³n de soluciones tecnolÃ³gicas en la administraciÃ³n de justicia. Mexico: Instituto de&#13;
+InvestigaciÃ³n para la Justicia.&#13;
+&#13;
+Jacoby, Joan E., Heike P. Gramckow, and Edward C. Ratledge. 1992. An Evaluation of the&#13;
+       Expedited Drug Case Management Program. Report Grant 89-DD-CX-0057.&#13;
+       Washington, DC: National Institute of Justice.&#13;
+&#13;
+Kujanen, Kari, and Sami Sarvilinna. 2001. â&#128;&#156;Approaching Integration: ICT in the Finnish Judicial&#13;
+      System.â&#128;&#157; In Justice and Technology in Europe: How ICT is Changing the Judicial&#13;
+      Business, ed. Marco Fabri and Francesco Contini, 29â&#128;&#147;43. The Hague: Kluwer Law&#13;
+      International.&#13;
+&#13;
+&#13;
+&#13;
+                                                15&#13;
+&amp;#12;Marcus, Michael. 2006. â&#128;&#156;Sentencing Support Tools. User Manual for Attorneys.â&#128;&#157; Multnomah&#13;
+      County, Oregon Judicial Department, Portland, OR.&#13;
+&#13;
+NCSC (National Center for State Courts). 2005. â&#128;&#156;Court Case Management System Functional&#13;
+     Standards.â&#128;&#157; National Center for State Courts, Williamsburg, VA.&#13;
+&#13;
+â&#128;&#148;â&#128;&#148;â&#128;&#148;. 2004. â&#128;&#156;Court Improvement Project: Croatia, Final Report September 2000 â&#128;&#147; April&#13;
+   2004.â&#128;&#157; USAID Court Improvement Project, USAID and NCSC, Washington, DC and&#13;
+   Williamsburg, VA.&#13;
+&#13;
+â&#128;&#148;â&#128;&#148;â&#128;&#148;. 2001a. â&#128;&#156;Report on Caseflow Management and Court Administration, Nigeria Rule of&#13;
+   Law Assistance Program.â&#128;&#157; National Center for State Courts, Williamsburg, VA.&#13;
+&#13;
+â&#128;&#148;â&#128;&#148;â&#128;&#148;. 2001b. â&#128;&#156;Civil Case Processing System Functional Standards.â&#128;&#157; National Center for State&#13;
+   Courts, Williamsburg, VA.&#13;
+&#13;
+Rabineau, Yves, and Damiano Beltrame. 2001. â&#128;&#156;The First Step in a New Era: ICT in the French&#13;
+      Judicial System.â&#128;&#157; In Justice and Technology in Europe: How ICT is Changing the&#13;
+      Judicial Business, ed. Marco Fabri and Francesco Contini, 177â&#128;&#147;194. The Hague: Kluwer&#13;
+      Law International.&#13;
+&#13;
+Schmidt, Aernout. 2001. â&#128;&#156;Re-Engineering Independence and Control: ICT in the Dutch Judicial&#13;
+      System.â&#128;&#157; In Justice and Technology in Europe: How ICT is Changing the Judicial&#13;
+      Business, ed. Marco Fabri and Franceso Contini, 147â&#128;&#147;161. The Hague: Kluwer Law&#13;
+      International.&#13;
+&#13;
+Steelman, David C. 1997. â&#128;&#156;What Have We Learned about Court Delay, â&#128;&#152;Local Legal Culture,â&#128;&#153;&#13;
+       and Caseflow Management Since the Late 1970s?â&#128;&#157; The Justice System Journal 19 (2):&#13;
+       158â&#128;&#147;60.&#13;
+&#13;
+Steelman, David C., James E. McMillan, and John C. Goerdt. 2000. â&#128;&#156;Caseflow Management:&#13;
+       The Heart of Court Management in the New Millennium.â&#128;&#157; National Center for State&#13;
+       Courts, Williamsburg, VA.&#13;
+&#13;
+USAID (U.S. Agency for International Development). 2001. â&#128;&#156;Case Tracking and Management&#13;
+     Guide.â&#128;&#157; Center for Democracy and Governance, U.S. Agency for International&#13;
+     Development, Washington, DC.&#13;
+&#13;
+Velicogna, Marco. 2009. â&#128;&#156;Use of Information and Communication Technologies (ICT) in&#13;
+       European Judicial Systems.â&#128;&#157; European Commission for the Efficiency of Justice&#13;
+       (CEPEJ), Strasbourg.&#13;
+&#13;
+Webster, Lawrence. 1996. â&#128;&#156;Automating Court Systems.â&#128;&#157; National Center for State Courts,&#13;
+      Williamsburg, VA.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                             16&#13;
+&amp;#12;World Bank. 2007. â&#128;&#156;Croatia â&#128;&#147; Court and Bankruptcy Administration Project.â&#128;&#157; Implementation&#13;
+      Completion and Results Report ICR0000536, World Bank, Washington, DC.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                            17&#13;
+&amp;#12;Selected Papers Published in the Justice and Development Working Papers Series&#13;
+&#13;
+2013&#13;
+WPS 22/2013: Hybrid Justice in Vanuatu: The Island Courts by Michael Goddard and Leisande Otto&#13;
+&#13;
+WPS 21/2013: â&#128;&#156;To Whom Do The People Take Their Issues?â&#128;&#157; The Contribution of Community-Based&#13;
+Paralegals to Access to Justice in South Africa by Jackie Dugard and Katherine Drage&#13;
+&#13;
+WPS 20/2013: The Drug Treatment Court Concept: The Jamaican Drug Courts by Stephane Jackson&#13;
+Haisley&#13;
+&#13;
+2012&#13;
+WPS 19/2012: Estimating Staffing Needs in the Justice Sector by Dr. Heike Gramckow&#13;
+&#13;
+WPS 18/2012: Court Auctions: Effective Processes and Enforcement Agents by Dr. Heike Gramckow&#13;
+&#13;
+2011&#13;
+WPS 17/2011: Can OHADA Increase Legal Certainty in Africa? by Renaud Beauchard and Mahutodji&#13;
+Jimmy Vital Kodo&#13;
+&#13;
+WPS 16/2011: Justice Sector Reform in Mongolia: Looking Back, Looking Forward by Dr. Heike&#13;
+Gramckow and Frances Allen&#13;
+&#13;
+WPS 15/2011: Preventing Corruption in Prosecution Offices: Understanding and Managing for Integrity by&#13;
+Heike Gramckow&#13;
+&#13;
+WPS 14/2011: Justice Development Programming in Fragile and Conflict-Affected Areas: Perspectives of&#13;
+Two Leaders in Justice Administration by Abdul Salam Azimi and Christiana Tah&#13;
+&#13;
+WPS 13/2011: The Hybrid Courts of Melanesia â&#128;&#147; A Comparative Analysis of Village Courts of Papua New&#13;
+Guinea, Island Courts of Vanuatu and Local Courts of Solomon Islands by Daniel Evans, Dr. Michael&#13;
+Goddard with Professor Don Paterson&#13;
+&#13;
+WPS 12/2011: Alternative Dispute Resolution and the Rule of Law in International Development&#13;
+Cooperation by James Michel&#13;
+&#13;
+2010&#13;
+WPS 11/2010: Surveying Justice: A Practical Guide to Household Surveys by Kristen Himelein, Nicholas&#13;
+Menzies and Michael Woolcock&#13;
+&#13;
+WPS 10/2010: Culture-Based Justice Architecture :Building Community Wellbeing Through Deeper&#13;
+Cultural Engagement by Philip James Kirke&#13;
+&#13;
+2009&#13;
+WPS 9/2009: Access to Justice and Legal Empowerment: A Review of World Bank Practice by Vivek&#13;
+Maru&#13;
+&#13;
+WPS 8/2009: Framing Local Justice in Bangladesh by Maitreyi Bordia Das and Vivek Maru&#13;
+&#13;
+WPS 7/2009: Taking the Rules of the Game Seriously: Mainstreaming Justice in Development The World&#13;
+Bankâ&#128;&#153;s Justice for the Poor Program by Caroline Sage, Nicholas Menzies, and Michael Woolcock&#13;
+&#13;
+WPS 6 /2009: How Do Local-Level Legal Institutions Promote Development? An Exploratory Essay by&#13;
+Varun Gauri&#13;
+&amp;#12;&amp;#12;</ml:original-txt><ml:search-metadata><doc id="18278417">
+        <url>
+            http://documents.worldbank.org/curated/en/2013/01/18278417/case-flow-management-key-principles-systems-support
+        </url>
+        <availablein>English</availablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2013/01/18278417/case-flow-management-key-principles-systems-support</url_friendly_title>
+        <new_url>2013/01/18278417/case-flow-management-key-principles-systems-support</new_url>
+        <disclosure_date>2013-09-20T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2013-09-20T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/09/20/000442464_20130920132433/Rendered/INDEX/811210NWP0Case0Box0379828B00PUBLIC0.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/09/20/000442464_20130920132433/Rendered/PDF/811210NWP0Case0Box0379828B00PUBLIC0.pdf</pdfurl>
+        <docdt>2013-01-01T00:00:00Z</docdt>
+        <datestored>2013-09-20T00:00:00Z</datestored>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            Case flow management : key principles and
+            the systems to support them
+        </repnme>
+        <abstracts>
+            It has become increasingly clear that
+            courts across the globe must do more to better organize and
+            manage their caseload and that automation alone is not the
+            answer. In response to this need, case flow management has
+            emerged to become the central method of promoting greater
+            court responsibility and accountability for efficient case
+            processing. For over thirty years court case management
+            concepts have evolved, starting in the United States (U.S.),
+            spreading to other industrialized common law countries
+            initially. Yet, for many judicial systems, the concept,
+            techniques, and supporting systems of case flow management
+            are still relatively new ideas that need to be more fully
+            understood. This paper helps develop a basic understanding
+            of case flow management by defining the concept, outlining
+            the various techniques used, presenting in general the
+            different case management information systems that support
+            those techniques, and outlining the core steps a judicial
+            system can take to plan for, select, and implement case
+            management software. The aim is to provide an introduction
+            for assisting judiciaries in developing a case flow
+            management approach that works best in their own
+            environment. This paper is organized as follows: chapter one
+            gives introduction; chapter two answers the question to what
+            is case flow management within a court environment?; chapter
+            three answers what are case management information systems?;
+            chapter four focuses on planning for, selecting, and
+            implementing new case management software; and chapter five
+            gives conclusions.
+        </abstracts>
+        <docna>
+            Case flow management : key principles and
+            the systems to support them
+        </docna>
+        <display_title>Case flow management : key
+            principles and the systems to support them</display_title>
+        <listing_relative_url>/research/2013/01/18278417/case-flow-management-key-principles-systems-support</listing_relative_url>
+        <docty>Working Paper (Numbered Series)</docty>
+        <subtopic>Legal Institutions of the Market Economy,Information Security &amp; Privacy,Gender and Law,Technology Industry,E-Business</subtopic>
+        <teratopic>Gender,Private Sector Development,Public Sector Development,Information and Communication Technologies,Industry</teratopic>
+        <count>World</count>
+        <authors>
+            <author>Gramckow, Heike P.</author>
+            <author>Nussenblatt, Valerie</author>
+        </authors>
+        <entityids>
+            <entityid>000442464_20130920132433</entityid>
+        </entityids>
+        <admreg>The World Region,The World Region</admreg>
+        <colti>Justice and development working paper series
+            ; no. 23</colti>
+        <lang>English</lang>
+        <historic_topic>Gender,Private Sector Development,Public Sector Development,Information and Communication Technologies,Industry</historic_topic>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            access to justice, accounts receivable,
+            administration support, administrative processes,
+            Alternative Dispute Resolution, archive, Auctions, automatic
+            notifications, automation, Bankruptcy, basic, benchmark,
+            business processes, capabilities, case backlogs, case
+            histories, case history, Case Management, case management
+            techniques, civil law, codes, commercial courts, common law,
+            Communication Technologies, competitiveness, components,
+            computer systems, Computerization, computers, connectivity,
+            content management, content management software, Contents,
+            control system, corruption, Court, court administration,
+            court case management, court decisions, Court judgments,
+            court management, court operations, court process, courts,
+            criminal, criminal justice, data elements, data entry, data
+            management, data security, description, digital, disclosure,
+            dismissal, Dispute Resolution, document management, domestic
+            violence, e-mail, electricity, electronic data, electronic
+            data management, electronic document, electronic documents,
+            electronic filing, electronic form, electronic Library,
+            empowerment, end-user, Engineering, entries, filings,
+            financial management, financial resources, Functionalities,
+            hard copy, hardware, human resource, human resource
+            capacities, ICT, imaging, index cards, indexing, Information
+            and Communication Technologies, information dissemination,
+            information exchange, information exchanges, information
+            needs, information portals, information services,
+            information system, Information Systems, information
+            technology, information transfer, instant access,
+            interconnectivity, jail, judge, judges, judicial system,
+            judicial systems, jurisprudence, Justice, juvenile
+            offenders, kiosks, knowledge management, lawyers, legal
+            framework, legal information, Legal Institutions, legal
+            research, legal status, legal system, legislation,
+            maintenance costs, Management Information, Management
+            Software, management system, management systems, manuscript,
+            Manuscripts, material, media, mediation, monitors,
+            offenders, open source software, paper documents, photos,
+            portals, privacy, privacy policies, Procurement,
+            productivity, programming, proprietary software, proprietary
+            systems, Prosecutors, registers, registry, relational
+            database, reliability, repository, result, results, Rule of
+            Law, scanning, search, searches, server, simulation, small
+            claims courts, software applications, software company,
+            software packages, software programs, software solution,
+            software solutions, software system, software vendors,
+            source code, support staff, system software, technical
+            issues, Telephone, Terminology, tracking system, tracking
+            systems, Use of Information, user group, users, video,
+            Website, will, workflow management
+        </keywd>
+        <owner>Justice Reform (LEGJR)</owner>
+        <repnb>81121</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>ICT</ml:concept><ml:concept>ICT for Development</ml:concept><ml:concept>Information Technology</ml:concept><ml:concept>Information and Communication Technologies (ICT)</ml:concept><ml:concept>Social Development &amp; Poverty</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Teaching and Learning</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Social Protections and Labor</ml:concept><ml:concept>Information and Communication Technologies</ml:concept><ml:concept>Social Development</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Fragility, Conflict and Violence</ml:concept><ml:concept>Education</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Social Protection and Labor</ml:concept><ml:concept>Alternative Sentencing Options</ml:concept><ml:concept>Community Policing</ml:concept><ml:concept>Community based Policing</ml:concept><ml:concept>Correctional Services and Facilities</ml:concept><ml:concept>Corrections</ml:concept><ml:concept>Crime Policies</ml:concept><ml:concept>Crime Prevention</ml:concept><ml:concept>Crime and Society</ml:concept><ml:concept>Defense Services</ml:concept><ml:concept>Detention</ml:concept><ml:concept>Enforcement Policies and Oversight Mechanism</ml:concept><ml:concept>Forensic</ml:concept><ml:concept>Forensic Services</ml:concept><ml:concept>Investigation</ml:concept><ml:concept>Investigative Task Force Police</ml:concept><ml:concept>Juvenile Justice</ml:concept><ml:concept>Law Enforcement</ml:concept><ml:concept>Offender Reintegration</ml:concept><ml:concept>Police Administration and Management</ml:concept><ml:concept>Police Reform</ml:concept><ml:concept>Problem solving Policing</ml:concept><ml:concept>Prosecution</ml:concept><ml:concept>Restorative Justice</ml:concept><ml:concept>Therapeutic Justice</ml:concept><ml:concept>Victim Assistance</ml:concept><ml:concept>Victim Services</ml:concept><ml:concept>Victim-Offender Mediation</ml:concept><ml:concept>Human Resource Management Capacities</ml:concept><ml:concept>Human Resource Management Systems</ml:concept><ml:concept>Staffing Needs Assessments</ml:concept><ml:concept>Case Management Systems</ml:concept><ml:concept>Public Perception Surveys</ml:concept><ml:concept>Organisational Structures</ml:concept><ml:concept>Organizational Assessments</ml:concept><ml:concept>Caseflow Management</ml:concept><ml:concept>Caseload Management</ml:concept><ml:concept>Court Automation</ml:concept><ml:concept>Court Modernization</ml:concept><ml:concept>Court Performance Measurement and Management</ml:concept><ml:concept>Courts Management</ml:concept><ml:concept>Strategic Planning</ml:concept><ml:concept>Adult Education</ml:concept><ml:concept>Adult Education, Literacy, and Lifelong Learning</ml:concept><ml:concept>Continuing Education</ml:concept><ml:concept>Research and Development</ml:concept><ml:concept>Research and Development Commercialization</ml:concept><ml:concept>Research and Innovation</ml:concept><ml:concept>Analysis &amp; Monitoring</ml:concept><ml:concept>Delivery Units</ml:concept><ml:concept>Grievance Redress</ml:concept><ml:concept>Indicators</ml:concept><ml:concept>M&amp;E</ml:concept><ml:concept>Performance Measurement</ml:concept><ml:concept>Performance Reviews</ml:concept><ml:concept>Rapid Results Approaches</ml:concept><ml:concept>Performance Monitoring</ml:concept><ml:concept>Tracking Performance</ml:concept><ml:concept>Contract Management</ml:concept><ml:concept>Governance Institutions</ml:concept><ml:concept>Institutional Arrangements in Public Procurement</ml:concept><ml:concept>Institutional Capacity</ml:concept><ml:concept>Institutional Reform</ml:concept><ml:concept>Legal Regulatory Framework</ml:concept><ml:concept>State-Society Relations</ml:concept><ml:concept>Judicial Reform</ml:concept><ml:concept>Justice Reform</ml:concept><ml:concept>Legal and Judicial Reform</ml:concept><ml:concept>Access to Courts</ml:concept><ml:concept>Access to Language</ml:concept><ml:concept>Access to Law and Justice</ml:concept><ml:concept>Access to Legal Services</ml:concept><ml:concept>Bar Aassociations</ml:concept><ml:concept>Gender and Justice</ml:concept><ml:concept>Geographic Access</ml:concept><ml:concept>Judicial Review of Procurement Complaints and Contract Disputes</ml:concept><ml:concept>Legal Aid</ml:concept><ml:concept>Legal Aid Services</ml:concept><ml:concept>Legal Clinics</ml:concept><ml:concept>Legal Empowerment of the Poor</ml:concept><ml:concept>Poverty and Justice</ml:concept><ml:concept>Pro se representation, Barriers</ml:concept><ml:concept>ProBono Legal Services</ml:concept><ml:concept>Public Defenders</ml:concept><ml:concept>Public Defenders Offices</ml:concept><ml:concept>Women and Access to Justice</ml:concept><ml:concept>Income</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Legal Institutions of the Market Economy</ml:concept><ml:concept>Criminal Justice</ml:concept><ml:concept>Boundaries</ml:concept><ml:concept>Civil Law</ml:concept><ml:concept>Human Resources</ml:concept><ml:concept>Monitoring and Evaluation in Justice</ml:concept><ml:concept>Scholarships</ml:concept><ml:concept>Arbitration</ml:concept><ml:concept>Governance Structures</ml:concept><ml:concept>Court Administration</ml:concept><ml:concept>Strategic Policy Planning</ml:concept><ml:concept>Common Law</ml:concept><ml:concept>Domestic Violence</ml:concept><ml:concept>Lifelong Learning</ml:concept><ml:concept>Research, Development and Innovation (RDI)</ml:concept><ml:concept>Monitoring and Evaluation</ml:concept><ml:concept>Management Information Systems</ml:concept><ml:concept>Justice</ml:concept><ml:concept>Mediation</ml:concept><ml:concept>Access to Justice</ml:concept></ml:concepts><ml:geo-regions/></ml:annotations></ml:doc-envelope>

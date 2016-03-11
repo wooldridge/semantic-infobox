@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><sem:triples xmlns:sem="http://marklogic.com/semantics"><sem:triple><sem:subject>http://vocabulary.worldbank.org/taxonomy/190</sem:subject><sem:predicate>http://www.w3.org/2002/07/owl#deprecated</sem:predicate><sem:object datatype="http://www.w3.org/2001/XMLSchema#boolean">true</sem:object></sem:triple></sem:triples>

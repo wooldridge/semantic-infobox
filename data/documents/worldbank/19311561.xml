@@ -1,0 +1,959 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>ï»¿                                                                86254&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+What Do We Know About Growth Patterns in Pakistan?&#13;
+&#13;
+J.R LÃ³pez-CÃ¡lix, T.G Srinivasan and M. Waheed&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                   World Bank Policy Paper Series on Pakistan&#13;
+                                                                    PK 05/12&#13;
+                                                             December 2012&#13;
+&amp;#12;_______________________________________________&#13;
+&#13;
+This publication is a product of the South Asia Poverty Reduction and Economic&#13;
+Management Unit. It is part of a larger effort by the World Bank to provide open access to its&#13;
+research and make a contribution to development policy discussions in Pakistan and around&#13;
+the world. Policy Working Papers are also posted on the Web at http://econ.worldbank.org.&#13;
+The authors may be contacted at Jlopezcalix@worldbank.org.&#13;
+&amp;#12;Abstract&#13;
+This paper explores stylized facts of Pakistanâ&#128;&#153;s growth patterns. It identifies the short -lived&#13;
+predominant character of its increasingly scarce growth accelerations, the average volatility&#13;
+of the growth rate by international standards, the high but decreasing correlation between&#13;
+overall growth and agricultural growth, the long term decline of its growth (potential) rate to&#13;
+around 4.5 percent, well below the 6 percent rate of the 1960s or from the 7 percent rate&#13;
+required for absorbing the young labor force. It also explores the dramatically steady fall in&#13;
+productivity during the 2000s (measured by Total Factor Productivity) and, to a lesser&#13;
+extent, capital accumulation as main reasons of such decline. The paper analyzes the role&#13;
+factor accumulation plays in long-term labor reallocation across sectors, with industry&#13;
+stalling, agriculture still playing a major role that goes beyond its own contribution to GDP,&#13;
+and services playing an increasing role in creating employment, but on low productivity jobs.&#13;
+Growth acceleration is not assured and Pakistan will need to create more jobs moving from&#13;
+agriculture to industry and services in activities where productivity is higher, but to do this,&#13;
+curbing the factors that constraint growthâ&#128;&#148;overall and sectoralâ&#128;&#148;and Total Factor&#13;
+Productivity in particular will be essential.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+The Policy Research Working Paper Series disseminates the findings of work in progress to&#13;
+encourage the exchange of ideas about development issues. An objective of the series is to get&#13;
+the findings out quickly, even if the presentations are less than fully polished. The papers&#13;
+carry the names of the authors and should be cited accordingly. The findings,&#13;
+interpretations, and conclusions expressed in this paper are entirely those of the authors.&#13;
+They do not necessarily represent the views of the International Bank for Reconstruction and&#13;
+Development / World Bank and its affiliated organizations, or those of the Executive&#13;
+Directors of the World Bank or the governments they represent.&#13;
+&amp;#12;    What Do We Know about Growth Patterns in Pakistan?&#13;
+&#13;
+   J.R. LÃ³pez-CÃ¡lix, T.G Srinivasan and Muhammad Waheed&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+This paper was motivated by World Bankâ&#128;&#153;s extensive support to the design of the new&#13;
+Framework for Economic Growth of Pakistan. It was prepared by Jose R LÃ³pez-CÃ¡lix, Lead&#13;
+Economist, T.G Srinivasan, Senior Economist and Muhammad Waheed, Economist&#13;
+(SASEP), World Bank. An early version of this paper was submitted as an input to the SAR&#13;
+Flagship Report â&#128;&#156;More and Better Jobs in South Asia 2012,â&#128;? thus benefitting from its&#13;
+extensive reviews.&#13;
+&amp;#12;                                                   What Do We Know About Growth Patterns in Pakistan?&#13;
+&#13;
+&#13;
+An Economy Prone to Booms and Busts&#13;
+1.     Booms and busts are no news to Pakistanâ&#128;&#153;s economy. In the 1960s, 1980s and the&#13;
+period between 1999 and 2005, all booms occurred under military regimesâ&#128;&#148;Ayub Khan, Zia&#13;
+ul Haq and Pervez Musharraf respectively. Gross Domestic Product (GDP) per-capita growth&#13;
+reached averages above 4 percent a year (Figure 1). Not only political stability, but high levels&#13;
+of external aid and ability to push through reforms appear associated to growth spurts&#13;
+(World Bank 2010).1&#13;
+&#13;
+2.     By contrast, stagnation and busts during the 1970s and the 1990s have kindled&#13;
+debates about the trade-off between growth and democracy. In the past, political instability&#13;
+was blamed because none of the democratic regimes (except the one under Zulfikar Bhutto&#13;
+in 1970s) lasted their full term. The 1990s were particularly worrisome as the alternation&#13;
+between Benazir Bhutto and Nawaz Sharif took place every two years or soâ&#128;&#148;precisely when&#13;
+growth performance was poorest. As democratic governments failed to deliver high growth&#13;
+(and related poverty reduction), increasing public apathy toward the electoral process&#13;
+unfolded. Voter turnout in Pakistan declined from 47 percent in 1977 to 31 percent in 1997. It&#13;
+is even more troubling that the trade-off has been internalized to the extent that growth&#13;
+expectations have become progressively less optimistic and compounded by concerns about&#13;
+the security situation in the country.&#13;
+&#13;
+3.      Whereas empirical evidence strongly supports the view that military regimes have&#13;
+achieved higher rates of growth than democratic regimes for Pakistan, this conclusion&#13;
+deserves a few caveats. Granted, between 1960-61 and 2008-09, Pakistanâ&#128;&#153;s average rate of&#13;
+growth was 5.3 percent. Military regimes reached an average 6 percent rate of growth vis-Ã -&#13;
+vis an average 4.3 percent for democratic regimes. However, Burki (2007a) points out that&#13;
+this performance gap is not due to the fact that military provided better economic leadership,&#13;
+but to political stability and policy continuity, which were supported by generous external aid&#13;
+(also benefitting military outlays). Hussain (2009) points out that these military regimes&#13;
+were also unsustainable, as the lack of political legitimacy finally undermined their&#13;
+durability. Khan (2007) compares the Musharraf regime (1999-2007) to the preceding&#13;
+democratic regimes (1988-99) and finds slightly better performance in terms of GDP growth,&#13;
+but worse in terms of social indicators, which could explain their limitations. Hussain (2009)&#13;
+also concludes that the narrowly based elite, advancing its private and parochial interests, is&#13;
+the true decision-maker; determining regime changes (and growth patterns) in Pakistan.&#13;
+&#13;
+Featuring Short-lived Growth Accelerations&#13;
+4.     Pakistanâ&#128;&#153;s high-growth episodes tend to be short-lived, although longer than low-&#13;
+growth periods. Despite that, over the last fifty years the economy has grown on average by&#13;
+around 5.4 percent per yearâ&#128;&#148;its growth pattern is full of short cycles of rapid growth&#13;
+followed by stagnation. Indeed, the country has not been able to sustain high growth for&#13;
+more than only a few years. Haussmann, Pritchett and Rodrik (2004) define growth&#13;
+accelerations as periods with an increase of GDP per-capita growth of 2 percentage points or&#13;
+more for at least 8 years.2 Accounting for population dynamics, such a figure would be&#13;
+&#13;
+1 Simple correlation between aid/GDP and GDP growth is 34 percent, including remittance receipts it goes up to&#13;
+44 percent.&#13;
+2 Their filtering technique also requires a post-acceleration growth rate of at least 3.5 percent a year and post&#13;
+&#13;
+acceleration GDP to be above pre-acceleration levels.&#13;
+&#13;
+                                                                                                               1&#13;
+&amp;#12;                                                    What Do We Know About Growth Patterns in Pakistan?&#13;
+&#13;
+&#13;
+roughly equivalent in Pakistan to an increase of at least 5 percent in GDP growth rates.&#13;
+Generally speaking, these growth accelerations tend to be correlated with increases in&#13;
+investment and trade, real exchange rate depreciations, and with political regime changes&#13;
+(Haussmann, Pritchett and Rodrik 2004). Furthermore, external shocks tend to produce&#13;
+growth accelerations that fizzle out; while economic reform remains a significant predictor of&#13;
+accelerations that are sustained.&#13;
+&#13;
+&#13;
+   Figure 1      Pakistan GDP Growth under Military &amp; Democratic Regimes 1969-2010&#13;
+&#13;
+                 Economic Growth 1961â&#128;&#147;2009&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+ Source: World Development Indicators and Polity IV project (http://www.systemicpeace.org/polity/polity4.htm);&#13;
+ Polity2 is an indicator of democracy with scores range from +10 (best) to worst(-10).&#13;
+&#13;
+&#13;
+&#13;
+5.       Applying this axiom to Pakistan, rules out any episode of growth acceleration over the&#13;
+last fifty years. Since 1962, there have been only two periods where growth consistently&#13;
+remained above 5 percent per annum for more than 4 years. This is despite the fact that over&#13;
+the 50-year period, growth remained above 5 percent for 28 years (Table 1). Hence, episodes&#13;
+of robust growth are frequent, but not sustained. This is not the case in many comparable&#13;
+countries in the region such as India, China, Malaysia and South Korea, which have all&#13;
+managed to grow at relatively high rates for a considerable period of time. Therefore,&#13;
+Pakistan finds it difficult to achieve sustained periods of high growth as its growth&#13;
+performance remains uneven and features repeated turning points after a few years.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                 2&#13;
+&amp;#12;                                                   What Do We Know About Growth Patterns in Pakistan?&#13;
+&#13;
+&#13;
+     Table 1       Pakistan: Growth Accelerations&#13;
+&#13;
+               High Growth &gt; 5%                         Low Growth &lt; 5%                           Total&#13;
+                  Episodes of                              Episodes of&#13;
+                    Growth        Average                    Growth       Average                     Average&#13;
+     Periods                                  Periods                                     Years&#13;
+                  (Consecutiv     Growth                   (Consecuti     Growth                      Growth&#13;
+                    e Years)                                ve Years)&#13;
+    FY78-FY83          6           6.9%      FY97-FY03          7          3.3%            50             5.4%&#13;
+&#13;
+    FY62-FY66          5           7.3%      FY08-FY11          4          2.9%&#13;
+&#13;
+    FY85-FY88          4           6.8%      FY75-FY77          3          3.3%&#13;
+&#13;
+    FY04-FY07          4           7.3%      FY71-FY72          2          1.8%&#13;
+&#13;
+    FY68-FY70          3           7.7%      FY89-FY90          2          4.6%&#13;
+&#13;
+    FY73-FY74          2           7.1%      FY93-FY94          2          3.2%&#13;
+&#13;
+    FY91-FY92          2           6.5%         FY67            1          3.1%&#13;
+&#13;
+    FY95-FY96          2           5.8%         FY84            1          4.0%&#13;
+&#13;
+      Total           28           7.0%         Total          22          3.3%&#13;
+&#13;
+&#13;
+&#13;
+6.      Growth volatility has been wrongly associated with short-lived growth. Strictly&#13;
+speaking, volatility and uncertainty are not exactly synonymous as the former refers to the&#13;
+overall variation of one variable around some central trend, while the latter refers only to the&#13;
+unpredictable part of such variation. Contrary to common statements in the literature,&#13;
+Pakistanâ&#128;&#153;s growth volatility is average when compared to worldwide levels. Over the last five&#13;
+decades, the volatility of its GDP growth, as measured by the standard deviation of the&#13;
+growth rate of real GDP, was 2.2 percent; near about the average in South East Asia, and&#13;
+second lowest worldwide after Organisation for Economic Co-operation and Development&#13;
+(OECD) countriesâ&#128;&#148;the least volatile region in the world (World Bank, 2000). Our estimates,&#13;
+however, also point out to a steady increase in real GDP volatility in the last three decades,&#13;
+rising from 1.4 in the 1980s to 2.5 in the 2000s.&#13;
+&#13;
+Still Relying on Agricultural Sector and Prone to Natural Disasters&#13;
+7.      Pakistanâ&#128;&#153;s non-sustained growth performance is also due to its strong, albeit&#13;
+declining, reliance in the agricultural sector. Although agriculture has gradually halved its&#13;
+share of GDP from 42 percent in 1960 to 21 percent in 2009, Figure 2 shows the existence of&#13;
+a high correlation between real GDP and real agricultural GDPâ&#128;&#148;even though such&#13;
+correlation weakens in the 2000sâ&#128;&#148;as services sector has the largest share in the economy.3&#13;
+&#13;
+3 It would be useful to provide employment by sector at the same time as discussing GDP contribution so (a) the&#13;
+industrial transition is clearly understood, (b) the different levels of worker productivity in the three sectors&#13;
+comes out, and (c) agricultural income as a critical support for domestic demand is implied. The last point will&#13;
+help understand how exactly agriculture correlates with overall GDP growth, as export agriculture is important&#13;
+but relatively small.&#13;
+&#13;
+                                                                                                                 3&#13;
+&amp;#12;                                           What Do We Know About Growth Patterns in Pakistan?&#13;
+&#13;
+&#13;
+&#13;
+  Figure 2      Correlation between Agricultural &amp; Real GDP Growth Rates (%)&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+ Source: World Bank staff elaboration&#13;
+&#13;
+&#13;
+&#13;
+8.      Political uncertainty and natural disasters have also contributed to growth reversions.&#13;
+Haussmann, Pritchett and Rodrik (2004) mention that international experience suggests&#13;
+that growth spurts also coincide with regime changes. Looking closely at Pakistanâ&#128;&#153;s economic&#13;
+history, above average growth rates in the 1960s and 1980s coincided with episodes of&#13;
+reform and economic and political stability along with high levels of external aid. In contrast,&#13;
+during the 1970s and 1990s, political upheaval, economic uncertainty and regional tensions&#13;
+were accompanied by few or incomplete reforms and, toward the end of the 1990s,&#13;
+macroeconomic instability and the resulting inability of policymakers to implement and&#13;
+sustain policies necessary for growth and poverty reduction (Figure 3). Thus, on empirical&#13;
+terms, political uncertaintyâ&#128;&#148;using external aid and/or workersâ&#128;&#153; remittances inflows as its&#13;
+proxyâ&#128;&#148;also accounts for a significant explanation of growth dynamics. Over 5 decades, the&#13;
+simple correlation coefficient between the aid/GDP ratios and GDP growth rates is 0.34, and&#13;
+it reaches 0.44 percent when adding remittances receipts. In addition, natural disasters have&#13;
+made their toll in explaining a few episodes of growth reversion. This is certainly the case of&#13;
+the late 2000sâ&#128;&#148;a period that witnessed 4 natural disasters in 5 years, and more recently&#13;
+2010-11 with the floods.&#13;
+&#13;
+With Growth Potential on a Declining Trend&#13;
+10.    Pakistanâ&#128;&#153;s economy is on a declining long run trend both in potential and actual&#13;
+growth. Perhaps more disturbing than the inability to sustain growth spurts over long&#13;
+periods of time, is the steady fall in the economyâ&#128;&#153;s potential, which would suggest the&#13;
+country has gradually eroded its strengths over time. To estimate potential growth we use a&#13;
+simple linear trend (LT) and a more refined Hodrick-Prescott (HP) filtering technique. Our&#13;
+findings suggest that (a) potential growth (LT and HP trends) has been falling over the past&#13;
+&#13;
+&#13;
+&#13;
+                                                                                              4&#13;
+&amp;#12;                                                                               What Do We Know About Growth Patterns in Pakistan?&#13;
+&#13;
+&#13;
+50 years and (b) actual growth is below trend, i.e. the economy is underperforming (Figures&#13;
+3 and 4).&#13;
+&#13;
+  Figure 3            Linear Trend in Real GDP Growth (%), 1961-2009&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Source: World Bank staff elaboration&#13;
+&#13;
+&#13;
+  Figure 4            Pakistan: Actual and Trend Economic Growth, 1961-2009&#13;
+&#13;
+&#13;
+                                                   Real GDP Growth                                                      Trend_HP&#13;
+   12&#13;
+&#13;
+   10&#13;
+&#13;
+    8&#13;
+&#13;
+    6&#13;
+&#13;
+    4&#13;
+&#13;
+    2&#13;
+&#13;
+    0&#13;
+                                    1971&#13;
+        1963&#13;
+               1965&#13;
+                      1967&#13;
+                             1969&#13;
+&#13;
+&#13;
+                                           1973&#13;
+                                                  1975&#13;
+                                                         1977&#13;
+                                                                1979&#13;
+                                                                       1981&#13;
+                                                                              1983&#13;
+                                                                                     1985&#13;
+                                                                                            1987&#13;
+                                                                                                   1989&#13;
+                                                                                                          1991&#13;
+                                                                                                                 1993&#13;
+                                                                                                                        1995&#13;
+                                                                                                                               1997&#13;
+                                                                                                                                      1999&#13;
+                                                                                                                                             2001&#13;
+                                                                                                                                                    2003&#13;
+                                                                                                                                                           2005&#13;
+                                                                                                                                                                  2007&#13;
+                                                                                                                                                                         2009&#13;
+                                                                                                                                                                                2011&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Source: World Bank staff elaboration&#13;
+&#13;
+11.      The graph allows distinguishing the period before and after 2007. The former&#13;
+features a demand-driven boom, led by credit expansion: between 2003 and 2006 private&#13;
+credit grew at annual rates above 20 percent (and 33 percent in 2004-05). As a result,&#13;
+economic growth rose to 7.5 percent in 2004 and overheated at 9.0 percent in the following&#13;
+year, but reversed afterward. In 2008, the global crisis put an end to this cycle and Pakistan&#13;
+fell into stagflation, i.e. low growth and double-digit inflation rates. Since then, Pakistanâ&#128;&#153;s&#13;
+economy has been struggling for a mild recovery, but the 2010 floods, erratic macro-policies&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                                                       5&#13;
+&amp;#12;                                                    What Do We Know About Growth Patterns in Pakistan?&#13;
+&#13;
+&#13;
+and adverse oil and food international prices have contributed to a returning stagflationâ&#128;&#148;&#13;
+this time an under-heating economy.&#13;
+&#13;
+12.     Pakistan growth potential is eroding. Figures 3 and 4 also show that in the last fifty&#13;
+years Pakistanâ&#128;&#153;s steady annual GDP growth rate has fallen from 6 per cent to about 4.5&#13;
+percent. This rate is much lower than the 7 percent the Government estimates is needed to&#13;
+absorb youth employment (Planning Commission 2011). Therefore, unless the Government&#13;
+adopts a new growth strategy and implement it successfully, the country will continue&#13;
+depreciating its assets and constraining its productive capacity. What is wrong with&#13;
+Pakistanâ&#128;&#153;s economic growth? The findings of a growth accounting model often provide useful&#13;
+insights about the reasons underlying such decline.&#13;
+&#13;
+Long Term Declining Growth Can Be Associated to Falling Productivity&#13;
+13.     Growth accounting models are perhaps the most popular ones in the academic&#13;
+literature of Pakistan.4 In general, they are well known both by their methodology of&#13;
+estimation as well as by their application to 2-factors of productionâ&#128;&#148;capital and labor inputs&#13;
+(Annex 1). In this section, we apply the growth accounting framework to 4 factors of&#13;
+production: capital, labor, human capital (measured by years of schooling) and land&#13;
+(measured by arable land). We proceed stepwise: first, we separate the individual&#13;
+contributions of labor productivity (output per worker) and labor accumulation&#13;
+(employment) to real output growth; and second, we estimate the contribution of capital,&#13;
+human capital, land and TFP to labor productivity. Being the residual term, TFP measures&#13;
+the particular combination of changes in technology and changes in efficiency with which&#13;
+inputs are used.&#13;
+&#13;
+14.     Our overall empirical findings replicate (and expand) some of the conclusions found&#13;
+in previous growth accounting models over the past thirty years. These are:&#13;
+        a. growth in Pakistan has been mainly driven by labor and capital accumulation&#13;
+           rather than productivity growth, as measured by TFP;&#13;
+        b. whereas labor accumulation has been on the rise, labor productivity â&#128;&#148;measured&#13;
+           by output per workerâ&#128;&#148;has been steadily declining. As among its regional&#13;
+           competitors, Pakistani labor is also the least productive and the gap has increased&#13;
+           in the last two decades (Planning Commission, 2011);&#13;
+        c. the contribution of capital to labor productivity growth has become decreasingly&#13;
+           importantâ&#128;&#148;almost nil in the 2000sâ&#128;&#148;thus making capital accumulation an&#13;
+           important driver behind growth in the eighties. However, its weight has&#13;
+           significantly decreased in the 2000s5 as a consequence of diminished public&#13;
+           investmentâ&#128;&#148;which halved from 10 percent of GDP in the early 1980s to 5 percent&#13;
+           of GDP in the mid-2000sâ&#128;&#148;and private investment improving only from 8 percent&#13;
+           of GDP to 10 percent of GDP over the same period; only to see a recent revival&#13;
+           since 2005 led by the private telecommunication sector and general government&#13;
+           investment;&#13;
+        d. TFP contribution has also been relevant, but dramatically declining to about one&#13;
+           fourth of its 1980s level in the 2000s, reaching an average value of 1.4 for the&#13;
+&#13;
+4 For most recent work, see World Bank (2006), Favaro and Koehler-Geib (2010) and Planning Commission&#13;
+(2011).&#13;
+5 This decrease also corresponds to the significant fall in the investment-to-GDP ratio from a peak 31.3 percent of&#13;
+&#13;
+GDP in the sixties to a bottom 18.4 percent of GDP in the 2000s (Table 2).&#13;
+&#13;
+                                                                                                                 6&#13;
+&amp;#12;                                                   What Do We Know About Growth Patterns in Pakistan?&#13;
+&#13;
+&#13;
+            whole period, i.e. a contribution of about one-third of GDP growth, still below&#13;
+            medium-term average of 2.0 in East Asia (World Bank 2006, 2010; IMF 2004);&#13;
+         e. the contribution of human capital (using schooling as a proxy) was significant in&#13;
+            the 80s, almost nil in the 90s, but rose again in the 2000s.6 Hausmann (2009)&#13;
+            indicates that as labor supply is fast growing and the country still has a very low&#13;
+            enrollment in primary education rate, it appears to evolve toward an economy&#13;
+            intensive in unskilled labor, which obviously limits its potential for raising its&#13;
+            labor productivity;&#13;
+         f. land contribution to labor productivity has been persistently negative â&#128;&#148;and close&#13;
+            to nil.&#13;
+&#13;
+15.     What makes TFP productivity slow down? Multiple responses have been advanced.&#13;
+Khan (2006) finds that TFP growth in Pakistan is associated with macroeconomic stability,&#13;
+foreign direct investment and the financial sector. World Bank (2006) indicates that TFP&#13;
+growth was particularly strong in periods where the macroeconomic environment improved&#13;
+and political stability ensued. Mahmood and Siddiqui (2000) point to TFP growthâ&#128;&#153;s close&#13;
+correlation with low levels of science and technology. All in all, and not surprisingly, the&#13;
+Framework for Economic Growth concludes that the most crucial problem for Pakistanâ&#128;&#153;s&#13;
+growth challenge is its abysmally low productivity (Planning Commission 2011).&#13;
+&#13;
+    Table 2    Pakistan Sources of Annual Growth in Labor Productivity, FY81-FY11&#13;
+&#13;
+&#13;
+                                     Average Annual Percentage Rate of Change&#13;
+                                      Investment                                           Output per worker:&#13;
+                                        as % of                    Output                   % Contribution of&#13;
+                             Real&#13;
+                                          GDP       Employment       Per&#13;
+                            Output&#13;
+                 Period                (constant      Growth       Worker       Physical      Human     Arable&#13;
+                            Growth                                                                               TFP&#13;
+                                         prices                    Growth       Capital       Capital    Land&#13;
+                                         2000)&#13;
+                FY81-FY90     6.1        18.18          1.8          4.3           1.2           0.9     -0.2    2.4&#13;
+      Total     FY91-FY00     4.4        18.79          2.4          1.9           0.8          -0.2     -0.3    1.5&#13;
+    Economy     FY01-FY10     4.8        16.56          3.8          0.9           0.1           0.6     -0.4    0.6&#13;
+                FY81-FY11     5.0        17.69          2.7          2.2           0.7           0.4     -0.3    1.4&#13;
+                FY81-FY90     4.0         1.95          1.8          2.2           1.4           0.4     -0.7    1.2&#13;
+                FY91-FY00     4.4         2.11          1.6          2.8           1.0          -0.1     -0.6    2.4&#13;
+  Agriculture&#13;
+                FY01-FY10     2.7         1.64          3.2         -0.5           0.0           0.1     -1.8    1.2&#13;
+                FY81-FY11     3.6         1.88          2.3          1.3           0.8           0.1     -1.1    1.5&#13;
+                FY81-FY90     7.7         5.77          2.0          5.6           1.7           0.7     0.0     3.1&#13;
+                FY91-FY00     4.2         6.87          1.0          3.2           2.7          -0.1     0.0     0.6&#13;
+   Industry&#13;
+                FY01-FY10     6.1         5.26          5.0          1.0          -0.9           0.5     0.0     1.5&#13;
+                FY81-FY11     5.8         5.87          2.7          3.0           1.0           0.3     0.0     1.6&#13;
+                FY81-FY90     6.6        10.47          2.8          3.7           0.6           1.2     0.0     1.8&#13;
+                FY91-FY00     4.5         9.81          3.7          0.8           0.2          -0.3     0.0     0.8&#13;
+   Services&#13;
+                FY01-FY10     5.1         9.66          4.1          1.0           0.2           0.7     0.0     0.1&#13;
+                FY81-FY11     5.4         9.94          3.5          1.8           0.3           0.5     0.0     0.9&#13;
+Source: World Bank staff&#13;
+&#13;
+&#13;
+&#13;
+6&#13;
+  Human capital in Pakistan has always been low. Educational enrollment at all levels is below its regional peers&#13;
+(21%, 14 % and 6% in primary, secondary and tertiary respectively), and the country invests 42 percent lower in&#13;
+health spending per capita. Two political economy reasons behind low human capital in Pakistan are elite&#13;
+domination and ethnic factionalism. Landed aristocracy does not see the merits of taxing itself to pay for mass&#13;
+education. High ethnic factionalism is found to be associated with poor institutions, bloated bureaucracy and&#13;
+under-provision of public goods (Easterly 2003).&#13;
+&#13;
+                                                                                                                       7&#13;
+&amp;#12;                                           What Do We Know About Growth Patterns in Pakistan?&#13;
+&#13;
+&#13;
+Sectoral Results&#13;
+16.     An analysis of inter- and intra-sectoral results show that GDP growth in Pakistan&#13;
+decelerated from 6.1 percent in 1980s to 4.4 percent in the 1990s, before mildly recovering to&#13;
+4.8 percent in the 2000s. This was partly due to a sharp decline in labor productivity from&#13;
+4.3 percent in 1980s to 1.9 percent in 1990s and to an anemic 0.9 percent in the 2000s. In&#13;
+addition, this deceleration was accompanied by steady decline in investment (as a ratio to&#13;
+GDP) and rates of all factors accumulation across the board. Decline in average TFP was&#13;
+dramatic, falling to about a quarter of its value of 2.4 percent in 1980s, even though TFP&#13;
+rates show some recovery at the end of the decade (Figure 5).&#13;
+&#13;
+  Figure 5    Growth in TFP in Output per Worker&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+17.     In the 1980s, the economy enjoyed healthy performance, primarily due to physical&#13;
+capital accumulation and TFP contribution. The industry and services sectors were more&#13;
+dynamic with strong growth rates of 7.7 percent and 6.6 percent respectively (5.6 and 3.7&#13;
+percent in output per worker respectively), while agriculture achieved a respectable 4 percent&#13;
+growth. Contribution of physical capital-to-output per worker was particularly substantial in&#13;
+the industry and agriculture sectors. The latter sector still enjoyed the benefits of the green&#13;
+revolution technology of improved seeds, irrigation and increased fertilizer use that spurred&#13;
+rapid growth initially in crop agriculture (especially wheat and rice), and later in the rapid&#13;
+&#13;
+&#13;
+                                                                                             8&#13;
+&amp;#12;                                                   What Do We Know About Growth Patterns in Pakistan?&#13;
+&#13;
+&#13;
+development of livestock production in the late 1970s (Dorosh, Niazi and Nazli 2003). The&#13;
+contribution of human capital was significant in the services sector (1.2 percent). Similarly,&#13;
+contribution of TFP was strong in industry (3.1 percent) and services (1.8 percent). It is&#13;
+worth noticing that the investment-to-GDP ratio in services averaged double digits at 10.5&#13;
+percent in this decade.&#13;
+&#13;
+18.      All sectors also benefited from several positive macro factors. The lost growth&#13;
+momentum of the 1970s7 was partly recovered in the 1980s8 by a shift from both the policies&#13;
+of state ownership and control, the benefits of large investments made by the public sector in&#13;
+the 1970s, and a general environment of price stability and external inflows. Among large&#13;
+public investment projects, the most significant ones were the Tarbela Dam that&#13;
+considerably increased irrigation water availability, the hydel power project, and others in&#13;
+the fertilizer and cement sectors. Overall, an investment-to-GDP ratio averaging 18 percent&#13;
+and inflation rates averaging 7 percent were critical in stimulating growth and employment,&#13;
+which averaged 6 percent and 1.8 percent respectively. External inflows, such as workersâ&#128;&#153;&#13;
+remittances and increased foreign assistance due to Pakistanâ&#128;&#153;s role in Afghan war, were also&#13;
+critical catalysts. TFP growth was strong in all three sectorsâ&#128;&#148;with a high 3.1 percent for&#13;
+industryâ&#128;&#148;which is consistent with literature, showing that high TFP growth is normally&#13;
+associated with high investment and low inflation. The contribution of education was also&#13;
+significantâ&#128;&#148;especially in servicesâ&#128;&#148;due to the sharp rise in educational attainment and&#13;
+completion of secondary education. Between 1985 and 1990, the percentage of people above&#13;
+15 years who had completed secondary education quadrupled from 3.9 percent to 16.5&#13;
+percent. The contribution of land was negative (as it was in all three decades), as there was&#13;
+hardly any growth in availability of arable land. Though arable area remained stagnant, the&#13;
+number of workers per unit of land increased substantially over the periodâ&#128;&#148;in part also due&#13;
+to inheritance over generationsâ&#128;&#148;which would also lead to declining productivity in the&#13;
+1990s.&#13;
+&#13;
+19.     In the 1990s, most factors that had contributed to positive growth in the previous&#13;
+decade reversed, while structural gaps inherited also affected macroeconomic performance.&#13;
+Declining quality of services and education, underperforming and loss making nationalized&#13;
+industries, power shortages, and macroeconomic imbalancesâ&#128;&#148;large fiscal deficits and a&#13;
+rapid buildup of public debtâ&#128;&#148;plagued the economy and left unresolved issues for economic&#13;
+management. Interestingly enough, the decline in TFP is puzzling as it coincides with the&#13;
+liberalization of the economy. By mid to late 1990s, the Government undertook a large&#13;
+privatization program and major investments were undertaken in telecom, roads and power&#13;
+infrastructure. In other countries such as India, such types of liberalization had resulted in&#13;
+substantial growth in TFP (Bosworth, Collins and Virmani 2007), but this was not the case of&#13;
+Pakistan. Why? One reason could be that these reforms were fragmented, badly sequenced&#13;
+or truncated in the late 2000s. Another possible explanation is by McMillan and Rodrik&#13;
+(2011), who assert that the difference between Asiaâ&#128;&#153;s recent growth, on the one hand, and&#13;
+Latin Americaâ&#128;&#153;s and Africaâ&#128;&#153;s, on the other, can be explained by the variation in the&#13;
+contribution of structural change to overall labor productivity. Hence, one of the most&#13;
+7 The decade of the 1970s featured several shocks; East Pakistan became Bangladesh in 1971 after a civil war.&#13;
+There were severe floods and political unrest. There was a paradigm shift in countryâ&#128;&#153;s economic model. Pakistan&#13;
+People Party nationalized all the major manufacturing industries, banking, insurance, education etc. which&#13;
+resulted in major disruption and loss of investor confidence. This experiment had negative impact on private&#13;
+sector growth, manufacturing and quality of education.&#13;
+8 The political regime of the 1980s abandoned further nationalization as state policy. However, it did not reverse&#13;
+&#13;
+the prior nationalizations.&#13;
+&#13;
+                                                                                                                9&#13;
+&amp;#12;                                                   What Do We Know About Growth Patterns in Pakistan?&#13;
+&#13;
+&#13;
+striking findings is that in many Latin American and Sub-Saharan African countries, broad&#13;
+patterns of structural change served to reduce rather than increase economic growth since&#13;
+1990. And this was so because macroeconomics sustainability remained a serious concern&#13;
+throughout the decade, and political uncertainty9 contributed significantly to the fluctuations&#13;
+in economic growth. There was also a question of sequencing of reforms. For instance,&#13;
+financial sector reforms in 1990s were implemented before substantial reforms on the fiscal&#13;
+side. As a result, during the 1990s government finances were under stress due to higher&#13;
+borrowing cost emanating from financial liberalization. This was compounded by&#13;
+macroeconomic instability toward the end of the 1990s due to international sanctions&#13;
+imposed on Pakistan after a nuclear detonation. Overall, lower growth in the 1990s, rather&#13;
+than reflecting trade liberalization, indicates the changing nature of domestic politics; the&#13;
+vagaries of external assistance and the inability of policymakers to implement and,&#13;
+especially, sustain reforms. To compound matters, foreign inflows which remained a&#13;
+substantial source of financing during 1980s, dried up in the 1990s due to the loss of interest&#13;
+of donors in the region, as the Afghan war ended with the USSR pulling out.&#13;
+&#13;
+20.     Where the contribution of physical capital continued to benefit the industry sector, all&#13;
+sectors, except agriculture, showed a marked decline in the contribution of TFP to labor&#13;
+productivity. Despite large investments, the industrial activity grew moderately as there was&#13;
+considerable inherited unutilized capacity available in the industryâ&#128;&#148;especially in later half of&#13;
+1990s. For its part, the agriculture sector grew on average at 4.4 percent during the decade.&#13;
+Rather than as a result of substantial growth of 1.6 percent in employment, it was the&#13;
+outcome of rising labor productivity at 2.8 percent, with a major contribution from TFP. For&#13;
+its part, the services sector continued to experience strong employment growth of 3.7&#13;
+percent, but its output per worker and TFP grew by only 0.8 percent. Contribution of human&#13;
+capital was negative across all sectors which is difficult to interpret. One reason might be that&#13;
+education attainment achieved in the second half of 1980s was not maintained in 1990s.&#13;
+&#13;
+21.     In the 2000s, although economy grew on average by about 4.8 percent during 2000s,&#13;
+TFP contribution significantly declined across all sectors.10 Pakistan went through a&#13;
+stabilization program in early part of 2000s to attain macroeconomic stability and inflation&#13;
+was brought down to around 3 percent by mid-2000s. Post September 11, 2001, the&#13;
+economic sanction imposed after nuclear detonation was eased, which allowed significant&#13;
+foreign inflows and external debt rescheduling, thus creating a sense of stability on the&#13;
+external front. On the domestic front, substantial excess capacity available in industrial and&#13;
+power sector propelled growth acceleration in the mid 2000s, with a peak 8.9 percent rate in&#13;
+2004-05. Muslehuddin (2007) compares the two periods of growth acceleration (1983-84 to&#13;
+1987-88 and 2002-03 to 2005-06) and finds that these were driven by an improved policy&#13;
+stance and a favorable external environment. But the latest spurt took place under healthier&#13;
+macroeconomic fundamentals, structural reforms, institutions, governance and private&#13;
+sector dynamism. Ensuing growth in employment during 2000s happened across all three&#13;
+sectors. However, sector disaggregation of employment finds that growth in Pakistan was not&#13;
+accompanied by the type of structural transformation which transfers labor from low&#13;
+productive sectors to high productivity sectors. In Pakistan, although employment in&#13;
+Agriculture grew by strong 3.2 percent labor productivity contracted by 0.5 percent. In&#13;
+&#13;
+9There were four elections, two caretaker governments and a military coup in 1999.&#13;
+10However, the outcome is not as bad if we confine our analysis to the period before the political and balance of&#13;
+payment crisis (2002-03 to 2007-08). During this period, contribution of TFP growth in output per worker was&#13;
+substantial at 1.3 percent.&#13;
+&#13;
+                                                                                                              10&#13;
+&amp;#12;                                                     What Do We Know About Growth Patterns in Pakistan?&#13;
+&#13;
+&#13;
+contrast, for China, during the period 1993-2004, agriculture sector employment declined by&#13;
+0.6 percent while productivity per worker grew strongly by 4.3 percent (Bosworth and&#13;
+Collins 2007).&#13;
+&#13;
+22.     The sectoral break up also shows a mixed performance in 2000s. The investments&#13;
+made in the 1990s in the infrastructure sector achieved full capacity in the 2000s, which&#13;
+allowed industry to achieve 6.1 percent growth in the sector. However, the average&#13;
+investment-to-GDP ratio of 17 percent in economy (and barely 5 percent in industry) was&#13;
+lowest in three decades. Therefore, the contribution of capital-to-output per worker was&#13;
+particularly negative at 0.9 percent in industry during the 2000s, especially in the power&#13;
+sectors. The services sector also grew strongly at 5.1 percent during the decade, but despite a&#13;
+4.1 percent growth in sectoral employment, growth in both labor productivity and TFP were&#13;
+anemic at 1.0 percent and 0.1 percent respectively.11 This shows again that services sector&#13;
+growth was mainly the result of labor accumulation. Again, this is in contrast to India and&#13;
+China, where during 1993-2004, employment growth in services was accompanied by strong&#13;
+growth in output per worker from preceding periods (Bosworth and Collins 2007).&#13;
+Contribution of human capital was positive across all sectors. Services sector which is labor&#13;
+and skill intensive was its largest beneficiary with a contribution of 0.7 percent from human&#13;
+capital to output per worker.&#13;
+&#13;
+Conclusions&#13;
+22.     Pakistan growth spurts have become scarce and growth patterns exhibit a decreasing&#13;
+trend. As the economy has a very low domestic saving rate (as percentage to GDP), Pakistan&#13;
+has remained dependent on foreign saving inflows to sustain its investments. Periods of&#13;
+positive growth performance have been better because foreign inflows were accessible and&#13;
+macroeconomic and political stability sustained policy regimes.&#13;
+&#13;
+23.     Compared to East Asian countries, Pakistan lags in all factors of accumulation. Not&#13;
+only investment rates are low and decreasing, but Pakistan falls behind in human capital&#13;
+formation and TFP growth. Low investment rates are compounded by neglected human&#13;
+capital. Contemporary growth theory also stresses the importance of human capital and&#13;
+quality of policies implemented by governments. According to UNESCO estimates, 30&#13;
+percent of Pakistanis live in extreme educational povertyâ&#128;&#148;having received less than two&#13;
+years of education. And as mentioned in the Framework for Economic Growth (Planning&#13;
+Commission 2011) â&#128;&#156;One in ten of the worldâ&#128;&#153;s primary-age children who are out of school live&#13;
+in Pakistan. This makes the country second in the global ranking of out-of-school children.&#13;
+This richest 20 per cent of Pakistanis receive almost 7 years of more education than the&#13;
+poorest. Less than half of women have ever attended school.â&#128;?&#13;
+&#13;
+24.    TFP growth can barely improve unless Pakistanâ&#128;&#153;s record of structural reform&#13;
+improves. Reform is fragmented and littered with a myriad of policy reversals. This perhaps&#13;
+is the reason that in Pakistanâ&#128;&#153;s case, structural reform has not yielded results when&#13;
+compared to other countries. In other countries such as India, liberalization had resulted in&#13;
+substantial growth in TFP (Bosworth, Collins and Virmani 2007). Economic policies should&#13;
+aim to harness private sector growth through level playing field, creating institution,&#13;
+incentives, markets to support innovation and better use of available resources.&#13;
+&#13;
+11   For truncated period (2000-01 to 2007-08), contribution of TFP in output per worker was about 0.5 percent.&#13;
+&#13;
+                                                                                                                  11&#13;
+&amp;#12;                                            What Do We Know About Growth Patterns in Pakistan?&#13;
+&#13;
+&#13;
+Annex 1. Measuring Growth in Total Factor Productivity&#13;
+The output of an economy is a function of its endowments (labor, physical capital, human&#13;
+capital, land) and the productivity with which these endowments are used to produce a flow&#13;
+of goods and services (GDP). In our framework, the growth of per-capita output can, in turn,&#13;
+be expressed in terms of four determinants (a) physical capital deepening (b) human capital&#13;
+accumulation and (c) contribution of arable land and (d) TFP growth. Gains in TFP,&#13;
+reflecting more efficient use of inputs, have long been recognized as an important source of&#13;
+improvements in income and welfare. Cross-country differences in income levels and growth&#13;
+rates are mostly due to differences in productivity (Easterly and Levine, 2001). Measuring&#13;
+TFP is therefore important in assessing a countryâ&#128;&#153;s past and potential economic&#13;
+performance.&#13;
+&#13;
+We assume constant returns-to-scale Cobb-Douglas production function to analyze the&#13;
+factor contribution and TFP in per worker output growth:&#13;
+&#13;
+                                                          â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦ (1)&#13;
+&#13;
+Where Q, A, K, and Z are real GDP, TFP, physical capital stock and arable land area&#13;
+respectively. The production function also depends on human-capital-adjusted labor input&#13;
+(LH) where L is labor force and H is human capital. One way to measure human capital is to&#13;
+adjust the number of workers for their average years of schooling (S) by assuming that each&#13;
+additional year raises workersâ&#128;&#153; productivity by a given percentage. Various estimate s suggest&#13;
+that, defined in this way, the returns to education are between 5 to 10 percent. Following&#13;
+Bosworth and Collins (2007), we assume that every additional year of schooling raises the&#13;
+labor productivity by 7 percent.&#13;
+&#13;
+&#13;
+&#13;
+        in (1) are factor shares and measures of importance of physical capital and arable&#13;
+land in output. The factor shares are assumed in following table as they are not directly&#13;
+observable.&#13;
+&#13;
+                      Factor shares in      Agriculture   Industry   Services&#13;
+&#13;
+                      Capital       Î±             0.25        0.55       0.20&#13;
+                      Arable&#13;
+                      Land          Î²             0.50        0.00       0.00&#13;
+&#13;
+                      Labor         1-Î±-Î²         0.25        0.60       0.80&#13;
+&#13;
+&#13;
+We divide all variables in (1) by Labor (L) and take a log. Resulting growth in real GDP per&#13;
+worker â?&#132; is decomposed in any sector as the sum of contributions of growth in capital&#13;
+per worker â?&#132; , growth in land per worker â?&#132; , increases in education per worker          and&#13;
+the contribution of improvements in TFP      :&#13;
+&#13;
+                        ( )      ( )                        â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦ (2)&#13;
+&#13;
+With the model parameters unchanged over the entire period by assumption, difference in&#13;
+aggregate growth between the periods is driven by underlying differences in factor&#13;
+accumulations and sectoral shifts. Srinivasan (2005) points out that all TFP growth&#13;
+&#13;
+                                                                                           12&#13;
+&amp;#12;                                          What Do We Know About Growth Patterns in Pakistan?&#13;
+&#13;
+&#13;
+estimates without exception are highly sensitive to the data used, parameter assumption, and&#13;
+above all to the methodology of estimation. For example, different authors use different real&#13;
+GDP growth dataâ&#128;&#148;some using constant domestic price-based values and others who use&#13;
+purchasing power parity-based data. Also strong maintained assumptions are made in the&#13;
+empirical analysis about production functions and the statistical properties of the&#13;
+disturbance terms that are essential components of the model used for estimation. Errors of&#13;
+measurement can also lead to substantial errors in the estimated residual. The informal&#13;
+sector economic activity that is quite significant has not been fully accounted for and can&#13;
+cause measurement error. As discussed in World Bank (2000), the interpretation of&#13;
+measured TFP growth can also be problematic when growth reflects factors other than&#13;
+purely technical changeâ&#128;&#148;such as increasing returns to scale, markups due to imperfect&#13;
+competition or gains from sectoral reallocations. In one sense, due to these unknown factors,&#13;
+TFP is some time called â&#128;&#156;the measure of our ignoranceâ&#128;? (Hausmann, Klinger and Wagner&#13;
+2008).&#13;
+&#13;
+Data are taken from number of sources for the period of 1980-81 to 2010-11. All data are&#13;
+constructed in per worker terms. For Real GDP data and sectoral shares we have used&#13;
+various issues of Economic Surveys. Data on arable land area over time is taken from FAO&#13;
+statistis. Total and sectoral employment data is collected from ILO database. In the&#13;
+database, educational attainment before 2001 is gathered from surveys conducted every five&#13;
+years and the intermediate years are interpolated. Sector-wise educational attainment is&#13;
+available only from 2003 onwards and for the preceding years the trend in aggregate years of&#13;
+schooling is applied to the 2003 estimates. Upon closer scrutiny, the sharp rise in&#13;
+educational attainment and completion is concentrated at the secondary stage between 1985&#13;
+and 1990. The percentage of people above 15 years who have completed secondary level&#13;
+education quadrupled from 3.9 percent in 1985 to 16.5 percent in 1990. Though there may be&#13;
+data quality issues, indirect evidence from the censuses of 1981 and 1988 showed a surge in&#13;
+overall literacy from 26.2 to 43.9 percent. A ten-fold increase in number of private schools&#13;
+even in rural areas between 1983 and 2000 was a significant factor though the expansion&#13;
+seems to be concentrated in primary and middle school levels (Andrabi, Das and Khwaja&#13;
+2002).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                          13&#13;
+&amp;#12;                                         What Do We Know About Growth Patterns in Pakistan?&#13;
+&#13;
+&#13;
+Bibliography&#13;
+&#13;
+Andrabi, Tahir, Jishnu Das, and Asim I. Khwaja. 2002. â&#128;&#156;The Rise of Private Schooling in&#13;
+   Pakistan: Catering to the Urban Elite or Educating the Rural Poor?â&#128;? Pomona College,&#13;
+   World Bank, and Harvard University.&#13;
+&#13;
+Bosworth, Barry, and Susan Collins. 2007. â&#128;&#156;Accounting for Growth: Comparing China and&#13;
+   India.â&#128;? National Bureau of Economic Research. Working Paper 12943.&#13;
+   http://www.nber.org/papers/w12943&#13;
+&#13;
+Bosworth, Barry, Susan Collins, and Arvind Virmani, 2007. â&#128;&#156;Sources of Growth in the Indian&#13;
+   Economy.â&#128;? National Bureau of Economic Research. Working Paper 12901.&#13;
+   http://www.nber.org/papers/w12901&#13;
+&#13;
+Burki, Shahid J. 2007. Changing Perceptions, altered reality: Pakistan's economy under&#13;
+   Musharaff 1999-2006. Oxford: Oxford University Press.&#13;
+&#13;
+Dorosh, Paul A., Muhammad Khan Niazi and Hina Nazli. 2003. â&#128;&#156;Distributional Impacts of&#13;
+   Agricultural Growth in Pakistan: A Multiplier Analysis.â&#128;? The Pakistan Development&#13;
+   Review. 42(3): 249-275.&#13;
+&#13;
+Easterly, W. 2003. â&#128;&#156;The Political Economy of Growth without Development: A Case Study of&#13;
+   Pakistan.â&#128;? In D. Rodrik, ed., In Search of Prosperity: Analytical Narratives of Growth.&#13;
+   Princeton, NJ: Princeton University Press.&#13;
+&#13;
+Easterly, William, and Ross Levine. 2001. â&#128;&#156;Itâ&#128;&#153;s not factor accumulation: stylized facts and&#13;
+   growth models.â&#128;? World Bank Economic Review. 15(2).&#13;
+&#13;
+Favaro, Edgardo, and F. Koehler-Geib, 2009. â&#128;&#156;Pakistan - A Fresh Look at the Crisis and&#13;
+   policy Priorities.â&#128;? PRMED. Washington DC: the World Bank.&#13;
+&#13;
+Government of Pakistan. 2011. â&#128;&#156;Pakistan: Framework for Economic Growth.â&#128;? Planning&#13;
+   Commission, Islamabad.&#13;
+&#13;
+Hausmann, Ricardo, Bailey Klinger, and Rodrigo Wagner. 2008. â&#128;&#156;Doing Growth Diagnostics&#13;
+   in Practice.â&#128;? CID Working paper 177. Cambridge: Harvard University.&#13;
+&#13;
+Hausmann, Ricardo, Lant Pritchett, and Dani Rodrik. 2004. â&#128;&#156;Growth Accelerations.â&#128;?&#13;
+   National   Bureau     of    Economic   Research.   Working    Paper    10566.&#13;
+   http://www.nber.org/papers/w10566&#13;
+&#13;
+Hausmann, Ricardo. 2009. â&#128;&#156;Pakistanâ&#128;&#153;s Competitiveness and Comparative Advantage:&#13;
+   Thinking About the Road Ahead.â&#128;? CID Mimeo. Cambridge: Harvard University.&#13;
+&#13;
+Hussain, Ishrat. 2009. "The Role for Politics in Pakistan's Economy." Journal of&#13;
+   International Affairs. 63(1):1.&#13;
+&#13;
+International Monetary Fund (IMF). 2004. Pakistan: Selected Issues and Statistical&#13;
+    Appendix. http://www.imf.org/external/pubs/ft/scr/2004/cr04415.pdf&#13;
+&#13;
+Khan, Safdar U. 2006. â&#128;&#156;Macro Determinants of Total Factor Productivity in Pakistan.â&#128;? SBP&#13;
+   Research Bulletin. 2(2).&#13;
+&#13;
+Khan, Shahrukh R. 2007. "Pakistan Economy since 1999: Has There Been Real Progress?"&#13;
+   South Asia Economic Journal. 8(2): 317:334.&#13;
+&#13;
+                                                                                        14&#13;
+&amp;#12;                                       What Do We Know About Growth Patterns in Pakistan?&#13;
+&#13;
+&#13;
+&#13;
+Mahmood, Zafar, and Rehana Siddiqui. 2000. â&#128;&#156;State of Technology and Productivity in&#13;
+  Pakistanâ&#128;&#153;s Manufacturing Industries: Some Strategic Directions to Build Technological&#13;
+  Competence.â&#128;? The Pakistan Development Review. 39(1):1-21&#13;
+&#13;
+McMillan, Margaret S., and Dani Rodrik. 2011. â&#128;&#156;Globalization, Structural Change and&#13;
+  Productivity Growth.â&#128;? National Bureau of Economic Research. Working Paper 17143.&#13;
+  http://www.nber.org/papers/w17143&#13;
+&#13;
+Muslehuddin. 2007. â&#128;&#156;An Analysis of Pakistanâ&#128;&#153;s Growth Experience.â&#128;? Pakistan Poverty&#13;
+  Assessment Update, Background Paper Series. Asian Development Bank. Pakistan&#13;
+  Resident Mission.&#13;
+&#13;
+Srinivasan, Thirukodikava N. 2005. "Productivity and Economic Growth in South Asia and&#13;
+    China." The Pakistan Development Review. 44(4):479-503.&#13;
+&#13;
+World Bank. 2000. â&#128;&#156;Securing Our Future in a Global Economy.â&#128;? LAC Studies. Washington&#13;
+D.C.&#13;
+&#13;
+World Bank. 2006. â&#128;&#156;Pakistan Growth and Competitiveness, Report No. 35499-PK.â&#128;?&#13;
+  Washington D.C.&#13;
+&#13;
+World Bank. 2010. â&#128;&#156;Pakistan Country Partnership Strategy, Report No.53553-PK.â&#128;?&#13;
+  Washington, D.C.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                      15&#13;
+&amp;#12;</ml:original-txt><ml:search-metadata><doc id="19311561">
+        <url>
+            http://documents.worldbank.org/curated/en/2012/12/19311561/know-growth-patterns-pakistan
+        </url>
+        <availablein>English</availablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2012/12/19311561/know-growth-patterns-pakistan</url_friendly_title>
+        <new_url>2012/12/19311561/know-growth-patterns-pakistan</new_url>
+        <disclosure_date>2014-03-28T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2014-03-28T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/03/28/000456286_20140328170807/Rendered/INDEX/862540NWP0Worl02000Growth0Patterns.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/03/28/000456286_20140328170807/Rendered/PDF/862540NWP0Worl02000Growth0Patterns.pdf</pdfurl>
+        <docdt>2012-12-01T00:00:00Z</docdt>
+        <datestored>2014-03-28T00:00:00Z</datestored>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            What do we know about growth patterns in Pakistan?
+        </repnme>
+        <abstracts>
+            This paper explores stylized facts of
+            Pakistan's growth patterns. It identifies the
+            short-lived predominant character of its increasingly scarce
+            growth accelerations, the average volatility of the growth
+            rate by international standards, the high but decreasing
+            correlation between overall growth and agricultural growth,
+            the long term decline of its growth (potential) rate to
+            around 4.5 percent, well below the 6 percent rate of the
+            1960s or from the 7 percent rate required for absorbing the
+            young labor force. It also explores the dramatically steady
+            fall in productivity during the 2000s (measured by Total
+            Factor Productivity) and, to a lesser extent, capital
+            accumulation as main reasons of such decline. The paper
+            analyzes the role factor accumulation plays in long-term
+            labor reallocation across sectors, with industry stalling,
+            agriculture still playing a major role that goes beyond its
+            own contribution to GDP, and services playing an increasing
+            role in creating employment, but on low productivity jobs.
+            Growth acceleration is not assured and Pakistan will need to
+            create more jobs moving from agriculture to industry and
+            services in activities where productivity is higher, but to
+            do this, curbing the factors that constraint growth overall
+            and sectoral and Total Factor Productivity in particular
+            will be essential.
+        </abstracts>
+        <docna>
+            What do we know about growth patterns in Pakistan?
+        </docna>
+        <display_title>What do we know about growth
+            patterns in Pakistan?</display_title>
+        <listing_relative_url>/research/2012/12/19311561/know-growth-patterns-pakistan</listing_relative_url>
+        <docty>Working Paper (Numbered Series)</docty>
+        <subtopic>Banks &amp; Banking Reform,Economic Growth,Economic Theory &amp; Research,Economic Conditions and Volatility,Achieving Shared Growth</subtopic>
+        <teratopic>Finance and Financial Sector Development,Poverty Reduction,Macroeconomics and Economic Growth</teratopic>
+        <count>Pakistan</count>
+        <authors>
+            <author>López-Cálix, J.R.</author>
+            <author>Srinivasan, T.G.</author>
+            <author>Waheed, M.</author>
+        </authors>
+        <geo_region_mdks>
+            <geo_region_mdk>World!$!80475</geo_region_mdk>
+            <geo_region_mdk>Asia!$!80451</geo_region_mdk>
+            <geo_region_mdk>South Asia!$!80470</geo_region_mdk>
+        </geo_region_mdks>
+        <entityids>
+            <entityid>000456286_20140328170807</entityid>
+        </entityids>
+        <admreg>South Asia,South Asia</admreg>
+        <colti>World Bank Policy Paper Series on Pakistan ;
+            no. PK 5/12</colti>
+        <lang>English</lang>
+        <historic_topic>Finance and Financial Sector Development,Poverty Reduction,Macroeconomics and Economic Growth</historic_topic>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            accounting framework, accounting models,
+            actual growth, agricultural growth, Agricultural Sector,
+            agriculture, Annual Growth, average growth, average growth
+            rates, bloated bureaucracy, capita growth, capital
+            accumulation, capital formation, capital stock, Comparative
+            Advantage, Competitiveness, constant returns, correlation
+            coefficient, data quality, debt, Development Indicators,
+            development policy, domestic demand, domestic saving,
+            economic activity, Economic Growth, economic history,
+            Economic Management, economic performance, economic reform,
+            Economic Research, Economic Surveys, economic uncertainty,
+            educational attainment, empirical evidence, empirical terms,
+            employment, external shocks, factor accumulation, factors of
+            production, financial liberalization, financial sector,
+            fiscal deficits, fluctuations, foreign direct investment,
+            GDP, Global Economy, Gross Domestic Product, growth
+            accelerations, growth accounting, Growth Diagnostics, Growth
+            Investment, growth models, growth pattern, growth
+            performance, Growth Potential, growth rate, growth rates,
+            growth theory, Growth volatility, Growth without
+            Development, high growth, human capital, imperfect
+            competition, income, income levels, increasing returns,
+            increasing returns to scale, inflation rates, inheritance,
+            insurance, International Monetary Fund, labor force, labor
+            input, labor supply, level playing field, long run, low
+            inflation, macroeconomic environment, macroeconomic
+            instability, macroeconomic performance, macroeconomic
+            stability, macroeconomics, mass education, negative impact,
+            output growth, payment crisis, Policy Research, policy
+            stance, political economy, political instability, political
+            stability, Poverty Reduction, price stability, primary
+            education, private investment, private sector,
+            privatization, production function, production functions,
+            Productivity Growth, public debt, public investment, public
+            sector, purchasing power, purchasing power parity, rapid
+            growth, rate of growth, real exchange rate, real GDP,
+            remittances, rural areas, Rural Poor, saving rate, sector
+            reforms, shortages, significant factor, stagflation,
+            stagnation, standard deviation, State of Technology,
+            structural change, structural transformation, technical
+            change, TFP, Total Factor Productivity, trade
+            liberalization, unskilled labor, volatility
+        </keywd>
+        <owner>Econ. Policy &amp; Poverty Sector (SASEP)</owner>
+        <geo_regions>
+            <geo_region>World</geo_region>
+            <geo_region>Asia</geo_region>
+            <geo_region>South Asia</geo_region>
+        </geo_regions>
+        <repnb>86254</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>Economic Policy and Debt</ml:concept><ml:concept>Social Development &amp; Poverty</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Teaching and Learning</ml:concept><ml:concept>Environment</ml:concept><ml:concept>Poverty Reduction</ml:concept><ml:concept>Poverty Reduction and Distributional Analysis</ml:concept><ml:concept>Poverty Reduction and Equity</ml:concept><ml:concept>Poverty and Inequality</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Social Protections and Labor</ml:concept><ml:concept>International Competitiveness</ml:concept><ml:concept>International Economics and Trade</ml:concept><ml:concept>Trade Liberalization</ml:concept><ml:concept>Trade Liberalization and Regional Integration</ml:concept><ml:concept>Trade Restrictiveness</ml:concept><ml:concept>Trade and Integration</ml:concept><ml:concept>Macroeconomic Vulnerability and Debt</ml:concept><ml:concept>Social Development</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Agriculture and Food Security</ml:concept><ml:concept>Education</ml:concept><ml:concept>Economic Growth</ml:concept><ml:concept>Environment and Natural Resources</ml:concept><ml:concept>Health, Nutrition and Population</ml:concept><ml:concept>Poverty</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Social Protection and Labor</ml:concept><ml:concept>Trade</ml:concept><ml:concept>Banks and Banking Reform</ml:concept><ml:concept>Economic Policy</ml:concept><ml:concept>Growth Policy Approaches</ml:concept><ml:concept>Growth Policy Formulation</ml:concept><ml:concept>Growth Policy Implementation</ml:concept><ml:concept>Growth Strategies</ml:concept><ml:concept>Productivity-Led Growth</ml:concept><ml:concept>Shocks</ml:concept><ml:concept>Demographics</ml:concept><ml:concept>Corporate Governance</ml:concept><ml:concept>Nationalization</ml:concept><ml:concept>Public Enterprise Reform</ml:concept><ml:concept>State Owned Enterprise Reform</ml:concept><ml:concept>State-Owned Enterprise Restructuring</ml:concept><ml:concept>Civil Service Employment</ml:concept><ml:concept>Civil Service Reform</ml:concept><ml:concept>Human Capital</ml:concept><ml:concept>Managing People</ml:concept><ml:concept>Public Employment</ml:concept><ml:concept>Analysis &amp; Monitoring</ml:concept><ml:concept>Delivery Units</ml:concept><ml:concept>Grievance Redress</ml:concept><ml:concept>Indicators</ml:concept><ml:concept>M&amp;E</ml:concept><ml:concept>Performance Measurement</ml:concept><ml:concept>Performance Reviews</ml:concept><ml:concept>Rapid Results Approaches</ml:concept><ml:concept>Remittances</ml:concept><ml:concept>Temporary Migration</ml:concept><ml:concept>Banks &amp; Banking Reform</ml:concept><ml:concept>Natural Disasters</ml:concept><ml:concept>Income</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Democratic Government</ml:concept><ml:concept>Agriculture</ml:concept><ml:concept>Economic Growth Policy</ml:concept><ml:concept>Volatility</ml:concept><ml:concept>Shocks and Vulnerability</ml:concept><ml:concept>Fertilizers</ml:concept><ml:concept>Youth</ml:concept><ml:concept>Inflation</ml:concept><ml:concept>Secondary Education</ml:concept><ml:concept>Population</ml:concept><ml:concept>State Owned Enterprises</ml:concept><ml:concept>Human Resources Management</ml:concept><ml:concept>Monitoring and Evaluation</ml:concept><ml:concept>Temporary Movement of Labor</ml:concept></ml:concepts><ml:geo-regions><ml:geo-region>Asia</ml:geo-region><ml:geo-region>Pakistan</ml:geo-region><ml:geo-region>Southern Asia</ml:geo-region></ml:geo-regions></ml:annotations></ml:doc-envelope>

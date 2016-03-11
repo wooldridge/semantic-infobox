@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>Output and Employment Changes in a "Trade&#13;
+Sensitive" Sector: Adjustment in the U.S.&#13;
+Footwear Industry                                                         SWP-430&#13;
+World Bank Staff Working Paper No. 430&#13;
+October 1980&#13;
+Prepared by: John H. Mutti (Consultant)&#13;
+Malcplm D. Bale&#13;
+Economic Analysis and Projections Department&#13;
+Copyright O 1980&#13;
+The World Bank&#13;
+1818 H Street, N.W.&#13;
+Washington, D.C. 20433, U.S.A.&#13;
+The views and interpretations in this document are those of the authors&#13;
+and should not be attributed to the World Bank, to its affiliated&#13;
+organizations, or to any individual acting in their behalf.&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+The views and interpretations in this document are those of the authors&#13;
+and phould not be attributed to the World Bank, to its affiliated&#13;
+organizations, or to any individual acting in their behalf.&#13;
+WORLD BANK&#13;
+Staff Working Paper No. 430&#13;
+November 1980&#13;
+"OUTPUT AND EMPLOYMENT CHANGES IN A "TRADE SENSITIVE" SECTOR:&#13;
+ADJUSTMENT IN THE U.S. FOOTWEAR INDUSTRY"&#13;
+This work in progress report is part of an inquiry being undertaken&#13;
+by the World Bank in conjunction with scholars from twelve industrial&#13;
+countries into the penetration of the markets of industrial countries&#13;
+by exports of manufactures from developing countries. The project seeks&#13;
+to establish the shares of industrial country markets held by the&#13;
+developing countries, changes in such shares in the 1970s, and why they&#13;
+vary among industry groups and countries. The aim is to assist developing&#13;
+and industrial countries to improve their policies through a better&#13;
+understanding of trade patterns and protectionist pressures.&#13;
+The purpose of this paper is to simulate output and employment&#13;
+changes that occur in the United States footwear industry over the&#13;
+next decade under various economic and commercial policy scenarios.&#13;
+The nonrubber footwear industry is portrayed as a "senile" industry&#13;
+with declining output and employment, a simple labor-intensive techno-&#13;
+logy, and aging plant and equipment. Using a dynamic, simultaneous&#13;
+equation model of industry adjustment which includes the interaction of&#13;
+foreign variables, the simulations indicate that even with government&#13;
+intervention and favorable economic growth in the United States, industry&#13;
+output and employment face a long term decline. Footwear production&#13;
+appears to be going through a difficult transition of migration to certain&#13;
+developing countries.&#13;
+Prepared by: John H. Mutti (Consultant)&#13;
+Malcolm D, Bale, Economic Analysis and&#13;
+Projections Department&#13;
+Copyright   1980&#13;
+he World   ank&#13;
+1818 H. Street, N.W.&#13;
+Washington, D.C. 20433&#13;
+USA&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+OUTPUT AND  MPLOYMNT CHANGES IN A "TRADE SENSITIVE" SECTOR:&#13;
+ADJUSTMENT IN THE U.S. FOOTWEAR INDUSTRY&#13;
+I. 'Introduction&#13;
+"The United States International Trade Commission (ITC) today&#13;
+reported to President Carter that the domestic'footwear industry is being&#13;
+seriously injured by imports and recommended that tariff rate quotas be&#13;
+imposed to relieve the injury. The injury determination was unanimous&#13;
+and relief would last for 5 years allowing the existing quotas of shoes&#13;
+to enter at present duties (6-15%) and "overquota" imports to enter at&#13;
+a 40% tariff rate." 1&#13;
+Such proclamations from official trade bodies seem to have&#13;
+become a growing part of international commerce in' recent years The&#13;
+shoe industry in the United States is a particularly interesting case,&#13;
+as it is a perennial recipient of import competition and government assis-&#13;
+tance. It is a classic' example of a"senile" industry with declining&#13;
+output and employment, aging plants, and an unsophisticated labor intensive&#13;
+technology, remaining in limbo for over a decade because of various govern-&#13;
+ment measures designed to offset the effect of foreign competition.&#13;
+In this paper we propose first to present an overview of the U.S.&#13;
+nonrubber footwear industry and document changes in import penetration&#13;
+that have occurred in the last decade, and second, to develop a model to&#13;
+simulate the output and employment effects on the U.S. nonrubber footwear&#13;
+industry of cnianging economic conditions in the rest of the world.&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+- 2 -&#13;
+II.  Structure of the U.S. Footwear Industry&#13;
+The U.S. nonrubber footwear industry (SIC:314) is made up of&#13;
+approximaitely 350 firms producing shoes in approximately 700 plants,&#13;
+regionilly concentrated in the New England (North East) part of the&#13;
+United States.3  Entry and exit from the industry at,the,manufacturing&#13;
+stage approximates the conditions-of 'perfect competitio.. w.l . AM - fify&#13;
+as one,quarter of the industry firms withdrawing from-and commencing pro-&#13;
+duction in any one year. It has many small firms. exit and entry are&#13;
+easy, owner management dominates, technology is constant or slowly&#13;
+advancing, economics of scale are negligible over a large range of output,&#13;
+and price leadership is absent.4&#13;
+Despite the trava.ils of the industry, the number of firms involved&#13;
+in footwear manufacturing has only declined by-about 100-(2.8 percent per&#13;
+year) since 1967.5   Footwear production has decreased by 3.3 percent&#13;
+annually since 1967 in quantity terms and by 2.8 percent annually in real&#13;
+value terms, dipping to a 40 year low in 1978 (Table-1). -Employment has&#13;
+declined at about the same rate.   (See Bale and Muttitor details,of shoe&#13;
+worker displacements.) Figure 1 demonstrates that the decrease in pro-&#13;
+duction has been largely confined to-women's and children's shoes. Imports&#13;
+have filled the gap, capturing an increasing share-of the market each year.&#13;
+Imports of shoes have grown at an. annual rate of,over 9 percent (volue&#13;
+basis) and at an annual rate of 13.5 percent in terms of-value, now captur-&#13;
+ing a full 50 petcent of the market, up from 18 percent in 1967. In addition&#13;
+to Table 1, this dramatic increase is shown in Figure 2 where the dominant&#13;
+effect of women's shoe imports can be seen.&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+- 3 -&#13;
+Figure 1. Unitcd States production of nonrubber footwear&#13;
+by major types (pairs).&#13;
+300&#13;
+~.&#13;
+150&#13;
+.......... ...~'*...... ........&#13;
+_________ ________   ~~~~~~61&#13;
+C 196319641965 966 967 t%819691970,9711972 1973&#13;
+Yar,&#13;
+LEGEND: (I) women's shoes. (2) men's shoes: (3) men's dress shoes. (4) chil.&#13;
+dren's and infants' shoes. (5) work shoes; (6) misses' shoes: (7) youths' and boys' sho4s:&#13;
+(S) athletic shoes.&#13;
+Source: Szenberg et.al. p.3&#13;
+Principal foreign suppliers to the U.S. market (1977) are Taiwan&#13;
+(125 million pairs) and Korea (43 million pairs) exporting mainly with vinyl&#13;
+shoes, and Italy (32 million pairs), Spain (24 million pairs), and Brazil&#13;
+(13 million pairs) mainly with leather shoes&#13;
+In late 1977 Orderly Marketing Agreements were negotiated with&#13;
+Taiwan and Korea to restrict their nonrubber footwear exports to the United States&#13;
+through 1981. Since signing the agreement, imports from these countries have halvec&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+Table 1: CHARACTERISTICS OF THE UNITED STATES NONRUBBER FOOTWEAR INDUSTRY (SIC-314); 1967-1979&#13;
+(million dollars)&#13;
+1967      1972       1974      1975      1976      1977       1978/'    1979/a        Percent /b&#13;
+Change&#13;
+Industry /c&#13;
+Value of shipments (nominal)        2,952     3,236     3,433      3,425     3,760     3,620      3,950     4,400             3.38&#13;
+U.S. GDP deflator                    62.5      78.9      91.3      100.0     105.3     111.6      119.9     128.9            6.22&#13;
+Value of shipments (real)           4,723     4,101     3,760      3,425     3,570     3,244     3,294      3,413           -2.74&#13;
+Total employment (000)                210       176       162        146       152       145        149         -           -3.17&#13;
+Production workers (000)              191       157       143        130       137       133        135         -           -3.20&#13;
+Product /d&#13;
+Value of shipments (nominal)        2,829     3,080     3,173      3,145     3,482     3,350      3,700     4,200            3.34&#13;
+Value of shipnents (real)           4,526     3,919     3,475      3,145     3,307     3,002      3,086     3,258           -2.78&#13;
+Quantity shipped (million pairs)      611       527       453        419       425       390        377       415           -3.28&#13;
+Unit value (real)                    7.40      7.44      7.67       7.51      7.78      7.70       8.18      7.85            0.49&#13;
+Value of imports (nominal)            219       835       981      1,132     1,449     1,500      1,900     2,070           20.58&#13;
+Value of inports (real)               350     1,058     1,074      1,132     1,376     1,344      1,585     1,606           13.54&#13;
+Quantity imported (million pairs)     133       297       266        287       370,      375        375       378            9.09&#13;
+Unit import value (real)             2.63      3.56      4.04       3.94      3.721     3.58       4.22      4.25            4.08&#13;
+Value of exports' (nominal),            8        10-       23         30        36        35         37        39           14.11&#13;
+Value of exports (real)                13        13        25         30        34        31         31        30             7.22&#13;
+Quantity exported (million pairs)       2         2         4          4         6         5          5         5             7.93&#13;
+Unit export value (real)             6.50      6.50      6.25       7.50      5.67      6.20       6.20      6.00           -0.66&#13;
+Imports as Percent of Consumption /e&#13;
+Value                                  7        21       :24         27        30        31         34        33           13.80&#13;
+Qutantity                              18        35        40         41        47        49         50        49            8.52&#13;
+Imports as Percent of Production&#13;
+Value                                   8        27        31         36        41        44         51        49            16.27&#13;
+Quantity                               21        56         58        68        86        95         98        90            12.90&#13;
+/a  Estimated by Bureau of Domestic Commerce.&#13;
+/b , Annual, endpoint, compound.&#13;
+/c  Value of all products and services sold by the nonrubber footwear industry (SIC-314).&#13;
+/d VaLhIc of shipments of nonrubber footwear made by the industry.&#13;
+/e Con:,u;ption iG product shipments plus imports minus exports.&#13;
+Source: IlS Industrial Outlook, 1979, US Department of Commerce, 1978 and 1979.&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+Figure  2.  United States imports uf leather and vinyl foutwear. 1963-1973.&#13;
+300&#13;
+/&#13;
+/&#13;
+225                   /(2)&#13;
+,            '&#13;
+.4                /~~~~~~~~~~~~~~~~~~~~~4&#13;
+° 1963 z964 t%5 i966 136. g6  19'69 19'-0 IV, 1 19'72 1 37-3&#13;
+Year&#13;
+LEGEND: (I) tOtal nonrubber: (2) women's shoes: (3) men's shoes', (4) children's and&#13;
+infants' shoes.&#13;
+Source:. Szenberg et.al. P.7&#13;
+whlUe imports from Hong Kong and the Philippines have increased by 250&#13;
+and 1250 percent respectively. This inc-rease is attributed to footwear&#13;
+parts cut and partially assembled in Korea and Taiwan, shipped to one of&#13;
+the above countries for finishing, and then shipped to the United States&#13;
+Subsequently (November 1978) the United States has negotiated a licensing&#13;
+system with Hong Kong where "certificates of or.gin" are issued for footwear&#13;
+made from Hong Kong components. All noncertificated-footwear from Hong Kong&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+- 6 -&#13;
+is excluded from entry. Korea and Taiwan countered their restricted&#13;
+access to the U.S. market by upgrading the quality of their quota and by&#13;
+exporting "lasted uppers" - shoes without soles which are not subject to&#13;
+the OMA and are outside the 814 tariff classification. The United States&#13;
+has since neutralized this by including lasted uppers within the OMA.&#13;
+A recent development in the U.S. footwear industry, not apparent&#13;
+from the data, is the role of certain rubber footwear on the nonrubber&#13;
+footwear sector. Many types of rubber footwear such as waterproof overshoes&#13;
+and rubber boots are not normally considered close substitutes for nonrub-&#13;
+ber footwear. But sneakers (i.e. rubber soled/fabric upper shoes) are&#13;
+close substitutes. A recent fashion trend in the United States has been&#13;
+the widespread acceptance of sneakers for everyday casual use especially&#13;
+among children and young adults. Sales and imports of sneakers have&#13;
+increased dramatically in recent years and must have had a sizeable impact&#13;
+on the nonrubber footwear industry, even though most attention has been&#13;
+paid to nonrubber footwear imports. Domestic sneaker production increased&#13;
+from 81 to 87 million pairs from 1977 to 1978 while imports jumped from&#13;
+100 million pairs to 207 million pairs. This is a one year increase in&#13;
+import penetration from 55 percent to 70 percent. The major sources of&#13;
+imports of sneakers are Taiwan and the Republic of Korea -- the two&#13;
+nations where the United States negotiated OMA's on nonrubber footwear in&#13;
+1977. The rapidity with which these countries respond to a changing trade&#13;
+envirorment is simply amazing. Of total footwear exports from Korea in&#13;
+1977 70 percent were nonrubber and 30 percent were rubber footwear. In&#13;
+1978 these percentages were reversed6&#13;
+The decline in the nonrubber footwear industry in the United&#13;
+States over the last decade is not unique to the U.S. Virtually all&#13;
+industralized countries (with the obvious exceptions of Italy and Spain)&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+- 7 -&#13;
+are experiencing reductions in domestic shoe production while imports,&#13;
+mainly from developing countries, increase. Table 2 shows the increasing&#13;
+import penetration of selected industralized countries for certain years.&#13;
+Table 2.   Share of imports in consumption&#13;
+of footwear with leather uppers (percent)&#13;
+Countries                1963            1973           1975           1977&#13;
+Germany                    14              45             54             66&#13;
+Demark                     19              80             54             64&#13;
+France                      4              17             29             32&#13;
+United Kingdom              8              19             28             35&#13;
+Netherlands                19              63             71             82&#13;
+Austria                      7             42             65             94&#13;
+Sweden                     35              74             76             83&#13;
+Switzerland                31             64              72             77&#13;
+United States               5              27             30             35&#13;
+Source:  The Footwear, Rawhides and Skins, and Leather Industry&#13;
+in OECD countries, OECD, Paris, 1976 and 1979.&#13;
+The saga of market forces searching for alternative ways to Lain mar-&#13;
+ket access thus continues while government officials, reinforced by the industry,&#13;
+fight a rearguard action of plugging leaks in the protective structure. This&#13;
+is but one chapter in a continuing drama which is repeated daily with different&#13;
+players and different products throughout the world.&#13;
+The next section of the paper develops a model which simulates the&#13;
+output and employment effects of changing economic conditions in the rest of&#13;
+the world under alternative trade cegimes on the U.S. nonrubber footwear industry.&#13;
+The model has several features. First, it is dynamic in that the output from one&#13;
+year is fed into the following year. A dynamic framework is desirable to&#13;
+trace the annual impact of changing growth rates, productivity, and the stag-&#13;
+ing of tariffs over an extended period. Second, foreign influences such as&#13;
+productivity growth and other economic variables are incorporated in four&#13;
+simultaneous equations.&#13;
+Finally, simulations are extended over a ten year period in the&#13;
+absence of restrictions on footwear imports and in the presence of the&#13;
+proposed ITC tariff-quota.7&#13;
+III. An Analytical Model of Industry Output Determination&#13;
+The structural model presented here to deal with the interaction&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+-8-&#13;
+of foreign and domestic factors is based on supply and demand responses in&#13;
+the markets for imports and domestic competing goods. The product is treated&#13;
+as if the United States does not export it! Consequently, demand&#13;
+for U.S. output depends merely on domestic sales. Since the supply of imports&#13;
+to the United States is the residual of foreign supply less foreign demand,&#13;
+foreign income enters this equation, as well as output prices, input prices&#13;
+and a productivity factor. Equations 1 to 4 represent the model.&#13;
+ln Md = a0+ al nY/Pr + a2ln E(l+t)Pm/Pr + a3lnP/Pr ....... (1)&#13;
+ln Dd   8 00+ 81lnY/Pr + a2ln E(l+t)Pm/Pr + 8 3lnPIPr .......(2)&#13;
+lnMs - y     y+ T + y2lnPm + y3lnPm + y4lnYf'&#13;
+in D  - 5 + 61T + Si2laP + S 31np*&#13;
+Where, Md and Ma are quantities. of imports elmanded and supplied, respectively,&#13;
+Dd and Ds are quantities of the domestic good demanded and supplied, respec-&#13;
+tively, Y is money income, Pm is the foreign currency price of imports, E is&#13;
+the exchange rate, t is the tariff rate, P is the dollar price of the domestic&#13;
+good, Pr is an index of all other final good prices, T is time, Pm is a&#13;
+composite input price for foreign goods' production, Yf is real foreign&#13;
+income, and P is a composite input price for domestic goods' production.&#13;
+The approximation of constant elasticities is imposed.&#13;
+If the footwear industry accounts for a small share of total output,&#13;
+then income, the price index of other final goods, the exchange rate, and all&#13;
+input price indices can be regarded as exogenously determined.9&#13;
+Output prices are determined endogenously, so that when we calculate&#13;
+equilibriwa values where quantity supplied equals quantity demanded,&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+-9-&#13;
+we can derive the four endogenous variables as functions of the seven&#13;
+exogenous variables in familiar reduced form expressions. We express all&#13;
+variables in terms of rates of change. This framiewiork illustrates explic-&#13;
+itly the structural features of the economy implicit in other research.&#13;
+In matrix form the equation set can be written as:&#13;
+1 -a2-O      0   &amp;I/          a1 a  a4 0   0  0  0     IY /Y&#13;
+1  2    3    -dlM12                 4°°°O          -                 _&#13;
+0 - 82 - 83 1     dPm/Pm      a1  2 B4 0   0  0  0     d[E(1+t)/E(1+t)&#13;
+1 - y2    0  0   dP/P        0   0  0  yl Y3 Y4 0      dPr/Pr&#13;
+dT~ &#13;
+0   °   -  2 1   dD/DJ° 0        0  0  6   0  n0  6    dPm /PM*&#13;
+L  ~      21JL                         1.3           dYfIYf&#13;
+dP* /P*&#13;
+Due to the no-money illusion constraint,&#13;
+a .   -(a1 + a2 + a3) and    4=(31 +82 +        3).&#13;
+Because the model is based on relationships which hold in equilibrium, it&#13;
+is well suited for capturing underlying trends which determine longer-run&#13;
+results.&#13;
+IV. Structural Estimates of the Model&#13;
+Implementing the model requires parameter estimates of the supply&#13;
+and demand coefficients in equations 1 to 4, and projections of values for&#13;
+the exogenous variables into the future. In this section we describe the&#13;
+derivation of parameter estimates.&#13;
+The import demand equaticn is estimated over 1958-72 to&#13;
+minimize the difficulty of collecting comparable data from foreign and&#13;
+domestic sources, especially with respect to foreign price and input cost&#13;
+data (unavailable for footwear before 195C2).      The domestic demand equation&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+- 10 -&#13;
+is estimated over the period 1947-72, although the international prices&#13;
+variables must be set equal to the 1958 value over.the first portion of&#13;
+1.1,&#13;
+the sample. The estimated coefficient values sare:&#13;
+dMd     2.48 dY dPr _   3     d[E(1+t)Pn]/dPr +    63 - /Pr&#13;
+2-4-I-           --I.0--3--&#13;
+Md           Y  Pr            E(l+t)m     Pr    P* Pr&#13;
+(7.56)         (-5.74)                    (.50)&#13;
+- ,    9 9  .W . - 2_g&#13;
+Qud       63 dY dPr          dEE(I+t)PmrldPr           dP dPr&#13;
+, 63 /- +         .70              I--      .70  p   P&#13;
+Dd           Y/ Pr            E(1+t)Pm    Pr           P pr&#13;
+(6.53)         (-4.09)                   (-4.09)&#13;
+K2 . .96, D.W. a 1.62&#13;
+These estimates were made using ordinary least squares and an&#13;
+iterative Cochran-Orcutt correction for. autocorrelation. Estimates made&#13;
+using two stage least squares yield quite similar estimates, a result which&#13;
+might be expected using a short data series or which mieht sug2est that&#13;
+prices are predetermined and not endogenous.&#13;
+The domestic supply equation is estimated with price as the dependent&#13;
+variable using 1947-72 data. The weighted sum of input prices is assumed to&#13;
+be exogenous, an assumption that wJill hold if the footwear industry is not&#13;
+12&#13;
+the major buyer of the inputs.&#13;
+dP        Q-d  +   97"       - .016dT           -2&#13;
+dP                                                R  3 .9696, D.W. - 2.43&#13;
+(-.41)      (17.8)&#13;
+The coefficient for the change in quantity is not significant, and the unexpected&#13;
+negative sign suggests economies of scale in production wnici are un±iKely in&#13;
+the footwear industry.   The estimates are conslstcnt with other empirical&#13;
+price equation analyses wh'ch su-ggest that constant returns to scale occur&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+- 11 -&#13;
+in the industry. Consequently price is not dependent on the scale of output&#13;
+(Perry, and Szenberg et. al. Chapter 2)..&#13;
+Unfortunately, adequate data is not available to estimate a comparable&#13;
+import price equation. The United States is assumed to be a price taker in&#13;
+the international shoe market, an assumption consistent with Richardson's&#13;
+results. This assumption does not limit the simulation analysis because the&#13;
+critical issue is how to project the rate of change of foreign costs relative&#13;
+tc U.S. costs, and changes in foreign versus U.S. productivity.&#13;
+V. Output Simulations With and Without Government Intervention&#13;
+Based on the parameter estimates above, the model is simulated for&#13;
+the case of no government intervention in the economy, and then again allowing&#13;
+for a recent proposal by the International Trade Commission to introduce a&#13;
+policy of sharply increased tariffs on imports above a certain level.&#13;
+The basic scenario assumes that U.S. real growth will continue at&#13;
+the same rate over the next decade as was experienced over the past decade, that&#13;
+is at 3.2 percent per annum. Obviously, if the U.S. growth rate falls due say to&#13;
+energy constraints, prospects for any single industry such as footwear will&#13;
+be less favorable, while any acceleration in the growth rate due, for example,&#13;
+to an improving investment climate, will improve its prospects.&#13;
+With respect to rising costs of production in the United States and&#13;
+abroad, and any offsetting productivity gains, there are several ways to allow&#13;
+for these interrelated factors. One possibility is to assume that input cost&#13;
+increases occur at the same rate in the United States as abroad, but that pro-&#13;
+ductivity in the shoe industry increases at a faster rate abroad than in the&#13;
+United States.    More rapid foreign productivity increases might occur because&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+- 12 -&#13;
+of the faster rate of increase in foreign output, implying that a larger percentage&#13;
+of foreign output will be produced with newer. more efficient machinery.&#13;
+Another way of viewing the process is to assume that any productivity&#13;
+changes are comparable in the U.S. and foreign shoe industries-, but to allow for&#13;
+14&#13;
+different rates of cost increase in the United States and abroad,.    This&#13;
+scenario corresponds to the suggestion that the United States is pricing itself&#13;
+out of the shoe market because U,.S. wages rise over time while the wages paid&#13;
+by foreign suppliers remain fairly constant due to the availability of a low&#13;
+wage pool of workers.&#13;
+The simulations include two different sets of values with respect to&#13;
+relative productivities and input cost changes. In the first case, foreign&#13;
+productivity is assumed to increase twice as quickly as in the United States,&#13;
+with Input costs ris-ing at the same annual rate of eight percent. The numerical&#13;
+results derived are equivalent.to those which would be obtained if product-ivity&#13;
+changes.were assumed to be comparable, but U.-S. footwear production costs rose&#13;
+a .third again as quickly as abroad. The second numerical example rest-s on&#13;
+foreign productivity increasing four times as. fast as in the United States, with&#13;
+input cost inflation as above. The results correspond to-those that would obtain&#13;
+if productivity changes were identical.but U.S. input cosrs ros-e four times as&#13;
+fast as abroad. While' the latter case may seem;extreme, it is included to&#13;
+illustrate the non-linearity of the projected results,&#13;
+Under these conditions, the projections of ourput changes in the&#13;
+initial year and cumulatively after ten years, as well as the accompanying&#13;
+employment changes, are as reported in Table 3 us-ing 1976 as the base year,&#13;
+The figures suggest that whether 'U.S. footwear'output- increatses or declines&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+- 13 -&#13;
+Table 3: OIUTPUT AND EMPLOYMENT PROJECTIONS&#13;
+FOR THE NONRUBBER SHOE INDUSTRY&#13;
+Pereentage Output Changes&#13;
+Foreign productivity 2X U.S.     Foreign productivity 4X U.S.&#13;
+or                               or&#13;
+U.S. cost increase 1.33X foreign U.S. cost increase 4X foreign&#13;
+Cumulative change              No         USITC                  No        USITC&#13;
+as of given year         Intervention     Plan             Intervention    Plan&#13;
+1                      0,6          9,0                -1.7          9.0&#13;
+5                      2.8         18.1                -8.2         13.0&#13;
+10                      5.6         12.9               -15.7         -3.6&#13;
+Percentage Employment Changes&#13;
+Foreign productivity 2X U.S.     Foreign productivity 4X U.S.&#13;
+or                               or&#13;
+U.S. cost increase 1.33X foreign  U.S. cost increase 4X foreign&#13;
+Cumulative change              No         USITC                  No       USITC&#13;
+as of given year         Intervention     Plan             Intervention   Plan&#13;
+1                     -1.1          7.4                 -3.3        7.4&#13;
+5                     -5.2          9.2                -15.4        4.5&#13;
+10                    -10.1         -3.7                -28.5      -18.0&#13;
+Values of Exogenous Variables&#13;
+Annual change in real income: 0.032&#13;
+Annual appreciation of exchange rate: 0.005&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+- 14 -&#13;
+is dependent on relative cost and productivity changes, the cumulative 10&#13;
+year change varying from an increase of 5.6 percent to a decrease of 15.7&#13;
+percent depending on the scenario. At the end of the decade, the secular&#13;
+decline in employment will range from 10 percent to 28 percent of the footwear&#13;
+labor force. These figures are for the industry as a whole and ignore the&#13;
+fact that some firms (the large ones) will expand due to distribution economies&#13;
+and the ability to respond quickly to design changes, while some will cease to operate&#13;
+The magnitudes of these adjustments demonstrate why the footwear&#13;
+industry has a strong incentive to lobby for some form of protection from&#13;
+foreign competition. The remedy proposed by three of the six ITC commissioners,&#13;
+following the 1977 finding of injury by foreign competition, was that up to&#13;
+265 million pairs of shoes be allowed to enter annually at the current tariff&#13;
+rate of approximately 9 percent, but that all imports above this level should&#13;
+be dutiable at the rate of 40 percent. This rate would be in effect for the&#13;
+first three years, and then would fall to 30 percent in the fourth year, 20&#13;
+percent in the fifth year, and be eliminated in the sixth year.&#13;
+Since footwear imports in 1976 were 370 million pairs, the effect of&#13;
+the proposal clearly is to reduce imports. However, to project how much they&#13;
+will be reduced we must ask, refering to Figure 3, whether the additional&#13;
+tariff leads to a potential price greater than or less than Pm, the price which&#13;
+would be consistent with imports of exactly 265 million pairs of shoes. If the&#13;
+40 percent tariff leads to a potential price greater than im, then imports will&#13;
+not fall below 265 million pairs, since the tariff is not effective at that&#13;
+level of imports, but the price will rise to 'Pm. Alternatively, if the 40&#13;
+percent tariff results in a price rise less than im, then imports will not fall&#13;
+to 265 million pairs, and some additional tariff revenue will be collected.&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+Figure 3&#13;
+TWO POTENTIAL RESULTS FROM IMPOSING AN OVER-QUOTA TARIFF&#13;
+Import&#13;
+Price&#13;
+____       -.~s        (1 __  __Sf(I + t2&#13;
+p&#13;
+m.\&#13;
+-~~~~_S (1 + t)&#13;
+f       1&#13;
+p              ___________________  __ Sf(   t)&#13;
+Pm                                 &gt;           f&#13;
+D&#13;
+Quantity&#13;
+Q0                    Imported&#13;
+(265 million pairs     (370 million pairs&#13;
+1974 level)            1976 level)&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+- 16 -&#13;
+Because of growth in income and changes in productivity in each&#13;
+succeeding year, the effect of the quota-tariff policy must be assessed in the&#13;
+dynamic framework already developed. The tariff equivalent of the quota of&#13;
+265 million pairs of shoes varies over time, but whether this variation is&#13;
+important or not depends upon whether the quota is binding and the additional&#13;
+tariff inoperative, or whether the additional tariff is operative and imports&#13;
+exceed the quota level. We might expect that the quota is binding initially&#13;
+since the desired reduction in imports can be achieved with a rise in price&#13;
+smaller than that which would,result under a 40 percent tariff.   However, as&#13;
+demand expands over time and imports become relatively cheaper due to greater&#13;
+foreign productivity changes, imports probably will rise above the quota level&#13;
+since the size tariff necessary to restrict imports to 265 million pairs of&#13;
+shoes will be greater than 40 percent.&#13;
+The results from this policy of government intervention are given in&#13;
+Table 3, also. They demonstrate that the policy will have a significant&#13;
+effect in retarding the decline of domestic employment, due to the expansion&#13;
+which occurs in the first five years. Because the demand for imports is price&#13;
+responsive, the over-quota tariff is not operative in the first three years,&#13;
+and imports exceed the level of 265 million pairs only as the tariff is reduced.&#13;
+As the tariff is phased out, imports rise quite rapidly, and as a consequence&#13;
+the effect on domestic output after ten years is not as favorable as in the&#13;
+very short run. The longer the time horizon chosen, the smaller the difference&#13;
+the short-run policy shift will make. The policy may be characterized as&#13;
+representing a method of buying time, which will not alter very much the long-&#13;
+run prospects of the U.S. shoe industry nor necessarily assist the needed&#13;
+structural adjustment.&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+- 17 -&#13;
+Possibly other factors not explicitly considered in the model would&#13;
+justify the policy even in a longer run context. For instance, if the initial&#13;
+favorable spurt in domestic growth allows producers to install more technically&#13;
+advanced equipment than they can under current financial arrangement constraints,&#13;
+perhaps the U.S.-foreign productivity differential will narrow. Alternatively,&#13;
+the ability of other countries to expand output based on low wage labor may be&#13;
+less feasible in the future. However, neither of these two possibilities seems&#13;
+likely to alter the generally unfavorable future projected above. Displacements&#13;
+are avoided in the short run, which may be politically attractive to those&#13;
+holding office now, but no change in the underlying dynamic factors occurs.&#13;
+V.  concluding Comae-ts&#13;
+In this paper we have examined the structure of the U.S. nonrubber&#13;
+footwear industry showing how, in the recent decade, it has suffered from&#13;
+increasing import competition. The industry has declined in terms of output,&#13;
+number of firms, and employment, while imports have captured an increasing&#13;
+share of the market. We then quantify some possible future changes in the&#13;
+industry incorporating various international economic variables in a dynamic&#13;
+model of industry output and employment. Using the model various scenarios&#13;
+involving alternative comercial policy and the international variables can&#13;
+be made. For the footwear industry our results do not offer the industry a&#13;
+bright future. Even with government intervention we find a long run decline&#13;
+in industry output and employment. The proposed International Trade Commission&#13;
+quota-tariff policy is merely a temporary solution which simply postpones the&#13;
+adjustment problem rather than addressing it directly.&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+- 18 -&#13;
+FOOTNOTES&#13;
+1.  "News", USITC, Washington, D.C., February 1977    The Pres-&amp;dent subsequently&#13;
+rejected the recommendation on the g-rounds that i-t would be inflationary,&#13;
+but instead negotiated Orderly Marketing Agreements (O01!s) with Taiwan&#13;
+and Korea.&#13;
+2. The following quotation made after the ITC ruling is symptomatie of the&#13;
+perceived need to protect the domestic industry wtth little at-tention&#13;
+given to tnre long-run factors which call for more basic adjus-tment.&#13;
+"Creation of th-ese (special footwear stimulus) programs cli:maxxed approx-i-&#13;
+mately 15 years of strugglzng by the domestic shoe industry to gain&#13;
+government recognition of the seriousness of their import problem,"&#13;
+Myrtis L. Byrnes, Consumer Goods Division, U.S. Department of Commerce.&#13;
+3. The nonrubber footwear industry (SIC-314) consists of mens footwear, except&#13;
+athletic; womens footwear, except athletic; house slippers; and ocher toot-&#13;
+wear, except rubber. The rubber footwear industry (SIC-3021) consists of&#13;
+rubber and plastic footwear, protective and waterproof footwear, and&#13;
+rubber soled/fabric upper footwear.&#13;
+4. There is lack of Drice leadership despite the fact that there are a few&#13;
+dominant producers: in 1976 24 percent of the firms Produced 82 Dereent&#13;
+of output and industry concentration is unchanped over the last 20 years&#13;
+(Szenberg et. al.. P. 15).&#13;
+5. In this paper we use "firm" in a corporate sense as distince from "footwear&#13;
+establishments" or Dlants.  Thus one firm may operate several footwear&#13;
+estabslishments.&#13;
+6. Personal communication with J. Murphy, Special Trade Representatives Office,&#13;
+Washington, D.C.&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+- 19 -&#13;
+7. Although the ITC policy was never implemented, we chose to analyze it here&#13;
+since the OMA's appear to be failing. This is due to switching to sup-&#13;
+pliers not covered by the OMA and because of upgrading of the product mix&#13;
+from those countries covered by the OMA. Further, it appears that the&#13;
+intent of the OMA is to postpone industry adjustment, and we are interested&#13;
+in estimating the dimensions of this adjustment, if allowed.&#13;
+8. This condition is met for all practical purposes in the case of nonrubber&#13;
+footwear.&#13;
+9.  Since the primary concern is to project longer-run employment changes,&#13;
+attention should be paid to factor markets. We have not explicitly&#13;
+modelled them because the ratio of wages to capital was determined&#13;
+exogenously in national factor markets over the 1960s and into the&#13;
+early 1970s, implying proportional employment adjustment to output&#13;
+changes. Since that time the growth of wages in t'ie footwear industry&#13;
+has not kept pace with national wage increases. Yet the labor/output&#13;
+ratio has fallen at an annual rate of approximately 1.6 percent, result-&#13;
+ing in a fall in the demand for labor which is even greater than the fall&#13;
+in output.&#13;
+10. A further problem in the estimation of import demand equations rests on&#13;
+the choice between using poor unit value proxies for import prices or&#13;
+omitting the foreign currency price entirely. See Richardson for a&#13;
+justification of the latter procedure.&#13;
+11. For a discussion of alternative methods of dealing with incomplete data&#13;
+sets, see Afifi and Elashoff. The method used here results in less&#13;
+variation of the import price variable, which yields imprecise coefficient&#13;
+estimates. Consequently the own-price and cross-price elasticities of&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+- 20 -&#13;
+demand could not be shown to differ significantly in absolute value, and&#13;
+therefore were constrained.to be equal in the analysis.&#13;
+12. Attempts-were made to include other variables-sindicating,.the effect.of&#13;
+output on price, such as capacity utilization rates, but no signLficant&#13;
+results were obtained.   In the reported estfmate the coefficient for the&#13;
+time trend was constrained to equal the negative of the physical produc-&#13;
+tivity rate.&#13;
+13. The theory of global monetarism suggests that similar rates of inflation&#13;
+will yield no change in exchange rates. That conclusion will not hold in&#13;
+the short run if significant capital flows occur for other reasons. The&#13;
+simulations reported assume that the U.S. dollar does appreciate slightly&#13;
+due to inflows of capital from oil ex-porting countries&#13;
+14. Smaller production cost increases in, the foreign.-ahne Tindustrv would not&#13;
+result in.appreciation of those count-ries' currencies unless the co.st&#13;
+performance is replicated in all industries and the absence of currency&#13;
+market intervention.&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+- 21 -&#13;
+REFMUNCES&#13;
+Afifi, A. and Elashoff, R., "Missing Observations in Multivariate&#13;
+Statistics: Review of the Literature," Journal of the American&#13;
+Statistical'Association, (September 1966), pp.595-605.&#13;
+Bale, M.D. and J.HR Muttis "Income Losses, Compensation, and Interna-&#13;
+tional Trade," The Journal of Human Resources, 13 (1978):278.&#13;
+Perry, G., "Capacity in Manufacturing," Brookings Papers on Economic&#13;
+Activity, (1973), pp. 701-742.&#13;
+Richardson, J.D., "Estimating Demand and Supply Parameters for Imports&#13;
+without Import Prices: Methodology and Empirical Results," American&#13;
+Statistical Association. 1973 Proceedings of the Business and Economic&#13;
+Statistics Section. Washington: American Statistical Association,&#13;
+1974.&#13;
+, "Some Issues in the Structural Determination of International Price&#13;
+Responsiveness," Proceedings of the Conference on Quantitative Studies&#13;
+of International Economic Relations, Brussels: Presses Universitaires&#13;
+de Namur, 1975.&#13;
+Szenberg, M., J.W. Lombardi, and E.Y. Lee,  Welfare Effects of Trade&#13;
+Restrictions: A Case Study of the U.S. Footwear Ii%dustrY, Academic&#13;
+Press, N. Y., 1977.&#13;
+U.S. International Trade Commission, Footwear, USITC Publication 799,&#13;
+Washington, D. C., 1977.&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+MARKET PENETRATIOTN RESEARCH PROJECT--WORK-IN-PROGRESS REPORTS&#13;
+425      Britain's Pattern of Specialization in Manufactured Goods     Vincent Cable &amp;&#13;
+with Developing Countries and Trade Protection               Ivonia Rebelo&#13;
+426      Worker Adjustment to Liberalized Trade: Costs and             Graham Glendas"&#13;
+Assistance Policies                                          Glenn P. Jenkins&#13;
+John C. Evans&#13;
+427      On the Political Economy of Protection in Germany             H.H. Glismann 6&#13;
+F.D. Weiss&#13;
+428      Italian Commercial Policies in the 1970s                      Enzo Grilli&#13;
+429      Effects of Non-Tariff Barriers to Trade on Prices,&#13;
+Employmant, and Imports: The Case of the Swedish&#13;
+Textile and Clothing Industry                                Carl Hamilton&#13;
+430      Output and Employment Changes in a "Tr.ade&#13;
+Sensitive" Sector: Adjustment in the U.S. Footwear           John Mutti &amp;&#13;
+Industry                                                     Malcolm Bale&#13;
+431      The Political Economy of Protection in Belgium                P.K.M. Tharaknn&#13;
+432      European Community Protection Against ;Aanufactured           Eric 'V'erreydt&#13;
+Imports from Developing Countries: A e'ase Study in               &amp;&#13;
+the Pol'..tical Economy of Protection                        Jean Waelbroeck&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+</ml:original-txt><ml:search-metadata><doc id="1555006">
+        <url>
+            http://documents.worldbank.org/curated/en/1980/10/1555006/output-employment-changes-trade-sensitive-sector-adjustment-footwear-industry
+        </url>
+        <availablein>English</availablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/1980/10/1555006/output-employment-changes-trade-sensitive-sector-adjustment-footwear-industry</url_friendly_title>
+        <new_url>1980/10/1555006/output-employment-changes-trade-sensitive-sector-adjustment-footwear-industry</new_url>
+        <disclosure_date>2010-07-01T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2010-07-01T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2002/11/28/000178830_98101903405785/Rendered/INDEX/multi0page.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2002/11/28/000178830_98101903405785/Rendered/PDF/multi0page.pdf</pdfurl>
+        <docdt>1980-10-31T00:00:00Z</docdt>
+        <datestored>2002-11-28T00:00:00Z</datestored>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            Output and employment changes in a
+            "trade sensitive" sector : adjustment in the U.S.
+            footwear industry
+        </repnme>
+        <abstracts>
+            The purpose of this paper is to simulate
+            output and employment changes that occur in the United
+            States footwear industry over the next decade under various
+            economic and commercial policy scenarios. The nonrubber
+            footwear industry is portrayed as a senile industry with
+            declining output and employment, a simple labor-intensive
+            technology, and aging plant and equipment. Using a dynamic,
+            simultaneous equation model of industry adjustment which
+            includes the interaction of foreign variables, the
+            simulations indicate that even with government intervention
+            and favorable economic growth in the United States, industry
+            output and employment face a long term decline. Footwear
+            production appears to be going through a difficult
+            transition of migration to certain developing countries.
+        </abstracts>
+        <docna>
+            Output and employment changes in a
+            "trade sensitive" sector : adjustment in the U.S.
+            footwear industry
+        </docna>
+        <display_title>Output and employment changes in
+            a "trade sensitive" sector : adjustment in the
+            U.S. footwear industry</display_title>
+        <listing_relative_url>/research/1980/10/1555006/output-employment-changes-trade-sensitive-sector-adjustment-footwear-industry</listing_relative_url>
+        <docty>Staff Working Paper</docty>
+        <subtopic>Health Monitoring &amp; Evaluation,Environmental Economics &amp; Policies,Economic Theory &amp; Research,Water and Industry,Banks &amp; Banking Reform</subtopic>
+        <teratopic>Water Resources</teratopic>
+        <count>United States</count>
+        <authors>
+            <author>MUTTI, J.</author>
+            <author>BALE, M.</author>
+        </authors>
+        <geo_region_mdks>
+            <geo_region_mdk>World!$!80475</geo_region_mdk>
+            <geo_region_mdk>America!$!80450</geo_region_mdk>
+            <geo_region_mdk>North America!$!80465</geo_region_mdk>
+        </geo_region_mdks>
+        <entityids>
+            <entityid>000178830_98101903405785</entityid>
+        </entityids>
+        <subsc>(Historic)Trade</subsc>
+        <admreg>OTH</admreg>
+        <colti>Staff working paper ; no. SWP 430</colti>
+        <lang>English</lang>
+        <historic_topic>Water Resources</historic_topic>
+        <sectr>(Historic)Economic Policy</sectr>
+        <majdocty>Publications,Publications &amp; Research</majdocty>
+        <keywd>
+            Shoe industry; Simulation; Labor intensity
+            aging,base year,capital
+            flows,climate,constant returns to scale,Economic
+            Activity,Economic Analysis,economic conditions,economic
+            growth,Economic Relations,Economic Statistics,economics of
+            scale,economies of scale,elasticities,employment,endogenous
+            variables,equilibrium,exchange rate,exchange rates,exogenous
+            variables,exports,foreign competition,GDP,GDP
+            deflator,government intervention,growth
+            rate,imports,income,infants,inflation,input
+            prices,International Trade,ITC,labor
+            force,Marketing,migration,oil,Political Economy,price
+            elasticities,producers,production cost increases,production
+            costs,productivity,productivity growth,productivity
+            increases,quotas,real income,structural adjustment,Tariff
+            Barriers,total output,wages,Welfare Effects,workers,young adults
+        </keywd>
+        <owner>LCS</owner>
+        <geo_regions>
+            <geo_region>World</geo_region>
+            <geo_region>America</geo_region>
+            <geo_region>North America</geo_region>
+        </geo_regions>
+        <repnb>SWP430</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>Economic Policy and Debt</ml:concept><ml:concept>Social Development &amp; Poverty</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Social Protections and Labor</ml:concept><ml:concept>International Competitiveness</ml:concept><ml:concept>International Economics and Trade</ml:concept><ml:concept>Trade Liberalization</ml:concept><ml:concept>Trade Liberalization and Regional Integration</ml:concept><ml:concept>Trade Restrictiveness</ml:concept><ml:concept>Trade and Integration</ml:concept><ml:concept>Industry</ml:concept><ml:concept>Macroeconomic Vulnerability and Debt</ml:concept><ml:concept>Social Development</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Health, Nutrition and Population</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Social Protection and Labor</ml:concept><ml:concept>Trade</ml:concept><ml:concept>Health Monitoring and Evaluation</ml:concept><ml:concept>Alternative Sentencing Options</ml:concept><ml:concept>Community Policing</ml:concept><ml:concept>Community based Policing</ml:concept><ml:concept>Correctional Services and Facilities</ml:concept><ml:concept>Corrections</ml:concept><ml:concept>Crime Policies</ml:concept><ml:concept>Crime Prevention</ml:concept><ml:concept>Crime and Society</ml:concept><ml:concept>Defense Services</ml:concept><ml:concept>Detention</ml:concept><ml:concept>Enforcement Policies and Oversight Mechanism</ml:concept><ml:concept>Forensic</ml:concept><ml:concept>Forensic Services</ml:concept><ml:concept>Investigation</ml:concept><ml:concept>Investigative Task Force Police</ml:concept><ml:concept>Juvenile Justice</ml:concept><ml:concept>Law Enforcement</ml:concept><ml:concept>Offender Reintegration</ml:concept><ml:concept>Police Administration and Management</ml:concept><ml:concept>Police Reform</ml:concept><ml:concept>Problem solving Policing</ml:concept><ml:concept>Prosecution</ml:concept><ml:concept>Restorative Justice</ml:concept><ml:concept>Therapeutic Justice</ml:concept><ml:concept>Victim Assistance</ml:concept><ml:concept>Victim Services</ml:concept><ml:concept>Victim-Offender Mediation</ml:concept><ml:concept>Human Resource Management Capacities</ml:concept><ml:concept>Human Resource Management Systems</ml:concept><ml:concept>Staffing Needs Assessments</ml:concept><ml:concept>Capital Flows</ml:concept><ml:concept>Capital Markets and Capital Flows</ml:concept><ml:concept>Investment and Investment Climate</ml:concept><ml:concept>Longevity</ml:concept><ml:concept>Political Economy</ml:concept><ml:concept>Political Economy Analysis</ml:concept><ml:concept>Wage Setting</ml:concept><ml:concept>Wages, Compensation and Benefits</ml:concept><ml:concept>Health Monitoring &amp; Evaluation</ml:concept><ml:concept>Consumption</ml:concept><ml:concept>Income</ml:concept><ml:concept>Textiles</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Criminal Justice</ml:concept><ml:concept>Copyright</ml:concept><ml:concept>Human Resources</ml:concept><ml:concept>Injury</ml:concept><ml:concept>Youth</ml:concept><ml:concept>Capital Markets</ml:concept><ml:concept>Investment Climate</ml:concept><ml:concept>Inflation</ml:concept><ml:concept>Aging</ml:concept><ml:concept>Political Economy of Reform</ml:concept><ml:concept>Wages</ml:concept></ml:concepts><ml:geo-regions><ml:geo-region>Americas</ml:geo-region><ml:geo-region>United States</ml:geo-region></ml:geo-regions></ml:annotations></ml:doc-envelope>

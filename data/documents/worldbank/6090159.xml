@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>                                          33051&#13;
+&#13;
+   Regional Economic Convergence:&#13;
+Do Policy Instruments Make a Difference?&#13;
+&#13;
+&#13;
+           Somik Lall and Serdar Yilmaz&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+               World Bank Institute&#13;
+&amp;#12;&#13;
+Copyright © 2000&#13;
+The International Bank for Reconstruction&#13;
+and Development/The World Bank&#13;
+1818 H Street, N.W.&#13;
+Washington, D.C. 20433, U.S.A.&#13;
+&#13;
+First Printing December 2000&#13;
+&#13;
+The World Bank enjoys copyright under protocol 2 of the Universal Copyright Convention.&#13;
+This material may nonetheless be copied for research, educational, or scholarly purposes&#13;
+only in the member countries of The World Bank. Material in this series is subject to revision.&#13;
+The findings, interpretations, and conclusions expressed in this document are entirely those&#13;
+of the author(s) and should not be attributed in any manner to the World Bank, to its affiliated&#13;
+organizations, or the members of its Board of Executive Directors or the countries they repre-&#13;
+sent.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Regional Economic Convergence:&#13;
+Do Policy Instruments Make a Difference?&#13;
+Somik Lall and Serdar Yilmaz&#13;
+2000. 18 pages. Stock No. 37161&#13;
+&amp;#12;&#13;
+                      Contents&#13;
+&#13;
+&#13;
+Abstract    v&#13;
+&#13;
+&#13;
+Introduction    1&#13;
+&#13;
+&#13;
+Some Measures of Convergence    2&#13;
+&#13;
+&#13;
+The Data Set and Econometric Methods 4&#13;
+&#13;
+     Methodology       5&#13;
+&#13;
+&#13;
+Empirical Results   6&#13;
+&#13;
+     Spatial Interaction 10&#13;
+&#13;
+&#13;
+Conclusions     12&#13;
+&#13;
+&#13;
+References     15&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+                                            Abstract&#13;
+&#13;
+The relationship between public capital, regional output and private sector productivity has&#13;
+been an issue of considerable interest in the regional development literature. There have&#13;
+however been few studies that develop linkages between these issues and the broader lit-&#13;
+erature on economic convergence. This paper presents an innovative methodology to exam-&#13;
+ine the process of regional economic convergence across U.S. states. We examine the ef-&#13;
+fects of economic variables such as human and public capital in the convergence process,&#13;
+and control for business cycle and region specific effects in the analysis. Further, specification&#13;
+problems arising from spatial dependence are also addressed. Results from the empirical&#13;
+analysis show that the speed of convergence is influenced by region specific characteristics&#13;
+and the availability of trained labor in neighboring regions.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                 v&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+I. Introduction&#13;
+&#13;
+Variations in the economic performance of nations and regions have fueled debates about&#13;
+the role of the public policies in economic growth. While the relationship between public&#13;
+capital, regional output, and private sector productivity has been an issue of considerable&#13;
+interest in the regional development literature, there have however been few studies that&#13;
+developed linkages with the broader literature on economic convergence. In the neoclassi-&#13;
+cal framework, built on assumptions of decreasing returns to reproducible factors, disparities&#13;
+arising from differences in regional capital/labor ratios diminish over time and both trade and&#13;
+factor flows tend to equalize factor prices. However, proponents of regional policies argue&#13;
+that increasing returns, often seen as arising from technological or pecuniary agglomeration&#13;
+externalities, generate a process of circular, cumulative causation leading to decreasing costs&#13;
+of production. This rationalization is consistent with some of the endogenous growth theoriz-&#13;
+ing where both capital and labor flow to richer regions, which have the advantages of lower&#13;
+unit costs, higher wages and larger market sizes. Altering factor mobility remains critical for the&#13;
+prospects of poorer regions in this type of analysis.&#13;
+&#13;
+The stocks of public and human capital appear to be important determinants of regional&#13;
+economic growth. In general, public capital and human capital can be considered to be&#13;
+categories of infrastructure that influence factors of production1. Appropriate and efficiently&#13;
+supplied infrastructure has an inherent role in improving access to markets, reducing unit cost&#13;
+of production and generating consumer surplus by reducing cost of consumption, improving&#13;
+the general quality of life, as well as in attracting private investment. The spatial distribution of&#13;
+infrastructure, both physical and human capital, has important implications for changing re-&#13;
+gional disparities and by extension, for the convergence process. Recent literature has&#13;
+pointed to the existence of spatial externalities (or spillovers) of infrastructure investments.&#13;
+The stock of infrastructure in a particular region may contribute to output gains in adjoining&#13;
+regions. Further, it is possible that infrastructure investment may influence regional disparities&#13;
+by the changing the competitive and comparative advantages of neighboring states. When&#13;
+factors of production are mobile, public infrastructure investments in one location can draw&#13;
+production away from other locations or provide access to adjacent locations not previously&#13;
+accessible. Boarnet (1998) shows that highway projects in California counties provide bene-&#13;
+fits to the investing counties at the expense of other counties within the state. Kelejian and&#13;
+Robinson (1997) make similar arguments concerning externalities at the state level. From this&#13;
+perspective, policy interventions in the form of public capital (including various infrastructure&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+1 From the early references to the term infrastructure by Nurske (1952) and Hirschman (1958), the definition of&#13;
+infrastructure has undergone many changes. The early definitions list features like 'provide services basic to any&#13;
+production capacity,' 'cannot be imported from abroad,' and 'large and costly installations,' to define infrastruc-&#13;
+ture. In general, infrastructure includes the supply of services through a networked delivery system designed to&#13;
+serve a multitude of users, particularly for public utilities such as piped water, electric power, gas, telecommunica-&#13;
+tions, sewerage, and rail services (Gramlich, 1994; World Bank, 1994). These infrastructure categories have often&#13;
+been called hard or economic infrastructure. In addition to economic infrastructure, human capital indicators like&#13;
+education and health are considered as social infrastructure that increase labor productivity and help in attracting&#13;
+private capital.&#13;
+&#13;
+&#13;
+&#13;
+                                                              1&#13;
+&amp;#12;&#13;
+categories) influence regional economic performance2 and the convergence process. Thus,&#13;
+the stocks of public and human capital have important effects on the structure of the local&#13;
+economy, and analysis of convergence without considering these factors may not be useful&#13;
+for guiding policy decisions.&#13;
+&#13;
+This paper employs a pooled data set for the US states over the period 1969-1995 to ad-&#13;
+dress two fundamental questions. First, to what extent is the economic performance of these&#13;
+states converging or diverging? Second, to what extent can this regional growth performance&#13;
+be explained by stocks of physical and human capital within each state? The paper contrib-&#13;
+utes to the conceptual and empirical debate on the role of public policies in stimulating re-&#13;
+gional economic performance. In a methodological context, a spatial econometric approach&#13;
+is used to examine the extent to which spatial externalities influence the speed of conver-&#13;
+gence. The paper is organized as follows: Section 2 presents and discusses various measures&#13;
+of convergence; Section 3 presents the data and econometric approach adopted; Section&#13;
+4 presents the empirical results; and Section 5 concludes the paper.&#13;
+&#13;
+&#13;
+II. Some Measures of Convergence&#13;
+&#13;
+Most 'determinants of growth' studies have been performed at the national level. The first&#13;
+generation of empirical work focussed on examining the stability of factor shares within a sin-&#13;
+gle economy. The more recent empirical literature on growth focuses on growth across&#13;
+countries. These studies have usually been motivated by a need to explain persistent dispari-&#13;
+ties in aggregate growth rates across countries. These disparities have often translated into&#13;
+large differences in per capita welfare. Reviews by Barro and Sala-i-Martin (1995), Pritchet&#13;
+(1997), and Romer (1996), among others provide succinct reviews of this body of literature.&#13;
+Theoretical growth models are based on an aggregate production function with the quantity&#13;
+of labor input, physical capital, and technology as parameters in examining changes in output.&#13;
+Technology is introduced in the relationship as either labor augmenting or Hicks Neutral.&#13;
+&#13;
+Empirical estimation of growth models rely on more readily available operational variables&#13;
+such as real per capita income, domestic investment and savings as a share of GDP, govern-&#13;
+ment consumption, exports, labor force, share of labor in Agriculture and Industry, and hu-&#13;
+man capital or education variables like school enrollment, high school/ college graduates as&#13;
+percentage of population. Cross-country regressions have also used levels of democratiza-&#13;
+tion and other political variables in analyzing growth. Such estimates can be useful for deter-&#13;
+mining policy priorities. For example, the rate of savings was considered a critical parameter&#13;
+in the early literature on development, whereas more recently it has been suggested that the&#13;
+efficiency of investment rather than only the level of investment is very important in determin-&#13;
+ing growth performance across countries (Easterly and Wetzel, 1989).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+2 It is difficult to predict, a priori, the exact effect of public capital on regional growth. It is possible that some&#13;
+types of public investments (for example, roads and education) are complementary to private investment and&#13;
+therefore likely to crowd-in private investment, while others (for example, investments in industry and state owned&#13;
+enterprises) are substitutes and likely to crowd-out private investment.&#13;
+&amp;#12;&#13;
+Regional Economic Convergence: Do Policy Instruments Make a Difference?                            3&#13;
+&#13;
+&#13;
+&#13;
+The interest in examining convergence across economic units is partly motivated by research&#13;
+examining the determinants of long term growth. There appear to be two main measures of&#13;
+economic convergence. These are:&#13;
+&#13;
+(1)    Sigma () convergence: dispersion of per-capita income reduces over time. This ag-&#13;
+       gregate convergence framework is consistent with the neo classical framework where&#13;
+       each region converges to a common rate or level.&#13;
+&#13;
+(2)    Beta () convergence: poorer economies tend to grow faster than wealthier ones.&#13;
+       Conditional beta convergence becomes relevant when regional economies are not&#13;
+       structurally similar and welfare or output measures do not converge to the same level&#13;
+       but the differences across regions become stationary and growth rates are the same in&#13;
+       the long run. Aggregate convergence, in contrast, is consistent with a neo classical&#13;
+       framework whereby each region, while having different initial position, converge to a&#13;
+       common per-capita rate determined by exogenous technical progress (Button, 1998).&#13;
+&#13;
+Barro and Sala-i-Martin's studies are the most cited contemporary studies on economic con-&#13;
+vergence. They find evidence supporting conditional convergence where regions are con-&#13;
+verging towards their national steady state at an annual rate of about 2 percent. While the&#13;
+papers of Baumol (1986), Dowrick and Nguyen (1989), Barro (1991) and Barro and Sala-i-&#13;
+Martin (1991, 1992) are part of the large body of empirical work that tests for convergence,&#13;
+these studies mainly address the issue of convergence among large numbers of countries or&#13;
+regions. Papers that move away from this conditional, cross-section convergence approach&#13;
+however, show more mixed results. For example, Quah (1996) suggests that the data can&#13;
+show persistence and immobility across countries, evidence of convergence clubs and&#13;
+some evidence shows the poor getting poorer and the rich richer with the middle class van-&#13;
+ishing. At the regional level, Chatterji and Dewhurst (1996), in their study of convergence&#13;
+clubs, find that convergence is associated with recession while divergent economic per-&#13;
+formance is found in boom periods.&#13;
+&#13;
+          The idea of conditional convergence is a reformulation of the standard beta conver-&#13;
+gence model. This concept suggests that convergence depends on the structural character-&#13;
+istics of each economy (including public policies), and these structural differences imply that&#13;
+different countries will have different steady states relative per capita incomes. Martin and&#13;
+Sunley (1998) argue that it is necessary to hold the steady state of each economy constant in&#13;
+order to test for conditional convergence. One method of doing this is to introduce addi-&#13;
+tional structural variables in the basic growth regression. This method to test for conditional&#13;
+has been used, among others, by Barro (1991), and Mankiw, Romer, and Weil (1992).&#13;
+&#13;
+Public capital accumulation and human capital formation are important factors contributing to&#13;
+variations in regional economic structures. Availability and quality of these factors are likely to&#13;
+influence economic performance. In a recent study, de la Fuente and Vives (1995) show that&#13;
+the convergence of average years of schooling of the employed labor force and the work-&#13;
+ing-age population contributes significantly to the reduction of per capita income inequalities&#13;
+among 17 regions of Spain between 1980 and 1991. In Japan, public sector investment and&#13;
+improved productive infrastructure in the regions is considered to have been instrumental in&#13;
+&amp;#12;&#13;
+promoting regional development (World Bank, 1986). Thus, in the endogenous framework&#13;
+public investments can be viewed as external shocks or perturbations to stimulate lagging&#13;
+regions and bring about some degree of regional convergence (Button, 1998). If these in-&#13;
+vestments are not geographically targeted and timed properly however, the benefits of these&#13;
+investments could disproportionately accrue to richer regions.&#13;
+&#13;
+The short review of the literature tends to suggest that regional heterogeneity and factors rep-&#13;
+resenting public and human capital are influential in the regional growth process. In the fol-&#13;
+lowing section, these ideas are used to motivate the choice of estimation methods and the&#13;
+interpretation of the results.&#13;
+&#13;
+&#13;
+III. The Data Set and Econometric Methods&#13;
+&#13;
+A common problem in all the measures of convergence when considering regional econo-&#13;
+mies in that they may be influenced by the national business cycle especially over the short&#13;
+period. In order to take account of this effect, we use pooled data (LSDV models), enabling&#13;
+us to include time-period dummy variables to capture business cycle effects. However, a&#13;
+potential problem with this method is that it is short term, measuring convergence from year&#13;
+to year. As a result the time period dummies frequently dominate the regional dummies (But-&#13;
+ton, Arena, Lall, 1998).&#13;
+&#13;
+There are several advantages of using panel data over time series and cross section data.&#13;
+These include: (1) panel data usually provide a large number of observations, which in-&#13;
+creases degrees of freedom, reduces collinearity among explanatory variables, and increases&#13;
+the probability of producing more reliable parameter estimates; (2) it is possible to specify&#13;
+and test sophisticated models that incorporate less restrictive behavioral assumptions. As&#13;
+there are large differences in the growth performance of states, which are due to regional&#13;
+factors such as institutions, leadership, and technological adoption, the use of panel data&#13;
+provide methods to examine the heterogeneity across statistical units; and (3) these data sets&#13;
+enable the identification and measurement of effects that are not observable in pure cross&#13;
+section or time series analysis. For example, it is argued that cross section data reflect long-&#13;
+run behavior and time series data show short run effects, the combination of these two in a&#13;
+panel data set enable the formulation of a comprehensive dynamic structure (Hsiao, 1986;&#13;
+Balestra, 1996).&#13;
+&#13;
+Given the influential role of public capital and human capital in the development process, we&#13;
+extend the convergence analysis by adding the effects of these factors, and also accounting&#13;
+for the effects of temporal shocks and region specific characteristics.&#13;
+&#13;
+Per capita income data for US states were taken from the Regional Economic Information Sys-&#13;
+tem. Regional Economic Information System provides data on states and counties in the US.&#13;
+These data were collected for the 1969-1995 time period. All nominal data were converted&#13;
+to real 1982 dollars for the empirical analysis.&#13;
+&#13;
+There are several methodological innovations with this data set. The most important is the&#13;
+construction of a constant price regional public capital stock variable. This was done by ex-&#13;
+&amp;#12;&#13;
+Regional Economic Convergence: Do Policy Instruments Make a Difference?                            5&#13;
+&#13;
+&#13;
+&#13;
+tending the data provided in Munnell (1990) through 1995. Munnell's original series is avail-&#13;
+able from 1970 through 1986. In extending her data set, expenditures on public capital out-&#13;
+lays were collected from the Census of Government for each state from 1987 to 1995. The&#13;
+BEA procedure outlined in Munnell (1990) was followed to calculate estimates for public&#13;
+capital stock in each state. Even though the BEA has made improvements in the wealth esti-&#13;
+mates in 1995, the old method is preferred in extending the Munnell series to be consistent&#13;
+with previous estimations. In order to be consistent with her estimates, the old BEA proce-&#13;
+dure of the Winfrey pattern straight-line depreciation and assumed patterns of retirements&#13;
+have been used for calculating discard values. The average service life for public capital is&#13;
+estimated by using Munnell's specification. Next, the value of discards was subtracted from&#13;
+the annual gross investment figures. The state totals for each year were used to apportion the&#13;
+BEA national total amounts with Tangible Wealth figures in the Survey of Current Business. The&#13;
+totals of state estimates equal to more than 90 % of the BEA estimates. As in Munnell's esti-&#13;
+mates, all the figures were deflated to 1982 dollars.&#13;
+&#13;
+Data from the U.S. Census Bureau for 1960, 1970, 1980 and 1990 were used for the human&#13;
+capital variable. The exact series used was the percent of each state's population that had&#13;
+completed 4 or more years of college.&#13;
+&#13;
+Methodology&#13;
+&#13;
+Following Barro and Sala-i-Martin, the rate of convergence of real per capita personal in-&#13;
+comes across states is:&#13;
+&#13;
+&#13;
+   1          yit                                  yT   1                  (1)&#13;
+   T  log   yi,t -T = ay -log(yi    ,t -T ).(1- e- ).T &#13;
+&#13;
+Where yi,t-T is per capita personal income in state i at the beginning of the study period, yi,t is&#13;
+the per capital personal income in state i at time t; and T is the length of the study period.&#13;
+The parameter y is a measure of Beta-convergence. It measures convergence in per capita&#13;
+incomes, which is the relative degree to which the growth of low-income states exceeds&#13;
+that of higher income states.&#13;
+&#13;
+To try to explain the US state growth rates, a model is set up to test for conditional beta-&#13;
+convergence. The usual Barro framework is modified to include two additional explanatory&#13;
+variables -- public and human capital. Public capital is taken as a proxy for infrastructure with&#13;
+the rationale that infrastructure has growth enhancing and private capital stimulating effects.&#13;
+Percent of population with college degrees is taken as an indicator of human capital. Unlike&#13;
+Barro, a pooled data set is used and allowance is made for different regional effects and dif-&#13;
+ferent time period effects, by using regional and time period dummy variables to capture any&#13;
+cyclical effects.&#13;
+&amp;#12;&#13;
+The econometric specification used is:&#13;
+&#13;
+log(yit) = a -blog(y   it-1&#13;
+                          ) + ckZ  kit-1+ diDi + eiTt                  (2)&#13;
+&#13;
+&#13;
+In this model, Z is a vector of k additional regional characteristics such as human capital and&#13;
+public capital. D is a vector of 48 regional dummy variables that provide a set of regional co-&#13;
+efficients di., that can be interpreted as capturing specific regional characteristics. T is a vector&#13;
+of t time dummy variables included to capture trends in the economy, such that coefficients&#13;
+ei capture the time specific nature of the rate of growth of regional income per capita. These&#13;
+types of panel data models can be generalized of the type where the slope is constant but&#13;
+the intercept varies over regions and time.&#13;
+&#13;
+&#13;
+IV. Empirical Results&#13;
+&#13;
+Table 1 shows the annual means, coefficients of variation of (the log of) real income per&#13;
+head for each year of the sample. This reveals that average real income per head across&#13;
+&#13;
+&#13;
+                    Table 1: Average and dispersion of log( per capita income)&#13;
+                                                  sio of log         pit inco&#13;
+                             Year              Mean       Coefficient of Variation&#13;
+                             1969              7.31               46.40&#13;
+                             1970              7.43               49.50&#13;
+                             1971              7.54               53.35&#13;
+                             1972              7.73               55.20&#13;
+                             1973              7.91               59.50&#13;
+                             1974              8.08               61.27&#13;
+                             1975              8.22               64.94&#13;
+                             1976              8.37               65.04&#13;
+                             1977              8.57               67.14&#13;
+                             1978              8.77               67.51&#13;
+                             1979              8.99               64.06&#13;
+                             1980              9.19               67.79&#13;
+                             1981              9.31               67.35&#13;
+                             1982              9.39               66.61&#13;
+                             1983              9.52               66.77&#13;
+                             1984              9.62               65.09&#13;
+                             1985              9.68               62.47&#13;
+                             1986              9.77               59.98&#13;
+                             1987              9.87               57.17&#13;
+                             1988              9.98               58.43&#13;
+                             1989              10.09              62.71&#13;
+                             1990              10.16              66.17&#13;
+                             1991              10.24              68.21&#13;
+                             1992              10.31              70.63&#13;
+                             1993              10.38              72.04&#13;
+                             1994              10.45              70.71&#13;
+                     Source: REIS&#13;
+&amp;#12;&#13;
+Regional Economic Convergence: Do Policy Instruments Make a Difference?                           7&#13;
+&#13;
+&#13;
+&#13;
+the US states has been steadily increasing, along with an increase in the coefficient of varia-&#13;
+tion in income per capita, signifying that regional disparities are increasing (Figure 1). There has&#13;
+been some fluctuation in the dispersion of per capita incomes across states, with a declining&#13;
+trend in the early to mid eighties, after which regional differences have been increasing. One&#13;
+approach to discuss the pattern of regional convergence and divergence is to examine the&#13;
+shift in the structure of the U.S. economy over the study period. There has been consider-&#13;
+able movement of economic activity away from manufacturing to a predominantly service&#13;
+based economy. Starting in the eighties, with increases in defense spending and adoption of&#13;
+technically intensive activities, which were concentrated only in a few states (see Stough and&#13;
+Lall, 1998), it is quite possible to explain sustained and increasing disparities between US&#13;
+states. Further, given that most states have heterogenous production structures, it may not be&#13;
+feasible to expect them to converge to the same absolute levels.&#13;
+&#13;
+&#13;
+&#13;
+                        Figure 1: Coefficient of Variation of log of per&#13;
+                                          capita income&#13;
+&#13;
+&#13;
+              75.00&#13;
+&#13;
+              70.00&#13;
+&#13;
+              65.00&#13;
+&#13;
+              60.00&#13;
+&#13;
+              55.00&#13;
+&#13;
+              50.00&#13;
+&#13;
+              45.00&#13;
+&#13;
+              40.00&#13;
+&#13;
+                  1969 1971 1973 1975 1977 1979 1981 1983 1985 1987 1989 1991 1993&#13;
+&#13;
+&#13;
+&#13;
+In this context, it is helpful to test the hypothesis of conditional convergence, and examine&#13;
+the role, if any, of economic variables in influencing the speed of conditional convergence.&#13;
+&#13;
+Testing for Conditional Convergence&#13;
+&#13;
+Using the econometric specification in equation (2) and the data series described, we tested&#13;
+for the existence for conditional beta convergence. Results are presented in Table 2. Specifi-&#13;
+cation 1 was estimated without state or time specific dummies. Specification 2 included&#13;
+state dummies and specification 3 included both state and time dummies. The dependent&#13;
+variable in each case was the log of real per capital income for each state. Model A for each&#13;
+specification was estimated with no economic variables (absolute convergence test in speci-&#13;
+fication 1, Model A), Model B includes stock of public capital, Model C includes the human&#13;
+capital variable, and Model D includes both economic variables. Time and state dummies are&#13;
+not reported in Table 2. In each model, specification 1 is most restrictive, and specification 3&#13;
+is the unrestricted form. Before introducing state and time specific dummies, the restricted&#13;
+model without any dummy variables is estimated in Specification-1. Then, the restriction is&#13;
+relaxed for state dummies in the second specification and then full-unrestricted models are&#13;
+estimated with state and time dummies in the third specification. To test the validity of these&#13;
+&amp;#12;&#13;
+restrictions (i.e., if dummies should be introduced to the models), F tests have been per-&#13;
+formed. The computed F-statistics are given by&#13;
+&#13;
+                     Fr,n-k= [(SSEr- SSEu)/ r] / (SSEu/ n-k)&#13;
+&#13;
+where SSEr , SSEu, r, n, and k stand for sum of squared errors in the restricted specification&#13;
+and unrestricted specification, number of restrictions, number of observations, and number&#13;
+of estimated parameters, respectively. The computed F scores are presented in the Table 3.&#13;
+The F scores for each of the models are larger than the critical F value. Therefore we reject&#13;
+the null hypothesis that restricted and unrestricted specifications are the same and use state&#13;
+and time dummies in the regression estimations.&#13;
+&#13;
+In addition to testing for the significance of time and region effects, we tested if there were&#13;
+significant differences between Model A (no economic variables) and Model D (with both&#13;
+public and human capital). F- tests between these models show statistically significant differ-&#13;
+ences3 and the constraint of not including economic variables is not valid.&#13;
+&#13;
+The implied -coefficients4 are presented in table 4 for all versions of specifications 1 and 3.&#13;
+In specification 3, they range from 0.12 to 0.16, which show much more rapid convergence&#13;
+than in the absolute convergence (specification 1) case where the parameter is close to&#13;
+0.03. The other economic explanatory variables have mixed performance, with the coeffi-&#13;
+cient for human capital having a positive effect on growth rates. Public capital on the other&#13;
+hand switches from positive (correct sign) to being negative (or being statistically insignifi-&#13;
+cant). The time dummies are strongly significant as a group. This suggests that the evolution of&#13;
+state incomes is path dependent and possibly driven by the business cycle.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+3F test value is 8.243, which is greater than critical values at 0.05 significance level.&#13;
+4The formula that translates the estimated coefficient, b, into Barro's ß is: ln (b).&#13;
+&amp;#12;&#13;
+Regional Economic Convergence: Do Policy Instruments Make a Difference?                                       9&#13;
+&#13;
+&#13;
+&#13;
+Table 2: Conditional Beta--cconver  nvergence Results US States&#13;
+                                            nc      sul&#13;
+                      (A)                (B)             (C)                      (D)&#13;
+&#13;
+&#13;
+Variables None         Public Capital      Human Capital       Public and Human Capital&#13;
+&#13;
+Specification-1&#13;
+             -1&#13;
+&#13;
+C                    0.42                 0.40            0.39                  0.38&#13;
+                     (0.011)            (0.015)         (0.012)                 (0.016)&#13;
+&#13;
+PCI (-1)             0.97                0.97            0.96                   0.96&#13;
+                    (0.001)             (0.001)         (0.002)                 (0.002)&#13;
+&#13;
+PUBK (-1)             -                 0.002              -                     0.0017&#13;
+                                       (0.001)                                  (0.0013)&#13;
+&#13;
+HUMK (-1)             -                   -              0.034                  0.0335&#13;
+                                                        (0.007)                 (0.007)&#13;
+&#13;
+R2                   0.99               0.99             0.99                    0.99&#13;
+N                    1200               1200            1200                     1200&#13;
+F                    599937.5          300176.5         305217.2                203582.1&#13;
+Specification-2 (With State Dummies)&#13;
+&#13;
+C                    0.42               0.41              0.052                 -0.22&#13;
+                    (0.014)            (0.087)           (0.030)                (0.092)&#13;
+&#13;
+PCI (-1)             0.97                0.97              0.88                  0.87&#13;
+                    (0.001)             (0.002)          (0.007)                (0.007)&#13;
+&#13;
+PUBK (-1)              -                0.0003              -                    0.036&#13;
+                                       (0.0121)                                  (0.011)&#13;
+&#13;
+HUMK (-1)             -                   -                 0.42                   0.44&#13;
+                                                          (0.031)                (0.032)&#13;
+&#13;
+R2                   0.99               0.99              0.99                  0.99&#13;
+N                    1200               1200              1200                  1200&#13;
+F                    12159.56           11901.06          13808.32              13634.74&#13;
+Specification-3 (With State and Time Dummies)&#13;
+&#13;
+C                    0.95               1.11                1.02                1.095&#13;
+                    (0.104)            (0.123)            (0.105)                (0.092)&#13;
+&#13;
+PCI (-1)              0.89              0.88                0.85                   0.85&#13;
+                    (0.014)            (0.014)            (0.017)                (0.016)&#13;
+&#13;
+PUBK (-1)             -                -0.017                   -                 -0.009&#13;
+                                       (0.007)                                  (0.007)&#13;
+&#13;
+HUMK (-1)             -                   -                  0.08                 0.07&#13;
+                                                            (0.019)             (0.021)&#13;
+&#13;
+R2                   0.99                 0.99              0.99                0.99&#13;
+N                    1200                 1200              1200                1200&#13;
+F                    34492.44             34164.27          34445.87            33992.23&#13;
+&#13;
+R2 is the coefficient of determination and standard errors are in parenthesis. N is the number of observations&#13;
+in the sample; F is test statistic for the significance of the whole equation.&#13;
+&amp;#12;&#13;
+                Table 3: F- test scores to compare across model specifications&#13;
+&#13;
+                Model                            No Dummies         State Dummies&#13;
+                A (None)                         53.88              156.9&#13;
+                B (Public Capital)               54.06              172.1&#13;
+                C (Human Capital)                53.48              130.96&#13;
+                D (Public and Human Capital)     53.42              129.57&#13;
+                Note: Model with state and time dummies is used for comparison&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+          Table 4: B convergence values from restricted and unrestricted model specifications&#13;
+          Tabl                               from   stric        unrestricte model       ations&#13;
+&#13;
+                                  Model A          Model B          Model C       Model D&#13;
+          Specification 1         0.033            0.033            0.040         0.041&#13;
+          Specification 3         0.121            0.124            0.161         0.158&#13;
+&#13;
+&#13;
+&#13;
+Spatial Interaction&#13;
+&#13;
+In a recent article, Rey and Montouri (1999) indicate that while the regional convergence&#13;
+phenomenon has geographical components, spatial effects have been largely ignored in the&#13;
+literature. The presence of spatial dependence can lead to model misspecification, and spa-&#13;
+tial heterogeneity causes instability of behavioral relationships. Concern for omitted variables&#13;
+that relate to the connectivity of neighboring regions is one of the main reasons for spatial&#13;
+correlation or dependence in the error terms of regional econometric models (Kelejian and&#13;
+Robinson, 1992). In a properly specified model, it is quite likely that spatial dependence&#13;
+would be reduced or eliminated.&#13;
+&#13;
+There are several tests of spatial dependence, the most well known being the Moran's I. This&#13;
+statistic is given by:&#13;
+&#13;
+&#13;
+ I =   N   w            (xi - µ).(x j - µ) /   (   xi - µ)2                   (3)&#13;
+       S0             ij&#13;
+            i     j                             i&#13;
+&#13;
+&#13;
+where, N is the number of observations; w is the element in the spatial weights matrix corre-&#13;
+sponding to the observation pair i,j; xi and xj are observations for location i and j (with mean&#13;
+µ); and S is the scaling constant (i.e., the sum of all spatial weights). The weights matrix was&#13;
+constructed by assigning a weight of 1 to all j that are contiguous to i, and a weight of 0 to all&#13;
+other. The theoretical mean of the Moran's I is ­1/(N-1), which is nominally negative but tends&#13;
+to zero when N increases.&#13;
+&#13;
+The data for the US states were tested for spatial autocorrelation using Moran's I with a conti-&#13;
+guity based first order spatial weights matrix. In general, it was found that per capita income&#13;
+and human capital exhibited considerable spatial autocorrelation throughout the study pe-&#13;
+riod. In contrast, the variable for public capital did not exhibit spatial autocorrelation. As an&#13;
+illustration, figures 2a and 2b provide graphical representations of spatial autocorrelation in&#13;
+the human capital variable for 1970 and 1995. The points in Quadrant I represents states with&#13;
+high levels of educational attainment are surrounded by states with levels of education at-&#13;
+tainment. This suggests that states with high educational attainment are clustered. Similarly,&#13;
+&amp;#12;&#13;
+Regional Economic Convergence: Do Policy Instruments Make a Difference?                           11&#13;
+&#13;
+&#13;
+&#13;
+points in Quadrant III represent states with low educational attainment surrounded by state&#13;
+with low educational attainment, yet again indicating clustering, but of low values. The cluster-&#13;
+ing phenomenon indicates that the data are not randomly distributed, but follow a systematic&#13;
+spatial pattern. Figures 2a and 2b show that the human capital variable is highly clustered (this&#13;
+is formally represented by the high Moran's I values of 0.38 and 0.36, which is considerably&#13;
+more than the theoretical mean of zero in the case of no spatial autocorrelation).&#13;
+&#13;
+In most cases, the spatial clustering of variables give rise to model specification issues. In this&#13;
+case, we will treat clustering of the human capital variable to have interpretative value, rather&#13;
+than being a nuisance parameter. Thus, we create a spatial lag variable for educational attain-&#13;
+ment, which should take into account the effect of educational attainment in neighboring&#13;
+states on the speed of convergence. As a modeling choice, we prefer to use the lag of the&#13;
+independent variable (educational attainment) rather than the dependent variable (per capita&#13;
+income). The type of spatial econometric model being estimated here is part of the family of&#13;
+models reported in Anselin (1999).&#13;
+&#13;
+In Table 5, we present results from the estimation of the unrestricted specification with spatial&#13;
+and temporal lag variables of human capital. The spatial lag was computed by taking the av-&#13;
+erage value for the contiguous neighbors of a state. Since this model specification has an ad-&#13;
+ditional variable "HUMKSLAG", we tested whether it is statistically different than Model D of&#13;
+Specification-3 (with state and time dummies in Table 2). The F test value of 14.85 is greater&#13;
+than the critical value of 6.63 at 0.01 significance level. The variable for the spatially lagged&#13;
+term is significant and positive, and the speed of convergence from this model is estimated&#13;
+to be 0.179 or 17.9 percent per year.&#13;
+&#13;
+&#13;
+&#13;
+               Figure 2a: Spatial Autocorrelation (Human Capital 1970)&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                       I&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                           III&#13;
+&amp;#12;&#13;
+               Figure 2b: Spatial Autocorrelation (Human Capital 1995)&#13;
+               Figure 2b Sp ial Autoc rr&#13;
+&#13;
+&#13;
+&#13;
+                                                                                   I&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                           III&#13;
+                         III&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                          Table 5: Regression Results for Unrestricted Model&#13;
+                          (Specification-3 with State and Time Dummies) with&#13;
+                          Spatial and Temporal Lag Variable&#13;
+                          Spati and Temp al La Va abl&#13;
+&#13;
+                          C                            1.027&#13;
+                                                       (0.164)&#13;
+                          PCI (-1)                     0.836&#13;
+                                                       (0.031)&#13;
+                          PUBK (-1)                    -0.004&#13;
+                                                       (0.006)&#13;
+                          HUMK (-1)                    0.020&#13;
+                                                       (0.036)&#13;
+                          HUMKSLAG (-1)                0.113&#13;
+                                                       (0.027)&#13;
+                          R2                           0.99&#13;
+                          N                            1200&#13;
+                          F                            33923.4&#13;
+&#13;
+                          R2 is the coefficient of determination and standard errors&#13;
+                          are in parenthesis. N is the number of observations in the&#13;
+                          sample; F is test statistic for the significance of the whole&#13;
+                          equation.&#13;
+&#13;
+&#13;
+VI. Conclusions&#13;
+&#13;
+The results from the analysis tend to suggest that regional differences and temporal behavior&#13;
+of the national economy have a considerable effect on the speed of conditional conver-&#13;
+gence. As regional heterogeneity is a function of many factors, which include technical effi-&#13;
+ciency, as well as institutional and organizational capacity, it is important to control for these&#13;
+factors when examining conditional convergence. In general, it is also found that the contri-&#13;
+bution of variables which can be influenced by policy (public capital and human capital) do&#13;
+not contribute to increasing the speed of convergence, once regional and temporal factors&#13;
+&amp;#12;&#13;
+Regional Economic Convergence: Do Policy Instruments Make a Difference?                           13&#13;
+&#13;
+&#13;
+&#13;
+are considered. Results reported in Table 5 indicates that the spatial lag of the human capital&#13;
+variable has a significant influence of the speed of convergence. This means that per capita&#13;
+income in a region is positively influenced by the availability of skilled labor in its neighboring&#13;
+regions, which means that labor markets go beyond administratively defined regions. This&#13;
+finding also lends credibility to the argument that labor mobility is an important consideration&#13;
+for regional economic convergence.&#13;
+&#13;
+The implications for the use of policy instruments are not very clear. It appears that the effi-&#13;
+cient way to stimulate convergence would be to improve region specific characteristics,&#13;
+such as technical efficiency and organizational capacity, and also reduce the volatility of the&#13;
+regional economy to macroeconomic shocks. While investments in public capital are impor-&#13;
+tant, the diversity in its nature its impacts on the economy however, lends itself to decision&#13;
+making that could be efficient or not (Button, 1998). Policies which are aimed at reducing&#13;
+barriers to factor mobility, however, may be critical in increasing the speed of convergence.&#13;
+This shows up in the results through the positive influence of the availability of trained labor in&#13;
+neighboring regions on per capita incomes in a region.&#13;
+&#13;
+In general, public policies can acts as catalysts to overcome structural rigidities and reduce&#13;
+barriers to factor mobility, which will be critical in increasing the speed of convergence. Pub-&#13;
+lic interventions can be broadly classified into at least three categories. These are (1) topic&#13;
+specific national programs, (2) sector specific programs, and (3) spatially specific programs.&#13;
+The main drawback with topic and sector specific programs is that they have varying spatial&#13;
+incidence, thereby having disproportionate effects on some regions. It is therefore difficult to&#13;
+estimate the impact of these types of interventions on lagging or poorer states. While public&#13;
+policies can be viewed as important catalysts for convergence, the timing and spatial inci-&#13;
+dence of particular instruments need to be carefully examined.&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+                                           References&#13;
+&#13;
+Anselin, L. (1999). Spatial Econometrics. Mimeo.&#13;
+Balestra, P. (1996). Fixed Effect Models and Fixed Coefficient Models. in Laszlo Matyas and&#13;
+         Patrick Sevestre (eds.) The Econometrics of Panel Data. The Netherlands: Kluwer&#13;
+         Academic Publishers.&#13;
+Barro, R.J. (1991). Economic growth in a cross section of countries, Quarterly Journal of Eco-&#13;
+         nomics, 106: 407-43.&#13;
+Barro, R.J. and Sala-I-Martin, X. (1991). Convergence across states and regions. Brookings Pa-&#13;
+         pers on Economic Activity, 1 107­82.&#13;
+Barro, R.J. and Sala-i-Martin, X. (1992). Convergence. Journal of Political Economy, 100: 223-&#13;
+         51.&#13;
+Barro, R.J. and Sala-i-Martin, X. (1995). Economic Growth. New York: McGraw-Hill.&#13;
+Baumol, W.J. (1986) Productivity growth, convergence and welfare: what the long run data&#13;
+         show. American Economic Review, 76: 1075-85.&#13;
+Boarnet, M. (1998). Spillovers and the Location Effects of Public Infrastructure. Journal of&#13;
+         Regional Science, 38, (3) 381-400.&#13;
+Button, K., Arena, P. and Lall, S. (1998). Do Regional Economies Converge? And Does it Mat-&#13;
+         ter Anyway? Paper presented at the International Atlantic Economic Conference, Bos-&#13;
+         ton. October 8-11.&#13;
+Button, K.J. (1998). Infrastructure investment, endogenous growth, and economic&#13;
+         convergence. Annals of Regional Science, 32, 145-162.&#13;
+Canova, F. and Marcet, A. (1995). The poor stay poor: Non-convergence across countries&#13;
+         and regions. Discussion paper 1265. London: Center for Economic Policy Research.&#13;
+Chatterji, M. and Dewhurst, J.H.Ll. (1996). Convergence clubs and relative economics per-&#13;
+         formance in Great Britain: 1977-1991. Regional Studies, 30: 31-40.&#13;
+De la Fluente, A. and Vives, X. (1995). Infrastructure and education as instruments of regional&#13;
+         policy: Evidence from Spain. European Policy: A European Forum (20). 11-40.&#13;
+Dowrick, S. and Nguyen, D-T. (1989) OECD comparative economic growth 1950­85: catch-&#13;
+         up and convergence. American Economic Review, 79: 1010­30.&#13;
+Gramlich, E. M. (1994). Infrastructure Investment: A Review Essay. Journal of Economic&#13;
+         Literature, 32,1176-96.&#13;
+Hirschman, A. (1958). The Strategy of Economics Development. New Haven: Yale University&#13;
+         Press.&#13;
+Hsiao, C. (1986). Analysis of Panel Data. New York: Cambridge University Press&#13;
+Kelejian, H. H., &amp; Robinson, D.R. (1997). Infrastructure Productivity Estimation and its Underlying&#13;
+         Econometric Specifications: A Sensitivity Analysis. Papers in Regional Science, 76, 1-&#13;
+         17.&#13;
+Mankiw, N., Romer, D., and Weil, D. (1992). A contribution to the empirics of economic&#13;
+         growth. Quarterly Journal of Economics, 107. 407-38.&#13;
+Martin, R., and Sunley, P. (1998). Slow Convergence? The New Endogenous Growth Theory&#13;
+         and Regional Development. Economic Geography, 74, (3). 201-227.&#13;
+Munnell, A.H. (1990). Why has Productivity Growth Declined? New England Economic&#13;
+         Review, Jan./Feb.3-22.&#13;
+Nurske, R. (1952). Problems of Capital Formation in Underdeveloped Countries. Basil Blackwell.&#13;
+Pritchett, L. (1997). Divergence, Big Time. Journal of Economic Perspectives 11 (3).&#13;
+&#13;
+&#13;
+&#13;
+                                                15&#13;
+&amp;#12;&#13;
+Romer, D. (1996). Advanced Macroeconomics. New York: McGraw Hill.&#13;
+Quah, D. (1993). Empirical cross section dynamics in economic growth. European Economic&#13;
+        Review, 37: 427-43.&#13;
+Quah, D. (1996) Empirics for economic growth and convergence. European Economic Re-&#13;
+        view, 40: 1353-76.&#13;
+Rey, S and Montouri, B. (1999) US Regional Income Convergence:A Spatial Econometric Per-&#13;
+        spective. Regional Studies, 33: 143-156.&#13;
+Stough, R. and Lall, S. (1998). Infrastructure Led Technology Growth in U.S. Metropolitan Re-&#13;
+        gions. Presented at the Tinbergen Institute/NECTAR seminar on "Transport Infrastruc-&#13;
+        ture, Space, and the Economy", Amsterdam, February 6-7, 1998.&#13;
+World Bank. (1986). Korea Spatial Strategy Review. World Bank Report 5868-KO. Washington&#13;
+        DC: World Bank.&#13;
+World Bank. (1994). World Development Report: Infrastructure for Development. New York:&#13;
+        Oxford University Press.&#13;
+&amp;#12;&#13;
+</ml:original-txt><ml:search-metadata><doc id="6090159">
+        <url>
+            http://documents.worldbank.org/curated/en/2000/01/6090159/regional-economic-convergence-policy-instgruments-make-difference
+        </url>
+        <availablein>English</availablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2000/01/6090159/regional-economic-convergence-policy-instgruments-make-difference</url_friendly_title>
+        <new_url>2000/01/6090159/regional-economic-convergence-policy-instgruments-make-difference</new_url>
+        <disclosure_date>2005-07-25T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2010-07-01T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2005/07/25/000012009_20050725113608/Rendered/INDEX/330510rev0wbi37161.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2005/07/25/000012009_20050725113608/Rendered/PDF/330510rev0wbi37161.pdf</pdfurl>
+        <datestored>2005-07-25T00:00:00Z</datestored>
+        <docdt>2000-01-01T00:00:00Z</docdt>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            Regional economic convergence : do policy
+            instgruments make a difference?
+        </repnme>
+        <abstracts>
+            The relationship between public capital,
+            regional output and private sector productivity has been an
+            issue of considerable interest in the regional development
+            literature. There have however been few studies that develop
+            linkages between these issues, and the broader literature on
+            economic convergence. This paper presents an innovative
+            methodology to examine the process of regional economic
+            convergence across U.S. states. We examine the effects of
+            economic variables such as human, and public capital in the
+            convergence process, and control for business cycle and
+            region specific effects in the analysis. Further,
+            specification problems arising from spatial dependence are
+            also addressed. Results from the empirical analysis show
+            that the speed of convergence is influenced by region
+            specific characteristics, and the availability of trained
+            labor in neighboring regions.
+        </abstracts>
+        <docna>
+            Regional economic convergence : do policy
+            instgruments make a difference?
+        </docna>
+        <display_title>Regional economic convergence :
+            do policy instgruments make a difference?</display_title>
+        <listing_relative_url>/research/2000/01/6090159/regional-economic-convergence-policy-instgruments-make-difference</listing_relative_url>
+        <docty>WBI Working Paper</docty>
+        <count>United States,World</count>
+        <authors>
+            <author>Lall, Somik</author>
+            <author>Yilmaz, Serdar</author>
+        </authors>
+        <entityids>
+            <entityid>000012009_20050725113608</entityid>
+        </entityids>
+        <geo_region_mdks>
+            <geo_region_mdk>World!$!80475</geo_region_mdk>
+            <geo_region_mdk>America!$!80450</geo_region_mdk>
+            <geo_region_mdk>North America!$!80465</geo_region_mdk>
+        </geo_region_mdks>
+        <admreg>Rest Of The World,Rest Of The World,The World Region,The World Region</admreg>
+        <lang>English</lang>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            aggregate growth, Agriculture, annual rate,
+            business cycle, capital accumulation, capital formation,
+            capital stock, capital variable, comparative advantages,
+            conditional convergence, consumer surplus, convergence
+            process, convergence test, country regressions,
+            Cross-country regressions, Data Set, data sets, decision
+            making, dependent variable, determining growth, Development
+            Report, dynamic structure, econometric model, econometric
+            models, Econometrics, economic activity, Economic
+            Convergence, Economic Geography, economic growth, Economic
+            Information, Economic Information System, Economic
+            Literature, economic performance, Economic Policy, Economic
+            Review, economic structures, educational attainment,
+            empirical analysis, Empirical estimation, empirical
+            literature, Empirical Results, empirical work, endogenous
+            growth, Endogenous Growth Theory, error terms, estimated
+            coefficient, expenditures, explanatory variables, exports,
+            external shocks, externalities, factor prices, factor
+            shares, GDP, growth models, growth performance, growth
+            process, growth rates, growth regression, Growth Theory,
+            human capital, Income Convergence, income data, increasing
+            returns, independent variable, infrastructure investment,
+            labor force, labor markets, labor mobility, labor
+            productivity, long run, macroeconomic shocks,
+            Macroeconomics, member countries, middle class, model
+            specifications, 0 hypothesis, per capita income, per capita
+            incomes, per-capita income, personal income, policy
+            decisions, Policy Instruments, policy interventions, Policy
+            Research, Political Economy, positive effect, private
+            investment, private sector, production function,
+            Productivity growth, public capital, public infrastructure,
+            public policies, public sector, real income, reducing
+            barriers, regional development, regional differences,
+            regional disparities, regional dummies, regional economy,
+            regional growth, regional level, regional policies, Regional
+            Science, Regression Results, savings, Sensitivity Analysis,
+            series data, significance level, significant differences,
+            skilled labor, social infrastructure, Spatial Interaction,
+            standard errors, structural characteristics, technical
+            efficiency, technical progress, telecommunications, time
+            series, Underdeveloped Countries, wages, wealth
+        </keywd>
+        <owner>Poverty Reduction &amp; Econ Mng Div (WBIPR)</owner>
+        <geo_regions>
+            <geo_region>World</geo_region>
+            <geo_region>America</geo_region>
+            <geo_region>North America</geo_region>
+        </geo_regions>
+        <repnb>33051</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>Transportation</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Teaching and Learning</ml:concept><ml:concept>Poverty Reduction</ml:concept><ml:concept>Poverty Reduction and Distributional Analysis</ml:concept><ml:concept>Poverty Reduction and Equity</ml:concept><ml:concept>Poverty and Inequality</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Social Protections and Labor</ml:concept><ml:concept>International Competitiveness</ml:concept><ml:concept>International Economics and Trade</ml:concept><ml:concept>Trade Liberalization</ml:concept><ml:concept>Trade Liberalization and Regional Integration</ml:concept><ml:concept>Trade Restrictiveness</ml:concept><ml:concept>Trade and Integration</ml:concept><ml:concept>Science and Technology</ml:concept><ml:concept>Transport</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Agriculture and Food Security</ml:concept><ml:concept>Education</ml:concept><ml:concept>Economic Growth</ml:concept><ml:concept>Health, Nutrition and Population</ml:concept><ml:concept>Poverty</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Social Protection and Labor</ml:concept><ml:concept>Trade</ml:concept><ml:concept>Markets and Market Access</ml:concept><ml:concept>Drivers of Growth</ml:concept><ml:concept>Enablers of Growth</ml:concept><ml:concept>Growth Determiners</ml:concept><ml:concept>Growth Drivers</ml:concept><ml:concept>Growth Enablers</ml:concept><ml:concept>Infrastructure Economics and Finance</ml:concept><ml:concept>Public Infrastructure</ml:concept><ml:concept>Shocks</ml:concept><ml:concept>Demographics</ml:concept><ml:concept>Civil Service Employment</ml:concept><ml:concept>Civil Service Reform</ml:concept><ml:concept>Human Capital</ml:concept><ml:concept>Managing People</ml:concept><ml:concept>Public Employment</ml:concept><ml:concept>Analysis &amp; Monitoring</ml:concept><ml:concept>Delivery Units</ml:concept><ml:concept>Grievance Redress</ml:concept><ml:concept>Indicators</ml:concept><ml:concept>M&amp;E</ml:concept><ml:concept>Performance Measurement</ml:concept><ml:concept>Performance Reviews</ml:concept><ml:concept>Rapid Results Approaches</ml:concept><ml:concept>Wage Setting</ml:concept><ml:concept>Wages, Compensation and Benefits</ml:concept><ml:concept>Foreign Direct Investments</ml:concept><ml:concept>Linkages</ml:concept><ml:concept>Econometrics</ml:concept><ml:concept>Consumption</ml:concept><ml:concept>Income</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Agriculture</ml:concept><ml:concept>Access to Markets</ml:concept><ml:concept>Copyright</ml:concept><ml:concept>Determinants of Growth</ml:concept><ml:concept>Infrastructure and Growth</ml:concept><ml:concept>Shocks and Vulnerability</ml:concept><ml:concept>Education and Health</ml:concept><ml:concept>Highways</ml:concept><ml:concept>Infrastructure</ml:concept><ml:concept>Savings</ml:concept><ml:concept>Population</ml:concept><ml:concept>Human Resources Management</ml:concept><ml:concept>Monitoring and Evaluation</ml:concept><ml:concept>Wages</ml:concept><ml:concept>FDI Spillovers</ml:concept></ml:concepts><ml:geo-regions><ml:geo-region>Americas</ml:geo-region><ml:geo-region>United States</ml:geo-region></ml:geo-regions></ml:annotations></ml:doc-envelope>

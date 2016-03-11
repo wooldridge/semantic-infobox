@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>                                   102961&#13;
+&#13;
+&#13;
+&#13;
+world development report&#13;
+&#13;
+&#13;
+            BACKGROUND PAPER&#13;
+&#13;
+            Digital Dividends&#13;
+&#13;
+&#13;
+            Network Neutrality and&#13;
+            Private Sector Investment&#13;
+            Jose Marino Garcia&#13;
+            World Bank Group&#13;
+&amp;#12;This background paper was prepared for the World Development Report 2016 Digital Dividends. It is made&#13;
+available here to communicate the results of the Bankâ&#128;&#153;s work to the development community with the least possible&#13;
+delay. The manuscript of this paper therefore has not been prepared in accordance with the procedures appropriate&#13;
+to formally-edited texts. The findings, interpretations, and conclusions expressed in this paper do not necessarily&#13;
+reflect the views of The World Bank, its Board of Executive Directors, or the governments they represent.&#13;
+The World Bank does not guarantee the accuracy of the data included in this work. The boundaries, colors,&#13;
+denominations, and other information shown on any map in this work do not imply any judgment on the part of&#13;
+The World Bank concerning the legal status of any territory or the endorsement or acceptance of such boundaries.&#13;
+&amp;#12;            NETWORK NEUTRALITY AND PRIVATE SECTOR INVESTMENT&#13;
+&#13;
+&#13;
+The implications of network neutrality abolition in developing countries are linked to&#13;
+the problems of lack of affordability and access, and might pose important competition&#13;
+problems&#13;
+&#13;
+&#13;
+         Network neutrality and network diversity, a pricing problem&#13;
+&#13;
+Pricing of Internet connectivity services poses two important regulatory challenges.&#13;
+The first is which pricing model maximizes social welfare and allows achieving the&#13;
+most efficient degree of innovation and investment in two inter-dependent markets,&#13;
+Internet access provision and Internet content supply. The solution might imply the&#13;
+extraction of benefits through price discrimination to content suppliers from Internet&#13;
+access providers in what it is known as the network diversity approach. The second&#13;
+is to discern, whether potential competition problems stemming from vertical&#13;
+integrations in these two related marketsâ&#128;&#148;exclusion from access providers to&#13;
+content providersâ&#128;&#148;should be solved with ex-ante regulation, in what it is called the&#13;
+network neutrality approach, or sorted out ex-post by using existing competition&#13;
+legislation. Economic theory approaches these problems with two main types of&#13;
+methodologies, two-sided market models analyzing social welfare by looking at cross&#13;
+externalities between the two markets and models of congestion management&#13;
+analyzing total welfare in a context of bandwidth scarcity. In developing countries&#13;
+where affordability and lack of connectivity prevent the access to the Internet, the&#13;
+network neutrality debate takes a different form and competition problems are&#13;
+distinct. The goal of this paper is to examine network neutrality economic and&#13;
+regulatory implications, to analyze how these implications are related to&#13;
+development goals and suggests policy recommendations.&#13;
+&#13;
+Network neutrality is a regulatory approach to Internet connectivity pricing where&#13;
+customers and content providers (CP) pay a price to their respective local Internet&#13;
+Service Provider (ISP) to access the Internet, ISPs pay Internet Backbone Providers&#13;
+(IBP) an interconnection price to route and transport traffic and net payments&#13;
+between IBPâ&#128;&#153;s are normally zero. Under network neutrality all traffic is treated&#13;
+equally and consumerâ&#128;&#153;s local ISP does not receive any payment from content&#13;
+providers for the traffic they send through their network; see Figure 1.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                          1&#13;
+&amp;#12;Network diversity is a pricing model where consumerâ&#128;&#153;s ISP charges the content&#13;
+provider a fee that depends on the type of content or application. This is a price&#13;
+discrimination approach that can be implemented in two different ways, by&#13;
+discriminating on quality of service or on amount of data. Price discrimination based&#13;
+on quality entails that delay or throughput sensitive services and applications must&#13;
+pay a fee for guaranteed data delivery, and those content providers not willing to pay&#13;
+the fee would experiment service degradation. Price discrimination based on amount&#13;
+of data is based on charging a higher price to content providers that generate higher&#13;
+amounts of traffic. Additionally, in some variants of the network diversity approach,&#13;
+consumers might also be charged for different qualities of service. Under network&#13;
+diversity, traffic is not treated equally anymore and a different fee is charged to each&#13;
+application or content; see figure 2.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Whereas content and application providers argue that network neutrality is the&#13;
+cornerstone for an open Internet and has been responsible for the successful&#13;
+emergence of innovative applications such as voice or video over IP, access providers&#13;
+respond that investments to expand network access and deploy next generation&#13;
+technologies are threatened by network neutrality regulations. Extending this logic,&#13;
+the fulfillment of the externalities linked to the use of broadband might be&#13;
+endangered by network neutrality, they argue.&#13;
+&#13;
+From the perspective of the strategic behavior of access providers, two forces are&#13;
+responsible for their request to abolish the network neutrality principle. Traffic&#13;
+demand is increasing exponentially, congesting fixed and especially mobile networks,&#13;
+due to the emergence of new devices such as tablets, smartphones and other devices,&#13;
+and the increasing usage of multimedia applications, for example Netflix and Google&#13;
+are responsible for about 50% of downstream traffic in fixed networks during peak&#13;
+periods in the US.1 There is also a shift underway in the balance between the agents&#13;
+in the communications value chain, away from the predominance of access providers&#13;
+towards the increased importance of content providers.&#13;
+&#13;
+In the developing world where more than half of the population is not online, lack&#13;
+of access and affordability problems are more important than the network&#13;
+neutrality debate as it is conceived in developed countries. When the price of&#13;
+connection is exorbitant it has no sense to discuss if it is convenient to charge&#13;
+&#13;
+1Source: Financial Times http://www.ft.com/intl/cms/s/0/4610dfe8-7dbf-11e3-95dd-&#13;
+00144feabdc0.html#axzz38JGLrSoW&#13;
+&#13;
+&#13;
+                                                2&#13;
+&amp;#12;different prices to different services. If there is not access at all, either because&#13;
+broadband is not affordable or because the network is simply not available in that&#13;
+area, how to get users to access is the main problem to solve and network diversity&#13;
+takes a different form.&#13;
+&#13;
+The new approach to network diversity that has arisen in some developing countries&#13;
+consist of content providers paying users broadband data charges provided that they&#13;
+browse their sites or use their services. Otherwise, users have to pay for the traffic&#13;
+they consume; see Figure 3. Projects such as Facebook Zero or Google free zone offer&#13;
+free mobile access to Facebook and Google services, with sites adapted to existing&#13;
+data speeds. Facebook zero for example is available in 45 countries in Africa and Latin&#13;
+America and 50 mobile operators have signed an agreement with Facebook to&#13;
+implement the model.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Increased access and affordability, in this case, is at the expense of reduced&#13;
+competition in the access, content provision and publicity over the Internet markets.&#13;
+Regulatory weakness in some developing countries might worsen the problem.&#13;
+&#13;
+The pricing of Internet services is therefore a competition and a joint innovation and&#13;
+investment problem. The extraction of benefits from content and application&#13;
+providers might boost infrastructure investment and innovation but at the same time,&#13;
+reduce innovation in content generation and innovative services and applications.&#13;
+The key challenge is finding a pricing model with the correct mix of incentives to boost&#13;
+competition in both markets so that the social welfare is maximized. There are also&#13;
+competition problems. Exclusion agreements between Internet access providers and&#13;
+content and application providers, can be solved with ex-ante regulation, and&#13;
+therefore address the problem before it happensâ&#128;&#148;network neutrality regulationâ&#128;&#148;&#13;
+or otherwise, it can be sorted out ex-post by using the existing or additional&#13;
+competition legislation, once the potential damage to effective competition has&#13;
+occurred.&#13;
+&#13;
+&#13;
+                           The regulatory implications&#13;
+&#13;
+ISPs claim for the abolition of network neutrality. They see content providers as&#13;
+agents that generate network congestion, profit from the investments they have made&#13;
+&#13;
+&#13;
+&#13;
+                                          3&#13;
+&amp;#12;in network deployment and do not contribute in the development of the platform they&#13;
+use to obtain their benefits. In their view, content providers would be extracting&#13;
+benefits that are necessary to innovate in new access technologies, to invest in&#13;
+network expansion, and to solve congestion problems created by the exponential&#13;
+increases in traffic demand. What ISPs silent however, is that the demand for access&#13;
+provision depends on the demand for content. Without content demand there will not&#13;
+be access demand. The channels by which content providers might extract value from&#13;
+ISPs are mainly two:&#13;
+&#13;
+First, by depriving access providers from the revenues of its legacy servicesâ&#128;&#148;&#13;
+telephony, text messages, television etc.â&#128;&#148;replicating them in the application layer of&#13;
+IP technology without being subject to the regulatory framework that access&#13;
+providers are required to comply with. Examples are telephony and voice over IP,&#13;
+broadcasted television and IP television or SMS and messages over IP. Internet&#13;
+services that are not directly provided by the access provider are called over the top&#13;
+services.&#13;
+&#13;
+Second, access providers undergo increased congestion in their networks, and are&#13;
+being forced to upgrade infrastructures with fewer revenues due to the extraction of&#13;
+benefits from over the top applications. Whereas extraction is not an anticompetitive&#13;
+behavior in itself, it might pose a problem to social welfare if it prevents the&#13;
+deployment of infrastructures. Some over the top services are generating big amounts&#13;
+of data traffic pressing networks to the capacity limits as with the case of Netflix and&#13;
+Google.&#13;
+&#13;
+To solve the problem ISPâ&#128;&#153;s propose to charge content providers and also users for&#13;
+increased quality of serviceâ&#128;&#148;a kind of â&#128;&#152;Premium Internetâ&#128;&#153;â&#128;&#148;and to charge content&#13;
+providers with a termination of interconnection fee (Sending Party Network Pays), in&#13;
+analogy to the regulation of traditional telephone networks.&#13;
+&#13;
+However, there are reasons to hold the network neutrality approach, in T. Wu and C.&#13;
+Yoo (2006); Wu considers that the economics of infrastructure in the last mile is the&#13;
+key element of the network neutrality discussion. Incumbents in a monopoly position&#13;
+have an incentive to block content and innovative access technologies because it&#13;
+might threaten their business model. Network neutrality would not solve the&#13;
+competition problem in the access network, and abandoning the network neutrality&#13;
+approach would harm the application and content markets in exchange for creating&#13;
+very limited benefits in the last mile infrastructure problem. Network neutrality is an&#13;
+effective method to avoid competition problems, such as traffic blocking and&#13;
+exclusion of competitors. However, whereas this is true in developing countries&#13;
+where the network diversity approach damage competition this might not be so clear&#13;
+in developed countries and more research should be undertaken.&#13;
+&#13;
+According to Wu, without network neutrality an access provider might prevent the&#13;
+entry of a new innovative application, e.g. VoIP, but expecting increases in innovation&#13;
+and investment in the access network through the abolition of network neutrality is&#13;
+an unrealistic assumption about incumbent behavior. Access providers will have an&#13;
+incentive to distort competition to maintain the current level of scarcity in the last&#13;
+mile. A welfare superior and more plausible solution to solve the problem might be&#13;
+&#13;
+&#13;
+                                          4&#13;
+&amp;#12;government intervention, by subsidizing network deployment, or building the&#13;
+infrastructure itself. Examples of this proposal are roads in the US, fixed broadband&#13;
+in many Asian countries or the subsidies offered by Mexico to deploy the mobile&#13;
+access network using the 700 MHz band. Doing nothing waiting for market or&#13;
+technology to overcome the last mile infrastructure problem is also an option, but a&#13;
+risky one since by doing nothing the outcome might be that nothing happens.&#13;
+&#13;
+Proponents of network diversity however, argue that network neutrality regulation,&#13;
+with the exception of some cases of social production, is unnecessary because the&#13;
+problems that is trying to address or does not exist or can be solved with existing ex-&#13;
+post regulation. Whereas this can be supported in the case of developed countries it&#13;
+can be easily challenged for developing countries.&#13;
+&#13;
+C. Hemphill (2008) enumerates a set of competition problems that network diversity&#13;
+might pose, and analyzes whether network neutrality is a solution for them. The first,&#13;
+is the case of exclusion accomplished by contract. It occurs when a content provider&#13;
+linked to an access provider agree to exclude or degrade the service of a competing&#13;
+provider. In this case, network neutrality would be unnecessary since antitrust-law&#13;
+already deals with the problem, as the Microsoft-Netscape exclusion case proved.&#13;
+However, Microsoftâ&#128;&#153;s example also shows how lengthy the process is and how this&#13;
+can enable the monopolist to keep its market power. Furthermore, the vertical&#13;
+integration problem is already happening in developing countries where content&#13;
+providers pay operators to provide free access to their applications, creating a barrier&#13;
+to the use of other contents as we have seen before.&#13;
+&#13;
+The second occurs in the event of exclusion accomplished through refusal to deal, e.g.&#13;
+the case of AT&amp;T vs. Vonage, but existing fragmentation of access provision and&#13;
+antitrust prohibitions might solve this competition problem. However, in some cases&#13;
+fragmentation is not enough. There is also an additional problem; the exclusion of&#13;
+social production. This situation occurs when an access provider is able to collect&#13;
+profits from private production but not from social production. In this case the access&#13;
+provider would have an incentive to exclude the social producer, even if social&#13;
+production is more efficient than market production. This is the case of Wikipedia.&#13;
+&#13;
+Finally, the extraction problem takes place when an access provider charges a content&#13;
+provider for access. In this situation content providerâ&#128;&#153;s profit falls and the incentive&#13;
+to innovate and invest in content production is reduced. However, not only content&#13;
+innovation must be taken into account but also infrastructure innovation.&#13;
+&#13;
+In T. Wu and C. Yoo et al (2006), Yoo considers that in the absence of demonstrated&#13;
+economic effect, practices should not be categorically prohibited. Practices that are&#13;
+sometimes harmful and sometimes beneficial should be subject to the â&#128;&#156;rule of reasonâ&#128;&#157;&#13;
+that entails to analyze case by case to evaluate the potential competitive harm of an&#13;
+action and to allow going forward until a concrete harm to competition has been&#13;
+proved. Regulatory intervention should be limited to prohibit vertically integrated&#13;
+owners from blocking content and applications that compete directly with their own&#13;
+offerings. Yoo maintains that Network neutrality threatens investment and&#13;
+innovation in the last mile networks by preserving high market entry conditions and&#13;
+therefore harming competition. Leaving behind the network neutrality approach&#13;
+&#13;
+&#13;
+                                          5&#13;
+&amp;#12;might open competition in the last mile networks allowing for three different kinds&#13;
+of content networks, a network for traditional Internet applications, such as email and&#13;
+Web browsing, a network for e-commerce with security features, and a network for&#13;
+time sensitive applications such as streaming, media and telephony, all of them with&#13;
+a different pricing structure.&#13;
+&#13;
+The fall in the cost of establishing last mile networks due to the emergence of&#13;
+spectrum-based solutions will change the economics of the last mile infrastructure,&#13;
+making competition feasible and the market contestable. In this new context,&#13;
+promoting competition in the complementary services through network neutrality is&#13;
+no longer the better policy response. The first best policy is promoting competition&#13;
+in the last mile.&#13;
+&#13;
+Countries position towards the problem is diverse. In some countries such as Chile&#13;
+and the Netherlands the law enforces network neutrality and prevents the use of deep&#13;
+packet inspection, In the US, regulation prohibits the existence of paid prioritization&#13;
+of any kind and bans the existence of fast lanes, but the European Commission&#13;
+revision of the open internet regulation has allowed for a different treatment of&#13;
+specialized services such as IPTV, automated driving or healthcare services provided&#13;
+that these services do not harm the availability and quality of the open Internet&#13;
+Access.&#13;
+&#13;
+Finally, political manipulation of the Internet and a negative effect on human rights&#13;
+have also been related to network diversity but although it is true that network&#13;
+diversity might facilitate the manipulation of information by making filtering&#13;
+technologies available, information censorship and manipulation and the network&#13;
+neutrality problem are different issues. Censorship happens even with network&#13;
+neutrality regulation, and the same mechanisms to guarantee freedom of opinion that&#13;
+are in operation should prevent censorship with network diversity.&#13;
+&#13;
+&#13;
+&#13;
+                The economics of network neutrality and diversity&#13;
+&#13;
+Economic analysis uses several methodologies to look into the effects of pricing of&#13;
+connectivity services on total welfare; two are the more prevalent; two sided market&#13;
+and congestion management models.&#13;
+&#13;
+Two-sided market models consider two groups of agents, the sides, interacting,&#13;
+through a platform. The benefits that each of the agents obtain from joining the&#13;
+platform depend on the size of the group to which the agent belongs, and the other&#13;
+side groupâ&#128;&#153;s size. The benefits are known as network externalities. There are&#13;
+externalities related to the size of each group and cross-externalities between groups.&#13;
+This means that the more users connect to the Internet the greater is the utility that&#13;
+a user obtains from connecting to the network. The reasons are straightforward, e.g.&#13;
+the greater the number of e-mail users the higher possible destinations for an e-mail.&#13;
+Cross externalities also exist, the more contents are available, the greater is the utility&#13;
+for consumers to connect, and the more consumers, the greater the market for&#13;
+content providers.&#13;
+&#13;
+&#13;
+                                           6&#13;
+&amp;#12;In the two-sided market approach, the key parameter to look at is the relative value&#13;
+of the network effects between the two sides of the market; the content-supply side&#13;
+and the consumer-demand side.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+The determinants of equilibrium prices between agents of a two-sided platform are&#13;
+the magnitude of the cross-group externalities, whether platform fees are flat-rate or&#13;
+payments per amount of traffic, and whether the agents have multi-homing&#13;
+possibilities. Where multi-homing refers to the possibility for a user or content&#13;
+provider to connect to the Internet using different ISPs at the same time, Armstrong&#13;
+(2006).&#13;
+&#13;
+The social optimum and the number of consumers and content providers that would&#13;
+exist in a market depends on the value of cross-group externalities in both directions,&#13;
+the price that the ISP charge to consumers and the fee that the platform charges to&#13;
+content providers in the network diversity approach, for most values of these&#13;
+parameters, total surplus is higher with network neutrality; N. Economides and J. Tag&#13;
+(2012).&#13;
+&#13;
+Congestion models are more heterogeneous and analyze bandwidth scarcity to&#13;
+disentangle the effect of internet access pricing on welfare, private investment and&#13;
+innovation.&#13;
+&#13;
+Network diversity can avoid congestion by creating a price for a preferential access&#13;
+to the Internet, but hurt content providers investments; Cheng et al. (2007).&#13;
+Prioritization would make consumers to switch to the content provider that bought&#13;
+prioritization to the ISP, improving productive efficiency but at the same time,&#13;
+consumer utility losses will happen because they would be deprived from the use of&#13;
+some of their preferred services; Choi and Kim (2010). The conditions for network&#13;
+neutrality to be a total welfare superior option compared to network diversity in the&#13;
+presence of congestion, occurs when the elasticity of content demand with respect to&#13;
+transmission time does not increase with householdsâ&#128;&#153; delay sensitivity for the&#13;
+content; Economides and Hermalin (2012).&#13;
+&#13;
+The effects of access pricing on social welfare depends on the particular values of the&#13;
+parameters in all models, however, there is no empirical research of the values for&#13;
+most of these parameters. Additionally, any of the models incorporate the&#13;
+externalities of Internet access to the economy as a whole in terms of increased&#13;
+&#13;
+&#13;
+&#13;
+                                          7&#13;
+&amp;#12;productivity and employment. Only the externalities between sides in the two-sided&#13;
+market models are considered.&#13;
+&#13;
+What is the different impact of network diversity in developing countries and in&#13;
+developed economies is still a question that remains unapproached in economic&#13;
+analysis and needs to be studied. An important element in the analysis must be the&#13;
+different patterns of traffic demand in developing and developed countries and the&#13;
+impact of network capacity in shaping demand. For example, whereas in North&#13;
+America the main contributor to traffic demand is streamed audio and video (real&#13;
+time entertainment) with almost 60% share of the total traffic, in Africa, Web&#13;
+browsing is as important as video on demand, and both accounts for around 25% of&#13;
+total traffic; see Figure 5.&#13;
+&#13;
+         Figure 5: Peak traffic composition in North America and Africa&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+  Source: Sanvine Analytics. Available at: https://www.sandvine.com/downloads/general/global-&#13;
+            internet-phenomena/2014/1h-2014-global-internet-phenomena-report.pdf&#13;
+&#13;
+Empirical literature is scarce and diverse from the point of view of the methodology&#13;
+used: R. Clarke (2009) uses a cost model to argue that network costs levels would&#13;
+exceed by an order of magnitude todayâ&#128;&#153;s levels and therefore neutrality is not be a&#13;
+feasible option. Traffic demand will exceed supply and networks will not be able to&#13;
+satisfy video and other high bandwidth contents with neutrality.&#13;
+&#13;
+&#13;
+                                Policy recommendations&#13;
+&#13;
+Network diversity is not a market demand, and network neutrality in developed&#13;
+countries seems to be a solution for non-existing competition problems. In the case of&#13;
+developing countries network diversity is a trade-off between affordability and&#13;
+competition.&#13;
+&#13;
+Whereas literature is focused on whether competition problems between access&#13;
+providers and content providers should be solved ex-ante or ex-post, more attention&#13;
+should be given to the value proposition that a differentiated Internet service would&#13;
+&#13;
+&#13;
+                                             8&#13;
+&amp;#12;offer to customers. New technological developments suggest that network diversity&#13;
+is not a market demand, since technology has reduced the necessity of differentiated&#13;
+Internet services. Protocols that control congestion at the end point, assume no&#13;
+network support to quality of service, and use packet losses as a signal of congestion&#13;
+to control self-sending rate, reducing network congestion, improving jitter and&#13;
+yielding a fair allocation of network elements. Internet Exchange Points and peering&#13;
+are also reducing the traffic to deliver to the Internet backhaul and backbone,&#13;
+reducing per bit delivery cost, and improving routing efficiency, packet losses and&#13;
+latency. Content delivery networks such as Akamai are also helping to reduce the&#13;
+need of end-to-end solutions. After years of innovation in the effort-less Internet it is&#13;
+maybe too late for access providers to suggest a dedicated path quality of service&#13;
+solution for congestion. The consequence is that network diversity and differentiated&#13;
+services are less necessary to provide low latency and/or low jitter services such as&#13;
+VoIP or video on demand. Only very critical jitter and latency applications such as&#13;
+telemedicine might need a dedicated path and a reserved capacity in each node to&#13;
+succeed.&#13;
+&#13;
+The existing experience in telephone markets, shows that models where calling&#13;
+network party pays, have not achieved increased competition and investment in the&#13;
+access network, on the contrary, it indicates that incumbents will behave restricting&#13;
+competition in the last mile. Substituting the existing network neutrality, for a calling&#13;
+party network pays approach, might not increase investment in the access network&#13;
+and therefore benefits from departing from network neutrality would not&#13;
+compensate for the lossesâ&#128;&#148;innovation in the content and application industries.&#13;
+&#13;
+However, traffic growth must be monitored, since increased congestion and the&#13;
+subsequent demand for network deployment at a higher pace than in the past might&#13;
+imply a fall in the present value of the gross profits per user that access providers&#13;
+obtain from building and operating the network. This fall would prevent investments&#13;
+in network deployment and as a consequence a social under-provision of broadband.&#13;
+Investments in network upgrades will only be undertaken up to the point that the&#13;
+present value of the necessary costs to satisfying the demand equals the present value&#13;
+of the profits to be obtained. For this reason, increases in traffic demand might make&#13;
+network diversity a social welfare superior option.&#13;
+&#13;
+Empirical evidence of anticompetitive behavior of access providers is weak in&#13;
+developed countries. Over a decade, the FCC only found four related cases of&#13;
+anticompetitive behavior, suggesting that the ex-post approach to potential&#13;
+competition problems of network diversity might be adequate. However Microsoft-&#13;
+Netscape antitrust case can be seen as an example of how long is the ex-post process&#13;
+and how the delay can allow the monopolist to keep its market power.&#13;
+&#13;
+In developing countries, however, access and affordability are at the expense of&#13;
+reduced competition in the access, content provision and publicity over the Internet&#13;
+markets. Regulatory weakness in some developing countries might worsen the&#13;
+problem. If a subsidy to consumers is to be allowed, regulatory measures such as the&#13;
+guarantee that all mobile operators are offered the same deal must be adopted.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                           9&#13;
+&amp;#12;A subsidy to consumers allows content providers to create a monopoly in related&#13;
+markets to extract monopoly rents. The agreement between Facebook or Google and&#13;
+a mobile operator is an exclusion deal that prevents other content providers to access&#13;
+the market by increasing entry barriers. The agreement also cut down competition in&#13;
+the publicity over the Internet market, since the options for advertising are drastically&#13;
+reduced. Content providers might cross-subsidize developing countries&#13;
+advertisement markets with the developed countries revenues to gain monopoly&#13;
+control of the publicity over the Internet market. Furthermore, if Facebook or Google&#13;
+are not mandated to offer the same agreement to all existing mobile operators, a&#13;
+competition problem in the mobile access market will appear.&#13;
+&#13;
+&#13;
+&#13;
+References&#13;
+&#13;
+&#13;
+Wu, T., Yoo, C. 2006. Keeping Internet neutral? : Tim Wu and Christofer Yoo Debate.&#13;
+Federal Communications law journal. Vol 59. Number 3.&#13;
+&#13;
+Hemphill, C., 2008. Network Neutrality and the false promise of zero price regulation.&#13;
+Yale Journal on Regulation. Vol 25:2, 2008.&#13;
+&#13;
+Armstrong, M., 2006. Competition in two-sided markets. RAND Journal of Economics&#13;
+37, 668â&#128;&#147;691.&#13;
+&#13;
+Economides, N. and Tag, J. â&#128;&#156;Net Neutrality on the Internet: A Two-Sided Market&#13;
+Analysis.â&#128;&#157; Information Economics and Policy, Vol. 24 (2012), pp. 91â&#128;&#147;104.&#13;
+&#13;
+Hermalin, B., Katz, M.L., 2007. The economics of product-line restrictions with an&#13;
+application to the network neutrality debate. Information Economics and Policy 19,&#13;
+215â&#128;&#147;248&#13;
+&#13;
+Chen, M.K., Nalebuff, B., 2007. One-Way Essential Complements. Mimeo. Yale University&#13;
+(April).&#13;
+&#13;
+Choi, J.P., Kim, B.C., 2010. Net neutrality and investment incentives. RAND Journal of&#13;
+Economics 41, 446â&#128;&#147;471.&#13;
+&#13;
+Economides, N., Hermalin, B., 2012. The Economics of Network Neutrality.&#13;
+RAND Journal of Economics.&#13;
+&#13;
+Clarke, R. 2009. Costs of neutral/unmanaged IP networks. Review of network&#13;
+economics.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                          10&#13;
+&amp;#12;</ml:original-txt><ml:search-metadata><doc id="25858808">
+        <url>
+            http://documents.worldbank.org/curated/en/2016/02/25858808/world-development-report-2016-digital-dividends-network-neutrality-private-sector-investment
+        </url>
+        <availablein>English</availablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2016/02/25858808/world-development-report-2016-digital-dividends-network-neutrality-private-sector-investment</url_friendly_title>
+        <new_url>2016/02/25858808/world-development-report-2016-digital-dividends-network-neutrality-private-sector-investment</new_url>
+        <disclosure_date>2016-02-02T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2016-02-02T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <docm_id>090224b08412d57a</docm_id>
+        <chronical_docm_id>090224b08412d57a</chronical_docm_id>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2016/02/02/090224b08412d57a/1_0/Rendered/INDEX/World0developm0te0sector0investment.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2016/02/02/090224b08412d57a/1_0/Rendered/PDF/World0developm0te0sector0investment.pdf</pdfurl>
+        <docdt>2016-01-01T04:06:05Z</docdt>
+        <datestored>2016-02-02T00:00:00Z</datestored>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            World development report 2016 : digital
+            dividends - network neutrality and private sector investment
+        </repnme>
+        <abstracts>
+            Pricing of internet connectivity
+            services poses two important regulatory challenges. The
+            first is which pricing model maximizes social welfare and
+            allows achieving the most efficient degree of innovation and
+            investment in two inter-dependent markets, internet access
+            provision and internet content supply. The goal of this
+            paper is to examine network neutrality economic and
+            regulatory implications, to analyze how these implications
+            are related to development goals and suggests policy
+            recommendations. Network neutrality is a regulatory approach
+            to internet connectivity pricing where customers and content
+            providers (CP) pay a price to their respective local
+            internet service provider (ISP) to access the internet, ISPs
+            pay internet backbone providers (IBP) an interconnection
+            price to route and transport traffic and net payments
+            between IBP’s are normally zero. Under network neutrality
+            all traffic is treated equally and consumer’s local ISP does
+            not receive any payment from content providers for the
+            traffic they send through their network. Congestion models
+            are more heterogeneous and analyze bandwidth scarcity to
+            disentangle the effect of internet access pricing on
+            welfare, private investment, and innovation.
+        </abstracts>
+        <docna>
+            World development report 2016 : digital
+            dividends - network neutrality and private sector investment
+        </docna>
+        <display_title>World development report 2016 :
+            digital dividends - network neutrality and private sector investment</display_title>
+        <listing_relative_url>/research/2016/01/25858808/world-development-report-2016-digital-dividends-network-neutrality-private-sector-investment</listing_relative_url>
+        <topic>Public-Private Dialog m1327699 1282,Private Climate Finance m1326161 1850,Broadband Networks m1327576 291,Network Management m1325939 672,Mobile Networks and Devices m1326868 293</topic>
+        <subtopic>ICT Policy and Strategies,E-Business,Transport Economics Policy &amp; Planning,Markets and Market Access,Education for the Knowledge Economy</subtopic>
+        <docty>World Development Report</docty>
+        <teratopic>Education,Macroeconomics and Economic Growth,Transport,Private Sector Development,Information and Communication Technologies</teratopic>
+        <count>World</count>
+        <authors>
+            <author>Garcia,Jose Marino</author>
+        </authors>
+        <entityids>
+            <entityid>090224b08412d57a_1_0</entityid>
+        </entityids>
+        <admreg>The World Region,The World Region</admreg>
+        <colti>World development report</colti>
+        <lang>English</lang>
+        <historic_topic>Education,Macroeconomics and Economic Growth,Transport,Private Sector Development,Information and Communication Technologies</historic_topic>
+        <topicv3>Public-Private Dialog m1327699 1282,Private Climate Finance m1326161 1850,Broadband Networks m1327576 291,Network Management m1325939 672,Mobile Networks and Devices m1326868 293</topicv3>
+        <majdocty>Publications,Publications &amp; Research</majdocty>
+        <keywd>
+            telemedicine, regulatory framework, internet
+            content, e-mail, internet services, e-commerce, government,
+            traffic growth, telephone networks, internet access pricing,
+            video, value chain, mobile access, next generation,
+            information, services, elasticity, communications law, isp,
+            traffic demand, transmission, fair, congestion management,
+            pricing, subsidy, traffic, price, speeds, television,
+            communications, advertising, data, market entry, telephone
+            markets, commerce, application providers, costs, transport,
+            technological developments, voice over ip, network
+            economics, publicity, surplus, voip, peak periods,
+            productivity, telephony, externalities, congestion problems,
+            monopoly, content providers, markets, private investment,
+            advertisement, connectivity, true, service provider, web,
+            internet applications, network access, product, peering,
+            route, subsidies, broadband, access to the internet,
+            telephone, infrastructure, infrastructure investment,
+            economic effect, users, content production, technology,
+            market analysis, driving, congestion, inspection, vertical
+            integration, vertical integrations, network deployment,
+            internet access, results, value, demand, mobile networks,
+            networks, text, price regulation, protocols, security
+            features, internet service provider, private sector, market,
+            regulation, price discrimination, federal communications
+            law, internet, pricing model, roads, backbone, private
+            sector investment, set, agents, content provider, routing,
+            security, business, network, bandwidth, network
+            externalities, internet connectivity, supply, market demand,
+            market power, innovation, lanes, sites, profit, investments,
+            peak traffic, information economics, business model,
+            customers, suppliers, ip, profits, technologies, multimedia,
+            isps, infrastructures, prices, uses, quality of service,
+            user, competition
+        </keywd>
+        <owner>World Development Report (DECWD)</owner>
+        <repnb>102961</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>ICT</ml:concept><ml:concept>ICT for Development</ml:concept><ml:concept>Information Technology</ml:concept><ml:concept>Information and Communication Technologies (ICT)</ml:concept><ml:concept>Transportation</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Poverty Reduction</ml:concept><ml:concept>Poverty Reduction and Distributional Analysis</ml:concept><ml:concept>Poverty Reduction and Equity</ml:concept><ml:concept>Poverty and Inequality</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>International Competitiveness</ml:concept><ml:concept>International Economics and Trade</ml:concept><ml:concept>Trade Liberalization</ml:concept><ml:concept>Trade Liberalization and Regional Integration</ml:concept><ml:concept>Trade Restrictiveness</ml:concept><ml:concept>Trade and Integration</ml:concept><ml:concept>City Development Strategies</ml:concept><ml:concept>Information and Communication Technologies</ml:concept><ml:concept>Transport</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Fragility, Conflict and Violence</ml:concept><ml:concept>Arts and Culture</ml:concept><ml:concept>Health, Nutrition and Population</ml:concept><ml:concept>Poverty</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Trade</ml:concept><ml:concept>Urban Development</ml:concept><ml:concept>Legislation and Regulation</ml:concept><ml:concept>Duty Free Zones</ml:concept><ml:concept>Tax Free Zones</ml:concept><ml:concept>VOIP</ml:concept><ml:concept>Voice Over Internet Protocol</ml:concept><ml:concept>ICT Policy and Strategies</ml:concept><ml:concept>ICT Sector Development</ml:concept><ml:concept>Business Models</ml:concept><ml:concept>Demographics</ml:concept><ml:concept>Servers</ml:concept><ml:concept>Switches</ml:concept><ml:concept>GVCs</ml:concept><ml:concept>Production Sharing Networks</ml:concept><ml:concept>Value Chains</ml:concept><ml:concept>Market Access</ml:concept><ml:concept>Connectivity</ml:concept><ml:concept>Lagging Regions</ml:concept><ml:concept>Knowledge Economy</ml:concept><ml:concept>Legislation</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Media</ml:concept><ml:concept>Boundaries</ml:concept><ml:concept>Free Zones</ml:concept><ml:concept>Investment Incentives</ml:concept><ml:concept>Congestion</ml:concept><ml:concept>Subsidies</ml:concept><ml:concept>Human Rights</ml:concept><ml:concept>Voice Over IP</ml:concept><ml:concept>Infrastructure</ml:concept><ml:concept>ICT Strategy, Policy and Regulation</ml:concept><ml:concept>Telecommunications Organizational Design</ml:concept><ml:concept>Population</ml:concept><ml:concept>Network Management</ml:concept><ml:concept>Global Value Chains</ml:concept><ml:concept>Trade Policy</ml:concept><ml:concept>Connectivity and Lagging Regions</ml:concept></ml:concepts><ml:geo-regions/></ml:annotations></ml:doc-envelope>

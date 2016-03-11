@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>0&#13;
+Viewpoint&#13;
+The World Bank Group                                                                  December 1996&#13;
+Note No.98   Regulating Market Risk in Banks-&#13;
+The Options&#13;
+Constantinos     Market risk has become an increasingly important issue for banks and consequently for bank&#13;
+Stepbanou        regulation. Regulators, concerned about the costs of bank insolvency and of systemic risk arising&#13;
+from the volatility of bank trading portfolios, have developed three different approaches to set-&#13;
+ting risk-based minimum capital adequacy standards for market risk. This Note evaluates those&#13;
+three approaches-building blocs, internal models, and precommitment-and their possible im-&#13;
+plications for bank capital, competition, and profitability and pricing decisions.&#13;
+There are four major categories of risk that arise   Bank regulators have two main concerns about&#13;
+in financial institutions in general and in banks   market risk. First, trading activity can lead to&#13;
+in particular: market risk, credit risk, legal risk,  rapid changes in bank capital because of the&#13;
+and operating risk. There is also systemic risk,   potential volatility of the trading portfolio's value.&#13;
+which occurs if any of these four risks, or any   And second, the failure of large banks involved&#13;
+combination of them, causes a disruption to a   in trading can lead to systemic failure. Motivated&#13;
+firm, which is transmitted and magnified across   by these concerns, regulators have explicitly in-&#13;
+the whole of the financial system. Market, or po-  troduced market risk into risk-based capital ad-&#13;
+sition, risk, the focus of this Note, occurs when   equacy standards. They have developed three&#13;
+there is a change in market factors that alters the   main regulatory approaches to measuring-and&#13;
+value of a position in a financial instrument or   allocating capital against-this market risk in&#13;
+portfolio of instruments. Recent attempts by the   banks: the building blocs approach, the inter-&#13;
+European Union and the Basle Committee on   nal models approach, and the precommitment&#13;
+Banking Supervision to incorporate such risk into   approach. Another important and more recent&#13;
+the framework of risk-based capital standards   regulatory objective-international harmoniza-&#13;
+were prompted largely by the deregulation and   tion of rules-is to prevent regulatory arbitrage&#13;
+liberalization of banks' activities, developments  and reduce compliance costs.&#13;
+that have led to increased securities, foreign ex-&#13;
+change, and derivatives trading by banks.  There is a trade-off between the cost of impos-&#13;
+ing capital requirements and their benefit. Thus,&#13;
+Modern portfolio theory suggests that the only   an assessment of the three regulatory approaches&#13;
+appropriate way to measure risk is an overall   must consider the extent to which they are neu-&#13;
+portfolio approach to the bank's positions. That  tral between financial institutions and they re-&#13;
+is because risk is context-dependent: the mar-   duce the efficiency of the banking system by&#13;
+ginal contribution of a position to total portfo-  imposing substantial compliance costs.&#13;
+lio risk is a function of what else is in the&#13;
+portfolio. Because it is still impossible to mea-   The building blocs approach&#13;
+sure risk in this way, piecemeal capital require-&#13;
+ments focusing on categories of risk have   The building blocs approach to regulating&#13;
+developed instead.                         market risk is a single model to be applied to&#13;
+Financial Sector Development Department- Vice Presidency for Finance and Private Sector Development&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+Regulating Market Risk in Banks-The Options&#13;
+all banks. It consists of a set of rules that as-   were willing to implement-points to an im-&#13;
+signs specific risk charges to specific financial   portant advantage of the building blocs ap-&#13;
+categories and crudely accounts for certain   proach: it too is relatively simple to follow and&#13;
+portfolio effects (diversification and correlation)   therefore more likely to be adopted. Several&#13;
+on banks' risk exposures. This approach uses   criticisms have been raised against the ap-&#13;
+a "building bloc" framework similar to that of   proach, however. First, neither the concept of&#13;
+the 1988 Basle Accord on capital standards for   two books nor the division of risk by instru-&#13;
+credit risk.                                   ment is consistent with a portfolio approach to&#13;
+risk. Moreover, both divisions open possibili-&#13;
+Two regulatory frameworks incorporate this ap-   ties for significant regulatory arbitrage or gam-&#13;
+proach, the Capital Adequacy Directive (CAD)   ing-switching funds between the books or&#13;
+issued by the European Union (EU) and the   among instruments so as to minimize the regu-&#13;
+Basle Standardized Measure (BSM) established   latory capital required. Second, the capital pro-&#13;
+by the Basle Committee on Banking Supervi-   visions have been criticized as arbitrarily set&#13;
+sion. The CAD had to be implemented by banks   and unnecessarily high. Third, the provisions&#13;
+in EU member countries by January 1, 1996.   are static and inflexible, making it difficult to&#13;
+and the BSM is to be adopted on a voluntary   adapt them to new products. Finally, doubts&#13;
+basis and by internationally active banks byJanu-   remain about the usefulness of the third tier of&#13;
+ary 1, 1998. Both the BSM and the CAD are   capital in times of crisis (such as extreme mar-&#13;
+minimum standards, leaving national authori-   ket movements and market illiquidity) because&#13;
+ties considerable latitude to apply additional   of its short-term nature.&#13;
+requirements, generally or to specific institutions.&#13;
+There are only small differences between them    Most of the criticisms stem, inevitably, from&#13;
+in the parameters they set.                   the fact that the approach is a "one-size-fits&#13;
+all" model that focuses on the classification of&#13;
+Central to both frameworks is the distinction   instruments. The fundamental problem is that&#13;
+they make between the trading and the bank-   its procedure for measuring market risk is&#13;
+ing books. The principal regulatory target is   crude, and at variance with industry best prac-&#13;
+position risk in the trading book, while the   tice in risk measurement-using sophisticated&#13;
+required market risk capital supplements the   in-house models.&#13;
+capital required for credit risk standards. To&#13;
+contribute in part towards market risk capital,   The internal models approach&#13;
+a third tier of capital made up of short-term&#13;
+subordinated debt subject to various restrictions   The internal models approach bases capital&#13;
+was introduced, in addition to pre-existing core   charges on banks' own estimates of their mar-&#13;
+and supplemental capital.                      ket risk exposure, prepared using internal risk&#13;
+measurement models. This estimate wxould&#13;
+Under the building blocs approach, capital   become the basis for the regulatorv capital&#13;
+charges are determined separately, using differ-   charge. Regulators impose restrictions on these&#13;
+ent procedures for each of four major market   internal models to standardize them and thus&#13;
+risk categories (interest rate, foreign exchange,   ensure rough comparability across banks. The&#13;
+equity, and commodities) and then aggregated.   Basle Committee recently accepted the inter-&#13;
+The fundamental structure is therefore additive.   nal models approach for use as an alternative&#13;
+Institutions must be in continuous compliance,   to the BSM for capital provision for market risk.&#13;
+requiring that daily monitoring and compliance&#13;
+mechanisms be in place.                        A central feature of the approach is its use of&#13;
+value-at-risk (VAR) models. VAR is a statistical&#13;
+The experience with the Basle Credit Accord-   approach to evaluating market risk. Its aim is to&#13;
+which because of its simplicity many countries   consistently calculate the likely loss for a speci-&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+fied probability, over a certain holding period,   set the risk parameters and validate each bank's&#13;
+that a bank is likely to experience on its portfo-   method for measuring risk.&#13;
+lio as a result of an adverse market movement.&#13;
+There are three main VAR approaches-variance-   But the approach may also pose some prob-&#13;
+covariance, simulation, and Monte Carlo-but   lems. The regulators may find it difficult to&#13;
+as yet no industry consensus on the best method   verify the accuracy of sophisticated risk man-&#13;
+for calculating VAR. Like any statistical model.   ageinent models. And some analysts have criti-&#13;
+VAR depends on assumptions whose choice is   cized the constraints the regulators impose on&#13;
+dictated by the user's awareness and aversion   banks' internal models as too conservative,&#13;
+to those assumptions.                        resulting in less efficient capital determination&#13;
+than the models allow. So banks that can mea-&#13;
+The assumptions underlying the internal mod-   sure their market risk more accurately using&#13;
+els approach are that banks are in a better   these models have little to gain: their regula-&#13;
+position than regulators to devise models that  tory capital set-asides will be much the same&#13;
+produce accurate measures of risk exposure,   as they would be if calculated using the build-&#13;
+and that the regulatory authority can verify that  ing blocs approach.&#13;
+each bank's model provides such a measure.&#13;
+In effect, the regulators piggyback on a bank's   Another problem with the approach is that set-&#13;
+risk management model to determine the lev-   ting up such internal systems is costly. As a&#13;
+els of risk capital the bank should hold.    result, only a few' major banks currently carry&#13;
+full VAR models. Most banks still rely on either&#13;
+Setting capital adequacy standards under this   stress tests or a combination of stress tests and&#13;
+regime is a three-stage process. First, the regu-   VAR models for individual lines of business (for&#13;
+lators set the quantitative standards (risk pa-   example, foreign exchange trading) as a way&#13;
+rameters) for calculating capital, such as the   to measure market risk and allocate capital&#13;
+confidence interval, the holding period for the   against it.&#13;
+portfolio, and a minimum scaling factor to re-&#13;
+flect their conservatism regarding the model's   The precommitment approach&#13;
+results. Second, the regulators validate the&#13;
+models and processes the banks use to mea-   The precommitment approach is based on work&#13;
+sure risk using qualitative standards, such as   by Federal Reserve economists Paul Kupiec and&#13;
+senior management oversight of the daily risk   James O'Brien.' An alternative to models-based&#13;
+management process and the existence of an   regulation, this approach focuses on the goal-&#13;
+independent risk control unit. Third, the bank   maintaining sufficient capital to cover trading&#13;
+estimates and maintains VAR capital require-   losses-rather than the means and leaves it to&#13;
+ments on a daily basis, and periodically uses   banks to determine the best models and the best&#13;
+stress test simulations to test the trading book   inputs to those models for achieving that goal.&#13;
+exposures for extreme market movements.&#13;
+Under this approach, which has not yet been&#13;
+The internal models approach has three main   seriously considered by regulators, each bank&#13;
+advantages. Compared with the building blocs   precommits the amount of capital needed to&#13;
+approach, it results in better alignment of the   cover what it believes to be its maximum trad-&#13;
+incentives of banks and regulators-it is much   ing loss exposure over a given regulatory&#13;
+less likely to be in a bank's interest to "game"   period. This capital becomes the focus of regu-&#13;
+its owvn VAR model. It encourages the devel-  lation. A bank would be in breach of this pre-&#13;
+opment of sophisticated risk management. And   comnmitment if cumulative losses from the&#13;
+some observers have argued, though not very   beginning of the period exceed its capital com-&#13;
+convincingly, that it may simplify the supervi-   mitment on any close of business mark-to-&#13;
+sory task since it requires the regulator only to   market dturing the period.&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+Regulating Market Risk in Banks-The Options&#13;
+Setting penalties becomes all-important for    will choose the internal models approach in the&#13;
+regulators in this approach, because it sets the    near future. Few banks now have the techno-&#13;
+tone for incentives for compliance. Penalties    logical capability to adopt sophisticated risk&#13;
+rmust align the incentives of regulators and    measurement and management systems.&#13;
+banks well, to avoid over- or undercommitment&#13;
+of capital. In addition to the discipline of pub-    The implications for business of imposing mar-&#13;
+lic disclosure, the penalties may include fines,    ket risk-based capital requirements can be seen&#13;
+a capital surcharge in future periods, or some    in three dimensions: capital, competition, and&#13;
+other regulatory discipline.                          profitability and pricing decisions.&#13;
+E Capital. Many banks' initial reaction to the&#13;
+The precommitment approach is thought to have           new  Basle rules on market risk is that, if&#13;
+several significant advantages. It removes the          implemented, they will not result in require-&#13;
+need for supervisors to verify the accuracy of a        ments to hold significantly higher levels of&#13;
+bank's loss estimates. Its incentive structure uses     capital. The effect is likely to be smaller for&#13;
+the self-interest of banks to induce them to al-        the bigger banks, which are better able to&#13;
+locate adequate capital and develop risk man-           measure risk, though not much smaller, given&#13;
+agement systems. Moreover, it is flexible, though       the conservative parameters that regulators&#13;
+explicit, about the type of penalties imposed:          have imposed. The existing rules on credit&#13;
+penalties are tailored to the bank and in pro-          risk will continue to dominate the overall&#13;
+The Note seines is an  portion to the regulatory risk incurred.               regulatory effect for banks.&#13;
+open forum intended to&#13;
+encourage dissemina-                                                        * Competition. An international accord on mar-&#13;
+tion of and debate on  Precommitment has problems, however. It is             ket risk capital is unlikely to have a major&#13;
+ideas, innovations, and    still relativelv new, and the effects of its penal-  effect on competition among banks in dif-&#13;
+best practices for&#13;
+expanding the private  ties are untested. Though it relies on the safety      ferent countries. But banks will intensify the&#13;
+sector. The views     net of deposit insurance, it removes from  su-          search for new non-capital-consuming lines&#13;
+published are those of  pervisors the right to determine instances of         of business, and barriers to entry for propri-&#13;
+the authors and should&#13;
+not be attributed to the  unusual financial stress, because firms are free    etary trading may increase.&#13;
+World Bank or any of its   to choose all quantitative parameters. And crit-    * Profitability and pricing. The new Basle rules&#13;
+affiliated organizations.   ics have argued that because precommitment        will add to the costs of most firms conduct-&#13;
+Nor do any of the con-&#13;
+clusions represent   encourages banks to rely more on stop-loss               ing securities business, particularly through&#13;
+official policy of the  behavior in order to limit cumulative losses, it      the need to install new risk measurement and&#13;
+World Bank or of its  can increase svstemic risk.                             internal control systems. But regulatory capi-&#13;
+Executive Directors&#13;
+or the countries they                                                         tal is only one factor among many in firms&#13;
+represent.           Implications for business                                pricing decisions, and so it is not expected&#13;
+that implementation of the rules will substan-&#13;
+To order additional&#13;
+copies please call the  The outcome of minimum  capital regulations           tially alter pricing policies.&#13;
+FPD Note line to leave a    for market risk will depend to a large extent on&#13;
+message (202-458-1111)    how  the national authorities implement them,       Paul Kupiec ancljames OBrien, Recent Developments in Dank&#13;
+or contact Sezanne&#13;
+Smith, editor, Room   as well as on the institutional framework, par-         Capital Regulation of Market Risks.' FEDS WIorking Paper 95-51&#13;
+G8105, The World Bank,   ticularly accounting practices. Of the three ap-     (December 1995).&#13;
+1818 H Street, NW,   proaches, the internal models approach currently&#13;
+Washington, D.C. 2t433,&#13;
+or Internet address  appears to be the most reliable, market-friendly,    Constantinos Stephanou, Consultant,&#13;
+ssmith7@worldbank.org.   effective, and eventually achievable method for    Financial Sector Development Department&#13;
+Previous issues are also   regulating market risk. The reason is that it con-    (emaiL cstephanou@worldbank.org)&#13;
+avaiiable online (http:II   forms to financial institutions' best practices&#13;
+html/fpd/notes/      much more than does the building blocs ap-&#13;
+notelist.html).      proach, while severe doubts remain about the&#13;
+®Printed on recycled  effects of adopting the precommitment ap-&#13;
+paper.                proach. But that does not mean that most banks&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+</ml:original-txt><ml:search-metadata><doc id="693111">
+        <url>
+            http://documents.worldbank.org/curated/en/1996/12/693111/regulating-market-risk-banks-options
+        </url>
+        <availablein>English</availablein>
+        <virt_coll>Knowledge Notes</virt_coll>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/1996/12/693111/regulating-market-risk-banks-options</url_friendly_title>
+        <new_url>1996/12/693111/regulating-market-risk-banks-options</new_url>
+        <disclosure_date>2010-07-01T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2010-07-01T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2000/10/24/000009265_3980420172709/Rendered/INDEX/multi_page.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2000/10/24/000009265_3980420172709/Rendered/PDF/multi_page.pdf</pdfurl>
+        <docdt>1996-12-31T00:00:00Z</docdt>
+        <datestored>2000-10-24T00:00:00Z</datestored>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            Regulating market risk in banks - the options
+        </repnme>
+        <abstracts>
+            Regulators concerned about the costs of
+            bank insolvency and of systemic risk arising from the
+            volatility of bank trading portfolios have developed three
+            different approaches to setting risk-based minimum capital
+            adequacy standards for market risk. The author evaluates
+            those three approaches--building blocs, internal models, and
+            precommitment--and assesses their possible implications for
+            bank capital, competition, and pricing decisions.
+        </abstracts>
+        <docna>
+            Regulating market risk in banks - the options
+        </docna>
+        <display_title>Regulating market risk in banks -
+            the options</display_title>
+        <listing_relative_url>/research/1996/12/693111/regulating-market-risk-banks-options</listing_relative_url>
+        <docty>Viewpoint</docty>
+        <subtopic>Insurance &amp; Risk Mitigation,Environmental Economics &amp; Policies,Financial Intermediation,Banking Law,Banks &amp; Banking Reform</subtopic>
+        <teratopic>Finance and Financial Sector Development,Law and Development,Environment</teratopic>
+        <count>World</count>
+        <authors>
+            <author>Stephanou, Constantinos</author>
+        </authors>
+        <entityids>
+            <entityid>000009265_3980420172709</entityid>
+        </entityids>
+        <subsc>Financial Sector Development</subsc>
+        <admreg>The World Region,The World Region</admreg>
+        <colti>Public policy for the private sector ; Note
+            no. 98</colti>
+        <lang>English</lang>
+        <historic_topic>Finance and Financial Sector Development,Law and Development,Environment</historic_topic>
+        <sectr>Finance</sectr>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            Banks; Banking systems; Pricing;
+            Profitability; Risk management; Capital requirements; Market
+            competition; Bank capital; Bank regulation; Trading risk
+            accounting,accounting
+            practices,accounts,arbitrage,bank capital,bank
+            insolvency,Banking Supervision,banking system,banks,barriers
+            to entry,Basle Accord,Basle Standardized Measure,capital
+            adequacy,Capital Adequacy Directive,Capital
+            Regulation,capital requirements,capital standards,compliance
+            costs,credit risk,deposit
+            insurance,deregulation,economists,financial
+            institutions,foreign exchange,illiquidity,internal models
+            approach,liberalization,market factors,market risk,Market
+            Risks,operating risk,penalties,portfolios,precommitment
+            approach,pricing policies,profitability,regulatory
+            approaches,risk management,risk management model,risk
+            measurement,securities,subordinated debt,systemic risk,VAR models
+        </keywd>
+        <owner>Financial Sctr Operations &amp; Pol (OPD)</owner>
+        <repnb>16887</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>Economic Policy and Debt</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Macroeconomic Vulnerability and Debt</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Agriculture and Food Security</ml:concept><ml:concept>Economic Growth</ml:concept><ml:concept>Health, Nutrition and Population</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Commodities</ml:concept><ml:concept>Commodity Prices</ml:concept><ml:concept>Commodity Rich Countries</ml:concept><ml:concept>Natural Resources</ml:concept><ml:concept>Denationalization</ml:concept><ml:concept>Deregulation</ml:concept><ml:concept>Destatization</ml:concept><ml:concept>Divestiture of Ownership</ml:concept><ml:concept>Nutritional supplements</ml:concept><ml:concept>Vitamins</ml:concept><ml:concept>Bank Insolvency</ml:concept><ml:concept>Crisis Management</ml:concept><ml:concept>Insurance &amp; Risk Mitigation</ml:concept><ml:concept>Debt Management</ml:concept><ml:concept>Debt Policy</ml:concept><ml:concept>Debt Policy and Management</ml:concept><ml:concept>Public Debt Management</ml:concept><ml:concept>Checks on Executive Power</ml:concept><ml:concept>Citizen Oversight</ml:concept><ml:concept>Citizen User Satisfaction Survey</ml:concept><ml:concept>Independent Commissions</ml:concept><ml:concept>Ombudsmen</ml:concept><ml:concept>Oversight</ml:concept><ml:concept>Parliament</ml:concept><ml:concept>Procurement Complaints Review Institutions</ml:concept><ml:concept>Supreme Audit Institutions</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Commodities and Resources</ml:concept><ml:concept>Volatility</ml:concept><ml:concept>Market Risks</ml:concept><ml:concept>Privatization</ml:concept><ml:concept>Supplements</ml:concept><ml:concept>Bank Resolution and Crisis Management</ml:concept><ml:concept>Deposit Insurance</ml:concept><ml:concept>Insurance</ml:concept><ml:concept>Debt</ml:concept><ml:concept>Public Accountability Mechanisms</ml:concept></ml:concepts><ml:geo-regions/></ml:annotations></ml:doc-envelope>

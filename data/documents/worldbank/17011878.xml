@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>ï»¿water AND&#13;
+WATER                PROGRAM:&#13;
+          SANITATIONprogram:&#13;
+      and sanitation          FIELD&#13;
+                             field  NOTE&#13;
+                                   note                                                        October 2012&#13;
+                                                                                                September 2011&#13;
+&#13;
+&#13;
+&#13;
+                                                                                               74078&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Scaling Up Rural Sanitation&#13;
+&#13;
+&#13;
+You Manage What You Measure:&#13;
+Using Mobile Phones to &amp;#3;Strengthen&#13;
+Outcome Monitoring &amp;#3;in Rural Sanitation&#13;
+C. Ajith Kumar and Upneet Singh&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                          The Water and Sanitation Program is a multi-donor&#13;
+                                  The Water and Sanitation Program is a multi-donor&#13;
+                          partnership administered by the World Bank to support&#13;
+                                  partnership administered by the World Bank to support&#13;
+                          poor people in obtaining affordable, safe, and sustainable&#13;
+                                  poor people in obtaining affordable, safe, and sustainable&#13;
+                          access to water and sanitation services.&#13;
+                          &amp;#3;&#13;
+                                   access to water and sanitation services.&#13;
+&amp;#12;    FIELD NOTE: You Manage What You Measure                                     Scaling Up Rural Sanitation&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+    Acknowledgments&#13;
+    Peer Review: Tenzin Norbu, Senior ICT Policy Specialist, (TWICT), the&#13;
+    World Bank; Deviariandy Setiawan, Community Development Specialist,&#13;
+    Water and Sanitation Program, the World Bank; Giovanna Prennushi,&#13;
+    Economic Adviser, the World Bank, India Management Team, the World&#13;
+    Bank, New Delhi.&#13;
+&#13;
+    The Water and Sanitation Program wishes to acknowledge the support&#13;
+    of the Governments of Bihar and Himachal Pradesh, the government&#13;
+    representatives of Kandaghat (Himachal Pradesh) and Rajgir (Bihar)&#13;
+    and the people of the villages in these blocks, for the support given in&#13;
+    undertaking the proof of concept. One World Foundation is acknowledged&#13;
+    for undertaking the pilot and bringing out the learnings. The Ministry of&#13;
+    Drinking Water and Sanitation encouraged the proof of concept and&#13;
+    disseminating the learnings. Thanks are also due to Christopher Juan&#13;
+    Costain, Regional Team Leader (Water and Sanitation Program), for&#13;
+    support and feedback, and to Vandana Mehra, Communications Officer,&#13;
+    for support in design, production, and dissemination of this document.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+    Contact&#13;
+    For more information, please contact C. Ajith Kumar and Upneet Singh&#13;
+    at wspsa@worldbank.org&#13;
+&#13;
+    Editorial Support: Ananda Swaroop&#13;
+&#13;
+    Design and Graphics: Write Media&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+    WSP is a multi-donor partnership created in 1978 and administered by&#13;
+    the World Bank to support poor people in obtaining affordable, safe, and&#13;
+    sustainable access to water and sanitation services. WSPâ&#128;&#153;s donors include&#13;
+    Australia, Austria, Canada, Denmark, Finland, France, the Bill &amp; Melinda&#13;
+    Gates Foundation, Ireland, Luxembourg, Netherlands, Norway, Sweden,&#13;
+    Switzerland, United Kingdom, United States, and the World Bank.&#13;
+&#13;
+    WSP reports are published to communicate the results of WSPâ&#128;&#153;s work&#13;
+    to the development community. The boundaries, colors, denominations,&#13;
+    and other information shown on any map in this work do not imply any&#13;
+    judgment on the part of the World Bank Group concerning the legal status&#13;
+    of any territory or the endorsement or acceptance of such boundaries.&#13;
+&#13;
+    New Delhi, India&#13;
+    Â© 2012 Water and Sanitation Program&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+2                                                                                          www.wsp.org&#13;
+&amp;#12;    FIELD NOTE: You Manage What You Measure                                                                          Scaling Up Rural Sanitation&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+    Scaling Up Rural Sanitation&#13;
+&#13;
+&#13;
+    You Manage What You Measure:1&#13;
+    Using Mobile Phones to Strengthen&#13;
+    Outcome Monitoring in Rural Sanitation&#13;
+&#13;
+    The monitoring of usage of sanitation facilities at scale in the     real time, incorporate features such as geo-tagging and&#13;
+    rural areas is a continuing challenge. Usage of the facilities,      photographs to make results more credible and relevant, and&#13;
+    as against construction, is a behavior which requires frequent       make presentation of data as user-friendly maps to enable&#13;
+    cross checks over relatively shorter time spans; in addition,        quick grasp of the status. The process can be replicated at&#13;
+    the costs involved are high in terms of money, effort, and           large scale and at periodic intervals, to address the gaps in the&#13;
+    time. Making information available in real time to feed              monitoring of usage of sanitation facilities in rural areas.&#13;
+    back into policy and implementation decision making has&#13;
+    been difficult.                                                      Introduction&#13;
+                                                                         Although India is now included in the front ranks of rapidly&#13;
+    The use of Information and Communication Technology                  growing emerging economies, it is also paradoxically home&#13;
+    (ICT), through the use of mobile phones, to collect data             to the majority of people defecating in the open in the world&#13;
+    on sanitation behavior and make available almost real time           (Joint Monitoring Program 2010). It is estimated that one&#13;
+    data, offers potential at large scale. A proof of concept was        in every 10 deaths in India is linked to poor sanitation&#13;
+    piloted to test the viability of using mobile technology             and hygiene (Water and Sanitaion Program [WSP] 2011).&#13;
+    to strengthen monitoring in the rural sanitation sector              Diarrhea, a preventable disease, is the largest killer and&#13;
+    in two blocks (sub districts) of varying socioeconomic               accounts for every 20th death (Ibid). Diarrhea is linked to&#13;
+    characteristics. The pilot covered 23,000 households in a            malnutrition, especially in children, and India has one of&#13;
+    span of two to three months.                                         the highest rates of child malnutrition in the world, nearly&#13;
+                                                                         double that of sub-Saharan Africa (Gragnolati et al 2005).&#13;
+    This proof of concept demonstrated that using smartphones            To address this sanitation challenge, the Government of&#13;
+    can provide quick, credible information outcomes in near             India (GoI) has invested heavily in programs to achieve&#13;
+&#13;
+&#13;
+          Lessons learnt from piloting the proof of concept&#13;
+&#13;
+               â&#128;¢	 Proof-of-concept pilot was able to gather data and present information on important parameters (less than 10)&#13;
+                  from about 23,000 households in two sample blocks (sub districts) in about three months;&#13;
+&#13;
+               â&#128;¢	 Photographs of the respondents, though met with hesitation from some respondents, and geo-tagging of&#13;
+                  household locations, ensured high level of quality control of information;&#13;
+&#13;
+               â&#128;¢	 Geo tags were also useful in showing results on maps at a glance; and&#13;
+&#13;
+               â&#128;¢	 Technological challenges included battery draining quickly, necessitating frequent recharge, poor general packet&#13;
+                  radio service (GPRS) connectivity in some areas.&#13;
+&#13;
+&#13;
+    1&#13;
+        Klaasen P. and van Eeghen (2009).&#13;
+&#13;
+&#13;
+&#13;
+3                                                                                                                               www.wsp.org&#13;
+&amp;#12;    FIELD NOTE: You Manage What You Measure                                                                                             Scaling Up Rural Sanitation&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+    universal sanitation coverage. However, despite two                                      only for the assessment of the Clean Village Prize (see Box&#13;
+    large national rural sanitation campaigns,2 the goal of an                               1), which means that the usage of those villages that do not&#13;
+    open defecation free Indiaâ&#128;&#148;a Nirmal Bharatâ&#128;&#148;remains                                       apply are not tracked at all. Subsequently, delivery systems&#13;
+    elusive. To ensure investments in sanitation lead to                                     adapt to what is measured, and there is a gap between the&#13;
+    commensurate outcomes, the sector needs a reliable and timely                            sanitation coverage figures provided by routine monitoring&#13;
+    monitoring system.                                                                       (around 76 percent of rural households have access to a&#13;
+                                                                                             toilet, GoI 2011) and the actual usage of these toilets tracked&#13;
+    The present monitoring system is geared towards tracking of                              by surveys undertaken every few years (around 45 percent of&#13;
+    inputs such as budget spent and outputs in terms of toilets                              rural households actually use toilets, International Institute&#13;
+    constructed. The key outcomeâ&#128;&#148;usage of toiletsâ&#128;&#148;is tracked                                 for Population Sciences [IIPS] 2008) (see Figure 1).&#13;
+&#13;
+          Box 1: Monitoring in the Indian Rural Sanitation Sector	&#13;
+&#13;
+             There are three main sources of information on the rural sanitation sector in India:&#13;
+&#13;
+             1.	 Routine Data Collection: This refers to administrative data collected by the Management Information System&#13;
+                 (MIS) of the Total Sanitation Campaign (TSC), a 12-year program launched by GoI to achieve universal&#13;
+                 sanitation coverage by 2012. The focus of such routine data collection tends to be on inputs such as budget&#13;
+                 spent and outputs in terms of toilets constructed.&#13;
+&#13;
+             2.	 Incentive Program Monitoring: GoI and several state governments have introduced incentives or prizes to&#13;
+                 motivate local governments to achieve community-wide total sanitation. These are based on third party survey&#13;
+                 monitoring and focus on outcomes such as 100 percent household toilet usage and safe disposal of solid and&#13;
+                 liquid waste. State government incentive programs are typically designed as annual competitions between local&#13;
+                 governments and hence winners have to sustain total sanitation achievements in order to successfully compete&#13;
+                 the following year. The national incentive program, however, is a one-time prize, awarded once a year, and&#13;
+                 winners are only ever verified once at the time of application. Field assessments show that prize winners do&#13;
+                 not necessarily sustain total sanitation achievements and one recent study found that access to toilets in prize&#13;
+                 winning local governments varied from 47 to 100 percent (GoI 2011).&#13;
+&#13;
+             3.	 Surveys and Census: These are the most reliable source of information on sector outcomes such as toilet usage.&#13;
+                 However, results of large scale surveys of rural households are available only every three to four years and the&#13;
+                 Census is undertaken once in a decade.&#13;
+&#13;
+             Between the extremes of input/output tracking through monthly routine monitoring and outcome tracking through&#13;
+             annual/multi-year surveys, a mechanism is needed to provide policymakers with reliable and timely information&#13;
+             on sector progress. The process that this note demonstrates can contribute to the existing data collection in point&#13;
+             no. 1 (routine data collection) as well as strengthen point no. 2 (incentive program monitoring).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+    2&#13;
+        Central Rural Sanitation Program (1986-1998) and Total Sanitation Campaign (1999-2012).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+4                                                                                                                                                  www.wsp.org&#13;
+&amp;#12;    FIELD NOTE: You Manage What You Measure                                                                      Scaling Up Rural Sanitation&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+       Figure 1: India Rural Sanitation Coverage&#13;
+       TSC output monitoring (supply of toilets) vs District Level Household &amp; Facility Survey (DLHS) of outcome (toilet usage)&#13;
+&#13;
+&#13;
+         90.0&#13;
+&#13;
+         80.0                                                                                                           76.9&#13;
+&#13;
+         70.0                TSC&#13;
+&#13;
+                             DLHS&#13;
+         60.0&#13;
+                                                                                                Sustainability gap&#13;
+                         ........... Forecast&#13;
+         50.0&#13;
+&#13;
+                                                                                                     . . . . .&#13;
+                                                                                              ......&#13;
+         40.0&#13;
+                                                                                                                          45.2&#13;
+         30.0&#13;
+                    21.9                                                               34.1&#13;
+         20.0&#13;
+&#13;
+         10.0&#13;
+&#13;
+          0.0&#13;
+&#13;
+               2001        2002        2003     2004       2005      2006       2007      2008        2009       2010         2011&#13;
+&#13;
+    Sources: GoI (2011) and IIPS (2008).&#13;
+&#13;
+&#13;
+&#13;
+    Monitoring Outcomes&#13;
+    in Rural Sanitation&#13;
+    Recent trends in the rural sanitation sector in India, and               â&#128;¢	 While monitoring infrastructure is a one-time&#13;
+    across the world, have identified motivating sustainable                    activity with cross checks over longer time periods,&#13;
+    behavior change rather than just creating infrastructure as                 monitoring behavior is a constant activity that&#13;
+    the key outcome of a successful sanitation program. This                    requires frequent cross checks over relatively&#13;
+    trend is rooted in the failures of conventional approaches                  shorter time spans;&#13;
+    which were based on the assumption that once infrastructure              â&#128;¢	 The cost of monitoring, in terms of effort, time,&#13;
+    is provided, behavior change will automatically ensue.                      and money, can be significant when done at scale&#13;
+    Significant investments were made in constructing toilets in                and at high frequency. Even sample surveys make&#13;
+    rural areas which ended up being put to various uses such                   data available on program outcomes often after it&#13;
+    as bathrooms, store rooms, and so on.                                       is too late to make a mid-course correction; and&#13;
+                                                                             â&#128;¢	 Quality control is also an issue when such&#13;
+    That said, the focus on behavior change as the outcome                      monitoring is done at scale. Results, if they are&#13;
+    of rural sanitation programs poses specific challenges for                  controversial, can end up being challenged on&#13;
+    monitoring sector progress, namely:                                         methodological fronts.&#13;
+&#13;
+&#13;
+5                                                                                                                           www.wsp.org&#13;
+&amp;#12;    FIELD NOTE: You Manage What You Measure                                                                  Scaling Up Rural Sanitation&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+    Proof of Concept: Using&#13;
+    Mobile-to-Web Monitoring&#13;
+    System in Rural Sanitation&#13;
+    The proliferation of mobile phones in developing countries&#13;
+    has outstripped the rate of improvements in basic service&#13;
+    delivery in many cases, and India is no exception. ICT,&#13;
+    especially mobile-to-web systems, have increasingly been&#13;
+    used for improving service delivery. Some examples include&#13;
+    motivating behavior change (advising pregnant women&#13;
+    to take supplements) and customer interface (complaint&#13;
+    redressal systems for water supply).&#13;
+&#13;
+    To test the viability of using mobile technology to&#13;
+    strengthen monitoring in the rural sanitation sector, a&#13;
+    proof of concept was piloted by WSP, through a company&#13;
+    involved in technology for development (Oneworld&#13;
+    Foundation). A pilot was initiated in two blocks (sub                  of sanitation facility used or whether practicing&#13;
+    districts)â&#128;&#148;Rajgir block in Nalanda district of Bihar, one              open defecation;&#13;
+    of the poorest states in India, and in Kandaghat block             4.	 In case the household includes a child under three&#13;
+    in Solan district in Himachal Pradesh, a state which has               years, method of disposal of child feces; and&#13;
+    traditionally performed well in terms of economic and              5.	 Material available for hand-washing&#13;
+    human development indicators. The pilot covered the                    (observation question).&#13;
+    entire rural population of the two blocks which is around&#13;
+    23,000 households.                                             The application was designed to operate in the local language,&#13;
+                                                                   Hindi, to collect information directly from rural households.&#13;
+    The following steps were undertaken in piloting this proof     The collection process, using smartphones, incorporated two&#13;
+    of concept.                                                    features to ensure the quality of the data:&#13;
+&#13;
+    Step 1: Development of                                             1. 	 Photograph of the respondent, with the toilet, if&#13;
+    Outcome Tracker Application                                              available, or in front of the house; and&#13;
+    The development of a mobile application, Outcome                    2. 	 Global Positioning System (GPS) coordinates of the&#13;
+    Tracker, was the first stage in the process. Since the focus             location where the data are uploaded to the server.&#13;
+    was on collecting information on key outcomes linked&#13;
+    to behavior change and given that mobiles were used            This removed any doubts as to whether a sanitation facility&#13;
+    instead of conventional paper surveys, the number of           did indeed exist in a particular household and also ensured&#13;
+    indicators was deliberately kept to a minimum. A final list    that enumerators had to visit different households. Stringent&#13;
+    of five key indicators developed into the Outcome Tracker      quality controls included automatic flagging of records for&#13;
+    application included:                                          back-check and also red flags on records that seemed to&#13;
+                                                                   contain anomalous information, for example, the toilet is&#13;
+        1.	 Economic status of the household (assessed through     not available but the respondent reported use of a toilet.&#13;
+            whether a household has an Above or Below the&#13;
+            Poverty Line ration card);                             A centralized MIS was designed to manage large datasets&#13;
+        2.	 Whether the household has access to a toilet;          and consolidate the village data at the Panchayat and block&#13;
+        3.	 Sanitation behavior of each member of a household,     levels. This data would then be available to be consolidated&#13;
+            starting with the eldest usual resident, and type      and analyzed within a few minutes of its collection.&#13;
+&#13;
+&#13;
+&#13;
+6                                                                                                                       www.wsp.org&#13;
+&amp;#12;    FIELD NOTE: You Manage What You Measure                                                                       Scaling Up Rural Sanitation&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+       Figure 2: Technical architecture of mobile-to-web monitoring pilot&#13;
+&#13;
+&#13;
+&#13;
+                                                                    PUSH/POP&#13;
+                                                                      SMS&#13;
+&#13;
+&#13;
+&#13;
+                                                                                     SMS decoded and&#13;
+                                                                                       processed&#13;
+&#13;
+&#13;
+                            SMS encoded with&#13;
+                             GPS information&#13;
+                                                                                                              Information&#13;
+                                                   SMS                Scheduler           Database             synthesis&#13;
+                                               confirmation&#13;
+                                                                                            Server&#13;
+&#13;
+&#13;
+                                                                                            MIS&#13;
+&#13;
+&#13;
+              Information&#13;
+                  input&#13;
+&#13;
+                                                                               Data        Report                                The&#13;
+                               Information                                  conversion   generation   Analytics&#13;
+                                                                                                                                team&#13;
+                              stored locally&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+    Step 2: Survey of Households                                      of data stored on the MIS by a team of researchers to&#13;
+    The survey was preceded by recruitment of field investigators     identify outliers which were flagged for verification. In&#13;
+    who were provided classroom and field training. The two-          addition, an automatic verification application was&#13;
+    day training program focused on nuances of sanitation             incorporated in the MIS that flagged an entry if it fulfilled&#13;
+    monitoring and use of mobile phones and the Outcome               one of the following criteria:&#13;
+    Tracker application. The survey was started immediately&#13;
+    after the training was completed in Kandaghat and Rajgir              â&#128;¢	 If it is the 30th record from Bihar and 40th record&#13;
+    blocks in Himachal Pradesh and Bihar, respectively, and was              from Himachal Pradesh; and&#13;
+    undertaken over four months from August 2011.                         â&#128;¢	 If the toilet is not available but use of the individual&#13;
+                                                                             household latrine is indicated.&#13;
+    The process followed was: a listing of households/TSC&#13;
+    beneficiaries was procured from the local government              The data gathered at the village level were sought to be&#13;
+    authority and each field investigator was then assigned a         transferred to the central server in real time. A dedicated&#13;
+    couple of villages and a daily target rateâ&#128;&#148;30 households          team tracked the quality of incoming data and checked it for&#13;
+    in Rajgir and 15 households in Kandaghat. The variance in         verification. A confirmation flag was sent back to the mobile&#13;
+    target was due to the higher density of population in Rajgir      to acknowledge the receipt. In the absence of a GPRS, the data&#13;
+    compared to Kandaghat. Appropriate quality controls with          were stored locally in handsets until they could be sent to the&#13;
+    back checks were also undertaken. These included scanning         server when the connectivity was restored.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+7                                                                                                                            www.wsp.org&#13;
+&amp;#12;    FIELD NOTE: You Manage What You Measure                                                                                                    Scaling Up Rural Sanitation&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+    Step 3: Analysis of Data                                                                     Longitude and latitude information gathered through&#13;
+    The centralized MIS, accessible online to authorized users,                                  the GPS was combined with Google Earth software&#13;
+    presented various options of generating specific as well as                                  to create a color-coded map of the households. The&#13;
+    customized reports (Figure 3). A user has the option of viewing:                             map displays sanitation status at block, Panchayat, and&#13;
+                                                                                                 village levels. Three colors are used to represent the status:&#13;
+          â&#128;¢	 Detailed individual reports;                                                        red indicates open defecation, green indicates toilet usage,&#13;
+          â&#128;¢	 Summary results including population, economic                                      and yellow indicates mixed behavior.&#13;
+             status, sanitation coverage, sanitation behavior; and&#13;
+          â&#128;¢	 Advanced search option to develop customized reports                                In Figure 4, the results of the survey are evident for Rajgir&#13;
+             on different parameters.                                                            and Kandaghat.&#13;
+&#13;
+      Figure 3: Options of generating reports&#13;
+      Respondent 	                                         Devi&#13;
+      Family code	                                  L2264&#13;
+      Location 	                                    Bihar â&#128;&#147; Nalanda â&#128;&#147; Rajgir â&#128;&#147; Goraur&#13;
+      BPL cardholder 	                              No&#13;
+      Toilet 	                                      No&#13;
+      Use for hand wash 	                           l Water l Ash&#13;
+      Total members in the household 	              5&#13;
+      Disposal of child feces&#13;
+      Not applicable	                               a&#13;
+      Disposed in toilet	                           â&#128;&#147;&#13;
+      Dumped	                                       â&#128;&#147;&#13;
+      Buried	                                       â&#128;&#147;&#13;
+      Other	                                        â&#128;&#147;&#13;
+      No. of children 	                             0&#13;
+      Place for defecation                                                                             Version 	         1&#13;
+      Gender	IHHL 	                      Shared 	       Community 	Open 	Total                         Collected by 	              Kumari&#13;
+      Elder man 	            â&#128;&#147; 	         â&#128;&#147;	             â&#128;&#147; 		            â&#128;&#147;	              â&#128;&#147;&#13;
+      Elder woman	           â&#128;&#147; 	         â&#128;&#147; 	            â&#128;&#147; 		            â&#128;&#147; 	             â&#128;&#147;&#13;
+      Adult man 	            â&#128;&#147;	          â&#128;&#147;	             â&#128;&#147; 		            1	              1              GPS 	             25.04980000, 85.33600000&#13;
+      Adult woman 	          â&#128;&#147; 	         â&#128;&#147; 	            â&#128;&#147; 		            1 	             1              IMEI No. 	                   454868&#13;
+      Boy	                   â&#128;&#147; 	         â&#128;&#147; 	            â&#128;&#147; 		            3	              3              Captured on 	     2011-11-30 21:58:54&#13;
+      Girl 	                 â&#128;&#147; 	         â&#128;&#147; 	            â&#128;&#147; 		            â&#128;&#147; 	             â&#128;&#147;              App version 	     1.2.2&#13;
+      Total 	                â&#128;&#147; 	         â&#128;&#147; 	            â&#128;&#147; 		            5 	             5              Other info&#13;
+&#13;
+      Poverty status (household)&#13;
+      	                                                               Rajgir 		                                                          Kandaghat&#13;
+      APL 	                                          2699 	                                 21.02% 	                     3618 	                            63.55%&#13;
+      BPL 	                                          5512 	                                 42.92%	                      1914 	                            33.79%&#13;
+      Not known 	                                    4602 	                                 35.84% 	                     116	                              2.05%&#13;
+      Not agreed 	                                   29 	                                   0.23% 	                      16 	                              0.28%&#13;
+      Total 	                                        12842	                                 â&#128;&#147;	                           5664 	                            â&#128;&#147;&#13;
+&#13;
+      Toilet coverage and type of facility (household)&#13;
+      	                                                                Rajgir 		                                                         Kandaghat&#13;
+      Yes 	                                          1658 	                                 12.91% 	                     4497	                             79.4%&#13;
+      No	                                            9894 	                                 77.04%	                      826 	                             14.58%&#13;
+      Under construction 	                           25 	                                   0.19% 	                      185 	                             3.27%&#13;
+      Broken/choked/incomplete 	                     1236 	                                 9.62% 	                      140 	                             2.47%&#13;
+      Not agreed 	                                   29 	                                   0.23% 	                      16 	                              0.28%&#13;
+      Total	                                         12842 	                                â&#128;&#147;	                           5664	                             â&#128;&#147;&#13;
+&#13;
+      Material available for hand-washing (household)&#13;
+      	                                                               Rajgir 		                                              Kandaghat&#13;
+      Only soap 	                                    16 	                                   0.12% 	                       8 	                              0.14%&#13;
+      Only water 	                                   210 	                                  1.64% 	                      20 	                              0.35%&#13;
+      Only ash 	                                     262 	                                  2.04% 	                      17 	                              0.3%&#13;
+      Water and soap 	                               963 	                                  7.5% 	                       4167 	                            73.57%&#13;
+      Water and ash 	                                9913 	                                 77.19% 	                     197 	                             3.48%&#13;
+      Other 	                                        1284 	                                 10% 	                        5 	                               0.09%&#13;
+      Not found	                                     40 	                                   0.31% 	                      143 	                             2.52%&#13;
+&#13;
+&#13;
+    IHHL: Individual Household Latrine.&#13;
+&#13;
+&#13;
+8                                                                                                                                                         www.wsp.org&#13;
+&amp;#12;    FIELD NOTE: You Manage What You Measure          Scaling Up Rural Sanitation&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+       Figure 4: Color-coded map of the households&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+9                                                               www.wsp.org&#13;
+&amp;#12;     FIELD NOTE: You Manage What You Measure                                                                    Scaling Up Rural Sanitation&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+     Results                                                        Lessons Learnt and Next Steps&#13;
+     This proof of concept tested an idea which links ICT (a        There were some specific challenges faced in implementing&#13;
+     sector in which India is recognized as a global leader) with   the pilot using mobile technology that went beyond the usual&#13;
+     rural sanitation (a sector where India needs to improve        challenges facing household surveys:&#13;
+     considerably), to enhance information available on service&#13;
+     delivery outcomes. It demonstrated that:                         â&#128;¢	 Photographing of the respondent, especially near the&#13;
+                                                                         toilet, although designed to ensure quality control and&#13;
+         â&#128;¢	 Using smartphones can provide quick, credible                accountability of the survey, was met with hesitation&#13;
+            information on sector outcomes in near real time             from the respondents. There was a need to reassure the&#13;
+            unlike that provided by conventional surveys;                respondents about the need of photographing and that&#13;
+         â&#128;¢	 Features such as geo-tagging and photographs of              the information would be kept anonymous; and&#13;
+            respondents ensure results are more credible and          â&#128;¢	 Initially, the low-end mobile phones used in the project&#13;
+            relevant; and                                                did not efficiently support transfer of large data records.&#13;
+         â&#128;¢	 Presentation of data is user-friendly and maps               It was noticed that various applications such as GPRS and&#13;
+            enable a viewer to grasp the status of rural                 GPS tended to drain the battery quickly. On average, the&#13;
+            sanitation in a geographical unit at a glance.               phones had to be recharged after completing the survey&#13;
+                                                                         of 10-15 houses; the number was higher if the phone&#13;
+                                                                         batteries were fully charged. The problem was exacerbated&#13;
+        Applications of concept                                          in Rajgir due to limited power supply. The investigators&#13;
+                                                                         could not fully charge the phones at night because of&#13;
+        This approach of using mobile phones with a                      which they faced problems during the survey. To address&#13;
+        web interface to collect large amounts of data                   this concern, additional batteries were supplied to the&#13;
+        in short periods of time can have applications                   investigators in the latter part of the project, when the&#13;
+        in the following, in the context of Indian                       problem became apparent. The availability of GPRS is&#13;
+        rural sanitation:                                                based on weather and network connectivity. Due to the&#13;
+                                                                         monsoon, GPRS connectivity was poor in several villages&#13;
+             â&#128;¢	 The existing TSC monitoring system                       of Bihar. However, this problem was anticipated before&#13;
+                which tracks inputs and ouputs can be                    the start of the project; therefore, an offline information&#13;
+                strengthened with such a system which                    storage feature was added to the mobile application,&#13;
+                tracks outcomes, that is, sustainability                 where the data were locally stored and sent to the server&#13;
+                of usage. This can be done at periodic                   upon availability of GPRS.&#13;
+                intervals, which contributes to the                 Pilots are often implemented in a controlled environment&#13;
+                decisionmaking process at various levels.           as pockets of excellence. In contrast, this initiative was&#13;
+                This can be undertaken using in-house               deliberately tested in two very different states in terms of&#13;
+                resources of the Government or through              economic and human development indicators (Bihar and&#13;
+                third party contracts; and                          Himachal Pradesh). The Ministry of Drinking Water and&#13;
+             â&#128;¢	 The Nirmal Gram Puraskar (NGP)                      Sanitation was involved to ensure replication beyond pilot&#13;
+                assessments could use this approach to              stage. Following this, WSP has been requested by GoI to&#13;
+                enhance the quality of the data collection          undertake a national assessment of sector outcomes using&#13;
+                process, which contributes to reduce                smartphones. Hence, the next step is to take this initiative to&#13;
+                doubts about the robustness of the                  national scale, through a sample survey across the country. In&#13;
+                process across the sector. The existing             addition, WSP is proposing to do a comparative analysis of the&#13;
+                contracted out approach could use these             costs and other benefits of monitoring using ICT approaches&#13;
+                technologies to improve their process.              vis-Ã -vis conventional approaches, using a systematic and&#13;
+                                                                    scientific process.&#13;
+&#13;
+&#13;
+10                                                                                                                         www.wsp.org&#13;
+&amp;#12;     FIELD NOTE: You Manage What You Measure                                     Scaling Up Rural Sanitation&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+     References&#13;
+     Government of India, Ministry of Drinking Water and Sanitation, Total&#13;
+     Sanitation Campaign (TSC), online monitoring, www.ddws.nic.in.&#13;
+&#13;
+     Government of India (2011). Assessment Study of Impact and Sustainability&#13;
+     of Nirmal Gram Puraskar, New Delhi: Ministry of Drinking Water&#13;
+     and Sanitation.&#13;
+&#13;
+     Gragnolati M., Shekar M., Gupta M.D., Bredenkamp C., and Lee Y.&#13;
+     (2005). Indiaâ&#128;&#153;s Under-nourished Children: A Call for Reform and Action.&#13;
+     Health, Nutrition and Population Discussion Paper. Washington DC:&#13;
+     World Bank.&#13;
+&#13;
+     International Institute of Population Sciences (2008). District Level&#13;
+     Household and Facility Survey III. Mumbai: IIPS.&#13;
+&#13;
+     Joint Monitoring Programme for Drinking Water Supply and&#13;
+     Sanitation (2010). Progress on Sanitation and Drinking Water: 2010&#13;
+     Update . Geneva and New York: World Health Organization and&#13;
+     United Nations Childrenâ&#128;&#153;s Fund.&#13;
+&#13;
+     Klaasen P. and van Eeghen I (2009). Economic Capital: How it Works and&#13;
+     What Every Manager Needs to Know. Elsevier Inc, www.elsevier.com.&#13;
+&#13;
+     WSP (2011). Economic Impacts of Inadequate Sanitation in India. New&#13;
+     Delhi: World Bank.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+11                                                                                          www.wsp.org&#13;
+&amp;#12;     FIELD NOTE: You Manage What You Measure   Scaling Up Rural Sanitation&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+12                                                        www.wsp.org&#13;
+&amp;#12;Water and Sanitation Program&#13;
+55 Lodi Estate&#13;
+New Delhi 110 003, India&#13;
+Phone: (91-11) 24690488, 24690489&#13;
+Fax: (91-11) 24628250&#13;
+E-mail: wspsa@worldbank.org&#13;
+Web site: www.wsp.org&#13;
+&amp;#12;</ml:original-txt><ml:search-metadata><doc id="17011878">
+        <url>
+            http://documents.worldbank.org/curated/en/2012/10/17011878/manage-measure-using-mobile-phones-strengthen-outcome-monitoring-rural-sanitation
+        </url>
+        <availablein>English</availablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2012/10/17011878/manage-measure-using-mobile-phones-strengthen-outcome-monitoring-rural-sanitation</url_friendly_title>
+        <new_url>2012/10/17011878/manage-measure-using-mobile-phones-strengthen-outcome-monitoring-rural-sanitation</new_url>
+        <disclosure_date>2012-11-29T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2012-11-29T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2012/11/29/000333037_20121129001615/Rendered/INDEX/NonAsciiFileName0.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2012/11/29/000333037_20121129001615/Rendered/PDF/NonAsciiFileName0.pdf</pdfurl>
+        <datestored>2012-11-29T00:00:00Z</datestored>
+        <docdt>2012-10-01T00:00:00Z</docdt>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            You manage what you measure : using mobile
+            phones to strengthen outcome monitoring in rural sanitation
+        </repnme>
+        <abstracts>
+            Although India is now included in the
+            front ranks of rapidly growing emerging economies, it is
+            also paradoxically home to the majority of people defecating
+            in the open in the world (joint monitoring program 2010). It
+            is estimated that one in every 10 deaths in India is linked
+            to poor sanitation and hygiene (Water and Sanitation Program
+            (WSP) 2011). Diarrhea, a preventable disease, is the largest
+            killer and accounts for every 20th death (Ibid). Diarrhea is
+            linked to malnutrition, especially in children, and India
+            has one of the highest rates of child malnutrition in the
+            world, nearly double that of sub-Saharan Africa (Gragnolati
+            et al 2005). To address this sanitation challenge, the
+            Government of India (GoI) has invested heavily in programs
+            to achieve universal sanitation coverage. However, despite
+            two large national rural sanitation campaigns, the goals of
+            an open defecation free India, a Nirmal Bharat, remains
+            elusive. To ensure investments in sanitation lead to
+            commensurate outcomes, the sector needs a reliable and
+            timely monitoring system.
+        </abstracts>
+        <docna>
+            You manage what you measure : using mobile
+            phones to strengthen outcome monitoring in rural sanitation
+        </docna>
+        <display_title>You manage what you measure :
+            using mobile phones to strengthen outcome monitoring in
+            rural sanitation</display_title>
+        <listing_relative_url>/research/2012/10/17011878/manage-measure-using-mobile-phones-strengthen-outcome-monitoring-rural-sanitation</listing_relative_url>
+        <docty>UNDP-Water &amp; Sanitation Program</docty>
+        <subtopic>Hygiene Promotion and Social Marketing,Health and Sanitation,Rural Water,Urban Water Supply and Sanitation,E-Business</subtopic>
+        <teratopic>Private Sector Development,Water Supply and Sanitation,Health, Nutrition and Population,Water Resources</teratopic>
+        <count>World</count>
+        <authors>
+            <author>Ajith Kumar, C.</author>
+            <author>Singh, Upneet</author>
+        </authors>
+        <entityids>
+            <entityid>000333037_20121129001615</entityid>
+        </entityids>
+        <admreg>The World Region,The World Region</admreg>
+        <colti>Water and Sanitation Program : field note</colti>
+        <lang>English</lang>
+        <historic_topic>Private Sector Development,Water Supply and Sanitation,Health, Nutrition and Population,Water Resources</historic_topic>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            access to water, authorized users, behavior
+            change, central server, Communication Technology,
+            connectivity, database Server, delivery systems, Diarrhea,
+            drain, Drinking Water, Drinking Water Supply, E-mail, Global
+            Positioning System, GPS, Graphics, household latrine,
+            hygiene, ICT, Inadequate Sanitation, Information System,
+            input data, interface, investments in sanitation, latrine,
+            Material, mobile application, Mobile Phones, phone, poor
+            sanitation, radio, results, rural households, rural
+            population, Rural Sanitation, RURaL SaNITaTION COvERaGE,
+            safe disposal, SANITATION, sanitation coverage, sanitation
+            facilities, sanitation facility, SANITATION PROGRAM,
+            sanitation programs, sanitation sector, sanitation services,
+            server, soap, tagging, TEChNICaL aRChITECTURE, time periods,
+            toilet, toilets, Total Sanitation, user, uses, verification,
+            washing, water supply, WEB, web interface, Web site
+        </keywd>
+        <owner>Water- Water and Sanit Prgrm (GWASP)</owner>
+        <repnb>74078</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>ICT</ml:concept><ml:concept>ICT for Development</ml:concept><ml:concept>Information Technology</ml:concept><ml:concept>Information and Communication Technologies (ICT)</ml:concept><ml:concept>Social Development &amp; Poverty</ml:concept><ml:concept>Water Resources</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Teaching and Learning</ml:concept><ml:concept>Environment</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Social Protections and Labor</ml:concept><ml:concept>International Competitiveness</ml:concept><ml:concept>International Economics and Trade</ml:concept><ml:concept>Trade Liberalization</ml:concept><ml:concept>Trade Liberalization and Regional Integration</ml:concept><ml:concept>Trade Restrictiveness</ml:concept><ml:concept>Trade and Integration</ml:concept><ml:concept>City Development Strategies</ml:concept><ml:concept>Science and Technology</ml:concept><ml:concept>Information and Communication Technologies</ml:concept><ml:concept>Social Development</ml:concept><ml:concept>Water</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Arts and Culture</ml:concept><ml:concept>Rural Development</ml:concept><ml:concept>Education</ml:concept><ml:concept>Environment and Natural Resources</ml:concept><ml:concept>Health, Nutrition and Population</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Social Protection and Labor</ml:concept><ml:concept>Trade</ml:concept><ml:concept>Urban Development</ml:concept><ml:concept>Alternative Sentencing Options</ml:concept><ml:concept>Community Policing</ml:concept><ml:concept>Community based Policing</ml:concept><ml:concept>Correctional Services and Facilities</ml:concept><ml:concept>Corrections</ml:concept><ml:concept>Crime Policies</ml:concept><ml:concept>Crime Prevention</ml:concept><ml:concept>Crime and Society</ml:concept><ml:concept>Defense Services</ml:concept><ml:concept>Detention</ml:concept><ml:concept>Enforcement Policies and Oversight Mechanism</ml:concept><ml:concept>Forensic</ml:concept><ml:concept>Forensic Services</ml:concept><ml:concept>Investigation</ml:concept><ml:concept>Investigative Task Force Police</ml:concept><ml:concept>Juvenile Justice</ml:concept><ml:concept>Law Enforcement</ml:concept><ml:concept>Offender Reintegration</ml:concept><ml:concept>Police Administration and Management</ml:concept><ml:concept>Police Reform</ml:concept><ml:concept>Problem solving Policing</ml:concept><ml:concept>Prosecution</ml:concept><ml:concept>Restorative Justice</ml:concept><ml:concept>Therapeutic Justice</ml:concept><ml:concept>Victim Assistance</ml:concept><ml:concept>Victim Services</ml:concept><ml:concept>Victim-Offender Mediation</ml:concept><ml:concept>Water and Sanitation</ml:concept><ml:concept>Agriculture and Rural Development</ml:concept><ml:concept>Nutritional supplements</ml:concept><ml:concept>Vitamins</ml:concept><ml:concept>Access to Basic Sanitation</ml:concept><ml:concept>On-site Sanitation</ml:concept><ml:concept>Sanitation Marketing</ml:concept><ml:concept>Sanitation Promotion</ml:concept><ml:concept>Demographics</ml:concept><ml:concept>Digital Identities</ml:concept><ml:concept>Servers</ml:concept><ml:concept>Switches</ml:concept><ml:concept>Analysis &amp; Monitoring</ml:concept><ml:concept>Delivery Units</ml:concept><ml:concept>Grievance Redress</ml:concept><ml:concept>Indicators</ml:concept><ml:concept>M&amp;E</ml:concept><ml:concept>Performance Measurement</ml:concept><ml:concept>Performance Reviews</ml:concept><ml:concept>Rapid Results Approaches</ml:concept><ml:concept>Performance Monitoring</ml:concept><ml:concept>Tracking Performance</ml:concept><ml:concept>Connectivity</ml:concept><ml:concept>Lagging Regions</ml:concept><ml:concept>Hygiene Promotion and Social Marketing</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Media</ml:concept><ml:concept>Population Sciences</ml:concept><ml:concept>Criminal Justice</ml:concept><ml:concept>Boundaries</ml:concept><ml:concept>Water Supply and Sanitation</ml:concept><ml:concept>Water Supply</ml:concept><ml:concept>Diseases</ml:concept><ml:concept>Supplements</ml:concept><ml:concept>Water, Sanitation and Hygiene</ml:concept><ml:concept>Women</ml:concept><ml:concept>Sanitation</ml:concept><ml:concept>Rural Sanitation</ml:concept><ml:concept>Local Government</ml:concept><ml:concept>Mobile Applications</ml:concept><ml:concept>Infrastructure</ml:concept><ml:concept>Population</ml:concept><ml:concept>Storage  Management</ml:concept><ml:concept>Network Management</ml:concept><ml:concept>Monitoring and Evaluation</ml:concept><ml:concept>Management Information Systems</ml:concept><ml:concept>Connectivity and Lagging Regions</ml:concept></ml:concepts><ml:geo-regions/></ml:annotations></ml:doc-envelope>

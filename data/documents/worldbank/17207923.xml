@@ -1,0 +1,1260 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>ï»¿                                                                74997&#13;
+                  Consolidation and&#13;
+                  Transparency:&#13;
+                  Transforming Tunisiaâ&#128;&#153;s&#13;
+                  Health Care for the Poor&#13;
+&#13;
+&#13;
+Chokri Arfa and&#13;
+Heba Elgazzar&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                  Universal Health Coverage Studies Series (UNICO)&#13;
+                  UNICO Studies Series No. 4&#13;
+&amp;#12;&amp;#12;UNICO Studies Series 4&#13;
+Consolidation and Transparency:&#13;
+Transforming Tunisiaâ&#128;&#153;s Health Care for the Poor&#13;
+Chokri Arfa and Heba Elgazzar 1, 2&#13;
+&#13;
+The World Bank, Washington DC, January 2013&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+1&#13;
+  Chokri Arfa is Associate Professor of Health Economics, University of Carthage, Tunisia; and Heba Elgazzar is&#13;
+Senior Economist, MNSHD, World Bank.&#13;
+2&#13;
+  This paper benefited from useful inputs and comments received from Ajay Tandon, Rekha Menon, Emiliana&#13;
+Gunawan, Enis Baris, and Eileen Murray, all of the World Bank; and from Alexander Preker of the International&#13;
+Finance Corporation. Excellent editorial support was provided by Diane Stamm (Consultant). The authors also&#13;
+benefited from the overall guidance of Daniel Cotlear and Charles Griffin, also of the World Bank. The authors&#13;
+thank the participants of the Authorsâ&#128;&#153; Workshop held in Washington, DC, in July 2012, and representatives of the&#13;
+Government of Tunisia, for their comments and input. The authors are grateful to them all.&#13;
+&amp;#12;           The World Bankâ&#128;&#153;s Universal Health Coverage Studies Series (UNICO)&#13;
+All people aspire to receive quality, affordable health care. In recent years, this aspiration has&#13;
+spurred calls for universal health coverage (UHC) and has given birth to a global UHC&#13;
+movement. In 2005, this movement led the World Health Assembly to call on governments to&#13;
+â&#128;&#156;develop their health systems, so that all people have access to services and do not suffer&#13;
+financial hardship paying for them.â&#128;? In December 2012, the movement prompted the United&#13;
+Nations General Assembly to call on governments to â&#128;&#156;urgently and significantly scale-up efforts&#13;
+to accelerate the transition towards universal access to affordable and quality healthcare&#13;
+services.â&#128;? Today, some 30 middle-income countries are implementing programs that aim to&#13;
+advance the transition to UHC, and many other low- and middle-income countries are&#13;
+considering launching similar programs.&#13;
+The World Bank supports the efforts of countries to share prosperity by transitioning toward&#13;
+UHC with the objectives of improving health outcomes, reducing the financial risks associated&#13;
+with ill health, and increasing equity. The Bank recognizes that there are many paths toward&#13;
+UHC and does not endorse a particular path or set of organizational or financial arrangements to&#13;
+reach it. Regardless of the path chosen, successful implementation requires that many&#13;
+instruments and institutions be in place. While different paths can be taken to expand coverage,&#13;
+all paths involve implementation challenges. With that in mind, the World Bank launched the&#13;
+Universal Health Coverage Studies Series (UNICO Study Series) to develop knowledge and&#13;
+operational tools designed to help countries tackle these implementation challenges in ways that&#13;
+are fiscally sustainable and that enhance equity and efficiency. The UNICO Studies Series&#13;
+consists of technical papers and country case studies that analyze different issues related to the&#13;
+challenges of UHC policy implementation.&#13;
+The case studies in the series are based on the use of a standardized protocol to analyze the nuts&#13;
+and bolts of programs that have expanded coverage from the bottom upâ&#128;&#148;programs that have&#13;
+started with the poor and vulnerable rather than those initiated in a trickle-down fashion. The&#13;
+protocol consists of nine modules with over 300 questions that are designed to elicit a detailed&#13;
+understanding of how countries are implementing five sets of policies to accomplish the&#13;
+following: (a) manage the benefits package, (b) manage processes to include the poor and&#13;
+vulnerable, (c) nudge efficiency reforms to the provision of care, (d) address new challenges in&#13;
+primary care, and (e) tweak financing mechanisms to align the incentives of different&#13;
+stakeholders in the health sector. To date, the nuts and bolts protocol has been used for two&#13;
+purposes: to create a database comparing programs implemented in different countries, and to&#13;
+produce case studies of programs in 24 developing countries and one high-income â&#128;&#156;comparator,â&#128;?&#13;
+the state of Massachusetts in the United States. The protocol and case studies are being published&#13;
+as part of the UNICO Studies Series, and a comparative analysis will be available in 2013.&#13;
+We trust that the protocol, case studies, and technical papers will provide UHC implementers&#13;
+with an expanded toolbox, make a contribution to discussions about UHC implementation, and&#13;
+that they will inform the UHC movement as it continues to expand worldwide.&#13;
+&#13;
+&#13;
+                                                                               Daniel Cotlear&#13;
+                                                       UNICO Studies Series Task Team Leader&#13;
+                                                                             The World Bank&#13;
+                                                                             Washington, DC&#13;
+&#13;
+                                                                                                ii&#13;
+&amp;#12;                                                          TABLE OF CONTENTS&#13;
+&#13;
+&#13;
+&#13;
+Abbreviations ............................................................................................................................................... iv&#13;
+Executive Summary ...................................................................................................................................... v&#13;
+1. Introduction ............................................................................................................................................ 1&#13;
+2. General Health System Overview: Financing and Delivery................................................................... 2&#13;
+3. Brief Overview of Public Health, Primary Care, and Key Supply-side Efforts ..................................... 4&#13;
+4. FMAP Institutional Architecture and Interaction with Broader System ................................................ 5&#13;
+5. Targeting, Identification, and Enrolment of Beneficiaries ..................................................................... 7&#13;
+6. Management of Public Funds in the FMAP ........................................................................................... 9&#13;
+7. Management of FMAP Benefits Package ............................................................................................ 12&#13;
+8. Information Environment of the FMAP ............................................................................................... 12&#13;
+9. Special Focus: Toward a Strategic Vision for Financing FMAP ......................................................... 13&#13;
+10. Pending Agenda ................................................................................................................................... 13&#13;
+Annex 1 Spider Web ................................................................................................................................... 16&#13;
+References ................................................................................................................................................... 19&#13;
+&#13;
+&#13;
+FIGURES&#13;
+Figure 1 Main Actors and Fund Flows in the Tunisian Health System, 2010 .............................................. 3&#13;
+Figure 2 Density of Doctors, Tunisia and OECD Countries, 2007/08.......................................................... 4&#13;
+Figure 3 Evolution of Enrolment for FMAP Subsidized Health Cards, 2001â&#128;&#147;11 ........................................ 8&#13;
+Figure 4 Percent of Individuals Receiving Free Health Cards (carte de soins gratuits) by&#13;
+Governorate, 2011......................................................................................................................................... 9&#13;
+Figure 5 Health Out-of-Pocket (OOP) Spending ........................................................................................ 12&#13;
+&#13;
+TABLES&#13;
+Table 1 FMAP Expenditures, 2005â&#128;&#147;2010................................................................................................... 10&#13;
+Table 2 Financing of FMAP Expenditures, 2010 ....................................................................................... 10&#13;
+Table 3 Payment Systems and Cost-containment Instruments for FMAPa ................................................ 11&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                             iii&#13;
+&amp;#12;                                 Abbreviations&#13;
+&#13;
+&#13;
+CNAM    Caisse Nationale de lâ&#128;&#153;Assurance Maladie (social health insurance)&#13;
+DEP     Direction des Etudes et de la Planification&#13;
+FMAP    Free Medical Assistance Program&#13;
+GDP     gross domestic product&#13;
+FMAP    Health Care for the Poor&#13;
+MENA    Middle East and North Africa region&#13;
+MICS    Multiple Indicator Cluster Survey&#13;
+MOH     Ministry of Public Health&#13;
+MOSA    Ministry of Social Affairs&#13;
+OECD    Organisation for Economic Co-operation and Development&#13;
+OOP     out-of-pocket&#13;
+PNAFN   National Program of Aide to Needy Families, Programme National dâ&#128;&#153;Aide Aux&#13;
+        Familles NÃ©cessiteuses&#13;
+SMIG    Guaranteed interprofessional minimum wage, salaire minimum interprofessionnel&#13;
+        garanti&#13;
+TND     Tunisian dinars&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                        iv&#13;
+&amp;#12;Executive Summary&#13;
+&#13;
+Since the 2011 popular revolution in Tunisia, calls for a new social contract have been made to&#13;
+improve social inclusion, including addressing gaps in health care coverage for the vulnerable&#13;
+households. This paper evaluates Tunisiaâ&#128;&#153;s Free Medical Assistance for the Poor (FMAP) and&#13;
+seeks to identify opportunities to improve universal coverage in Tunisia. The study focuses on&#13;
+the structural and institutional framework of health care coverage for the poor in Tunisia in terms&#13;
+of strengths, weaknesses, and recommendations for achieving universal coverage. The paper&#13;
+reviews Tunisiaâ&#128;&#153;s health financing and delivery system with a special emphasis on FMAP, and&#13;
+analyzes the main structural and targeting challenges the program faces. The distinctive&#13;
+characteristic of this paper is the focus on institutional design and organizational practice of&#13;
+FMAP. The legal and regulatory framework is assessed in terms of management, beneficiary&#13;
+targeting methods, benefits package, and the information environment.&#13;
+&#13;
+Poor households are covered by one of two subsidized medical assistance programs under&#13;
+FMAP, provided to heads of households and dependents. The poorest households are exempt&#13;
+from all user fees for health care services, while eligible vulnerable households are entitled to&#13;
+receive health care benefits for reduced fees. Following the revolution, FMAP was expanded to&#13;
+reach an estimated 27 percent of the population, and is funded through central government&#13;
+transfers. In 2010, FMAP accounted for 13.9 percent of total public health expenditures and 0.5&#13;
+percent of gross domestic product. However, FMAP faces a number of challenges. Significant&#13;
+deficiencies in efficiency exist and targeting of the poor is relatively weak. The challenges&#13;
+preclude the effective implementation of universal coverage and the desired results of&#13;
+improvements in health outcomes and financial protection, unless fundamental changes are&#13;
+made.&#13;
+&#13;
+Several key reforms are recommended to strengthen FMAP financial sustainability and targeting&#13;
+of the poor. A clear legal and institutional framework is needed to improve targeting mechanisms&#13;
+and institute a clear benefits package. Consolidation between FMAP and the national health&#13;
+insurance fund in Tunisia will help reduce fragmentation and improve administrative efficiency.&#13;
+The establishment of an information system that tracks beneficiary use of services, satisfaction&#13;
+and complaints, and a process to establish eligibility in a rigorous manner, will be crucial. By&#13;
+realizing gains in universal coverage, a more level playing field for inclusive growth in the new&#13;
+Tunisia can be realized.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                 v&#13;
+&amp;#12;vi&#13;
+&amp;#12;1. Introduction&#13;
+&#13;
+In January 2011, Tunisia witnessed the first of a series of cascading revolutions in the&#13;
+Middle East and North Africa (MENA) region. Calls for overhauling 30-year-old&#13;
+political regimes reflected long-standing public perceptions of exclusion from&#13;
+economic and political life. With the advent of the Tunisian revolution, social dialogue&#13;
+has acquired a renewed focus on voice and participation, particularly since poverty and&#13;
+unemployment have risen and regional disparities in health persist. This paper seeks to&#13;
+evaluate the Government of Tunisiaâ&#128;&#153;s (GOT) objective of improving coverage and&#13;
+sustainability of health insurance in light of the postrevolution focus on equity.&#13;
+&#13;
+Social exclusion in health care coverage has come under greater scrutiny since the revolution.&#13;
+Tunisiaâ&#128;&#153;s poverty rate was estimated to be 15.5 percent as of 2010 3 and is nearly double in rural&#13;
+regions (using a national threshold equivalent to approximately US$2/day), where maternal&#13;
+mortality is also higher. Unemployment is 18 percent overall, but nearly 28.6 percent in interior&#13;
+regions (such as the central-west). Tunisia witnessed an improvement in infant health and the&#13;
+eradication of most communicable diseases between 1960 and 1990, due largely to investments&#13;
+in public health and education. However, public health investment has not kept up with&#13;
+increasing demands due to demographic and epidemiologic transitions, with a greater need now&#13;
+for more preventive services and expanding insurance coverage.&#13;
+&#13;
+Since the revolution, the GOT has implemented an economic and social recovery&#13;
+program that has focused on improving targeting of social safety nets and the quality of&#13;
+services. The main social safety net program providing social and health care&#13;
+assistance for the poor is Tunisiaâ&#128;&#153;s National Program of Aide to Needy Families&#13;
+(Programme National dâ&#128;&#153;Aide Aux Familles NÃ©cessiteuses, PNAFN). PNAFN reached&#13;
+approximately 9 percent of the population (235,000 households) as of June 2012. The&#13;
+program was created in 1986 in parallel with structural adjustment reforms and has&#13;
+received no direct donor financing. Due to the economic slowdown since January&#13;
+2011, strengthening coverage and sustainability of PNAFN and its health care&#13;
+programs for the poor, the Free Medical Assistance Program (FMAP), will be key to&#13;
+ensuring coverage of the poor during economic recovery.&#13;
+&#13;
+Against this backdrop, this paper evaluates FMAP and seeks to identify opportunities&#13;
+to improve universal coverage in Tunisia. Section 2 provides an overview of health&#13;
+financing and service delivery in Tunisia, including the relationship between the&#13;
+FMAP and the main financing schemes. Section 3 describes key supply-side issues in&#13;
+terms of primary health care provision for the poor. Section 4 assesses the institutional&#13;
+framework of the FMAP in greater detail and its linkages to the health care delivery&#13;
+system. Section 5 focuses on beneficiary selection and targeting methods under the&#13;
+FMAP. Section 6 examines public financial management under the FMAP, which is&#13;
+followed by a discussion in Section 7 of the benefits package. Sections 8 and 9&#13;
+describe the information environment of the FMAP and how this links to the special&#13;
+focus of future financing reforms. The concluding section discusses the pending&#13;
+agenda and priorities for the FMAP moving forward.&#13;
+3&#13;
+    Tunisia Household Budget and Consumption Survey 2010, Institut National de la Statistique (INS).&#13;
+&#13;
+                                                                                                       1&#13;
+&amp;#12;A key limitation in the analysis is the lack of detailed information on financing and&#13;
+delivery mechanisms for the FMAP. Therefore, most of the analysis relies on&#13;
+information collected from administrative resources, household surveys, and aggregate&#13;
+information from the Ministry of Finance (MOF), the Ministry of Social Affairs&#13;
+(MOSA), and the Ministry of Health (MOH).&#13;
+&#13;
+2. General Health System Overview: Financing and Delivery&#13;
+&#13;
+An analysis of the Tunisian health system reflects the vision of the Tunisian welfare&#13;
+state in which FMAP is situated. Based on the notion of broad social solidarity, in 1956&#13;
+President Bourguiba established the basis of a universal system of health care provision&#13;
+as one of his primary reforms following independence from the French. Between 1956&#13;
+and the late 1980s, service delivery was improved and social health insurance was&#13;
+established for the employed. Investment has not kept pace since the 1990s, however,&#13;
+resulting in a deteriorating quality of health services and an uptake of private services&#13;
+by citizens. Following the revolution, the interim Government of Tunisia began&#13;
+renewed investments in health infrastructure, with renewed interest in addressing&#13;
+sustainability and coverage of health insurance in parallel.&#13;
+&#13;
+Health care in Tunisia is financed through a combination of social health insurance, general&#13;
+government revenues, and private spending, with health insurance accounting for an increasingly&#13;
+greater share. Between 1980 and 2010, total health expenditure increased from 3.2 percent to 7.0&#13;
+percent of gross domestic product (GDP). The main financing agents include the central&#13;
+government (general governmental expenditure, 23.8 percent), social health insurance, known as&#13;
+the Caisse Nationale de lâ&#128;&#153;Assurance Maladie (CNAM) (27.7 percent), private insurance (7.0&#13;
+percent), and out-of-pocket payments (41.2 percent) (figure 1). As of 2010, government spending&#13;
+on health constituted approximately 7.0 percent of the total governmental expenditure and 2.3&#13;
+percent of GDP. Public spending decreased between 1995 and 2011 from 2.7 percent to 2.3&#13;
+percent of GDP, while private health spending by households rose rapidly at an average annual&#13;
+rate of growth of 19 percent. This growth has been attributed to increasing household costs of&#13;
+pharmaceutical care and the growing use of private care. Private expenditures accounted for 51&#13;
+percent of total health expenditures as of 2010, approximately 80 percent of which are direct&#13;
+payments at the point of use and 20 percent of which represents health insurance premiums.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                              2&#13;
+&amp;#12;            Figure 1 Main Actors and Fund Flows in the Tunisian Health System, 2010&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                  Sources                      Agents                     Providers&#13;
+&#13;
+                                            MOH (covering&#13;
+             Central Government                                              Public&#13;
+                                               FMAP)&#13;
+                   (21.0%)                                             Providers (30.0%)&#13;
+                                              (23.8%)&#13;
+                                                                          By Volumes,&#13;
+                                                                         66.0% of total&#13;
+                  External                                                  volume&#13;
+                  ( 0.1%)                     Social Health            Outpatient: 92.0%&#13;
+                                               Insurance                Inpatient: 8.0%&#13;
+&#13;
+              Public Enterprises                (27.7%)&#13;
+                                                                            Private&#13;
+                   ( 14.1%)                                            Providers (52.7%)&#13;
+                                                                          By Volumes,&#13;
+                                            Private Insurers /           34.0% of total&#13;
+                                                 Mutuals                    volume&#13;
+                Private Firms                    (7.0%)                Outpatient:84.0%&#13;
+                   (13.6%)                                             Inpatient: 16.0%&#13;
+                                             Other Ministries&#13;
+                                           (Defense/Interior)             Para-Public&#13;
+                 Households                     ( 0.4%)                 Providers (0.4%)&#13;
+                  (51.2%)&#13;
+&#13;
+                                                                            Private&#13;
+                                     Out-of-pocket payments (41.2% )      Pharmacies&#13;
+                                                                           (16.9%)&#13;
+&#13;
+        Source: Authors.&#13;
+&#13;
+&#13;
+&#13;
+CNAM covers approximately 68 percent of the total population. It purchases health services&#13;
+from public and private providers in the country. Formal contracting systems exist with doctors,&#13;
+laboratories, dentists, and pharmacists, but criteria are unclear. Currently, retrospective&#13;
+reimbursement is the main scheme in place. FMAP is financed by transfers from the central&#13;
+government to the MOH to cover the estimated CNAM contributions of beneficiaries under the&#13;
+FMAP. However, it is unclear how the budget per beneficiary allocated to the MOH is estimated.&#13;
+&#13;
+Tunisiaâ&#128;&#153;s health system infrastructure is generally adequate but lacks sufficiently skilled&#13;
+personnel (particularly nonmedical), equipment, and information systems. The main steward is&#13;
+the MOH, although its oversight of the private sector is limited. The health care system is&#13;
+predominantly public; 87 percent of all beds are found in public hospitals and 13 percent in&#13;
+private clinics. On average, Tunisia has nearly as many doctors per capita as the Republic of&#13;
+Korea and Turkey, and in the capital, the figure is comparable to Germany (MOH 2010; OECD&#13;
+2009). At the same time, the density of doctors is considerably lower in Tunisiaâ&#128;&#153;s poorer regions,&#13;
+where most beneficiaries of the FMAP are located (figure 2).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                3&#13;
+&amp;#12;                    Figure 2 Density of Doctors, Tunisia and OECD Countries, 2007/08&#13;
+&#13;
+                                                                                                Greece&#13;
+                                                                                               Belgium&#13;
+                                                                                           Netherlands&#13;
+                                                                                               Norway&#13;
+                                                                                           Switzerland&#13;
+                                                                                                Austria&#13;
+                                                                                                Iceland&#13;
+                                                                                                    Italy&#13;
+                                                                                                  Spain&#13;
+                                                                                               Sweden&#13;
+                                                                                        Czech Republic&#13;
+                                                                                              Portugal&#13;
+                                                                                             Germany&#13;
+                                                                                                 France&#13;
+                                                                                              Denmark&#13;
+                                                                                                  OECD&#13;
+                                                                                       Slovak Republic&#13;
+                                                                                                Ireland&#13;
+                                                                                                Finland&#13;
+                                                                                          Luxembourg&#13;
+                                                                                              Australia&#13;
+                                                                                              Hungary&#13;
+                                                                                       United Kingdom&#13;
+                                                                                         United States&#13;
+                                                                                          New Zealand&#13;
+                                                                                                Poland&#13;
+                                                                                                Canada&#13;
+                                                                                                  Japan&#13;
+                                                                                                Mexico&#13;
+                                                                                                  Korea&#13;
+                                                                                                 Turkey&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Sources: MOH 2011; OECD Indicators 2009, table 3.2.1.&#13;
+Note: Rates shown represent the number of doctors per 1,000 inhabitants.&#13;
+&#13;
+3. Brief Overview of Public Health, Primary Care, and Key Supply-side Efforts&#13;
+&#13;
+In principle, access to services in Tunisia is based on a referral network along the&#13;
+above-mentioned three levels across its 24 regionsâ&#128;&#148;(a) primary health centers (centres&#13;
+de soins de base) and local hospitals (hÃ´pitaux de circonscription), (b) regional&#13;
+hospitals (hÃ´pitaux rÃ©gionaux), (c) and university hospitals (centres hospitaliers&#13;
+universitaires), of which most are autonomous entities in terms of budget management&#13;
+(Ã©tablissements de santÃ© publiques). Patterns of utilization reveal the low efficiency of&#13;
+health service delivery. In 2008, the average bed occupancy rate of regional hospitals&#13;
+was 48 percent compared to an OECD average of 75 percent in 2009. 4 University&#13;
+hospitals account for the majority of days in hospital, up from 61 percent in 2002 to 65&#13;
+percent in 2008. There is no formal referral system in place to coordinate access to&#13;
+services, nor gatekeeping to ensure an efficient use of different levels of services.&#13;
+&#13;
+4&#13;
+    MOH, Directorate for Evaluation and Planning 2011; OECD Indicators 2009.&#13;
+&#13;
+                                                                                                            4&#13;
+&amp;#12;While health facilities are relatively well distributed, the main challenges facing the system&#13;
+emanate from poor delivery of services and a lack of adequate financial protection. These&#13;
+challenges include (a) regional disparities in health status and the use of services, such as infant&#13;
+and maternal mortality, rates of assisted births, and access to sanitation; (b) rising household&#13;
+out-of-pocket payments on health care despite the existence of health insurance coverage,&#13;
+putting households at risk of economic shocks and poverty; and (c) lagging quality of service&#13;
+delivery, exacerbated by an increase in the prevalence of chronic health conditions that require&#13;
+long-term, sustainable health care coverage.&#13;
+&#13;
+For example, the maternal mortality ratio is over three times higher in rural areas such as&#13;
+Kasserine than in urban areas such as Sousse (70 deaths compared to 20 deaths per 100,000 live&#13;
+births, respectively) as of 2006 (MOH 2008). Although only 6 percent of children are stunted,&#13;
+they are over twice as likely to be stunted in rural areas as in urban areas (10 percent compared&#13;
+to 4 percent, respectively). High-income groups are significantly more likely to use outpatient&#13;
+health services than low-income groups after controlling for age, gender, insurance coverage,&#13;
+and self-reported health status. In rural areas, 55 percent of women visit prenatal services at least&#13;
+four times compared to 75 percent in urban areas (MICS 2006). Approximately 75 percent of&#13;
+maternal mortality was due to avoidable causes, such as monitoring and postnatal follow-up in&#13;
+Tunisia as of 2008 compared to 46 percent in France as of 2006 (Dellagi et al. 2008; FIPHS&#13;
+2011).&#13;
+&#13;
+The quality of services is also perceived to be lower in underserved areas and in public facilities,&#13;
+in terms of proxy indicators and user perceptions of responsiveness. The rate of hospital-acquired&#13;
+infections (nosocomial infections) has been estimated to be 17.9 percent in Tunisia. This rate is&#13;
+relatively high compared to 6.8 percent in Lebanon, 6.5 percent in Thailand, and 4.4 percent in&#13;
+France (WHO 2011). Fifty percent of users were dissatisfied with public hospital services. 5 The&#13;
+responsiveness of public services lags behind private services notably in terms of staff treatment,&#13;
+waiting time, and basic amenities (WHO 2004). While these are self-reported perceptions by a&#13;
+sample of users, they indicate areas that tend to be closely associated with incentives and&#13;
+accountability mechanisms, as well as skills development and education.&#13;
+&#13;
+4. FMAP Institutional Architecture and Interaction with Broader System&#13;
+&#13;
+The PNAFN was established as the overarching safety net program for the poor, including cash&#13;
+transfers and FMAP, where the PFAFN is responsible for allocating FMAP health cards to poor&#13;
+beneficiaries. MOSA is responsible for the program and eligibility determination of potential&#13;
+beneficiaries. This ministry has established a national poverty database that includes&#13;
+socioeconomic information of families enrolled in the PNAFN. Under this program, the ministry&#13;
+selects the beneficiaries. The MOH is responsible for the delivery of services to all citizens,&#13;
+including FMAP beneficiaries, but does not manage the program itself. The MOH is supportive&#13;
+of the FMAP, but is concerned about financing the increasing demand for services by FMAP&#13;
+beneficiaries without associated budget increases. In addition, the FMAP is largely an implicit,&#13;
+poorly regulated and monitored system, so as such it does not explicitly contribute to improving&#13;
+the way the health system operates, either by example or design.&#13;
+&#13;
+&#13;
+5&#13;
+    Tunisia Hospital Performance Study 2008.&#13;
+&#13;
+                                                                                                   5&#13;
+&amp;#12;Households enrolled in PNAFN receive a cash transfer of 100 TND (Tunisian dinars) per month,&#13;
+equal to a value of 20 percent of the poverty line, and automatically receive a Free Health Card&#13;
+(as part of the FMAP). The poverty line used to determine eligibility is 585 TND (approximately&#13;
+US$1.25 per day). A child allowance is also given, which is 10 TND per child per month up to a&#13;
+limit of three children. Families that do not meet the criteria for PNAFN but are near-poor&#13;
+qualify for Subsidized Health Cards, which cover 20 percent of the population. PNAFN and&#13;
+FMAP do not have clear term limits after which beneficiaries reapply, and verification of need is&#13;
+rarely conducted by mobile social workers of the MOSA, who are mandated to do so at least&#13;
+once a year.&#13;
+&#13;
+The institutional framework of the FMAP and mandate are specified under Health Care System&#13;
+Law No. 91-63 of July 29, 1991. The law relates to the organization and mission of the health&#13;
+sector and mandates that the state guarantee free access or reduced tariffs to low-income groups&#13;
+to public health care services under the FMAP: â&#128;&#156;the benefit of free health care and&#13;
+hospitalization is granted to any needy people, his spouse and legally dependent children. The&#13;
+list of beneficiaries is fixed jointly by the Ministries of Public Health and Social Affairs. The free&#13;
+health card is issued for a period of five yearsâ&#128;¦â&#128;?&#13;
+&#13;
+In addition, Article 35 of the law stipulates that all preventive health services offered in public&#13;
+facilities devoted to individuals or the population are to be provided free of charge to all Tunisian&#13;
+citizens, regardless of income group. The law also states that â&#128;&#156;the entitlement to free care and&#13;
+hospitalization is also given to all patients that are involved in the scientific studies, the&#13;
+preventive campaigns or epidemic diseases.â&#128;?&#13;
+&#13;
+Article 36 of the law stipulates that â&#128;&#156;Reduced tariffs of outpatient and inpatient services are&#13;
+provided by the public health facilities to certain categories of the Tunisian people, their spouses&#13;
+and legally dependent children.â&#128;? In addition, Decree No. 1998-409 of February 18, 1998,&#13;
+establishes the conditions and procedures for this scheme that include two types of family&#13;
+assistance: free access and reduced tariffs for the lowest-income groups.&#13;
+&#13;
+The FMAP guarantees free access to public health facilities for PNAFN beneficiaries. The&#13;
+decree specifies that the free access concerns only families already enrolled or eligible for the&#13;
+permanent program of social assistance (under the poverty threshold). The free card is issued for&#13;
+a period of five years within national limit and regional quotas.&#13;
+&#13;
+The decree for the FMAP also provides non-PFAFN vulnerable households the benefit of&#13;
+reduced tariffs as part of a Subsidized Health Card. The health card is given to families based on&#13;
+self-reported annual income and household size. Vulnerability is based on self-reported income&#13;
+that shall not exceed:&#13;
+&#13;
+   â&#128;¢   An amount equal to the guaranteed interprofessional minimum wage (salaire minimum&#13;
+       interprofessionnel garanti, SMIG) for families composed of two or fewer persons&#13;
+   â&#128;¢   An amount equal to one-and-a-half times the SMIG for families composed of three to&#13;
+       five persons&#13;
+   â&#128;¢   An amount equal to twice the SMIG for families larger than five members.&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                    6&#13;
+&amp;#12;The fee reduction card is issued in principle for five years according to regional quotas&#13;
+and must be validated annually with a deposit of 10 TND. Patients with a reduced&#13;
+tariffs card must pay a copayment (ticket modÃ©rateur) for hospital visits.&#13;
+&#13;
+5. Targeting, Identification, and Enrolment of Beneficiaries&#13;
+&#13;
+PNAFN uses categorical targeting to determine the eligibility of potential beneficiaries for the&#13;
+FMAP; however, eligibility determination and accountability mechanisms are not well&#13;
+documented. There is no poverty registry in Tunisia. PNAFN has a database of its beneficiaries,&#13;
+who are determined on the basis of categorical criteria by local commissions, but there is no&#13;
+precise verification process of household consumption, income, assets, and so forth.&#13;
+&#13;
+Commissions of local authorities, who include representatives of Civil Society Organizations,&#13;
+determine eligibility on the basis of self-presentation and according to a list of categorical&#13;
+criteria. Eligibility criteria include (a) self-declared (unverified) household revenue falling below&#13;
+the poverty line, defined in PNAFN as 585 TND per year (US$1.25 per day), up from&#13;
+approximately 400 TND per year (US$0.75 per day) before the revolution; (b) household size;&#13;
+(c) number of household members with a disability and/or chronic health condition; (d)&#13;
+household living conditions, such as dwelling and assets; and (e) the inability for the head of&#13;
+household to work due to an impairment (physical or mental). The system has been prone to&#13;
+accusations of corruption and a lack of transparency and equity and, as of 2011, MOSA has been&#13;
+in the process of reforming the system.&#13;
+&#13;
+There is a formal enrolment process for the FMAP and a waiting list. The government sets&#13;
+quotas for the FMAP based on historical data and expected numbers, but the precise mechanism&#13;
+for establishing quotas and annual increases has not been disclosed. There are no fees to enroll.&#13;
+Beneficiaries do not need to reapply. There are no formal, documented mechanisms of redress or&#13;
+accountability for responding to grievances, aside from informal complaints to the Bureaus of&#13;
+Citizen Relations (largely dysfunctional). There is an incentive for the enroller (MOSA) to&#13;
+maximize enrolment because there is a lump sum budget allocated to MOSA to distribute to this&#13;
+program, which is not routinely monitored or evaluated. There is no direct incentive to cream-&#13;
+skim since the FMAP is not monitored or based on health conditions.&#13;
+&#13;
+Twenty-seven percent of the population receives FMAP health care cards, either for free or&#13;
+subsidized services, although current eligibility determination mechanisms leave ample room for&#13;
+corruption, lack of transparency, and inequity. Free health care cards (carte de soins gratuits) are&#13;
+automatically provided to PNAFN cash transfer beneficiaries and an additional 10,000&#13;
+beneficiaries on the waiting list, totaling 195,000 needy households (7.4 percent of the&#13;
+population). A total of 557,900 â&#128;&#156;vulnerableâ&#128;? households receive subsidized health care cards&#13;
+(carte de soins Ã  tarif rÃ©duits) (20 percent of the population), a number that has been growing&#13;
+steadily but slowly (figure 3).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                   7&#13;
+&amp;#12;           Figure 3 Evolution of Enrolment for FMAP Subsidized Health Cards, 2001â&#128;&#147;11&#13;
+&#13;
+                                        1,000,000&#13;
+                                         900,000&#13;
+&#13;
+               No. FMAP beneficiaries    800,000&#13;
+                                         700,000&#13;
+                                         600,000&#13;
+                                         500,000&#13;
+                                         400,000&#13;
+                                         300,000&#13;
+                                         200,000&#13;
+                                         100,000&#13;
+                                               0&#13;
+                                                    2001   2007                2011&#13;
+            Source: MOSA 2011.&#13;
+&#13;
+Evaluations of the FMAP in terms of public expenditure reviews, access to services, and&#13;
+governance in targeting beneficiaries are not routinely conducted. The Tunisia Household&#13;
+Consumption and Budget Survey suggests that 40 percent of the poor were enrolled in the FMAP&#13;
+as of 2005 (most recent data). 6 A key administrative database is the PNAFN beneficiary&#13;
+database, managed by MOSA, which contains basic demographic data on 185,000 families&#13;
+currently receiving cash transfers and health cards, but there is no information on household&#13;
+socioeconomic status. Based on 2011 data from the PNAFN database, 51 percent of beneficiaries&#13;
+are female (heads of households); 57 percent are over age 60, and 65 percent live in lagging&#13;
+regions (14 governorates to the west) (see figure 4). These results suggest that PNAFN may be&#13;
+acting as a form of social pension, due to insufficient pensions under the National Social Security&#13;
+Fund (Caisse Nationale de SÃ©curitÃ© Sociale)/National Fund of Retirement and Social Security&#13;
+(Caisse Nationale de Retraite et de Provoyance Sociale). Following the revolution, MOSA&#13;
+initiated a reform process meant to design an improved targeting system and a consolidated&#13;
+registry of poverty and social protection programs to improve coverage and reduce leakages.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+6&#13;
+ A World Bank study was initiated in July 2012 and is ongoing. Source: Authorsâ&#128;&#153; calculations using Tunisian&#13;
+Household Budget and Consumption Survey, National Institute of Statistics, 2005.&#13;
+&#13;
+                                                                                                         8&#13;
+&amp;#12;     Figure 4 Percent of Individuals Receiving Free Health Cards (carte de soins gratuits) by&#13;
+                                       Governorate, 2011&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                        Source: MOSA, April 2011.&#13;
+&#13;
+&#13;
+6. Management of Public Funds in the FMAP&#13;
+&#13;
+The MOH is both a financing agent and a provider to the vast majority of public&#13;
+facilities in Tunisia and covers the FMAP directly. Based on utilization data, the&#13;
+FMAP accounted for 267 million TND in 2010, or 13.9 percent of total public health&#13;
+expenditures (tables 1 and 2). The FMAP financing scheme is not well documented&#13;
+and there is little information available on how the cost per beneficiary compares to the&#13;
+cost per beneficiary under CNAM to date (that is, no proof of execution; one of the&#13;
+challenges of the financing gap for this scheme is that public hospitals claim deficits,&#13;
+particularly in drug items). There is no earmarked budget to cover health care&#13;
+consumption of FMAP beneficiaries.&#13;
+&#13;
+Hospital budgets are fixed but can be revised during the fiscal year. Hospitals attempt&#13;
+to adjust their activities in response to demand. In the subsequent year, hospital budgets&#13;
+can be adjusted to cover their arrears in principle, but deficits persist. Indirectly,&#13;
+CNAM financing is likely cross-subsidizing the FMAP, but the extent to which it does&#13;
+is unclear. There has so far been no strong push for moving from supply to demand&#13;
+subsidies. Much of the dialogue will remain muted until a permanent government is in&#13;
+place in the latter part of 2013.&#13;
+&#13;
+&#13;
+                                                                                                9&#13;
+&amp;#12;                                  Table 1 FMAP Expenditures, 2005â&#128;&#147;2010&#13;
+&#13;
+Year         Total FMAP Expenditures        As % of Public health         As % of Total        As % of GDP&#13;
+                 in Local Currency             Expenditures               Expenditures&#13;
+                 (Millions of TND)&#13;
+2010                    267                          13.9                       1.48                 0.47&#13;
+2009                     252                         13.6                       1.45                 0.47&#13;
+2008                     286                         17.0                       1.78                 0.57&#13;
+2007                     286                         19.4                       1.89                 0.63&#13;
+2006                     266                         19.7                       1.92                 0.64&#13;
+2005                     307                         25.6                       2.36                 0.81&#13;
+Source: Authorsâ&#128;&#153; compilation based on data from MOF and MOH.&#13;
+Note: FMAP expenditures include those related to services received at university and regional hospitals.&#13;
+FMAP = Health Care for the Poor.&#13;
+&#13;
+&#13;
+                               Table 2 Financing of FMAP Expenditures, 2010&#13;
+&#13;
+                                                                   Local Currency         Percent of Total&#13;
+                                                                  (Millions of TND)&#13;
+Total Expenditures of FMAP in 2010                                       267                     100&#13;
+&#13;
+Government Funding                                                     238                       â&#128;&#148;&#13;
+Of which&#13;
+-         Central government                                           187                      69.5&#13;
+-         Social security contributions                                 51                      20.2&#13;
+-         Subnational government                                        â&#128;&#148;                        â&#128;&#148;&#13;
+-         Arrears                                                       â&#128;&#148;                        â&#128;&#148;&#13;
+Beneficiaries                                                           29&#13;
+Of which&#13;
+-         Point of service payments (includes copayments. user          29                      10.2&#13;
+fees, etc.)&#13;
+-         Registration fees                                             â&#128;&#148;                        â&#128;&#148;&#13;
+-         Premium contributions                                         â&#128;&#148;                        â&#128;&#148;&#13;
+-         Others (describe)                                             â&#128;&#148;                        â&#128;&#148;&#13;
+External Donor Contributions                                            0                        0&#13;
+Others (describe)                                                       â&#128;&#148;                        â&#128;&#148;&#13;
+Source: Authorsâ&#128;&#153; compilation based on data from Ministry of Finance and MOH.&#13;
+Note: â&#128;&#148; = not available.&#13;
+FMAP = Health Care for the Poor.&#13;
+&#13;
+Beneficiaries of free health care are entitled to use public services without having to&#13;
+make copayments, and providers in some cases have been seemingly reluctant to&#13;
+prioritize FMAP beneficiaries due to pending hospital deficits. Beneficiaries of reduced&#13;
+tariffs must pay copayments at the point of service (see table 3). A fixed amount is paid&#13;
+for outpatient services and another for inpatient services. Patients pay 20 percent of the&#13;
+amount of procedures, X-rays, and lab tests with a ceiling of 30 TND (US$20) per&#13;
+episode.&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                             10&#13;
+&amp;#12;               Table 3 Payment Systems and Cost-containment Instruments for FMAPa&#13;
+&#13;
+Payment Systems and Cost Containment                  Payment         Utilization             Comments&#13;
+Instruments for FMAP                                  Systemb          Controlsc&#13;
+                                                     (Use codes       (Use codes&#13;
+                                                       below)           below)&#13;
+Inpatient Services&#13;
+Birth delivery                                           CP             COPAY          COPAY for beneficiaries&#13;
+                                                                                       of reduced tariffs only&#13;
+Emergency Services                                      FFS             COPAY&#13;
+Other Inpatient hospital services                                       COPAY&#13;
+-   Hospital component (hotel services, nursing          CP             COPAY&#13;
+    care, disposables, tests)&#13;
+-   Physician service components                        SAL             COPAY&#13;
+-   Pharmaceuticals                                     FFS             COPAY&#13;
+-   Diagnostic imaging                                  FFS             COPAY&#13;
+-   Adjustments (e.g., teaching, disproportionate        CP             COPAY&#13;
+    share of poor, capital)&#13;
+Outpatient Services&#13;
+Public health services, such as immunizations           SAL           COPAY for        Any copayment&#13;
+                                                                    ambulatory care&#13;
+Outpatient primary care contacts                               SAL     COPAY&#13;
+Outpatient specialist contacts                                 SAL     COPAY&#13;
+Pharmaceuticals for outpatient services                        FFS     COPAY&#13;
+Clinical laboratory tests for outpatient services              FFS     COPAY&#13;
+Diagnostic imaging for outpatient servicesâ&#128;&#148;basic               FFS     COPAY&#13;
+(X-rays and ultrasound)&#13;
+Diagnostic imaging for outpatient servicesâ&#128;&#148;                    FFS              COPAY&#13;
+beyond X-rays and ultrasound (e.g., MRI, CAT&#13;
+Scan)&#13;
+Other services&#13;
+Eyeglasses&#13;
+Dental care                                                    SAL              COPAY&#13;
+Prosthetics and orthotics&#13;
+Dialysis or transplants                                        FFS              COPAY           Any copayment&#13;
+Home care services&#13;
+Source: Authorsâ&#128;&#153; compilations.&#13;
+Note: a. Codes for Payment Systems and Utilization Controls.&#13;
+b. More than one may be used.&#13;
+c. More than one may be used.&#13;
+COPAY = copayments paid by patient, CP = case payment (for example, DRG), FFS = fee-for-service, SAL = all&#13;
+services by a provider for a fixed period of time (that is, salary or global/line-item budget).&#13;
+&#13;
+FMAP beneficiaries account for a sizable proportion of outpatient visits to regional&#13;
+hospitals, but a lower proportion to university hospitals, which are mainly located in&#13;
+coastal, wealthier cities. FMAP beneficiaries accounted for 25 percent of all outpatient&#13;
+visits to regional hospitals and 12 percent of all outpatient visits to university hospitals.&#13;
+FMAP beneficiaries accounted for 23 percent of all inpatient visits to regional hospitals&#13;
+and 16 percent of all inpatient visits to university hospitals.&#13;
+&#13;
+There has been routine monitoring of informal payments in Tunisia, but household&#13;
+survey data show that low-income groups spend out-of-pocket for health services&#13;
+despite the FMAP. On average, households spend 10 percent of their total out-of-&#13;
+&#13;
+                                                                                                                11&#13;
+&amp;#12;pocket expenditure on health services, but the figure climbs to 68 percent among the&#13;
+poorest 10 percent of the populations (figure 5). Low-income groups, despite FMAP&#13;
+coverage, use fee-based care and purchase medicines in the private sector. Public&#13;
+hospital pharmacies often face shortages of medications.&#13;
+&#13;
+                         Figure 5 Health Out-of-Pocket (OOP) Spending&#13;
+                   as a Percent of Total Household Expenditure, Tunisia, 2004&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+          Sources: Staff calculations. WHO 2004. Reflects most recent available data. Data&#13;
+          from the 2010 National Household Consumption and Budget Survey are forthcoming.&#13;
+&#13;
+&#13;
+7. Management of FMAP Benefits Package&#13;
+&#13;
+The FMAP does not include a specific benefits package for beneficiaries. All public&#13;
+providers are automatically required to participate in the FMAP. There is no&#13;
+accreditation system or formal approval/opting-out option in place and no outspoken&#13;
+clear champion of improved health outcomes in relation to the FMAP. Following the&#13;
+revolution, there have been calls by the Ministry of Regional Development and&#13;
+Planning (a relatively new ministry) and the MOH to improve access to services in&#13;
+lagging regions in the west of the country. However, these calls for improved service&#13;
+have not reached high political visibility, and the ministries have not achieved much&#13;
+clout in this area, given that this is still a relatively newly, publicly recognized&#13;
+phenomenon in Tunisia (that is, poverty and its implications were not publicly&#13;
+discussed during the previous regime).&#13;
+&#13;
+8. Information Environment of the FMAP&#13;
+&#13;
+MOSA has a very basic database on beneficiaries of Health Care for the Poor (FMAP), but the&#13;
+system is not a comprehensive information system and it is not accessible to other agencies&#13;
+(MOH and MOF). There is a need to institute routine monitoring and evaluation of beneficiaries,&#13;
+&#13;
+&#13;
+                                                                                             12&#13;
+&amp;#12;eligibility, utilization, and costs associated with the FMAP. The FMAP information system in&#13;
+Tunisia faces infrastructure, technical capacity, and coordination challenges.&#13;
+First, data collection and dissemination currently rely on manual and unsystematic processes that&#13;
+vary from health facility to health facility and are not included in or linked to the PNAFN&#13;
+database. There is no systematically collected information on quality or costs of health care.&#13;
+Second, there is limited capacity at the central and regional levels to collect data, and little&#13;
+information exists for the public to promote social accountability, in light of perceived inequities&#13;
+associated with the FMAP. Third, at least 10 public agencies are involved in the collection of&#13;
+health-system-relevant information, yet there is no centralized coordination or identification of&#13;
+FMAP beneficiaries. 7 A strong and well-documented information system will need to be put in&#13;
+place to enable greater information sharing between MOSA and MOH to improve targeting and&#13;
+coverage of essential services.&#13;
+&#13;
+9. Special Focus: Toward a Strategic Vision for Financing FMAP&#13;
+&#13;
+The overall fiscal burden associated with the economic transition puts pressure on&#13;
+public health spending, and the FMAP is already suffering from weaker and weaker&#13;
+public service delivery. Rates of maternal mortality and infant mortality remain high in&#13;
+lagging regions of Tunisia. Access to prenatal and postnatal care and deliveries assisted&#13;
+by skilled health professionals remain low among poorer groups. Ten percent of the&#13;
+population remains uninsured, and out-of-pocket payments are on the rise among&#13;
+FMAP beneficiaries even as the quality of health services deteriorates. Against this&#13;
+backdrop, there is a need to devise a clearer and more transparent funding mechanism&#13;
+for the FMAP that allows greater access to better-quality services.&#13;
+&#13;
+The MOF, as of 2006, embarked on a program of performance-based budgeting with&#13;
+the MOH. The scheme serves as a prototype for a strategic vision for financing for the&#13;
+FMAP program, demarcating clear incentives for beneficiaries to ensure appropriate&#13;
+human capital investments and use of key services. Currently, however, the&#13;
+deteriorating quality of public services means that contracting with the private sector&#13;
+may help improve access to health services for the poor enrolled under the FMAP for&#13;
+selected services. Medications coverage needs to be reviewed in general in Tunisia,&#13;
+particularly financing of pharmaceuticals for lower-income groups who, despite the&#13;
+FMAP, continue paying high out-of-pocket payments for medications.&#13;
+&#13;
+10. Pending Agenda&#13;
+&#13;
+The period following the Tunisian revolution, like other democratic transitions in Eastern&#13;
+Europe, Latin America, and Southeast Asia, represents a window of opportunity for Tunisia to&#13;
+set a new trajectory for the social contract. Rather than a legacy of protecting a few, the reform&#13;
+of safety nets such as the FMAP can demonstrate a commitment to ensuring accountability,&#13;
+7&#13;
+  In principle, the MOH (Direction des Etudes et de la Planification [DEP]) is responsible for analysis of&#13;
+health system performance using data collected from the National Institute of Public Health, various&#13;
+departments of the MOH, and the National Institute of Statistics. The national health information system&#13;
+and the role of the DEP were evaluated between April 2008 and November 2009 as part of the Health&#13;
+Metrics Network, which provided input to the development of the DEP Strategic Plan to address gaps in&#13;
+technical capacity.&#13;
+&#13;
+                                                                                                       13&#13;
+&amp;#12;transparency, and a level playing field for the rich and poor. The governance of the FMAP&#13;
+system warrants careful review and is likely the most important agenda facing the FMAP in&#13;
+terms of how well targeted the system is for reaching the poor. Public expenditure tracking and&#13;
+purchasing of health services fall within a reform of the FMAP to ensure sustainability during&#13;
+the economic slowdown. Since management of the FMAP is not clearly demarcated between the&#13;
+MOSA and MOH, there is an opportunity for the CNAM to play a more active role in managing&#13;
+the FMAP through consolidation of benefits and information systems. While the MOSA is&#13;
+responsible for determining eligibility, the monitoring of services and access by beneficiaries&#13;
+falls under the MOH but is not routinely done. There is no information system that tracks each&#13;
+beneficiaryâ&#128;&#153;s use and satisfaction with or complaints about the system, and no process to verify&#13;
+eligibility in a rigorous manner.&#13;
+&#13;
+Key issues in terms of overall architecture include:&#13;
+&#13;
+   â&#128;¢   Lack of a clear benefits package and tariffs scale for copayments&#13;
+   â&#128;¢   Mechanisms of accountability regarding MOSA and/or MOH for ensuring appropriate&#13;
+       targeting, access to services, and grievance mechanisms&#13;
+   â&#128;¢   Quality assurance and follow-up of services rendered to FMAP beneficiaries&#13;
+   â&#128;¢   Lack of coordination with CNAM and private medical services&#13;
+   â&#128;¢   Lack of clear funding/earmarking mechanisms that are clearly tied to volume and usage.&#13;
+&#13;
+Management of the FMAP benefits package faces challenges in terms of:&#13;
+&#13;
+   â&#128;¢   Lack of a clear benefits package and coordination with the private sector&#13;
+   â&#128;¢   Lack of a rigorous Management Information System on benefits, utilization, costs, and&#13;
+       grievances&#13;
+   â&#128;¢   Lack of monitoring health status of beneficiaries and unmet needs&#13;
+   â&#128;¢   Follow-up and monitoring of dependents.&#13;
+&#13;
+In line with the spirit of the revolution, three key steps can be taken to strengthen voice and&#13;
+transparency in the health care program for the poor. These are:&#13;
+&#13;
+   â&#128;¢   Targeting criteria and processes will need to be strengthened substantially for the&#13;
+       FMAP. In the past, eligibility criteria mechanisms relied on local commissions that are&#13;
+       not routinely audited in a rigorous way (that is, Cours des Comptes or other controllersâ&#128;&#153;&#13;
+       bodies). With nearly 24 percent of the population receiving health cards, and given an&#13;
+       economic slowdown, the demand for health care is expected to grow. In September 2012,&#13;
+       the MOSA launched the development of a new poverty registry and a means-based&#13;
+       targeting system to improve the identification and reverification of beneficiaries.&#13;
+&#13;
+   â&#128;¢   In line with the need to strengthen financing arrangements for the FMAP,&#13;
+       reforming the central management structure and monitoring of the FMAP&#13;
+       should be considered through a possible merger with CNAM toward a&#13;
+       single-payer system. This would include consolidation with the CNAM and&#13;
+       coverage of private services where public services are unavailable. The benefits&#13;
+       package should be more clearly defined, with specific incentives for accessing&#13;
+&#13;
+                                                                                             14&#13;
+&amp;#12;    primary care and, in particular, prenatal services. Waiting times, a lack of&#13;
+    adequately skilled personnel, and a lack of public provision of medications are&#13;
+    challenges faced by poorer beneficiaries who do not have access to alternative&#13;
+    options (such as the private sector or travel abroad). Therefore, better purchasing&#13;
+    of services, goods, and personnel can be established through contracting&#13;
+    arrangements and incentives for improving performance in poorer regions.&#13;
+    While decentralization and greater autonomy of health care providers is a&#13;
+    medium-term agenda, innovative service delivery such as through mobile&#13;
+    services should be strengthened significantly.&#13;
+&#13;
+â&#128;¢   In parallel, building effective grievance and redress mechanisms and&#13;
+    disclosing information about how well the program reaches the vulnerable&#13;
+    are necessary to building social accountability. Signals such as these can help&#13;
+    promote a new legacy of social inclusion in Tunisia and make a break with the&#13;
+    past under the former regime.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                    15&#13;
+&amp;#12;                                                               Annex 1 Spider Web&#13;
+&#13;
+                             I. Outcomes comparisons:&#13;
+                    Tunisia and Upper Middle Income Countries&#13;
+                                                                                             Note on interpretation:&#13;
+                                                                                             In this plot â&#128;&#152;higherâ&#128;&#153; is â&#128;&#152;worseâ&#128;&#153; â&#128;&#147; since&#13;
+                                                                                             these indicators are positive measures&#13;
+                                                                                             of mortality / morbidity. Life&#13;
+                                                                                             expectancy is converted to be an&#13;
+                                                                                             inverse measure.&#13;
+&#13;
+                                                                                             The values on the radar plot have&#13;
+                                                                                             been standardized with respect to the&#13;
+                                                                                             average upper middle income country&#13;
+                                                                                             value.&#13;
+&#13;
+                                                                                             The table below summarizes outcome&#13;
+                                                                                             comparisons with the average upper&#13;
+                                                                                             middle income country (UMIC).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+IMR: Infant mortality rate (2010). U5MR: Under-5 mortality rate (2010). Stunting: prevalence of low height-for-age among children under 5 (2010). MMR: Maternal&#13;
+mortality rate (2010) per 100 000 live births. Adult mortality: Adult mortality rate per 1000 male adults (2010). [100-(life expectancy)]: Life expectancy at birth&#13;
+(2010) subtracted from maximum of 100. Neonatal mortality: Neonatal mortality per 1000 living births. CD as cause of death: Communicable diseases as cause of&#13;
+death (% total). All data from World Bank's World Development Indicators. Income averages for stunting calculated by Bank staff and are unweighted.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                 II. Inputs comparisons&#13;
+                      Tunisia and Upper Middle Income Countries&#13;
+                                                                                             Note on interpretation:&#13;
+                                                                                             This plot shows indicators which&#13;
+                                                                                             measure spending on health or the&#13;
+                                                                                             number of health workers per&#13;
+                                                                                             population.&#13;
+&#13;
+                                                                                             The values on the radar plot have&#13;
+                                                                                             been standardized with respect to&#13;
+                                                                                             the average upper middle income&#13;
+                                                                                             country value.&#13;
+&#13;
+                                                                                             The table below summarizes inputs&#13;
+                                                                                             comparisons with the average upper&#13;
+                                                                                             middle income country (UMIC).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+  THE as % of GDP: Health expenditure, total (% of GDP) (2010). Hospital bed density: Hospital beds per 1,000 people (latest available year). Physician density: Physicians&#13;
+  per 1,000 people (latest available year). Nurse/midwife density: Nurses and midwives per 1,000 people (latest available year). GHE as % of THE/10: Public health&#13;
+  expenditure (% of total expenditure on health) (2010). All data from World Bank's World Development Indicators.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                                              16&#13;
+&amp;#12;                             III. Coverage comparisons&#13;
+                    Tunisia and Upper Middle Income Countries&#13;
+                                                                                           Note on interpretation:&#13;
+                                                                                           In this plot â&#128;&#152;higherâ&#128;&#153; is â&#128;&#152;betterâ&#128;&#153; â&#128;&#147; since&#13;
+                                                                                           these     indicators      are    positive&#13;
+                                                                                           measures. In this case, all are percent&#13;
+                                                                                           of the population receiving or having&#13;
+                                                                                           access to a certain health related&#13;
+                                                                                           service.&#13;
+                                                                                           The values on the radar plot have&#13;
+                                                                                           been standardized with respect to&#13;
+                                                                                           the average upper income country&#13;
+                                                                                           value.&#13;
+                                                                                           The table below summarizes&#13;
+                                                                                           coverage comparisons with the&#13;
+                                                                                           average upper middle income&#13;
+                                                                                           country (UMIC).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+DPT immunization: % of children aged 12-23 months with DPT immunization (2010). Prenatal services: % of pregnant women receiving prenatal care (latest available&#13;
+year). Contraceptive prevalence: % of women ages 15-49 using contraception (latest available year). Skilled birth attendance: % of all births attended by skilled health&#13;
+staff (latest available year). Improved sanitation: % of population with access to improved sanitation facilities (2010). TB treatment success: Tuberculosis treatment&#13;
+success rate (% of registered cases). All data from World Bank's World Development Indicators.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                           IV. Infrastructure comparisons&#13;
+                    Tunisia and Upper Middle Income Countries&#13;
+                                                                                           Note on interpretation:&#13;
+                                                                                           In this plot â&#128;&#152;higherâ&#128;&#153; is â&#128;&#152;betterâ&#128;&#153; â&#128;&#147; since&#13;
+                                                                                           these     indicators      are    positive&#13;
+                                                                                           measures of provision of certain&#13;
+                                                                                           good / service, and a measure of&#13;
+                                                                                           urban development.&#13;
+&#13;
+                                                                                           The values on the radar plot have&#13;
+                                                                                           been standardized with respect to&#13;
+                                                                                           the average upper middle income&#13;
+                                                                                           country value.&#13;
+&#13;
+                                                                                           The table below summarizes&#13;
+                                                                                           infrastructure comparisons with the&#13;
+                                                                                           average upper middle income&#13;
+                                                                                           country (UMIC).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Paved roads: % of total roads paved (most recent). Internet users: users per 100 people (2010, with some estimates from prior years). Mobile phone users: mobile&#13;
+cellular subscriptions per 100 people (2010). Access to improved water: % of population with access to improved water source (2010). All data from World Bank's&#13;
+World Development Indicators.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                                           17&#13;
+&amp;#12;                            V. Demography comparisons&#13;
+                    Tunisia and Upper Middle Income Countries&#13;
+                                                                                        Note on interpretation:&#13;
+                                                                                        Indicators here measure births per&#13;
+                                                                                        woman, the extent of rurality, and&#13;
+                                                                                        the number of dependents.&#13;
+&#13;
+                                                                                        The values on the radar plot have&#13;
+                                                                                        been standardized with respect to&#13;
+                                                                                        the average upper middle income&#13;
+                                                                                        country value.&#13;
+&#13;
+                                                                                        The table below summarizes&#13;
+                                                                                        demographic indicators comparisons&#13;
+                                                                                        with the average upper middle&#13;
+                                                                                        income country (UMIC).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+TFR: total fertility rate (births per woman), 2009. Dependency ratio: % of working-age population (2010) aged less than 15 or more than 64. Youth dependency: % of&#13;
+working-age population (2010) aged less than 15. Rurality: % of total population in rural areas (2010). All data from World Bank's World Development Indicators.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                                     18&#13;
+&amp;#12;                                          References&#13;
+&#13;
+&#13;
+&#13;
+Annuaire Statistique. 2009. Caisse Nationale de lâ&#128;&#153;Assurance Maladie, Republic of&#13;
+      Tunisia.&#13;
+Dellagi, R. T., I. Belgacem, M. Hamrouni, and B. Zouari. 2008. â&#128;&#156;Ã&#137;valuation du systÃ¨me&#13;
+       de suivi des dÃ©cÃ¨s maternels dans les structures publiques de Tunis (1999â&#128;&#147;&#13;
+       2004).â&#128;? La Revue de SantÃ© de la MÃ©diterranÃ©e orientale 14 (6): 1380â&#128;&#147;90.&#13;
+FIPHS (French Institute for Public Health Surveillance). 2011. â&#128;&#156;Report of the National&#13;
+     Expert Committee on Maternal Mortality (CNEMM), France, 2001â&#128;&#147;2006.â&#128;?&#13;
+     Paris: French Institute for Public Health Surveillance.&#13;
+INS   (National Institute of Statistics). 2005. Tunisian Household                Budget      and&#13;
+       Consumption Survey. National Institute of Statistics, Tunis.&#13;
+INS (National Institute of Statistics) 2012. â&#128;&#156;Primary Results of the National Survey of&#13;
+      Budget Consumption and Standard Living of Households in 2010.â&#128;?&#13;
+      http://www.ins.nat.tn/communiques/Presentation_presse_20_09_2012_FR.pdf.&#13;
+MICS (Multiple Indicator Cluster Survey). 2007. Office National de la Famille et de la&#13;
+     Population/UNICEF, Tunisie.&#13;
+Ministry of Health, Directorate for Evaluation and Planning. Sanitary Map 2010.&#13;
+       http://www.santetunisie.tn/msp/images/CSfinale2010.pdf.&#13;
+Ministry of Public Health. 2011. Tunisia. Administrative document.&#13;
+Ministry of Social Affairs. 2011. April. Administrative document.&#13;
+National Labor Force Survey. 2010. National Institutes of Statistics, Tunisia (available&#13;
+       on http://www.ins.nat.tn/indexfr.php).&#13;
+OECD (Organisation for Economic Co-operation and Development). 2009. Health-at-a-&#13;
+    Glance. Paris: Organisation for Economic Co-operation and Development.&#13;
+â&#128;&#156;Tunisia Hospital Performance Study.â&#128;? 2008.              Ministry    of   Health/University    of&#13;
+      Montreal and World Bank, Washington, DC.&#13;
+Tunisian Household Budget and Consumption Survey. 2005. National Institute of&#13;
+       Statistics, Tunis. http://www.ins.nat.tn/indexfr.php.&#13;
+WHO (World Health Organization). 2004. â&#128;&#156;World Health Survey.â&#128;? World Health Organization,&#13;
+     Geneva.&#13;
+WHO (World Health Organization). 2011. â&#128;&#156;Report on the Burden of Endemic Health&#13;
+    Care-Associated Infection Worldwide.â&#128;? World Health Organization, Geneva.&#13;
+World Bank. Forthcoming. â&#128;&#156;Tunisia: Health Insurance.â&#128;? Policy Note, World Bank,&#13;
+     Washington, DC.&#13;
+World Bank. 2010. â&#128;&#156;Who Pays? Out-of-Pocket Spending and Equity Implications in the Middle&#13;
+      East and North Africa.â&#128;? Discussion Paper, World Bank, Washington DC.&#13;
+&#13;
+                                                                                              19&#13;
+&amp;#12;20&#13;
+&amp;#12;21&#13;
+&amp;#12;The World Bank supports the efforts of countries to share prosperity by&#13;
+transitioning toward universal health coverage (UHC) with the objectives of&#13;
+improving health outcomes, reducing the financial risks associated with ill&#13;
+health, and increasing equity. The Bank recognizes that there are many paths&#13;
+toward UHC and does not endorse a particular path or set of organizational or&#13;
+financial arrangements to reach it. Regardless of the path chosen, the quality of&#13;
+the instruments and institutions countries establish to implement UHC are&#13;
+essential to its success. Countries will face a variety of challenges during the&#13;
+implementation phase as they strive to expand health coverage. With that in&#13;
+mind, the World Bank launched the Universal Health Coverage Studies Series&#13;
+(UNICO Studies Series) to develop knowledge and operational tools designed&#13;
+to help countries tackle these implementation challenges in ways that are&#13;
+fiscally sustainable and that enhance equity and efficiency. The UNICO Studies&#13;
+Series consists of technical papers and country case studies that analyze&#13;
+different issues related to the challenges of UHC policy implementation.&#13;
+&#13;
+The case studies in the series are based on the use of a standardized protocol&#13;
+to analyze the nuts and bolts of 27 programs in 25 countries that have&#13;
+expanded coverage from the bottom up, starting with the poor and vulnerable.&#13;
+The protocol consists of 300 questions designed to elicit a detailed&#13;
+understanding of how countries are implementing five sets of policies to&#13;
+accomplish the following:&#13;
+&#13;
+â&#128;¢   Manage the benefits package&#13;
+â&#128;¢   Manage processes to include the poor and vulnerable&#13;
+â&#128;¢   Nudge efficiency reforms to the provision of care&#13;
+â&#128;¢   Address new challenges in primary care&#13;
+â&#128;¢   Tweak financing mechanisms to align the incentives of different stakeholders&#13;
+    in the health sector&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+The UNICO Studies Series aims to provide UHC implementers with an expanded toolbox.&#13;
+The protocol, case studies and technical papers are being published as part of the Series. A&#13;
+comparative analysis of the case studies will be available in 2013.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                               22&#13;
+&amp;#12;</ml:original-txt><ml:search-metadata><doc id="17207923">
+        <url>
+            http://documents.worldbank.org/curated/en/2013/01/17207923/tunisia-consolidation-transparency-transforming-tunisias-health-care-poor
+        </url>
+        <availablein>English</availablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2013/01/17207923/tunisia-consolidation-transparency-transforming-tunisias-health-care-poor</url_friendly_title>
+        <new_url>2013/01/17207923/tunisia-consolidation-transparency-transforming-tunisias-health-care-poor</new_url>
+        <disclosure_date>2013-02-01T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2013-02-01T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/02/01/000425962_20130201161248/Rendered/INDEX/749970NWP0Box30Transparency0TUNISIA.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/02/01/000425962_20130201161248/Rendered/PDF/749970NWP0Box30Transparency0TUNISIA.pdf</pdfurl>
+        <docdt>2013-01-01T00:00:00Z</docdt>
+        <datestored>2013-02-01T00:00:00Z</datestored>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            Tunisia - Consolidation and transparency :
+            transforming Tunisia's health care for the poor
+        </repnme>
+        <abstracts>
+            Since the 2011 popular revolution in
+            Tunisia, calls for a new social contract have been made to
+            improve social inclusion, including addressing gaps in
+            health care coverage for the vulnerable households. This
+            paper evaluates Tunisia's Free Medical Assistance for
+            the Poor (FMAP) and seeks to identify opportunities to
+            improve universal coverage in Tunisia. The study focuses on
+            the structural and institutional framework of health care
+            coverage for the poor in Tunisia in terms of strengths,
+            weaknesses, and recommendations for achieving universal
+            coverage. The paper reviews Tunisia's health financing
+            and delivery system with a special emphasis on FMAP, and
+            analyzes the main structural and targeting challenges the
+            program faces. The distinctive characteristic of this paper
+            is the focus on institutional design and organizational
+            practice of FMAP. The legal and regulatory framework is
+            assessed in terms of management, beneficiary targeting
+            methods, benefits package, and the information environment.
+            Section 2 provides an overview of health financing and
+            service delivery in Tunisia, including the relationship
+            between the FMAP and the main financing schemes. Section 3
+            describes key supply-side issues in terms of primary health
+            care provision for the poor. Section 4 assesses the
+            institutional framework of the FMAP in greater detail and
+            its linkages to the health care delivery system. Section 5
+            focuses on beneficiary selection and targeting methods under
+            the FMAP. Section 6 examines public financial management
+            under the FMAP, which is followed by a discussion in Section
+            7 of the benefits package. Sections 8 and 9 describe the
+            information environment of the FMAP and how this links to
+            the special focus of future financing reforms. The
+            concluding section discusses the pending agenda and
+            priorities for the FMAP moving forward.
+        </abstracts>
+        <docna>
+            Tunisia - Consolidation and transparency :
+            transforming Tunisia's health care for the poor
+        </docna>
+        <display_title>Tunisia - Consolidation and
+            transparency : transforming Tunisia's health care for
+            the poor</display_title>
+        <listing_relative_url>/research/2013/01/17207923/tunisia-consolidation-transparency-transforming-tunisias-health-care-poor</listing_relative_url>
+        <docty>Working Paper (Numbered Series)</docty>
+        <subtopic>Health Monitoring &amp; Evaluation,Public Sector Expenditure Policy,Health Economics &amp; Finance,Health Systems Development &amp; Reform,Population Policies</subtopic>
+        <teratopic>Public Sector Development,Health, Nutrition and Population</teratopic>
+        <count>Tunisia</count>
+        <authors>
+            <author>Arfa, Chokri</author>
+            <author>Elgazzar, Heba</author>
+        </authors>
+        <geo_region_mdks>
+            <geo_region_mdk>World!$!80475</geo_region_mdk>
+            <geo_region_mdk>Europe, Middle East and North Africa!$!107234</geo_region_mdk>
+            <geo_region_mdk>North Africa!$!80464</geo_region_mdk>
+        </geo_region_mdks>
+        <entityids>
+            <entityid>000425962_20130201161248</entityid>
+        </entityids>
+        <admreg>Middle East and North Africa,Middle East and North Africa</admreg>
+        <colti>Universal Health Coverage (UNICO) studies
+            series ; no. 4</colti>
+        <lang>English</lang>
+        <historic_topic>Public Sector Development,Health, Nutrition and Population</historic_topic>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            access to health services, access to
+            services, accountability mechanisms, administrative
+            efficiency, Adult mortality, Adult mortality rate,
+            affordable health care, aged, ambulatory care, beds,
+            Beneficiaries, capital investments, central government,
+            cities, Citizen, citizens, Civil Society Organizations,
+            clinics, communicable diseases, contraception, Contraceptive
+            prevalence, costs of health care, deaths, delivery
+            mechanisms, delivery system, demand for health, demand for
+            health care, demand for services, Dental care, Dependency
+            ratio, dependent children, developing countries, disability,
+            disparities in health, dissemination, Doctors, economic
+            transition, epidemic, Expenditures, Families,
+            fee-for-service, fertility, fertility rate, financial
+            management, financial protection, financial risks, General
+            Health System, gross domestic product, Health Care, health
+            care consumption, health care coverage, health care
+            delivery, health care providers, health care provision,
+            health care services, health care system, health centers,
+            health conditions, Health Coverage, Health Economics, health
+            expenditure, health facilities, health financing, health
+            information, health information system, health
+            infrastructure, health insurance, health insurance coverage,
+            Health Ministry, Health Organization, health outcomes,
+            health professionals, health sector, health service, health
+            service delivery, health services, health status, Health
+            System, health system performance, health systems, health
+            workers, health-system, healthcare services, Home care,
+            Hospital beds, Hospital budgets, hospital pharmacies,
+            hospital services, hospitalization, hospitals, Household
+            Expenditure, household size, household surveys, human
+            capital, ill health, immunization, immunizations, income,
+            income countries, income groups, inequities, infant, infant
+            health, infant mortality, Infant mortality rate, informal
+            payments, information systems, insurance coverage, insurance
+            premiums, lab tests, Labor Force, Life expectancy, Life
+            expectancy at birth, live births, living conditions, local
+            authorities, mandates, maternal mortality, Maternal
+            mortality rate, maternal mortality ratio, medical services,
+            medicines, midwives, Ministry of Health, morbidity,
+            mortality, national health, national health insurance,
+            national health insurance fund, Neonatal mortality, Nurses,
+            nursing, nursing care, outpatient services, patient,
+            patients, pensions, pharmacists, Physician, Physicians,
+            pocket payments, postnatal care, pregnant women, prenatal
+            care, preventive health services, primary care, primary
+            health care, private care, private clinics, private
+            insurance, Private Insurers, Private Pharmacies, private
+            sector, private services, private spending, programs,
+            provision of care, public expenditure, Public Funds, Public
+            Health, public health care, public health care services,
+            Public health expenditure, public health expenditures,
+            Public health services, public health spending, Public
+            Health Surveillance, public hospital, public hospital
+            services, public hospitals, public perceptions, Public
+            Providers, public provision, public service, public
+            services, Public spending, Quality assurance, quality of
+            health, quality of services, quality services, rate of
+            growth, referral system, regulatory framework, respect,
+            rural areas, safety net, safety nets, sanitation, sanitation
+            facilities, Skilled birth attendance, skilled personnel,
+            skills development, Social Affairs, Social exclusion, social
+            health insurance, social safety nets, Social Security,
+            social workers, socioeconomic status, specific incentives,
+            spouse, spouses, technical capacity, Transparency,
+            Tuberculosis, unemployment, universal access, urban areas,
+            urban development, user fees, Vulnerability, woman,
+            working-age population, World Health Organization
+        </keywd>
+        <owner>Health, Nutrition &amp; Popultn Team (HDNHE)</owner>
+        <geo_regions>
+            <geo_region>World</geo_region>
+            <geo_region>Europe, Middle East and North Africa</geo_region>
+            <geo_region>North Africa</geo_region>
+        </geo_regions>
+        <repnb>74997</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Economic Management</ml:concept><ml:concept>Macroeconomic Management</ml:concept><ml:concept>Macroeconomic Policy</ml:concept><ml:concept>Macroeconomics Policy</ml:concept><ml:concept>Macroeconomics and Economic Growth</ml:concept><ml:concept>Macroeconomics and Growth</ml:concept><ml:concept>Poverty Reduction</ml:concept><ml:concept>Poverty Reduction and Distributional Analysis</ml:concept><ml:concept>Poverty Reduction and Equity</ml:concept><ml:concept>Poverty and Inequality</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Social Protections and Labor</ml:concept><ml:concept>International Competitiveness</ml:concept><ml:concept>International Economics and Trade</ml:concept><ml:concept>Trade Liberalization</ml:concept><ml:concept>Trade Liberalization and Regional Integration</ml:concept><ml:concept>Trade Restrictiveness</ml:concept><ml:concept>Trade and Integration</ml:concept><ml:concept>City Development Strategies</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Agriculture and Food Security</ml:concept><ml:concept>Macroeconomic and Structural Policies</ml:concept><ml:concept>Health, Nutrition and Population</ml:concept><ml:concept>Poverty</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Social Protection and Labor</ml:concept><ml:concept>Trade</ml:concept><ml:concept>Urban Development</ml:concept><ml:concept>Health Monitoring and Evaluation</ml:concept><ml:concept>OOP</ml:concept><ml:concept>Out of Pocket Payments</ml:concept><ml:concept>Public Sector Expenditure Policy</ml:concept><ml:concept>Social Health Insurance</ml:concept><ml:concept>Delivery of Health Care</ml:concept><ml:concept>Health Care Delivery</ml:concept><ml:concept>Health Service Management and Delivery</ml:concept><ml:concept>Health Systems</ml:concept><ml:concept>Medical Supplies, Drugs</ml:concept><ml:concept>Pharmaceutical Industry</ml:concept><ml:concept>Safety Nets</ml:concept><ml:concept>Safety Nets and Transfers</ml:concept><ml:concept>Social Safety Nets</ml:concept><ml:concept>Targeting Methods</ml:concept><ml:concept>Targeting Practices</ml:concept><ml:concept>Targeting Strategies</ml:concept><ml:concept>Insurance &amp; Risk Mitigation</ml:concept><ml:concept>Payment Instruments</ml:concept><ml:concept>Payment Systems &amp; Infrastructure</ml:concept><ml:concept>Securities Settlement Systems</ml:concept><ml:concept>Settlement Systems</ml:concept><ml:concept>Demographics</ml:concept><ml:concept>Efficiency of Public Expenditures</ml:concept><ml:concept>Public Expenditures</ml:concept><ml:concept>Public Financial Management</ml:concept><ml:concept>Public Spending</ml:concept><ml:concept>Analysis &amp; Monitoring</ml:concept><ml:concept>Delivery Units</ml:concept><ml:concept>Grievance Redress</ml:concept><ml:concept>Indicators</ml:concept><ml:concept>M&amp;E</ml:concept><ml:concept>Performance Measurement</ml:concept><ml:concept>Performance Reviews</ml:concept><ml:concept>Rapid Results Approaches</ml:concept><ml:concept>Poverty Lines</ml:concept><ml:concept>Health Monitoring &amp; Evaluation</ml:concept><ml:concept>Consumption</ml:concept><ml:concept>Income</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Out of Pocket Spending</ml:concept><ml:concept>Expenditure Policy</ml:concept><ml:concept>Health Insurance</ml:concept><ml:concept>Public Health Insurance</ml:concept><ml:concept>Health Services Delivery</ml:concept><ml:concept>Primary Care</ml:concept><ml:concept>Pharmaceuticals</ml:concept><ml:concept>Social Assistance</ml:concept><ml:concept>Minimum Wages</ml:concept><ml:concept>Targeting Mechanisms</ml:concept><ml:concept>Infrastructure</ml:concept><ml:concept>Insurance</ml:concept><ml:concept>Payment Systems</ml:concept><ml:concept>Public Health</ml:concept><ml:concept>Population</ml:concept><ml:concept>Managing Public Finances</ml:concept><ml:concept>Monitoring and Evaluation</ml:concept><ml:concept>Access to Services</ml:concept></ml:concepts><ml:geo-regions><ml:geo-region>Africa</ml:geo-region><ml:geo-region>Tunisia</ml:geo-region></ml:geo-regions></ml:annotations></ml:doc-envelope>

@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>Viewpoint°&#13;
+The World Bank                                                                        October 1995&#13;
+Note No.60   Post-Privatization Performance-&#13;
+Regulating Telecommunications in the U.K.&#13;
+Testing for regulatory capture&#13;
+AntonyDnes       After privatizing British Telecom (BT) in 1984,  to subject newly privatized utilities to a regu-&#13;
+the British government privatized all other ma-  latory regime with two main elements. The re-&#13;
+jor utility industries in succession-gas in 1986,  gime was designed to substitute for competition&#13;
+water in 1989, and electricity in 1990. Debates   by encouraging the regulated firm to operate&#13;
+soon emerged about whether the benefits from   efficiently, and to promote competition when-&#13;
+privatization in these industries have been eq-   ever possible. The regulatory agencies adopted&#13;
+uitably distributed between shareholders and   price capping (rather than rate-of-return regu-&#13;
+consumers. This Note discusses the post-priva-  lation) to limit the exercise of monopoly power&#13;
+tization performance of BT, the longest-stand-   and simultaneously sought to stimulate entry.2&#13;
+ing privatized utility in the United Kingdom, to   This regime was based in part on the U.K.&#13;
+shed light on some of the problems of regulat-  government's view by the 1980s that technical&#13;
+ing privatized utilities. A recent event study of   advances (fiber optics, for example) had weak-&#13;
+BT suggests that regulation has checked mo-   ened traditional arguments for limiting entry&#13;
+nopoly power and that the impact of the   in industries once thought to be natural mo-&#13;
+regulator's decisions has been heterogenous-   nopolies. Even in utility industries still thought&#13;
+with some decisions favoring consumers, some   to be natural monopolies (for example, gas dis-&#13;
+favoring BT, and some favoring BT's competi-  tribution) because of the cost advantages of&#13;
+tors. This event analysis could usefully be ex-   having just one firm operate, the government&#13;
+tended to the other utilities, which were   came to believe that the cost control discipline&#13;
+privatized on different terms and are subject to   exerted by competition would produce net ben-&#13;
+different regulatory packages.            efits. Therefore, a key feature of post-privati-&#13;
+zation regulation has been the regulatory&#13;
+The problem of utility privatization      agencies' assumption of antitrust responsibili-&#13;
+ties. The Office of Telecommunications Regu-&#13;
+Nationalized utilities invariably operate with little  lation (Oftel), the Office of Electricity Regulation&#13;
+or no competition, as many are natural monopo-  (Offer), the Office of Gas Regulation (Ofgas),&#13;
+lies or perhaps natural oligopolies. Competition,   and the Office of Water Regulation (Ofwat) all&#13;
+where it is possible, cannot emerge until a pri-  have responsibility for encouraging competi-&#13;
+vate market has been created. A privatizing gov-  tion in their industry.3&#13;
+ernment therefore is immediately subject to the&#13;
+criticism that it is creating private monopolies-   There is at least some evidence that post-priva-&#13;
+especially when newly privatized utilities have   tization regulation has checked monopoly&#13;
+to rebalance their charges-raising some and   power. A series of decisions to open utility mar-&#13;
+lowering others-to remove the inherited cross-  kets to competition gave the regulatory bodies&#13;
+subsidies that are a major financial liability.'  a distinctly pro-competitive look. A notable&#13;
+early example of this pro-competitive stance&#13;
+With these hurdles in mind, the U.K. govern-   was the October 1985 decision to grant BT's&#13;
+ment decided early in the privatization process   only serious competitor, Mercury Communica-&#13;
+kEg fia          Private Sector Development Department . Vice Presidency for Finance and Private Sector Development&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+Post-Privatization Performance-Regulating Telecommunications in the U.K.&#13;
+tions (a wholly owned subsidiary of Cable and   tial referee working to maximize the value of&#13;
+Wireless), the right to interconnect with BT's  total output. This view tends to be regarded as&#13;
+local networks at advantageous access prices.   naive by economists working on regulatory top-&#13;
+Comparable rulings from Ofgas have allowed   ics, who often expect to find evidence of cap-&#13;
+entrants to compete in the supply of domestic  ture or of regulation working as a tax and&#13;
+and industrial gas. The impact of post-privati-   subsidy arrangement.&#13;
+zation regulation has not been uniform, how-&#13;
+ever. For example, BT benefited from the   Testing for capture&#13;
+duopoly policy that limited its potential com-&#13;
+petitors to Mercury until 1990. And Oftel's plans   One way to test whether a regulatory package&#13;
+to open the U.K. telecoms market (in practice,   has been captured is to compare the stock mar-&#13;
+to U.S. cable operators) were not as tough as   ket returns for a regulated company or group&#13;
+BT had feared.                               of companies over a long period with the re-&#13;
+turns for a comparable sample of firms not af-&#13;
+A recent detailed study of the post-privatiza-   fected by the regulation. Abnormally high returns&#13;
+tion period assessed the overall effect of regu-   could indicate capture by the regulated indus-&#13;
+latory events in U.K. telecoms.4 This study is  try if they can be associated statistically with&#13;
+outlined below.                              changes in the regulatory environment (regula-&#13;
+tory events). Lower-level capture would be re-&#13;
+Regulatory capture                           flected in an association between returns and&#13;
+and the public interest                      individual regulatory events. A cumulative ef-&#13;
+fect from all the regulatory events is consistent&#13;
+Theories of regulation may be broken down   with top-level capture (bear in mind that some&#13;
+into public interest and private interest ap-   events will have a positive effect, and some&#13;
+proaches.5 There is also a mixed view,6 which   negative). Standard statistical techniques exist&#13;
+argues that regulation should be seen in pub-   for testing for association between regulatory&#13;
+lic finance terms as benefiting some groups at   events and abnormal returns while controlling&#13;
+the expense of others. Among the private in-   for the effect of other possible influences.8&#13;
+terest approaches is the capture hypothesis,&#13;
+associated with the work of the late George   Data&#13;
+Stigler.' This hypothesis is now generally un-&#13;
+derstood as arguing that it is in the private   Event data for BT are available from the ar-&#13;
+interest of a vote-maximizing government to   chives of the Financial Times or Wall Street&#13;
+allow regulatory programs to reflect the inter-  Journal for the period 1984-94. A basic event&#13;
+ests of powerful electoral groups. A particular   diary includes both regulatory and non-&#13;
+concern is that firms in a regulated industry   regulatory events. An important nonregulatory&#13;
+will influence the regulatory environment in   event that affected all quoted companies was&#13;
+their favor-or capture the regulatory process.  the perturbation in stock markets in October&#13;
+This capture may occur in the legislature (top-   1987. Data on the daily share prices for a com-&#13;
+level capture), as policy is formulated and leg-   pany are most conveniently drawn from a com-&#13;
+islation passed, or in the regulatory agency and   mercial service such as Datastream. An event&#13;
+the ministerial decisionmaking (lower-level   study also needs an index of normal market&#13;
+capture), as regulatory decisions are made af-  returns for comparison, which in the United&#13;
+ter the regulation is in place.              Kingdom is usually based on a market index&#13;
+such as the Financial Times Stock Exchange&#13;
+The private interest view is often contrasted   Index of 100 leading firms (FTSE-100).9 The&#13;
+with the public interest approach that emerges   technique, which may involve measuring thou-&#13;
+from traditional welfare economics. The pub-   sands of changes in share prices for each com-&#13;
+lic interest view sees government as an impar-   pany, has heavy data requirements.&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+The use of a market index based on the FTSE-   charges for Mercury, showed up as a robust&#13;
+100 (but excluding utility companies) implies   negative effect on BT's returns. Another signifi-&#13;
+that BT is in a risk class similar to that of blue-   cant result that accords with expectations re-&#13;
+chip companies. That is in fact a reasonable as-   lates to the ending of the duopoly policy in 1990.&#13;
+sumption if utilities' lower risk is linked to their   Although it was always known that this policy&#13;
+monopoly status and, ultimately, to regulatory   would end, press reports that its end was immi-&#13;
+tolerance of their situation. In explaining utili-   nent in the period just before publication by&#13;
+ties' low risk, their monopoly status should be   the U.K. government of a consultative paper,&#13;
+emphasized rather than the fact that they sup-   "Competition and Choice," produced a signifi-&#13;
+ply necessities: after all, food retailers also sup-   cant negative effect. The publication of the pa-&#13;
+ply necessities, but their returns in the United    per in 1990 produced a robustly significant&#13;
+Kingdom have been anything but stable since   positive effect on BT's returns that can be inter-&#13;
+they entered into a competitive price war a few    preted as reflecting the removal of uncertainty.&#13;
+years ago. The use of the FTSE-100 allows iso-   Similar relief among investors may explain the&#13;
+lation of abnormally high returns (or, indeed,   robust positive effects on BT's returns stemming&#13;
+any reduction in the variance of returns) for   from Oftel's decision at the end of 1988 to re-&#13;
+utilities attributable to their monopoly status.  solve a lingering dispute over the nonprice terms&#13;
+for interconnecting Mercury. Investors also ap-&#13;
+Results                                        pear to have been reassured by the outcome of&#13;
+the August 1992 negotiations between BT and&#13;
+In the event study of BT's post-privatization    Oftel, which led to a decision not to refer BT to&#13;
+performance, the company's average daily re-   the Monopolies and Mergers Commission&#13;
+turns turned out not to be significantly higher   (MMC), the entity responsible for applying many&#13;
+than the market index, ruling out top-level cap-   aspects of U.K. antitrust law-even though the&#13;
+ture. The results do not, of course, rule out the    decision was also associated with proposals to&#13;
+possibility that BT had attempted such capture,   tighten the price cap.&#13;
+wasting resources in the process.&#13;
+The decisions to liberalize private networks and&#13;
+Regulation may go through a life cycle, how-   to license new mobile services (including Mer-&#13;
+ever, and can become lower-level captured "in   cury) in mid-1989 and the publication of an-&#13;
+action" over time. Individual events or groups   other consultative document taking a tough line&#13;
+of events may favor industry interests, creating    on price controls in 1992 all appear to have&#13;
+short-term abnormal returns, even if abnormal   had a negative impact on BT's returns. These&#13;
+returns do not show up for the full period un-   events can all be reasonably regarded as regu-&#13;
+der examination. The event study for BT there-   latory moves that oppose BT's commercial in-&#13;
+fore also examined the effects of particular   terests. Another event that could be added to&#13;
+regulatory events by isolating the impact of min-   this list is the February 1988 decision to relax&#13;
+isterial and Oftel decisions during 1984-94. The   the rules on entry into satellite services, which&#13;
+event study showed few statistically significant   favored competition from U.S. sources and had&#13;
+regulatory events affecting BT over the post-   a negative effect. But it occurred too close to&#13;
+privatization period: of seventy-five identifiable   an event that followed to allow reliable infer-&#13;
+regulatory events, only twelve were signifi-   ences to be drawn.&#13;
+cant.'0 Furthermore, within this group of sig-&#13;
+nificant regulatory events, some were more   At least two pro-competitive decisions appear&#13;
+robustly significant than others (as measured   to have had a significant positive effect on BT's&#13;
+by standard statistical tests).                returns. These are the decisions to suspend the&#13;
+monopoly on installation approval (January&#13;
+Reassuringly, Oftel's interconnection ruling in   1987) and to open the market to more competi-&#13;
+October 1985, which set low interconnection   tion (October 1993). Another potentially posi-&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+Post-Privatization Performance-Regulating Telecommunications in the U.K.&#13;
+tive event is the 1988 decision to open compe-                     tory function effectively and avoided capture.&#13;
+tition  in  specific services, although  this event                Although precise statistical tests need to be car-&#13;
+also  is too  close to  another to  allow  reliable                ried out for gas, water, and electricity,12 press&#13;
+inferences to be drawn. At first sight, these posi-                reports suggest that a heterogeneous pattern&#13;
+tive  effects are counterintuitive. But investors                  of regulatory  effects also  characterizes these&#13;
+may believe that creating a generally competi-                     utility  industries. Thus, the  post-privatization&#13;
+tive environment forces BT to become cost-effi-                    performance of utilities in the United Kingdom&#13;
+cient and ultimately improves its profitability.                   shows how  decentralized regulation, based on&#13;
+price capping and promotion of competition,&#13;
+The event study of BT also revealed some "dogs                     can prevent privatized utilities from  becoming&#13;
+that failed to bark.1' Threats by Oftel to exam-                   private monopolies.&#13;
+ine BT's prices or to refer BT to the MMC over&#13;
+pricing  issues appear to  have had  no  impact                    Illustration by Ruth Sofair Ketler.&#13;
+on BT's returns. These threats usually resulted                      C Cross-subsidycannotbe justifiedbysocial-welfareeconomic analy-&#13;
+in negotiated settlements, which sometimes had                       sis either. See D. Swann, The Retreat of the State (Harvester&#13;
+significant positive effects on BT's returns. This                 2 Wheatsleaf, 1989).&#13;
+M.E. Beesley and S.C. Littlechild, 'The Regulation of Privatized&#13;
+outcome  is consistent with  the  view  that BT                      Monopolies in the UK," RAND Journal of Economics 20: 456-72,&#13;
+has earned normal market returns and with fi-                         1989.&#13;
+nancial market expectations that BT will face                        SeejohnMooie, "The Success of Privatization" inJohn Kay, Colin&#13;
+-Mayer, and David Thompson, eds., Privatization and Regulation-&#13;
+such scrutiny. Announced revisions of the price                       The UK Experience (Oxford: Oxford University Press, 1986. John&#13;
+cap had no significant impact on BT's returns,                       Moore was financial secretary to the Treasury in the early Thatcher&#13;
+probably  because  financial markets fully  an-                      government.&#13;
+A.W. Dnes and J.S. Seaton, "The Regulation of British Telecom:&#13;
+ticipate changes that hold BT to a normal mar-                       An Event Study," Discussion Paper, The Nottingham Trent Univer-&#13;
+ket return. Although  not strictly  regulatory                       sity, Department of Economics, Nottingham, March 1995.&#13;
+events, the commencement of share trading fol-                       See T. Weyman-Jones, "Deregulation," in P.M. Jackson and CM.&#13;
+Price, eds., Privatization and Regulation (New York: Longman,&#13;
+This series is published   lowing  the  BTI, BT2, and  BT3  share  offers                        1994).&#13;
+to share ideas and invite    between 1984 and 1993 had no significant im-                     6 See R. Posner, "Taxation by Regulation," BellJournal of Econom-&#13;
+discussion. It covers                                                                           ics 5: 22-51, 1974.&#13;
+financial and private      pact on returns.                                                   7 G. Stigler, "The Theory of Economic Regulation," BellJournal of&#13;
+sector development as                                                                            Economicsandsl anagementScience2: 137-46, 1971.&#13;
+well as industry and       Conclusions                                                        8 See Dnes and Seaton, "The Regulation of British Telecom."&#13;
+energy. The views                                                                               The analyst must exclude the companies in the event sample from&#13;
+expressed are those of                                                                          the market index.&#13;
+the authors and are not    BT  seems to  have  earned  normal market re-                      to Sign/ifcance refers to statistical significance (that is, the associa-&#13;
+intended to represent      turns for the most part and thus does not ap-                         tion could not have been generated by chance). SimilarLy, ro-&#13;
+an official statement of             h                                                           bustlysignificantmeans thatthesignificance is maintainedthrough-&#13;
+Bank policy or strategy.   pear to have captured the regulatory process.                        out different formulations of the economic model used in the&#13;
+There were no individual events suggesting the                       event study.&#13;
+Comments are welcome.    early capitalization into share prices of antici-                    " "Is there any other point to which you would wish to draw my&#13;
+Please call the FPD                                                                             attention.5"&#13;
+Note line to leave a       pated future abnormal returns. And a detailed                         "To the curious incident of the dog in the night-time."&#13;
+message (202-458-1111)     review  of regulatory events revealed no clear                        "The dog did nothing in the night-time."&#13;
+or contact Suzanne         pattern favoring or opposing BT's commercial                          "That was the curious incident," remarked Sherlock Holmes. (Sil-&#13;
+Smith, editor, Room                                                                              ver Blaze, from the Vemoirs of Sherlock Holmes, by Sir Arthur&#13;
+G8105, The World Bank,     interests. Moreover, since  BT  has  not been                         Conan Doyle, 1892)&#13;
+1818 H Street, NW,         pushed below  a normal market return, there is                       Work is being carded out by economists at the University of Ox-&#13;
+Washington, D.C. 20433,    no evidence of capture by consumer interests.                         ford on a recent tightening of the electricity price cap. And econo-&#13;
+osmith7eworldhank.org.    Instead, the regulatory pattern of events is het-                      mists, including the author, based at the Nottingham Trent Uni-&#13;
+ssmith7~~~~~~~~~worldban ~~~~~~~~~versity and Loughborough University of Technology are carrying&#13;
+erogeneous, with  some  events favoring  BT,                         out studies of the post-privatization performance of all the&#13;
+SPrinted on recycled       some  favoring  its competitor, Mercury, and                          privatized utilities.&#13;
+paper.                     some favoring consumers.&#13;
+Antony W Dnes, Professor of Economics, The&#13;
+The event study of British Telecom  therefore                      Nottingham  Trent University, Nottingham,&#13;
+suggests that Oftel has carried  out its regula-                   England (email: EPA3Dnesaw@ntu.ac.uk)&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+</ml:original-txt><ml:search-metadata><doc id="696999">
+        <url>
+            http://documents.worldbank.org/curated/en/1995/10/696999/post-privatization-performance-regulating-telecommunications-uk-testing-regulatory-capture
+        </url>
+        <availablein>English</availablein>
+        <virt_coll>Knowledge Notes</virt_coll>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/1995/10/696999/post-privatization-performance-regulating-telecommunications-uk-testing-regulatory-capture</url_friendly_title>
+        <new_url>1995/10/696999/post-privatization-performance-regulating-telecommunications-uk-testing-regulatory-capture</new_url>
+        <disclosure_date>2010-07-01T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2010-07-01T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/1995/10/01/000009265_3980420172817/Rendered/INDEX/multi_page.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/1995/10/01/000009265_3980420172817/Rendered/PDF/multi_page.pdf</pdfurl>
+        <datestored>1995-10-01T00:00:00Z</datestored>
+        <docdt>1995-10-31T00:00:00Z</docdt>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            Post-privatization performance - regulating
+            telecommunications in the UK : testing for regulatory capture
+        </repnme>
+        <abstracts>
+            Privatized in 1984, British
+            Telecommunications (BT) is the longest-standing privatized
+            utility in the United Kingdom.  Comparing BT's stock
+            market returns over a long period with returns for a
+            comparable sample of firms not affected by regulation, the
+            author assesses whether the new telecommunications
+            regulatory regime has been "captured" (unduly
+            influenced) by consumer groups, BT, or BT's competitor.
+            He concludes that some regulatory decisions have favored
+            consumers, some have accommodated BT, and some have favored
+            BT's competitor and that, overall, the regulatory
+            regime has checked monopoly power.
+        </abstracts>
+        <docna>
+            Post-privatization performance - regulating
+            telecommunications in the UK : testing for regulatory capture
+        </docna>
+        <display_title>Post-privatization performance -
+            regulating telecommunications in the UK : testing for
+            regulatory capture</display_title>
+        <listing_relative_url>/research/1995/10/696999/post-privatization-performance-regulating-telecommunications-uk-testing-regulatory-capture</listing_relative_url>
+        <docty>Viewpoint</docty>
+        <subtopic>Insurance &amp; Risk Mitigation,Administrative &amp; Regulatory Law,Economic Theory &amp; Research,Public Sector Economics,Environmental Economics &amp; Policies</subtopic>
+        <teratopic>Finance and Financial Sector Development,Environment,Law and Development,Public Sector Development,Macroeconomics and Economic Growth</teratopic>
+        <count>United Kingdom</count>
+        <authors>
+            <author>Dnes, Antony</author>
+        </authors>
+        <geo_region_mdks>
+            <geo_region_mdk>World!$!80475</geo_region_mdk>
+            <geo_region_mdk>Europe!$!80461</geo_region_mdk>
+        </geo_region_mdks>
+        <entityids>
+            <entityid>000009265_3980420172817</entityid>
+        </entityids>
+        <subsc>Telecommunications &amp; Informatics</subsc>
+        <admreg>Europe and Central Asia,Europe and Central Asia</admreg>
+        <colti>Public policy for the private sector ; Note
+            no. 60</colti>
+        <lang>English</lang>
+        <historic_topic>Finance and Financial Sector Development,Environment,Law and Development,Public Sector Development,Macroeconomics and Economic Growth</historic_topic>
+        <sectr>Information and communications</sectr>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            Denationalization; Monopolies; Market
+            competition; Market returns; Private interest; Public
+            interest; Regulatory agency; Telecommunications
+            antitrust,antitrust law,consumer
+            interests,consumers,decisionmaking,Deregulation,duopoly,Economic
+            Regulation,economists,electricity,Mergers,monopoly,monopoly
+            power,natural monopolies,oligopolies,positive effects,price
+            controls,Private Sector,regulator,regulatory
+            agencies,regulatory agency,regulatory bodies,regulatory
+            capture,regulatory environment,regulatory process,regulatory
+            programs,tax,Taxation,telecommunications,total
+            output,Treasury,utilities,welfare economics
+        </keywd>
+        <owner>Off of VP, FPD - WB (FPDVP)</owner>
+        <geo_regions>
+            <geo_region>World</geo_region>
+            <geo_region>Europe</geo_region>
+        </geo_regions>
+        <repnb>16920</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>ICT</ml:concept><ml:concept>ICT for Development</ml:concept><ml:concept>Information Technology</ml:concept><ml:concept>Information and Communication Technologies (ICT)</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Economic Management</ml:concept><ml:concept>Macroeconomic Management</ml:concept><ml:concept>Macroeconomic Policy</ml:concept><ml:concept>Macroeconomics Policy</ml:concept><ml:concept>Macroeconomics and Economic Growth</ml:concept><ml:concept>Macroeconomics and Growth</ml:concept><ml:concept>Teaching and Learning</ml:concept><ml:concept>Poverty Reduction</ml:concept><ml:concept>Poverty Reduction and Distributional Analysis</ml:concept><ml:concept>Poverty Reduction and Equity</ml:concept><ml:concept>Poverty and Inequality</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>International Competitiveness</ml:concept><ml:concept>International Economics and Trade</ml:concept><ml:concept>Trade Liberalization</ml:concept><ml:concept>Trade Liberalization and Regional Integration</ml:concept><ml:concept>Trade Restrictiveness</ml:concept><ml:concept>Trade and Integration</ml:concept><ml:concept>Information and Communication Technologies</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Agriculture and Food Security</ml:concept><ml:concept>Macroeconomic and Structural Policies</ml:concept><ml:concept>Education</ml:concept><ml:concept>Poverty</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Trade</ml:concept><ml:concept>Antitrust Law</ml:concept><ml:concept>Mergers Law</ml:concept><ml:concept>Denationalization</ml:concept><ml:concept>Deregulation</ml:concept><ml:concept>Destatization</ml:concept><ml:concept>Divestiture of Ownership</ml:concept><ml:concept>Infrastructure and Networks (National; State; Local)</ml:concept><ml:concept>Telecommunication and Network Services</ml:concept><ml:concept>Telecommunications</ml:concept><ml:concept>Insurance &amp; Risk Mitigation</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Competition Law</ml:concept><ml:concept>Treasury</ml:concept><ml:concept>Taxation</ml:concept><ml:concept>Privatization</ml:concept><ml:concept>Examinations</ml:concept><ml:concept>Subsidies</ml:concept><ml:concept>Price Controls</ml:concept><ml:concept>Price Controls </ml:concept><ml:concept>Satellites</ml:concept><ml:concept>Telecommunications and Broadband Access</ml:concept><ml:concept>Insurance</ml:concept><ml:concept>Negotiation</ml:concept></ml:concepts><ml:geo-regions><ml:geo-region>Asia</ml:geo-region><ml:geo-region>Europe</ml:geo-region><ml:geo-region>Central Asia</ml:geo-region><ml:geo-region>United Kingdom</ml:geo-region></ml:geo-regions></ml:annotations></ml:doc-envelope>

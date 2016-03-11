@@ -1,0 +1,847 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>                                               101562&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Poland: Skilling up&#13;
+the next generation&#13;
+An analysis of Polandâ&#128;&#153;s performance in the&#13;
+Program for International Student Assessment&#13;
+&amp;#12;Poland: Skilling up&#13;
+the next generation&#13;
+An analysis of Polandâ&#128;&#153;s performance in the&#13;
+Program for International Student Assessment&#13;
+&amp;#12;Contents                                                                                                                                                                       Figure 11. PISA scores in mathema cs improved between 2000 and 2012 across every ESCS percen le........... 27&#13;
+Acknowledgments .................................................................................................................................................. 6           Figure 12. Improvements in performance and ESCS in Polish schools between 2000 and 2012 ......................... 28&#13;
+Abbrevia ons and Acronyms.................................................................................................................................. 6                  Figure 13: Between-school variance in mathema cs performance is limited in Poland ...................................... 29&#13;
+Execu ve Summary ................................................................................................................................................ 7            Figure 14: Stra ï¬&#129;ca on in the educa on system according to PISA 2012 scores ................................................ 30&#13;
+1. Why Skills Ma er for Poland ............................................................................................................................ 11                 Figure 15. Index of equality of opportuni es: Poland and other countries, 2012 ............................................... 31&#13;
+The importance of cogni ve skills ........................................................................................................................ 13                  Figure 16. PISA 2012 score gaps by loca on and gender, Poland and comparator countries .............................. 32&#13;
+Polandâ&#128;&#153;s educa on system ................................................................................................................................... 16&#13;
+2. Cogni ve Skills of Polish 15-year-old Students ................................................................................................. 19                         Tables&#13;
+Snapshot of Polandâ&#128;&#153;s performance in PISA........................................................................................................... 20                         Table 1: Three waves of reform in Polandâ&#128;&#153;s general educa on system ................................................................ 23&#13;
+Performance and equity ....................................................................................................................................... 26              Table A1: Percent of popula on aged 15+ by highest level of schooling a ained and average years&#13;
+                                                                                                                                                                               of schooling in Poland, 1990-2010 ....................................................................................................................... 40&#13;
+3. Policy Implica ons: Remaining Challenges in the Polish Educa on System ..................................................... 33&#13;
+Addressing performance gaps in upper-secondary educa on ............................................................................. 34&#13;
+Improving problem-solving skills .......................................................................................................................... 34&#13;
+Promo ng equity.................................................................................................................................................. 35&#13;
+References ............................................................................................................................................................ 37&#13;
+Annex ................................................................................................................................................................... 37&#13;
+&#13;
+&#13;
+Boxes&#13;
+Box 1: Reforms to the Polish general educa on system since the 1990s ............................................................. 18&#13;
+Box 2: Digging deeper: Performance in mathema cs .......................................................................................... 26&#13;
+Box 3: PISAâ&#128;&#153;s Index of Economic, Social, and Cultural Status ................................................................................ 27&#13;
+&#13;
+&#13;
+Figures&#13;
+Figure 1. Polandâ&#128;&#153;s income convergence, 1995 - 2013: A sizeable catch-up but s ll a long way to go .................. 12&#13;
+Figure 2. Three dimensions of skills ..................................................................................................................... 14&#13;
+Figure 3. A growing intensity of use of non-rou ne cogni ve and interpersonal skills in Poland ........................ 15&#13;
+Figure 4. The Polish educa on system before and a er the 1999 reform ........................................................... 17&#13;
+Figure 5. Polandâ&#128;&#153;s PISA 2012 scores were above OECD averages and most neighboring countries ..................... 20&#13;
+Figure 6. Polandâ&#128;&#153;s PISA performance by discipline, 2000-12 ................................................................................ 21&#13;
+Figure 7. Distribu on of students by proï¬&#129;ciency level in math: (a) Polandâ&#128;&#153;s progress in 2000-2012; (b)&#13;
+Poland and comparators in 2012.......................................................................................................................... 22&#13;
+Figure 8. PISA scores in mathema cs by public expenditures per student,&#13;
+Poland and other PISA countries .......................................................................................................................... 23&#13;
+Figure 9. Problem-solving scores and comparison with mathema cs scores (PISA 2012) ................................... 24&#13;
+Figure 10. Polandâ&#128;&#153;s PISA 2012 performance on mathema cs subscales compared to the&#13;
+average mathema cs performance...................................................................................................................... 25&#13;
+&amp;#12;Acknowledgments&#13;
+This report was prepared by a World Bank team consis ng of Chris an Bodewig, Lucas Gortazar, Ka a Herrera&#13;
+Sosa, Daniel Kutner, Jeremie Amoroso and Mar n Moreno under the overall guidance of Mamta Murthi, Country&#13;
+Director, Central Europe and the Bal cs, Marina Wes, Country Manager for Poland and Cris an Aedo, Educa on&#13;
+Global Prac ce Manager. The report beneï¬&#129;ted from comments from peer reviewer Harry Patrinos and from&#13;
+Zbigniew SawiÅ&#132;ski, MichaÅ&#130; Sitek and Jerzy WiÅ&#155;niewski. Marc De Francis edited the report.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Abbrevia ons and Acronyms&#13;
+ESCS           Economic, Social, and Cultural Status&#13;
+                                                                                                             Executive&#13;
+ECA&#13;
+ECE&#13;
+EU&#13;
+GDP&#13;
+OECD&#13;
+               Europe and Central Asia&#13;
+               Early childhood educa on&#13;
+               European Union&#13;
+               Gross domes c product&#13;
+               Organisa on for Economic Co-opera on and Development&#13;
+                                                                                                             Summary&#13;
+OLS            Ordinary least squares&#13;
+PIAAC          Program for the Interna onal Assessment of Adult Competencies&#13;
+PIRLS          Progress in Interna onal Reading Literacy Study&#13;
+PISA           Programme for Interna onal Student Assessment&#13;
+RIF            Re-centered inï¬&#130;uence func ons&#13;
+TIMSS          Trends in Interna onal Mathema cs and Science Study&#13;
+UN             United Na ons&#13;
+UNESCO         United Na ons Educa onal, Scien ï¬&#129;c and Cultural Organiza on&#13;
+VET            Voca onal educa on and training&#13;
+&amp;#12;page 8                                                                                                                                                                                                                        page 9&#13;
+&#13;
+Executive Summary                                                                                                    15-year-olds prior to the 1999 reform persist today in upper secondary educa on, where the performance of&#13;
+Facing the prospects of rapid demographic aging and decline over the coming decades, Poland needs a highly           students in voca onal upper-secondary schools trails that of their peers in general educa on. Moreover, Polandâ&#128;&#153;s&#13;
+skilled workforce to help generate the produc vity growth that it needs to fuel con nued convergence of its living   performance in problem solving in the 2012 PISA was well below the OECD average. Lastly, equity remains an issue&#13;
+standards with those of its West European neighbors.                                                                 in need of further a en on: The diï¬&#128;erence in mathema cs performance between the top and bo om quin les&#13;
+                                                                                                                     are the equivalent of nearly three years of schooling â&#128;&#147; a wider gap than the OECD average and much wider&#13;
+Skilling up the workforce starts with equipping youth with the right cogni ve and socio-emo onal founda on           than in other top-performing countries such as Japan and Korea. While Polandâ&#128;&#153;s school system today is not very&#13;
+skills. Interna onal research has iden ï¬&#129;ed three dimensions of skills that ma er for good employment outcomes        stra ï¬&#129;ed according to the socioeconomic background of its students, socioeconomic background s ll ma ers for&#13;
+and economic growth: cogni ve skills, such as literacy, numeracy, and crea ve and cri cal thinking or problem-       performance.&#13;
+solving; socio-emo onal skills and behavioral traits, such as conscien ousness, grit, and openness to experience;&#13;
+and job- or occupa on-speciï¬&#129;c technical skills, such as the ability to work as an engineer. Cogni ve and socio-&#13;
+emo onal skill forma on starts early in a personâ&#128;&#153;s life. Good cogni ve and socio-emo onal skills provide a&#13;
+necessary founda on for the subsequent acquisi on of technical skills. Put diï¬&#128;erently, poor literacy and numeracy&#13;
+skills severely undermine a personâ&#128;&#153;s ability to beneï¬&#129;t from further training and lifelong learning.&#13;
+&#13;
+An impressive transforma on in cogni ve skills has occurred among youth in Poland. This report focuses on&#13;
+cogni ve skills. It examines results for Poland from the Program for Interna onal Student Assessment (PISA), which&#13;
+assesses the mathema cs, reading, and science competencies of 15-year-olds. The ï¬&#129;ndings point to an impressive&#13;
+transforma on in the cogni ve skill set of the youth in Poland between 2000 and 2012. Poland raised its scores in&#13;
+mathema cs, reading, and science to the equivalent of what students would have learned in one addi onal year of&#13;
+schooling. Its PISA scores are now above the OECD average and at the same levels as in countries such as Finland&#13;
+and Germany.&#13;
+&#13;
+Aggregate gains in quality have gone hand in hand with improvements in educa onal equity. Poland has seen&#13;
+an increase in the propor on of its students at the top performance level, and the share of its students who are&#13;
+poor performers has declined. Students from poor and well-oï¬&#128; socioeconomic backgrounds alike saw performance&#13;
+improvements. All this has been achieved with stable levels of educa on spending, at about 5 percent of GDP and&#13;
+below the OECD average.&#13;
+&#13;
+The overall eï¬&#128;ects of reform on Polandâ&#128;&#153;s PISA scores has been posi ve, although isola ng the precise impact of&#13;
+each reform element is diï¬&#131;cult. Given the many educa on (and non-educa on) reforms in Poland since the early&#13;
+1990s, it is diï¬&#131;cult to isolate the eï¬&#128;ects of each element of reform on Polandâ&#128;&#153;s PISA results. The overall eï¬&#128;ects&#13;
+are clearly posi ve. In addi on to changes in the accountability arrangements with a strengthening of the role of&#13;
+local governments and the introduc on of standardized examina ons, the Polish authori es introduced a change&#13;
+to the structure of the educa on system in 1999, which delayed selec on between general and voca onal tracks&#13;
+and eï¬&#128;ec vely added one year of exposure to general curriculum content. Taking eï¬&#128;ect a er the ï¬&#129;rst PISA test in&#13;
+2000, when Poland performed rela vely poorly, this change has been rigorously evaluated and shown to have had&#13;
+a signiï¬&#129;cant posi ve eï¬&#128;ect on performance.&#13;
+&#13;
+Despite the many successes, some challenges remain, par cularly regarding problem-solving skills and equity in&#13;
+achievement. There is evidence from PISA assessments replicated for older students in upper-secondary educa on&#13;
+in 2006, 2009 and 2012 that performance gaps previously found between voca onal and general schools for&#13;
+&amp;#12;                               page 11&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Chapter 1&#13;
+Why Skills Matter for Poland&#13;
+&amp;#12;page 12                                                                                                                                                                                                                                                             page 13&#13;
+&#13;
+1. Why Skills Matter for Poland                                                                                        But what about skills? This report places a spotlight on the next genera on and examines whether Polandâ&#128;&#153;s&#13;
+How can Poland achieve convergence in living standards with its Western European neighbors when its                    youth are leaving the compulsory educa on system with the right set of skills needed for further educa on and&#13;
+popula on is aging and shrinking? Polandâ&#128;&#153;s income growth over the last two decades has been remarkable, but            training and for produc ve employment. It ï¬&#129;nds that Poland has made major strides in raising the skills of the next&#13;
+the country s ll has a long way to go to catch up with the living standards of its EU15 neighbors. In 1995, Polandâ&#128;&#153;s   genera on and to prepare them for the demands of a growing and changing economy.&#13;
+GDP per capita stood at about 37 percent of the EU15 average, and by 2013 it had risen to 66 percent (Figure 1).&#13;
+Looking ahead, Polandâ&#128;&#153;s long-term economic growth prospects are put at risk by demographic change: According           The importance of cognitive skills&#13;
+to United Na ons projec ons, the working-age (ages 15 to 64) share of the popula on is expected to fall from 69.5      Interna onal evidence shows how much the skills of a countryâ&#128;&#153;s workforce ma er for economic growth&#13;
+percent in 2015 to 57 percent by 2050. In contrast, the share of the popula on 65 and above will increase from         and shared prosperity. Interna onal evidence suggests that quality of educa on is one of the most important&#13;
+15.3 percent in 2015 to 29 percent by 2050.1 With fewer workers and more old-age dependents, labor produc vity         determinants of long-term economic growth.2 Recent research (Hanushek and Woessmann, 2007 and 2012),&#13;
+improvements will be key to sustained economic growth.                                                                 drawing on student assessment surveys from 1960 onward, es mates that an improvement of 50 points in scores&#13;
+                                                                                                                       on the Organisa on for Economic Co-opera on and Developmentâ&#128;&#153;s (OECDâ&#128;&#153;s) Program for Interna onal Student&#13;
+Figure 1. Polandâ&#128;&#153;s income convergence, 1995 - 2013: A sizeable catch-up but s ll a long way to go&#13;
+                                                                                                                       Assessment (PISA) would imply an increase of 1 percentage point in the annual growth rate of GDP per capita.3&#13;
+&#13;
+                                                                                                                       Both the share of students achieving basic literacy and the share of top-performing students ma er for&#13;
+                                                                                                                       growth (Hanushek and Woessmann, 2007; OECD, 2010). A recent OECD (2015) report presents economic returns&#13;
+                                                                                                                       to universal basic skills, deï¬&#129;ned as all students achieving level 1 skills (420 points) in PISA. While low-income&#13;
+                                                                                                                       countries with lagging educa on systems stand to gain the most, advanced middle- and high-income countries&#13;
+                                                                                                                       can expect a signiï¬&#129;cant boost to long-run economic growth simply by making their educa on systems deliver&#13;
+                                                                                                                       be er for the weakest students: The report ï¬&#129;nds that on average, high-income countries could gain a 3.5 percent&#13;
+                                                                                                                       higher discounted average GDP over the next 80 years if they were to ensure that all students achieved basic skills&#13;
+                                                                                                                       (as deï¬&#129;ned above). As will be presented in this report, a declining yet s ll signiï¬&#129;cant share of Polish 15-year-olds&#13;
+                                                                                                                       currently perform poorly in PISA. Ensuring universal basic skills in Poland could add 2 percent discounted future&#13;
+                                                                                                                       GDP.&#13;
+&#13;
+                                                                                                                       Ensuring basic cogni ve skills for all also helps to make growth inclusive. Beyond aggregate economic growth,&#13;
+                                                                                                                       educa on improves the living standards of individuals. With more educa on people are able to acquire more and&#13;
+                                                                                                                       higher-order skills, making them more produc ve and employable and extending their labor market par cipa on&#13;
+                                                                                                                       over their life me. That in turn leads to higher earnings and be er quality of life.4 Educa on is an engine of social&#13;
+                                                                                                                       mobility: Human capital is a key asset in income genera on and hence cri cal to reducing poverty and increasing&#13;
+Source: World Bank Staï¬&#128; es mates using Eurostat data.&#13;
+                                                                                                                       shared prosperity (Bussolo and Lopez-Calva, 2014).&#13;
+Making the best use of human capital is at the heart of policies that can sustain increases in living standards.&#13;
+                                                                                                                       â&#128;&#156;Skillsâ&#128;&#157; can be diï¬&#128;eren ated along separate though mutually reinforcing dimensions: cogni ve, socio-emo onal,&#13;
+Mi ga ng the risk to economic growth from popula on aging and decline involves expanding the number of workers&#13;
+                                                                                                                       and technical skills. Figure 2 presents the diï¬&#128;eren a on across the diï¬&#128;erent dimensions. CogniÆ&#159;ve skills include&#13;
+and enhancing their produc vity. Expanding their numbers means increasing the employment rate at all ages,&#13;
+                                                                                                                       literacy and numeracy, such as that measured in PISA, but also include competencies like cri cal thinking and&#13;
+especially among young and older workers, and encouraging immigra on. Enhancing produc vity means raising&#13;
+                                                                                                                       problem-solving. Socio-emoÆ&#159;onal skills capture oneâ&#128;&#153;s ability to interact with others as well as traits such as&#13;
+the skills of the current and future workforce, in addi on to other measures such as reforms in product and capital&#13;
+                                                                                                                       determina on and focus on ge ng a job done. Technical skills capture oneâ&#128;&#153;s ability to perform technical tasks&#13;
+markets. According to Eurostat labor force survey data, Poland faces high youth unemployment which, at 24.2 percent&#13;
+in 2014, was above the EU average. In addi on to the lost income, poor labor market outcomes at the beginning of&#13;
+                                                                                                                       2&#13;
+a personâ&#128;&#153;s professional life may have long-las ng, nega ve impact on his or her long-term labor market outcomes,       3&#13;
+                                                                                                                         See Sala-iâ&#128;&#147;Mar n, Doppelhofer, and Miller (2004).&#13;
+                                                                                                                         See Hanushek and Woessmann (2007) and Hanushek (2010). Using these tests as measures of cogni ve skills of the popula on, they show that countries&#13;
+limi ng the possibili es of young people (Schmillen and Umkehrer, 2013; Kahn, 2010; Gregg and Tominey, 2005).          that had be er quality of educa on in the 1960s experienced faster economic growth during the years 1960-2000, controlling for other factors.&#13;
+                                                                                                                       4   See Hanushek (2013).&#13;
+1 United   Na ons Popula on Projec ons, 2012 Revision.&#13;
+&amp;#12;page 14                                                                                                                                                                                                                                                                               page 15&#13;
+&#13;
+in any occupa on, for example in work as a plumber or engineer. Measuring the level of educa onal a ainment                                                       Figure 3. A growing intensity of use of non-rou ne cogni ve and interpersonal skills in Poland&#13;
+does not automa cally mean measuring actual skills. While many countries in Central and Eastern Europe have&#13;
+seen increases in educa onal a ainment (years of educa on, level of educa on completed) since the start of the&#13;
+economic transi on, they have not necessarily seen improvements in their performance in interna onal student&#13;
+assessments that measure cogni ve skills, such as PISA (Sondergaard and Murthi, 2011).&#13;
+&#13;
+                                                      Figure 2. Three dimensions of skills&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                                  Source: Aedo et al., 2013.&#13;
+&#13;
+                                                                                                                                                                  This report focuses on cogni ve skills and examines evidence from the PISA assessment of mathema cs,&#13;
+                                                                                                                                                                  reading, and science competencies of Polish 15-year-olds. Introduced by the OECD in 2000, PISA is a worldwide&#13;
+                                                                                                                                                                  study of 15-year-old school studentsâ&#128;&#153; performance in three diï¬&#128;erent disciplines: mathema cs, science, and&#13;
+                                                                                                                                                                  reading. PISA focuses on the competence of students and their ability to tackle real-life problems in those three&#13;
+                                                                                                                                                                  disciplines and emphasizes skills that are cri cal for individualsâ&#128;&#153; personal and professional development. A sample&#13;
+                                                                                                                                                                  ques on from mathema cs illustrates the applied nature of the PISA tests: â&#128;&#156;Nick wants to pave the rectangular&#13;
+                                                                                                                                                                  pa o of his new house. The pa o has length 5.25 meters and width 3.00 meters. He needs 81 bricks per square&#13;
+                                                                                                                                                                  meter. Calculate how many bricks Nick needs for the whole pa o.â&#128;&#157;6 In assessing the performance of Polish 15-year-&#13;
+Source: Bodewig and Badiani-Magnusson (2014)&#13;
+                                                                                                                                                                  olds, PISA mainly captures those students who are in the third year of lower secondary educa on (gymnazjum).&#13;
+The skills content in the labor market in many economies is changing, and Poland is no excep on. In a widely                                                      Given that skills forma on is cumula ve, scores reï¬&#130;ect not just the competencies acquired in those schools but&#13;
+cited study, Autor, Levy and Murnane (2003) show that the demand for non-rou ne cogni ve (analy cal and                                                           competencies acquired even earlier in the educa on system. PISAâ&#128;&#153;s scoring system is standardized so that the&#13;
+interpersonal) skills has been on the rise in the United States since 1960. A similar change can be observed in                                                   mean score for each discipline among OECD countries in year 2000 (reading), 2003 (mathema cs) and2006&#13;
+Poland. Overall, the skills required for diï¬&#128;erent tasks (or occupa ons) are star ng to include a higher propor on                                                 (science) is 500 points, with a standard devia on of 100 points.7 According to OECD, a gain of 40 points in PISA is&#13;
+of non-rou ne cogni ve analy cal and non-rou ne interpersonal components than before.5 Tasks today usually                                                        equivalent to what students learn in one year of schooling.8 Poland has been par cipa ng in all PISA rounds since&#13;
+require higher-level skills and are associated with higher value-added. The analysis does not say whether more of                                                 2000.&#13;
+these skills are being demanded in Poland but not possessed by available workers or if these skills are in excess&#13;
+supply. However, it does seem to suggest that jobs in the country now favor graduates with higher levels of&#13;
+cogni ve, problem solving, and socio-emo onal skills (e.g. interpersonal), as compared to the situa on a few years&#13;
+                                                                                                                                                                  6 Addi onal sample ques ons can be found at Source: h p://pisa-sq.acer.edu.au/&#13;
+ago when the economy was not yet liberalized (Aedo et al., 2013).                                                                                                 7 PISA results have been comparable for reading since 2000, for mathema cs since 2003 and for science since 2006.&#13;
+                                                                                                                                                                  8 PISA 2009 Technical Report (OECD 2012).&#13;
+5While the skills percentages are lower for the Poland data compared to those observed in the original paper of Autor, Levy, and Murnane (for instance, the&#13;
+original ar cle shows about 12 percentage points for non-rou ne cogni ve skills analy cal for the USA, compared with an increase of less than 2 percentage&#13;
+points in Poland), the original paper covered 40 years of data (between 1960 and 2000). The data used to construct the Poland analysis covers just eight years,&#13;
+between 2002 and 2010.&#13;
+&amp;#12;page 16                                                                                                                                                                                                                                                                   page 17&#13;
+&#13;
+Cogni ve skills built in childhood and youth are a necessary founda on for successful acquisi on of technical                                       Figure 4. The Polish educa on system before and a er the 1999 reform&#13;
+and job-speciï¬&#129;c skills later in life. The founda ons of cogni ve (and behavioral) skills are formed early and are                       Before the reform of 1999                                                After the reform of 1999&#13;
+the pla orm upon which later skills are built. The most sensi ve periods for building a skill vary across the three         age                                            grade           age                                                            grade&#13;
+dimensions of skills, and skill forma on beneï¬&#129;ts from previous investments and is cumula ve. Technical and                  6&#13;
+                                                                                                                                      Zero class (primary school or&#13;
+                                                                                                                                                                             0              6          Zero class (primary school or kindergarten)          0&#13;
+                                                                                                                                              kindergarten)&#13;
+job-speciï¬&#129;c skills â&#128;&#147; o en acquired last, through technical and voca onal educa on and training (TVET), higher&#13;
+                                                                                                                            7                                                 I             7                                                                I&#13;
+educa on, or on-the-job learning â&#128;&#147; beneï¬&#129;t from strong cogni ve and behavioral skills acquired earlier in the&#13;
+                                                                                                                            8                                                II             8                                                               II&#13;
+educa on system. In other words, the cogni ve skills acquired in childhood and youth, such as those measured by&#13;
+                                                                                                                            9                                                III            9                                                               III&#13;
+PISA, will help workers to con nuously update their technical skills during their working lives. This is of par cular                                                                                         Comprehensive primary school&#13;
+                                                                                                                            10                                               IV             10                                                              IV&#13;
+importance in aging economies such as PolandÂ´s where workers need to adapt to technological progress during                          Comprehensive primary school&#13;
+their longer working lives.                                                                                                 11                                               V              11                                                              V&#13;
+&#13;
+                                                                                                                            12                                               VI             12                                                              VI&#13;
+The report is part of a series of World Bank reports that examine PISA data in depth to analyze educa on&#13;
+                                                                                                                            13                                              VII                                         Final test&#13;
+systems and provide policy makers with op ons for evidence-based reforms. Due to its focus on policy, the series&#13;
+                                                                                                                            14                                              VIII            13                                                               I&#13;
+aims to address key challenges in several countries, with a focus on improving educa on quality and equity. This                                                                                  Comprehensive lower secondary school (gimnazjum )&#13;
+                                                                                                                                      Entrance exam                                         14                                                              II&#13;
+report provides a snapshot of the performance of Polish 15-year-old students in PISA compared with other peer                                                                                                         ISCED 2A&#13;
+                                                                                                                            15                                                I             15                                                              III&#13;
+countries and over me. The report presents: (i) Polandâ&#128;&#153;s performance in PISA since 2000 un l 2012, (ii) the overall                General                     Basic&#13;
+                                                                                                                                     upper        Upper&#13;
+evolu on of the system and of socioeconomic condi ons of students and schools and its rela onship with PISA                 16&#13;
+                                                                                                                                                secondary&#13;
+                                                                                                                                                            vocational       II                                         Final exam&#13;
+                                                                                                                                  secondary                   school&#13;
+scores; (iii) the remaining challenges for Poland â&#128;&#147; improving problem solving skills of its students and addressing         17                  vocational                   III            16      General        Profiled                                  I&#13;
+                                                                                                                                    school                                                                                                     Basic&#13;
+                                                                                                                                                                                                      upper      upper gen.      Upper&#13;
+                                                                                                                                   (liceum )      school                                                                                    vocational&#13;
+remaining equity issues.                                                                                                    18                 (technikum )                  IV             17     secondary     secondary    secondary                     II&#13;
+                                                                                                                                                                                                                                              schools&#13;
+                                                                                                                                                                                                     school        school     vocational&#13;
+                                                                                                                            19     Matura                                    V              18                                               ISCED 3C       III&#13;
+                                                                                                                                                                                                    ISCED 3A      ISCED 3B      schools&#13;
+                                                                                                                                                                                                                               ISCED 3A&#13;
+Polandâ&#128;&#153;s education system                                                                                                                        Matura                                     19       Matura       Matura                                    IV&#13;
+&#13;
+The Polish educa on systems has high student-popula on coverage and follows a 6-3-3 educa on structure.                 Source: Jakubowski et al. (2010).&#13;
+                                                                                                                                                                                                                                Matura&#13;
+&#13;
+Polandâ&#128;&#153;s general educa on system has undergone a signiï¬&#129;cant transforma on since the early 1990s, including&#13;
+a change to its structure in 1999-2000 with the introduc on of a comprehensive lower-secondary school, the              Na onal assessments take place at the end of each stage of the system. There is an assessment at the end of&#13;
+Gimnazjum (see Box 1 and Figure 4). Primary educa on lasts six years, followed by three years of lower-secondary        primary schooling, when students are 12 years old, for system evalua on purposes but not for placement.9 Un l&#13;
+school and three years of upper-secondary school (four years in the case of voca onal secondary schools, see            recently, there was an exam at the end of lower secondary, when students are 15 years old, a er which students&#13;
+Figure 4). Since 1999 pre-primary educa on has been op onal at ages three to ï¬&#129;ve, and gross enrolment at ages           a end a three-year upper secondary general school (lyceum), a technical or professional proï¬&#129;le, or a two-year&#13;
+three, four, and ï¬&#129;ve has increased signiï¬&#129;cantly, rising from 28, 38, and 48 percent (respec vely) in 2005 to 51, 65,    upper-secondary voca onal school, but it was phased out. Moreover, there is a high- stakes (Matura) exam a er&#13;
+and 94 percent (respec vely) in 2012 (OECD, 2014). In 2012 Polandâ&#128;&#153;s enrolment of ï¬&#129;ve-year-olds was on par with          upper-secondary school, when students are 18 years old. It is not compulsory but students need to pass it, in&#13;
+the OECD average, while enrolment of three- and four-year-olds was well below average. One year (zero grade)            order to qualify for entrance to higher educa on. Lastly, there is an op onal voca onal exam for those students&#13;
+preparatory class for six-year-olds is compulsory before primary educa on. The net enrollment rate for primary          a ending a basic or technical voca onal school.&#13;
+and secondary schools are 97 and 98 percent respec vely. As of 2015, preschool at age ï¬&#129;ve will be compulsory and&#13;
+there will be a guarantee of a preschool place for all children ages three and four. Primary school will start from&#13;
+age six (Jakubowski, 2015).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                        9In principle, the place of residence, and not the outcomes of the assessment, determines the lower secondary school that a student will a end: Schools are&#13;
+                                                                                                                        supposed to select the students from the catchment area ï¬&#129;rst, but they can also admit other students on the basis of the results of the exam.&#13;
+&amp;#12;page 18                                page 19&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+          Chapter 2&#13;
+          Cognitive Skills of Polish&#13;
+          15-year-old Students&#13;
+&amp;#12;page 20                                                                                                                                                                                                                                          page 21&#13;
+&#13;
+2. Cognitive Skills of Polish 15-year-old Students                                                                                                 Figure 6. Polandâ&#128;&#153;s PISA performance by discipline, 2000-12&#13;
+&#13;
+Snapshot of Polandâ&#128;&#153;s performance in PISA&#13;
+Polandâ&#128;&#153;s 15-year-olds performed strongly in mathema cs, reading, and science in 2012. Polandâ&#128;&#153;s scores were&#13;
+above the OECD country average in all subjects: mathema cs (518 points), reading (518 points), and science (526&#13;
+points) (Figure 5). Poland scored well above the OECD average in mathema cs and at par with countries such as&#13;
+Germany and Finland. These rapid improvements in PISA scores make Poland an interes ng case to examine.&#13;
+&#13;
+Figure 5. Polandâ&#128;&#153;s PISA 2012 scores were above OECD averages and most neighboring countries&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                   Source: World Bank staï¬&#128; es mates using PISA data. Note: PISA results have been comparable for reading since 2000, for mathema cs since&#13;
+                                                                                                                   2003 and for science since 2006.&#13;
+&#13;
+                                                                                                                   Performance in PISA mathema cs, science, and reading has increased across the en re performance&#13;
+                                                                                                                   distribu on, accoun ng for more than one year of schooling in all three subjects (see Figure 7, Panel A, for&#13;
+                                                                                                                   mathema cs; the shapes are similar for reading and science). Low achievers have beneï¬&#129;ted more than high&#13;
+                                                                                                                   achievers. PISA categorizes scores in six levels of proï¬&#129;ciency; students who score below level 2 in the reading and&#13;
+                                                                                                                   mathema cs tests are considered func onally illiterate and innumerate, respec vely. This means that they are not&#13;
+                                                                                                                   able to understand and solve simple problems, severely limi ng their development and subsequent cogni ve and&#13;
+                                                                                                                   technical skill acquisi on process. In Poland, the share of students below basic PISA proï¬&#129;ciency levels has declined&#13;
+                                                                                                                   signiï¬&#129;cantly and to levels far below those in neighboring countries (Figure 7, Panels B and C). Conversely, there has&#13;
+                                                                                                                   been a boost in the share of students performing at the top of the proï¬&#129;ciency distribu on.&#13;
+Source: World Bank staï¬&#128; es mates using PISA data&#13;
+&#13;
+The signiï¬&#129;cant gains in Polandâ&#128;&#153;s PISA scores have extended across three dis nct phases. First, Poland saw&#13;
+signiï¬&#129;cant improvements between 2000 and 2003. Its scores presented a broadly stable picture between 2003&#13;
+and 2009, followed by another signiï¬&#129;cant jump between 2009 and 2012 (Figure 6). The aggregate increases for&#13;
+reading, mathema cs and science across the en re period are around 40 points, the equivalent of one year of&#13;
+instruc on. What have been the drivers of the sudden improvements in performance between 2000 and 2003 and&#13;
+between 2009 and 2012? While evidence shows a causal link between the ï¬&#129;rst jump and the 1999 reform, with its&#13;
+extension of general educa on by one year due to the introduc on of the comprehensive lower secondary schools&#13;
+(Jakubowski et al., 2010), no causal evidence has been found to explain the 2009-2012 improvements. However,&#13;
+one credible hypothesis is that the changes in curriculum and student assessment led to improvements in cogni ve&#13;
+skills, with students tested in 2012 having completed three years of lower secondary educa on under the new&#13;
+curriculum (see also Marciniak, 2015, and Jakubowski, 2015).&#13;
+&amp;#12;page 22                                                                                                                                                                                                                                                                page 23&#13;
+&#13;
+Figure 7. Distribu on of students by proï¬&#129;ciency level in math: (a) Polandâ&#128;&#153;s progress in 2000-2012; (b) Poland and     embarked on a sustained reform process since the early 1990s.&#13;
+                                              comparators in 2012                                                     Table 1 Polandâ&#128;&#153;s public spending on educa on&#13;
+&#13;
+                                                                                                                                                                   2004        2005        2006        2007       2008        2009        2010        2011&#13;
+                                                                                                                          Government expenditure on educa on&#13;
+                                                                                                                          as % of GDP                      5.4                     5.5        5.3         4.9         5.1         5.1        5.2         4.9&#13;
+                                                                                                                          as % of total government&#13;
+                                                                                                                                                          12.7                   12.6          12        11.6       11.8        11.4        11.4        11.4&#13;
+                                                                                                                          expenditure&#13;
+&#13;
+                                                                                                                          Government expenditure per student (in PPP$)&#13;
+&#13;
+                                                                                                                          Primary educa on                                    3268.3                 4072.5                  4986.9                  5803.7&#13;
+                                                                                                                          Secondary educa on                                  3055.7                  3678                   4597.4                  5263.2&#13;
+&#13;
+&#13;
+                                                                                                                          Ter ary educa on                           2787     2954.1                 2775.1                  3603.6                  4543.9&#13;
+                                                                                                                      Source: UNESCO UIS (2015)&#13;
+&#13;
+                                                                                                                      Figure 8. PISA scores in mathema cs by public expenditures per student, Poland and other PISA countries&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Source: World Bank staï¬&#128; es mates using PISA data&#13;
+&#13;
+Polandâ&#128;&#153;s above average PISA performance has come even though below-average public spending. Polandâ&#128;&#153;s&#13;
+public spending on educa on in 2011 was 4.7 percent of GDP (5.5 percent total spending, with 0.8 percent private      Source: World Bank staï¬&#128; es ma ons using PISA 2012 data and UNESCO 2012 data. Note: The curve represents a logarithmic approxima on&#13;
+spending), compared to an OECD public spending average of 5.3 percent of GDP (and 6.1 percent total). The             of the sca er plots.&#13;
+per-student expenditure has increased over the last years, in part due to the declining student popula on (Table&#13;
+                                                                                                                      However, Polish 15 year-olds performed less well in the problem solving assessment in PISA 2012. In 2012, the&#13;
+2). However, PISA performance in 2012 was signiï¬&#129;cantly above what would be expected given the level of public&#13;
+                                                                                                                      OECD introduced a new element of assessment: a problem-solving category that measures studentsâ&#128;&#153; capacity to&#13;
+expenditure per student in 2012 (see Figure 8). Polandâ&#128;&#153;s aggregate PISA performance is similar to that of countries&#13;
+                                                                                                                      respond to non-rou ne analy cal problems in a digital environment. This capacity is deemed essen al for students&#13;
+that invest more than twice as much per pupil, such as Finland, Netherlands, and Belgium. Poland has guaranteed&#13;
+                                                                                                                      to achieve their poten al as construc ve and reï¬&#130;ec ve ci zens by making use of the new technological tools.1&#13;
+a level of public spending on educa on over the years to ensure access to a minimum standard of quality and then&#13;
+                                                                                                                      1This assessment responds to new demands for skills that people need in order to solve more intensive abstract tasks in their workplace. As computers&#13;
+                                                                                                                      and computerized machines are being introduced in greater numbers, workers are required to deal with unexpected analy cal tasks that require both&#13;
+                                                                                                                      high-order skills and computer mastery in order to make the best use of the machines. See Autor, Levy, and Murnane (2003) for a detailed descrip on.&#13;
+&amp;#12;page 24                                                                                                                                                                                                                    page 25&#13;
+&#13;
+While Polandâ&#128;&#153;s 15 year-olds score above the OECD averages in reading, mathema cs and science, their results in     par cipate in society and for the economy to prosper. This survey is useful to gauge how eï¬&#128;ec vely educa on&#13;
+the problem solving test were below OECD averages. Figure 9 presents the evidence on problem-solving (Panel A).    systems are preparing students with the skills they will need in life and work. Among par cipa ng countries,&#13;
+It also shows the gap compared to the mathema cs assessment and the inï¬&#130;uence of computer skills on rela ve         Poland scores the second lowest, below economies like Estonia and the Czech Republic and far below Finland and&#13;
+performance in problem solving: a signiï¬&#129;cant part of the varia on for Poland in this test of 45 points compared    Korea (OECD, 2013c).&#13;
+to the paper-based mathema cs test can be a ributed to a lack of computer skills, reï¬&#130;ec ng a gap in both digital&#13;
+                                                                                                                   Weaknesses in problem solving among Polish students can also be observed when analyzing the subscales of the&#13;
+literacy and problem-solving skills (Panel B). Lastly, a look at the mathema cs â&#128;&#156;subscalesâ&#128;&#157; in PISA 2012, which&#13;
+                                                                                                                   mathema cs assessment. On the content subscale, students in Poland performed the best in problems related to&#13;
+measure in more depth mathema cal content and mathema cal processes, illustrates problem solving-related&#13;
+                                                                                                                   space and shape; they also performed above the average in algebra and geometry. Polish students did not do as&#13;
+dimensions of mathema cal competencies in which Polish students have deï¬&#129;cits (Box 2).&#13;
+                                                                                                                   well in problems related to change and rela onships (Figure 10). The analysis of the processes subscales suggest&#13;
+Figure 9. Problem-solving scores and comparison with mathema cs scores (PISA 2012)                                 that there is room for improvement in the process of interpre ng and evalua ng mathema cal problems, which is&#13;
+                                                                                                                   key for managing real-life situa ons that require mathema cal skills.&#13;
+&#13;
+                                                                                                                   Figure 10. Polandâ&#128;&#153;s PISA 2012 performance on mathema cs subscales compared to the average mathema cs&#13;
+                                                                                                                   performance&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                   Source: World Bank staï¬&#128; es ma ons using PISA 2012 data.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Source: World Bank staï¬&#128; es ma ons using PISA 2012 data.&#13;
+&#13;
+Polandâ&#128;&#153;s results on the PISA problem-solving test are consistent with those from the Survey of Adult Skills for&#13;
+the younger age cohorts. The Program for the Interna onal Assessment of Adult Competencies (PIAAC) conducts&#13;
+the Survey of Adult Skills and measures key cogni ve and workplace skills needed for individuals to successfully&#13;
+&amp;#12;page 26                                                                                                                                                                                                                                     page 27&#13;
+&#13;
+                                                                                                                        Figure 11. PISA scores in mathema cs improved between 2000 and 2012 across every ESCS percen le&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                  Source: World Bank staï¬&#128; es ma ons using PISA 2012 data. Note: A polynomial of order 6 was used to smooth the do ed line&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                  The educa on reform in 1999 introduced a change in the structure of the system with an eï¬&#128;ec ve delay&#13;
+Performance and equity&#13;
+                                                                                                                  of selec on between general and voca onal tracks by one year. This has paid oï¬&#128; in improved aggregate&#13;
+Polandâ&#128;&#153;s overall gains in PISA since 2000 have been equally shared and are underpinned by strong gains&#13;
+                                                                                                                  performance. The reform introduced three years of comprehensive, mandatory lower-secondary educa on,&#13;
+among students from disadvantaged backgrounds. PISA results allow one to assess equity in educa on systems&#13;
+                                                                                                                  known as Gimnazjum. In an analysis of the reform, Jakubowski et al. (2010) found that delaying the year when&#13;
+and interac ons between student performance and socioeconomic status, because the assessment collects&#13;
+                                                                                                                  a student must choose between the general and voca onal tracks, which also allowed greater exposure to general&#13;
+informa on on both performance and student background informa on using the OECDâ&#128;&#153;s Index of Economic, Social,&#13;
+                                                                                                                  curriculum content, had a posi ve and signiï¬&#129;cant impact on student achievement on the order of one standard&#13;
+and Cultural Status (ESCS Index; see Box 3). Figure 11 shows Polandâ&#128;&#153;s performance in 2000 and 2012 by percen le&#13;
+                                                                                                                  devia on.&#13;
+of socioeconomic status (as measured by the ESCS index) with a clear overall message: The higher the ESCS, the&#13;
+be er the performance. However, the picture clearly depicts a signiï¬&#129;cant and balanced improvement across the      Polandâ&#128;&#153;s general educa on system prior to the 1999 reform was highly stra ï¬&#129;ed by socioeconomic background,&#13;
+en re distribu on. The ï¬&#130;at lines (â&#128;&#156;stepsâ&#128;&#157;) show the average for each quin le of socioeconomic status. For all     school type, and performance. Panel A in Figure 12 depicts PISA performance by school and the school-speciï¬&#129;c&#13;
+quin les, the average improved by 42 to 49 points â&#128;&#147; the equivalent of more than one year of schooling.            average ESCS in 2000, just prior to the implementa on of the 1999 reform. Three key messages emerge. First, in&#13;
+                                                                                                                  2000 PISA performance varied signiï¬&#129;cantly by the studentâ&#128;&#153;s socioeconomic background. Second, performance&#13;
+                                                                                                                  varied by type of school. Third, 15 year-olds from socioeconomically disadvantaged backgrounds were&#13;
+&amp;#12;page 28                                                                                                                                                                                                                                                                              page 29&#13;
+&#13;
+dispropor onately in basic voca onal schools and voca onal secondary schools, where aggregate performance                            In contrast, by 2012 PISA performance in the comprehensive lower-secondary schools had signiï¬&#129;cantly&#13;
+was signiï¬&#129;cantly behind that of general secondary schools. Panel A summarizes the above evidence in a single                         increased. Figure 12 (Panel B) depicts PISA performance by school and the school-speciï¬&#129;c average ESCS in 2012.&#13;
+sca erplot, showing how students from diï¬&#128;erent socioeconomic strata are distributed into diï¬&#128;erent educa onal                         First, because of the introduc on of a comprehensive lower-secondary school in grades 7-9, the chart only&#13;
+tracks and achieve widely diï¬&#128;ering levels of cogni ve skills as measured by PISA.                                                    captures one type of school instead of three. Second, compared to 2000, performance improved signiï¬&#129;cantly&#13;
+                                                                                                                                     across the board, especially in schools scoring low on the ESCS index. Third, more schools had an average ESCS&#13;
+Figure 12. Improvements in performance and ESCS in Polish schools between 2000 and 2012&#13;
+                                                                                                                                     index above the OECD average. In sum, in 2012 the Polish educa on system was performing be er overall and&#13;
+                                                                                                                                     students were be er oï¬&#128; socioeconomically.&#13;
+&#13;
+                                                                                                                                     Most performance varia on in the PISA test at age 15 in Poland today is within and not between schools. The&#13;
+                                                                                                                                     varia on in performance between schools is a measure of how big the â&#128;&#156;school eï¬&#128;ectsâ&#128;&#157;1 are, and this is closely&#13;
+                                                                                                                                     related to how students are allocated or selected into schools. Polandâ&#128;&#153;s varia on in performance between schools&#13;
+                                                                                                                                     has substan ally decreased since 2000 (OECD, 2013a). Between-school diï¬&#128;erences in mathema cs performance&#13;
+                                                                                                                                     in 2012 accounted for as li le as 20 percent of the varia on in student performance in Poland. This is signiï¬&#129;cantly&#13;
+                                                                                                                                     below the OECD average (see Figure 13) and that of neighboring countries such as Hungary, Slovak Republic,&#13;
+                                                                                                                                     Germany, and Bulgaria â&#128;&#147; countries with educa on systems that select students into general and voca onal tracks&#13;
+                                                                                                                                     at an earlier stage than Poland does and whose 15 year-olds are in diï¬&#128;erent types of secondary schools compared&#13;
+                                                                                                                                     to Polandâ&#128;&#153;s comprehensive lower secondary Gimnazjum â&#128;&#147; but above that in many countries with similar unitary&#13;
+                                                                                                                                     structures like Poland, e.g. most Nordic countries.&#13;
+&#13;
+                                                                                                                                     Figure 13: Between-school variance in mathema cs performance is limited in Poland&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                     Source: OECD (2014b).&#13;
+&#13;
+                                                                                                                                     Todayâ&#128;&#153;s low stra ï¬&#129;ca on of performance among lower-secondary schools in Poland goes hand in hand with&#13;
+                                                                                                                                     Polandâ&#128;&#153;s moderate socioeconomic stra ï¬&#129;ca on. The index of school social stra ï¬&#129;ca on is deï¬&#129;ned as the&#13;
+                                                                                                                                     correla on between the PISA studentâ&#128;&#153;s socioeconomic status and the schoolâ&#128;&#153;s average socioeconomic status.&#13;
+Source: World Bank Staï¬&#128; es mates using PISA 2000 and 2012 data. Notes: OECD average of ESCS index is 0. The ESCS school average is&#13;
+calculated by compu ng the weighted average of studentâ&#128;&#153;s ESCS at each school.&#13;
+                                                                                                                                     In a world with li le social stra ï¬&#129;ca on (thus an index near zero), students from diï¬&#128;erent backgrounds would&#13;
+                                                                                                                                     study together, making schools as diverse as society as a whole. Figure 14 depicts countries par cipa ng in PISA&#13;
+                                                                                                                                     according to their index of school social stra ï¬&#129;ca on and mean mathema cs scores. Poland is in the top le&#13;
+                                                                                                                                     1According to the OECD, school eï¬&#128;ects are the eï¬&#128;ect on academic performance of a ending one school or another, usually schools that diï¬&#128;er in resources or&#13;
+                                                                                                                                     policies and ins tu onal characteris cs. See OECD (2013b) for a detailed descrip on.&#13;
+&amp;#12;page 30                                                                                                                                                                                                                                                                                                          page 31&#13;
+&#13;
+quadrant of countries, with its PISA mathema cs scores being above and its school social stra ï¬&#129;ca on index being                                             the evidence from those two measures. Slightly more than 15 percent of the variance in performance in Poland&#13;
+below the OECD averages. The ï¬&#129;gure also shows that the highest performing countries in PISA tend to have less                                                can be explained by socioeconomic status, slightly above the OECD average (Figure 15, Panel A), reï¬&#130;ec ng a&#13;
+socially stra ï¬&#129;ed school systems. Poland is one of them. While Polandâ&#128;&#153;s index shi ed signiï¬&#129;cantly from 0.48 in                                               reasonable equality of educa onal opportuni es. Learning in Poland depends less on socioeconomic status than in&#13;
+2000 to 0.58 in 2009, it is now back at 0.52 in 2012, just below the OECD average.                                                                           other countries, giving students from disadvantaged backgrounds a be er chance at learning and, with that, be er&#13;
+                                                                                                                                                             future opportuni es. However, there are countries, such as Estonia, that have be er performance in PISA and, at&#13;
+Figure 14: Stra ï¬&#129;ca on in the educa on system according to PISA 2012 scores&#13;
+                                                                                                                                                             the same me, much be er equality of opportuni es, sugges ng that there is s ll room for improvement.&#13;
+&#13;
+                                                                                                                                                             The diï¬&#128;erence between the top and bo om ESCS quin les in PISA reading and mathema cs scores remains&#13;
+                                                                                                                                                             large. In 2012, the diï¬&#128;erence between these quin les was 108 points â&#128;&#147; the equivalent of almost three years of&#13;
+                                                                                                                                                             schooling and larger than the OECD average of 98 points (Figure 15, Panel B). This gap is even more striking when&#13;
+                                                                                                                                                             compared with that of other high-achieving educa on systems such as those in Finland, Japan, and Korea, whose&#13;
+                                                                                                                                                             gaps are only 73, 82, and 87 points, respec vely.&#13;
+&#13;
+                                                                                                                                                             Figure 15. Index of equality of opportuni es: Poland and other countries, 2012&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Source: World Bank staï¬&#128; es mates using PISA 2012 data. Note: PISA mathema cs scores on ver cal axis. Index of School Social Stra ï¬&#129;ca on&#13;
+on horizontal axis. The index ranges from 0 to 1. A higher index indicates a higher correla on between studentsâ&#128;&#153; and schoolsâ&#128;&#153; socioeconomic&#13;
+status. OECD mathema cs score average 500 points. OECD average Index of School Social Stra ï¬&#129;ca on 0.525.&#13;
+&#13;
+&#13;
+However, there is evidence that performance stra ï¬&#129;ca on emerges in upper-secondary educa on that is similar&#13;
+to the pre-1999 situa on. In addi on to 15-year-olds in grade 9, the PISA test has also been administered to grade&#13;
+10 students in upper-secondary educa on in 2006 and 2009. Analysis using the data for the grade 10 test shows&#13;
+signiï¬&#129;cant performance varia on between voca onal and general upper-secondary schools and a high share of&#13;
+students in basic voca onal secondary schools performing below level 2 in the PISA test (ChÅ&#130;oÅ&#132;-DomiÅ&#132;czak and&#13;
+Federowicz (2014). The evidence of a re-emergence of such performance gaps in upper-secondary educa on&#13;
+was one reason the authori es decided to introduce an iden cal curriculum in the ï¬&#129;rst year of upper-secondary&#13;
+educa on for both general and voca onal schools.&#13;
+&#13;
+Moreover, while Polandâ&#128;&#153;s school system today is less stra ï¬&#129;ed by performance and socioeconomic background,&#13;
+socioeconomic background s ll ma ers in predic ng PISA performance. There are two measures that are used in&#13;
+this report to examine equity in educa on: (i) the strength of the rela onship between student performance and&#13;
+socioeconomic status, and (ii) the PISA score gap between top and bo om ESCS quin les.1 Figure 15 summarizes&#13;
+                                                                                                                                                             Source: World Bank staï¬&#128; es ma ons using PISA 2012 data. Note: The index is the percent of the variance in reading scores explained by the&#13;
+1The strength is deï¬&#129;ned as the amount of varia on in outcomes in the outcomes (PISA Scores) explained by the ESCS Index, which means the predic ve&#13;
+power of ESCS on learning outcomes (the most common measure is R-squared of linear regressions, see Ferreira and Gignoux (2011), who deï¬&#129;ne this measure      circumstances. If a signiï¬&#129;cant share of the results is explained by these characteris cs, then the equality of opportuni es is low). Larger diï¬&#128;erences between&#13;
+as â&#128;&#156;equality of opportunityâ&#128;&#157;: a measure of educa onal opportunity using the share of variance in test scores that is explained by individual predetermined   top and bo om SES students in PISA scores indicate a greater impact of ESCS on student performance, that is, more inequality (a more general measurement,&#13;
+                                                                                                                                                             which is used here, is the performance gap between top and bo om socioeconomic quin le groups). For a broader discussion, see Willms (2006).&#13;
+&amp;#12;page 32                                                                                                                                                         page 33&#13;
+&#13;
+Performance gaps also remain between students in urban and rural areas and between girls and boys. Even&#13;
+though performance variance between schools is lower than in other countries within schools, school loca on s ll&#13;
+ma ers: The PISA score gaps between students in urban and rural areas account for the equivalent of almost one&#13;
+year of schooling. Meanwhile, girls outperform boys in reading, but not in mathema cs. However, evidence from&#13;
+the Progress in Interna onal Reading Literacy Study (PIRLS) in 2006 and 2011 evidence suggests a narrowing of the&#13;
+gap in grade 4.&#13;
+&#13;
+Figure 16. PISA 2012 score gaps by loca on and gender, Poland and comparator countries&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                    Chapter 3&#13;
+                                                                                                                    Policy Implications: Remaining Challenges&#13;
+                                                                                                                    in the Polish Education System&#13;
+Source: World Bank staï¬&#128; es ma ons using PISA 2012 data.&#13;
+&amp;#12;page 34                                                                                                                                                                                                                         page 35&#13;
+&#13;
+3. Policy Implications: Remaining Challenges in the Polish Education System                                          schools and has involved the teaching of cri cal thinking and problem-solving skills (Tan and Gopinathan, 2000).&#13;
+Despite Polandâ&#128;&#153;s success in improving the cogni ve skills of 15-year-olds as measured by PISA since 2000,            In 2009 Singapore developed a 21st century competencies framework, which now guides the development of&#13;
+important challenges remain. There are three issues that will need a en on to ensure that the Polish educa on        a new na onal curriculum (OECD, 2014c). Korea recently adopted a new curriculum that places more emphasis&#13;
+system con nues to provide the adequate skills for future jobs and remains equitable: (i) the re-emergence of        on cri cal thinking skills and crea vity than the previous curriculum. Both Korea and Singapore have also made&#13;
+performance diï¬&#128;eren als between students in voca onal and general educa on in upper secondary educa on,              changes to assessment methods and approaches and use teacher professional development as tools to promote&#13;
+(ii) diï¬&#128;erences in performance across students from diï¬&#128;erent socioeconomic quin les, and (iii) rela vely poor        good teaching prac ces. In Korea, the university entrance exams use essays that test wri ng and logical thinking,&#13;
+problem-solving skills.                                                                                              while university admission criteria in Singapore were expanded beyond the secondary graduate cer ï¬&#129;cate and&#13;
+                                                                                                                     an entrance examina on to include project work in schools and extracurricular ac vi es (Bodewig and Badiani-&#13;
+                                                                                                                     Magnusson, 2014). The Province of Alberta in Canada adopted a new framework for student learning that&#13;
+Addressing performance gaps in upper-secondary education&#13;
+                                                                                                                     iden ï¬&#129;es cri cal thinking and problem-solving as key competencies across the curriculum. Interes ngly, the&#13;
+Students in voca onal schools in upper-secondary perform poorly in reading and mathema cs. There is evidence&#13;
+                                                                                                                     Alberta framework was developed in a highly consulta ve process with contribu ons from students, parents, and&#13;
+from PISA assessments replicated for older students in upper-secondary educa on in 2006, 2009 and 2012&#13;
+                                                                                                                     employers (OECD, 2014c).&#13;
+(â&#128;&#156;na onal op onâ&#128;&#157;) that performance gaps between voca onal and general schools for 15-year-olds found prior&#13;
+to the 1999 reform persist today in upper-secondary educa on (ChÅ&#130;oÅ&#132;-DomiÅ&#132;czak and Federowicz, 2014). Despite         Poland can learn from and adapt emerging interna onal experience and experiment with new approaches.&#13;
+successes at the lower-secondary level, the performance of students in voca onal upper secondary schools trails      Poland introduced a new curriculum in 2008 to help foster advanced cogni ve skills, and it appears to have&#13;
+that of their peers in general educa on.                                                                             contributed to improvements in PISA performance in mathema cs, reading, and science since 2009. Polandâ&#128;&#153;s&#13;
+                                                                                                                     rela vely poor performance in the PISA 2012 problem-solving test suggests the need for con nued innova on and&#13;
+Developing a policy response to this phenomenon of performance diï¬&#128;eren als by school type at the upper-&#13;
+                                                                                                                     experimenta on over the coming years in classroom and teaching prac ces to take advantage of the possibili es&#13;
+secondary level would beneï¬&#129;t from more analysis and research. This should include more in-depth research to&#13;
+                                                                                                                     that the new curriculum provides. It is also advisable to explore in depth how socio-emo onal skills â&#128;&#147; cri cal&#13;
+understand the nature of the transi on from lower to upper-secondary educa on and the drivers of selec on of&#13;
+                                                                                                                     contributors to problem-solving â&#128;&#147; can be reï¬&#130;ected in curriculum and classroom and teaching prac ces.&#13;
+school types. Depending on the ï¬&#129;ndings of such research, policy op ons might include further expanding exposure&#13;
+to general curriculum content, teaching prac ces, and assessment in upper-secondary voca onal schools and&#13;
+embedding cogni ve skills in voca onal subjects, and introducing ï¬&#130;exibility for students to switch streams while     Promoting equity&#13;
+s ll allowing them to con nue on to higher educa on.                                                                 Polandâ&#128;&#153;s educa on equity challenge is diï¬&#128;erent from that of several of its neighbors. Its school system at the&#13;
+                                                                                                                     lower-secondary level is less stra ï¬&#129;ed by socioeconomic background, and rela vely li le of the varia on in overall&#13;
+                                                                                                                     performance can be explained by the varia on in performance between schools. This suggests that Poland has a&#13;
+Improving problem-solving skills&#13;
+                                                                                                                     more equitable school system than many of its neighbors. However, that is not to say that equity is not an issue&#13;
+Polandâ&#128;&#153;s 15-year-olds perform rela vely poorly in the PISA 2012 problem-solving assessment. The increased&#13;
+                                                                                                                     in Poland. As shown, variance in mathema cs and reading performance between students from the top and&#13;
+demand and recognized importance of crea ve problem-solving skills in the labor market has triggered a&#13;
+                                                                                                                     bo om ESCS quin les is large (almost the equivalent of three years of schooling). Students from the bo om two&#13;
+discussion worldwide on what types of interven ons could help foster these skills. At the center of the discussion&#13;
+                                                                                                                     ESCS quin les are signiï¬&#129;cantly more likely to score at the bo om performance level in mathema cs and problem-&#13;
+is how the curriculum, the assessment system, and classroom and teaching prac ces can help create learning&#13;
+                                                                                                                     solving. The associa on between socioeconomic disadvantage and poor performance points toward a policy&#13;
+opportuni es to help students solve real-life problems. The curriculum should clearly deï¬&#129;ne the acquisi on of&#13;
+                                                                                                                     response that combines expanding access to quality preschool educa on and strengthening social assistance to&#13;
+cogni ve skills, such as problem-solving and crea ve and cri cal thinking, as an objec ve. Teaching prac ces need&#13;
+                                                                                                                     improve the socioeconomic condi ons of children and youth.&#13;
+to be geared toward achieving this objec ve (with implica ons for teacher professional development) and these&#13;
+skills need to be captured in student assessment.                                                                    Early childhood educa on has been shown worldwide to be a key tool to improve opportuni es for&#13;
+                                                                                                                     disadvantaged children in their educa on and throughout life. Evidence from PISA is consistent with this: Polandâ&#128;&#153;s&#13;
+Several countries have started to revise their curricula, teaching prac ces, and assessment systems to&#13;
+                                                                                                                     15-year-olds who had a ended pre-primary educa on scored 62 points higher in mathema cs in 2012 than those&#13;
+emphasize the importance of problem-solving, and several have started experimenta on. Singapore and Korea,&#13;
+                                                                                                                     who did not (the equivalent of a year and a half of schooling), and they scored 32 points higher a er accoun ng&#13;
+the two top performers in the PISA 2012 problem-solving assessment, provide interes ng examples. Singapore&#13;
+                                                                                                                     for socioeconomic status. This suggests that Polandâ&#128;&#153;s con nued emphasis on expanding access to preschool â&#128;&#147;&#13;
+adopted the â&#128;&#156;Thinking Schools, Learning Na onâ&#128;&#157; ini a ve in 1997, which created the ground for a revision of&#13;
+                                                                                                                     making preschool at age ï¬&#129;ve compulsory and guaranteeing a preschool place for children ages three and four â&#128;&#147; is a&#13;
+the curriculum and assessment system. It aims to promote ac ve learning and crea ve and cri cal thinking in&#13;
+                                                                                                                     promising vehicle for ensuring school readiness for disadvantaged children.&#13;
+&amp;#12;page 36                                                                                                                             page 37&#13;
+&#13;
+Polandâ&#128;&#153;s social assistance system for low-income families is under review. Polandâ&#128;&#153;s social assistance system&#13;
+comprises a considerable number of permanent and temporary cash and in-kind programs, mostly means-tested&#13;
+and with diï¬&#128;ering objec ves that include poverty reduc on, support to families, and support to people with&#13;
+disabili es. There are also signiï¬&#129;cant, well-targeted child tax credits to low-income families. Social assistance&#13;
+overall, as well as the biggest beneï¬&#129;t program, the family allowance, are well targeted, but they suï¬&#128;er from low&#13;
+coverage of the poorest households and low adequacy in their beneï¬&#129;t levels. As a result, the poverty reduc on&#13;
+impact is limited. This suggests the need to examine the overall eï¬&#128;ec veness of the social assistance system,&#13;
+especially from the perspec ve of poor families with children. Polandâ&#128;&#153;s Ministry of Finance and Ministry of Labor&#13;
+and Social Policy are in fact engaged in a spending review exercise focusing on strengthening ï¬&#129;nancial assistance to&#13;
+low income families.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                       References&#13;
+                                                                                                                       Annex&#13;
+&amp;#12;page 38                                                                                                                                                                                                                      page 39&#13;
+&#13;
+References                                                                                                         Poland.â&#128;&#157; Policy Research Working Paper No. 5263. Washington DC: World Bank&#13;
+Aedo, C., J. Hentschel, J. Luque, and M. Moreno. 2013. From Occupa ons to Embedded Skills: A Cross-Country&#13;
+                                                                                                                   Kahn, L. B. 2010. â&#128;&#156;The Long-Term Labor Market Consequences of Gradua ng from College in a Bad Economy.â&#128;&#157;&#13;
+Comparison. Washington, DC: World Bank.&#13;
+                                                                                                                   Labour Economics 17: 303 - 16.&#13;
+Autor, D., F. Levy, and R. Murnane. 2003. The Skill Content of Recent Technological Change: An Empirical&#13;
+                                                                                                                   Marciniak, Z. 2015. â&#128;&#156;Reviewing Polish Educa on Reform in the Late 1990s â&#128;&#147; Possible Lessons to Be Learned, Poland&#13;
+Explora on. Quarterly Journal of Economics, 118(4), November 2003, 1279-1334.&#13;
+                                                                                                                   as a Global Development Partner Series. Washington DC: World Bank.&#13;
+Amermueller, A. 2004. â&#128;&#156;PISA: What Makes the Diï¬&#128;erence? Explaining the Gap in PISA Test Scores Between Finland&#13;
+                                                                                                                   OECD. 2010. â&#128;&#156;The High Cost of low Educa onal Performance: The Long-Run Impact of Improving PISA Outcomes.â&#128;&#157;&#13;
+and Germany.â&#128;&#157; Discussion Paper No. 04-004, ZEW Center for European Economic Research.&#13;
+                                                                                                                   OECD Publishing. Retrieved May 12, 2015 from h p://www.oecd.org/pisa/44417824.pdf&#13;
+Barro, R., and J. Lee. 2013. â&#128;&#156;A New Data Set of Educa onal A ainment in the World, 1950-2010.â&#128;&#157; Journal of&#13;
+                                                                                                                   OECD. 2012. â&#128;&#156;PISA 2009 Technical Report.â&#128;&#157; OECD Publishing. Retrieved April 10, 2014 from h p://www.oecd.org/&#13;
+Development Economics 104: 184-98.&#13;
+                                                                                                                   pisa/pisaproducts/50036771.pdf&#13;
+Bodewig, C., and R. Badiani Magnusson. 2014. â&#128;&#156;Skilling Up Vietnam: Preparing the Workforce for a Modern Market&#13;
+                                                                                                                   OECD. 2013a. â&#128;&#156;PISA in Focus: Does It Ma er Which School a Student A ends?â&#128;&#157; PISA in Focus 27. OECD Publishing.&#13;
+Economy.â&#128;&#157; DirecÆ&#159;ons in Development. Washington, DC: World Bank.&#13;
+                                                                                                                   Retrieved May 13, 2015 from h p://www.oecd.org/pisa/pisaproducts/pisainfocus/pisa%20in%20focus%20n27%20&#13;
+Bussolo, M., and L. F. Lopez-Calva. 2014. â&#128;&#156;Shared Prosperity: Paving the Way in Europe and Central Asia.â&#128;&#157;          (eng)--FINAL_version2.pdf&#13;
+Washington, DC: World Bank.&#13;
+                                                                                                                   OECD. 2013b. What Makes Schools Successful? Resources, Policies and PracÆ&#159;ces, Volume 4. OECD Publishing.&#13;
+ChÅ&#130;oÅ&#132;-DomiÅ&#132;czak, A., and M. Federowicz. 2014. â&#128;&#156;How Did Educa onal Reforms in Poland Lead to Signiï¬&#129;cant             Retrieved May 31, 2015 from h p://www.oecd.org/pisa/keyï¬&#129;ndings/Vol4Ch1.pdf&#13;
+Progress in PISA?â&#128;&#157; Presenta on for the IBE Educa onal Research Ins tute. Accessed on June 1, 2015 at&#13;
+                                                                                                                   OECD (2013c), OECD Skills Outlook 2013: First Results from the Survey of Adult Skills, OECD Publishing&#13;
+h p://www.kwaliï¬&#129;kacje.edu.pl/download/konferencje/pla2015/Educa onal_reforms_in_Poland_prezentacja.pdf&#13;
+                                                                                                                   OECD. 2014a. PISA 2012 Results: What Students Know and Can Do, Volume 1. OECD Publishing. Retrieved April 10,&#13;
+Ferreira, H. G., and J. Gignoux. 2011. â&#128;&#156;The Measurement of Educa onal Inequality: Achievement and Opportunity.â&#128;&#157;&#13;
+                                                                                                                   2014 from h p://www.oecd.org/pisa/keyï¬&#129;ndings/pisa-2012-results-volume-I.pdf&#13;
+IZA Discussion Paper No. 6161.&#13;
+                                                                                                                   OECD. 2014b. PISA 2012 Results: Excellence through Equity, Volume 2. OECD Publishing.&#13;
+Gregg, P. and E. Tominey. 2005. â&#128;&#156;The Wage Scar From Male Youth Unemployment.â&#128;&#157; Labour Economics 12: 487 -&#13;
+509.                                                                                                               OECD. 2014c. PISA 2012 Results: CreaÆ&#159;ve Problem Solving, Volume 5. OECD Publishing.&#13;
+Hanushek, E. 2013. â&#128;&#156;Economic Growth In Developing Countries: The Role of Human Capital.â&#128;&#157; Economics of              OECD. 2015. Universal Basic Skills: What Countries Stand to Gain. OECD Publishing.&#13;
+EducaÆ&#159;on Review 37: 204 - 12.&#13;
+                                                                                                                   Sala-i-Mar n, X., G. Doppelhofer, and R. I. Miller. 2004. â&#128;&#156;Determinants of Long-Term Growth: A Bayesian Averaging&#13;
+Hanushek, E. 2009. â&#128;&#156;School Policy: Implica ons of Recent Research For Human Capital Investments in South Asia      of Classical Es mates (BACE) Approach.â&#128;&#157; American Economic Review 94 (4): 813 - 35.&#13;
+and Other Developing Countries.â&#128;&#157; EducaÆ&#159;on Economics 17 (3): 291 - 313.&#13;
+                                                                                                                   Schmillen, A., and M. Umkehrer. 2013. â&#128;&#156;The Scars of Youth: Eï¬&#128;ects of Early-Career Unemployment on Future&#13;
+Hanushek, E. 2010. â&#128;&#156;The High Cost of Low Educa onal Performance: The Long-Run Economic Impact of Improving         Unemployment Experience.â&#128;&#157; IAB Discussion Paper No. 6/2013.&#13;
+PISA Outcomes.â&#128;&#157; OECD Publica ons.&#13;
+                                                                                                                   Sondergaard, L. &amp; M. Murthi. 2011. Skills Not Just Diplomas. World Bank, Washington DC.&#13;
+Hanushek, E., and L. Woessmann. 2006. â&#128;&#156;Does Educa onal Tracking Aï¬&#128;ect Performance and Inequality?&#13;
+Diï¬&#128;erences-in-Diï¬&#128;erences Evidence Across Countries.â&#128;&#157; The Economic Journal 116 (510): C63 - C76.                    Tan, J., and S. Gopinathan. 2000, â&#128;&#156;Educa on Reform in Singapore: Towards Greater Crea vity and Innova on?â&#128;&#157;&#13;
+                                                                                                                   NaÆ&#159;onal InsÆ&#159;tute for Research Development Review 7 (3): 5-10.&#13;
+Hanushek, E., and L. Woessmann. 2007. â&#128;&#156;The Role of Educa on Quality in Economic Growth.â&#128;&#157; World Bank Policy&#13;
+Research Working Paper 4122. World Bank, Washington, DC.                                                           Willms, JD. 2006. Learning Divides: Ten Policy QuesÆ&#159;ons about the Performance and Equity of Schools and&#13;
+&#13;
+Hanushek, E., and L. Woessmann L. 2012. â&#128;&#156;Do Be er Schools Lead to More Growth? Cogni ve Skills, Economic           Schooling Systems, UNESCO Ins tute for Sta s cs, Montreal.&#13;
+Outcomes, and Causa on.â&#128;&#157; Journal of Economic Growth 17: 267 - 321.&#13;
+&#13;
+Jakubowski, M. 2015. â&#128;&#156;Opening Up Opportuni es: Educa on Reforms in Poland.â&#128;&#157; IBS (Ins tute Badan&#13;
+Strukturalnych) Policy paper 01/2015&#13;
+&#13;
+Jakubowski, M., H. A. Patrinos, E. E. Porta, and J. WiÅ&#155;niewski. 2010. â&#128;&#156;The Impact of the 1999 Educa on Reform in&#13;
+&amp;#12;page 40                                                                                                                  page 41&#13;
+&#13;
+Annex&#13;
+Figure A1. Evolu on of ESCS 2000-2012 by percen les&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Source: World Bank staï¬&#128; es ma ons using PISA 2012 data.&#13;
+&#13;
+Table A1. Percent of popula on aged 15+ by highest level of schooling a ained and average years of schooling in&#13;
+                                             Poland, 1990-2010&#13;
+                                   Highest level a ained                             Average Years of Schooling&#13;
+  Year           Primary                Secondary               Ter ary&#13;
+                                                                             Total    Primary    Secondary    Ter ary&#13;
+           Total    Completed      Total Completed         Total Completed&#13;
+  1990     47.5         41.7        44.9        40.1       5.9      3.4      9.06       6.94        1.94          0.19&#13;
+  1995     34.2         32.1        54.1        47.7       9.6      5.5      9.86       7.14        2.42          0.30&#13;
+  2000     27.3         26.0        59.6        52.8       10.8     6.2      10.26      7.24        2.68          0.34&#13;
+  2005     21.6         20.8        60.7        54.7       16.7     9.8      10.94      7.43        2.98          0.53&#13;
+  2010     17.1         16.1        63.7        58.4       19.0     11.4     11.32      7.39        3.32          0.61&#13;
+Source: Barro-Lee Dataset (2012)&#13;
+&amp;#12;</ml:original-txt><ml:search-metadata><doc id="25518729">
+        <url>
+            http://documents.worldbank.org/curated/en/2015/12/25518729/poland-skilling-up-next-generation-analysis-poland’s-performance-program-international-student-assessment
+        </url>
+        <availablein>English</availablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2015/12/25518729/poland-skilling-up-next-generation-analysis-poland’s-performance-program-international-student-assessment</url_friendly_title>
+        <new_url>2015/12/25518729/poland-skilling-up-next-generation-analysis-poland’s-performance-program-international-student-assessment</new_url>
+        <disclosure_date>2015-12-04T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2015-12-04T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <docm_id>090224b083ad1fce</docm_id>
+        <chronical_docm_id>090224b083ad1fce</chronical_docm_id>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2015/12/04/090224b083ad1fce/1_0/Rendered/INDEX/Poland000Skill0l0student0assessment.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2015/12/04/090224b083ad1fce/1_0/Rendered/PDF/Poland000Skill0l0student0assessment.pdf</pdfurl>
+        <datestored>2015-12-04T00:00:00Z</datestored>
+        <docdt>2015-12-02T04:29:02Z</docdt>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            Poland - Skilling up the next generation :
+            an analysis of Poland’s performance in the program for
+            international student assessment
+        </repnme>
+        <abstracts>
+            Facing the prospects of rapid
+            demographic aging and decline over the coming decades,
+            Poland needs a highly skilled workforce to help generate the
+            productivity growth that it needs to fuel continued
+            convergence of its living standards with those of its West
+            European neighbors. Skilling up the workforce starts with
+            equipping youth with the right cognitive and socio-emotional
+            foundation skills. International research has identified
+            three dimensions of skills that matter for good employment
+            outcomes and economic growth: cognitive skills, such as
+            literacy, numeracy, and creative and critical thinking or
+            problem solving; socio-emotional skills and behavioral
+            traits, such as conscientiousness, grit, and openness to
+            experience; and job- or occupation-specific technical
+            skills, such as the ability to work as an engineer. This
+            report focuses on cognitive skills. It examines results for
+            Poland from the program for international student assessment
+            (PISA), which assesses the mathematics, reading, and science
+            competencies of 15-year-olds. The overall effects of reform
+            on Poland’s PISA scores have been positive, although
+            isolating the precise impact of each reform element is
+            difficult. There is evidence from PISA assessments
+            replicated for older students in upper-secondary education
+            in 2006, 2009 and 2012 that performance gaps previously
+            found between vocational and general schools for
+            15-year-olds prior to the 1999 reform persist today in upper
+            secondary education, where the performance of students in
+            vocational upper-secondary schools trails that of their
+            peers in general education.
+        </abstracts>
+        <docna>
+            Poland - Skilling up the next generation :
+            an analysis of Poland’s performance in the program for
+            international student assessment
+        </docna>
+        <display_title>Poland - Skilling up the next
+            generation : an analysis of Poland’s performance in the
+            program for international student assessment</display_title>
+        <listing_relative_url>/research/2015/12/25518729/poland-skilling-up-next-generation-analysis-poland’s-performance-program-international-student-assessment</listing_relative_url>
+        <topic>Education, Skills Development and Labor
+            Market m1326135 1484,Livelihood Skills m1327268 1583,Education Access and Equity m1327050 2127,Employability, Skills and Jobs m1327054 2131,Education Efficiency m1327731 2135</topic>
+        <projn>7A-Central Europe And Baltics Pisa Analysis
+            -- P152132</projn>
+        <subtopic>Educational Sciences,Education For All,Primary Education,Secondary Education,Tertiary Education</subtopic>
+        <docty>Working Paper</docty>
+        <teratopic>Education</teratopic>
+        <count>EU Accession Countries</count>
+        <authors>
+            <author>Bodewig,Christian</author>
+            <author>Gortazar,Lucas</author>
+            <author>Herrera Sosa,Katia Marina</author>
+            <author>Kutner,Daniel</author>
+            <author>Amoroso,Jeremie Matthew</author>
+            <author>Moreno,Juan Martin</author>
+        </authors>
+        <entityids>
+            <entityid>090224b083ad1fce_1_0</entityid>
+        </entityids>
+        <theme>Education for all</theme>
+        <subsc>Primary education,Pre-primary education,Secondary education</subsc>
+        <admreg>Europe and Central Asia,Europe and Central Asia</admreg>
+        <lang>English</lang>
+        <historic_topic>Education</historic_topic>
+        <prdln>Economic and Sector Work</prdln>
+        <topicv3>Education, Skills Development and Labor
+            Market m1326135 1484,Livelihood Skills m1327268 1583,Education Access and Equity m1327050 2127,Employability, Skills and Jobs m1327054 2131,Education Efficiency m1327731 2135</topicv3>
+        <sectr>Education</sectr>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            skills, living standards, employment, school
+            system, college, economic growth, school readiness, school
+            policy, schooling, numeracy, enrollment, groups, university
+            entrance, final exam, labor force, career, gross enrolment,
+            general secondary schools, computer skills, technical
+            skills, access to preschool, disciplines, thinking, exams,
+            exam, employment outcomes, literacy, university entrance
+            exams, training, graduate, secondary schools, curriculum
+            content, ability, aging, secondary school, older workers,
+            primary schooling, needs, competencies, student achievement,
+            learning, graduates, education system, research, science
+            study, research development, school students, primary
+            school, teaching, disadvantaged children, test scores, upper
+            secondary schools, problem solving, kindergarten, old
+            students, reading, subjects, human capital, student
+            assessment, study, academic performance, workers, quality
+            preschool, science, student, professional life, schools,
+            age, curricula, gender, learning outcomes, lifelong
+            learning, childhood, school types, student performance,
+            competence, skilled workforce, enrollment rate, entrance
+            exam, achievement, public expenditures, expenditures, early
+            childhood, youth, lower secondary, student assessments,
+            school systems, curriculum, quality of life, teacher,
+            international student assessment, upper secondary, basic
+            literacy, cognitive skills, children, education, lower
+            secondary school, assessment methods, problem solving
+            skills, rural areas, basic skills, performance, experience,
+            professional development, lower secondary schools, young
+            people, girls, performance of students, university,
+            students, expenditures per student, net enrollment, net
+            enrollment rate, admission criteria, classroom, logical
+            thinking, school, secondary education, student learning,
+            social mobility, problem-solving skills, assessment system
+        </keywd>
+        <owner>EDU GP ECA (GED03)</owner>
+        <majtheme>Human development</majtheme>
+        <repnb>101562</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>Social Development &amp; Poverty</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Economic Management</ml:concept><ml:concept>Macroeconomic Management</ml:concept><ml:concept>Macroeconomic Policy</ml:concept><ml:concept>Macroeconomics Policy</ml:concept><ml:concept>Macroeconomics and Economic Growth</ml:concept><ml:concept>Macroeconomics and Growth</ml:concept><ml:concept>Teaching and Learning</ml:concept><ml:concept>Energy</ml:concept><ml:concept>Energy and Mining</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Social Protections and Labor</ml:concept><ml:concept>Science and Technology</ml:concept><ml:concept>Social Development</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Macroeconomic and Structural Policies</ml:concept><ml:concept>Education</ml:concept><ml:concept>Economic Growth</ml:concept><ml:concept>Energy and Extractives</ml:concept><ml:concept>Health, Nutrition and Population</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Social Protection and Labor</ml:concept><ml:concept>Public Expenditure</ml:concept><ml:concept>Demographic Transition</ml:concept><ml:concept>Safety Nets</ml:concept><ml:concept>Safety Nets and Transfers</ml:concept><ml:concept>Social Safety Nets</ml:concept><ml:concept>Shared Prosperity</ml:concept><ml:concept>Continuous Vocational Training (CVT)</ml:concept><ml:concept>Lifelong Learning</ml:concept><ml:concept>Strengthening Technical Education</ml:concept><ml:concept>Strengthening Vocational Education</ml:concept><ml:concept>Technical Vocational Education and Training Policies and Systems</ml:concept><ml:concept>Technical and Vocational Education</ml:concept><ml:concept>Vocational Education and Training</ml:concept><ml:concept>Vocational Training</ml:concept><ml:concept>Adult Education</ml:concept><ml:concept>Adult Education, Literacy, and Lifelong Learning</ml:concept><ml:concept>Continuing Education</ml:concept><ml:concept>Demographics</ml:concept><ml:concept>Longevity</ml:concept><ml:concept>Efficiency of Public Expenditures</ml:concept><ml:concept>Public Expenditures</ml:concept><ml:concept>Public Financial Management</ml:concept><ml:concept>Public Spending</ml:concept><ml:concept>Civil Service Employment</ml:concept><ml:concept>Civil Service Reform</ml:concept><ml:concept>Human Capital</ml:concept><ml:concept>Managing People</ml:concept><ml:concept>Public Employment</ml:concept><ml:concept>Employment and Growth</ml:concept><ml:concept>Improving Labor Markets</ml:concept><ml:concept>Labor Market Interventions</ml:concept><ml:concept>Labor Markets, Job Creation and Economic Growth</ml:concept><ml:concept>Educational Sciences</ml:concept><ml:concept>Fuels</ml:concept><ml:concept>Income</ml:concept><ml:concept>Engineering</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Government Expenditure</ml:concept><ml:concept>Demographic Change</ml:concept><ml:concept>Social Assistance</ml:concept><ml:concept>Literacy and Numeracy</ml:concept><ml:concept>Youth</ml:concept><ml:concept>Local Government</ml:concept><ml:concept>Inclusive Growth</ml:concept><ml:concept>Population</ml:concept><ml:concept>Aging</ml:concept><ml:concept>Managing Public Finances</ml:concept><ml:concept>Human Resources Management</ml:concept><ml:concept>Labor Markets</ml:concept></ml:concepts><ml:geo-regions><ml:geo-region>Asia</ml:geo-region><ml:geo-region>Central Asia</ml:geo-region></ml:geo-regions></ml:annotations></ml:doc-envelope>

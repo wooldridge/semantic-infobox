@@ -1,0 +1,941 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>                             102184&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Turkeyâ&#128;&#153;s Response to&#13;
+the Syrian Refugee Crisis&#13;
+and the Road Ahead&#13;
+WORLD BANK â&#128;&#147; DECEMBER 2015&#13;
+&amp;#12;The International Bank for Reconstruction and Development / The World Bank&#13;
+1818 H Street, NW&#13;
+Washington, DC 20433&#13;
+All rights reserved&#13;
+First published December 2015&#13;
+&#13;
+&#13;
+   Disclaimer:&#13;
+&#13;
+   This volume is a product of the staff of the International Bank for Reconstruction and Development/The&#13;
+   World Bank. The findings, interpretations, and conclusions expressed in this paper do not necessarily reflect&#13;
+   the views of the Executive Directors of The World Bank or the governments they represent. The World Bank&#13;
+   does not guarantee the accuracy of the data included in this work. The boundaries, colors, denominations,&#13;
+   and other information shown on any map in this work do not imply any judgment on the part of The World&#13;
+   Bank concerning the legal status of any territory or the endorsement or acceptance of such boundaries.&#13;
+&#13;
+&#13;
+Copyright Statement:&#13;
+&#13;
+The material in this publication is copyrighted. Copying and/or transmitting portions or all of this work without&#13;
+permission may be a violation of applicable law. The International Bank for Reconstruction and Development/The&#13;
+World Bank encourages dissemination of its work and will normally grant permission to reproduce portions of the&#13;
+work promptly.&#13;
+&#13;
+For permission to photocopy or reprint any part of this work, please send a request with complete information to&#13;
+the Copyright Clearance Center, Inc., 222 Rosewood Drive, Danvers, MA 01923, USA, telephone 978-750-8400, fax&#13;
+978-750-4470, http://www.copyright.com/.&#13;
+&#13;
+All other queries on rights and licenses, including subsidiary rights, should be addressed to the Office of the Pub-&#13;
+lisher, The World Bank, 1818 H Street NW, Washington, DC 20433, USA, fax 202- 522-2422, e-mail pubrights@world-&#13;
+bank.org.&#13;
+&#13;
+Photos credits: Flckr Libray - Russell Watkins/Department for International Development&#13;
+Cover Design and Text layout: Duina Reyes-Bakovic&#13;
+&amp;#12;              Acronyms and Abbreviations&#13;
+&#13;
+                 AFAD	             Disaster and Emergency Management Authority&#13;
+                 AFKEN	            Disaster Management System&#13;
+                 CBEs	             community-based education&#13;
+                 DGMM	             Directorate General of Migration Management&#13;
+                 EYDAS	            Electronic-based Aid Distribution System&#13;
+                 GIS	              Geographic Information System&#13;
+                 GoT	              Government of Turkey&#13;
+                 IDPs	             internally displaced persons&#13;
+                 MoH	              Ministry of Health&#13;
+                 MoNE	             Ministry of Education&#13;
+                 NGO	              nongovernmental organization&#13;
+                 ReDAT	            Refugee Doctor Adaptation Training&#13;
+                 SuTP	             Syrians under Temporary Protection&#13;
+                 TEC	              temporary education center&#13;
+                 TP	               Temporary Protection&#13;
+                 UN	               United Nations&#13;
+                 UNHCR	            United Nations High Commissioner for Refugees&#13;
+                 WHO	              World Health Organization&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Background/Acknowledgements&#13;
+&#13;
+The Government of Turkey and the World Bank are working in partnership on a program of technical assis-&#13;
+tance that aims to identify and mitigate the impact of Syrians under Temporary Protection (SuTPs) on Turkish&#13;
+hosting communities. This paper was written by Holly Benner, Arzu Uraz, Joanna de Berry, and William Wise-&#13;
+man of the World Bank, with valuable contributions from Zeynep Darendeliler and Elif Yukseker. The paper&#13;
+was produced under the guidance of Johannes Zutt (World Bank Country Director, Turkey) and Mariam Sher-&#13;
+man (Director for Operations, Eastern Europe and Central Asia, World Bank). Funding for the work was avail-&#13;
+able under the â&#128;&#156;Turkey Regional Development and Vulnerabilityâ&#128;&#157; Program co-led by the Social Development&#13;
+and Urban Development teams of the World Bank and financed by SIDA.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                               TURKEYâ&#128;&#153;S RESPONSE TO THE SYRIAN REFUGEE CRISIS AND THE ROAD AHEAD   ï&#128;¼&#13;
+                                                                                                                                       1&#13;
+&amp;#12;                             Turkeyâ&#128;&#153;s Response to the&#13;
+                             Syrian Refugee Crisis and&#13;
+                                  the Road Ahead&#13;
+&#13;
+Today, global leaders face the greatest movement of                  The GoTâ&#128;&#153;s non-camp approach was driven by the scale&#13;
+peoples since World War IIâ&#128;&#148;nearly 60 million are dis-                of the crisis. As a result, the GoTâ&#128;&#153;s approach diverges&#13;
+placed as refugees or internally displaced around the                from the way in which hosting countries commonly&#13;
+world. Forced displacement situations are often pro-                 respond to refugee situationsâ&#128;&#148;by directing refugees&#13;
+tracted and unresolved; only 126,800 refugees were                   into camps supported by humanitarian agencies. Ex-&#13;
+able to return to their home countries in 2014â&#128;&#148;the                   perience shows that when refugees are supported in&#13;
+lowest number in 31 years. With no end in sight to the               becoming socially and economically self-reliant, and&#13;
+conflicts producing the largest refugee flows, it is in-             given freedom of movement and protection, they are&#13;
+                                                                     more likely to contribute economically to their host&#13;
+creasingly clear that humanitarian responses must be&#13;
+                                                                     country. They are also more likely to be able to under-&#13;
+paired with development interventions that can begin&#13;
+                                                                     take a successful return process. Integrating support&#13;
+to respond to the scope, long-term nature, and socio-&#13;
+                                                                     for refugees into mainstream government service pro-&#13;
+economic impacts of this global crisis.                              vision can be more cost effective and sustainable than&#13;
+Turkey now hosts the largest refugee population in the               setting up parallel delivery channels. However, this ap-&#13;
+                                                                     proach also creates challenges for both SuTP and host-&#13;
+world (see Figure 1). The Government of Turkey (GoT)&#13;
+                                                                     ing communities, which include socioeconomic pres-&#13;
+estimates the total number of registered Syrians under&#13;
+                                                                     sures such as deficits in housing and service delivery,&#13;
+Temporary Protection (SuTPs) at 2,225,147.1, 2 Facing a&#13;
+                                                                     joblessness, and the potential for social tensions.Â &#13;
+record influx of displaced, the GoT is setting a global&#13;
+precedent for a refugee response with two unique fea-                The objective of this policy brief is to collate existing&#13;
+tures:                                                               publically available material on the situation of SuTPs&#13;
+       (i)	 A non-camp approach. Only 12 percent of the&#13;
+            total number of SuTPs are living in tents and&#13;
+            temporary shelters;3 the rest are settled in ur-           Figure 1. Major refugee-hosting countries&#13;
+            ban areas, where they seek their own accom-&#13;
+            modation and work opportunities.&#13;
+                                                                                     (in millions)&#13;
+       (ii)	 A government-financed approach. By Septem-                   Turkey&#13;
+             ber 2015, the GoT had spent an estimated $7.6               Pakistan&#13;
+                                                                                                                       Top-3&#13;
+             billion on its response to Syrian refugees.                                                               30%* Top-4&#13;
+                                                                        Lebanon&#13;
+                                                                          Islamic&#13;
+                                                                                                                            41%*&#13;
+                                                                      Rep. of Iran&#13;
+                                                                         Ethiopia                                                   Top-10&#13;
+1â&#128;&#131;   See http://www.haberturk.com/gundem/haber/1130284-nu-&#13;
+                                                                          Jordan                                                    57%*&#13;
+man-kurtulmus-turkiyede-kayitli-2-milyon-225-bin-147-suriyeli-var.&#13;
+                                                                           Kenya&#13;
+2â&#128;&#131; The largest concentrations of refugees are in Istanbul (20 per-&#13;
+                                                                            Chad&#13;
+cent of the total refugee population), and the southern provinces&#13;
+                                                                         Uganda&#13;
+of Gaziantep (14 percent), Hatay (12 percent) and Sanliurfa (10&#13;
+percent). Fifty one percent of all refugees are children under 18          China&#13;
+&#13;
+years of age (AFAD, 2013).                                                       0.00 0.25 0.50 0.75 1.00 1.25 1.50 1.75&#13;
+&#13;
+3â&#128;&#131;   See https://www.afad.gov.tr/TR/IcerikDetay1.                     Source: UNHCR 2014 Global Trends in Forced Displacement&#13;
+aspx?ID=16&amp;IcerikID=848.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+2&#13;
+&amp;#12;                                                                            Turkeyâ&#128;&#153;s response to the crisis also includes much&#13;
+  Figure 2. Displacement in the 21st century                                more than the government-led legal framework and&#13;
+                                                                            support. It involves many acts of individual kindness at&#13;
+                                                            (in millions)   the local level, whereby Turkish families and civil soci-&#13;
+  60&#13;
+                                                                            ety organizations have made donations and extended&#13;
+                                                                            help to their new Syrian neighbors. One survey (HUGO,&#13;
+  50&#13;
+                                                                            2014) across a large sample in 18 provinces indicates&#13;
+  40                                                                        that 31 percent of Turkish respondents had made a&#13;
+                                                                            personal financial contribution in support of Syrian&#13;
+  30                                                                        refugees.&#13;
+&#13;
+  20                                                                        The GoTâ&#128;&#153;s Response&#13;
+  10&#13;
+                                                                            To operationalize the TP guidelines, different Turkish&#13;
+                                                                            ministries have completed the subsidiary legal ar-&#13;
+   0&#13;
+       â&#128;&#152;00    â&#128;&#152;02     â&#128;&#152;04      â&#128;&#152;06      â&#128;&#152;08     â&#128;&#152;10        â&#128;&#152;12       â&#128;&#152;14    rangements to implement the measures. These guar-&#13;
+                                                                            antee registered SuTPs access to health care, educa-&#13;
+       Refugees and asylum-seekers        Internally displaced persons      tion, social services, and the labor market. Psychosocial&#13;
+                 People Newly displaced during the year*                    support and rehabilitation services are also prioritized&#13;
+                                                                            for groups with special needs, such as children, women,&#13;
+ Source: UNHCR 2014 Global Trends in Forced Displacement                    and the elderly. Those holding a TP identification card&#13;
+                                                                            can secure access to electricity, water, communication&#13;
+                                                                            services and are able to open bank accounts. Some of&#13;
+in Turkey and to summarize: (i) the strategy and prin-&#13;
+                                                                            these remain subject to approval. For example, regu-&#13;
+ciples of Turkeyâ&#128;&#153;s unique response to its displacement&#13;
+                                                                            lating access to the labor market through work permits&#13;
+crisis; (ii) the challenges in managing the socioeco-&#13;
+                                                                            is being discussed with the Council of Ministers.&#13;
+nomic dimensions of displacement; and (iii) remaining&#13;
+critical policy issues and the road ahead for Turkey, as                    A cross-sectoral collaboration has been established&#13;
+well as implications for other countriesâ&#128;&#153; refugee re-                       among Turkish ministries in order to respond to the di-&#13;
+sponse efforts.                                                             verse needs of the SuTPs. The Disaster and Emergency&#13;
+                                                                            Management Authority (AFAD) coordinates the emer-&#13;
+                                                                            gency response, with the involvement of the Ministries&#13;
+1. Turkeyâ&#128;&#153;s Response to the                                                 of Interior, Foreign Affairs, Health, Education, Agricul-&#13;
+Syrian Displacement Crisisâ&#128;&#148;                                                 ture and Forestry, Transportation, Family and Social&#13;
+Strategy and Principles                                                     Policies, Labor, Social Security and Finance; the Turkish&#13;
+                                                                            Armed Forces; the Presidency of Religious Affairs; the&#13;
+                                                                            Turkish Red Crescent Society; and the Undersecretary&#13;
+The GoT defined its response to the arrival of refugees&#13;
+                                                                            of Customs. Since the Law on Foreigners and Interna-&#13;
+from Syria through the 2013 â&#128;&#156;6458: Law on Foreigners&#13;
+                                                                            tional Protection came into force in April 2014, the Di-&#13;
+and International Protection,â&#128;&#157; which defined a Tem-&#13;
+                                                                            rectorate General of Migration Management (DGMM)&#13;
+porary Protection (TP) regime for the Syrian refugees.&#13;
+                                                                            has become the sole institution responsible for pro-&#13;
+The TP Regulation was prepared pursuant to Article&#13;
+                                                                            tection and asylum issues. The recent nomination of a&#13;
+91 and put into force on 22 October 2014. It sets out&#13;
+                                                                            chief advisor to the Prime Minister on SuTP response is&#13;
+how TP status is issued and the specific provisions for&#13;
+                                                                            bolstering the coordination needed for a comprehen-&#13;
+admission, registration and exit while under tempo-                         sive inter-agency response.&#13;
+rary protection in Turkey. It also outlines the rights and&#13;
+responsibilities of those under temporary protection;                       The GoT has also continuously adapted to the chang-&#13;
+regulates the TP identification process; services to be                     ing nature of the crisis and the needs of SuTP commu-&#13;
+provided to persons under TP; and outlines the coordi-                      nities already residing in Turkey. Authorities have, for&#13;
+nation between national, local and international agen-                      example, shifted from emergency response to long-&#13;
+cies involved in the response. The TP extends to all Syr-                   term planning. While organizations such as AFAD and&#13;
+ian refugees whether or not they are registered.                            the Turkish Red Crescent Society were initially tasked&#13;
+&#13;
+&#13;
+&#13;
+                                                                                  TURKEYâ&#128;&#153;S RESPONSE TO THE SYRIAN REFUGEE CRISIS AND THE ROAD AHEAD   ï&#128;¼&#13;
+                                                                                                                                                          3&#13;
+&amp;#12;    Map 1. SuTP camps and refugee centers&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+    Source: UNHCR, 2015&#13;
+&#13;
+&#13;
+&#13;
+with SuTP reception and assistance, a broader set of       data. This registration was conducted under the coor-&#13;
+agencies are now involved in managing a more holistic      dination of DGMM. To support the registration process,&#13;
+and long-term approach.                                    a â&#128;&#156;Temporary Protection Moduleâ&#128;&#157; was launched on 30&#13;
+                                                           November 2015 in the GÃ¶Ã§Net system to consolidate&#13;
+In an effort toward more strategic planning, the GoT       all biometric data on SuTP into one data base, facili-&#13;
+has also increasingly involved international organiza-     tating access to the information by different ministries.&#13;
+tions and civil society groups with experience in pro-     AFAD has developed an electronic-based aid distribu-&#13;
+tracted refugee response settings (Icduygu, 2015, p. 9).   tion systemâ&#128;&#148;Elektronik YardÄ±m DaÄ&#159;Ä±tÄ±m Sistemi (EY-&#13;
+For example, in 2015 the United Nations High Commis-       DAS)â&#128;&#148;that matches SuTPs in need with those provid-&#13;
+sioner for Refugees (UNHCR) cooperated closely with        ing assistance, so as to facilitate a speedy response.&#13;
+the Turkish authorities to build DGMMâ&#128;&#153;s capacity and&#13;
+to develop a new asylum system. While UNHCR will           Camp policies&#13;
+continue to work on case management, it will start&#13;
+a phased handover of registration and refugee sta-         The GoT has also taken a progressive approach to the&#13;
+tus determination fully to DGMM. Community-based           relatively limited number of SuTPs (over 250,000) re-&#13;
+organizations and nongovernmental organizations            siding in 25 camps across 10 provinces in Turkey (see&#13;
+(NGOs) have provided invaluable local-level support        Map 1).4 The camps are all managed and financed by&#13;
+for SuTPs, including setting up community centers and      Turkey through AFAD. While AFAD utilized UNHCR&#13;
+offering legal advice, translation services, and psycho-   camp guidelines, the GoT designed its own approach.&#13;
+social care.&#13;
+&#13;
+The GoT has utilized innovative technologies in track-&#13;
+ing SuTP movements and trends. Turkey has just fin-        4â&#128;&#131;   See https://www.afad.gov.tr/TR/IcerikDetay1.&#13;
+ished registering almost all of the SuTPs with biometric   aspx?IcerikID=848&amp;ID=16, accessed October 14, 2015.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+4&#13;
+&amp;#12;The camps are staffed by Turkish government em-                    proach is increasingly recognized as having significant&#13;
+ployees, with some NGO involvement in supporting                   limitations, especially for longer-term development&#13;
+roles. When the first waves of Syrians began arriving              prospects (UNHCR, 2014b). Integrating support for&#13;
+in Turkey, within 24 hours the Turkish government had              refugees into mainstream government service provi-&#13;
+set up an emergency tent camp for them in southern                 sion can be more cost effective than setting up large-&#13;
+Hatay Province. Moreover, in less than four years, the             scale camps and parallel humanitarian service delivery&#13;
+Turkish government has shouldered the financial and                channels. This is particularly true in the case of situa-&#13;
+management responsibility of 25 camps in provinces                 tions of protracted displacement. This approach also&#13;
+along its 500-mile border with Syria. The camps aim to             offers the potential benefit of more broadly building&#13;
+offer a better standard of shelter and services and have           the capacity of national and local institutions.&#13;
+been recognized for their cleanliness, safety, mainte-&#13;
+nance, power lines, schools, and other services and                Emerging global evidence increasingly shows that giv-&#13;
+amenities (McClelland, 2014). UNCHR has declared the               ing refugees the freedom to live outside of camp set-&#13;
+Turkish-led and Turkish-financed camp management                   tings, providing opportunities for social and economic&#13;
+as â&#128;&#156;emergency response of a consistently high stan-                self-reliance, and protecting rights is more likely to re-&#13;
+dardâ&#128;&#157; (UNHCR, 2015). However, there are growing con-               sult in economic benefits for host countries (UNHCR&#13;
+cerns regarding the finances and support needed to                 2014b). Refugees who are self-sufficient are also more&#13;
+sustain the camps at the same standard of quality and              likely to be able to undertake a successful and sustain-&#13;
+services.                                                          able return process to their home countries, when the&#13;
+                                                                   situation allows (World Bank, 2015b).&#13;
+AFAD has also established a Disaster Management&#13;
+System (AFKEN) which allows all the camps and tem-                 Indeed, preliminary observations of the impact SuTPs&#13;
+porary disaster centers to be managed, standardized,               have on the Turkish economy show some potential&#13;
+and monitored in one holistic system that is GIS-based.            positive trends. Syrians arriving with assets have in-&#13;
+Through AFKEN, the GoT can monitor the capacity sta-               vested in Turkey: in 2014, 1,222 out of 4,249 foreign-&#13;
+tus of the camps, integrate with MERNIS (the central-              owned businesses in Turkey were established by&#13;
+ized population management system), and manage                     Syrians. In Gaziantep, Mersin, and Hatay, 122 Syrian-&#13;
+aid distribution, supply stocks, and personnel.                    owned companies were registered in 2013, and the es-&#13;
+                                                                   timated initial capital invested in these companies was&#13;
+Recognizing the potential challenges faced by SuTPs                TL 39 million (Brookings Institution and USAK, 2013).&#13;
+residing in the camps, AFAD has also taken measures                Syrians have also started up (mainly unregistered) mi-&#13;
+to improve SuTP self-sufficiency and quality of life.              croenterprises, particularly cafes and restaurants.&#13;
+The GoT has ensured that Syrians are represented by&#13;
+their own community leaders within the camps and in                Further gains come from the expansion of local mar-&#13;
+discussions with camp managers.5 Syrian teachers are               kets in areas with high SuTP concentration; receipt of&#13;
+hired in camp-run schools. Electronic food vouchers, or            remittances from within Syria during the early years&#13;
+e-cards, are being distributed to simplify life for SuTPs          of the conflict; and the benefits of government SuTP&#13;
+and enable them to go into shops and buy food.                     expenditures for local suppliers and SuTPsâ&#128;&#153; labor con-&#13;
+                                                                   tribution.&#13;
+Implications of the GoTâ&#128;&#153;s Response                                 Nevertheless, the strains of hosting SuTPs are felt es-&#13;
+                                                                   pecially in cities in the southeast of Turkey. Tensions&#13;
+The two key characteristics of the Turkish responseâ&#128;&#148;a              from Turkish communities relate to competition over&#13;
+non-camp, government-financed approachâ&#128;&#148;strongly                    jobs, rising rent prices, strains on municipal services&#13;
+differentiate it from many refugee-hosting countries,              and infrastructure, and cultural differences with SuTPs.&#13;
+where the tendency is to direct refugees into camps                Perception surveys show mixed attitudesâ&#128;&#148;Turkish&#13;
+supported by external humanitarian agencies. This ap-              families recognize the humanitarian imperative to&#13;
+                                                                   respond to SuTPs and show much generosity toward&#13;
+                                                                   them; yet they are also deeply concerned about the&#13;
+5â&#128;&#131;   Statement of President of AFAD: https://www.afad.gov.tr/TR/&#13;
+                                                                   social consequences of the presence of SuTPs in their&#13;
+HaberDetay.aspx?ID=5&amp;IcerikID=4710 accessed on October 16,&#13;
+                                                                   communities.&#13;
+2015&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                         TURKEYâ&#128;&#153;S RESPONSE TO THE SYRIAN REFUGEE CRISIS AND THE ROAD AHEAD   ï&#128;¼&#13;
+                                                                                                                                                 5&#13;
+&amp;#12;2. Socioeconomic Pressures                                               Figure 3. Socioeconomic pressuresâ&#128;&#148;displacement&#13;
+of Displacement: Turkeyâ&#128;&#153;s                                                response&#13;
+&#13;
+Approach, Lessons Learned,&#13;
+and Challenges&#13;
+                                                                                           Welfare                 Housing &amp;&#13;
+The key challenge facing the GoT is to mitigate the po-&#13;
+tential negative impacts of hosting SuTPs while build-                                                             Municipal&#13;
+ing on the positive contributions refugees can make.                                                                Services&#13;
+The following section provides an assessment of the                           Labor&#13;
+GoTâ&#128;&#153;s response and continuing challenges in manag-                           Market &amp;           Syrians and Host&#13;
+ing the socioeconomic dimensions of displacement.                             Skills              Communities&#13;
+This includes a focus on the most common issues&#13;
+faced by both displaced and host communities in a                                                                         Social&#13;
+development-oriented response effort, including in-                                                                      cohesion&#13;
+come, welfare, and employment; pressures on housing                                          Education &amp;&#13;
+and services; and social tensions/community relations                                          Health&#13;
+(see Figure 3).&#13;
+&#13;
+In each of these areas, the GoT has complex decisions&#13;
+ahead on whether and how to extend benefits and in-&#13;
+crease investments for both SuTP and host communi-&#13;
+ties.                                                                  alizing formal access to the labor market by issuing&#13;
+                                                                       work permits is awaiting approval by the Council of&#13;
+Socioeconomic Challenges, Lessons, and                                 Ministers. In absence of this, only SuTPs with residence&#13;
+Considerations Moving Forward                                          permits can apply for work permits. Work permits are&#13;
+                                                                       difficult to obtain. To date 6,858 Syrians have been&#13;
+                                                                       granted work permits. Therefore, SuTPs mainly work in&#13;
+Income and employment. Surveys consistently&#13;
+                                                                       the informal sector and in low-skill jobs such as sea-&#13;
+show that SuTPs in southeast Turkey have been rely-&#13;
+                                                                       sonal agricultural work, construction, manufacturing&#13;
+ing on savings, selling assets (for example, jewelry),&#13;
+                                                                       or textiles, and waste picking and sorting. Some have&#13;
+and remittances as their greatest source of household&#13;
+                                                                       also been absorbed into the service industry.&#13;
+income. However, as these assets and savings are de-&#13;
+pleted, there is increasing demand for employment                      While SuTPs were initially concentrated in Turkeyâ&#128;&#153;s&#13;
+opportunities (STL, 2014; IMC, 2014).6 Data on current                 southeastern provinces, the search for better liveli-&#13;
+employment rates among SuTPs is sparse. One survey                     hood opportunities has been a key factor in their&#13;
+suggested that the rates of refugee households hav-                    spread across the country, mostly to areas of seasonal&#13;
+ing at least one working member were 61 percent of                     agricultural work or metropolitan cities. An assess-&#13;
+refugees in Urfa; 16 percent in Hatay; and 30 percent                  ment in Istanbul found that the majority had arrived&#13;
+in Kilis (STL, 2014).                                                  in the last six months, suggesting that the flow may be&#13;
+                                                                       increasing (IMC/ASAM, 2014).&#13;
+As noted above, Turkey passed additional legal guide-&#13;
+lines for foreigners under temporary protection in&#13;
+October 2014 that provides SuTPs access to the labor&#13;
+market7. However, secondary legislation for operation-&#13;
+                                                                       rary Protection Regulation provides legal guarantee for the right to&#13;
+                                                                       work as an indispensable element of social life. It has the provision&#13;
+                                                                       that all SuTP, whose registration procedures have been completed&#13;
+6â&#128;&#131;   Refugees report that the transaction costs of these remittances&#13;
+                                                                       and who have been granted a Temporary Protection ID Card, can&#13;
+from Syria are increasing with the deterioration of mobile phone&#13;
+                                                                       apply to the Ministry of Labor and Social Security to obtain working&#13;
+networks and banking systems.&#13;
+                                                                       permits in sectors, business lines and geographical areas to be&#13;
+7â&#128;&#131; The binding Article titled â&#128;&#152;Access to Labor Marketâ&#128;&#153; of the Tempo-   determined by the Council of Ministers.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+6&#13;
+&amp;#12;There are reports of SuTPs working under exploitative       education, and increase in average wages (Del Carpio,&#13;
+conditions in the informal sector; these include long       Wagner, and Triebe, 2015). Nevertheless, the wide-&#13;
+hours, unsafe conditions, lack of guaranteed payment,       spread perception and experience of Turkish workers&#13;
+and low wages. One survey states that average wages         seems to indicate increased competition over jobs and&#13;
+for refugees were TL 5.6/day in Hatay and TL 14/day in      a lowering of wages. Further investigation is required&#13;
+Urfa (STL, 2013); another gives the average monthly in-     on this issue.&#13;
+come from employment for refugees in Gaziantep as&#13;
+TL 406/month (IMC, 2014). The current net minimum           Education. The GoT has put forth an enormous effort&#13;
+wage in Turkey is TL 1000.54/month.8                        to provide education options for SuTPs. The Turkish ap-&#13;
+                                                            proach to school provision for SuTPs has taken three&#13;
+Since their displacement from Syria, there have been        main forms: (i) integrating Syrian children into the&#13;
+significant changes in SuTP labor force participation       Turkish education system; (ii) allowing community-&#13;
+trends. Without work permits, few are able to gain          based education (CBE) programs run from within the&#13;
+formal employment in their previous professions. In         Syrian community; there is a range of curriculum used&#13;
+addition to legal status, lack of Turkish language skills   in these CBEs, with the most popular being the Libyan&#13;
+poses another primary barrier to entering the labor         curriculum and religious education (Refugee Studies&#13;
+market. Refugees often experience humiliation over          Centre, 2014); and (iii) facilitating Syrian children to&#13;
+lowering their job positions and being unable to carry      attend SuTP-designated temporary education centers&#13;
+on a previous profession (SREO, 2013).                      (TECs), which are supervised by the Ministry of Educa-&#13;
+                                                            tion (MoNE). These have Turkish senior administration&#13;
+Access to employment is also a potential flashpoint be-     but are staffed by Syrian teachers, with education pro-&#13;
+tween SuTPs and Turkish host communities. One sur-          vided through a modified version of the Syrian curricu-&#13;
+vey of Turkish workers who were newly unemployed            lum developed by the Syrian Commission of Education&#13;
+found that, depending on location, between 40 and           under the Syrian Interim Ministry of Education. Some&#13;
+100 percent of those who had lost their jobs attributed     TECs have been instituted by setting up a double-shift&#13;
+it to the presence of Syrians and increased competition     arrangement in Turkish school buildings, while others&#13;
+in the labor market (ORSAM, 2015a). Another survey          operate in municipal buildings or in the camps.&#13;
+found that 56 percent of Turkish respondents felt that&#13;
+                                                            MoNE estimates that there are 589,500 school-age Syr-&#13;
+â&#128;&#156;Syrians take our jobsâ&#128;&#157; (HUGO, 2014).9 Tensions seem&#13;
+                                                            ian children in Turkey and that up to 250,000 Syrian&#13;
+to particularly center on wage levels. The influx of Syr-   children are enrolled in school; an additional 137,650&#13;
+ians into the labor market has apparently driven down       plan to be enrolled by the end of the 2015â&#128;&#147;2016 school&#13;
+wages for both Syrians and Turks.                           year (a rise in enrollment rate from around 40 percent&#13;
+The full impact of the presence of Syrian refugees on       to 60 percent). MoNE has asked all provincial director-&#13;
+                                                            ates to register Syrian children of preschool and first-&#13;
+the labor market has yet to be analyzed. Three stud-&#13;
+                                                            year primary school age in the Turkish schools, though&#13;
+ies point to some positive trends: (i) Syrians may be&#13;
+                                                            this will take time. MoNE is therefore planning to open&#13;
+filling an unmet need for unskilled labor rather than&#13;
+                                                            an additional 60 temporary education centers to ad-&#13;
+displacing the labor force (ORSAM, 2015a); (ii) the pres-&#13;
+                                                            dress immediate capacity constraints, using the tem-&#13;
+ence of Syrians may have a tempering effect on the in-&#13;
+                                                            porary education centers as a interim solution. MoNE&#13;
+migration of Turkish nationals to the refugee hosting&#13;
+                                                            has also begun to provide Turkish preparatory courses&#13;
+areas, which mitigates changes in the labor market&#13;
+                                                            at public education centers (Halk Egitim Merkezi) to&#13;
+(IZA, 2015); and (iii) there is widespread displacement     facilitate the transition of Syrian children into Turkish&#13;
+in the informal labor market of Turkish informal work-      schools. Increasing access to the Turkish systems will&#13;
+ers by SuTP informal workersâ&#128;&#148;women are particularly         be formalized through a MoNE Circular currently un-&#13;
+affected. However the outcomes of this displacement         der preparation.&#13;
+are seen to be generally positive for Turkish workers&#13;
+with greater formalization of jobs, extended time in        Inside the camps, school enrollment rates have been&#13;
+                                                            high (around 86 percent), but much lower outside the&#13;
+                                                            camps. Recent enrollment rate increases can be tied&#13;
+                                                            to GoT efforts to open up more places within the Turk-&#13;
+8â&#128;&#131;   For the period of July 1, 2015 â&#128;&#147; December 31, 2015.&#13;
+                                                            ish education system. Yet several challenges persist in&#13;
+9â&#128;&#131; This rose to 69 percent in the border regions.           increasing SuTP enrollment, sustaining attendance,&#13;
+&#13;
+&#13;
+&#13;
+                                                                  TURKEYâ&#128;&#153;S RESPONSE TO THE SYRIAN REFUGEE CRISIS AND THE ROAD AHEAD   ï&#128;¼&#13;
+                                                                                                                                          7&#13;
+&amp;#12;and ensuring quality instruction. The most pressing in-         rising housing costs (both rent and utilities) at the low-&#13;
+clude: (i) the high degree of mobility of the SuTP popu-        er end of the housing spectrum. There is a projected&#13;
+lation, which results in school dropout; (ii) high levels       housing supply lag of an estimated nine years, and&#13;
+of psychosocial trauma, which disrupts concentration;           rent/utilities share of household expenditures has in-&#13;
+(iii) difficulties in retaining Syrian teachersâ&#128;&#148;most are        creased by over 10 percent over the last few years for&#13;
+unable to register for work permits and are paid mod-           the lowest deciles of the income spectrum. The pres-&#13;
+est stipends; (iv) the lack of quality control of services      sures on housing and municipal services introduced&#13;
+provided through CBE; and (v) overcrowding, damage,             by SuTPs have likely had a sharp impact on low-income&#13;
+and disruption to Turkish schools where double shifts           Turkish households (World Bank, 2015a, 2015b). May-&#13;
+are in place. In addition, there is a large unmet demand        ors in host communities in the countryâ&#128;&#153;s southeast&#13;
+for the provision of vocational, remedial, and higher           now highlight the growing number of street children,&#13;
+education among SuTP adolescents (Refugee Studies               the inadequacy of housing supply, the strain on mu-&#13;
+Centre, 2014).                                                  nicipal services, and the need for improved infrastruc-&#13;
+                                                                ture services and social safety nets.&#13;
+Housing and municipal services. Outside the camps,&#13;
+the initial wave of Syrians were put up in host house-          The quality of the housing stock utilized by refugees&#13;
+holds, building upon their existing social, cultural, or        has also been raised as a concern, with one rapid as-&#13;
+economic networks in Turkey. Over time this pattern             sessment reporting that only 25 percent of respon-&#13;
+has changed, with new arrivals increasingly finding             dents have access to heating and only 35 percent have&#13;
+their own places to live; many who had originally lived         easy access to toilets and shower facilities (Alliance&#13;
+with host families have moved into their own accom-             2015, 2014). Another survey suggested that 84 percent&#13;
+modation (Ozden, 2013; STL, 2014).                              of refugee families surveyed in Hatay, Urfa, and Kilis&#13;
+                                                                live in a single-room dwelling (STL, 2014). AFAD (2013)&#13;
+The most extensive assessment of refugees living out-           figures put the number of people per dwelling at 8.6&#13;
+side of camps (AFAD, 2013)10 found that 75 percent of           people per unit, with 32 percent of dwellings housing&#13;
+SuTPs live in houses or flats, while 25 percent live in         more than one family and the average dwelling size&#13;
+informal settlements or makeshift arrangements. Most            being 2.1 rooms, all of which suggests significant over-&#13;
+of those who live in houses or flats rent these units           crowding.&#13;
+(STL, 2014). One survey from Gaziantep suggested&#13;
+that refugees are on average paying TL 178/month                While there are legal difficulties in property owner-&#13;
+in rent. There is a widespread perception that rental           ship, the SuTP population has access to formal rent&#13;
+prices have almost doubled in provinces along the               contracts under the TP regime. However, there are&#13;
+border and housing has become scarcer due to high               anecdotal reports of some exploitation occurring; for&#13;
+demand.11 There are currently no quantified market              example, stories of landlords demanding that SuTPs&#13;
+assessments, but figures commonly cited in Gazian-              make six-month cash rent payments in advance of ac-&#13;
+tep reported that over the last two years, the price of         cess, and evicting them on short notice. Some Syrian&#13;
+a TL 600/month apartment has increased to TL 1,000/             refugees have reported being discriminated against&#13;
+month (SREO, 2013). For Kilis, the increase has been            by landlords who refuse them as tenants on grounds&#13;
+more dramatic, with a TL 300/month apartment now                of their large family size, perceived noisiness, and cul-&#13;
+reportedly costing up to TL 1,000/month (Brookings              tural practices. However some Turkish families have&#13;
+Institution and USAK, 2013). Surveys consistently con-          conversely complained that they find it harder to find a&#13;
+clude that along with rising food prices, rising house          rental property because landlords can make cash more&#13;
+prices are the largest contributor to the inflation that        readily from Syrians, who are prepared to fit larger&#13;
+has been experienced in the refugee-hosting regions             numbers of people into smaller spaces.&#13;
+along the border (ORSAM, 2015b; IZA, 2015).&#13;
+                                                                Health. Under the TP regime, registered SuTPs are&#13;
+Even before the arrival of SuTPs, Turkey experienced            entitled to free health care at Turkish facilities from&#13;
+                                                                their initial day of arrival in Turkey. A number of World&#13;
+                                                                Health Organization (WHO) and Ministry of Health&#13;
+                                                                (MoH) assessments in southern Turkey in 2014 illus-&#13;
+10â&#128;&#131; This covered 1,500 households.&#13;
+                                                                trate the strong effort of the MoH to provide SuTPs with&#13;
+11â&#128;&#131;   Some areas of the southeast were experiencing a housing   free access to all health services. As of October 2014,&#13;
+shortage prior to the refugee crisis.                           about 250,000 Syrian refugees received inpatient care;&#13;
+&#13;
+&#13;
+&#13;
+8&#13;
+&amp;#12;more than 200,000 patients were operated on; almost           the impact of SuTPs have on communities, services,&#13;
+150,000 births occurred; and over 6 million consulta-         and security pervades the southeast of Turkey. These&#13;
+tions took place (3RP, n.d.). Refugees in the community       tensions seems to be most commonly articulated in&#13;
+receive free primary and inpatient health services. In-       concerns over increasing rents, decreasing wages,&#13;
+creasing numbers of non-registered refugees can ac-           increasing job competition, longer waiting times for&#13;
+cess emergency care, after which they need to register        hospital services, and the rise of polygamy and crime&#13;
+in order to obtain further health support. As a result,       (Brookings Institution and USAK, 2013; ORSAM, 2015a;&#13;
+clinics and hospitals in affected areas report an addi-       HUGO, 2014). But how far these underlying concerns&#13;
+tional patient load of 30 to 40 percent. Local hospitals      translate into active social tension is difficult to gauge.&#13;
+have been enlarged and equipped to cover the current          There have been several well-publicized incidents of&#13;
+and most acute needs. The GoT has also developed in-          violence between Syrians and Turks. There are also&#13;
+formation campaigns, including communication ma-              anecdotal reports of Syrian children being harassed,&#13;
+terials in Arabic on disease prevention and available         discriminated against, and bullied. However, surveys&#13;
+heath care services.                                          suggest that the majority of Syrians think they are well&#13;
+                                                              treated by their Turkish hosts; 66 percent of respon-&#13;
+The GoT has also worked closely with the WHO and              dents in Gaziantep reported having a good or very&#13;
+other international institutions to conduct regular           good relationship with their hosting community (IMC,&#13;
+mapping and needs assessments to improve SuTP                 2014). In another perception survey, only 20 percent of&#13;
+access to essential health services. This has included        Syrian respondents reported having â&#128;&#156;social problems&#13;
+quick response treatments as neededâ&#128;&#148;for example, a            with Turks,â&#128;&#157; while 37 percent reported having good&#13;
+vaccination campaign in SuruÃ§ district was organized          Turkish friends (SABR Center, 2015). Strikingly, only&#13;
+following the influx of about 190,000 Syrian refugees.        25 percent reported feeling they were discriminated&#13;
+Along with the Turkish University of Gaziantep, WHO           against in mainstream government service provision.&#13;
+also completed the Refugee Doctor Adaptation Train-&#13;
+ing (ReDAT) modules in Turkish and Arabic to help             However, as the situation becomes more protracted,&#13;
+Syrian doctors understand Turkish standard operating          there are signs of increasing tensions and frustra-&#13;
+procedures, treatment guidelines, and referral struc-         tion. In a new survey from the German Marshall Fund&#13;
+tures.                                                        (October 2015),12 81 percent of Turkish respondents&#13;
+                                                              reported that they â&#128;&#156;do not think Syrian immigrants&#13;
+Some Turkish users report facing increased wait times         integrate well.â&#128;&#157; When asked about Turkeyâ&#128;&#153;s policies to-&#13;
+and overcrowding in health centers caused by SuTPs            ward SuTPs, 68 percent of respondents wanted more&#13;
+(Ozden, 2013). However, indications are that take-up          restrictive policies; 73 percent said the existing SuTPs&#13;
+of Turkish health care by SuTPs is still less than the full   should be asked to go home, whereas 17 percent said&#13;
+demand. There are reports, for example, that SuTPs            it depended on the circumstances, and only 8 percent&#13;
+are reluctant to access the free health care because          said they should be offered legal status in Turkey. As of&#13;
+of an inability to communicate their health concerns          October 2015, the Ministry of Family and Social Policy&#13;
+in Turkish and the need for a translator to accompany         had started preparations to launch a child protection&#13;
+them to appointments. The GoT has worked to provide&#13;
+                                                              program together with UNICEF. In addition, psychoso-&#13;
+translators to assist in health care provision, but has&#13;
+                                                              cial assistance and family training programs have been&#13;
+not been able to fully meet the scale of demand. One&#13;
+                                                              offered to 25,000 SuTPs living in camps, and will be ex-&#13;
+survey states that only 60 percent of refugees outside&#13;
+                                                              tended to SuTPs living in cities.&#13;
+camps are using the Turkish health services, and that&#13;
+54 percent have difficulty accessing medication (AFAD,        One factor that contributes to social tension is the&#13;
+2013). As of October 2015, all registered SuTPs have          lack of information regarding the benefits that SuTPs&#13;
+been assigned a foreign national ID number to enable          receive, which at times creates misunderstanding and&#13;
+additional access to medicines from all pharmacies&#13;
+contracted with the Turkish government health insur-&#13;
+ance provider (SGK). However, many Syrians continue&#13;
+to self-medicate or seek medical advice from those            12â&#128;&#131;   Survey released in October 2015; see http://www.gmfus.org/&#13;
+they know who were trusted medical health practitio-          sites/default/files/TurkeySurvey_2015_web1.pdf. The fieldwork was&#13;
+ners in Syria.                                                conducted via face-to-face interviews with 1,018 respondents from&#13;
+                                                              16 selected provinces and 125 neighborhoods through a multi-&#13;
+Social tensions and vulnerabilities. Concerns about           stage stratified sampling scheme.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                      TURKEYâ&#128;&#153;S RESPONSE TO THE SYRIAN REFUGEE CRISIS AND THE ROAD AHEAD   ï&#128;¼&#13;
+                                                                                                                                              9&#13;
+&amp;#12;frustration. At the town or province level, SuTPs may      For Turkeyâ&#128;&#148;Critical Policy Questions and the&#13;
+have access to some social assistance and services         Road Ahead&#13;
+provided by the governorate, the municipality, social&#13;
+solidarity foundations, and NGOs. These services vary      As Turkey has incrementally shifted to longer-term&#13;
+across localities and may not extend to host communi-      planning and development-oriented response, the&#13;
+ties. There is a need for a transparent framework and      GoT remains committed to the principle of treating&#13;
+plan on SuTPsâ&#128;&#153; rights and entitlements that is coordi-     SuTPs as protected â&#128;&#156;guestsâ&#128;&#157; that will be well prepared&#13;
+nated with and communicated to host communities.           to return home once the conflict in Syria ends. Three&#13;
+                                                           key policy questions should then guide next steps:&#13;
+Implications for GoT Policymaking                          â&#150; â&#150;    How to mitigate the potential negative socioeco-&#13;
+                                                                nomic impact of the refugee presence on host&#13;
+A theme across these areas is the need for more reli-           communities?&#13;
+able and extensive information on both SuTP and host       â&#150; â&#150;    How to maximize the social and economic ben-&#13;
+community populations in order to provide a better-             efits of the refugee presence for host communities&#13;
+targeted and better-informed policy response. It is also        and the Turkish economy as a whole?&#13;
+clear that while each dimensionâ&#128;&#148;employment, edu-&#13;
+cation, health, housing, and municipal servicesâ&#128;&#148;has        â&#150; â&#150;    How to support SuTPs to be self-reliant until they&#13;
+                                                                are able to return?&#13;
+distinct challenges and barriers to progress, there is a&#13;
+need for a more comprehensive integrated approach.         Based on the challenges and lessons outlined in Sec-&#13;
+                                                           tion 2, the following are key issues to address in man-&#13;
+The GoT will also need to consider how to best invest&#13;
+                                                           aging socioeconomic pressures:&#13;
+in and support municipal leaders and institutions at&#13;
+the front line of the response effort. Local leadership    Labor and Employment. As the GoT moves ahead&#13;
+will often have the best knowledge of community dy-        in considering work permits for SuTPs, the key policy&#13;
+namics and challenges, and would benefit from being        questions are: (i) how to introduce the work permit&#13;
+given sufficient space and support to design response      system with maximum gains for the Turkish labor mar-&#13;
+efforts tailored to municipal-level needs. Channels for    ket; and (ii) how to mitigate any negative impacts on&#13;
+municipal authorities to inform national-level planning    Turkish communities through strengthening systems&#13;
+and policymaking based on lessons learned, progress,       to support vulnerable Turkish workers. Additional data&#13;
+and evolving challenges would also be beneficial.          and analysis are needed to quantify the skills among&#13;
+                                                           SuTPs, to understand what they bring to the Turkish&#13;
+                                                           labor market and the current and potential impact of&#13;
+3. Critical Policy Questions and                           SuTP workers on the Turkish labor force. Policy and le-&#13;
+the Road Ahead                                             gal measures are also needed to promote employment&#13;
+                                                           opportunities and to provide training and services to&#13;
+The surge of refugees streaming into Europe has drawn      help SuTPs integrate into the Turkish labor market&#13;
+the worldâ&#128;&#153;s attention to the issue of displacement. It     based on identified unmet demands.&#13;
+has demonstrated the global nature of the crisis and&#13;
+                                                           Education. The initial policy question for the GoT in&#13;
+has raised difficult questions on how best to man-         regards to education is whether to keep three systems&#13;
+age an effective national and international response.      in place for educating SuTP children (integration into&#13;
+The Turkish experience offers a progressive approach       Turkish schools, TECs, and CBE) or to prioritize one&#13;
+that makes significant progress in tackling both the       over another. This decision will have to be informed by&#13;
+humanitarian and developmental dimensions of the           the educational preferences among SuTPs that could&#13;
+challenge. The following section highlights the critical   continue to increase school enrollment rates. The GoT&#13;
+policy questions that lie ahead for Turkey in deepening    also needs to consider strengthening support mecha-&#13;
+its response, and points to lessons from the Turkish ex-   nismsâ&#128;&#148;such as Turkish language classes and psycho-&#13;
+perience that may be salient for international actors in   social supportâ&#128;&#148;that facilitate SuTP childrenâ&#128;&#153;s entry&#13;
+considering a more effective strategy commensurate         into the Turkish education system. Finally, more data&#13;
+with the scale, scope, and protracted nature of the dis-   is needed on the skills, capacity, and training demands&#13;
+placement crisis.                                          for Syrian teachers that can lead to increased regular-&#13;
+&#13;
+&#13;
+&#13;
+10&#13;
+&amp;#12;ization of their work and support for the young SuTP        ian staff and will utilize GoT and NGO resources for ser-&#13;
+population.                                                 vice provision.&#13;
+&#13;
+Housing. To effectively address the challenges facing       Social cohesion. With such a large movement of peo-&#13;
+SuTPs and host communities in securing adequate             ple and changing dynamics at the community level, it&#13;
+housing, the GoT needs to quantify the current hous-        is a testament to the Turkish people and the SuTP pop-&#13;
+ing conditions of SuTPs, particularly the vulnerabilities   ulation that there have not been widespread issues&#13;
+associated with living in poor conditions. There also       with social tension, violence, and conflict. However, as&#13;
+needs to be an in-depth assessment of the impact            the situation becomes more protracted and socioeco-&#13;
+of SuTP housing and utility demand on Turkish com-          nomic pressures mount, investments should be made&#13;
+munities as a baseline to design mitigation measures,       to promote continued tolerance and positive relations&#13;
+including on housing affordability. The GoT could con-      between SuTPs and Turkish hosts. A key issue is to im-&#13;
+sider additional measures to respond to SuTP hous-          prove communication to Turkish hosting communities&#13;
+ing needs, such as vouchers, rental subsidies, and in-      regarding SuTP entitlements, as well as broader bene-&#13;
+creased social housing to respond to availability and       fits and improvements to municipalities. Hosting com-&#13;
+affordability concerns.                                     munities need to see and experience benefits from&#13;
+                                                            SuTPsâ&#128;&#153; presence and from the programs that support&#13;
+Municipal services. Turkish municipalities are bear-        them. Policies should be pursued and communicated&#13;
+ing the brunt of the burden of the SuTP presence, with      that increase the living standards and situation of both&#13;
+local institutions and communities at the front line of     refugees and hosts. There is also a need to work more&#13;
+the SuTP response effort. A policy decision needs to be     systematically with security and justice institutions to&#13;
+made on whether and how to give municipalities more         ensure fair and nonviolent resolution to disputes when&#13;
+financing and institutional support to extend their ser-    they emerge.&#13;
+vices in line with the population increases caused by&#13;
+SuTPs. Finally, enhanced coordination is needed be-         By hosting and supporting the largest refugee popula-&#13;
+tween municipalities and NGOs that deliver services         tion in the world, the GoT is providing a â&#128;&#156;global good.â&#128;&#157;&#13;
+to SuTPs to maximize the effectiveness of support to        The effective management of the refugee crisis in Tur-&#13;
+SuTPs and host communities.                                 key reduces the potential for continued displacement&#13;
+                                                            to Europe and beyond, and avoids further insecurity&#13;
+Health. The key policy question for the GoT is what         and destabilization across borders. Recognizing the&#13;
+is preventing the SuTP population from more fully           preventative power of a successful Turkish-managed&#13;
+accessing health care, with potential impacts on the        response effort, international actors should scale up&#13;
+health and well-being of both SuTPs and Turkish host-       their support to the GoT to signal joint accountability.&#13;
+ing communities. There is a need to strengthen sup-         New international financing offered to Turkey should&#13;
+port mechanismsâ&#128;&#148;such as translatorsâ&#128;&#148;that facilitate         focus on supporting and supplementing what Turkey&#13;
+SuTPsâ&#128;&#153; access to Turkish health care. At present these      is already doing. The GoTâ&#128;&#153;s response, which has strong&#13;
+support systems are being provided by NGOs, and             potential for development gains, should be applaud-&#13;
+are overwhelmed. There may also be more creative            ed and reinforced; there should not be a new debate&#13;
+solutions regarding how the SuTPs approach their            on humanitarian response or a reversal of progress&#13;
+health care needs. These could include identifying          made in offering Syrian refugees unique protections,&#13;
+Syrian health care professionals, their skills, and sup-    employment, and a non-camp and more sustainable&#13;
+port needs to increase the quality and organization of      approach to managing their lives in Turkey. That said,&#13;
+health care provided informally from within the Syr-        the UN and other humanitarian actors do have an im-&#13;
+ian community. A directive issued by the Ministry of        portant role to play in humanitarian and protection&#13;
+Health in November 2015 has already begun to extend         mandates, such as organizing SuTP resettlement and&#13;
+health care services, including the establishment of        protecting those in transit. As the GoT considers addi-&#13;
+secondary-level health centers that will provide outpa-     tional national and international financing, this should&#13;
+tient, laboratory, radiology, emergency, and minor sur-     also include support for strengthening data collection&#13;
+gical operation services, as well as specialized health     and technical engagement at the sectoral level along-&#13;
+centers that provide mental health, physical therapy,       side projects across sectors such as education, health,&#13;
+and rehabilitation services. These centers are designed     job creation and skills development, social protection&#13;
+such that health care will be provided primarily by Syr-    and social cohesion, capacity building for municipal&#13;
+&#13;
+&#13;
+&#13;
+                                                                  TURKEYâ&#128;&#153;S RESPONSE TO THE SYRIAN REFUGEE CRISIS AND THE ROAD AHEAD   ï&#128;¼&#13;
+                                                                                                                                          11&#13;
+&amp;#12;institutions, housing support, and private sector de-           include giving refugees the opportunity to se-&#13;
+velopment.                                                      cure their own homes, livelihoods, and services to&#13;
+                                                                maximize self-reliance during their displacement&#13;
+Lessons from Turkeyâ&#128;&#148;Implications for the                        period and equipping refugees for a successful re-&#13;
+International Response to Displacement                          turn home if and when conditions allow. The Turk-&#13;
+                                                                ish response to SuTPs is well placed to illustrate&#13;
+The forced displacement crisis poses a substantial              the longer-term challenges and impacts of this&#13;
+                                                                arrangement, including how to ensure notice and&#13;
+threat to development progress globally. Refugees and&#13;
+                                                                protection of the vulnerable who may not have&#13;
+internally displaced persons (IDPs) represent almost 1&#13;
+                                                                the resources and assets to cope in this context.&#13;
+percent of the global population and often (though&#13;
+not always) end up being among the poorest, most ex-       â&#150; â&#150;    Understanding socioeconomic pressures on&#13;
+cluded, and most vulnerable. They are overwhelmingly            host communities. There is a need to recognize&#13;
+hosted in developing countries, where they are often            the socioeconomic pressures displacement puts&#13;
+viewed as an additional burden on already stressed na-          on host communities, including across a range of&#13;
+tional systems and poverty reduction efforts. However,          key sectorsâ&#128;&#148;housings, employment and liveli-&#13;
+the Turkish experience also points to an alternative            hoods, education, health, municipal services, and&#13;
+approach with the potential for the displaced to open           intercommunal relations; investments should be&#13;
+new markets and trading opportunities, enhance a                designed to relieve these pressures and ensure&#13;
+workforce, support national and local systems for ser-          the spread of benefits to host communities. This&#13;
+vice delivery, and energize private sector development          will include lessons on how municipalities can be&#13;
+and entrepreneurship.                                           supported to deliver a refugee response.&#13;
+                                                           â&#150; â&#150;    Managing hostâ&#128;&#147;refugee tensions. There is an&#13;
+The Turkish experience has the potential to inform              opportunity to learn how to prevent social ten-&#13;
+and create invaluable lessons on several emerging               sions through intercommunal interaction and&#13;
+principles in considering a more sustainable and de-            trust building.&#13;
+velopment-oriented response that can maximize the&#13;
+benefits and minimize the socioeconomic risks of dis-      There is still significant effort and evidence needed&#13;
+placement:                                                 to define a successful â&#128;&#156;development responseâ&#128;&#157; to the&#13;
+â&#150; â&#150;    Strengthening national and local institutions         forced displacement crisis, despite calls for a new para-&#13;
+     to respond to displacement crises. The advan-         digm that would combine humanitarian and develop-&#13;
+     tage of national ownership over a response to         ment efforts. What is clear is that the complexity, scale,&#13;
+     a displacement crisis is that it puts the hosting     and protracted nature of the crisis requires creative&#13;
+     government in the driverâ&#128;&#153;s seat and emphasizes        approaches that maximize the potential benefits and&#13;
+     strengthening existing national and local re-         minimize the risks to countries bearing the hosting&#13;
+     sponse efforts and institutions instead of intro-     burden for the rest of the world. The May 2016 World&#13;
+     ducing parallel external delivery channels. The       Humanitarian Summit offer key forums in which to&#13;
+     Turkish example has the potential to illustrate how   further such discussions. Lessons from Turkeyâ&#128;&#153;s unique&#13;
+     to implement this approach.                           hosting experience should figure centrally in defining&#13;
+                                                           the way forward.&#13;
+â&#150; â&#150;    Maximizing refugeesâ&#128;&#153; self-reliance. The poten-&#13;
+     tial benefits of pursuing a non-camp approach&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+12&#13;
+&amp;#12;                                          References&#13;
+&#13;
+3RP (Regional Refugee &amp; Resilience Plan). n.d. â&#128;&#156;Region-         Acceptance and Integration.â&#128;&#157; Report, HUGO, An-&#13;
+     al Refugee &amp; Resilience Plan 2015â&#128;&#147;16: Turkey.â&#128;&#157;             kara. http://www.hugo.hacettepe.edu.tr/HUGO-&#13;
+     Report, 3RP. https://docs.unocha.org/sites/dms/            REPORT-SyriansinTurkey.pdf.&#13;
+     Syria/3RP-Report-Turkey.pdf.                          Icduygu, A. and Migration Policy Institute. 2015. â&#128;&#156;Syr-&#13;
+AFAD (Disaster and Emergency Management                         ian Refugees in Turkey: The Long Road Ahead.â&#128;&#157;&#13;
+    Presidency). 2013. â&#128;&#156;Syrian Refugees in Tur-                 Report, Transatlantic Council on Migration, Wash-&#13;
+    key 2013: Field Survey Results.â&#128;&#157; Report, AFAD,              ington, DC. http://www.migrationpolicy.org/re-&#13;
+    Ankara.      https://www.afad.gov.tr/Dokuman/               search/syrian-refugees-turkey-long-road-ahead.&#13;
+    TR/61-2013123015505-syrian-refugees-in-tur-            IMC (International Medical Corps). 2014. â&#128;&#156;Rapid Needs&#13;
+    key-2013_print_12.11.2013_eng.pdf.                          Assessment of Istanbul-Based Syrian Refugees.â&#128;&#157;&#13;
+Alliance 2015. 2014. â&#128;&#156;Syrian Urban Refugees in Ceylan-     IMC and ASAM (Association for Solidarity with Asylum&#13;
+      pinar.â&#128;&#157; Need Assessment Report, Alliance 2015.            Seekers and Migrants). 2014. â&#128;&#156;Rapid Needs As-&#13;
+Brookings Institution. 2015. â&#128;&#156;Not Likely to Go Home:            sessment of Gaziantep-Based Syrian Refugees.â&#128;&#157;&#13;
+     Syrian Refugees and the Challenges to Turkey.â&#128;&#157;             Presentation, IMC/ASAM. http://documents.wfp.&#13;
+     Turkey Report Policy Paper No. 7, Center on the            org/stellent/groups/public/documents/op_re-&#13;
+     United States and Europe at Brookings, Wash-               ports/wfp273947.pdf.&#13;
+     ington, DC. http://www.brookings.edu/~/media/         IZA (Institute for the Study of Labor). 2015. â&#128;&#156;The Impact&#13;
+     research/files/papers/2015/09/syrian-refugee-               of the Refugee Crisis on Host Labor Markets.â&#128;&#157; Dis-&#13;
+     international-challenges-ferris-kirisci/turkey-pol-         cussion Paper Series No. 8841, IZA, Bonn. http://&#13;
+     icy-paper-web.pdf.                                          ftp.iza.org/dp8841.pdf.&#13;
+Brookings Institution and USAK (International Strategic    McClelland. 2014. â&#128;&#156;How to Build a Perfect Refugee&#13;
+     Research Organization). 2013. â&#128;&#156;Turkey and Syr-            Camp.â&#128;&#157; New York Times. http://www.nytimes.&#13;
+     ian Refugees: The Limits of Hospitality.â&#128;&#157; Report,         com/2014/02/16/magazine/how-to-build-a-per-&#13;
+     Brookings and USAK, Washington, DC, Ankara.               fect-refugee-camp.html?_r=1.&#13;
+     http://www.brookings.edu/~/media/research/            Ozden, S. and Migration Policy Center. 2013. â&#128;&#156;Syrian Ref-&#13;
+     files/reports/2013/11/18-syria-turkey-refugees/           ugees in Turkey.â&#128;&#157; MPC Research Report 2013/05,&#13;
+     turkey-and-syrian-refugees_the-limits-of-hospi-           MPC, Florence. http://cadmus.eui.eu/bitstream/&#13;
+     tality-(2014).pdf.                                        handle/1814/29455/MPC-RR-2013%2005.&#13;
+Del Carpio, X., M. Wagner, and D. Triebe. 2015. â&#128;&#156;The Im-       pdf?sequence=1&amp;isAllowed=y.&#13;
+     pact of Syrian Refugees on the Turkish Labor Mar-     ORSAM (Center for Middle Eastern Strategic Studies).&#13;
+     ket.â&#128;&#157; Policy Research Working Paper 7402, World           2015a. â&#128;&#156;Effect of the Syrian Refugees on Turkey.â&#128;&#157;&#13;
+     Bank, Washington, DC. http://www-wds.world-               Report No. 195, ORSAM, Ankara. http://www.ors-&#13;
+     bank.org/external/default/WDSContentServer/               am.org.tr/en/enUploads/Article/Files/201518_&#13;
+     WDSP/IB/2015/08/24/090224b083091fbc/1_0/                  rapor195ing.pdf.&#13;
+     Rendered/PDF/The0impact0of00Turkish0labor-&#13;
+                                                           ORSAM. 2015b. â&#128;&#156;The Economic Effects of Syrian Refu-&#13;
+     0market.pdf.&#13;
+                                                               gees in Turkey.â&#128;&#157; Report No. 196, ORSAM, Ankara.&#13;
+GMF (German Marshall Fund of the United States).               http://www.orsam.org.tr/en/enUploads/Article/&#13;
+    2015. â&#128;&#156;Turkish Perceptions Survey.â&#128;&#157; Findings Re-           Files/201519_rapor196ing.pdf.&#13;
+    port, GMF, Washington, DC. http://www.gmfus.&#13;
+                                                           Refugee Studies Centre. 2014. â&#128;&#156;Ensuring Quality Edu-&#13;
+    org/sites/default/files/TurkeySurvey_2015_&#13;
+                                                                cation for Young Refugees from Syria.â&#128;&#157; Research&#13;
+    web1.pdf.&#13;
+                                                                Report, Refugee Studies Centre, Oxford. http://&#13;
+HUGO (Hacettepe University Migration and Politics               www.rsc.ox.ac.uk/files/publications/other/rr-syr-&#13;
+   Research Centre). 2014. â&#128;&#156;Syrians in Turkey: Social           ia-youth-education-2014.pdf.&#13;
+&#13;
+&#13;
+&#13;
+                                                                 TURKEYâ&#128;&#153;S RESPONSE TO THE SYRIAN REFUGEE CRISIS AND THE ROAD AHEAD   ï&#128;¼&#13;
+                                                                                                                                         13&#13;
+&amp;#12;SABR Center. 2015. â&#128;&#156;Syrian-Turkish Harmonization:        UNHCR. 2014c. â&#128;&#156;Turkey Syrian Refugees Overview Sept&#13;
+    Study on the Syrianâ&#128;&#147;Turkish Harmonization in             2014.â&#128;&#157;&#13;
+    Gaziantep.â&#128;&#157; Report, SABR Center/MDN Network.         UNHCR Global Trends. 2014. Forced Displacement in&#13;
+SREO (Syria Research and Evaluation Organization).           2014. Report, UNCHR.&#13;
+    2013. â&#128;&#156;The Socio-economic Impact of Syrian           UNHCR. 2015. â&#128;&#156;2015 UNHCR Country Opera-&#13;
+    Refugees in Gaziantep, An Initial Assessment.â&#128;&#157;           tions Profile: Turkey.â&#128;&#157; http://www.unhcr.org/&#13;
+    Report, SREO. http://sreo.org/portfolio/the-so-          pages/49e48e0fa7f.html.&#13;
+    cioeconomic-impact-of-syrian-urban-refugees-&#13;
+    in-gaziantep-an-initial-assessment.                  World Bank. 2015a. â&#128;&#156;Rise of the Anatolian Tigers: Turkey&#13;
+                                                              Urbanization Review.â&#128;&#157; Report No. 87180-TR, World&#13;
+Support to Life. 2014. â&#128;&#156;Analysis of Syrian Refugees in        Bank/TEPAV, Washington, DC. https://open-&#13;
+    Turkey. A Study of Out-of-Camp Refugees in Ha-            knowledge.worldbank.org/handle/10986/22388.&#13;
+    tay, Kilis and Sanliurfa.â&#128;&#157;&#13;
+                                                         World Bank. 2015b. â&#128;&#156;Sustainable Refugee Return: Trig-&#13;
+UNHCR (UN High Commissioner for Refugees). 2014a.             gers, Constraints and Lessons on Addressing the&#13;
+    â&#128;&#156;Frequently Asked Questions on Syrian Refugees            Development Challenges of Forced Displace-&#13;
+    in Turkey.â&#128;&#157; http://www.unhcr.org.tr/uploads/root/         ment.â&#128;&#157; GPFD Issue Note Series, World Bank, Wash-&#13;
+    faqenglish.pdf.                                           ington, DC. http://reliefweb.int/sites/reliefweb.&#13;
+UNHCR. 2014b. â&#128;&#156;Policy on Alternatives to Camps.â&#128;&#157; Re-          int/files/resources/Sustainable%20Refugee%20&#13;
+    port, UNHCR. http://www.unhcr.org/5422b8f09.              Return%20study.pdf.&#13;
+    html.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+14&#13;
+&amp;#12;&amp;#12;&amp;#12;</ml:original-txt><ml:search-metadata><doc id="25703870">
+        <url>
+            http://documents.worldbank.org/curated/en/2015/12/25703870/turkey’s-response-syrian-refugee-crisis-road-ahead
+        </url>
+        <availablein>English</availablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2015/12/25703870/turkey’s-response-syrian-refugee-crisis-road-ahead</url_friendly_title>
+        <new_url>2015/12/25703870/turkey’s-response-syrian-refugee-crisis-road-ahead</new_url>
+        <disclosure_date>2015-12-21T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2015-12-23T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <docm_id>090224b083ed7485</docm_id>
+        <chronical_docm_id>090224b083ed7485</chronical_docm_id>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2015/12/21/090224b083ed7485/1_0/Rendered/INDEX/Turkey0s0respo0s0and0the0road0ahead.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2015/12/21/090224b083ed7485/1_0/Rendered/PDF/Turkey0s0respo0s0and0the0road0ahead.pdf</pdfurl>
+        <docdt>2015-12-17T00:39:03Z</docdt>
+        <datestored>2015-12-21T00:00:00Z</datestored>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            Turkey’s response to the Syrian refugee
+            crisis and the road ahead
+        </repnme>
+        <abstracts>
+            Turkey now hosts the largest refugee
+            population in the world. The Government of Turkey (GoT)
+            estimates the total number of registered Syrians under
+            Temporary Protection (SuTPs) at 2,225,147. The objective of
+            this policy brief is to collate existing publically
+            available material on the situation of SuTPs in Turkey and
+            to summarize: (i) the strategy and principles of Turkey’s
+            unique response to its displacement crisis; (ii) the
+            challenges in managing the socioeconomic dimensions of
+            displacement; and (iii) remaining critical policy issues and
+            the road ahead for Turkey, as well as implications for other
+            countries’ refugee response efforts.
+        </abstracts>
+        <docna>
+            Turkey’s response to the Syrian refugee
+            crisis and the road ahead
+        </docna>
+        <display_title>Turkey’s response to the Syrian
+            refugee crisis and the road ahead</display_title>
+        <listing_relative_url>/research/2015/12/25703870/turkey’s-response-syrian-refugee-crisis-road-ahead</listing_relative_url>
+        <count>Turkey</count>
+        <lang>English</lang>
+        <sectr>Public Administration, Law, and Justice</sectr>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            skills, living standards, access to
+            employment, waste, access to health care, risks, workforce,
+            development interventions, urbanization, vaccination,
+            teachers, information system, migration policy, tolerance,
+            prevention, public education, employment opportunities,
+            skills development, labor force, developing countries,
+            immigrants, health care, legal status, health, dropout,
+            capacity building, crime, number of people, vulnerability,
+            hospital, safety nets, social tensions, knowledge, refugee
+            households, essential health services, pharmacies, labor
+            market, municipal authorities, policy response, ministry of
+            health, refugee-hosting countries, training, patient,
+            patients, street children, host countries, family size,
+            health centers, aging, migration, health care services,
+            violence, temporary protection, dissemination, service
+            provision, religious education, education system, social
+            security, primary school, service delivery, migrants, social
+            development, mental health, social support, elderly,
+            progress, refugee situations, asylum-seekers,
+            transportation, workers, attitudes, policies, social
+            services, polygamy, schools, policy research working paper,
+            special needs, social policy, ministry of education, primary
+            school age, global population, self-reliance, mandates,
+            refugee, job creation, refugees, populations, unmet demands,
+            adolescents, international response, quality control, urban
+            development, nationals, high commissioner for refugees,
+            policy, curriculum, quality of life, world health
+            organization, social consequences, health care
+            professionals, policy brief, children, united nations high
+            commissioner for refugees, resolution, education, clinics,
+            war, asylum, unmet demand, self-sufficiency, social
+            cohesion, population, trauma, policy research, strategy,
+            social problems, school buildings, home countries, lack of
+            information, families, registration, women, medicines,
+            misunderstanding, emergency care, hospitals, remittances,
+            labor markets, school, population increases, health
+            services, refugee population, school age
+        </keywd>
+        <majtheme>Economic management,Urban development,Social protection and risk management,Social dev/gender/inclusion</majtheme>
+        <projn>TR-Regional Development And Vulnerability -- P151079</projn>
+        <topic>Population Displacement m1327313 2489,Poverty and Fiscal, Financial and Economic
+            Crisis m1327424 1165,Refugee Support m1326491 1601,Forced Displacement m1326032 740,Crisis Preparedness m1326513 321</topic>
+        <subtopic>Social Cohesion,Population Policies,Housing &amp; Human Habitats,Education For All,Health Monitoring &amp; Evaluation</subtopic>
+        <docty>Working Paper</docty>
+        <teratopic>Communities and Human Settlements,Health, Nutrition and Population,Social Development,Education</teratopic>
+        <authors>
+            <author>Benner,Holly Welborn</author>
+            <author>Uraz,Arzu</author>
+            <author>De Berry,Joanna Peace</author>
+            <author>Wiseman,William David</author>
+        </authors>
+        <entityids>
+            <entityid>090224b083ed7485_1_0</entityid>
+        </entityids>
+        <geo_region_mdks>
+            <geo_region_mdk>Middle East and North Africa!$!119229</geo_region_mdk>
+            <geo_region_mdk>World!$!517191</geo_region_mdk>
+            <geo_region_mdk>South Eastern Europe and Balkans!$!517208</geo_region_mdk>
+            <geo_region_mdk>Asia!$!517198</geo_region_mdk>
+        </geo_region_mdks>
+        <admreg>Europe and Central Asia,Europe and Central Asia</admreg>
+        <subsc>Sub-national government administration</subsc>
+        <theme>Urban services and housing for the poor,Analysis of economic growth,Conflict prevention and post-conflict reconstruction,Social Protection and Labor Policy &amp; Systems</theme>
+        <historic_topic>Communities and Human Settlements,Health, Nutrition and Population,Social Development,Education</historic_topic>
+        <prdln>Programmatic Approach</prdln>
+        <topicv3>Population Displacement m1327313 2489,Poverty and Fiscal, Financial and Economic
+            Crisis m1327424 1165,Refugee Support m1326491 1601,Forced Displacement m1326032 740,Crisis Preparedness m1326513 321</topicv3>
+        <owner>Social Dev ECA (GSU03)</owner>
+        <trustfund>TF017528-The Syrian Refugee Crisis:
+            Understanding the Distributional Impact of R</trustfund>
+        <geo_regions>
+            <geo_region>Middle East and North Africa</geo_region>
+            <geo_region>World</geo_region>
+            <geo_region>South Eastern Europe and Balkans</geo_region>
+            <geo_region>Asia</geo_region>
+        </geo_regions>
+        <repnb>102184</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>ICT</ml:concept><ml:concept>ICT for Development</ml:concept><ml:concept>Information Technology</ml:concept><ml:concept>Information and Communication Technologies (ICT)</ml:concept><ml:concept>Social Development &amp; Poverty</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Social Protections and Labor</ml:concept><ml:concept>International Competitiveness</ml:concept><ml:concept>International Economics and Trade</ml:concept><ml:concept>Trade Liberalization</ml:concept><ml:concept>Trade Liberalization and Regional Integration</ml:concept><ml:concept>Trade Restrictiveness</ml:concept><ml:concept>Trade and Integration</ml:concept><ml:concept>City Development Strategies</ml:concept><ml:concept>Information and Communication Technologies</ml:concept><ml:concept>Social Development</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Agriculture and Food Security</ml:concept><ml:concept>Health, Nutrition and Population</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Social Protection and Labor</ml:concept><ml:concept>Trade</ml:concept><ml:concept>Urban Development</ml:concept><ml:concept>Strategic Planning</ml:concept><ml:concept>Demographics</ml:concept><ml:concept>Longevity</ml:concept><ml:concept>GIS</ml:concept><ml:concept>Geographical Information Systems</ml:concept><ml:concept>Land Information Systems</ml:concept><ml:concept>Conflict, Crisis and Fragility</ml:concept><ml:concept>Social Cohesion and Violence Prevention</ml:concept><ml:concept>Remittances</ml:concept><ml:concept>Temporary Migration</ml:concept><ml:concept>Disaster Management</ml:concept><ml:concept>Hazard Risk Management</ml:concept><ml:concept>Employment and Growth</ml:concept><ml:concept>Improving Labor Markets</ml:concept><ml:concept>Labor Market Interventions</ml:concept><ml:concept>Labor Markets, Job Creation and Economic Growth</ml:concept><ml:concept>Wage Setting</ml:concept><ml:concept>Wages, Compensation and Benefits</ml:concept><ml:concept>Civil Society</ml:concept><ml:concept>Income</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Boundaries</ml:concept><ml:concept>Copyright</ml:concept><ml:concept>Elderly</ml:concept><ml:concept>Women</ml:concept><ml:concept>Strategic Policy Planning</ml:concept><ml:concept>Adaptation</ml:concept><ml:concept>Municipality</ml:concept><ml:concept>Savings</ml:concept><ml:concept>Population</ml:concept><ml:concept>Aging</ml:concept><ml:concept>Geographic Information Systems</ml:concept><ml:concept>Social Cohesion</ml:concept><ml:concept>Forced Displacement</ml:concept><ml:concept>Temporary Movement of Labor</ml:concept><ml:concept>Disaster Risk Management</ml:concept><ml:concept>Labor Markets</ml:concept><ml:concept>Wages</ml:concept></ml:concepts><ml:geo-regions><ml:geo-region>Asia</ml:geo-region><ml:geo-region>Central Asia</ml:geo-region><ml:geo-region>Turkey</ml:geo-region></ml:geo-regions></ml:annotations></ml:doc-envelope>

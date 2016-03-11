@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>*  2 1467 &#13;
+Viewpoint&#13;
+Note No. 211                                                                                    June mIs "&#13;
+Designing Direct Subsidies for the&#13;
+Poor-A Water and Sanitation Case Study&#13;
+Vivien Foster,    Direct subsidies are an increasingly popular means of making infrastructure services more&#13;
+Andres Gomez-      affordable to the poor. Under the direct subsidy approach, governments pay part of the water bill&#13;
+Lobo, and&#13;
+Jon athan          of poor households that meet certain eligibility criteria. This approach was first used in water&#13;
+Halpern           sector reforms in Chile in the early 1990s and is an alternative to the traditional method in which&#13;
+governments pay subsidies directly to utilities, often allowing the price of water to fall below&#13;
+economic costs indiscriminately. This Note illustrates how simulation techniques can be used to&#13;
+inform the design of direct subsidy schemes, ensuring that they are both cost-effective and&#13;
+accurate in reaching the target population.&#13;
+Universal access to adequate water and sanitation   mize distortions in the behavior of water utilities&#13;
+services has long been recognized as essential to   and their custorners. The main drawbacks of&#13;
+public health and individual welfare. In most   direct subsidies are higher administrative costs&#13;
+countries government policy has traditionally   and the difficulty of designing suitable eligibility&#13;
+been to keep water companies in public owner-   criteria.&#13;
+ship, and to keep tariffs artificially low through a&#13;
+range of more or less explicit subsidy measures.   Despite the growing interest in direct subsidies,&#13;
+The results have often been unsatisfactory. Service   their administrative cost and accuracy of targeting&#13;
+quality and coverage remain inadequate in many   have, as yel, been little studied. This Note attemnpts&#13;
+countries, and subsidies directed at public water   to fill the gap by presenting the results of a simu-&#13;
+companies have often benefited the middle  lation performed in Panama in 1998. The simula-&#13;
+classes rather than the poor, who remain uncon-   tion is based on a willingness-to-pay survey and&#13;
+nected to the public network. This has led to a   complementary informnation from the 1997 Living&#13;
+search for alternative subsidies that would guar-   Standards Measurement Study (LSMS) survey and&#13;
+antee access to basic services for the poorest.  the customer database for Panama's national&#13;
+water utility IDAAN (Instituto de Acueductos y&#13;
+In the direct subsidy system introduced during   Alcantarillados Nacional). The work was done in&#13;
+the Chilean reforms in the early 1990s, prices are   the context of efforts to reform IDAAN, which still&#13;
+allowed to signal their true economic scarcity   operates as a traditional utility. It considers the rel-&#13;
+costs while subsidies are paid to consumers who   ative merits of a water consumption subsidy ver-&#13;
+cannot afford their bills rather than to water util-  sus a sewerage connection subsidy.&#13;
+ities. Government funds are used to cover part&#13;
+of the cost of subsistence consumption for   Assessing need for a subsidy&#13;
+households that meet certain poverty-related cri-&#13;
+teria. The main advantages of direct subsidies are   As a general rule, the case for a water subsidy is&#13;
+that they are transparent and explicit, and mini-  something that needs to be assessed rather than&#13;
+The World Bank Group * Private Sector and Infrastructure Network&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+Designing Direct Subsidies for the Poor-A Water and Sanitation Case Study&#13;
+TABLE 1   ZONAL AND INDIVIDUAL CRITERIA IN PANAMA, 1997&#13;
+(percent)&#13;
+,__                sutners would be willing to pay up to US$0.46.&#13;
+The imnplication is that the price of potable water&#13;
+would have to rise sul)stantially before it became&#13;
+Errors oa exclusion       94                  6                unaffordable  to  low-income  households  in&#13;
+Errors of inclusion       31                 93                urban Panama. For sewcrage conncctions the&#13;
+current cost is US$1,000 (including cost of&#13;
+Source: Encuesta Nacional de Niveles de Vida, Panama, 1997.    huse      nt    inobt  willing    t p i&#13;
+household plumbDing) but willingness to pav is&#13;
+only LS$270. Thus sewerage connections are&#13;
+already well beyond the means of low-income&#13;
+assumed. It is not axiomatic that water services    households. Subsidies might therefore be justi-&#13;
+are unaffordable to low-income households, nor   fiecl to the extent that the wider social benefits&#13;
+that subsidizing water consumption is the best   of expanding the sewerage network- were at&#13;
+way of promoting access to sanitation or improv-   least as high as the associated subsidy.&#13;
+ing public health among the poorest.&#13;
+Designing eligibility criteria&#13;
+An important starting point is to review existing&#13;
+subsidy arrangements and consider how effec-   The intended beneficiaries of subsidy schemes&#13;
+tively they reach the poor. A review of basic data   are invariably those living below the poverty&#13;
+in Panama revealed a number of important   line, usually expressed as an annual threslhold&#13;
+points. The first was that poverty in Panama is   for per capita income or expenditture. In practice&#13;
+primarily rural, but IDAAN  operates almost   it is very difficult to measure income levels&#13;
+exclusively  in towns. Only  16 percent of   directly and, therefore, to determine whether a&#13;
+IDA-AN's customers live below the poverty line.   particular household should benefit from  the&#13;
+Nevertheless, at least two-thirds of IDAANs CUS    subsidy. To get around this problem, it is neces-&#13;
+tomers are subsidized. With the exception of a    sary to develop eligibility criteria that show a&#13;
+pensioner discount. the determination of eligi-   high degree of correlation with the uniderlying&#13;
+hility for these subsidies has been largely at the    poverty variable of interest, can be measured&#13;
+discretion of IDAAN, and has often been based    objectively and observed easily. and are difficult&#13;
+on payment history. The sheer number of ben-   to falsify or misrepresent.&#13;
+eficiaries relative to the number of poor house&#13;
+holds served by IDAAN indicates that the vast   Eligibility criteria can either he zonal (based on&#13;
+majority of subsidy beneficiaries are not poor, by   the characteristics of the area where the house-&#13;
+the strict standard provided above.              hold lives) or individual (based on the charac-&#13;
+teristics of the household itself). The key issue is&#13;
+To find out how  many people are excluded from    the extent to xw hich the criteria succeed in iden-&#13;
+water and sewerage services because they gen-   tifying the target group. There are two forms of&#13;
+uinelv cannot afford them, a contingent valua-   targeting errors. Perhaps the most serious are&#13;
+tion survey was conducted. It sought to establish    errors of exclusion, when members of the target&#13;
+the maximum  amount that households were    group are not captured by the eligibility criteria&#13;
+willing to pay to consume a typical volume of   and hence fail to receive tlie subsidy. A subsidy&#13;
+piped water and to obtain a connection to the    scheme with a high exclusion error clearly fails&#13;
+sewerage network. Willingness to pay is com-   on its own terms. Errors of inclusion occur wlhen&#13;
+pared with current prices to provide an indica-   people outside the target group fortuitously&#13;
+tion of affordability. The premise is that a    comply with the eligibility criteria and conse&#13;
+subsidy is only justified when willingness to pay    quently receive thie subsidy. Such leakage of&#13;
+falls short of true economic cost. The results of   funds to unintended beneficiaries redtuces the&#13;
+the survey show that while the current cost for   efficiency of die subsidy. to particular, it inflates&#13;
+water is t-S 0.21 per cubic meter; poorer con-   the cost of the subsidy to taxpayers.&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+TABLE 2    HOUSEHOLDS WITH PROPOSED INDIVIDUAL CRITERIA OF ELIGIBILITY FOR SUBSIDIES IN PANAMA, 1997&#13;
+Extreme poverty         Poverty             Non-poor              Total&#13;
+Thou-      Per-     Thou-               Thou-      Per-      Thou-      Per-&#13;
+Criterion                                sands      cent      sands               sands      cent     sands      cent&#13;
+Poor-quality floor materials              10.6      88.6       24.3      78.3      187.6     56.0      222.6     58.8&#13;
+Lack of telephone connection               9.6      79.8       21.7      69.8      113.2     33.8      144.4     38.2&#13;
+Primary educated head of household         7.8      65.3       15.2      49.1       85.2     25.4      108.3     28.6&#13;
+Toilet facilities located outside house    7.2      60.4       18.3      58.9       82.3     24.5      107.8     28.5&#13;
+Lack of sanitation beyond most basic       7.1      58.9       15.0      52.7      52.7      15.7       74.8     19.8&#13;
+None of the above                          0.0       0.0        1.0       3.3      98.8      29.5       99.8     26.4&#13;
+One or more of the above                  12.0     100.0       30.0      96.7      236.3     70.5      278.4     73.6&#13;
+Two or more of the above                  11.3      93,9       25.9      83.5      140.7     42.0      178.8     47.3&#13;
+Three or more of the above                 9.5      78.8       20.2      65.2       80.1     23.9      110.5     29.2&#13;
+Four or more of the above                  6.8      56.1       13.2      42.6       47.6     14.2       68.3     18.1&#13;
+All five of the above                      2.9      24.1        5.2      16.9       16.2      4.8       24.3      6.4&#13;
+Source: Encuesta Nacional de Niveles de Vida, Panama, 1997.&#13;
+As a criterion, zone of residence has the advan-    proxies and poverty levels, using data from  the&#13;
+tage of being easy to observe and relatively hard         LSMS survey. The results for the most successful&#13;
+to falsify. How well it correlates with the under-    proxy variables are repolted in table 2. As the&#13;
+lying poverty measure of interest depends on the         table illustrates, it is difficult to find a single vari-&#13;
+size of the zones used and the extent to which            able that performs well in minimizing both errors&#13;
+poverty  is  geographically  concentrated.  In            of exclusion and errors of inclusion. For exam-&#13;
+Panama, simulations were performed using zones            ple, poor quality floor materials have a very low&#13;
+defined by the 1997 LSMS survey, comprising               error of exclusion, being found in 88.6 percent&#13;
+approximately 15 households eaclh. The simula-    of extremely poor households, but a high error&#13;
+tions explored the effect of giving a subsidy to all    of inclusion, also being found in 56.0 percent of&#13;
+households in zones that met a particular set of    non-poor households. Clearly, the most power-&#13;
+socioeconomic criteria; for example, zones where    ful eligibility criterion is one that combines infor-&#13;
+more than 50 percent of households were living            mation on all of these characteristics. For the&#13;
+in extreme poverty. Such zonal eligibility criteria       purposes of the Panama simulation, the eligibil-&#13;
+were found to have Iiigh errors of exclusion, with    ity criterion was taken to be that the household&#13;
+as much as 94 percent of the target population            should meet two or more of the criteria identi-&#13;
+being  excluded  from   the  scheme  (table  1).    fied in table 2. The main benefit of moving from&#13;
+However, errors of inclusion were comparatively           zonal to individual criteria is a dramatic reduc&#13;
+low; only 31 percent of the subsidies would go to    tion in the errors of exclusion, which fall from 94&#13;
+households above the extreme poverty line.                percent to 6 percent. This comes at the cost of&#13;
+much higher errors of inclusion, with a very high&#13;
+While reliable information about poverty levels    proportion of the subsidy funds (93 percent)&#13;
+at the zonal level may be obtained based on cen-    leaking to households outside the target group.&#13;
+sus or survey data, it is much harder to obtain a&#13;
+reliable estimate of individual household income          Estimating administrative costs&#13;
+and expenditure in orcler to assess eligibility for&#13;
+individual subsidies. In Panama, an extensive             Using individual eligibility criteria requires an&#13;
+search for proxy variables was conducted by               administrative  apparatus for the  screening  of&#13;
+making  cross-tabulations  between  candidate             potential candidates. Typically, a standardized&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+Designing Direct Subsidies for the Poor-A Water and Sanitation Case Study&#13;
+household interview  is conducted by a social    households. The subsidy should be capped at&#13;
+worker to collect the information needed to apply    some pre-determined subsistence consumption&#13;
+the eligibility filters. This selection process can be    level.&#13;
+expensive. In Panama, some initial estimates sug-&#13;
+gested that the interviews could cost as much as    Third, the shorter the duration of the subsidy and&#13;
+US$10 per household. To this must be added the    the higher its absolute level, the greater the prob-&#13;
+fixed costs of running the subsidy program.             ability that the potential loss of the subsidy may&#13;
+act as a disincentive for households to attempt to&#13;
+Since administrative costs do not vary signifi-   improve  their economic  circumstances. This&#13;
+cantly with respect to the size of the subsidy          effect, known as the "poverty trap," suggests that&#13;
+given, schemes that pay out very little to each         eligibility for subsidies should not be reassessed&#13;
+beneficiary tend to be highly inefficient from an    too frequently. In Chile, for example, eligibility&#13;
+administrative point of view. A  simulation  of    is reassessed every three years.&#13;
+administrative costs for different types and illus-&#13;
+trative levels of subsidies in Panama shows that    Conclusion&#13;
+for a water consumption subsidy of US$1.50 per&#13;
+month, the administration costs absorb 40 per-    The case of Panama shows how useful simula-&#13;
+cent of the total value of the subsidy, whereas for    tion techniques can be in informing choices&#13;
+a  one-off  sewerage  connection  subsidy  of    between  alternative  policy  instruments. The&#13;
+US$750 the costs fall to 7 percent. These simula-    main lessons from the experience in Panama are:&#13;
+Viewpoint is an open  tions illustrate that low value subsidies are hard    * Before jumping to the conclusion that a sub-&#13;
+forum intended to     to justify in administrative terms, unless the selec-     sidy is required. policymakers should examine&#13;
+enicourage            tion procedures can be shared and jointly admin-          the poverty profile of water utility customers&#13;
+dissemination of and&#13;
+debate onideas,       istered across a number of stubsidy schemes.              and collect evidence on willingness to pay in&#13;
+innovations, and best                                                           relation to the true costs of service provision.&#13;
+practices for expanding  Preserving economic incentives                       * It is extremely difficult to find sound individ-&#13;
+the private sector The&#13;
+views published in this                                                         ual or zonal eligibility criteria. However, cal-&#13;
+series are those of the  It is important, in determining how high a sub-        culating the errors of inclusion and exclusion&#13;
+authors and shoald not  sidy to pay, to avoid the perverse incentives that      is a helpful way of assessing the options.&#13;
+be attributed to the&#13;
+World Bank or any of its    can be created by subsidies. First, a subsidy that    * Given significant fixed administrative costs in&#13;
+affiliated organizations.  covers the full cost of the service will eliminate   subsidy programs, direct subsidies of relatively&#13;
+Nor do any of the con-  incentives for the efficient use of water, and is       low value are unlikely to be cost-effective.&#13;
+clusions represent                                                                              ulkl&#13;
+official policy of the  likely to create a non-payment habit that may be&#13;
+World Bank or of its  difficult to break at a later date. Therefore, full-    References&#13;
+Executive Directors or  scale subsidies should  be  avoided. Pavment&#13;
+the coLintries they                                                           Foster, vivien, Andres G6mez-Loho, and Jonathan 11a1pern.&#13;
+represent.            should also be encouraged by making the sub-              Fortlcoming. Designing Direct SLhsidies for Water and Sanitation&#13;
+sidv conditional on the household1 paying its             Services: lessons from Panama" Policy Research Working Paper.&#13;
+Ta order additionalWolBak  asign,DC&#13;
+copies please call    own share. In Chile, water subsidies are capped           \\orcLl Bank, Washington,  e C&#13;
+202 458 1111 orcontact  at 85 perceint of the bill and are onily disbursed      lorthcoming  information and Nodeling Issues in )esigning&#13;
+Suzanne Smith, editor,  upon proof that the household has paid its share.       'o ntec and Sanitation Subsidv Schemes." Policv Research Working&#13;
+Room FtlK-208, The                                                              Piper. World Bank, Washington, D.C.&#13;
+World Bank, 1818 H&#13;
+Street, NW, Washington,    Second, a subsidy that applies to all levels of con-&#13;
+D.C. 20433, or Internet  sumption may encourage excessive use of the          Vivien Foster (ffoster@worldbank.org) and&#13;
+address ssmith7@&#13;
+worldbank.org. The    service. In Argentina a subsidy of utility bills for   Jonathan Halpern (jhalperngzworldbank.org),&#13;
+series is also available  pensioner households had to be discontinued         Latin America and the Caribbean Region, and&#13;
+org/html/fpd/notes/).  because  consumption  levels rose  as family,    Andres Gomez-Lobo (agomezlo&amp;&#13;
+@ Printed on recycled  friends, and neighbors took advantage of the    deconfacea.uchilecl). Department of&#13;
+paper                 lower cost of using utility services in pensioner    Economics, University of Chile&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+</ml:original-txt><ml:search-metadata><doc id="729348">
+        <url>
+            http://documents.worldbank.org/curated/en/2000/06/729348/designing-direct-subsidies-poor-water-sanitation-case-study
+        </url>
+        <availablein>English</availablein>
+        <virt_coll>Knowledge Notes</virt_coll>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2000/06/729348/designing-direct-subsidies-poor-water-sanitation-case-study</url_friendly_title>
+        <new_url>2000/06/729348/designing-direct-subsidies-poor-water-sanitation-case-study</new_url>
+        <disclosure_date>2010-07-01T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2010-07-01T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2000/12/22/000094946_0012130148389/Rendered/INDEX/multi_page.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2000/12/22/000094946_0012130148389/Rendered/PDF/multi_page.pdf</pdfurl>
+        <datestored>2000-12-22T00:00:00Z</datestored>
+        <docdt>2000-06-30T00:00:00Z</docdt>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            Designing direct subsidies for the poor : a
+            water and sanitation case study
+        </repnme>
+        <abstracts>
+            Direct subsidies are an increasingly
+            popular means of making infrastructure services more
+            affordable to the poor. Under the direct subsidy approach,
+            governments pay part of the water bill of poor households
+            that meet certain criteria. This approach was first used in
+            water sector reforms in Chile in the early 1990s and is an
+            alternative to the traditional method in which governments
+            pay subsidies directly to utilities, often allowing the
+            price of water to fall below economic costs
+            indiscriminately. This Note illustrates how simulation
+            techniques can be used to inform the design of direct
+            subsidy schemes, ensuring that they are both cost-effective
+            and accurate in reaching the target population.
+        </abstracts>
+        <docna>
+            Designing direct subsidies for the poor : a
+            water and sanitation case study
+        </docna>
+        <display_title>Designing direct subsidies for
+            the poor : a water and sanitation case study</display_title>
+        <listing_relative_url>/research/2000/06/729348/designing-direct-subsidies-poor-water-sanitation-case-study</listing_relative_url>
+        <docty>Viewpoint</docty>
+        <subtopic>Town Water Supply and Sanitation,Environmental Economics &amp; Policies,Economic Theory &amp; Research,Water Supply and Sanitation Governance
+            and Institutions,Health Economics &amp; Finance</subtopic>
+        <teratopic>Environment,Water Supply and Sanitation,Health, Nutrition and Population,Macroeconomics and Economic Growth</teratopic>
+        <count>Panama,Chile</count>
+        <authors>
+            <author>Foster, Vivien</author>
+            <author>Gomez-Lobos, Andres</author>
+            <author>Halpern, Jonathan</author>
+        </authors>
+        <geo_region_mdks>
+            <geo_region_mdk>World!$!80475</geo_region_mdk>
+            <geo_region_mdk>South America!$!80469</geo_region_mdk>
+            <geo_region_mdk>America!$!80450</geo_region_mdk>
+            <geo_region_mdk>Central America!$!80455</geo_region_mdk>
+        </geo_region_mdks>
+        <entityids>
+            <entityid>000094946_0012130148389</entityid>
+        </entityids>
+        <subsc>Other Water Supply &amp; Sanitation</subsc>
+        <admreg>Latin America &amp; Caribbean,Latin America &amp; Caribbean</admreg>
+        <colti>Public policy for the private sector ; Note
+            no. 211</colti>
+        <lang>English</lang>
+        <historic_topic>Environment,Water Supply and Sanitation,Health, Nutrition and Population,Macroeconomics and Economic Growth</historic_topic>
+        <sectr>Water, sanitation and flood protection</sectr>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            Targeted subsidies; Payments systems; Water
+            pricing; Needs assessment; Eligibility criteria; Water
+            service connections; Sewerage; Survey data; Household
+            income; Household expenditure surveys; Administrative costs;
+            Interviews; Economic incentives; Simulations
+            adequate water,administrative
+            terms,alternative policy instruments,connection
+            subsidy,consumers,consumption levels,cubic meter,economic
+            circumstances,economic incentives,Economics,efficient use of
+            water,Extreme poverty,fixed costs,households,income,income
+            levels,low-income households,per capita income,perverse
+            incentives,Policy Research,potable water,poverty line,price
+            of water,Private Sector,public health,public water,service
+            provision,sewerage network,sewerage services,simulation
+            techniques,Toilet facilities,towns,utilities,utility
+            services,water companies,water consumption,water
+            services,water utilities,water utility,Willingness to pay
+        </keywd>
+        <owner>Private Sctr Devel &amp; Infrastr VP (PSI)</owner>
+        <geo_regions>
+            <geo_region>World</geo_region>
+            <geo_region>South America</geo_region>
+            <geo_region>America</geo_region>
+            <geo_region>Central America</geo_region>
+        </geo_regions>
+        <repnb>21467</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>Water Resources</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Environment</ml:concept><ml:concept>Poverty Reduction</ml:concept><ml:concept>Poverty Reduction and Distributional Analysis</ml:concept><ml:concept>Poverty Reduction and Equity</ml:concept><ml:concept>Poverty and Inequality</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Social Protections and Labor</ml:concept><ml:concept>International Competitiveness</ml:concept><ml:concept>International Economics and Trade</ml:concept><ml:concept>Trade Liberalization</ml:concept><ml:concept>Trade Liberalization and Regional Integration</ml:concept><ml:concept>Trade Restrictiveness</ml:concept><ml:concept>Trade and Integration</ml:concept><ml:concept>Water</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Environment and Natural Resources</ml:concept><ml:concept>Health, Nutrition and Population</ml:concept><ml:concept>Poverty</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Social Protection and Labor</ml:concept><ml:concept>Trade</ml:concept><ml:concept>Water and Sanitation</ml:concept><ml:concept>Wastewater Collection and Transportation</ml:concept><ml:concept>Access to Basic Sanitation</ml:concept><ml:concept>On-site Sanitation</ml:concept><ml:concept>Sanitation Marketing</ml:concept><ml:concept>Sanitation Promotion</ml:concept><ml:concept>Demographics</ml:concept><ml:concept>Governance and Public Accountability (GPA)</ml:concept><ml:concept>Incentives for Good Government</ml:concept><ml:concept>National Governance</ml:concept><ml:concept>Town Water Supply and Sanitation</ml:concept><ml:concept>Poverty Lines</ml:concept><ml:concept>Consumption</ml:concept><ml:concept>Income</ml:concept><ml:concept>Government Policies</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Water Supply and Sanitation</ml:concept><ml:concept>Water, Sanitation and Hygiene</ml:concept><ml:concept>Sewerage</ml:concept><ml:concept>Subsidies</ml:concept><ml:concept>Sanitation</ml:concept><ml:concept>Infrastructure</ml:concept><ml:concept>Public Health</ml:concept><ml:concept>Population</ml:concept><ml:concept>Governance</ml:concept></ml:concepts><ml:geo-regions><ml:geo-region>Americas</ml:geo-region><ml:geo-region>Caribbean</ml:geo-region></ml:geo-regions></ml:annotations></ml:doc-envelope>

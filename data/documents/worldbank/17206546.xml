@@ -1,0 +1,1457 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>ï»¿                      Integrating the Poor into&#13;
+                      Universal Health Coverage in&#13;
+                      Vietnam&#13;
+                                                                 74945&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Aparnaa Somanathan,&#13;
+Huong Lan Dao, and&#13;
+Tran Van Tien&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                      Universal Health Coverage Studies Series (UNICO)&#13;
+                      UNICO Studies Series No. 24&#13;
+&amp;#12;&amp;#12;UNICO Studies Series 24&#13;
+Integrating the Poor into Universal Health Coverage&#13;
+in Vietnam&#13;
+Aparnaa Somanathan, Huong Lan Dao, Tran Van Tien 1&#13;
+&#13;
+The World Bank, Washington DC, January 2013&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+1&#13;
+  This report was written under the direction of Daniel Cotlear, Task Team Leader. Toomas Palu, Sector Manager,&#13;
+Health Nutrition and Population of the East Asia Region, provided overall management guidance for the report. The&#13;
+team would like to thank Gerard La Forgia, Karima Saleh, and Owen Smith for valuable comments provided on an&#13;
+earlier draft of this report, and the peer reviewers of the final report, Cheryl Cashin and Deepak Mishra. The team is&#13;
+grateful to Kari Hurt and Nga Nguyet Nguyen for valuable information and insights into the health financing system&#13;
+of Vietnam. The team is also grateful to Emiliana Gunawan and Minh Thi Hoang Trinh for their excellent&#13;
+administrative support.&#13;
+&amp;#12;           The World Bankâ&#128;&#153;s Universal Health Coverage Studies Series (UNICO)&#13;
+All people aspire to receive quality, affordable health care. In recent years, this aspiration has&#13;
+spurred calls for universal health coverage (UHC) and has given birth to a global UHC&#13;
+movement. In 2005, this movement led the World Health Assembly to call on governments to&#13;
+â&#128;&#156;develop their health systems, so that all people have access to services and do not suffer&#13;
+financial hardship paying for them.â&#128;? In December 2012, the movement prompted the United&#13;
+Nations General Assembly to call on governments to â&#128;&#156;urgently and significantly scale-up efforts&#13;
+to accelerate the transition towards universal access to affordable and quality healthcare&#13;
+services.â&#128;? Today, some 30 middle-income countries are implementing programs that aim to&#13;
+advance the transition to UHC, and many other low- and middle-income countries are&#13;
+considering launching similar programs.&#13;
+The World Bank supports the efforts of countries to share prosperity by transitioning toward&#13;
+UHC with the objectives of improving health outcomes, reducing the financial risks associated&#13;
+with ill health, and increasing equity. The Bank recognizes that there are many paths toward&#13;
+UHC and does not endorse a particular path or set of organizational or financial arrangements to&#13;
+reach it. Regardless of the path chosen, successful implementation requires that many&#13;
+instruments and institutions be in place. While different paths can be taken to expand coverage,&#13;
+all paths involve implementation challenges. With that in mind, the World Bank launched the&#13;
+Universal Health Coverage Studies Series (UNICO Study Series) to develop knowledge and&#13;
+operational tools designed to help countries tackle these implementation challenges in ways that&#13;
+are fiscally sustainable and that enhance equity and efficiency. The UNICO Studies Series&#13;
+consists of technical papers and country case studies that analyze different issues related to the&#13;
+challenges of UHC policy implementation.&#13;
+The case studies in the series are based on the use of a standardized protocol to analyze the nuts&#13;
+and bolts of programs that have expanded coverage from the bottom upâ&#128;&#148;programs that have&#13;
+started with the poor and vulnerable rather than those initiated in a trickle-down fashion. The&#13;
+protocol consists of nine modules with over 300 questions that are designed to elicit a detailed&#13;
+understanding of how countries are implementing five sets of policies to accomplish the&#13;
+following: (a) manage the benefits package, (b) manage processes to include the poor and&#13;
+vulnerable, (c) nudge efficiency reforms to the provision of care, (d) address new challenges in&#13;
+primary care, and (e) tweak financing mechanisms to align the incentives of different&#13;
+stakeholders in the health sector. To date, the nuts and bolts protocol has been used for two&#13;
+purposes: to create a database comparing programs implemented in different countries, and to&#13;
+produce case studies of programs in 24 developing countries and one high-income â&#128;&#156;comparator,â&#128;?&#13;
+the state of Massachusetts in the United States. The protocol and case studies are being published&#13;
+as part of the UNICO Studies Series, and a comparative analysis will be available in 2013.&#13;
+We trust that the protocol, case studies, and technical papers will provide UHC implementers&#13;
+with an expanded toolbox, make a contribution to discussions about UHC implementation, and&#13;
+that they will inform the UHC movement as it continues to expand worldwide.&#13;
+&#13;
+                                                                               Daniel Cotlear&#13;
+                                                       UNICO Studies Series Task Team Leader&#13;
+                                                                             The World Bank&#13;
+                                                                             Washington, DC&#13;
+&#13;
+                                                                                                ii&#13;
+&amp;#12;                                                           TABLE OF CONTENTS&#13;
+&#13;
+&#13;
+Abbreviations ............................................................................................................................................... iv&#13;
+Executive Summary ...................................................................................................................................... v&#13;
+1. Introduction ............................................................................................................................................ 1&#13;
+2. Institutional Architecture and System Characteristics of Vietnamâ&#128;&#153;s SHI .............................................. 1&#13;
+3. Impediments to the Integration of the Poor Into Universal Coverage .................................................. 10&#13;
+4. Pending Agenda ................................................................................................................................... 16&#13;
+Annex 1 Background to the Case Study ..................................................................................................... 18&#13;
+Annex 2 Spider Web ................................................................................................................................... 21&#13;
+References ................................................................................................................................................... 24&#13;
+&#13;
+&#13;
+Figures&#13;
+Figure 1 SHI Coverage in Terms of Enrolment as a Percent of the Population ........................................... 2&#13;
+Figure 2 Health Expenditure Trends and Composition, 2001â&#128;&#147;10................................................................. 4&#13;
+Figure 3 Sources of Financing for SHI Revenues......................................................................................... 4&#13;
+Figure 4 National Health System Financing Flows ...................................................................................... 5&#13;
+Figure 5 Average Capitation Rates (VND) by Region, 2011 ..................................................................... 12&#13;
+Figure 6 Share of Poor Households Experiencing Catastrophic Impact and Impoverishment among the&#13;
+Poor ............................................................................................................................................................. 13&#13;
+Figure 7 Concentration Indexes for Total Health Subsidies, 2006â&#128;&#147;10 ....................................................... 14&#13;
+Figure 8 Concentration Indexes for Supply-Side and Total Subsidies for Hospital Services, 2006â&#128;&#147;10 ..... 15&#13;
+&#13;
+Tables&#13;
+Table 1 SHI Benefits Package ...................................................................................................................... 9&#13;
+Table 2 Potential Good Practices in Vietnamâ&#128;&#153;s SHI and Challenges to Implementation ........................... 16&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                                 iii&#13;
+&amp;#12;                                  Abbreviations&#13;
+&#13;
+&#13;
+CHSs     commune health stations&#13;
+DOLISA   Provincial Department of Labor, Invalids and Social Affairs&#13;
+MOF      Ministry of Finance&#13;
+MOH      Ministry of Health&#13;
+MOLISA   Ministry of Labor, Invalids and Social Affairs&#13;
+OOP      out-of-pocket&#13;
+SHI      Social Health Insurance&#13;
+THE      total health expenditures&#13;
+VSS      Vietnam Social Security&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                       iv&#13;
+&amp;#12;Executive Summary&#13;
+&#13;
+By 2011, 97 percent of the poor in Vietnam had been enrolled in Social Health Insurance (SHI).&#13;
+High rates of enrolment into SHI have not translated into effective coverage for the poor,&#13;
+however. The fragmentation of funding across different groups has serious negative implications&#13;
+for risk pooling and equity. The poor are subsidizing the rich, and poorer provinces are&#13;
+subsidizing richer provinces. Out-of-pocket (OOP) payments are high and persistent, resulting in&#13;
+limited financial protection for the poor. Meanwhile, government subsidies for health are not&#13;
+sufficiently reaching the poor. Hospital subsidies, in particular, tend to favor the rich,&#13;
+exacerbating existing inequalities.&#13;
+&#13;
+This case study is aimed at providing a descriptive assessment of the key features of Vietnamâ&#128;&#153;s&#13;
+SHI, focusing on the impediments to integrating the poor into universal coverage. The trajectory&#13;
+of SHI in Vietnam is similar to that of many other countries in the East Asia and Pacific region.&#13;
+The poor were covered under a separate Health Care Fund for the Poor to begin with. The 2009&#13;
+Law on Health Insurance merged all of the different programs into one. Health insurance&#13;
+premiums for the poor were fully subsidized by the government and enrolment became&#13;
+mandatory, resulting in almost complete enrolment of the poor by 2011. Vietnam has combined&#13;
+elements of contributory social health insurance with substantial levels of tax financing to&#13;
+provide coverage for the poor and informal sector.&#13;
+&#13;
+In principle, Vietnam now has a single-payer insurance system, with a single pool and unified&#13;
+benefits package. In practice, the capitation-based resource allocation mechanism for primary&#13;
+care has exacerbated already high levels of fragmentation of revenues and risk pools. Capitation&#13;
+rates are determined on the basis of historic and province- and group-specific utilization rates.&#13;
+Poorer groups and provinces tend to face greater barriers to access, have lower utilization rates&#13;
+and, consequently, lower capitation rates. Because the poor tend to have lower capitation rates,&#13;
+health facilities are more likely to underprovide to this group, perpetuating the cycle of lower&#13;
+utilization and capitation rates.&#13;
+&#13;
+This fragmentation of risk pools combined with high OOP payments, and weak cost containment&#13;
+more generally have been detrimental to equity in access and financial protection for the poor.&#13;
+The increase in enrolment rates has not been accompanied by any significant reduction in rates&#13;
+of catastrophic spending or OOP-related impoverishment among the poor. Fee-for-service&#13;
+payment, hospital autonomy, and resource allocation and payment methods have created strong&#13;
+incentives for providers to oversupply services, making it difficult to contain costs and stem the&#13;
+growth of OOP payments. The wide prevalence of balance billing, although not permitted, and of&#13;
+informal payments, further contributes to this.&#13;
+&#13;
+Public hospital subsidies fail to reach the poor because a disproportionately large share is&#13;
+allocated to secondary and tertiary hospitals that the poor have limited access to. The expansion&#13;
+of insurance coverage and increased use of public hospitals by the poor has led to a slight&#13;
+improvement in the distribution of public subsidies. Nevertheless, the fact that the distribution of&#13;
+nonhospital servicesâ&#128;&#148;largely commune health stationsâ&#128;&#148;is pro-poor, while that of hospital&#13;
+services is pro-rich, suggests that the poor have limited access to hospital services. The poor face&#13;
+significant financial barriers in accessing hospital services because of the high OOP costs.&#13;
+&#13;
+                                                                                                  v&#13;
+&amp;#12;vi&#13;
+&amp;#12;1. Introduction&#13;
+&#13;
+The goal of integrating the poor into the universal health coverage program in Vietnam remains&#13;
+unattainable despite the fact that by 2011, nearly 100 percent of the poor had been enrolled into&#13;
+Social Health Insurance (SHI). Since 2009, insurance premiums for the poor have been fully&#13;
+subsidized by the government, and enrolment of the poor has been mandatory. Vietnam has&#13;
+combined elements of contributory social health insurance with substantial levels of tax&#13;
+financing to provide coverage for the poor and the informal sector.&#13;
+&#13;
+High rates of enrolment into SHI have not translated into effective coverage for the poor,&#13;
+however. The fragmentation of funding across different groups has had serious negative&#13;
+implications for risk pooling and equity. The poor are subsidizing the rich, and poorer provinces&#13;
+are subsidizing richer provinces. Out-of-pocket (OOP) payments are high and persistent,&#13;
+resulting in limited financial protection for the poor. Meanwhile, government subsidies for health&#13;
+are not sufficiently reaching the poor. Hospital subsidies, in particular, tend to favor the rich,&#13;
+exacerbating existing inequalities.&#13;
+&#13;
+This case study is aimed at providing a descriptive assessment of the key features of Vietnamâ&#128;&#153;s&#13;
+SHI, focusing on the impediments to integrating the poor into universal coverage. The case study&#13;
+finds that capitation-based payments under SHI have exacerbated already high levels of&#13;
+fragmentation in pooling and revenues. Meanwhile, a combination of hospital autonomy,&#13;
+revenue-enhancing efforts, balance billing, and weak governance has led to high and persistent&#13;
+out-of-pocket payments. The case study also shows that there are several features of Vietnamâ&#128;&#153;s&#13;
+SHI that could be considered best practice. Vietnam has not been able to reap their potential&#13;
+benefits because of flaws in the design or implementation of those features.&#13;
+&#13;
+The case study is structured as follows. Section 2 describes the institutional structure and system&#13;
+characteristics of Vietnamâ&#128;&#153;s SHI. Section 3 addresses the main topic of the case studyâ&#128;&#148;the&#13;
+impediments to integrating the poor. Section 4 concludes by addressing the pending agenda.&#13;
+&#13;
+2. Institutional Architecture and System Characteristics of Vietnamâ&#128;&#153;s SHI&#13;
+&#13;
+Vietnamâ&#128;&#153;s SHI 2 was formally established in 1992 and covered civil servants and formal sector&#13;
+workers. Over the last 20 years, SHI has increased coverage to more than 64 percent of the&#13;
+general population (Figure 1).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+2&#13;
+  Although Vietnam had a separate program for the poor prior to 2009, this was merged with the national SHI&#13;
+program under the law passed in 2009, as described below. Currently, there is no separate Health Care Program for&#13;
+the Poor in Vietnam. The organization and management arrangements for the compulsory insurance program for the&#13;
+poor are the same as for other types of compulsory insurance (SHI).&#13;
+&#13;
+                                                                                                               1&#13;
+&amp;#12;            Figure 1 SHI Coverage in Terms of Enrolment as a Percent of the Population&#13;
+&#13;
+                                               100&#13;
+                                                       Year: 2011&#13;
+                                                80&#13;
+&#13;
+                                                60&#13;
+&#13;
+                                                40&#13;
+&#13;
+                                                20&#13;
+&#13;
+                                                 0&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                  Near poor&#13;
+&#13;
+&#13;
+                                                                                              Formal sector&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                         Poor, &lt;6, EM&#13;
+&#13;
+&#13;
+                                                                                                                                        Civil servant&#13;
+                                                                Informal sector&#13;
+                                                      Farmers&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                              Students&#13;
+Source: Authorsâ&#128;&#153; calculations based on data from Vietnam Social Security (VSS 2012).&#13;
+&#13;
+The Evolution of Social Health Insurance in Vietnam&#13;
+&#13;
+Collapse of the centrally planned economy and the privatization of the health sector. Prior to the&#13;
+late 1980s, Vietnam had a socialist-style health care system that provided universal coverage. In&#13;
+the late 1980s and early 1990s, the reform process known as Doi Moi 3 led to a series of policy&#13;
+shifts in the health care system. Central among these reforms were the liberalization of the health&#13;
+care and pharmaceuticals markets, the introduction of official user fees at public health facilities&#13;
+and, more important, the inception of health insurance. By the early 1990s, OOP payments&#13;
+accounted for over 70 percent of total health financing, with significant negative impacts on&#13;
+financial protection and equity in health care. In short, economic liberalization and the&#13;
+consequent privatization of the health sector had significantly eroded coverage, as was the case&#13;
+in many former centrally planned economies around the world.&#13;
+&#13;
+The first mandatory scheme. To address the growth in OOP payments and associated problems&#13;
+of financial barriers to access, the government piloted a series of voluntary noncommercial&#13;
+health insurance schemes between 1989 and 1992. In 1992, Decree No. 299 was passed&#13;
+introducing a mandatory scheme for civil servants, formal sector workers, pensioners, and people&#13;
+receiving social assistance. This nationwide scheme covered all of the eligible population by&#13;
+1993. Supervised by the Provincial Health Departments, it had a multiple fund structure with a&#13;
+health insurance reserve fund in each province, and a national reserve fund. In 1998, Decree No.&#13;
+58 unified all of the health insurance funds into a national health insurance fund, and enlarged&#13;
+the scheme to include a few other groups such as meritorious people and dependents of military&#13;
+officers.&#13;
+&#13;
+Health insurance for the poor. Throughout the 1990s, the government issued several policies&#13;
+aimed at providing coverage for the poor. In 1994, Decree No. 95 introduced a fee exemption&#13;
+policy for the poor. This was not accompanied by any explicit subsidy to facilities to implement&#13;
+the policy, however. In 1999, a government circular required facilities to use budget funds to&#13;
+&#13;
+3&#13;
+ â&#128;&#156;Doi Moiâ&#128;? refers to the economic reforms initiated in Vietnam in 1986 with the goal of creating a â&#128;&#156;socialist-&#13;
+oriented market economy.â&#128;?&#13;
+&#13;
+                                                                                                                                                        2&#13;
+&amp;#12;enroll at least 30 percent of the poor in compulsory health insurance. The most critical policy&#13;
+change came in 2002, when Decision 139 led to the introduction of the Health Care Fund for the&#13;
+Poor (including ethnic minorities). Under this policy, either the poor could be enrolled in health&#13;
+insurance or providers could be reimbursed for providing free health services to the poor. The&#13;
+latter option led to administrative difficulties, and in some cases adverse selection, since&#13;
+providers included the very sick among the poor. In 2005, Decree No. 63 led to the direct&#13;
+exemption policy being abandoned. Instead, the decree required that all of the poor be enrolled in&#13;
+compulsory health insurance, with the government fully subsidizing the premium.&#13;
+&#13;
+The Law on Health Insurance. In 2009, the Law on Health Insurance was passed. It stated the&#13;
+following among its goals: â&#128;&#156;The State pays or assists payments of health insurance premiums for&#13;
+people who provided meritorious services to the revolution and socially protected groups.â&#128;? The&#13;
+law stipulates that all children under six years of age, the elderly, the poor, and the near-poor will&#13;
+be compulsorily enrolled. Under the law, the government is responsible for fully subsidizing the&#13;
+health insurance premium for children under six, the elderly, and the poor, and for partially&#13;
+subsidizing premiums for the near-poor and students. The law also provides a roadmap for&#13;
+universal coverage with the enrolment of other groups. The recent Master Plan for Universal&#13;
+Health Insurance (Ministry of Health 2012) has set a target of 80 percent coverage by 2020.&#13;
+&#13;
+Institutional Architecture&#13;
+&#13;
+The Ministry of Health (MOH) is in charge of SHI policy formulation and monitoring and&#13;
+evaluation, while Vietnam Social Security (VSS) is responsible for managing the SHI fund and&#13;
+implementing the program by issuing health insurance cards and purchasing services for its&#13;
+members. Institutionally, VSS is a ministerial-level government agency that reports to both the&#13;
+MOH and the prime minister. In addition, several other government agencies are involved in&#13;
+SHI. The Ministry of Labor, Invalids and Social Affairs (MOLISA) is responsible for the&#13;
+identification of the poor; local governments (and their Provincial Department of Labor, Invalids&#13;
+and Social Affairs [DOLISA]) are responsible for the identification process and for producing&#13;
+the final list of the poor in the provinces. The Ministry of Finance (MOF) and provincial&#13;
+departments of finance are responsible for the allocation and transfer of money to VSS.&#13;
+&#13;
+MOH reports on the basis of specific criteria to the National Assembly. These are mostly process&#13;
+indicators and some outcome indicators. Other indicators that are important for assessing equity&#13;
+and efficiency are not used for reporting. It is not compulsory to report on OOP payments for&#13;
+health care to the National Assembly, for instance.&#13;
+&#13;
+Financing and Delivery of Services under Vietnamâ&#128;&#153;s SHI&#13;
+&#13;
+Sources of financing&#13;
+&#13;
+Total health expenditures were 6.9 percent of gross domestic product in 2010, or US$85 per&#13;
+capita. Households account for the largest share of total health expendituresâ&#128;&#148;50.5 percent in&#13;
+2009â&#128;&#148;although this declined from 67.1 percent in 2005 (Figure 2).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                    3&#13;
+&amp;#12;                 Figure 2 Health Expenditure Trends and Composition, 2001â&#128;&#147;10&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+              Source: Authorsâ&#128;&#153; calculations using National Health Accounts (WHO 2012a)&#13;
+              Note: GGH = Government General Health expenditures. OOP = out-of-pocket payments. THE =&#13;
+              Total Health Expenditures.&#13;
+&#13;
+The expansion of SHI in Vietnam has been financed largely through tax subsidies to cover&#13;
+insurance premiums for the poor and other vulnerable groups. As Figure 3 shows, as SHI&#13;
+expanded rapidly during 2006â&#128;&#147;10, the government share of SHI revenues rose from 29 percent to&#13;
+almost 50 percent. Government health spending increased at a faster rate than economic growth&#13;
+from 2006 to 2010. By comparison, income elasticity of government health spending was only&#13;
+about 0.5, which indicates that there was a clear upward shift in government health spending&#13;
+after 2006. This includes government subsidies to cover the premium costs of enrolling the poor&#13;
+and other vulnerable groups, and partial subsidies to cover the premium costs of enrolling the&#13;
+near-poor. Contributions from employers, employees, and individuals have declined as a share of&#13;
+total revenues. Vietnam, like other countries in the region has recognized that expanding&#13;
+coverage based on contributory mechanisms alone is not feasible in a context where a large share&#13;
+of the population is still poor, in the informal sector, or both.&#13;
+                         Figure 3 Sources of Financing for SHI Revenues&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                 Source: Authorsâ&#128;&#153; calculations based on data from Vietnam Social Security (VSS 2012).&#13;
+&#13;
+                                                                                                        4&#13;
+&amp;#12;Figure 4 illustrates the financing flows in Vietnam. Government supply-side subsidies are&#13;
+channeled through MOH or Provincial Health Bureaus, while demand-side subsidies are&#13;
+channeled through VSS. In theory, they are pooled at the facility level. However, as discussed in&#13;
+the remainder of this case study, there is significant fragmentation of pooling. The different&#13;
+sources of funding also weaken purchasing capacity in the system, as discussed below.&#13;
+&#13;
+                        Figure 4 National Health System Financing Flows&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                               5&#13;
+&amp;#12;Delivery of services&#13;
+&#13;
+Vietnam has a mixed delivery system, with the public sector dominant in the provision of&#13;
+hospital care services, and the private sector dominant among smaller ambulatory care providers&#13;
+and the sale of pharmaceuticals. The public sector delivery system consists of central and&#13;
+specialized hospitals, provincial and district hospitals, and commune health stations (CHSs) and&#13;
+village health workers. Private providers of primary care consist of drug vendors, general&#13;
+practitioners, private pharmacies, and nursing homes. The private hospital sector is relatively&#13;
+underdeveloped. The number of private hospital beds accounts for only 4 percent of the total&#13;
+beds. In 2010, public sector hospitals and CHSs accounted for nearly half of all health&#13;
+expenditures. Private health care providers accounted for 12 percent and drug stores for 17&#13;
+percent of total health expenditures.&#13;
+&#13;
+All public providers were automatically approved to participate in SHI prior to November 2011,&#13;
+while private providers needed certification and permission. In recent years, no provider has lost&#13;
+the right to participate. From November 15, 2011, onward all public and private providers were&#13;
+required to obtain certification and permission to practice medicine.&#13;
+&#13;
+Resource allocation and provider payment mechanisms&#13;
+&#13;
+The allocation of supply-side subsidies is largely based on historical norms. The MOH allocates&#13;
+subsidies to tertiary hospitals and specialized hospitals, and the Provincial Governments allocate&#13;
+subsidies to provincial, district, and commune-level health services through the Provincial Health&#13;
+Bureaus. Both types of budget subsidies are allocated based on historic spending norms and bed&#13;
+numbers, with the exception of preventive care subsidies, which are capitation based.&#13;
+&#13;
+VSS manages SHI revenues, and purchases services for the insured using a combination of&#13;
+payment methods. SHI premiums from employers (4.5 percent of the minimum salary) and&#13;
+demand-side subsidies from the government for the poor, near-poor, and other vulnerable groups&#13;
+(4.5 percent of the basic minimum salary) are managed by VSS. Provincial Social Security&#13;
+offices handle payments at the provincial level.&#13;
+&#13;
+Capitation-based mechanisms are used for outpatient and inpatient care provided at CHS and&#13;
+district hospitals. Nearly 60 percent of all district hospitals have switched to capitation, to date.&#13;
+Extending capitation to all district hospitals is a key policy priority. SHI members must enroll&#13;
+either at a CHS or district hospital. The district hospitals are contracted by VSS. The capitation&#13;
+funds cover all costs incurred by the capitated district hospital and CHS, as well as referral costs&#13;
+at secondary and tertiary hospitals for members registered at the district hospital.&#13;
+&#13;
+SHI members are divided into six 4 specific groups, with a group-specific capitation rate&#13;
+calculated for each group for each of the 63 provinces using the following formula:&#13;
+&#13;
+&#13;
+&#13;
+4&#13;
+  The six groups are (a) civil servants and formal sector workers; (b) pensioners, meritorious people, beneficiaries of&#13;
+social security/protection allowances, and veterans; (c) the poor and near-poor; (d) children under six years of age;&#13;
+(e) school children and students; and (f) all remaining members including voluntary members.&#13;
+&#13;
+                                                                                                                     6&#13;
+&amp;#12;         Rij = (Expij/Nij) x K&#13;
+         Rij is the capitation rate for group i in province j&#13;
+         Expij is the total health expenditure of group I in province j for the previous year&#13;
+         Nij is the total number of group i in province j for the previous year&#13;
+         K is the annual adjustment coefficient to account for fluctuations in medical care costs,&#13;
+         inflation, and changes in other related factors in the subsequent year.&#13;
+&#13;
+The capitation fund is limited to 90 percent of the revenues collected from registered members.&#13;
+When there is a surplus in the capitation fund in any one year, district hospitals can use up to 20&#13;
+percent at the hospital and return the remainder to the health care fund. When there is a deficit,&#13;
+the provincial social security office will reimburse at least 60 percent of the deficit or pass it on&#13;
+to VSS.&#13;
+&#13;
+Fee-for-service is the payment method used for all secondary and tertiary hospitals and certain&#13;
+high-cost services that are excluded from capitation payment.&#13;
+&#13;
+Expenditure caps are in place to control costs. For district hospitals with capitation-based&#13;
+payment, the capitation fund must not exceed 90 percent of the health care fund of the district&#13;
+hospital. The health care fund of the district hospital is 90 percent of the premium revenues&#13;
+collected from members registered at the district hospital; the remaining 10 percent goes into a&#13;
+reserve fund. For secondary and tertiary hospitals with fee-for-service remuneration, the cap is&#13;
+based on historical expenditures adjusted for inflation. 5 In addition, there is a cap per episode on&#13;
+the maximum benefit that the SHI fund will cover, defined as 40 months of the minimum&#13;
+monthly salary (approximately US$35 in 2010) for high-tech and high-cost services.&#13;
+&#13;
+Impact on provider behavior&#13;
+&#13;
+Vietnam has taken critical steps to achieve and sustain universal coverage by introducing a&#13;
+closed-ended provider payment in the form of capitation. Few countries have achieved universal&#13;
+coverage and sustained it without moving away from or strictly controlling fee-for-service&#13;
+provider payment systems. Thus, the introduction of a capitation-based payment system for&#13;
+district hospital services is a step in the right direction.&#13;
+&#13;
+The problem is that the design and implementation arrangements of the capitation system make it&#13;
+difficult to reap the potential benefits of capitation. Not only does it exacerbate the fragmentation&#13;
+and inequities in the system (as discussed in Section 2), it also weakens the district-level health&#13;
+system. The capitation system places district hospitals entirely at risk for the costs of referrals to&#13;
+the provincial level. Referral costs at secondary and tertiary hospitals for those registered at the&#13;
+district hospital are deducted from the capitation package of that district hospital. District&#13;
+hospitals therefore have few incentives to refer patients and carry out their gatekeeping functions&#13;
+effectively. Meanwhile, secondary and tertiary hospitals that are paid on a fee-for-service basis&#13;
+have little incentive to control costs, since the risk is borne by the district hospital.&#13;
+&#13;
+&#13;
+5&#13;
+ Cap for inpatient expenditures = average expenditure per admission last year x 1.1 x number of admission per&#13;
+month. Cap for outpatient specialist care = average expenditure per outpatient visit last year x 1.1 x number of visits&#13;
+per month.&#13;
+&#13;
+                                                                                                                     7&#13;
+&amp;#12;The resource allocation mechanisms under SHI combined with the hospital autonomy policy&#13;
+have led to providers engaging in revenue-enhancing practices. Supply-side subsidies account for&#13;
+less than 30 percent of total hospital revenues (La Forgia 2012). The majority of central and&#13;
+provincial hospitals derive 70 to 90 percent of their revenues from sales of services reimbursed&#13;
+by SHI, from patients, or both. This creates strong incentives to generate demand by creating&#13;
+new services lines, investing in new medical equipment, and providing more intensive&#13;
+procedures. The Hospital Autonomy policy (Decree No. 43) allows hospitals to define service&#13;
+mix and mobilize resources. This has created an explicit link between hospital revenues and staff&#13;
+incomes and reinforced incentives to engage in revenue-enhancing practices.&#13;
+&#13;
+Three examples of revenue-enhancing practices by staff are well known (La Forgia 2012). First,&#13;
+most hospitals operate profit-sharing schemes among staff, in accordance with Decree No. 43&#13;
+regulations. These include the payment of performance-related bonus payments well in excess of&#13;
+the government salaries paid to staff. Second, the practice of â&#128;&#156;social mobilizationâ&#128;? is used in&#13;
+most central and provincial hospitals whereby staff pool money to make the investment. Since&#13;
+revenues from the use of the equipment contribute to the profit-sharing schemes, staff face strong&#13;
+incentives to perform as many procedures as possible using the equipment. For instance, one&#13;
+provincial hospital possesses seven ultrasounds, each producing an average of 107 tests per day.&#13;
+Third, anecdotal evidence points to providers deriving benefits from the procurement of drugs,&#13;
+even though hospitals are not permitted to charge a margin on drug sales. Drug prices in Vietnam&#13;
+are higher than international reference prices (WHO 2012b), and prescription rates appear to be&#13;
+high (La Forgia 2012). Spending on drugs accounted for 70 percent of all VSS spending.&#13;
+&#13;
+In short, hospital autonomy combined with the lack of effective control of fee-for-service&#13;
+mechanisms encourages hospitals to increase high-cost services. Balance billing, although not&#13;
+permitted, remains widespread. The payment system does not promote cost containment, and has&#13;
+put in place a set of perverse incentives that undermine efficient delivery of services, and&#13;
+contributes to rising out-of-pocket payments.&#13;
+&#13;
+Targeting and Enrolment of Beneficiaries&#13;
+&#13;
+ The national system for identifying the poor managed by MOLISA and provincial DOLISAs is&#13;
+used to identify the poor under SHI, as well. The process for identifying poor households, which&#13;
+is conducted annually, involves reviewing preliminary lists of poor households using a nationally&#13;
+defined scoring table. This is conducted by a steering committing consisting of the village leader&#13;
+and representatives of social organizations. An economic survey is carried out of the households&#13;
+on the preliminary lists. Next, the poor households are discussed and voted on at a hamlet&#13;
+representativesâ&#128;&#153; meeting. The lists are then submitted to the District Internal Affairs and Labour&#13;
+Agency, DOLISA and, finally, MOLISA. There are no targets regarding the number of poor who&#13;
+must be covered in a particular year. â&#128;&#156;Poorâ&#128;? status must be recertified annually. However, there&#13;
+is a grace period of three years to ensure that the household successfully escapes from poverty&#13;
+before it is removed from this group.&#13;
+&#13;
+Enrolment is mandatory and automatic for the poor under the SHI law. Every year, all&#13;
+households that are identified as poor are issued a health insurance card. The health insurance&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                8&#13;
+&amp;#12;card is sent by VSS to DOLISA and then to the district commune government, which distributes&#13;
+the cards to the poor households.&#13;
+&#13;
+There are reports of fraud associated with identifying and issuing health insurance cards for&#13;
+target groups, but limited options exist for preventing this. In 2011, there were reports of abuse&#13;
+by health workers producing fake profiles of insurers. VSS cannot carry out inspections or take&#13;
+action against suspected fraud. The Law of Inspection only allows public agencies like ministries&#13;
+and the Provincial Health Bureau to carry out inspections, and not VSS. All departments of the&#13;
+Peopleâ&#128;&#153;s Committee are also allowed to do inspections. However, these organizations lack the&#13;
+resources to carry out inspections or to take action against fraudulent practices in SHI.&#13;
+&#13;
+Management of the Benefits Package&#13;
+&#13;
+In principle, all SHI members are entitled to the same benefits package. In reality, there are large&#13;
+inequalities in services provided to the poor compared to the nonpoor, as discussed in Section 3.&#13;
+&#13;
+The SHI benefits package (Table 1) includes a broad range of services from ambulatory care to&#13;
+rehabilitation and advanced diagnostic and curative services. MOH established the package and&#13;
+plays a prominent role in revising the package, although VSS and service providers are also&#13;
+involved in the latter.&#13;
+&#13;
+                                        Table 1 SHI Benefits Package&#13;
+&#13;
+    Type of Benefit                          Details of Coverage                        Copayment Policy&#13;
+    Inpatient services   Birth delivery.                                             - 5% for pensioners,&#13;
+                         Emergency services.                                         the poor, and members&#13;
+                         Other inpatient hospitals services                          who receive a social&#13;
+                                  - Hospital components (hotel services, nursing     protection allowance.&#13;
+                                       care, disposables, tests)                     20% for all remaining&#13;
+                                  - Physician service components                     groups if referred;&#13;
+                                  - Pharmaceutical, MRI.&#13;
+    Outpatient           Public health services, excluding immunization if coveredNo copayment is&#13;
+    services             by National Targeted Program.                            charged for services&#13;
+                         Outpatient primary care contacts.                        provided at commune&#13;
+                         Outpatient specialist contacts.                          health stations (only&#13;
+                         Pharmaceuticals for outpatient services.                 outpatient), including&#13;
+                         Clinical laboratory tests for outpatient services.       child delivery services.&#13;
+                         Diagnostic imaging for outpatient services â&#128;&#147; basic + MRI,In other levels, same to&#13;
+                         CT Scan), etc.                                           above.&#13;
+    Other services       Dental care â&#128;&#147; basic.                                     - 5% for pensioners,&#13;
+                         Mental health/behavior.                                  the poor, and members&#13;
+                         Dialysis or transplants.                                 who receive a social&#13;
+                                                                                  protection allowance.&#13;
+                                                                                  - 20% for all remaining&#13;
+                                                                                  groups.&#13;
+  Note: The copayment ceiling is defined as 40 months of the minimum monthly salary for high-tech and high-cost&#13;
+  services.&#13;
+&#13;
+The definition of the benefits package is not based on cost-effectiveness, affordability, or any&#13;
+technical criteria. In recent years, the benefits package has been expanded to meet the&#13;
+&#13;
+                                                                                                             9&#13;
+&amp;#12;requirements of suppliers who have invested in advanced technology. The benefits package has&#13;
+also been expanded to keep pace with a fast-growing pharmaceutical market. SHI fund deficits&#13;
+during 2006â&#128;&#147;09 (caused by benefits package expansion and cancelation of copayment) did not&#13;
+lead to any revision of the benefits package based on cost-effectiveness criteria. Instead, it&#13;
+resulted in the reintroduction of copayments, this time without any ceiling. To date, there has&#13;
+never been an effort to estimate the actual cost of the benefits package.&#13;
+&#13;
+Charging significantly higher copayment rates for self-referrals is the primary means of&#13;
+utilization management under SHI. For insured patients who bypass lower-level referral&#13;
+facilities, the copayments are 30 percent at district hospitals, 50 percent at provincial hospitals,&#13;
+and 70 percent at central and tertiary hospitals. In practice, this has proven to be an ineffective&#13;
+means of utilization management, because the higher copayment rates do not deter users from&#13;
+self-referring to the provincial level. Overcrowding at the provincial and tertiary levels is one of&#13;
+the major constraints to making insurance coverage effective.&#13;
+The Information Environment under SHI&#13;
+The information environment under SHI is weak, with little strategic or systematic use made of&#13;
+what data are collected. Data are collected manually and transferred from Provincial Social&#13;
+Security offices to VSS on a quarterly basis. These include data on utilization by beneficiary and&#13;
+provider, and payments and accounting information. Information on expenditures and utilization&#13;
+are not made publicly available by VSS and are difficult to access even for other government&#13;
+agencies. The MOH also collects data on infrastructure, and processes measures of quality such&#13;
+as infection rates, readmission rates, and health outcomes. However, these data are not used in a&#13;
+systematic manner to assess SHI and provider performance. Instead, simple administrative and&#13;
+financial data are used for making budget adjustments from year to year. There are no real&#13;
+incentives for providers to focus on improving health outcomes, with the possible exception of&#13;
+the vertical National Health Targeted Programs.&#13;
+&#13;
+The National Assembly Committee for Social Affairs is responsible for supervision of health&#13;
+insurance and health care issues. This committee conducts annual supervision visits to provinces&#13;
+and requires reports from the MOH and VSS. In recent years, the Committee has focused its&#13;
+supervision on the implementation of the SHI law, population coverage, and access to and&#13;
+quality of health care.&#13;
+&#13;
+3. Impediments to the Integration of the Poor Into Universal Coverage&#13;
+&#13;
+Vietnam has been successful in enrolling almost all of the poor into SHI, but this has not&#13;
+translated into effective coverage of the poor. This section provides three explanations why the&#13;
+goal of integrating the poor into universal coverage remains unattainable.&#13;
+&#13;
+Fragmentation of Pooling Undermines Equity&#13;
+&#13;
+In principle, Vietnamâ&#128;&#153;s SHI program involves a single payer and a single pool with a unified&#13;
+benefits package. The Law on Health Insurance in 2008 was an important step on the path to&#13;
+universal coverage for Vietnam. It integrated the existing health insurance program with the&#13;
+program for the poor, thus bringing together all groups into one program. This put Vietnam&#13;
+&#13;
+                                                                                                 10&#13;
+&amp;#12;ahead of several other countries in the region such as China and Indonesia, whose SHI schemes&#13;
+involve multiple payers.&#13;
+&#13;
+In practice, Vietnamâ&#128;&#153;s SHI program is characterized by a high degree of fragmentation of&#13;
+pooling and revenues, which is exacerbated by the capitation-based payment mechanism. The&#13;
+genesis of this fragmented system can be traced back to the early stages of SHI development,&#13;
+when the different SHI groups (the poor, pensioners, the formal sector, etc.) had separate sources&#13;
+of financing. Despite the Law on Health Insurance and the decision to integrate the different&#13;
+groups of insured into one program, there continues to be an unwillingness to pool revenues&#13;
+across insured groups. The capitation-based payment system that evolved in this context sets&#13;
+capitation rates differently for the different groups of insured in each province (as described in&#13;
+Section 1), and exacerbates the fragmentation of pooling and revenues.&#13;
+&#13;
+The high degree of fragmentation of pooling and revenues has three implications for pooling and&#13;
+equity.&#13;
+&#13;
+First, it leads to limited pooling of risks between the rich and poor. The capitation rates are based&#13;
+on historic expenditures and utilization patterns, which are driven largely by financial and&#13;
+geographic barriers to access faced by the different groups, and already high levels of&#13;
+fragmentation in pooling and revenues. They do not reflect the actual need for health care&#13;
+because the groupings do not reflect homogenous health risks within any particular group (Tran&#13;
+Van Tien et al. 2011). Groups such as the poor and near-poor tend to have lower expenditures&#13;
+compared to other groups. They face greater barriers to access and therefore have lower&#13;
+utilization relative to need. Figure 5 shows average capitation rates by region for the six groups.&#13;
+In 2010â&#128;&#147;11, the annual premium for subsidized members was about VND 380,000, or 4.5&#13;
+percent of the minimum salary, denoted by the red line in Figure 5. It is clear that school children&#13;
+and students as well as the poor receive a capitation rate that is significantly below the&#13;
+contribution rate. In effect, the poor are subsidizing better-off groups such as formal sector&#13;
+workers and pensioners.&#13;
+&#13;
+Second, it leads to limited pooling of risks and revenues across provinces. The size of the&#13;
+capitation fund varies by the composition of the enrollees by type of group, geographic barriers&#13;
+to accessing services, and the technical capacity of hospitals to deliver services. Provinces with a&#13;
+larger share of poor or minority groups that have lower utilization rates and poor-quality&#13;
+hospitals tend to have lower per capita expenditures than better-off provinces. Since the surplus&#13;
+of one province can be used to pay for the deficits of another, poorer provinces end up&#13;
+subsidizing richer provinces.&#13;
+&#13;
+Third, it results in underprovision of services to the poor and other vulnerable groups. Given&#13;
+large differences in the capitation rates, provinces actually maintain subpools for each of the six&#13;
+groups and transfer the subpool ceilings to district hospitals (Tran Van Tien et al. 2011). District&#13;
+hospitals then limit services to within the available budget for each group. For instance, health&#13;
+facilities with a relatively large share of people receiving subsidies for the poor are more likely to&#13;
+underprovide services due to the relatively lower value of the capitation rate for that group.&#13;
+Combined with existing inequalities in utilization and expenditures (discussed below), this&#13;
+pattern of underproviding for the poor worsens the fragmentation of pooling.&#13;
+&#13;
+&#13;
+                                                                                                   11&#13;
+&amp;#12;Thus, the benefits package is uniform across membership groups only in principle. In reality,&#13;
+large variations in capitation rates across membership groups and across provinces implicitly&#13;
+allow for differences in how much of the benefits package members can really access and what&#13;
+types of services they have access to.&#13;
+&#13;
+                    Figure 5 Average Capitation Rates (VND) by Region, 2011&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+            Source: Nguyen Khanh Phuong 2012.&#13;
+            Note: Red line shows the annual premium for subsidized members of VND 380,000&#13;
+            (4.5 percent of the minimum salary).&#13;
+&#13;
+&#13;
+Out-of-pocket Payments are High and Persistent&#13;
+Coverage in terms of enrolment has not led to lower OOP payments and improved financial&#13;
+protection (Figure 1). For the poor, who have limited disposable income, savings, or assets, OOP&#13;
+payments are potentially impoverishing. Figure 6 shows that the share of households&#13;
+experiencing catastrophic OOP payments (over 40 percent of the monthly budget) in the poorest&#13;
+two quintiles has changed little over time. The same is true of the probability of OOP-related&#13;
+impoverishment for the poorest quintile, although not for the second-poorest quintile (Hoang et&#13;
+al. 2012).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                             12&#13;
+&amp;#12;                     Figure 6 Share of Poor Households Experiencing Catastrophic&#13;
+                             Impact and Impoverishment among the Poor&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                      Source: Hoang et al. 2012&#13;
+                      Note: Catastrophic impact is defined as OOP payments exceeding 40 percent of monthly&#13;
+                      household expenditures. Impoverishment is defined as the likelihood of a householdâ&#128;&#153;s&#13;
+                      monthly expenditures falling below the poverty line once OOP payments are included.&#13;
+&#13;
+&#13;
+&#13;
+The persistence of high OOP payments is clearly an impediment to integrating the poor into&#13;
+universal coverage, because it means that entitlements are linked to ability to pay under SHI. It&#13;
+raises questions about SHIâ&#128;&#153;s ability to provide financial protection, a key goal of universal&#13;
+coverage. Empirical evaluations carried out during the course of SHIâ&#128;&#153;s evolution have produced&#13;
+mixed results with regard to the impact of insurance on utilization and OOP payments. Some&#13;
+studies (Wagstaff 2007) found that free health care for the poor had a positive impact on&#13;
+utilization but no significant impact on OOP payments, while others (Bales et al. 2007; Wagstaff&#13;
+2009) found that the same program reduced OOP payments significantly but had no impact on&#13;
+utilization. There are no evaluations yet of the post-2008 expansion of SHI coverage.&#13;
+&#13;
+The inability to control OOP payments is linked to the broader issues of cost containment and&#13;
+poor governance under SHI. As described in Section 2, fee-for-service payment, hospitalsâ&#128;&#153; heavy&#13;
+reliance on own income, and hospital autonomy have combined to create strong incentives for&#13;
+hospitals, particularly secondary and tertiary hospitals, to oversupply services. VSS is a passive&#13;
+purchaser of services and has no effective volume or price controls. Revenue-enhancing&#13;
+practices by providers drive up costs, and therefore OOP payments. VSS reimburses according to&#13;
+the fee schedule, while household OOP payments pick up the rest. In addition, while balance&#13;
+billing is not allowed under SHI, there is anecdotal evidence that hospitals may be charging&#13;
+patients for â&#128;&#156;better qualityâ&#128;? technical services, pharmaceuticals, and supplies that are not part of&#13;
+the official price list and package. 6 Finally, informal payments to individual doctors and nurses&#13;
+are reported to be quite common at higher-level hospitals (Tran Tuan et al. 2011).&#13;
+&#13;
+&#13;
+6&#13;
+  For instance, under a recent World Bank project that financed a health insurance package of services, the&#13;
+difference between the cost of the package and what health insurance actually financed was attributed to balance&#13;
+billing for extras such as more up-to-date surgical thread and pharmaceuticals that are not included in the VSS lists&#13;
+(Hurt 2012).&#13;
+&#13;
+                                                                                                                 13&#13;
+&amp;#12;Public Subsidies do not Reach the Poor&#13;
+&#13;
+Public subsidies for health, in the form direct supply-side subsidies to health facilities or&#13;
+demand-side subsidies through insurance mechanisms have a potentially redistributionary role to&#13;
+play in any health system. They are instruments for broader poverty alleviation and redistribution&#13;
+policy when redistribution through other mechanisms is impeded by information and&#13;
+administrative constraints (Besley and Coate 1991). However, the extent to which public health&#13;
+subsidies contribute to redistribution depends on the distribution of their benefits.&#13;
+&#13;
+While the distribution of public subsidies for hospital services remains prorich, a recent benefit&#13;
+incidence analysis indicates that it became less prorich during 2006â&#128;&#147;10 (Figure 7). The&#13;
+distribution of nonhospital subsidies has been propoor throughout. A negative concentration&#13;
+index indicates the distribution is propoor and vice versa. Income inequality, as measured by the&#13;
+Gini coefficient changed little during this period, and if anything, increased slightly in 2010&#13;
+(Figure 7). Given this, it can be argued that public subsidies for health are redistributionary&#13;
+because nonhospital subsidies are propoor, and hospital subsidies have become less prorich. Both&#13;
+direct supply-side subsidies to health facilities and demand-side subsidies through SHI were&#13;
+included in the analysis. Interestingly, including the demand-side subsidies improved the&#13;
+distribution of the hospital subsidies compared with supply-side subsidies alone (Figure 8).&#13;
+&#13;
+               Figure 7 Concentration Indexes for Total Health Subsidies, 2006â&#128;&#147;10&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                 Source: Tran Thi Mai Oanh and Bales et al. 2012.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                               14&#13;
+&amp;#12;                    Figure 8 Concentration Indexes for Supply-Side and Total&#13;
+                             Subsidies for Hospital Services, 2006â&#128;&#147;10&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                  Source: Tran Thi Mai Oanh and Bales et al. 2012&#13;
+                  Note: Total subsidies to hospitals include direct supply-side subsidies&#13;
+                  to hospitals and demand-side subsidies allocated indirectly through the&#13;
+                  insurance mechanism.&#13;
+&#13;
+Public hospital subsidies fail to reach the poor because a disproportionately large share is&#13;
+allocated to secondary and tertiary hospitals, which the poor have limited access to. The&#13;
+expansion of insurance coverage and increased use of public hospitals by the poor has led to a&#13;
+slight improvement in the distribution of public subsidies in favor of the poor. Nevertheless, the&#13;
+fact that the distribution of nonhospital servicesâ&#128;&#148;largely CHSâ&#128;&#148;is propoor, while that of&#13;
+hospital services is prorich, suggests that access by the poor is a key underlying factor.&#13;
+Interviews with patients and staff suggest that people have little confidence in the quality of&#13;
+lower-level facilities (La Forgia 2012). CHSs, which are the first point of contact in the health&#13;
+system for much of the rural population, are poorly resourced and consequently viewed as poor&#13;
+quality. District hospitals provide a broader range of services than CHS but are still perceived as&#13;
+being of worse quality than higher-level facilities. Bypassing the lower level involves a&#13;
+significantly higher copayment, which imposes financial barriers to access. Again, this is to the&#13;
+detriment of the poor, because it means that access to services is linked to ability to pay. The&#13;
+Annex provides more details about the primary care system and referral mechanisms.&#13;
+&#13;
+The underresourcing and lack of confidence in lower-level facilities is also linked to the resource&#13;
+allocation and payment methods described in Section 2. A joint report by the Ministry of Health,&#13;
+World Bank, and Health Strategy and Policy Institute (2011) found that higher-level hospitals&#13;
+have been taking staff from lower-level facilities. Physicians are moving from less profitable&#13;
+lower-level facilities to more profitable higher-level facilities that use high-tech equipment. VSS&#13;
+rules, which restrict the volume and doses for drugs that are reimbursed at lower-level facilities,&#13;
+also contribute to the perception that lower-level facilities provide worse-quality services. For&#13;
+instance, while tertiary hospitals can prescribe 100 percent of the SHI drug list, district hospitals&#13;
+can dispense only 69 percent and CHSs only 33 percent. CHS-based prescriptions cannot exceed&#13;
+VND 10,000 per visit with doses of a maximum of three days, while central hospitals are&#13;
+reimbursed up to VND 50,000 per visit and are permitted to prescribe doses up to seven days (La&#13;
+Forgia 2012).&#13;
+&#13;
+                                                                                                  15&#13;
+&amp;#12;This case study has highlighted that, while there are several features of Vietnamâ&#128;&#153;s SHI system&#13;
+that are considered good practice based on international experience, Vietnam has failed to reap&#13;
+the potential benefits of these because of design or implementation flaws. This is particularly so&#13;
+with regard to efforts to integrate the poor into SHI. Table 2 provides a summary of the potential&#13;
+good practices that have been stymied by design and implementation flaws.&#13;
+&#13;
+       Table 2 Potential Good Practices in Vietnamâ&#128;&#153;s SHI and Challenges to Implementation&#13;
+     Potential Good Practice                                   Challenge in Implementation&#13;
+     Vietnam has integrated its program      â&#128;¢ It has been difficult to achieve cross-subsidization, so the poor&#13;
+     for the poor into the national social     still have lower-resourced pool.&#13;
+     health insurance program and&#13;
+     premiums for the poor fully&#13;
+     subsidized with general revenues.&#13;
+     Vietnamâ&#128;&#153;s insurance system has a     â&#128;¢ The purchasing function remains weak and the potential&#13;
+     single payer.                           strategic power has not been exploited.&#13;
+                                          â&#128;¢ A significant share of funding still comes through supply-side&#13;
+                                             subsidies, fragmenting the purchasing function.&#13;
+    Vietnam is moving away from fee-       â&#128;¢ The capitation payment system helps with cost control for VSS.&#13;
+    for-service payment in its insurance     It does not bring most of the potential benefits and incentives.&#13;
+    system and introducing closed-         â&#128;¢ Most risk transferred to district hospitals.&#13;
+    ended payment through capitation       â&#128;¢ Fragmentation of pools translated to fragmentation in provider&#13;
+    and other caps.                          payment.&#13;
+    Copayment policy to manage            â&#128;¢ The copayment rates for bypassing do not appear to have much&#13;
+    utilization with exemptions and          disincentive to bypass primary care providers.&#13;
+    lower rates for the poor.             â&#128;¢ Copayments for inpatient services may be an access barrier for&#13;
+                                             the poor.&#13;
+    Balanced billing is not permitted.    â&#128;¢ Balanced billing remains widespread, and hospital autonomy&#13;
+                                             encourages hospitals to increase high-cost services, so out-of-&#13;
+                                             pocket payments remain high.&#13;
+   Sources: Cashin 2013; peer reviewer comments.&#13;
+&#13;
+4. Pending Agenda&#13;
+&#13;
+This case study has identified two major areas of reform that need to be tackled effectively if&#13;
+Vietnamâ&#128;&#153;s SHI is to provide effective coverage for the poor and make substantial progress&#13;
+toward achieving universal coverage&#13;
+&#13;
+The capitation payment method needs to be revised to avoid fragmentation of risk pools. The&#13;
+most important revision to the capitation payment system is not to base it on actual costs of&#13;
+service delivery. The most important changes are (a) to equalize the per capita rate as a way to&#13;
+overcome fragmentation in pooling across insured groups and adjust it according to health need&#13;
+rather than revenues of the group, and (b) no longer hold district hospitals at risk for provincial&#13;
+referrals in order to prevent weakening of the district-level health system relied on by the poor. It&#13;
+is probably not reasonable to expect dramatic, overnight improvements in revenue allocation and&#13;
+pooling. Differences among population groups and areas will need to be reduced gradually over&#13;
+time.&#13;
+&#13;
+Stronger efforts are needed to stem the continued growth of OOP payments. Fee-for-service,&#13;
+combined with the existing resource allocation methods, hospital autonomy, and weak&#13;
+&#13;
+                                                                                                                   16&#13;
+&amp;#12;governance is contributing to rapid cost escalation. Pilots of case-based payment methods are&#13;
+underway. However, it is important to recognize that unless steps are taken to strengthen SHI&#13;
+governance, through measures to effectively control balance billing, for instance, growth of OOP&#13;
+payments will continue to be a problem with or without fee-for-service. Strengthening the&#13;
+purchasing capacity of VSS and enabling it to become a more strategic purchaser are especially&#13;
+critical for improving SHI governance.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                             17&#13;
+&amp;#12;                                    Annex 1 Background to the Case Study&#13;
+&#13;
+The Economic Context&#13;
+&#13;
+Vietnam is one of the fastest growing economies in the East Asia and Pacific region. Since 1989,&#13;
+the country has experienced rapid development associated with an economic and social reform&#13;
+program known as Doi Moi, characterized by a shift from a centrally planned economy to a&#13;
+market economy. The country has made good progress in improving economic conditions,&#13;
+educational levels, and the health status of the population, marked by significant improvements&#13;
+in peopleâ&#128;&#153;s livelihoods in both urban and rural areas. The number of poor households (income&#13;
+insufficient to provide meals of 2,100 calories per person per day) fell from 58 percent in 1993 to&#13;
+22 percent in 2005. Gross domestic product was US$1,064 per capita in 2009 (World Bank&#13;
+2011), which moved Vietnam from low-income-country to lower-middle-income-country status.&#13;
+&#13;
+Vietnam is also one of the most populous countries in the East Asia and Pacific region, with a&#13;
+population of 85.8 million in 2009 (Central Population and Housing Census Steering Committee&#13;
+2010) and a population density of 230 people per square kilometer. The most densely populated&#13;
+areas of the country are the Mekong Delta Region and the Red River Delta Region. Despite&#13;
+growing urbanization, the majority of the population (about 69 percent) still depend on&#13;
+agriculture. Vietnam is witnessing a gradual transition of its labor force from agriculture to&#13;
+industry and services.&#13;
+&#13;
+Economic development has led to large improvements in health outcomes and access to health&#13;
+care, although large disparities exist between the rich and the poor, and the poorer and better-off&#13;
+regions of the country. Infant mortality rates declined from 30 per 100,000 live births to 16 per&#13;
+100,000 live births, and under-five mortality rates declined from 42 per 100,000 live births to 25&#13;
+per 100,000 live births between 2001 and 2009. Life expectancy at birth was 70 for males and 76&#13;
+for females in 2009 (World Bank 2011).&#13;
+&#13;
+The Public Health System&#13;
+&#13;
+The public health system in Vietnam is organized into three levels. At the central level, the&#13;
+Ministry of Health (MOH) formulates and executes health policy, and directly controls and&#13;
+finances research institutions, general and specialized hospitals, and vertical National Health&#13;
+Targeted Programs. At the provincial level, there are 63 provincial health bureaus, which follow&#13;
+MOH policies and are part of local provincial governments under the Provincial Peopleâ&#128;&#153;s&#13;
+Committees. The provincial health bureaus manage the provincial hospitals and Centers for&#13;
+Preventive Medicine, 7 while the Provincial Peopleâ&#128;&#153;s Committees control their administration and&#13;
+financial aspects. At the primary care level, there are CHS and village health workers and district&#13;
+hospitals.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+7&#13;
+    Centers for Preventive Medicine are responsible for disease surveillance activities at the provincial level.&#13;
+&#13;
+                                                                                                                   18&#13;
+&amp;#12;Primary Care and Referrals&#13;
+&#13;
+The CHSs are the first point of contact for much of the population, especially in rural areas, but&#13;
+do not provide many of the services they are designated to provide. There are more than 10,000&#13;
+CHSs in the country, one for each commune, covering about 10,000 people. Recent studies have&#13;
+found that many services such as malnutrition programs, child health exams, and diagnosis and&#13;
+treatment of noncommunicable diseases, which should be delivered at the CHS level, are not&#13;
+actually provided (Duong et al. 2010). Possible reasons for this include lack of personnel, since&#13;
+35 percent of CHSs do not have doctors; limited drug availability; and poor-quality equipment.&#13;
+CHS health workers also have limited access to continuing medical education, which impacts&#13;
+quality of services provided.&#13;
+&#13;
+Primary care is also provided by intercommune clinics, district hospitals, and polyclinics at the&#13;
+district level, all of which admit inpatients and provide emergency services and basic treatment&#13;
+for common illnesses. District hospitals have 80 beds, on average, but are characterized by large&#13;
+variations in technical sophistication and quality of services provided.&#13;
+&#13;
+Poor quality at the lower levels worsens inequalities in access to services. A survey in 13&#13;
+provinces in the Mekong region showed that 61.3 percent of patients in the poorest quintile&#13;
+selected CHSs compared to only 35.5 percent among the richest quintile (Center for Community&#13;
+and Research Development 2012).&#13;
+&#13;
+According to the referral guidelines set out in a 2009 MOH Circular, 8 insured members can only&#13;
+use health services from the CHS or district hospital where they are registered, and must be&#13;
+referred to secondary or tertiary hospitals. Insured patients who bypass lower-level referral&#13;
+facilities must pay a higher copayment rate, depending on the level at which they access health&#13;
+care: 30 percent at district hospitals, 50 percent at provincial hospitals, and 70 percent central&#13;
+and tertiary hospitals.&#13;
+&#13;
+In practice, the referral mechanisms remain ineffective because of relatively poor quality at the&#13;
+primary-level facilities. The insured prefer to bypass the lower-level facilities despite the&#13;
+significantly higher copayment that this involves. A 2011 study (Le Quang et al. 2011) showed&#13;
+that of those surveyed, only 40 percent of patients at general hospitals and 7 percent of patients at&#13;
+specialized hospitals had be treated at those hospitals; the rest could have been treated at lower-&#13;
+level hospitals. Similarly, 40 percent of patients surveyed at provincial hospitals could have been&#13;
+treated at the district level, and 11 percent could have been treated at the commune levels. At the&#13;
+Central Obstetrics and Gynecology Hospitals, 34 percent of patients came for normal prenatal&#13;
+checkups and minor diseases, and 60 percent of admissions were for normal delivery. At the&#13;
+provincial level, normal deliveries accounted for more than 50 percent of admissions, although&#13;
+district- and commune-level facilities are able to perform normal deliveries.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+8&#13;
+ Circular No. 10/2009/TT/BYT guiding the registration of the first point of care for insured patients and referral&#13;
+mechanisms&#13;
+&#13;
+                                                                                                               19&#13;
+&amp;#12;Supply-side Infrastructure&#13;
+&#13;
+There are large differences across the country in the numbers of beds per capita across regions.&#13;
+The North Central and Central Highlands regions have far fewer beds per capita, and in&#13;
+particular fewer provincial beds than other regions. The rural/urban population ratio is highly&#13;
+positively correlated with the district/provincial bed ratio, implying that the more rural the&#13;
+province, the greater the reliance on district hospitals.&#13;
+&#13;
+In recent years, the government has made significant investments in improving the public health&#13;
+infrastructure, with some emphasis on primary care. Since 2008, the government has used the&#13;
+sale of government bonds to finance upgrading of CHS and district hospitals. 9 In addition, in&#13;
+2008, a project for upgrading district hospitals received VND 3,750 billion (US$202 million) and&#13;
+a project upgrading general hospitals received VND 3,000 billion (US$162 million). In 2009,&#13;
+VND 500 billion (US$26.9 million) from government bonds was allocated for building and&#13;
+upgrading specialist provincial hospitals and general hospitals in disadvantaged provinces.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+9&#13;
+ Decision No. 47/2008/QDTTg from the Prime Minister approved project investment for building and upgrading&#13;
+health facilities using government bonds from 2008 to 2010.&#13;
+&#13;
+                                                                                                       20&#13;
+&amp;#12;                                                              Annex 2 Spider Web&#13;
+&#13;
+                           I. Outcomes comparisons:&#13;
+                  Vietnam and Lower Middle Income Countries&#13;
+                                                                                           Note on interpretation:&#13;
+                                                                                           In this plot â&#128;&#152;higherâ&#128;&#153; is â&#128;&#152;worseâ&#128;&#153; â&#128;&#147; since&#13;
+                                                                                           these indicators are positive measures&#13;
+                                                                                           of mortality / morbidity. Life&#13;
+                                                                                           expectancy is converted to be an&#13;
+                                                                                           inverse measure.&#13;
+&#13;
+                                                                                           The values on the radar plot have&#13;
+                                                                                           been standardized with respect to the&#13;
+                                                                                           average lower middle income country&#13;
+                                                                                           value.&#13;
+&#13;
+                                                                                           The table below summarizes outcome&#13;
+                                                                                           comparisons with the average lower&#13;
+                                                                                           middle income country (LMIC).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+IMR: Infant mortality rate (2010). U5MR: Under-5 mortality rate (2010). Stunting: prevalence of low height-for-age among children under 5 (2010). MMR: Maternal&#13;
+mortality rate (2010) per 100 000 live births. Adult mortality: Adult mortality rate per 1000 male adults (2010). [100-(life expectancy)]: Life expectancy at birth&#13;
+(2010) subtracted from maximum of 100. Neonatal mortality: Neonatal mortality per 1000 living births. CD as cause of death: Communicable diseases as cause of&#13;
+death (% total). All data from World Bank's World Development Indicators. Income averages for stunting calculated by Bank staff and are unweighted.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                            II. Inputs comparisons&#13;
+                  Vietnam and Lower Middle Income Countries&#13;
+                                                                                           Bote on interpretation:&#13;
+                                                                                           This plot shows indicators which&#13;
+                                                                                           measure spending on health or the&#13;
+                                                                                           number of health workers per&#13;
+                                                                                           population.&#13;
+&#13;
+                                                                                           The values on the radar plot have&#13;
+                                                                                           been standardized with respect to&#13;
+                                                                                           the average lower middle income&#13;
+                                                                                           country value.&#13;
+&#13;
+                                                                                           The table below summarizes inputs&#13;
+                                                                                           comparisons with the average lower&#13;
+                                                                                           middle income country (LMIC).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+THE as % of GDP: Health expenditure, total (% of GDP) (2010). Hospital bed density: Hospital beds per 1,000 people (latest available year). Physician density: Physicians&#13;
+per 1,000 people (latest available year). Nurse/midwife density: Nurses and midwives per 1,000 people (latest available year). GHE as % of THE/10: Public health&#13;
+expenditure (% of total expenditure on health) (2010). All data from World Bank's World Development Indicators.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                                            21&#13;
+&amp;#12;                           III. Coverage comparisons&#13;
+                  Vietnam and Lower Middle Income Countries&#13;
+                                                                                           Bote on interpretation:&#13;
+                                                                                           In this plot â&#128;&#152;higherâ&#128;&#153; is â&#128;&#152;betterâ&#128;&#153; â&#128;&#147; since&#13;
+                                                                                           these     indicators      are    positive&#13;
+                                                                                           measures. In this case, all are percent&#13;
+                                                                                           of the population receiving or having&#13;
+                                                                                           access to a certain health related&#13;
+                                                                                           service.&#13;
+&#13;
+                                                                                           The values on the radar plot have&#13;
+                                                                                           been standardized with respect to&#13;
+                                                                                           the average lower middle income&#13;
+                                                                                           country value.&#13;
+                                                                                           The table below summarizes&#13;
+                                                                                           coverage comparisons with the&#13;
+                                                                                           average lower middle income&#13;
+                                                                                           country (LMIC).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+DPT immunization: % of children aged 12-23 months with DPT immunization (2010). Prenatal services: % of pregnant women receiving prenatal care (latest available&#13;
+year). Contraceptive prevalence: % of women ages 15-49 using contraception (latest available year). Skilled birth attendance: % of all births attended by skilled health&#13;
+staff (latest available year). Improved sanitation: % of population with access to improved sanitation facilities (2010). TB treatment success: Tuberculosis treatment&#13;
+success rate (% of registered cases). All data from World Bank's World Development Indicators.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                         IV. Infrastructure comparisons&#13;
+                  Vietnam and Lower Middle Income Countries&#13;
+                                                                                           Bote on interpretation:&#13;
+                                                                                           In this plot â&#128;&#152;higherâ&#128;&#153; is â&#128;&#152;betterâ&#128;&#153; â&#128;&#147; since&#13;
+                                                                                           these     indicators      are    positive&#13;
+                                                                                           measures of provision of certain&#13;
+                                                                                           good / service, and a measure of&#13;
+                                                                                           urban development.&#13;
+&#13;
+                                                                                           The values on the radar plot have&#13;
+                                                                                           been standardized with respect to&#13;
+                                                                                           the average lower middle income&#13;
+                                                                                           country value.&#13;
+&#13;
+                                                                                           The table below summarizes&#13;
+                                                                                           infrastructure comparisons with the&#13;
+                                                                                           average lower middle income&#13;
+                                                                                           country (LMIC).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Paved roads: % of total roads paved (most recent). Internet users: users per 100 people (2010, with some estimates from prior years). Mobile phone users: mobile&#13;
+cellular subscriptions per 100 people (2010). Access to improved water: % of population with access to improved water source (2010). All data from World Bank's&#13;
+World Development Indicators.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                                           22&#13;
+&amp;#12;                         V. Demography comparisons&#13;
+                  Vietnam and Lower Middle Income Countries&#13;
+                                                                                            Bote on interpretation:&#13;
+                                                                                            Indicators here measure births per&#13;
+                                                                                            woman, the extent of rurality, and&#13;
+                                                                                            the number of dependents.&#13;
+&#13;
+                                                                                            The values on the radar plot have&#13;
+                                                                                            been standardized with respect to&#13;
+                                                                                            the average lower middle income&#13;
+                                                                                            country value.&#13;
+&#13;
+                                                                                            The table below summarizes&#13;
+                                                                                            demographic indicators comparisons&#13;
+                                                                                            with the average lower middle&#13;
+                                                                                            income country (LMIC).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+TFR: total fertility rate (births per woman), 2009. Dependency ratio: % of working-age population (2010) aged less than 15 or more than 64. Youth dependency: % of&#13;
+working-age population (2010) aged less than 15. Rurality: % of total population in rural areas (2010). All data from World Bank's World Development Indicators.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                          VI. Inequality comparisons&#13;
+                  Vietnam and Lower Middle Income Countries&#13;
+                                                                                            Note on interpretation:&#13;
+                                                                                            In this plot â&#128;&#152;higherâ&#128;&#153; is â&#128;&#152;inequalâ&#128;&#153; and&#13;
+                                                                                            indicators here measure inequalities&#13;
+                                                                                            in selected health outcomes by&#13;
+                                                                                            taking the ratio of prevalence&#13;
+                                                                                            between Q, and Q5.&#13;
+&#13;
+                                                                                            The values on the radar plot have&#13;
+                                                                                            been standardized with respect to&#13;
+                                                                                            the average lower middle income&#13;
+                                                                                            country value.&#13;
+&#13;
+                                                                                            The table below summarizes&#13;
+                                                                                            inequality indicators comparisons&#13;
+                                                                                            with the average lower middle&#13;
+                                                                                            income country (LMIC).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+All indicators measure the ratio of prevalence between the poorest (in Q1, the first wealth distribution quintile) and the richest (in Q5, the fifth wealth distribution&#13;
+quintile). The data (latest data available) are taken from HNPstats (http://data.worldbank.org/data-catalog/HNPquintile).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                                           23&#13;
+&amp;#12;                                         References&#13;
+&#13;
+&#13;
+&#13;
+Bales, S., J. Knowles, H. Axelson, P. D. Minh, D. H. Luong, and T. T. M. Oanh. 2007. â&#128;&#156;The&#13;
+       Early Impact of Decision 139 in Vietnam: An Application of Propensity Score&#13;
+       Matching.â&#128;? Report to the Ministry of Health of Vietnam, Health Strategy and Policy&#13;
+       Institute, Hanoi.&#13;
+Besley, T., and S. Coate. 1991. â&#128;&#156;Public Provision of Private Goods and the Redistribution of&#13;
+       Income.â&#128;? American Economic Review 81 (4): 979â&#128;&#147;84.&#13;
+Cashin, Cheryl. 2012. â&#128;&#156;Peer Review Comments on the UNICO Nuts and Bolts Case Study for&#13;
+       Vietnam.â&#128;? World Bank, Washington, DC.&#13;
+Center for Community and Research Development. 2012. â&#128;&#156;End-Project Evaluation Survey â&#128;&#147;&#13;
+       World Bank Mekong Regional Health Support Project.â&#128;? Project Report, Hanoi.&#13;
+Central Population and Housing Census Steering Committee. 2010. â&#128;&#156;The 2009 Vietnam&#13;
+       Population and Housing Census: Completed Results.â&#128;? Government of Vietnam Report,&#13;
+       Hanoi, June.&#13;
+Duong Huy Lieu, Do Xuan Hung, Dang Quoc Viet, Nguyen Thi Thu Cuc, Bui Thi Thanh&#13;
+      Phuong, and Kieu Quang Tuan. 2010. â&#128;&#156;Assessment of Examination and Treatment at the&#13;
+      CHS Hanoi.â&#128;? Global Alliance for Vaccines and Immunisation (GAVI) Health Systems&#13;
+      Strengthening Project Research Report (published in Vietnamese). Vietnam Health&#13;
+      Economics Association, Hanoi, March.&#13;
+Hoang van Minh, Nguyen Thi Kim Phuong, Priyanka Saksena, Chris D. James, and Ke Xu.&#13;
+      2012. â&#128;&#156;Financial Burden of Household Out-of pocket Health Expenditure in Viet Nam:&#13;
+      Findings from the National Living Standard Survey 2002â&#128;&#147;2010.â&#128;? Social Science &amp;&#13;
+      Medicine. http://dx.doi.org/10.1016/j.socscimed.2012.11.028.&#13;
+Hurt, K. 2012. Personal communication with authors. Hanoi, June.&#13;
+La Forgia, G. 2012. â&#128;&#156;Note on Addressing Hospital Overcrowding.â&#128;? Internal World Bank&#13;
+      document, World Bank, Washington, DC.&#13;
+Le Quang Cuong, Ly Ngoc Kinh, Tran Thi Mai Oanh, and Khuong Anh Tuan. 2012. â&#128;&#156;Hospital&#13;
+      Overcrowding and Undercapacity: Issues and Solutions.â&#128;? Ministerial Research, Health&#13;
+      Strategy and Policy Institute, Hanoi.&#13;
+Lieberman, S., and A. Wagstaff. 2009. â&#128;&#156;Health Financing and Delivery in Vietnam: Looking&#13;
+       Forward.â&#128;? World Bank, Washington, DC.&#13;
+Ministry of Health, World Bank, and Health Strategy and Policy Institute. 2011. â&#128;&#156;Lessons for&#13;
+       Hospital Autonomy Implementation in Vietnam from International Experiences: Issues&#13;
+       Identified from International Studies and a Public Hospital Survey in Vietnam.â&#128;? Policy&#13;
+       Note, Hanoi, July.&#13;
+Ministry of Health. 2012. â&#128;&#156;Masterplan: Roadmap to Universal Health Insurance Coverage Period&#13;
+       2012â&#128;&#147;2015.â&#128;? Policy Document, Ministry of Health, Hanoi, September.&#13;
+&#13;
+&#13;
+&#13;
+                                                                                          24&#13;
+&amp;#12;Nguyen Khanh Phuong. 2012. â&#128;&#156;A Rapid Assessment of Provider Payment Systems in Vietnam.â&#128;?&#13;
+      PowerPoint presentation at the Provider Payment Diagnostic Assessment Workshop (1),&#13;
+      Vin Phuc, June.&#13;
+Tran Thi Mai Oanh, Sarah Bales, Le Quang Cuong, Nguyen Khanh Phuong, Hoang Thi Phuong,&#13;
+      Nguyen Hoang Giang, and Tuong Duy Tirnh. 2012. â&#128;&#156;Vietnam Benefit Incidence&#13;
+      Analysis: 2006â&#128;&#147;2010.â&#128;? Draft Report produced for the Health Insurance Review, Health&#13;
+      Strategy and Policy Institute. Hanoi, August.&#13;
+Tran Tuan, Dang Thi Hai Tho, Tran Thi Thu Ha, and Taryn Vian. 2011. â&#128;&#156;Identifying Causes,&#13;
+      Roles, and Impacts of Informal Payment in Vietnam: For a Quality and Transparent&#13;
+      Health System in Vietnam.â&#128;? Research Report, Hanoi, May.&#13;
+Tran Van Tien, Hoang Thi Phuong, Inke Mathauer, and Nguyen Thi Kim Phuong. 2011. â&#128;&#156;A&#13;
+      Health Financing Review of Vietnam with a Focus on Social Health Insurance:&#13;
+      Bottlenecks in Institutional Design and Organizational Practice of Health Financing and&#13;
+      Options to Accelerate Progress Towards Universal Coverage.â&#128;? World Health&#13;
+      Organization, Geneva.&#13;
+VSS (Vietnam Social Security). 2012. â&#128;&#156;Data on Social Health Insurance Coverage, Utilisation&#13;
+      and Expenditures from 2000 to 2011.â&#128;? Data Provided by Vietnam Social Security to the&#13;
+      World Bank. Hanoi.&#13;
+Wagstaff, A. 2007. â&#128;&#156;Health Insurance for the Poor: Initial Impacts of Vietnamâ&#128;&#153;s Health Care&#13;
+      Fund for the Poor.â&#128;? Impact Evaluation Series No. 11, World Bank, Washington, DC.&#13;
+Wagstaff, A. 2010. â&#128;&#156;Estimating Health Insurance Impacts under Unobserved Heterogeneity: The&#13;
+      Case of Vietnamâ&#128;&#153;s Health Insurance for the Poor.â&#128;? Health Economics 19 (2) (February):&#13;
+      189â&#128;&#147;208. DOI:10.1002/hec.1466.&#13;
+World Bank. 2011. World Development Indicators Database. World Bank, Washington, DC.&#13;
+World         Health     Organization.      2012.       National      Health       Accounts.&#13;
+        http://www.who.int/nha/country/vnm/en/.&#13;
+World Health Organization. 2012. â&#128;&#156;Rational Use of Medicines Study.â&#128;? Draft Report produced&#13;
+      for the Health Insurance Review, World Health Organization, Hanoi, August.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                          25&#13;
+&amp;#12;26&#13;
+&amp;#12;27&#13;
+&amp;#12;The World Bank supports the efforts of countries to share prosperity by&#13;
+transitioning toward universal health coverage (UHC) with the objectives of&#13;
+improving health outcomes, reducing the financial risks associated with ill&#13;
+health, and increasing equity. The Bank recognizes that there are many paths&#13;
+toward UHC and does not endorse a particular path or set of organizational or&#13;
+financial arrangements to reach it. Regardless of the path chosen, the quality of&#13;
+the instruments and institutions countries establish to implement UHC are&#13;
+essential to its success. Countries will face a variety of challenges during the&#13;
+implementation phase as they strive to expand health coverage. With that in&#13;
+mind, the World Bank launched the Universal Health Coverage Studies Series&#13;
+(UNICO Studies Series) to develop knowledge and operational tools designed&#13;
+to help countries tackle these implementation challenges in ways that are&#13;
+fiscally sustainable and that enhance equity and efficiency. The UNICO Studies&#13;
+Series consists of technical papers and country case studies that analyze&#13;
+different issues related to the challenges of UHC policy implementation.&#13;
+&#13;
+The case studies in the series are based on the use of a standardized protocol&#13;
+to analyze the nuts and bolts of 27 programs in 25 countries that have&#13;
+expanded coverage from the bottom up, starting with the poor and vulnerable.&#13;
+The protocol consists of 300 questions designed to elicit a detailed&#13;
+understanding of how countries are implementing five sets of policies to&#13;
+accomplish the following:&#13;
+&#13;
+â&#128;¢   Manage the benefits package&#13;
+â&#128;¢   Manage processes to include the poor and vulnerable&#13;
+â&#128;¢   Nudge efficiency reforms to the provision of care&#13;
+â&#128;¢   Address new challenges in primary care&#13;
+â&#128;¢   Tweak financing mechanisms to align the incentives of different stakeholders&#13;
+    in the health sector&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+The UNICO Studies Series aims to provide UHC implementers with an expanded toolbox.&#13;
+The protocol, case studies and technical papers are being published as part of the Series. A&#13;
+comparative analysis of the case studies will be available in 2013.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                               28&#13;
+&amp;#12;</ml:original-txt><ml:search-metadata><doc id="17206546">
+        <url>
+            http://documents.worldbank.org/curated/en/2013/01/17206546/vietnam-integrating-poor-universal-health-coverage-vietnam
+        </url>
+        <availablein>English</availablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2013/01/17206546/vietnam-integrating-poor-universal-health-coverage-vietnam</url_friendly_title>
+        <new_url>2013/01/17206546/vietnam-integrating-poor-universal-health-coverage-vietnam</new_url>
+        <disclosure_date>2013-01-31T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2013-01-31T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/01/31/000425962_20130131131817/Rendered/INDEX/749450NWP0VIET00Box374316B00PUBLIC0.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/01/31/000425962_20130131131817/Rendered/PDF/749450NWP0VIET00Box374316B00PUBLIC0.pdf</pdfurl>
+        <docdt>2013-01-01T00:00:00Z</docdt>
+        <datestored>2013-01-31T00:00:00Z</datestored>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            Vietnam - Integrating the poor into
+            universal health coverage in Vietnam
+        </repnme>
+        <abstracts>
+            This case study is aimed at providing a
+            descriptive assessment of the key features of Vietnam's
+            Social Health Insurance (SHI), focusing on the impediments
+            to integrating the poor into universal coverage. The
+            trajectory of SHI in Vietnam is similar to that of many
+            other countries in the East Asia and Pacific region. The
+            poor were covered under a separate Health Care Fund for the
+            Poor to begin with. The 2009 Law on Health Insurance merged
+            all of the different programs into one. Health insurance
+            premiums for the poor were fully subsidized by the
+            government and enrolment became mandatory, resulting in
+            almost complete enrollment of the poor by 2011. Vietnam has
+            combined elements of contributory social health insurance
+            with substantial levels of tax financing to provide coverage
+            for the poor and informal sector.  The case study is
+            structured as follows. Section 2 describes the institutional
+            structure and system characteristics of Vietnam's SHI.
+            Section 3 addresses the main topic of the case study - the
+            impediments to integrating the poor. Section 4 concludes by
+            addressing the pending agenda.
+        </abstracts>
+        <docna>
+            Vietnam - Integrating the poor into
+            universal health coverage in Vietnam
+        </docna>
+        <display_title>Vietnam - Integrating the poor
+            into universal health coverage in Vietnam</display_title>
+        <listing_relative_url>/research/2013/01/17206546/vietnam-integrating-poor-universal-health-coverage-vietnam</listing_relative_url>
+        <docty>Working Paper (Numbered Series)</docty>
+        <subtopic>Health Monitoring &amp; Evaluation,Health Law,Health Economics &amp; Finance,Health Systems Development &amp; Reform,Population Policies</subtopic>
+        <teratopic>Law and Development,Health, Nutrition and Population</teratopic>
+        <count>Vietnam</count>
+        <authors>
+            <author>Somanathan, Aparnaa</author>
+            <author>Dao, Huong Lan</author>
+            <author>Tien, Tran Van</author>
+        </authors>
+        <geo_region_mdks>
+            <geo_region_mdk>World!$!80475</geo_region_mdk>
+            <geo_region_mdk>Asia!$!80451</geo_region_mdk>
+            <geo_region_mdk>Southeast Asia!$!80471</geo_region_mdk>
+        </geo_region_mdks>
+        <entityids>
+            <entityid>000425962_20130131131817</entityid>
+        </entityids>
+        <admreg>East Asia and Pacific,East Asia and Pacific</admreg>
+        <colti>Universal Health Coverage (UNICO) studies
+            series ; no.24</colti>
+        <lang>English</lang>
+        <historic_topic>Law and Development,Health, Nutrition and Population</historic_topic>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            ability to pay, abuse, access to health
+            care, access to hospital, access to services, Adult
+            mortality, Adult mortality rate, adverse selection, aged,
+            ambulatory care, Capitation, capitation payment, capitation
+            system, certification, child delivery, child health,
+            Clinical laboratory, clinics, Communicable diseases,
+            contraception, Contraceptive prevalence, contribution rate,
+            cost control, cost-effectiveness, delivery system, Dental
+            care, Dependency ratio, developing countries, diagnosis,
+            Diagnostic Assessment, Dialysis, doctors, drug list, drugs,
+            economic growth, Economic Review, elderly, Emergency
+            services, enrollees, equity in access, fee schedule,
+            Fee-for-service, fee-for-service basis, Fee-for-service
+            payment, fertility, fertility rate, financial barriers,
+            financial protection, financial risks, general
+            practitioners, government agencies, gross domestic product,
+            Gynecology, health care, Health Care Program, health care
+            providers, health care system, Health Coverage, Health
+            Economics, Health Expenditure, health expenditures, health
+            facilities, health financing, health financing system,
+            Health Insurance, health insurance funds, health insurance
+            program, health insurance schemes, Health Organization,
+            health outcomes, health policy, health risks, health sector,
+            health services, health spending, health status, Health
+            Strategy, Health System, Health System Financing, health
+            systems, Health Systems Strengthening, healthcare,
+            healthcare services, hospital autonomy, hospital beds,
+            hospital care, hospital revenues, Hospital Services,
+            hospitals, ill health, illnesses, immunization, incentives
+            for providers, incidence analysis, income, income countries,
+            income elasticity, Income inequality, Indexes, inequities,
+            Infant, Infant mortality, Infant mortality rate, Infant
+            mortality rates, infection rates, informal payments,
+            informal sector, inpatient care, insurance package,
+            insurance premium, insurance premiums, insurance system,
+            insurers, Integration, labor force, Life expectancy, Life
+            expectancy at birth, live births, local governments, market
+            economy, Maternal mortality, Maternal mortality rate,
+            medical care, medical care costs, medical education, medical
+            equipment, Medicines, midwives, Ministry of Health,
+            minority, morbidity, mortality, National Health, national
+            health insurance, national health insurance fund, National
+            Health System, Neonatal mortality, normal deliveries,
+            nurses, nursing, nursing care, nursing homes, Nutrition,
+            outpatient services, patients, payments for health care,
+            Physician, Physicians, pocket payments, policy change,
+            Policy Document, policy formulation, population density,
+            population groups, populous countries, pregnant women,
+            prenatal care, prescriptions, preventive care, price
+            controls, primary care, private hospital sector, private
+            pharmacies, private sector, probability, progress, provider
+            payment, provincial hospital, provincial hospitals,
+            provision of care, public health, Public health expenditure,
+            public health infrastructure, Public health services, Public
+            Health System, Public hospital, public hospitals, public
+            providers, Public Provision, public sector, quality of
+            health, quality of health care, quality of services, quality
+            services, referrals, rehabilitation, research institutions,
+            resource allocation, respect, rural areas, rural population,
+            sanitation, sanitation facilities, school children, service
+            delivery, service provider, service providers, Skilled birth
+            attendance, Social Affairs, Social Health Insurance, social
+            mobilization, Social Security, technical capacity, tertiary
+            levels, Tuberculosis, under-five mortality, universal
+            access, Universal Health Insurance Coverage, urban
+            development, urbanization, user fees, village health
+            workers, visits, vulnerable groups, woman, workers,
+            working-age population
+        </keywd>
+        <owner>Health, Nutrition &amp; Popultn Team (HDNHE)</owner>
+        <geo_regions>
+            <geo_region>World</geo_region>
+            <geo_region>Asia</geo_region>
+            <geo_region>Southeast Asia</geo_region>
+        </geo_regions>
+        <repnb>74945</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>Economic Policy and Debt</ml:concept><ml:concept>Social Development &amp; Poverty</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Poverty Reduction</ml:concept><ml:concept>Poverty Reduction and Distributional Analysis</ml:concept><ml:concept>Poverty Reduction and Equity</ml:concept><ml:concept>Poverty and Inequality</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Social Protections and Labor</ml:concept><ml:concept>City Development Strategies</ml:concept><ml:concept>Macroeconomic Vulnerability and Debt</ml:concept><ml:concept>Social Development</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Agriculture and Food Security</ml:concept><ml:concept>Health, Nutrition and Population</ml:concept><ml:concept>Poverty</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Social Protection and Labor</ml:concept><ml:concept>Urban Development</ml:concept><ml:concept>Health Monitoring and Evaluation</ml:concept><ml:concept>OOP</ml:concept><ml:concept>Out of Pocket Payments</ml:concept><ml:concept>Denationalization</ml:concept><ml:concept>Deregulation</ml:concept><ml:concept>Destatization</ml:concept><ml:concept>Divestiture of Ownership</ml:concept><ml:concept>Social Health Insurance</ml:concept><ml:concept>Capitation Payments</ml:concept><ml:concept>Delivery of Health Care</ml:concept><ml:concept>Health Care Delivery</ml:concept><ml:concept>Health Service Management and Delivery</ml:concept><ml:concept>Health Systems</ml:concept><ml:concept>Medical Supplies, Drugs</ml:concept><ml:concept>Pharmaceutical Industry</ml:concept><ml:concept>Insurance &amp; Risk Mitigation</ml:concept><ml:concept>Payment Instruments</ml:concept><ml:concept>Payment Systems &amp; Infrastructure</ml:concept><ml:concept>Securities Settlement Systems</ml:concept><ml:concept>Settlement Systems</ml:concept><ml:concept>HRH</ml:concept><ml:concept>Health Labor</ml:concept><ml:concept>Health Workers</ml:concept><ml:concept>Demographics</ml:concept><ml:concept>Longevity</ml:concept><ml:concept>Analysis &amp; Monitoring</ml:concept><ml:concept>Delivery Units</ml:concept><ml:concept>Grievance Redress</ml:concept><ml:concept>Indicators</ml:concept><ml:concept>M&amp;E</ml:concept><ml:concept>Performance Measurement</ml:concept><ml:concept>Performance Reviews</ml:concept><ml:concept>Rapid Results Approaches</ml:concept><ml:concept>Very Vulnerable Groups (disability, orphans, children and youth)</ml:concept><ml:concept>Governance and Public Accountability (GPA)</ml:concept><ml:concept>Incentives for Good Government</ml:concept><ml:concept>National Governance</ml:concept><ml:concept>Health Monitoring &amp; Evaluation</ml:concept><ml:concept>Income</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Out of Pocket Spending</ml:concept><ml:concept>Privatization</ml:concept><ml:concept>Health Insurance</ml:concept><ml:concept>Public Health Insurance</ml:concept><ml:concept>Capitation in Health Care</ml:concept><ml:concept>Health Services Delivery</ml:concept><ml:concept>Primary Care</ml:concept><ml:concept>Pharmaceuticals</ml:concept><ml:concept>Elderly</ml:concept><ml:concept>Subsidies</ml:concept><ml:concept>Infrastructure</ml:concept><ml:concept>Insurance</ml:concept><ml:concept>Payment Systems</ml:concept><ml:concept>Inflation</ml:concept><ml:concept>Human Resources for Health</ml:concept><ml:concept>Public Health</ml:concept><ml:concept>Population</ml:concept><ml:concept>Aging</ml:concept><ml:concept>Monitoring and Evaluation</ml:concept><ml:concept>Vulnerable Groups</ml:concept><ml:concept>Access to Services</ml:concept><ml:concept>Governance</ml:concept></ml:concepts><ml:geo-regions><ml:geo-region>Asia</ml:geo-region><ml:geo-region>Eastern Asia</ml:geo-region><ml:geo-region>Viet Nam</ml:geo-region></ml:geo-regions></ml:annotations></ml:doc-envelope>

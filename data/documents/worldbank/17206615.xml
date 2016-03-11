@@ -1,0 +1,1660 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>ï»¿                    Argentina            74956&#13;
+                    Increasing Utilization of&#13;
+                    Health Care Services among&#13;
+                    the Uninsured Population:&#13;
+                    The Plan Nacer Program&#13;
+&#13;
+&#13;
+Rafael Cortez and&#13;
+Daniela Romero&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                    Universal Health Coverage Studies Series (UNICO)&#13;
+                    UNICO Studies Series No. 12&#13;
+&amp;#12;&amp;#12;UNICO Studies Series 12&#13;
+Argentina&#13;
+Increasing Utilization of Health Care Services among&#13;
+the Uninsured Population: The Plan Nacer Program&#13;
+Rafael Cortez and Daniela Romero 1&#13;
+&#13;
+The World Bank, Washington DC, January 2013&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+1&#13;
+  This report was prepared by Rafael Cortez (Senior Economist, HDNHE) and Daniela Romero (Operations Analyst,&#13;
+LCSHH) of the World Bank. The authors would like to thank the continued collaboration of government officials&#13;
+from the Argentine Ministry of Health team, led by Dr. Juan Manzur (National Health Minister), during several&#13;
+technical discussions held during the Plan Nacer project implementation that provided key inputs to the report. Our&#13;
+special thanks go to Dr. MÃ¡ximo Diosque (Health Secretary of Promotion and Sanitary Programs, National Ministry&#13;
+of Health), Dr. Martin Sabignoso (Coordinator of the Project Central Implementation Unit [UEC]), and the UEC and&#13;
+provincial management teams. The authors are also grateful for the valuable comments of peer reviewers Benjamin&#13;
+Loevinsohn (Lead Public Health Specialist, AFTHW) and Tekabe Ayalew Belay (Senior Health Economist,&#13;
+SASHN), and of the World Bankâ&#128;&#153;s operational team, especially Luis Perez (Senior Health Specialist, LCSHD) and&#13;
+Vanina Camporeale (Senior Operational Officer, LCSHD).&#13;
+&amp;#12;           The World Bankâ&#128;&#153;s Universal Health Coverage Studies Series (UNICO)&#13;
+All people aspire to receive quality, affordable health care. In recent years, this aspiration has&#13;
+spurred calls for universal health coverage (UHC) and has given birth to a global UHC&#13;
+movement. In 2005, this movement led the World Health Assembly to call on governments to&#13;
+â&#128;&#156;develop their health systems, so that all people have access to services and do not suffer&#13;
+financial hardship paying for them.â&#128;? In December 2012, the movement prompted the United&#13;
+Nations General Assembly to call on governments to â&#128;&#156;urgently and significantly scale-up efforts&#13;
+to accelerate the transition towards universal access to affordable and quality healthcare&#13;
+services.â&#128;? Today, some 30 middle-income countries are implementing programs that aim to&#13;
+advance the transition to UHC, and many other low- and middle-income countries are&#13;
+considering launching similar programs.&#13;
+The World Bank supports the efforts of countries to share prosperity by transitioning toward&#13;
+UHC with the objectives of improving health outcomes, reducing the financial risks associated&#13;
+with ill health, and increasing equity. The Bank recognizes that there are many paths toward&#13;
+UHC and does not endorse a particular path or set of organizational or financial arrangements to&#13;
+reach it. Regardless of the path chosen, successful implementation requires that many&#13;
+instruments and institutions be in place. While different paths can be taken to expand coverage,&#13;
+all paths involve implementation challenges. With that in mind, the World Bank launched the&#13;
+Universal Health Coverage Studies Series (UNICO Study Series) to develop knowledge and&#13;
+operational tools designed to help countries tackle these implementation challenges in ways that&#13;
+are fiscally sustainable and that enhance equity and efficiency. The UNICO Studies Series&#13;
+consists of technical papers and country case studies that analyze different issues related to the&#13;
+challenges of UHC policy implementation.&#13;
+The case studies in the series are based on the use of a standardized protocol to analyze the nuts&#13;
+and bolts of programs that have expanded coverage from the bottom upâ&#128;&#148;programs that have&#13;
+started with the poor and vulnerable rather than those initiated in a trickle-down fashion. The&#13;
+protocol consists of nine modules with over 300 questions that are designed to elicit a detailed&#13;
+understanding of how countries are implementing five sets of policies to accomplish the&#13;
+following: (a) manage the benefits package, (b) manage processes to include the poor and&#13;
+vulnerable, (c) nudge efficiency reforms to the provision of care, (d) address new challenges in&#13;
+primary care, and (e) tweak financing mechanisms to align the incentives of different&#13;
+stakeholders in the health sector. To date, the nuts and bolts protocol has been used for two&#13;
+purposes: to create a database comparing programs implemented in different countries, and to&#13;
+produce case studies of programs in 24 developing countries and one high-income â&#128;&#156;comparator,â&#128;?&#13;
+the state of Massachusetts in the United States. The protocol and case studies are being published&#13;
+as part of the UNICO Studies Series, and a comparative analysis will be available in 2013.&#13;
+We trust that the protocol, case studies, and technical papers will provide UHC implementers&#13;
+with an expanded toolbox, make a contribution to discussions about UHC implementation, and&#13;
+that they will inform the UHC movement as it continues to expand worldwide.&#13;
+&#13;
+                                                                               Daniel Cotlear&#13;
+                                                       UNICO Studies Series Task Team Leader&#13;
+                                                                             The World Bank&#13;
+                                                                             Washington, DC&#13;
+&#13;
+                                                                                                ii&#13;
+&amp;#12;                                                          TABLE OF CONTENTS&#13;
+&#13;
+&#13;
+Executive Summary ...................................................................................................................................... v&#13;
+1. Introduction ............................................................................................................................................ 1&#13;
+2. General Health System Overview .......................................................................................................... 3&#13;
+3. Plan Nacer Description ........................................................................................................................... 8&#13;
+4. Plan Nacerâ&#128;&#153;s Results-based Financing Mechanism .............................................................................. 18&#13;
+5. Pending Agenda ................................................................................................................................... 20&#13;
+Annex 1 Plan Nacerâ&#128;&#153;s Tracers .................................................................................................................... 23&#13;
+Annex 2 Main Stakeholders: Roles and Responsibilities under the Program ............................................. 24&#13;
+Annex 3 Argentinaâ&#128;&#153;s Health Sector in Numbers......................................................................................... 25&#13;
+References ................................................................................................................................................... 26&#13;
+&#13;
+&#13;
+FIGURES&#13;
+Figure 1 Health Sector Financing and Organization in Argentina................................................................ 4&#13;
+Figure 2 Health Expenses as Percentage of Total Health Expenditures (Excludes expenditures from Obras&#13;
+Sociales) Average 2002â&#128;&#147;09 .......................................................................................................................... 5&#13;
+Figure 3 Institutional Arrangements: Plan Nacerâ&#128;&#153;s Payment Mechanisms................................................. 12&#13;
+&#13;
+TABLES&#13;
+Table 1 Health Expenditure, Argentina, 2009 .............................................................................................. 4&#13;
+Table 2 Coverage and Average Expenditures of Subsectors ........................................................................ 6&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                             iii&#13;
+&amp;#12;                                Abbreviations&#13;
+&#13;
+&#13;
+FESP   Essential Public Health Functions&#13;
+GDP    gross domestic product&#13;
+MOH    Ministry of Health&#13;
+PBS    Package of Basic Services&#13;
+PIU    Provincial Implementation Unit&#13;
+PMU    Project Management Unit&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                iv&#13;
+&amp;#12;Executive Summary&#13;
+&#13;
+With the Argentine economic crisis in 2001, the population living in poverty increased&#13;
+dramatically, inequity worsened, and more people became medically uninsured. As a result,&#13;
+health indicators, including child and maternal mortality rates, deteriorated sharply in the poorest&#13;
+regions, and national averages worsened. In response, the Government of Argentina&#13;
+implemented the innovative Maternal-Child Health Insurance Program, known as Plan Nacer,&#13;
+which helped to introduce innovative changes in Argentinaâ&#128;&#153;s health system. Plan Nacer became a&#13;
+powerful tool in increasing coverage of basic services among the uninsured population and&#13;
+improving the governance and efficiency of the health system.&#13;
+Plan Nacer aimed to reduce the maternal and child mortality of uninsured pregnant women and&#13;
+children through highly innovative results-based financing mechanisms at the national,&#13;
+provincial, and provider levels. Specifically, the program links funding to the achievement of&#13;
+three types of results indicators: enrolment in the program, effective delivery of priority health&#13;
+services, and health outcomes. In addition, Plan Nacer contributed to strengthening the&#13;
+governance and stewardship function of the national government in a federal context where&#13;
+health services provision is decentralized at the provincial level. These instruments comprise&#13;
+legally binding contracts between the national government and the provinces and between the&#13;
+provinces and health service providers, and encompass a robust monitoring and evaluation&#13;
+framework, which includes external and internal audits and an impact evaluation strategy.&#13;
+Interim results from an impact evaluation study conducted in Misiones and Tucuman provinces&#13;
+indicate positive outcomes during the programâ&#128;&#153;s first years of operation. Specifically, the study&#13;
+found that the program increased the probability of a first prenatal care visit before week 13 and&#13;
+week 20 of pregnancy. The number of prenatal visits increased, and women also benefited from&#13;
+an improved quality of care, measured by increases in the likelihood of vaccinations and&#13;
+ultrasounds. The improvement in the quantity and quality of services translated into healthier&#13;
+births, an increase in average birth weight, and a decrease in the likelihood of children being&#13;
+born with very low birth weight. Finally, for children under five, the program raised the&#13;
+likelihood of well-baby checkups.&#13;
+Drastic reforms were not the key to the success of the program. Instead, the major contributing&#13;
+factors were the strategic use of financing to enroll and maintain contact with the target&#13;
+population, contracts with built-in enforcement mechanisms, and a results-based approach that&#13;
+provided incentives for desirable results. All were within the framework of an existing health&#13;
+care network that had previously failed to function effectively for the uninsured population.&#13;
+In the future, programs supporting the universal health care strategy in Argentina will need to&#13;
+consider the remarkable lessons of Plan Nacer. The shift from a traditional, input-based&#13;
+financing scheme to a results-based financing approach helped increase access to basic health&#13;
+services and strengthen governance of the entire public health system. However, these will have&#13;
+to be complemented with the development of sound health information systems, monitoring and&#13;
+evaluation tools to assess health sector performance, clinical protocols, addressing issues of&#13;
+program sustainability, equity across provinces, and the need to establish a standardized process&#13;
+for setting priorities that includes clinical and cost-effectiveness studies and social validation&#13;
+mechanisms.&#13;
+&#13;
+&#13;
+                                                                                                  v&#13;
+&amp;#12;vi&#13;
+&amp;#12;1. Introduction&#13;
+&#13;
+This paper describes the functioning and performance of Argentinaâ&#128;&#153;s Provincial Maternal and&#13;
+Child Health Investment Program, commonly referred to as Plan Nacer. The program is aimed at&#13;
+increasing accessâ&#128;&#148;for uninsured pregnant women and children under six years oldâ&#128;&#148;to a basic&#13;
+set of health services known to effectively address the main causes of maternal and child&#13;
+mortality, while improving the effectiveness and efficiency of the health system. The program&#13;
+supports the development and implementation of publicly funded provincial maternal and child&#13;
+health insurance and the introduction of highly innovative results-based financing mechanisms at&#13;
+the national, provincial, and provider levels. Since its launch in November 2004, Plan Nacer has&#13;
+provided health coverage to more than 4.5 million pregnant women and children and has funded&#13;
+more than 35 million health services delivered to program beneficiaries. By April 2012, the&#13;
+number of beneficiaries was around 1.84 million, representing 89.7 percent of the eligible&#13;
+population. Thus, the program has substantially contributed to expanded health coverage among&#13;
+the most vulnerable.&#13;
+&#13;
+Plan Nacer was designed to respond to some of the consequences of the devastating 2001&#13;
+economic crisis, which resulted in a considerable rise in the number of vulnerable people without&#13;
+explicit health coverage. The 2001 economic crisis substantially affected the health status of the&#13;
+vulnerable and uninsured population, the demand for health services, and the capacity of the&#13;
+health system to deliver these services. This situation created the opportunity for the national&#13;
+government to strengthen its stewardship role under a decentralized framework where provinces&#13;
+are responsible for providing health services within their jurisdiction.&#13;
+&#13;
+The program sought to increase the demand for health services through a public sector that has&#13;
+suffered from efficiency challenges, and where health indicator performance was worsening. As&#13;
+a result of the crisis, gross domestic product (GDP) fell by 18.3 percent from 1998 to 2002, and&#13;
+the number of poor people grew dramatically by up to 20 percentage points. With rising&#13;
+unemployment and job layoffs, up to 12 percent of workers lost their health insurance coverage.&#13;
+The drastic drop in employment left roughly 60 percent of the population outside the social&#13;
+health insurance system, considerably increasing the financial and service provision burden on&#13;
+provincial governments through the public health sector. The crisis also made more evident the&#13;
+systemic problems underlying Argentinaâ&#128;&#153;s health sector.&#13;
+&#13;
+Even before the crisis, Argentina performed below other middle-income countries in the region&#13;
+despite higher health expenditure levels (World Bank 2011). In addition, the sharp fall in income&#13;
+and rise in poverty caused by the crisis resulted in the deterioration of health indicators, as&#13;
+illustrated by a reversal in the declining trend in infant mortality that rose from 16.6 per 1,000 in&#13;
+2000 to 16.8 per 1,000 in 2002. This situation was even worse in the more relatively&#13;
+disadvantaged provinces located in the north of the country, where the infant mortality rate was&#13;
+25 per 1,000. Alarmingly, studies revealed that most infant and maternal deaths in Argentina&#13;
+could have been avoided through timely prevention, diagnosis, and treatment.&#13;
+&#13;
+The Government of Argentina prioritized investments in the health sector as part of its strategy&#13;
+of poverty alleviation. The national Ministry of Health (MOH) allocated resources to the&#13;
+expansion of access to and quality of health services to vulnerable populations using Plan Nacer&#13;
+&#13;
+                                                                                                   1&#13;
+&amp;#12;as a key instrument for improved health coverage and results, and improvements in efficiency in&#13;
+the health sector system. The programâ&#128;&#153;s first objective was to halt increases in infant mortality,&#13;
+and then to further reduce it by 20 percent at the national level and by at least 30 percent in the&#13;
+Northern provinces within 10 years. The second objective was to modify the dynamics of&#13;
+financing and providing health care services at the provincial level, primarily by changing the&#13;
+incentive structure associated with federal funding to provinces, given that provinces are&#13;
+responsible for delivering health care services within their jurisdiction and managing their own&#13;
+budgets and resource allocation.&#13;
+&#13;
+The Maternal-Child Health Insurance Program was one of the central pillars of a broader and&#13;
+integrated package of propoor policy reforms intended to increase the availability of health care&#13;
+services and effectiveness of public subsidies directed to the uninsured. To achieve this&#13;
+objective, Plan Nacer introduced results-based financing mechanisms that promoted a new&#13;
+incentive framework for financing and providing health care services that rewards providers for&#13;
+increased health care coverage, delivery, and staff productivity. Thus, by moving away from a&#13;
+traditional health care system based on inputs and fixed budgets to one geared toward outputs&#13;
+and results, the program contributed to improved health service utilization and health status of&#13;
+the eligible population. This success suggested a promising model of incentives to be considered&#13;
+for other priority areas of the Argentine health care system and the rest of the world.&#13;
+&#13;
+The program operates within the existing institutional framework, with federalism as the main&#13;
+pillar. The relationship between the national government and provincial governments in terms of&#13;
+provision and funding of health services through the public sector has not been substantially&#13;
+modified due to the implementation of Plan Nacer. Provinces continue to be responsible for&#13;
+delivering (and funding) health services within their jurisdiction, while the national government&#13;
+is in charge of health system coordination. Likewise, before and after Plan Nacer, public health&#13;
+providers are funded by the provincial governments through a line item budget that covers&#13;
+salaries, medical supplies, and equipment and maintenance, as well as other relevant operating&#13;
+costs.&#13;
+&#13;
+With the introduction of Plan Nacer, public health providers receive additional funds based on&#13;
+the number of health services provided to the programâ&#128;&#153;s beneficiaries. Thus, the program&#13;
+operates on top of the system promoting innovative features that are aimed at improving the&#13;
+utilization of basic health services for the poor. Specifically, the program introduces a chain of&#13;
+incentives that includes all the main stakeholders involved in the provision of health services in&#13;
+the public sector, giving the right incentives to pursue the program objectives and introducing,&#13;
+for the first time, payment mechanisms (linked to results).&#13;
+&#13;
+This document is organized as follows. Section 2 provides an overview of the Argentine health&#13;
+care system, including a description of public health, primary care, and supply-side efforts, to put&#13;
+in context the implementation of Plan Nacer. Section 3 presents a detailed description of the&#13;
+main features of the program, including the institutional architecture; the targeting, identification,&#13;
+and enrolment of beneficiaries; the management of the programâ&#128;&#153;s funds and benefits package;&#13;
+and the information environment of Plan Nacer. Section 4 provides a discussion of the highly&#13;
+innovative results-based financing mechanisms included in the design of the program. Section 5&#13;
+draws some conclusions on the pending agenda and challenges ahead.&#13;
+&#13;
+                                                                                                    2&#13;
+&amp;#12;2. General Health System Overview&#13;
+&#13;
+The Argentine health system is highly fragmented both horizontally and vertically. It is&#13;
+composed of social security and the public and the private subsystems that provide health&#13;
+services. Formal workers, retirees, and their families have health insurance through the social&#13;
+security subsystem, while people who can afford the payment of a voluntary health insurance&#13;
+premium are covered through the private sector. The public sectorâ&#128;&#153;s services are aimed at all&#13;
+inhabitants of the country, although it is used mostly by people without social or private health&#13;
+insurance (commonly the poor). Each of the subsystems is organized and operates differently,&#13;
+since they are ruled by their own specific regulations. The social security subsystem is further&#13;
+fragmented into hundreds of insurers. Most of them are National Social Health Insurance&#13;
+Organizations (Obras Sociales Nacionales), which are regulated by the Health Insurance&#13;
+Superintendence. However, provinces regulate the Provincial Health Insurance Organizations&#13;
+(Obras Sociales Provinciales) for civil servants and their families within their jurisdiction.&#13;
+&#13;
+In addition to this horizontal fragmentation, Argentinaâ&#128;&#153;s federal structure assigns responsibilities&#13;
+related to health service provision to the provinces. While this allows for greater efficiency and&#13;
+local adaptation in the delivery of individual health services, it has posed a complex challenge&#13;
+for national health policy formulation and implementation. The national MOH is responsible for&#13;
+sector coordination through the Federal Health Council, setting and enforcing quality standards&#13;
+and regulations, as well as the traditional areas of national public health. In the last decade, the&#13;
+MOH has succeeded in developing tools such as Plan Nacer to influence provincial policy from&#13;
+the national level, and thereby offset its limited legal and administrative capacity to achieve&#13;
+objectives.&#13;
+&#13;
+Financing and Delivery Mechanisms&#13;
+&#13;
+Health sector expenditure is financed by households, social security, and the public sector.&#13;
+According to a United Nations Development Programme estimation (Argentina UNDP-OPS-&#13;
+CEPAL), total health expenditure represents 9.4 percent of total GDP, of which 33.9 percent is&#13;
+funded by households, 38.7 percent is financed by the social security sector, and the remaining&#13;
+27.3 percent is financed by the national, provincial, and local public sector (CetrÃ¡ngolo and&#13;
+Goldschmit 2012) (table 1). Households finance health service provision through out-of-pocket&#13;
+expenditures, which are mainly directed to drugs, copayments, or private health insurance. Social&#13;
+security is funded mainly through payroll taxes from formal workers, while the public sector&#13;
+finances health service delivery with budgetary resources from general taxes. Given that&#13;
+provinces are responsible for health service provision, provinces account for 68 percent of the&#13;
+public expenditure on health, while the national government funds around 18 percent (figure 1).&#13;
+Although Argentinaâ&#128;&#153;s tax structure consists of taxes collected from the national level, a&#13;
+substantial portion is transferred to provincial governments through different distribution&#13;
+schemes, as established by the Federal Sharing Regime Tax (CetrÃ¡ngolo and Jimenez 2004).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                  3&#13;
+&amp;#12;                                                   Table 1 Health Expenditure, Argentina, 2009&#13;
+&#13;
+                                                                                              % of GDP                          %&#13;
+                    Public Health Expenditure (1)                                               2.57                           27.3&#13;
+                    National                                                                    0.47&#13;
+                    Provincial                                                                  1.75&#13;
+                    Local                                                                       0.35&#13;
+                    Obra Social Expenditures (2)                                                3.64                           38.7&#13;
+                    Obras Sociales Nacionales                                                   1.87&#13;
+                    Institute of Social Services for Retirees                                   0.90&#13;
+                    and Pensioners (INSSJyP)&#13;
+                    Obras Sociales Provinciales                                                     0.87&#13;
+                    Public Sector and Obras Sociales                                                6.21                       66.1&#13;
+                    Subtotal (1)+(2)&#13;
+                    Private Health Expenditures (3)                                                 3.19                       33.9&#13;
+                    Total Health Expenditures (1) + (2) + (3)                                       9.40&#13;
+                    Source: CetrÃ¡ngolo and Goldschmit 2012.&#13;
+&#13;
+                              Figure 1 Health Sector Financing and Organization in Argentina&#13;
+                                              (in % GDP; in % total sources)&#13;
+&#13;
+       National                Provincial               Municipalities                       Shares on                                      Out-of-pocket&#13;
+         Budget                 Budgets                  Budgets                              Salaries                                       Expenditures&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                  Transfers                 Transfers&#13;
+                                                                              5% of salary&#13;
+                                                                               +               9% of               8â&#128;&#147;10%&#13;
+                                                                                 3 â&#128;&#147;6% of      salary              of salary&#13;
+                                                                                 passives&#13;
+&#13;
+          National&#13;
+                               Provincial               Municipality                                                            Private                        Direct&#13;
+         Public                                                                  INSSJyP        OSN                   OSP&#13;
+                                Health Ministries       Public Health                                                           Insurance                     Payments&#13;
+        Health                                                                  0.90% GDP    1.87% GDP             0.87%&#13;
+                                1.75% GDP                0.35% GDP                                                               1.30%                         1.89%&#13;
+       0.47% GDP                                                                                                   GDP&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                   Gasto                                                     Social                                            Private&#13;
+                                  PÃºblico                                                       Security                                       Expenditures&#13;
+                                2.57% GDP                                                    3.64% GDP                                      3.19% GDP&#13;
+&#13;
+&#13;
+&#13;
+                                                                  Gasto pÃºblico y&#13;
+                                                                  seguridad social&#13;
+                                                                     6.21 % GDP&#13;
+&#13;
+&#13;
+&#13;
+                                                                                             Total health sector&#13;
+                                                                                                 9.4 0% GDP&#13;
+&#13;
+&#13;
+&#13;
+       Source: CetrÃ¡ngolo and Goldschmit 2012.&#13;
+      Note: INSSJyP = Institute of Social Services for Retirees and Pensioners; OSN = National Social Health&#13;
+      Insurance Organizations; OSP = Provincial Health Insurance Organizations.&#13;
+&#13;
+Total public expenditure on health on the provincial level increased proportionally between 2003&#13;
+and 2009. In nominal terms, expenditure on health increased substantially, from US$7.3 billion&#13;
+in 2003 to US$30 billion in 2009. Health expenditure remained the second-most-relevant&#13;
+investment, after education. On average, around 16 percent of total provincial expenditure was&#13;
+dedicated to health during 2003â&#128;&#147;09. There are major differences in the portion of total&#13;
+                                                                                                                                                                    4&#13;
+&amp;#12;expenditure directed toward health between the provinces: the city of Buenos Aires spent an&#13;
+average of 24 percent of its budget on health between 2002 and 2009, while Misiones spent only&#13;
+7 percent. The remaining provinces varied from 8 percent to 13 percent (figure 2).&#13;
+&#13;
+              Figure 2 Health Expenses as Percentage of Total Health Expenditures&#13;
+                         (Excludes expenditures from Obras Sociales)&#13;
+                                       Average 2002â&#128;&#147;09&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+              Source: Sanguinetti 2012.&#13;
+&#13;
+   Provincial public expenditure on health covers expenses for personnel, goods and services,&#13;
+   and other (mostly administrative) costs. In 2010, personnel expenses represented 61 percent&#13;
+   of total provincial expenditure on health. Around 27 percent was spent on goods and&#13;
+   services, and the remaining was spent on other costs. To fully analyze resource allocation, it&#13;
+   is necessary to decompose the spending of a number of entities in the past several years: the&#13;
+   City of Buenos Aires, and the provinces of Buenos Aires, Santa Fe, and CÃ³rdoba. The&#13;
+   number of medical workers did not change largely between 2007 and 2010. However, there&#13;
+   were substantial increases in salaries for medical workers during the same period. Between&#13;
+   2007 and 2010, the increase in health expenditure per province can largely be explained by&#13;
+   an increase in employee salaries (Sanguinetti 2012).&#13;
+&#13;
+   Health service delivery is carried out by the three subsystems. The public sector finances and&#13;
+   provides health services through the 24 provincial ministries of health and that of the&#13;
+   Autonomous City of Buenos Aires, plus the national MOH. The first level of care is managed&#13;
+   mainly at the provincial level, but also by local authorities, though to a lesser extent.&#13;
+   Notwithstanding this, there are three provinces (Buenos Aires, CÃ³rdoba, and Santa Fe) where&#13;
+   the provision of health services has been delegated to the local authority. Public providers&#13;
+   that deliver second and third level services are essentially managed by the provincial&#13;
+   governments, while a small number of these are managed by the national government.&#13;
+&#13;
+&#13;
+                                                                                               5&#13;
+&amp;#12;       The social security sector is made up of 291 National Social Health Insurance Organizations,&#13;
+       24 Provincial Health Insurance Organizations, and the Institute of Social Services for&#13;
+       Retirees and Pensioners (INSSJyP). These organizations provide health services through&#13;
+       their own providers, but mainly through private providers. Finally, the private sector is&#13;
+       composed of health care providers, insurance companies, laboratories, companies that&#13;
+       produce medical supplies and equipment, pharmacies, and diagnostic centers. These three&#13;
+       subsystems have strong relationships in terms of funding and providing health services and&#13;
+       coordinating health service provision.&#13;
+&#13;
+                          Table 2 Coverage and Average Expenditures of Subsectors&#13;
+&#13;
+                                                                    Institute of        Provincial&#13;
+                                            National Social       Social Services         Health&#13;
+                                           Health Insurance      for Retirees and       Insurance&#13;
+                                            Organizations           Pensioners         Organizations          Private&#13;
+                          Public Sector          (OSN)              (INSSJyP)             (OSP)             Insurances&#13;
+                                           All workers under&#13;
+                                            payroll with the                          Provincial Public&#13;
+                                             direct family          Retirees and       employees and      All people who&#13;
+        Targeted              Total&#13;
+                                               members            pensioners, wife       retiree who      decides to enroll&#13;
+       Population           Population&#13;
+                                           contributing to the   and their children   contribute to the     voluntarily&#13;
+                                            OSN, including                                   POS&#13;
+                                                 retirees&#13;
+     Population         40.091.359            18.685.052            3.334.599            5.500.000           3.600.000&#13;
+ Population (%)             100%                  47%                  8%                   14%                 9%&#13;
+ Monthly per capita&#13;
+ Expenditure (2009)       US$61                  US$96               US$259               US$151                N/A&#13;
+Source: CetrÃ¡ngolo and Goldschmit 2012.&#13;
+Note: N/A = not applicable.&#13;
+&#13;
+Each level of care is provided through the three subsectors (public, social security, and private)&#13;
+(table 2). Unfortunately, the information available does not allow for the differentiation of&#13;
+providers among levels of care. However, it is possible to present a distribution of providers by&#13;
+subsystems, taking into account whether they have inpatient services.&#13;
+&#13;
+According to the Integrated Health Information System of the national MOH, in 2012 there were&#13;
+around 12,360 providers without inpatient services, which are distributed among the three&#13;
+subsectors as follows: (a) health care facilities (including public primary care centers, urgent&#13;
+care, and vaccination centers) are managed by the national (15 facilities), provincial (4,877&#13;
+facilities), and local (3,010 facilities) governments; (b) 4,188 private primary providers including&#13;
+medical clinics, ambulatory surgery, urgent care, and vaccination centers, but not doctorâ&#128;&#153;s&#13;
+offices 2; and (c) around 270 facilities owned by the social health insurance organizations.&#13;
+&#13;
+There are 3,118 providers with inpatient services: (a) 1,275 providers, 8 managed by the national&#13;
+government, 930 managed by the provincial authorities, and 337 managed by the local&#13;
+governments. They comprise both general and specialized hospitals (including maternal and&#13;
+child, pediatric, psychiatric, trauma, and rehabilitation hospitals); (b) 1,789 private medical&#13;
+&#13;
+2&#13;
+    There is no information on the number of private doctorâ&#128;&#153;s offices.&#13;
+&#13;
+                                                                                                                      6&#13;
+&amp;#12;clinics (including maternal and child, pediatric, psychiatric, trauma, and rehabilitation clinics,&#13;
+among others); and (c) around 50 hospitals or clinics that are owned by both national and&#13;
+provincial social health insurance organizations. There is no available information on the number&#13;
+of medical specialists providing services through private doctorâ&#128;&#153;s offices. In addition, there are&#13;
+2,083 imaging centers and medical laboratories, which are mainly private (98 percent). There are&#13;
+85,743 hospital beds in the public sector and 99,185 in the private sector (Sanguinetti 2012).&#13;
+&#13;
+Brief Description of Public Health, Primary Care, and Key Supply-side Efforts&#13;
+&#13;
+The public health subsector is aimed at providing first, second, and third level health care to all&#13;
+inhabitants of Argentina. Primary care attention is widespread throughout the country, although&#13;
+there are challenges to reaching vulnerable populations and achieving efficiency gains at the&#13;
+health network levels. Public services delivered by the provincial MOH are used by those&#13;
+without private or social health insurance, who are commonly the poorest (37.9 percent of the&#13;
+total population [INDEC 2010]). The public health care subsector of Argentina is composed of&#13;
+the health subsystems implemented in the 23 provinces and the Autonomous City of Buenos&#13;
+Aires. Each subsystem is organized according to its own laws and regulatory frameworks,&#13;
+although most are structured around health networks related to health regions. These health&#13;
+regions have a primary health care network, which consists essentially of primary care providers&#13;
+(Primary Care Centers) and secondary and tertiary providers (hospitals of second and third level&#13;
+of care).&#13;
+&#13;
+The provincial governments generally provide first level care through the network of Primary&#13;
+Care Centers, and secondary and tertiary care services through second and third level hospitals.&#13;
+However, the national MOH has verified that these networks do not function as such, nor do&#13;
+primary health services function as a gateway to the health care system. Furthermore, no scheme&#13;
+exists to guide the continuation of care, that is, to facilitate and instruct the referral of patients&#13;
+who require it. This situation is more pronounced in the rural areas, where a lack of human&#13;
+resources and medicines presents supply challenges. In this respect, development, innovation,&#13;
+and implementation of organizational units of referral and counterreferral of care are still limited&#13;
+and uneven.&#13;
+&#13;
+The absence of coordinated and relevant standardized processes of referral and counterreferral&#13;
+between the first and second levels of care prevents health networks from fulfilling their basic&#13;
+functions. Moreover, management of Primary Care Centers proves inefficient when getting&#13;
+appointments scheduled by the second level. The task of coordinating interjurisdictional public&#13;
+health systems in Argentina falls under the jurisdiction of the Federal Health Council. Provincial&#13;
+and national health ministers fulfill the role of coordination and reaching consensus on health&#13;
+initiatives, especially those related to increased efficiency of health networks.&#13;
+&#13;
+The government is working to improve the performance of existing networks, thereby increasing&#13;
+the quality and quantity of services delivered. In this context, projects recently launched by the&#13;
+national MOHâ&#128;&#148;the Sumar Program and the Essential Public Health Functions II (FESP II)â&#128;&#148;&#13;
+will promote better organization of the public health system by focusing not on the existing&#13;
+health facility structure, but on the health needs of the population as the only way to ensure an&#13;
+equitable response. Specifically, the Sumar Program continues supporting the development and&#13;
+&#13;
+                                                                                                    7&#13;
+&amp;#12;implementation of a congenital heart disease network, while the FESP II supports the&#13;
+implementation of two pilots at the provincial level to foster the development of health care&#13;
+provider networks for noncommunicable diseases.&#13;
+&#13;
+3. Plan Nacer Description&#13;
+&#13;
+Institutional Architecture and Interaction with the Rest of the Health System&#13;
+&#13;
+Plan Nacerâ&#128;&#153;s mains objectives are to increase access to health care services for uninsured&#13;
+pregnant women and for children under six years old, and to improve efficiency in the use of&#13;
+public health funds through the introduction of a results-based chain of incentives. Since the&#13;
+provision of health care services in the country is free, Plan Nacer is aimed at effectively&#13;
+increasing health coverage and making access to services explicit. To achieve these goals, the&#13;
+program is comprised of a range of activities at the national, provincial, and health provider&#13;
+levels, as described below.&#13;
+&#13;
+First, Plan Nacer supports the development and implementation of publicly funded provincial&#13;
+maternal and child health insurances, which are built around a prioritized package of basic health&#13;
+services (PBS) to be delivered to program beneficiaries. The program promotes a&#13;
+noncontributory insurance scheme, which includes the following elements: (a) capitation&#13;
+payments, (b) actuarial calculations and risk assessment for the definition of the capitation&#13;
+payments, (c) national and provincial health insurance purchasing units, (d) nominalization of&#13;
+beneficiaries, (e) a list of child and maternal health services, (g) prices for each individual health&#13;
+service, (g) explicit agreements between each province and health care providers within its&#13;
+jurisdiction, and (h) payment mechanisms (from a province to its health providers) based on fee-&#13;
+for-service.&#13;
+&#13;
+Second, the program provides additional resources to finance a gap in terms of coverage and&#13;
+quality in the provision of the PBS under a results-based financing mechanism, thereby&#13;
+complementing the provincial budgetary funding. These funds are transferred from the national&#13;
+MOH to the provincial MOH through a capitation payment (per beneficiary enrolled in the&#13;
+program) adjusted for performance. These payments are only used by the provincial MOHs to&#13;
+reimburse providers for the services included in the PBS that are delivered to Plan Nacerâ&#128;&#153;s&#13;
+beneficiaries. The design of the program allows each health provider to decide how to use these&#13;
+resources, empowering personnel and promoting staff productivity. The autonomy in the use of&#13;
+the resources retained by the health provider has become a powerful incentive to increase service&#13;
+delivery, while adding flexibility to resource allocation in the health care system at the provider&#13;
+level. Therefore, Plan Nacer provides funds linked to the achievement of three types of results:&#13;
+enrolment, improvements in health performance as determined by 10 health indicators called&#13;
+tracers, and health care service delivery and quality (figure 3).&#13;
+&#13;
+Third, the program provides financing support to strengthen the supply capacity of the health&#13;
+care facilities, which includes medical, transportation, and communication equipment and&#13;
+training. It also fosters health service demand through the financing of activities that increase&#13;
+knowledge of the effects of PBS among the beneficiaries of the program.&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                    8&#13;
+&amp;#12;Plan Nacer was originally designed by the national governmentâ&#128;&#148;in close consultation with&#13;
+provinces through the Federal Health Councilâ&#128;&#148;as a means to address consequences of the&#13;
+economic crisis that struck Argentina in 2001, reducing inequalities and promoting national&#13;
+MOH stewardship and coordination within the health sector. It was created in 2003 through&#13;
+Resolution No. 198/2003 of the national MOH. The program was rolled out in two phases with&#13;
+the assistance of two Adaptable Program Loans from the World Bank. The first phase was&#13;
+launched in 2004 in nine provinces in northern Argentina that were most afflicted by poverty and&#13;
+poor health indicators. In 2007, it was implemented nationwide, in the remaining 15 provinces.&#13;
+After the first phase closed in 2010, implementation of the program in all participating provinces&#13;
+was supported through the second phase program loan.&#13;
+&#13;
+Plan Nacer is a national program, coordinated by the national government and implemented by&#13;
+the provincial governments. The national MOH is responsible for meeting Plan Nacerâ&#128;&#153;s&#13;
+performance targets, while provinces have the operational responsibility to implement the&#13;
+program and reach provincial level performance targets. To achieve these targets, the national&#13;
+MOH provides additional funding (capitation transfers) to provinces that complement the&#13;
+existing provincial health budgets. This structure enables the national MOH, which is legally&#13;
+responsible for coordinating health policy and programs throughout Argentina, to have influence&#13;
+over health in a decentralized context. The provinces transfer resources to the health provider&#13;
+through fee-for-service payments applied to a PBS.&#13;
+&#13;
+The coordination function of the program is carried out by the Project Management Unit (PMU)&#13;
+created within the scope of the Secretariat of Promotion and Sanitary Programs of the national&#13;
+MOH. The PMU reports directly to the latter and is led by the Promotion and Sanitary Programs&#13;
+Secretary who serves as the National Director of Plan Nacer. In addition, the program has a&#13;
+National Executive Coordinator in charge of operational issues. Both the National Director and&#13;
+National Executive Coordinator are appointed by Nationâ&#128;&#153;s Minister of Health. Whereas the PMU&#13;
+is responsible for working with the provinces in implementing the program, provinces are&#13;
+directly responsible for purchasing services from providers that deliver the PBS to Plan Nacerâ&#128;&#153;s&#13;
+beneficiaries. The PMU is also responsible for ensuring that all technical, financial, and&#13;
+administrative aspects of the project implemented by the provinces meet agreed upon quality&#13;
+standards in a timely manner. The PMU is supported by the International Finance Unit (UFI-S)&#13;
+of MOH in managing the financial and procurement requirements.&#13;
+&#13;
+The provincial MOHs are responsible for ensuring health care in their jurisdictions and for&#13;
+providing health care to the uninsured. Plan Nacer implementation is conducted by the Provincial&#13;
+Implementation Units (PIUs), created within the scope of the provincial MOHs as part of the&#13;
+structural reforms being introduced in health financing. These units are led by a Provincial&#13;
+Executive Coordinator appointed by the Provincial Minister of Health. The PIUs run the&#13;
+Maternal-Child Health Insurance Program and act as the health services purchasing agency of&#13;
+the provincial MOH. Their main responsibilities are identifying and enrolling beneficiaries and&#13;
+mobilizing their participation; identifying, authorizing, and contracting service providers to&#13;
+deliver PBS to the beneficiaries; and controlling the technical quality of services, financial&#13;
+management, and procurement at the provincial level.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                9&#13;
+&amp;#12;The relationship between the national MOH and the provincial MOH, and between the provincial&#13;
+MOH and health care providers, is governed by legally binding management agreements, which&#13;
+refer specifically to Plan Nacerâ&#128;&#153;s insurance scheme and financing. These are voluntarily legal&#13;
+contracts that define roles and responsibilities of each party and ensure accountability. The first&#13;
+type of agreement, signed between the national MOH and the provincial MOH, is known as the&#13;
+umbrella agreement. It covers all permanent technical, financial, administrative, and fiduciary&#13;
+aspects of provincial participation in the program and provides for Plan Nacerâ&#128;&#153;s funds to be&#13;
+transferred to the provinces based on the number of beneficiaries enrolled and the achievement&#13;
+of specific tracer targets.&#13;
+&#13;
+In addition, the national MOH and the provincial MOH annually negotiate enrolment and tracer&#13;
+targets, work programs, and resource requirements, which are included in another type of&#13;
+contract called the Annual Performance Agreement. The agreement signed between the&#13;
+provincial MOH and the health care provider is called the management contract, and it guides the&#13;
+provision of PBS and its pricing; quality standards and control measures; payment mechanisms;&#13;
+expected results; maintenance of clinical and financial records; and modalities for supervision&#13;
+and inspection. It also defines providersâ&#128;&#153; responsibilities, which include enrolling beneficiaries,&#13;
+delivering the PBS, and billing the province. All providers that are able to deliver the PBS 3 are&#13;
+eligible for signing a management contract to be part of Plan Nacer, although most of them are&#13;
+public. 4&#13;
+&#13;
+The structural changes promoted by the program in the health system were introduced through&#13;
+the signature of these legally bindings agreements, involving a shift in the way the national&#13;
+government provides health sector funding to the provinces and in how payment to health&#13;
+providers is made. Thus, Plan Nacer funding, which is linked to the achievement of results in&#13;
+terms of beneficiary enrolment, health outcomes, and health services delivery, comprises the&#13;
+following aspects:&#13;
+&#13;
+    â&#128;¢    A capitation payment in the amount of US$3.86 (Arg$17) per month per beneficiary&#13;
+         enrolled in the program. This capitation payment can be seen as the value of a health&#13;
+         insurance premium, which entitles Plan Nacer beneficiaries to receive services from&#13;
+         providers under contract to supply certain services for an agreed capitated rate. Seventy&#13;
+         percent of this payment is transferred by the PMU to the PIUs, through the International&#13;
+         Finance Unit responsible for managing the financial and procurement requirements of the&#13;
+         program at the national level.&#13;
+         National contributions are funded by the World Bank, and the remaining 30 percent is&#13;
+         transferred by provincial governments to the provincial PIUs. These payments are&#13;
+         exclusively used by the PIU to reimburse providers for health services delivered to Plan&#13;
+         Nacer beneficiaries. In addition, the capitation transfer is paid in two installments, both&#13;
+&#13;
+3&#13;
+  For the provision of the PBS under Plan Nacer, providers do not need to be approved or accredited by anyone.&#13;
+Conversely, for the provision of the Congenital Heart Disease Package, which comprises high-complexity&#13;
+interventions and was implemented in 2010, providers are required to be assessed and accredited by the National&#13;
+Directorate of Maternity and Childhood of the national MOH.&#13;
+4&#13;
+  Private providers are allowed to participate in Plan Nacer, but since the fee-for-service under Plan Nacer does not&#13;
+cover the full cost of the services, there is no incentive for private providers to participate in the program. The&#13;
+capitation amount only covers the cost of closing the gap in terms of quality and quantity of priority health services.&#13;
+&#13;
+                                                                                                                   10&#13;
+&amp;#12;         driven by results. The first installment, 60 percent, is disbursed immediately after the&#13;
+         provinces send the roster of Plan Nacer enrollees, and it is verified by the PMU. The&#13;
+         second installment, up to 40 percent, is disbursed every four months after verification and&#13;
+         certification that the province actually met targets for the 10 health indicators (tracers)&#13;
+         (Annex 1).&#13;
+         Currently, tracers and targets are equal for all provinces. Each tracer has a set of targets&#13;
+         with three thresholds to be met in each four-month period. Provinces can receive 2&#13;
+         percent, 3 percent, or up to 4 percent of the capitation payment for each tracer, based on&#13;
+         the threshold level achieved. The targets are included in the annual performance&#13;
+         agreements signed between the national and provincial MOHs.&#13;
+    â&#128;¢    Fee-for-service payments from the PIUs to health care providers are contracted by Plan&#13;
+         Nacer based on the number of services delivered to the program beneficiaries. Given that&#13;
+         prices are set by the provincial government in coordination with the national government,&#13;
+         increasing the value attached to each of the health services included in the PBS means&#13;
+         that PIUs signal providers on which services are needed to increase utilization to achieve&#13;
+         tracer targets or give response to a particular health context within a province. 5 Provider&#13;
+         managers have autonomy to decide how to use these funds within broad categories&#13;
+         defined by the provincial MOH. There are a small number of provinces that allow&#13;
+         providers to use Plan Nacerâ&#128;&#153;s funds to reward staff for their performance. The fee-for-&#13;
+         service mechanism is revised twice a year. Provinces assess the type and number of&#13;
+         health services included in the Package of Basic Services that was provided to the&#13;
+         beneficiaries, and they can adjust their prices to ensure financial sustainability of the&#13;
+         province if needed. Within a province, the fee-for-service scheme is the same for all&#13;
+         levels of facilities.&#13;
+&#13;
+For the first time in Argentina, the national and provincial governments are linking funding to&#13;
+results. To be able to effectively link funding to results, the government has developed and&#13;
+implemented many instruments that were not previously common in the public sector, including&#13;
+management and performance agreements, tools for managing the production and application of&#13;
+funds, pricing, monitoring, auditing, and evaluation systems. These structural changes in the&#13;
+health financing model are changing the incentives framework, encouraging efficiency, and&#13;
+including the poor in the public health system. Plan Nacer is the first program in Argentina to&#13;
+ensure that funding is received directly by health providers, meaning that the staff decides on the&#13;
+investment. This achievement has had a significant impact on the level of empowerment and&#13;
+motivation of health teams in the public health sector.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+5&#13;
+  Since the provincial MOHs continue to pay for most health care costs, including the public health workersâ&#128;&#153;&#13;
+salaries, these fee-for-service payments do not cover the full cost of the services covered, just the incremental cost.&#13;
+&#13;
+                                                                                                                   11&#13;
+&amp;#12;             Figure 3 Institutional Arrangements: Plan Nacerâ&#128;&#153;s Payment Mechanisms&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Targeting, Identification, and Enrolment of Beneficiaries&#13;
+&#13;
+Plan Nacer has been aimed at targeting the poor and most vulnerable groups. Given the lack of a&#13;
+unique national system to identify the poor, the program specifically targets uninsured&#13;
+households where people are often unemployed or work in the informal sector and therefore are&#13;
+much more likely to be poor than in insured households. In addition, the program is directed to&#13;
+benefit pregnant women and children, who tend to be the most vulnerable groups among the&#13;
+uninsured.&#13;
+&#13;
+The target population is people without explicit health coverage (including social security&#13;
+coverage or private coverage) within the following groups: children under six years old, pregnant&#13;
+women, and women up to 45 days after delivery or miscarriage. Special attention is given to the&#13;
+indigenous population, a traditionally poor and excluded group, through the inclusion of specific&#13;
+outreach activities.&#13;
+&#13;
+The program initially targeted the most vulnerable children and pregnant women through&#13;
+operating in the countryâ&#128;&#153;s poorest provinces. The program was launched in 2004 in the nine&#13;
+Northern provinces with the highest level of unsatisfied basic needs and highest infant mortality&#13;
+rates. This region is also home to 75 percent of Argentinaâ&#128;&#153;s indigenous population. In 2007, the&#13;
+program was expanded to the rest of the country. To identify Plan Nacerâ&#128;&#153;s target population, the&#13;
+program has had to design and build its own system to determine eligibility. The PMU estimates&#13;
+and periodically reviews the target population using available data on health coverage and&#13;
+population of children under six years old from the census, national household surveys, and&#13;
+newborn registers. In 2012, the estimated target population was around 2 million people. The&#13;
+PIUs are responsible for identifying, enrolling, and verifying that potential beneficiaries fulfill&#13;
+the eligibility criteria. The PIUs have delegated the first two activities to the providers, as agreed&#13;
+in the management contracts. However, given that the PIUs are responsible for ensuring that the&#13;
+                                                                                                   12&#13;
+&amp;#12;eligible population has access to enrolment even in scattered geographic locations and low-&#13;
+density areas in each province, they have also had to implement strategies to find and enroll the&#13;
+target population (for example, health workers visiting poor neighborhoods). After enrolment is&#13;
+completed, the PIUs crosscheck the information of new enrollees against an employer-based&#13;
+coverage database called PadrÃ³n Ã&#154;nico Consolidado Operativo, created from the Social Security&#13;
+registers. This helps ensure that they do not have explicit health coverage.&#13;
+&#13;
+Plan Nacer requires that potential beneficiaries who meet the eligibility criteria are voluntarily&#13;
+enrolled in the program. To achieve this objective, the program provides different incentives&#13;
+both to the PIUs and the health care providers. The provincial insurers have direct incentives to&#13;
+enroll beneficiaries since enrolment accounts for 60 percent of capitation payments made from&#13;
+the national government to each participating province, whereas providers have only indirect&#13;
+incentives, since they can bill only those health services delivered to people enrolled in the&#13;
+program. In addition, the design of the program de-incentivizes the enrolment of ineligible&#13;
+people, given that compliance with enrolment requirements is audited internally and externally&#13;
+and the enrolment of those who do not meet the eligibility criteria results in monetary penalties.&#13;
+This situation has led to a low number of erroneous beneficiaries. According to audit reports&#13;
+from 2008 and 2009, only 0.25 percent of beneficiaries in the nine Northern provinces were&#13;
+erroneously included in Plan Nacerâ&#128;&#153;s register.&#13;
+&#13;
+Enrolment as a percentage of the target population has grown steadily, despite ups and downs.&#13;
+By April 2012, the number of beneficiaries was around 1.84 million, representing 89.7 percent of&#13;
+the eligible population. The program benefited from implementation of the Universal Family&#13;
+Allowance Policy6 in November 2009, which made enrolment in Plan Nacer a requirement to&#13;
+access this benefit. Consequently, enrolment increased substantially after a period of extremely&#13;
+low growth. In fact, two years after implementation of the Universal Family Allowance Policy,&#13;
+enrolment increased by 46 percentage points in Centro, Patagonia, and Cuyo provinces, and 9&#13;
+percentage points in the Northern provinces. Although it is unclear why the growth curve tended&#13;
+to flatten, two possible explanations are that the remaining eligible population is much harder to&#13;
+reach and that the program did not devote enough resources to communications and outreach&#13;
+activities.&#13;
+&#13;
+Special Topics Related to the Management of Public Funds in Plan Nacer&#13;
+&#13;
+Plan Nacer does not represent a substantial amount compared to provincial budgets. According&#13;
+to the latest available data, in 2009, Plan Nacer funding was around 0.66 percent of public health&#13;
+spending excluding expenditures for social security, 0.04 percent of the public expenditure, and&#13;
+0.017 percent of GDP. 7 Taking into account that provincial governments are responsible for&#13;
+providing health care services within their jurisdiction, it is important to consider Plan Nacerâ&#128;&#153;s&#13;
+relative weight compared to the provincial health budget. Although Plan Nacer funding was&#13;
+around 1.12 percent of the provincial public health spending excluding expenditures for&#13;
+provincial social security in 2008, there were substantial differences among provinces. For&#13;
+&#13;
+&#13;
+6&#13;
+ This policy targeted poor families with children, providing US$50 a month per child to the family.&#13;
+7&#13;
+  Prepared by the author based on data supplied by the national MOH and the Ministry of Economy and Public&#13;
+Finance.&#13;
+&#13;
+                                                                                                       13&#13;
+&amp;#12;example, in Misiones it was 4.3 percent of provincial public health spending, while in NeuquÃ©n it&#13;
+represented only 0.1 percent (Sanguinetti 2010).&#13;
+&#13;
+The programâ&#128;&#153;s resources are money on top of existing budgets. Plan Nacer spending is subject to&#13;
+the amount of money set for implementing the program: US$435.8 million from 2004 to 2012,&#13;
+plus a small amount of resources provided by the provincial governments. Before the program,&#13;
+the provision of health services in the public sector at the provincial level was exclusively funded&#13;
+under the traditional input-based scheme. In this context, Plan Nacer aims to improve coverage&#13;
+and quality of prioritized health services, which are already provided by the provinces through&#13;
+the public sector. To do so, it provides additional resources to finance a gap in coverage and&#13;
+quality in the provision of those services. These additional funds, which cover 50 percent of the&#13;
+cost of providing the prioritized PBS, consist of national government contributions financed with&#13;
+World Bank proceeds (70 percent) and provincial government contributions (30 percent). Both&#13;
+are transferred to the provincial MOHs under a results-based financing scheme. The remaining&#13;
+50 percent is funded by the provincial MOH through the traditional input-based scheme.&#13;
+&#13;
+Provinces can adjust prices to regulate the flow of resources to the health providers. If demand&#13;
+for health services from Plan Nacerâ&#128;&#153;s beneficiaries is higher than the amount of money that the&#13;
+PIU has available to pay for them, the PIU can cancel the debt at the agreed prices in the&#13;
+following months and, in the meantime, adjust the prices paid to the providers to avoid a similar&#13;
+situation in the future. Given that health service provision is free in the public sector, with or&#13;
+without Plan Nacer, patients are never turned away for lack of funds. For the providers, being&#13;
+part of the Plan Nacer network means that they can receive additional funds on top of what they&#13;
+receive under the traditional input-based scheme and decide on how to use those funds at the&#13;
+health facility level. The amount of these additional funds depends on the number and price of&#13;
+the health services delivered to Plan Nacerâ&#128;&#153;s beneficiaries.&#13;
+&#13;
+Although predictability of financing has not been a serious issue during program&#13;
+implementation, some provinces have experienced difficulties. For example, some provinces had&#13;
+to deal with a shortage or excess of funds to pay providers for the services delivered to Plan&#13;
+Nacerâ&#128;&#153;s beneficiaries. To solve this, the PIUs managed the price of health services, either&#13;
+reducing or increasing them as needed.&#13;
+&#13;
+The provincial legal framework makes it difficult to transfer resources within provinces. For&#13;
+instance, there have been delays in transferring the share of capitation payment that is cofunded&#13;
+by the provincial MOH (30 percent of the capitation payment), which caused the suspension of&#13;
+the remaining 70 percent as established by Plan Nacer guidelines. These difficulties affect all&#13;
+programs at the provincial level and are related to budgetary constraints. However, Plan Nacer is&#13;
+less vulnerable to budget variability cuts than other programs, given that the umbrella agreement&#13;
+signed between the national and provincial MOHs states that the provincial health budget has to&#13;
+be maintained or increased in order to continue receiving Plan Nacer resources.&#13;
+&#13;
+Management of Benefits Package&#13;
+&#13;
+Plan Nacerâ&#128;&#153;s prioritized PBS is aimed at addressing the main causes of infant and maternal&#13;
+mortality in Argentina, including diarrhea, acute respiratory diseases, malnutrition, and&#13;
+&#13;
+                                                                                                 14&#13;
+&amp;#12;inadequate prenatal care in the case of infant mortality, and hemorrhage and infections linked to&#13;
+unsafe deliveries and complications from unsafe miscarriage in the case of maternal mortality.&#13;
+The PBS also includes interventions for primary health care promotion and prevention and for&#13;
+reproductive health care after deliveries or miscarriages. The PBS originally encompassed 80&#13;
+health services. Later, it was expanded to include outpatient treatments and high-complexity&#13;
+health services, to continue reducing the infant mortality rate by tackling some of the leading&#13;
+causes of death, especially those that are difficult to prevent or very costly to treat (for example,&#13;
+congenital heart disease surgery and neonatal intensive care services).&#13;
+&#13;
+The PBS was designed by the national MOH in coordination with the Federal Health Council.&#13;
+The process of building the PBS involved a set of relevant theoretical and conceptual bases (of&#13;
+health policy, the health economy, and governance), which took into account the basic&#13;
+constitutional mandates of the â&#128;&#156;right to healthâ&#128;? and the â&#128;&#156;countryâ&#128;&#153;s federal organization,â&#128;? and&#13;
+equity as a central objective.&#13;
+&#13;
+The prioritization process to build the PBS began with the selection of the target population and&#13;
+was followed by the decision to launch the program in the poorest provinces (in the north of the&#13;
+country) as a means to reduce inequity. Then, to identify which health services to include in the&#13;
+PBS, the national MOH conducted studies to assess health needs using available data sources,&#13;
+including vital statistics, burden of disease studies, epidemiological statistics, and health surveys,&#13;
+among others. Once the health services were selected, the national MOH carried out a cost-&#13;
+effectiveness analysis of the PBS.&#13;
+&#13;
+The prioritization process faced initial difficulties related to the lack of critical information,&#13;
+which made it hard to provide credibility and objectivity. For example, available data on the&#13;
+epidemiological profile of Argentinaâ&#128;&#153;s population was limited, hampering analysis and&#13;
+definitions related to definition of the PBS. In addition, this situation hindered accurate&#13;
+estimations of gaps in terms of coverage and quality associated with the provision of the PBS.&#13;
+The lack of information on the delivery capacity of the public health systems and costs led the&#13;
+national MOH to conduct its own studies at a later time.&#13;
+&#13;
+The process of setting priorities evolved during program implementation. The design of a new&#13;
+PBS, under the expansion of Plan Nacer to the new Sumar Program, incorporated broad&#13;
+mechanisms of institutional deliberation involving various levels of government. The process&#13;
+ends in a national and provincial consensus on a single list of health services for the entire&#13;
+country. The inclusion of public consultation mechanisms is still pending.&#13;
+&#13;
+Plan Nacer only covers gaps in coverage and quality in the provision of PBS, to allow providers&#13;
+to offer a selected set of health interventions at adequate levels of quality and coverage.&#13;
+Therefore, the capitation value 8 was defined through a basic actuarial calculation. The initial&#13;
+budget for implementing Plan Nacer was defined based on the estimated target population and a&#13;
+capitation value to cover a share of the cost of providing the PBS. As mentioned in section 2,&#13;
+Plan Nacer complements provincial government funding for providing health services through&#13;
+&#13;
+8&#13;
+  The calculation of the capitation value was done through analysis of the costs of the component parts of each&#13;
+health service included in the PBS, accounting for the prices that prevail in the markets for medical goods and&#13;
+services, technology improvements and efficiency standards, and expected economies of scale.&#13;
+&#13;
+                                                                                                            15&#13;
+&amp;#12;the public sector. As such, the provincial MOHs were already funding the prioritized health&#13;
+services covered by Plan Nacer, but offering them in quality and utilization levels lower than&#13;
+desired. The actuarial calculation took into account (a) the estimated target population, (b) the&#13;
+current provincial spending for provision of the prioritized PBS to the target population, and (c)&#13;
+expenditures required to fully finance the PBS when provided at adequate levels of quality and&#13;
+coverage. The difference between the cost of providing the PBS at the current levels of coverage&#13;
+and quality compared to the cost of providing the PBS at desired levels is what Plan Nacer funds.&#13;
+Currently, additional Plan Nacer funding represents 50 percent of the cost of providing&#13;
+prioritized PBS. The capitation value was initially estimated by the program in 2004 and later&#13;
+recalculated in 2010. The first study resulted in an incremental capita per enrolled person of&#13;
+AR$12 9 per month, whereas the result of the second study was an incremental capita of&#13;
+AR$17.3 10 per month.&#13;
+&#13;
+As explained in section 2, the provincial MOH sets the prices of each health service included in&#13;
+the PBS. Therefore, the cost of providing the PBS is managed through price administration at the&#13;
+provincial level. This is the only cost containment measure used by the program.&#13;
+&#13;
+The Information Environment&#13;
+&#13;
+The results-based financing mechanism promoted by Plan Nacer requires a complex amount of&#13;
+information to effectively link funding to the achievement of results in terms of enrolment,&#13;
+health outcomes, and service delivery. Plan Nacer includes indicators to track the level of&#13;
+program coverage with respect to the eligible population and tracers to monitor the effectiveness&#13;
+of the health services included in the PBS. As mentioned in section 2, these indicators are also&#13;
+used to determine the capitation payment for each province. The information flow required by&#13;
+the program begins at the provider level, starting with the enrolment of beneficiaries. Providers&#13;
+send this information, along with information on service delivery, to the PIU. Once information&#13;
+is audited and approved, the PIU calculates payments to the providers based on a fee-for-service&#13;
+mechanism. Simultaneously, the data from providers about the services they delivered&#13;
+determines the extent to which the tracer targets are achieved. That data, together with&#13;
+information on beneficiary enrolment, determines the amount of the capitation payments to be&#13;
+paid by the PMU to the PIU.&#13;
+&#13;
+The implementation of the monitoring and evaluation system of the program has required an&#13;
+upgrade and expansion of existing information systems, and the development of new&#13;
+mechanisms. Although most of the health providers contracted by Plan Nacer had functioning&#13;
+medical records systems to generate basic data on beneficiary numbers and services rendered, the&#13;
+program funded the development of roster management and tracer systems to respond to the&#13;
+specific health needs of the provinces. Currently, the PMU is working on the development and&#13;
+implementation of electronic enrolment and billing systems to continue improving the&#13;
+information environment of the program.&#13;
+&#13;
+&#13;
+9&#13;
+   Equivalent to approximately US$4, taking into account a nominal exchange rate in December 2004 of&#13;
+(AR$2.98/US$).&#13;
+10&#13;
+    Equivalent to approximately US$3.86, taking into account the nominal exchange rate in June 2012 of&#13;
+AR$4.5/US$).&#13;
+&#13;
+                                                                                                   16&#13;
+&amp;#12;Plan Nacer has also provided support to strengthen the national and provincial MOH capacity to&#13;
+monitor, evaluate, and audit performance. Monitoring and evaluation mechanisms are a&#13;
+cornerstone of programs that include results-based financing mechanisms, since the fact that&#13;
+funding is at stake introduces incentives to overstate the accomplishment of the results defined&#13;
+by the program. In this case, the provincial MOHs and providers have incentives to overstate the&#13;
+number of beneficiaries enrolled in the program, the volume of services delivered to them, and&#13;
+the level of tracer targets achieved. For these reasons, Plan Nacer comprises a comprehensive&#13;
+monitoring and evaluation scheme that includes independent external audits, both financial and&#13;
+technical, and internal oversight. These mechanisms help to prevent fraud, hold the recipients of&#13;
+funds accountable, and ensure that funds are used according to the programâ&#128;&#153;s guidelines.&#13;
+&#13;
+The financial audit is conducted annually by the Argentine Supreme Audit Institution (AuditorÃ­a&#13;
+General de la NaciÃ³n), and the technical audit is carried out bimonthly by an independent,&#13;
+external firm. The latter verifies the project results in terms of enrolment, improvements in health&#13;
+conditions as determined by the tracers, and health care service delivery and quality, and thereby&#13;
+determines whether and how much of the funds are transferred to the provincial MOH and the&#13;
+health care providers. In addition, the technical auditors assess provincial compliance with the&#13;
+programâ&#128;&#153;s standards and report their findings to the PMU, proposing sanctions and&#13;
+recommending ways to solve identified problems. Then, the PMU, through the Internal&#13;
+Oversight area, reviews the auditorsâ&#128;&#153; findings, applies the debits and fines suggested by the&#13;
+audit, and designs and supervises action plans to correct deviation and improve critical&#13;
+situations.&#13;
+&#13;
+The auditing process is an essential element of the program. It has led to improvements in&#13;
+performance, as illustrated by the reduction in the number of erroneous beneficiaries included in&#13;
+Plan Nacer, 11 and has contributed to increased health system governance. The provision of an&#13;
+independent external opinion on the results reached by the provinces facilitates the relationship&#13;
+between the national and provincial MOHs in a federal context and improves registration of&#13;
+services and results. This has led to an increase in accountability, the generation of quality&#13;
+improvement processes, and institutional capacity building, among other things.&#13;
+&#13;
+In addition, Plan Nacer includes an impact evaluation strategy to generate evidence on the&#13;
+impacts of the program and to inform key program design and implementation decisions. The&#13;
+evaluations include (a) an impact evaluation randomized at the provincial level to measure the&#13;
+programâ&#128;&#153;s impacts on maternal and child health outcomes, and (b) a series of provider-level&#13;
+experiments to test alternative design features of the Plan Nacer model. The impact evaluation&#13;
+was rolled out in the nine Northern provinces included in the first phase. The evaluation strategy&#13;
+involved the creation of baselines, with medical, socioeconomic and community information, for&#13;
+a representative sample of the three measurable universals: women and children, health care&#13;
+agencies, and pregnant women and children served by primary health care providers. With&#13;
+respect to the first phase, information was gathered from each of the nine participating provinces&#13;
+of Phase I of Plan Nacer and from a control group from four other provinces. However, due to&#13;
+the expansion of the program to the rest of the country in 2007, the comparison group for the&#13;
+Phase I provinces were contaminated. In light of the changes to the impact evaluation design and&#13;
+11&#13;
+  According to audit reports, in the Northern provinces, the number of errors in beneficiary enrolment identified&#13;
+each month dropped from 22 percent in December 2006 to 11 percent in December 2009.&#13;
+&#13;
+                                                                                                              17&#13;
+&amp;#12;delays in contracting the survey firm to conduct the follow-up, alternatives strategies for&#13;
+generating interim results were sought to further support the policy dialogue. 12&#13;
+&#13;
+The alternative consisted of interim results using available sources of administrative data. The&#13;
+government has made an extra effort, supported by the World Bank, to measure the impact of the&#13;
+program even when the original identification strategy had been invalidated. With the use of&#13;
+administrative data (Phase I), the team exploited the panel data structure and used a fixed effects&#13;
+strategy to control for all time-constant factors at the provider level. It applied instrumental&#13;
+variables using the participation status of the provider in the program, and preprogram&#13;
+population characteristics to estimate treatment status. In two provinces, Misiones and Tucuman,&#13;
+data sources identified included health services provided at public sector Primary Care Centers&#13;
+and maternity clinics. This included data on prenatal care, delivery care, and well-child care&#13;
+outcomes (World Bank 2012).&#13;
+&#13;
+The results of this study show that the program increased the probability of a first prenatal care&#13;
+visit before week 13 of pregnancy by 8.5 percent and before week 20 of pregnancy by 18&#13;
+percent. Program beneficiaries increased the number of prenatal checkups by 0.5 visits, or 17&#13;
+percent. Pregnant women also benefited from an improvement in the quality of care, measured&#13;
+by increases in the likelihood of vaccinations and ultrasounds. The improvement in the quantity&#13;
+and quality of services translated into healthier births, including an increase in average birth&#13;
+weight of 69.5 grams (a 2 percent increase over the control group), a decrease of 26 percent in&#13;
+the likelihood of children born with very low birth weight (under 1,500 grams), and a drop in&#13;
+neonatal mortality of 1.9 percent.&#13;
+&#13;
+Finally, for children under five, the program raised the likelihood of well-baby checkups, as&#13;
+required by the program. These results indicate positive outcomes during the programâ&#128;&#153;s first&#13;
+years of operation, and also suggest a promising model of incentives to be considered for other&#13;
+priority areas of the Argentine health care system and the rest of the world (Martinez, Gertler,&#13;
+and Ross 2010). Similar analysis was planned to be completed by the second semester of 2012&#13;
+for eight provinces from the first phase of the project.&#13;
+&#13;
+4. Plan Nacerâ&#128;&#153;s Results-based Financing Mechanism&#13;
+&#13;
+There is no doubt that Plan Nacer is an innovative way to strengthen health systems and is a&#13;
+powerful tool for the national MOH to promote efficiency and effectiveness through incentives&#13;
+at the national, provincial, and health provider levels. Rather than simply funding more health&#13;
+care providers through inputs and fixed budgets, or adjusting existing insurance mechanisms,&#13;
+Plan Nacer provides funding linked to results. In this sense, one of its most novel features is&#13;
+â&#128;&#156;results-based financing,â&#128;? which refers to the way funds flow to provincial MOH and health care&#13;
+providers, and the incentives it offers. These are intended to encourage each level of the health&#13;
+care system to improve coverage, quality, and results, while increasing governance,&#13;
+accountability, and transparency in health care delivery.&#13;
+&#13;
+12&#13;
+  The baseline for Phase I was conducted in 2006 and for Phase II in 2008. To find valid counterfactuals, variable&#13;
+instrument methodology was applied with randomized promotion. The creation of a Universal Child Allowance in&#13;
+2009 (which, due to the conditionality of Plan Nacer enrolment, significantly increased enrolment levels), made it&#13;
+impossible to continue with the methodology.&#13;
+&#13;
+                                                                                                               18&#13;
+&amp;#12;Plan Nacer rewards three types of results: enrolment, improvements in health performance as&#13;
+determined by tracers, and health care service delivery and quality. Specifically, the provinces&#13;
+are given two related incentives. The first involves receiving 60 percent of the capitation&#13;
+payment for each beneficiary enrolled in the program, and the second involves receiving up to&#13;
+the remaining 40 percent based on the achievement of agreed-upon tracer targets. Thus,&#13;
+provinces receive Plan Nacerâ&#128;&#153;s funds as long as they succeed in enrolling beneficiaries and&#13;
+improving their health conditions. These funds are transferred from the national MOH to the&#13;
+provinces, where they are used exclusively to pay providers for the delivery of the services&#13;
+included in the PBS.&#13;
+&#13;
+Providers also have a strong incentive to identify potential beneficiaries, certify that they meet&#13;
+eligibility criteria, and enroll them, even though they do not receive the capitation payment. This&#13;
+incentive is associated to the fact that providers can only bill services delivered to Plan Nacer&#13;
+beneficiaries. After enrolment is completed, another and more powerful incentive comes into&#13;
+play: the services delivered. The more services delivered, the more funds are transferred under&#13;
+the fee-for-service mechanism. Finally, the providersâ&#128;&#153; autonomy to determine how to use funds&#13;
+closes the incentive chain promoted by the program.&#13;
+&#13;
+Under a results-based financing project, funding is not the only element required to achieve&#13;
+results. The capacity to decide how to use the funds in order to undertake actions aimed at&#13;
+achieving those results has proven to be essential to close the incentive chain. This not only&#13;
+empowers providersâ&#128;&#153; staff, but also adds flexibility to the health care system by allowing&#13;
+providers to direct program funds to correct imbalances caused by the rigid budgetary allocation&#13;
+defined at the provincial level. Despite the fact that the total transfers from the program to the&#13;
+provinces ranges between only 1 percent and 5 percent of total provincial MOH budgets, it has&#13;
+proven to be a powerful tool to promote change, due to its flexibility. The last incentive allowed&#13;
+by some provinces is the introduction of performance payments to providersâ&#128;&#153; staff. According to&#13;
+Plan Nacer guidelines, performance payments cannot exceed 50 percent of the funds received&#13;
+under the program.&#13;
+&#13;
+As described in section 2, the program includes both internal and external audits aimed at&#13;
+offsetting the overstatement of results in order to receive funds. Jointly with the audits, the&#13;
+existence of a sanctions scheme introduces further incentive to improve health care standards, by&#13;
+recording and recordkeeping at the provider level. Otherwise, if a health provider does not follow&#13;
+Plan Nacer guidelines, fee-for-service payments are reduced, due to the application of monetary&#13;
+penalties. Therefore, health providers are expected not only to offer the services included in the&#13;
+PBS, but also to deliver them according to the national MOH standards.&#13;
+&#13;
+Beneficiary demand for PBS has been incentivized through the implementation of public&#13;
+awareness campaigns, mailings, and interactions with staff at the health facilities. Beneficiaries&#13;
+learn about the specific services available, their rights, and how to monitor childrenâ&#128;&#153;s health.&#13;
+This has contributed to empowering beneficiaries and has helped create a sense of social&#13;
+accountability that complements the formal accountability obtained through the audits.&#13;
+&#13;
+Plan Nacerâ&#128;&#153;s new mechanisms have locked in many important institutional changes and extended&#13;
+them beyond the scope of the program to other dimensions of the health sector. For example, the&#13;
+&#13;
+                                                                                                19&#13;
+&amp;#12;availability of detailed and reliable clinical and programmatic data has been important for&#13;
+monitoring and evaluation of the whole system. Effective participation and active&#13;
+communication between national and provincial governments has promoted more efficient policy&#13;
+making and program implementation than traditional programs that finance only purchases of&#13;
+inputs without focusing on results or enhancing accountability and transparency.&#13;
+&#13;
+Insurance-based billing and reimbursements not only extended services to the poor, but also&#13;
+enhanced governance and the financial independence of health care providers compared to others&#13;
+outside the program. Furthermore, providers can manage the resources transferred through the&#13;
+fee-for-service from the provincial ministries and choose how best to use those resources.&#13;
+Finally, the results-based financing led by the national MOH has improved its stewardship role&#13;
+and governance of provincial governments in health care delivery. All these changes were&#13;
+funded by just over US$50 million in annual investments from World Bank loans from 2004 to&#13;
+2010, which represents up to a maximum of 4.3 percent of the provincial public spending in&#13;
+health.&#13;
+&#13;
+5. Pending Agenda&#13;
+&#13;
+Although there is evidence that Plan Nacer has contributed to improved health service utilization&#13;
+and health status of the eligible population, various challenges need to be addressed to ensure the&#13;
+program achieves its objectives and remains sustainable.&#13;
+&#13;
+For example, the national MOH needs to develop an adequate legal framework that enables the&#13;
+national government to coordinate health policy throughout the country and with the provincial&#13;
+ministries. According to the Argentine federal structure, each province retains all powers and&#13;
+authority not expressly delegated to the national government, as is the case of health services.&#13;
+Provincial governments have their own local laws, norms, and protocols, and have the legal&#13;
+power and ability to organize their own health systems. In addition, most provinces guarantee the&#13;
+right to health in the provincial constitution (Abramovich and Pautassi 2008). Thus, a pending&#13;
+agenda item is a legal framework that allows the national government to steward and coordinate&#13;
+health policies with provincial ministries. Although, Plan Nacer has contributed to a stronger&#13;
+national government stewardship role, the national government still has difficulties enforcing its&#13;
+health strategy. Some examples of pending challenges include the development of sound health&#13;
+information systems and monitoring and evaluation tools to assess the health sector performance&#13;
+and clinical protocols.&#13;
+&#13;
+The sustainability of the program must be ensured, as should complementarities of Plan Nacer&#13;
+funds to the provincial budgets. Program sustainability to ensure adequate support to the&#13;
+expansion of health coverage is one of the main challenges ahead. Currently, 50 percent of the&#13;
+capitation value to provide the PBS is funded by the provincial MOH through the traditional&#13;
+input-based scheme. The remaining 50 percent is funded by Plan Nacerâ&#128;&#148;70 percent by the&#13;
+national MOH and 30 percent by provincial MOHsâ&#128;&#148;under a results-based financing mechanism.&#13;
+The national MOH contributions are funded with World Bank proceeds. The main issues related&#13;
+to public financing are the following:&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                20&#13;
+&amp;#12;   â&#128;¢   Ensuring the financial sustainability of the program once World Bank funding ends by&#13;
+       the national government, the provincial governments, or both. It is relevant to assess&#13;
+       whether the provincial governments are willing to provide the necessary resources to the&#13;
+       program under a results-based financing mechanism. If the national government decides&#13;
+       to continue funding the main share of the cost of the basic health package, a high-level&#13;
+       legal instrument will be critical to protect the program from changes in its current&#13;
+       administration.&#13;
+   â&#128;¢   Strengthen national MOH capacity to ensure that provincial health budgets are not&#13;
+       replaced by Plan Nacer funding. Resources from the program should be used to increase&#13;
+       access to the Basic Health Package, complementing the provincial budgets.&#13;
+&#13;
+Equity goals across provinces are still yet to be realized. Even though the percentage of people&#13;
+with health coverage increased to 62.1 percent by 2010, major inequities persist among wealth&#13;
+quintiles. In 2010, only 43 percent of people from the poorest quintile were insured, while 83&#13;
+percent of people in the wealthiest quintile had health coverage. Furthermore, inequities exist&#13;
+with respect to health services utilization. According to 2010 National Risk Factor Surveys&#13;
+(Encuesta Nacional de Factores de Riesgo), 42.1 percent of people visited a doctor in the&#13;
+previous month with a significant variation between the insured and the uninsured: 45.7 percent&#13;
+of the insured population visited a doctor compared to only 34.7 percent of the uninsured.&#13;
+&#13;
+A similar trend occurs with laboratory tests and medical treatments. In 2010, 20.3 percent of the&#13;
+population received a medical treatment, a lab test, or both, with the percentage as low as 13.4&#13;
+percent for the uninsured compared to 23.7 percent for the insured portion of the population. In&#13;
+addition, the average out-of-pocket expenditure on health increased to 92 pesos in 2010. This is a&#13;
+real increase of 60 percent relative to 2005, and 83 percent relative to 2003. The main out-of-&#13;
+pocket expenditure components in 2010 were medication purchases (44.1 percent of the total&#13;
+out-of-pocket expenditure), and voluntary insurance coverage (16.8 percent) (Sanguinetti 2012).&#13;
+&#13;
+Currently, Plan Nacer capitation payments per beneficiary enrolled in the program are equal for&#13;
+all provinces. To improve health equity across provinces, it would be desirable to move toward a&#13;
+program design that takes into account these differences and provides a differential capitation&#13;
+payment adjusted to the provincial environment and needs. Although it is clear that this proposed&#13;
+change would generate both political and operational difficulties in the short term, it should be a&#13;
+medium-term goal.&#13;
+&#13;
+Establishing a standardized process of priority setting that includes clinical and cost-&#13;
+effectiveness studies and social validation mechanisms is necessary. Plan Nacerâ&#128;&#153;s PBS responds&#13;
+to the main causes of infant and maternal mortality, and the national MOH has made substantial&#13;
+advances in defining the new Sumar Program supported by the World Bank. These efforts have&#13;
+included the Benefit Package production of burden of disease studies, and involve different&#13;
+stakeholders of the national and provincial MOHs in defining the PBS. However, it is necessary&#13;
+to establish a standardized process for setting priorities that includes clinical and cost-&#13;
+effectiveness studies and social validation mechanisms. Under Plan Nacer, clinical and cost-&#13;
+effectiveness studies on the Plan Nacer Benefit Package were conducted by the MOH after&#13;
+defining the PBS.&#13;
+&#13;
+&#13;
+                                                                                                21&#13;
+&amp;#12;Health insurance portability should be included in Plan Nacerâ&#128;&#153;s design. The programâ&#128;&#153;s design&#13;
+includes neither health insurance portability among provinces nor compensation mechanisms to&#13;
+promote it. There have been attempts to introduce such changes, but operational difficulties&#13;
+limited the establishment of agreements among provinces in order to set the necessary&#13;
+compensation schemes. However, improving the efficiency and equity of the health system&#13;
+requires the development of institutional arrangements that promote free choice of providers and&#13;
+that ensure health providers are paid for services they deliver.&#13;
+&#13;
+Maternal mortality continues to be a challenge. In addition, although national the infant mortality&#13;
+rate declined from 16.5 per 1,000 to 11.9 per 1,000 between 2003 and 2010, 13 maternal mortality&#13;
+remains very high, at 43.7 per 100,000 live births (DEIS 2010). Given that these deaths are&#13;
+mostly related to high-risk pregnancies, the national MOH will soon include specific health&#13;
+services in the new Sumar Programâ&#128;&#153;s PBS, with the objective of promoting a better organization&#13;
+of health care networks. With more organized networks, pregnant women with high-risk&#13;
+pregnancies can be identified early on and can be referred to a high-complexity health care&#13;
+facility where they can receive adequate follow-up and treatment.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+13&#13;
+   This reduction in the infant mortality rate is, of course, the result of many factors, including the robust growth&#13;
+rates experienced from 2004 onward, which averaged 7.2 percent per year between 2004 and 2009.&#13;
+&#13;
+                                                                                                                 22&#13;
+&amp;#12;                                Annex 1 Plan Nacerâ&#128;&#153;s Tracers&#13;
+&#13;
+&#13;
+No.               Tracer                                         Description&#13;
+I     Early detection of pregnant        Number of eligible pregnant women with at least one&#13;
+      women                              prenatal care service before 20th week / number of&#13;
+                                         eligible pregnant women.&#13;
+II    Effectiveness of childbirth and    Number of newborns, from eligible pregnant women,&#13;
+      neonatal care                      with an â&#128;&#156;Apgar score higher than â&#128;&#156;6â&#128;? at minute 5 /&#13;
+                                         number of newborns from eligible pregnant women.&#13;
+III   Effectiveness of prenatal care     Number of newborns weighing more than 2,500 grams&#13;
+      and prevention of premature        from eligible pregnant women / number of newborns&#13;
+      births                             from eligible pregnant women.&#13;
+IV    Effectiveness of prenatal care     Number of eligible pregnant women who get VRDL&#13;
+      and childbirth care                (Viral and Rickettsial Disease Laboratory) during&#13;
+                                         pregnancy and antitetanic vaccine previous to delivery /&#13;
+                                         total number of deliveries from eligible pregnant&#13;
+                                         women.&#13;
+V     Medical auditing of maternal       Number of medically audited deaths of eligible mothers&#13;
+      and infant death                   and children (1 year of age or younger) / total number of&#13;
+                                         deaths of eligible women and children (1 year of age or&#13;
+                                         younger).&#13;
+VI    Immunization coverage              Number of eligible children less than 18 months old with&#13;
+                                         measles vaccine or triple viral coverage / number of&#13;
+                                         eligible children less than 18 months old.&#13;
+VII   Sexual and reproductive health     Number of eligible puerperal women receiving sexual&#13;
+      care                               and reproductive health care consultations / number of&#13;
+                                         eligible puerperal women.&#13;
+VIII Healthy-child care (1 year old      Number of eligible children 1 year old or less, with well-&#13;
+     or younger)                         child consultations up to date (percentile of weight and&#13;
+                                         height and cephalic perimeter) / total eligible children 1&#13;
+                                         year old or less.&#13;
+IX    Healthy-child care (1 to 6 years   Number of eligible children 1 to 6 years of age, with&#13;
+      old)                               well-child consultations up to date and percentile,&#13;
+                                         weight, and height / total eligible children 1 to 6 years of&#13;
+                                         age.&#13;
+X     Inclusion of indigenous            Number of health facilities delivering services to eligible&#13;
+      communities                        indigenous population in which there are Sanitary&#13;
+                                         Agents (basic health care personnel) especially trained to&#13;
+                                         treat indigenous population / number of health facilities&#13;
+                                         delivering services to the eligible indigenous population.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                 23&#13;
+&amp;#12;     Annex 2 Main Stakeholders: Roles and Responsibilities under the Program&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                   HEALTH&#13;
+                        NATION                                                                    PROVINCES&#13;
+                                                                                                                                                  PROVIDERS&#13;
+&#13;
+                                                                                                 Consolidate and&#13;
+                     Consolidate the&#13;
+                                                                                                   validate the&#13;
+                   enrolment list of all&#13;
+ENROLMENT OF                                                                                     registries, check                               Identification and&#13;
+                      provinces and&#13;
+BENEFICIARIES                                                                                    against the social                                 Registration&#13;
+                       validate its&#13;
+                                                                                                security enrolment&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                           Umbrella Agreement/ Annual Performance Agreements&#13;
+                       consistency&#13;
+                                                                                                        list&#13;
+&#13;
+ PACKAGE OF                                                                                                                                    Deliver services and&#13;
+                         Design                                                                    Valorization&#13;
+  SERVICES                                                                                                                                       generate a bill&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                       Management Agreements&#13;
+                   Determines the                                                              Combines data from&#13;
+                                                                                                                                               Reports data on&#13;
+                   tracers, negotiates                                                         providers to&#13;
+  TRACERS                                                                                                                                      coverage of the tracer&#13;
+                   the targets with the                                                        determine tracer&#13;
+                                                                                                                                               services or conditions&#13;
+                   provinces                                                                   achievements&#13;
+&#13;
+&#13;
+                   Make transfers&#13;
+                   adjusted by results&#13;
+                   to provinces per&#13;
+                                                                                                                                               Uses funds for:&#13;
+                   beneficiary&#13;
+                                                                                               Use transfers to pay                            - Human resources&#13;
+                   (US$4/month);&#13;
+ FINANCING                                                                                     services to health                              - Equipment&#13;
+                   equivalent to the&#13;
+                                                                                               providers                                       - Infrastructure&#13;
+                   cost of the&#13;
+                                                                                                                                               - Supplies&#13;
+                   premium for a&#13;
+                   traditional health&#13;
+                   insurance scheme&#13;
+&#13;
+                   Internal oversight&#13;
+                   using systems and                                                           Internal oversight of                              Registration of&#13;
+ OVERSIGHT /&#13;
+                   field visits of                                                             registration form and                            services in clinical&#13;
+  REGISTER&#13;
+                   enrolment lists and                                                            health services                                     history&#13;
+                   health services&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                                        24&#13;
+&amp;#12;                            Annex 3 Argentinaâ&#128;&#153;s Health Sector in Numbers&#13;
+&#13;
+&#13;
+                                                                                               2009/2010&#13;
+            a&#13;
+Population                                    Millions                                             40.1&#13;
+&lt; 5 years old                                 % population                                          8.4&#13;
+&lt; 15 years old                                % population                                         20.1&#13;
+&gt; 65 years old                                % population                                         10.3&#13;
+Life expectancy                               Years                                                 75&#13;
+&#13;
+GDPb                                          U$S per capita                                      7,472&#13;
+Povertya                                      % population under Poverty Line                      13.2&#13;
+Total Health Expenditurec                     % GDP                                                 9.4&#13;
+Public Health Expenditureb                    % GDP                                                 6.2&#13;
+                                              U$S per capita                                       464&#13;
+Private Health Expenditurec                   % GDP                                                 3.2&#13;
+&#13;
+IMRd                                          % every 1,000 live births                            11.9&#13;
+MMRd                                          % every 10,000 live births                            4.4&#13;
+Health coveragea                              % population with explicit health                     64&#13;
+                                              insurance coverage&#13;
+Immunization Coveraged                        Percentage of children 1 year old                    100&#13;
+                                              with coverage of measles vaccine or&#13;
+                                              triple viral&#13;
+Institutional Deliveriesd                     % live births attended by skilled                    99.5&#13;
+                                              health professional&#13;
+Sources: (a) National Statistics and Census Institute (Instituto Nacional de EstadÃ­stica y Censos) (2010). (b) In&#13;
+current international dollars, 2009; Ministry of Economy and Finance. (c) World Health Organization Health&#13;
+statistics (www.who.int/nha/en) supplemented by country data. (d) National Ministry of Health, Directorate of&#13;
+Statistics and Health Information (2012). Argentine public spending comprises expenditures for health care, national&#13;
+and provincial social security (Obrassociales Nacionales y Provinciales), and the Institute of Social Services for&#13;
+Retirees and Pensioners at the national, provincial, and local levels. DirecciÃ³n de AnÃ¡lisis de Gasto PÃºblico y&#13;
+Programas Sociales, SecretarÃ­a de PolÃ­tica EconÃ³mica, Ministerio de EconomÃ­a y Finanzas PÃºblicas.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                 25&#13;
+&amp;#12;                                           References&#13;
+&#13;
+&#13;
+&#13;
+Abramovich, Victor, and Pautassi Laura. 2008. â&#128;&#156;El derecho a la salud en los tribunales. Algunos&#13;
+     efectos del activismo judicial sobre el sistema de salud en Argentina.â&#128;? Salud Colectiva 4&#13;
+     (3): 263.&#13;
+CetrÃ¡ngolo, Oscar, and Goldschmit, Ariela. 2012. â&#128;&#156;Sistema de salud argentino: ProvisiÃ³n y&#13;
+       financiamiento en busca de la cobertura universal.â&#128;? Background report commissioned by&#13;
+       the Human Development Department, Latin American and the Caribbean Region, World&#13;
+       Bank, Washington, DC.&#13;
+CetrÃ¡ngolo, Oscar, and Juan Pablo JimÃ©nez. 2004. â&#128;&#156;Las relaciones provinciales entre niveles de&#13;
+       gobierno en Argentina. RaÃ­ces histÃ³ricas, institucionales y conflictos persistentes.â&#128;? Serie&#13;
+       gestiÃ³n pÃºblica NÂº 47. CEPAL, Santiago.&#13;
+Cortez, Rafael, Daniela Romero, VaninaCamporeale, and Luis PÃ©rez. 2012. â&#128;&#156;Argentina Results-&#13;
+       Based Financing for Health in Argentina: The Plan Nacer Program.â&#128;? HNP Discussion&#13;
+       Paper, World Bank, Washington, DC.&#13;
+Ministry of Health (Ministerio de Salud de la NaciÃ³n). 2010. â&#128;&#156;Natalidad, mortalidad general,&#13;
+       infantil y materna por lugar de residencia â&#128;&#147; 2010.â&#128;? DirecciÃ³n de EstadÃ­sticas e&#13;
+       InformaciÃ³n Sanitaria, Buenos Aires.&#13;
+â&#128;&#148;â&#128;&#148;â&#128;&#148;. Programa de Salud Materno Infantil Provincial. 2004â&#128;&#147;12. â&#128;&#156;Plan Nacer, Informes de&#13;
+   AuditorÃ­a Externa Concurrente.â&#128;? Buenos Aires.&#13;
+â&#128;&#148;â&#128;&#148;â&#128;&#148;. SecretarÃ­a de PromociÃ³n y Programas Sanitarios, Equipo Nacional de Compras de&#13;
+   Servicios de Salud, Ã?rea TÃ©cnica. 2006â&#128;&#147;12. â&#128;&#156;Informe de GestiÃ³n: Plan Nacer.â&#128;? Buenos&#13;
+   Aires.&#13;
+â&#128;&#148;â&#128;&#148;â&#128;&#148;. Programa de Salud Materno Infantil Provincial. 2008. â&#128;&#156;Plan Nacer Proyecto de&#13;
+   InversiÃ³n en Salud Materno Infantil Provincial (PrÃ©stamo BIRF 7225-AR y PrÃ©stamo&#13;
+   BIRF 7409-AR) Manual Operativo.â&#128;? Buenos Aires.&#13;
+â&#128;&#148;â&#128;&#148;â&#128;&#148;. Sistema Integrado de InformaciÃ³n Sanitaria Argentino. 2012. Registro Federal de&#13;
+   Establecimientos de Salud. Argentina.&#13;
+Sanguinetti, Juan. 2010. â&#128;&#156;Plan Nacer: Budgetary Analysis at the National and Provincial&#13;
+      Levels.â&#128;? Argentina. Paper commissioned by the World Bank, Human Development&#13;
+      Department, Latin American and the Caribbean Region, Washington, DC.&#13;
+______. 2012. Equidad, acceso y utilizaciÃ³n de los servicios de salud en Argentina. Â¿QuÃ©dicen&#13;
+      los datosmÃ¡srecientes? Paper commissioned by the World Bank, Human Development&#13;
+      Department, Latin American and the Caribbean Region, Washington, DC.&#13;
+INDEC (National Instituteof Statistics and Census, Instituto Nacional de EstadÃ­sticas y Censos).&#13;
+     2010. National Census. Argentina.&#13;
+Martinez, SebastiÃ¡n, Paul Gertler, and Adam Ross. 2010. â&#128;&#156;Plan Nacer Impact Evaluation&#13;
+       Background Report: The Case of Misiones and Tucuman.â&#128;? World Bank, Washington,&#13;
+       DC.&#13;
+&#13;
+&#13;
+                                                                                               26&#13;
+&amp;#12;World Bank. 2004. Loan Agreement for Provincial Maternal and Child Health Insurance Project,&#13;
+      Loan Number 7225-AR, World Bank, Washington, DC.&#13;
+â&#128;&#148;â&#128;&#148;â&#128;&#148;. 2004. Project Appraisal Document on a Proposed Loan in the amount of US$135.8&#13;
+   Million to the Argentine Republic for the Provincial Maternal-Child Health Investment&#13;
+   Project in Support of the First Phase of the Provincial Maternal-Child Health Program,&#13;
+   Report 27892, World Bank, Washington, DC.&#13;
+â&#128;&#148;â&#128;&#148;â&#128;&#148;. 2006. Project Appraisal Document on a Proposed Loan in the amount of US$300&#13;
+   Million to the Argentine Republic for the Provincial Maternal-Child Health Investment&#13;
+   Project in Support of the Second Phase of the Provincial Maternal-Child Health Program,&#13;
+   Report 37702, World Bank, Washington, DC.&#13;
+â&#128;&#148;â&#128;&#148;â&#128;&#148;. 2007. Loan Agreement for Second Provincial Maternal and Child Health Insurance&#13;
+   Project, Loan Number 7409-AR, World Bank, Washington, DC.&#13;
+â&#128;&#148;â&#128;&#148;â&#128;&#148;. 2011. Implementation Completion and Results Report (IBRD-72250) on a Loan in the&#13;
+   Amount of US$135.8 Million to the Republic of Argentina for the Provincial Maternal-&#13;
+   Child Health Investment Project in Support of the First Phase of the Provincial Maternal-&#13;
+   Child Health Adaptable Program Loan, January 21, 2011, Report No. ICR00001678,&#13;
+   World Bank, Washington, DC.&#13;
+â&#128;&#148;â&#128;&#148;â&#128;&#148;. 2011. Project Appraisal Document on a Proposed Loan in the Amount of US$400&#13;
+   Million to the Argentine Republic for the Provincial Public Health Insurance&#13;
+   Development Project, Report 58504, World Bank, Washington, DC.&#13;
+â&#128;&#148;â&#128;&#148;â&#128;&#148;. 2011. â&#128;&#156;Plan Nacer Argentina: Provincial Maternal and Child Health Insurance: Using&#13;
+   Results-Based Financing (RBF).â&#128;? Background report prepared by Philip Musgrove and&#13;
+   commissioned by the World Bank, Human Development Department, Latin American&#13;
+   and the Caribbean Region, World Bank, Washington, DC.&#13;
+â&#128;&#148;â&#128;&#148;â&#128;&#148;. 2012. â&#128;&#156;Country Spotlight: Using Administrative Data to Monitor the Impact of RBF and&#13;
+   Advocate for Local Capacity Building Argentina Plan Nacer.â&#128;? World Bank, Washington,&#13;
+   DC.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                         27&#13;
+&amp;#12;28&#13;
+&amp;#12;29&#13;
+&amp;#12;The World Bank supports the efforts of countries to share prosperity by&#13;
+transitioning toward universal health coverage (UHC) with the objectives of&#13;
+improving health outcomes, reducing the financial risks associated with ill&#13;
+health, and increasing equity. The Bank recognizes that there are many paths&#13;
+toward UHC and does not endorse a particular path or set of organizational or&#13;
+financial arrangements to reach it. Regardless of the path chosen, the quality of&#13;
+the instruments and institutions countries establish to implement UHC are&#13;
+essential to its success. Countries will face a variety of challenges during the&#13;
+implementation phase as they strive to expand health coverage. With that in&#13;
+mind, the World Bank launched the Universal Health Coverage Studies Series&#13;
+(UNICO Studies Series) to develop knowledge and operational tools designed&#13;
+to help countries tackle these implementation challenges in ways that are&#13;
+fiscally sustainable and that enhance equity and efficiency. The UNICO Studies&#13;
+Series consists of technical papers and country case studies that analyze&#13;
+different issues related to the challenges of UHC policy implementation.&#13;
+&#13;
+The case studies in the series are based on the use of a standardized protocol&#13;
+to analyze the nuts and bolts of 27 programs in 25 countries that have&#13;
+expanded coverage from the bottom up, starting with the poor and vulnerable.&#13;
+The protocol consists of 300 questions designed to elicit a detailed&#13;
+understanding of how countries are implementing five sets of policies to&#13;
+accomplish the following:&#13;
+&#13;
+â&#128;¢   Manage the benefits package&#13;
+â&#128;¢   Manage processes to include the poor and vulnerable&#13;
+â&#128;¢   Nudge efficiency reforms to the provision of care&#13;
+â&#128;¢   Address new challenges in primary care&#13;
+â&#128;¢   Tweak financing mechanisms to align the incentives of different stakeholders&#13;
+    in the health sector&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+The UNICO Studies Series aims to provide UHC implementers with an expanded toolbox.&#13;
+The protocol, case studies and technical papers are being published as part of the Series. A&#13;
+comparative analysis of the case studies will be available in 2013.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                               30&#13;
+&amp;#12;</ml:original-txt><ml:search-metadata><doc id="17206615">
+        <url>
+            http://documents.worldbank.org/curated/en/2013/01/17206615/argentina-increasing-utilization-health-care-services-among-uninsured-population-plan-nacer-program
+        </url>
+        <availablein>Spanish,English</availablein>
+        <fullavailablein>
+            <available_in lang="Spanish" entityid="000442464_20140709114014" node_id="17206615"/>
+        </fullavailablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2013/01/17206615/argentina-increasing-utilization-health-care-services-among-uninsured-population-plan-nacer-program</url_friendly_title>
+        <new_url>2013/01/17206615/argentina-increasing-utilization-health-care-services-among-uninsured-population-plan-nacer-program</new_url>
+        <disclosure_date>2013-01-31T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2013-01-31T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/01/31/000425962_20130131151019/Rendered/INDEX/749560NWP0ARGE00Box374316B00PUBLIC0.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/01/31/000425962_20130131151019/Rendered/PDF/749560NWP0ARGE00Box374316B00PUBLIC0.pdf</pdfurl>
+        <docdt>2013-01-01T00:00:00Z</docdt>
+        <datestored>2013-01-31T00:00:00Z</datestored>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            Argentina - Increasing utilization of
+            health care services among the uninsured population : the
+            Plan Nacer program
+        </repnme>
+        <abstracts>
+            This paper describes the functioning and
+            performance of Argentina's Provincial Maternal and
+            Child Health Investment Program, commonly referred to as
+            Plan Nacer. The program is aimed at increasing access - for
+            uninsured pregnant women and children under six years old -
+            to a basic set of health services known to effectively
+            address the main causes of maternal and child mortality,
+            while improving the effectiveness and efficiency of the
+            health system. The program supports the development and
+            implementation of publicly funded provincial maternal and
+            child health insurance and the introduction of highly
+            innovative results-based financing mechanisms at the
+            national, provincial, and provider levels. This document is
+            organized as follows. Section 2 provides an overview of the
+            Argentine health care system, including a description of
+            public health, primary care, and supply-side efforts, to put
+            in context the implementation of Plan Nacer. Section 3
+            presents a detailed description of the main features of the
+            program, including the institutional architecture; the
+            targeting, identification, and enrolment of beneficiaries;
+            the management of the program's funds and benefits
+            package; and the information environment of Plan Nacer.
+            Section 4 provides a discussion of the highly innovative
+            results-based financing mechanisms included in the design of
+            the program. Section 5 draws some conclusions on the pending
+            agenda and challenges ahead.
+        </abstracts>
+        <docna>
+            Argentina - Increasing utilization of health
+            care services among the uninsured population : the Plan
+            Nacer program
+        </docna>
+        <display_title>Argentina - Increasing
+            utilization of health care services among the uninsured
+            population : the Plan Nacer program</display_title>
+        <listing_relative_url>/research/2013/01/17206615/argentina-increasing-utilization-health-care-services-among-uninsured-population-plan-nacer-program</listing_relative_url>
+        <subtopic>Health Monitoring &amp; Evaluation,Public Sector Expenditure Policy,Health Economics &amp; Finance,Health Systems Development &amp; Reform,Population Policies</subtopic>
+        <docty>Working Paper (Numbered Series)</docty>
+        <teratopic>Public Sector Development,Health, Nutrition and Population</teratopic>
+        <count>Argentina</count>
+        <authors>
+            <author>Cortez, Rafael</author>
+            <author>Romero, Daniela</author>
+        </authors>
+        <geo_region_mdks>
+            <geo_region_mdk>World!$!80475</geo_region_mdk>
+            <geo_region_mdk>America!$!80450</geo_region_mdk>
+            <geo_region_mdk>South America!$!80469</geo_region_mdk>
+        </geo_region_mdks>
+        <entityids>
+            <entityid>000425962_20130131151019</entityid>
+        </entityids>
+        <admreg>Latin America &amp; Caribbean,Latin America &amp; Caribbean</admreg>
+        <colti>Universal Health Coverage (UNICO) studies
+            series ; no.12</colti>
+        <lang>English</lang>
+        <historic_topic>Public Sector Development,Health, Nutrition and Population</historic_topic>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            access to health care, access to health care
+            services, access to services, ambulatory surgery, baby,
+            basic health care, basic health services, basic needs,
+            budgetary resources, burden of disease, capitation,
+            capitation payment, capitation payments, certification,
+            Child Health, child mortality, childbirth, choice of
+            providers, clinics, complications, cost-effectiveness,
+            deaths, debt, Delivery Mechanisms, demand for health, demand
+            for health services, developing countries, diseases, drugs,
+            economies of scale, enforcement mechanisms, families, family
+            members, fee-for-service, financial management, financial
+            risks, free choice, General Health System, gross domestic
+            product, health budgets, Health Care, health care costs,
+            health care coverage, health care delivery, health care
+            facilities, health care networks, health care personnel,
+            health care provider, health care providers, health care
+            service delivery, Health Care Services, health care
+            standards, health care system, health conditions, Health
+            Coverage, Health Expenditure, Health Expenditures, health
+            facilities, health financing, health indicators, health
+            information, Health Information System, health information
+            systems, health initiatives, Health Insurance, health
+            insurance coverage, Health insurance portability, Health
+            Insurance Program, health insurance scheme, health insurance
+            system, health interventions, Health Ministries, health
+            needs, Health Organization, health outcomes, health
+            policies, health policy, health providers, health sector,
+            health service, health service delivery, health service
+            providers, health service provision, health service
+            utilization, health services, Health Specialist, health
+            status, health strategy, Health System, health systems,
+            healthcare services, hospital, hospital beds, hospitals,
+            household surveys, Human Development, human resources, ill
+            health, Immunization, income, income countries, individual
+            health, infant, infant mortality, infant mortality rate,
+            infant mortality rates, informal sector, insurance
+            companies, insurance premium, insurers, lack of information,
+            laws, leading causes, leading causes of death, Life
+            expectancy, local authorities, local governments, low birth
+            weight, mandates, maternal deaths, maternal health, maternal
+            health services, maternal mortality, maternal mortality
+            rates, medical goods, medical laboratories, medical records,
+            medical specialists, medical supplies, medical treatment,
+            medical treatments, medically uninsured, medicines,
+            ministries of health, Ministry of Health, mortality,
+            national government, National Health, national health
+            policy, national level, newborn, outreach activities,
+            patients, pharmacies, policy formulation, poor families,
+            poor health, pregnancy, pregnant women, prenatal care,
+            primary care, primary health care, primary health services,
+            private health insurance, Private Insurance, private sector,
+            probability, provision of care, provision of health care,
+            provision of health services, public expenditure, public
+            expenditure on health, Public Health, public health care,
+            Public Health Expenditure, Public Health Insurance, public
+            health providers, public health spending, public health
+            system, public health workers, Public providers, public
+            sector, Public services, public spending, quality
+            improvement, quality of care, quality of health, quality of
+            services, regulatory frameworks, rehabilitation,
+            reproductive health, reproductive health care, resource
+            allocation, resource requirements, respect, respiratory
+            diseases, Risk Factor, rural areas, Social Expenditures,
+            social health insurance, social security, Social Services,
+            surgery, traditional health care, transportation, trauma,
+            unemployment, universal access, vaccination, vaccinations,
+            vital statistics, vulnerable groups, vulnerable populations, workers
+        </keywd>
+        <owner>Health, Nutrition &amp; Popultn Team (HDNHE)</owner>
+        <geo_regions>
+            <geo_region>World</geo_region>
+            <geo_region>America</geo_region>
+            <geo_region>South America</geo_region>
+        </geo_regions>
+        <repnb>74956</repnb>
+        <alt_title>
+            Argentina - El aumento de la utilizacion
+            de los servicios de salud materno-infantil en la poblacion
+            sin seguro medico : el plan Nacer
+        </alt_title>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>Social Development &amp; Poverty</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Economic Management</ml:concept><ml:concept>Macroeconomic Management</ml:concept><ml:concept>Macroeconomic Policy</ml:concept><ml:concept>Macroeconomics Policy</ml:concept><ml:concept>Macroeconomics and Economic Growth</ml:concept><ml:concept>Macroeconomics and Growth</ml:concept><ml:concept>Teaching and Learning</ml:concept><ml:concept>Poverty Reduction</ml:concept><ml:concept>Poverty Reduction and Distributional Analysis</ml:concept><ml:concept>Poverty Reduction and Equity</ml:concept><ml:concept>Poverty and Inequality</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Social Protections and Labor</ml:concept><ml:concept>City Development Strategies</ml:concept><ml:concept>Social Development</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Agriculture and Food Security</ml:concept><ml:concept>Macroeconomic and Structural Policies</ml:concept><ml:concept>Education</ml:concept><ml:concept>Health, Nutrition and Population</ml:concept><ml:concept>Poverty</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Social Protection and Labor</ml:concept><ml:concept>Urban Development</ml:concept><ml:concept>Health Monitoring and Evaluation</ml:concept><ml:concept>Public Expenditure</ml:concept><ml:concept>Public Sector Expenditure Policy</ml:concept><ml:concept>Social Health Insurance</ml:concept><ml:concept>Complementary Health Insurance</ml:concept><ml:concept>Supplementary Health Insurance</ml:concept><ml:concept>Voluntary Health Insurance</ml:concept><ml:concept>Capitation Payments</ml:concept><ml:concept>Delivery of Health Care</ml:concept><ml:concept>Health Care Delivery</ml:concept><ml:concept>Health Service Management and Delivery</ml:concept><ml:concept>Health Systems</ml:concept><ml:concept>Health Care Provider Network</ml:concept><ml:concept>Health Networks</ml:concept><ml:concept>Impact Evaluations</ml:concept><ml:concept>Randomized Control Trials</ml:concept><ml:concept>Insurance &amp; Risk Mitigation</ml:concept><ml:concept>Demographics</ml:concept><ml:concept>Child Survival and Health</ml:concept><ml:concept>Early Child and Children's Health</ml:concept><ml:concept>Electronic Medical Records</ml:concept><ml:concept>HMIS</ml:concept><ml:concept>Health Information Systems</ml:concept><ml:concept>Efficiency of Public Expenditures</ml:concept><ml:concept>Public Expenditures</ml:concept><ml:concept>Public Financial Management</ml:concept><ml:concept>Public Spending</ml:concept><ml:concept>Analysis &amp; Monitoring</ml:concept><ml:concept>Delivery Units</ml:concept><ml:concept>Grievance Redress</ml:concept><ml:concept>Indicators</ml:concept><ml:concept>M&amp;E</ml:concept><ml:concept>Performance Measurement</ml:concept><ml:concept>Performance Reviews</ml:concept><ml:concept>Rapid Results Approaches</ml:concept><ml:concept>Governance and Public Accountability (GPA)</ml:concept><ml:concept>Incentives for Good Government</ml:concept><ml:concept>National Governance</ml:concept><ml:concept>Health Indicators</ml:concept><ml:concept>Health Monitoring &amp; Evaluation</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Government Expenditure</ml:concept><ml:concept>Expenditure Policy</ml:concept><ml:concept>Impact Evaluation</ml:concept><ml:concept>Health Insurance</ml:concept><ml:concept>Public Health Insurance</ml:concept><ml:concept>Private Health Insurance</ml:concept><ml:concept>Capitation in Health Care</ml:concept><ml:concept>Health Services Delivery</ml:concept><ml:concept>Primary Care</ml:concept><ml:concept>Health Provider Networks</ml:concept><ml:concept>Impact Assessment</ml:concept><ml:concept>Women</ml:concept><ml:concept>Insurance</ml:concept><ml:concept>Public Health</ml:concept><ml:concept>Population</ml:concept><ml:concept>Child Health</ml:concept><ml:concept>Health Management Information Systems</ml:concept><ml:concept>Managing Public Finances</ml:concept><ml:concept>Monitoring and Evaluation</ml:concept><ml:concept>Access to Services</ml:concept><ml:concept>Governance</ml:concept></ml:concepts><ml:geo-regions><ml:geo-region>State Associations</ml:geo-region><ml:geo-region>Americas</ml:geo-region><ml:geo-region>Argentina</ml:geo-region><ml:geo-region>Caribbean</ml:geo-region></ml:geo-regions></ml:annotations></ml:doc-envelope>

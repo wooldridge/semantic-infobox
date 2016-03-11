@@ -1,0 +1,952 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>                                               101563&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Slovak Republic:&#13;
+Skilling up&#13;
+the next generation&#13;
+An analysis of Slovak Republicâ&#128;&#153;s performance in the&#13;
+Program for International Student Assessment&#13;
+&amp;#12;Slovak Republic:&#13;
+Skilling up&#13;
+the next generation&#13;
+An analysis of Slovak Republicâ&#128;&#153;s performance in the&#13;
+Program for International Student Assessment&#13;
+&amp;#12;Contents                                                                                                                                                     Figure 8. PISA performance over me, all subjects, Slovak Republic ................................................... 23&#13;
+Acknowledgments .................................................................................................................................. 6         Figure 9. Distribu on of students by proï¬&#129;ciency level in mathema cs and reading, 2003 and 2012.. 24&#13;
+Abbrevia ons and Acronyms.................................................................................................................. 6                Figure 10. Standard devia on of PISA scores by discipline, 2003, 2006, and 2012 .............................. 24&#13;
+Execu ve Summary ................................................................................................................................ 7          Figure 11. PISA problem-solving and mathema cs scores, Slovak Republic and regional&#13;
+Why skills ma er for Slovakia............................................................................................................... 11              neighbors, 2012 .................................................................................................................................... 25&#13;
+&#13;
+The importance of cogni ve skills ........................................................................................................ 14                Figure 12. Equity performance: Slovak Republic, peer countries, and regional neighbors, 2012 ........ 26&#13;
+&#13;
+Slovakiaâ&#128;&#153;s educa on system ................................................................................................................. 16              Figure 13. ESCS condi ons and aggregate eï¬&#128;ect, 2003-12................................................................... 27&#13;
+&#13;
+Cogni ve skills of 15-year-old Slovak students ..................................................................................... 21                      Figure 14. Diï¬&#128;erence between 2012 and 2003 PISA performance, by ESCS and subject ..................... 28&#13;
+&#13;
+Snapshot of Slovakiaâ&#128;&#153;s performance in PISA......................................................................................... 22                       Figure 15. PISA performance and socioeconomic composi on of school type, 2012 .......................... 29&#13;
+&#13;
+Performance in PISA and student background ..................................................................................... 26                          Figure 16. Varia on in PISA student mathematucs performance between and within schools,&#13;
+&#13;
+Understanding drivers of performance decline.................................................................................... 32                          Slovakia and regional neighbors, 2012 ................................................................................................. 30&#13;
+&#13;
+Repe       on Rates ................................................................................................................................... 33   Figure 17. Urban-rural performance gaps in PISA, 2003-12 ................................................................. 31&#13;
+&#13;
+Social School Stra ï¬&#129;ca on ................................................................................................................... 33             Tables&#13;
+Policy Implica ons ................................................................................................................................ 39       Table 1. Annual public expenditure on educa on in Slovakia, 2004â&#128;&#147;11 .............................................. 18&#13;
+Promo ng quality and equity in the educa on system........................................................................ 40&#13;
+Promo ng access to quality early childhood educa on....................................................................... 41&#13;
+References ............................................................................................................................................ 44&#13;
+Annex 1: Educa on a ainment across years ........................................................................................ 47&#13;
+Annex 2. Decomposi on methodology ................................................................................................ 47&#13;
+&#13;
+&#13;
+Boxes&#13;
+Box 1. How has Slovakiaâ&#128;&#153;s educa on system been reformed? ............................................................. 20&#13;
+Box 2. PISAâ&#128;&#153;s Index of Economic, Social, and Cultural Status ................................................................ 27&#13;
+Box 3. Roma Communi es in Slovakia ................................................................................................. 32&#13;
+&#13;
+&#13;
+Figures&#13;
+Figure 1. PISA mathema cs performance by school types and socioeconomic status, 2012 ................ 9&#13;
+Figure 2. Slovakiaâ&#128;&#153;s income convergence: GDP per capita, Slovakia and nearby&#13;
+countries, 1995 - 2013.......................................................................................................................... 12&#13;
+Figure 3. Slovakiaâ&#128;&#153;s popula on age distribu on and projected popula on growth, 2010 - 2050 ........ 13&#13;
+Figure 4. Three dimensions of skills ..................................................................................................... 15&#13;
+Figure 5. The structure of Slovakiaâ&#128;&#153;s educa on system ........................................................................ 17&#13;
+Figure 6. PISA mathema cs scores and public expenditures per student, Slovak Republic and PISA&#13;
+countries wordlwide............................................................................................................................. 19&#13;
+Figure 7. PISA scores, all subjects, Slovakia and neighboring countries, 2012 ..................................... 22&#13;
+&amp;#12;Acknowledgments&#13;
+This report was prepared by a World Bank team consis ng of Ka a Herrera-Sosa, Lucas Gortazar, Jeremie Amoroso,&#13;
+Chris an Bodewig, Sandor Karacsony and Mar n Moreno under the overall guidance of Mamta Murthi, Country&#13;
+Director, Central Europe and the Bal cs, and Cris an Aedo, Educa on Global Prac ce Manager. The note beneï¬&#129;ted&#13;
+from peer review comments from Rafael De Hoyos. Marc De Francis edited the report.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                 Executive&#13;
+Abbrevia ons and Acronyms&#13;
+ESCS           Economic, Social, and Cultural Status&#13;
+ECA            Europe and Central Asia&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                 Summary&#13;
+ECE            Early Childhood Educa on&#13;
+EU             European Union&#13;
+GDP            Gross Domes c Product&#13;
+OECD           Organiza on for Economic Co-opera on and Development&#13;
+OLS            Ordinary Least Squares&#13;
+PIRLS          Progress in Interna onal Reading Literacy Study&#13;
+PISA           Programme for Interna onal Student Assessment&#13;
+RIF            Re-centered Inï¬&#130;uence Func ons&#13;
+TIMSS          Trends in Interna onal Mathema cs and Science Study&#13;
+UN             United Na ons&#13;
+UNESCO         United Na ons Educa onal, Scien ï¬&#129;c and Cultural Organiza on&#13;
+VET            Voca onal Educa on and Training&#13;
+&amp;#12;page 8                                                                                                                                                                                                                                                 page 9&#13;
+&#13;
+Executive Summary                                                                                                      Figure 1. PISA mathema cs performance by school types and socioeconomic status, 2012&#13;
+Facing the prospects of rapid aging and shrinking popula on over the coming decades, Slovakia needs a highly&#13;
+skilled workforce to help generate the produc vity growth that it needs to fuel its con nued convergence of living&#13;
+standards with its West European neighbors.&#13;
+&#13;
+Skilling up the workforce starts with equipping youth with the right cogni ve and socio-emo onal founda on&#13;
+skills. Interna onal research has iden ï¬&#129;ed three dimensions of skills that ma er for good employment outcomes&#13;
+and economic growth: cogni ve skills, such as literacy, numeracy, crea ve and cri cal thinking or problem-solving;&#13;
+socio-emo onal skills and behavioral traits, such as conscien ousness, grit or openness to experience; and job- or&#13;
+occupa on-speciï¬&#129;c technical skills, such as the ability to work as an engineer. Cogni ve and socio-emo onal skills&#13;
+forma on starts early in a personâ&#128;&#153;s life. Good cogni ve and socio-emo onal skills provide a necessary founda on for&#13;
+the subsequent acquisi on of technical skills. Put diï¬&#128;erently, poor literacy and numeracy skills severely undermine&#13;
+a personâ&#128;&#153;s ability to beneï¬&#129;t from further training and lifelong learning.&#13;
+                                                                                                                       Source: World Bank Staï¬&#128; es mates using PISA 2012 data. 40 points is the equivalent to what an average students learns in a school year.&#13;
+Slovakia can do signiï¬&#129;cantly be er in preparing its next genera on with the right cogni ve founda on skills.           OECD averages of ESCS index and PISA mathema cs score are 0 and 500, respec vely. The ESCS school average is calculated by compu ng&#13;
+                                                                                                                       the weighted average of studentâ&#128;&#153;s ESCS at each school. Secondary college refers to secondary voca onal schools.&#13;
+This report focuses on cogni ve skills and examines results for Slovakia from the Program for Interna onal Student&#13;
+Assessment (PISA), which assesses the mathema cs, reading, and science competencies of 15-year-olds. Its ï¬&#129;ndings       The explana ons for the signiï¬&#129;cant variance in student achievement seem to lie in the signiï¬&#129;cant social&#13;
+suggest that Slovakia can do signiï¬&#129;cantly be er in helping students develop cogni ve founda on skills. Slovakiaâ&#128;&#153;s      stra ï¬&#129;ca on of schools, which goes hand-in-hand with early ability-based selec on into gymnÃ¡ziums and&#13;
+aggregate mathema cs, reading, science, and problem-solving scores have remained below OECD averages, while            voca onal tracks; insuï¬&#131;cient eï¬&#128;orts to tackle inequity in learning condi ons faced by Slovakian students, and an&#13;
+its 15-year-olds perform on par with peers of several neighboring countries, like Poland, in problem-solving.          increase in repe on rates among 15-year-olds. Finally, recent evidence (OECD 2015) points to an increased eï¬&#128;ect&#13;
+                                                                                                                       from the selec vity prac ced by schools may exacerbate the segrega on of students by socioeconomic status.&#13;
+    ï&#130;·ï&#128;  Slovakiaâ&#128;&#153;s educa on system is one of the most inequitable educa on systems in the European Union (EU).&#13;
+       This is the most worrying ï¬&#129;nding of this report. Performance in PISA varies signiï¬&#129;cantly by the studentâ&#128;&#153;s so-   Policy recommenda ons. Slovakia has the dual challenge of ensuring equality of opportuni es and quality across&#13;
+       cioeconomic background. While it is not surprising to ï¬&#129;nd dispari es in countries between skills of students    its en re educa on system. Countries like Poland have shown that with the introduc on of relevant educa on&#13;
+       from rich and poor households, the gap between students from the top and bo om quin le in Slovakia is           policies, both objec ves can be achieved. Moreover, interna onal evidence suggests that accomplishing both&#13;
+       the equivalent to almost four years of schooling, signiï¬&#129;cantly more than elsewhere in the EU. Performance       goals has a posi ve eï¬&#128;ect on economic growth. This note proposes several policy recommenda ons, based on&#13;
+       also varies by type of school â&#128;&#147; between general secondary schools (gymnÃ¡ziums) and voca onal secondary          an analysis of Slovakiaâ&#128;&#153;s PISA data as well as interna onal evidence, to make Slovakiaâ&#128;&#153;s educa on system both&#13;
+       schools. Slovakiaâ&#128;&#153;s 15 year-olds from socioeconomically disadvantaged background are dispropor onately          stronger and more inclusive, including:&#13;
+       represented in voca onal schools, where aggregate performance is signiï¬&#129;cantly behind that in the gym-&#13;
+       nÃ¡ziums. While PISA data do not allow for a disaggregated analysis by ethnic background of students, Roma           ï&#130;·ï&#128;  Delaying the age of selec on of students into gymnÃ¡ziums and voca onal schools. Delayed selec on, as&#13;
+       youth are likely to suï¬&#128;er dispropor onately from the inequi es in the educa on system stemming from so-                in the case of Poland and other countries, has been shown to have a posi ve eï¬&#128;ect on aggregate student&#13;
+       cioeconomic disadvantages. Lastly, while repe on rates are small, they appear to be on the rise and are a              achievement and on equity in learning outcomes.&#13;
+       major factor contribu ng to the decline of PISA mathema cs scores between 2003 and 2012.                            ï&#130;·ï&#128;  Improving the cogni ve skills of students in voca onal schools by introducing systemic measures that&#13;
+Students from diï¬&#128;erent socioeconomic strata are highly segregated into diï¬&#128;erent types of schools and achieve                  enhance learning. Since most students in voca onal schools come from less advantaged backgrounds, the&#13;
+widely diï¬&#128;ering levels of cogni ve skills. This is illustrated in Figure 1, which summarizes the gaps--represen ng            purpose of this policy would be to try to oï¬&#128;set the inï¬&#130;uence of peer eï¬&#128;ects through be er-quality voca-&#13;
+the equivalent of mul ple years of schooling-as measured by PISA mathema cs scores. More than a quarter of                     onal schools and more general curriculum content.&#13;
+Slovakian 15 year-olds perform at the bo om level in PISAâ&#128;&#153;s mathema cs test and risk leaving school without the            ï&#130;·ï&#128;  Examining the causes of the rise of repe on rates and ï¬&#129;nding ways to reduce them. Increasing repe -&#13;
+minimum literacy and numeracy skills needed to succeed in obtaining a produc ve job, in subsequent training,                   on rates are an important factor that helps explain the decline in learning, par cularly among students&#13;
+and in lifelong learning. In fact, the propor on of students who do not reach the basic proï¬&#129;ciency in mathema cs,             who belong to the bo om quin les.&#13;
+reading, and science levels has increased since 2003.&#13;
+&amp;#12;page 10                                                                                                                                                page 11&#13;
+&#13;
+   ï&#130;·ï&#128;  Promo ng universal coverage of quality preschool educa on for children between ages three and ï¬&#129;ve.&#13;
+      Inequali es can start early in life, and good quality preschool educa on can help students from all socioeco-&#13;
+      nomic backgrounds lay a founda on to be er develop cogni ve and socio-emo onal skills.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                      Chapter 1&#13;
+                                                                                                                      Why Skills Matter for Slovakia&#13;
+&amp;#12;page 12                                                                                                                                                                                                                                page 13&#13;
+&#13;
+Why skills matter for Slovakia                                                                                            whether the educa on system is providing youth with the skills required to enhance their produc vity and labor&#13;
+Slovakia, like many of its European peers, faces the dual demographic challenge of an aging and shrinking                 market integra on.&#13;
+popula on. Slovakia has enjoyed the advantage of robust income growth during the past two decades. In 1995,&#13;
+                                                                                                                          Figure 3. Slovakiaâ&#128;&#153;s popula on age distribu on and projected popula on growth, 2010 - 2050&#13;
+Slovakiaâ&#128;&#153;s GDP per capita was slightly more than 40 percent of the EU15 average. By 2013, its GDP per capita rose to 74&#13;
+percent of that average (Figure 2), narrowing the gap between its living standards and those of the EU15, cemen ng&#13;
+its â&#128;&#156;Tatra Tigerâ&#128;&#157; moniker in the process. However, looking ahead, its demographic challenge of an aging and shrinking&#13;
+popula on could prevent that convergence in living standards from con nuing. Slovakia faces a popula on decline of&#13;
+almost 10 percent between 2010 and 2050 and median ages are expected to increase from 37.2 to 48.2 during the&#13;
+same years (Figure 3).&#13;
+&#13;
+Figure 2. Slovakiaâ&#128;&#153;s income convergence: GDP per capita, Slovakia and nearby countries, 1995 - 2013&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Source: World Bank Staï¬&#128; es mates using Eurostat data&#13;
+&#13;
+Leveraging its human capital will be a key strategy if Slovakia is to sustain the gains made in its living standards.&#13;
+                                                                                                                          Source: World Bank staï¬&#128; es mates using UN Popula on Prospects. Medium variant.&#13;
+Overall, policymakers can mi gate the threats to economic growth due to popula on aging and decline.&#13;
+Recommended policies usually balance quan ty and quality approaches. A quan ty-focused approach centers on&#13;
+expanding the number of workers through tradi onal means such as increasing the employment rate and encouraging&#13;
+immigra on. A quality approach requires, among other things, enhancing labor produc vity by raising the skills of the&#13;
+current and future workforce. Slovakia has signiï¬&#129;cant room for improving its employment rate (currently at 65 percent&#13;
+for the popula on ages 20â&#128;&#147;64, according to the 2013 Labor Force Survey). Moreover, young Slovaks experience a&#13;
+slow school-to-work transi on. According to Eurostat, since 2011, just under 15 percent of 15- to 24-year-olds have&#13;
+remained idle and are not in employment, educa on, or training (NEET). In addi on to the lost income, poor labor&#13;
+market outcomes at the beginning of the professional life may have a long-las ng, nega ve impact over long-term&#13;
+labor market outcomes, limi ng the possibili es of young people (Schmillen and Umkehrer, 2013; Kahn, 2010; Gregg&#13;
+and Tominey, 2005). As such, skills development will play an important role in harnessing the labor poten al of both&#13;
+the employed and the idle popula on. This report places the spotlight on Slovakiaâ&#128;&#153;s next genera on and explores&#13;
+&amp;#12;page 14                                                                                                                                                                                                                                                              page 15&#13;
+&#13;
+The importance of cognitive skills                                                                                                                     Figure 4. Three dimensions of skills&#13;
+Interna onal evidence shows how much the skills of a countryâ&#128;&#153;s workforce ma er for economic growth&#13;
+and shared prosperity. Interna onal evidence suggests that quality of educa on is one of the most important&#13;
+determinants of long-term economic growth.1 Research has explored student assessment surveys from 1960&#13;
+onward (Hanushek and Woessmann, 2007 and 2012), es ma ng that a score improvement of 50 points in PISA&#13;
+would imply an increase of 1 percentage point in the annual growth rate of GDP per capita.2&#13;
+&#13;
+Both the share of students achieving basic literacy and the share of top-performing students ma er for growth&#13;
+(Hanushek and Woessmann, 2007; OECD, 2010). A recent OECD (2015) report presents economic returns to&#13;
+universal basic skills, deï¬&#129;ned as all students enrolled in secondary schooling and the performance of those&#13;
+young people currently not in school raised to achieving level 1 skills (420 points) in PISA by 2030. While low-&#13;
+income countries with lagging educa on systems stand to gain the most, advanced middle-income and high-&#13;
+income countries can expect a signiï¬&#129;cant boost for long-run economic growth (un l 2095) simply by making&#13;
+their educa on systems deliver be er for the weakest students. The report ï¬&#129;nds that on average, high-income&#13;
+countries could gain a 3.5 percent higher discounted average GDP over the next 80 years if they were to ensure&#13;
+that all students achieved basic skills, deï¬&#129;ned as level 1 in PISA. As will be presented in this report, a signiï¬&#129;cant&#13;
+and growing share of Slovak 15-year-olds currently perform below level 1 of PISA. Ensuring universal basic skills in&#13;
+Slovakia would add 5.4 percent to discounted future GDP.&#13;
+&#13;
+Ensuring that all have basic cogni ve skills also helps make growth inclusive. Beyond aggregate growth,&#13;
+educa on improves the living standards of individuals. Individuals who are more educated can acquire even more                                         Source: Bodewig and Badiani-Magnusson (2014)&#13;
+skills â&#128;&#147; and higher-order skills as well â&#128;&#147; making them more produc ve and employable. Through the acquisi on of&#13;
+                                                                                                                                                       â&#128;&#156;Skillsâ&#128;&#157; can be diï¬&#128;eren ated into separate, mutually reinforcing dimensions along cogni ve, socio-emo onal,&#13;
+more higher-order skills, they can extend their labor market par cipa on over their life mes, which in turn leads&#13;
+                                                                                                                                                       and technical skills. Figure 4 presents the diï¬&#128;eren a on across the diï¬&#128;erent skills dimensions. CogniÆ&#159;ve skills&#13;
+to higher earnings and be er quality of life.3 Educa on is an engine of social mobility: Human capital is a key asset&#13;
+                                                                                                                                                       include literacy and numeracy, such as measured in PISA, but also competencies like cri cal thinking and problem-&#13;
+in income genera on and hence cri cal to reducing poverty and increasing shared prosperity (Bussolo and Lopez-&#13;
+                                                                                                                                                       solving. Socio-emoÆ&#159;onal skills, also known as non-cogni ve skills, capture oneâ&#128;&#153;s ability to interact with others&#13;
+Calva, 2014).&#13;
+                                                                                                                                                       as well as determina on and focus on ge ng a job done. Technical (job-relevant) skills in turn capture oneâ&#128;&#153;s&#13;
+                                                                                                                                                       ability to perform technical tasks in any occupa on, such as work as a plumber or engineer. Measuring the level&#13;
+                                                                                                                                                       of educa onal a ainment does not automa cally mean measuring actual skills. While many countries in Central&#13;
+                                                                                                                                                       and Eastern Europe have seen educa onal a ainment (years of educa on, level of educa on completed) expand&#13;
+                                                                                                                                                       since the start of the economic transi on, they have not necessarily seen improvements in their performance in&#13;
+                                                                                                                                                       interna onal student assessments that measure cogni ve skills, such as PISA (Sondergaard and Murthi, 2012).&#13;
+&#13;
+                                                                                                                                                       Cogni ve skills built in childhood and youth are a necessary founda on for successful acquisi on of technical&#13;
+                                                                                                                                                       and job-speciï¬&#129;c skills later in life. The founda ons of cogni ve and behavioral skills are formed early and are&#13;
+                                                                                                                                                       the pla orm upon which later skills are built. The most sensi ve periods for building a skill vary across the three&#13;
+                                                                                                                                                       dimensions of skills, and skill forma on beneï¬&#129;ts from previous investments and is cumula ve. Technical and&#13;
+                                                                                                                                                       job relevant skills â&#128;&#147; o en acquired last, through technical and voca onal educa on and training (TVET), higher&#13;
+                                                                                                                                                       educa on, and on-the-job learning â&#128;&#147; beneï¬&#129;t from strong cogni ve and behavioral skills acquired earlier in the&#13;
+1 See Sala-iâ&#128;&#147;Mar n, Doppelhofer, and Miller (2004).&#13;
+2 See Hanushek and Woessmann (2007) and Hanushek (2010). Using these tests as measures of cogni ve skills of the popula on, they show that countries   educa on system. In other words, the cogni ve skills acquired in childhood and youth, such as those measured by&#13;
+that had be er quality of educa on in the 1960s experienced faster economic growth during the years 1960-2000, controlling for other factors.          PISA, will help workers to con nuously update their technical skills during their working lives. This is of par cular&#13;
+3 See Hanushek (2013).&#13;
+&amp;#12;page 16                                                                                                                                                                                                                                                                                                               page 17&#13;
+&#13;
+importance in aging economies such as Slovakiaâ&#128;&#153;s where workers need to adapt to technological progress during                                                     Figure 5. The structure of Slovakiaâ&#128;&#153;s educa on system&#13;
+their longer working lives.&#13;
+&#13;
+This report focuses on cogni ve skills and examines evidence from the performance of 15-year-old Slovakian&#13;
+students on the PISA assessment of mathema cs, reading, science and problem-solving competencies.&#13;
+Introduced in 2000 by the Organiza on for Economic Co-opera on and Development (OECD), PISA is a worldwide&#13;
+study of 15-year-old school studentsâ&#128;&#153; performance in three diï¬&#128;erent disciplines: mathema cs, science, and&#13;
+reading. PISA 2012 also included a problem-solving assessment. PISA focuses on the competence of students and&#13;
+their ability to tackle real-life problems in these disciplines. The assessment emphasizes cri cal skills for personal&#13;
+and professional development. The objec ve of the PISA tes ng is to determine how well students are prepared&#13;
+to meet some of the challenges of their future lives. A sample ques on from mathema cs illustrates the applied&#13;
+nature of the PISA tests: â&#128;&#156;Nick wants to pave the rectangular pa o of his new house. The pa o has length 5.25&#13;
+meters and width 3.00 meters. He needs 81 bricks per square meter. Calculate how many bricks Nick needs for the&#13;
+whole pa oâ&#128;&#157;.1 In assessing the performance of 15 year-olds, it captures largely those Slovakian students who are in&#13;
+any one track in upper-secondary educa on and a small share of students who are s ll in lower-secondary. Since&#13;
+skills forma on is cumula ve, PISA reï¬&#130;ects not just competencies acquired in those schools but competencies&#13;
+acquired even earlier in the educa on system as well. PISAâ&#128;&#153;s scoring system is standardized so that the mean score&#13;
+for each discipline among OECD countries in the year 2000 is 500 points, with a standard devia on of 100 points.&#13;
+According to OECD, 40 points in PISA is equivalent to what students learn in one year of schooling.2 Slovakia has&#13;
+par cipated in PISA rounds since 2003.&#13;
+&#13;
+Slovakiaâ&#128;&#153;s education system&#13;
+Slovakiaâ&#128;&#153;s educa on system is aligned with the skills forma on process, star ng with early childhood educa on,&#13;
+and focuses on cogni ve skills-oriented learning content. Slovakiaâ&#128;&#153;s compulsory educa on system begins with&#13;
+                                                                                                                                                                  Source: ONISEP, 2015.&#13;
+primary school, where students enter at age six (see Figure 5). While early childhood educa on (ECE) is not&#13;
+compulsory, the government is responsible for its provision from ages three to six (MaterskÃ¡ Å¡kola). There is a                                                   As in many other European countries, Slovakiaâ&#128;&#153;s educa on system allows students to pursue diï¬&#128;erent&#13;
+substan al shortage of kindergarten places in Slovakia due in part to the increasing number of births between                                                     educa onal tracks at the start of upper secondary educa on. Upper secondary educa on (ISCED 3, typically&#13;
+2002 and 2011 (OECD, 2015). The popula on of children ages three to ï¬&#129;ve increased from 154,000 in 2006 to                                                         for students ages 15 to 19) covers the equivalent of grades 10â&#128;&#147;12 and is provided in three parallel tracks: general&#13;
+168,000 in 2012. Between 2007 and 2013 the number of rejected applica ons to kindergarten increased more                                                          secondary schools (GymnÃ¡ziums), voca onal secondary schools (StrednÃ¡ odbornÃ¡ Å¡kola), and conservatories&#13;
+than ï¬&#129;ve-fold, and the number is expected to con nue increasing (OECD, 2015). In 2015, the government pledged                                                     (KonzervatÃ³rium3). General secondary schools provide general educa on and prepare students for the school&#13;
+an addi onal ECE investment of â&#130;¬10 million to reduce this shortage (Eurypedia, European Encyclopedia on Na onal                                                   leaving examina on, the prerequisite for admission to higher educa on. Secondary voca onal schools provide&#13;
+Educa on Systems, Slovakia). Primary (ISCED 1) and lower-secondary educa on (ISCED 2) form a single structure                                                     general and pre-voca onal educa on, prepare students for the secondary school-leaving examina on required&#13;
+and last for nine years. In this single structure, the ï¬&#129;rst stage of primary school is organized as grades one to four,                                           for higher educa on, and oï¬&#128;er voca onal post-secondary programs. However, it is possible for students to enter&#13;
+and the second stage as grades ï¬&#129;ve to nine. In the ï¬&#129;nal year of compulsory schooling (year 10), students a end the                                                general secondary schools or conservatories as early as age 11 for a period of eight years.&#13;
+ï¬&#129;rst year of upper secondary educa on.&#13;
+&#13;
+&#13;
+1 While the skills percentages are lower for the Poland data compared to those observed in the original paper of Autor, Levy, and Murnane (for instance, the&#13;
+original ar cle shows about 12 percentage points for non-rou ne cogni ve skills analy cal for the USA, compared with an increase of less than 2 percentage&#13;
+points in Poland), the original paper covered 40 years of data (between 1960 and 2000). The data used to construct the Poland analysis covers just eight years,   3While the skills percentages are lower for the Poland data compared to those observed in the original paper of Autor, Levy, and Murnane (for instance, the&#13;
+between 2002 and 2010.&#13;
+2 While the skills percentages are lower for the Poland data compared to those observed in the original paper of Autor, Levy, and Murnane (for instance, the      original ar cle shows about 12 percentage points for non-rou ne cogni ve skills analy cal for the USA, compared with an increase of less than 2 percentage&#13;
+                                                                                                                                                                  points in Poland), the original paper covered 40 years of data (between 1960 and 2000). The data used to construct the Poland analysis covers just eight years,&#13;
+original ar cle shows about 12 percentage points for non-rou ne cogni ve skills analy cal for the USA, compared with an increase of less than 2 percentage&#13;
+                                                                                                                                                                  between 2002 and 2010.&#13;
+points in Poland), the original paper covered 40 years of data (between 1960 and 2000). The data used to construct the Poland analysis covers just eight years,&#13;
+between 2002 and 2010.&#13;
+&amp;#12;page 18                                                                                                                                                                                                                      page 19&#13;
+&#13;
+Slovakiaâ&#128;&#153;s public spending on educa on is signiï¬&#129;cantly below OECD averages. The OECD public spending               Figure 6. PISA mathema cs scores and public expenditures per student, Slovak Republic and PISA countries&#13;
+on educa on averages 5.3 percent of GDP (and 6.1 percent total, public and private, spending). In contrast,        wordlwide&#13;
+Slovakia spent about 4.1 percent of GDP (and 10.4 percent of total government spending) on educa on in&#13;
+2011. The propor on of Slovakiaâ&#128;&#153;s public investment has remained at similar levels since 2004, although it was&#13;
+marginally lower between 2005 and 2008 (Figure 3). Slovakiaâ&#128;&#153;s performance is marginally above what should be&#13;
+expected given its current level of public expenditure per student and similar to that of neighboring economies.&#13;
+Nonetheless, some countries with similar levels of investment, like Poland and Latvia, have much higher cogni ve&#13;
+outcomes (Figure 3).&#13;
+&#13;
+Table 1. Annual public expenditure on educa on in Slovakia, 2004â&#128;&#147;11&#13;
+&#13;
+                      2004      2005      2006       2007       2008        2009      2010      2011&#13;
+ Total expenditure&#13;
+ As percent of&#13;
+                        4.2      3.8       3.8        3.6        3.6        4.1       4.2        4.1&#13;
+ GDP&#13;
+ As percent&#13;
+ of total&#13;
+                    11.1       10.1       10.4       10.6       10.3        9.8       10.6       10.4&#13;
+ government&#13;
+ expenditure&#13;
+ Expenditure per student (in PPP$)&#13;
+ Primary&#13;
+                     1,737.7   2,371.1   2,817.8   3,261.8     3,629.2    4,260.3   5,301.3    5,010.4&#13;
+ educa on&#13;
+ Secondary&#13;
+                     2,472.6   2,475     2,732.6   3,079.1     3,503.8    4,175.8   4,655.3    4,627.1             Source: World Bank staï¬&#128; es ma ons using PISA 2012 data and UNESCO 2012 data. Note: The curve represents&#13;
+ educa on                                                                                                          a logarithmic approxima on of the sca er plots.&#13;
+ Ter ary&#13;
+                     4,700.6   3,882.7   4,507.5   4,077.2     4,254.5     4,245    4,562.7     5,683&#13;
+ educa on&#13;
+Source: UNESCO, 2015.&#13;
+&amp;#12;page 20                                     page 21&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+          Chapter 2&#13;
+          Cognitive skills of 15-year-old&#13;
+          Slovak students&#13;
+&amp;#12;page 22                                                                                                                                                                                                                                                                                          page 23&#13;
+&#13;
+                                                                                                                                                                  Figure 8. PISA performance over me, all subjects, Slovak Republic&#13;
+Cognitive skills of 15-year-old Slovak students&#13;
+&#13;
+Snapshot of Slovakiaâ&#128;&#153;s performance in PISA&#13;
+Slovakiaâ&#128;&#153;s 15-year-olds performed modestly in PISA 2012. In context, Slovakiaâ&#128;&#153;s PISA 2012 scores lagged the OECD&#13;
+average in all subjects.4 Of the 65 par cipa ng countries, Slovakia ranked 34th in math, 40th in science, and 43rd&#13;
+in reading. The diï¬&#128;erence between Slovakia and the OECD average is widest in reading and narrowest in math,&#13;
+with a diï¬&#128;eren al of 33 points in reading and 13 points in math. Overall, its 15-year-olds performed worse in PISA&#13;
+2012 than all peer countries in the Visegrad group and in the Bal c States (Figure 7), sugges ng that the Slovak&#13;
+educa on community is failing to provide students with adequate skills for their future.&#13;
+&#13;
+Figure 7. PISA scores, all subjects, Slovakia and neighboring countries, 2012&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Source: World Bank staï¬&#128; es mates using PISA data.&#13;
+                                                                                                                                                                  Source: World Bank staï¬&#128; es mates using PISA data. Linear interpola on was used to es mate the PISA 2009 scores given the declining&#13;
+                                                                                                                                                                  performance since 2003 (Panel A).&#13;
+Slovakia has experienced a decline in the three disciplinesâ&#128;&#148;math, reading and scienceâ&#128;&#148;since its inaugural&#13;
+par cipa on in PISA in 2003, if its 2009 performance is excluded.5 The drop in test scores between 2003 and 2012 was                                              Slovakia also saw an increase in the share of innumerate and illiterate students in the 2012 assessment. PISA&#13;
+greater in science (24 points) but was also large in mathema cs (16 points) (Figure 8, panel A). Reading scores remained                                          categorizes scores in six levels of proï¬&#129;ciency; students who score below level 2 in reading and mathema cs&#13;
+about the same, 469 in 2012 and 463 in 20036. While performance declined across almost the en re distribu on in                                                   tests are considered func onally illiterate and innumerate, respec vely. These deï¬&#129;ni ons imply that students&#13;
+mathema cs and the bo om half in reading, low achievers lost more than others. Overall, Slovakiaâ&#128;&#153;s high-achievers                                                 below this level are unable to understand and solve simple problems, severely limi ng their development and&#13;
+increased their performance in reading but decreased in mathema cs and science (Figure 8, panels B and C).                                                        subsequent cogni ve and technical skill acquisi on process.&#13;
+4 While the skills percentages are lower for the Poland data compared to those observed in the original paper of Autor, Levy, and Murnane (for instance, the&#13;
+original ar cle shows about 12 percentage points for non-rou ne cogni ve skills analy cal for the USA, compared with an increase of less than 2 percentage        Figure 9 shows how almost 30 percent of 15-year-olds scored below level two in reading and more than one-&#13;
+points in Poland), the original paper covered 40 years of data (between 1960 and 2000). The data used to construct the Poland analysis covers just eight years,&#13;
+between 2002 and 2010.&#13;
+                                                                                                                                                                  quarter scored this low in math, leaving Slovakia far below the OECD average. In the performance distribu on,&#13;
+5 While the skills percentages are lower for the Poland data compared to those observed in the original paper of Autor, Levy, and Murnane (for instance, the&#13;
+                                                                                                                                                                  between 2003 and 2012 more 15-year-olds shi ed toward levels 1 and 2 than shi ed toward levels 5 and 6.&#13;
+original ar cle shows about 12 percentage points for non-rou ne cogni ve skills analy cal for the USA, compared with an increase of less than 2 percentage&#13;
+points in Poland), the original paper covered 40 years of data (between 1960 and 2000). The data used to construct the Poland analysis covers just eight years,   As such, the gains by high performers in math and science in 2006-12 were negated by the performance declines&#13;
+between 2002 and 2010.&#13;
+6 While the skills percentages are lower for the Poland data compared to those observed in the original paper of Autor, Levy, and Murnane (for instance, the      among low performers widening the performance gap.&#13;
+original ar cle shows about 12 percentage points for non-rou ne cogni ve skills analy cal for the USA, compared with an increase of less than 2 percentage&#13;
+points in Poland), the original paper covered 40 years of data (between 1960 and 2000). The data used to construct the Poland analysis covers just eight years,&#13;
+between 2002 and 2010.&#13;
+&amp;#12;page 24                                                                                                                                                                                                                                                                                                            page 25&#13;
+&#13;
+Figure 9. Distribu on of students by proï¬&#129;ciency level in mathema cs and reading, 2003 and 2012                                                                above comparator countries like Poland and Hungary, but behind others such as Austria, Germany, and the Czech&#13;
+                                                                                                                                                              Republic (Figure 11). This new dimension allows one to analyze performance gaps in compared to the mathema cs&#13;
+                                                                                                                                                              assessment and, given that the delivery mode of the test is computer-based, illustrates the inï¬&#130;uence of computer&#13;
+                                                                                                                                                              skills on rela ve performance in problem solving. Slovakiaâ&#128;&#153;s small varia on of 6 points in this test as compared&#13;
+                                                                                                                                                              to the paper-based math test can be a ributed to other factors related to acquisi on of cogni ve skills and not&#13;
+                                                                                                                                                              to a lack of computer skills. In fact, the delivery mode (computer-based) of the problem-solving test had a slight&#13;
+                                                                                                                                                              posi ve eï¬&#128;ect on performance if it had any eï¬&#128;ect at all.&#13;
+&#13;
+                                                                                                                                                              Figure 11. PISA problem-solving and mathema cs scores, Slovak Republic and regional neighbors, 2012&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Source: PISA 2003 and 2012.&#13;
+&#13;
+In addi on to the decline in aggregate learning outcomes, Slovakia saw an increase in test score inequality.&#13;
+There has been an increased dispersion in the test score distribu on for the three subjects, sugges ng increasing&#13;
+inequali es in learning. For instance, while learning outcomes in reading did not decrease much, the dispersion&#13;
+in scores increased quite a bit. The standard devia on increased from 86 points in 2003 to 101 points in 2012.&#13;
+This makes the reading test score distribu on quite unequal. The dispersion in test scores also increased for&#13;
+mathema cs, although much less than it did for reading, from 90 to 98 points between 2003 and 2012. Inequality&#13;
+for science only marginally increased, remaining broadly at similar levels as in 2003 (the standard devia on was 95&#13;
+points in 2003 and 98 points in 2012) (Figure 10).&#13;
+&#13;
+Figure 10. Standard devia on of PISA scores by discipline, 2003, 2006, and 2012&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                              Source: World Bank staï¬&#128; es ma ons using PISA 2012 data.&#13;
+Source: PISA 2003, 2006, and 2012.&#13;
+&#13;
+In the new PISA problem-solving assessment, the performance of 15-year-olds in Slovakia was above that of&#13;
+their peers in many neighboring countries, although it was below the OECD average. Conducted for the ï¬&#129;rst me&#13;
+in 2012, the new PISA crea ve problem-solving assessment measures the capacity of students to respond to non-&#13;
+rou ne analy cal problems in a digital environment.7 Results in the crea ve problem-solving test place Slovakia&#13;
+7While the skills percentages are lower for the Poland data compared to those observed in the original paper of Autor, Levy, and Murnane (for instance, the   points in Poland), the original paper covered 40 years of data (between 1960 and 2000). The data used to construct the Poland analysis covers just eight years,&#13;
+original ar cle shows about 12 percentage points for non-rou ne cogni ve skills analy cal for the USA, compared with an increase of less than 2 percentage    between 2002 and 2010.&#13;
+&amp;#12;page 26                                                                                                                                                                                                                                                                  page 27&#13;
+&#13;
+Performance in PISA and student background&#13;
+Substan al dispari es in cogni ve skills emerge between students from rich and poor households. PISA allows&#13;
+researchers to assess equity in educa on systems and its rela on to socioeconomic status, because it collects in-&#13;
+forma on on performance and student background characteris cs (Box 2). Two measures are used in this report to&#13;
+examine equity in educa on: (i) How much of the varia on in outcomes can be explained by socioeconomic status&#13;
+and (ii) how much of the inequality in scores can be a ributed to ESCS (measured as the PISA score gap between&#13;
+top and bo om ESCS quin les).8 Figure 12 summarizes the evidence from those two measures. Roughly speaking,&#13;
+one quarter of Slovakiaâ&#128;&#153;s performance variance can be explained by the student ESCS Index, signiï¬&#129;cantly more&#13;
+than for the performance of its regional neighbors (Figure 12, panel A). The diï¬&#128;erence in Slovakiaâ&#128;&#153;s PISA scores in&#13;
+reading and math between its top and bo om ESCS quin les is approximately 150 points â&#128;&#147; the equivalent of al-&#13;
+most four years of schooling (Figure 12, panel B). This dura on is also equivalent to the length of upper-secondary&#13;
+educa on in many countries. Both indicators suggest that a studentâ&#128;&#153;s household characteris cs dispropor onately&#13;
+determine cogni ve skill acquisi on.&#13;
+                                                                                                                                                                  Between 2003 and 2006, the socioeconomic condi ons substan ally improved for the bo om 40 percent of the&#13;
+Figure 12. Equity performance: Slovak Republic, peer countries, and regional neighbors, 2012                                                                      student popula on, while the ESCS condi ons remained mostly the same for the rest of the students. Between&#13;
+                                                                                                                                                                  2006 and 2012, ESCS condi ons remained constant for most of the student popula on (Figure 13, panel A). The&#13;
+                                                                                                                                                                  overall eï¬&#128;ect of changes in the ESCS condi ons between 2003 and 2012 on the student popula on can be seen&#13;
+                                                                                                                                                                  in Figure 13 (panel B). The improved condi ons in socioeconomic status are consistent with the reduced income&#13;
+                                                                                                                                                                  inequality that occurred in Slovakia during this period. In many countries, an improvement of the socioeconomic&#13;
+                                                                                                                                                                  condi ons of the household is associated with an increase in students test scores (OECD, 2012). This is because&#13;
+                                                                                                                                                                  families with higher socioeconomic status are more able to devote more resources or are more mo vated to&#13;
+                                                                                                                                                                  support their childrenâ&#128;&#153;s learning. In fact, many countries work to break this strong link between socioeconomic&#13;
+                                                                                                                                                                  condi ons and student outcomes by building good educa on systems that compensate for diï¬&#128;erent socioeconomic&#13;
+                                                                                                                                                                  condi ons.&#13;
+&#13;
+                                                                                                                                                                  Figure 13. ESCS condi ons and aggregate eï¬&#128;ect, 2003-12&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Source: World Bank staï¬&#128; es mates using PISA 2012 data. Note: The Index of Equality of Opportunity is the percent of the variance in reading&#13;
+scores explained by the main predetermined socioeconomic characteris cs in a linear regression (Ferreira and Gignoux 2011).&#13;
+8While the skills percentages are lower for the Poland data compared to those observed in the original paper of Autor, Levy, and Murnane (for instance, the&#13;
+original ar cle shows about 12 percentage points for non-rou ne cogni ve skills analy cal for the USA, compared with an increase of less than 2 percentage&#13;
+points in Poland), the original paper covered 40 years of data (between 1960 and 2000). The data used to construct the Poland analysis covers just eight years,&#13;
+between 2002 and 2010.&#13;
+&amp;#12;page 28                                                                                                                                                                                                                                                    page 29&#13;
+&#13;
+                                                                                                                                               Students who are 15 years old are distributed among three types of school. Around 43 percent of students&#13;
+                                                                                                                                               remain in basic school, 34 percent a end the secondary voca onal stream (secondary college), and 23 percent&#13;
+                                                                                                                                               a end gymnÃ¡ziums, the general secondary academic stream. The fact that such a high percentage of the sample&#13;
+                                                                                                                                               of students is s ll in basic school can (mostly) be explained by the school entrance criteria. The PISA sample is&#13;
+                                                                                                                                               constructed for 15-year-olds, which for the 2012 assessment consisted of those born in 1996. In Slovakia, this&#13;
+                                                                                                                                               group, as well as earlier and subsequent cohorts, is exogenously divided into two diï¬&#128;erent grades, nine and 10,&#13;
+                                                                                                                                               because school entrance depends on month of birth within the same year. For instance, more than 80 percent&#13;
+                                                                                                                                               of students born before September are able to enroll in basic school, while those born from September onwards&#13;
+                                                                                                                                               have to wait one more year to join basic school. Thus, students who were born before September join either&#13;
+                                                                                                                                               gymnÃ¡ziums or voca onal schools by grade 10; while those who were born later remain in basic school. The&#13;
+Source: World Bank staï¬&#128; es mates using PISA 2012 data.&#13;
+                                                                                                                                               sample of students in basic schools also includes students who repeated grades in addi on to those who were&#13;
+                                                                                                                                               born later in the year.&#13;
+Unfortunately, the socioeconomic improvements in Slovakia did not translate into achievement improvements&#13;
+                                                                                                                                               There are signiï¬&#129;cant performance diï¬&#128;erences by school types. The diï¬&#128;erence in performance between students&#13;
+in PISA scores.9 In fact, between 2003 and 2012, students from the lowest socioeconomic quin le, as well as&#13;
+                                                                                                                                               in gymnÃ¡ziums and those in voca onal schools (secondary college) is par cularly striking, accoun ng for almost&#13;
+those from third and fourth quin les experienced larger performance declines than their peers in other quin les.&#13;
+                                                                                                                                               three years of schooling. Figure 15 (panel A) illustrates the diï¬&#128;erences in performance across the three streams.&#13;
+The largest drop in scores was in science, followed by math (Figure 14). Students belonging to the bo om&#13;
+                                                                                                                                               As seen in Figure 15 (panel B), social stra ï¬&#129;ca on plays an important role, with many students from the richer&#13;
+socioeconomic quin le experienced severe declines in scoresâ&#128;&#148;by 30 points in science, 20 points in math, and 15&#13;
+                                                                                                                                               socioeconomic strata a ending gymnÃ¡ziums, while less aï¬&#132;uent students go to voca onal schools (secondary&#13;
+points in reading. In contrast, reading performance showed more varia on, as it did not decline for all students.&#13;
+                                                                                                                                               colleges). In addi on, the diï¬&#128;erence between gymnÃ¡ziums and basic schools performance is as great as the&#13;
+For instance, students from the top socioeconomic quin le improved their reading scores by 9 points during the&#13;
+                                                                                                                                               diï¬&#128;erence in performance between gymnÃ¡ziums and voca onal schools (secondary colleges).&#13;
+period, while performance in reading decreased for the lowest socioeconomic quin le by more than 20 points.&#13;
+Performance also decreased for students who spoke Romani at home, which, for the most part, characterized the                                  Figure 15. PISA performance and socioeconomic composi on of school type, 2012&#13;
+more socioeconomically disadvantaged households.&#13;
+&#13;
+Figure 14. Diï¬&#128;erence between 2012 and 2003 PISA performance, by ESCS and subject&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                               Source: World Bank staï¬&#128; es mates using PISA 2012 data.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Source: World Bank staï¬&#128; es mates using PISA 2012 data.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+9   The parameter rela ng socioeconomic status with learning outcomes in the produc on func on was zero, as it was sta s cally insigniï¬&#129;cant.&#13;
+&amp;#12;page 30                                                                                                                                                                                        page 31&#13;
+&#13;
+Between-school varia ons in test results are much stronger than within-school diï¬&#128;erences, sugges ng an                 Figure 17. Urban-rural performance gaps in PISA, 2003-12&#13;
+inequitable school system. The varia on in performance between schools is a measure of how big the â&#128;&#156;school&#13;
+eï¬&#128;ectsâ&#128;&#157; are, and they are closely related to how students are allocated or selected into schools. It can be argued&#13;
+that the lower the between-school variance, the more equitable the educa on system is. Between-school&#13;
+diï¬&#128;erences in mathema cs performance in 2012 accounted for close to 60 percent of the varia on in student&#13;
+performance in Slovakia. This is signiï¬&#129;cantly above the OECD average (see Figure 16) and that of neighboring&#13;
+countries such as Czech Republic, Germany, and Bulgaria. This reinforces the point that the school that students&#13;
+a end predicts their learning outcomes (OECD, 2014b).&#13;
+Figure 16. Varia on in PISA student mathematucs performance between and within schools, Slovakia and&#13;
+regional neighbors, 2012&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Source: OECD (2014b)&#13;
+&#13;
+PISA performance also varies across urban and rural loca ons as well as by regions in Slovakia. First, there is a&#13;
+clear urban-rural gap in student achievement that has increased over the years (Figure 17, panel A). The urban-&#13;
+rural gap in Slovakia is among the largest in the region and larger than that in countries such as Slovenia, Latvia,&#13;
+Romania, and Poland. About 95 percent of students in the PISA 2012 sample who speak Romani at home live in&#13;
+rural areas; and over 80 percent belong to the bo om quin le (see also Box 3). Second, while in urban areas PISA&#13;
+mathema cs performance decreased marginally (by less than 10 points) among low achievers and increased for&#13;
+the top achievers, in rural areas it dropped substan ally for both middle and low achievers (Figure 17, panel B).&#13;
+Third, performance in 2012 varied signiï¬&#129;cantly across Slovak regions (Figure 17, panel C).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                       Source: World Bank staï¬&#128; es mates using PISA 2003, 2006 and 2012 data.&#13;
+&amp;#12;page 32                                                                                                                                                                                                                                                                                    page 33&#13;
+&#13;
+                                                                                                                                                             Figure 18. Decomposi on of changes in PISA reading scores between 2003 and 2012 into factors and by student&#13;
+                                                                                                                                                             achievement group&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                             Source: World Bank staï¬&#128; calcula ons based on PISA 2003 and 2012 data.&#13;
+&#13;
+                                                                                                                                                             Note: Results decomposi on was done using an Oaxaca-Blinder method on RIF-regressions for each quin le of the distribu on of&#13;
+                                                                                                                                                             performance (Firpo, For n, and Lemieux, 2009). Low, middle, and high achievers are students in the 20th, 50th, and 80th percen le,&#13;
+                                                                                                                                                             respec vely.11 The teacher par cipa on index measures the degree of par cipa on that teachers have in school decision-making (OECD,&#13;
+                                                                                                                                                             2005). Note that when decomposing diï¬&#128;erences, one explanatory factor is o en found to be nega ve or higher than the actual diï¬&#128;erence,&#13;
+                                                                                                                                                             meaning that other factors outweighed its impact. For more informa on, see Annex 2, Table A2.&#13;
+&#13;
+Understanding drivers of performance decline                                                                                                                 Repetition Rates&#13;
+Decomposing the aggregate performance change by student type allows one to examine changes in underlying                                                     While grade repe on has not been common in Slovakia, it seems to be on the rise and is associated with&#13;
+factors.10 As shown in Figure 8 (panel B), PISA reading scores declined at the bo om of the performance                                                      student performance. There was a signiï¬&#129;cant increase in the repe on rate reported by students in Slovakia&#13;
+distribu on, while they increased at the top. Figure 18 depicts the actual performance gap between 2012 and                                                  between 2003 and 2012, from 2.5 percent to 7.6 percent (OECD, 2013c). Most aï¬&#128;ected are students who belong&#13;
+2003 as well as factors that contributed to the changes in reading test scores between those years by diï¬&#128;erent                                               to the bo om ESCS quin le. In 2003, for example, 9 percent of students who belonged to the bo om quin le&#13;
+performance groups (low, middle, and high achievers). The analysis shows that while socioeconomic peer eï¬&#128;ects                                                were repeaters, but by 2012 that number had increased to 25 percent. This contrasts with an overall drop in grade&#13;
+(measured with the average ESCS at the school level) had a small and posi ve impact on scores between 2003                                                   repe on among OECD countries during the same period. The gap between repeaters and non-repeaters is the&#13;
+and 2012, the gains were oï¬&#128;set by repe on, quality of educa onal resources, a higher propor on of minority                                                   largest in the OECD.&#13;
+students and students speaking a diï¬&#128;erent language at home than Slovak. Low achievers (students in the 20th&#13;
+percen le of the reading distribu on) are the most aï¬&#128;ected by these factors. In contrast, high achievers (those&#13;
+                                                                                                                                                             Social School StratiÏ&#144;ication&#13;
+                                                                                                                                                             Slovakia has high levels of social school stra ï¬&#129;ca on. Social school stra ï¬&#129;ca on is measured with an index that&#13;
+belonging to the 80th percen le) substan ally beneï¬&#129;ted from peer eï¬&#128;ects, while the inï¬&#130;uence of repe on or&#13;
+                                                                                                                                                             represents the correla on between the PISA studentâ&#128;&#153;s socioeconomic status and the schoolâ&#128;&#153;s average socioeconomic&#13;
+other diï¬&#128;eren a on policies was minor. In mathema cs and science these factors are also sta s cally signiï¬&#129;cant&#13;
+                                                                                                                                                             status. The index runs from zero to 1. Countries without any social stra ï¬&#129;ca on, where children from diï¬&#128;erent&#13;
+but with much smaller impact, with most of the decline remaining unexplained.&#13;
+                                                                                                                                                             socioeconomic backgrounds were studying together in all schools, would have a value of zero in the stra ï¬&#129;ca on&#13;
+                                                                                                                                                             index. In such a case, the schools would exactly reï¬&#130;ect the diversity of the society. For the most part, countries that&#13;
+10 The analysis in this sec on is based on a two-fold Oaxacaâ&#128;&#147;Blinder (OB) decomposi on analysis based on a tradi onal educa on produc on func on. The        perform be er in PISA have low levels of social school stra ï¬&#129;ca on (Figure 19 ). In fact, there are only a handful&#13;
+variables used in the analysis include age, gender, ESCS student, ESCS school (peer-eï¬&#128;ects), grade, quality of educa onal resources (index), % of minority&#13;
+students at school, Romani speaker (dummy), and repe on (dummy). Further, the Firpo, For n, and Lemieux (2009) methodology allows one to apply the           of countries, like Germany or Austria, which perform above the OECD average and also have high levels of social&#13;
+OB decomposi on to the 20th and 80th percen le observa ons, and not just to the means alone (see Annex 2).&#13;
+                                                                                                                                                             stra ï¬&#129;ca on. Social stra ï¬&#129;ca on in Slovakia has marginally increased from 0.58 in 2003 to 0.63 in 2012.&#13;
+&amp;#12;page 34                                                                                                                                                                                                                                                                        page 35&#13;
+&#13;
+Figure 19. Social stra ï¬&#129;ca on: PISA math scores by degree of school stra ï¬&#129;ca on, Slovak Republic and PISA                                     Figure 20. Simulated PISA mathema cs gains (Slovakia) based on emula on of other na onsâ&#128;&#153; social stra ï¬&#129;ca on&#13;
+countries worldwide                                                                                                                           indices&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                              Source: World Bank staï¬&#128; calcula ons using PISA 2012 data.&#13;
+&#13;
+                                                                                                                                              Note: The simulated mathema cs gains here represent the expected scores for Slovakia if its social stra ï¬&#129;ca on were reduced to the levels&#13;
+                                                                                                                                              of each of the countries shown. Gains are based on a cross-country linear regression.&#13;
+Source: World Bank staï¬&#128; es mates using PISA 2012 data. Note: PISA mathema cs scores on ver cal axis. Index of School Social Stra ï¬&#129;ca on&#13;
+on horizontal axis. The index ranges from 0 to 1. A higher index indicates a higher correla on between studentsâ&#128;&#153; and schoolsâ&#128;&#153; socioeconomic   Slovakiaâ&#128;&#153;s educa on system selects students between general and voca onal tracks at a young age. While&#13;
+status. OECD mathema cs score average 500 points. OECD average Index of School Social Stra ï¬&#129;ca on is 0.525.                                   most students get selected into diï¬&#128;erent types of school at age 15, the system also allows for an earlier selec on&#13;
+                                                                                                                                              of students, star ng from age 11, into gymnasiums (Figure 21). Interna onal evidence suggests that such early&#13;
+Reducing social stra ï¬&#129;ca on could raise performance. Social stra ï¬&#129;ca on heavily depends on parental decisions&#13;
+                                                                                                                                              tracking has a nega ve impact on equity and does not improve average performance. Hanushek and Woessman&#13;
+and on policies governing the selec on of students into diï¬&#128;erent educa on tracks. Simula ons using the 2012 PISA&#13;
+                                                                                                                                              (2006) used previous PISA data to show how early tracking systems lead to a systema c increase in inequality of&#13;
+data suggest that PISA scores could increase if the level of social segrega on were reduced to match that of some&#13;
+                                                                                                                                              student performance without aï¬&#128;ec ng average performance levels. At the na onal level, similar evidence has&#13;
+comparator countries (Figure 20.) For instance, PISA mathema cs scores in Slovakia would be almost 40 points&#13;
+                                                                                                                                              been found in Poland (see Jakubowski et al., 2010) and Germany (Piopiunik, 2013). The ï¬&#129;ndings suggest that no&#13;
+higher â&#128;&#147; the equivalent of one year of schooling â&#128;&#147; if its school social stra ï¬&#129;ca on levels were like those in Finland.&#13;
+                                                                                                                                              eï¬&#131;ciency is gained by streaming students early and that, in fact, delayed tracking can promote be er performance&#13;
+                                                                                                                                              among all students.&#13;
+&amp;#12;page 36                                                                                                                                                                                                                                                                                          page 37&#13;
+&#13;
+Figure 21. Age of ï¬&#129;rst selec on between general and voca onal tracks, Slovakia and PISA countries worldwide                                                     Figure 22. PISA mathema cs scores by ESCS index and school type, 2012&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                                Source: World Bank Staï¬&#128; es mates using PISA 2012 data.&#13;
+Source: OECD (2010a)&#13;
+                                                                                                                                                                Note: 40 points is the equivalent to what an average students learns in a school year. OECD averages of ESCS index and PISA mathema cs&#13;
+                                                                                                                                                                score are 0 and 500, respec vely. The ESCS school average is calculated by compu ng the weighted average of studentâ&#128;&#153;s ESCS at each school.&#13;
+The overall message from the analysis is that educa on in Slovakia does not act as an engine of social mobility,                                                Secondary college refers to voca onal secondary school.&#13;
+but appears to further deepen socioeconomic disadvantage. There are three key messages that emerge from&#13;
+this analysis. First, performance in PISA varies signiï¬&#129;cantly by the studentâ&#128;&#153;s socioeconomic background. Second,&#13;
+performance varies by type of school. Third, 15-year-olds from socioeconomically disadvantaged backgrounds are&#13;
+dispropor onately represented in voca onal schools and voca onal secondary schools (or indeed are s ll in basic&#13;
+schools, where aggregate performance is signiï¬&#129;cantly lower than that in general secondary schools12). Figure 22&#13;
+summarizes the above evidence in a single picture showing how students from diï¬&#128;erent socioeconomic strata&#13;
+distribute into diï¬&#128;erent educa onal tracks and achieve widely diï¬&#128;ering levels of cogni ve skills as measured by&#13;
+PISA.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+12 In Slovakia, the 15-year-old group is divided into two diï¬&#128;erent grades, 9 and 10, exogenously. This is because the school entrance depends on the month of&#13;
+birth. The majority of students who were born September onwards are s ll enrolled in basic schools (although students who are repea ng grade enter in this&#13;
+group too), while those who were born on or before August have already selected between diï¬&#128;erent types of schools. Tracking takes place between grades 9&#13;
+and 10.&#13;
+&amp;#12;page 38                         page 39&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+          Chapter 3&#13;
+          Policy Implications&#13;
+&amp;#12;page 40                                                                                                                                                                                                                           page 41&#13;
+&#13;
+Policy Implications                                                                                                    delaying the age of selec on of students into voca onal and general tracks, for example un l a er the end of&#13;
+Slovakia is facing the dual challenge of a fast aging and shrinking popula on and signiï¬&#129;cant cogni ve skill            compulsory educa on, may promote quality and equity. The example of Poland is instruc ve: Poland delayed the&#13;
+shortages among many youth. The principal response to ensure growth and convergence in mes of demographic              selec on into voca onal and general tracks by one year un l the age of 15 as part of its comprehensive educa on&#13;
+decline is to raise produc vity. Doing this requires raising the skills base of the popula on. Yet Slovakia is not     reform package in 2000, thereby extending all studentsâ&#128;&#153; exposure to general curriculum content. Poland has seen&#13;
+doing as well as it needs to in equipping all its youth for produc ve employment along longer working lives. It        signiï¬&#129;cant improvements in both aggregate PISA scores and equity indicators since then (Jakubowski et al., 2010).&#13;
+is already experiencing the nega ve consequences, evident in the rela vely high share of its youth who are not         Moreover, the incen ves that schools are faced with in Slovakia need to be reviewed. For instance, given the high&#13;
+in employment, educa on or training (NEET), a share that was measured in 2013 as 13.7 percent of its 15- to            degree of decentraliza on in admission decision-making, schools appear to have incen ves to select students&#13;
+24- year-olds (Eurostat data). A principal challenge in skilling up its next genera on is to reduce the impact of      based either on socioeconomic or ability characteris cs, reinforcing peer eï¬&#128;ects and reducing school eï¬&#128;ort.&#13;
+socioeconomic disadvantage on access to quality educa on and on learning outcomes.&#13;
+                                                                                                                       Raise the quality of educa on in voca onal secondary schools. PISA scores in voca onal schools signiï¬&#129;cantly&#13;
+Addressing equity issues in educa on is crucial for reducing poverty, boos ng shared prosperity, and fostering         lag those in gymnasiums. While some of these diï¬&#128;erences may be expected, the gap in performance between&#13;
+sustained economic growth and convergence in living standards. In the case of Slovakia, studentsâ&#128;&#153; improved             students in gymnasiums and those in voca onal and basic schools is unacceptably large, the equivalent of mul ple&#13;
+socioeconomic condi ons of students, par cularly among those at the bo om of the ESCS distribu on, do not              years of schooling. It raises the ques on whether the curriculum in voca onal schools devotes suï¬&#131;cient a en on&#13;
+appear be associated with improved test scores. In fact, the data show a decline in student performance since          to general, cogni ve content and whether teachers are equipped with the tools to impart those skills eï¬&#128;ec vely&#13;
+2003. While household socioeconomic condi ons are important for student achievement, so are many other                 to students who need addi onal support. If the voca onal curriculum and teachers are not so equipped, there is a&#13;
+policies in the educa on system. It is important to note that since the PISA test is conducted at age 15, most         need to increase educa onal quality in these schools, even if, as recommended in this report, the age of selec on&#13;
+students taking it are in their ï¬&#129;rst year of secondary educa on, sugges ng that not all of their varying performance   between voca onal and general secondary schools is raised.&#13;
+can be a ributed to the type of secondary school they a end. However, the analysis also points toward the fact&#13;
+                                                                                                                       Reconsider repe on as a diï¬&#128;eren a on policy. With an increased body of evidence showing the failure of&#13;
+that, for reasons not captured by the PISA data (and sugges ng the need for more analysis of socioeconomic&#13;
+                                                                                                                       reten on, many OECD countries are either banning or reducing repe on in schools. However, this is not the&#13;
+stra ï¬&#129;ca on of schools in basic educa on), students get selected into diï¬&#128;erent tracks in such a way that enrolment&#13;
+                                                                                                                       case in Slovakia, where repe on by 15-year-olds has increased from 2 percent to 7 percent in the last decade.&#13;
+and performance across secondary school types is stra ï¬&#129;ed along socioeconomic background lines. This suggests&#13;
+                                                                                                                       Moreover, repe on is dispropor onately common among the most vulnerable students. This report shows that&#13;
+that factors related to school segrega on based on socioeconomic condi ons, even during basic educa on,&#13;
+                                                                                                                       an increase in repe on is associated with a decline in performance, especially among low-achieving students.&#13;
+and repe on rates all play a role in aggregate performance and the inequity in outcomes. Moreover, recent&#13;
+                                                                                                                       Thus, it is appropriate to explore in more detail the causes of the increasing repe on rates and measures that&#13;
+evidence (Å iÅ¡koviÄ&#141; &amp; Toman, 2015) also suggest that the increase in schoolsâ&#128;&#153; selec vity may be an important factor&#13;
+                                                                                                                       could help address those causes.&#13;
+contribu ng to school segrega on that would beneï¬&#129;t from examina on in more detail.&#13;
+&#13;
+This report suggest recommenda ons to help Slovakia increase its quality of educa on and to make the system            Promoting access to quality early childhood education&#13;
+more equitable. The recommenda ons proposed below rely on the analy cal ï¬&#129;ndings of this note as well as                Expand access to quality preschool educa on. Expanding access to preschool can help improve the opportuni es&#13;
+interna onal experience. Given that public spending on educa on in Slovakia is low rela ve to the OECD spending        of children from disadvantaged backgrounds. Global evidence shows that providing quality preschool educa on is&#13;
+average, there appears to be some ï¬&#129;scal space to make investments in quality and equity-enhancing policies.            important for promo ng childrenâ&#128;&#153;s social, emo onal, physical, and cogni ve development; it also increases school&#13;
+                                                                                                                       readiness, which helps learning (Heckman and LaFontaine 2010; Heckman 2008; Engle et al. 2011). Cogni ve skills&#13;
+Promoting quality and equity in the education system&#13;
+                                                                                                                       gaps start opening during early life, and inequali es in access to early childhood perpetuate learning gaps. Given&#13;
+To ensure greater equity in Slovakiaâ&#128;&#153;s educa on system, coordinated policies need to be introduced to promote&#13;
+                                                                                                                       that a endance in early childhood programs is correlated with higher educa onal a ainment and higher socio-&#13;
+inclusiveness and quality for the most vulnerable within the system. These measures should be coupled&#13;
+                                                                                                                       emo onal skills, policies to improve access to and the quality of early childhood educa on in Slovakia would help&#13;
+with adequate monitoring and accountability mechanisms that prevent local policies of any type from causing&#13;
+                                                                                                                       improve the skills for new labor market entrants, transla ng into higher human capital and produc vity and likely&#13;
+segrega on at the school or classroom level to proliferate. Raising the quality of educa on for all can be achieved&#13;
+                                                                                                                       contribu ng to an overall reduc on in learning inequality.&#13;
+through three channels: (i) by delaying the selec on of students between voca onal and general educa on tracks,&#13;
+(ii) by raising the quality of educa on in voca onal and voca onal secondary schools, and (iii) by reconsidering       While general access to preschool educa on is rela vely high in Slovakia--over 80 percent of the students in the&#13;
+policies related to repe on.                                                                                           PISA sample had more than one year of pre-primary educa on--inequali es in access remain. For instance, only&#13;
+                                                                                                                       68 of students who belong to the bo om quan le a ended more than one year of preschool educa on, compared&#13;
+Delay the age of selec on of students into voca onal and general tracks. Interna onal evidence suggests that&#13;
+&amp;#12;page 42                                                                                                                             page 43&#13;
+&#13;
+with 89 percent of those in the top quin le. About 14 percent of students belonging to the bo om quin le never&#13;
+a ended preschool, compared with only 2 percent of students in the top quin le. An analysis of determinants of&#13;
+student achievement does not show preschool educa on as a sta s cally signiï¬&#129;cant variable. This can have many&#13;
+causes, including the possible lack of quality of the preschool services oï¬&#128;ered when students a ended these&#13;
+programs during the late 1990s and early 2000s. However, evidence does show that Roma children who completed&#13;
+ECD are less likely to be enrolled in special schools (by about 7 percent) and are more likely to complete secondary&#13;
+school and less likely to be on social assistance (World Bank, 2012). Universal preschool educa on for children&#13;
+aged 3â&#128;&#147;5 in Slovakia would provide a great opportunity to eï¬&#128;ec vely narrow the skills gap from the early stages of&#13;
+childrenâ&#128;&#153;s lives.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                       References&#13;
+                                                                                                                       Annex&#13;
+&amp;#12;page 44                                                                                                                                                                                                                             page 45&#13;
+&#13;
+References                                                                                                               Hanushek, E. 2013. â&#128;&#156;Economic Growth in Developing Countries: The Role of Human Capital.â&#128;&#157; Economics of&#13;
+                                                                                                                         EducaÆ&#159;on Review, vol. 37: 204 â&#128;&#147; 12.&#13;
+Amermueller, A. 2004. â&#128;&#156;PISA: What Makes the Diï¬&#128;erence? Explaining the Gap in Pisa Test Scores Between Finland&#13;
+and Germany.â&#128;&#157; Discussion Paper No. 04-004, ZEW Center for European Economic Research, Mannheim, Germany.                 Hanushek, E., and L. Woessmann. 2006. â&#128;&#156;Does Educa onal Tracking Aï¬&#128;ect Performance and Inequality?&#13;
+                                                                                                                         Diï¬&#128;erences-in-Diï¬&#128;erences Evidence Across Countries.â&#128;&#157; The Economic Journal, vol. 116, no. 510: C63-C76.&#13;
+Autor, D., F. Levy, and R. Murnane. 2003. The Skill Content of Recent Technological Change: An Empirical&#13;
+Explora on. Quarterly Journal of Economics, 118(4), November 2003, 1279-1334.                                            Hanushek, E., and L. Woessmann. 2007. â&#128;&#156;The Role of Educa on Quality in Economic Growth.â&#128;&#157; Policy Research&#13;
+                                                                                                                         Working Paper 4122. Washington, DC: World Bank.&#13;
+Barro, R., and J. Lee. 2013. â&#128;&#156;A New Data Set of Educa onal A ainment in the World, 1950-2010.â&#128;&#157; Journal of&#13;
+Development Economics, vol. 104: 184 â&#128;&#147; 98.                                                                               Hanushek, E., and L. Woessmann L. 2012. â&#128;&#156;Do Be er Schools Lead To More Growth? Cogni ve Skills, Economic&#13;
+                                                                                                                         Outcomes, and Causa on.â&#128;&#157; Journal of Economic Growth, vol. 17: 267-321.&#13;
+Barrera-Osorio, F., V. Garcia-Moreno, H. A. Patrinos, and E. Porta. 2011. â&#128;&#156;Using the Oaxaca-Blinder Decomposi on&#13;
+Technique to Analyze Learning Outcomes Changes Over Time: An Applica on to Indonesiaâ&#128;&#153;s Results in PISA Math.â&#128;&#157;            Hanushek, E., G. Schwerdt, S. Wiederhold, and L. Woessmann. 2013. â&#128;&#156;Returns to Skills Around the World: Evidence&#13;
+Working Paper 5584. Washington, DC: World Bank.                                                                          From PIAAC.â&#128;&#157; Working Paper 199762. Cambridge, Mass.: Na onal Bureau of Economic Research.&#13;
+&#13;
+Bloom, N., Lemos, R., Sadun, R., and J., Van Reenen. 2014. â&#128;&#156;Does Management Ma er in School?â&#128;&#157; Na onal Bureau             Heckman, J. 2008. â&#128;&#156;Schools, skills, and synapsesâ&#128;&#157;. Economic Inquiry, 46(3): 289-32.&#13;
+of Economic Research (NBER) Working Paper.&#13;
+                                                                                                                         Heckman, J., &amp; LaFontaine. 2010. â&#128;&#156;The American High School Gradua on Rate: Trends and Levelsâ&#128;&#157;. Review of&#13;
+Bodewig, C. and R. Badiani Magnusson. 2014. â&#128;&#156;Skilling Up Vietnam: Preparing the Workforce for a Modern Market            Economics and StaÆ&#159;sÆ&#159;cs, 92(2): 244â&#128;&#147;262, (2010).&#13;
+Economy.â&#128;&#157; Direc ons in Development Series. Washington, DC: World Bank.&#13;
+                                                                                                                         Jakubowski, M., H. A. Patrinos, E. E. Porta, and j. Wisniewski. 2010. â&#128;&#156;The Impact of the 1999 Educa on Reform in&#13;
+Bussolo, M. and L. F. Lopez-Calva. 2014. â&#128;&#156;Shared Prosperity: Paving the Way in Europe and Central Asia.â&#128;&#157;                 Poland.â&#128;&#157; Policy Research Working Paper 5263. Washington DC: World Bank.&#13;
+Washington, DC: The World Bank.&#13;
+                                                                                                                         Kahn, L. B. 2010. â&#128;&#156;The Long-Term Labor Market Consequences of Gradua ng from College in a Bad&#13;
+Engle, p. Fernald, L., Alderman, H., Behrman, J., Oâ&#128;&#153;Gara, C., Yousafzai, A., Cabral de Mello, M., Hidrobo, M., Ulkuer,   Economy.â&#128;&#157; Labour Economics, 17: 303 - 16.&#13;
+N., Ertem, I., Iltus, S., &amp; Global Child Development Steering Group. 2011. â&#128;&#156;Strategies for Reducing Inequali es and&#13;
+                                                                                                                         OECD. 2005. PISA 2003 Technical Report. Paris.&#13;
+Improving Developmental Outcomes for Young Children in Low-Income and Middle-Income Countriesâ&#128;&#157;. The Lancet,&#13;
+October (Vol. 378, Issue 9799, Pages 1339-1353). DOI: 10.1016/S0140-6736(11)60889-1.                                     OECD. 2010. â&#128;&#156;The High Cost of low Educa onal Performance: The Long-Run Impact of Improving PISA Outcomes.â&#128;&#157;&#13;
+                                                                                                                         OECD Publishing. Retrieved May 12, 2015 from h p://www.oecd.org/pisa/44417824.pdf&#13;
+Eurostat: Regional Sta s cs. 2011. Retrieved July 2015 from h p://ec.europa.eu/eurostat/&#13;
+                                                                                                                         OECD. 2011. â&#128;&#156;PISA 2009 Results: Learning to Learn,â&#128;&#157; vol. 3. Paris.&#13;
+Ferreira, H. G., and J. Gignoux. 2011. â&#128;&#156;The Measurement of Educa onal Inequality: Achievement and Opportunity.â&#128;&#157;&#13;
+IZA Discussion Paper No. 6161.                                                                                           OECD. 2012. â&#128;&#156;PISA 2009 Technical Report.â&#128;&#157; Paris. Retrieved April 10, 2014 from h p://www.oecd.org/pisa/&#13;
+                                                                                                                         pisaproducts/50036771.pdf&#13;
+Firpo, S., N. For n, and T. Lemieux. 2009. â&#128;&#156;Uncondi onal Quan le Regressions.â&#128;&#157; Econometrica, vol. 7, no 3: 953 â&#128;&#147;&#13;
+73.                                                                                                                      OECD. 2014a. â&#128;&#156;PISA 2012 Results: What Students Know and Can Do,â&#128;&#157; vol. 1. Paris. Retrieved April 10, 2014 from&#13;
+                                                                                                                         h p://www.oecd.org/pisa/keyï¬&#129;ndings/pisa-2012-results-volume-I.pdf&#13;
+Gregg and Tominey, 2005. â&#128;&#156;The Wage Scar from Male Youth Unemploymentâ&#128;&#157;. Labour Economics. 12: 87-509.&#13;
+                                                                                                                         OECD. 2014b. â&#128;&#156;PISA 2012 Results: Excellence Through Equity,â&#128;&#157; vol. 2. Paris.&#13;
+Hanushek, E. 2010. â&#128;&#156;The High Cost of Low Educa onal Performance. The long-run economic impact of improving&#13;
+PISA outcomes.â&#128;&#157; OECD Publica ons.                                                                                        OECD. 2014c. â&#128;&#156;PISA 2012 Results: Crea ve Problem Solving,â&#128;&#157; vol. 5. Paris.&#13;
+&#13;
+Hanushek, E. 2009. â&#128;&#156;School Policy: Implica ons of Recent Research for Human Capital Investments in South Asia            OECD. 2014d. â&#128;&#156;Reviews of Evalua on and Assessment in Educa on.â&#128;&#157; Paris.&#13;
+and Other Developing Countries.â&#128;&#157; EducaÆ&#159;on Economics, vol. 17, no. 3: 291 - 313.&#13;
+                                                                                                                         OECD. 2014e. â&#128;&#156;TALIS 2013 Results: An Interna onal Perspec ve on Teaching and Learning.â&#128;&#157; Paris.&#13;
+&amp;#12;page 46                                                                                                                                                                                                                                        page 47&#13;
+&#13;
+OECD. 2015a. Universal Basic Skills: What Countries Stand to Gain. Paris.                                           Annex 1: Education attainment across years&#13;
+Å iÅ¡koviÄ&#141;, M., &amp; J. Toman. 2015. â&#128;&#156;OECD Review of Policies to Improve the Eï¬&#128;ec veness of Resource Use in Schools.&#13;
+Country Background Report for the Slovak Republic.â&#128;&#157; Educa onal Policy Ins tute, Ministry of Educa on, Science,&#13;
+Research and Sport of the Slovak Republic.                                                                          Table A1. Percent of popula on aged 15+ by highest level of schooling a ained and average years of schooling in&#13;
+                                                                                                                                                             Slovak Republic, 1990-2010&#13;
+Piopiunik, M. 2013. â&#128;&#156;The Eï¬&#128;ects of Early Tracking on Student Performance: Evidence from a School Reform in&#13;
+Bavariaâ&#128;&#157;, Ifo Working Paper No. 153. Munich: Germany.                                                                                               Highest level a ained                                 Average Years of Schooling&#13;
+                                                                                                                      Year            Primary            Secondary                  Ter ary&#13;
+                                                                                                                                                                                                  Total    Primary    Secondary    Ter ary&#13;
+Patrinos, H., Garcia-Moreno, V., &amp; De Hoyos, R. 2015. â&#128;&#156;The Impact of an Accountability Interven on with                       Total     Completed    Total   Completed      Total     Completed&#13;
+Diagnos c Feedback. Evidence from Mexicoâ&#128;&#157;. Policy Research Working Paper, no. 7393. Washington, DC: World            1990     38.2         28.9      52.3       32.6        7.9          4.0      10.69        8.44         2.01        0.24&#13;
+Bank.                                                                                                                1995     28.4         22.2      59.5       38.4        10.3         5.0      11.24        8.56         2.37        0.31&#13;
+                                                                                                                     2000     27.5         21.7      60.8       42.6        9.7          4.7      11.20        8.46         2.46        0.29&#13;
+Sala-i-Mar n, X., G. Doppelhofer, and R. I. Miller. 2004. â&#128;&#156;Determinants of Long-Term Growth: A Bayesian Averaging    2005     9.4          7.5       74.3       55.7        15.2         7.3      12.22        8.27         3.50        0.45&#13;
+of Classical Es mates (BACE) Approach.â&#128;&#157; American Economic Review vol. 94, no. 4: 813â&#128;&#147;35.                             2010     1.3          1.0       80.1       61.8        18.3         8.8      12.82        8.04         4.24        0.54&#13;
+                                                                                                                    Source: Barro-Lee Dataset (2012).&#13;
+Schmillen, A., and M. Umkehrer. 2013. â&#128;&#156;The Scars of Youth: Eï¬&#128;ects of Early-Career Unemployment on Future&#13;
+Unemployment Experience.â&#128;&#157; IAB Discussion Paper No. 6/2013.&#13;
+&#13;
+Shewbridge, C., et al. 2014.â&#128;&#157; OECD Reviews of Evalua on and Assessment in Educa on: Slovak Republic 2014.â&#128;&#157;          Annex 2. Decomposition methodology&#13;
+OECD Publishing. h p://dx.doi.org/10.1787/9789264117044-en&#13;
+                                                                                                                    The analy cal approach used in this report is based on the Firpo, For n, and Lemieux (2009) methodology.&#13;
+Sondergaard, L. and M. Murthi. 2011. Skills Not Just Diplomas. World Bank, Washington DC.                           Typically, the literature on decomposi on of student scores in PISA through groups (Amermueller, 2004) and years&#13;
+                                                                                                                    (Barrera et al., 2011) has focused on the mean diï¬&#128;erences, with li le a en on to what happens at the tails of the&#13;
+United Na ons Educa onal, Scien ï¬&#129;c, and Cultural Organiza on (UNESCO). 2015. Slovakia Country Proï¬&#129;le. UNESCO&#13;
+                                                                                                                    distribu on. The Firpo, For n, and Lemieux (FFL) method allows one to decompose gaps in student performance&#13;
+Ins tute for Sta s cs (UIS). Montreal.&#13;
+                                                                                                                    not only for the mean but also for other sta s cs of the distribu on. Tradi onally, the problem with quan le&#13;
+Willms, J. D. 2006. â&#128;&#156;Learning Divides: Ten Policy Ques ons about the Performance and Equity of Schools and          regressions has been that the law of iterated expecta ons does not apply, thus making it impossible to interpret&#13;
+Schooling Systems.â&#128;&#157; UNESCO Ins tute for Sta s cs Working Paper.                                                     the uncondi onal marginal eï¬&#128;ect of each independent variable on a studentâ&#128;&#153;s performance. However, recent&#13;
+                                                                                                                    econometric techniques, such as the one proposed by FFL, have solved this methodological diï¬&#131;culty. The FFL&#13;
+World Bank. 2012. â&#128;&#156;Diagnos cs and Policy Advice on the Integra on of Roma in the Slovak Republic.â&#128;&#157; Washington,      technique is based on the construc on of re-centered inï¬&#130;uence func ons (RIF) of a quan le of interest      as a&#13;
+DC: World Bank.                                                                                                     dependent variable in a regression:&#13;
+&#13;
+World Bank. 2007. â&#128;&#156;Educa on Quality and Economic Growth.â&#128;&#157; Washington, DC: World Bank.                                                                                                                                                  (1)&#13;
+&#13;
+                                                                                                                    where is an indicator func on and             is the density of the marginal distribu on of scores. A crucial&#13;
+                                                                                                                    characteris c of this technique is that it provides a simple way of interpre ng the marginal impact of an addi onal&#13;
+                                                                                                                    unit of a certain factor on studentsâ&#128;&#153; PISA scores. Once the uncondi onal quan le regression has been computed for&#13;
+                                                                                                                    diï¬&#128;erent quan les of the distribu on, the results can be decomposed following the Oaxaca-Blinder approach.&#13;
+&amp;#12;page 48                                                                                   page 49&#13;
+&#13;
+Table 2A. Decomposi on of reading score gaps between 2012 and 2003&#13;
+&#13;
+                                           by student achievement group&#13;
+&#13;
+                                        Percen le 20    Percen le 50      Percen le 80&#13;
+VARIABLES                               Low Achiever   Middle Achiever    High Achiever&#13;
+&#13;
+&#13;
+Year 2012                                378.4***         473.1***          551.7***&#13;
+                                           -9.991          -4.817            -6.797&#13;
+Year 2003                                396.9***         469.6***          536.1***&#13;
+                                           -4.149          -3.394            -4.316&#13;
+Diï¬&#128;erence                                 -18.43*          3.461            15.67**&#13;
+                                           -10.7           -5.837            -7.981&#13;
+Explained                                 -16.18**         2.955             9.096&#13;
+                                           -7.78           -4.767            -6.024&#13;
+Unexplained                                -2.245          0.506             6.571&#13;
+                                           -7.279          -3.689            -5.558&#13;
+Age                                        -0.214          -0.0647          -0.0382&#13;
+                                           -0.945          -0.293            -0.187&#13;
+Gender                                    0.00342          0.148             0.073&#13;
+                                           -0.837          -0.492            -0.504&#13;
+ESCS Index (student)                       0.808           0.931             1.193&#13;
+                                           -0.997          -0.844            -0.926&#13;
+ESCS Index (school)                        3.321           3.971             6.442&#13;
+                                           -3.867          -3.604            -4.986&#13;
+Romani Speaker                           -4.857***         0.599*           1.733***&#13;
+                                           -1.486          -0.331            -0.591&#13;
+Repeater                                 -9.261***       -0.788***          1.230***&#13;
+                                           -1.919          -0.276            -0.401&#13;
+Grade                                     -2.400*          -1.079*          -1.793*&#13;
+                                           -1.333          -0.606            -0.981&#13;
+Quality of School Resources Index          -0.265          -0.879             -1.16&#13;
+                                           -1.314          -0.702            -0.994&#13;
+% of Minority Students (School)           -3.319*          0.116             1.418*&#13;
+                                           -1.694          -0.402             -0.79&#13;
+Constant                                   363.7           -112.7           -365.8**&#13;
+                                           -257.8          -120.3            -181.1&#13;
+&#13;
+&#13;
+Observa ons                               11,753           11,594            11,696&#13;
+Robust standard errors in parentheses&#13;
+*** p&lt;0.01, ** p&lt;0.05, * p&lt;0.1&#13;
+&amp;#12;</ml:original-txt><ml:search-metadata><doc id="25518731">
+        <url>
+            http://documents.worldbank.org/curated/en/2015/12/25518731/slovak-republic-skilling-up-next-generation-analysis-slovak-republic’s-performance-program-international-student-assessment
+        </url>
+        <availablein>English</availablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2015/12/25518731/slovak-republic-skilling-up-next-generation-analysis-slovak-republic’s-performance-program-international-student-assessment</url_friendly_title>
+        <new_url>2015/12/25518731/slovak-republic-skilling-up-next-generation-analysis-slovak-republic’s-performance-program-international-student-assessment</new_url>
+        <disclosure_date>2015-12-04T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2015-12-04T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <docm_id>090224b083ae7a45</docm_id>
+        <chronical_docm_id>090224b083ae7a45</chronical_docm_id>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2015/12/04/090224b083ae7a45/1_0/Rendered/INDEX/Slovak0Republi0l0student0assessment.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2015/12/04/090224b083ae7a45/1_0/Rendered/PDF/Slovak0Republi0l0student0assessment.pdf</pdfurl>
+        <datestored>2015-12-04T00:00:00Z</datestored>
+        <docdt>2015-12-02T04:24:02Z</docdt>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            Slovak Republic - Skilling up the next
+            generation : an analysis of Slovak Republic’s performance in
+            the program for international student assessment
+        </repnme>
+        <abstracts>
+            Facing the prospects of rapid aging and
+            shrinking population over the coming decades, Slovakia needs
+            a highly skilled workforce to help generate the productivity
+            growth that it needs to fuel its continued convergence of
+            living standards with its West European neighbors. Skilling
+            up the workforce starts with equipping youth with the right
+            cognitive and socio-emotional foundation skills.
+            International research has identified three dimensions of
+            skills that matter for good employment outcomes and economic
+            growth: cognitive skills, such as literacy, numeracy,
+            creative and critical thinking or problem-solving;
+            socio-emotional skills and behavioral traits, such as
+            conscientiousness, grit or openness to experience; and job-
+            or occupation-specific technical skills, such as the ability
+            to work as an engineer. This report focuses on cognitive
+            skills and examines results for Slovakia from the program
+            for international student assessment (PISA), which assesses
+            the mathematics, reading, and science competencies of
+            15-year-olds. Its findings suggest that Slovakia can do
+            significantly better in helping students develop cognitive
+            foundation skills. This note proposes several policy
+            recommendations, based on an analysis of Slovakia’s PISA
+            data as well as international evidence, to make Slovakia’s
+            education system both stronger and more inclusive.
+        </abstracts>
+        <docna>
+            Slovak Republic - Skilling up the next
+            generation : an analysis of Slovak Republic’s performance in
+            the program for international student assessment
+        </docna>
+        <display_title>Slovak Republic - Skilling up the
+            next generation : an analysis of Slovak Republic’s
+            performance in the program for international student assessment</display_title>
+        <listing_relative_url>/research/2015/12/25518731/slovak-republic-skilling-up-next-generation-analysis-slovak-republic’s-performance-program-international-student-assessment</listing_relative_url>
+        <topic>Education, Skills Development and Labor
+            Market m1326135 1484,Livelihood Skills m1327268 1583,Employability, Skills and Jobs m1327054 2131,Education Efficiency m1327731 2135,Education Access and Equity m1327050 2127</topic>
+        <projn>7A-Central Europe And Baltics Pisa Analysis
+            -- P152132</projn>
+        <subtopic>Educational Sciences,Tertiary Education,Primary Education,Effective Schools and Teachers,Secondary Education</subtopic>
+        <docty>Working Paper</docty>
+        <teratopic>Education</teratopic>
+        <count>EU Accession Countries</count>
+        <authors>
+            <author>Herrera Sosa,Katia Marina</author>
+            <author>Gortazar,Lucas</author>
+            <author>Amoroso,Jeremie Matthew</author>
+            <author>Bodewig,Christian</author>
+            <author>Karacsony,Sandor I.</author>
+            <author>Moreno,Juan Martin</author>
+        </authors>
+        <entityids>
+            <entityid>090224b083ae7a45_1_0</entityid>
+        </entityids>
+        <theme>Education for all</theme>
+        <admreg>Europe and Central Asia,Europe and Central Asia</admreg>
+        <lang>English</lang>
+        <historic_topic>Education</historic_topic>
+        <prdln>Economic and Sector Work</prdln>
+        <topicv3>Education, Skills Development and Labor
+            Market m1326135 1484,Livelihood Skills m1327268 1583,Employability, Skills and Jobs m1327054 2131,Education Efficiency m1327731 2135,Education Access and Equity m1327050 2127</topicv3>
+        <sectr>Education</sectr>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            living standards, skills, employment, school
+            system, college, economic growth, its, school readiness,
+            teachers, math test, schooling, numeracy, groups, math
+            scores, strategies, labor force, high school, career,
+            general secondary schools, computer skills, technical
+            skills, access to preschool, colleges, disciplines,
+            thinking, language, employment outcomes, repeaters,
+            literacy, childhood education, training, tests, secondary
+            schools, curriculum content, mobility, ability, aging, child
+            development, secondary school, show how, streaming,
+            compulsory schooling, student outcomes, needs, competencies,
+            student achievement, learning, education system, research,
+            primary school, education attainment, teaching, test scores,
+            problem solving, kindergarten, diplomas, assessments,
+            reading, subjects, academic stream, human capital, student
+            assessment, study, workers, quality preschool, science,
+            public expenditure, professional life, schools, student,
+            age, gender, learning outcomes, lifelong learning,
+            childhood, school types, student performance, competence,
+            skilled workforce, school reform, achievement, peer review,
+            public expenditures, early childhood education, researchers,
+            expenditures, classroom level, literature, early childhood,
+            youth, secondary schooling, young children, curriculum,
+            quality of life, teacher, international student assessment,
+            repetition, upper secondary, basic literacy, cognitive
+            skills, understanding, children, education, investment,
+            rural areas, basic skills, performance, experience,
+            professional development, young people, students,
+            expenditures per student, types of schools, goals,
+            classroom, repetition rates, school, social mobility
+        </keywd>
+        <owner>EDU GP ECA (GED03)</owner>
+        <majtheme>Human development</majtheme>
+        <repnb>101563</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>Social Development &amp; Poverty</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Economic Management</ml:concept><ml:concept>Macroeconomic Management</ml:concept><ml:concept>Macroeconomic Policy</ml:concept><ml:concept>Macroeconomics Policy</ml:concept><ml:concept>Macroeconomics and Economic Growth</ml:concept><ml:concept>Macroeconomics and Growth</ml:concept><ml:concept>Teaching and Learning</ml:concept><ml:concept>Energy</ml:concept><ml:concept>Energy and Mining</ml:concept><ml:concept>Poverty Reduction</ml:concept><ml:concept>Poverty Reduction and Distributional Analysis</ml:concept><ml:concept>Poverty Reduction and Equity</ml:concept><ml:concept>Poverty and Inequality</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Social Protections and Labor</ml:concept><ml:concept>Science and Technology</ml:concept><ml:concept>Social Development</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Macroeconomic and Structural Policies</ml:concept><ml:concept>Education</ml:concept><ml:concept>Economic Growth</ml:concept><ml:concept>Energy and Extractives</ml:concept><ml:concept>Health, Nutrition and Population</ml:concept><ml:concept>Poverty</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Social Protection and Labor</ml:concept><ml:concept>Institutions and Growth</ml:concept><ml:concept>Technological Change</ml:concept><ml:concept>Public Expenditure</ml:concept><ml:concept>Shared Prosperity</ml:concept><ml:concept>Continuous Vocational Training (CVT)</ml:concept><ml:concept>Lifelong Learning</ml:concept><ml:concept>Strengthening Technical Education</ml:concept><ml:concept>Strengthening Vocational Education</ml:concept><ml:concept>Technical Vocational Education and Training Policies and Systems</ml:concept><ml:concept>Technical and Vocational Education</ml:concept><ml:concept>Vocational Education and Training</ml:concept><ml:concept>Vocational Training</ml:concept><ml:concept>Adult Education</ml:concept><ml:concept>Adult Education, Literacy, and Lifelong Learning</ml:concept><ml:concept>Continuing Education</ml:concept><ml:concept>Demographics</ml:concept><ml:concept>Longevity</ml:concept><ml:concept>Efficiency of Public Expenditures</ml:concept><ml:concept>Public Expenditures</ml:concept><ml:concept>Public Financial Management</ml:concept><ml:concept>Public Spending</ml:concept><ml:concept>Civil Service Employment</ml:concept><ml:concept>Civil Service Reform</ml:concept><ml:concept>Human Capital</ml:concept><ml:concept>Managing People</ml:concept><ml:concept>Public Employment</ml:concept><ml:concept>Analysis &amp; Monitoring</ml:concept><ml:concept>Delivery Units</ml:concept><ml:concept>Grievance Redress</ml:concept><ml:concept>Indicators</ml:concept><ml:concept>M&amp;E</ml:concept><ml:concept>Performance Measurement</ml:concept><ml:concept>Performance Reviews</ml:concept><ml:concept>Rapid Results Approaches</ml:concept><ml:concept>Employment and Growth</ml:concept><ml:concept>Improving Labor Markets</ml:concept><ml:concept>Labor Market Interventions</ml:concept><ml:concept>Labor Markets, Job Creation and Economic Growth</ml:concept><ml:concept>Educational Sciences</ml:concept><ml:concept>Fuels</ml:concept><ml:concept>Income</ml:concept><ml:concept>Engineering</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Technology Transfer and Diffusion</ml:concept><ml:concept>Government Expenditure</ml:concept><ml:concept>Equality of Opportunities</ml:concept><ml:concept>Literacy and Numeracy</ml:concept><ml:concept>Youth</ml:concept><ml:concept>Inclusive Growth</ml:concept><ml:concept>Population</ml:concept><ml:concept>Aging</ml:concept><ml:concept>Managing Public Finances</ml:concept><ml:concept>Human Resources Management</ml:concept><ml:concept>Monitoring and Evaluation</ml:concept><ml:concept>Labor Markets</ml:concept></ml:concepts><ml:geo-regions><ml:geo-region>Asia</ml:geo-region><ml:geo-region>Central Asia</ml:geo-region></ml:geo-regions></ml:annotations></ml:doc-envelope>

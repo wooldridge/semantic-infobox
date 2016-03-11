@@ -1,0 +1,879 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>ï»¿Training Manual&#13;
+&#13;
+&#13;
+Village Water&#13;
+&#13;
+safety&#13;
+                                    72237 v1&#13;
+&#13;
+&#13;
+                               Planning&#13;
+ Sikkim Rural Drinking Water&#13;
+&amp;#12;Training Manual for Village Water Safety Plans&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Acknowledgement&#13;
+This training manual was prepared by the State Institute of Rural Development (Jorethang)&#13;
+with support from the Water and Sanitation Program (WSP) for the Rural Management and&#13;
+Development Department, Government of Sikkim. The preparation team included Yangchen&#13;
+Lepcha and Vishal Mukhia (SIRD), Karma Takapa (Sikkim Development Foundation), and&#13;
+Amit Nair, Michael Rouse and Nicholas Pilgrim (Task Manager) (WSP). Special thanks for&#13;
+their support to Mr. A.K. Ganeriwala (Secretary, RMDD), Mr. C.P. Tongden (Additional Chief&#13;
+Engineer, RMDD), Mr. D.T. Bhutia (Director, SIRD) and Mr. Vishal Rai (Deputy Director, SIRD).&#13;
+Illustrations are by Mr. Pankaj Thapa.&#13;
+&#13;
+&#13;
+&#13;
+                                                 24&#13;
+&amp;#12;              Training Manual&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Village Water&#13;
+&#13;
+safety&#13;
+Sikkim Rural Drinking Water&#13;
+                              Planning&#13;
+&amp;#12;Training Manual for Village Water Safety Plans&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Acronyms and Abbreviations&#13;
+ASHA	  Accredited Social Health Activist&#13;
+BRGF	  Backward Regions Grant Fund&#13;
+CLTS	  Community Led Total Sanitation&#13;
+CMAS	  contract management advisory service&#13;
+GPU	   Gram Panchayat Unit&#13;
+H 2S 	 hydrogen sulphide&#13;
+IEC	   Information, Education and Communication&#13;
+m	meter&#13;
+NGO	   nongovernmental organization&#13;
+NREGS	 National Rural Employment Guarantee Scheme&#13;
+NRHM	  National Rural Health Mission&#13;
+O&amp;M	   operation and maintenance&#13;
+PI	    Panchayat Inspector&#13;
+RDA	   Rural Development Assistant&#13;
+RMDD	  Rural Management and Development Department&#13;
+SHG	   self help group&#13;
+SIRD	  State Institute of Rural Development&#13;
+VWSC	  Village Water and Sanitation Committee&#13;
+WSP	   Water and Sanitation Program&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                 2&#13;
+&amp;#12;                                                                                   Training Manual for Village Water Safety Plans&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Contents&#13;
+1.	 Introduction to Water Quality and Public Health...........................................................5&#13;
+&#13;
+2.	 The Status of Rural Drinking Water in Sikkim...............................................................7&#13;
+&#13;
+3.	 How to Prepare a Village Water Safety Plan................................................................8&#13;
+&#13;
+	 STEP 1: Assembling the team......................................................................................9&#13;
+	 STEP 2: Community mapping ....................................................................................10&#13;
+	 STEP 3: Walk the system from â&#128;&#152;source to mouthâ&#128;&#153; ......................................................11&#13;
+	 STEP 4: Prepare a Village Water Safety Plan............................................................17&#13;
+	 STEP 5: Operationalize the Water Safety Plan..........................................................18&#13;
+	 STEP 6: Prepare a proposal to submit to the district authorities for financing............ 19&#13;
+&#13;
+&#13;
+List of Tables&#13;
+Table 1: 	 â&#128;&#156;Walk the Systemâ&#128;? table of questions ............................................................12&#13;
+Table 1A:	Control Measures at the Source ....................................................................12&#13;
+Table 1B:	Control Measures at the Sedimentation Tank ...............................................13&#13;
+Table 1C:	Control Measures at the Storage Tank ..........................................................14&#13;
+Table 1D:	Control Measures for Pipes ...........................................................................15&#13;
+Table 1E:	Control Measures for Storage and Personal Hygiene ...................................16&#13;
+Table 2: 	 Simple format for submitting planning proposals (example) ..........................20&#13;
+&#13;
+&#13;
+&#13;
+List of Figures&#13;
+Figure 1:	 Gravity-fed water supply chain in Sikkim .........................................................7&#13;
+Figure 2: 	 The six steps to preparing a Village Water Safety Plan ...................................8&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                3&#13;
+&amp;#12;Training Manual for Village Water Safety Plans&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                 4&#13;
+&amp;#12;                                                                                   Training Manual for Village Water Safety Plans&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+1.	 Introduction to Water Quality and&#13;
+    Public Health&#13;
+Drinking water is a precious and scarce                                  â&#128;¢	 Improperly stored and stagnant water leading&#13;
+resource that needs to be protected, kept free                              to breeding of mosquitoes that can cause&#13;
+from contamination, and used carefully without                              malaria, dengue, and so on.&#13;
+wasting. Safe drinking water is key to ensuring&#13;
+improved public health. In Sikkim, in the period&#13;
+                                                                         The health costs of water borne diseases are&#13;
+2002-07, as many as 2,77,000 persons were&#13;
+                                                                         very high (such as costs of medical treatment,&#13;
+infected with water borne diseases such as&#13;
+                                                                         loss of income due to absence from work, and&#13;
+diarrhea, cholera and gastroenteritis, of which&#13;
+                                                                         so on). These costs can be avoided if the water&#13;
+25 people lost their lives.1 The number of actual&#13;
+                                                                         consumed is safe to begin with.&#13;
+cases of diarrheal diseases is probably even&#13;
+higher as many cases go unreported. In India,&#13;
+each day about 1,000 children under the age                              Studies indicate that improved water quality&#13;
+of five die from diarrhea,2 and in developing                            alone results in 15-17 percent reduction in&#13;
+countries worldwide about 1.5 million children die                       diarrheal cases. Water sometimes appears to&#13;
+each year from diarrhea.                                                 be colorless, tasteless and odorless. However,&#13;
+                                                                         it may still contain chemicals and germs that&#13;
+                                                                         cannot be seen, and which severely affect&#13;
+Water becomes unsafe when disease causing&#13;
+                                                                         health, especially that of infants, children and&#13;
+germs and poisonous chemicals seep into it,&#13;
+                                                                         the elderly.&#13;
+for example, from animal fecal matter, domestic&#13;
+solid and liquid wastes like garbage, bathing and&#13;
+laundry, and poultry and livestock effluent runoffs.                     Water is safe when it is:&#13;
+Water becomes unsafe inside households due to&#13;
+unsafe storage and lack of personal hygiene.                             â&#128;¢	 Free from harmful germs like viruses&#13;
+                                                                            and bacteria;&#13;
+Diseases include:                                                        â&#128;¢	 Free from harmful chemicals like arsenic,&#13;
+                                                                            fluoride and nitrate (although not significant&#13;
+â&#128;¢	 Acute diarrheal diseases â&#128;&#147; diarrhea,                                     in Sikkim);&#13;
+   gastroenteritis, typhoid, cholera, dysentery                          â&#128;¢	 Pleasant to taste, free from odor, and clear to&#13;
+   and hepatitis (jaundice);                                                look at; and&#13;
+â&#128;¢	 Skin diseases and eye infections like                                 â&#128;¢	 Usable for domestic purposes (does not stain&#13;
+   conjunctivitis and worm infestations in                                  clothes, and so on).&#13;
+   children; and&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+1&#13;
+    Comptroller and Auditor General, Government of India, August 2009.&#13;
+2&#13;
+    Department of Drinking Water Supply, Government of India.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                   5&#13;
+&amp;#12;Training Manual for Village Water Safety Plans&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+This training manual describes how to prepare                to be compatible with other local and&#13;
+a Village Water Safety Plan. A Water Safety                  district-based initiatives which address&#13;
+Plan is useful to address water quality problems,            source sustainability.&#13;
+to help operate and maintain the water supply            2.	 The process of water safety planning&#13;
+scheme, and to identify and estimate the cost of             should be coordinated with initiatives for&#13;
+improvements (investments) that are needed.                  Community Led Total Sanitation (CLTS)&#13;
+In using the training manual, the following points           to achieve and sustain open defecation&#13;
+should be noted:                                             free villages.&#13;
+                                                         3.	 The training manual has an accompanying&#13;
+1.	 The manual does not deal specifically                    set of â&#128;&#156;Planning Templatesâ&#128;? available in a&#13;
+    with source sustainability but is intended               second document.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                               Do not defecate around drinking&#13;
+                                                               water sources&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                     6&#13;
+&amp;#12;                                                                    Training Manual for Village Water Safety Plans&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+2.	 The Status of Rural Drinking Water&#13;
+    in Sikkim&#13;
+People in the rural areas depend entirely on             â&#128;¢	 Treatment: Treatment is non-existent and, in&#13;
+spring sources, gravity flow, and piped water               particular, chlorination is not practiced;&#13;
+supply with tap connections (Figure 1).                  â&#128;¢	 Pipes: Pipes are leaking, badly repaired, and&#13;
+Field observations indicate the following types of          are often surrounded by animal fecal matter and&#13;
+problems are common in Sikkim:                              garbage; and&#13;
+                                                         â&#128;¢	 Household: Household storage and handling is&#13;
+â&#128;¢	 Source: Spring and stream sources are not                unsafe and hand washing with soap is not practiced&#13;
+   protected and are contaminated by animal&#13;
+   fecal matter and garbage;                             Field visits carried out in all four districts of Sikkim&#13;
+â&#128;¢	 Tanks: Sedimentation and storage tanks                in 2008-09 indicate that drinking water is highly&#13;
+   are not covered or properly cleaned; in               contaminated. Testing by the hydrogen sulphide&#13;
+   rural growth centers tapping by private               (H2S) vial test indicated widespread contamination&#13;
+   pipelines is common;                                  by animal fecal matter.&#13;
+&#13;
+&#13;
+Figure 1: Gravity-fed water supply chain in Sikkim&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                               Source&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                            Tank/Treatment&#13;
+                                                     Pipes&#13;
+&#13;
+                      Households&#13;
+&#13;
+&#13;
+&#13;
+                                                     7&#13;
+&amp;#12;Training Manual for Village Water Safety Plans&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+3.	 How to Prepare&#13;
+    a Village Water Safety Plan&#13;
+The preparation of Village Water Safety Plans                Water Safety Plan, operationalizing the Water&#13;
+can be discussed in terms of â&#128;&#152;Six Stepsâ&#128;&#153;. The                Safety Plan, and preparing a proposal to&#13;
+six steps are: assembling the team, community                submit to the district authorities for financing&#13;
+mapping, walking the system, preparing the                   (Figure 2).&#13;
+&#13;
+&#13;
+Figure 2: The six steps to preparing a Village Water Safety Plan&#13;
+&#13;
+&#13;
+                                                                                    STEP 6: Prepare a proposal&#13;
+                                                                                      to submit to the district&#13;
+                                                                                      authorities for financing&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                     STEP 5: Operationalize the&#13;
+                                                                        Water Safety Plan&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                    STEP 4: Prepare the Water&#13;
+                                                          Safety Plan&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                      STEP 3: Walk the system&#13;
+                                         â&#128;&#152;source to mouthâ&#128;&#153;&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                       STEP 2: Community&#13;
+                      mapping to describe the&#13;
+                             system&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+     STEP 1: Assemble the&#13;
+   team to prepare the Water&#13;
+          Safety Plan&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                         8&#13;
+&amp;#12;                                                                Training Manual for Village Water Safety Plans&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+STEP 1: Assembling the team&#13;
+&#13;
+Why do we do it?                                      â&#128;¢	 Training and technical support from the&#13;
+                                                         State Institute of Rural Development (SIRD)&#13;
+It is very important to ensure large-scale               block-level Field Facilitators and Rural&#13;
+community involvement in the Water Safety                Management and Development Department&#13;
+Plan so that proposals are demand-based and              (RMDD) Junior Engineers; and&#13;
+there is support for implementation. In addition,     â&#128;¢	 Other stakeholders, including Accredited&#13;
+there must be technical capacity to identify             Social Health Activists (ASHAs) of the&#13;
+problems and solutions, including engineering            National Rural Health Mission (NRRM),&#13;
+design and cost estimates. Also, implementation          forest guards (Ministry of Environment&#13;
+of the plan and future operational performance           and Forest), teachers (Department of&#13;
+must be monitored.                                       Education), Anganwadi workers (State&#13;
+                                                         Rural Development Agency), Panchayat&#13;
+How do we do it?                                         Inspectors and nongovernmental&#13;
+                                                         organizations (NGOs).&#13;
+The preparation of Water Safety Plans therefore&#13;
+requires the participation of                         Outputs&#13;
+various stakeholders:&#13;
+                                                      1.	 A team of stakeholders who will&#13;
+â&#128;¢	 The rural community of the particular site,            take responsibility for preparing and&#13;
+   including self help groups (SHGs);                     championing the Village Water Safety Plan.&#13;
+â&#128;¢	 The Village Water and Sanitation Committees&#13;
+   (VWSCs) and their â&#128;&#152;Barefoot Engineerâ&#128;&#153; or&#13;
+   â&#128;&#152;private fitterâ&#128;&#153;;&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                  9&#13;
+&amp;#12;Training Manual for Village Water Safety Plans&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+STEP 2: Community mapping&#13;
+&#13;
+Why do we do it?                                       location, and type and condition of water&#13;
+                                                       source[s] and system[s];&#13;
+Community mapping is useful to get everyone         â&#128;¢	 Identify which households are served by the&#13;
+involved in expressing their demands for               different sources and systems; and&#13;
+improvements, sharing their knowledge of            â&#128;¢	 Ask the community to map the locations of&#13;
+the water system, and commitment to seeing             water sources and systems, and households&#13;
+changes made.                                          in their ward (this should be done on the&#13;
+                                                       ground and then copied onto chart paper).&#13;
+How do we do it?&#13;
+                                                    Outputs&#13;
+â&#128;¢	 Gather the community and inform people&#13;
+   about the benefits of Water Safety Plans with    1.	 Improved awareness in the community of&#13;
+   respect to health and income;                        water quality issues and commitment to take&#13;
+â&#128;¢	 Discuss water-related issues such as the             action to improve the situation.&#13;
+   condition of water sources and systems,          2.	 A community map of sources, systems and&#13;
+   water quality problems, incidence of disease         household users.&#13;
+   (including seasonal variations in diseases),     3.	 Additional water-related information such&#13;
+   plantation, rainwater harvesting and                 as the condition of water systems, any work&#13;
+   groundwater recharge measures, and so on;            being done on plantation, rainwater harvesting&#13;
+â&#128;¢	 Gather all available information on the              and groundwater recharge, and so on.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                   10&#13;
+&amp;#12;                                                               Training Manual for Village Water Safety Plans&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+STEP 3: Walk the system from â&#128;&#152;source to mouthâ&#128;&#153;&#13;
+&#13;
+Why do we do it?                                      â&#128;¢	 Assess whether control measures to reduce&#13;
+                                                         contamination are in place and working&#13;
+Walking the system is a very critical step. It           properly or if they need to be established&#13;
+is necessary to find out â&#128;&#152;in the fieldâ&#128;&#153; about            or improved;&#13;
+the actual condition of sources and systems.          â&#128;¢	 Identify necessary repairs;&#13;
+By walking the system, the team can identify          â&#128;¢	 Inspect household storage and discuss&#13;
+where the source or system is becoming                   handling practices with the women of&#13;
+contaminated and where repairs are needed.               the household;&#13;
+                                                      â&#128;¢	 Check for any water-related illness and&#13;
+How do we do it?                                         discuss with the women of the household&#13;
+                                                         and the village ASHA;&#13;
+â&#128;¢	 Review the community map and plan the walk;        â&#128;¢	 Identify any impacts by natural calamities&#13;
+â&#128;¢	 Inspect the water source and system                   such as landslides, and so on; and&#13;
+   including sources, sedimentation and               â&#128;¢	 Document all the information as in the Walk&#13;
+   storage tanks, pipelines and taps;                    the System table of questions (Table 1).&#13;
+â&#128;¢	 Take water samples for testing at:&#13;
+   (i) storage tank[s], and (ii) a sample of          Output&#13;
+   5-10 percent of household taps;&#13;
+â&#128;¢	 Identify possible risks of contamination at        1.	 A table of information on the source and&#13;
+   all stages from source to tanks to pipes to            system which can be used to prepare the&#13;
+   household taps;                                        Village Water Safety Plan.&#13;
+&#13;
+&#13;
+                                                 11&#13;
+&amp;#12;Training Manual for Village Water Safety Plans&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Table 1: â&#128;&#156;Walk the Systemâ&#128;? table of questions&#13;
+&#13;
+A. Source&#13;
+&#13;
+A1.	 Is the source protected by a strong fence to prevent animals entering?&#13;
+	â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦.&#13;
+A2.	 Is the ground around the source clean?&#13;
+	â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦.&#13;
+A3.	 Are animals or humans prevented from drinking water/defecating or leaving garbage around&#13;
+     the source?&#13;
+	â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦.&#13;
+A4.	 There should be no latrines or seepage from latrines just above the source â&#128;&#147; is this the case?&#13;
+	â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦.&#13;
+A5.	 There should be no effluent from poultry, livestock, schools or houses entering the source â&#128;&#147;&#13;
+     is this the case?&#13;
+	â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦.&#13;
+A6.	 Are people prevented from bathing, washing laundry, animals or vehicles at the source?&#13;
+	â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦.&#13;
+A7.	 Is there a sign board at the site â&#128;&#156;Drinking Water Source â&#128;&#147; Keep it Clean!â&#128;??&#13;
+	â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦.&#13;
+A8.	 Is the pipe from the source to the tank in good condition?&#13;
+	â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦.&#13;
+All answers for the above questions should be â&#128;&#156;Yesâ&#128;?.&#13;
+â&#128;&#156;Noâ&#128;? means that there is a problem which needs to be addressed. Table 1A lists control&#13;
+measures required if the answer is â&#128;&#156;Noâ&#128;?.&#13;
+&#13;
+Table 1A: Control Measures at the Source&#13;
+&#13;
+   1.	    Make a fence&#13;
+   2.	    Clean the source area&#13;
+   3.	    Relocate latrines to prevent seepage&#13;
+   4.	    Relocate effluent pathways&#13;
+   5.	    Install sign boards to prevent bathing and laundry washing&#13;
+   6.	    Consider source conservation measures, for example, plantation, rainwater&#13;
+          harvesting, groundwater recharge, and so on&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                 12&#13;
+&amp;#12;                                                              Training Manual for Village Water Safety Plans&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+B.	     Sedimentation Tank&#13;
+&#13;
+B1.	 Is the tank in good condition, does it need repair or rehabilitation?&#13;
+	â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦.&#13;
+B2.	 Is the pipe from the source in good condition?&#13;
+	â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦.&#13;
+B3.	 Does source water enter the sedimentation tank from the top?&#13;
+	â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦.&#13;
+B4.	 Does the sedimentation tank have a cover?&#13;
+	â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦.&#13;
+B5.	 Is the sedimentation tank correctly designed and functioning with the appropriate filter&#13;
+     material (the Junior Engineer must inspect this)?&#13;
+	â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦.&#13;
+B6.	 Does the last chamber contain only clear water?&#13;
+	â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦.&#13;
+B7.	 Is the sedimentation tank cleaned at least once every three months (the Junior Engineer&#13;
+     must advise on correct cleaning practices)?&#13;
+	â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦.&#13;
+&#13;
+All answers for the above questions should be â&#128;&#156;Yesâ&#128;?.&#13;
+â&#128;&#156;Noâ&#128;? means that there is a problem which needs to be addressed. Table 1B lists control&#13;
+measures required if the answer is â&#128;&#156;Noâ&#128;?.&#13;
+&#13;
+Table 1B: Control Measures at the Sedimentation Tank&#13;
+&#13;
+      1.	   Check the tank and repair as needed&#13;
+      2.	   Check the pipe from the source and repair as needed&#13;
+      3.	   Check the tank cover and repair as needed&#13;
+      4.	   Check filter material and flow of water&#13;
+      5.	   Check if water in the last chamber is clear&#13;
+      6.	   The tank should be cleaned/flushed once in three months&#13;
+&#13;
+Note: Bleaching powder should NOT be used in the tank or it will kill the filter organisms!&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                13&#13;
+&amp;#12;Training Manual for Village Water Safety Plans&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+C.	     Storage Tank&#13;
+&#13;
+C1.	 Is the tank in good condition, does it need repair or rehabilitation?&#13;
+â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦.&#13;
+C2.	 Is the pipe from the sedimentation tank in good condition?&#13;
+â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦.&#13;
+C3.	 Does the storage tank have a lid/cover?&#13;
+â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦.&#13;
+C4.	 Is the storage tank free from dirt/sediment and the water clear?&#13;
+â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦.&#13;
+C5.	 Is the storage tank cleaned at least once every three months?&#13;
+â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦.&#13;
+C6.	 Does the storage tank have valves at the inlet and outlet so that chlorination is possible&#13;
+     if desired?&#13;
+â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦.&#13;
+All answers for the above questions should be â&#128;&#156;Yesâ&#128;?.&#13;
+â&#128;&#156;Noâ&#128;? means that there is a problem which needs to be addressed. Table 1C lists control&#13;
+measures required if the answer is â&#128;&#156;Noâ&#128;?.&#13;
+&#13;
+&#13;
+Table 1C: Control Measures at the Storage Tank&#13;
+&#13;
+      1.	   Check the tank and repair as needed&#13;
+      2.	   Check the pipe from the sedimentation tank and repair as needed&#13;
+      3.	   Check the tank lid/cover and repair as needed&#13;
+      4.	   Check if the water is clear and the tank free of dirt/sediment&#13;
+      5.	   Clean the tank at least once in three months&#13;
+&#13;
+Note: If chlorination is being carried out at the household level (for example, through an&#13;
+electro-chlorinator from RMDD) then chlorination at the tank may not be required.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                  14&#13;
+&amp;#12;                                                              Training Manual for Village Water Safety Plans&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                              Tanks should have covers&#13;
+&#13;
+&#13;
+D.	Pipelines&#13;
+&#13;
+D1.	 Are pipes in good condition and free from leaks?&#13;
+	â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦.&#13;
+D2.	 Are joints and valves in good condition and free from leaks?&#13;
+	â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦.&#13;
+D3.	 Is the area around pipes free from animal fecal matter and garbage?&#13;
+	â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦.&#13;
+All answers for the above questions should be â&#128;&#156;Yesâ&#128;?.&#13;
+â&#128;&#156;Noâ&#128;? means that there is a problem which needs to be addressed. Table 1D lists control&#13;
+measures required if the answer is â&#128;&#156;Noâ&#128;?.&#13;
+&#13;
+&#13;
+Table 1D: Control Measures for Pipes&#13;
+&#13;
+  1.	   Check pipes for leaks and repair as needed&#13;
+  2.	   Check joints and valves and repair as needed&#13;
+  3.	   Inspect the area around pipes to ensure it is clean&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                              15&#13;
+&amp;#12;Training Manual for Village Water Safety Plans&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+E.	     Household Storage - Storage and Personal Hygiene&#13;
+&#13;
+E1.	 Is the household using the electro-chlorinator provided by RMDD?&#13;
+	â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦.&#13;
+E2.	 Is the storage container cleaned daily before storing water?&#13;
+	â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦.&#13;
+E3.	 Does the container have a cover?&#13;
+	â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦.&#13;
+E4.	 Is there a clean ladle to remove water from the storage container?&#13;
+	â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦.&#13;
+E5.	 Do households practice hand washing with soap?&#13;
+	â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦.&#13;
+E6.	 Does the water tested at the household appear brown (not black) after the H2S vial test?&#13;
+	â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦â&#128;¦.&#13;
+All answers for the above questions should be â&#128;&#156;Yesâ&#128;?.&#13;
+â&#128;&#156;Noâ&#128;? means that there is a problem which needs to be addressed. Table 1E lists control&#13;
+measures required if the answer is â&#128;&#156;Noâ&#128;?.&#13;
+&#13;
+Table 1E: Control Measures for Storage and Personal Hygiene&#13;
+&#13;
+      1.	   Check if the electro-chlorinator is being used&#13;
+      2.	   Check if the water is properly stored&#13;
+      3.	   Check on hand washing practices&#13;
+      4.	   Test on random sample basis with the H2S vial test for bacterial contamination&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+            Wash hands with soap after                  Cover your drinking water.&#13;
+            defecating or before filling                Use a ladle to remove the water.&#13;
+            drinking water&#13;
+&#13;
+                                                   16&#13;
+&amp;#12;                                                               Training Manual for Village Water Safety Plans&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+STEP 4: Prepare a Village Water Safety Plan&#13;
+&#13;
+After â&#128;&#152;walking the systemâ&#128;&#153;, and identifying          How do we do it?&#13;
+various risks of contamination and possible&#13;
+controls, the task team must now agree on            Based on the information from â&#128;&#156;walk the&#13;
+what will go into the Village Water Safety Plan.     systemâ&#128;?, the following items are filled in the&#13;
+                                                     Water Safety Plan template:&#13;
+Why do we do it?&#13;
+                                                     â&#128;¢	    Problems that can affect water, for&#13;
+There are various benefits of Water Safety Plans:          example, animal defecation;&#13;
+                                                     â&#128;¢	    Health hazards, for example, diarrhea;&#13;
+â&#128;¢	   Improvement in drinking water quality;          â&#128;¢	    Control measures, for example, fence&#13;
+â&#128;¢	   Improvement of operation and maintenance              around source;&#13;
+     (O&amp;M) practices through preparation of an       â&#128;¢	    What needs to be done, who does it, who&#13;
+     associated Operating Plan;                            checks that it is done;&#13;
+â&#128;¢	   Prioritization of improvement programs          â&#128;¢	    Action to take if the control fails, for&#13;
+     (investments) based on public health                  example, chlorinate the water; and&#13;
+     outcomes; the associated Service                â&#128;¢	    Problems and constraints faced in&#13;
+     Improvement Plan can be the basis for                 implementing the Water Safety Plan, for&#13;
+     a proposal for financing from the district/           example, lack of funds.&#13;
+     state; and&#13;
+â&#128;¢	   The Water Safety Plan provides a direct         Outputs&#13;
+     link between water supply and sanitation,&#13;
+     for example, in addressing issues               1.	   The Water Safety Plan template is&#13;
+     such as open defecation, garbage and                  completed.&#13;
+     household hygiene.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                17&#13;
+&amp;#12;Training Manual for Village Water Safety Plans&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+STEP 5: Operationalize the Water Safety Plan&#13;
+&#13;
+Why do we do it?                                   â&#128;¢	    Estimate actual income from water&#13;
+                                                         (domestic water bills, non-domestic/&#13;
+The exercise of â&#128;&#152;walking the systemâ&#128;&#153; (Step 3)            commercial water bills, connection fees,&#13;
+and preparing the Water Safety Plan (Step                others); and&#13;
+4) help the community and its technical and        â&#128;¢	    Calculate the annual surplus/deficit&#13;
+operating staff to identify the points where             (income less staff and maintenance&#13;
+their water supply system[s] is/are at risk              costs).&#13;
+of contamination at the source, tank, pipe&#13;
+and household levels. They also assess the         The following are also required:&#13;
+control measures used to mitigate risks of&#13;
+contamination and whether these need to be         â&#128;¢	    Provide training:&#13;
+improved and how they can be monitored. In         	     â&#128;&#147;	 For operators, for example, Barefoot&#13;
+this way, they learn in a hands-on way about                Engineers or private fitters;&#13;
+how to improve their O&amp;M practices. This           	     â&#128;&#147;	 For VWSC members to check if&#13;
+needs to be formalized in an Operating Plan                 control measures and operating&#13;
+so that it becomes a day-to-day habit (Step 6).             functions are being carried out&#13;
+                                                            properly;&#13;
+How do we do it?                                   	     â&#128;&#147;	 For operators and VWSC members&#13;
+                                                            on actions to take when control&#13;
+â&#128;¢	    For each area of operation (source,                   measures or operating functions fail;&#13;
+      tanks, pipes, households) identify key                and&#13;
+      operating functions: who is responsible      â&#128;¢	    Sampling and analysis of samples for&#13;
+      (usually the Barefoot Engineer or private          verification at district laboratories.&#13;
+      fitter), how often is the operating&#13;
+      function carried out, and who can            Output:&#13;
+      provide technical support (usually the&#13;
+      Junior Engineer);                            1.	   The Operating Plan is completed.&#13;
+â&#128;¢	    Identify staff costs (Barefoot Engineer,     2.	   Technical and operational staff are better&#13;
+      private fitter, others);                           prepared to do their jobs.&#13;
+â&#128;¢	    Estimate actual maintenance costs            3.	   The community understands more&#13;
+      (chemicals, cleaning tanks, leak                   about its operational performance and&#13;
+      repair, connections/disconnections/                financial performance.&#13;
+      reconnections, spare parts, book             4.	   The VWSC is able to check if the&#13;
+      keeping, billing and collection,                   operating functions are being carried&#13;
+      training, others);                                 out properly.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                  18&#13;
+&amp;#12;                                                                Training Manual for Village Water Safety Plans&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+STEP 6: Prepare a proposal to submit to&#13;
+the district authorities for financing&#13;
+&#13;
+Why do we do it?                                      â&#128;¢	   Provide advice to Gram Panchayats on&#13;
+                                                           user fees (tariffs and connection fees)&#13;
+Having completed Step 5, the VWSC/                         and consider whether subsidies are&#13;
+community has gathered information on its                  merited and to approve financing;&#13;
+source[s] and system[s], prepared a Water             â&#128;¢	   Ensure convergence with water&#13;
+Safety Plan (risks and control measures),                  resources management and other&#13;
+and an Operating Plan (operating functions,                government programs (such as the&#13;
+financing gap). They now have a good idea                  National Rural Employment Guarantee&#13;
+about the improvements that they want to                   Scheme (NREGS), the Backward&#13;
+make to their source[s] and system[s] to meet              Regions Grant Fund (BRGF), and so on),&#13;
+the expectations of the community users.                   for example, conjunctive use of rainwater&#13;
+These improvements could be operational                    harvesting, groundwater and surface&#13;
+(such as record keeping, cleaning, water                   water; water harvesting and groundwater&#13;
+quality testing, and so on) or physical (such as           recharge measures; plantations; and&#13;
+major repairs and replacement, expansions,            â&#128;¢	   Establish effective monitoring, audit and&#13;
+and so on). To achieve these objectives,                   reporting procedures.&#13;
+the Gram Panchayat/VWSC must prepare a&#13;
+Service Improvement Plan to be submitted              How do we do it?&#13;
+to the district authorities as the basis for&#13;
+financial assistance.                                 The basic format for a Service Improvement&#13;
+                                                      Plan is given in Table 2. Junior Engineers,&#13;
+The district (and block) authorities have an          Panchayat Inspectors and Rural Development&#13;
+important role with respect to the following          Assistants will provide technical support in the&#13;
+five objectives:                                      preparation and implementation of Service&#13;
+                                                      Improvement Plans including engineering&#13;
+â&#128;¢	   Provide capacity building of Gram                designs, cost estimates and procurement&#13;
+     Panchayats/VWSCs in the preparation              for works.&#13;
+     of their Water Safety Plans, Operating&#13;
+     Plans and Service Improvement Plans;             For each item, there would be an engineering&#13;
+â&#128;¢	   Assess, approve and guide                        proposal (designs and cost estimates), which&#13;
+     implementation of the plans which                requires the help of the Junior Engineer. The&#13;
+     includes:                                        timing of implementation could be immediate,&#13;
+	     â&#128;&#147;	 Review village plans to ensure that          short term (this year), or medium term (after&#13;
+         they meet policy objectives and              one year but within the next five years).&#13;
+         standards, and reflect the service and&#13;
+         quality improvements sought by the           In order for the district authorities to monitor&#13;
+         communities, and                             and audit implementation and performance,&#13;
+	     â&#128;&#147;	 Ensure that proposals are realistic in       information must be collected and reported&#13;
+         terms of their costs and operating plans;    which should include:&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                 19&#13;
+&amp;#12;Training Manual for Village Water Safety Plans&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Table 2: Simple format for submitting planning proposals (example)&#13;
+&#13;
+     Ward name:	                                 Water Supply System: Spring fed piped&#13;
+     Gram Panchayat Unit 	                       gravity system&#13;
+     (GPU) name:	&#13;
+     Population: 	                               % Population Served by System:&#13;
+     Improvement Need 	                          Why	                     Cost	   Timing&#13;
+     (the Remedy)	                               (the Benefit)	           	       (the Priority)&#13;
+     1. Install fence to protect source	         Prevent contamination 		         Immediate&#13;
+     	                                           from animal fecal matter		&#13;
+     2. Repair sedimentation tank	               Improve water quality		          Short term&#13;
+     3. Replace faulty household 	               Reduce leakage		                 Immediate&#13;
+        connections / taps	&#13;
+     4. Install 200 meter (m) of new 	           Extend service access to		       Short term&#13;
+        distribution pipe	                       5 households		&#13;
+     5. Build additional storage tank	           Augment supply		                 Medium term&#13;
+&#13;
+&#13;
+â&#128;¢	 Does the Gram Panchayat/VWSC/ward                      	â&#128;&#147;	Quantity and quality: How much safe&#13;
+   have an approved Service Improvement                      water is provided per person per day?&#13;
+   Plan and Operating Plan?                                  Has the water been tested and found to&#13;
+â&#128;¢	 Annual progress against agreed                            be clean and safe to drink?&#13;
+   implementation dates, indicating actions               	â&#128;&#147;	Reliability: How many hours per day is&#13;
+   taken where there have been delays,                    		 water provided? How many months/days in&#13;
+   with data on actual costs incurred versus                 a year is there stoppage in water supply?&#13;
+   original budgets;                                      	â&#128;&#147;	Responsiveness of service&#13;
+â&#128;¢	 Quarterly reporting on service provision:                 providers: Does the provider have a&#13;
+	â&#128;&#147;	    Access and usage: What percentage                     customer service counter or contact&#13;
+       of households in the Gram Panchayat                   number? How quickly does the provider&#13;
+       use (i) a handpump, (ii) a community                  respond to user complaints?&#13;
+       standpost, (iii) household connections?            	â&#128;&#147;	Userâ&#128;&#153;s satisfaction: Are users getting the&#13;
+       Are connections metered?                              services they need, want and can afford?&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                        20&#13;
+&amp;#12;&amp;#12;                                                                          Artworks by: Roots Advertising Services Pvt. Ltd.&#13;
+                                                                          Printed at: PS Press Services Pvt. Ltd.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Water and Sanitation Program        Rural Management and&#13;
+The World Bank                      Development Department&#13;
+                                                                                                                              1000 copies/October 2010&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+55 Lodi Estate, New Delhi 110 003   Gramin Vikas Bhawan,&#13;
+India                               Tashiling Secretariat,&#13;
+                                    Gangtok, Sikkim&#13;
+Phone: (91-11) 24690488, 24690489&#13;
+Fax: (91-11) 24628250               Phone: 0359202659&#13;
+E-mail: wspsa@worldbank.org         Fax: 03592229276&#13;
+Web site: www.wsp.org               Web site: http://www.sikkimrmdd.org&#13;
+&amp;#12;</ml:original-txt><ml:search-metadata><doc id="16705254">
+        <url>
+            http://documents.worldbank.org/curated/en/2010/01/16705254/india-sikkim-rural-drinking-water-village-water-safety-planning-training-vol-1-2-training-manual
+        </url>
+        <availablein>English</availablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2010/01/16705254/india-sikkim-rural-drinking-water-village-water-safety-planning-training-vol-1-2-training-manual</url_friendly_title>
+        <new_url>2010/01/16705254/india-sikkim-rural-drinking-water-village-water-safety-planning-training-vol-1-2-training-manual</new_url>
+        <disclosure_date>2012-09-05T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2012-09-05T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2012/09/05/000425962_20120905170300/Rendered/INDEX/722370v10WSP0B0KKIM0Training0Manual.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2012/09/05/000425962_20120905170300/Rendered/PDF/722370v10WSP0B0KKIM0Training0Manual.pdf</pdfurl>
+        <datestored>2012-09-05T00:00:00Z</datestored>
+        <docdt>2010-01-01T00:00:00Z</docdt>
+        <totvolnb>2</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            India - Sikkim rural drinking water :
+            village water safety planning training
+        </repnme>
+        <abstracts>
+            This report covers water safety planning
+            for Sikkim, India&#146;s rural drinking water system. It consists
+            of two volumes. Volume I is a Training Manual. It begins
+            with an introduction to water quality and public health.
+            Section 2 covers the status of rural drinking water in
+            Sikkim. Section 3 describes how to prepare a village water
+            safety plan. It ends with several tables and figures. Volume
+            II consists of six planning templates for the water safety
+            plan: Technical and Financial Survey for Spring Source
+            Gravity Flow Schemes; Water Source Plan; Water Safety Plan;
+            Operating Plan; Service Improvement Plan; and Performance Indicators.
+        </abstracts>
+        <docna>
+            Training manual
+        </docna>
+        <display_title>India - Sikkim rural drinking
+            water : village water safety planning training : Training manual</display_title>
+        <listing_relative_url>/research/2010/01/16705254/india-sikkim-rural-drinking-water-village-water-safety-planning-training-training-manual</listing_relative_url>
+        <docty>UNDP-Water &amp; Sanitation Program</docty>
+        <subtopic>Wastewater Treatment,Town Water Supply and Sanitation,Water Supply and Sanitation Governance
+            and Institutions,Water Conservation,Water and Industry</subtopic>
+        <teratopic>Water Supply and Sanitation,Water Resources</teratopic>
+        <count>South Asia,India</count>
+        <geo_region_mdks>
+            <geo_region_mdk>World!$!80475</geo_region_mdk>
+            <geo_region_mdk>Asia!$!80451</geo_region_mdk>
+            <geo_region_mdk>South Asia!$!80470</geo_region_mdk>
+        </geo_region_mdks>
+        <entityids>
+            <entityid>000425962_20120905170300</entityid>
+        </entityids>
+        <admreg>South Asia,South Asia</admreg>
+        <colti>Water and sanitation program</colti>
+        <lang>English</lang>
+        <historic_topic>Water Supply and Sanitation,Water Resources</historic_topic>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            animals, arsenic, bacteria, bacterial
+            contamination, billing, capacity building, chlorination,
+            commercial water, community involvement, conjunctive use,
+            connection fees, conservation, contract management, district
+            authorities, domestic water, drinking water quality,
+            Drinking Water Supply, effluent, garbage, groundwater, hand
+            washing, household connections, households, latrines,
+            laundry, leaks, maintenance costs, mosquitoes, open
+            defecation, operational performance, pipelines, Pipes,
+            plantations, programs, Public Health, rainwater, rainwater
+            harvesting, recharge, rural community, rural Drinking Water,
+            Safe drinking water, safe water, Sanitation, Sanitation
+            Committee, Sedimentation, seepage, Service Improvement,
+            service providers, service provision, spare parts, Spring,
+            storage tanks, surface water, Tanks, valves, viruses,
+            washing, wastes, Water Quality, water quality problems,
+            water quality testing, water resources, water resources
+            management, water samples, water source, water sources,
+            water supply, water supply chain, water supply system, water
+            system, water systems
+        </keywd>
+        <owner>Water - Water &amp; Sant. Prgrm-SAR (GWASS)</owner>
+        <geo_regions>
+            <geo_region>World</geo_region>
+            <geo_region>Asia</geo_region>
+            <geo_region>South Asia</geo_region>
+        </geo_regions>
+        <repnb>72237</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>ICT</ml:concept><ml:concept>ICT for Development</ml:concept><ml:concept>Information Technology</ml:concept><ml:concept>Information and Communication Technologies (ICT)</ml:concept><ml:concept>Social Development &amp; Poverty</ml:concept><ml:concept>Water Resources</ml:concept><ml:concept>PPP</ml:concept><ml:concept>Public-Private Partnerships</ml:concept><ml:concept>Energy</ml:concept><ml:concept>Energy and Mining</ml:concept><ml:concept>Environment</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Social Protections and Labor</ml:concept><ml:concept>Science and Technology</ml:concept><ml:concept>Information and Communication Technologies</ml:concept><ml:concept>Social Development</ml:concept><ml:concept>Water</ml:concept><ml:concept>Public-Private Partnerships (PPP)</ml:concept><ml:concept>Rural Development</ml:concept><ml:concept>Agriculture and Food Security</ml:concept><ml:concept>Energy and Extractives</ml:concept><ml:concept>Environment and Natural Resources</ml:concept><ml:concept>Health, Nutrition and Population</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Social Protection and Labor</ml:concept><ml:concept>Water and Sanitation</ml:concept><ml:concept>Agriculture and Rural Development</ml:concept><ml:concept>Sanitation and Sewerage</ml:concept><ml:concept>Wastewater Treatment</ml:concept><ml:concept>Livestock</ml:concept><ml:concept>Livestock and Animal Husbandry</ml:concept><ml:concept>Contract Payments</ml:concept><ml:concept>Access to Basic Sanitation</ml:concept><ml:concept>On-site Sanitation</ml:concept><ml:concept>Sanitation Marketing</ml:concept><ml:concept>Sanitation Promotion</ml:concept><ml:concept>Water Safety Planning</ml:concept><ml:concept>Longevity</ml:concept><ml:concept>Governance and Public Accountability (GPA)</ml:concept><ml:concept>Incentives for Good Government</ml:concept><ml:concept>National Governance</ml:concept><ml:concept>Contract Management</ml:concept><ml:concept>Governance Institutions</ml:concept><ml:concept>Institutional Arrangements in Public Procurement</ml:concept><ml:concept>Institutional Capacity</ml:concept><ml:concept>Institutional Reform</ml:concept><ml:concept>Legal Regulatory Framework</ml:concept><ml:concept>State-Society Relations</ml:concept><ml:concept>Income</ml:concept><ml:concept>Engineering</ml:concept><ml:concept>Agricultural Growth and Rural Development</ml:concept><ml:concept>Water Supply and Sanitation</ml:concept><ml:concept>Rural Health</ml:concept><ml:concept>Water Supply</ml:concept><ml:concept>Sanitation and Wastewater</ml:concept><ml:concept>Diseases</ml:concept><ml:concept>Malaria</ml:concept><ml:concept>Water, Sanitation and Hygiene</ml:concept><ml:concept>Elderly</ml:concept><ml:concept>Animal Production</ml:concept><ml:concept>Forests</ml:concept><ml:concept>Women</ml:concept><ml:concept>Sanitation</ml:concept><ml:concept>Water Safety Plans</ml:concept><ml:concept>Pipelines</ml:concept><ml:concept>Community Mapping</ml:concept><ml:concept>Public Health</ml:concept><ml:concept>Aging</ml:concept><ml:concept>Governance</ml:concept></ml:concepts><ml:geo-regions><ml:geo-region>Asia</ml:geo-region><ml:geo-region>Southern Asia</ml:geo-region></ml:geo-regions></ml:annotations></ml:doc-envelope>

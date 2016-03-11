@@ -1,0 +1,1366 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>WATER AND SANITATION PROGRAM: TECHNICAL PAPER&#13;
+&#13;
+&#13;
+                                                                             85192&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Review of&#13;
+Community-Managed&#13;
+Decentralized Wastewater&#13;
+Treatment Systems in&#13;
+Indonesia&#13;
+June 2013&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+The Water and Sanitation Program is a multi-donor partnership&#13;
+administered by the World Bank to support poor people in obtaining&#13;
+affordable, safe, and sustainable access to water and sanitation services.&#13;
+&amp;#12;Acknowledgments&#13;
+This report was prepared by Kathy Eales, Isabel Blackett, Reini&#13;
+Siregar, and Evi Febriani. Valuable inputs were provided by&#13;
+Almud Weitz and the study reviewers Franz Drees-Gross, Soma&#13;
+Moulik Ghosh, Param Iyer and Sudipto Sarkar. This document&#13;
+was based on a study funded by AusAID.&#13;
+&#13;
+Photos by Kathy Eales&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Water and Sanitation Program (WSP) reports are published to communicate the&#13;
+results of WSPâ&#128;&#153;s work to the development community. Some sources cited may be&#13;
+informal documents that are not readily available.&#13;
+&#13;
+The ï¬&#129;ndings, interpretations, and conclusions expressed herein are entirely those&#13;
+of the author and should not be attributed to the World Bank or its afï¬&#129;liated&#13;
+organizations, or to members of the Board of Executive Directors of the World&#13;
+Bank or the governments they represent. The World Bank does not guarantee the&#13;
+accuracy of the data included in this work. The boundaries, colors, denominations,&#13;
+and other information shown on any map in this work do not imply any judgment&#13;
+on the part of the World Bank Group concerning the legal status of any territory or&#13;
+the endorsement or acceptance of such boundaries.&#13;
+&#13;
+The material in this publication is copyrighted. Requests for permission to&#13;
+reproduce portions of it should be sent to wsp@worldbank.org. WSP encourages&#13;
+the dissemination of its work and will normally grant permission promptly. For more&#13;
+information, please visit www.wsp.org.&#13;
+&#13;
+&#13;
+Â© 2013 International Bank for Reconstruction and Development/The World Bank&#13;
+&#13;
+The World Bank&#13;
+1818 H Street NW&#13;
+Washington DC 20433&#13;
+Telephone: 202-473-1000&#13;
+Internet: www.worldbank.org&#13;
+&amp;#12;Contents&#13;
+Executive Summary................................................................................................................................. 1&#13;
+&#13;
+I.    Introduction....................................................................................................................................... 2&#13;
+&#13;
+II.   Indonesiaâ&#128;&#153;s Urban Sanitation Challenges ....................................................................................... 5&#13;
+&#13;
+III. The Rise of Community-Managed DEWATS in Indonesia .............................................................. 7&#13;
+&#13;
+IV. Purpose of This Review.................................................................................................................... 9&#13;
+&#13;
+V.    Methodology .................................................................................................................................... 10&#13;
+      Institutional Roles, Sustainability and Urban Integration Aspects ........................................................ 11&#13;
+&#13;
+VI. Key Findings and Recommendations ............................................................................................ 11&#13;
+    Technical Aspects .............................................................................................................................. 14&#13;
+    Financial and Economic Aspects ...................................................................................................... 16&#13;
+    Equity and Pro-Poor Aspects ............................................................................................................ 18&#13;
+    Sustainability...................................................................................................................................... 20&#13;
+    Cost-Effectiveness ............................................................................................................................. 20&#13;
+&#13;
+VII. Overall Assessment ........................................................................................................................ 20&#13;
+     Integrated Sanitation Improvement .................................................................................................... 21&#13;
+&#13;
+VIII. Next Steps ....................................................................................................................................... 22&#13;
+&amp;#12;&amp;#12;Executive Summary&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Effective management of sanitation and wastewater is a           More than 80% of DEWATS installations function well day&#13;
+growing challenge in dense urban settlements. In many            to day, comply with environmental discharge regulations,&#13;
+developing countries, centralized sewerage and wastewater        and enable far-reaching changes in environmental health&#13;
+treatment systems cover only a portion of larger urban ar-       and personal behaviors in urban areas otherwise likely to&#13;
+eas, and on-site sanitation is often inappropriate in densely    remain unserviced for some time.&#13;
+populated settlements. Intermediate and complementary&#13;
+solutions are needed.                                            The simplified sewer systems retain higher usage levels than&#13;
+                                                                 community-sanitation centers as they offer users greater con-&#13;
+Community-managed anaerobic decentralized wastewa-               venience and privacy. They are more resilient in the face of&#13;
+ter treatment systems (DEWATS) offer the possibility of          weak management as they require less operating income and&#13;
+relatively swift sanitation improvements in high priority        maintenance than communal facilities. Communal sanitation&#13;
+neighborhoods that communities can manage themselves,            centers have the highest number of users and work best where&#13;
+where local government does not yet provide a full sanita-&#13;
+tion service.                                                       a) there is a high population of tenants or non-perma-&#13;
+                                                                       nent residents&#13;
+This review explores Indonesiaâ&#128;&#153;s experience in implement-           b) there is no space for households to build their own&#13;
+ing community-managed DEWATS on a growing scale. In                    toilets or soak pits/septic tanks,&#13;
+a context of extremely low sewer coverage, the Government           c) the area is prone to flooding or subsidence, and/or&#13;
+of Indonesia sees community-managed DEWATS as its                   d) the water source serving the community sanitation&#13;
+best available option for eradicating open defecation and              center will be the primary local source of reliable,&#13;
+improving sanitation in selected poor dense urban settle-              good quality water.&#13;
+ments until full municipal sewerage and wastewater treat-&#13;
+ment are feasible.                                               The cost-effectiveness of DEWATS is shaped primarily by&#13;
+                                                                 the number of people using a particular facility. Where the&#13;
+Three types of DEWATS are being implemented. To date,            number of users per site is above 50 households, the average&#13;
+77% have been community sanitation centers (CSCs), with          cost is substantially lower than centralized systems.&#13;
+toilets, washing and laundry facilities. Alternatively, in 16%&#13;
+of cases wastewater is collected from household toilets by       The sustainability of service provision with community-man-&#13;
+a simplified sewer system (SSS) and gravity-fed to a DE-         aged DEWATS is vulnerable to a range of challenges: varying&#13;
+WATS plant. In a further 6%, a local sewer network and a         levels of motivation by community management structures,&#13;
+communal sanitation facility are combined, making these          inadequate operating income to cover major repairs, limited&#13;
+the most inclusive as they accommodate both household            concern for wastewater treatment performance relative to&#13;
+connections as well as access to sanitation for those unable     functioning facilities and free-flowing sewers, and inadequate&#13;
+to connect to the network.                                       external support when things go wrong.&#13;
+&#13;
+&#13;
+&#13;
+www.wsp.org&#13;
+                                                                                                                                  1&#13;
+&amp;#12;    Review of Community-Managed Decentralized Wastewater Treatment Systems in Indonesia&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+    The assumption that communities can and will manage                            DEWATS as a scalable urban sanitation option should be&#13;
+    facilities and wastewater treatment on their own without                       developed only in the context of a bigger picture that maps&#13;
+    external support is overstated. Community-based organi-                        where decentralized systems fit into a broader city sanita-&#13;
+    zations lose enthusiasm; desludging is neglected; and even                     tion strategy: which areas will be integrated into evolving&#13;
+    the most committed users are reluctant to fund major re-                       centralized sewer systems, and within what time frames,&#13;
+    pairs and refurbishment on their own. Sustained use of the                     and which areas are likely to remain stand-alone decentral-&#13;
+    infrastructure and good treatment performance long term                        ized systems long term.&#13;
+    are unlikely without external monitoring and support for&#13;
+    technical and non-technical problem solving.                                   Decentralized systems that can be operated and managed&#13;
+                                                                                   by users are much more likely to reach the poor in the short&#13;
+    Community management should be reconceived as co-man-                          and medium term than the centralized piped systems and&#13;
+    agement, where user communities take responsibility for rou-                   treatment works that prioritize central business and dense&#13;
+    tine operation and maintenance, and local government and its                   downtown areas first.&#13;
+    partners provide greater technical and non-technical support.&#13;
+    Sustained improvements in sanitation and hygiene practices                     In summary, community-managed DEWATS can be effective&#13;
+    require ongoing reinforcement, support and monitoring.                         for serving poor communities where the appropriate type of&#13;
+                                                                                   system is built well in the right location, the number of users&#13;
+    Community-managed DEWATS do not absolve local gov-                             is optimized and sustained, and there is shared responsibil-&#13;
+    ernment of its sanitation management responsibilities and                      ity with government for operation and maintenance. Com-&#13;
+    should not delay more comprehensive planning and invest-                       munity-managed DEWATS should be developed as part of a&#13;
+    ment in integrated sanitation improvement using both im-                       broader city sanitation plan and only where a community&#13;
+    proved on-site and off-site sewerage systems.                                  has the motivation to make them work.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+2                                                                                                    Review of Community-Managed DEWATS in Indonesia&#13;
+&amp;#12;I.                  Introduction&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                               The Government of Indonesia sees community-managed&#13;
+  In this review the term decentralized waste-                 DEWATS as its best available option for eradicating open&#13;
+  water treatment systems (DEWATS) refers&#13;
+                                                               defecation and improving sanitation in selected poor dense&#13;
+  speciï¬&#129;cally to passive anaerobic treatment&#13;
+                                                               settlements until full municipal sewerage and wastewater&#13;
+  systems. The most commonly used tech-&#13;
+                                                               treatment are feasible. It aims to reach 5% of the urban&#13;
+  nology in Indonesiaâ&#128;&#153;s community-managed&#13;
+  DEWATS programs is an anaerobic bafï¬&#130;ed                       population, or six million people, by 2014, through thou-&#13;
+  reactor (ABR).                                               sands of DEWATS installations. Indonesia is giving equal&#13;
+                                                               weight to centralized and decentralized systems in pursu-&#13;
+                                                               ing its Millenium Development Goals (MDG) and sector&#13;
+Effective management of sanitation and wastewater is a         goals: by 2014, it is aiming for 5% coverage by centralized&#13;
+growing challenge in dense urban settlements. Rapidly          systems too.&#13;
+increasing urbanization and, along with that, rising settle-&#13;
+ment densities in low-income urban and peri-urban areas        This review explores Indonesiaâ&#128;&#153;s experience in implement-&#13;
+highlight the need for sanitation technologies and manage-     ing community-managed DEWATS on a growing scale,&#13;
+ment systems that are robust and affordable, and which         and more specifically, whether community-managed DE-&#13;
+lessen the pollution load on local water sources.              WATS are a viable urban sanitation option for serving poor&#13;
+                                                               households in dense settlements.&#13;
+In many developing countries, centralized sewerage and&#13;
+wastewater treatment systems cover only a portion of larger    Figure 1:   Community-Managed Dewats Can&#13;
+urban areas, and are often not yet planned for smaller towns               Offer Signiï¬&#129;cant Improvements in Dense&#13;
+and densely populated, low-income areas of cities. On-site                 Settlements Not Served by Centralized&#13;
+                                                                           Sewer Systems&#13;
+sanitation is often inappropriate in the denser settlements&#13;
+and slum areas, thus requiring intermediate and comple-&#13;
+mentary solutions.&#13;
+&#13;
+Decentralized wastewater treatment systems (DEWATS)&#13;
+connected to simplified sewer systems or communal sani-&#13;
+tation centers have the potential to close the gap between&#13;
+on-site and centralized systems. Community-managed&#13;
+DEWATS offer the possibility of swift sanitation improve-&#13;
+ments in high priority neighborhoods that communities&#13;
+can manage themselves, where local government does not&#13;
+yet provide a full sanitation service.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+www.wsp.org&#13;
+                                                                                                                             3&#13;
+&amp;#12;    Review of Community-Managed Decentralized Wastewater Treatment Systems in Indonesia&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+    The performance of DEWATS in treating wastewater has been                             This review draws on quantitative and qualitative data&#13;
+    documented elsewhere1; this assessment is more concerned                              from nearly 400 sites implemented between 2003 and&#13;
+    with whether operation and management of DEWATS by                                    2011 (representing about 70% of the DEWATS developed&#13;
+    neighborhood-based self-help groups is a viable option for                            between 2003 and 2009) and the experiences of a wide&#13;
+    supporting service improvements in low-income urban areas                             range of stakeholders. It reflects on some outcomes and&#13;
+    at scale. The emphasis is less on the â&#128;&#152;Tâ&#128;&#153; in DEWATS for â&#128;&#152;treat-                       learning over the decade since the first projects were pi-&#13;
+    mentâ&#128;&#153; than the â&#128;&#152;Sâ&#128;&#153; for â&#128;&#152;systemsâ&#128;&#153; in the widest sense.                                 loted in 2003.&#13;
+&#13;
+&#13;
+        Box 1: Community-Managed Dewats in Indonesia&#13;
+&#13;
+        Thousands of community-managed DEWATS are being developed across Indonesia. Government funds most of the&#13;
+        infrastructure development, and project implementation has a strong emphasis on community engagement and em-&#13;
+        powerment. There are three main types. The majority are colorful tiled community sanitation centers (CSCs), with toi-&#13;
+        lets, washing and laundry facilities. Alternatively, wastewater is collected from households by a simpliï¬&#129;ed sewer system&#13;
+        (SSS), with the treatment infrastructure often built under the road to save space and lower costs in dense settlements.&#13;
+        A small minority offers both a local sewer network and a communal sanitation facility, and serves households that&#13;
+        have their own toilet and washing facilities as well as those that do not. Each system typically serves between 20 and&#13;
+        100 households, and is managed by a small committee of residents who are responsible for long-term operation and&#13;
+        maintenance.&#13;
+      Figure&#13;
+    Figure    Community&#13;
+           2: 2 : Community&#13;
+                         sanitation&#13;
+                            Sanitation&#13;
+                                    centers with&#13;
+                                       Centers   DEWATS&#13;
+                                               with DEWATS&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+        Figure 3: Neighborhoods Served by Simpliï¬&#129;ed Sewers and a Communal Treatment Plant&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+    1&#13;
+     Ulrich, A, Reuter, S, and Gutterer, B (eds.), with Sasse, L., Panzerbieter, T. and ReckergzÃ¼gel, T. (2009) Decentralised Wastewater Treatment Systems (DEWATS) and&#13;
+    Sanitation in Developing Countries.&#13;
+&#13;
+4                                                                                                                Review of Community-Managed DEWATS in Indonesia&#13;
+&amp;#12;II.                     Indonesiaâ&#128;&#153;s Urban Sanitation Challenges&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Indonesiaâ&#128;&#153;s urban sanitation challenges are acute. Half of           investment in sewer infrastructure has been low. Seventy-&#13;
+Indonesiaâ&#128;&#153;s population of 242 million people live in urban           three percent of people in towns and cities have improved&#13;
+settlements, yet less than 2% are connected to a centralized         sanitation, but the vast majority rely on toilets connected&#13;
+sewer network and treatment system. Just twelve cities have          to soak pits or poorly constructed, open-bottomed â&#128;&#156;tanki&#13;
+any centralized sewering, and even Jakarta, the capital, with        septikâ&#128;&#157;.&#13;
+nearly 14 million people, has under 2% sewer coverage. In-&#13;
+donesiaâ&#128;&#153;s piped sewer coverage compares poorly with other            An estimated 14% of the urban population still practice&#13;
+countries with a similar Gross Domestic Product (GDP) per            open defecation or use overhanging â&#128;&#152;helicopter toiletsâ&#128;&#153; that&#13;
+capita.                                                              discharge directly into canals and rivers below. The extent of&#13;
+                                                                     water pollution is severe. Two-thirds â&#128;&#147; 66% â&#128;&#147; of Indonesiaâ&#128;&#153;s&#13;
+Historically, sanitation improvement in Indonesia has been           urban population are still not connected to a piped water&#13;
+seen as a household responsibility, and public demand for            network, and rely heavily on untreated groundwater.&#13;
+&#13;
+&#13;
+Figure 4: Indicative Piped Sewer Coverage in Countries with a Comparable GDP Per Capita&#13;
+&#13;
+                                                                           Percent coverage&#13;
+                        0                   20                  40                  60                   80                  100&#13;
+&#13;
+          Morocco&#13;
+         Mongolia&#13;
+        Guatemala&#13;
+  Congo Republic&#13;
+        Indonesia&#13;
+           Ukraine&#13;
+         Paraguay&#13;
+              Albania&#13;
+              Tunisia&#13;
+              Jordan&#13;
+          Thailand&#13;
+&#13;
+                        0              1000          2000                3000             4000                5000          6000&#13;
+                                                                         GDP per capita (US$)&#13;
+                                                     GDP per capita             Percent coverage with piped sewers&#13;
+&#13;
+Source; UNICEF/ WHO JMP, 2012; World Bank, 2012&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+www.wsp.org&#13;
+                                                                                                                                      5&#13;
+&amp;#12;    Review of Community-Managed Decentralized Wastewater Treatment Systems in Indonesia&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+    Poor sanitation is holding back Indonesiaâ&#128;&#153;s human and eco-                       Local government is formally responsible for ensuring the&#13;
+    nomic development. The real annual economic cost of poor                         availability of basic services, but gives sanitation low prior-&#13;
+    sanitation in Indonesia has been quantified as US$6.3 bil-                       ity. Urban sanitation is almost entirely private and on-site,&#13;
+    lion (2006 figures), equivalent to 2.3% of GDP. Poor sani-                       and there is little institutional capacity yet to manage sani-&#13;
+    tation and water contribute extensively to health problems,                      tation services.&#13;
+    and diarrhea, Hepatitis A and E, scabies, worm infestations&#13;
+    and typhoid are common.&#13;
+&#13;
+&#13;
+      Box 2: The Meaning of DEWATS in Indonesia&#13;
+&#13;
+      If centralized&#13;
+    Figure           wastewater&#13;
+            2: Community         management&#13;
+                           sanitation          is characterized&#13;
+                                      centers with DEWATS       by one wastewater treatment plant for the largest possible&#13;
+      conï¬&#129;ned catchment area in a region, decentralization simply means the break-up of the catchment area into smaller&#13;
+      areas (IWA, n.d.). The smallest possible decentralized system is an on-site facility.&#13;
+      Decentralized systems vary in size, and include a range of technologies â&#128;&#147; aerobic, anaerobic or combined systems;&#13;
+      attached or dispersed media; passive or active systems, and so on. In this review, DEWATS is used to refer speciï¬&#129;cally&#13;
+      to passive anaerobic treatment systems.&#13;
+      The DEWATS used in Indonesia are typically one of the following:&#13;
+         â&#128;¢ Communal septic tank&#13;
+         â&#128;¢ Biodigester plus anaerobic bafï¬&#130;ed reactor plus anaerobic ï¬&#129;lter&#13;
+         â&#128;¢ Settler plus anaerobic bafï¬&#130;ed reactor plus anaerobic ï¬&#129;lter&#13;
+         â&#128;¢ Proprietary system using a permutation of the above systems&#13;
+&#13;
+&#13;
+      To date, anaerobic bafï¬&#130;ed reactors (ABRs), have been the most commonly used technology in Indonesiaâ&#128;&#153;s community-&#13;
+      managed DEWATS programs.&#13;
+      DEWATS plants may include secondary and tertiary aerobic and anaerobic treatment in planted gravel ï¬&#129;lters and/or&#13;
+      ponds. None of the domestic systems reviewed here uses planted gravel ï¬&#129;lters or ponds, primarily because of space&#13;
+      constraints in dense settlements. The treated efï¬&#130;uent is piped to an open drain, river or canal.&#13;
+      Anaerobic wastewater treatment systems have no moving parts, low running costs and, with adequate training and&#13;
+      support, can be operated and managed by the user community itself.&#13;
+&#13;
+      Figure 5: Community-Managed DEWATS as a Permutation of Decentralized Wastewater Management Systems&#13;
+&#13;
+&#13;
+                                Centralized                                                     Decentralized&#13;
+&#13;
+&#13;
+&#13;
+                                                                         Treatment System                   Management System&#13;
+&#13;
+                                                                                                                Community&#13;
+                                                             Anaerobic&#13;
+&#13;
+                                                                                                             Private Operator&#13;
+                                                               Aerobic&#13;
+                                                                                                            Municipality/Utility&#13;
+&#13;
+                                                                            Active    Passive&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+6                                                                                                       Review of Community-Managed DEWATS in Indonesia&#13;
+&amp;#12;III.                        The Rise of Community-Managed&#13;
+                            DEWATS in Indonesia&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Indonesiaâ&#128;&#153;s community-managed DEWATS approach,                                preferences of users so that they would be willing to accept&#13;
+known as SANIMAS (Sanitasi Oleh Masyarakat, or â&#128;&#152;Sanita-                       responsibility for a system that they liked and could man-&#13;
+tion by Communitiesâ&#128;&#153;), was piloted in seven sites in 2003-                    age, and equipping community management structures to&#13;
+04, in support of a wider sector policy reform initiative led                 operate the systems long term.&#13;
+by government. The SANIMAS concept was developed in&#13;
+the context of rapid decentralization of a range of powers                    The outcomes of the SANIMAS pilot program were en-&#13;
+and functions to local government, and soon after Indone-                     couraging, and from 2006 the Ministry of Public Works led&#13;
+siaâ&#128;&#153;s financial crisis of the late 1990s, which stalled govern-               the replication of SANIMAS more widely, developing 50 to&#13;
+ment investment in major infrastructure developments. At                      100 systems per year in poor neighborhoods. Implementa-&#13;
+that time there was limited capacity to fund, develop or op-                  tion approaches were shaped strongly by a partnership of&#13;
+erate centralized sanitation systems. SANIMAS emphasized                      NGOs with expertise in decentralized wastewater manage-&#13;
+building and responding to demand for sanitation improve-                     ment and community development. By 2009 there were&#13;
+ments at neighborhood level, respecting the choices and                       more than 420 SANIMAS installations around Indonesia.&#13;
+&#13;
+Figure 6:      Decentralized Systems as an Intermediate Step and Bridge to Centralized Sewerage and Wastewater&#13;
+               Management&#13;
+&#13;
+      Increasing cost&#13;
+                                                                                              Citywide piped sewerage&#13;
+                                                                                                 Off-site sanitation&#13;
+                                                                                           Centralized wastewater treatment&#13;
+&#13;
+                                                              6LPSOLÄºHG&amp;#3;VHZHU&amp;#3;QHWZRUN&#13;
+                                                             Community Sanitation Center&#13;
+                                                              Decentralized sanitation&#13;
+                                                         Decentralized wastewater treatment&#13;
+                                     Soak pit, Septic tank&#13;
+&#13;
+                                     On-site sanitation&#13;
+                                            Pit toilet&#13;
+                              â&#128;&#152;Helicopterâ&#128;&#153; toilet&#13;
+&#13;
+                                                                                                         Increasing complexity&#13;
+&#13;
+Source: Adapted from BORDA (2005), Blackett &amp; Perez (2006) and Utomo (2012)&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+www.wsp.org&#13;
+                                                                                                                                             7&#13;
+&amp;#12;    Review of Community-Managed Decentralized Wastewater Treatment Systems in Indonesia&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+    Since 2007 Indonesiaâ&#128;&#153;s government has given growing at-                        lection and treatment systems in 15 cities and imple-&#13;
+    tention to national sanitation improvement. The reasons                        menting decentralized community-managed systems in&#13;
+    have less to do with rising popular demand than with the                       226 cities.&#13;
+    combination, at national government level, of evidence-&#13;
+    based advocacy (notably WSPâ&#128;&#153;s Economics of Sanitation                          Indonesiaâ&#128;&#153;s government is now massively expanding DE-&#13;
+    study that quantified the impacts of poor sanitation), pres-                   WATS implementation and aims to reach 5% of the urban&#13;
+    sure to address Millennium Development Goals, and eco-                         population â&#128;&#147; 6 million people â&#128;&#147; by 2014. Three national&#13;
+    nomic recovery and growing macro-economic fiscal space                         projects are underway, with a fourth being launched in&#13;
+    (WSP, 2011b). At city level, a national sanitation sector de-                  2013. In parallel, it aims to expand the coverage of central-&#13;
+    velopment program focused attention on building sanita-                        ized sewer networks and wastewater treatment systems to&#13;
+    tion capacity, mainly through supporting detailed city-level                   reach a further 5% of the urban population. Government is&#13;
+    assessment of sanitation needs and the development of city-                    extending coverage by piped sewers in five cities with cen-&#13;
+    wide poor-inclusive strategic sanitation plans.                                tralized systems, and planning new sewerage developments&#13;
+                                                                                   in a further eight cities.&#13;
+    In 2009, the government announced a five-year Accelera-&#13;
+    tion of Sanitation Development in Human Settlements                            The National Development Planning Agency, BAPPENAS,&#13;
+    Program (Percepatan Pembangunan Sanitasi Permuki-                              is promoting community-managed DEWATS as an inter-&#13;
+    man, or PPSP) as part of a wider five-year (2010-2014)                         mediate solution for selected poor dense settlements until&#13;
+    national development plan, with substantially increased                        full municipal sewerage and wastewater treatment are fea-&#13;
+    funding for urban sanitation development. Its prior-                           sible. Local networks developed for DEWATS will in time&#13;
+    ity was to eradicate open defecation and improve urban                         be integrated into a wider sewer system with centralized&#13;
+    wastewater management, by developing centralized col-                          treatment wherever possible.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+8                                                                                                    Review of Community-Managed DEWATS in Indonesia&#13;
+&amp;#12;IV.                    Purpose of This Review&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+This review was undertaken over a period of eight months     period to 2009, before the surge in the scale of imple-&#13;
+in 2011-2012 at the request of the Government of Indo-       mentation, and to identify lessons for a wider interna-&#13;
+nesia, to assist in improving its scale-up plans. It aimed   tional audience, since Indonesia is currently one of the&#13;
+to assess the effectiveness and outcomes of community-       countries with the highest number of DEWATS in op-&#13;
+managed DEWATS projects implemented mainly in the            eration.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+www.wsp.org&#13;
+                                                                                                                        9&#13;
+&amp;#12; V.                                                            Methodology&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+ This review drew on a range of primary information sourc-                                                                        Table 1. Summary of Primary Data Sets and Survey Sites&#13;
+ es, including three site-based surveys covering nearly 400                                                                                        Community      Simple&#13;
+                                                                                                                                                                             Combined&#13;
+ community-based DEWATS sites, or 70% of the total                                                                                                 Sanitation     Sewer&#13;
+                                                                                                                                     Data Set                                CSC and         Total&#13;
+                                                                                                                                                    Centers      Systems&#13;
+ developed between 2003 and 2012. The largest survey, of                                                                                                                       SSS&#13;
+                                                                                                                                                     (CSC)         (SSS)&#13;
+ 298 installations operational for at least a year, was commis-                                                                   Ministry of&#13;
+ sioned for this review and covered the majority of SANI-                                                                         Public Works         27            5            8             40&#13;
+ MAS sites completed by 2009. It is cited as BORDA-WSP                                                                            2011&#13;
+&#13;
+ 2011.2 These quantitative data were complemented by                                                                              WSP-BORDA&#13;
+                                                                                                                                                      198           69           31           298&#13;
+                                                                                                                                  2011&#13;
+ qualitative data from 50 further sites in seven cities; focus&#13;
+                                                                                                                                  WSP â&#128;&#147; Site&#13;
+ group discussions with users and community management                                                                            visits 2011/12&#13;
+                                                                                                                                                       31           13            6             50&#13;
+ representatives at 37 of those sites; and interviews with a                                                                      WSP â&#128;&#147; Focus&#13;
+ wide range of stakeholders. A growing body of relevant sec-                                                                                           18           13            6             37&#13;
+                                                                                                                                  Groups 2012&#13;
+ ondary literature informed the assessment.&#13;
+&#13;
+ Figure 7:                      Location of the Seven Cities Visited by the WSP Research Team. Jakarta is Shown Here as a Point of&#13;
+                                Reference Only&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                   Banjarmasin&#13;
+                                                                           Palembang&#13;
+                                                                                                                                 Makassar&#13;
+&#13;
+                                                                                                    Tegal&#13;
+                                                                                  Jakarta                   Semarang&#13;
+                                                                                                     Yogyakarta&#13;
+&#13;
+&#13;
+       This map was cleared by the Map Design Unit of The World Bank. The boundaries, colors,&#13;
+       denominations and any other information shown on this map do not imply, on the part of The&#13;
+       World Bank Group, any judgment on the legal status of any territory, or any endorsement or&#13;
+       acceptance of such boundaries.                                                                                                                                                   August 2013&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+ 2&#13;
+     The survey included sites in which BORDA had an involvement and those which were wholly implemented by government.&#13;
+&#13;
+10                                                                                                                                                 Review of Community-Managed DEWATS in Indonesia&#13;
+&amp;#12;VI.                     Key Findings and Recommendations&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Key findings and recommendations are grouped into four                settlements with a strong ethic of voluntary service&#13;
+broad areas of assessment: institutional roles, sustainability        for the good of the community; this is particularly&#13;
+and urban integration aspects; technical aspects; financial           pronounced in central and eastern Java. Maintaining&#13;
+and economic aspects; and equity and pro-poor aspects.                motivation and continuity among voluntary office&#13;
+                                                                      bearers is often a challenge, in particular when com-&#13;
+INSTITUTIONAL ROLES, SUSTAINABILITY AND                               munity leadership changes.&#13;
+URBAN INTEGRATION ASPECTS                                           â&#128;¢ Few user communities regard desludging as neces-&#13;
+                                                                      sary or their responsibility, and very few DEWATS&#13;
+KEY FINDINGS:                                                         have been desludged to date. Desludging does not&#13;
+                                                                      impact on their ability to utilize the facilities; con-&#13;
+   â&#128;¢ Over 80% of installations are functioning well                   genial facilities and sewer networks that drain well&#13;
+     day to day. There is strong evidence that most com-              matter far more to users than a concern for the qual-&#13;
+     munities are willing and able to take responsibility             ity of discharged effluent. The evidence suggests lo-&#13;
+     for day-to-day operation and maintenance, and that               cal government will need to play an active role in&#13;
+     they appreciate the benefits and quality of the facili-          undertaking, subsidizing or facilitating desludging at&#13;
+     ties.                                                            DEWATS facilities.&#13;
+   â&#128;¢ Many community management structures do not&#13;
+     function as assumed. Management structures were             Figure 8:   Many Community Sanitation Centers are&#13;
+     in place in two-thirds of the sites surveyed, although                  Designed to Provide a Meeting Space tor&#13;
+     some are inactive and exist in name only. A small                       Local Residents Living in Dense Settlements&#13;
+                                                                             with Limited Public Space&#13;
+     cluster in West Java is managed semi-commercially&#13;
+     by an NGO; some are run informally by an adjacent&#13;
+     mosque or by users, or are overseen by the head of&#13;
+     the neighborhood administration. About 10% of fa-&#13;
+     cilities are completely dysfunctional and not in use.&#13;
+     Simplified sewer systems appear to be the most resil-&#13;
+     ient in the face of weak management, as they require&#13;
+     the least maintenance and income and do not need a&#13;
+     full-time operator.&#13;
+   â&#128;¢ Community management approaches are more&#13;
+     effective in some areas than in others, and are&#13;
+     vulnerable to changes in community leadership.&#13;
+     Management structures work particularly well in&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+www.wsp.org&#13;
+                                                                                                                           11&#13;
+&amp;#12; Review of Community-Managed Decentralized Wastewater Treatment Systems in Indonesia&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+        â&#128;¢ Local government support, in particular post-con-                                     and working conditions of facilitators supporting&#13;
+          struction, is largely absent. The benefits of substan-                                the different programs, and local government is not&#13;
+          tial public investment in sanitation improvement are                                  yet allocating adequate funds to prepare communi-&#13;
+          being compromised by weak systems for monitoring,                                     ties adequately to manage local services sustainably.&#13;
+          support and intervention once construction has been&#13;
+          completed. Users and their management committees                             RECOMMENDATIONS:&#13;
+          need both technical and non-technical support; keep-&#13;
+          ing the infrastructure working is essential, but manag-                          â&#128;¢ Integrate DEWATS into wider city sanitation&#13;
+          ing community dynamics, sustaining behavior change                                 planning and management. Develop DEWATS&#13;
+          and motivating users to pay matter even more. The                                  only in the context of a wider sanitation plan that&#13;
+          review found evidence of a range of problems and dif-                              maps where decentralized systems fit into the over-&#13;
+          ficulties requiring external intervention. With a few                              all city sanitation improvement strategy. This will&#13;
+          exceptions, there is almost no monitoring of usage or                              include which areas will continue to use on-site&#13;
+          performance post construction, no provision for on-                                systems; which areas will be integrated into evolv-&#13;
+          going support and training for community manage-                                   ing centralized sewer systems, and within what time&#13;
+          ment structures post construction, and no help lines                               frames; and which areas are likely to remain stand-&#13;
+          or referral systems for those seeking help.                                        alone decentralized systems in the long term.&#13;
+        â&#128;¢ NGO implementation approaches are not readily                                    â&#128;¢ Move from â&#128;&#152;Sanitation by Communitiesâ&#128;&#153; to Co-&#13;
+          replicable by government at scale. The implemen-                                   management, or â&#128;&#153;Sanitation with Communitiesâ&#128;&#153;.&#13;
+          tation approach adopted for community-managed                                      Community-managed DEWATS should be recon-&#13;
+          DEWATS is relatively resource intensive. Given                                     ceived as a co-management partnership, with a&#13;
+          the growing scale of implementation nationally, the                                straightforward and transparent division of respon-&#13;
+          number of facilitators, contractors, and project ad-                               sibilities: communities are responsible for â&#128;&#152;above&#13;
+          ministrators involved is immense, and the transac-                                 groundâ&#128;&#153; day-to-day operation and maintenance and&#13;
+          tion costs are relatively high. A parallel sanitation                              minor repairs that they can easily detect and fix, while&#13;
+          training and capacity study concluded that a signifi-                              local government and potentially outsourced private&#13;
+          cant gap of available personnel would have a critical                              partners are responsible for â&#128;&#152;below groundâ&#128;&#153; sustain-&#13;
+          impact on achieving Indonesiaâ&#128;&#153;s sanitation targets3.                               ability and provide desludging and disposal of sludge&#13;
+          Government does not have the capacity and resourc-                                 and major maintenance support, along with non-&#13;
+          es to shape and nurture a multitude of small projects                              technical support to professionalize community-based&#13;
+          in the way that an NGO network can when working                                    organizations. Building strong monitoring systems in&#13;
+          at a modest scale with a cadre of experienced devel-                               local government, supported by up-to-date databases,&#13;
+          opment practitioners in multi-disciplinary teams.                                  is essential for the sustainability of the systems, as is a&#13;
+        â&#128;¢ There are significant bottlenecks in the recruit-                                  firm plan and institutional framework for post-con-&#13;
+          ment, training and support of project facilitators.                                struction support over the long term.&#13;
+          It takes skilled facilitation to mobilize residents ef-                          â&#128;¢ Develop co-management capacity in local govern-&#13;
+          fectively for lasting sanitation improvement and to                                ment as an integral part of its institutional models&#13;
+          accept responsibility for long-term operation and                                  for addressing sanitation, wastewater and septage&#13;
+          management of facilities. Rapid scaling up of proj-                                management responsibilities. Central government&#13;
+          ect implementation has raised demand for experi-                                   should stimulate institution building for sanitation in&#13;
+          enced facilitators well beyond the available supply,                               local government by offering financial incentives to&#13;
+          and government is struggling to provide adequate                                   cities that set up an autonomous municipal wastewater&#13;
+          training and support to new recruits on the scale re-                              utility, or take steps towards this goal with a technical&#13;
+          quired. There are big differences in the remuneration                              service unit or regional service delivery entity.&#13;
+&#13;
+ 3&#13;
+     PT Qipra Galang Kualita (2012). Sanitation Training and Capacity Study. Water and Sanitation Program, March 2012.&#13;
+&#13;
+12                                                                                                           Review of Community-Managed DEWATS in Indonesia&#13;
+&amp;#12;Review of Community-Managed Decentralized Wastewater Treatment Systems in Indonesia&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Figure 9: What Communities Can Be Expected to Manage&#13;
+&#13;
+&#13;
+                     Can                  Clean community sanitation center&#13;
+                                          Keep simpliï¬&#129;ed sewer networks unblocked&#13;
+                                          Collect payments                            Above-ground&#13;
+                                          Routine building maintenance (painting,     offers users&#13;
+                                          Minor repairs (taps, blockages)             direct beneï¬&#129;ts&#13;
+                                          Check inlets&#13;
+                                          Buy supplies&#13;
+                                          Manage operator&#13;
+&#13;
+                     Maybe                De-scum settler&#13;
+                                          Check outlets&#13;
+                                                                                                            Below-ground&#13;
+                     Canâ&#128;&#153;t                Monitor efï¬&#130;uent quality                                           doesnâ&#128;&#153;t affect&#13;
+                                          Desludging                                                         users directly&#13;
+                                          Do major maintenance&#13;
+                                          Do post-disaster repairs&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+  Box 3: Mainstreaming DEWATS into Integrated Wastewater and Septage Management&#13;
+&#13;
+  The city of Makassar is building the institutional framework for an integrated sanitation, septage and wastewater util-&#13;
+  ity. It began by setting up a mobile support team in its Human Settlements Department to provide post-construction&#13;
+  support to community-managed DEWATS. In mid-2012, it transferred the team to a new technical service unit with&#13;
+  responsibility for monitoring and supporting DEWATS, providing a desludging service and managing septage and&#13;
+  drainage in the city. The mobile support team continues to work closely with Health and Community Development staff.&#13;
+  From 2014 the unit will be restructured to also manage the new centralized sewerage and treatment system being&#13;
+  built to serve the cityâ&#128;&#153;s central business and recreation district. In time the organization could become a full commercial&#13;
+  utility company straddling centralized and decentralized wastewater management, septage collection and treatment&#13;
+  and drainage.&#13;
+&#13;
+  Figure 10: Members of Makassarâ&#128;&#153;s Mobile Unit Provide Support to Community-Managed DEWATS&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+www.wsp.org&#13;
+                                                                                                                                13&#13;
+&amp;#12; Review of Community-Managed Decentralized Wastewater Treatment Systems in Indonesia&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+     â&#128;¢ Before construction starts, ensure that local resi-                      Figure 11: Integrated Citywide Sanitation Planning is&#13;
+       dents understand what they will have to do, man-                                    Essential to Achieve Lasting Improvements&#13;
+       age and fund long term. Clarify the respective roles&#13;
+       of central, local government, and local residents and&#13;
+       secure a formal agreement between all parties through&#13;
+       a memorandum of understanding for every site.&#13;
+     â&#128;¢ Integrate water and sanitation planning: develop&#13;
+       simplified sewer systems in areas served or to be&#13;
+       served by piped water. Increased availability of&#13;
+       piped water will result in greater volumes of waste-&#13;
+       water that require management. Where houses are&#13;
+       owner-occupied and there is enough space to build,&#13;
+       households that obtain a piped water connection are&#13;
+       more likely to develop their own household toilet&#13;
+       and washing facilities, and usage of community sani-                     TECHNICAL ASPECTS&#13;
+       tation centers may well decline.&#13;
+     â&#128;¢ Ensure regular desludging and safe sludge treat-                         KEY FINDINGS:&#13;
+       ment disposal or reuse. Consider the full sanitation&#13;
+       service chain, from excreta collection to septage dis-                          â&#128;¢ The vast majority of community-managed DE-&#13;
+       posal or reuse. DEWATS plants should be accessible                                WATS in Indonesia are community sanitation&#13;
+       to sludge collection vehicles either by appropriate                               centers. These constitute 77% of all systems de-&#13;
+       siting in relation to road access or by ensuring small-                           veloped through the SANIMAS program between&#13;
+       er vehicles are available and able to navigate nar-                               2003 and 2010, followed by simplified sewer systems&#13;
+       row alleys. Without effective septage management,                                 (16%) and combined systems (6%). Early program&#13;
+       the health and environmental benefits of improved                                 guidelines envisaged community sanitation centers&#13;
+       wastewater treatment in one neighborhood will be                                  servicing users who were not permanent residents&#13;
+       undermined by indiscriminate dumping of septage                                   and had little incentive to invest in toilets of their&#13;
+       somewhere else.                                                                   own, and simplified sewer systems as the default. Us-&#13;
+     â&#128;¢ Develop a sound scaling up approach, not replica-                                 ers are involved in developing the design and layout&#13;
+       tion. Scaling up entails more than replicating a large                            of the facilities, but the choice of wastewater treat-&#13;
+       number of discrete projects, and requires different                               ment technology and whether to build a community&#13;
+       institutional arrangements, making the most effec-                                sanitation center or simplified sewer system is often&#13;
+       tive use of available resources. Align implementation                             decided elsewhere, not by users. An attractive com-&#13;
+       approaches with the funding and project implemen-                                 munity sanitation center is more conspicuous than&#13;
+       tation cycles and the bureaucratic requirements of                                a buried simple sewer network, and perhaps reflects&#13;
+       government. Work within government implementa-                                    well on the standing of a local leader.&#13;
+       tion frameworks, with mechanisms and incentives                                 â&#128;¢ There are important differences in DEWATS serv-&#13;
+       to strengthen multi-sectoral coordination, coopera-                               ing community sanitation centers and settlements&#13;
+       tion and accountability between sector departments.                               with house connections and simplified sewers.&#13;
+       Shift from a project-by-project approach to broader                               Simplified sewer systems collect effluent from peo-&#13;
+       programming, with some elements â&#128;&#147; community                                       pleâ&#128;&#153;s homes, whereas community sanitation centers&#13;
+       management training, sanitation promotion and so-                                 provide communal facilities and consequently re-&#13;
+       cial marketing, post-construction monitoring and so                               quire more land for a top-structure, and have greater&#13;
+       on â&#128;&#147; addressed collectively on a larger scale to mo-                              management and income requirements. Systems&#13;
+       bilize the wider resources and systems of the public                              with house connections offer users greater conve-&#13;
+       sector.                                                                           nience, and collect wastewater from a larger area.&#13;
+&#13;
+14                                                                                                   Review of Community-Managed DEWATS in Indonesia&#13;
+&amp;#12;Review of Community-Managed Decentralized Wastewater Treatment Systems in Indonesia&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                        in 2011 at 22 sites for the Ministry of Public Works,&#13;
+  Box 4: Characteristics of Community Sanitation&#13;
+  Centers with High Usage                                                               which were mainly on non-BORDA ABR plants. In-&#13;
+                                                                                        sufficient data were available to support assessment of&#13;
+                                                                                        the treatment performance of non-ABR systems.&#13;
+  â&#128;¢ Little space for residents to build their own toilets&#13;
+    and efï¬&#130;uent management systems                                                    â&#128;¢ Prefabricated wastewater treatment units are a good&#13;
+                                                                                        option for managing construction quality and re-&#13;
+  â&#128;¢ Challenging environments prone to ï¬&#130;ooding or&#13;
+    subsidence that deter households from investing                                     ducing project management risks, if supplied by&#13;
+    in their own toilets                                                                manufacturers that meet quality and performance&#13;
+  â&#128;¢ The majority of residents are not permanent and                                     standards. But if those quality and performance stan-&#13;
+    have little incentive to invest in developing their                                 dards are set too high, few suppliers will meet them and&#13;
+    own toilets                                                                         the potential benefits of prefabricated systems will be&#13;
+  â&#128;¢ Many casual users, because of nearby markets,                                       compromised. As yet there are no manufacturing qual-&#13;
+    transport hubs, schools or major thoroughfares                                      ity or performance standards and systems in place.&#13;
+  â&#128;¢ The facility provides a reliable source of good qual-                             â&#128;¢ Usage of biogas is low. The majority of SANIMAS&#13;
+    ity water in an area where there are no piped con-                                  community sanitation centers with ABRs have a&#13;
+    nections or the quality of service is poor, or where                                biodigester to collect biogas for fuel, but the biogas&#13;
+    alternative sources are unreliable or poor quality                                  is used at just one third of them, mainly by operators&#13;
+                                                                                        and almost exclusively for cooking. The reasons seem&#13;
+                                                                                        to be technical problems with biogas collection (gas&#13;
+                                                                                        leaks, broken or missing pipes) and the low volumes&#13;
+    â&#128;¢ Two-thirds of the systems developed to date use                                   of gas produced from weak effluent, rather than user&#13;
+      an anaerobic baffled reactor (ABR). A minority use                                reluctance. Few operators understand how to man-&#13;
+      a septic tank or proprietary system based on a septic                             age the digester, and the number burning off unused&#13;
+      tank. There is growing use of prefabricated propri-                               biogas is negligible; gas build-up in the digester can&#13;
+      etary systems made from fiber-reinforced plastics.                                compromise overall treatment performance.&#13;
+    â&#128;¢ Simplified sewer systems have been developed&#13;
+      mainly where most users already had a toilet at a                           Box 5: Advantages of Prefabricated Modular&#13;
+      home. Community sanitation centers were developed                           Dewats Components&#13;
+      mainly in areas where most people did not have their&#13;
+      own facilities, yet households in more than a third                         â&#128;¢ Mitigate a shortage of wastewater treatment de-&#13;
+      of neighborhoods served by community sanitation                               sign and construction professionals with standard-&#13;
+      centers went on to invest in building their own toi-                          ized modular components&#13;
+      lets. This is positive for reducing open defecation and                     â&#128;¢ Achieve consistent manufacturing and construc-&#13;
+      supporting better household sanitation practices, but                         tion quality by pre-certifying manufacturers&#13;
+      the type of facilities built generally offers less effective                â&#128;¢ Reduce implementation times, and simplify con-&#13;
+      treatment than DEWATS, and contribute to ongoing                              struction on site&#13;
+      water pollution.                                                            â&#128;¢ Suitable for challenging environments in tidal areas&#13;
+    â&#128;¢ Over 90% of systems tested complied with envi-                                or a high water table&#13;
+      ronmental standards. Indonesian environmental                               â&#128;¢ Reduce the project oversight responsibilities of the&#13;
+      regulations stipulate a maximum biological oxygen                             community management organization&#13;
+      demand (BOD) level of 100 mg/liter for discharged                           â&#128;¢ Reduce the facilitatorâ&#128;&#153;s scope of work and training&#13;
+      effluent. BORDA-WSP data from a sample of 99 sites                            requirements&#13;
+      with ABRs implemented with support from BORDA&#13;
+                                                                                  â&#128;¢ More transparent standardized costing&#13;
+      shows that 92% complied with Indonesian regula-&#13;
+                                                                                  â&#128;¢ Easier maintenance with lightweight manhole cov-&#13;
+      tions for reducing the organic content of treated ef-&#13;
+                                                                                    ers&#13;
+      fluent. These findings are consistent with tests done&#13;
+&#13;
+www.wsp.org&#13;
+                                                                                                                                              15&#13;
+&amp;#12; Review of Community-Managed Decentralized Wastewater Treatment Systems in Indonesia&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+ Figure 12: Laundry Facilities at a Community Sanitation                                 (COD) and biological oxygen demand (BOD) re-&#13;
+            Center Offer Good Quality Water, Good                                        moval than septic tank systems or biodigesters, toler-&#13;
+            Drainage and Company                                                         ate fluctuating loads well, and produce low volumes&#13;
+                                                                                         of biomass. The evidence suggests they can perform&#13;
+                                                                                         well even when operated by unskilled and untrained&#13;
+                                                                                         people. The additional cost of constructing internal&#13;
+                                                                                         compartments is offset by longer intervals between&#13;
+                                                                                         desludging, thus lowering operating costs for users.&#13;
+                                                                                       â&#128;¢ Develop biogas systems only where there is overt&#13;
+                                                                                         community demand, technical support available,&#13;
+                                                                                         and where sufficient biogas will be generated to war-&#13;
+                                                                                         rant the added costs and operating risks.&#13;
+&#13;
+                                                                                FINANCIAL AND ECONOMIC ASPECTS&#13;
+&#13;
+                                                                                KEY FINDINGS:&#13;
+ RECOMMENDATIONS:&#13;
+                                                                                       â&#128;¢ The number of users per site is lower than planned.&#13;
+     â&#128;¢ Select the right system for the neighborhood:                                     Median usage is 100 people per site, not the intended&#13;
+       develop simplified sewer systems, or combined                                     50 to 100 households (250-500 people). The lower&#13;
+       systems, as the default wherever local conditions                                 the number of users per site, the higher the capital&#13;
+       permit. Communities are more likely to use the fa-                                cost and life cycle cost per capita, and wastewater&#13;
+       cilities and take responsibility for daily operations                             treatment capacity is wasted. The difference between&#13;
+       and maintenance if they are what people want and                                  planned and current use is greatest in systems with&#13;
+       need, and are the right type of system to meet the                                community sanitation centers. Some were developed&#13;
+       needs of a particular neighborhood. Community                                     in neighborhoods where many residents already had&#13;
+       sanitation centers work best where there is no space                              their own toilets, indicating poor site selection; in&#13;
+       for households to build their own toilets or soak pits/                           other areas, residents subsequently invested in their&#13;
+       septic tanks, the area is prone to flooding or subsid-                            own toilets. If median levels of use were applied&#13;
+       ence, there is a high population of tenants or non-                               across all installations nationally, current programs&#13;
+       permanent residents, and/or the water source serving                              would need to develop five times as many sites to&#13;
+       the community sanitation center will be the primary                               meet government targets.&#13;
+       local source of reliable, good quality water. Com-                              â&#128;¢ Low usage raises the capital cost per capita sub-&#13;
+       bined systems are the most inclusive, as they accom-                              stantially. Systems with a high number of users are&#13;
+       modate household connections and those unable to                                  very cost-effective, with costs well below US$150&#13;
+       connect to the network. Depending on the topogra-                                 per person. Median usage below planned use is most&#13;
+       phy and slope, a combined system may allow com-                                   pronounced at community sanitation centers, and&#13;
+       munity sanitation center users who invest in their                                consequently the median cost per capita of com-&#13;
+       own toilet to connect to the network and communal                                 munity sanitation centers (US$294) is considerably&#13;
+       wastewater treatment plant.                                                       higher than for systems with house connections and&#13;
+     â&#128;¢ Build understanding of the merits of anaerobic                                    simplified sewers (US$228). Combined systems&#13;
+       baffled reactors as the most suitable treatment                                   generally have the highest installation cost but retain&#13;
+       technology for the majority of installations. ABRs                                the highest levels of utilization and serve the widest&#13;
+       achieve a higher level of chemical oxygen demand                                  range of users.&#13;
+&#13;
+&#13;
+&#13;
+16                                                                                                   Review of Community-Managed DEWATS in Indonesia&#13;
+&amp;#12;Review of Community-Managed Decentralized Wastewater Treatment Systems in Indonesia&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+    â&#128;¢ Capital costs are significantly lower than for                                           ally cheaper and more convenient for users to pay&#13;
+      centralized systems. Data collected for the WSPâ&#128;&#153;s                                        monthly rather than per use. Casual users frequently&#13;
+      Economics of Sanitation Initiative in Indonesia in-                                      pay more per use and more consistently than resi-&#13;
+      dicate that the optimal capital cost per household of                                    dential users, but it is local users who contribute&#13;
+      a centralized sewer and treatment system was 50%                                         to ad hoc collections to cover big expenses. Most&#13;
+      greater than the optimal cost of a community sanita-                                     households resist paying more than a nominal tariff.&#13;
+      tion center with DEWATS. The actual capital cost                                       â&#128;¢ More than a quarter of community sanitation cen-&#13;
+      per household of a centralized sewer and treatment                                       ters have no regular income at all, and over half&#13;
+      system was more than four times the actual cost of a                                     of simplified sewer systems rely solely on ad hoc&#13;
+      community sanitation system with DEWATS. Op-                                             collections as necessary. Low payment levels appear&#13;
+      erating and maintenance costs were substantially                                         to be shaped more by weak financial administration&#13;
+      lower for the DEWATS.                                                                    than unwillingness to pay. These findings call into&#13;
+    â&#128;¢ The income of the facility is too low to support                                         question the long-term viability and sustainability of&#13;
+      sustainable operation and management at a sig-                                           most installations, and suggest that local government&#13;
+      nificant number of sites. Most user communities                                          will need to make provision for funding the shortfall.&#13;
+      are addressing only day-to-day operations and basic                                    â&#128;¢ Over half the operators surveyed are working&#13;
+      maintenance; few set funds aside for desludging and                                      without cash payment, although many receive non-&#13;
+      major maintenance, and expenses like pump repairs                                        cash benefits like a room. Low or no wages contrib-&#13;
+      or replacement are usually funded by ad hoc collec-                                      ute to a frequent turnover in operators, and the loss&#13;
+      tions. Community sanitation centers that charge                                          of any benefits from one-off operator training during&#13;
+      per use generally have higher incomes, but it is usu-                                    the project phase.&#13;
+&#13;
+&#13;
+ Table 2. Indicative User Charges                                              Figure 13: Median Capital Cost Per Capita of a Sample&#13;
+                                                                                          of SANIMAS Projects Implemented in 2006-&#13;
+                Simpliï¬&#129;ed            Community Sanitation                                 2009&#13;
+                Sewer System         Center&#13;
+                                                                                                          350&#13;
+&#13;
+ No regular     47% of sites         30% of sites&#13;
+ payment                                                                                                  300&#13;
+&#13;
+                                                                                                          250&#13;
+                                                                                  Cost per person (USD)&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+ Pay            53% of sites         29% of sites&#13;
+ monthly        Graywater and        Toilets, washing and laundry&#13;
+ per            blackwater           US$0.11-2.10*                                                        200&#13;
+ household      US$0.11-1.05         Median: US$0.53&#13;
+                Median:                                                                                   150&#13;
+                US$0.31&#13;
+&#13;
+                                                                                                          100&#13;
+ Pay per        Not applicable       41% of sites&#13;
+ use                                 Toilet: US$0.03-0.11                                                  50&#13;
+                                               Median: US$.05&#13;
+                                     Shower: US$0.03-0.11&#13;
+                                               Median: US$0.05                                              0&#13;
+                                     Laundry: US$0.05-0.3                                                        SSS            CSC   Combined&#13;
+                                               Median: US$0.11&#13;
+                                                                                                                Designed used         Use in 2011&#13;
+ *Includes water for home use&#13;
+                                                                               Source: BORDA-WSP (2011)&#13;
+&#13;
+&#13;
+&#13;
+www.wsp.org&#13;
+                                                                                                                                                    17&#13;
+&amp;#12; Review of Community-Managed Decentralized Wastewater Treatment Systems in Indonesia&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+ Figure 14: Well-run DEWATS Facilities Have a Signiï¬&#129;cant                                 communal facilities, or where there is no central lo-&#13;
+            Impact on Local Health and Hygiene                                           cation that is easily accessible by most residents, con-&#13;
+                                                                                         sider building several smaller community sanitation&#13;
+                                                                                         centers rather than one large one.&#13;
+                                                                                       â&#128;¢ Build understanding of the real costs of keeping&#13;
+                                                                                         DEWATS facilities working long term. Give great-&#13;
+                                                                                         er emphasis to financial management and raising&#13;
+                                                                                         sufficient revenue when training community man-&#13;
+                                                                                         agement representatives. Increase understanding&#13;
+                                                                                         among users of the benefits of improved sanitation&#13;
+                                                                                         and a clean environment, and use social marketing&#13;
+                                                                                         and other methods to maintain willingness to pay&#13;
+                                                                                         for these benefits. Ensure local government budgets&#13;
+                                                                                         for its co-management responsibilities, including&#13;
+                                                                                         monitoring, ad hoc support and major maintenance.&#13;
+&#13;
+                                                                                EQUITY AND PRO-POOR ASPECTS&#13;
+&#13;
+                                                                                KEY FINDINGS:&#13;
+&#13;
+                                                                                       â&#128;¢ Targeting of low-income areas is good. The major-&#13;
+                                                                                         ity of DEWATS installed serve neighborhoods where&#13;
+                                                                                         average household incomes are below US$104 per&#13;
+                                                                                         month. No significant differences were detected be-&#13;
+                                                                                         tween system choices: a slightly higher proportion&#13;
+                                                                                         of sites with simplified sewer systems serve users&#13;
+                                                                                         with average monthly incomes above US$104, but&#13;
+                                                                                         roughly the same proportion of poor households&#13;
+                                                                                         earning below US$52 (typically bicycle taxi drivers&#13;
+                                                                                         or factory workers) live in neighborhoods served by&#13;
+ RECOMMENDATIONS:                                                                        either community sanitation centers or simple sewer&#13;
+                                                                                         systems.&#13;
+     â&#128;¢ Optimize the system size for impact, cost-effec-                                â&#128;¢ Communal facilities can provide substantial sani-&#13;
+       tiveness and financial viability. Developing dis-                                 tation improvements. This review found numerous&#13;
+       crete DEWATS and equipping the user community                                     facilities that were attractive, well managed and well&#13;
+       to manage routine operation and maintenance can                                   maintained, and serving local needs effectively where&#13;
+       be resource-intensive unless each installation is able                            toilets for individual households were not feasible&#13;
+       to serve at least a hundred households. With fewer                                for a range of reasons. This challenges the percep-&#13;
+       users, the cost per capita is high, the improvement in                            tion that communal toilets fall outside the category&#13;
+       service coverage and public health is limited, and the                            of â&#128;&#152;improvedâ&#128;&#153; sanitation facilities.&#13;
+       tariff income is too low to cover costs. In less dense                          â&#128;¢ DEWATS facilities are poor inclusive â&#128;&#147; but not&#13;
+       settlements, if there are sound reasons for building                              accessible to everyone. The evidence suggests that&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+18                                                                                                   Review of Community-Managed DEWATS in Indonesia&#13;
+&amp;#12;Review of Community-Managed Decentralized Wastewater Treatment Systems in Indonesia&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+      facilities are enjoyed by people with limited means                               simplified sewer system are considerably more acces-&#13;
+      as well as those who are better off. The strong ethos                             sible for those with disabilities, further reinforcing&#13;
+      prevailing in many parts of Indonesia of accommo-                                 the need to make these the â&#128;&#152;defaultâ&#128;&#153; option for the&#13;
+      dating those with meager resources results in poor                                majority of future installations.&#13;
+      families being asked to contribute what they can. At                            â&#128;¢ Sustain improvements in sanitation and hygiene&#13;
+      the same time, inclusiveness on the basic of physi-                               practices through ongoing reinforcement, sup-&#13;
+      cal mobility is more qualified. Users generally have                              port and monitoring. Forge close links between&#13;
+      to climb some stairs to use the facilities, and most                              infrastructure development, health, community de-&#13;
+      community sanitation centers are raised above the                                 velopment and other departments to achieve a more&#13;
+      ground; this saves excavation costs as they are gener-                            integrated approach to sanitation improvement, and&#13;
+      ally built on top of the treatment plant, and prevents                            to ensure ongoing interaction and support beyond&#13;
+      storm water ingress or flooding, but leaves those                                 the project phase. Adapt community-led total sani-&#13;
+      with disabilities without access.                                                 tation approaches to trigger demand and reinforce&#13;
+    â&#128;¢ Improvements in hygiene were evident based on                                     support for community-managed DEWATS. Recip-&#13;
+      a health impact assessment in 2010. BORDAâ&#128;&#153;s as-                                   rocally, community-managed DEWATS offer com-&#13;
+      sessment of 68 sites across Indonesia revealed lower                              munities the means to act collectively on key mes-&#13;
+      rates of open defecation, higher toilet usage and us-                             sages of community-led total sanitation approaches,&#13;
+      age of soap at critical times, and reportedly better                              especially the achievement and sustaining of an open&#13;
+      quality of water from the main source of water for                                defecation-free community, and sustainable sanita-&#13;
+      bathing and cooking as well as an improvement in                                  tion and hygiene improvements.&#13;
+      privacy for women compared to the baseline. There&#13;
+      was a very low incidence of reversion to unimproved&#13;
+      toilets and open defecation.                                             Figure 15: A Woman Feeds a Small Child at a&#13;
+                                                                                          Community Sanitation Center&#13;
+RECOMMENDATIONS:&#13;
+&#13;
+    â&#128;¢ Build attractive, disability-accessible community&#13;
+      sanitation centers, not just public or communal&#13;
+      toilets. Attractive communal sanitation facilities&#13;
+      that are customized to the needs and preferences&#13;
+      of the targeted user community are more likely to&#13;
+      be valued and cared for than standard institutional&#13;
+      designs which focus solely on generic functional-&#13;
+      ity. Attractive community sanitation centers which&#13;
+      residents readily keep clean and enjoy using meet the&#13;
+      criteria for an improved sanitation facility. The dis-&#13;
+      ability accessibility is more difficult to convey, as this&#13;
+      is not a widely recognized problem in the sector in&#13;
+      Indonesia. Community members often do not rec-&#13;
+      ognize the need, and while local governments have&#13;
+      a role to play in public education, they are often ill&#13;
+      equipped to do so. Home-based facilities linked to a&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+www.wsp.org&#13;
+                                                                                                                                            19&#13;
+&amp;#12; VII.                          Overall Assessment&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+ This review found that community-managed DEWATS can              own. Sustained use of the infrastructure and good treat-&#13;
+ deliver substantial benefits and enable far-reaching changes     ment performance long term is unlikely without external&#13;
+ in environmental health and personal behavior in urban           monitoring and support for technical and non-technical&#13;
+ areas otherwise likely to remain unserviced for some time.       problem solving.&#13;
+&#13;
+ Community-managed DEWATS are effective for serving               Community management needs to be reconceived as co-&#13;
+ poor communities in dense urban settlements where                management, where user-communities take responsibility&#13;
+                                                                  for routine operation and maintenance, and local govern-&#13;
+     â&#128;¢ the appropriate type of system is built well and in the    ment and its partners provide greater technical and non-&#13;
+       right location                                             technical support. Local authorities should monitor DE-&#13;
+     â&#128;¢ the number of users is optimized and sustained             WATS regularly, budget for interventions, and develop their&#13;
+     â&#128;¢ responsibility for operation and maintenance is            co-management capacity as an integral of part of address-&#13;
+       shared with government                                     ing their sanitation, wastewater and septage management&#13;
+     â&#128;¢ the development forms part of a broader sanitation         responsibilities. Central government can provide financial&#13;
+       plan                                                       incentives to municipalities to pursue this.&#13;
+&#13;
+ SUSTAINABILITY                                                   COST-EFFECTIVENESS&#13;
+&#13;
+ The majority of DEWATS are functioning well day to day.          The cost-effectiveness of DEWATS is shaped primarily by&#13;
+ The sustainability of service provision with community-man-      the number of people using a particular facility. Where the&#13;
+ aged DEWATS is vulnerable to a range of challenges: varying      number of users per site is above 50 households, the average&#13;
+ levels of motivation by community management structures,         cost is substantially lower than centralized systems. Simpli-&#13;
+ inadequate operating income to cover major repairs, limited      fied sewer and combined systems retain higher usage rates&#13;
+ concern for wastewater treatment performance relative to         than community sanitation centers, serve more people, and&#13;
+ functioning facilities and free-flowing sewers, and inadequate   collect wastewater from a far wider area. Greater cost-ef-&#13;
+ external support when things go wrong.                           fectiveness may be achieved by developing simplified sewer&#13;
+                                                                  systems, not community sanitation centers, as the default,&#13;
+ The assumption that communities can and will manage              and by developing systems that reach as many people as&#13;
+ facilities and wastewater treatment on their own without         possible. The most important consideration is to develop&#13;
+ external support is overstated. CBOs lose enthusiasm; des-       facilities at sites where people want and need them, with&#13;
+ ludging is neglected and even the most committed users are       systems that are appropriate to the needs of the majority of&#13;
+ reluctant to fund major repairs and refurbishment on their       local residents.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+20                                                                                  Review of Community-Managed DEWATS in Indonesia&#13;
+&amp;#12;Review of Community-Managed Decentralized Wastewater Treatment Systems in Indonesia&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+INTEGRATED SANITATION IMPROVEMENT                                              Community-managed DEWATS do not absolve local au-&#13;
+                                                                               thorities from their sanitation management responsibilities,&#13;
+Most community-managed DEWATS developments to                                  and must not be allowed to retard more comprehensive&#13;
+date have been discrete and scattered, with usage well                         planning and investment in the centralized systems that In-&#13;
+below what governmentâ&#128;&#153;s plans and budgets presuppose.                          donesiaâ&#128;&#153;s cities need.&#13;
+Most have been implemented outside of a larger strategic&#13;
+plan which maps how or whether they will relate to pos-                        Indonesiaâ&#128;&#153;s government regards DEWATS as an intermedi-&#13;
+sible future sewer networks, or what external monitoring,                      ate technology; as a bridge towards centralized sewerage and&#13;
+support or third party servicing is needed to keep them                        wastewater management. In areas where community-man-&#13;
+working.                                                                       aged DEWATS will be integrated into a centralized network&#13;
+                                                                               within the next ten to fifteen years, it can be seen as both&#13;
+DEWATS are a complementary third option for urban san-                         intermediate and interim. But there are many areas that are&#13;
+itation, alongside centralized and on-site systems, and each                   likely to remain outside of centralized sewer networks for the&#13;
+system has its place. Decentralized systems that can be op-                    foreseeable future. In time, management of decentralized sys-&#13;
+erated and managed by local users are much more likely to                      tems by communities there could in due course perhaps be&#13;
+reach the poor in the short and medium term (in the next                       taken over by local utilities or private operators.&#13;
+five to ten years) than centralized piped systems and treat-&#13;
+ment works. But DEWATS as a scalable urban sanitation                          Indonesiaâ&#128;&#153;s first priority should be to develop citywide sani-&#13;
+option makes sense only in the context of a bigger picture                     tation strategies, with clear plans and time frames for devel-&#13;
+that maps where decentralized systems fit into a broader                       oping centralized networks and decentralized systems and&#13;
+city sanitation strategy.                                                      the linkages between them.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+www.wsp.org&#13;
+                                                                                                                                           21&#13;
+&amp;#12; VIII.                                 Next Steps&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+ In response to a preliminary report on the findings of        is adapting the national community-led total sanita-&#13;
+ this review presented to the Government of Indonesia,         tion program to an urban context: it aims to promote&#13;
+ key senior government stakeholders worked swiftly to          sanitation-related behavior change through campaigns&#13;
+ adjust some aspects of the community-managed DE-              that complement and reinforce community-managed&#13;
+ WATS programs to strengthen their impact, reach and           DEWATS.&#13;
+ sustainability. Government has endorsed the idea of co-&#13;
+ management by user communities and local authorities,         These responses signal governmentâ&#128;&#153;s readiness to address&#13;
+ and has revised its implementation guidelines to empha-       vulnerabilities in DEWATS programs, and a renewed com-&#13;
+ size long-term service sustainability. It is also exploring   mitment to supporting successful implementation of com-&#13;
+ new institutional models for septage management, and          munity-managed DEWATS at scale.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+22                                                                             Review of Community-Managed DEWATS in Indonesia&#13;
+&amp;#12;&amp;#12; Bibliography&#13;
+ Asian Development Bank, 2011. Urban Sanitation and Ru-             Government of Indonesia: BAPPENAS et al, 2003. Na-&#13;
+ ral Infrastructure Support to PNPM Mandiri Project: Indo-          tional Policy. Development of Community-Based Water Supply&#13;
+ nesia. Report and recommendation of the President to the           and Environmental Sanitation&#13;
+ Board of Directors, July 2011.&#13;
+                                                                    Government of Indonesia: Ministry of Public Works. 2010.&#13;
+ Australian Agency for International Development / Indo-            Improvement of Sanitation in Indonesia. (Achieving in IYS&#13;
+ nesia Infrastructure Initiative. 2011. Project Design Docu-        and Next Step). Directorate General of Human Settlements.&#13;
+ ment. Australia Indonesia Infrastructure Grants for Munici-        Presentation to the Follow up Conference, International&#13;
+ pal Sanitation.                                                    Year of Sanitation. Tokyo, January 26-27, 2010.&#13;
+&#13;
+ Australia Indonesia Partnership, 2011. Prakarsa Compen-            Government of Indonesia: Ministry of Public Works. Mon-&#13;
+ dium. Highlights from the Journal of the Australia Indo-           itoring dan Evaluasi Sanitasi Berbasis Masyarakat (SANI-&#13;
+ nesia Partnership, 2011. Special issue on Urban Sanitation,        MAS). July 2011.&#13;
+ Issue 7 Prakarsa Journal of the Indonesia Infrastructure&#13;
+ Initiative.                                                        International Water Association (n.d.) â&#128;&#152;Decentralized waste-&#13;
+                                                                    water management â&#128;&#147; an overview.â&#128;&#153; Prepared by: Specialist&#13;
+ Australia Indonesia Partnership, Indonesia Infrastructure          Group on Sanitation and Water Management in Develop-&#13;
+ Initiative, 2010. Program Design Document. Urban Water             ing Countries of the International Water Association. http://&#13;
+ Supply and sanitation components. Water and Sanitation             www.iwahq.org/contentsuite/upload/iwa/all/Specialist%20&#13;
+ Initiative â&#128;&#147; Indonesia. Australia Indonesia Partnership.           groups/Specialist%20groups/Water%20Management%20&#13;
+                                                                    in%20Developing%20Countries/SG%20resources/Decen-&#13;
+ BORDA Indonesia, â&#128;&#152;Health Impacts Assessment for CBS                tralised%20wastewater%20management-draft.doc&#13;
+ DEWATS 2009â&#128;&#153;. Unpublished results of monitoring across&#13;
+ 68 sites implemented in 2008.                                      Kerstens, S. M., Legowo, H B and &amp; Hendra Gupta, &amp; I&#13;
+                                                                    B, 2011. Evaluation of DEWATS systems in Java, Indonesia.&#13;
+ BORDA-WSP, 2011. â&#128;&#152;Survey of 298 SANIMAS sites us-&#13;
+ ing DEWATS, August-November 2011â&#128;&#153;. Unpublished da-                 Japan Sanitation Consortium (JSC), 2010. â&#128;&#152;Contact Mis-&#13;
+ tabase.                                                            sion to Indonesiaâ&#128;&#153; (Nov.30-Dec.4, 2009). Mission report.&#13;
+                                                                    Knowledge Hub for Sanitation. January 18, 2010. http://&#13;
+ Collende G, 2011. Urban sanitation: an unprecedented               ebookbrowse.com/jsc-report-1st-mission-to-indonesia-30-&#13;
+ and growing challenge. In Water Lines, Vol. 30: 4, October         nov-5-dec-2009-pdf-d80236357&#13;
+ 2011.&#13;
+                                                                    Lambertus, A, 2005. Mainstreaming Community-Based&#13;
+ Foley, S., Soedjarwo, A. &amp; Pollard, R., 2000. Of the people,       Sanitation: Lessons Learnt from the SANIMAS Project. Un-&#13;
+ by the people, for the people : community-based sewer systems in   published paper prepared for Indowater 2005.&#13;
+ Malang, Indonesia : case study. [online] Jakarta, Indonesia:&#13;
+ Water and Sanitation Program, WSP.                                 Marfai, M A, King, L., Sartohadi, J., Sudrajat, S., Budiani,&#13;
+                                                                    S R. and Yuianto, F. 2008. â&#128;&#152;The impact of tidal flooding on&#13;
+ Government of Indonesia: BAPPENAS, 2010. Report on                 a coastal community Semarang, Indonesiaâ&#128;&#153;. Environmen-&#13;
+ the Achievement of the Millennium Development Goals in In-         talist, 28 2008. http://dev.thegncs.org/sitefiles/file/Indone-&#13;
+ donesia.                                                           sia_Coast_Marfai_2007b.pdf&#13;
+&#13;
+&#13;
+24                                                                                    Review of Community-Managed DEWATS in Indonesia&#13;
+&amp;#12;Mungkasa, O, 2010. Mainstreaming of Sanimas as the solu-     Rochmadi, R., Ciptaraharja I. and Setiadi, T. 2010. Evalu-&#13;
+tion for urban sanitation development in Indonesia. Direc-   ation of the Decentralized Wastewater Treatment Plants in&#13;
+torate of Settlement and Housing, National Development       Four Provinces in Indonesiaâ&#128;&#153;, Water Practice &amp; Technology&#13;
+Planning Agency/BAPPENAS. Presentation to the IWA            Vol. 5:4&#13;
+Conference on DEWATS, Surabaya, 2010.&#13;
+                                                             Salendu, B. 2010. â&#128;&#152;Quality assessment and interrelations&#13;
+Parkinson, J &amp; Taylor, K. 2003. â&#128;&#152;Decentralized wastewa-      of water supply and sanitation; a case study of Yogyakarta&#13;
+ter management in peri-urban areas in low-income coun-       City, Indonesia. Unpublished Urban Planning and Man-&#13;
+triesâ&#128;&#153;, in Environment &amp; Urbanisation, Vol. 15:1 April       agement Masterâ&#128;&#153;s thesis, International Institute for Geo-&#13;
+2003                                                         Information Science and Earth Observation, Ensche, The&#13;
+                                                             Netherlands.http://www.itc.nl/library/papers_2010/msc/&#13;
+Pillay, S &amp; Buckley, C. 2010. â&#128;&#152;Closing the loop with         upm/salendu.pdf&#13;
+decentralized wastewater treatment systemsâ&#128;&#153;. Second&#13;
+Small Wastewater Treatment Systems Conference, East          Susila, B, Fladerer, F and Gressiadi, A. (2011) â&#128;&#152;Lessons&#13;
+London, 23 November 2010. www.ewisa.co.za/misc/              learned from Health Impact Assessment on 68 locations&#13;
+CONFERENCESWISA/2ndSWWTW.htm                                 DEWATS-CBS 2008 in Indonesiaâ&#128;&#153;. Unpublished presenta-&#13;
+                                                             tion to the IWA-DEWATS International Conference, Ma-&#13;
+Pokja AMPL/Drinking Water and Environmental Sanita-          nila, Philippines, 25-28 May 2011&#13;
+tion Task Force in cooperation with BORDA, Balifokus,&#13;
+LPTP, BEST, 2011. Seven Years of Sanimas. PERCIK Spe-        TTPS/Sanitation Development Technical Team, 2010.&#13;
+cial Edition, March 2011.                                    Roadmap to Sanitation Development, 2010-2014. Govern-&#13;
+                                                             ment of Indonesia.&#13;
+Porter, R.C. &amp; Singh, K.A. 1995. â&#128;&#152;Jakarta: the economics&#13;
+of water and wasteâ&#128;&#153;. Case study 4 produced for USAIDâ&#128;&#153;s       Ulrich, A., Reuter,S &amp; Gutterer, G. 2009. Decentralized&#13;
+Environmental and Natural Resources Policy and Train-        Wastewater Treatment Systems (DEWATS) and Sanitation in&#13;
+ing (EPAT) project. http://ageconsearch.umn.edu/bit-         Developing Countries. A Practical Guide.&#13;
+stream/11876/1/cs4.pdf&#13;
+                                                             UN Department of Economic and Social Affairs / Popu-&#13;
+Prihandrijanti, M and Firdayati, M. 2011. â&#128;&#152;Current situa-    lation Division. 2012. World Urbanization Prospects: The&#13;
+tion and considerations of domestic wastewater treatment     2011 Revision&#13;
+systems for big cities in Indonesia (Case Study: Surabaya&#13;
+and Bandung)â&#128;&#153;. Journal of Water Sustainability 1:2 Septem-   UNESCAP/Pro-Poor Water and Wastewater Management&#13;
+ber 2011.                                                    in Small Towns.2007. Sanitation by the Community in Den-&#13;
+                                                             pasar, Indonesia (SANIMAS).&#13;
+PT Qipra Galang Kualita (2012). Sanitation Training and&#13;
+Capacity Study. Water and Sanitation Program, March          UN Inter-agency Group for Child Mortality Estimation,&#13;
+2012.                                                        2012. Levels and Trends in Child Mortality: Report 2012.&#13;
+                                                             Estimates Developed by the UN Inter-agency Group for&#13;
+PT Waseco Tirta. 2012. â&#128;&#152;Report of SANIMAS Monitoring         Child Mortality Estimation (UNICEF, WHO, World&#13;
+Program 2008-2009 by PT Waseco Tirta for the Ministry        Bank, UN DESA, UNPD).&#13;
+of Public Worksâ&#128;&#153;.&#13;
+&#13;
+&#13;
+www.wsp.org&#13;
+                                                                                                                      25&#13;
+&amp;#12; UNICEF/World Health Organization, Joint Monitoring              Water and Sanitation Program, 2011b. The Political Econ-&#13;
+ Program for Water Supply and Sanitation, 2012. Progress         omy of Sanitation: How can we increase investment and im-&#13;
+ on Drinking Water and Sanitation. 2012 Update.                  prove service for the poor? Operational experiences from case&#13;
+                                                                 studies in Brazil, India, Indonesia and Senegal. WSP Sanita-&#13;
+ USAID, 2006. Comparative Study. Centralised Wastewater          tion Global Practice Team.&#13;
+ Treatment Plants in Indonesia.&#13;
+                                                                 Wedgewood, A 2005, â&#128;&#152;Practical challenges for Demand&#13;
+ USAID 2009, Support on Water and Sanitation. Sector Anal-       Responsive Approaches: A Discussion Paperâ&#128;&#153;. Presented to&#13;
+ ysis and Program. Final. 2009-2014.                             the Overseas Development Institute ESRC Seminar on Ac-&#13;
+                                                                 cess, Poverty and Social Exclusion, London, 1 March 2005.&#13;
+ USAID, 2010. A Rapid Assessment of Septage Management           http://www.odi.org.uk/events/docs/3228.pdf&#13;
+ in Asia.&#13;
+                                                                 Weitz, A, Blackett, I &amp; NT Utomo, â&#128;&#152;Accelerating Sanitation&#13;
+ Utomo, N T, 2012a. Indonesia Sanitation Development             Development in Urban Settlements. How Sanitation in In-&#13;
+ 2010-14 and Beyond. Presentation to ICSS-Asia 2012: Sus-        donesia has been Transformedâ&#128;&#153;. Presentation to World Wa-&#13;
+ tainable Sanitation in Developing Countries.                    ter Week, August 2011. http://www.worldwaterweek.org/&#13;
+                                                                 documents/WWW_PDF/2011/Wednesday/K23/Getting-&#13;
+ Utomo, N. T. 2012b. Managing Transformation. Sanitation         the-Drive-to-2015-on-track-in-Urban-Settlements/Accel-&#13;
+ Development in Indonesia 2006-2011. Presentation to the         erating-sanitation-development-in-urban-settlements.pdf&#13;
+ World Water Forum, Marseille, France, 13 March 2012.&#13;
+                                                                 World Bank/WSP 2012, East Asia and Pacific Regional Wa-&#13;
+ WASPOLA, 2006. Report: Sanimas Outcome Monitoring               ter and Sanitation Sector Review.&#13;
+ Study (SOMS). Final Report. April 2006.&#13;
+&#13;
+ Water and Sanitation Program, 2000. Case Study: Of the&#13;
+ people, by the people, for the people: community-based sewer&#13;
+ systems in Malang, Indonesia. Field Note.&#13;
+&#13;
+ Water and Sanitation Program , 2009. Urban Sanitation in&#13;
+ Indonesia. Planning for Progress. Field note.&#13;
+&#13;
+ Water and Sanitation Program, 2010. â&#128;&#152;SANIMAS: A sani-&#13;
+ tation model for decentralized local government. â&#128;&#152; Unpub-&#13;
+ lished report.&#13;
+&#13;
+ Water and Sanitation Program, 2011a. Economic Assessment&#13;
+ of Sanitation Interventions in Indonesia. A six country study&#13;
+ conducted in Cambodia, China, Indonesia, Lao PDR, the&#13;
+ Philippines and Vietnam under the Economics of Sanitation&#13;
+ Initiative (ESI).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+26                                                                                 Review of Community-Managed DEWATS in Indonesia&#13;
+&amp;#12;&amp;#12;THE WORLD BANK&#13;
+&amp;#12;</ml:original-txt><ml:search-metadata><doc id="19123168">
+        <url>
+            http://documents.worldbank.org/curated/en/2013/06/19123168/review-community-managed-decentralized-wastewater-treatment-systems-indonesia
+        </url>
+        <availablein>English</availablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2013/06/19123168/review-community-managed-decentralized-wastewater-treatment-systems-indonesia</url_friendly_title>
+        <new_url>2013/06/19123168/review-community-managed-decentralized-wastewater-treatment-systems-indonesia</new_url>
+        <disclosure_date>2014-02-25T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2014-02-25T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/02/25/000333037_20140225130353/Rendered/INDEX/851920WSP00Box0esia0Technical0Paper.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/02/25/000333037_20140225130353/Rendered/PDF/851920WSP00Box0esia0Technical0Paper.pdf</pdfurl>
+        <datestored>2014-02-25T00:00:00Z</datestored>
+        <docdt>2013-06-01T00:00:00Z</docdt>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            Review of community-managed decentralized
+            wastewater treatment systems in Indonesia
+        </repnme>
+        <abstracts>
+            Effective management of sanitation and
+            wastewater is a growing challenge in dense urban
+            settlements. Rapidly increasing urbanization and, along with
+            that, rising settlement densities in low-income urban and
+            peri-urban areas highlight the need for sanitation
+            technologies and management systems that are robust and
+            affordable, and which lessen the pollution load on local
+            water sources. In many developing countries, centralized
+            sewerage and wastewater treatment systems cover only a
+            portion of larger urban areas, and are often not yet planned
+            for smaller towns and densely populated, low-income areas of
+            cities. On-site sanitation is often inappropriate in the
+            denser settlements and slum areas, thus requiring
+            intermediate and complementary solutions. Decentralized
+            wastewater treatment systems (DEWATS) connected to
+            simplified sewer systems or communal sanitation centers have
+            the potential to close the gap between on-site and
+            centralized systems. Community-managed DEWATS offer the
+            possibility of swift sanitation improvements in high
+            priority neighborhoods that communities can manage
+            themselves, where local government does not yet provide a
+            full sanitation service. This review explores
+            Indonesia's experience in implementing
+            community-managed DEWATS on a growing scale, and more
+            specifically, whether community-managed DEWATS are a viable
+            urban sanitation option for serving poor households in dense settlements.
+        </abstracts>
+        <docna>
+            Review of community-managed decentralized
+            wastewater treatment systems in Indonesia
+        </docna>
+        <display_title>Review of community-managed
+            decentralized wastewater treatment systems in Indonesia</display_title>
+        <listing_relative_url>/research/2013/06/19123168/review-community-managed-decentralized-wastewater-treatment-systems-indonesia</listing_relative_url>
+        <docty>UNDP-Water &amp; Sanitation Program</docty>
+        <subtopic>Wastewater Treatment,Town Water Supply and Sanitation,Urban Water Supply and Sanitation,Water and Industry,Sanitation and Sewerage</subtopic>
+        <teratopic>Water Supply and Sanitation,Water Resources</teratopic>
+        <count>Indonesia</count>
+        <authors>
+            <author>Eales, Kathy</author>
+            <author>Blackett, Isabel</author>
+            <author>Siregar, Reini</author>
+            <author>Febriani, Evi</author>
+        </authors>
+        <geo_region_mdks>
+            <geo_region_mdk>World!$!80475</geo_region_mdk>
+            <geo_region_mdk>Asia!$!80451</geo_region_mdk>
+            <geo_region_mdk>Southeast Asia!$!80471</geo_region_mdk>
+        </geo_region_mdks>
+        <entityids>
+            <entityid>000333037_20140225130353</entityid>
+        </entityids>
+        <admreg>East Asia and Pacific,East Asia and Pacific</admreg>
+        <colti>Water and sanitation program technical paper
+            ; WSP</colti>
+        <lang>English</lang>
+        <historic_topic>Water Supply and Sanitation,Water Resources</historic_topic>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            access to sanitation, access to water,
+            anaerobic treatment, biogas, biomass, BOD, catchment,
+            catchment area, Central government, chemical oxygen demand,
+            Child Mortality, COD, communal toilets, community
+            management, community sanitation, construction, demand for
+            sanitation, desludging, disposal of sludge, domestic
+            wastewater, drain, drainage, Drinking Water, effluent
+            quality, environmental benefits, environmental regulations,
+            Environmental Sanitation, excreta, excreta collection,
+            filters, financial incentives, financial incentives to
+            municipalities, financial viability, gas, good quality
+            water, groundwater, high water table, house connections,
+            household connections, household sanitation, households,
+            hygiene, inlets, laundry, leaks, Local authorities, local
+            services, local water, maintenance costs, Monitoring
+            Program, moving parts, municipal sewerage, municipal
+            wastewater, Natural Resources, operator training, oxygen,
+            oxygen demand, piped sewers, piped water, pipes, pits,
+            plastics, pollution, ponds, Private Operator, private
+            operators, project management, public health, Public Works,
+            quality of service, quality of water, quality water,
+            residential users, rivers, SANITATION, sanitation
+            approaches, Sanitation Development, sanitation facilities,
+            sanitation facility, Sanitation Interventions, sanitation
+            management, sanitation practices, SANITATION PROGRAM,
+            sanitation promotion, sanitation sector, Sanitation Sector
+            Review, sanitation service, sanitation services, sanitation
+            strategy, sanitation system, sanitation systems, septic
+            tank, septic tank systems, septic tanks, service delivery,
+            service improvements, service provision, sewer networks,
+            sewer system, sewer systems, sewerage, sewerage systems,
+            sewers, site selection, sludge, sludge treatment, Small
+            Towns, smaller towns, storm water, sustainable sanitation,
+            tanks, toilet, toilets, treating wastewater, Treatment
+            Plant, urban areas, Urban Sanitation, urban settlements,
+            urban wastewater, urban wastewater management, Urban Water,
+            Urban Water Supply, urbanization, User Charges, users,
+            utilities, volumes of wastewater, washing, waste,
+            Wastewater, wastewater management, Wastewater Management
+            Systems, Wastewater Treatment, wastewater treatment plant,
+            Wastewater Treatment Plants, Wastewater Treatment Systems,
+            wastewater treatment technology, Water Association, water
+            connection, water pollution, water source, water sources,
+            Water Supply
+        </keywd>
+        <owner>Water- Water and Sanit Prgrm (GWASP)</owner>
+        <geo_regions>
+            <geo_region>World</geo_region>
+            <geo_region>Asia</geo_region>
+            <geo_region>Southeast Asia</geo_region>
+        </geo_regions>
+        <repnb>85192</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>Water Resources</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Teaching and Learning</ml:concept><ml:concept>Environment</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Social Protections and Labor</ml:concept><ml:concept>City Development Strategies</ml:concept><ml:concept>Water</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Arts and Culture</ml:concept><ml:concept>Agriculture and Food Security</ml:concept><ml:concept>Education</ml:concept><ml:concept>Environment and Natural Resources</ml:concept><ml:concept>Health, Nutrition and Population</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Social Protection and Labor</ml:concept><ml:concept>Urban Development</ml:concept><ml:concept>Water and Sanitation</ml:concept><ml:concept>Sanitation and Sewerage</ml:concept><ml:concept>Wastewater Treatment</ml:concept><ml:concept>Wastewater Collection and Transportation</ml:concept><ml:concept>Non-Point Source Pollution</ml:concept><ml:concept>Point Source Pollution</ml:concept><ml:concept>Water Pollution Load</ml:concept><ml:concept>Access to Basic Sanitation</ml:concept><ml:concept>On-site Sanitation</ml:concept><ml:concept>Sanitation Marketing</ml:concept><ml:concept>Sanitation Promotion</ml:concept><ml:concept>Fescal Sludge Management</ml:concept><ml:concept>Sludge Management</ml:concept><ml:concept>Water Chlorination</ml:concept><ml:concept>Water Disinfection</ml:concept><ml:concept>Water Filtration</ml:concept><ml:concept>Water Purification</ml:concept><ml:concept>Demographics</ml:concept><ml:concept>Longevity</ml:concept><ml:concept>Decentralization</ml:concept><ml:concept>Deconcentration</ml:concept><ml:concept>Delegation</ml:concept><ml:concept>Devolution</ml:concept><ml:concept>Sub-National Administration</ml:concept><ml:concept>Subnational Government and Decentralization</ml:concept><ml:concept>Contract Management</ml:concept><ml:concept>Governance Institutions</ml:concept><ml:concept>Institutional Arrangements in Public Procurement</ml:concept><ml:concept>Institutional Capacity</ml:concept><ml:concept>Institutional Reform</ml:concept><ml:concept>Legal Regulatory Framework</ml:concept><ml:concept>State-Society Relations</ml:concept><ml:concept>Income</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Media</ml:concept><ml:concept>Boundaries</ml:concept><ml:concept>Copyright</ml:concept><ml:concept>Water Supply and Sanitation</ml:concept><ml:concept>Sanitation and Wastewater</ml:concept><ml:concept>Water, Sanitation and Hygiene</ml:concept><ml:concept>Sewerage</ml:concept><ml:concept>Urban Sanitation</ml:concept><ml:concept>Environmental Health</ml:concept><ml:concept>Water Pollution</ml:concept><ml:concept>Sanitation</ml:concept><ml:concept>Sanitation Technologies</ml:concept><ml:concept>Water Treatment</ml:concept><ml:concept>Local Government</ml:concept><ml:concept>Infrastructure</ml:concept><ml:concept>Population</ml:concept><ml:concept>Aging</ml:concept><ml:concept>Administrative Decentralization</ml:concept><ml:concept>Drainage</ml:concept></ml:concepts><ml:geo-regions><ml:geo-region>Asia</ml:geo-region><ml:geo-region>Eastern Asia</ml:geo-region><ml:geo-region>Indonesia</ml:geo-region></ml:geo-regions></ml:annotations></ml:doc-envelope>

@@ -1,0 +1,1564 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>                                                                                                  74956&#13;
+                                    BANCO MUNDIAL   El aumento de la utilizaciÃ³n de los&#13;
+                                                    servicios de salud materno-infantil&#13;
+                                                    en la poblaciÃ³n sin seguro mÃ©dico:&#13;
+                                                    El Plan Nacer&#13;
+Public Disclosure Authorized&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                               Rafael Cortez y&#13;
+                               Daniela Romero&#13;
+Public Disclosure Authorized&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                    Banco Mundial, Washington DC, Enero de 2013&#13;
+&amp;#12;&amp;#12;Serie de Estudios Ã&#154;NICO 12&#13;
+Argentina - El aumento de la utilizaciÃ³n de los servicios&#13;
+de salud materno-infantil en la poblaciÃ³n sin seguro&#13;
+mÃ©dico: El Plan Nacer1&#13;
+		&#13;
+&#13;
+Rafael Cortez y Daniela Romero&#13;
+Banco Mundial, Washington D. C., enero de 2013&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+1&#13;
+    Este informe fue preparado por Rafael Cortez (Economista Senior en Salud, HDNHE) y Daniela Romero (Analista de Operaciones,&#13;
+    LCSHH), del Banco Mundial. Los autores agradecen la colaboraciÃ³n continua de funcionarios del gobierno pertenecientes al&#13;
+    equipo del Ministerio de Salud de la NaciÃ³n, encabezado por el doctor Juan Manzur (Ministro de Salud de la NaciÃ³n), en el curso&#13;
+    de varias conversaciones sobre aspectos tÃ©cnicos que se realizaron durante la ejecuciÃ³n del Plan Nacer, de las cuales surgieron&#13;
+    aportes clave para este informe. Manifestamos un agradecimiento especial al doctor MÃ¡ximo Diosque (Secretario de PromociÃ³n&#13;
+    y Programas Sanitarios del Ministerio), al doctor MartÃ­n Sabignoso (Coordinador Nacional de la Unidad Ejecutora Central&#13;
+    [UEC]), y a la UEC y los equipos administradores en las provincias. Los autores agradecen tambiÃ©n los valiosos comentarios de&#13;
+    los expertos a cargo de la revisiÃ³n externa, Benjamin Loevinsohn (Especialista Principal en Salud PÃºblica, AFTHW) y Tekabe&#13;
+    Ayalew Belay (Economista Senior en Salud, SASHN), y del equipo operativo del Banco Mundial, especialmente de Luis PÃ©rez&#13;
+    (Especialista en Salud PÃºblica Senior, LCSHH) y Vanina Camporeale (Oficial de Operaciones, LCSHH).&#13;
+&#13;
+&#13;
+                                                                 I&#13;
+&amp;#12;La Serie de Estudios del Banco Mundial sobre&#13;
+  Cobertura Universal de Salud (UNICO)&#13;
+&#13;
+Todas las personas aspiran a recibir servicios de salud de alta calidad y a precios asequibles. En los Ãºltimos aÃ±os esta&#13;
+aspiraciÃ³n ha dado lugar a que se formulen llamados a establecer una cobertura universal de los servicios de salud y&#13;
+ha originado el surgimiento de un movimiento mundial en favor de esa cobertura. En 2005, ese movimiento llevÃ³ a la&#13;
+Asamblea Mundial de la Salud a exhortar a los gobiernos a â&#128;&#156;mejorar sus sistemas de salud para que todas las personas&#13;
+tengan acceso a los servicios y no sufran dificultades financieras por pagarlosâ&#128;&#157;. En diciembre de 2012, el movimiento&#13;
+urgiÃ³ a la Asamblea General de las Naciones Unidas a que formulara un llamamiento a los gobiernos para que â&#128;&#156;inten-&#13;
+sifiquen de manera urgente y significativa los esfuerzos para acelerar la transiciÃ³n hacia el acceso universal a servicios&#13;
+de atenciÃ³n sanitaria asequibles y de calidadâ&#128;&#157;. Hoy, cerca de 30 paÃ­ses de ingreso mediano ejecutan programas que&#13;
+promueven la transiciÃ³n hacia la cobertura universal, y muchos otros paÃ­ses de ingreso bajo y mediano consideran la&#13;
+posibilidad de lanzar programas similares.&#13;
+&#13;
+El Banco Mundial apoya las iniciativas que emprenden los paÃ­ses para compartir la prosperidad mediante la transiciÃ³n&#13;
+hacia la cobertura universal de los servicios de salud, con las metas de mejorar los resultados en materia de salud,&#13;
+reducir los riesgos financieros relacionados con la enfermedad y lograr una mayor equidad. El Banco reconoce que&#13;
+existen muchas rutas que llevan a la cobertura universal y no apoya en particular una ruta o un conjunto de arreglos&#13;
+organizativos o financieros para lograrla. Sea cual sea la ruta escogida, su ejecuciÃ³n exitosa implica la existencia de&#13;
+muchos instrumentos e instituciones. Aunque se pueden tomar rutas distintas para ampliar la cobertura, la ejecuciÃ³n&#13;
+de todas ellas implica desafÃ­os. Consciente de eso, el Banco Mundial lanzÃ³ la Serie de estudios llamada Ã&#154;NICO, sobre&#13;
+cobertura universal de salud, cuyos fines son obtener conocimientos y diseÃ±ar instrumentos operativos para ayudar&#13;
+a los paÃ­ses a abordar los desafÃ­os propios de la ejecuciÃ³n en formas sostenibles desde el punto de vista fiscal y que&#13;
+mejoren el grado de equidad y eficiencia. La serie de estudios UNICO consta de documentos tÃ©cnicos y estudios de&#13;
+casos prÃ¡cticos de varios paÃ­ses, en los cuales se analizan distintas facetas relacionadas con los desafÃ­os que existen&#13;
+para aplicar las polÃ­ticas de cobertura universal.&#13;
+&#13;
+Los estudios de casos prÃ¡cticos de los paÃ­ses de la serie se basan en el empleo de un protocolo normalizado para&#13;
+analizar los detalles prÃ¡cticos de los programas mediante los cuales se ha ampliado la cobertura en forma vertical as-&#13;
+cendente, es decir, de los programas que han comenzado con los pobres y los vulnerables y no los que se iniciaron con&#13;
+un modelo descendente. El protocolo consta de nueve mÃ³dulos que contienen mÃ¡s de 300 preguntas diseÃ±adas para&#13;
+obtener conocimientos detallados de la forma en que los paÃ­ses estÃ¡n ejecutando cinco conjuntos de polÃ­ticas desti-&#13;
+nadas a lograr lo siguiente: (a) administrar el plan de beneficios, (b) gestionar los procesos para incluir a los pobres y&#13;
+los vulnerables, (c) impulsar reformas a la prestaciÃ³n de servicios que se traduzcan en mayores grados de eficiencia,&#13;
+(d) abordar los nuevos desafÃ­os que implica la atenciÃ³n primaria y (e) afinar los mecanismos de financiamiento, para&#13;
+hacer coincidir los incentivos de las distintas partes interesadas del sector de la salud. Hasta la fecha, el protocolo que&#13;
+contiene los detalles prÃ¡cticos se ha empleado con dos propÃ³sitos: crear una base de datos que permita comparar los&#13;
+programas ejecutados en distintos paÃ­ses y producir estudios de casos prÃ¡cticos sobre 24 programas de paÃ­ses en vÃ­a&#13;
+de desarrollo y un caso de un paÃ­s de ingreso alto que haga las veces de â&#128;&#156;elemento de comparaciÃ³nâ&#128;&#157;: el caso del estado&#13;
+de Massachusetts, Estados Unidos. El protocolo y los estudios de casos prÃ¡cticos se publican como parte de la serie de&#13;
+estudios UNICO, y en 2013 se publicarÃ¡ un anÃ¡lisis comparativo.&#13;
+&#13;
+Creemos que el protocolo, los estudios de casos prÃ¡cticos y los documentos tÃ©cnicos proporcionarÃ¡n a los encargados&#13;
+de ejecutar programas de cobertura universal un conjunto de instrumentos mÃ¡s amplio, contribuirÃ¡n al debate sobre&#13;
+esta ejecuciÃ³n e informarÃ¡n al movimiento que promueve la cobertura universal a medida que se sigue extendiendo&#13;
+por todo el mundo.&#13;
+&#13;
+                                                                                                          Daniel Cotlear&#13;
+                                                              LÃ­der del grupo de trabajo de la serie de estudios UNICO&#13;
+                                                                                                         Banco Mundial&#13;
+                                                                                                      Washington, D. C&#13;
+                                                         II&#13;
+&amp;#12;                                             Contenido&#13;
+&#13;
+&#13;
+Siglas y abreviaturas												                                                                       iv&#13;
+&#13;
+Resumen ejecutivo	                                                                                      v&#13;
+&#13;
+   1. IntroducciÃ³n	                                                                                     1&#13;
+&#13;
+   2. Bosquejo general del sistema de salud	                                                        	   3&#13;
+&#13;
+   3. DescripciÃ³n del Plan Nacer	                                                                        9&#13;
+&#13;
+   4. El mecanismo de financiamiento basado en resultados del Plan Nacer	                               20&#13;
+&#13;
+   5. Agenda pendiente	                                                                                 21&#13;
+&#13;
+Anexo 1 Trazadoras del Plan Nacer                                                                       24	&#13;
+&#13;
+Anexo 2 Principales partes interesadas: papeles y funciones en el marco del programa	                   25&#13;
+&#13;
+Anexo 3 El sector de la salud de Argentina en cifras	                                                   26&#13;
+&#13;
+Referencias	                                                                                            27&#13;
+&#13;
+figuras&#13;
+&#13;
+Figura 1 Financiamiento y organizaciÃ³n del sector de la salud en Argentina	                              4&#13;
+&#13;
+Figura 2 Gasto en salud como porcentaje del gasto total en salud (excluye los gastos de las Obras&#13;
+&#13;
+Sociales), promedios de 2002 a 2009	                                                                     5&#13;
+&#13;
+Figura 3 Estructura institucional: mecanismos de pago del Plan Nacer	                                   13&#13;
+&#13;
+CUADROs&#13;
+&#13;
+Cuadro 1 Gasto en salud, Argentina, 2009	                                                                4&#13;
+&#13;
+Cuadro 2 Cobertura y gasto promedio de los subsectores	                                                  6&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                        III&#13;
+&amp;#12;                         SIGLAS Y Abreviaturas&#13;
+&#13;
+&#13;
+CAPS	      Centros de AtenciÃ³n Primaria&#13;
+&#13;
+FESP II	   Funciones Esenciales de Salud PÃºblica II&#13;
+&#13;
+INSSJyP	   Instituto Nacional de Servicios Sociales para Jubilados y Pensionados&#13;
+&#13;
+OSN	       Obras Sociales Nacionales&#13;
+&#13;
+OSP	       Obras Sociales Provinciales&#13;
+&#13;
+PIB	       Producto Interno Bruto&#13;
+&#13;
+UFIS	      Unidad de Financiamiento Internacional de Salud&#13;
+&#13;
+UEC	       Unidad Ejecutora Central&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                             IV&#13;
+&amp;#12;                                    Resumen ejecutivo&#13;
+&#13;
+Debido a la crisis econÃ³mica que padeciÃ³ Argentina en 2001, la proporciÃ³n de la poblaciÃ³n que vivÃ­a en la pobreza&#13;
+aumentÃ³ drÃ¡sticamente, la desigualdad empeorÃ³ y un nÃºmero mayor de personas perdiÃ³ su seguro de salud.&#13;
+Esta situaciÃ³n contribuyÃ³ al deterioro de los indicadores sanitarios, entre ellos las tasas de mortalidad materna&#13;
+e infantil, en las regiones mÃ¡s pobres, al mismo tiempo que los promedios nacionales empeoraban. La reacciÃ³n&#13;
+del Gobierno argentino consistiÃ³ en implementar un novedoso programa de seguros de salud materno infantil&#13;
+provinciales conocido como Plan Nacer, el cual fomentÃ³ la introducciÃ³n de cambios en el sistema de salud. El&#13;
+Plan Nacer se convirtiÃ³ en un instrumento poderoso para aumentar la cobertura de servicios bÃ¡sicos de quienes&#13;
+carecÃ­an de seguro de salud, y mejorar la gestiÃ³n y la eficiencia del sistema de salud.&#13;
+&#13;
+El Plan Nacer tiene como objetivo reducir la mortalidad de mujeres embarazadas y niÃ±os sin seguro de salud&#13;
+por medio de mecanismos altamente innovadores de financiamiento basado en resultados. EspecÃ­ficamente, el&#13;
+programa vincula el financiamiento al logro de tres tipos de indicadores de resultados: inscripciÃ³n en el programa,&#13;
+prestaciÃ³n eficaz de servicios de salud priorizados y logro de resultados sanitarios. Adicionalmente, el Plan Nacer&#13;
+contribuye a fortalecer las funciones de direcciÃ³n y administraciÃ³n del gobierno nacional, en un contexto federal&#13;
+en el cual la prestaciÃ³n de servicios de salud estÃ¡ descentralizada al nivel provincial. Los instrumentos innovadores&#13;
+introducidos por el programa incluyen contratos vinculantes entre el gobierno nacional y las provincias, y entre ellas&#13;
+y los proveedores de servicios de salud, asÃ­ como un sÃ³lido marco de monitoreo y evaluaciÃ³n, el cual comprende&#13;
+auditorÃ­as internas y externas y una estrategia de evaluaciÃ³n del impacto.&#13;
+&#13;
+Resultados preliminares de una evaluaciÃ³n del impacto realizada en las provincias de Misiones y TucumÃ¡n indican&#13;
+que se lograron resultados positivos durante los primeros aÃ±os de operaciÃ³n del programa. EspecÃ­ficamente, el&#13;
+estudio determinÃ³ que el Plan Nacer aumentÃ³ las probabilidades de que las mujeres acudan a un control prenatal&#13;
+antes de la semana 13 y 20 del embarazo. El nÃºmero de consultas de control prenatal se incrementÃ³, y las mujeres&#13;
+tambiÃ©n se vieron beneficiadas por una mejora en la calidad de la atenciÃ³n, reflejada en aumentos en las&#13;
+probabilidades de obtener vacunas y ecografÃ­as. La mejora de la cantidad y la calidad de los servicios se tradujo&#13;
+en mejores resultados del niÃ±o al nacer, incluyendo un incremento del peso promedio y una reducciÃ³n en la&#13;
+probabilidad de niÃ±os con muy bajo peso. . Por Ãºltimo, en el caso de los niÃ±os menores de cinco aÃ±os, el programa&#13;
+elevÃ³ las probabilidades de que asistieran a los controles de niÃ±o sano exigidos.&#13;
+&#13;
+La clave del Ã©xito del programa no radicÃ³ en reformas drÃ¡sticas. Al contrario, los principales factores que&#13;
+contribuyeron a Ã©l fueron el uso estratÃ©gico del financiamiento para alentar la inscripciÃ³n y el mantenimiento&#13;
+del contacto con la poblaciÃ³n objetivo del programa, y la utilizaciÃ³n de contratos que contenÃ­an mecanismos&#13;
+destinados a lograr su cumplimiento y de un enfoque basado en resultados que ofrecÃ­a incentivos para quienes&#13;
+obtuvieran los resultados buscados por el programa. Todos estos instrumentos operaron en el marco de un sistema&#13;
+sanitario existente, que habÃ­a presentado desafÃ­os significativos en el pasado para brindar atenciÃ³n sanitaria a&#13;
+quienes carecÃ­an de seguro mÃ©dico.&#13;
+&#13;
+En el futuro, los programas en los cuales se sustente la estrategia de cobertura universal de los servicios de&#13;
+salud en Argentina se beneficiarÃ¡n de las lecciones de gestiÃ³n por resultados brindadas por el Plan Nacer. El&#13;
+pasaje de un modelo de financiamiento tradicional, basado en insumos, a un enfoque basado en resultados,&#13;
+aumentÃ³ el acceso a los servicios bÃ¡sicos de salud y fortaleciÃ³ la gestiÃ³n de todo el sistema pÃºblico de salud. Sin&#13;
+embargo, estos cambios deberÃ¡n ir acompaÃ±ados de sistemas de informaciÃ³n sanitaria robustos; instrumentos de&#13;
+monitoreo y evaluaciÃ³n que permitan realizar un seguimiento del desempeÃ±o del sector , protocolos clÃ­nicos, asÃ­&#13;
+como medidas que aborden los aspectos relativos a la sostenibilidad del programa, la equidad entre provincias y&#13;
+la necesidad de establecer un proceso estandarizado de definiciÃ³n de prioridades, del cual formen parte estudios&#13;
+clÃ­nicos y de costo-efectividad, al igual que mecanismos de validaciÃ³n social.&#13;
+&#13;
+                                                          V&#13;
+&amp;#12;VI&#13;
+&amp;#12;	IntroducciÃ³n&#13;
+1. INTRODUCCIÃ&#147;N&#13;
+&#13;
+Este documento describe el funcionamiento y desempeÃ±o del Proyecto de InversiÃ³n en Salud Materno&#13;
+Infantil Provincial de Argentina, conocido como Plan Nacer. El programa busca ampliar el acceso de mujeres&#13;
+embarazadas y niÃ±os menores de seis aÃ±os sin seguro de salud a un conjunto bÃ¡sico de servicios de salud&#13;
+conocido por su efectividad para enfrentar las principales causas de mortalidad materna e infantil, y, a su vez,&#13;
+mejorar la eficacia y eficiencia del sistema de salud. El programa promueve el desarrollo e implementaciÃ³n&#13;
+de seguros de salud materno-infantil provinciales financiados con recursos pÃºblicos y la adopciÃ³n de&#13;
+mecanismos altamente innovadores de financiamiento basado en resultados a nivel nacional, provincial y&#13;
+de los proveedores. Desde su lanzamiento en noviembre de 2004, el Plan Nacer ha proporcionado cobertura&#13;
+de salud a mÃ¡s de 4,5 millones de mujeres embarazadas y de niÃ±os y ha financiado mÃ¡s de 35 millones de&#13;
+servicios de salud brindados a los beneficiarios del programa. Hacia el fin de abril de 2012, la cantidad de&#13;
+beneficiarios era de unos 1,84 millones, lo cual representa el 89,7% de la poblaciÃ³n elegible, contribuyendo&#13;
+de modo considerable a ampliar la cobertura de salud de los mÃ¡s vulnerables.&#13;
+&#13;
+El Plan Nacer fue diseÃ±ado con el fin de responder a algunas de las consecuencias de la devastadora crisis&#13;
+econÃ³mica de 2001 la cual generÃ³ un aumentÃ³ considerablemente de personas en situaciÃ³n de vulnerabilidad&#13;
+sin cobertura explÃ­cita de salud. La crisis afectÃ³ de manera notable el estado de salud de dicho grupo, la&#13;
+demanda de servicios de salud y la capacidad del sistema de salud pÃºblico para brindarlos. Esta situaciÃ³n&#13;
+ofreciÃ³ al gobierno nacional una oportunidad para fortalecer su papel como rector del sistema en un marco&#13;
+descentralizado en el cual las provincias son las responsables de prestar los servicios de salud dentro de su&#13;
+territorio.&#13;
+&#13;
+El programa buscaba aumentar la provisiÃ³n de los servicios de salud a la poblaciÃ³n sin cobertura de salud&#13;
+brindados por un sector pÃºblico aquejado por problemas de eficiencia y en el cual el desempeÃ±o de&#13;
+indicadores sanitarios empeoraba. Como resultado de la crisis, el Producto Interno Bruto cayÃ³ un 18,3% entre&#13;
+1998 y 2002, y la cantidad de personas pobres aumentÃ³ drÃ¡sticamente, en mÃ¡s de 20 puntos porcentuales.&#13;
+Debido al aumento del desempleo y de los despidos, hasta el 12% de los trabajadores perdiÃ³ su cobertura&#13;
+de seguro de salud. La caÃ­da drÃ¡stica del empleo dejÃ³ prÃ¡cticamente al 60% de la poblaciÃ³n por fuera del&#13;
+sistema social de seguro de salud, lo cual elevÃ³ de modo considerable la carga financiera y de prestaciÃ³n de&#13;
+servicios que asumen los gobiernos provinciales por medio del sector pÃºblico de salud. La crisis tambiÃ©n hizo&#13;
+mÃ¡s evidente los problemas sistÃ©micos subyacentes del sector de la salud en Argentina.&#13;
+&#13;
+Inclusive antes de la crisis, Argentina tenÃ­a indicadores sanitarios inferiores a los de otros paÃ­ses de ingreso&#13;
+medio de la regiÃ³n, a pesar de tener niveles de gasto en salud mÃ¡s elevados (Banco Mundial, 2011). Sumado&#13;
+a esto, la drÃ¡stica caÃ­da de los ingresos y el aumento de la pobreza ocasionados por la crisis causaron un&#13;
+deterioro en los indicadores sanitarios, como lo muestra la reversiÃ³n de la tendencia de disminuciÃ³n de&#13;
+la mortalidad infantil, la cual aumentÃ³ de 16,6 por 1.000 nacidos vivos en 2000 a 16,8 por 1.000 nacidos&#13;
+vivos en 2002. Esta situaciÃ³n fue aÃºn mÃ¡s grave en las provincias comparativamente mÃ¡s desfavorecidas del&#13;
+norte del paÃ­s, en las cuales la mortalidad infantil ascendiÃ³ a 25 por 1.000. Un dato alarmante proveniente&#13;
+de diversos estudios fue que la mayorÃ­a de las muertes infantiles y maternas en Argentina podrÃ­an haberse&#13;
+evitado por medio de una prevenciÃ³n, diagnÃ³stico y tratamiento oportuno.&#13;
+&#13;
+El Gobierno de Argentina a priorizÃ³ la inversiÃ³n en salud como parte de su estrategia de alivio de la pobreza.&#13;
+El Ministerio de Salud de la NaciÃ³n asignÃ³ recursos a la expansiÃ³n del acceso de los grupos vulnerables a&#13;
+los servicios de salud y al mejoramiento de su calidad, utilizando al Plan Nacer como instrumento clave&#13;
+                                                       1&#13;
+&amp;#12;para promover mayor cobertura y mejores resultados sanitarios, y para elevar la eficiencia del sistema&#13;
+de salud. El primer objetivo del programa era detener el aumento de la mortalidad infantil, y luego en 10&#13;
+aÃ±os reducirla en un 20% a nivel nacional y por lo menos un 30% en las provincias del norte. El segundo&#13;
+objetivo fue modificar la dinÃ¡mica del financiamiento y la prestaciÃ³n de servicios de salud al nivel provincial,&#13;
+principalmente mediante la modificaciÃ³n de la estructura de incentivos asociada a la provisiÃ³n de fondos de&#13;
+la NaciÃ³n a las provincias, ya que Ã©stas son las responsables de prestar de servicios de salud en su territorio,&#13;
+de administrar sus propios presupuestos y de asignar los recursos.&#13;
+&#13;
+El Plan Nacer fue uno de los pilares centrales de un paquete mÃ¡s amplio e integral de reformas polÃ­ticas en&#13;
+favor de los pobres, cuya meta era ampliar la oferta de servicios de salud y la eficacia de los subsidios pÃºblicos&#13;
+a quienes carecÃ­an de seguro. Para lograr este objetivo, el Plan Nacer adoptÃ³ mecanismos de financiamiento&#13;
+basado en resultados que promovÃ­an un nuevo marco de incentivos para el financiamiento y la prestaciÃ³n&#13;
+de servicios de salud, el cual premia a los proveedores por aumentos en la cobertura de salud, la entrega de&#13;
+servicios y la productividad del personal. Por tanto, al pasar del sistema de salud tradicional, que basado en&#13;
+insumos y presupuestos fijos, a uno estructurado en base a productos y resultados, el programa contribuyÃ³&#13;
+a aumentar la utilizaciÃ³n de los servicios sanitarios y mejorar el estado de salud de la poblaciÃ³n beneficiaria.&#13;
+Este programa planteÃ³ un modelo prometedor de incentivos que debiera tenerse en cuenta en otras Ã¡reas&#13;
+prioritarias del sistema de salud de Argentina y en el resto del mundo.&#13;
+&#13;
+El programa opera dentro del marco institucional existente, cuyo principal pilar es el federalismo. La relaciÃ³n&#13;
+entre el gobierno nacional y las provincias en tÃ©rminos de la prestaciÃ³n y el financiamiento de servicios de&#13;
+salud por medio del sector pÃºblico no se ha modificado de modo sustancial debido a la ejecuciÃ³n del Plan&#13;
+Nacer. Las provincias siguen siendo responsables de prestar (y financiar) los servicios de salud dentro de su&#13;
+territorio, mientras el gobierno nacional estÃ¡ a cargo de la coordinaciÃ³n del sistema de salud. Del mismo&#13;
+modo, antes y despuÃ©s del inicio del Plan Nacer, los proveedores pÃºblicos de servicios de salud han sido&#13;
+financiados por los gobiernos provinciales por medio de una partida presupuestaria que cubre salarios,&#13;
+suministros mÃ©dicos, equipamiento y mantenimiento, al igual que otros costos operativos.&#13;
+&#13;
+Sin embargo, en virtud de la implementaciÃ³n del Plan Nacer, los proveedores pÃºblicos de servicios de&#13;
+salud comienzan a recibir fondos adicionales basados en la cantidad de servicios de salud prestados a los&#13;
+beneficiarios del programa. Por tanto, el programa se monta sobre el esquema de funcionamiento sanitario&#13;
+existente y promueve incentivos a nivel de los gobiernos locales y establecimientos de salud que buscan&#13;
+mejorar la utilizaciÃ³n de servicios de salud bÃ¡sicos por parte de la poblaciÃ³n, mÃ¡s pobre. EspecÃ­ficamente,&#13;
+el programa plantea una cadena de incentivos que incluye a todas las principales partes vinculadas con la&#13;
+provisiÃ³n de servicios de salud en el sector pÃºblico, otorga los incentivos correctos para lograr los objetivos&#13;
+del programa y contempla por primera vez mecanismos de pago vinculados a resultados sanitarios.&#13;
+&#13;
+Este documento estÃ¡ organizado como se describe a continuaciÃ³n: la secciÃ³n 2 contiene un bosquejo del&#13;
+sistema de salud argentino, que incluye una descripciÃ³n de las actividades de salud pÃºblica y atenciÃ³n&#13;
+primaria, asÃ­ como de las que tienen que ver con aspectos relativos a la oferta, para ubicar en el contexto la&#13;
+ejecuciÃ³n del Plan Nacer. La secciÃ³n 3 presenta una descripciÃ³n detallada de las principales caracterÃ­sticas&#13;
+del programa, entre ellas su arquitectura institucional; la determinaciÃ³n, identificaciÃ³n e inscripciÃ³n de&#13;
+beneficiarios; la administraciÃ³n de los fondos del programa y del paquete de beneficios y los aspectos del&#13;
+Plan Nacer relativos a la informaciÃ³n. En la secciÃ³n 4 se presentan los mecanismos de financiamiento basado&#13;
+en resultados del programa. Por Ãºltimo, la secciÃ³n 5 contiene algunas conclusiones sobre los aspectos&#13;
+pendientes y desafÃ­os futuros.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                     2&#13;
+&amp;#12;2. Bosquejo general del sistema de salud&#13;
+&#13;
+El sistema de salud argentino estÃ¡ altamente fragmentado tanto horizontal como verticalmente. Comprende&#13;
+la seguridad social y los subsistemas pÃºblico y privado que prestan servicios de salud. Los trabajadores del&#13;
+sector formal, los jubilados y sus familias tienen seguro de salud por medio del subsistema de la seguridad&#13;
+social, mientras las personas que pueden pagar una prima voluntaria de seguro tienen cobertura en el sector&#13;
+privado. Los servicios del sector pÃºblico estÃ¡n abiertos a todos los habitantes del paÃ­s, aunque en su mayorÃ­a&#13;
+son utilizados por aquellos que carecen de seguro social o seguro privado (por lo general los pobres). Cada&#13;
+uno de los subsistemas estÃ¡ organizado y opera en forma diferente, pues se rige por sus propios reglamentos&#13;
+especÃ­ficos. El subsistema de seguridad social estÃ¡ aÃºn mÃ¡s fragmentado en cientos de aseguradores. La&#13;
+mayorÃ­a son Obras Sociales Nacionales, reglamentadas por la Superintendencia de Seguros de la NaciÃ³n. Las&#13;
+restantes son Obras Sociales Provinciales reguladas por las provincias y brindan cobertura a los empleados&#13;
+pÃºblicos que viven en ellas y a sus familias.&#13;
+&#13;
+AdemÃ¡s de esta fragmentaciÃ³n horizontal, la estructura federal de Argentina asigna responsabilidades&#13;
+relacionadas con la prestaciÃ³n de servicios de salud a las provincias. Aunque esto permite una mayor&#13;
+eficiencia y adaptaciÃ³n local en la prestaciÃ³n de cada servicio de salud, ha representado un desafÃ­o complejo&#13;
+para la formulaciÃ³n y ejecuciÃ³n de polÃ­ticas nacionales de salud. El Ministerio de Salud de la NaciÃ³n tiene a&#13;
+su cargo la coordinaciÃ³n sectorial por medio del Consejo Federal de Salud, que determina y hace cumplir las&#13;
+normas y reglamentos de calidad, y las Ã¡reas tradicionales de salud pÃºblica en el Ã¡mbito nacional. Durante&#13;
+la Ãºltima dÃ©cada, el Ministerio ha diseÃ±ado con Ã©xito instrumentos como el Plan Nacer para influir en las&#13;
+polÃ­ticas provinciales desde el nivel nacional y compensar asÃ­ la limitada capacidad legal y administrativa que&#13;
+tiene para lograr objetivos.&#13;
+&#13;
+&#13;
+Mecanismos de financiamiento y provisiÃ³n de servicios de salud&#13;
+&#13;
+El financiamiento del gasto en salud proviene de los hogares, del sistema de seguridad social y del sector&#13;
+pÃºblico. De acuerdo con un cÃ¡lculo del Programa de las Naciones Unidas para el Desarrollo (PNUD Argentina-&#13;
+OPS-CEPAL), el gasto total del sector de la salud representa el 9,4% del PIB total, del cual un 33,9% se financia&#13;
+con recursos de los hogares, un 38,7% con recursos del sector de seguridad social y el 27,3% restante&#13;
+lo financia el sector pÃºblico nacional, provincial y local (CetrÃ¡ngolo y Goldschmit, 2012) (Cuadro 1). Los&#13;
+hogares financian la prestaciÃ³n de servicios de salud por medio de desembolsos de su propio bolsillo que&#13;
+se destinan principalmente a cubrir el costo de medicamentos, copagos o seguros de salud privados. El&#13;
+sistema de seguridad social se financia sobre todo mediante el cobro de impuestos sobre la nÃ³mina a los&#13;
+trabajadores del sector formal, mientras el sector pÃºblico financia la prestaciÃ³n de servicios de salud con&#13;
+recursos presupuestarios procedentes de los impuestos generales. Las provincias financian el 68% del&#13;
+gasto pÃºblico en salud reflejando su responsabilidad en la provisiÃ³n de servicios de salud, mientras que el&#13;
+gobierno nacional financia cerca de un 18% (Figura 1). Aunque la estructura tributaria de Argentina consta&#13;
+de impuestos recaudados al nivel nacional, una parte significativa se transfiere a los gobiernos provinciales&#13;
+por distintos mecanismos de distribuciÃ³n, de acuerdo al rÃ©gimen de coparticipaciÃ³n federal de recursos&#13;
+fiscales (CetrÃ¡ngolo y JimÃ©nez 2004).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                       3&#13;
+&amp;#12;                                            Cuadro 1. Gasto en salud, Argentina, 2009&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+       Fuente: CetrÃ¡ngolo y Goldschmit, 2012&#13;
+&#13;
+&#13;
+&#13;
+                        Figura 1 Financiamiento y organizaciÃ³n del sector de la salud en Argentina&#13;
+                                            (% del PIB; % de todas las fuentes)&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Fuente: CetrÃ¡ngolo y Goldschmit, 2012.&#13;
+      Nota: INSSJyP = Instituto Nacional de Servicios Sociales para Jubilados y Pensionados.&#13;
+&#13;
+&#13;
+                                                                 4&#13;
+&amp;#12;El gasto pÃºblico total en salud al nivel de las provincias aumentÃ³ proporcionalmente entre 2003 y 2009. En&#13;
+tÃ©rminos nominales, el gasto en salud aumentÃ³ de modo considerable, al pasar de US$7.300 millones en&#13;
+2003 a US$30.000 millones en 2009 y continuÃ³ siendo la segunda inversiÃ³n de mayor importancia, despuÃ©s&#13;
+del gasto en educaciÃ³n. En promedio, cerca del 16% del gasto total provincial se dedicÃ³ a la salud entre 2003&#13;
+y 2009 aunque existen diferencias significativas entre provincias. Por ejemplo, mientras que la ciudad de&#13;
+Buenos Aires gastÃ³ un promedio del 24% de su presupuesto en salud entre 2002 y 2009, Misiones gastÃ³ solo&#13;
+un 7%. Las provincias restantes variaron entre un 8% y un 13% (Figura 2).&#13;
+&#13;
+El gasto pÃºblico provincial en salud cubre los gastos relativos a personal, bienes, servicios y otros costos, en&#13;
+su mayorÃ­a administrativos. En 2010, los gastos de personal representaron el 61% del gasto total provincial&#13;
+en salud. Se gastÃ³ cerca del 27% en bienes y servicios, y el monto restante cubriÃ³ otros costos. Para analizar&#13;
+plenamente la asignaciÃ³n de recursos es necesario descomponer el gasto de varias jurisdicciones durante&#13;
+los Ãºltimos aÃ±os: la ciudad de Buenos Aires y las provincias de Buenos Aires, Santa Fe y CÃ³rdoba. En general,&#13;
+la cantidad de trabajadores mÃ©dicos no se modificÃ³ entre 2007 y 2010. Sin embargo, hubo aumentos&#13;
+considerables de los salarios de esos trabajadores durante el mismo periodo. Entre 2007 y 2010, el aumento&#13;
+del gasto en salud de cada provincia se puede atribuir en su mayor parte a un aumento de los salarios de los&#13;
+trabajadores (Sanguinetti, 2012).&#13;
+&#13;
+Los tres subsistemas prestan servicios de salud. El sector pÃºblico financia y presta servicios de salud&#13;
+por medio de los 24 Ministerios de Salud provinciales y el de la Ciudad AutÃ³noma de Buenos Aires y el&#13;
+Ministerio de Salud de la NaciÃ³n. La administraciÃ³n del primer nivel de atenciÃ³n estÃ¡ a cargo principalmente&#13;
+de las provincias, y en menor medida de las autoridades locales. A pesar de esto, existen tres provincias&#13;
+(Buenos Aires, CÃ³rdoba y Santa Fe) en las cuales la prestaciÃ³n de servicios de salud se ha delegado a las&#13;
+autoridades locales. Los proveedores del sector pÃºblico que prestan servicios al segundo y el tercer nivel son&#13;
+administrados fundamentalmente por los gobiernos provinciales, mientras el gobierno nacional administra&#13;
+a un nÃºmero menor de ellos.&#13;
+&#13;
+&#13;
+                         Figura 2 Gasto en salud como porcentaje del gasto total en salud&#13;
+                                     (excluye los gastos de las Obras Sociales)&#13;
+                                            Promedios de 2002 a 2009&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                   Fuente: Sanguinetti, 2012.&#13;
+&#13;
+&#13;
+                                                        5&#13;
+&amp;#12;El sector de la seguridad social consta de 291 Obras Sociales Nacionales, 24 Obras Sociales Provinciales y el&#13;
+Instituto Nacional de Servicios Sociales para Jubilados y Pensionados (INSSJyP). Estas organizaciones prestan&#13;
+servicios de salud por medio de sus propios proveedores, pero en su mayorÃ­a por medio de proveedores&#13;
+privados. Por Ãºltimo, el sector privado estÃ¡ compuesto por proveedores de servicios de salud, compaÃ±Ã­as&#13;
+de seguros, laboratorios, compaÃ±Ã­as que producen suministros y equipos mÃ©dicos, farmacias y centros&#13;
+de diagnÃ³stico. Existen vÃ­nculos estrechos entre los tres subsistemas en lo que ataÃ±e al financiamiento y&#13;
+provisiÃ³n de servicios de salud y a la coordinaciÃ³n de su prestaciÃ³n.&#13;
+&#13;
+Cada nivel de atenciÃ³n se presta en los tres subsistemas (el pÃºblico, el de seguridad social y el privado)&#13;
+(Cuadro 2). Desafortunadamente, la informaciÃ³n disponible no permite diferenciar a los proveedores segÃºn&#13;
+los distintos niveles de atenciÃ³n. Sin embargo, es posible presentar una distribuciÃ³n de proveedores por&#13;
+subsistemas, teniendo en cuenta si ofrecen servicios de internaciÃ³n..&#13;
+&#13;
+                                      Cuadro 2. Cobertura y gasto promedio de los subsectores	&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+    Fuente: CetrÃ¡ngolo y Goldschmit, 2012.&#13;
+    Nota: NC= no corresponde.&#13;
+&#13;
+&#13;
+Cada nivel de atenciÃ³n se presta en los tres subsistemas (el pÃºblico, el de seguridad social y el privado)&#13;
+(Cuadro 2). Desafortunadamente, la informaciÃ³n disponible no permite diferenciar a los proveedores segÃºn&#13;
+los distintos niveles de atenciÃ³n. Sin embargo, es posible presentar una distribuciÃ³n de proveedores por&#13;
+subsistemas, teniendo en cuenta si ofrecen servicios de internaciÃ³n.&#13;
+&#13;
+SegÃºn el Sistema Integrado de InformaciÃ³n Sanitaria del Ministerio de Salud de la NaciÃ³n, en 2012 existÃ­an&#13;
+unos 12.360 proveedores que no ofrecÃ­an servicios de internaciÃ³n, distribuidos como sigue entre los&#13;
+tres subsistemas: (a) 7902 establecimientos de salud pÃºblicos (incluidos los centros de atenciÃ³n primaria&#13;
+pÃºblicos, centros de urgencias y centros de vacunaciÃ³n): 15 administrados por el gobierno nacional, 4.877&#13;
+por los gobiernos provinciales y 3.010 por los locales; (b) 4,188 proveedores privados de atenciÃ³n primaria,&#13;
+incluidas las clÃ­nicas, centros ambulatorios de cirugÃ­a, centros de urgencias y centros de vacunaciÃ³n2; y (c)&#13;
+unos 270 establecimientos de propiedad de las Obras Sociales.&#13;
+&#13;
+&#13;
+2&#13;
+    No se cuenta con datos sobre el nÃºmero de consultorios privados de mÃ©dicos.&#13;
+&#13;
+                                                                  6&#13;
+&amp;#12;Existen 3.118 proveedores que prestan servicios de internaciÃ³n: (a) 1.275 proveedores pÃºblicos, 8&#13;
+administrados por el gobierno nacional, 930 por las autoridades provinciales y 337 por los gobiernos locales.&#13;
+Comprenden tanto hospitales generales como especializados (incluidos los hospitales materno infantiles,&#13;
+pediÃ¡tricos, psiquiÃ¡tricos, de traumatologÃ­a y de rehabilitaciÃ³n); (b) 1.789 clÃ­nicas privadas (incluidas las&#13;
+clÃ­nicas materno infantiles, pediÃ¡tricas, psiquiÃ¡tricas, de traumatologÃ­a y de rehabilitaciÃ³n, entre otras); y (c)&#13;
+cerca de 50 hospitales o clÃ­nicas de propiedad de las Obras Sociales nacionales y provinciales. No se cuenta&#13;
+con datos sobre el nÃºmero de mÃ©dicos especialistas que prestan servicios en consultorios privados. AdemÃ¡s,&#13;
+existen 2.083 centros de diagnÃ³stico por imÃ¡genes y laboratorios clÃ­nicos, que en su mayorÃ­a son privados (el&#13;
+98%). El numero de camas de hospital en el sector pÃºblico asciende a 85.743 y 99.185 en el sector privado&#13;
+(Sanguinetti, 2012).&#13;
+&#13;
+Breve descripciÃ³n de los programas de salud pÃºblica y atenciÃ³n&#13;
+primaria y de las actividades clave relativas a la oferta de servi-&#13;
+cios de salud&#13;
+&#13;
+Existen 3.118 proveedores que prestan servicios de internaciÃ³n: (a) 1.275 proveedores pÃºblicos, 8&#13;
+administrados por el gobierno nacional, 930 por las autoridades provinciales y 337 por los gobiernos locales.&#13;
+Comprenden tanto hospitales generales como especializados (incluidos los hospitales materno infantiles,&#13;
+pediÃ¡tricos, psiquiÃ¡tricos, de traumatologÃ­a y de rehabilitaciÃ³n); (b) 1.789 clÃ­nicas privadas (incluidas las&#13;
+clÃ­nicas materno infantiles, pediÃ¡tricas, psiquiÃ¡tricas, de traumatologÃ­a y de rehabilitaciÃ³n, entre otras); y (c)&#13;
+cerca de 50 hospitales o clÃ­nicas de propiedad de las Obras Sociales nacionales y provinciales. No se cuenta&#13;
+con datos sobre el nÃºmero de mÃ©dicos especialistas que prestan servicios en consultorios privados. AdemÃ¡s,&#13;
+existen 2.083 centros de diagnÃ³stico por imÃ¡genes y laboratorios clÃ­nicos, que en su mayorÃ­a son privados (el&#13;
+98%). El numero de camas de hospital en el sector pÃºblico asciende a 85.743 y 99.185 en el sector privado&#13;
+(Sanguinetti, 2012).&#13;
+&#13;
+El subsistema pÃºblico de salud busca prestar atenciÃ³n de primer, segundo y tercer nivel a todos los habitantes&#13;
+de Argentina. La atenciÃ³n primaria se encuentra generalizada en todo el paÃ­s, aunque existen dificultades&#13;
+para llegar a ciertos grupos vulnerables y lograr una mayor eficiencia en el funcionamiento de las redes&#13;
+sanitarias. Los Ministerios de Salud provinciales prestan servicios a quienes no son afiliados a las Obras&#13;
+Sociales ni tienen seguro privado, que por lo general son los mÃ¡s pobres (el 37,9% de toda la poblaciÃ³n [INDEC,&#13;
+2010]). El subsistema pÃºblico de salud estÃ¡ compuesto por los subsistemas de salud de las 23 provincias y&#13;
+el de la Ciudad AutÃ³noma de Buenos Aires. Cada subsistema estÃ¡ organizado segÃºn sus propios sus propias&#13;
+leyes y marcos regulatorios, aunque en su mayorÃ­a se estructura en base a redes de salud organizadas a&#13;
+partir de regiones sanitarias. Estas regiones sanitarias disponen de una red de atenciÃ³n primaria de la salud&#13;
+(primer nivel de atenciÃ³n) compuesto esencialmente por Centros de AtenciÃ³n Primaria (CAPs) y hospitales&#13;
+de segundo y tercer nivel de atenciÃ³n.&#13;
+&#13;
+Los gobiernos provinciales por lo general prestan atenciÃ³n de primer nivel por medio de su red de Centros&#13;
+de AtenciÃ³n Primaria, y servicios de atenciÃ³n secundaria y terciaria por medio de hospitales del segundo&#13;
+y el tercer nivel. Sin embargo de acuerdo al Ministerio de Salud de la NaciÃ³n dichas redes no funcionan&#13;
+como tales, ni los servicios de salud del primer nivel de atenciÃ³n funcionan como puerta de entrada al&#13;
+sistema de atenciÃ³n mÃ©dica, ni existe tampoco un esquema de continuidad de cuidados que oriente, facilite&#13;
+e instrumente la derivaciÃ³n de los pacientes que lo requieran. Puesto que tampoco se han consolidado&#13;
+                                                        7&#13;
+&amp;#12;servicios de referencia y contra referencia, la poblaciÃ³n recurre a los servicios donde obtiene respuesta a&#13;
+sus solicitudes... En este aspecto existe un escaso e irregular desarrollo, innovaciÃ³n e implementaciÃ³n de&#13;
+unidades organizativas de referencia y contrarreferencia. Esta situaciÃ³n es mÃ¡s marcada en las zonas rurales,&#13;
+en las cuales se observa una limitada cantidad de recursos humanos y medicinas lo cual afecta la efectividad&#13;
+de la oferta de servicios&#13;
+&#13;
+La inexistencia de procesos coordinados y normalizados de referencia y contrarreferencia entre el primer&#13;
+y el segundo nivel de atenciÃ³n impide a las redes sanitarias cumplir sus funciones bÃ¡sicas. AdemÃ¡s, la&#13;
+administraciÃ³n de los Centros de AtenciÃ³n Primaria ha demostrado ser ineficiente en lo que ataÃ±e a la&#13;
+obtenciÃ³n de turnos programados en el segundo nivel. La tarea de coordinar los sectores pÃºblicos de salud&#13;
+de las distintas entidades territoriales de Argentina corresponde al Consejo Federal de Salud dentro del cual&#13;
+los Ministros de Salud provinciales y el nacional cumplen el papel de coordinar las iniciativas de salud y lograr&#13;
+consensos sobre ellas, especialmente las destinadas a hacer mÃ¡s eficientes las redes sanitarias.&#13;
+&#13;
+En la actualidad el gobierno continÃºa sus esfuerzos en mejorar el desempeÃ±o de las redes de salud, y, de&#13;
+este modo, elevar la cantidad y calidad de servicios prestados. En este contexto, algunos proyectos lanzados&#13;
+recientemente por el Ministerio de Salud de la NaciÃ³n â&#128;&#148;el programa Sumar y el programa Funciones&#13;
+Esenciales de Salud PÃºblica II (FESP II)â&#128;&#148; buscan promover una mejor organizaciÃ³n del sistema pÃºblico de&#13;
+salud, centrÃ¡ndose en las necesidades sanitarias de la poblaciÃ³n y no en la estructura actual del sistema con&#13;
+el objetivo de asegurar una respuesta equitativa. EspecÃ­ficamente, el programa Sumar sigue apoyando la&#13;
+creaciÃ³n y puesta en marcha de una red de atenciÃ³n de cardiopatÃ­as congÃ©nitas, mientras el FESP II apoya la&#13;
+ejecuciÃ³n de dos proyectos piloto a nivel provincial, cuyo fin es crear redes de proveedores de atenciÃ³n de&#13;
+enfermedades no transmisibles.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                    8&#13;
+&amp;#12;3. DescripciÃ³n del Plan Nacer&#13;
+&#13;
+Arquitectura institucional e interacciÃ³n con el resto&#13;
+del sistema de salud&#13;
+&#13;
+Los principales objetivos del Plan Nacer son ampliar el acceso a los servicios de salud de las mujeres&#13;
+embarazadas y los niÃ±os menores de seis aÃ±os que carecen de seguro de salud y hacer mÃ¡s eficiente el uso&#13;
+de los recursos pÃºblicos mediante la adopciÃ³n de una cadena de incentivos basada en resultados. Puesto que&#13;
+la prestaciÃ³n de servicios de salud en el paÃ­s es gratuita, el Plan Nacer busca ampliar la cobertura de modo&#13;
+eficaz y hacer que el acceso a los servicios sea explÃ­cito. Para lograr estas metas, el programa comprende una&#13;
+serie de actividades a nivel nacional, provincial y de los proveedores, como se explica a continuaciÃ³n.&#13;
+&#13;
+En primer lugar, el Plan Nacer promueve la creaciÃ³n y puesta en funcionamiento de seguros provinciales&#13;
+de salud para madres y niÃ±os financiados con recursos pÃºblicos, a travÃ©s de la provisiÃ³n de un paquete&#13;
+de beneficios de servicios bÃ¡sicos de salud. . Este Ãºltimo promueve un modelo no contributivo de seguro&#13;
+que incluye los siguientes elementos: (a) pago por cada beneficiario (cÃ¡pita), (b) cÃ¡lculos actuariales y&#13;
+determinaciones del nivel de riesgo para definir el monto de la cÃ¡pita, (c) unidades nacional y provinciales&#13;
+encargadas de la compra de servicios de salud, (d) nominalizaciÃ³n de beneficiarios, (e) un listado de servicios&#13;
+de salud materna e infantil cubiertos por el programa, (g) precios para cada uno de ellos, (g) contratos&#13;
+explÃ­citos entre cada provincia y los proveedores de servicios de salud que operen en ella, y (h) mecanismos&#13;
+de pago por servicio (de la provincia a sus proveedores).&#13;
+&#13;
+En segundo lugar, el programa proporciona recursos adicionales destinados a cerrar la brecha cobertura y&#13;
+calidad de los servicios bÃ¡sicos de salud priorizados mediante un mecanismo de financiamiento basado en&#13;
+resultados, el cual complementa el financiamiento procedente del presupuesto provincial. Estos recursos&#13;
+se transfieren del Ministerio de Salud de la NaciÃ³n al Ministerio de Salud de la provincia mediante el pago&#13;
+de una cÃ¡pita por beneficiario inscripto en el programa), el cual a su vez eses ajustado por desempeÃ±o. Los&#13;
+Ministerios de Salud de las provincias sÃ³lo pueden utilizar estos fondos para reembolsar a los proveedores&#13;
+por los servicios prestados a los beneficiarios del Plan Nacer siempre y cuando estos formen parte del&#13;
+paquete priorizado. El diseÃ±o del programa permite que cada proveedor decida cÃ³mo utilizar los recursos,&#13;
+lo cual otorga al personal capacidad de decisiÃ³n y fomenta la productividad. La autonomÃ­a en el uso de los&#13;
+recursos que conserva el proveedor de servicios de salud se ha convertido en un incentivo poderoso para&#13;
+aumentar la prestaciÃ³n de servicios y dotar a los proveedores del sistema de salud de mayor flexibilidad para&#13;
+asignar recursos. De este modo, el Plan Nacer proporciona fondos dependiendo del logro de tres tipos de&#13;
+resultados asociados a: inscripciÃ³n, mejoras en el desempeÃ±o sanitario medido por 10 indicadores llamados&#13;
+â&#128;&#156;trazadorasâ&#128;&#157;, y la prestaciÃ³n y calidad de los servicios de salud (Figura 3).&#13;
+&#13;
+En tercer lugar, el programa contribuye al fortalecimiento de la capacidad de oferta de los proveedores de&#13;
+servicios de salud a partir del financiamiento de capacitaciones y equipamiento s mÃ©dico, de transporte y&#13;
+de comunicaciones. TambiÃ©n fomenta la demanda de servicios de salud entre los beneficiarios del programa&#13;
+mediante el financiamiento de actividades de comunicaciÃ³n y difusiÃ³n que aumentan los conocimientos&#13;
+sobre el paquete de servicios bÃ¡sicos cubierto por el programa.&#13;
+&#13;
+&#13;
+                                                      9&#13;
+&amp;#12;El Plan Nacer fue diseÃ±ado originalmente por el gobierno nacional â&#128;&#148;en coordinaciÃ³n con las provincias a&#13;
+travÃ©s del Consejo Federal de Saludâ&#128;&#148; como un medio para abordar las consecuencias de la crisis econÃ³mica&#13;
+que afectÃ³ a Argentina en 2001, reducir la desigualdad y promover la direcciÃ³n y coordinaciÃ³n del sector&#13;
+de la salud por parte del Ministerio de Salud de la NaciÃ³n. Fue creado en 2003 mediante la ResoluciÃ³n No.&#13;
+198/2003 del Ministerio de Salud. El programa se puso en marcha en dos fases, ayuda partir del apoyo de&#13;
+dos prÃ©stamos del Banco Mundial. La primera fase se lanzÃ³ en 2004 en las nueve provincias del norte de&#13;
+Argentina mÃ¡s afectadas por la pobreza y las cuales contaban con las mÃ¡s elevadas tasas de mortalidad&#13;
+infantil. En 2007 el programa se puso en marcha en las 15 provincias restantes, abarcando a todo el paÃ­s.&#13;
+DespuÃ©s del cierre de la primera fase en 2010 la ejecuciÃ³n del programa en todas las provincias fue apoyada&#13;
+mediante el prÃ©stamo para la segunda fase.&#13;
+&#13;
+El Plan Nacer es un programa nacional, coordinado por el gobierno nacional y ejecutado por las provincias.&#13;
+El Ministerio de Salud de la NaciÃ³n estÃ¡ a cargo de lograr las metas de desempeÃ±o del programa y las&#13;
+provincias tienen la responsabilidad operativa de ejecutar el programa y lograr las metas de desempeÃ±o&#13;
+a nivel provincial. Para cumplir con estos objetivos, el Ministerio de Salud de la NaciÃ³n proporciona a las&#13;
+provincias financiamiento adicional (transferencias basadas en montos per cÃ¡pita), el cual complementa los&#13;
+presupuestos provinciales de salud. Este esquema permite al Ministerio de Salud de la NaciÃ³n, responsable&#13;
+de la coordinaciÃ³n de polÃ­ticas y programas de salud a nivel nacional, influir en la atenciÃ³n de la salud&#13;
+en un contexto de descentralizaciÃ³n. Por su parte, las provincias transfieren los recursos recibidos bajo el&#13;
+programa a los proveedores mediante pagos por servicios de salud incluidos en el paquete bÃ¡sico.&#13;
+&#13;
+La funciÃ³n de coordinaciÃ³n del programa estÃ¡ a cargo de la Unidad Ejecutora Central (UEC) creada bajo la&#13;
+orbita de la SecretarÃ­a de PromociÃ³n y Programas Sanitarios del Ministerio. La UEC estÃ¡ encabezada por el&#13;
+Secretario de PromociÃ³n y Programas Sanitarios, que hace las veces de Director Nacional del Plan Nacer.&#13;
+AdemÃ¡s, el programa tiene un Coordinador Ejecutivo Nacional que estÃ¡ a cargo de los asuntos operativos.&#13;
+Tanto el Director Nacional como el Coordinador Ejecutivo Nacional son nombrados por el Ministro de Salud.&#13;
+Aunque la UEC es responsable de colaborar con las provincias en la ejecuciÃ³n del programa, Ã©stas son&#13;
+directamente responsables de comprar los servicios incluidos en el paquete de servicios bÃ¡sicos del Plan&#13;
+Nacer a los proveedores. La UEC tambiÃ©n es responsable del cumplimiento de todos los aspectos tÃ©cnicos,&#13;
+financieros y administrativos relacionados con la ejecuciÃ³n del proyecto de acuerdo a los parÃ¡metros&#13;
+definidos por el programa. La UEC cuenta con el apoyo de la Unidad de Financiamiento Internacional de&#13;
+Salud (UFIS) del Ministerio de Salud de la NaciÃ³n en lo que se refiere a las necesidades financieras y de&#13;
+adquisiciones.&#13;
+&#13;
+Los Ministerios de Salud de las provincias son responsables de asegurar la provisiÃ³n de servicios de salud en&#13;
+sus territorios, especialmente para aquellos que carecen de seguro mÃ©dico. La ejecuciÃ³n del Plan Nacer estÃ¡&#13;
+a cargo de las Unidades de GestiÃ³n provinciales creadas dentro de los Ministerios de Salud de las provincias.&#13;
+Estas unidades estÃ¡n encabezadas por un Coordinador Ejecutivo provincial nombrado por el Ministro de&#13;
+Salud de la respectiva provincia. Las Unidades de GestiÃ³n provinciales administran el Plan Nacer y actÃºan&#13;
+como los organismos compradores de servicios de salud de los Ministerios de Salud de las provincias. Sus&#13;
+principales funciones son identificar e inscribir a los beneficiarios y lograr su participaciÃ³n; identificar,&#13;
+autorizar y contratar a los proveedores para que presten el paquete de servicios bÃ¡sicos a los beneficiarios;&#13;
+y controlar la calidad tÃ©cnica de los servicios, la gestiÃ³n financiera y las adquisiciones. Las relaciones entre el&#13;
+Ministerio de Salud de la NaciÃ³n y el ministerio de cada provincia, y entre Ã©ste y los proveedores de servicios&#13;
+                                                    10&#13;
+&amp;#12;de salud, se rigen por acuerdos vinculantes de gestiÃ³n que refieren especÃ­ficamente al Plan Nacer y sus&#13;
+mecanismos de financiamiento. Se trata de contratos voluntarios con fuerza legal en los cuales se definen los&#13;
+papeles y las responsabilidades de cada una de las partes y se asegura la rendiciÃ³n de cuentas. El primer tipo&#13;
+de acuerdo, que se firma entre el Ministerio nacional y el provincial, se denomina Convenio Marco. Cubre&#13;
+todos los aspectos tÃ©cnicos, financieros, administrativos y fiduciarios de carÃ¡cter permanente que implica&#13;
+la participaciÃ³n de la provincia en el programa y dispone que las transferencias de recursos del Plan Nacer&#13;
+desde la NaciÃ³n a las Provincias se realice en base al nÃºmero de beneficiarios inscriptos y al cumplimiento&#13;
+de metas de las trazadoras.&#13;
+&#13;
+Adicionalmente, el Ministerio de Salud de la NaciÃ³n y el Ministerio de Salud de cada provincia negocian&#13;
+anualmente las metas de inscripciÃ³n y de trazadoras, los programas de trabajo y las necesidades de recursos,&#13;
+todo lo cual se plasma en otro tipo de contrato denominado Compromiso Anual de DesempeÃ±o. Por otra&#13;
+parte, el contrato que se firma entre el Ministerio de Salud provincial y el proveedor de servicios se llama&#13;
+Convenio de GestiÃ³n y sirve de guÃ­a para la prestaciÃ³n del paquete de servicios bÃ¡sicos a los beneficiarios&#13;
+del Plan Nacer. Incluye los precios de cada uno de los servicios incluidos en el paquete cubierto por el&#13;
+programa, y, las normas de calidad y medidas de control; los mecanismos de pago, los resultados esperados,&#13;
+los requisitos de mantenimiento de las historias clÃ­nicas, el tipo de documentaciÃ³n financiera requerida&#13;
+por el programa, y las modalidades de supervisiÃ³n y auditorÃ­a. TambiÃ©n define las responsabilidades del&#13;
+proveedor, que incluyen la inscripciÃ³n de beneficiarios, la prestaciÃ³n del paquete de servicios bÃ¡sicos y su&#13;
+facturaciÃ³n a la provincia. Todos los proveedores que estÃ©n en capacidad de prestar el paquete de servicios&#13;
+bÃ¡sicos3 cubierto por el programa pueden para participar en el Plan Nacer, aunque la mayorÃ­a de ellos son&#13;
+entidades pÃºblicas4.&#13;
+&#13;
+Los cambios estructurales en el sistema de salud que promueve el programa se adoptaron mediante la&#13;
+firma de estos convenios vinculantes, lo que implica un cambio en la forma en que el gobierno nacional&#13;
+proporciona a las provincias financiamiento para el sector de la salud y en la forma en que se realizan pagos a&#13;
+los proveedores. De esta forma, el financiamiento proporcionado por el Plan Nacer comprende los siguientes&#13;
+aspectos:&#13;
+&#13;
+â&#128;¢ Una cÃ¡pita de US$3,86 (Arg$17) mensuales por beneficiario inscripto en el programa. Esta cÃ¡pita se asemeja&#13;
+  el valor de una prima de seguro de salud, la cual otorga a los beneficiarios del Plan Nacer el derecho a recibir&#13;
+  atenciÃ³n de los proveedores contratados por los servicios cubiertos por el programa. La UEC transfiere el&#13;
+  70% de esa cÃ¡pita a las Unidades de GestiÃ³n provinciales por medio de la UFIs Dicho importe consiste en&#13;
+  aportes de la NaciÃ³n financiados mediante un prÃ©stamo del Banco Mundial. El 30% restante del valor de la&#13;
+  cÃ¡pita es financiado (y transferido) por los gobiernos provinciales a las Unidades de GestiÃ³n provinciales.&#13;
+  Dichas unidades utilizan esos pagos exclusivamente para reembolsar a los proveedores por los servicios de&#13;
+  salud cubiertos por el Programa que hayan sido prestados a los beneficiarios del Plan Nacer.&#13;
+&#13;
+&#13;
+3&#13;
+    Para prestar el paquete de servicios bÃ¡sico previsto en el Plan Nacer, los proveedores no tienen que estar aprobados o acreditados por ninguna&#13;
+     instituciÃ³n. En cambio, para prestar servicios en el marco del paquete de atenciÃ³n de cardiopatÃ­as congÃ©nitas, que comprende intervenciones&#13;
+     de gran complejidad y se puso en marcha en 2010, los proveedores tienen que ser evaluados y acreditados por la DirecciÃ³n Nacional de&#13;
+     Maternidad e Infancia del Ministerio de Salud de la NaciÃ³n.&#13;
+4&#13;
+    A los proveedores privados se les permite participar en el Plan Nacer, pero en vista de que la tarifa por servicio del Plan no cubre el costo total&#13;
+     de los servicios, no existe incentivo para que estos participen en el programa. El monto de la cÃ¡pita que se paga solo cubre el costo de cerrar&#13;
+     la brecha en materia de cantidad y calidad de los servicios priorizado de salud.&#13;
+&#13;
+                                                                          11&#13;
+&amp;#12;    Adicionalmente, las transferencias de cÃ¡pitas se realizan en dos partes, ambas determinadas por los&#13;
+    resultados. La primera, que representa el 60% del valor de la cÃ¡pita, se desembolsa mensualmente&#13;
+    inmediatamente despuÃ©s de que las provincias envÃ­en el padrÃ³n de beneficiarios inscriptos en el Plan&#13;
+    Nacer y Ã©ste sea verificado por la UEC. La segunda, de hasta el 40%, se desembolsa cuatrimestralmente,&#13;
+    despuÃ©s de la verificaciÃ³n y certificaciÃ³n de que la provincia cumpliÃ³ las metas de las trazadoras (Anexo 1).&#13;
+&#13;
+    Actualmente, las trazadoras y las metas son iguales para todas las provincias. Cada trazadora posee un&#13;
+    conjunto de metas cuatrimestrales con tres umbrales. Las provincias pueden recibir entre el 2% y 4%&#13;
+    de la cÃ¡pita por cada trazadora dependiendo del umbral alcanzado. Las metas estÃ¡n incluidas en los&#13;
+    Compromisos Anuales de DesempeÃ±o.&#13;
+&#13;
+â&#128;¢ Los pagos por servicio que realizan las Unidades de GestiÃ³n provinciales a los proveedores se basan en la&#13;
+  cantidad de servicios brindados a los beneficiarios del programa. Como el gobierno provincial determina los&#13;
+  precios de los servicios de salud cubiertos por el Programa, la administraciÃ³n de los mismos permite enviar&#13;
+  seÃ±ales a los proveedores acerca de, por ejemplo, cuÃ¡les servicios se necesita incrementar su utilizaciÃ³n&#13;
+  para lograr las metas de las trazadoras o bien para responder a un contexto de salud especÃ­fico5. Por su&#13;
+  parte, los proveedores de salud tienen autonomÃ­a para decidir cÃ³mo utilizar esos fondos aunque dentro&#13;
+  de categorÃ­as mÃ¡s amplias definidas por el Ministerio de Salud de la provincia. Una cantidad pequeÃ±a de&#13;
+  provincias permite a los proveedores utilizar recursos del Plan Nacer para pagar incentivos al personal en&#13;
+  funciÃ³n de su desempeÃ±o. El mecanismo de pago por servicio se revisa dos veces al aÃ±o. Las provincias&#13;
+  analizan el tipo y la cantidad de servicios de salud brindados a los beneficiarios, y si es necesario pueden&#13;
+  ajustar los precios para asegurar la sostenibilidad financiera de la provincia. Al interior de la provincia, el&#13;
+  modelo de pago por servicio es el mismo para los establecimientos de todos los niveles.&#13;
+&#13;
+    Por primera vez en Argentina, los gobiernos de la NaciÃ³n y las provincias estÃ¡n vinculando el financiamiento&#13;
+    a los resultados. Para ello, el gobierno ha diseÃ±ado y ejecutado numerosos instrumentos que no eran&#13;
+    de uso comÃºn en el sector pÃºblico, entre ellos los Compromisos Anuales de DesempeÃ±o y Convenios de&#13;
+    GestiÃ³n, los mecanismos para administrar la producciÃ³n y aplicaciÃ³n de fondos, determinar precios, y los&#13;
+    esquemas de monitoreo, evaluaciÃ³n y auditorÃ­a, entre otros.. Estos cambios estructurales en el modelo&#13;
+    de financiamiento del sector de la salud estÃ¡n modificando el marco de incentivos, promoviendo la&#13;
+    eficiencia e inclusiÃ³n de los pobres en el sistema pÃºblico de salud. El Plan Nacer es el primer programa en&#13;
+    Argentina a travÃ©s del cual los proveedores reciben directamente financiamiento y pueden decidir sobre&#13;
+    su utilizaciÃ³n. Esto ha generado un incremento en la capacidad de decisiÃ³n de los proveedores, impactando&#13;
+    significativamente en la motivaciÃ³n de los equipos sanitarios del sector pÃºblico de salud.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+5&#13;
+    Como los Ministerios de Salud de las provincias continÃºan pagando la mayorÃ­a de los costos de la atenciÃ³n sanitaria, incluidos los salarios de&#13;
+    los trabajadores oficiales del sector salud, estos pagos por servicio no cubren el costo total de los servicios cubiertos, sino apenas su costo&#13;
+    incremental.&#13;
+&#13;
+                                                                    12&#13;
+&amp;#12;                  Figura 3: Estructura institucional: mecanismos de pago del Plan Nacer&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                 Fuente: Ministerio de Salud de la NaciÃ³n (2011)&#13;
+&#13;
+&#13;
+&#13;
+SelecciÃ³n, identificaciÃ³n e inscripciÃ³n de los beneficiarios&#13;
+&#13;
+El propÃ³sito del Plan Nacer es proveer servicios de salud prioritarios a los grupos mÃ¡s pobres y vulnerables.&#13;
+En vista de la carencia de un sistema nacional Ãºnico para identificar a los pobres, el programa se centra&#13;
+en los hogares que carecen de seguro de salud, en los cuales las personas estÃ¡n a menudo desempleadas&#13;
+o trabajan en el sector informal y por tanto tienen mayores probabilidades de ser pobres. Dentro de este&#13;
+grupo, el programa estÃ¡ diseÃ±ado para beneficiar a las mujeres embarazadas y a los niÃ±os, que tienden a ser&#13;
+los grupos mÃ¡s vulnerables entre aquellos que carecen de seguro de salud.&#13;
+&#13;
+EspecÃ­ficamente, la poblaciÃ³n objetivo del programa estÃ¡ conformada por personas sin cobertura de&#13;
+salud explÃ­cita (incluida la cobertura de la seguridad social o del sector privado) y que pertenezcan a los&#13;
+siguientes grupos: niÃ±os menores de 6 aÃ±os, mujeres embarazadas y mujeres que estÃ©n dentro de los 45&#13;
+dÃ­as posteriores al parto o finalizaciÃ³n del embarazo. Se presta especial atenciÃ³n a la poblaciÃ³n indÃ­gena,&#13;
+un segmento tradicionalmente pobre y excluido, mediante la implementaciÃ³n de actividades especÃ­ficas&#13;
+destinadas ella este grupo.&#13;
+&#13;
+Inicialmente, el programa se dirigiÃ³ a los niÃ±os y las mujeres embarazadas mÃ¡s vulnerables del paÃ­s al operar&#13;
+en las provincias mÃ¡s pobres. El programa se lanzÃ³ en 2004 en las nueve provincias del norte que tienen los&#13;
+niveles mÃ¡s elevados de necesidades bÃ¡sicas insatisfechas y mortalidad infantil. Esta regiÃ³n tambiÃ©n aloja al&#13;
+75% de la poblaciÃ³n indÃ­gena de Argentina. En 2007, el programa se expandiÃ³ al resto del paÃ­s. Para identificar&#13;
+a la poblaciÃ³n objetivo, el programa ha tenido que diseÃ±ar y montar su propio sistema de determinaciÃ³n de&#13;
+elegibilidad. La UEC calcula y revisa periÃ³dicamente la poblaciÃ³n elegible empleando los datos disponibles&#13;
+sobre cobertura de salud y sobre niÃ±os menores de 6 aÃ±os procedentes del censo, de encuestas nacionales&#13;
+de hogares y de los registros de reciÃ©n nacidos. En 2012, la poblaciÃ³n elegible estimada era de unos 2&#13;
+millones de personas. Las Unidades de GestiÃ³n provinciales estÃ¡n a cargo de identificar e inscribir a los&#13;
+posibles beneficiarios y verificar que cumplan los criterios de elegibilidad. Estas unidades han delegado&#13;
+las primeras dos actividades a los proveedores de servicio de salud. Sin embargo, como ellas continÃºan&#13;
+siendo las responsables de asegurar que la poblaciÃ³n elegible se inscriba incluso en las Ã¡reas remotas y de&#13;
+baja densidad poblacional , tambiÃ©n han tenido que poner en marcha estrategias destinadas a identificar e&#13;
+inscribir a la poblaciÃ³n elegible (por ejemplo, visitas de trabajadores sanitarios a los barrios pobres). Una vez&#13;
+                                                         13&#13;
+&amp;#12;finalizada la inscripciÃ³n, las Unidades de GestiÃ³n cruzan la informaciÃ³n sobre los nuevos inscriptos contra&#13;
+una base de datos de cobertura de salud denominada PadrÃ³n Ã&#154;nico Consolidado Operativo, creado a partir&#13;
+de los registros del Seguro Social. De este modo se verifica que los beneficiarios del Plan Nacer no cuenten&#13;
+con cobertura explÃ­cita de salud.&#13;
+&#13;
+El Plan Nacer estipula que los posibles beneficiarios que reÃºnan los requisitos de elegibilidad se inscriban&#13;
+voluntariamente en el programa. Para lograr este objetivo, el programa proporciona incentivos distintos&#13;
+tanto a las Unidades de GestiÃ³n provinciales como a los proveedores de servicios de salud. Los aseguradores&#13;
+provinciales tienen incentivos directos para inscribir a los beneficiarios, ya que la inscripciÃ³n justifica el pago&#13;
+del 60% de la cÃ¡pita que transfiere el gobierno nacional a cada provincia. Los proveedores tienen incentivos&#13;
+indirectos, ya que solamente pueden facturar los servicios de salud prestados a las personas inscritas en&#13;
+el programa. Adicionalmente, el diseÃ±o del programa desincentiva la inscripciÃ³n de personas que no sean&#13;
+elegibles, ya que el cumplimiento de los requisitos de inscripciÃ³n es objeto de auditorÃ­as internas y externas&#13;
+y la inscripciÃ³n de personas que no los cumplan se traduce en sanciones monetarias. Esta situaciÃ³n ha&#13;
+llevado a que exista un bajo nÃºmero de beneficiarios que no deberÃ­a haberse inscripto. SegÃºn los informes&#13;
+de las auditorÃ­as correspondientes a 2008 y 2009, solo el 0,25% de los beneficiarios de nueve provincias del&#13;
+norte fueron inscriptos errÃ³neamente en el Plan Nacer.&#13;
+&#13;
+La inscripciÃ³n en el programa, como porcentaje de la poblaciÃ³n elegible, ha aumentado constantemente,&#13;
+a pesar de algunas dificultades.. En abril de 2012, el nÃºmero de beneficiarios era de aproximadamente&#13;
+1,840.000, lo cual representaba el 89,7% de la poblaciÃ³n elegible. El programa se beneficiÃ³ de la adopciÃ³n&#13;
+de la polÃ­tica de AsignaciÃ³n Universal por Hijo6 en noviembre de 2009, en virtud de la cual la inscripciÃ³n&#13;
+en Plan Nacer se convirtiÃ³ en un requisito para recibir la asignaciÃ³n. Como resultado de ella, la inscripciÃ³n&#13;
+aumentÃ³ de modo considerable despuÃ©s de un periodo de crecimiento bajo. De hecho, dos aÃ±os despuÃ©s&#13;
+de la adopciÃ³n de esa polÃ­tica, la inscripciÃ³n habÃ­a aumentado en 46 puntos porcentuales en las provincias&#13;
+de Centro, Patagonia y Cuyo y en 9 puntos porcentuales en las provincias del norte. Aunque no estÃ¡ claro&#13;
+por quÃ© la curva de crecimiento tendiÃ³ a aplanarse, dos posibles explicaciones son que es mucho mÃ¡s difÃ­cil&#13;
+llegar a la poblaciÃ³n elegible restante y que el programa no invirtiÃ³ suficientes recursos en actividades de&#13;
+comunicaciÃ³n y bÃºsqueda de beneficiarios.&#13;
+&#13;
+&#13;
+&#13;
+Temas especiales relativos a la administraciÃ³n&#13;
+de recursos pÃºblicos en el Plan Nacer&#13;
+&#13;
+Los recursos del Plan Nacer no representan un monto significativo comparado con los presupuestos&#13;
+provinciales. De acuerdo con los datos disponibles mÃ¡s recientes, en 2009 el financiamiento para el Plan&#13;
+Nacer representaba un 0,66% del gasto pÃºblico en salud sin incluir el gasto en seguridad social, el 0,04%&#13;
+del gasto pÃºblico y el 0,017% del PIB.7 Teniendo en cuenta que los gobiernos provinciales son responsables&#13;
+de proporcionar servicios de salud en su territorio, es importante considerar el peso relativo del Plan Nacer&#13;
+comparado con el presupuesto de salud de las provincias. Si bien en 2008 el financiamiento para el Plan&#13;
+Nacer ascendÃ­a a cerca del 1,12% del gasto pÃºblico en salud provincial (excluyendo el gasto en seguridad&#13;
+social), existÃ­an diferencias considerables entre provincias. Por ejemplo, mientras en Misiones ascendÃ­a al&#13;
+4,3% del gasto pÃºblico en salud de las provincias, en NeuquÃ©n representaba solamente el 0,1% (Sanguinetti,&#13;
+2010).&#13;
+&#13;
+&#13;
+&#13;
+6&#13;
+    Esta polÃ­tica esta dirigida a las familias pobres con niÃ±os, las cuales reciben un subsidio de AR $270 mensuales por hijo (aproximadamente&#13;
+      US$ 50 a un tipo de cambio de 5.47).&#13;
+&#13;
+&#13;
+                                                                   14&#13;
+&amp;#12;Los recursos del programa son fondos adicionales a los presupuestos provinciales existentes. El gasto&#13;
+representado por el Plan Nacer depende de los recursos asignados para ejecutar el programa â&#128;&#148;US$435,8&#13;
+millones entre 2004 y 2012â&#128;&#148; ademÃ¡s de una cantidad pequeÃ±a proporcionada por los gobiernos provinciales.&#13;
+Antes de la creaciÃ³n del programa, la prestaciÃ³n de servicios de salud en el sector pÃºblico provincial se&#13;
+financiaba exclusivamente por el sistema tradicional basado en insumos. En este contexto, el Plan Nacer&#13;
+buscÃ³ mejorar la cobertura y calidad de los servicios de salud priorizados a travÃ©s de la provisiÃ³n de recursos&#13;
+adicionales para reducir la brecha de cobertura y calidad en la prestaciÃ³n de los mismos. Esos fondos&#13;
+adicionales, que cubren el 50% del costo de prestar el paquete de servicios de salud priorizado, comprenden&#13;
+aportes del gobierno nacional financiados con recursos del Banco Mundial (el 70%) y aportes de los gobiernos&#13;
+provinciales (el 30%). Ambos montos se transfieren a los Ministerios de Salud de las provincias mediante un&#13;
+modelo de financiamiento basado en los resultados. El 50% restante se financia con recursos del Ministerio&#13;
+de Salud provincial mediante el modelo tradicional basado en insumos.&#13;
+&#13;
+Las provincias pueden reajustar los precios de los servicios de salud para regular el flujo de recursos hacia los&#13;
+proveedores. Si la demanda de servicios de salud por parte de los beneficiarios del Plan Nacer es superior al&#13;
+monto de los recursos que la Unidad de GestiÃ³n provincial tiene para pagar por ellos, Ã©sta puede cancelar la&#13;
+deuda a los precios acordados, y en los meses siguientes, proponer una reducciÃ³n de los mismos para evitar&#13;
+una situaciÃ³n similar en el futuro. Como la prestaciÃ³n de servicios de salud por parte del sector pÃºblico es&#13;
+gratuita, con el Plan Nacer o sin Ã©l a los pacientes nunca son rechazados por falta de recursos. La participaciÃ³n&#13;
+en el programa, permite a los proveedores recibir fondos adicionales a los percibidos en el marco del sistema&#13;
+tradicional basado en insumos, y contar con autonomÃ­a respecto a su utilizaciÃ³n. El monto de los fondos&#13;
+recibidos a travÃ©s del programa depende de la cantidad de servicios prestados a los beneficiarios del Plan&#13;
+Nacer y de su precio.&#13;
+&#13;
+Si bien no se han registrado problemas graves de financiamiento durante la ejecuciÃ³n del programa, algunas&#13;
+provincias han presentado algunas dificultades en su implementaciÃ³n. Por ejemplo, algunas de ellas han&#13;
+tenido que enfrentar situaciones de escasez o exceso de recursos para pagar a los proveedores por los&#13;
+servicios prestados a los beneficiarios del Plan Nacer. Para resolver ese problema, las Unidades de GestiÃ³n&#13;
+provinciales han modificado los precios de los servicios de salud, reduciÃ©ndolos o elevÃ¡ndolos segÃºn sus&#13;
+necesidades.&#13;
+&#13;
+Adicionalmente se han verificado algunas dificultades en la transferencia de recursos al interior de las&#13;
+provincias en los tÃ©rminos exigidos por el programa. Por ejemplo, se han registrado demoras en el porcentaje&#13;
+de la transferencia cofinanciada por las provincias (el 30%), lo cual ha causado la suspensiÃ³n del 70% restante&#13;
+de acuerdo a lo estipulado por las normas del programa. En algunos casos estas demoras se originan en&#13;
+las caracterÃ­sticas de los procedimientos provinciales y en otros se deben a restricciones presupuestarias&#13;
+que afectan a todos los programas por igual. Sin embargo, el Plan Nacer es menos vulnerable a este tipo&#13;
+de recortes puesto que la recepciÃ³n de fondos del programa por parte de la provincia es condicional al&#13;
+mantenimiento (o incremento) del presupuesto provincial en salud, de acuerdo al Convenio Marco firmado&#13;
+entre NaciÃ³n y Provincia.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+7&#13;
+    Preparado por el autor a partir de datos del Ministerio de Salud de la NaciÃ³n y del Ministerio de EconomÃ­a y Finanzas.&#13;
+&#13;
+&#13;
+&#13;
+                                                                        15&#13;
+&amp;#12;GestiÃ³n del paquete de beneficios&#13;
+&#13;
+El paquete de servicios de salud priorizado del Plan Nacer busca abordar las principales causas de la mor-&#13;
+talidad infantil y materna en Argentina, entre las cuales se encuentra diarrea, enfermedades respiratorias&#13;
+agudas, malnutriciÃ³n y atenciÃ³n prenatal inadecuada en el caso de la mortalidad infantil; y hemorragias&#13;
+e infecciones vinculadas a partos en condiciones poco seguras y complicaciones por aborto, en el caso de&#13;
+la mortalidad materna. Adicionalmente, el paquete de servicios bÃ¡sicos incluye intervenciones de promo-&#13;
+ciÃ³n, prevenciÃ³n primaria de la salud y prestaciones de cuidado de la salud reproductiva despuÃ©s del parto&#13;
+o aborto. Originalmente el paquete de servicios bÃ¡sicos estaba compuesto por 80 servicios de salud. MÃ¡s&#13;
+adelante fue expandido para incluir tratamientos ambulatorios y servicios de salud de alta complejidad, a&#13;
+fin de continuar reduciendo la tasa de mortalidad infantil abordando algunas de las principales causas de&#13;
+muerte, especialmente aquellas difÃ­ciles de prevenir o cuyo tratamiento es muy costoso (por ejemplo, las&#13;
+cirugÃ­as para cardiopatÃ­as congÃ©nitas y los servicios de cuidado intensivo del reciÃ©n nacido).&#13;
+&#13;
+El paquete de servicios bÃ¡sicos fue diseÃ±ado por el Ministerio de Salud de la NaciÃ³n, en coordinaciÃ³n con&#13;
+el Consejo Federal de Salud. El proceso de diseÃ±o del paquete partiÃ³ de un conjunto de bases teÃ³ricas y&#13;
+conceptuales (relativas a polÃ­ticas de salud, economÃ­a sanitaria y buena gestiÃ³n de la cosa pÃºblica), entre las&#13;
+cuales se tuvieron en cuenta los mandatos constitucionales bÃ¡sicos relacionados con el â&#128;&#156;derecho a la saludâ&#128;&#157;&#13;
+y â&#128;&#156;la organizaciÃ³n federalâ&#128;&#157; del paÃ­s, y la equidad.&#13;
+&#13;
+El proceso de priorizaciÃ³n que guÃ­o la elaboraciÃ³n del paquete de servicios bÃ¡sicos se iniciÃ³ con la selecciÃ³n&#13;
+de la poblaciÃ³n beneficiaria y continuÃ³ con la decisiÃ³n de lanzar el programa en las provincias mÃ¡s pobres&#13;
+(al norte del paÃ­s) como medio para reducir la desigualdad. Luego, para identificar cuÃ¡les servicios de&#13;
+salud debÃ­an incluirse, el Ministerio de Salud de la NaciÃ³n realizÃ³ estudios encaminados a determinar las&#13;
+necesidades de salud utilizando las fuentes de datos disponibles (estadÃ­sticas vitales, estudios sobre carga&#13;
+de enfermedad, estadÃ­sticas epidemiolÃ³gicas y encuestas de salud, entre otras). Una vez que seleccionados&#13;
+los servicios de salud, el Ministerio realizÃ³ un anÃ¡lisis costo-efectividad.&#13;
+&#13;
+Durante el proceso de priorizaciÃ³n se presentaron dificultades vinculadas a la carencia de informaciÃ³n crÃ­tica.&#13;
+Esta situaciÃ³n afectÃ³ la credibilidad y objetividad con que se propuso construir el paquete. Por ejemplo, los&#13;
+datos que existÃ­an sobre el perfil epidemiolÃ³gico de la poblaciÃ³n de Argentina eran limitados, lo que dificultÃ³&#13;
+el anÃ¡lisis y la definiciÃ³n del paquete de servicios bÃ¡sicos. AdemÃ¡s, esta situaciÃ³n entorpeciÃ³ el cÃ¡lculo&#13;
+preciso de las brechas de cobertura y calidad relacionadas con la prestaciÃ³n del paquete de servicios bÃ¡sicos.&#13;
+La carencia de informaciÃ³n sobre la capacidad de prestaciÃ³n de servicios de los sistemas pÃºblicos de salud y&#13;
+sobre los costos llevÃ³ al Ministerio de Salud de la NaciÃ³n a realizar sus propios estudios mÃ¡s adelante.&#13;
+&#13;
+El proceso de priorizaciÃ³n evolucionÃ³ durante la ejecuciÃ³n del programa. Durante, el diseÃ±o del paquete de&#13;
+servicios bÃ¡sicos de la continuaciÃ³n del Plan Nacer (Programa Sumar) se incorporaron mecanismos amplios&#13;
+de deliberaciÃ³n institucional, en los cuales participaban varios niveles del gobierno. El proceso culminÃ³ en&#13;
+un consenso nacional y provincial sobre una lista Ãºnica de servicios de salud para todo el paÃ­s. Pese a estos&#13;
+avances, aÃºn se encuentra pendiente la inclusiÃ³n de mecanismos de consulta pÃºblica todavÃ­a estÃ¡ pendiente.&#13;
+&#13;
+Con el objeto de que los proveedores brinden los servicios cubiertos por el Plan Nacer con los niveles&#13;
+adecuados de calidad y cobertura, el programa financia solo las brechas existentes en estas dimensiones. .&#13;
+Para ello, la estimaciÃ³n del valor de la cÃ¡pita que permita financiar el cierre de brecha mencionado se realizÃ³&#13;
+a partir de un cÃ¡lculo actuarial bÃ¡sico. El presupuesto inicial para la ejecuciÃ³n del Plan Nacer se basÃ³ en&#13;
+el cÃ¡lculo de la poblaciÃ³n elegible y un valor de cÃ¡pita por beneficiario que cubrirÃ­a una parte del costo de&#13;
+prestaciÃ³n del paquete de servicios bÃ¡sicos. Como se mencionÃ³ en la SecciÃ³n 2, el Plan Nacer complementa&#13;
+el financiamiento de los gobiernos provinciales para el suministro de servicios de salud por parte del sector&#13;
+pÃºblico. Es decir que los Ministerios de Salud provinciales ya financiaban los servicios priorizados por el Plan&#13;
+                                                   16&#13;
+&amp;#12;Nacer, pero los ofrecÃ­an con niveles de calidad y utilizaciÃ³n interiores a los deseados. El cÃ¡lculo actuarial&#13;
+tuvo en cuenta (a) la poblaciÃ³n objetivo estimada, (b) el gasto provincial vigente destinado a la provisiÃ³n del&#13;
+paquete de servicios de salud priorizado y (c) el gasto requerido para financiar dicho paquete en los niveles&#13;
+de calidad y cobertura estipulados por el Plan Nacer. Lo que financia el Plan Nacer es la diferencia entre el&#13;
+costo de prestar el paquete de servicios bÃ¡sicos en los niveles de calidad y cobertura vigentes y hacerlo en&#13;
+los niveles deseados. Actualmente, el financiamiento adicional del Plan Nacer representa el 50% del costo&#13;
+prestar los servicios priorizados. El valor de la cÃ¡pita fue calculado inicialmente por el programa en 2004 y&#13;
+recalculado en 2010. El primer estudio dio como resultado una cÃ¡pita incremental por beneficiario inscripto&#13;
+de Arg$128 mensuales, mientras el resultado del segundo fue una cÃ¡pita incremental de Arg$17,39 por mes.&#13;
+&#13;
+Como se mencionÃ³ en la secciÃ³n 2, los Ministerios de Salud provinciales fijan los precios de cada servicio de&#13;
+salud incluido en el paquete prioritario. Por lo tanto, el costo de prestar el paquete se controla por medio&#13;
+de la modificaciÃ³n de los precios a nivel provincial, el cual constituye el Ãºnico mecanismo de contenciÃ³n de&#13;
+costos empleado por el programa.&#13;
+&#13;
+Sistemas de informaciÃ³n&#13;
+&#13;
+El mecanismo de financiamiento basado en resultados que promueve el Plan Nacer requiere un gran volumen&#13;
+de informaciÃ³n para poder vincular de modo eficaz el financiamiento con el logro de resultados en tÃ©rminos&#13;
+de inscripciÃ³n, logros sanitarios y prestaciÃ³n de servicios. El Plan Nacer incluye indicadores destinados a&#13;
+determinar el nivel de cobertura del programa respecto de la poblaciÃ³n elegible y trazadoras con las cuales&#13;
+se da seguimiento a la eficacia de los servicios de salud incluidos en el paquete bÃ¡sico. Como se mencionÃ³&#13;
+en la secciÃ³n 2, esos indicadores se utilizan tambiÃ©n para determinar el monto de recursos transferidos a la&#13;
+provincia. El flujo de informaciÃ³n que requiere el programa comienza a nivel del proveedor, con el nÃºmero&#13;
+de beneficiarios inscriptos. Los proveedores envÃ­an esta informaciÃ³n, junto con los datos sobre prestaciÃ³n de&#13;
+servicios, a la Unidad de GestiÃ³n provincial. Una vez que se audita y aprueba la informaciÃ³n, la Unidad calcula&#13;
+el monto a transferir a los proveedores utilizando un mecanismo de pago por servicio. SimultÃ¡neamente,&#13;
+los datos procedentes de los proveedores sobre los servicios brindados a la poblaciÃ³n elegible determina el&#13;
+el cumplimiento de las metas de las trazadoras. Esos datos, junto con la informaciÃ³n sobre los beneficiarios&#13;
+inscriptos, determina el monto de los recursos que transferirÃ¡ la UEC a la Unidad de GestiÃ³n provincial.&#13;
+&#13;
+La ejecuciÃ³n del sistema de monitoreo y evaluaciÃ³n del programa ha requerido una modernizaciÃ³n y&#13;
+expansiÃ³n de los sistemas de informaciÃ³n existentes y la creaciÃ³n de nuevos mecanismos. Aunque la mayorÃ­a&#13;
+de los proveedores de servicios de salud contratados por el Plan Nacer poseÃ­a algÃºn tipo de sistemas para&#13;
+el manejo de las historias clÃ­nicas que contenÃ­an los datos bÃ¡sicos sobre los servicios prestados, el programa&#13;
+financiÃ³ el diseÃ±o de un sistema de gestiÃ³n y administraciÃ³n del padrÃ³n de beneficiarios del programa y&#13;
+otro de trazadoras para responder a las necesidades sanitarias especÃ­ficas de las provincias. Actualmente,&#13;
+la Unidad Ejecutora Central estÃ¡ trabajando en el diseÃ±o y puesta en marcha de sistemas electrÃ³nicos de&#13;
+inscripciÃ³n y facturaciÃ³n, a fin de continuar mejorando la calidad de la informaciÃ³n disponible.&#13;
+&#13;
+El Plan Nacer tambiÃ©n ha proporcionado apoyo para fortalecer la capacidad de los Ministerios de Salud&#13;
+de la NaciÃ³n y de las provincias para dar monitorear, evaluar y auditar desempeÃ±o. Los mecanismos de&#13;
+monitoreo y evaluaciÃ³n son claves para el buen funcionamiento de los programas que incluyen modelos de&#13;
+financiamiento basados en resultados, ya que el hecho de que estÃ© en juego el financiamiento se introduce&#13;
+incentivos para informar cumplimientos de resultados mayores a los efectivamente alcanzados. En este caso,&#13;
+las provincias y los proveedores tienen incentivos para exagerar el nÃºmero de beneficiarios inscriptos en el&#13;
+programa, el volumen de servicios prestados y el nivel de cumplimiento de metas de trazadoras. Por estas&#13;
+&#13;
+8&#13;
+    Equivalente a unos US$4, teniendo en cuenta el tipo de cambio nominal en diciembre de 2004, de Arg$2,98/US$).&#13;
+9&#13;
+    Equivalente a unos US$3,86, teniendo en cuenta el tipo de cambio nominal en junio de 2012, de Arg$4,5/US$)..&#13;
+&#13;
+                                                                            17&#13;
+&amp;#12;razones, el Plan Nacer comprende un modelo de monitoreo y evaluaciÃ³n integral que incluye auditorÃ­as&#13;
+externas independientes, tanto de los aspectos financieros como de los tÃ©cnicos, y de auditorÃ­a interna. Estos&#13;
+mecanismos ayudan a prevenir el fraude, hacen que los receptores de recursos rindan cuentas y asegura que&#13;
+los fondos se utilicen de acuerdo con las normas del programa.&#13;
+&#13;
+La AuditorÃ­a General de la NaciÃ³n realiza una auditorÃ­a financiera en forma anual, y un agente externo&#13;
+independiente lleva a cabo una auditorÃ­a tÃ©cnica cada dos meses. Este agente (que es una firma contratada&#13;
+por el Ministerio de Salud) verifica a travÃ©s de sus auditores tÃ©cnicos, los resultados del proyecto en lo que&#13;
+ataÃ±e a la inscripciÃ³n, las mejoras de las condiciones de salud determinadas por las trazadoras y la prestaciÃ³n&#13;
+y calidad de los servicios de salud, y determina por lo tanto si se deben transferir fondos al Ministerio de&#13;
+Salud de la provincia y a los proveedores, y por cuÃ¡l monto. AdemÃ¡s, los auditores tÃ©cnicos evalÃºan hasta&#13;
+quÃ© punto cumpliÃ³ la provincia las normas del programa, comunican sus hallazgos a la UEC, proponen&#13;
+sanciones y recomiendan formas de resolver los problemas identificados. Luego, la UEC, por medio de su&#13;
+Ã¡rea de auditorÃ­a interna, revisa las conclusiones de los auditores, aplica los dÃ©bitos y las multas sugeridas&#13;
+en la auditorÃ­a y diseÃ±a y supervisa los planes de acciÃ³n destinados a corregir los desvÃ­os encontrados y a&#13;
+mejorar las situaciones crÃ­ticas.&#13;
+&#13;
+El proceso de auditoria es un elemento esencial del programa. Ha llevado a mejoras del desempeÃ±o, como lo&#13;
+ilustra la reducciÃ³n del nÃºmero de beneficiarios inscriptos por error en el Plan Nacer,10 y ha contribuido a la&#13;
+mejor gestiÃ³n del sistema de salud. La existencia de un dictamen externo independiente sobre los resultados&#13;
+logrados por las provincias facilita la relaciÃ³n entre los Ministerios de Salud de la NaciÃ³n y de las provincias&#13;
+en un contexto federal y mejora el registro de los servicios y los resultados. Esto se ha traducido en una&#13;
+mayor rendiciÃ³n de cuentas, en la generaciÃ³n de procesos de mejoramiento de la calidad y en la obtenciÃ³n&#13;
+de mayor capacidad institucional, entre otras cosas.&#13;
+&#13;
+AdemÃ¡s, el Plan Nacer incluye una estrategia de evaluaciÃ³n del impacto destinada a generar evidencia sobre&#13;
+los efectos del programa e influir en decisiones clave relativas a su diseÃ±o y ejecuciÃ³n. Las evaluaciones&#13;
+incluyen (a) una evaluaciÃ³n del impacto aleatorizada a nivel de la provincia cuyo fin es cuantificar los impactos&#13;
+del programa en tÃ©rminos de resultados sanitarios y (b) una serie de experimentos a nivel de los proveedores,&#13;
+cuyo fin es poner a prueba caracterÃ­sticas alternativas de diseÃ±o del Plan Nacer. La evaluaciÃ³n del impacto&#13;
+se puso en marcha en las nueve provincias del norte incluidas en la primera fase del programa. La estrategia&#13;
+de evaluaciÃ³n la construcciÃ³n de lÃ­neas de base con informaciÃ³n mÃ©dica, socioeconÃ³mica y comunitaria&#13;
+proveniente de una muestra representativa de tres universos mensurables: mujeres y niÃ±os; proveedores de&#13;
+salud y mujeres embarazadas y niÃ±os atendidos en centros de atenciÃ³n primaria de la salud. Respecto de las&#13;
+provincias de la primera fase del programa, se reuniÃ³ informaciÃ³n sobre cada una ellas y sobre un grupo de&#13;
+control conformado por otras cuatro provincias. Sin embargo, debido a la expansiÃ³n del programa al resto&#13;
+del paÃ­s en 2007, el grupo de control fue contaminado y fue necesario modificar la estrategia de evaluaciÃ³n&#13;
+original. A la luz de estos cambios, sumado a la demora en la contrataciÃ³n de la firma que debÃ­a efectuar la&#13;
+encuesta de seguimiento, se buscaron estrategias alternativas para generar resultados provisorios a fin de&#13;
+proporcionar apoyo al dialogo de polÃ­ticas.11&#13;
+&#13;
+La alternativa consistiÃ³ en la obtenciÃ³n de resultados preliminares a partir de registros clÃ­nicos disponibles&#13;
+para las provincias de la primera fase. El gobierno realizÃ³ un esfuerzo adicional, con el apoyo del Banco&#13;
+Mundial, por cuantificar el impacto del programa incluso cuando la estrategia original de identificaciÃ³n resultÃ³&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+ 10&#13;
+      De acuerdo con los informes de auditoria, la cantidad de inscripciones errÃ³neas de beneficiarios que se detectÃ³ cada mes en las provincias del norte cayÃ³&#13;
+      del 22% en diciembre de 2006 al 11% en diciembre de 2009.&#13;
+&#13;
+&#13;
+                                                                            18&#13;
+&amp;#12;invalidada. Al usar los registros clÃ­nicos disponibles, se explotÃ³ una estructura de datos panel y se utilizÃ³ una&#13;
+estrategia de efectos fijos a nivel proveedor para controlar por factores (inobservables) que se mantienen&#13;
+constantes en el tiempo. Se aplicÃ³ la metodologÃ­a de variables instrumentales, utilizando informaciÃ³n sobre&#13;
+el estado de participaciÃ³n del proveedor en el programa y sobre las caracterÃ­sticas de la poblaciÃ³n antes de&#13;
+que Ã©ste se pusiera en marcha para estimar el estado relativo al tratamiento. En dos provincias, Misiones y&#13;
+TucumÃ¡n, las fuentes de datos identificadas incluÃ­an los servicios prestados en Centros de AtenciÃ³n Primaria&#13;
+y clÃ­nicas de maternidad del sector pÃºblico, en particular, datos sobre resultados vinculados a atenciÃ³n&#13;
+prenatal, del parto y del niÃ±o sano (Banco Mundial, 2012).&#13;
+&#13;
+Los resultados de este estudio muestran que el programa incrementÃ³ en un 8,5% las probabilidades de que&#13;
+las mujeres tuvieran un primer control prenatal antes de la semana 13 del embarazo y en un 18% antes de&#13;
+la semana 20. El nÃºmero de controles prenatales que recibieron las beneficiarias del programa aumentÃ³ en&#13;
+0,5 consultas, lo que equivale a un incremento del17%. Las mujeres embarazadas tambiÃ©n se beneficiaron&#13;
+de la mejora en la calidad de la atenciÃ³n medida en tÃ©rminos de aumentos de la probabilidad de recibir&#13;
+vacunas y realizarse ecografÃ­as. La mejora en la calidad y la cantidad de los servicios se tradujo en partos mÃ¡s&#13;
+saludables, lo cual incluyÃ³ un aumento de 69,5 gramos en el peso promedio al nacer (un aumento del 2%&#13;
+respecto al grupo de control), una disminuciÃ³n del 26% en las probabilidades de que los niÃ±os nacieran con&#13;
+muy bajo peso (menos de 1.500 gramos), y una caÃ­da del 1,9% en la mortalidad de reciÃ©n nacidos.&#13;
+&#13;
+Por Ãºltimo, en el caso de los niÃ±os menores de 5 aÃ±os, el programa elevÃ³ las probabilidades de que las&#13;
+madres acudan a consultas de seguimiento del niÃ±o sano. Estos datos indican resultados positivos durante&#13;
+los primeros aÃ±os de operaciÃ³n del programa y tambiÃ©n indican que el modelo de incentivos es prometedor&#13;
+y debe considerarse en otras Ã¡reas prioritarias del sistema de salud de Argentina y el resto del mundo&#13;
+(MartÃ­nez, Gertler y Ross, 2010). Se prevÃ© un anÃ¡lisis similar en ocho provincias de la primera fase del&#13;
+proyecto, el cual se estima completar en el segundo semestre de 2013.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+11&#13;
+     Los datos bÃ¡sicos de la Fase I se obtuvieron en 2006 y los de la Fase II en 2008. A fin de encontrar datos de contraste vÃ¡lidos, se aplicÃ³ una metodologÃ­a de&#13;
+     variables instrumentales con promociÃ³n aleatorizada. La creaciÃ³n de una AsignaciÃ³n Universal por niÃ±o en 2009 (que, por establecer como condiciÃ³n la&#13;
+     inscripciÃ³n en el Plan Nacer, aumentÃ³ significativamente los niveles de inscripciÃ³n), hizo que fuera imposible seguir utilizando esa metodologÃ­a.&#13;
+&#13;
+                                                                                19&#13;
+&amp;#12;4. El mecanismo de financiamiento basado en resultados del&#13;
+Plan Nacer&#13;
+&#13;
+No cabe duda de que Plan Nacer es una forma innovadora de fortalecer los sistemas de salud y un instrumento&#13;
+poderoso para que el Ministerio de Salud de la NaciÃ³n promueva la eficiencia y la eficacia por medio de&#13;
+incentivos a nivel nacional, provincial y de los proveedores de salud. En lugar de limitarse a financiar a mÃ¡s&#13;
+proveedores a travÃ©s de insumos y presupuestos fijos o ajustar los mecanismos de aseguramiento actual,&#13;
+el Plan Nacer proporciona â&#128;&#156;financiamiento basado en resultadosâ&#128;&#157;. Esa es una de sus caracterÃ­sticas mÃ¡s&#13;
+novedosas y se refiere a la forma en que fluyen los recursos hacia los Ministerios de Salud de las provincias&#13;
+y los proveedores, y a los incentivos que ofrece. Su propÃ³sito es alentar a cada nivel del sistema de salud a&#13;
+aumentar la cobertura, la calidad y los resultados a la vez que se mejora la gestiÃ³n, la rendiciÃ³n de cuentas y&#13;
+la transparencia en la prestaciÃ³n de servicios sanitarios.&#13;
+&#13;
+El Plan Nacer premia tres tipos de resultados: la inscripciÃ³n, las mejoras en el desempeÃ±o sanitario&#13;
+(determinadas por las trazadoras), asÃ­ como la prestaciÃ³n de servicios de salud y su calidad. EspecÃ­ficamente,&#13;
+las provincias reciben dos incentivos relacionados. El primero consiste en recibir el 60% de la cÃ¡pita por cada&#13;
+beneficiario inscripto en el programa, y el segundo en recibir hasta el 40% restante dependiendo del logro de&#13;
+las metas de las trazadoras. Por tanto, las provincias reciben fondos del Plan Nacer siempre y cuando logren&#13;
+inscribir beneficiarios y mejorar sus condiciones de salud. El Ministerio de Salud de la NaciÃ³n transfiere estos&#13;
+fondos a las provincias, quienes los utilizan exclusivamente para pagar a los proveedores por la prestaciÃ³n&#13;
+de los servicios cubiertos por el programa.&#13;
+&#13;
+Los proveedores tambiÃ©n tienen un fuerte incentivo para identificar a posibles beneficiarios, certificar que&#13;
+reÃºnen los criterios de elegibilidad e inscribirlos, aunque no reciban la cÃ¡pita por beneficiario. Este incentivo&#13;
+se deriva del hecho de que solo pueden facturar servicios prestados a beneficiarios del Plan Nacer. Luego,&#13;
+entra en juego otro incentivo aÃºn mÃ¡s poderoso: los servicios prestados. Mientras mÃ¡s servicios se presten&#13;
+mÃ¡s recursos se transfieren en virtud del mecanismo de pago por servicio. Por Ãºltimo, la autonomÃ­a en el&#13;
+uso de los fondos por parte de los proveedores cierra la cadena de incentivos promovida por el programa.&#13;
+&#13;
+Sin embargo, es importante destacar que en este tipo de programas, el financiamiento no es el Ãºnico elemento&#13;
+que se requiere para obtener resultados. La capacidad para decidir cÃ³mo se utilizan los fondos para emprender&#13;
+las acciones encaminadas a lograrlos ha demostrado ser esencial para cerrar la cadena de incentivos. Esta&#13;
+mayor capacidad de decisiÃ³n otorga flexibilidad al sistema de salud al permitir que los proveedores destinen&#13;
+fondos a corregir los desequilibrios causados por la rigidez de la asignaciÃ³n presupuestaria definida en el&#13;
+nivel provincial. Aunque las transferencias totales del programa a las provincias oscilan entre el 1% y el 5%&#13;
+de los presupuestos provinciales de salud, ellas han demostrado ser un instrumento poderoso para promover&#13;
+el cambio. Por Ãºltimo, existe un incentivo adicional permitido sÃ³lo por algunas pocas provincias vinculado a&#13;
+pagos al personal de los proveedores en funciÃ³n de su desempeÃ±o. SegÃºn las pautas del Plan Nacer, estos no&#13;
+pueden superar el 50% de los recursos recibidos por los proveedores a travÃ©s del programa.&#13;
+&#13;
+Como se describiÃ³ en la secciÃ³n 2, el programa incluye tanto auditorÃ­as internas como externas cuyo&#13;
+objetivo es desalentar el falso reporte de cumplimiento de resultados para recibir fondos del programa.&#13;
+Adicionalmente, la existencia de mecanismos de sanciÃ³n introduce incentivos adicionales para mejorar la&#13;
+calidad del registro de los servicios de salud, los cuales, ademÃ¡s, deben ser brindados de acuerdo a los&#13;
+protocolos definidos por la NaciÃ³n. Si un proveedor no sigue las pautas del Plan Nacer, los pagos por servicio&#13;
+se reducen debido a la aplicaciÃ³n de sanciones monetarias. Por tanto, se espera que los proveedores no&#13;
+&#13;
+                                                   20&#13;
+&amp;#12;solamente ofrezcan los servicios incluidos en el paquete bÃ¡sico sino que los presten siguiendo las normas de&#13;
+calidad estipuladas por el programa.&#13;
+&#13;
+La demanda de los servicios del paquete bÃ¡sico por parte de los beneficiarios se incentiva por medio de&#13;
+campaÃ±as de generaciÃ³n de conciencia entre el pÃºblico, envÃ­os de materiales por correo e interacciones&#13;
+con el personal en los establecimientos de salud. De este modo, los beneficiarios adquieren conocimiento&#13;
+acerca de los servicios cubiertos por el programa, sus derechos y la forma de vigilar la salud de sus hijos.&#13;
+Esto ha contribuido a dotarlos de mayor poder y ha creado un sentido de rendiciÃ³n social de cuentas que&#13;
+complementa la rendiciÃ³n formal de cuentas derivada de las auditorÃ­as.&#13;
+&#13;
+Los nuevos mecanismos del Plan Nacer han implicado cambios institucionales importantes, mucho de los&#13;
+cuales se han repercutido en otras dimensiones del sector de la salud. Por ejemplo, la existencia de datos&#13;
+clÃ­nicos y programÃ¡ticos detallados y fiables ha sido importante para el seguimiento y la evaluaciÃ³n de todo&#13;
+el sistema. La participaciÃ³n eficaz y la comunicaciÃ³n activa entre los gobiernos nacional y provinciales ha&#13;
+promovido una formulaciÃ³n de polÃ­ticas y una ejecuciÃ³n del programa mÃ¡s eficiente de las que caracterizan&#13;
+a programas tradicionales que solo financian la compra de insumos sin centrarse en los resultados ni en&#13;
+mejorar la rendiciÃ³n de cuentas y la transparencia.&#13;
+&#13;
+La facturaciÃ³n de los servicios brindados a los beneficiarios del programa y su cobro, no solamente&#13;
+contribuyeron al incremento de la utilizaciÃ³n de los servicios de salud por parte de mujeres embarazadas&#13;
+y niÃ±os menores de seis aÃ±os s sino que tambiÃ©n mejoraron la gestiÃ³n e independencia financiera de los&#13;
+proveedores. Esto Ãºltimo en virtud de la autonomÃ­a en el uso de los fondos recibidos bajo el programa. Por&#13;
+otra parte, el mecanismo de financiamiento basado en resultados ha mejorado la funciÃ³n de administraciÃ³n&#13;
+y rectorÃ­a del Ministerio de Salud de la NaciÃ³n en lo referente a la provisiÃ³n de servicios. Todos estos cambios&#13;
+se financiaron con aproximadamente US$50 millones en inversiones anuales procedentes de prÃ©stamos&#13;
+del Banco Mundial realizados entre 2004 y 2010, que representan como mÃ¡ximo un 4,3% del gasto pÃºblico&#13;
+provincial en salud.&#13;
+&#13;
+5. Agenda pendiente&#13;
+&#13;
+Aunque existe evidencia de que el Plan Nacer ha contribuido a mejorar la utilizaciÃ³n de los servicios de salud&#13;
+y las condiciones de salud de la poblaciÃ³n elegible, existen algunos desafÃ­os que es necesario enfrentar para&#13;
+asegurar que el programa logre sus objetivos y continÃºe siendo sostenible.&#13;
+&#13;
+Por ejemplo, el Ministerio de Salud de la NaciÃ³n debe formular un marco legal adecuado que permita al&#13;
+gobierno nacional coordinar las polÃ­ticas de salud en todo el paÃ­s y con los ministerios provinciales. De&#13;
+acuerdo a la estructura federal de la Argentina, cada provincia conserva todos los poderes y facultades que&#13;
+no se hayan delegado expresamente al gobierno nacional, como sucede en el caso de los servicios de salud.&#13;
+Los gobiernos provinciales tienen sus propias leyes, normas y protocolos locales, asÃ­ como la capacidad legal&#13;
+para organizar sus propios sistemas de salud. AdemÃ¡s, la mayorÃ­a de las provincias garantizan el derecho a la&#13;
+salud en sus Constituciones (Abramovich y Pautassi, 2008). Por lo tanto, un tema pendiente de la agenda es&#13;
+un marco legal que permita al gobierno nacional dirigir y coordinar las polÃ­ticas de salud con los ministerios&#13;
+provinciales. Aunque el Plan Nacer ha contribuido a fortalecer el papel de direcciÃ³n del gobierno nacional,&#13;
+este todavÃ­a tiene dificultades para hacer cumplir su estrategia de salud. Algunos ejemplos de desafÃ­os&#13;
+pendientes son el diseÃ±o de sistemas de informaciÃ³n sanitaria sÃ³lidos y de instrumentos de monitoreo y&#13;
+evaluaciÃ³n destinados a determinar el desempeÃ±o del sector de la salud, asÃ­ como los protocolos clÃ­nicos.&#13;
+&#13;
+                                                      21&#13;
+&amp;#12;Debe asegurarse la sostenibilidad del programa, asÃ­ como la modalidad por la cual los recursos del Plan Nacer&#13;
+complementan los presupuestos provinciales. Uno de los principales desafÃ­os es lograr la sostenibilidad del&#13;
+programa para asegurar un apoyo adecuado a la expansiÃ³n de la cobertura de salud. En la actualidad, los&#13;
+ministerios provinciales financian el 50% de la cÃ¡pita por beneficiario que se paga por prestar el paquete&#13;
+bÃ¡sico de servicios, por medio del sistema tradicional de pago por insumos. El 50% restante lo financia&#13;
+el Plan Nacer â&#128;&#148; 70% el Ministerio de Salud de la NaciÃ³n y 30% los ministerios provincialesâ&#128;&#148; a travÃ©s de&#13;
+su esquema de financiamiento basado en resultados. Los aportes del Ministerio de Salud de la NaciÃ³n se&#13;
+financian con recursos del Banco Mundial. Los siguientes son los principales asuntos pendientes relacionados&#13;
+con el financiamiento:&#13;
+&#13;
+â&#128;¢	 Asegurar la sostenibilidad financiera del programa con recursos del gobierno nacional, de los gobiernos&#13;
+   provinciales o de ambos, una vez que termine el financiamiento del Banco Mundial. SerÃ­a importante&#13;
+   determinar si los gobiernos provinciales estÃ¡n dispuestos a proporcionar los recursos necesarios al&#13;
+   programa en el marco de un mecanismo de financiamiento basado en resultados. Por el contrario, si el&#13;
+   gobierno nacional decidiera continuar financiando la parte mÃ¡s grande del costo del paquete bÃ¡sico de&#13;
+   servicios, serÃ­a fundamental contar con un instrumento jurÃ­dico de alto nivel para proteger al programa&#13;
+   de cambios en la administraciÃ³n del gobierno.&#13;
+&#13;
+â&#128;¢	 Fortalecer la capacidad del Ministerio de Salud de la NaciÃ³n para asegurar que los presupuestos de salud&#13;
+   de las provincias no sean reemplazados por el financiamiento del Plan Nacer. Los recursos del programa&#13;
+   deben utilizarse para aumentar el acceso al paquete bÃ¡sico de servicios y complementar los presupuestos&#13;
+   de las provincias.&#13;
+El tema de la equidad continÃºa siendo un desafÃ­o. Aunque la proporciÃ³n de las personas que tienen cobertura&#13;
+de salud aumentÃ³ al 62,1% en 2010, persisten desigualdades importantes en la poblaciÃ³n entre los distintos&#13;
+quintiles de la distribuciÃ³n del ingreso. En 2010, solamente el 43% de las personas que pertenecÃ­an al&#13;
+quintil mÃ¡s pobre tenÃ­a seguro, contra el 83% de las personas del quintil mÃ¡s adinerado. AdemÃ¡s, existen&#13;
+desigualdades en lo que respecta a la utilizaciÃ³n de servicios de salud. SegÃºn la Encuesta Nacional de Factores&#13;
+de Riesgo de 2010, el 42,1% de las personas habÃ­a acudido a un doctor en el mes anterior, y la variaciÃ³n entre&#13;
+las que tienen seguro y las que carecen de Ã©l era significativa: el 45,7% en el primer caso, contra el 34,7% en&#13;
+el segundo.&#13;
+&#13;
+Esta situaciÃ³n es similar en lo que respecta a pruebas de laboratorio y tratamientos mÃ©dicos. En 2010,&#13;
+el 20,3% de la poblaciÃ³n recibiÃ³ un tratamiento mÃ©dico, una prueba de laboratorio o ambas cosas, y el&#13;
+porcentaje era muy bajo (del 13,4%) en el caso de quienes carecen de seguro, comparado con el 23,7% de los&#13;
+que tienen seguro. AdemÃ¡s, el gasto de bolsillo promedio en salud fue de 92 pesos en 2010 lo que representÃ³&#13;
+un aumento real del 60% respecto al 2005, y del 83% respecto al 2003. Los principales componentes del&#13;
+gasto de bolsillo en 2010 fueron las compras de medicamentos (el 44,1%), y la prima de seguros voluntarios&#13;
+(el 16,8%) (Sanguinetti, 2012).&#13;
+&#13;
+Actualmente, la cÃ¡pita por beneficiario inscripto en el Plan Nacer es igual para todas las provincias. A fin de&#13;
+lograr una mayor equidad entre las provincias en lo que respecta a la salud, serÃ­a deseable avanzar hacia un&#13;
+diseÃ±o del programa que tenga en cuenta esas diferencias y proporcione una cÃ¡pita diferente ajustada al&#13;
+contexto de cada provincia y a sus necesidades. Aunque este cambio generarÃ­a dificultades tanto polÃ­ticas&#13;
+como operativas a corto plazo, deberÃ­a ser considerado como una meta a mediano plazo.&#13;
+&#13;
+&#13;
+&#13;
+                                                   22&#13;
+&amp;#12;Es necesario establecer un proceso normatizado para la priorizaciÃ³n de los servicios de salud cubiertos por el&#13;
+programa que incluya estudios clÃ­nicos y de costo-efectividad, asÃ­ como mecanismos de validaciÃ³n social. El&#13;
+paquete bÃ¡sico de servicios del Plan Nacer busca dar respuesta a las principales causas de mortalidad infantil&#13;
+y materna, y el Ministerio de Salud de la NaciÃ³n ha logrado avances considerables al definir el paquete de&#13;
+servicios del nuevo programa Sumar, el cual cuenta tambiÃ©n con el apoyo del Banco Mundial. Entre sus&#13;
+esfuerzos se encuentran la producciÃ³n de estudios sobre carga de enfermedad, y la participaciÃ³n de las&#13;
+distintas partes interesadas de los Ministerios de Salud de la NaciÃ³n y de las provincias en la definiciÃ³n&#13;
+del paquete bÃ¡sico de servicios. Sin embargo, es necesario establecer un proceso normatizado para la&#13;
+determinaciÃ³n de prioridades que incluya estudios clÃ­nicos y de costo-efectividad, asÃ­ como mecanismos de&#13;
+validaciÃ³n social. En el marco del Plan Nacer, los estudios clÃ­nicos y de la eficacia en funciÃ³n de los costos del&#13;
+paquete de beneficios fueron realizados por el Ministerio de Salud de la NaciÃ³n despuÃ©s de la definiciÃ³n del&#13;
+paquete bÃ¡sico de servicios.&#13;
+&#13;
+La posibilidad para el beneficiario de conservar la cobertura del seguro aunque se encuentre en una&#13;
+provincia distinta a la que lo inscribiÃ³ en el programa, deberÃ­a incluirse en el diseÃ±o del Plan Nacer. Sin&#13;
+embargo, programa no incluye esa posibilidad ni mecanismos de compensaciÃ³n que la promuevan. Si bien&#13;
+se realizaron intentos de introducir esos cambios, las dificultades operativas limitaron el logro de acuerdos&#13;
+entre las provincias para fijar los mecanismos de compensaciÃ³n necesarios. Sin embargo, la necesidad de&#13;
+hacer mÃ¡s eficiente y equitativo el sistema de salud requiere el diseÃ±o de procedimientos institucionales&#13;
+que promuevan la libre elecciÃ³n de proveedores y aseguren que a Ã©stos se les pague por los servicios que&#13;
+presten.&#13;
+&#13;
+La mortalidad materna sigue siendo un desafÃ­o. Aunque a nivel nacional la tasa de mortalidad infantil&#13;
+disminuyÃ³ de 16,5 a 11,9 por 1.000 nacidos vivos entre 2003 y 2010,12 la mortalidad materna sigue&#13;
+siendo elevada: 43,7 por 100.000 nacidos vivos (DEIS, 2010). Dado que la mayorÃ­a de estas muertes estÃ¡&#13;
+relacionada con embarazos de alto riesgo, el Ministerio de Salud de la NaciÃ³n se encuentra trabajando en&#13;
+la inclusiÃ³n de servicios de salud especÃ­ficos en el nuevo paquete bÃ¡sico de servicios del programa Sumar,&#13;
+que se espera promoverÃ¡n una mayor efectividad de las redes de salud en la atenciÃ³n de salud materna. De&#13;
+este modo, las mujeres con embarazos de alto riesgo podrÃ¡n ser identificadas y remitidas oportunamente&#13;
+a un establecimiento sanitario de mayor complejidad, en el cual reciban un seguimiento y un tratamiento&#13;
+adecuados.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+12&#13;
+     Por supuesto, esta reducciÃ³n de la tasa de mortalidad infantil es el resultado de muchos factores, entre ellos las sÃ³lidas tasas de crecimiento que se han&#13;
+     presentado desde 2004, que han sido en promedio de un 7,2% anual entre 2004 y 2009.&#13;
+&#13;
+                                                                                23&#13;
+&amp;#12;Anexo 1 Trazadoras del Plan Nacer&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                          24&#13;
+&amp;#12;Anexo 2 Principales partes interesadas: papeles y fun-&#13;
+ciones en el marco del programa&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                              25&#13;
+&amp;#12;Anexo 3 El sector de la salud de Argentina en cifras&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Fuente: : (a) Instituto Nacional de EstadÃ­stica y Censos (2010). (b) En dÃ³lares internacionales corrientes, 2009; Ministerio de EconomÃ­a y Finanzas. (c) EstadÃ­sticas&#13;
+   de salud de la OrganizaciÃ³n Mundial de la Salud (http://www.who.int/nha/es/index.html) complementadas con datos de los paÃ­ses. (d) Ministerio de Salud&#13;
+   de la NaciÃ³n, DirecciÃ³n de EstadÃ­sticas e InformaciÃ³n en Salud (2012). El gasto pÃºblico de Argentina comprende el gasto en atenciÃ³n sanitaria, la seguridad&#13;
+   social del nivel nacional y el provincial (Obras Sociales Nacionales y Provinciales), y el Instituto Nacional de Servicios Sociales para Jubilados y Pensionados a&#13;
+   los niveles nacional, provincial y local. DirecciÃ³n de AnÃ¡lisis del Gasto PÃºblico y Programas Sociales, SecretarÃ­a de PolÃ­tica EconÃ³mica, Ministerio de EconomÃ­a&#13;
+   y Finanzas PÃºblicas.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                           26&#13;
+&amp;#12;Referencias&#13;
+&#13;
+Abramovich, VÃ­ctor y Pautassi Laura. 2008. â&#128;&#156;El derecho a la salud en los tribunales. Algunos efectos del&#13;
+activismo judicial sobre el sistema de salud en Argentinaâ&#128;&#157;. Salud Colectiva 4 (3): 263.&#13;
+&#13;
+Banco Mundial. 2004. Loan Agreement for Provincial Maternal and Child Health Insurance Project, Loan&#13;
+Number 7225-AR. Banco Mundial, Washington, D.C.&#13;
+&#13;
+CetrÃ¡ngolo, Oscar y Goldschmit, Ariela. 2012. â&#128;&#156;Sistema de salud argentino: ProvisiÃ³n y financiamiento en&#13;
+busca de la cobertura universalâ&#128;&#157;. Informe sobre antecedentes encargado por el Departamento de Desarrollo&#13;
+Humano, Oficina Regional para AmÃ©rica Latina y el Caribe, Banco Mundial, Washington, D.C.&#13;
+CetrÃ¡ngolo, Oscar y Juan Pablo JimÃ©nez. 2004. â&#128;&#156;Las relaciones provinciales entre niveles de gobierno en&#13;
+Argentina. RaÃ­ces histÃ³ricas, institucionales y conflictos persistentesâ&#128;&#157;. Serie GestiÃ³n PÃºblica NÂ° 47. CEPAL,&#13;
+Santiago.&#13;
+&#13;
+Cortez, Rafael, Daniela Romero, Vanina Camporeale y Luis PÃ©rez. 2012. â&#128;&#156;Argentina Results-Based Financing&#13;
+for Health in Argentina: The Plan Nacer Programâ&#128;&#157;. Documento para discusiÃ³n. Salud, NutriciÃ³n y PoblaciÃ³n.&#13;
+Banco Mundial, Washington, D.C.&#13;
+&#13;
+INDEC (Instituto Nacional de EstadÃ­sticas y Censos). 2010. Censo nacional. Argentina.&#13;
+MartÃ­nez, SebastiÃ¡n, Paul Gertler y Adam Ross. 2010. â&#128;&#156;Plan Nacer. Impact Evaluation Background Report:&#13;
+The Case of Misiones and Tucumanâ&#128;&#157;. Banco Mundial, Washington, D.C.&#13;
+&#13;
+Ministerio Salud de la NaciÃ³n. 2010. â&#128;&#156;Natalidad, mortalidad general, infantil y materna por lugar de residencia&#13;
+â&#128;&#147; 2010â&#128;&#157;. DirecciÃ³n de EstadÃ­sticas e InformaciÃ³n Sanitaria, Buenos Aires.&#13;
+&#13;
+â&#128;&#148;â&#128;&#148;â&#128;&#148;. Programa de Salud Materno Infantil Provincial. 2004-2012. â&#128;&#156;Plan Nacer, Informes de auditorÃ­a&#13;
+externa concurrenteâ&#128;&#157;. Buenos Aires.&#13;
+&#13;
+â&#128;&#148;â&#128;&#148;â&#128;&#148;. SecretarÃ­a de PromociÃ³n y Programas Sanitarios, Equipo Nacional de Compras de Servicios de Salud,&#13;
+Ã&#129;rea TÃ©cnica. 2006-2012. â&#128;&#156;Informe de gestiÃ³n: Plan Nacerâ&#128;&#157;. Buenos Aires.&#13;
+&#13;
+â&#128;&#148;â&#128;&#148;â&#128;&#148;. Programa de Salud Materno Infantil Provincial. 2008. â&#128;&#156;Plan Nacer. Proyecto de InversiÃ³n en Salud&#13;
+Materno Infantil Provincial (prÃ©stamo BIRF 7225-AR y prÃ©stamo BIRF 7409-AR), manual operativoâ&#128;&#157;. Buenos&#13;
+Aires.&#13;
+&#13;
+â&#128;&#148;â&#128;&#148;â&#128;&#148;. Sistema Integrado de InformaciÃ³n Sanitaria Argentino. 2012. Registro Federal de&#13;
+Establecimientos de Salud. Argentina.&#13;
+&#13;
+Sanguinetti, Juan. 2010. â&#128;&#156;Plan Nacer: Budgetary Analysis at the National and Provincial Levelsâ&#128;&#157;. Argentina.&#13;
+Documento encargado por el Departamento de Desarrollo Humano, Oficina Regional para AmÃ©rica Latina y&#13;
+el Caribe. Banco Mundial, Washington, D.C.&#13;
+&#13;
+â&#128;&#148;â&#128;&#148;â&#128;&#148;. 2012. â&#128;&#156;Equidad, acceso y utilizaciÃ³n de los servicios de salud en Argentina. Â¿QuÃ© dicen&#13;
+los datos mÃ¡s recientes?â&#128;&#157; Documento encargado por el Departamento de Desarrollo Humano, Oficina&#13;
+Regional para AmÃ©rica Latina y el Caribe. Banco Mundial, Washington, D.C.&#13;
+&#13;
+                                                      27&#13;
+&amp;#12;â&#128;&#148;â&#128;&#148;â&#128;&#148;. 2004. Project Appraisal Document on a Proposed Loan in the amount of US$135.8 Million to the&#13;
+Argentine Republic for the Provincial Maternal-Child Health Investment Project in Support of the First Phase&#13;
+of the Provincial Maternal-Child Health Program. Informe 27892, Banco Mundial, Washington, D.C.&#13;
+&#13;
+â&#128;&#148;â&#128;&#148;â&#128;&#148;. 2006. Project Appraisal Document on a Proposed Loan in the amount of US$300 Million to the&#13;
+Argentine Republic for the Provincial Maternal-Child Health Investment Project in Support of the Second&#13;
+Phase of the Provincial Maternal-Child Health Program. Informe 37702, Banco Mundial, Washington, D.C.&#13;
+â&#128;&#148;â&#128;&#148;â&#128;&#148;. 2007. Loan Agreement for Second Provincial Maternal and Child Health Insurance Project, Loan&#13;
+Number 7409-AR, Banco Mundial, Washington, D.C.&#13;
+&#13;
+â&#128;&#148;â&#128;&#148;â&#128;&#148;. 2011. Implementation Completion and Results Report (IBRD-72250) on a Loan in the Amount of&#13;
+US$135.8 Million to the Republic of Argentina for the Provincial Maternal-Child Health Investment Project&#13;
+in Support of the First Phase of the Provincial Maternal-Child Health Adaptable Program Loan, January 21,&#13;
+2011. Informe No. ICR00001678, Banco Mundial, Washington, D.C.&#13;
+&#13;
+â&#128;&#148;â&#128;&#148;â&#128;&#148;. 2011. Project Appraisal Document on a Proposed Loan in the Amount of US$400 Million to the&#13;
+Argentine Republic for the Provincial Public Health Insurance Development Project. Informe 58504, Banco&#13;
+Mundial, Washington, D.C.&#13;
+&#13;
+â&#128;&#148;â&#128;&#148;â&#128;&#148;. 2011. â&#128;&#156;Plan Nacer Argentina: Provincial Maternal and Child Health Insurance: Using&#13;
+Results-Based Financing (RBF)â&#128;&#157;. Informe de antecedentes preparado por Philip Musgrove y encargado por&#13;
+el Departamento de Desarrollo Humano, Oficina Regional para AmÃ©rica Latina y el Caribe. Banco Mundial,&#13;
+Washington, D.C.&#13;
+&#13;
+â&#128;&#148;â&#128;&#148;â&#128;&#148;. 2012. â&#128;&#156;Country Spotlight: Using Administrative Data to Monitor the Impact of RBF and&#13;
+Advocate for Local Capacity Building Argentina Plan Nacerâ&#128;&#157;. Banco Mundial, Washington, D.C.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                 28&#13;
+&amp;#12;29&#13;
+&amp;#12;El Banco Mundial apoya las iniciativas que emprenden los paÃ­ses para compartir&#13;
+la prosperidad mediante la transiciÃ³n hacia la cobertura universal de los servicios&#13;
+de salud, con las metas de mejorar los resultados en materia de salud, redu-&#13;
+cir los riesgos financieros relacionados con la enfermedad y lograr una mayor&#13;
+equidad. El Banco reconoce que existen muchas rutas que llevan a la cobertura&#13;
+universal y no apoya ninguna ruta o conjunto particular de arreglos organizativos&#13;
+o financieros para lograrla. Sea cual sea la ruta escogida, su ejecuciÃ³n exitosa&#13;
+implica la existencia de muchos instrumentos e instituciones. Aunque se pueden&#13;
+tomar rutas distintas para ampliar la cobertura, la ejecuciÃ³n de todas ellas im-&#13;
+plica desafÃ­os. Consciente de eso, el Banco Mundial lanzÃ³ la Serie de estudios&#13;
+UNICO sobre cobertura universal de salud, cuyo fin es obtener conocimientos y&#13;
+diseÃ±ar instrumentos operativos para ayudar a los paÃ­ses a abordar estos desa-&#13;
+fÃ­os propios de la ejecuciÃ³n en formas sostenibles desde el punto de vista fiscal&#13;
+y que mejoren el grado de equidad y eficiencia. La Serie de estudios UNICO&#13;
+consta de documentos tÃ©cnicos y estudios de casos prÃ¡cticos de varios paÃ­ses,&#13;
+en los cuales se analizan distintas facetas relacionadas con las dificultades que&#13;
+existen para aplicar las polÃ­ticas de cobertura universal.&#13;
+&#13;
+Los estudios de casos prÃ¡cticos de los paÃ­ses de la serie se basan en el empleo&#13;
+de un protocolo normalizado para analizar los detalles prÃ¡cticos de los progra-&#13;
+mas mediante los cuales se ha ampliado la cobertura en forma vertical ascen-&#13;
+dente, es decir, de los programas que han comenzado con los pobres y los&#13;
+vulnerables en lugar de aquellos que se han iniciado con un modelo de filtraciÃ³n&#13;
+o chorreo. El protocolo consta de nueve mÃ³dulos que contienen mÃ¡s de 300&#13;
+preguntas diseÃ±adas para obtener conocimientos detallados de la forma en que&#13;
+los paÃ­ses estÃ¡n ejecutando cinco conjuntos de polÃ­ticas destinadas a lograr lo&#13;
+siguiente:&#13;
+&#13;
+    (a) administrar el paquete de beneficios&#13;
+    (b) gestionar los procesos para incluir a los pobres y los vulnerables&#13;
+    (c) impulsar reformas a la prestaciÃ³n de servicios que se traduzcan en ma-&#13;
+        yores grados de eficiencia&#13;
+    (d) abordar los nuevos desafÃ­os que implica la atenciÃ³n primaria&#13;
+    (e) afinar los mecanismos de financiamiento, para hacer coincidir los incenti-&#13;
+        vos de las distintas partes interesadas del sector de la salud&#13;
+&#13;
+La Serie de estudios UNICO busca proporcionar a los encargados de ejecutar&#13;
+polÃ­ticas para lograr la cobertura universal un conjunto de instrumentos mÃ¡s am-&#13;
+plio. El protocolo, los estudios de casos y los documentos tÃ©cnicos se publican&#13;
+como parte de la serie. En 2013 se publicarÃ¡ un anÃ¡lisis comparativo de los&#13;
+estudios de casos.&#13;
+                                                                                      BANCO MUNDIAL&#13;
+&amp;#12;</ml:original-txt><ml:search-metadata><doc id="19771458">
+        <url>
+            http://documents.worldbank.org/curated/en/2013/01/19771458/argentina-increasing-utilization-health-care-services-among-uninsured-population-plan-nacer-program-argentina-el-aumento-de-la-utilizacion-de-los-servicios-de-salud-materno-infantil-en-la-poblacion-sin-seguro-medico-el-plan-nacer
+        </url>
+        <availablein>English,Spanish</availablein>
+        <fullavailablein>
+            <available_in lang="English" entityid="000425962_20130131151019" node_id="19771458"/>
+        </fullavailablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2013/01/19771458/argentina-increasing-utilization-health-care-services-among-uninsured-population-plan-nacer-program-argentina-el-aumento-de-la-utilizacion-de-los-servicios-de-salud-materno-infantil-en-la-poblacion-sin-seguro-medico-el-plan-nacer</url_friendly_title>
+        <new_url>2013/01/19771458/argentina-increasing-utilization-health-care-services-among-uninsured-population-plan-nacer-program-argentina-el-aumento-de-la-utilizacion-de-los-servicios-de-salud-materno-infantil-en-la-poblacion-sin-seguro-medico-el-plan-nacer</new_url>
+        <disclosure_date>2014-07-09T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2014-07-09T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/07/09/000442464_20140709114014/Rendered/INDEX/749560NWP0SPAN0rgentina0UNICO0final.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/07/09/000442464_20140709114014/Rendered/PDF/749560NWP0SPAN0rgentina0UNICO0final.pdf</pdfurl>
+        <docdt>2013-01-01T00:00:00Z</docdt>
+        <datestored>2014-07-09T00:00:00Z</datestored>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            Argentina - Increasing utilization of
+            health care services among the uninsured population : the
+            Plan Nacer program
+        </repnme>
+        <abstracts>
+            This paper describes the functioning and
+            performance of Argentina's Provincial Maternal and
+            Child Health Investment Program, commonly referred to as
+            Plan Nacer. The program is aimed at increasing access - for
+            uninsured pregnant women and children under six years old -
+            to a basic set of health services known to effectively
+            address the main causes of maternal and child mortality,
+            while improving the effectiveness and efficiency of the
+            health system. The program supports the development and
+            implementation of publicly funded provincial maternal and
+            child health insurance and the introduction of highly
+            innovative results-based financing mechanisms at the
+            national, provincial, and provider levels. This document is
+            organized as follows. Section 2 provides an overview of the
+            Argentine health care system, including a description of
+            public health, primary care, and supply-side efforts, to put
+            in context the implementation of Plan Nacer. Section 3
+            presents a detailed description of the main features of the
+            program, including the institutional architecture; the
+            targeting, identification, and enrolment of beneficiaries;
+            the management of the program's funds and benefits
+            package; and the information environment of Plan Nacer.
+            Section 4 provides a discussion of the highly innovative
+            results-based financing mechanisms included in the design of
+            the program. Section 5 draws some conclusions on the pending
+            agenda and challenges ahead.
+        </abstracts>
+        <docna>
+            Argentina - El aumento de la utilizacion de
+            los servicios de salud materno-infantil en la poblacion sin
+            seguro medico : el Plan Nacer
+        </docna>
+        <display_title>Argentina - Increasing
+            utilization of health care services among the uninsured
+            population : the Plan Nacer program : Argentina - El aumento
+            de la utilizacion de los servicios de salud materno-infantil
+            en la poblacion sin seguro medico : el Plan Nacer</display_title>
+        <listing_relative_url>/research/2013/01/19771458/argentina-increasing-utilization-health-care-services-among-uninsured-population-plan-nacer-program-argentina-el-aumento-de-la-utilizacion-de-los-servicios-de-salud-materno-infantil-en-la-poblacion-sin-seguro-medico-el-plan-nacer</listing_relative_url>
+        <topic>Health Care Performance Indicators
+            m1327298 1321,Health Economics and Finance m1326577 625,Health Facility Management m1326575 1397,Health Services Delivery m1327294 1305,Child Health m1326775 642</topic>
+        <subtopic>Health Monitoring &amp; Evaluation,Public Sector Expenditure Policy,Health Economics &amp; Finance,Health Systems Development &amp; Reform,Population Policies</subtopic>
+        <docty>Working Paper (Numbered Series)</docty>
+        <teratopic>Public Sector Development,Health, Nutrition and Population</teratopic>
+        <count>Argentina</count>
+        <authors>
+            <author>Cortez, Rafael</author>
+            <author>Romero, Daniela</author>
+        </authors>
+        <geo_region_mdks>
+            <geo_region_mdk>World!$!80475</geo_region_mdk>
+            <geo_region_mdk>America!$!80450</geo_region_mdk>
+            <geo_region_mdk>South America!$!80469</geo_region_mdk>
+        </geo_region_mdks>
+        <entityids>
+            <entityid>000442464_20140709114014</entityid>
+        </entityids>
+        <admreg>Latin America &amp; Caribbean,Latin America &amp; Caribbean</admreg>
+        <colti>Universal Health Coverage (UNICO) studies
+            series ; no.12</colti>
+        <lang>Spanish</lang>
+        <historic_topic>Public Sector Development,Health, Nutrition and Population</historic_topic>
+        <topicv3>Health Care Performance Indicators
+            m1327298 1321,Health Economics and Finance m1326577 625,Health Facility Management m1326575 1397,Health Services Delivery m1327294 1305,Child Health m1326775 642</topicv3>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            access to health care, access to health care
+            services, access to services, ambulatory surgery, baby,
+            basic health care, basic health services, basic needs,
+            budgetary resources, burden of disease, capitation,
+            capitation payment, capitation payments, certification,
+            Child Health, child mortality, childbirth, choice of
+            providers, clinics, complications, cost-effectiveness,
+            deaths, debt, Delivery Mechanisms, demand for health, demand
+            for health services, developing countries, diseases, drugs,
+            economies of scale, enforcement mechanisms, families, family
+            members, fee-for-service, financial management, financial
+            risks, free choice, General Health System, gross domestic
+            product, health budgets, Health Care, health care costs,
+            health care coverage, health care delivery, health care
+            facilities, health care networks, health care personnel,
+            health care provider, health care providers, health care
+            service delivery, Health Care Services, health care
+            standards, health care system, health conditions, Health
+            Coverage, Health Expenditure, Health Expenditures, health
+            facilities, health financing, health indicators, health
+            information, Health Information System, health information
+            systems, health initiatives, Health Insurance, health
+            insurance coverage, Health insurance portability, Health
+            Insurance Program, health insurance scheme, health insurance
+            system, health interventions, Health Ministries, health
+            needs, Health Organization, health outcomes, health
+            policies, health policy, health providers, health sector,
+            health service, health service delivery, health service
+            providers, health service provision, health service
+            utilization, health services, Health Specialist, health
+            status, health strategy, Health System, health systems,
+            healthcare services, hospital, hospital beds, hospitals,
+            household surveys, Human Development, human resources, ill
+            health, Immunization, income, income countries, individual
+            health, infant, infant mortality, infant mortality rate,
+            infant mortality rates, informal sector, insurance
+            companies, insurance premium, insurers, lack of information,
+            laws, leading causes, leading causes of death, Life
+            expectancy, local authorities, local governments, low birth
+            weight, mandates, maternal deaths, maternal health, maternal
+            health services, maternal mortality, maternal mortality
+            rates, medical goods, medical laboratories, medical records,
+            medical specialists, medical supplies, medical treatment,
+            medical treatments, medically uninsured, medicines,
+            ministries of health, Ministry of Health, mortality,
+            national government, National Health, national health
+            policy, national level, newborn, outreach activities,
+            patients, pharmacies, policy formulation, poor families,
+            poor health, pregnancy, pregnant women, prenatal care,
+            primary care, primary health care, primary health services,
+            private health insurance, Private Insurance, private sector,
+            probability, provision of care, provision of health care,
+            provision of health services, public expenditure, public
+            expenditure on health, Public Health, public health care,
+            Public Health Expenditure, Public Health Insurance, public
+            health providers, public health spending, public health
+            system, public health workers, Public providers, public
+            sector, Public services, public spending, quality
+            improvement, quality of care, quality of health, quality of
+            services, regulatory frameworks, rehabilitation,
+            reproductive health, reproductive health care, resource
+            allocation, resource requirements, respect, respiratory
+            diseases, Risk Factor, rural areas, Social Expenditures,
+            social health insurance, social security, Social Services,
+            surgery, traditional health care, transportation, trauma,
+            unemployment, universal access, vaccination, vaccinations,
+            vital statistics, vulnerable groups, vulnerable populations, workers
+        </keywd>
+        <owner>Health, Nutrition &amp; Popultn Team (HDNHE)</owner>
+        <geo_regions>
+            <geo_region>World</geo_region>
+            <geo_region>America</geo_region>
+            <geo_region>South America</geo_region>
+        </geo_regions>
+        <repnb>74956</repnb>
+        <alt_title>
+            Argentina - El aumento de la utilizacion
+            de los servicios de salud materno-infantil en la poblacion
+            sin seguro medico : el plan Nacer
+        </alt_title>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>Economic Management</ml:concept><ml:concept>Macroeconomic Management</ml:concept><ml:concept>Macroeconomic Policy</ml:concept><ml:concept>Macroeconomics Policy</ml:concept><ml:concept>Macroeconomics and Economic Growth</ml:concept><ml:concept>Macroeconomics and Growth</ml:concept><ml:concept>Teaching and Learning</ml:concept><ml:concept>Poverty Reduction</ml:concept><ml:concept>Poverty Reduction and Distributional Analysis</ml:concept><ml:concept>Poverty Reduction and Equity</ml:concept><ml:concept>Poverty and Inequality</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Social Protections and Labor</ml:concept><ml:concept>Macroeconomic and Structural Policies</ml:concept><ml:concept>Education</ml:concept><ml:concept>Health, Nutrition and Population</ml:concept><ml:concept>Poverty</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Social Protection and Labor</ml:concept><ml:concept>Health Monitoring and Evaluation</ml:concept><ml:concept>Public Sector Expenditure Policy</ml:concept><ml:concept>Social Health Insurance</ml:concept><ml:concept>Contracting Mechanism</ml:concept><ml:concept>Pay for Performance (P4P)</ml:concept><ml:concept>RBF</ml:concept><ml:concept>Impact Evaluations</ml:concept><ml:concept>Randomized Control Trials</ml:concept><ml:concept>Child Survival and Health</ml:concept><ml:concept>Early Child and Children's Health</ml:concept><ml:concept>Health Monitoring &amp; Evaluation</ml:concept><ml:concept>Expenditure Policy</ml:concept><ml:concept>Impact Evaluation</ml:concept><ml:concept>Health Insurance</ml:concept><ml:concept>Public Health Insurance</ml:concept><ml:concept>Results-Based Financing for Health</ml:concept><ml:concept>Impact Assessment</ml:concept><ml:concept>Child Health</ml:concept></ml:concepts><ml:geo-regions><ml:geo-region>State Associations</ml:geo-region><ml:geo-region>Americas</ml:geo-region><ml:geo-region>Argentina</ml:geo-region><ml:geo-region>Caribbean</ml:geo-region></ml:geo-regions></ml:annotations></ml:doc-envelope>

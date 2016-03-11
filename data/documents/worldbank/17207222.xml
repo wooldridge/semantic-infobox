@@ -1,0 +1,1641 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>ï»¿                                                         75005&#13;
+              Jamaicaâ&#128;&#153;s Effort in Improving&#13;
+              Universal Access within&#13;
+              Fiscal Constraints&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Shiyan Chao&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+              Universal Health Coverage Studies Series (UNICO)&#13;
+              UNICO Studies Series No. 6&#13;
+&amp;#12;&amp;#12;UNICO Studies Series 6&#13;
+Jamaicaâ&#128;&#153;s Effort in Improving Universal Access&#13;
+within Fiscal Constraints1&#13;
+Shiyan Chao&#13;
+&#13;
+The World Bank, Washington DC, January 2013&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+1&#13;
+  This paper was prepared by Shiyan Chao (Senior Economist, Latin America and the Caribbean region). The author&#13;
+would like to thank Dr. Sheila Campbell-Forrester, Consultant, who assisted in the data collection, and Dr. Yuan&#13;
+Shi, for the analysis on abolition of user fees. The author is grateful to Messieurs Cecil White, Granville Gayle, and&#13;
+Aubrey Blaire, Vice Presidents of the National Health Fund, for providing useful information and comments. The&#13;
+author also benefited from the input from Dr. Kevin Harvey from the Ministry of Health in Jamaica. Critical review&#13;
+and comments were received at various stages of the preparation of this paper. The author is grateful to peer&#13;
+reviewers Antonio Giuffrida, Charles Griffin, Robert Janett, and Rekha Menon for their useful comments, and for&#13;
+comments received during the Authorsâ&#128;&#153; Workshop. The author wishes to particularly thank Daniel Cotlear (Task&#13;
+Team Leader for the UNICO Study) and Joana Godinho (Sector Manager) for their guidance and support.&#13;
+&amp;#12;           The World Bankâ&#128;&#153;s Universal Health Coverage Studies Series (UNICO)&#13;
+All people aspire to receive quality, affordable health care. In recent years, this aspiration has&#13;
+spurred calls for universal health coverage (UHC) and has given birth to a global UHC&#13;
+movement. In 2005, this movement led the World Health Assembly to call on governments to&#13;
+â&#128;&#156;develop their health systems, so that all people have access to services and do not suffer&#13;
+financial hardship paying for them.â&#128;? In December 2012, the movement prompted the United&#13;
+Nations General Assembly to call on governments to â&#128;&#156;urgently and significantly scale-up efforts&#13;
+to accelerate the transition towards universal access to affordable and quality healthcare&#13;
+services.â&#128;? Today, some 30 middle-income countries are implementing programs that aim to&#13;
+advance the transition to UHC, and many other low- and middle-income countries are&#13;
+considering launching similar programs.&#13;
+The World Bank supports the efforts of countries to share prosperity by transitioning toward&#13;
+UHC with the objectives of improving health outcomes, reducing the financial risks associated&#13;
+with ill health, and increasing equity. The Bank recognizes that there are many paths toward&#13;
+UHC and does not endorse a particular path or set of organizational or financial arrangements to&#13;
+reach it. Regardless of the path chosen, successful implementation requires that many&#13;
+instruments and institutions be in place. While different paths can be taken to expand coverage,&#13;
+all paths involve implementation challenges. With that in mind, the World Bank launched the&#13;
+Universal Health Coverage Studies Series (UNICO Study Series) to develop knowledge and&#13;
+operational tools designed to help countries tackle these implementation challenges in ways that&#13;
+are fiscally sustainable and that enhance equity and efficiency. The UNICO Studies Series&#13;
+consists of technical papers and country case studies that analyze different issues related to the&#13;
+challenges of UHC policy implementation.&#13;
+The case studies in the series are based on the use of a standardized protocol to analyze the nuts&#13;
+and bolts of programs that have expanded coverage from the bottom upâ&#128;&#148;programs that have&#13;
+started with the poor and vulnerable rather than those initiated in a trickle-down fashion. The&#13;
+protocol consists of nine modules with over 300 questions that are designed to elicit a detailed&#13;
+understanding of how countries are implementing five sets of policies to accomplish the&#13;
+following: (a) manage the benefits package, (b) manage processes to include the poor and&#13;
+vulnerable, (c) nudge efficiency reforms to the provision of care, (d) address new challenges in&#13;
+primary care, and (e) tweak financing mechanisms to align the incentives of different&#13;
+stakeholders in the health sector. To date, the nuts and bolts protocol has been used for two&#13;
+purposes: to create a database comparing programs implemented in different countries, and to&#13;
+produce case studies of programs in 24 developing countries and one high-income â&#128;&#156;comparator,â&#128;?&#13;
+the state of Massachusetts in the United States. The protocol and case studies are being published&#13;
+as part of the UNICO Studies Series, and a comparative analysis will be available in 2013.&#13;
+We trust that the protocol, case studies, and technical papers will provide UHC implementers&#13;
+with an expanded toolbox, make a contribution to discussions about UHC implementation, and&#13;
+that they will inform the UHC movement as it continues to expand worldwide.&#13;
+&#13;
+                                                                               Daniel Cotlear&#13;
+                                                       UNICO Studies Series Task Team Leader&#13;
+                                                                             The World Bank&#13;
+                                                                             Washington, DC&#13;
+&#13;
+                                                                                                ii&#13;
+&amp;#12;                                                          TABLE OF CONTENTS&#13;
+&#13;
+Abbreviations ............................................................................................................................................... iv&#13;
+Executive Summary ...................................................................................................................................... v&#13;
+1. Study Objectives..................................................................................................................................... 1&#13;
+2. Health Sector Overview ......................................................................................................................... 1&#13;
+3. Health Care Financing ............................................................................................................................ 3&#13;
+4. Expanding Universal Access within Fiscal Constraints ......................................................................... 5&#13;
+5. Targeting, Identification, and Enrolment of Beneficiaries ..................................................................... 9&#13;
+6. Management of Public Funds in the NHF ............................................................................................ 11&#13;
+7. Information Environment ..................................................................................................................... 15&#13;
+8. The Goal of Universal Access and the Abolition of User Fees ............................................................ 16&#13;
+9. Pending Agenda ................................................................................................................................... 19&#13;
+Annex 1 Spider Web ................................................................................................................................... 23&#13;
+References ................................................................................................................................................... 26&#13;
+&#13;
+&#13;
+FIGURES&#13;
+Figure 1 Financing Flows in the Jamaican Health Sector, 2009 ................................................................... 3&#13;
+Figure 2 Jamaica: Health Expenditure by Source of Funding, 1995-2009 (Percent of GDP) ...................... 4&#13;
+Figure 3 Distribution of NHF Revenue by Source (%), Fiscal Years 2004-12 ............................................ 8&#13;
+Figure 4 Organization Structure of the NHF ................................................................................................ 8&#13;
+Figure 5 NHF Card and JADEP Enrolment, FY 2004â&#128;&#147;12 .......................................................................... 11&#13;
+Figure 6 NHF Expenditure Distribution, 2004â&#128;&#147;12 (in J$â&#128;&#153;000) ................................................................... 12&#13;
+Figure 7 NHF Revenue and Expenditure Distribution, 2004â&#128;&#147;12 (in J$â&#128;&#153;000) ............................................. 14&#13;
+Figure 8 Individual Annuala Medical Expenditures before and after the NHF among the NCD Population&#13;
+(in J$1,000 at constant 2008 values) ........................................................................................................... 15&#13;
+Figure 9 Health Care Service Visits by Population Quintile and Facility Type (in %) .............................. 17&#13;
+Figure 10 Percentage of Population who Reported Ill and who Procured Drugs ....................................... 18&#13;
+&#13;
+TABLES&#13;
+Table 1 NHF Claims and Subsidy Rates, 2003â&#128;&#147;12 ..................................................................................... 13&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                             iii&#13;
+&amp;#12;                                Abbreviations&#13;
+&#13;
+&#13;
+GDP     gross domestic product&#13;
+IDB     Inter-American Development Bank&#13;
+IMF     International Monetary Fund&#13;
+JADEP   Jamaica Drug for the Elderly Program&#13;
+MDGS    Millennium Development Goals&#13;
+MOH     Ministry of Health&#13;
+NCDs    noncommunicable diseases&#13;
+NGO     nongovernmental organizations&#13;
+NHF     National Health Fund&#13;
+NHIP    national health insurance plan&#13;
+PAHO    Pan-American Health Organization&#13;
+RHAs    Regional Health Authorities&#13;
+WHO     World Health Organization&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                iv&#13;
+&amp;#12;Executive Summary&#13;
+&#13;
+Jamaicaâ&#128;&#153;s primary health care system was a model for the Caribbean region in the 1990s.&#13;
+Because of it, Jamaicans enjoy relatively better health status than people in other countries of&#13;
+similar income level in the Caribbean region. However, Jamaicaâ&#128;&#153;s health system is being&#13;
+severely challenged by persistent and reemerging infectious diseases and by the rapid increase in&#13;
+noncommunicable diseases (NCDs) and injuries. At the same time, the country has suffered from&#13;
+low economic growth and carries a high debt burden, which leaves limited fiscal space for&#13;
+improving health care.&#13;
+The Government of Jamaica has been trying to sustain the gain in health outcomes and improve&#13;
+access to health care for its population in an environment of constrained resources during the last&#13;
+decade. With the establishment of the Jamaica National Health Fund (NHF) in 2003 and the&#13;
+abolition of user fees at public facilities in 2008, the Government of Jamaica has taken steps&#13;
+toward achieving universal coverage.&#13;
+This study reviews the achievements and challenges in expanding universal access in Jamaica&#13;
+and assesses the impact of the NHFâ&#128;&#153;s drug-subsidy programs and the abolition of user fees on&#13;
+universal access, and discusses policy options for achieving universal coverage.&#13;
+The NHF was approved by statute in 2003 with the aim to â&#128;&#156;reduce the financial burden of health&#13;
+care on the public sector in Jamaica.â&#128;? Because NCDs had become the major causes of morbidity&#13;
+and mortality, the NHF aimed to introduce a public health management approach to their&#13;
+treatment, by providing individual and institutional health care benefits to Jamaicans. NHF&#13;
+Individual Benefits include subsidies on a range of prescribed pharmaceuticals for patients&#13;
+suffering from one of 15 specific chronic diseases. Beneficiaries are required to make a high&#13;
+copayment, ranging from 25 to 53 percent of the cost of the drugs.&#13;
+Economic recession, high unemployment, and global health care cost escalation have made it&#13;
+increasingly difficult for households to afford health care. In April 2008, the government&#13;
+abolished user fees at public health facilities, and all Jamaicans have access to health care free of&#13;
+charge.&#13;
+Based on the review carried out under this study, Jamaicaâ&#128;&#153;s approach to universal coverage has&#13;
+produced mixed results. On the one hand, people have access to free care at public health&#13;
+facilities, and the NHF subsidizes drugs for people with NCDs and the elderly, so it seems that&#13;
+Jamaica is achieving universal access. On the other hand, the NHF covers only 19 percent of the&#13;
+total population, and with a relatively high copayment. The rich have benefited more from the&#13;
+NHF Individual Benefits.&#13;
+Paradoxically, however, this move has had the effect of further widening the gap between the&#13;
+poor and the better-off population. Increased use of public health services has put a heavy burden&#13;
+on the public health system, which was already considered inefficient and lacking in human&#13;
+resources and with poor infrastructure and equipment. The implicit rationing is happening in the&#13;
+public health facilities where more people, including the poor, are increasingly using private&#13;
+health services. Due to increased use of the private sector, the NHFâ&#128;&#153;s drug subsidy program and&#13;
+the abolition of user fees have not brought down overall out-of-pocket health expenditures. In the&#13;
+end, the poor pay a higher proportion of their income for health care.&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                   v&#13;
+&amp;#12;Thus, while in theory, Jamaica has reached universal access to health care, in practice, such&#13;
+coverage is incomplete and inadequate. The abolition of user fees did not guarantee universal&#13;
+access to care, particularly for the poor. Moving forward, the government needs to invest wisely&#13;
+in the health sector to reach real universal coverage.&#13;
+The NHF can serve as an important building block for the ultimate goal of providing universal&#13;
+access to health care in Jamaica. For this reason, policy makers are expanding the role of the&#13;
+NHF. One option under discussion is to allocate to the NHF the government budget that has been&#13;
+earmarked to replace the income loss from user fees, and to use the NHF as a purchaser and&#13;
+financier for the most vulnerable population, while at the same time expanding the benefit&#13;
+package to offer a wider range of health services.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                              vi&#13;
+&amp;#12;1. Study Objectives&#13;
+&#13;
+The Government of Jamaica has made important policy decisions in the last decade with&#13;
+the goal of achieving universal access to health care for its population. The approach to&#13;
+universal coverage that Jamaica took consists of two main policy interventions: the&#13;
+establishment of the Jamaica National Health Fund (NHF) in 2003 and the abolition of user&#13;
+fees at public facilities in 2008. The NHF provides a drug subsidy program targeting&#13;
+patients suffering from the 15 most common noncommunicable diseases (NCDs) and the&#13;
+elderly over 65. The abolition of user charges in public health facilities was intended to&#13;
+remove the financial barrier to access to health care. Jamaicaâ&#128;&#153;s approach provides a unique&#13;
+situation for a case study on whether Jamaica has achieved universal health coverage.&#13;
+This study reviews the achievements and challenges in expanding universal access to health&#13;
+care in Jamaica and assesses the impact of the NHFâ&#128;&#153;s drug subsidy program and the&#13;
+abolition of user fees on universal access to health care and discusses policy options toward&#13;
+achieving universal coverage.&#13;
+&#13;
+2. Health Sector Overview&#13;
+&#13;
+Jamaica has made significant achievements in improving the populationâ&#128;&#153;s health status.&#13;
+Life expectancy at birth increased from 38 years in 1900 to 73.1 in 2009, and the infant&#13;
+mortality rate fell from 174.3 per 1,000 live births to 14.6 during the same period.&#13;
+Jamaica faces a double burden of disease: the continued challenge of communicable&#13;
+diseases coupled with the rise of NCDs. Communicable diseases were the greatest&#13;
+contributor to Jamaicaâ&#128;&#153;s burden of disease in the 1960s and 1970s, but were surpassed by&#13;
+NCDs in the 1980s and 1990s. NCDs are currently the leading causes not only of mortality&#13;
+but also of morbidity, and their incidence and prevalence have increased in the last decade.&#13;
+Jamaica has made progress toward achieving three health-related Millennium Development&#13;
+Goals (MDGs): reducing child mortality, and combating HIV/AIDS, malaria, and other&#13;
+diseases; however, it is unlikely to meet the targets for these goals by 2015, particularly on&#13;
+maternal mortality. HIV/AIDS remains a serious threat and maternal mortality has&#13;
+increased (World Bank 2011). About 12 percent of children born in Jamaica in 2009 had&#13;
+low birth weight, among the highest in the region. 2 As in other countries of the region,&#13;
+obesity is a growing concern. Health outcome indicators are worse in rural areas and among&#13;
+the poorest quintiles.&#13;
+&#13;
+Health System&#13;
+&#13;
+Jamaicaâ&#128;&#153;s health system involves a mix of the public and private sectors. The public sector&#13;
+is the primary provider of public health and hospital services, while the private sector&#13;
+dominates ambulatory services and the provision of pharmaceuticals.&#13;
+The public sector includes the Ministry of Health (MOH) and its agencies; four Regional&#13;
+Health Authorities (RHAs); and an extensive network of secondary and tertiary care&#13;
+facilities, consisting of 24 second level hospitals, including five specialist institutions and&#13;
+2&#13;
+    UNICEF Internet Jamaica Statistics.&#13;
+&#13;
+                                                                                             1&#13;
+&amp;#12;primary care facilities, comprising 322 primary health centers and four community&#13;
+hospitals, which are managed by the four RHAs. The public sector also includes the&#13;
+University Hospital of the West Indies and its Medical School and 10 dental and two family&#13;
+planning clinics (GOJ 2009). The combined bed capacity for public hospitals is 4,500 beds&#13;
+(Gordon-Strachan and Brenzel 2010). The MOH acquired the St. Josephâ&#128;&#153;s Hospital in&#13;
+2008, which operates as a public-private hospital. Funded by the government in partnership&#13;
+with the Government of Cuba, it has 44 beds and offers eye care services. This network&#13;
+ensures easy geographic access to basic health care services.&#13;
+The functions of the MOH were decentralized in 1997 under the National Health Services&#13;
+Act. The Ministry is responsible for policy, planning, regulating, and purchasing functions,&#13;
+while the four RHAs are in charge of health service delivery. This reform aimed to increase&#13;
+the efficiency and responsiveness of the health sector to local needs. The RHAs provide&#13;
+health services through a nested system of health centers and hospitals. Pharmaceutical and&#13;
+diagnostic services are available at all hospitals and some health centers, and the National&#13;
+Public Health Laboratory serves as the national referral center. The RHAs are responsible&#13;
+for delivering health care services to all 14 parishes.&#13;
+&#13;
+Private Sector&#13;
+&#13;
+The private sector is playing an important role in health care. Private health care is provided&#13;
+by general physicians and specialists, private laboratories and pharmacies, and a few&#13;
+hospitals. Nongovernmental organizations (NGOs) also provide ambulatory care, targeting&#13;
+the poorer segments of the population. The past decade has witnessed a growing private&#13;
+sector, particularly in the areas of ambulatory health services and pharmaceutical supplies.&#13;
+The private sector delivers 75 percent of all ambulatory care and 82 percent of all&#13;
+pharmaceutical purchases. The private sector owns nine small hospitals (25 percent of all&#13;
+hospitals in the country), although it provides less than 6 percent of total bed capacity&#13;
+(Gordon-Strachan and Brenzel 2010).&#13;
+Providing primary health care is mainly the responsibility of the MOH. The number one&#13;
+national goal in the Vision 2030 Jamaica Strategy is â&#128;&#156;A Healthy and Stable Population.â&#128;?&#13;
+National strategies call for both better performance of the health care system and for&#13;
+making the population responsible for maintaining their own health.&#13;
+Jamaica has had a well-established national surveillance system that consists of population-&#13;
+based surveys on NCDs and NCD risk factors and administrative databases; it is the only&#13;
+country in the Caribbean with consecutive national surveys on NCDs. These data have been&#13;
+used for policy and program development and for program evaluation. Funding is not&#13;
+specified by disease category, but targets are included in service agreements at the primary&#13;
+and secondary levels and for health promotion activities.&#13;
+Jamaicaâ&#128;&#153;s health system functions relatively well and its primary health care system has&#13;
+been a model for the Caribbean region. The World Health Organization (WHO) 2000&#13;
+World Health Report ranked Jamaica eighth in the world in terms of health system&#13;
+efficiency, in that it has good health outcomes at relatively low costs. In the Pan-American&#13;
+Health Organization/WHOâ&#128;&#153;s (PAHO/WHOâ&#128;&#153;s) evaluation of performance of the essential&#13;
+public health functions in 2001 and 2011, Jamaica has made progress in eight of the 11&#13;
+&#13;
+                                                                                             2&#13;
+&amp;#12;functions and had significant progress in human resources development and training in&#13;
+public health. However, it did not do as well as it did in 2001 in the areas of â&#128;&#156;monitoring,&#13;
+evaluation and analysis of health statusâ&#128;?; â&#128;&#156;development of policies and institution capacity&#13;
+for public health planning and managementâ&#128;?; and â&#128;&#156;strengthening of public health regulation&#13;
+and enforcement capacityâ&#128;? (PAHO 2012).&#13;
+However, its health system is being severely challenged by persistent and reemerging&#13;
+infectious diseases, including dengue and HIV/AIDS, and by the rapid increase in NCDs&#13;
+and injuries. The aging of the population, technological advances, and increasing demand&#13;
+for health care have been driving up the costs of health care. At the same time, the country&#13;
+is experiencing limited economic growth and carrying heavy debts, thus limiting fiscal&#13;
+space. These factors are threatening the sustainability of the health system.&#13;
+&#13;
+3. Health Care Financing&#13;
+&#13;
+Financing for the health sector has been through a mix of public and private sources. The&#13;
+total health expenditure, as a percentage of GDP, has been between 4 and 6 percent in the&#13;
+last decade. Total health expenditure was about US$680 million in 2009 (5.1 percent of&#13;
+GDP), equivalent to US$228 per capita in 2009. The public sector accounted for 46 percent&#13;
+of total health expenditure, while private health insurance covered 16 percent, and out-of-&#13;
+pocket payments made up 36 percent (figure 1). International donors and NGOs covered&#13;
+only 2 percent of total health expenditure. The public sector largely financed hospital care,&#13;
+primary health care services, and regulatory functions. The private sector covers&#13;
+ambulatory care, pharmaceuticals, diagnostics, and overseas treatment (WHO 2011).&#13;
+&#13;
+               Figure 1 Financing Flows in the Jamaican Health Sector, 2009&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                           3&#13;
+&amp;#12;Public financing comes mainly from general taxation. The MOH receives its budget from&#13;
+the central government and transfers about 86 percent of its budget to RHAs for providing&#13;
+health care services. Spending by the MOH has ranged from less than 2 percent of GDP in&#13;
+the mid-1990s to 2.5 percent in the late 2000s. 3 The government also provides funding for&#13;
+the NHF to subsidize drugs for patients who suffer from NCDs and to invest in public&#13;
+health programs and health infrastructure. The funding sources for the NHF are from&#13;
+tobacco, payroll, and special consumption taxes (see details in section on NHF).&#13;
+Less than 20 percent of the population was covered by private health insurance in 2009,&#13;
+mainly through employee health plans in medium and large establishments.&#13;
+In 2008, the government abolished user fees at public health facilities to reduce financial&#13;
+barriers to accessing health. The government has increased its budget allocation to MOH to&#13;
+compensate for this income loss to health facilities. Since 2008, services in the public&#13;
+health centers and hospitals are free of charge at the point of service delivery. Households&#13;
+still pay for drugs at the public pharmacies.&#13;
+There have been no major changes in sources of financing in the last decade. Figure 2&#13;
+shows the overall trend of health financing from different sources. After the abolition of&#13;
+user fees in 2008/09, there were slight increases in both government and private spending&#13;
+on health.&#13;
+&#13;
+     Figure 2 Jamaica: Health Expenditure by Source of Funding, 1995-2009 (Percent of GDP)&#13;
+&#13;
+    7.0&#13;
+&#13;
+    6.0                                                                  Private - other&#13;
+&#13;
+    5.0&#13;
+                                                                         Private - out of&#13;
+                                                                         pocket&#13;
+    4.0&#13;
+                                                                         Private - NGOs&#13;
+&#13;
+    3.0&#13;
+                                                                         Public - Donors&#13;
+    2.0&#13;
+                                                                         Public&#13;
+    1.0&#13;
+&#13;
+    0.0&#13;
+&#13;
+&#13;
+&#13;
+Source: WHO 2011.&#13;
+The most pressing concerns in the public health sector are the increasing demand for care&#13;
+and cost of services, compounded by the need for resources to meet these costs. The&#13;
+government is the main payer and provider of health services and faces many problems in&#13;
+financing the full range of primary, secondary, and tertiary health services.&#13;
+&#13;
+3&#13;
+    Information from Ministry of Health 2012.&#13;
+&#13;
+                                                                                             4&#13;
+&amp;#12;The countryâ&#128;&#153;s economic performance impacts the availability of resources for the health&#13;
+sector at the macro and micro levels. The Jamaican economy has experienced constant&#13;
+challenges since the 1970s, which were exacerbated by the 2008â&#128;&#147;09 global economic crisis.&#13;
+GDP growth was negative during 2008â&#128;&#147;10, and dropped to minus 3 percent in 2009. Heavy&#13;
+foreign borrowing has significantly increased its debt burden, which was estimated at 139.7&#13;
+percent of GDP, which has been the most pressing development challenge for Jamaica.&#13;
+Jamaica had signed a 27-month Standby Arrangement with the International Monetary&#13;
+Fund (IMF) in February 2010, but the program went off track in late 2011. The country is&#13;
+hoping for a new IMF program, which could unlock budgetary support from development&#13;
+partners and financing from the international capital markets, which is currently unavailable&#13;
+to Jamaica. 4 At the same time, Jamaicaâ&#128;&#153;s GDP per capita of 9,100 in purchasing power&#13;
+parity in 2011, as estimated by the IMF, defines it as an upper-middle-income country,&#13;
+thereby disqualifying it from some international aid, such as from the Global Fund.&#13;
+The supply of services has not been able to match the increasing demand. The demand and&#13;
+costs are driven up by demographic, epidemiological, technological, and social factors.&#13;
+Limited economic growth and lack of fiscal space has made it difficult to expand the&#13;
+coverage to meet increasing demand. Inadequate and, to some extent, inefficiently used,&#13;
+public sector resources have resulted in shortages of staff, supplies, and drugs, and a lack of&#13;
+maintenance of equipment and buildings.&#13;
+&#13;
+4. Expanding Universal Access within Fiscal Constraints&#13;
+&#13;
+National Health Fund&#13;
+&#13;
+The government has recognized the critical importance of preventing and controlling&#13;
+NCDs. The Strategic Plan and the National Policy for the Promotion of Healthy Lifestyles&#13;
+were developed and implemented over a five-year period starting in 2004. The goal was to&#13;
+decrease the incidence of chronic diseases, high-risk sexual behavior, violence, and injury&#13;
+by the adaption of population behaviors to more appropriate onesâ&#128;&#148;particularly of children,&#13;
+adolescents, and young adults.&#13;
+Jamaica has a long history of searching for health financing methods to bridge the gap&#13;
+between budgetary allocations and increasing demand for care. The Inter-American&#13;
+Development Bank (IDB) conducted a study on the countryâ&#128;&#153;s health financing innovations,&#13;
+from which the following summary of the development of national health insurance in&#13;
+Jamaica is derived (Barrett and Lalta 2004).&#13;
+Discussions on some version of national health insurance were started in the 1960s when&#13;
+the National Insurance Scheme was established. Discussions and studies on establishing a&#13;
+national health insurance plan (NHIP) continued from the 1970s into the early 2000s, with&#13;
+support from international agencies (IDB and PAHO). However, the ideas never gathered&#13;
+enough political traction. Key issues that stalled the effort are related to the fundamental&#13;
+questions: Who should contribute? Who should manage the plan? What services should be&#13;
+in the benefit packages? Seventeen studies were conducted between 1982 and 1995 on the&#13;
+possibility of establishing national health insurance in Jamaica. Those studies culminated in&#13;
+&#13;
+&#13;
+4&#13;
+    World Bank Jamaica Country website.&#13;
+&#13;
+                                                                                             5&#13;
+&amp;#12;the preparation of a Green Paper 5 on the NHIP in 1997. The Green Paper outlined the NHIP&#13;
+goals, principles, and proposed operational features. The key features included universal&#13;
+coverage (â&#128;&#156;Health Security for Allâ&#128;?); supplementing budgetary allocations to the health&#13;
+sector; and a benefit package covering prescription drugs, diagnostic services, and inpatient&#13;
+hospital care; choice of insurer and service provider; contribution through a levy on&#13;
+income; and the creation of a care fund for catastrophes.&#13;
+The proposal to establish an NHIP faced opposition from the Ministry of Finance because&#13;
+of the difficult macroeconomic climate. It would cost the government a substantial amount&#13;
+to cover the premiums of the indigent population. The financial projections estimated that&#13;
+the NHIP would cost between J$12 billion to J$15 billion per year (US$337 million to&#13;
+US$421 million)â&#128;&#148;with about 50 percent to be provided by the governmentâ&#128;&#148;while the&#13;
+annual MOH budget at that time was J$6 billion (US$169 million). The government revised&#13;
+the plan, which led to the design of the NHF, which took into consideration Jamaicaâ&#128;&#153;s&#13;
+macroeconomic and political context and funding limitations.&#13;
+The NHF was established by the National Health Fund Act, approved by Parliament in&#13;
+2003. The NHF adopted the mission, goals, and principles of the NHIP, as described in the&#13;
+Green Paper. The mission of the NHF is to â&#128;&#156;reduce the financial burden of health care on&#13;
+the public sector in Jamaica by providing funding and information to support improvements&#13;
+in health and to continually improve our processes to better serve our beneficiariesâ&#128;?&#13;
+(National Health Fund of Jamaica). 6&#13;
+The NHF is a statutory entity that receives and administers the funds collected. Because&#13;
+NCDs had become the major causes of morbidity and mortality, the NHF aimed to&#13;
+introduce a public health management approach to their treatment by providing individual&#13;
+and institutional health care benefits to Jamaicans.&#13;
+The NHF is currently directed by a Board of Management composed of nine directors with&#13;
+the following six committees (the Chief Executive Officer an ex officio member of the&#13;
+Board of Management):&#13;
+&#13;
+    â&#128;¢   The Medical Review Committee, which is responsible for monitoring adjustments&#13;
+        to benefit levels, based on the severity of diagnoses, adjusting the benefits to be&#13;
+        provided on the basis of changes in the use and/or availability of drugs, and making&#13;
+        recommendations on the type of benefits and illnesses to be covered. The Medical&#13;
+        Review Committee is responsible for monitoring and reviewing the Individual&#13;
+        Benefits.&#13;
+    â&#128;¢   The Operations Review Committee, which is responsible for overseeing the&#13;
+        financial, supply chain, and administrative activities of the NHF.&#13;
+    â&#128;¢   The Audit Committee, which is responsible for providing an independent reporting&#13;
+        channel and ensuring that the recommendations of internal and external auditors&#13;
+        have been implemented.&#13;
+&#13;
+&#13;
+5&#13;
+  A Green Paper is a preliminary statement of proposed positions on a policy issue and is designed to foster&#13;
+public discussion and debate.&#13;
+6&#13;
+  Accessed at www.nhf.org.jm.&#13;
+&#13;
+                                                                                                          6&#13;
+&amp;#12;    â&#128;¢   The Procurement Committee, which is responsible for ensuring compliance with&#13;
+        government procurement procedures.&#13;
+    â&#128;¢   The Finance, Investment, and ICT 7 Committee, which is responsible for approving&#13;
+        and reviewing investment activities and policy.&#13;
+    â&#128;¢   The Human Resources Committee, which is responsible for the human resources&#13;
+        management and administrative operations of the NHF.&#13;
+&#13;
+The MOH oversees NHF operations, and the Chairmen of the Board of Management&#13;
+reports to the Minister of Health. The MOH is responsible for updating the National&#13;
+Formulary. The treatment regimen and the National Formulary were used to determine the&#13;
+pharmaceuticals required for proper treatment of specific NCDs.&#13;
+The NHF functions and structure have been expanding. On April 1, 2011, the NHF&#13;
+assumed responsibility for the procurement, warehousing, and distribution of&#13;
+pharmaceuticals and medical sundries and for the operations of Drug Serv pharmacies.&#13;
+&#13;
+Financing&#13;
+&#13;
+The NHF had three sources of revenue at inception: (a) the tax on the consumption of all&#13;
+tobacco products; (b) a payroll tax, which is collected in parallel with the National&#13;
+Insurance Scheme, which provides primarily for pensioner benefits; and (c) a special&#13;
+consumption tax, mainly from alcohol, petroleum, and motor vehicles. The tax collection&#13;
+mechanisms are mandatory contributions, and companies are required to make payments to&#13;
+meet their NHF obligations. The revenue mechanisms are reviewed and adjusted&#13;
+periodically to ensure the financial sustainability of the NHF.&#13;
+Since the implementation of the NHF, other sources of revenue have been included, such as&#13;
+investment returns and interest on reserves. However, these are small compared with the&#13;
+three main sources. 8 The tobacco tax contributed the largest share (39 to 50 percent) up to&#13;
+2006. After 2006, the major national tobacco producer (Carreras Limited) relocated to&#13;
+Trinidad and Tobago. The contribution from the tobacco tax thus declined to less than 25&#13;
+percent during 2006â&#128;&#147;08. From 2006 to the present, payroll taxes have increasingly played a&#13;
+role in financing the NHF (figure 3). Overall, the NHF is financed by the following: 20&#13;
+percent of taxation from tobacco-related products; 1 percent of the 5 percent payroll&#13;
+taxation of the National Insurance Scheme collected; and 5 percent of the Special&#13;
+Consumption Tax collected. 9 The NHFâ&#128;&#153;s total revenue from the three sources has increased&#13;
+from J$2.6 billion in FY 2004 to J$4.4 billion in FY12, an almost 70 percent increase in&#13;
+nominal terms in six years. However, it has had only a 2 percent increase in real terms.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+7&#13;
+  Information and Communications Technology.&#13;
+8&#13;
+  Based on the discussion with the NHF.&#13;
+9&#13;
+  Based on 2012 NHF data.&#13;
+&#13;
+                                                                                          7&#13;
+&amp;#12;          Figure 3 Distribution of NHF Revenue by Source (%), Fiscal Years 2004-12&#13;
+&#13;
+&#13;
+&#13;
+        100%&#13;
+         80%&#13;
+         60%&#13;
+         40%&#13;
+         20%&#13;
+          0%&#13;
+                          04         05           06           07        08            09         10         11              12&#13;
+                                                 Tobaco TAX              SCT            Payroll TAX&#13;
+&#13;
+Source: National Health Fund 2012.&#13;
+Note: SCT = special consumption tax.&#13;
+&#13;
+Governance&#13;
+&#13;
+The National Health Fund Act established policies to protect the rights of beneficiaries,&#13;
+particularly regarding privacy, and the obligations of the NHF to its service providers,&#13;
+imposing penalties on beneficiaries and providers if found guilty of abusing their role in the&#13;
+system.&#13;
+The framework that guides NHF operation is choice of provider by members, competition&#13;
+among service providers, and shared governance and responsibilities with key stakeholders.&#13;
+Figure 4 displays the NHF overall structure and programs.&#13;
+                                       Figure 4 Organization Structure of the NHF&#13;
+&#13;
+                                                           Ministry of       Ministry of Health&#13;
+                                                            Finance&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                  NHF Board&#13;
+                                                                              Six Committes&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                  Individual                                                      Institutional&#13;
+                                                   Benefits                                                         Benefits&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                              Public Health&#13;
+                    Drug subsidy                                                                  Infranstructure              Programs&#13;
+                                                                            Drug Services&#13;
+                      program                                                                       Investment&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+        NHF Cards              JADEP Cards             Procurement          Warehousing            Distribution&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                          Public/Private        Pharmacies RHAs&#13;
+                                           Pharmacies               Facilities&#13;
+&#13;
+&#13;
+Source: Based on the information from the NHF 2012.&#13;
+&#13;
+                                                                                                                                              8&#13;
+&amp;#12;5. Targeting, Identification, and Enrolment of Beneficiaries&#13;
+&#13;
+Institutional Benefits&#13;
+&#13;
+The NHF provides Institutional Benefits in the form of grants to two subfundsâ&#128;&#148;the Health&#13;
+Promotion Fund and the Health Support Fund. The Health Promotion Fund finances public&#13;
+and private sector health promotion and disease prevention programs, and takes up at least&#13;
+10 percent of NHF revenues. The Health Support Fund assists public agencies by financing&#13;
+infrastructure development, such as the purchase of equipment and the refurbishment and&#13;
+construction of health facilities. The operations of the Health Support Fund take up at least&#13;
+15 percent of annual NHF revenues. Institutions must submit project proposals to the NHF&#13;
+for funding from the Institutional Benefits, and the proposals are evaluated by an NHF&#13;
+committee using the national health care priorities defined by the government.&#13;
+&#13;
+Individual Benefits&#13;
+&#13;
+The NHF responded to the need for the public sector to help individuals address their&#13;
+NCDs. The macroeconomic recession at the beginning of this decade caused high&#13;
+unemployment and escalated health care costs. This made it increasingly difficult for&#13;
+households with family members that have multiple chronic conditions to afford the high&#13;
+cost of drugs needed to treat and control them. More than half of total health expenditure&#13;
+went to private health services. Of this, 83 percent was out-of-pocket expenditure, mainly&#13;
+for pharmaceuticals (World Health Organization 2009).&#13;
+One of the major functions of the NHF is to provide an Individual Benefit Package, and&#13;
+more than 50 percent of the NHF budget since its establishment has been allocated for&#13;
+Individual Benefits. NHF Individual Benefits include subsidies toward a range of&#13;
+prescribed pharmaceuticals for patients with specific chronic diseases.&#13;
+&#13;
+Eligibility&#13;
+&#13;
+All residents of Jamaica (except tourists, in-transit passengers, and temporary workers with&#13;
+a work permit for less than one year) suffering from NCDs are eligible to enroll in the&#13;
+Jamaica Drug for the Elderly Program (JADEP) and/or the NHF Card Program.&#13;
+Beneficiaries over 60 years of age enroll in the JADEP, while the NHF Card Program&#13;
+subsidizes drugs for people of all ages. The JADEP was launched in 1996 by the MOH as a&#13;
+national social assistance program to cover Jamaicans at least 60 years of age and&#13;
+diagnosed with of one or more chronic diseases. The NHF took over the JADEP from the&#13;
+MOH. Beneficiaries of the NHF Card Program are automatically enrolled in the JADEP at&#13;
+the age of 60. Those among the eligible population need to apply to be enrolled in the NHF&#13;
+or JADEP.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                           9&#13;
+&amp;#12;Benefit Packages&#13;
+&#13;
+The NHF Individual Benefit package is a drug subsidy program that covers 15 chronic&#13;
+illnesses: arthritis, asthma, benign prostatic hyperplasia or enlarged prostate, diabetes,&#13;
+ischemic heart disease, breast cancer, epilepsy, high cholesterol, major depression,&#13;
+rheumatic heart disease, glaucoma, prostate cancer, psychosis, vascular disease, and&#13;
+hypertension. NHF Individual Benefits cover only drugs prescribed by a registered&#13;
+practitioner or dispensed by authorized providers. The Medical Review Committee of the&#13;
+NHF Board periodically reviews the NHF Individual Benefits to include or exclude specific&#13;
+drugs.&#13;
+NHF subsidies are set at a fixed dollar value and are based on a reference pricing&#13;
+mechanism. The reference price is determined from the lowest available price of the active&#13;
+pharmaceutical ingredient. The subsidy is then set at 80 percent of the reference price. The&#13;
+current subsidy ranges between 47 percent to 75 percent of the retail prices of the drugs. 10&#13;
+&#13;
+Copayments&#13;
+&#13;
+Copayments under the NHF are relatively high. The NHF provides a subsidy toward the&#13;
+cost of the list of agreed drugs, based on the best market prices. Beneficiaries are required&#13;
+to make a copayment toward the cost of their drugs. The copayment for drugs has ranged&#13;
+from 25 to 53 percent.&#13;
+&#13;
+Provider Participation&#13;
+&#13;
+The NHF provides policy guidelines for providers participating in the NHF Individual&#13;
+program. To be eligible to participate in the NHF Individual program, providers need to&#13;
+meet the appropriate professional and medical standards required for accreditation by the&#13;
+NHF. Providers are not allowed to refuse services to NHF beneficiaries. The NHF&#13;
+providers are paid subsidies based on the price for the agreed drugs set by the NHF, and the&#13;
+remainder of the costs is covered either by commercial health insurance or out-of-pocket&#13;
+payments. Providers are required to prepare complete and accurate claims for the NHF&#13;
+payment, and to maintain adequate records, which are subject to audit by the NHF. All&#13;
+providers submit electronic claims and are reimbursed electronically within 10 working&#13;
+days of providing the service.&#13;
+&#13;
+Enrolment&#13;
+&#13;
+All patients seeking to obtain NHF Individual Benefits are required to enroll with the NHF.&#13;
+People need to present verification of their illness by a registered medical practitioner, and&#13;
+receive an NHF card. NHF beneficiaries are registered using their Tax Registration&#13;
+Number, which is a unique identifier.&#13;
+Eligible beneficiaries can enroll in the NHF at any government health center, the national&#13;
+council for senior citizens, or the NHF head office or its branches by providing the national&#13;
+&#13;
+10&#13;
+     Information provided by the NHF in December 2012.&#13;
+&#13;
+                                                                                           10&#13;
+&amp;#12;identification card and documents certifying their age. Application documents for both&#13;
+JADEP and NHF enrolment are available online through the NHF website. Personal&#13;
+appearance for enrolment in the JADEP is not required for seniors who submit the required&#13;
+documentation through an entrusted person.&#13;
+At its initiation, the NHF organized active outreach and public information programs to&#13;
+reach the eligible population. Awareness of the NHF Card and the JADEP among&#13;
+Jamaicans is high. The Jamaica Health and Lifestyle Survey, conducted in 2007 to 2008&#13;
+among 2,848 respondents aged 15 to 74, identified that 77 percent of the population (74&#13;
+percent of men and 80 percent of women) had heard of the NHF Card program and 9.5&#13;
+percent (7.1 percent of men and 11.9 percent of women) were enrolled in the NHF Card&#13;
+program. A higher proportion of women across all age categories have heard of the NHF&#13;
+Card, and while the proportion of men who have heard of the fund did not vary&#13;
+significantly with age, older women were more aware of the services than younger women&#13;
+(World Bank 2011).&#13;
+Since inception, NHF and JADEP enrolment has increased considerably over time.&#13;
+According to NHF administrative data, enrolments for the NHF increased from 42,147 in&#13;
+March 2004 to 297,336 in March 2012â&#128;&#148;a sevenfold increase in seven years (figure 5).&#13;
+JADEP participants increased from 102,552 in March 2005 to 237,919 in March 2012,&#13;
+resulting in a total of 535,255 program beneficiaries by March 2012, or about 19 percent of&#13;
+the Jamaican population.&#13;
+&#13;
+                   Figure 5 NHF Card and JADEP Enrolment, FY 2004â&#128;&#147;12&#13;
+&#13;
+         600,000&#13;
+         500,000&#13;
+         400,000&#13;
+                                                                      NHFCARD&#13;
+         300,000&#13;
+                                                                      JADEP&#13;
+         200,000&#13;
+                                                                      TOTAL&#13;
+         100,000&#13;
+              -&#13;
+                    04    05   06    07   08    09    10   11   12&#13;
+       Source: The information provided by NHF2012.&#13;
+&#13;
+6. Management of Public Funds in the NHF&#13;
+&#13;
+Allocation between Institutional and Individual Benefits&#13;
+&#13;
+The creation of the NHF in 2003 gave the government an additional instrument for pooling&#13;
+funds for financing and purchasing health services. On the supply side, the NHF&#13;
+Institutional Benefits program finances capital investment in the health sector, such as&#13;
+renovating and building health facilities and providing equipment. Proposals submitted to&#13;
+the NHF are reviewed and approved by an Institutional Subcommittee of the NHF Board.&#13;
+The Grant Agreement for an approved project is signed by the NHF and the implementing&#13;
+&#13;
+                                                                                        11&#13;
+&amp;#12;entity. This is one of the main ways that capital investment in health facilities at the&#13;
+regional and lower levels is funded.&#13;
+In addition to the investment program for health infrastructure, the NHF Institutional&#13;
+Benefits also finance public health activities, such as health promotion activities and health&#13;
+sector research programs. For example, the NHF funded the Jamaica Healthy Lifestyle&#13;
+Surveys, which have provided information and evidence useful for policy and program&#13;
+development. The Institution Benefits programs have maintained a similar level of funding&#13;
+after a significant drop in 2008, when Jamaica experienced a major blow from the global&#13;
+economic crisis. However, Institutional Benefits accounted for only 20 percent of NHF&#13;
+revenue in 2011.&#13;
+The NHF is also one of the major sources for financing treatment and care on the demand&#13;
+side, through individual NHF benefits. The majority of the funding under the NHF from&#13;
+2004 to 2012 was allocated to Individual Benefits, and the proportion of funding spent on&#13;
+Individual Benefits is likely to continue to increase given the expansion of membership and&#13;
+increased demand for drug subsidy payments. In 2004, at the inception of the NHF, only 10&#13;
+percent of total revenue was spent on Individual Benefits. This share increased to about 70&#13;
+percent in 2011.&#13;
+The Individual Benefits is the NHFâ&#128;&#153;s priority. It is a challenge to decide how the NHF&#13;
+should best use the resources available, and how to allocate the funds between its two&#13;
+programs to best achieve its mission. In the earlier years, Individual Benefits spending was&#13;
+relatively low and more funds were spent on Institutional Benefits. Current practice treats&#13;
+spending on Institutional Benefits as discretionary, and it is based on funds available after&#13;
+the Individual Benefits have been met (figure 6).&#13;
+&#13;
+                   Figure 6 NHF Expenditure Distribution, 2004â&#128;&#147;12 (in J$â&#128;&#153;000)&#13;
+&#13;
+        5,000.00&#13;
+        4,500.00&#13;
+        4,000.00&#13;
+        3,500.00&#13;
+        3,000.00                                                    Admin. Cost&#13;
+&#13;
+        2,500.00                                                    Public Inf. Cost&#13;
+        2,000.00                                                    Inst. Benefits&#13;
+        1,500.00                                                    Ind. Benefits&#13;
+        1,000.00&#13;
+          500.00&#13;
+            0.00&#13;
+                     2004 2005 2006 2007 2008 2009 2010 2011 2012&#13;
+&#13;
+       Source: The National Health Fund 2012.&#13;
+&#13;
+From the point of view of long-term development, the NHF should increase financing of its&#13;
+institutional programsâ&#128;&#148;that is, more funding for prevention and capacity building as&#13;
+opposed to financing of its individual programs, which focus on treatment. However, the&#13;
+reality is that funding for the NHF individual programs is more likely to rise because of&#13;
+                                                                                           12&#13;
+&amp;#12; increased demand for treatment. If total revenue is not increasing, then the individual&#13;
+ programs will likely absorb a larger share of the budget, and the institutional program may&#13;
+ suffer. The Ministry of Finance is aware of this and has promised to increase financing,&#13;
+ using the newly introduced gas tax and setting a new threshold for the National Insurance&#13;
+ Scheme. However, the primary mitigation measure when facing a serious financial&#13;
+ difficulty would be to reduce the number of institutional projects financed, not the numbers&#13;
+ enrolled (The Gleaner 2009).&#13;
+&#13;
+ Management of the Benefit Package&#13;
+&#13;
+ Benefit coverage of the NHF has been increasing. NHF beneficiaries were eligible,&#13;
+ initially, to purchase 182 drugs at a subsidized price at 200 Provider Pharmacies across the&#13;
+ country. By the 2009 fiscal year, the total number of items on the NHF drug list had&#13;
+ reached 1,288, and the total number of Provider Pharmacies had increased to 422. A total of&#13;
+ 2.6 million claims were submitted in 2011, with a total value of J$4.65 billion, and the NHF&#13;
+ paid J$2.56 billion, equivalent to a 55 percent subsidy (table 1).&#13;
+&#13;
+                         Table 1 NHF Claims and Subsidy Rates, 2003â&#128;&#147;12&#13;
+Year       Number of   Total Claims     Number of       Total Cost of      Total Subsidy         %&#13;
+             People                     Claims per   Claims Submitted            Paid          Subsidy&#13;
+            Claiming                     Member          (in J$, 2012   (in J$, 2012 prices)&#13;
+                                                            prices)&#13;
+       a&#13;
+2003         3,433        8,222            2.4         J$1,821,275          4,464,001            34&#13;
+2004        13,085        62,980           4.8         J$15,762,997         34,298,481           39&#13;
+&#13;
+2005        30,887       258,096           8.4        J$108,217,168        221,398,809           48&#13;
+&#13;
+2006        69,890       779,173           11.1       J$491,260,150       1,056,102,039          60&#13;
+2007        104,547     1,453,607          14        J$1,128,487,380      1,990,690,617          59&#13;
+2008        126,962     1,829,611          14.4      J$1,970,177,014      2,269,245,367          57&#13;
+2009        145,018     2,124,880          14.6      J$3,014,326,009      2,574,921,851          51&#13;
+2010        156,910     2,324,455          14.8      J$3,730,397,417      2,443,450,853          49&#13;
+2011        171,313     2,643,439          15.4      J$4,335,145,099      2,742,259,393          55&#13;
+       b&#13;
+2012        138,719      742,561           5.3       J$1,273,691,062       733,694,048           58&#13;
+ Source: National Health Fund 2012.&#13;
+ a. Data for August to December 2003.&#13;
+ b. Data for January to March 2012.&#13;
+&#13;
+&#13;
+ The total number of prescriptions claimed reached J$2.6 million, with an average of J$15.3&#13;
+ claims per memberâ&#128;&#148;a more than fivefold increase since NHF inception in 2003. While the&#13;
+ number of eligible drugs for NHF financing and the number of claims has increased&#13;
+ significantly, the reimbursement rate by the NHF did not necessarily increase. In 2010, the&#13;
+ average portion subsidized was reduced to below 50 percent. Clearly, to avoid a deficit, the&#13;
+ NHF reduced its subsidies and the financial risks were borne by consumers.&#13;
+&#13;
+                                                                                                         13&#13;
+&amp;#12;The NHF has successfully managed its benefit package within its resource envelope.&#13;
+Overall, the NHF has maintained its financial sustainability by keeping expenditure within&#13;
+its revenue (figure 7). The NHF has been closely monitoring the claims and adjusted the&#13;
+reimbursement rates to avoid an overrun of its annual budget for Individual Benefits. The&#13;
+subsidy is set at a fixed amount per item, based on reference pricing. Managing the benefit&#13;
+package became a tool for cost control and cost sharing to deal with the increasing&#13;
+expenditure on drugs. The NHF provides the benefits based on the revenue it receives and&#13;
+does not bear any risk of an overrun. This approach allows the NHF to be financially&#13;
+viable. However, it offers less financial protection for NCD patients and their families. The&#13;
+financial risk pooling under the NHF is still limited.&#13;
+&#13;
+                     Figure 7 NHF Revenue and Expenditure Distribution, 2004â&#128;&#147;12 (in J$â&#128;&#153;000)&#13;
+&#13;
+&#13;
+            6000.0&#13;
+                                                                        Total Revenue&#13;
+            4000.0&#13;
+in J$'000&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                        Total Exp.&#13;
+            2000.0                                                      Total revenue in 2012 price&#13;
+                                                                        Total Exp. In 2012 price&#13;
+               0.0&#13;
+                       04   05   06   07   08   09   10   11   12&#13;
+Source: National Health Fund 2012.&#13;
+&#13;
+Assessing Impact of the Individual Benefits&#13;
+&#13;
+The NHF has achieved its primary goal of making NCD drugs more affordable. The World&#13;
+Bank conducted a study to assess the initial impact of the NHF drug subsidy program in&#13;
+reducing out-of-pocket spending on health care by NCD patients and in utilizing health&#13;
+care, comparing NCD patients with non-NCD patients. The results from the study indicate&#13;
+that NCD patients under the NHF paid less out-of-pocket for their pharmaceuticals than&#13;
+NCD patients without NHF coverage (World Bank 2011). Thus, the NHF improved access&#13;
+to care for NCD patients. People with NHF cards in general spent less on pharmaceuticals&#13;
+but more on medical services because medical expenditures are not covered by the NHF.&#13;
+The total medical expenditure for NCDs did not show a reduction after the introduction of&#13;
+the NHF, because the savings on pharmaceuticals were spent on additional medical&#13;
+consultations.&#13;
+&#13;
+The NHF increased access to secondary prevention of NCDsâ&#128;&#148;that is, to health care to stop&#13;
+or slow diseases from progressing to advanced stagesâ&#128;&#148;by making the treatment of major&#13;
+NCDs more affordable, in part by removing, to a certain degree, financial barriers to access&#13;
+such treatment. Even though data on the status of illness for NCD patients before and after&#13;
+the NHF are not available, based on international evidence on using pharmaceutical&#13;
+treatment as secondary prevention, it can be expected that the NHF could play a role in&#13;
+secondary prevention of NCDs in Jamaica.&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                      14&#13;
+&amp;#12;The NHF Reference Pricing policy would have an impact on the pharmaceutical market in&#13;
+Jamaica. The reference price the NHF used is based on the lowest available price of the&#13;
+active pharmaceutical ingredient, and the subsidy is then set at 80 percent of the reference&#13;
+price. This method encourages pharmacies to use generic drugs and puts pressure on the&#13;
+pharmaceutical market for lower prices. However, due to lack of data, this paper cannot&#13;
+provide an in-depth analysis on the impact of the NHFâ&#128;&#153;s drug subsidy program on&#13;
+pharmacetutical prices in Jamaica.&#13;
+Distribution of NHF benefits is unequal among socioeconomic groups. The NHF focus is&#13;
+on people with NCDs and people in old age, and does not target the poor specifically. The&#13;
+rich benefited more from the government subsidy of pharmaceuticals, and they spent 36&#13;
+percent less on drugs in 2007 than they did in 2000, before the establishment of the NHF.&#13;
+They are also more likely to join the NHF and JADEP. The expenditure on prescription&#13;
+drugs among the poorest quintile has increased slightly (figure 8).&#13;
+&#13;
+Figure 8 Individual Annuala Medical Expenditures before and after the NHF among the NCD&#13;
+                      Population (in J$1,000 at constant 2008 values)&#13;
+&#13;
+&#13;
+                            Richest 20 percent&#13;
+  expenditure expenditure&#13;
+                Medical&#13;
+                service&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                            Poorest 20 percent&#13;
+                                All Population&#13;
+                            Richest 20 percent&#13;
+  prescription&#13;
+   medicine&#13;
+&#13;
+&#13;
+     drug&#13;
+      and&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                            Poorest 20 percent&#13;
+                                All Population&#13;
+&#13;
+                                                 $0   $10    $20   $30   $40   $50   $60   $70   $80&#13;
+&#13;
+                                                      2007    2001&#13;
+&#13;
+Sources: World Bank 2011.&#13;
+Note: a. Two-year expenditure data were combined and annualized for 2000 and 2001 before the NHF, and&#13;
+2006 and 2007 after the NHF, in order to expand the study sample size.&#13;
+&#13;
+Overall, with respect to the goal of improving universal access to care, the NHF did&#13;
+succeed in achieving improved utilization and reduced out-of-pocket spending for NCD&#13;
+patients. However, the NHF failed to target the poor, who needed the drug subsidy the&#13;
+most. The rich benefit more from the governmentâ&#128;&#153;s subsidy programs; thus, there is&#13;
+increased inequality in access to care.&#13;
+&#13;
+7. Information Environment&#13;
+&#13;
+The NHF receives claims from providers only, not from beneficiaries, thus it requires&#13;
+providers to keep proper records. Service providers are reimbursed an agreed amount for&#13;
+each benefit item on a fee-for-service basis.&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                       15&#13;
+&amp;#12;The NHF information system records its membersâ&#128;&#153; personal information, health status, and&#13;
+use of NHF services. Processing transactions between the provider and the NHF is&#13;
+computerized online and in real timeâ&#128;&#148;the provider connects the transaction via the Internet&#13;
+or a telephone line. The NHF adjudicates the claim immediately after validating the&#13;
+provider, the beneficiary, the NHF card, the benefit item, and claim frequency. Once the&#13;
+system accepts the claim, the NHF pays the provider. The manual submission of claims is&#13;
+allowed, but providers have incentives to use the computerized system to avoid delays in&#13;
+the adjudication process and in the receipt of payment. This system validates and records&#13;
+provider, beneficiary, and utilization information.&#13;
+Claims data are transferred to the NHF data provider and beneficiary databases. The NHF&#13;
+has information on the use of the benefit by each member, and on each prescription filled&#13;
+by each registered provider. Such data are used to monitor utilization and to set&#13;
+reimbursement rates for drugs.&#13;
+The NHF information system is not linked to other information systems in the health sector&#13;
+or the National Insurance Scheme. The degree of fragmentation in information management&#13;
+and the lack of human resources capacity in the NHF have hampered the use of the data&#13;
+collected for policy analyses. For example, the NHF information system can monitor the&#13;
+behavior of doctors in prescribing drugs. Such data could provide a powerful tool for&#13;
+promoting rational drugs use and improve efficiency in using prescription drugs, but the&#13;
+NHF has yet to use this tool fully.&#13;
+&#13;
+8. The Goal of Universal Access and the Abolition of User Fees&#13;
+&#13;
+Achieving universal health care coverage (â&#128;&#156;Health Security for Allâ&#128;?) has been a long-term&#13;
+goal for Jamaica. In a context of limited fiscal space and financial resources, the&#13;
+government has been struggling to find ways to secure financing for health and provide&#13;
+universal access to health care. Out-of-pocket spending has been a major source of health&#13;
+financing in Jamaica. Early in this decade, more than half of the total health expenditures&#13;
+were for private health services and 83 percent of that spending was out-of-pocket (WHO&#13;
+2009). User fees contributed 10.2 percent of the revenue of RHAs in 2006/07.&#13;
+Jamaicaâ&#128;&#153;s economy has been affected by the global economic crisis. The GDP growth rate&#13;
+started falling from a high of 2.7 percent in 2006 to minus 2.8 percent in 2009.&#13;
+Unemployment rates have increased. The debt-to-GDP ratio was 132 percent in 2009.&#13;
+Economic recession, high unemployment, and the global escalation of health care costs&#13;
+have made it increasingly difficult for households to afford health care. User fees were&#13;
+considered a â&#128;&#156;major impedimentâ&#128;? for poor people in accessing health care. In April 2008,&#13;
+the government abolished user fees at public health facilities, and all people have access to&#13;
+health care free of charge. A provision of $J1 billion was made in the 2008/09 budget,&#13;
+partially to compensate for lost revenue of $J1.7 billion from user fees (Jamaica&#13;
+Government n.d.).&#13;
+This policy change had significant impact on access to and utilization of health care. To&#13;
+assess the impact of the abolition of user fees on access to and utilization of health care, the&#13;
+World Bank carried out a comparative analysis of the situation before and after the policy&#13;
+change, using the 2007, 2008, and 2009 Jamaica Survey of Living Conditions. 11 The results&#13;
+11&#13;
+     A policy analysis conducted by Yuyan Shi, consultant to the World Bank (2011).&#13;
+&#13;
+                                                                                             16&#13;
+&amp;#12;of this analysis indicate that both the poor and rich have benefited from the removal of user&#13;
+fees, and utilization of health care has substantially increased.&#13;
+Visits to health care services increased by roughly 5 percent each year from 2007 to 2009.&#13;
+This policy was initially considered a success in improving access to universal coverage.&#13;
+All population quintiles have benefited from the abolition of user fees, particularly the poor&#13;
+in 2008. The utilization of health facilities has increased compared to before the abolition&#13;
+of user fees for all the population, particularly for the poor immediately after the fee&#13;
+removal. The poorest population shows a 10 percent increase in health care facility visits,&#13;
+and the richest a 9 percent increase. An analysis of the initial impact has shown that&#13;
+abolishing user fees at public health facilities has further widened the gaps between the&#13;
+poor and the better-off population in using services from public compared to private health&#13;
+facilities 12 (figure 9).&#13;
+&#13;
+          Figure 9 Health Care Service Visits by Population Quintile and Facility Type (in %)&#13;
+&#13;
+     90&#13;
+     80&#13;
+     70&#13;
+     60                                                                                Poorest 20%&#13;
+     50                                                                                2nd quintile&#13;
+     40&#13;
+                                                                                       3rd quintile&#13;
+     30&#13;
+                                                                                       4th quintile&#13;
+     20&#13;
+                                                                                       Richest 20%&#13;
+     10&#13;
+      0&#13;
+            2007     2008     2009   2007    2008     2009    2007     2008     2009&#13;
+                 All Facilities         Public Facilities        Private Facilities&#13;
+&#13;
+Source: Analysis of Jamaica Surveys of Living Conditions 2007â&#128;&#147;2009.&#13;
+&#13;
+&#13;
+The richest quintile visited private facilities for care more frequently than before (these&#13;
+facilities accounted for 83 percent of their visits in 2009, up from 71 percent in 2007),&#13;
+while the lowest two quintiles were more likely to choose public facilities. The majority of&#13;
+the poor used public facilities in 2009. However, increased use of public health services put&#13;
+a heavy burden on the public health system, which was already considered inefficient and&#13;
+lacking in human resources and with poor infrastructure and equipment. Complaints are on&#13;
+the rise regarding long waiting times, insufficient supplies, and the poor quality of services&#13;
+in public facilities. 13 The data from 2009 showed an increasing trend of using private health&#13;
+facilities even among the poorest quintile. The evidence clearly indicates that abolishing&#13;
+user fees has further driven the rich to use private health providers. The distribution of&#13;
+&#13;
+12&#13;
+     More recent household data were not available for this analysis.&#13;
+13&#13;
+     Based on field visits to health facilities and discussions with health workers.&#13;
+&#13;
+                                                                                                      17&#13;
+&amp;#12;health spending and access to health services is uneven among the population and across&#13;
+geographic areas. Jamaicaâ&#128;&#153;s experience in the abolition of user fees is not unique. Uganda&#13;
+reported a similar experience when it abolished user fees in public health facilities.&#13;
+Abolition of user fees improved access to health services but did not achieve financial&#13;
+protection. Out-of-pocket expenditure remains high and mainly affects the poor, and a dual&#13;
+system emerges where the wealthier population is switching to the private sector (Orem et&#13;
+al. 2011).&#13;
+Analysis of the Jamaica Survey of Living Conditions data also reveals that doing away with&#13;
+the user fees did not have much impact on the use of prescription drugs or the NHF&#13;
+Individual Benefits program. The pattern in prescription drug purchases was relatively&#13;
+stable before and after the abolition of user fees. There was a slight decrease in the&#13;
+percentage of patients that procured pharmaceuticals in 2008, and the level returned to that&#13;
+of before the user fee removal in 2009 (figure 10). About 73 percent of the population&#13;
+reporting ill purchased drugs in 2007, as in 2009, but there was a slight reduction in 2008&#13;
+(69 percent). The majority of patients purchased drugs from private facilities, which&#13;
+account for roughly 80 percent of total purchasesâ&#128;&#148;ranging from 64 percent for the poorest&#13;
+quintile to 96 percent for the richest quintile in 2009. Health spending increases&#13;
+proportionally with greater income, and the data reported by STATIN and PIOJ (2010) also&#13;
+suggest an urban/rural divide. Access to health insurance is higher among the richest&#13;
+quintile than the poorest (20.8 percent compared to 13.6 percent).&#13;
+&#13;
+       Figure 10 Percentage of Population who Reported Ill and who Procured Drugs&#13;
+                                   by Quintile, 2007â&#128;&#147;09&#13;
+&#13;
+          90&#13;
+          80&#13;
+          70&#13;
+          60&#13;
+          50                                                                  2007&#13;
+          40                                                                  2008&#13;
+          30&#13;
+                                                                              2009&#13;
+          20&#13;
+          10&#13;
+           0&#13;
+               Poorest     2nd         3rd        4th      Richest&#13;
+                20%       quintile   quintile   quintile    20%&#13;
+&#13;
+       Source: Anlysis of Jamaica Surveys of Living Conditions 2007â&#128;&#147;2009.&#13;
+&#13;
+&#13;
+More people are using private health services. PAHOâ&#128;&#153;s 2012 report pointed out that the&#13;
+abolition of user fees led to greater use of the services. However, it became difficult to meet&#13;
+the growing demand and funding fell short, despite the subsidies provided to compensate&#13;
+for the loss of the revenue. People at every income level increasingly sought private&#13;
+medical care (PAHO 2012).&#13;
+&#13;
+&#13;
+                                                                                            18&#13;
+&amp;#12;One of the current policy debates is related to whether the abolition of user fees, with the&#13;
+increasing budget allocation to the public sector, has achieved the ultimate goal of&#13;
+improving universal access to health care. Some argue that those who now have access to&#13;
+health care due to the removal of user fees would be no better off if quality of care is&#13;
+lacking because of insufficient supplies or personnel, resulting in poorer quality of care.&#13;
+The MOH is considering whether to reinstate user fees, so that the better-off population&#13;
+groups, which can afford to pay, contribute to revenue for health facilities to improve the&#13;
+quality of care. However, there are concerns that user fees would detract from the countryâ&#128;&#153;s&#13;
+efforts to achieve universal access to care. The next section considers some policy&#13;
+options. 14&#13;
+&#13;
+9. Pending Agenda&#13;
+&#13;
+In theory, Jamaica has achieved universal access to health care. In practice, such coverage&#13;
+is incomplete and inadequate. The abolition of user fees did not guarantee universal access&#13;
+to care, particularly for the poor. Subsidizing the loss of revenue from user fees could be&#13;
+difficult to sustain. The government clearly needs to explore other options to advance&#13;
+universal coverage. The following are some options that the government might consider.&#13;
+&#13;
+Expanding the Role of the NHF&#13;
+&#13;
+The NHF has been operational for eight years and is at a crossroad regarding its future role&#13;
+and functions. The macroeconomic and fiscal constraints present the NHF with more&#13;
+challenges than ever before. However, past operational experience and newly available&#13;
+information may help policy makers make smarter decisions on the next phase of NHF&#13;
+development. Specific issues that have arisen are discussed here.&#13;
+&#13;
+NHF as Health Service Financier&#13;
+&#13;
+The NHF has been a successful health financing instrument, generating a steady income for&#13;
+health services. The NHF not only subsidizes prescription drugs for NCD patients, but also&#13;
+provides funding for health infrastructure improvement and public health activities, such as&#13;
+health promotion. This is the major difference between the NHF and other systems in the&#13;
+Caribbean region, such as the Barbados Drug Scheme and Trinidad and Tobagoâ&#128;&#153;s Chronic&#13;
+Disease Assistance Plan. The government has increased the budget of the MOH out of&#13;
+general taxation revenue to compensate for loss of income from the abolition of user fees;&#13;
+however, it still has not met the increased demand or increased the financial protection. The&#13;
+government might consider increasing NHF funding from general taxation and using the&#13;
+NHF as financier for health services, particularly for the poor, while the better-off&#13;
+population can contribute through copayment based on their income level. This will further&#13;
+expand the pooling of financial risk for health care and improve equity in access to care.&#13;
+&#13;
+&#13;
+&#13;
+14&#13;
+  Based on the discussion between the World Bank health mission and MOH policy makers in 2011 and&#13;
+2012.&#13;
+&#13;
+                                                                                              19&#13;
+&amp;#12;NHF as Health Service Purchaser&#13;
+The NHF treats public and private providers equally, and gives beneficiaries a free choice&#13;
+to select a provider. It encourages competition between public and private providers on&#13;
+service and price. This policy has not been implemented without controversy. Since its&#13;
+implementation in 2004, the majority of NHF beneficiaries have chosen private providers.&#13;
+That has raised the concern that public funds are being used to support the private sector.&#13;
+Others believe that allowing provider choice makes the NHF more efficient and increases&#13;
+the quality of health care services. Given that the prescription drug market is imperfect and&#13;
+that prices for life-saving drugs are inelastic, rigorous monitoring and regulation by the&#13;
+government are needed to avoid a monopoly by the private sector, particularly the&#13;
+pharmaceutical industry. The NHFâ&#128;&#153;s reference pricing policy and promotion of the use of&#13;
+generic drugs would affect the pharmaceutical market in Jamaica. The NHF has assumed&#13;
+procurement of drugs for public facilities; it would have more influence on pricing of&#13;
+drugs.&#13;
+The current structure of the public health sector has limited mechanisms to finance civil&#13;
+society organizations and NGOs to carry out public-health-related activities, such as&#13;
+HIV/AIDS prevention and health behavior promotion. The NHF has already financed&#13;
+health promotion activities and could further serve as a purchaser for the government to&#13;
+finance public health activities. The Subcommittee on Institutional Benefits could call for&#13;
+proposals for public-health-related activities from both the public and private sectors. It&#13;
+could select the organizations that are best placed to implement these activities, with the&#13;
+result that NHF financing and payments can be based on results rather than on inputs.&#13;
+The NHF has been a well-run entity, and the government is considering assigning it&#13;
+additional responsibilities. The first possible expansion of the Individual Benefits program&#13;
+is to transfer the financing and procuring of HIV/AIDS drugs from the MOH to the NHF.&#13;
+By doing so, the government could provide additional funds to the NHF. The MOH is&#13;
+assessing the feasibility of this transfer.&#13;
+&#13;
+Expand Benefit Coverage under the NHF&#13;
+&#13;
+The benefit package under the NHF is limited. The level of out-pocket-spending is still&#13;
+high. The increased government financing through the MOH budget does not produce&#13;
+improved access or better health outcomes from the public sector. The NHF could serve as&#13;
+an existing mechanism and institution for the government to further advance universal&#13;
+coverage through three dimensions: breadth, depth, and extent of coverage. The breadth of&#13;
+coverage is the number of population groups covered. The depth of coverage concerns the&#13;
+types of services covered. The extent of coverage refers to the degree of financial&#13;
+protection.&#13;
+    â&#128;¢   Breadth of coverage. As a first step, the NHF needs to expand its population&#13;
+        coverage, particularly to the poor and vulnerable populations in remote rural areas.&#13;
+        As a second step, the NHF could expand population coverage eligibility to cover&#13;
+        more illnesses and more of the population. In addition to its normal targeting&#13;
+        (focusing on age and type of illness), the NHF could consider geographic targeting,&#13;
+&#13;
+&#13;
+&#13;
+                                                                                          20&#13;
+&amp;#12;        by expanding enrolment in areas where poverty, disease, and violence are&#13;
+        concentrated.&#13;
+    â&#128;¢   Depth of coverage. If the government would like to use the NHF to achieve&#13;
+        universal coverage, it needs to gradually expand coverage of servicesâ&#128;&#148;not only&#13;
+        more pharmaceuticals, but also more medical services. The NHF needs to assess&#13;
+        both the effectiveness of the prevention programs it finances and the drug subsidy&#13;
+        programs, and it needs to strike the appropriate balance between prevention and&#13;
+        drug subsidy programs.&#13;
+    â&#128;¢   Extent of coverage. The current drug subsidies cover less than 60 percent of costs,&#13;
+        with 40 percent of the cost of drugs borne by patients. This high copayment does&#13;
+        not provide patients with enough financial protection. Further expansion of the&#13;
+        NHF could cover a higher percentage of cost through public funding. To increase&#13;
+        financial protection and risk sharing, the NHF needs to further expand its pool of&#13;
+        revenues.&#13;
+&#13;
+Ensure the Financial Sustainability of the NHF&#13;
+&#13;
+Long-term financial sustainability requires the balancing of revenues against liabilities. The&#13;
+NHF has drafted a Strategy Plan for 2005 to 2030, â&#128;&#156;Securing the Future,â&#128;? to understand&#13;
+more clearly the factors that affect its sustainability and identify strategies to address them.&#13;
+In developing this Strategy Plan, the NHF management reviewed each source of revenue&#13;
+and the key factors that affect the revenue and expenditures of the NHF program. Its&#13;
+diversified sources of income have provided the NHF with a more balanced revenue&#13;
+stream, which has made it less vulnerable to the changing economic environment. The&#13;
+global economic crisis that affected Jamaica led to a reduction in income from both tobacco&#13;
+and special consumption taxes in 2008, but income from the payroll deduction nevertheless&#13;
+has continued to increase, thereby increasing NHF total revenue.&#13;
+The future increase of NHF resources will depend on general taxation. The tobacco excise&#13;
+tax is one of the three major sources of income for the NHF. Initially, the Strategy Plan&#13;
+estimated more revenue from tobacco excise taxes. Revenue from tobacco excise declined,&#13;
+however, when the major cigarette manufacturing plant relocated to Trinidad and Tobago&#13;
+in 2006. Payroll deduction then became the major source of financing for the NHF. The&#13;
+Strategy Plan does not envisage a major revenue increase from either payroll or special&#13;
+consumption taxes, with a result that no significant revenue increase is anticipated unless&#13;
+other sources of revenue are identified. The NHF Strategy Plan analyzes the future burden&#13;
+of disease and potential financing scenarios. To expand the benefit package in any&#13;
+direction, the NHF needs further financing from general taxation.&#13;
+Sustainability will also depend on increased health care efficiency and effectiveness. With&#13;
+limited economic growth and a weak taxation system in Jamaica, the chance for revenue&#13;
+increases for the NHF from general tax is not likely. In the short term, the NHF will need to&#13;
+improve its efficiency through better targeting, better procurement, and reduced duplication&#13;
+and waste in the system.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                             21&#13;
+&amp;#12;Potential Future Development of National Health Insurance&#13;
+&#13;
+The design of the NHF was envisioned as a first phase in the development of a national&#13;
+health insurance plan. The NHF in its current form is far from being a national health&#13;
+insurance plan; it covers less than 20 percent of the population and provides limited&#13;
+subsidies for a limited list of drugs. However, it serves as an important building block for a&#13;
+move toward eventually providing universal access to health care in the country. For that&#13;
+reason, policy makers are considering expanding the benefits coverage of the NHF. One&#13;
+option under discussion is to allocate to the NHF the government budget that has been&#13;
+earmarked to replace the income loss from user fees, and to use the NHF as a purchaser and&#13;
+financier for the most vulnerable population, while at the same time expanding the benefit&#13;
+package to offer a wider range of health services. As the NHF gradually expands it&#13;
+functions and coverage, it would move toward the national health insurance model.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                           22&#13;
+&amp;#12;                                                             Annex 1 Spider Web&#13;
+&#13;
+                            I. Outcomes comparisons:&#13;
+                   Jamaica and Upper Middle Income Countries&#13;
+                                                                                           Note on interpretation:&#13;
+                                                                                           In this plot â&#128;&#152;higherâ&#128;&#153; is â&#128;&#152;worseâ&#128;&#153; â&#128;&#147; since&#13;
+                                                                                           these indicators are positive measures&#13;
+                                                                                           of mortality / morbidity. Life&#13;
+                                                                                           expectancy is converted to be an&#13;
+                                                                                           inverse measure.&#13;
+&#13;
+                                                                                           The values on the radar plot have&#13;
+                                                                                           been standardized with respect to the&#13;
+                                                                                           average upper middle income country&#13;
+                                                                                           value.&#13;
+&#13;
+                                                                                           The table below summarizes outcome&#13;
+                                                                                           comparisons with the average upper&#13;
+                                                                                           middle income country (UMIC).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+IMR: Infant mortality rate (2010). U5MR: Under-5 mortality rate (2010). Stunting: prevalence of low height-for-age among children under 5 (2010). MMR: Maternal&#13;
+mortality rate (2010) per 100 000 live births. Adult mortality: Adult mortality rate per 1000 male adults (2010). [100-(life expectancy)]: Life expectancy at birth&#13;
+(2010) subtracted from maximum of 100. Neonatal mortality: Neonatal mortality per 1000 living births. CD as cause of death: Communicable diseases as cause of&#13;
+death (% total). All data from World Bank's World Development Indicators. Income averages for stunting calculated by Bank staff and are unweighted.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                             II. Inputs comparisons&#13;
+                   Jamaica and Upper Middle Income Countries&#13;
+                                                                                           Note on interpretation:&#13;
+                                                                                           This plot shows indicators which&#13;
+                                                                                           measure spending on health or the&#13;
+                                                                                           number of health workers per&#13;
+                                                                                           population.&#13;
+&#13;
+                                                                                           The values on the radar plot have&#13;
+                                                                                           been standardized with respect to&#13;
+                                                                                           the average upper middle income&#13;
+                                                                                           country value.&#13;
+&#13;
+                                                                                           The table below summarizes inputs&#13;
+                                                                                           comparisons with the average upper&#13;
+                                                                                           middle income country (UMIC).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+THE as % of GDP: Health expenditure, total (% of GDP) (2010). Hospital bed density: Hospital beds per 1,000 people (latest available year). Physician density: Physicians&#13;
+per 1,000 people (latest available year). Nurse/midwife density: Nurses and midwives per 1,000 people (latest available year). GHE as % of THE/10: Public health&#13;
+expenditure (% of total expenditure on health) (2010). All data from World Bank's World Development Indicators.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                                            23&#13;
+&amp;#12;                             III. Coverage comparisons&#13;
+                    Jamaica and Upper Middle Income Countries&#13;
+                                                                                            Note on interpretation:&#13;
+                                                                                            In this plot â&#128;&#152;higherâ&#128;&#153; is â&#128;&#152;betterâ&#128;&#153; â&#128;&#147; since&#13;
+                                                                                            these     indicators      are    positive&#13;
+                                                                                            measures. In this case, all are percent&#13;
+                                                                                            of the population receiving or having&#13;
+                                                                                            access to a certain health related&#13;
+                                                                                            service.&#13;
+&#13;
+                                                                                            The values on the radar plot have&#13;
+                                                                                            been standardized with respect to&#13;
+                                                                                            the average upper income country&#13;
+                                                                                            value.&#13;
+&#13;
+                                                                                            The table below summarizes&#13;
+                                                                                            coverage comparisons with the&#13;
+                                                                                            average upper middle income&#13;
+                                                                                            country (UMIC).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+ DPT immunization: % of children aged 12-23 months with DPT immunization (2010). Prenatal services: % of pregnant women receiving prenatal care (latest available&#13;
+ year). Contraceptive prevalence: % of women ages 15-49 using contraception (latest available year). Skilled birth attendance: % of all births attended by skilled health&#13;
+ staff (latest available year). Improved sanitation: % of population with access to improved sanitation facilities (2010). TB treatment success: Tuberculosis treatment&#13;
+ success rate (% of registered cases). All data from World Bank's World Development Indicators.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                        IV. Infrastructure comparisons&#13;
+                  Jamaica and Upper Middle Income Countries&#13;
+                                                                                            Note on interpretation:&#13;
+                                                                                            In this plot â&#128;&#152;higherâ&#128;&#153; is â&#128;&#152;betterâ&#128;&#153; â&#128;&#147; since&#13;
+                                                                                            these     indicators      are    positive&#13;
+                                                                                            measures of provision of certain&#13;
+                                                                                            good / service, and a measure of&#13;
+                                                                                            urban development.&#13;
+&#13;
+                                                                                            The values on the radar plot have&#13;
+                                                                                            been standardized with respect to&#13;
+                                                                                            the average upper middle income&#13;
+                                                                                            country value.&#13;
+&#13;
+                                                                                            The table below summarizes&#13;
+                                                                                            infrastructure comparisons with the&#13;
+                                                                                            average upper middle income&#13;
+                                                                                            country (UMIC).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Paved roads: % of total roads paved (most recent). Internet users: users per 100 people (2010, with some estimates from prior years). Mobile phone users: mobile&#13;
+cellular subscriptions per 100 people (2010). Access to improved water: % of population with access to improved water source (2010). All data from World Bank's&#13;
+World Development Indicators.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                                            24&#13;
+&amp;#12;                         V. Demography comparisons&#13;
+                  Jamaica and Upper Middle Income Countries&#13;
+                                                                                        Note on interpretation:&#13;
+                                                                                        Indicators here measure births per&#13;
+                                                                                        woman, the extent of rurality, and&#13;
+                                                                                        the number of dependents.&#13;
+&#13;
+                                                                                        The values on the radar plot have&#13;
+                                                                                        been standardized with respect to&#13;
+                                                                                        the average upper middle income&#13;
+                                                                                        country value.&#13;
+&#13;
+                                                                                        The table below summarizes&#13;
+                                                                                        demographic indicators comparisons&#13;
+                                                                                        with the average upper middle&#13;
+                                                                                        income country (UMIC).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+TFR: total fertility rate (births per woman), 2009. Dependency ratio: % of working-age population (2010) aged less than 15 or more than 64. Youth dependency: % of&#13;
+working-age population (2010) aged less than 15. Rurality: % of total population in rural areas (2010). All data from World Bank's World Development Indicators.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                                     25&#13;
+&amp;#12;                                      References&#13;
+&#13;
+&#13;
+Barrett, Raphael D., and Stanley Lalta. 2004. â&#128;&#156;Health Financing Innovations in the&#13;
+      Caribbean: EHPO and the National Health Fund of Jamaica.â&#128;? Inter-American&#13;
+      Development Bank Sustainable Development Department Technical Papers Series,&#13;
+      November.&#13;
+Gordon-Strachan, G., and L. Brenzel. 2010. â&#128;&#156;Rapid Assessment of the Impact of the&#13;
+      Economic Crisis on Health Spending in Jamaica.â&#128;? World Bank Working Paper,&#13;
+      World Bank, Washington, DC.&#13;
+GOJ (Government of Jamaica). 2009. â&#128;&#156;Vision 2030 Jamaica National Development Plan â&#128;&#147;&#13;
+     Draft Health Sector Plan.â&#128;? The Health Sector Task Force. www.vision2030.gov.jm.&#13;
+NHF (National Health Fund). 2008. â&#128;&#156;2008 Annual Report.â&#128;? National Health Fund, Jamaica&#13;
+    Ministry of Health and Environment.&#13;
+NHF (National Health Fund). 2009. â&#128;&#156;2009 Annual Report.â&#128;? National Health Fund, Jamaica&#13;
+    Ministry of Health and Environment.&#13;
+NHS Choices. n.d. Accessed June 2011. http://www.nhs.uk/change4life/Pages/change-for-&#13;
+    life-families.aspx.&#13;
+Orem, J. F. Mugisha, C. Kirunga, J. Macq, and B. Criel. 2011 â&#128;&#156;Abolition of User Fees: The&#13;
+    Uganda Paradox.â&#128;? Health Policy and Planning 26: ii41â&#128;&#147;ii51.&#13;
+PAHO (Pan-America Health Organization). 2012. â&#128;&#156;Health in the Americas.â&#128;? Pan-America&#13;
+   Health Organization, Washington, DC.&#13;
+STATIN and PIOJ. 2010. The database developed by the Statistical Institute of Jamaica&#13;
+    (STATIN) and the Planning Institute of Jamaica (PIOJ). www.jamstats.gov.jm.&#13;
+The Gleaner. 2009. â&#128;&#156;NHF Could Collapse â&#128;&#147; Cash Problems Loom.â&#128;? http:www.Jamaica-&#13;
+     gleaner.com/gleaner/20090906/lead/lead7.html.&#13;
+WHO (World Health Organization). 2009. World Health Statistics 2009.&#13;
+   http:/www.who.int.WHO (World Health Organization). 2010. World Health&#13;
+   Organization. Health Expenditure database.&#13;
+WHO (World Health Organization). 2011. World Health Statistics 2011. www.who.int.&#13;
+World Bank. 2011. â&#128;&#156;The Non-Communicable Diseases in Jamaica: Moving from&#13;
+     Prescription   to     Prevention.â&#128;? World Bank,    Washington,   DC.&#13;
+     http://www.worldbank.org/lac.&#13;
+World Bank. 2012. â&#128;&#156;Jamaica Country Profile.â&#128;? World Bank, Washington, DC.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                      26&#13;
+&amp;#12;27&#13;
+&amp;#12;The World Bank supports the efforts of countries to share prosperity by&#13;
+transitioning toward universal health coverage (UHC) with the objectives of&#13;
+improving health outcomes, reducing the financial risks associated with ill&#13;
+health, and increasing equity. The Bank recognizes that there are many paths&#13;
+toward UHC and does not endorse a particular path or set of organizational or&#13;
+financial arrangements to reach it. Regardless of the path chosen, the quality of&#13;
+the instruments and institutions countries establish to implement UHC are&#13;
+essential to its success. Countries will face a variety of challenges during the&#13;
+implementation phase as they strive to expand health coverage. With that in&#13;
+mind, the World Bank launched the Universal Health Coverage Studies Series&#13;
+(UNICO Studies Series) to develop knowledge and operational tools designed&#13;
+to help countries tackle these implementation challenges in ways that are&#13;
+fiscally sustainable and that enhance equity and efficiency. The UNICO Studies&#13;
+Series consists of technical papers and country case studies that analyze&#13;
+different issues related to the challenges of UHC policy implementation.&#13;
+&#13;
+The case studies in the series are based on the use of a standardized protocol&#13;
+to analyze the nuts and bolts of 27 programs in 25 countries that have&#13;
+expanded coverage from the bottom up, starting with the poor and vulnerable.&#13;
+The protocol consists of 300 questions designed to elicit a detailed&#13;
+understanding of how countries are implementing five sets of policies to&#13;
+accomplish the following:&#13;
+&#13;
+â&#128;¢   Manage the benefits package&#13;
+â&#128;¢   Manage processes to include the poor and vulnerable&#13;
+â&#128;¢   Nudge efficiency reforms to the provision of care&#13;
+â&#128;¢   Address new challenges in primary care&#13;
+â&#128;¢   Tweak financing mechanisms to align the incentives of different stakeholders&#13;
+    in the health sector&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+The UNICO Studies Series aims to provide UHC implementers with an expanded toolbox.&#13;
+The protocol, case studies and technical papers are being published as part of the Series. A&#13;
+comparative analysis of the case studies will be available in 2013.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                               28&#13;
+&amp;#12;</ml:original-txt><ml:search-metadata><doc id="17207222">
+        <url>
+            http://documents.worldbank.org/curated/en/2013/02/17207222/jamaicas-effort-improving-universal-access-within-fiscal-constraints
+        </url>
+        <availablein>Spanish,English</availablein>
+        <fullavailablein>
+            <available_in lang="Spanish" entityid="000469775_20140711102718" node_id="17207222"/>
+        </fullavailablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2013/02/17207222/jamaicas-effort-improving-universal-access-within-fiscal-constraints</url_friendly_title>
+        <new_url>2013/02/17207222/jamaicas-effort-improving-universal-access-within-fiscal-constraints</new_url>
+        <disclosure_date>2013-02-01T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2013-02-01T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/02/01/000333037_20130201142010/Rendered/INDEX/750050NWP0Box30n0Fiscal0Constraints.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/02/01/000333037_20130201142010/Rendered/PDF/750050NWP0Box30n0Fiscal0Constraints.pdf</pdfurl>
+        <docdt>2013-01-01T00:00:00Z</docdt>
+        <datestored>2013-02-01T00:00:00Z</datestored>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            Jamaica's effort in improving
+            universal access within fiscal constraints
+        </repnme>
+        <abstracts>
+            Jamaica's primary health care
+            system was a model for the Caribbean region in the 1990s.
+            Because of it, Jamaicans enjoy relatively better health
+            status than people in other countries of similar income
+            level in the Caribbean region. However, Jamaica's
+            health system is being severely challenged by persistent and
+            reemerging infectious diseases and by the rapid increase in
+            noncommunicable diseases (NCDs) and injuries. At the same
+            time, the country has suffered from low economic growth and
+            carries a high debt burden, which leaves limited fiscal
+            space for improving health care. The Government of Jamaica
+            has been trying to sustain the gain in health outcomes and
+            improve access to health care for its population in an
+            environment of constrained resources during the last decade.
+            With the establishment of the Jamaica National Health Fund
+            (NHF) in 2003 and the abolition of user fees at public
+            facilities in 2008, the Government of Jamaica has taken
+            steps toward achieving universal coverage. This study
+            reviews the achievements and challenges in expanding
+            universal access in Jamaica and assesses the impact of the
+            NHF's drug-subsidy programs and the abolition of user
+            fees on universal access, and discusses policy options for
+            achieving universal coverage.
+        </abstracts>
+        <docna>
+            Jamaica's effort in improving universal
+            access within fiscal constraints
+        </docna>
+        <display_title>Jamaica's effort in
+            improving universal access within fiscal constraints</display_title>
+        <listing_relative_url>/research/2013/01/17207222/jamaicas-effort-improving-universal-access-within-fiscal-constraints</listing_relative_url>
+        <topic>Public Health m1327519 635,Health Equity and Access m1326151 1288,Quality of Health Care Delivery m1326576 1320,Non-Communicable Disease and Injury
+            m1326561 1427,Universal Health Insurance m1327071 1293,Fiscal Space for Health m1326826 1290</topic>
+        <subtopic>Health Monitoring &amp; Evaluation,Health Law,Health Economics &amp; Finance,Health Systems Development &amp; Reform,Population Policies</subtopic>
+        <docty>Working Paper (Numbered Series)</docty>
+        <teratopic>Law and Development,Health, Nutrition and Population</teratopic>
+        <count>Jamaica</count>
+        <authors>
+            <author>Chao, Shiyan</author>
+        </authors>
+        <geo_region_mdks>
+            <geo_region_mdk>World!$!80475</geo_region_mdk>
+            <geo_region_mdk>America!$!80450</geo_region_mdk>
+            <geo_region_mdk>Caribbean!$!80452</geo_region_mdk>
+        </geo_region_mdks>
+        <entityids>
+            <entityid>000333037_20130201142010</entityid>
+        </entityids>
+        <admreg>Latin America &amp; Caribbean,Latin America &amp; Caribbean</admreg>
+        <colti>Universal Health Coverage (UNICO) studies
+            series ; no. 6</colti>
+        <lang>English</lang>
+        <historic_topic>Law and Development,Health, Nutrition and Population</historic_topic>
+        <topicv3>Public Health m1327519 635,Health Equity and Access m1326151 1288,Quality of Health Care Delivery m1326576 1320,Non-Communicable Disease and Injury
+            m1326561 1427,Universal Health Insurance m1327071 1293,Fiscal Space for Health m1326826 1290</topicv3>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            access to health care, access to health
+            services, access to services, adolescents, Adult mortality,
+            aged, aging, ambulatory care, ambulatory services, basic
+            health care, beds, breast cancer, budget allocation, burden
+            of disease, capacity building, child mortality, chronic
+            conditions, Chronic Disease, citizens, civil society
+            organizations, clinics, communicable diseases, community
+            hospitals, contraception, Contraceptive prevalence, costs of
+            health care, debt, demand for health, demand for health
+            care, Dependency ratio, developing countries, development of
+            policies, diabetes, doctors, Drugs, economic growth,
+            Elderly, epilepsy, equity in access, Expenditures, families,
+            family members, family planning, fertility, fertility rate,
+            financial barriers, financial risk, financial risks, free
+            choice, generic drugs, glaucoma, global health, gross
+            domestic product, health behavior, health care, health care
+            costs, health care coverage, Health Care Financing, health
+            care services, health centers, Health Coverage, Health
+            Expenditure, Health Expenditure by Source, health
+            expenditures, health facilities, health financing, health
+            infrastructure, health management, Health Organization,
+            Health outcome indicators, health outcomes, health planning,
+            health plans, Health Policy, health promotion, health
+            promotion activities, health providers, health sector,
+            health service, health service delivery, health services,
+            health status, health system, health system efficiency,
+            health systems, health workers, healthcare services, Healthy
+            Lifestyles, HIV/AIDS, hospital, Hospital beds, hospital
+            care, hospital services, hospitals, human resources, human
+            resources development, human resources management,
+            hypertension, ill health, illness, illnesses, immunization,
+            important policy, improving health care, income, income
+            countries, infant, infant mortality, infant mortality rate,
+            infectious diseases, information system, information
+            systems, infrastructure development, injuries, insurance
+            plan, leading causes, Life expectancy, Life expectancy at
+            birth, live births, Living Conditions, low birth weight,
+            malaria, maternal mortality, Maternal mortality rate,
+            medical care, Medical Expenditures, Medical School, medical
+            services, medical standards, midwives, Millennium
+            Development Goals, Ministry of Health, morbidity, mortality,
+            national council, National Development, National Development
+            Plan, National Health, national health insurance, National
+            Health Services, National Policy, National strategies,
+            Neonatal mortality, nongovernmental organizations, Number of
+            People, Nurses, obesity, old age, older women, patients,
+            pharmacies, Physician, physicians, policy analysis, policy
+            change, policy decisions, policy makers, population groups,
+            pregnant women, prenatal care, primary care, primary health
+            care, primary health care services, primary health care
+            system, private health insurance, private health services,
+            private sector, private sectors, private spending, progress,
+            prostate cancer, provision of care, public discussion,
+            public health, Public health expenditure, public health
+            programs, public health services, public health system,
+            public hospitals, public information, public sector,
+            purchasing power, purchasing power parity, quality of care,
+            quality of health, quality of health care, quality of
+            services, research programs, respect, risk factors, rural
+            areas, sanitation, sanitation facilities, service provider,
+            service providers, sexual behavior, Skilled birth
+            attendance, social factors, Stable Population, Sustainable
+            Development, Tuberculosis, unemployment, Unemployment rates,
+            Universal Access, universal access to health care, urban
+            development, user fees, violence, vulnerable populations,
+            waste, woman, workers, working-age population, World Health
+            Organization, young adults
+        </keywd>
+        <owner>Health Sector (LCSHH)</owner>
+        <geo_regions>
+            <geo_region>World</geo_region>
+            <geo_region>America</geo_region>
+            <geo_region>Caribbean</geo_region>
+        </geo_regions>
+        <repnb>75005</repnb>
+        <alt_title>
+            Mejora del acceso universal en Jamaica
+            en un marco de restricciones fiscales
+        </alt_title>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>Economic Policy and Debt</ml:concept><ml:concept>Social Development &amp; Poverty</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Economic Management</ml:concept><ml:concept>Macroeconomic Management</ml:concept><ml:concept>Macroeconomic Policy</ml:concept><ml:concept>Macroeconomics Policy</ml:concept><ml:concept>Macroeconomics and Economic Growth</ml:concept><ml:concept>Macroeconomics and Growth</ml:concept><ml:concept>Poverty Reduction</ml:concept><ml:concept>Poverty Reduction and Distributional Analysis</ml:concept><ml:concept>Poverty Reduction and Equity</ml:concept><ml:concept>Poverty and Inequality</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Social Protections and Labor</ml:concept><ml:concept>International Competitiveness</ml:concept><ml:concept>International Economics and Trade</ml:concept><ml:concept>Trade Liberalization</ml:concept><ml:concept>Trade Liberalization and Regional Integration</ml:concept><ml:concept>Trade Restrictiveness</ml:concept><ml:concept>Trade and Integration</ml:concept><ml:concept>Macroeconomic Vulnerability and Debt</ml:concept><ml:concept>Social Development</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Agriculture and Food Security</ml:concept><ml:concept>Macroeconomic and Structural Policies</ml:concept><ml:concept>Health, Nutrition and Population</ml:concept><ml:concept>Poverty</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Social Protection and Labor</ml:concept><ml:concept>Trade</ml:concept><ml:concept>Health Monitoring and Evaluation</ml:concept><ml:concept>Human Resource Management Capacities</ml:concept><ml:concept>Human Resource Management Systems</ml:concept><ml:concept>Staffing Needs Assessments</ml:concept><ml:concept>Delivery of Health Care</ml:concept><ml:concept>Health Care Delivery</ml:concept><ml:concept>Health Service Management and Delivery</ml:concept><ml:concept>Health Systems</ml:concept><ml:concept>Medical Supplies, Drugs</ml:concept><ml:concept>Pharmaceutical Industry</ml:concept><ml:concept>AIDS HIV</ml:concept><ml:concept>HIV AIDS</ml:concept><ml:concept>HIV/AIDS</ml:concept><ml:concept>Chronic Diseases</ml:concept><ml:concept>NCDs</ml:concept><ml:concept>Insurance &amp; Risk Mitigation</ml:concept><ml:concept>Debt Management</ml:concept><ml:concept>Debt Policy</ml:concept><ml:concept>Debt Policy and Management</ml:concept><ml:concept>Public Debt Management</ml:concept><ml:concept>Demographics</ml:concept><ml:concept>Longevity</ml:concept><ml:concept>Analysis &amp; Monitoring</ml:concept><ml:concept>Delivery Units</ml:concept><ml:concept>Grievance Redress</ml:concept><ml:concept>Indicators</ml:concept><ml:concept>M&amp;E</ml:concept><ml:concept>Performance Measurement</ml:concept><ml:concept>Performance Reviews</ml:concept><ml:concept>Rapid Results Approaches</ml:concept><ml:concept>Health Monitoring &amp; Evaluation</ml:concept><ml:concept>Consumption</ml:concept><ml:concept>Income</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Taxation</ml:concept><ml:concept>Human Resources</ml:concept><ml:concept>Health Insurance</ml:concept><ml:concept>Health Services Delivery</ml:concept><ml:concept>Pharmaceuticals</ml:concept><ml:concept>Diseases</ml:concept><ml:concept>HIV and AIDS</ml:concept><ml:concept>Non-Communicable Disease and Injury</ml:concept><ml:concept>Injury</ml:concept><ml:concept>Elderly</ml:concept><ml:concept>Women</ml:concept><ml:concept>Subsidies</ml:concept><ml:concept>Infrastructure</ml:concept><ml:concept>Insurance</ml:concept><ml:concept>Debt</ml:concept><ml:concept>Public Health</ml:concept><ml:concept>Population</ml:concept><ml:concept>Aging</ml:concept><ml:concept>Monitoring and Evaluation</ml:concept></ml:concepts><ml:geo-regions><ml:geo-region>Americas</ml:geo-region><ml:geo-region>Caribbean</ml:geo-region><ml:geo-region>Jamaica</ml:geo-region></ml:geo-regions></ml:annotations></ml:doc-envelope>

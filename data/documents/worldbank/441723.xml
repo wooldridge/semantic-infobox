@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>Viewpoint&#13;
+The World Bank Group                                                                               July 1997&#13;
+Note No. 122   The Private Sector and the Internet&#13;
+Cai4Ios A, Pilmo    Advances in telecommunications and informatics   communication session. And, it increases the&#13;
+Braga and          have transformed the Internet from an academic   network's reliability.&#13;
+Carsten Fink      experiment into a household name in most in-&#13;
+dustrial countries. The number of computers   The resulting network, Arpanet, began opera-&#13;
+Powerful forces are  connected to the Internet grew from 535,000 in   tion in 1969, linking four sites. In the 1970s,&#13;
+recasting the business   July 1991 to close to 16 million by January 1997    other government-supported networks emerged&#13;
+competitive formo  (figure 1), and it is estimated that the number of   in the United States, but access remained&#13;
+These forces, largely    Internet users has already exceeded 50 million.   restricted to the research community connected&#13;
+grouped around     Although still concentrated in industrial coun-   with the Department of Defense and other gov-&#13;
+informationl infra- &#13;
+structure and new  tries, this "network of networks" is rapidly ex-   ernment agencies. This changed in 1986 with&#13;
+communications     panding in the developing world. Many now    the creation of the NSFNet. Subsidized by the&#13;
+technologies, have  believe that it provides a window into a future   U.S. government, the idea of the NSFNet was to&#13;
+come to be known &#13;
+collectively as the  in which access to information will be indepen-   provide high-speed backbone services connect-&#13;
+information revolution.    dent of geographic location and interactivity in   ing regional networks as well as campuses and&#13;
+This Note is the fifth in    a multimedia environment will be ubiquitous.    research centers. The network of networks com-&#13;
+a series of five that&#13;
+looks at the information                                          municating through the Internet protocol be-&#13;
+revolution and the  This article briefly reviews the history of the    gan to expand rapidly.&#13;
+future of telecom-  Internet and its evolution from an academic ex-&#13;
+munications-and what&#13;
+theyimeanfor the   periment into the main application behind the   In the early 1990s, the management of the&#13;
+regulatory role of  emerging global information infrastructure. It dis-   NSFNet backbone was subcontracted to private&#13;
+government.        cusses the role of the private sector in these   firms, which were allowed to route commer-&#13;
+developments and the regulatory environment   cial traffic through the Internet. The explosive&#13;
+required for the Internet to fulfill its promise.    demand for network service in the 1990s-&#13;
+mainly from the private sector-led to the&#13;
+The rise of the Internet                       emergence of several commercial Internet back-&#13;
+bone networks (such as Alternet, PSNet, and&#13;
+The origins of the Internet can be traced to the    SprintLink), and in October 1995, the NSFNet&#13;
+1960s, when the U.S. Department of Defense    backbone was shut down. U.S. government&#13;
+decided to fund the development of a packet-   subsidies for the Internet have fallen to an in-&#13;
+switching data network that would allow    significant amount, and almost all the costs of&#13;
+networked computers of different sizes and   the Internet are now borne by its users.&#13;
+types to communicate efficiently. In packet-&#13;
+switching networks, data files are broken into   Supporting the explosive growth of the Inter-&#13;
+small packages that are sent independently over   net and of the demand for Internet services have&#13;
+the network and then reassembled at the final   been the rapidly evolving network architecture&#13;
+destination. This permits efficient use of com-   and user interfaces. This technology has ben-&#13;
+munications lines because, unlike circuit-   efited from the decline in computing costs rela-&#13;
+switching, an architecture typically used for   tive to transmission costs. On the user side, the&#13;
+voice telephony, it does not require an open,   growth of the Internet has been promoted by&#13;
+or point-to-point, connection. Packet-switching   the appearance of powerful programming lan-&#13;
+allows many users to share a circuit, with no    guages, new network "tools," and user-friendly&#13;
+particular connection dedicated for a given   interfaces. The World Wide Web, a sophisticated&#13;
+kia               Industry and Energy Department * Finance, Private Sector, and Infrastructure Network&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+The Private Sector and the Internet&#13;
+application that allows users to access any kind    important. The development of a regulatory&#13;
+of digitized information (text, picture, sound,    framework is critical in three areas: provision&#13;
+video) and configure it for display with a mouse    of Internet backbone access; Internet service&#13;
+click, has given multimedia capabilities to the    providers (ISPs); and information services.&#13;
+Internet. The growth of the Web has been as-&#13;
+tounding: betweenjune 1993 andJanuary 1997,    The Internet backbone servers are the highest-&#13;
+the number of Websites leapt from  130 to    level network servers-those to which ISPs pay&#13;
+roughly 200,000. Fostered by the improving    connection charges. The basic regulatory options&#13;
+multimedia capabilities, commercial use of the    are to provide public support for backbone&#13;
+Internet overtook research and educational use    access to promote connectivity or to leave back-&#13;
+and has been growing exponentially in the 1990s    bone service provision to the market. As men-&#13;
+(see figure 1). ByJanuary 1997, there were close    tioned, the original backbone in the United States,&#13;
+to 4 million hosts in the .com domain.' The pri-    NSFNet, was government-funded until rapid&#13;
+vate sector has clearly taken the driver's seat in    growth in networking demand led to the emer-&#13;
+providing both the Internet's infrastructure and    gence of commercial backbones. A similar pat-&#13;
+its content in the United States.                     tern can be found in other industrial countries.&#13;
+Regulation                                            ISPs provide Internet services to the end users.&#13;
+In the United States, ISPs are competing private&#13;
+The Internet has blossomed in a relatively    firms. In other countries, the major ISP is the&#13;
+regulation-free environment. Most regulatory    state-owned telecommunications operator, often&#13;
+activity has concentrated on defining standards    a monopoly. Regulatory options for ISPs depend&#13;
+for the formats and protocols necessary to    on the market structure in telecommunications.&#13;
+operate the network. But as the commercial    In many cases, the telecommunications opera-&#13;
+presence on the Net increases, regulatory issues    tors are well positioned to provide Internet ser-&#13;
+relating to the provision of the network's infra-    vices. But it is worth pointing out that OECD&#13;
+structure and services become increasingly    countries with more competitive telecommuni-&#13;
+cations sectors tend to have greater Internet con-&#13;
+nectivity than countries with a monopoly.&#13;
+: t: FIGURtE 1  GRORWTH tOF THkE I0NTERdNET\\\\\\00\\0\\00\:0  $Policymakers have to decide whether telecom-&#13;
+In0;   eternet hosts (mllions)   :   00     0   ;0:0;0                 3:  munications network operators should be per-&#13;
+16                                                                    mitted to offer information services in direct&#13;
+1000 t00000000g4 tf 0 00000 fIDomain names$  ::0:0  0 000 000 0 \     competition with independent information ser-&#13;
+IN Other                                                      vice providers. As a rule of thumb, if a telecom-&#13;
+:12        edu                                                         munications operator has market power in the&#13;
+1       ( .0co                                                        transportnetwork, structural or at least account-&#13;
+1  -    \ : 0  II .netXing separation should be required to avoid anti-&#13;
+competitive cross-subsidization. In other words.&#13;
+the Internet services unit of the operator should&#13;
+: 6  0 0 0 0 0 0 0 0 tV 00 00 ;t 00000:::0000 0 $00;00 0  D   _1\;  00 be required to buy access to the transport net-&#13;
+work on an "arm's-length" basis. Another, very&#13;
+sensitive issue is voice telephony over the In-&#13;
+: 2                                :                                   j :\0 Xt1000; ternet, which may become a serious threat to&#13;
+. \ 0                            ;:  S 10003: the traditional circuit-switched network.&#13;
+Jul      Jul        Jul       Jul       Jul        Jul0   Jan&#13;
+91       92         93        94        95         96    97          Appropriability of content&#13;
+Nfote:An Internet host is a computer thatacts asan informationand communications&#13;
+server and has a direct connection to the Internet Top-level domain names identity  Digitized information can be easilv reproduced&#13;
+hosts by type or origin-for example .com (commercial) edu (educational), and net  and redistributed on the Internet, and providers&#13;
+(netvork), the three most frequently used. Others include .org (organization) -.gov (U.S. S.  r i   o&#13;
+government), and country domains such as.uk (United Kingdom) and .de)Gerany).  of information find it difficult to charge users&#13;
+Buttop-level domain names can be misteading: a host mightinot be locatedinthe  directly. Most private content providers recover&#13;
+county indicatedor might be either a public or a privateinstitution.&#13;
+Source: Netvork Wizards  p                                            costs indirectly: providing  information to&#13;
+potential customers about other goods and ser-&#13;
+vices. But the conventional remedy for the cost&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+recovery problem is intellectual property rights&#13;
+protection. Copyright, for example, protects an&#13;
+author's work-whether a hook, a performance,                 BOX 1   INTELLECTUAL PROPERTY IN CYBERSPACE&#13;
+authcording worka-compther aprok,apramforomaunce&#13;
+a recording, or a computer program-from  un-                 The rise of the Intemet gives new relevance to the issue of extra-&#13;
+licensed copying. In principle, traditional copy-            territoriality and increases the demand for convergence among national&#13;
+right law  applies to the Internet environment.              territual any ights t he d     ntemenot  ong new&#13;
+But such major industrial economies as the                   intellectualpropertyrightsregimes.Thelntemetnotonlyopensnew&#13;
+United States and those in the European Llnion               possibilities for dissemination of information; it also expands the scope for&#13;
+have revised or are now revising their intellec-             activities that may infringe on someone's intellectual property rights. With&#13;
+tual property rights laws to address specific                a few keystrokes, an Internet user can download copyrighted material in&#13;
+needs of electronic networks. Moreover, the                  bulletin boards around the world anonymously. Prosecuting Internet&#13;
+global character of the Internet demands inter-              service providers can discourage infringement, hut it may inhibitthe&#13;
+national legal governance (box 1).                           expansion of the value added services that make the Internet so powerful.&#13;
+The most important international treaty on copyright protection is the&#13;
+An important problem  in legal protection for                Berne Convention for the Protection of Literary and Artistic Works of&#13;
+copyright holders on the Internet is enforcement,            1886, which provides for national treatment of domestic and foreign&#13;
+given the speed and magnitude of data trans-&#13;
+given the speed and magnitude of data trans-    copyright holders and sets minimum standards for copyright protection.&#13;
+mission. This is an area where digital rights man-&#13;
+amesint Technogiean breawherof hegialp ringen l ,            The World Intellectual Property Organization (WIPO-a specialized&#13;
+digital rights management technologies are hard-             United Nations agency that administers the Berne Convention-held a&#13;
+ware and software devices that control access                diplomatic conference in December 199 to revise the convention and to&#13;
+to information and the ability to use and further            clarify the scope of copyright protection in the digital environment. The&#13;
+distribute it. In principle, these "encryption" tech-        main outcome of this conference was the WIPO Copyright Treaty. This&#13;
+nologies are attractive because, unlike intellec-            treaty makes clear that the reproduction rights of copyright owners&#13;
+tual property rights, they can provide digital               encompass the right to make digital copies. But its language is broad&#13;
+protection across national boundaries. Increas-              enough to allow national legislation to limit (or remove) liability at the&#13;
+ingly sophisticated digital rights management                level of network providers with respect to, for example, temporary digital&#13;
+technologies are becoming available on the                   storage. The treaty thus achieves a balance between the concerns of&#13;
+WVorld Wide Web. But national security reasons               content providers and those of content carriers.&#13;
+have been invoked to limit the dissemination of&#13;
+cryptographic capabilities. The United States has            Note-For further discussion of the economics of intellectual property rights in&#13;
+been trying to address the national security issue           cyberspace, see C.A. Primo Braga and C. Fink, 'The Economic Justification for the Grant&#13;
+by promoting data encryption standards that can              of Intellectual Property Rights: Patterns of Convergence and Conflict," in E Abbot and D.&#13;
+be broken by intelligence agencies and by con-               Gerber. eds., Public Policy and Global Technological Integration (London: Kluwer,19971.&#13;
+trolling the export of encryption technology, re-&#13;
+strictive measures that may inhibit widespread&#13;
+commercial use of these technologies.&#13;
+in July 1996, roughly 96 percent of all Internet&#13;
+A third way to recover costs is through the sale    hosts were in OECD countries. Most develop-&#13;
+of advertising space on information pages. Al-   ing countries are connected to the Internet-if&#13;
+though this step toward pure commercial use    only through email-though penetration is still&#13;
+of the Internet initially met with strong resis-    low  (figure 3). In 1996, there was on average&#13;
+tance from the research and education commu-    only 0.5 Internet host per 10,000 inhabitants in&#13;
+nities, growth has been rapid, and advertising         developing countries, compared with 101 in&#13;
+revenues are estimated to have exceeded US$250    industrial countries. The low penetration is due&#13;
+million in 1996.                                       mainly to the poor information infrastructure in&#13;
+developing countries. Average teledensity (tele-&#13;
+Internationalization                                   phone lines per person) is thirteen times lower,&#13;
+and average PC density thirty-eight times lower,&#13;
+Although the Internet is still most dominant in    than in industrial countries.&#13;
+the United States, the 1990s have been marked&#13;
+by its rapid internationalization. The share of    For developing countries, establishing the right&#13;
+non-U.S. hosts increased from 20 percent in July    regulatory environment is as critical as it is for&#13;
+1991 to 36 percent in July 1996. But most non-    industrial countries-though the relevance of the&#13;
+U.S. hosts still reside in industrial countries, and    regulatory experience of industrial economies&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+The Private Sector and the Internet&#13;
+0 FIGURE/ 2\\ GLBA  INERE  DESTY, 1996&#13;
+0&lt;0 D 4 _ w liAit implz,~~~~~~~~~~~~~~~~f, onthe pr fteWorld Bank&#13;
+Viewpoint is an open&#13;
+forum intended to      discussed above is open to debate for countries    the predominance of English-language content&#13;
+encourage disserrina-  with poor telecommunications networks, low              may deter local researchers or local firms that&#13;
+tion of and debate on  computer penetration, and inefficient, state-    could use the Internet to add value to their goods&#13;
+ideas, innovati0,000inhabtant&#13;
+beast practices, for  owned telecommunications monopolies. But a    and services. The critical bottleneck, however,&#13;
+expandirng the private  few developing countries have managed to rap-    continues to be the weak information infra-&#13;
+sector. The views      idly expand Internet connectivity despite weak          structure of developing countries. Government&#13;
+published are those of&#13;
+the authors and sliould    information infrastructure, such as Brazil, Chile,    activism to promote Internet connectivity at the&#13;
+not be attributed to the    the Czech Republic, Mexico, l Malaysia, and South    level of the research and education communi-&#13;
+World Bank or any of its    Africa. Brazil, for example, successfully adopted   ties may help jump-start the national informa-&#13;
+affiliated orSanizations.&#13;
+Nor do any of the con-  a model of public-private partnership to diffuse    tion infrastructure. And governments should&#13;
+clusions represen o    the Internet, and it has increased Internet    support community access in public libraries and&#13;
+official policy of the  connectivity notwithstanding its dominant    community centers. But an increasingly impor-&#13;
+xesractie D frectors   state-owned telecommunications operator. The    tant role for governments in fostering the Interet&#13;
+orethedcountriesvthey  Brazilianfgovernmentsupports anInternet back-    revolution is that in the regulatorm  arena. Most&#13;
+represet.             bone open to commercial connectivity and  traf-    important here is to promote a competitive&#13;
+To order additioulal   fic while limiting the dominant carrier's activity    environment for Internet service providers,&#13;
+copies please call 202-    in the direct provision of Internet services to     establish adequate rules of the game for elec-&#13;
+458-1111or contac:t   the public. The number of Internethtosts in Brazil   tronic commerce, and ensure effective incen-&#13;
+Suzann G8105, Te ktorld    (.br domain) grew from 300 in January 1992 to    tives for the provision of content-essential&#13;
+Bank, 1818 H Street,  more than 50,000 in July 1996ce  of  which some    measures for attracting private investment in the&#13;
+NW, Washington, D.C.   20,000 are commercial (.com.br domain). Bv the          infrastructure  and in content generation.&#13;
+N03,or d   ny fthre ton    o~ O&#13;
+address ssmith7e       mid-1990s, Brazil had a higher ratio of Internet           supportacommunity     ccin public libraries  nd&#13;
+worldbank.org.         hosts to PCs than such economies as France,             lThsudr  e tenmrILhosadsreofheclt'&#13;
+The sepies Is also     Germany, Hong Kong, and Singapore.                         domains a so include commercial hosts.&#13;
+avlailable on-line&#13;
+(www.worldbank.&#13;
+orEehtiel/fpd/notes/  There are, of course, many obstacles to the dif-            Carlos A. Primo Braga (cbragai    world tank.&#13;
+notelist.html).       fusion of the Internet in developing countries.    org), Principal Economist, anr         d Carsten Fink,&#13;
+Printed on recycled   National laws regarding privacy and intellectual    Consultant, Telecomi           unications and&#13;
+paper.                 proper2ty rights protection must be refined. And    Inforst     atics Division&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+</ml:original-txt><ml:search-metadata><doc id="441723">
+        <url>
+            http://documents.worldbank.org/curated/en/1997/07/441723/private-sector-internet
+        </url>
+        <availablein>English</availablein>
+        <virt_coll>Knowledge Notes</virt_coll>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/1997/07/441723/private-sector-internet</url_friendly_title>
+        <new_url>1997/07/441723/private-sector-internet</new_url>
+        <disclosure_date>2010-07-01T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2010-07-01T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/1999/08/15/000009265_3980312102829/Rendered/INDEX/multi_page.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/1999/08/15/000009265_3980312102829/Rendered/PDF/multi_page.pdf</pdfurl>
+        <datestored>1999-08-15T00:00:00Z</datestored>
+        <docdt>1997-07-31T00:00:00Z</docdt>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            The private sector and the Internet
+        </repnme>
+        <abstracts>
+            The authors look at the rise of the
+            Internet as the main application behind the emerging global
+            information infrastructure. Many now believe that the
+            Internet provides a window into a future in which access to
+            information will be independent of geographic location and
+            interactivity in a multimedia environment will be
+            ubiquitous. The authors review the need for a regulatory
+            framework for the Internet in three critical areas:
+            provision of backbone access, Internet service providers,
+            and information services. They also explore the problem of
+            the appropriability of content, discussing intellectual
+            property rights in the digital era and other remedies to the
+            cost recovery problem. For developing countries, however,
+            the critical bottleneck is still their weak information infrastructure.
+        </abstracts>
+        <docna>
+            The private sector and the Internet
+        </docna>
+        <display_title>The private sector and the Internet</display_title>
+        <listing_relative_url>/research/1997/07/441723/private-sector-internet</listing_relative_url>
+        <docty>Viewpoint</docty>
+        <subtopic>Geographical Information Systems,Knowledge Economy,Educational Technology and Distance Education,Information Technology,Education for the Knowledge Economy</subtopic>
+        <teratopic>Education,Information and Communication Technologies,Macroeconomics and Economic Growth</teratopic>
+        <count>World</count>
+        <authors>
+            <author>Braga, Carlos A. Primo</author>
+            <author>Fink, Carsten</author>
+        </authors>
+        <entityids>
+            <entityid>000009265_3980312102829</entityid>
+        </entityids>
+        <subsc>Telecommunications &amp; Informatics</subsc>
+        <admreg>The World Region,The World Region</admreg>
+        <colti>Public policy for the private sector ; Note
+            no. 122</colti>
+        <lang>English</lang>
+        <historic_topic>Education,Information and Communication Technologies,Macroeconomics and Economic Growth</historic_topic>
+        <sectr>Information and communications</sectr>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            Private sector; Communication technology;
+            Intellectual property; Regulations; Computer networks;
+            Information infrastructure; Internet; Telecommunications
+            access to
+            information,architecture,area,basic,computing,Copyright,copyright
+            protection,data encryption,data encryption
+            standards,destination,digital technologies,domain,economics
+            of intellectual property,electronic networks,encryption,end
+            users,geographic location,i
+            o,identity,informatics,information
+            infrastructure,information services,intellectual
+            property,Internet connectivity,Internet service
+            providers,Internet services,ISP,liability,multimedia,network
+            servers,networking,networks,origin,programming,property
+            rights,protocols,public
+            libraries,server,servers,telecommunications,telecommunications
+            networks,text,transmission costs,user interfaces,voice
+            telephony,Websites,World Wide Web
+        </keywd>
+        <owner>Private Sctr Devel &amp; Infrastr VP (PSI)</owner>
+        <repnb>17384</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>ICT</ml:concept><ml:concept>ICT for Development</ml:concept><ml:concept>Information Technology</ml:concept><ml:concept>Information and Communication Technologies (ICT)</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Teaching and Learning</ml:concept><ml:concept>Poverty Reduction</ml:concept><ml:concept>Poverty Reduction and Distributional Analysis</ml:concept><ml:concept>Poverty Reduction and Equity</ml:concept><ml:concept>Poverty and Inequality</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>International Competitiveness</ml:concept><ml:concept>International Economics and Trade</ml:concept><ml:concept>Trade Liberalization</ml:concept><ml:concept>Trade Liberalization and Regional Integration</ml:concept><ml:concept>Trade Restrictiveness</ml:concept><ml:concept>Trade and Integration</ml:concept><ml:concept>City Development Strategies</ml:concept><ml:concept>Information and Communication Technologies</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Education</ml:concept><ml:concept>Poverty</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Trade</ml:concept><ml:concept>Urban Development</ml:concept><ml:concept>Legislation and Regulation</ml:concept><ml:concept>Educational Technology and Distance Education</ml:concept><ml:concept>Radio, Television Instruction</ml:concept><ml:concept>Access to Information</ml:concept><ml:concept>Freedom of Information</ml:concept><ml:concept>Infrastructure and Networks (National; State; Local)</ml:concept><ml:concept>Telecommunication and Network Services</ml:concept><ml:concept>Telecommunications</ml:concept><ml:concept>Distance Education</ml:concept><ml:concept>Education Information Systems</ml:concept><ml:concept>Education Technology</ml:concept><ml:concept>Education and Technology</ml:concept><ml:concept>Education for the Knowledge Economy</ml:concept><ml:concept>ICT and Education</ml:concept><ml:concept>GIS</ml:concept><ml:concept>Geographical Information Systems</ml:concept><ml:concept>Land Information Systems</ml:concept><ml:concept>Digital Identities</ml:concept><ml:concept>Servers</ml:concept><ml:concept>Switches</ml:concept><ml:concept>Governance and Public Accountability (GPA)</ml:concept><ml:concept>Incentives for Good Government</ml:concept><ml:concept>National Governance</ml:concept><ml:concept>Connectivity</ml:concept><ml:concept>Lagging Regions</ml:concept><ml:concept>Knowledge Economy</ml:concept><ml:concept>Legislation</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Treaties</ml:concept><ml:concept>Boundaries</ml:concept><ml:concept>Copyright</ml:concept><ml:concept>Subsidies</ml:concept><ml:concept>Right to Information</ml:concept><ml:concept>Encryption</ml:concept><ml:concept>Infrastructure</ml:concept><ml:concept>Telecommunications and Broadband Access</ml:concept><ml:concept>Education and ICT</ml:concept><ml:concept>Geographic Information Systems</ml:concept><ml:concept>Storage  Management</ml:concept><ml:concept>Network Management</ml:concept><ml:concept>Governance</ml:concept><ml:concept>Intellectual Property Rights</ml:concept><ml:concept>Connectivity and Lagging Regions</ml:concept></ml:concepts><ml:geo-regions/></ml:annotations></ml:doc-envelope>

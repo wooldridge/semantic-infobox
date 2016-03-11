@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>                                                                                     101532&#13;
+    IFI Approach to GHG Accounting for Renewable Energy Projects&#13;
+                                             November 2015&#13;
+Overview:&#13;
+This note sets out a harmonized approach for assessing the mitigation benefits, or net&#13;
+greenhouse gas (GHG) emissions, of renewable energy (RE) projects in accordance with the&#13;
+International Financial Institution (IFI) Framework for a Harmonized Approach to Greenhouse&#13;
+Gas Accounting.1 A Technical Working Group (TWG)2 of IFIs has agreed to use a common set&#13;
+of emission factors for GHG accounting of electricity production from Renewable Energy (RE)&#13;
+projects.3 The purpose is to harmonize GHG accounting through the application of common&#13;
+emission factors to RE GHG calculations. Further iterations of this approach note will include&#13;
+the treatment of off-grid RE activities.&#13;
+&#13;
+Renewable Energy (RE) Definition:&#13;
+The RE definition follows the RE project typology defined by the Common Principles for&#13;
+Climate Mitigation Finance Tracking:4&#13;
+    ï&#130;·   Wind power&#13;
+    ï&#130;·   Geothermal power&#13;
+    ï&#130;·   Solar power (concentrated solar power, photovoltaic power)&#13;
+    ï&#130;·   Biomass or biogas power&#13;
+    ï&#130;·   Ocean power (wave, tidal, ocean currents, salt gradient, etc.)&#13;
+    ï&#130;·   Hydropower5&#13;
+&#13;
+If the pre-investment facility has not reached the end of its technical life, the approach set&#13;
+out in the â&#128;&#156;IFI Approach to GHG Accounting for Energy Efficiency Projectsâ&#128;&#157; shall be followed.&#13;
+&#13;
+Scope for calculations:&#13;
+    ï&#130;·   Construction emissions for RE projects may be excluded&#13;
+    ï&#130;·   Include Large Hydro reservoir emissions to balance the estimated savings&#13;
+    ï&#130;·   Include biomass feedstock-related leakage emissions&#13;
+    ï&#130;·   Include geothermal fugitive emissions&#13;
+&#13;
+Project Power Output:&#13;
+Assumptions for power generation capacity (MW) and project energy output (MWh) should&#13;
+be based on project appraisal documentation and the due diligence documentation of IFIs.&#13;
+Project emission calculations will also take into account adjustments for reservoir and&#13;
+fugitive emissions as well as leakage.&#13;
+&#13;
+1&#13;
+ http://www.worldbank.org/content/dam/Worldbank/document/IFI_Framework_for_Harmonized_Approach&#13;
+%20to_Greenhouse_Gas_Accounting.pdf&#13;
+2&#13;
+ The TWG for this methodology includes technical specialists from ADB, AfDB, AFD, EBRD, EIB, GEF, GIB, NIB,&#13;
+NEFCO, IDB, IFC, and WB, with support from the UNFCCC secretariat; to be widened to include more IFIs as work&#13;
+progresses. This note will be reviewed and updated periodically by the TWG.&#13;
+3&#13;
+  This approach is generally consistent with similar approaches to account for GHG emissions from a broader&#13;
+set of power generation projects.&#13;
+4&#13;
+  http://www.worldbank.org/content/dam/Worldbank/document/Climate/common-principles-for-climate-&#13;
+mitigation-finance-tracking.pdf ; https://www.idfc.org/Press-And-Publications/other-publications.aspxI&#13;
+5&#13;
+  Pumped storage hydropower plants are not considered renewable energy in this version of the note&#13;
+&#13;
+                                                      1&#13;
+&amp;#12;Baseline Emissions Factors:&#13;
+The main principles and assumptions for baseline emissions factors include:&#13;
+    ï&#130;·   Energy generated from renewable sources will avoid emissions that would otherwise be&#13;
+        generated wholly or partly from more carbon-intensive sources.&#13;
+    ï&#130;·   For the purpose of promoting greater harmonization, the IFI GHG Accounting TWG&#13;
+        maintains a common dataset containing Baseline Emission Factors (BEFs) for countries and&#13;
+        for sub-national and interconnected grids where applicable. The common dataset of BEFs&#13;
+        will be updated annually under responsibility of the TWG. Where an IFI has conducted its&#13;
+        own country or project-related baseline study, the results of this study should be submitted&#13;
+        to the TWG for consideration of inclusion in the common dataset during future annual&#13;
+        updates.&#13;
+    ï&#130;·   In those cases where a project is replacing specific planned generation capacity, each IFI is&#13;
+        free to conduct its own assessment, which should be shared with the TWG. In all other&#13;
+        cases, the BEF approach and the common dataset described will apply.&#13;
+&#13;
+Available Data Sources for the Common Data Set:&#13;
+&#13;
+The common dataset containing BEFs will be constructed using a Combined Margin (CM) for&#13;
+the grid that is comprised of an Operating Margin (OM) and a Build Margin (BM). The OM&#13;
+represents the marginal generating capacity in the existing dispatch hierarchy that will most&#13;
+likely be displaced by the project. The BM is the cohort of the prospective power plants&#13;
+whose construction and operation would be affected by the project, based on an&#13;
+assessment of planned and expected new generation capacity.&#13;
+&#13;
+The common dataset will be comprised, where available, of UNFCCC standardized baselines&#13;
+(SBLs), which are based on the CDM Grid Tool6 or other approaches approved by the CDM&#13;
+Executive Board; and/or drawn from official country emission data sources developed by&#13;
+designated national authorities.&#13;
+&#13;
+For other countries with certified and registered CDM projects, a dataset is derived from a&#13;
+List of Grid Emission Factors dataset managed and regularly updated by the Institute for&#13;
+Global Environmental Strategies. For each country, the following approach is used to derive&#13;
+the OM and BM data.&#13;
+        1. Select the most recent years in which the CDM projects have been registered: this data&#13;
+           vintage range can be updated when IFIs review the common dataset.&#13;
+        2. Calculate OM: from the selected pool of CDM projects, identify OMs calculated by&#13;
+           Simple OM, Simple Adjusted OM or, and Dispatch Data Analysis OM. Then average out&#13;
+           the identified OMs.&#13;
+        3. Calculate BM: average out BMs from the selected project pool of CDM projects.&#13;
+        4. Calculate CM: add average OMs and BMs using appropriate weighting as defined below.&#13;
+           Alternative weights may be agreed by IFIs in the future.&#13;
+&#13;
+If new or additional CDM project data becomes available then these data will be assessed by&#13;
+the TWG for the annual update of the common dataset. If there is a validated project (in&#13;
+the current or most recent previous year) under CDM providing specific emission factor data&#13;
+&#13;
+6&#13;
+ Methodological tool: Tool to calculate the emission factor for an electricity system,&#13;
+http://cdm.unfccc.int/methodologies/PAmethodologies/tools/am-tool-07-v4.0.pdf/history_view&#13;
+&#13;
+&#13;
+                                                   2&#13;
+&amp;#12;then the IFI may consider to use these data instead of the CM on the common dataset, with&#13;
+the requirement that the IFI will share these data with the TWG for consideration for the&#13;
+next annual update of the EF common dataset of emission factors.&#13;
+&#13;
+Constructing proxy BEF where data is not readily available:&#13;
+&#13;
+For the remaining countries where neither relevant official UNFCCC nor applicable CDM/JI&#13;
+data (as defined above) is available, the alternative approach (defined below) to estimating&#13;
+the OM-BM will be used to populate the common dataset, based on International Energy&#13;
+Agency (IEA) emissions data7.&#13;
+&#13;
+As better data becomes available that will feed into the process, e.g. through developing&#13;
+additional SBLs in collaboration with UNFCCC, then these data may be considered for the next&#13;
+update of the TWG common dataset. Likewise, where an IFI has conducted a country or&#13;
+project-related emission factor study, the results of this study can be submitted to the TWG&#13;
+and UNFCCC for consideration of inclusion in the joint dataset in future updates.&#13;
+&#13;
+Calculating the OM:&#13;
+&#13;
+    ï&#130;·   The IEA database specifies the countryâ&#128;&#153;s generation mix and related emissions for the&#13;
+        following fuel types: gas, oil, coal and other (mainly hydro, renewables and nuclear). The&#13;
+        common dataset uses a 3 year rolling average of the IEA data.&#13;
+    ï&#130;·   It is assumed that hydropower, other renewables and nuclear are likely to be must-run8&#13;
+        resources in most countries, while gas, oil and coal are considered most likely to be on the&#13;
+        margin.&#13;
+    ï&#130;·   Oil and gas-based generation are assumed to be highest on the fossil merit order and most&#13;
+        likely to be replaced on the margin by any incoming new renewable generation. The bottom&#13;
+        50% of the merit order is assumed to be unaffected by any new generation and is not&#13;
+        considered for the OM calculation.&#13;
+    ï&#130;·   In countries where RE accounts for a significant share of the energy mix (&gt;50%), an&#13;
+        adjustment factor (Î») is introduced as a proxy for the share of low cost and must-run&#13;
+        generation output that is potentially not dispatched and can be displaced by new&#13;
+        generation. This adjustment will bring the OM calculation in line with the Simple Adjusted&#13;
+        OM method covered under the CDM Grid Tool.&#13;
+&#13;
+&#13;
+&#13;
+Calculating the BM:&#13;
+&#13;
+    ï&#130;·   The BM is based on the future developments of the countryâ&#128;&#153;sâ&#128;&#153; likely generation mix over a&#13;
+        time horizon of 5-10 years. The development of some new renewable energy generation is&#13;
+        assumed for all countries.&#13;
+&#13;
+7&#13;
+  OECD/IEA. COâ&#130;&#130; Emissions from Fuel Combustion â&#128;&#147; Highlights. Retrieve from:&#13;
+http://www.iea.org/publications/freepublications/publication/name,32870,en.html&#13;
+8&#13;
+  Must-run resources are defined by the UNFCCC as â&#128;&#156;power plants with low marginal generation costs or&#13;
+dispatched independently of the daily or seasonal load of the grid. They include hydro, geothermal, wind, low-&#13;
+cost biomass, nuclear and solar generation. Methodological tool: Tool to calculate the emission factor for an&#13;
+electricity system, Version 4, https://cdm.unfccc.int/methodologies/PAmethodologies/tools/am-tool-07-&#13;
+v4.0.pdf&#13;
+&#13;
+                                                      3&#13;
+&amp;#12;     ï&#130;·   Until the development of an agreed BM dataset, an interim BM will be calculated as a&#13;
+         weighted average of the generating mix in the country based on the fuels used (IEA data).&#13;
+         For each type of generation (gas, oil, coal, other) a GHG emission factor is applied taking into&#13;
+         account the impact of Best Available Technology data based on a common agreed list of&#13;
+         applicable BAT (e.g. as defined by the UNFCCC in the CDM Grid Tool).&#13;
+     ï&#130;·   As better country information becomes available on expected future developments in new&#13;
+         generation capacity, the database will be updated. The BM may be characterised by a&#13;
+         limited set of generic emissions profiles, each corresponding to a range of generation mixes&#13;
+         that result in similar GHG emissions9.&#13;
+     ï&#130;·   The TWG will periodically review the initial set of country profiles on the basis of available&#13;
+         information and cross checks as these BMs are piloted going forward.&#13;
+&#13;
+&#13;
+Combining the OM and BM to construct the CM BEF:&#13;
+         The common dataset will initially consist of a CM arrived at by combining the OM&#13;
+         and BM, using the following weighting:&#13;
+             ï&#130;·   For variable generation (e.g. most wind and solar PV), the weighting is 75% OM: 25%&#13;
+                 BM.&#13;
+             ï&#130;·   For firm generation (e.g. hydropower, geothermal and biomass), the weighting is&#13;
+                 50% OM: 50% BM.&#13;
+&#13;
+         Over time, the TWG in coordination with the UNFCCC, will consider future&#13;
+         modifications of the weights applied between OM and BM to account for additional&#13;
+         factors, such as countries with high or low demand growth10.&#13;
+&#13;
+&#13;
+&#13;
+Calculating Baseline Emissions:&#13;
+&#13;
+In the calculation, the energy production of the project is multiplied by the CM emission factor&#13;
+in tCO2e/MWh.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+9&#13;
+ The first version of the BEF common database based on the existing generation mix (IEA data) within 2015.&#13;
+An updated version may include BMs based on mapping against generation profiles.&#13;
+10&#13;
+  Until more definitive guidance is available, the IFI should transparently document and share with the TWG&#13;
+any alternative weighting proposal for a specific country.&#13;
+&#13;
+                                                      4&#13;
+&amp;#12;</ml:original-txt><ml:search-metadata><doc id="25514886">
+        <url>
+            http://documents.worldbank.org/curated/en/2015/12/25514886/ifi-approach-ghg-accounting-renewable-energy-projects
+        </url>
+        <availablein>English</availablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2015/12/25514886/ifi-approach-ghg-accounting-renewable-energy-projects</url_friendly_title>
+        <new_url>2015/12/25514886/ifi-approach-ghg-accounting-renewable-energy-projects</new_url>
+        <disclosure_date>2015-12-02T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2015-12-02T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <docm_id>090224b0839e2fe0</docm_id>
+        <chronical_docm_id>090224b0839e2fe0</chronical_docm_id>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2015/12/03/090224b0839e2fe0/1_0/Rendered/INDEX/IFI0approach0t0able0energy0projects.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2015/12/03/090224b0839e2fe0/1_0/Rendered/PDF/IFI0approach0t0able0energy0projects.pdf</pdfurl>
+        <docdt>2015-11-01T23:49:03Z</docdt>
+        <datestored>2015-12-02T00:00:00Z</datestored>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            IFI approach to GHG accounting for
+            renewable energy projects
+        </repnme>
+        <abstracts>
+            This note sets out a harmonized approach
+            for assessing the mitigation benefits, or net greenhouse gas
+            (GHG) emissions, of renewable energy (RE) projects in
+            accordance with the International Financial Institution
+            (IFI) Framework for a Harmonized Approach to Greenhouse Gas
+            Accounting.1 A Technical Working Group (TWG) of IFIs has
+            agreed to use a common set of emission factors for GHG
+            accounting of electricity production from Renewable Energy
+            (RE) projects. The purpose is to harmonize GHG accounting
+            through the application of common emission factors to RE GHG
+            calculations. Further iterations of this approach note will
+            include the treatment of off-grid RE activities.
+        </abstracts>
+        <docna>
+            IFI approach to GHG accounting for renewable
+            energy projects
+        </docna>
+        <display_title>IFI approach to GHG accounting
+            for renewable energy projects</display_title>
+        <listing_relative_url>/research/2015/11/25514886/ifi-approach-ghg-accounting-renewable-energy-projects</listing_relative_url>
+        <topic>Research and Innovation Policies for Green
+            Growth m1327234 399,Green Growth m1326430 476,Greenhouse Gas Accounting m1327770 582,Fiscal Aspects of Green Growth m1326213 448</topic>
+        <projn>1W-Ghg Accounting Mdb Harmonization -- P143154</projn>
+        <subtopic>Climate Change Mitigation and Green House Gases,Energy and Environment,Energy Production and Transportation,Environment and Energy Efficiency,Carbon Policy and Trading</subtopic>
+        <docty>Working Paper</docty>
+        <teratopic>Environment,Energy</teratopic>
+        <count>World</count>
+        <entityids>
+            <entityid>090224b0839e2fe0_1_0</entityid>
+        </entityids>
+        <admreg>The World Region,The World Region</admreg>
+        <theme>Climate change</theme>
+        <lang>English</lang>
+        <historic_topic>Environment,Energy</historic_topic>
+        <prdln>Partnership</prdln>
+        <topicv3>Research and Innovation Policies for Green
+            Growth m1327234 399,Green Growth m1326430 476,Greenhouse Gas Accounting m1327770 582,Fiscal Aspects of Green Growth m1326213 448</topicv3>
+        <sectr>Transportation,Agriculture, fishing, and forestry,Energy and mining</sectr>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            renewable generation, greenhouse, emission,
+            energy output, power generation capacity, power plants,
+            greenhouse_gas, fuel types, calculation, biomass feedstock,
+            balance, net greenhouse gas, geothermal power, carbon,
+            power, electricity, activities, renewable energy projects,
+            generation, wind power, climate, international energy
+            agency, wind, electricity system, emissions, hydropower,
+            biogas, calculating baseline, emission factors, renewable
+            energy generation, energy generation, gas, co, emissions
+            profiles, generating capacity, energy production, solar
+            power, greenhouse gas, energy efficiency, baseline emission,
+            fugitive emissions, biomass, emissions factors, emissions
+            from fuel, generation capacity, fuel combustion, marginal
+            generation, combustion, baseline emissions, feedstock,
+            investment, oil, power generation, emission factor, energy
+            mix, coal, capacity, fuel, ghg, baseline, emission data,
+            renewable sources, emissions from fuel combustion,
+            calculating baseline emissions, renewable energy, emission
+            calculations, electricity production, fossil, fuels,
+            photovoltaic power, approach, benefits, energy
+        </keywd>
+        <owner>Climate Change - D1-GCCPT-IBRD (GCCPT)</owner>
+        <majtheme>Environment and natural resource management</majtheme>
+        <repnb>101532</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>Water Resources</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Energy</ml:concept><ml:concept>Energy and Mining</ml:concept><ml:concept>Environment</ml:concept><ml:concept>Sustainable Climate Business</ml:concept><ml:concept>Sustainable Energy Finance</ml:concept><ml:concept>Social Protections and Labor</ml:concept><ml:concept>Water</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Agriculture and Food Security</ml:concept><ml:concept>Energy and Extractives</ml:concept><ml:concept>Environment and Natural Resources</ml:concept><ml:concept>Climate Change</ml:concept><ml:concept>Health, Nutrition and Population</ml:concept><ml:concept>Social Protection and Labor</ml:concept><ml:concept>Generic Name List</ml:concept><ml:concept>Generics</ml:concept><ml:concept>List of Generic Drugs</ml:concept><ml:concept>Off patent drugs</ml:concept><ml:concept>Hydro Power</ml:concept><ml:concept>Hydroelectric Power</ml:concept><ml:concept>Energy Conservation &amp; Efficiency</ml:concept><ml:concept>Energy Conservation and Efficiency</ml:concept><ml:concept>Climate Change Mitigation and Green House Gases</ml:concept><ml:concept>Fuels</ml:concept><ml:concept>Oceans</ml:concept><ml:concept>Income</ml:concept><ml:concept>Environmental Strategy</ml:concept><ml:concept>Generic Drugs</ml:concept><ml:concept>Storage Hydropower</ml:concept><ml:concept>Savings</ml:concept><ml:concept>Renewable Energy</ml:concept><ml:concept>Hydropower</ml:concept><ml:concept>Energy Efficiency</ml:concept><ml:concept>Greenhouse Gas Accounting</ml:concept></ml:concepts><ml:geo-regions/></ml:annotations></ml:doc-envelope>

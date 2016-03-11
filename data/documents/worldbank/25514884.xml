@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>                                                                                                   101531&#13;
+            IFI Approach to GHG Accounting for Energy Efficiency Projects&#13;
+&#13;
+                                                      November 2015&#13;
+&#13;
+Overview:&#13;
+This note sets out a common approach of accounting for net greenhouse gas GHG emissions of&#13;
+energy efficiency (EE) projects in accordance with the International Financial Institution (IFI)&#13;
+Framework for a Harmonised Approach to Greenhouse Gas Accounting1.&#13;
+&#13;
+Scope:&#13;
+&#13;
+This document, developed by a Technical Working Group (TWG)2 of IFIs, provides guidance for net&#13;
+(against a baseline) emissions accounting for EE projects and/or EE project components, including as&#13;
+defined in the joint MDB-IDFC principles document under the categories " low carbon and energy&#13;
+efficient generation" and "energy efficiency projects" respectively3.&#13;
+&#13;
+The proposed approach is primarily focused on accounting for the reduction of energy intensity&#13;
+induced by investments in the rehabilitation, retrofitting and/or replacement with more efficient&#13;
+technologies at the recipient facility4. Where the project design and operation considers efficiency&#13;
+gains from demand-side measures, including process and behaviour change, these impacts can also&#13;
+be taken into account in the calculations. The proposed approach is also applicable to the&#13;
+rehabilitation or retrofitting of renewable energy plants5.&#13;
+&#13;
+For the purposes of this note, to be considered as energy efficiency investment, a project must be&#13;
+expected to reduce the energy or carbon intensity6 at the recipient facility.&#13;
+&#13;
+A characteristic of EE rehabilitation/retrofit projects is that they frequently involve an increase of&#13;
+production and/or an extension of the facilityâ&#128;&#153;s lifetime. This note defines a methodology that takes&#13;
+into account these characteristics as well.&#13;
+&#13;
+The impacts of the project on GHG emissions will be calculated by comparing the forecasted post-&#13;
+investment emissions with a pre-investment baseline scenario. The difference between the baseline&#13;
+and the project emissions constitutes the GHG emissions and/or emissions reductions referred to as&#13;
+net emissions accounting for the purposes of this note.&#13;
+&#13;
+&#13;
+1&#13;
+ http://www.worldbank.org/content/dam/Worldbank/document/IFI_Framework_for_Harmonized_Approach%20to_Gr&#13;
+eenhouse_Gas_Accounting.pdf&#13;
+2&#13;
+  The TWG for this methodology includes technical specialists from ADB, AfDB, AFD, EBRD, EIB, GEF, GIB, NIB, NEFCO,&#13;
+IDB, IFC, and WB, with support from the UNFCCC secretariat; to be widened to include more IFIs as work progresses.&#13;
+This note will be reviewed and updated periodically by the IFIs.&#13;
+3&#13;
+  http://www.worldbank.org/content/dam/Worldbank/document/Climate/common-principles-for-climate-mitigation-&#13;
+finance-tracking.pdf ; https://www.idfc.org/Press-And-Publications/other-publications.aspx&#13;
+4&#13;
+  â&#128;&#152;Facilityâ&#128;&#153; is used to denote the operations, site, equipment, etc., that is the subject of the IFI-financed project.&#13;
+5&#13;
+  Applicable renewable energy technologies are defined in the â&#128;&#156; IFI Approach to GHG Accounting for Renewable.Energy&#13;
+Projectsâ&#128;&#157;.&#13;
+6&#13;
+    Some projects may result in fuel switching. In such cases, the emissions factors for the fuels replaced are used.&#13;
+&#13;
+                                                                                                                        1&#13;
+&amp;#12;Assumptions on the projectâ&#128;&#153;s energy use and energy intensity (MWh or GJ) are based on information&#13;
+collected during the appraisal conducted by each IFI for its environmental, technical and/or&#13;
+investment due diligence.&#13;
+&#13;
+Project GHG emissions from construction, other upstream and downstream activities, leakage, and&#13;
+the rebound effect can be excluded as per the Framework,7 unless these are deemed as significant&#13;
+and assessed in the project appraisal.&#13;
+&#13;
+Representative Year:&#13;
+Greenhouse gas emissions are calculated on an annual basis for a representative year at the expected&#13;
+average output of the post-investment facility. In some cases it is not possible to point out a single&#13;
+representative year, for example, when the project lifetime exceeds the lifetime of the pre-&#13;
+investment facility. In that case two or more representative years may be chosen, each with its own&#13;
+baseline, and a weighted average will be calculated for the emissions.&#13;
+&#13;
+Baselines:&#13;
+The baseline should be viable for the expected project lifetime. Equipment that is evidently&#13;
+operationally unviable (e.g. at the end of equipment life, or expected to cease operating due to high&#13;
+costs or other market barriers, or not conforming to legal requirements), do not constitute an&#13;
+acceptable baseline.&#13;
+&#13;
+Pre-Investment              Production                                   Post-Investment&#13;
+&#13;
+&#13;
+&#13;
+                                     B&#13;
+&#13;
+&#13;
+                                                               C&#13;
+                                     A&#13;
+&#13;
+&#13;
+&#13;
+                                                                                       Time&#13;
+                                    (i)                        (ii)&#13;
+&#13;
+&#13;
+7&#13;
+ Retrieve from:&#13;
+http://www.worldbank.org/content/dam/Worldbank/document/IFI_Framework_for_Harmonized_Approach_to_Green&#13;
+house_Gas_Accounting.pdf&#13;
+&#13;
+                                                                                                     2&#13;
+&amp;#12;In the above diagram, area â&#128;&#156;Aâ&#128;&#157; represents the pre-investment production, area â&#128;&#156;Bâ&#128;&#157; represents the&#13;
+increased production compared to the pre-investment production during the expected remaining&#13;
+lifetime of the pre-investment facility and area â&#128;&#156;Câ&#128;&#157; represents the production beyond th e pre-&#13;
+investment facility lifetime.&#13;
+&#13;
+For projects where the pre-investment and post-investment production levels are broadly&#13;
+equivalent, the actual emissions at the pre-investment facility prior to the investment can be used as&#13;
+a baseline, but only until the end of the expected lifetime of the pre-investment facility. In the above&#13;
+diagram, area â&#128;&#156;A" represents this production.&#13;
+&#13;
+For projects where the investment is expected to result in an increase of production, the output of&#13;
+the retrofitted/rehabilitated facility should be sub-divided into the following components:&#13;
+    i)      Output of the pre-investment facility during its remaining technical/economic life (A); and&#13;
+    ii)     Additional output related to increased capacity and extended operating life (B+C).&#13;
+The additional output would typically displace production from new capacity that would have been&#13;
+built in the country or elsewhere, or displace existing production. The baseline to be used for the&#13;
+displaced production may be based on a no project scenario; or alternatively the baseline emissions&#13;
+are calculated based on a similar level of service or output provided by the project. This could be&#13;
+based on a benchmark for energy efficient sources of existing production or for efficient new&#13;
+technologies or a combination of the two8.&#13;
+&#13;
+For the purposes of simplification, the baseline for â&#128;&#156;Bâ&#128;&#157; may be represented by a benchmark&#13;
+comprised of existing sources of energy efficient production. The baseline for â&#128;&#156;Câ&#128;&#157; should in principle&#13;
+comprise energy efficient new technologies; or a relevant benchmark of the most energy efficient&#13;
+existing technologies may be used9.&#13;
+&#13;
+The IFI will document the choice of baseline and any supporting assumptions. IFIs that are reporting&#13;
+project or portfolio emissions data are encouraged to also disclose the associated assumptions and&#13;
+methodology.&#13;
+&#13;
+For the refurbishment of renewable energy generation plants, the baseline is defined as follows: 1)&#13;
+if the pre-investment facility has reached the end of its technical life, the baseline methodology&#13;
+defined by the â&#128;&#156;IFI Approach to GHG Accounting for Renewable Energy Projectsâ&#128;&#157; note for new&#13;
+electricity production should be applied; and 2) if the pre-investment facility has significant remaining&#13;
+economic life, the emissions factor of the pre-investment facility is applied to A, and the emissions&#13;
+factors defined by the â&#128;&#156;IFI Approach to GHG Accounting for Renewable Energy Projectsâ&#128;&#157; note for new&#13;
+electricity production is applied to the sum of B and C.&#13;
+&#13;
+&#13;
+&#13;
+8&#13;
+ For projects involving the production or avoidance of grid electricity the baseline for the grid electricity could be&#13;
+defined by the renewable energy OM/BM methodologies (see IFI Approach to GHG Accounting for Renewable Energy&#13;
+Projects).&#13;
+9&#13;
+ As a result, where the increase in production has a carbon intensity that is lower than the facilityâ&#128;&#153;s pre -investment level,&#13;
+but higher than a recognised benchmark, the increase in production should be treated as net increase in emissions.&#13;
+&#13;
+&#13;
+                                                                                                                            3&#13;
+&amp;#12;In those cases where a project is replacing specific production, the IFI should transparently document&#13;
+and share the baseline used for this production with the TWG.&#13;
+&#13;
+Sector-specific Considerations:&#13;
+ï&#130;·    Power plants: For project that involve retrofits/rehabilitation or efficiency improvements to power plants&#13;
+     the baseline determined in line with the above principles can comprise the combination, of a) continuation&#13;
+     of current situation related to energy production in the existing facility for the equipment being replaced,&#13;
+     modified or retrofitted for the expected remaining lifetime of the existing equipment; b) a combined&#13;
+     margin for emissions10 in the receiving electricity grid applied to the incremental increase in level of service&#13;
+     expected from the project; and c) a combined margin for emissions11 in the receiving electricity grid&#13;
+     applied to the generation produced during the additional lifetime.&#13;
+ï&#130;·    Industrial projects: UNFCCC standardised baselines should be used when available.&#13;
+ï&#130;·    Buildings â&#128;&#147; For retrofits/rehabilitation of existing buildings, baselines could be based on pre-investment&#13;
+     building conditions or prevailing building standards or a combination of the two.&#13;
+&#13;
+&#13;
+Boundaries:&#13;
+&#13;
+Boundaries for GHG calculations should be used according to the following principles:&#13;
+&#13;
+ï&#130;·    Project GHG emissions are calculated on the basis of energy use and fuel combustion at the point of&#13;
+     project intervention and investment, e.g. installation boundaries (e.g. a facility or a building) or component&#13;
+     boundaries (e.g. process equipment like a boiler).For facilities comprising multiple, independent&#13;
+     processes, the boundary can be defined at this sub-process level, if the sub-process does not affect other&#13;
+     sub-processes and has measurable inputs, outputs, and energy use.&#13;
+ï&#130;·    Where the project appraisal quantifies the impact of the investment on emissions outside the project&#13;
+     boundary (e.g. the broader market or on the electricity grid or distribution system), then those impacts&#13;
+     need to be factored into the calculation of project GHG emissions as leakage.&#13;
+ï&#130;·    Baseline scenarios and calculations can have boundaries that are installation/component-based or&#13;
+     system-based component-based (e.g. electricity grid or distribution system).&#13;
+&#13;
+&#13;
+Emission Factors:&#13;
+In the calculation, the energy consumption (or production) of the project is multiplied by relevant&#13;
+emission factors in t CO2e/MWh or t CO2e/GJ as applicable, or the fuel emission factor for a captive&#13;
+power plant or a third-party combined heat and power plant.&#13;
+&#13;
+&#13;
+For simplification, the emission factor for reduced electricity consumption from the grid is defined as&#13;
+for grid-based RE electricity, with a weighting of 50% Operating Margin (OM) and 50% Build Margin&#13;
+(BM)12.&#13;
+&#13;
+&#13;
+10&#13;
+   The combined margin is defined by the â&#128;&#156;IFI Approach to GHG Accounting for Renewable Energy Projectsâ&#128;&#157; for new&#13;
+electricity production can be used as the baseline for B and C.&#13;
+11&#13;
+   Ibid.&#13;
+12&#13;
+   Over time, the TWG in coordination with the UNFCCC, will consider future modifications of the weights applied&#13;
+between OM and BM to account for additional factors, such as countries with high or low demand growth. Until more&#13;
+definitive guidance is available on weighting in countries with high demand growth, the IFI should transparently&#13;
+document and share with the TWG any alternative weighting proposal for a specific country.&#13;
+&#13;
+                                                                                                                    4&#13;
+&amp;#12;</ml:original-txt><ml:search-metadata><doc id="25514884">
+        <url>
+            http://documents.worldbank.org/curated/en/2015/12/25514884/ifi-approach-ghg-accounting-energy-efficiency-projects
+        </url>
+        <availablein>English</availablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2015/12/25514884/ifi-approach-ghg-accounting-energy-efficiency-projects</url_friendly_title>
+        <new_url>2015/12/25514884/ifi-approach-ghg-accounting-energy-efficiency-projects</new_url>
+        <disclosure_date>2015-12-02T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2015-12-02T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <docm_id>090224b0839e2ecc</docm_id>
+        <chronical_docm_id>090224b0839e2ecc</chronical_docm_id>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2015/12/03/090224b0839e2ecc/1_0/Rendered/INDEX/IFI0approach0t00efficiency0projects.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2015/12/03/090224b0839e2ecc/1_0/Rendered/PDF/IFI0approach0t00efficiency0projects.pdf</pdfurl>
+        <datestored>2015-12-02T00:00:00Z</datestored>
+        <docdt>2015-11-30T23:51:05Z</docdt>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            IFI approach to GHG accounting for energy
+            efficiency projects
+        </repnme>
+        <abstracts>
+            This note sets out a common approach of
+            accounting for net greenhouse gas (GHG) emissions of energy
+            efficiency (EE) projects in accordance with the
+            International Financial Institution (IFI) framework for a
+            harmonized approach to GHG accounting. This document
+            provides guidance for net (against a baseline) emissions
+            accounting for EE projects and or EE project components,
+            including as defined in the joint Multilateral Development
+            Banks - International Development Finance Club (MDB-IDFC)
+            principles document under the categories low carbon and
+            energy efficient generation and EE projects respectively.
+            The approach is primarily focused on accounting for the
+            reduction of energy intensity induced by investments in the
+            rehabilitation, retrofitting, and or replacement with more
+            efficient technologies at the recipient facility. Where the
+            project design and operation considers efficiency gains from
+            demand-side measures, including process and behavior change,
+            these impacts can also be taken into account in the
+            calculations. The presented approach is also applicable to
+            the rehabilitation or retrofitting of renewable energy plants.
+        </abstracts>
+        <docna>
+            IFI approach to GHG accounting for energy
+            efficiency projects
+        </docna>
+        <display_title>IFI approach to GHG accounting
+            for energy efficiency projects</display_title>
+        <listing_relative_url>/research/2015/11/25514884/ifi-approach-ghg-accounting-energy-efficiency-projects</listing_relative_url>
+        <topic>Fiscal Aspects of Green Growth m1326213 448,Greenhouse Gas Accounting m1327770 582,Energy Efficiency Finance m1326603 1697,Energy Efficiency m1326852 533,Energy Access m1325609 521</topic>
+        <subtopic>Energy and Environment,Energy Demand,Energy Production and Transportation,Environment and Energy Efficiency,Carbon Policy and Trading</subtopic>
+        <docty>Working Paper</docty>
+        <teratopic>Environment,Energy</teratopic>
+        <count>World</count>
+        <entityids>
+            <entityid>090224b0839e2ecc_1_0</entityid>
+        </entityids>
+        <admreg>The World Region,The World Region</admreg>
+        <lang>English</lang>
+        <historic_topic>Environment,Energy</historic_topic>
+        <topicv3>Fiscal Aspects of Green Growth m1326213 448,Greenhouse Gas Accounting m1327770 582,Energy Efficiency Finance m1326603 1697,Energy Efficiency m1326852 533,Energy Access m1325609 521</topicv3>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            energy consumption, emission, greenhouse,
+            power plants, production levels, heat, renewable energy
+            technologies, calculation, net greenhouse gas, greenhouse
+            gas emissions, carbon, power, emissions data, electricity,
+            activities, renewable energy projects, generation, fuel
+            emission, emissions, emission factors, renewable energy
+            generation, energy generation, gas, demand growth, energy
+            use, energy production, greenhouse gas, electricity
+            consumption, energy technologies, energy efficiency,
+            distribution system, emissions factors, fuel combustion,
+            efficiency improvements, baseline emissions, combustion,
+            baseline methodology, investment, emission factor, carbon
+            intensity, capacity, fuel, boiler, baseline, energy
+            intensity, facilities, investments, net emissions,
+            house_gas, renewable energy, electricity production, gas
+            emissions, fuel switching, fuels, approach, grid
+            electricity, power plant, energy, emissions reductions
+        </keywd>
+        <owner>Clean Energy &amp; Resource Eff. (CASEE)</owner>
+        <repnb>101531</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>Energy</ml:concept><ml:concept>Energy and Mining</ml:concept><ml:concept>Sustainable Climate Business</ml:concept><ml:concept>Sustainable Energy Finance</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>International Competitiveness</ml:concept><ml:concept>International Economics and Trade</ml:concept><ml:concept>Trade Liberalization</ml:concept><ml:concept>Trade Liberalization and Regional Integration</ml:concept><ml:concept>Trade Restrictiveness</ml:concept><ml:concept>Trade and Integration</ml:concept><ml:concept>Energy and Extractives</ml:concept><ml:concept>Climate Change</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Trade</ml:concept><ml:concept>Energy and Natural Resources</ml:concept><ml:concept>Energy Demand</ml:concept><ml:concept>Energy Conservation &amp; Efficiency</ml:concept><ml:concept>Energy Conservation and Efficiency</ml:concept><ml:concept>Climate Change Mitigation and Green House Gases</ml:concept><ml:concept>Fuels</ml:concept><ml:concept>Consumption</ml:concept><ml:concept>Energy and Environment</ml:concept><ml:concept>Energy Consumption</ml:concept><ml:concept>Boundaries</ml:concept><ml:concept>Renewable Energy</ml:concept><ml:concept>Energy Efficiency</ml:concept><ml:concept>Greenhouse Gas Accounting</ml:concept></ml:concepts><ml:geo-regions/></ml:annotations></ml:doc-envelope>

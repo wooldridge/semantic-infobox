@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>                                                                      87901&#13;
+                      PES Learning Paper 2012-2P&#13;
+&#13;
+&#13;
+           O Projeto Produtor de Ã&#129;gua&#13;
+  na bacia hidrogrÃ¡fica PCJ em SÃ£o Paulo, Brasil&#13;
+&#13;
+AurÃ©lio Padovezi, Ricardo A. Gorne Viani, Umberto Kubota, Denise Taffarello,&#13;
+    Marco Faria, Henrique Bracale, Vinicius Ferrari, FlÃ¡vio H. de Carvalho&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                               Outubro 2012&#13;
+&#13;
+&#13;
+     Latin America and Caribbean Sustainable Development Department&#13;
+                               World Bank&#13;
+                            Washington DC, USA&#13;
+&amp;#12;Resumo	&#13; Â &#13;
+O estado de SÃ£o Paulo estÃ¡ planejando fazer o Pagamentos por ServiÃ§os Ambientais (PSA) sou parte&#13;
+importante da sua combinaÃ§Ã£o de polÃ­ticas para resolver os problemas ambientais. O â&#128;&#156;Produtor de&#13;
+Ã&#129;gua no PCJâ&#128;&#157; (PdA-PCJ) Ã© o projeto piloto de PSA no Estado, onde as estratÃ©gias desenhadas sÃ£o&#13;
+testadas e avaliadas constituindo um importante subsidio para programas de maior escala no Estado.&#13;
+&#13;
+Autores	&#13; Â &#13;
+AurÃ©lio Padovezi Ã© Coordenador da restauraÃ§Ã£o da The Nature Conservancy (TNC); Ricardo A. Gorne&#13;
+Viani Ã© professor no Centro de CiÃªncia AgrÃ¡rias da Universidade Federal de SÃ£o Carlos; Umberto&#13;
+Kubota Ã© Diretor TÃ©cnico do NÃºcleo Regional de Programas e Projetos da Coordenadoria de&#13;
+Biodiversidade a Recursos Naturais da SMA; Denise Taffarello Ã© estudante de doutorado na&#13;
+Universidade de SÃ£o Paulo, Escola de Engenharia SÃ£o Carlos, Departamento de HidrÃ¡ulica e&#13;
+Saneamento; Marco Faria Ã© assistente de planejamento da CATI; Henrique Bracale Ã© Especialista em&#13;
+ConservaÃ§Ã£o da TNC; Vinicius Ferrari Ã© engenheiro agrÃ´nomo na Fazenda Bela Vista OrgÃ¢nicos; e&#13;
+FlÃ¡vio H. de Carvalho Ã© Especialista em Recursos HÃ­dricos da AgÃªncia Nacional de Ã&#129;guas (ANA).&#13;
+&#13;
+Palavras	&#13; Â chave	&#13; Â &#13;
+Pagamentos por ServiÃ§os Ambientais (PSA), Brasil&#13;
+&#13;
+Agradecimentos	&#13; Â &#13;
+Este artigo Ã© baseado no trabalho realizado durante a implementaÃ§Ã£o do Projeto Mata Ciliares,&#13;
+executado pela Coordenadoria de Biodiversidade e Recursos Naturais (CBRN) da Secretaria de Estado do&#13;
+Meio Ambiente (SMA), que foi financiado por uma doÃ§Ã£o do Fundo Global para o Meio Ambiente (GEF)&#13;
+de USD 7,75 milhÃµes. Uma versÃ£o anterior deste artigo foi apresentada no Workshop sobre Pagamentos&#13;
+por ServiÃ§os Ambientais: ExperiÃªncias no Brasil, organizados pela Secretaria Estadual de Meio Ambiente&#13;
+de SÃ£o Paulo (SMA), em SÃ£o Paulo, em 29-30 de marÃ§o de 2011, como parte do fechamento do Projeto&#13;
+Mata Ciliares.&#13;
+&#13;
+Foto	&#13; Â da	&#13; Â capa	&#13; Â &#13;
+Microbacia CancÃ£, perto de JoanÃ³polis, SÃ£o Paulo (Stefano Pagiola).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+PES	&#13; Â Learning	&#13; Â Papers	&#13; Â &#13;
+PES Learning Papers draw on the World Bankâ&#128;&#153;s extensive experience in supporting programs of&#13;
+Payments for Environmental Services (PES). They are part of a larger effort by the World Bank to&#13;
+provide open access to its research and make a contribution to development policy discussions around&#13;
+the world.&#13;
+The PES Learning Paper series disseminates the findings of work in progress to encourage the exchange&#13;
+of ideas about PES. An objective of the series is to get the findings out quickly, even if the&#13;
+presentations are less than fully polished. The papers carry the names of the authors and should be&#13;
+cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely&#13;
+those of the authors. They do not necessarily represent the views of the International Bank for&#13;
+Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive&#13;
+Directors of the World Bank or the governments they represent. The boundaries, colors,&#13;
+denominations, and other information shown on any map in this work do not imply any judgment on the&#13;
+part of The World Bank concerning the legal status of any territory or the endorsement or acceptance&#13;
+of such boundaries.&#13;
+&amp;#12;                                       O Projeto Produtor de Ã&#129;gua&#13;
+                              na bacia hidrogrÃ¡fica PCJ em SÃ£o Paulo, Brasil&#13;
+                 AurÃ©lio Padovezi, Ricardo A. Gorne Viani, Umberto Kubota, Denise Taffarello,&#13;
+                     Marco Faria, Henrique Bracale, Vinicius Ferrari, FlÃ¡vio H. de Carvalho&#13;
+&#13;
+                                                    1. IntroduÃ§Ã£o&#13;
+      O estado de SÃ£o Paulo estÃ¡ planejando fazer o Pagamentos por ServiÃ§os&#13;
+Ambientais (PSA) sou parte importante da sua combinaÃ§Ã£o de polÃ­ticas para resolver os&#13;
+problemas ambientais. O â&#128;&#156;Produtor de Ã&#129;gua no PCJâ&#128;&#157; (PdA-PCJ) Ã© o projeto piloto de PSA&#13;
+no Estado, onde as estratÃ©gias desenhadas sÃ£o testadas e avaliadas constituindo um&#13;
+importante subsidio para programas de maior escala no Estado.&#13;
+       O principal objetivo do PdA-PCJ tem como objetivo avaliar um instrumento&#13;
+econÃ´mico - o PSA â&#128;&#147; como um instrumento estimulante Ã  adoÃ§Ã£o das boas prÃ¡ticas.&#13;
+Embora o projeto tenha como principal objetivo os serviÃ§os ambientais relacionados aos&#13;
+recursos hÃ­dricos, tambÃ©m tende a gerar impactos positivos para outros tipos de serviÃ§os&#13;
+ambientais como conservaÃ§Ã£o e recuperaÃ§Ã£o da diversidade biolÃ³gica e fixaÃ§Ã£o do&#13;
+carbono atmosfÃ©rico, podendo atender deste modo mercados de serviÃ§os ambientais em&#13;
+diversas escalas, do local ao global (Bishop e Landell-Mills, 2005).&#13;
+      O projeto Ã© uma iniciativa conjunta da Secretaria de Estado do Meio Ambiente do&#13;
+Estado de SÃ£o Paulo (SMA), por meio do Projeto de RecuperaÃ§Ã£o de Matas Ciliares&#13;
+(PRMC)1, da Secretaria de Estado da Agricultura e Abastecimento (SAA), por meio de sua&#13;
+Coordenadoria de AssistÃªncia TÃ©cnica Integral (CATI), da organizaÃ§Ã£o nÃ£o governamental&#13;
+(ONG) The Nature Conservancy (TNC), da AgÃªncia Nacional de Ã&#129;guas (ANA), da Prefeitura&#13;
+de Extrema (MG), e dos ComitÃªs das Bacias HidrogrÃ¡ficas (CBH) dos Rios Piracicaba,&#13;
+Capivari e JundiaÃ­ (PCJ).2 Essas entidades gerenciam conjuntamente o projeto por meio&#13;
+da Unidade de Gerenciamento do Projeto (UGP). Recentemente foram tambÃ©m&#13;
+agregadas como parceiras ao projeto a Prefeituras de NazarÃ© Paulista (SP) e de&#13;
+JoanÃ³polis (SP) e a ONG AssociaÃ§Ã£o Mata Ciliar.&#13;
+&#13;
+                                                    2. O contexto&#13;
+      O PdA-PCJ concentra todos os seus esforÃ§os nos problemas de regularidade de&#13;
+fluxo e qualidade da Ã¡gua em microbacias hidrogrÃ¡ficas do â&#128;&#156;Sistema Cantareiraâ&#128;&#157;.&#13;
+ConstruÃ­do na dÃ©cada de 1970, o Sistema Cantareira foi implantado com objetivo de&#13;
+atender a crescente necessidade de Ã¡gua para abastecer a RegiÃ£o Metropolitana de SÃ£o&#13;
+&#13;
+1&#13;
+    	&#13; Â 	&#13; Â    O PRMC foi implementado do ano 2005 o ano 2011, financiado por um doaÃ§Ã£o de US$ 7,75 milhÃµes do&#13;
+               GEF, com aÃ§Ãµes de apoio Ã  restauraÃ§Ã£o sustentÃ¡vel, implantaÃ§Ã£o de projetos demonstrativos de&#13;
+               restauraÃ§Ã£o de matas ciliares, desenvolvimento de polÃ­ticas pÃºblicas, capacitaÃ§Ã£o, educaÃ§Ã£o&#13;
+               ambiental e treinamento.	&#13; Â &#13;
+2&#13;
+               HÃ¡ trÃªs CBH em as bacias hidrogrÃ¡ficas dos Rios Piracicaba, Capivari e JundiaÃ­: o comitÃª Paulista,&#13;
+               criado segundo a Lei Paulista No.7.663/91, o comitÃª Mineiro, criado segundo a Lei Mineira&#13;
+               No.13.199/99, e o comitÃª Federal, criado segundo a Lei Federal No.9.433/97.&#13;
+&#13;
+                                                             1&#13;
+&amp;#12;Paulo (RMSP). Hoje produz metade da Ã¡gua consumida pelos 19 milhÃµes de habitantes da&#13;
+RMSP. Considerado um dos maiores sistemas produtores de Ã¡gua do mundo, produz 33&#13;
+mil litros de Ã¡gua por segundo, tem uma Ã¡rea de aproximadamente 228 mil ha, e&#13;
+abrange 12 municÃ­pios, quatro deles no Estado de Minas Gerais e os demais no Estado de&#13;
+SÃ£o Paulo (Figura 1). As Ã¡guas produzidas pelo sistema sÃ£o provenientes, em sua grande&#13;
+maioria, da bacia do Rio Piracicaba, localizada na Unidade de Gerenciamento de&#13;
+Recursos HÃ­dricos (UGRHI) do PCJ, e transpostas para a regiÃ£o da bacia do Alto TietÃª,&#13;
+onde se localiza a grande SÃ£o Paulo (Whately e Cunha, 2007). A regiÃ£o do Sistema&#13;
+Cantareira Ã© caracterizada principalmente por usos nÃ£o urbanos, diferentemente de&#13;
+outros mananciais de abastecimento pÃºblico da RMSP, como a Guarapiranga e a Billings.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Figura 1: O Sistema Cantareira e as microbacias do Projeto Produtor de Ã&#129;gua no PCJ&#13;
+&#13;
+&#13;
+                                          2&#13;
+&amp;#12;       Nas Ã¡reas de mananciais utilizadas para a produÃ§Ã£o de Ã¡gua para abastecimento&#13;
+pÃºblico, algumas alteraÃ§Ãµes no uso do solo podem resultar em impactos bastante&#13;
+negativos como o assoreamento de reservatÃ³rios e aumento no custo de tratamento&#13;
+devido Ã  maior presenÃ§a de sÃ³lidos solÃºveis na Ã¡gua. Avaliando a evoluÃ§Ã£o do uso solo de&#13;
+1989 a 2003 no sistema Cantareira, Whately e Cunha (2007) observaram aumento de&#13;
+33,5% do uso urbano. Em 2003, as Ã¡reas cobertas por vegetaÃ§Ã£o natural â&#128;&#147; incluindo Mata&#13;
+AtlÃ¢ntica nos diferentes estÃ¡gios de regeneraÃ§Ã£o, campos de altitude e cerrado â&#128;&#147;&#13;
+ocupavam apenas 20,5% de sua Ã¡rea total. Mesmo com essa baixa ocupaÃ§Ã£o, o&#13;
+desmatamento continua a ocorrer na regiÃ£o. No perÃ­odo entre 1989 e 2003, 3.184 ha de&#13;
+mata atlÃ¢ntica foram suprimidos, o que representa uma perda de 6,3% em relaÃ§Ã£o ao&#13;
+existente em 1989 (Whately e Cunha, 2007).&#13;
+       Neste cenÃ¡rio preocupante para a manutenÃ§Ã£o do maior sistema produtor de Ã¡gua&#13;
+para a RMSP, os ComitÃªs PCJ elaboraram em maio de 2005 o â&#128;&#156;Plano Diretor para&#13;
+RecomposiÃ§Ã£o Florestal Visando Ã  ProduÃ§Ã£o de Ã&#129;gua nas Bacias HidrogrÃ¡ficas do rio&#13;
+Piracicaba, Capivari e JundiaÃ­ (PCJ)â&#128;&#157; (Proesp Engenharia, 2005). Esse plano indica, alÃ©m&#13;
+da necessidade de se manter conservados os fragmentos florestais existentes, aÃ§Ãµes de&#13;
+restauraÃ§Ã£o florestal e conservaÃ§Ã£o de solo em microbacias prioritÃ¡rias como prÃ¡ticas&#13;
+fundamentais para a manutenÃ§Ã£o de sistemas produtores de Ã¡gua, como o Cantareira.&#13;
+Em 2006, iniciou-se a cobranÃ§a pelo uso da Ã¡gua pelos ComitÃªs PCJ nas Ã¡guas de domÃ­nio&#13;
+da UniÃ£o e logo depois, em 2007, iniciou-se a cobranÃ§a pelo uso da Ã¡gua estadual,&#13;
+resultando em um aumento substancial do recurso disponÃ­vel para financiar a execuÃ§Ã£o&#13;
+do Plano de Bacias; de 3 a 4 milhÃµes em 2000-2005 para mais de 30 milhÃµes apÃ³s 2008.&#13;
+        Mesmo consideradas relevantes e tendo identificadas as Ã¡reas prioritÃ¡rias no&#13;
+Plano de RecomposiÃ§Ã£o Florestal, o investimento dos ComitÃªs em projetos dessa&#13;
+natureza continua sendo muito baixa, cerca de 2% dos valores investidos nas atividades&#13;
+estabelecidas pelo Plano de Bacias. Com os investimentos em projetos de restauraÃ§Ã£o&#13;
+florestal (R$ 3,5 milhÃµes em 1997-2009) foram reflorestados 544 hectares na bacia do&#13;
+PCJ (comunicaÃ§Ã£o pessoal, Agencia PCJ), o que Ã© muito pouco tendo em vista a&#13;
+necessidade de reflorestar 35.000 hectares de Ã&#129;reas de PreservaÃ§Ã£o Permanente (APP)&#13;
+ciliare sÃ³ no Sistema Cantareira.&#13;
+       Certamente, um dos principais fatores limitante para o desenvolvimento de&#13;
+projetos de restauraÃ§Ã£o florestal ciliar em larga escala Ã© o engajamento dos&#13;
+proprietÃ¡rios rurais. Grande parte das Ã¡reas ciliares a serem restauradas se encontra em&#13;
+posse de proprietÃ¡rios particulares. Os projetos de restauraÃ§Ã£o florestal tÃªm buscado&#13;
+envolver proprietÃ¡rios rurais por aÃ§Ãµes de comando e controle, existentes desde 1965, e&#13;
+em alguns poucos casos por educaÃ§Ã£o ambiental, sem muito sucesso para atingir a escala&#13;
+esperada. Na Bacia do PCJ, nÃ£o existe referÃªncia de projetos que tragam estÃ­mulos&#13;
+econÃ´micos reais aos proprietÃ¡rios rurais para que adotem melhores prÃ¡ticas ambientais&#13;
+no manejo de sua propriedade.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                           3&#13;
+&amp;#12;                           3. DescriÃ§Ã£o do mecanismo&#13;
+       O conceito do â&#128;&#156;Produtor de Ã&#129;guaâ&#128;&#157; foi inicialmente proposto pela AgÃªncia Nacional&#13;
+de Ã&#129;guas (ANA) (ANA, 2003; Chaves e outros, 2004), com o objetivo de desenvolver&#13;
+inicialmente uma metodologia e, na seqÃ¼Ãªncia, uma aplicaÃ§Ã£o prÃ¡tica de um projeto de&#13;
+conservaÃ§Ã£o de mananciais estratÃ©gicos, onde sÃ£o propostos incentivos financeiros aos&#13;
+produtores rurais, proporcionais aos benefÃ­cios relativos ao abatimento da erosÃ£o e da&#13;
+sedimentaÃ§Ã£o realizados por estes produtores rurais, provedores dos serviÃ§os.&#13;
+       No caso especÃ­fico do PdÃ&#129;-PCJ, o modelo empregado foi adaptado do mecanismo&#13;
+de PSA jÃ¡ existente no municÃ­pio de Extrema no Estado de Minas Gerais. A diferenÃ§a&#13;
+mais importante entre estes dois projetos Ã© a formula para cÃ¡lculo do pagamento. O&#13;
+projeto mineiro calcula o valor do PSA baseado em um valor fixo por hectare&#13;
+multiplicado pelo tamanho total da propriedade. Enquanto que no PdA-PCJ paulista&#13;
+diferentes valores de referencia (ver tabela 1) sÃ£o multiplicados pelos hectares&#13;
+dedicados intervenÃ§Ãµes especÃ­ficas na propriedade rural (conservaÃ§Ã£o de solo e floresta&#13;
+e restauraÃ§Ã£o florestal) para definir o valor de PSA a ser pago ao proprietÃ¡rio rural.&#13;
+Microbacias selecionadas&#13;
+      As microbacias para o PdA-PCJ foram selecionadas segundo critÃ©rios aprovados&#13;
+pelos ComitÃªs PCJ, e descritos no Plano Diretor do PCJ: a microbacia do RibeirÃ£o&#13;
+Cancan, no municÃ­pio de JoanÃ³polis, e a microbacia do RibeirÃ£o Moinho, no municÃ­pio de&#13;
+NazarÃ© Paulista (Figura 1). AlÃ©m de serem prioritÃ¡rias para a produÃ§Ã£o de Ã¡gua no PCJ,&#13;
+ambas as microbacias selecionadas para o projeto estavam inseridas no PRMC e no&#13;
+Programa Estadual de Microbacias HidrogrÃ¡ficas (PEMBH), desenvolvido pela SAA, por&#13;
+meio da CATI. Essas microbacias abrangem na Ã¡rea de 4.212 ha, onde vivem 311 pessoas&#13;
+em 130 propriedades rurais.&#13;
+       O municÃ­pio de JoanÃ³polis tem como principais atividades rurais a pecuÃ¡ria e o&#13;
+plantio de eucalipto para exploraÃ§Ã£o madeireira. A microbacia do RibeirÃ£o CancÃ£ possui&#13;
+uma Ã¡rea de 1.141 ha com 26% da superfÃ­cie com vegetaÃ§Ã£o natural remanescente (301&#13;
+ha), 273 ha de APP associados a corpos dâ&#128;&#153;Ã¡gua e 79 ha recoberta com vegetaÃ§Ã£o de&#13;
+floresta estacional semidecÃ­dua (LERF, 2007a). Das florestas em APP, somente 2 ha sÃ£o&#13;
+consideradas florestas conservadas que nÃ£o necessitam algum nÃ­vel de recuperaÃ§Ã£o&#13;
+(LERF, 2007a). Para a recuperaÃ§Ã£o florestal com o objetivo somente de proteÃ§Ã£o dos&#13;
+recursos hÃ­dricos, existe, portanto, um potencial para recuperaÃ§Ã£o de 194 ha. Foram&#13;
+diagnosticadas 55 propriedades rurais e 156 moradores, em uma Ã¡rea de 2.412 ha (Terra&#13;
+Mater, 2009).&#13;
+       Assim como JoanÃ³polis, o municÃ­pio de NazarÃ© Paulista tem como principal&#13;
+atividade a pecuÃ¡ria e o plantio de eucalipto para exploraÃ§Ã£o madeireira. Muitas&#13;
+propriedades sÃ£o usadas para fins de lazer pelos proprietÃ¡rios que nÃ£o moram no&#13;
+municÃ­pio de NazarÃ© Paulista. A microbacia do RibeirÃ£o Moinho possui uma Ã¡rea de 1.757&#13;
+ha, com 542 ha de remanescentes florestais classificados como floresta estacional&#13;
+semidecÃ­dua (99%) e floresta paludÃ­cola (1%). Da Ã¡rea total da microbacia, 320 ha&#13;
+correspondem a APP relacionada a corpos dâ&#128;&#153;Ã¡gua (LERF, 2007b). Destes Ã¡rea, somente&#13;
+121 ha estÃ£o recobertos por remanescentes florestais e, conseqÃ¼entemente, hÃ¡ 199 ha&#13;
+&#13;
+&#13;
+                                          4&#13;
+&amp;#12;com necessidade de recuperaÃ§Ã£o (LERF, 2007b). Foram diagnosticadas 70 propriedades&#13;
+rurais e 175 moradores distribuÃ­dos em uma Ã¡rea de 1.800 ha.&#13;
+Mecanismo de implementaÃ§Ã£o&#13;
+     O PdÃ&#129;-PCJ prevÃª remuneraÃ§Ã£o por geraÃ§Ã£o e/ou manutenÃ§Ã£o de serviÃ§os&#13;
+ambientais aos agricultores, em trÃªs modalidades distintas de projetos:&#13;
+  ! PrÃ¡ticas que resultem na restauraÃ§Ã£o florestal em APP: visa recompensar&#13;
+     financeiramente o proprietÃ¡rio rural que recuperar as APP de sua propriedade;&#13;
+  ! PrÃ¡ticas que resultem na conservaÃ§Ã£o de florestas existentes: visa remunerar os&#13;
+     agricultores que conservarem os fragmentos florestais jÃ¡ existentes na&#13;
+     propriedade, estando estes dentro ou fora da APP.&#13;
+  ! PrÃ¡ticas que resultem na conservaÃ§Ã£o do solo: visa recompensar financeiramente&#13;
+     o proprietÃ¡rio rural que jÃ¡ adota e os que vierem a adotar prÃ¡ticas de&#13;
+     conservaÃ§Ã£o de solo em sua Ã¡rea de agricultura e/ou pastagem;&#13;
+       Os valores de referÃªncia para pagamento (VRP) das modalidades de restauraÃ§Ã£o e&#13;
+conservaÃ§Ã£o foram definidos a partir do custo de oportunidade dos usos alternativos do&#13;
+solo, considerando principalmente as pastagens, principal uso agrÃ­cola do solo na regiÃ£o&#13;
+(Tabela 1).&#13;
+&#13;
+Tabela 1: Valores de referÃªncia do Produtor de Ã&#129;gua no PCJ&#13;
+(R$/ha/ano)&#13;
+  RestauraÃ§Ã£o de APP                     ConservaÃ§Ã£o de florestas               ConservaÃ§Ã£o do solo&#13;
+                                                         % de APPs a serem     Percentual de abatimento&#13;
+AvaliaÃ§Ã£o da restauraÃ§Ã£o                                    restauradas               de erosÃ£o&#13;
+Medianamente       Bem         EstÃ¡gio sucessional&#13;
+  cuidada        cuidada       da floresta            15-30      31-60   &gt;60   25-50    51-75     &gt;75&#13;
+      83            125        MÃ©dio ou avanÃ§ado         42       83     125    25       50        75&#13;
+                               Inicial                   25       50     75&#13;
+&#13;
+&#13;
+Pagamento	&#13; Â pela	&#13; Â restauraÃ§Ã£o	&#13; Â ecolÃ³gica	&#13; Â em	&#13; Â Ã&#129;PP	&#13; Â &#13;
+       Florestas ao redor de nascentes e matas ciliares tÃªm relaÃ§Ã£o direta com a&#13;
+qualidade de Ã¡gua e afetam a regulaÃ§Ã£o do fluxo hidrolÃ³gico entre a estaÃ§Ã£o seca e a&#13;
+chuvosa (Lima e Zakia, 2004). Nesse sentido, o PdÃ&#129;-PCJ provÃª pagamento aos&#13;
+proprietÃ¡rios rurais que se dispÃµem a restaurar APP degradadas em sua propriedade.&#13;
+       Os VRP para restauraÃ§Ã£o de APP sÃ£o calculados em funÃ§Ã£o da qualidade da&#13;
+manutenÃ§Ã£o pÃ³s-implantaÃ§Ã£o. SÃ£o consideradas como â&#128;&#156;restauraÃ§Ãµes medianamente&#13;
+cuidadasâ&#128;&#157; aquelas em que hÃ¡ falta de zelo ou baixa qualidade da manutenÃ§Ã£o das aÃ§Ãµes&#13;
+implantadas e, conseqÃ¼entemente, prejuÃ­zo para o processo de sucessÃ£o ecolÃ³gica. Para&#13;
+tanto um checklist foi desenvolvido para avaliar o desenvolvimento das atividades&#13;
+implantadas. Como â&#128;&#156;restauraÃ§Ãµes bem cuidadasâ&#128;&#157; sÃ£o consideradas aquelas em que hÃ¡&#13;
+zelo e manutenÃ§Ã£o adequada para as aÃ§Ãµes de restauraÃ§Ã£o florestal implantadas, o que,&#13;
+conseqÃ¼entemente, acelerarÃ¡ o processo de sucessÃ£o ecolÃ³gica.&#13;
+&#13;
+&#13;
+&#13;
+                                                     5&#13;
+&amp;#12;       Ã&#137; importante salientar que, alÃ©m do PSA, os agricultores participantes do projeto&#13;
+sÃ£o beneficiados com a implantaÃ§Ã£o das atividades previstas nos projetos executivos. As&#13;
+instituiÃ§Ãµes envolvidas no projeto arcam com os custos dos insumos, mudas e mÃ£o de&#13;
+obra para a restauraÃ§Ã£o florestal, com os custos para o manejo visando Ã  conservaÃ§Ã£o&#13;
+dos fragmentos florestais (construÃ§Ã£o de cercas e aceiros, manejo de espÃ©cies exÃ³ticas,&#13;
+etc.) e com os custos da implantaÃ§Ã£o e manutenÃ§Ã£o por dois anos das bacias de&#13;
+contenÃ§Ã£o (barraginhas) nos projetos de conservaÃ§Ã£o de solo. Os recursos para estas&#13;
+atividades advÃªm de outras parceiras e projetos que as instituiÃ§Ãµes da UGP do PdÃ&#129;-PCJ&#13;
+possuem.&#13;
+       Do ponto de vista ecolÃ³gico e de geraÃ§Ã£o de serviÃ§os ambientais, florestas jÃ¡&#13;
+estabelecidas, mesmo que em estÃ¡gios iniciais da sucessÃ£o florestal, geram mais&#13;
+benefÃ­cios e serviÃ§os ambientais que florestas implantadas, em processo de restauraÃ§Ã£o.&#13;
+Nesse sentido, o ideal seria um maior pagamento para conservaÃ§Ã£o das florestas do que&#13;
+para a restauraÃ§Ã£o e implantaÃ§Ã£o das mesmas. Entretanto, critÃ©rios foram associados&#13;
+para incentivar a restauraÃ§Ã£o de APPs. Embora controverso, este aspecto foi mantido ao&#13;
+longo do projeto, jÃ¡ que o incentivo a restauraÃ§Ã£o florestal das APPs, via de regra&#13;
+bastantes degradadas nas microbacias envolvidas, Ã© visto como aspecto chave do&#13;
+projeto.&#13;
+&#13;
+Pagamento	&#13; Â pela	&#13; Â conservaÃ§Ã£o	&#13; Â de	&#13; Â florestas	&#13; Â 	&#13; Â &#13;
+       Assim como para a restauraÃ§Ã£o florestal da APP, o princÃ­pio para o pagamento de&#13;
+incentivos aos produtores rurais que conservam os remanescentes florestais de suas&#13;
+propriedades estÃ¡ relacionado ao papel importante que as florestas desempenham na&#13;
+manutenÃ§Ã£o da qualidade da Ã¡gua e na regulaÃ§Ã£o do fluxo hidrolÃ³gico (Lima e Zakia,&#13;
+2004). O valor a ser pago por hectare de floresta remanescente cresce com a qualidade&#13;
+(estÃ¡gio de conservaÃ§Ã£o) das florestas existentes (Tabela 1). Importante ressaltar que o&#13;
+pagamento para conservaÃ§Ã£o de florestas existentes prevÃª tratamento igual para&#13;
+florestas em APP e fora dela.&#13;
+        Propriedades que nÃ£o possuem APP ripÃ¡rias dentro de seus limites tambÃ©m estÃ£o&#13;
+aptas a receber pela conservaÃ§Ã£o de fragmentos florestais existentes. Nestes casos, as&#13;
+propriedades sÃ£o consideradas sem dÃ©ficit de APP e, conseqÃ¼entemente, os VRP&#13;
+(R$/ha/ano) por conservaÃ§Ã£o de florestas correspondem R$ 125,00 para florestas em&#13;
+estÃ¡gio sucessional mÃ©dio ou avanÃ§ado e R$ 75,00 para florestas em estÃ¡gio sucessional&#13;
+inicial. Por outro lado, propriedades que possuam menos de 15% de sua APP ripÃ¡ria&#13;
+conservada ou comprometida com atividades de restauraÃ§Ã£o do projeto, nÃ£o estÃ£o aptas&#13;
+a participar do projeto.&#13;
+        Os critÃ©rios de enquadramento referentes aos estÃ¡gios sucessionais de florestas&#13;
+seguem a resoluÃ§Ã£o do Conselho Nacional do Meio Ambiente (CONAMA) No.1, de 31 de&#13;
+janeiro de 1994, que descreve a vegetaÃ§Ã£o primÃ¡ria e secundÃ¡ria nos estÃ¡gios pioneiro,&#13;
+inicial, mÃ©dio e avanÃ§ado de regeneraÃ§Ã£o da Mata AtlÃ¢ntica.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                        6&#13;
+&amp;#12;Pagamento	&#13; Â pela	&#13; Â conservaÃ§Ã£o	&#13; Â do	&#13; Â solo	&#13; Â &#13;
+       Para as prÃ¡ticas de conservaÃ§Ã£o do solo, o PdA-PCJ prevÃª pagamentos nÃ£o sÃ³ por&#13;
+prÃ¡ticas de conservaÃ§Ã£o de solo que serÃ£o executadas, mas tambÃ©m por prÃ¡ticas jÃ¡&#13;
+adotadas pelos agricultores3, tais como terraceamento, calagem, pastejo rotacionado,&#13;
+adubaÃ§Ã£o verde, etc. Em ambos os casos, o VRP varia em funÃ§Ã£o do percentual de&#13;
+abatimento de erosÃ£o (PAE), que Ã© calculado levando-se em conta as perdas de solo&#13;
+antes e apÃ³s a adoÃ§Ã£o das prÃ¡ticas de conservaÃ§Ã£o (ANA, 2003, apud Chaves e outros,&#13;
+2010). Quanto maior o nÃ­vel de abatimento da erosÃ£o, maior o valor pago pelo projeto&#13;
+(Tabela 1). Projetos de conservaÃ§Ã£o que propiciem menos de 25% de PAE nÃ£o sÃ£o&#13;
+contemplados com PSA.&#13;
+       Para a conservaÃ§Ã£o do solo, os VRP nÃ£o foram baseados nos custos de&#13;
+oportunidade. Isto porque as prÃ¡ticas de conservaÃ§Ã£o do solo nÃ£o substituem o uso do&#13;
+solo atual e, no mÃ©dio prazo, podem atÃ© aumentar a produtividade das atividades&#13;
+agrÃ­colas. Desta forma, o valor pago pela conservaÃ§Ã£o de solo foi baseado nos custos&#13;
+esperados das prÃ¡ticas e em seus benefÃ­cios futuros Ã  produÃ§Ã£o da atividade principal.&#13;
+CritÃ©rios de elegibilidade dos participantes e processo de seleÃ§Ã£o&#13;
+       Podem participar no PdÃ&#129;-PCJ todos os proprietÃ¡rios rurais (pessoas fÃ­sicas ou&#13;
+jurÃ­dicas) cujas propriedades estejam inseridas total ou parcialmente dentro dos limites&#13;
+das microbacias hidrogrÃ¡ficas do RibeirÃ£o Moinho e RibeirÃ£o CancÃ£. No entanto, para a&#13;
+inclusÃ£o no projeto, os agricultores interessados devem apresentar uma sÃ©rie de&#13;
+documentos pessoais e do imÃ³vel, que comprovem a propriedade ou posse do imÃ³vel.&#13;
+Esse critÃ©rio visa garantir que as Ã¡reas cadastradas no projeto sejam, de fato, dos&#13;
+agricultores envolvidos. AlÃ©m disso, sÃ£o critÃ©rios mÃ­nimos para a inclusÃ£o dos&#13;
+proprietÃ¡rios no projeto (1) a proteÃ§Ã£o de no mÃ­nimo 15% da APP (APP conservada&#13;
+somada Ã  Ã¡rea a restaurar pelo projeto) e (2) a concordÃ¢ncia com pelo menos 25% do&#13;
+proposto pelos tÃ©cnicos no projeto â&#128;&#156;idealâ&#128;&#157;.&#13;
+       A primeira etapa para a inclusÃ£o do proprietÃ¡rio rural no projeto ocorre com a&#13;
+manifestaÃ§Ã£o formal de seu interesse, por meio do preenchimento de formulÃ¡rio prÃ³prio&#13;
+do projeto, disponÃ­vel nas Casas da Agricultura dos municÃ­pios envolvidos (Figura 2).&#13;
+ApÃ³s este contato inicial, Ã© agendada uma visita a propriedade. Nessa visita, equipe&#13;
+composta por tÃ©cnicos da TNC, CATI e SMA apresenta ao agricultor a lista de documentos&#13;
+necessÃ¡rios para participaÃ§Ã£o no projeto e coleta dados de campo. Posteriormente, os&#13;
+tÃ©cnicos elaboram um projeto tÃ©cnico â&#128;&#156;idealâ&#128;&#157;, considerando todos os aspectos&#13;
+pertinentes as modalidades abrangidas pelo projeto. Ã&#137; importante salientar que cada&#13;
+uma das instituiÃ§Ãµes citadas Ã© responsÃ¡vel pela elaboraÃ§Ã£o de um projeto especÃ­fico: a&#13;
+CATI Ã© responsÃ¡vel pelo projeto de conservaÃ§Ã£o do solo, a TNC pelo de conservaÃ§Ã£o de&#13;
+fragmentos florestais e a SMA pelo de restauraÃ§Ã£o de florestas em APP.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+3&#13;
+    Para o calculo do PAE nesta situaÃ§Ã£o utilizamos o VRP para a cultura sem a pratica de conservaÃ§Ã£o de&#13;
+    solo jÃ¡ implantada.&#13;
+&#13;
+                                                     7&#13;
+&amp;#12;Figura 2: Fluxograma de funcionamento do Produtor de Ã&#129;gua no PCJ&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                               8&#13;
+&amp;#12;       Uma vez elaborado o projeto tÃ©cnico â&#128;&#156;idealâ&#128;&#157;, o mesmo Ã© apresentado ao&#13;
+proprietÃ¡rio rural, que, por vontade prÃ³pria, seleciona as prÃ¡ticas e aÃ§Ãµes do projeto&#13;
+â&#128;&#156;idealâ&#128;&#157; que se propÃµe a executar. O projeto executivo Ã© entÃ£o readequado pelos&#13;
+tÃ©cnicos do projeto e acordado formalmente com os proprietÃ¡rios rurais, por meio da&#13;
+assinatura do formulÃ¡rio de â&#128;&#156;proposta do proprietÃ¡rio ruralâ&#128;&#157;, que consta no projeto&#13;
+executivo. Numa etapa seguinte, o projeto executivo com plano de trabalho jÃ¡ acordado&#13;
+com o produtor rural Ã© apresentado em reuniÃµes trimestrais ordinÃ¡rias da UGP e julgado&#13;
+por todos os parceiros envolvidos no projeto, quanto aos aspectos tÃ©cnicos, documentais&#13;
+e de coerÃªncia das atividades do agricultor com o escopo do projeto. Neste Ãºltimo&#13;
+aspecto, evita-se aprovar projetos de agricultores cujas prÃ¡ticas agrÃ­colas em Ã¡reas nÃ£o&#13;
+abrangidas pelo projeto sÃ£o claramente nocivas Ã  conservaÃ§Ã£o dos recursos hÃ­dricos. Se&#13;
+aprovado, o agricultor passa a ser reconhecido como â&#128;&#156;produtor de Ã¡guaâ&#128;&#157;, sendo sua&#13;
+documentaÃ§Ã£o encaminhada para a formalizaÃ§Ã£o de um contrato de prestaÃ§Ã£o de&#13;
+serviÃ§os.&#13;
+      AtÃ© o momento, o nÃºmero de projetos executivos inseridos no PdÃ&#129;-PCJ Ã© inferior&#13;
+ao montante de recursos disponÃ­vel para PSA, o que nÃ£o tem exigido a priorizaÃ§Ã£o de&#13;
+quais produtores participarÃ£o do projeto. Entretanto, estabeleceu-se que, caso o&#13;
+montante de recursos dos projetos apresentados Ã  UGP exceda o recurso disponÃ­vel para&#13;
+PSA, as propriedades serÃ£o selecionadas com base (1) no percentual de floresta nativa&#13;
+remanescente, sendo dada preferÃªncia Ã quelas com maior percentual e (2) no&#13;
+percentual de aceite pelo produtor do proposto no projeto ideal, sendo selecionadas&#13;
+aquelas com maior percentual de aceite.&#13;
+Forma de pagamentos e fonte de recursos&#13;
+       ApÃ³s a aprovaÃ§Ã£o do projeto e da documentaÃ§Ã£o dos agricultores pela UGP, Ã©&#13;
+elaborado um contrato de prestaÃ§Ã£o de serviÃ§os entre o produtor e a TNC, tomadora do&#13;
+recurso dos ComitÃªs PCJ destinado ao PSA. O contrato com os agricultores Ã© feito via&#13;
+TNC porque, no momento em que o projeto foi criado, a TNC, ao contrÃ¡rio das&#13;
+instituiÃ§Ãµes pÃºblicas parceiras do projeto, nÃ£o tinha restriÃ§Ãµes legais para elaboraÃ§Ã£o de&#13;
+contratos com pessoas fÃ­sicas envolvendo o uso de recursos pÃºblicos. Por meio desse&#13;
+contrato, o produtor se compromete a executar as atividades acordadas no projeto&#13;
+executivo. O contrato tem duraÃ§Ã£o de trÃªs anos e, independentemente da modalidade,&#13;
+os pagamentos sÃ£o sempre divididos em seis parcelas e repassados semestralmente aos&#13;
+produtores, via depÃ³sito em conta-corrente.&#13;
+       Os pagamentos sÃ£o realizados por Contrato de PrestaÃ§Ã£o de ServiÃ§os, com geraÃ§Ã£o&#13;
+de recibo de pagamento a autÃ´nomo (RPA) e de tributos que atualmente sÃ£o pagos pelo&#13;
+prÃ³prio projeto. Ainda nÃ£o estÃ¡ clara, do ponto de vista fiscal e jurÃ­dico, a forma&#13;
+apropriada com que devem ser feitos os pagamentos nestes tipos de contrato. A&#13;
+modalidade de contrato - prestaÃ§Ã£o de serviÃ§os - somente foi adotada por ser a forma&#13;
+mais segura do ponto de vista fiscal. Cabe aqui ressaltar que estes aspectos demandam&#13;
+mais estudos e discussÃµes, de forma a se chegar a um consenso sobre a melhor forma de&#13;
+se realizar pagamentos a agricultores que geram serviÃ§os ambientais como os&#13;
+apresentados nesse estudo.&#13;
+&#13;
+&#13;
+&#13;
+                                            9&#13;
+&amp;#12;       Embora atÃ© o momento nÃ£o haja uma possibilidade concreta de renovaÃ§Ã£o dos&#13;
+contratos, espera-se que com o avanÃ§o do projeto, as prefeituras municipais envolvidas&#13;
+se fortaleÃ§am, criem novas parcerias e elaborem suas prÃ³prias polÃ­ticas de PSA, apoiadas&#13;
+fortemente pelos ComitÃªs PCJ. Dessa forma, poderiam manter o PSA para os agricultores&#13;
+das duas microbacias envolvidas neste projeto e atÃ© mesmo ampliar o PSA para outras&#13;
+microbacias dos municÃ­pios. Para isto, poderiam pleitear recursos dos ComitÃªs PCJ, do&#13;
+Fundo Estadual de PrevenÃ§Ã£o e Controle da PoluiÃ§Ã£o (FECOP), por meio da ampliaÃ§Ã£o do&#13;
+Projeto Estadual de PSA denominado â&#128;&#156;Mina dâ&#128;&#153;Ã&#129;guaâ&#128;&#157;, ou mesmo angariar fontes privadas&#13;
+de recursos para PSA principalmente de grandes usuÃ¡rios de Ã¡gua como companhias de&#13;
+abastecimento publico (e.g. a Companhia de Saneamento Basico do Estado de SÃ£o Paulo-&#13;
+SABESP).&#13;
+       Previamente a cada perÃ­odo agendado para o pagamento aos agricultores (ou&#13;
+seja, a cada seis meses), Ã© realizada vistoria pela equipe tÃ©cnica do projeto PdÃ&#129;-PCJ e&#13;
+por representantes da CÃ¢mera TÃ©cnica Rural dos ComitÃªs PCJ. Os pagamentos sÃ³ sÃ£o&#13;
+aprovados caso esta vistoria tÃ©cnica constate que as atividades previstas nos planos de&#13;
+trabalho, acordados individualmente com cada agricultor, estejam sendo cumpridas e&#13;
+bem executadas. Em caso negativo, o pagamento nÃ£o Ã© feito, atÃ© que as atividades&#13;
+previstas no plano de trabalho para o perÃ­odo sejam realizadas e/ou regularizadas.&#13;
+      Os recursos utilizados para o PSA sÃ£o oriundos da cobranÃ§a pelo uso da Ã¡gua,&#13;
+gerenciados pelos ComitÃªs PCJ e executados pela AgÃªncia de Ã&#129;gua PCJ.&#13;
+       Um dos pontos debatidos ao longo do estabelecimento do projeto foi a legalidade&#13;
+de utilizar repasses de recursos pÃºblicos para o pagamento de serviÃ§os ambientais a&#13;
+produtores, em propriedades particulares. ApÃ³s vÃ¡rias consultas, considerou-se que o&#13;
+PdÃ&#129;-PCJ nÃ£o se presta a transferÃªncia de recursos a pessoas fÃ­sicas para satisfaÃ§Ã£o de&#13;
+suas necessidades. Trata-se, no entanto, da remuneraÃ§Ã£o por serviÃ§os ambientais&#13;
+efetivamente prestados, sujeitando-se, inclusive, a processo licitatÃ³rio e a comprovaÃ§Ã£o&#13;
+de desempenho (Veiga Neto, 2008). Nesse sentido, o projeto segue a lÃ³gica do usuÃ¡rio-&#13;
+pagador, provedor recebedor, com os agricultores, provedores ou mantenedores do&#13;
+serviÃ§o ambiental recebendo incentivos por serviÃ§os prestados para a sociedade inserida&#13;
+na bacia hidrogrÃ¡fica do PCJ como um todo (Tabela 2).&#13;
+&#13;
+Tabela 2: Esquema do pagamento de serviÃ§os ambientais proposto pelo Produtor de&#13;
+       Ã&#129;gua no PCJ&#13;
+ServiÃ§os ambientais em pauta     ReduÃ§Ã£o de erosÃ£o (sedimentaÃ§Ã£o) e regulaÃ§Ã£o da&#13;
+                                 vazÃ£o (perÃ­odo das Ã¡guas e da seca)&#13;
+Quem provÃª o serviÃ§o             Produtores que irÃ£o restaurar e conservar a&#13;
+                                 floresta e irÃ£o realizar prÃ¡ticas de conservaÃ§Ã£o do&#13;
+                                 solo&#13;
+Quem recebe e paga pelo serviÃ§o  A sociedade regional representada pelo ComitÃªs&#13;
+                                 de Bacia do PCJ&#13;
+ValoraÃ§Ã£o econÃ´mica (no primeiro ReduÃ§Ã£o de custos de tratamento de Ã¡gua&#13;
+momento)&#13;
+&#13;
+&#13;
+                                          10&#13;
+&amp;#12;        O montante total de recursos disponibilizados pelos ComitÃªs PCJ para a execuÃ§Ã£o&#13;
+ do projeto piloto de PSA nas bacias, para os trÃªs anos do projeto, equivale a R$ 395.250.&#13;
+ Desse total, estÃ£o previstos R$ 114.750 para o pagamento de serviÃ§os ambientais&#13;
+ relacionados Ã  implantaÃ§Ã£o de prÃ¡ticas de conservaÃ§Ã£o de solo, R$ 78.000 para a&#13;
+ restauraÃ§Ã£o de APP e R$ 202.500 para a conservaÃ§Ã£o de florestas. Se considerados os&#13;
+ valores de R$ 75/ha/ano para a conservaÃ§Ã£o de solo, R$ 125/ha/ano para restauraÃ§Ã£o&#13;
+ ecolÃ³gica de APP e de R$ 75/ha/ano para a conservaÃ§Ã£o de florestas, o montante de&#13;
+ recurso disponÃ­vel seria suficiente para garantir o pagamento, durante trÃªs anos, por&#13;
+ prÃ¡ticas de conservaÃ§Ã£o de solo em 510 ha, pela restauraÃ§Ã£o ecolÃ³gica de 208 ha e pela&#13;
+ conservaÃ§Ã£o de 540 ha de florestas. Somadas essas Ã¡reas, o projeto teria recursos para o&#13;
+ PSA em 1258 ha. Estes sÃ£o somente para pagamentos, os custos previstos para as&#13;
+ atividades de campo (terraÃ§o, barraginha, restauraÃ§Ã£o florestal, etc.) sÃ£o pagas com&#13;
+ recurso das instituiÃ§Ãµes parcerias.&#13;
+&#13;
+                               4. Resultados e discussÃ£o&#13;
+       O projeto encontra-se em fase de assinatura dos primeiros contratos e realizaÃ§Ã£o&#13;
+ dos primeiros pagamentos. AtÃ© agosto de 2011, o projeto consta com 17 agricultores&#13;
+ com contratos de prestaÃ§Ã£o de serviÃ§o em vigor, sendo cinco em NazarÃ© Paulista e 12&#13;
+ em JoanÃ³polis. No total, esses contratos representam um valor de R$ 72.827 (Tabela 3).&#13;
+ TrÃªs vistorias tÃ©cnicas jÃ¡ foram realizadas nestas propriedades, sendo os primeiros&#13;
+ pagamentos autorizados em marÃ§o de 2011. AlÃ©m dos contratos assinados, o projeto tem&#13;
+ outros 29 projetos jÃ¡ aprovados que estÃ£o em fase de elaboraÃ§Ã£o de contratos. Esses&#13;
+ projetos tÃªm um valor total previsto pelos projetos executivos de R$ 118.855.&#13;
+&#13;
+Tabela 3: Ã&#129;rea e valor do PSA por modalidade trabalhada, atÃ© agosto de 2011&#13;
+                                                        29 projetos&#13;
+                                                      aprovados pela          Total&#13;
+                                                     UGP (em fase de     (17 contratos +&#13;
+                                 17 contratos         elaboraÃ§Ã£o dos       29 projetos&#13;
+                                  assinados             contratos)         aprovados)&#13;
+                               Ã&#129;rea   Valor PSA      Ã&#129;rea   Valor PSA   Ã&#129;rea    Valor PSA&#13;
+Modalidade                     (ha)     (R$)         (ha)     (R$)      (ha)      (R$)&#13;
+RestauraÃ§Ã£o ecolÃ³gica da APP     51      18.592        37     13.755       87      32.347&#13;
+ConservaÃ§Ã£o de floresta&#13;
+em estÃ¡gio mÃ©dio/avanÃ§ado       125      40.858       229     81.396      354    122.254&#13;
+em estÃ¡gio inicial               25        4.748       27       5.917      53      10.665&#13;
+ConservaÃ§Ã£o solo                 39        8.629       79     17.777      118      26.406&#13;
+Totais                          240      72.827      372     118.845      612    191.672&#13;
+&#13;
+&#13;
+        Observa-se que a conservaÃ§Ã£o de florestas tem sido a modalidade com maior Ã¡rea&#13;
+ trabalhada e maior valor de PSA despendido, seguida pela restauraÃ§Ã£o ecolÃ³gica em APP&#13;
+ e pela conservaÃ§Ã£o de solo. NÃ£o houve atÃ© o momento descumprimento das condiÃ§Ãµes&#13;
+&#13;
+&#13;
+                                                11&#13;
+&amp;#12;necessÃ¡rias para o pagamento dos agricultores, ou seja, todos os agricultores com&#13;
+contrato assinado estÃ£o cumprindo as etapas acordadas no cronograma de trabalho.&#13;
+       Com relaÃ§Ã£o ao custo para a execuÃ§Ã£o das atividades previstas nos projetos&#13;
+executivos, estima-se um custo mÃ©dio de R$ 15.000/ha de Ã¡rea de restauraÃ§Ã£o ecolÃ³gica&#13;
+em APP, o que daria, para os contratos jÃ¡ assinados e projetos aprovados um montante&#13;
+de R$ 765.000. Este custo envolve desde o preparo da Ã¡rea e cercamento atÃ© a&#13;
+manutenÃ§Ã£o por pelo menos dois anos. Para as demais atividades (conservaÃ§Ã£o de solo e&#13;
+de florestas), os custos por Ã¡rea sÃ£o menores e muito variÃ¡veis em funÃ§Ã£o das prÃ¡ticas&#13;
+que sÃ£o adotadas em cada situaÃ§Ã£o. Para a conservaÃ§Ã£o dos 150 ha de florestas dos&#13;
+desessete primeiros contratos assinados, por exemplo, o valor previsto para ser gasto&#13;
+com as atividades descritas nos projetos executivos Ã© de aproximadamente R$ 250.000,&#13;
+empregado basicamente em cercas. Entretanto, hÃ¡ Ã¡reas em que nÃ£o haverÃ¡ custo&#13;
+algum para a conservaÃ§Ã£o e Ã¡reas com custo por hectare elevado, em funÃ§Ã£o da&#13;
+necessidade de cercamento de todo o perÃ­metro do fragmento a ser conservado.&#13;
+       Ainda nÃ£o se iniciou a etapa de avaliaÃ§Ã£o e monitoramento dos serviÃ§os&#13;
+ambientais gerados ou conservados pelo projeto. Entretanto, esta etapa estÃ¡ prevista no&#13;
+projeto e deve se iniciar em breve, uma vez que constitui etapa importante para a&#13;
+validaÃ§Ã£o do projeto como mecanismo de melhoria dos serviÃ§os ambientais por meio do&#13;
+incentivo aos provedor-mantenedores dos recursos hÃ­dricos. Os indicadores quali-&#13;
+quantitativos de monitoramento da Ã¡gua que serÃ£o utilizados ainda estÃ£o sendo&#13;
+discutidos pelos parceiros do projeto.&#13;
+      O primeiro e constante desafio do projeto foi manter a articulaÃ§Ã£o institucional&#13;
+dada pela formaÃ§Ã£o da UGP. O projeto inicialmente contava com o apoio de projetos&#13;
+especÃ­ficos das instituiÃ§Ãµes parceiras, os quais se finalizaram ao longo do cronograma.&#13;
+Com isto, importantes contrapartidas foram perdidas.&#13;
+      O montante total de recursos comprometidos pelos 17 contratos assinados e pelos&#13;
+oito projetos aprovados (R$ 72.827) representa apenas 19% do total de recurso&#13;
+disponibilizados para o PSA. Uma vez que existem chamadas previstas para a inserÃ§Ã£o de&#13;
+produtores somente atÃ© novembro de 2011, esses valores sugerem que Ã© preciso ampliar&#13;
+a adesÃ£o dos agricultores e/ou prorrogar o prazo de vigÃªncia do projeto.&#13;
+        De fato, outro desafio do projeto tem sido conquistar a confianÃ§a do produtor&#13;
+rural e provar que esta iniciativa vem de encontro com as suas necessidades. Para isso,&#13;
+tem sido colocado de forma bem clara e rÃ¡pida que o projeto nÃ£o tem carÃ¡ter de&#13;
+fiscalizaÃ§Ã£o e sim de orientaÃ§Ã£o e soluÃ§Ã£o parcial para seus impasses ambientais, tais&#13;
+como a delimitaÃ§Ã£o real da APP (e eventual restauraÃ§Ã£o) e atÃ© mesmo problemas de&#13;
+conservaÃ§Ã£o do solo e as possÃ­veis prÃ¡ticas mitigatÃ³rias.&#13;
+        AlÃ©m da problemÃ¡tica de o agricultor enxergar o projeto como um programa&#13;
+fiscalizador, vÃ¡rios outros motivos pode estar associados Ã  baixa adesÃ£o dos mesmos ao&#13;
+projeto, como: (1) a falta ou dificuldade para a aquisiÃ§Ã£o de documentos pessoais ou&#13;
+que comprovem a posse ou propriedade do imÃ³vel; (2) a desconfianÃ§a dos agricultores&#13;
+quanto a real efetivaÃ§Ã£o do projeto, uma vez que vÃ¡rios projetos jÃ¡ lhes foram&#13;
+apresentados por instituiÃ§Ãµes diversas, sem, no entanto, se concretizarem; (3) o baixo&#13;
+&#13;
+&#13;
+                                          12&#13;
+&amp;#12;valor do PSA, uma vez que, em vÃ¡rios casos, os produtores apresentam outras atividades&#13;
+mais rentÃ¡veis na propriedade ou sÃ£o proprietÃ¡rios rurais residentes nas cidades, com&#13;
+fontes de renda mais rentÃ¡veis, nÃ£o condizentes com a realidade rural da regiÃ£o; (4) a&#13;
+desconfianÃ§a em relaÃ§Ã£o Ã  formalidade existente para a efetivaÃ§Ã£o do pagamento, uma&#13;
+vez que Ã© necessÃ¡ria a elaboraÃ§Ã£o de um contrato de prestaÃ§Ã£o de serviÃ§os - embora&#13;
+este seja um aspecto positivo para o agricultor, o mesmo freqÃ¼entemente enxerga esta&#13;
+formalidade como uma etapa negativa no processo; (5) o receio de perder terras&#13;
+agrÃ­colas por atividades de restauraÃ§Ã£o florestal em APP; (6) incerteza quanto Ã  situaÃ§Ã£o&#13;
+do CÃ³digo Florestal Brasileiro.&#13;
+       Diante das dificuldades relatadas, os parceiros do projeto tÃªm discutido formas de&#13;
+alavancar a participaÃ§Ã£o dos agricultores. Dentre as aÃ§Ãµes adotadas recentemente estÃ£o&#13;
+(1) a elaboraÃ§Ã£o de um plano de aÃ§Ã£o em cada microbacia, destacando agricultores&#13;
+potenciais para o envolvimento no projeto; (2) a redefiniÃ§Ã£o e simplificaÃ§Ã£o da&#13;
+documentaÃ§Ã£o necessÃ¡ria para participaÃ§Ã£o no projeto, uma vez que alguns documentos&#13;
+eram difÃ­ceis de obter e desnecessÃ¡rios; (3) a solicitaÃ§Ã£o, logo no primeiro contato, da&#13;
+documentaÃ§Ã£o necessÃ¡ria para a inclusÃ£o no projeto, uma vez que esta etapa Ã©&#13;
+geralmente longa e, em algumas vezes, foi observado que a documentaÃ§Ã£o do produtor&#13;
+era incompleta sÃ³ apÃ³s a elaboraÃ§Ã£o do projeto executivo; e (4) a redistribuiÃ§Ã£o e&#13;
+difusÃ£o de material de comunicaÃ§Ã£o informativo do projeto.&#13;
+       Inicialmente, o edital do Produtor de Ã&#129;gua no PCJ estipulava um valor mÃ­nimo de&#13;
+R$ 250 para que o produtor recebesse por uma modalidade especÃ­fica de PSA. Observou-&#13;
+se, no entanto, que este aspecto limitava a inclusÃ£o de pequenos produtores,&#13;
+especialmente na microbacia do Moinho. Este aspecto foi entÃ£o revisado no edital,&#13;
+existindo hoje apenas um limite mÃ­nimo de R$ 250 por produtor, nÃ£o mais por&#13;
+modalidade especÃ­fica.&#13;
+       Outro ponto a ressaltar com relaÃ§Ã£o aos proprietÃ¡rios rurais participantes Ã© que,&#13;
+dos 46 proprietÃ¡rios rurais envolvidos atÃ© o momento (17 com contratos e 29 com&#13;
+projetos aprovados), 30 nÃ£o sÃ£o dependentes da agricultura. Estes proprietÃ¡rios tÃªm&#13;
+imÃ³veis rurais, mas residem na cidade, onde tÃªm outras fontes de renda; ou moram na&#13;
+propriedade rural, mas ainda assim a renda advinda da propriedade nÃ£o Ã© a principal&#13;
+fonte de renda familiar. Este aspecto pode estar relacionado ao receio daqueles que&#13;
+vivem da terra de perder Ã¡reas agrÃ­colas para as atividades implantadas no projeto,&#13;
+como a restauraÃ§Ã£o da APP. AlÃ©m disso, possivelmente a descrenÃ§a em relaÃ§Ã£o ao&#13;
+projeto Ã© menor por parte dos proprietÃ¡rios que nÃ£o residem na microbacia, uma vez&#13;
+que estes talvez nÃ£o tenham tido frustradas as expectativas com projetos que nÃ£o&#13;
+saÃ­ram do papel.&#13;
+&#13;
+                           5. ConclusÃµes e perspectivas&#13;
+      Com a consolidaÃ§Ã£o do primeiro projeto piloto de PSA na bacia do PCJ, a&#13;
+expectativa Ã© fortalecer o conceito de PSA nos ComitÃªs do PCJ; abrindo a possibilidade&#13;
+para ampliar a Ã¡rea de abrangÃªncia geogrÃ¡fica e aumentar a dotaÃ§Ã£o orÃ§amentÃ¡ria para&#13;
+programas e projetos de PSA a agricultores. Estes aspectos beneficiariam proprietÃ¡rios&#13;
+&#13;
+&#13;
+&#13;
+                                           13&#13;
+&amp;#12;rurais que adotam prÃ¡ticas conservacionistas em Ã¡reas prioritÃ¡rias para conservaÃ§Ã£o e&#13;
+â&#128;&#156;produtores de Ã¡guaâ&#128;&#157; na bacia, e influenciariam positivamente a paisagem da regiÃ£o.&#13;
+      Embora a participaÃ§Ã£o dos agricultores no projeto tenha sido tÃ­mida no inicio do&#13;
+projeto, Ã  medida que os primeiros proprietÃ¡rios receberam os primeiros pagamentos&#13;
+houve maior interesse dos proprietÃ¡rios rurais e, conseqÃ¼entemente, maior adesÃ£o dos&#13;
+projetos nas microbacias atendidas.&#13;
+       Esperamos que o projeto resulte nÃ£o sÃ³ em melhorias na qualidade e regulaÃ§Ã£o do&#13;
+fluxo de Ã¡gua, mas tambÃ©m em benefÃ­cios socioambientais para as microbacias&#13;
+envolvidas. Este Ãºltimo aspecto serÃ¡ avaliado futuramente, pela comparaÃ§Ã£o dos dados&#13;
+de levantamentos socioambientais, realizados no inÃ­cio e fim do projeto.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                         14&#13;
+&amp;#12;                                ReferÃªncias bibliogrÃ¡ficas&#13;
+Bishop, J., e N. Landell-Mills. 2005. â&#128;&#156;ServiÃ§os Ambientais Florestais: InformaÃ§Ãµes Gerais.â&#128;&#157; In: S.&#13;
+    Pagiola, J. Bishop, e N. Landell-Mills (Org.), Mercados Para ServiÃ§os EcossistÃªmicos:&#13;
+    Instrumentos EconÃ´micos Para ConservaÃ§Ã£o e Desenvolvimento. Rio de Janeiro: Instituto&#13;
+    Rede Brasileira Agroflorestal.&#13;
+Chaves, H.M.L., B. Braga Jr, A.F. Domingues, e D.G. Santos. 2004. â&#128;&#156;QuantificaÃ§Ã£o dos benefÃ­cios&#13;
+    e compensaÃ§Ãµes do â&#128;&#152;Programa Produtor de Ã&#129;guaâ&#128;&#153; (ANA): I. Teoria.â&#128;&#157; Revista da AssociaÃ§Ã£o&#13;
+    Brasileira de Recursos HÃ­dricos, 9(3), pp.5-14.&#13;
+LERF (LaboratÃ³rio EcolÃ³gico de RecuperaÃ§Ã£o Florestal). 2007a. â&#128;&#156;Programa de adequaÃ§Ã£o&#13;
+    ambiental da Microbacia do RibeirÃ£o Cancan â&#128;&#147; RelatÃ³rio Geral.â&#128;&#157; Piracicaba: Secretaria&#13;
+    Executiva dos ComitÃªs PCJ.&#13;
+LERF (LaboratÃ³rio EcolÃ³gico de RecuperaÃ§Ã£o Florestal). 2007b. â&#128;&#156;Programa de adequaÃ§Ã£o&#13;
+    ambiental da Microbacia do RibeirÃ£o Moinho â&#128;&#147; RelatÃ³rio Geral.â&#128;&#157; Piracicaba: Secretaria&#13;
+    Executiva dos ComitÃªs PCJ.&#13;
+Lima, W.P., e M.J.B. Zakia. 2004. â&#128;&#156;Hidrologia de matas ciliares.â&#128;&#157; In: R.R. Rodrigues e H.F.&#13;
+    LeitÃ£o-Filho (Org.), Matas Ciliares: ConservaÃ§Ã£o e RecuperaÃ§Ã£o, 2a ediÃ§Ã£o. SÃ£o Paulo: Edusp.&#13;
+Proesp Engenharia, 2005. â&#128;&#156;Plano diretor para recomposiÃ§Ã£o florestal visando a produÃ§Ã£o de Ã¡gua&#13;
+    nas Bacias HidrÃ³grÃ¡ficas do rio Piracicaba, CapivarÃ­ e JundiaÃ­â&#128;&#157;. Piracicaba: Secretaria&#13;
+    Executiva dos ComitÃªs PCJ.&#13;
+Terra Mater. 2009. â&#128;&#156;ServiÃ§os de monitoramento sÃ³cio-econÃ´mico e de percepÃ§Ã£o ambiental em&#13;
+    microbacias piloto â&#128;&#147; â&#128;&#152;Projeto de Pagamento de ServiÃ§os Ambientais.â&#128;&#153;â&#128;&#157; Contrato NÂ° 053/2008&#13;
+    â&#128;&#147; PRMG/GEF/BIRD. SÃ£o Paulo: SMA.&#13;
+Veiga-Neto, F.C. 2008. â&#128;&#156;A construÃ§Ã£o dos mercados de serviÃ§os ambientais e suas implicaÃ§Ãµes&#13;
+    para o desenvolvimento sustentÃ¡vel no Brasil.â&#128;&#157; Tese de Doutorado em Desenvolvimento,&#13;
+    Agricultura e Sociedade. Rio de Janeiro: Instituto de CiÃªncias Humanas e Sociais,&#13;
+    Universidade Federal Rural do Rio de Janeiro.&#13;
+Whately, M., e P. Cunha, 2007. Cantareira 2006: Um Olhar Sobre o Maior Manancial de Ã&#129;gua da&#13;
+    RegiÃ£o Metropolitana de SÃ£o Paulo. SÃ£o Paulo: Instituto Socioambiental.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                15&#13;
+&amp;#12;</ml:original-txt><ml:search-metadata><doc id="19457378">
+        <url>
+            http://documents.worldbank.org/curated/en/2012/10/19457378/o-projeto-produtor-de-água-na-bacia-hidrográfica-pcj-em-são-paulo-brasil
+        </url>
+        <availablein>Portuguese</availablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2012/10/19457378/o-projeto-produtor-de-água-na-bacia-hidrográfica-pcj-em-são-paulo-brasil</url_friendly_title>
+        <new_url>2012/10/19457378/o-projeto-produtor-de-água-na-bacia-hidrográfica-pcj-em-são-paulo-brasil</new_url>
+        <disclosure_date>2014-05-05T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2014-05-05T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/05/05/000456286_20140505150824/Rendered/INDEX/879010NWP0PORT0385214B00PUBLIC0.pdf.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/05/05/000456286_20140505150824/Rendered/PDF/879010NWP0PORT0385214B00PUBLIC0.pdf.pdf</pdfurl>
+        <docdt>2012-10-01T00:00:00Z</docdt>
+        <datestored>2014-05-05T00:00:00Z</datestored>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            O Projeto Produtor de Água na bacia
+            hidrográfica PCJ em São Paulo, Brasil
+        </repnme>
+        <abstracts>
+            This working paper points out that the
+            state of São Paulo is planning to make the Payment for
+            Environmental Services (PSA) an important part of its
+            combination of policies to solve environmental problems. The
+            Producer of Water in the PCJ (PoA-PCJ) is the pilot project
+            of the PSA in the state where the strategies are designed,
+            tested and evaluated as an important subsidy for
+            larger-scale programs in the state.
+        </abstracts>
+        <docna>
+            O Projeto Produtor de Água na bacia
+            hidrográfica PCJ em São Paulo, Brasil
+        </docna>
+        <display_title>O Projeto Produtor de Água na
+            bacia hidrográfica PCJ em São Paulo, Brasil</display_title>
+        <listing_relative_url>/research/2012/10/19457378/o-projeto-produtor-de-água-na-bacia-hidrográfica-pcj-em-são-paulo-brasil</listing_relative_url>
+        <count>Brazil</count>
+        <lang>Portuguese</lang>
+        <sectr>Agriculture, fishing, and forestry,Public Administration, Law, and Justice,Health and other social services</sectr>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            environmental services, nature conservancy,
+            sustainable development, watershed
+        </keywd>
+        <majtheme>Environment and natural resource management,Social dev/gender/inclusion</majtheme>
+        <alt_title>
+            O Projeto Produtor de Água na bacia
+            hidrográfica PCJ em São Paulo, Brasil
+        </alt_title>
+        <projn>BR-Brazil - Ecosystem Restoration Of
+            Riparian Forests In Sao Paulo -- P088009</projn>
+        <docty>Working Paper (Numbered Series)</docty>
+        <subtopic>Environmental Management,Water Resources Management,Watershed Management,Environmentally Protected Areas,Water Conservation</subtopic>
+        <teratopic>Water Resources,Environment</teratopic>
+        <authors>
+            <author>Padovezi, Aurélio</author>
+            <author>Viani, Ricardo A. Gorne</author>
+            <author>Kubota, Umberto</author>
+            <author>Taffarello, Denise</author>
+            <author>Faria, Marco</author>
+            <author>Bracale, Henrique</author>
+            <author>Ferrari, Vinicius</author>
+            <author>de Carvalho, Flávio H.</author>
+        </authors>
+        <entityids>
+            <entityid>000456286_20140505150824</entityid>
+        </entityids>
+        <geo_region_mdks>
+            <geo_region_mdk>World!$!80475</geo_region_mdk>
+            <geo_region_mdk>America!$!80450</geo_region_mdk>
+            <geo_region_mdk>South America!$!80469</geo_region_mdk>
+        </geo_region_mdks>
+        <admreg>Latin America &amp; Caribbean,Latin America &amp; Caribbean</admreg>
+        <subsc>Agricultural extension and research,Sub-national government administration,Other social services,General agriculture, fishing and forestry sector,Forestry</subsc>
+        <theme>Biodiversity,Environmental policies and institutions,Land administration and management,Participation and civic engagement,Water resource management</theme>
+        <colti>Payments for Environmental Services (PES)
+            learning paper ; no. 2012-2</colti>
+        <historic_topic>Water Resources,Environment</historic_topic>
+        <prdln>Global Environment Project</prdln>
+        <owner>Agriculture &amp; Rural Dev (LCSAR)</owner>
+        <EnvironmentalCategory>B</EnvironmentalCategory>
+        <trustfund>TF055091-GEF FSP-BRAZIL: ECOSYSTEM
+            RESTORATION OF RIPARIAN FORESTS IN SAO PAULO</trustfund>
+        <geo_regions>
+            <geo_region>World</geo_region>
+            <geo_region>America</geo_region>
+            <geo_region>South America</geo_region>
+        </geo_regions>
+        <repnb>87901</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Environment</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Social Protections and Labor</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Environment and Natural Resources</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Social Protection and Labor</ml:concept><ml:concept>PES</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Boundaries</ml:concept><ml:concept>Public Employment Services</ml:concept><ml:concept>Environmental Management</ml:concept></ml:concepts><ml:geo-regions><ml:geo-region>State Associations</ml:geo-region><ml:geo-region>Americas</ml:geo-region><ml:geo-region>Brazil</ml:geo-region><ml:geo-region>Caribbean</ml:geo-region></ml:geo-regions></ml:annotations></ml:doc-envelope>

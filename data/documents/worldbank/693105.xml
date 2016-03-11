@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>AO T16&#13;
+Viewpoint&#13;
+The World Bank&#13;
+Note No. 112  Privatizing Roads-A New Method&#13;
+for Auctioning Highways&#13;
+Eduardo Engel,    This Note argues that many of the problems that have plagued highway privatization stem from&#13;
+Ronald Fischer,   the combined effects of special features of the highway business and the type of contracts-fixed&#13;
+and Alexander&#13;
+Galetovic       term franchises-that have typically been used. The Note proposes a new mechanism, the least-&#13;
+present-value-of-revenue (LPVR) auction, that corrects some of the shortcomings of the fixed&#13;
+term franchise. The new mechanism endogenously adjusts the duration of the franchise to the&#13;
+realization of demand: the term lengthens if traffic grows more slowly than expected and short-&#13;
+ens if it grows more rapidly than expected.&#13;
+There is widespread agreement that most devel-  chises awarded by Spain before 1973 had build-&#13;
+oping countries urgently need massive highway  ing costs four to five times higher than ex-&#13;
+construction programs. Traditionally, highways   pected, but traffic about a third of original&#13;
+have been viewed as public goods that must  projections. As a result, three firms went bank-&#13;
+be financed and operated by the public sector.  rupt, two firms were absorbed by stronger fran-&#13;
+But in recent years many governments have   chise holders, and the government granted toll&#13;
+neglected maintenance because of chronic bud-  increases and term extensions. In Mexico, ex-&#13;
+getary problems, and traffic has grown well  cessively high tolls have led to empty high-&#13;
+ahead of capacity. So, it has become increas-   ways and the renegotiation of the original&#13;
+ingly accepted that highways should be built,  franchise agreements. The duration of some of&#13;
+financed, and operated by private firms and   the toll road franchises has more than doubled,&#13;
+that users should pay for using them. Several  and the government has had to pump in US$2&#13;
+advantages are claimed for privatized roads.   billion to save firms (and the banks that made&#13;
+Private firms build highways faster because they   loans to them) from bankruptcy.&#13;
+face fewer financing constraints, and they are&#13;
+more efficient than state-owned firms. Users   This Note argues that many of the problems that&#13;
+are more likely to accept the concept of pay-   have plagued highway franchises stem from the&#13;
+ing for roads owned by the private sector. And   combined effects of special features of the high-&#13;
+franchising should prevent the building of   way business and of the type of franchise con-&#13;
+"white elephants," since private firms do not  tracts that have typically been used. First, traffic&#13;
+want to lose money.                       forecasts are notoriously imprecise; it is diffi-&#13;
+cult enough to make accurate traffic predictions&#13;
+Despite these avowed advantages, the experi-  for the short run and much harder for the long&#13;
+ence with highway franchising has been far  run (box 1). Moreover, demand for a highway&#13;
+from happy. Three of the four franchises that  is largely beyond the control of the franchise&#13;
+France awarded in the early 1970s went bank-   holder. Second, most franchises have been&#13;
+rupt after the oil shock and were taken over   awarded for a fixed term (say, twenty years)&#13;
+by the government. Several of the twelve fran-  that is independent of demand realization. In&#13;
+Private Sector Development Department * Finance, Private Sector, and Infrastructure Network&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+Privatizing Roads-A New Method for Auctioning Highways&#13;
+what follows, this Note describes the main short-   is paid by users (or, through government guar-&#13;
+comings of fixed term  franchises and then    antees, by taxpayers). For Chile, this risk pre-&#13;
+presents a     new  mechanism, the least-present-   mium  is estimated  at about a third of the&#13;
+value-of-revenue (LPVR) auction, that endog-   investment cost; for most developing countries,&#13;
+enously adjusts the duration of the franchise to   it can be expected to be even larger.&#13;
+the realization of demand. The Note argues that&#13;
+this mechanism is far better than current systems.   Because of the high risk associated with high-&#13;
+way franchises, lenders have refused to grant&#13;
+Fixed term franchises                            franchise holders loans unless governments&#13;
+guarantee the debt (as in Spain) or provide&#13;
+Fixed term mechanisms typically are one of   generous minimum toll revenue guarantees (as&#13;
+two kinds. In the version now- used in Chile,   in Chile). Guarantees reduce the incentives for&#13;
+the regulator fixes the term and the franchise   lenders to screen projects and monitor their&#13;
+is awarded to the firm that bids the lowest toll   performance, one of the basic arguments for&#13;
+in a competitive auction. In the version used    highway franchises. A second consequence of&#13;
+in Mexico, tolls were  fixed by the regulator   high risk is that when demand turns out to be&#13;
+and the franchise was awarded to the firm ask-   lower than expected, contracts are renegoti-&#13;
+ing for the  shortest term.                      ated and losses shifted to users or taxpayers.&#13;
+The expectation of renegotiation prompts firms&#13;
+The main defect of fixed term mechanisms is   to bid artificially low tolls (to lowball),' expect-&#13;
+that they  create unnecessary risk for the fran-   ing better terms after the  contract has been&#13;
+chise holder. Since demand is uncertain and    awarded. It also implies that firms that excel at&#13;
+competitive bidding  dissipates  ex ante rents,   renegotiating contracts can compete with firms&#13;
+the winner of the franchise chooses a franchise   that are considerably more efficient at build-&#13;
+term  (or toll) such that it faces significant losses   ing, financing, and operating highways. Thus,&#13;
+if traffic turns out to be considerably below    with fixed term franchises, the advantages of&#13;
+expectations. This may happen even when traf-   privatizing roads are easily lost: taxpayers and&#13;
+fic flows are sufficient to pay for the road in    users pay for roads that are bad investments,&#13;
+the long run. Faced with high risk, the fran-        inefficient firms win franchises, and firms do&#13;
+chise holder will demand a risk premium, which    not mind building white elephants.&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+Fixed term franchises have additional disadvan-   smaller risk premium, and users pay less on&#13;
+tages. First, they increase the likelihood that the   average. The lower risk for the franchise holder&#13;
+franchise will be awarded to the firm with the   also means that the winner's curse is less likely,&#13;
+most optimistic traffic projection (the winner's  because bids are less dependent on demand&#13;
+curse). Second, fixed term contracts are inflex-   projections.&#13;
+ible, which can be a serious problem if tolls&#13;
+turn out to be out of line or congestion makes it   With LPVR auctions, the franchise holder still&#13;
+desirable to widen the highway. The problem    bears the risk that the road may not be self-&#13;
+arises because it is difficult to agree on the fair  financing in the long run-that is, that it will&#13;
+compensation-the expected income forgone   turn out to be a white elephant. But since white&#13;
+over the remainder of the franchise-to be paid   elephants are usually the result of lobbying by&#13;
+to the franchise holder in these cases.    pressure groups, they should be easily detected&#13;
+by potential bidders.&#13;
+LPVR franchises&#13;
+The least-present-value-of-revenue mechanism    7be basic principle uniderlyinig LPVR&#13;
+corrects several shortcomings of fixed term&#13;
+mechanisms. In this approach,              auctions is that thefranchise holder&#13;
+* The regulator sets a maximum toll.&#13;
+* The franchise is won by the firm bidding the   should not make losses when the long-&#13;
+least present value of toll revenue.&#13;
+* The franchise ends when the present value of   run demand for the highway is&#13;
+toll revenue equals the franchise holder's bid.&#13;
+* Toll revenue is discounted at a predetermined   sufficient to pay all costs.&#13;
+rate specified in the franchise contract. The&#13;
+rate should be a good estimate of the loan&#13;
+rate faced by franchise holders.         A further advantage of LPVR auctions is that&#13;
+cormpetition for the franchise reveals, through&#13;
+As an example, consider an auction with two   the winner's bid, the income required to earn&#13;
+firms. The first firm estimates costs of $100   a normal return. This reduces the scope for&#13;
+million and bids $112 million, while the sec-   opportunism after the contract is awarded, be-&#13;
+ond estimates costs of $99 million and bids   cause the winning bid can be used as a bench-&#13;
+$110 million. The second firm wins and oper-   mark. In the case of government opportunism&#13;
+ates the franchise until the present value of  leading to a regulatory taking, the franchise&#13;
+toll revenue is $110 million.              holder can go to court, asking for fair compen-&#13;
+sation equal to the difference between its bid&#13;
+Advantages                                 and the present value of toll revenues already&#13;
+received.&#13;
+The basic principle underlying LPVR auctions&#13;
+is that the franchise holder should not make   Opportunistic renegotiations that favor the&#13;
+losses when the long-run demand for the high-  franchise holder are also less likely, for three&#13;
+way is sufficient to pay all costs. Thus, the term   reasons. First, because the term automatically&#13;
+lengthens when traffic grows more slowly than   lengthens if demand grows more slowly than&#13;
+expected, and it shortens when traffic grows   expected, it is less likely that franchise holders&#13;
+more rapidly than expected. Revenues are the   will face financial distress and therefore demand&#13;
+same even when demand realizations are dif-  renegotiation. Second, renegotiations in favor&#13;
+ferent, so the risk borne by the franchise holder   of the franchise holders are explicit wealth trans-&#13;
+is far smaller than under fixed term franchises.  fers: term extensions are impossible by defini-&#13;
+For this reason, the franchise holder requires a   tion, and the only effect of a toll increase is to&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+Privatizing Roads-A New Method for Auctioning Highways&#13;
+shorten the term of the franchise. Since explicit    Conclusion&#13;
+wealth transfers are easier for the public and&#13;
+the media to understand, they are less likely.    LPVR auctions are a promising mechanism for&#13;
+Third, the government can discourage lowballing    privatizing not only highways but also other&#13;
+by bidders by threatening to end the franchise    infrastructure projects. They are attractive for&#13;
+if the franchise holder asks for a renegotiation,    projects requiring large investments up front&#13;
+compensating the franchise holder with what-    and in which demand is unresponsive to ef-&#13;
+ever sum remains to be collected.                       forts by the franchise holder. They also require&#13;
+a low-cost capability to verify revenues, the&#13;
+The winning bid determines the fair compen-    quality of service, and the residual value of&#13;
+sation for termination of the contract at any    investments.&#13;
+time as the difference between the present&#13;
+value of revenue earned and the original bid.    For further reading see Eduardo Engel, Ronald Fischer and Alexander&#13;
+This ensures flexibility in LPVR contracts. If    Galerovic, "Highway Franchising: Pitfalls and Opportunities," Ameri-&#13;
+demand exceeds expectations and requires an             can Economic Review 87 (2): 68-72 (May 1997).&#13;
+expansion of the highway, the franchise holder&#13;
+can be paid the fair compensation and the fran-    Eduardo Engel, Ronald Fischer and Alexander&#13;
+chise reauctioned. It is also easy to adjust tolls.    Galetovic, Centro de Economfa Aplicada,&#13;
+If tolls need to be raised because of conges-    Departamento de Ingenierfa Industrial,&#13;
+Viewpoint is an .     tion, the only effect is that the franchise ends    Universidad de Chile, Santiago (eengel@&#13;
+forum intended to     earlier. If demand for the highway is highly    dii.uchile.cl, rfischer@dii.uchile.cl, or&#13;
+encourage dissemina-  uncertain before it is built (as is often the case    agaletolfdii.uchile.cl)&#13;
+lion of and debate on  for new highways), the setting of tolls can be&#13;
+ideas, innovations, and&#13;
+best practices for    postponed until after construction.&#13;
+expanding the private&#13;
+sector. The views     Limitations&#13;
+published are those of&#13;
+the authors and should&#13;
+not be attributed to the  The main limitation of LPVR franchises com-&#13;
+World Bank or any of its    pared with fixed term  contracts is that they&#13;
+affiliated organizations.&#13;
+Nor do any of the con-  provide fewer incentives to engage in demand-&#13;
+clusions represent    enhancing activities. Any expense that increases&#13;
+official policy of the  demand shortens the franchise and so increases&#13;
+World Bank or of its&#13;
+Executive Directors   profits less than it would under a fixed term&#13;
+or the countries they  contract. As a result, the franchise holder may&#13;
+represent.            underinvest in road quality or maintenance,&#13;
+To order additional   speedy attention at toll booths, or swift cleanup&#13;
+copies please call 202-  of accidents. For this reason, LPVR auctions&#13;
+458-1111 or contact   require regulatory institutions that set and en-&#13;
+Sazanne Smith, editor,&#13;
+Room 68105, The World    force minimum quality standards for franchise&#13;
+Bank, 1818 H Street,  holders. Regulation need not be complicated.&#13;
+NW, Washington, D.C.  For example, independent agencies could&#13;
+20433, or Internet&#13;
+address ssmith7@      monitor waiting times at toll booths, and the&#13;
+worldbank.org.        waiting times could be published in newspa-&#13;
+The series is also    pers to make the regulators accountable to&#13;
+available on-line&#13;
+(www.worldbank.       users. (Even with fixed term  franchises, it be-&#13;
+org/html/fpd/notes/   comes necessary to monitor quality as the end&#13;
+notelist.html).       of the term  approaches.) This defect of LPVR&#13;
+SPrinted on recycled  auctions can be mitigated by rewarding fran-&#13;
+paper.                chise holders that achieve short franchises.&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+</ml:original-txt><ml:search-metadata><doc id="693105">
+        <url>
+            http://documents.worldbank.org/curated/en/1997/05/693105/privatizing-roads-new-method-auctioning-highways
+        </url>
+        <availablein>English</availablein>
+        <virt_coll>Knowledge Notes</virt_coll>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/1997/05/693105/privatizing-roads-new-method-auctioning-highways</url_friendly_title>
+        <new_url>1997/05/693105/privatizing-roads-new-method-auctioning-highways</new_url>
+        <disclosure_date>2010-07-01T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2010-07-01T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2000/10/24/000009265_3980218124458/Rendered/INDEX/multi_page.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2000/10/24/000009265_3980218124458/Rendered/PDF/multi_page.pdf</pdfurl>
+        <docdt>1997-05-31T00:00:00Z</docdt>
+        <datestored>2000-10-24T00:00:00Z</datestored>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            Privatizing roads : a new method for
+            auctioning highways
+        </repnme>
+        <abstracts>
+            The authors attribute many of the
+            problems in highway privatization to the combined effect of
+            features of the highway business and the fixed term
+            contracts used. First, traffic forecasts are notoriously
+            imprecise, and the franchise holder has almost no control
+            over demand. Second, most franchises have been awarded for a
+            fixed term that is independent of demand realization. They
+            propose a new mechanism the --least-present-value-of-revenue
+            auction-- that overcomes flaws in the fixed term franchise
+            because the contract term automatically adjusts to traffic
+            growth. If traffic grows more slowly than expected, the term
+            lengthens and if more rapidly, it shortens. The basic
+            principle underlying the auction is that the franchise
+            holder should not make losses when the long-run demand for
+            the highway is sufficient to pay all costs.
+        </abstracts>
+        <docna>
+            Privatizing roads : a new method for
+            auctioning highways
+        </docna>
+        <display_title>Privatizing roads : a new method
+            for auctioning highways</display_title>
+        <listing_relative_url>/research/1997/05/693105/privatizing-roads-new-method-auctioning-highways</listing_relative_url>
+        <docty>Viewpoint</docty>
+        <subtopic>Toll Roads,Administrative &amp; Regulatory Law,Parliamentary Government,Banks &amp; Banking Reform,Environmental Economics &amp; Policies</subtopic>
+        <teratopic>Finance and Financial Sector Development,Environment,Law and Development,Governance,Transport</teratopic>
+        <count>World</count>
+        <authors>
+            <author>Engel, Eduardo</author>
+            <author>Fischer, Ronald</author>
+            <author>Galetovic, Alexander</author>
+        </authors>
+        <entityids>
+            <entityid>000009265_3980218124458</entityid>
+        </entityids>
+        <subsc>Other Transportation</subsc>
+        <admreg>The World Region,The World Region</admreg>
+        <colti>Public policy for the private sector ; Note
+            no. 112</colti>
+        <lang>English</lang>
+        <historic_topic>Finance and Financial Sector Development,Environment,Law and Development,Governance,Transport</historic_topic>
+        <sectr>Transportation</sectr>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            Roads &amp; highways; Denationalization;
+            Traffic surveys; Auctions; Procurement
+            accurate traffic predictions,artificially
+            low
+            tolls,bankruptcy,compensation,debt,franchise,franchises,high
+            risk,highway franchises,highway privatization,income,maximum
+            toll,new highways,oil,present value,present value of toll
+            revenue,privatization,public goods,quality
+            standards,regulator,regulators,regulatory
+            institutions,roads,toll booths,toll increase,toll
+            revenue,toll revenues,toll road,tolls,traffic,traffic
+            turns,type of contracts
+        </keywd>
+        <owner>FIG, Office of the Director (CFGDR)</owner>
+        <repnb>16870</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>Economic Policy and Debt</ml:concept><ml:concept>Transportation</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Poverty Reduction</ml:concept><ml:concept>Poverty Reduction and Distributional Analysis</ml:concept><ml:concept>Poverty Reduction and Equity</ml:concept><ml:concept>Poverty and Inequality</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Social Protections and Labor</ml:concept><ml:concept>Macroeconomic Vulnerability and Debt</ml:concept><ml:concept>Transport</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Arts and Culture</ml:concept><ml:concept>Poverty</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Social Protection and Labor</ml:concept><ml:concept>Shocks</ml:concept><ml:concept>Denationalization</ml:concept><ml:concept>Deregulation</ml:concept><ml:concept>Destatization</ml:concept><ml:concept>Divestiture of Ownership</ml:concept><ml:concept>Highway Tolls</ml:concept><ml:concept>Road Pricing</ml:concept><ml:concept>Road User Fees</ml:concept><ml:concept>Toll Roads</ml:concept><ml:concept>Debt Management</ml:concept><ml:concept>Debt Policy</ml:concept><ml:concept>Debt Policy and Management</ml:concept><ml:concept>Public Debt Management</ml:concept><ml:concept>Income</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Media</ml:concept><ml:concept>Shocks and Vulnerability</ml:concept><ml:concept>Privatization</ml:concept><ml:concept>Highways</ml:concept><ml:concept>Congestion</ml:concept><ml:concept>Road Tolls</ml:concept><ml:concept>Infrastructure</ml:concept><ml:concept>Debt</ml:concept></ml:concepts><ml:geo-regions/></ml:annotations></ml:doc-envelope>

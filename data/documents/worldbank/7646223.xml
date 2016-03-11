@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>22825&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+</ml:original-txt><ml:search-metadata><doc id="7646223">
+        <url>
+            http://documents.worldbank.org/curated/en/2002/11/7646223/world-development-report-2002-building-institutions-markets
+        </url>
+        <availablein>Russian,Spanish,Chinese,English,French,Vietnamese,Arabic</availablein>
+        <fullavailablein>
+            <available_in lang="Russian" entityid="000310607_20070517155921" node_id="7646223"/>
+            <available_in lang="Spanish" entityid="000160016_20051116133717" node_id="7646223"/>
+            <available_in lang="Chinese" entityid="000310607_20070718163943" node_id="7646223"/>
+            <available_in lang="English" entityid="000425962_20130304125129" node_id="7646223"/>
+            <available_in lang="French" entityid="000090341_20070510100331" node_id="7646223"/>
+            <available_in lang="Vietnamese" entityid="000310607_20070622114351" node_id="7646223"/>
+        </fullavailablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2002/11/7646223/world-development-report-2002-building-institutions-markets</url_friendly_title>
+        <new_url>2002/11/7646223/world-development-report-2002-building-institutions-markets</new_url>
+        <disclosure_date>2007-05-25T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2007-05-25T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <docm_id>090224b0828b24d4</docm_id>
+        <chronical_docm_id>090224b0828b24d4</chronical_docm_id>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2007/05/25/000310607_20070525170356/Rendered/INDEX/228250ARABIC0W17132010801901PUBLIC1.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2007/05/25/000310607_20070525170356/Rendered/PDF/228250ARABIC0W17132010801901PUBLIC1.pdf</pdfurl>
+        <docdt>2002-11-22T00:00:00Z</docdt>
+        <datestored>2007-05-25T00:00:00Z</datestored>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            World development report 2002 : building
+            institutions for markets
+        </repnme>
+        <abstracts>
+            The World Development Report (WDR) 2002
+            is about building market institutions that promote growth
+            and reduce poverty, addressing how institutions support
+            markets, what makes institutions work, and how to build
+            them. This theme is a natural a natural continuation of the
+            WDR 2000/01, which discussed the central role of markets in
+            the lives of poor people, leaving important issues for the
+            WDR 2003, which will focus on the development of human,
+            natural, and environmental capital. This report emphasizes
+            on building institutions to support the development of
+            markets, and its main messages address supplying effective
+            institutions, and creating the demand for them, through: a
+            design that complements institutions, human capabilities,
+            and available technologies; innovations that identify
+            institutional successes, and weaknesses, by experimenting
+            with, and recognizing local conditions, and differences,
+            ranging from social norms, to geography; a connection of
+            communities of market players, by opening information flows,
+            and trade; and, the promotion of competition among
+            jurisdictions, firms, and individuals. The report is an
+            introspective analysis about how do institutions support
+            markets, growth, and poverty reduction, defining
+            institutional work as a channel of information about market
+            conditions, goods, and participants; as a mean to enforce
+            property rights, and contracts; and, as a tool to increase
+            competition in markets. The report offers lessons derived
+            from experience in institutional evolution, and, although it
+            does not address all possible institutional problems, it
+            does focus on sets of institutions from many fields, to show
+            that the framework, and messages can be applied regardless
+            of the sector.
+        </abstracts>
+        <docna>
+            World development report 2002 : building
+            institutions for markets
+        </docna>
+        <display_title>تقرير عن التنمية في العالم 2002 –
+            بناء المؤسسات من أجل الأسواق</display_title>
+        <listing_relative_url>/research/2002/11/7646223/world-development-report-2002-building-institutions-markets</listing_relative_url>
+        <projn>1W-World Development Report 2001: Market
+            Institutions. -- P070587</projn>
+        <docty>World Development Report</docty>
+        <count>World</count>
+        <issn>0163-5085</issn>
+        <authors>
+            <author>Islam, Roumeen</author>
+            <author>Banerji, Arup</author>
+            <author>Cull, Robert</author>
+            <author>Demirguc-Kunt, Asli</author>
+            <author>Djankov, Simeon</author>
+            <author>Dyck, Alexander</author>
+            <author>Kraay, Aart</author>
+            <author>McLiesh, Caralee</author>
+            <author>Pittman, Russell</author>
+        </authors>
+        <entityids>
+            <entityid>000310607_20070525170356</entityid>
+        </entityids>
+        <theme>Corporate governance,Infrastructure services for private sector development,Legal institutions for a market economy,Poverty strategy, analysis and monitoring,Regulation and competition policy</theme>
+        <subsc>Non-Sector Specific,Law and justice,General public administration sector,General finance sector</subsc>
+        <admreg>The World Region,The World Region</admreg>
+        <colti>World development report</colti>
+        <lang>Arabic</lang>
+        <prdln>World Development Report</prdln>
+        <sectr>(Historic)Multisector,Public Administration, Law, and Justice,Finance</sectr>
+        <majdocty>Publications,Publications &amp; Research</majdocty>
+        <isbn>977-320-080-9</isbn>
+        <keywd>
+            Development indicators; Institutional
+            framework; Institution building; Institutional
+            transformation; Poverty reduction strategies; Market forces;
+            Market competition; Economic integration; Poverty incidence;
+            Market integration; Human development; Human capital;
+            Capacity building; Technology dissemination; Technology
+            transfer; Innovations; Local conditions; Social norms;
+            Geographic balance; Community participation; Market
+            potential; Information dissemination; Trade development;
+            Competitiveness; Business communication; Business economics;
+            Market driven; Property rights; Law enforcement
+            Development indicators; Institutional
+            framework; Institution building; Institutional
+            transformation; Poverty reduction strategies; Market forces;
+            Market competition; Economic integration; Poverty incidence;
+            Market integration; Human development; Human capital;
+            Capacity building; Technology dissemination; Technology
+            transfer; Innovations; Local conditions; Social norms;
+            Geographic balance; Community participation; Market
+            potential; Information dissemination; Trade development;
+            Competitiveness; Business communication; Business economics;
+            Market driven; Property rights; Law enforcement,,
+        </keywd>
+        <owner>World Development Report (DECWD)</owner>
+        <trustfund>TF023889-BNPP -- OTHER -- WORLD
+            DEVELOPMENT REPORT (2001/2002),TF024041-BNPP-OTHER: WDR 2001/2002,TF038576-WORLD:  ENFORCEMENT OF LAW CONTRACTS,TF040449-EUROPE AND CENTRAL ASIA:  WDR 2001/2002</trustfund>
+        <majtheme>Social protection and risk management,Financial and private sector development,Rule of law</majtheme>
+        <repnb>22825</repnb>
+        <alt_title>
+            Informe sobre el desarrollo mundial
+            2002: instituciones para los mercados
+            Rapport sur le developpement dans le
+            monde 2002 : des institutions pour les marches
+        </alt_title>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts/><ml:geo-regions/></ml:annotations></ml:doc-envelope>

@@ -1,0 +1,982 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>ï»¿Report No. 56                                      76115&#13;
+South Asia Human Development Sector&#13;
+&#13;
+&#13;
+Determinants of School Enrollment in Balochistan&#13;
+&#13;
+&#13;
+March 2013&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Discussion Paper Series&#13;
+&amp;#12;Report No. 56&#13;
+&#13;
+South Asia: Human Development Sector&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Determinants of School Enrollment in&#13;
+Balochistan&#13;
+March 2013&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Discussion Paper Series&#13;
+&#13;
+&#13;
+                                       Â &#13;
+Â &#13;
+&amp;#12;Discussion Papers are published to communicate the results of the World Bankâ&#128;&#153;s work to the&#13;
+development community with the least possible delay. The typescript manuscript of this paper&#13;
+therefore has not been prepared in accordance with the procedures appropriate to formally edited&#13;
+texts. Some sources cited in the paper may be information documents that are not readily&#13;
+available.&#13;
+&#13;
+The findings, interpretations, and conclusions expressed herein do not necessarily reflect the&#13;
+views of the International Bank for Reconstruction and Development / The World Bank and its&#13;
+affiliated organizations, or those of the Executive Directors of the World Bank or the&#13;
+governments they represent.&#13;
+&#13;
+The World Bank does not guarantee the accuracy of the data included in this work. The&#13;
+boundaries, colors, denominations, and other information shown on any map in this work do not&#13;
+imply any judgment on the part of The World Bank concerning the legal status of any territory or&#13;
+the endorsement or acceptance of such boundaries.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Â &#13;
+&amp;#12;                                                 TABE OF CONTENTS	&#13;
+ACKNOWLEDGEMENTSÂ .............................................................................................................ii Â &#13;
+                                                                                                                   iiiÂ &#13;
+ABBREVIATIONS AND ACRONYMSÂ ....................................................................................... Â &#13;
+ABSTRACTÂ ....................................................................................................................................Â 1Â &#13;
+1. IntroductionÂ ................................................................................................................................Â 1Â &#13;
+2. DataÂ ............................................................................................................................................Â 3Â &#13;
+3. Methods......................................................................................................................................Â 3Â &#13;
+4. ResultsÂ ........................................................................................................................................Â 4Â &#13;
+5. DiscussionÂ ................................................................................................................................Â 13Â &#13;
+6.Â Â ConclusionÂ ................................................................................................................................Â 15Â &#13;
+BIBLIOGRAPHYÂ ......................................................................................................................... Â 16Â &#13;
+&#13;
+&#13;
+                                                                 TABLES&#13;
+Table 1 Sample Counts and Proportions in Different Schooling Statuses..................................... 2Â &#13;
+Table 2 Sample Counts and Proportions in Different Schooling Statuses by Gender for&#13;
+        Balochistan ....................................................................................................................... 2Â &#13;
+Table 3 Characteristics of Children in Balochistan and Punjab (Ages 6-10) By Schooling&#13;
+        Status ................................................................................................................................ 5Â &#13;
+Table 4 Decomposition of Out-of-School Variation, 2010/11 ...................................................... 7Â &#13;
+Table 5 Household Incidence of Schooling with Multiple Children, Pakistan, Balochistan&#13;
+        and Punjab ........................................................................................................................ 8Â &#13;
+Table 6 Household Incidence of Schooling with Multiple Girls and Boys (Ages 6-15),&#13;
+        2010/11 ............................................................................................................................. 8Â &#13;
+Table 7 Descriptive Statistics....................................................................................................... 10Â &#13;
+Table 8 Regression Results for Balochistan and the Rest of Pakistan ......................................... 12Â &#13;
+Table 9 Reasons for Being out of School, Children in Balochistan ............................................ 15Â &#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                          iÂ &#13;
+Â &#13;
+&amp;#12;                                           AUTHOR&#13;
+&#13;
+                                           Ali Ansari&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                             ACKNOWLEDGEMENTS	&#13;
+I acknowledge with sincere gratitude the Pakistan Bureau of Statistics for providing access to the&#13;
+data used for this analysis, in particular the Chief Statistics Officer-PSLM. I appreciate the&#13;
+assistance and feedback provided by several World Bank colleagues in the preparation of this&#13;
+study. In particular, Dhushyanth Raju (Senior Economist), Umbreen Arif (Senior Education&#13;
+Specialist), Huma Waheed (Operations Officer), Ayesha Khan (Research Analyst) and Amit Dar&#13;
+(Education Sector Manager). I also acknowledge the insightful comments provided by Nuzhat&#13;
+Ahmad on the contents of this article.&#13;
+&#13;
+I also thank Mohammad Khalid Khan (Program Assistant) from the World Bank for providing&#13;
+editorial comments for the production of this paper along with Amna Mir (Program Assistant),&#13;
+for providing administrative support.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                iiÂ &#13;
+Â &#13;
+&amp;#12;          ABBREVIATIONS AND ACRONYMS	&#13;
+NER    Net Enrollment Rate&#13;
+PBS    Pakistan Bureau of Statistics&#13;
+PIHS   Pakistan Integrated Household Surveys&#13;
+PSLM   Pakistan Standards of Living Measurement Surveys&#13;
+PSU    Primary Sampling Units&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                   iiiÂ &#13;
+Â &#13;
+&amp;#12;                                     ABSTRACT		&#13;
+&#13;
+This paper examines the determinants of enrollment of schooling for children between&#13;
+the ages of 6 and 15 in Balochistan. Using a nationally representative sample from the&#13;
+Pakistan Living Standards Measurement Surveys (PSLM) 2010-11, this analysis consists&#13;
+of three main components: Constructing profiles of children in Balochistan by schooling&#13;
+status, conducting a decomposition of variance of schooling status, and a logistic&#13;
+regression analysis to determine gender differentials in school enrollment. The results&#13;
+suggest that for 6-10 year olds in Balochistan the majority of variation in schooling status&#13;
+is explained between households rather than within households, while for 11-15 year olds&#13;
+the majority of variation in schooling status is explained by within household differences.&#13;
+Gender disparities are evident in the province as 57 percent of households with multiple&#13;
+girls in the 6-15 age group send no girls to school. The results from the analysis suggest&#13;
+that females are 4.5 times more likely to be out of school than males in the 6 to 10 age&#13;
+group, while they are 15.5 times more likely to be out of school than males in the 11-15&#13;
+age group. Poverty also plays a major role in determining whether or not a child is&#13;
+enrolled in school, as children belonging to the poorest wealth quintile in the 6-10 age&#13;
+group are 4 times as likely to be out of school than children in the richest wealth quintile.&#13;
+&#13;
+&#13;
+1. Introduction		&#13;
+Educational attainment in Pakistan has been historically low as compared to other&#13;
+countries in the region. Currently the primary net enrollment rate (NER) (for 6-10 year&#13;
+olds) in Pakistan is 66 percent (PSLM Surveys, 2010-11) which is far below that of some&#13;
+of the other countries in the region, as Indiaâ&#128;&#153;s NER is 92 percent, and Bangladeshâ&#128;&#153;s NER&#13;
+is 89 percent (â&#128;&#156;Net enrollment ratio,â&#128;? 2012). It is also evident that there is great disparity&#13;
+within Pakistan, particularly in Balochistan which has a primary NER of 56 percent as&#13;
+compared to the Punjab province which has a primary NER of 70 percent. Gender wise&#13;
+disparities are also pronounced in Balochistan as 41 percent of females between the ages&#13;
+of 6 and 10, and 27 percent of 11 to 15 year old females are enrolled in school, as&#13;
+compared to 68 percent, and 64 percent of males respectively.&#13;
+&#13;
+Authors have examined various factors that influence enrollment decisions in Pakistan&#13;
+however, there have been relatively few recent studies that examine the determinants of&#13;
+schooling decisions and gender differentials in schooling in Balochistan. Cultural and&#13;
+societal attitudes towards girlsâ&#128;&#153; education play a factor in whether or not girls attend&#13;
+school, particularly in Balochistan. Using data from the 2002 Pakistan Integrated&#13;
+Household Surveys (PIHS), Qureshi (2003) reports that the primary reason for girls&#13;
+between the ages of 10 and 18 for not attending school is that parents do not allow them&#13;
+to attend school. One of the reasons why parents may not be willing to send girls to&#13;
+school in Balochistan, could be attributed to large distances to schools, and the lack of&#13;
+schools within many villages. If the school is located far away from their homes, or in&#13;
+another village, parents may not allow their daughters to go to school due to security&#13;
+&#13;
+                                              1Â &#13;
+Â &#13;
+&amp;#12;concerns. Hazarika (2001) finds that distance from primary school is a statistically&#13;
+significant determinant of female primary schooling enrollment in rural Pakistan.&#13;
+Furthermore, Kim, Alderman &amp; Orazem (1998) find that increasing access to private&#13;
+schooling for girls in Quetta, Balochistan, increased girls enrollment by 33 percent in the&#13;
+target neighborhoods. One of the limitations of the Kim, Alderman &amp; Orazem study is&#13;
+that the evaluation only covered a particular intervention in an urban area in Quetta,&#13;
+Balochistan. Therefore, given the lack of up-to-date research on education in&#13;
+Balochistan, and the existing gender disparities in schooling, there is a need for more in&#13;
+depth research that explores additional determinants of schooling, and that can be&#13;
+generalized to the entire province. This paper aims to identify the factors that influence&#13;
+school enrollment decisions in Balochistan, and examine gender differentials in schooling&#13;
+decisions. To do this, three exercises are conducted; profiling of children by schooling&#13;
+status, decomposition of variance analysis, and a bi nomial logistic regression analysis to&#13;
+analyze the determinants of schooling in Balochistan.&#13;
+Table 1 Sample Counts and Proportions in Different Schooling Statuses&#13;
+&#13;
+                          Pakistan             Balochistan           Punjab&#13;
+Schooling status          (1)        (2)       (3)         (4)       (5)      (6)       (7)&#13;
+                          N          Percent   N           Percent   N        Percent   (6)â&#128;&#147;(4)&#13;
+Panel A: 6â&#128;&#147;10 year olds&#13;
+In school                50,660       68.07      8,178      55.94 19,862  72.41     16.47&#13;
+  In private school      14,910       31.65      394        4.98  8,766   37.77     32.79&#13;
+  In public school       33,883       66.79      7,784      95.02 12,846  60.64     -34.38&#13;
+Never in school          25,791       30.99      6,541      43.05 6,635   26.48     -16.57&#13;
+Dropped out of school 661             0.93       181        1.01  276     1.11      0.1&#13;
+Panel B: 11â&#128;&#147;15 year olds&#13;
+In school                39,476       66.38      5,037      49.05 16,659  69.50     20.45&#13;
+  In private school      9,238        31.65      271        5.54  5,026   29.50     23.96&#13;
+  In public school       29,341       66.79      4,766      94.46 11,184  67.60     -26.86&#13;
+Never in school          15,484       21.97      4,206      38.72 3,798   17.57     -21.15&#13;
+Dropped out of school 6,996           11.65      1,281      12.22 2,990   12.93     0.71&#13;
+Notes: Statistics derived from 2010/11 PSLM data. Pakistan comprises of the four provinces and&#13;
+Islamabad. All proportions are adjusted for sampling weights.&#13;
+&#13;
+&#13;
+Table 2 Sample Counts and Proportions in Different Schooling Statuses by Gender&#13;
+for Balochistan&#13;
+&#13;
+                          Female               Male                  Total&#13;
+Schooling status          (1)        (2)       (3)        (4)        (5)      (6)       (7)&#13;
+                          N          Percent   N          Percent    N        Percent   (4)â&#128;&#147;(2)&#13;
+Panel A: 6â&#128;&#147;10 year olds&#13;
+In school                 2,700      40.51     5,478      68.44      8,178    55.94     27.93&#13;
+  In private school       163        5.96      231        4.50       394      4.98      -1.46&#13;
+  In public school        2,537      94.04     5,247      95.50      7,784    95.02     1.46&#13;
+Never in school           4,010      58.31     2,531      30.68      6,541    43.05     -27.63&#13;
+&#13;
+                                                  2Â &#13;
+Â &#13;
+&amp;#12;Dropped out of school      98      1.18       83        0.87          181        1.01       -0.31&#13;
+Panel B: 11â&#128;&#147;15 year olds&#13;
+In school                 1,110      27.14       3,927     63.99      5,037       49.05      36.85&#13;
+  In private school       79         6.31        192       5.32       271         5.54       -0.99&#13;
+  In public school        1,031      93.69       3,735     94.68      4,766       94.46      0.99&#13;
+Never in school           2,671      61.26       1,535     23.37      4,206       38.72      -37.89&#13;
+Dropped out of school 517            11.61       764       12.64      1,281       12.22      1.03&#13;
+Notes: Statistics derived from 2010/11 PSLM data. All proportions    are adjusted for sampling weights.&#13;
+Column 7 represents the difference in male and female proportions.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+2. Data		&#13;
+The data used for this analysis are derived from the Pakistan Living Standards&#13;
+Measurement Surveys (PSLM) 2010-11 which is an annual survey conducted by the&#13;
+Pakistan Bureau of Statistics (PBS). The data is nationally representative, and covers all&#13;
+four provinces of Pakistan, excluding military restricted areas. The 2010-11 surveys&#13;
+covered 76,546 households across Pakistan, collecting information on health, education,&#13;
+and other socio economic indicators. The surveys adopted a two stage stratified sample&#13;
+design, where villages in rural areas, and enumeration blocks in urban areas were taken as&#13;
+the Primary Sampling Units (PSUs), and households were taken as Secondary Sampling&#13;
+Units.&#13;
+&#13;
+Following this sampling methodology has been particularly challenging in Balochistan,&#13;
+due to the security situation in the province. Therefore, there are areas within the&#13;
+province that were selected for surveying but were not able to be surveyed due to security&#13;
+concerns. It is because of these issues that one must proceed with caution when&#13;
+conducting analysis using this data set. Despite these issues, given the lack of additional&#13;
+sources of reliable data from Balochistan the PSLM survey data still serves a useful&#13;
+purpose in attempting to understand the out of school phenomenon in Balochistan.&#13;
+&#13;
+&#13;
+3. Methods	&#13;
+As a first step towards understanding the characteristics of children in Balochistan&#13;
+profiles of children by schooling status are generated.          Secondly, a variance&#13;
+decomposition analysis is conducted to determine the level at which the variance of&#13;
+schooling status can be explained. The method followed here is the same as outlined by&#13;
+Konstantopoulos (2007). The exercise is useful to inform policy making because it can&#13;
+identify whether or not variation in schooling status can be explained by geographic&#13;
+differences, inter household differences or within household differences. This analysis&#13;
+was conducted separately first using a two level components model, and then using a&#13;
+three level components model. The two level components model classifies variance in to&#13;
+two main components; between household variation in schooling status and within&#13;
+household variation in schooling status. The three components model classifies variation&#13;
+                                                   3Â &#13;
+Â &#13;
+&amp;#12;in schooling status into three levels; district level, between households, and within&#13;
+households. In other words, the question of interest is; is the variance in schooling status&#13;
+mostly explained at the district level, household level, or within households?&#13;
+&#13;
+The household incidence of schooling analysis, examines household schooling&#13;
+participation in Balochistan, Punjab, and Pakistan for households with multiple children&#13;
+in two respective age groups; 6-10 year olds, and 11-15 year olds. The central question&#13;
+being addressed here is; what share of households with children in the respective age&#13;
+groups, send no children to school, send some children to school and send all children to&#13;
+school? This analysis is also done separately by gender, to determine if there are&#13;
+differences in household school participation for girls and boys.&#13;
+&#13;
+To quantify the results, and determine the extent to which enrollment decisions are vary&#13;
+by gender, a bi nomial logistic regression model is used. The econometric model utilized&#13;
+in this paper, is similar to that used by Dancer and Rammohan (2007). The basic idea is&#13;
+that parents strive to maximize their utility, subject to their income constraint: Parents&#13;
+derive their utility from a mix of market and non market goods which include educational&#13;
+investments in children. Educational investments in children, or the decisions to send&#13;
+children to school, are based on a variety of household, parental, and geographical&#13;
+characteristics, which are included in the model provide various levels of utility for&#13;
+households which households look to maximize. Using a linear random utility model we&#13;
+also assume that the error follows a logistic distribution. Using logistic regression&#13;
+modeling, calculating the probability a child is in school or out of school based on certain&#13;
+characteristics is possible, as we are able to utilize the logistic coefficients to calculate&#13;
+odds ratios, and determine the likelihood a child is in school or out of school based on&#13;
+various characteristics.&#13;
+&#13;
+&#13;
+4. Results		&#13;
+Profiles and descriptive statistics by schooling status are presented in table 3 below, for&#13;
+children in Balochistan and Punjab, between the ages of 6 and 10. For the 6-10 year olds&#13;
+in Balochistan, the majority of never in school and drop out children are female, while 68&#13;
+percent of in school children are male. On average, drop outs tend to be older than their&#13;
+in school counterparts, and children who have never been enrolled in school. Only 30&#13;
+percent of never in school children in this age group have fathers who have ever gone to&#13;
+school, and only 2 percent of never in school children have mothers who have ever gone&#13;
+to school. For in school children, 62 percent have fathers who have attended school, and&#13;
+12 percent have mothers who have ever attended school.&#13;
+&#13;
+Wealth disparities are also evident by schooling status: 64 percent of never in school&#13;
+children belong to the poorest asset index quintiles, as compared to only 44 percent of&#13;
+dropouts and 34 percent of in school children. Similarly, never in school children tend to&#13;
+live further away from basic service centers, as compared to in school children. Never in&#13;
+school children also tend to live further away from primary schools as compared to in&#13;
+&#13;
+&#13;
+                                             4Â &#13;
+Â &#13;
+&amp;#12;                   school children; only 57 percent of never in school live within 15 minutes of a primary&#13;
+                   school as compared to 82 percent of in school children.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Table 3 Characteristics of Children in Balochistan and Punjab (Ages 6-10) By Schooling Status&#13;
+&#13;
+                       Balochistan                                         Punjab&#13;
+Characteristic         (1)           (2)       (3)       (4)       (5)     (6)      (7)         (8)         (9)       (10)&#13;
+                       Never      in Dropped                               Never in&#13;
+                                               In school (3)â&#128;&#147;(1)   (3)â&#128;&#147;(2)          Dropped Out In school   (8)â&#128;&#147;(6)   (8)â&#128;&#147;(7)&#13;
+                       school        out                                   School&#13;
+Age (in years)         7.754         8.928     8.213     0.459     -0.715 7.517     8.979       8.220       0.703     -0.759&#13;
+Share female           0.611         0.521     0.323     -0.288    -0.198 0.531     0.434       0.461       -0.07     0.027&#13;
+Share sick last week 0.042           0.048     0.037     -0.005    -0.011 0.054     0.050       0.048       -0.006    -0.002&#13;
+Share literate         0.001         0.481     0.237     0.236     -0.244 0.003     0.350       0.211       0.208     -0.139&#13;
+Share numerate         0.066         0.483     0.255     0.189     -0.228 0.058     0.413       0.232       0.174     -0.181&#13;
+Share born first       0.197         0.167     0.150     -0.047    -0.017 0.204     0.209       0.231       0.027     0.022&#13;
+Share born second 0.286              0.164     0.252     -0.034    0.088 0.253      0.233       0.265       0.012     0.032&#13;
+Share born third       0.287         0.242     0.311     0.024     0.069 0.274      0.236       0.253       -0.021    0.017&#13;
+Father: Age (in 40.418               41.827    40.840    0.422     -0.987 41.594    43.426      41.693      0.099     -1.733&#13;
+years)&#13;
+Father: Share literate 0.306         0.609     0.619     0.313     0.01     0.341    0.511      0.619       0.278     0.108&#13;
+Father:         Share 0.660          0.773     0.815     0.155     0.042    0.736    0.812      0.847       0.111     0.035&#13;
+numerate&#13;
+Father:         Share 0.298          0.615     0.622     0.324     0.007    0.350    0.511      0.629       0.279     0.118&#13;
+attended school&#13;
+Father: Share sick 0.028             0.100     0.019     -0.009    -0.081   0.076    0.079      0.071       -0.005    -0.008&#13;
+last week&#13;
+Mother: Age (in 35.440               36.814    35.706    0.266     -1.108   36.980   38.127     37.028      0.048     -1.099&#13;
+years)&#13;
+Mother:         Share 0.027          0.058     0.124     0.097     -0.485   0.129    0.293      0.371       0.242     0.078&#13;
+literate&#13;
+Mother:         Share 0.361          0.248     0.513     0.152     0.265    0.592    0.683      0.699       0.107     0.016&#13;
+numerate&#13;
+Mother:         Share 0.019          0.115     0.118     0.099     0.003    0.130    0.299      0.377       0.247     0.078&#13;
+attended school&#13;
+Mother: Share sick 0.050             0.072     0.050     0         -0.022   0.082    0.086      0.081       -0.001    -0.005&#13;
+last week&#13;
+Share rural            0.879         0.838     0.698     -0.181    -0.14    0.826    0.711      0.694       -0.132    -0.017&#13;
+Number              of 7.244         7.883     7.107     -0.137    -0.776   7.518    7.294      7.153       -0.365    -0.141&#13;
+household members&#13;
+Number of children 4.767             5.177     4.694     -0.073    -0.483   5.076    4.881      4.710       -0.366    -0.171&#13;
+Number of children 1.051             1.035     1.166     0.115     0.131    1.232    0.979      1.002       -0.23     0.023&#13;
+ ï&#130;£ 5 years&#13;
+Share with electrical 0.620          0.780     0.760     0.14      -0.02    0.811    0.923      0.944       0.133     0.021&#13;
+lighting&#13;
+Share             with 0.118         0.150     0.265     0.147     0.115    0.140    0.265      0.307       0.167     0.042&#13;
+electrical/gas&#13;
+cooking&#13;
+&#13;
+                                                                    5Â &#13;
+                   Â &#13;
+&amp;#12;Table 3 Characteristics of Children in Balochistan and Punjab (Ages 6-10) By Schooling Status&#13;
+&#13;
+                      Balochistan                                         Punjab&#13;
+Characteristic        (1)           (2)     (3)         (4)       (5)     (6)      (7)         (8)       (9)       (10)&#13;
+                      Never      in Dropped                               Never in&#13;
+                                            In school   (3)â&#128;&#147;(1)   (3)â&#128;&#147;(2)          Dropped Out In school (8)â&#128;&#147;(6)   (8)â&#128;&#147;(7)&#13;
+                      school        out                                   School&#13;
+Share with piped 0.100              0.163   0.275       0.175     0.112 0.138      0.226       0.194     0.056     -0.032&#13;
+water&#13;
+Share with flush 0.191              0.208   0.358       0.167     0.15     0.443    0.632      0.734     0.291     0.102&#13;
+toilet&#13;
+Asset index           -1.003        -0.641  -0.339      0.664     0.302    -0.650   -0.175     0.080     0.73      0.255&#13;
+Share asset index Q1 0.644          0.438   0.339       -0.305    -0.099   0.461    0.279      0.156     -0.305    -0.123&#13;
+(lowest)&#13;
+Share asset index Q2 0.199          0.291   0.226       0.027     -0.065   0.254    0.235      0.220     -0.034    -0.015&#13;
+Share asset index Q3 0.089          0.169   0.199       0.11      0.03     0.147    0.213      0.254     0.107     0.041&#13;
+Share asset index Q4  0.048         0.066   0.142       0.094     0.076    0.097    0.141      0.234     0.137     0.093&#13;
+Share asset index Q5 0.019          0.037   0.094       0.075     0.057    0.040    0.131      0.136     0.096     0.005&#13;
+(highest)&#13;
+Basic        services -0.941        -0.818  -0.327      0.614     0.491    -0.377   0.052      0.129     0.506     0.077&#13;
+proximity index&#13;
+Share near primary 0.567            0.593   0.821       0.254     0.228    0.700    0.857      0.875     0.175     0.018&#13;
+school&#13;
+N                     5,861         160     7,347                          5,794    420        16,296&#13;
+Notes: Statistics derived from 2010/11 PSLM data.&#13;
+&#13;
+                  It is observed that based on the two components model, for children between the ages of&#13;
+                  6 and 10, the majority of variation in schooling status in Balochistan is explained&#13;
+                  between households rather than within households. However, in the three level&#13;
+                  components model within household differences account for the majority of the variation&#13;
+                  in schooling status. The reason for this is because district level variation in the three&#13;
+                  components model accounts for some of the between household variation found in the&#13;
+                  two components model. For 11-15 year olds, the results are similar; the majority of&#13;
+                  variation in schooling status can be attributed to within household differences, however, a&#13;
+                  large share of the variation can also be explained by between household differences. For&#13;
+                  the Punjab province the results are slightly different- the majority of variation in&#13;
+                  schooling status can be attributed to within household differences rather than between&#13;
+                  household differences for both the 6-10 age group and the 11-15 year age group.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                   6Â &#13;
+                  Â &#13;
+&amp;#12;Table 4 Decomposition of Out-of-School Variation, 2010/11&#13;
+                           Proportion of total variation in schooling status&#13;
+Decomposition&#13;
+                           Balochistan                               Punjab&#13;
+Dimension&#13;
+                           Out-of-school        Never-in-school      Out-of-school   Never-in-school&#13;
+Panel A: 6â&#128;&#147;10 year olds&#13;
+Two-level components model&#13;
+Between households        0.506                0.510               0.322             0.318&#13;
+Within households        0.494                 0.490               0.678             0.682&#13;
+&#13;
+Three-level components model&#13;
+&#13;
+Between districts         0.146                0.149               0.045             0.046&#13;
+Between households        0.358                0.359               0.310             0.308&#13;
+Between children         0.497                 0.492               0.645             0.646&#13;
+N                        14,900                14,900              26,773            26,733&#13;
+Panel B: 11â&#128;&#147;15 year olds&#13;
+Two-level components model&#13;
+Between households        0.465                0.562               0.401             0.527&#13;
+Within households        0.535                 0.438               0.599             0.473&#13;
+&#13;
+Three-level components model&#13;
+&#13;
+Between districts             0.109            0.143               0.054             0.068&#13;
+Between households           0.346             0.414               0.352             0.460&#13;
+Between children             0.545             0.443               0.593             0.471&#13;
+N                            10,524            10,524              23,447            23,447&#13;
+Notes: Statistics derived from 2010/11 PSLM data.&#13;
+&#13;
+The results for Balochistan suggest that for the 6-10 age group, varying characteristics of&#13;
+households may explain the majority of variation in schooling status in the province.&#13;
+However, for 11-15 year olds in the province it seems that there are within household&#13;
+characteristics that explain the variation in schooling status, and these should be&#13;
+examined further.&#13;
+&#13;
+Given the results from the decomposition of variance analysis, it is worthwhile exploring&#13;
+the household incidence of schooling for households in Balochistan, Punjab, and Pakistan&#13;
+with multiple children in two respective age groups; 6-10 year olds, and 11-15 year olds.&#13;
+The central question we are addressing here is, what share of households with children in&#13;
+the respective age groups sends no children to school, sends some children to school and&#13;
+sends all children to school? The results show that 40 percent of households in&#13;
+Balochistan with multiple children between the ages of 6 and 10, are sending all their&#13;
+children to school. 29 percent of households are sending none of their children to school,&#13;
+while 31 percent are sending some of their children to school. For households with&#13;
+multiple 11-15 year olds, 36 percent have no children enrolled in school, while 31 percent&#13;
+have some children enrolled in school, and 33 percent have all children enrolled in&#13;
+school. When compared with Punjab and the country as a whole, it is evident that the&#13;
+&#13;
+&#13;
+                                                   7Â &#13;
+Â &#13;
+&amp;#12;            Table 5 Household Incidence of Schooling with Multiple Children, Pakistan, Balochistan&#13;
+            and Punjab	&#13;
+&#13;
+                                Pakistan                        Balochistan                    Punjab&#13;
+            In school incidence (1)             (2)             (3)            (4)             (5)             (6)&#13;
+                                Count           Share           Count          Share           Count           Share&#13;
+            Panel A: 6â&#128;&#147;10 year olds&#13;
+            None                4,755           20.20           1,439          29.19           1,062           16.72&#13;
+            Some                6,278           30.23           1,296          30.70           2,044           29.68&#13;
+            All                 10,168          49.56           1,919          40.11           3,898           53.60&#13;
+            Total               21,201                          4,654                          7,004&#13;
+&#13;
+            Panel B: 11â&#128;&#147;15 year olds&#13;
+            None                 4,233          21.95           1,199           36.23          1,122           18.72&#13;
+            Some                 4,939          29.07           933             31.06          1,846           29.81&#13;
+            All                  8,037          48.98           1,031           32.71          3,413           51.47&#13;
+            Total                17,209                         3,163                          6,381&#13;
+            Notes: Counts are sample counts. Shares are adjusted for sampling weights. Households in Panel    A are those with&#13;
+            multiple 6â&#128;&#147;10 year olds. Households in Panel B are those with multiple 11â&#128;&#147;15 year olds.&#13;
+            share of households in Balochistan that send no children to school (across both age&#13;
+            groups) is relatively large.&#13;
+&#13;
+            To determine whether gender may play role to send children to school, Table 6 presents&#13;
+            the incidence of schooling for households separately by gender for children between the&#13;
+            ages of 6 and 15. The purpose of this table is to determine whether there is any gender&#13;
+            bias within households in sending girls to school. The results are striking: 57 percent of&#13;
+            households with multiple girls between the ages of 6 and 15, send none of their girls to&#13;
+            school, while only 25 percent of households have enrolled all their girls in school. For&#13;
+            households with multiple boys in the relevant age group, only 23 percent of households&#13;
+            send no boys to school while 56 percent of households send all their boys to school.&#13;
+            These figures are drastically different from the numbers for Punjab, where only 22&#13;
+            percent of households are not sending any of their girls to school.&#13;
+&#13;
+Table 6 Household Incidence of Schooling with Multiple Girls and Boys (Ages 6-15), 2010/11&#13;
+In School        Pakistan                               Balochistan                         Punjab&#13;
+Incidence&#13;
+                 Girls               Boys              Girls             Boys                Girls              Boys&#13;
+                 (1)      (2)        (3)      (4)      (5)      (6)      (7)       (8)       (9)      (10)      (11)      (12)&#13;
+                 Count Share Count Share Count Share Count Share Count Share Count Share&#13;
+None             5,392     29.23 3,276        16.01 1,722       56.61 987           22.52 1,099       21.52 844           14.62&#13;
+Some             3,789     26.23 5,065        28.57 484         17.58 880           21.87 1,538       28.05 1,892         30.55&#13;
+All              6,283     44.55 10,706 55.42 735               25.81 2,290         55.61 2,917       50.43 3,561         54.83&#13;
+Total            15,464              19,047            2,941             4,157               5,554              6,297&#13;
+Notes: Counts are sample counts. Shares are adjusted for sampling weights. Statistics have been calculated separately by gender&#13;
+for households with multiple girls and boys between the ages and 6â&#128;&#147;15.&#13;
+&#13;
+            Two models were created for the regression analysis- one non-interactive model, and one&#13;
+            interactive model for both age groups (6-10 and 11-15). The dependent variable is coded&#13;
+                                                                8Â &#13;
+            Â &#13;
+&amp;#12;0 if a child is enrolled in school and 1 if child is out of school. The independent variables&#13;
+for the analysis measure child characteristics, parental characteristics and household&#13;
+characteristics.&#13;
+&#13;
+The child characteristics include age, age squared, gender (1 if female; 0 if male), 1st born&#13;
+(1 if child is first born child; 0 if not), and for children in the 11-15 age group an&#13;
+employment variable is also included (1 if the child did any work for pay, profit or&#13;
+â&#128;&#152;family gainâ&#128;&#153; during the last month for at least one hour; 0 if not working).&#13;
+&#13;
+Only two parental characteristics are used for this analysis; one variable measuring&#13;
+whether or not the father of the child has ever attended school, and another variable&#13;
+measuring whether or not the childâ&#128;&#153;s mother has ever attended school (1 if yes, 0 if no).&#13;
+A variable that contains information on parental literacy was not included due to the fact&#13;
+that parentsâ&#128;&#153; literacy status and whether or not they have attended school are very closely&#13;
+correlated.&#13;
+&#13;
+Household characteristics in the model, include household size, the number of children&#13;
+less than 5 years old, rural (1 if rural; 0 if not), home ownership (1 if living in own home;&#13;
+0 if not), time to nearest primary/middle school (with the base group set as living within&#13;
+0-14 minutes of a primary school). Asset Index wealth quintiles are also included in this&#13;
+analysis as a measure of wealth, because of the lack in consistency in the manner in&#13;
+which income was reported in the surveys (the highest or richest quintile is set as the&#13;
+comparison group). A basic services proximity index was created to measure distance to&#13;
+the nearest hospital, and grocery store and this measure was included in the model in the&#13;
+form of terciles, with tercile 3 (living closest to basic services) serving as the base group.&#13;
+Basic descriptive statistics for all these variables are presented in table 7 below.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                              9Â &#13;
+Â &#13;
+&amp;#12;Table 7 Descriptive Statistics	&#13;
+Characteristics                   Ages 6-10                Ages 11-15&#13;
+&#13;
+                                  Balochistan   Rest of    Balochistan   Rest of&#13;
+                                                Pakistan                 Pakistan&#13;
+Child Characteristics&#13;
+Share out of School               0.437         0.327      0.512         0.347&#13;
+                                  (0.496)       (0.469)    (0.500)       (0.476)&#13;
+Female                            0.448         0.473      0.405         0.469&#13;
+                                  (0.497)       (0.499)    (0.491)       (0.499)&#13;
+&#13;
+Age                               8.024         8.029      13.010        13.047&#13;
+                                  (1.437)       (1.431)    (1.382)       (1.369)&#13;
+Sick                              0.039         0.051      0.026         0.042&#13;
+                                  (0.195)       (0.220)    (0.160)       (0.200)&#13;
+                                                n=51,878                 n=42,657&#13;
+1st Born                          0.171         0.210      0.096         0.147&#13;
+                                  (0.376)       (0.408)    (0.294)       (0.354)&#13;
+Employed                          --            --         0.144         0.107&#13;
+                                                           (0.351)       (0.309)&#13;
+                                                                         n=45,657&#13;
+Employed Females                  --            --         0.046         0.063&#13;
+                                                           (0.209)       (0.242)&#13;
+                                                           n=4,012       n=21,270&#13;
+Parental Characteristics&#13;
+Father ever attended school       0.484         0.553      0.405         0.548&#13;
+                                  (0.500)       (0.497)    (0.491)       (0.498)&#13;
+Mother Ever Attended School       0.076         0.266      0.064         0.264&#13;
+                                  (0.265)       (0.442)    (0.245)       (0.441)&#13;
+                                  n=13,278      n=48,260   n=9,717       n=41,597&#13;
+Household Characteristics&#13;
+Rural                             0.778         0.719      0.769         0.678&#13;
+                                  (0.416)       (0.450)    (0.422)       (0.467)&#13;
+Household size                    7.173         7.464      7.600         7.678&#13;
+                                  (1.957)       (2.391)    (2.120)       (2.488)&#13;
+Head children &lt;5 years old        1.115         1.081      0.592         0.572&#13;
+                                  (0.988)       (1.030)    (0.840)       (0.865)&#13;
+Live in own home                  0.904         0.857      0.903         0.868&#13;
+                                  (0.295)       (0.350)                  (0.339)&#13;
+Asset Quintile 1                  0.470         0.249      0.423         0.181&#13;
+                                  (0.499)       (0.432)    (0.494)       (0.385)&#13;
+                                                n=51,890                 n=45,687&#13;
+Asset Quintile 2                  0.215         0.234      0.220         0.212&#13;
+                                  (0.411)       (0.434)    (0.415)       (0.408)&#13;
+                                                n=51,890                 n=45,687&#13;
+Asset Quintile 3                  0.152         0.211      0.172         0.223&#13;
+                                  (0.359)       (0.408)    (0.377)       (0.416)&#13;
+                                                n=51,890                 n=45,687&#13;
+Asset Quintile 4                  0.101         0.179      0.101         0.212&#13;
+                                  (0.301)       (0.383)    (0.302)       (0.209)&#13;
+&#13;
+                                       10Â &#13;
+Â &#13;
+&amp;#12;Table 7 Descriptive Statistics	&#13;
+Characteristics                                 Ages 6-10                      Ages 11-15&#13;
+&#13;
+                                                Balochistan    Rest of         Balochistan     Rest of&#13;
+                                                               Pakistan                        Pakistan&#13;
+                                                               n=51,890                        n=45,687&#13;
+Asset Quintile 5                                0.062          0.127           0.084           0.172&#13;
+                                                (0.240)        (0.333)         (0.278)         (0.377)&#13;
+                                                               n=51,890                        n=45,687&#13;
+Proximity to Basic Services&#13;
+Time to nearest primary (0-14 minutes)          0.710          0.841           --              --&#13;
+                                                (0.454)        (0.366)&#13;
+Time to nearest primary school (15-29 mins)     0.158          0.109           --              --&#13;
+                                                (0.365)        (0.312)&#13;
+Time to nearest primary school (30+ mins)       0.132          0.050           --              --&#13;
+                                                (0.338)        (0.218)&#13;
+                                                --             --               0.282          0.588&#13;
+Time to Nearest Middle School(0-14 mins)                                        (0.450)        (0.492)&#13;
+Time to nearest middle school (15-29 mins)       --            --               0.289          0.231&#13;
+                                                                                (0.453)        (0.422)&#13;
+Time to Nearest Middle School (30-44 mins) --                  --               0.220          0.114&#13;
+                                                                                (0.414)        (0.318)&#13;
+Time to Nearest Middle School (45-59 mins) --                  --               0.097          0.032&#13;
+                                                                                (0.297)        (0.176)&#13;
+Time to Nearest Middle School (60 + mins)        --            --               0.112          0.034&#13;
+                                                                                (0.315)        (0.181)&#13;
+Basic Services Proximity Score Tercile 1         0.423         0.251            0.402          0.218&#13;
+                                                 (0.494)       (0.434)          (0.490)        (0.413)&#13;
+Basic Services Tercile 2                         0.301         0.198            0.311          0.185&#13;
+                                                 (0.459)       (0.399)          (0.463)        (0.388)&#13;
+Basic Services Tercile 3                         0.276         0.551            0.287          0.597&#13;
+                                                 (0.448)       (0.497)          (0.452)        (0.491)&#13;
+n                                                13,368        51,892           9,847          45,688&#13;
+Notes: All statistics have been adjusted for sample weights. Statistics presented are means, and standard&#13;
+deviations in parenthesis. Rest of Pakistan includes KPK, Sindh, Punjab and ICT.&#13;
+&#13;
+The results of the bi nomial logistic regression are presented in table 8 below. For each&#13;
+model, the first columns contain parameter estimates along with standard errors in&#13;
+parenthesis, and the second columns contain odds ratios. These ratios are calculated by&#13;
+exponentiating coefficient estimates from the logistic regression, to facilitate the&#13;
+interpretation of the results.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                    11Â &#13;
+Â &#13;
+&amp;#12;Table 8 Regression Results for Balochistan and the Rest of Pakistan	&#13;
+                      Age 6 to 10                               Ages 11 to 15&#13;
+Variable              Balochistan          Rest of Pakistan     Balochistan          Rest of Pakistan&#13;
+                      Coefficien Odds      Coefficien Odds      Coefficien Odds      Coefficien Odds&#13;
+                      t           Ratio    t            ratio   t            ratio   t            Ratio&#13;
+Child Characteristics&#13;
+Female                1.514***     4.543   0.587***    1.799    2.740***    15.487   1.343***    3.828&#13;
+                      (0.044)              (0.022)              (0.065)              (0.027)&#13;
+Age                   -2.183***    0.113   -2.811***   0.060    0.600       1.823    0.327       1.387&#13;
+                      (0.203)              (0.102)              (0.456)              (0.209)&#13;
+Age2                  0.120***     1.128   0.155***    1.168    -0.014      0.987    -0.003      0.997&#13;
+                      (0.013)              (0.006)              (0.017)              (0.008)&#13;
+Sick                  -0.032       0.968   0.067       1.070    0.263*      1.301    0.099       1.104&#13;
+                      (0.107)              (0.049)              (0.155)              (0.062)&#13;
+1st Born              0.007        1.007   -0.022      0.978    0.290***    1.336    -0.045      0.956&#13;
+                      (0.067)              (0.034)              (0.101)              (0.042)&#13;
+Employed              --           --      --          --       3.220***    25.018   2.737***    15.442&#13;
+                                                                (0.131)              (0.057)&#13;
+Female x employed     --           --      --          --       -2.084***   0.124    -1.066***   0.344&#13;
+                                                                (0.399)              (0.122)&#13;
+Parental Characteristics&#13;
+Father ever attended -1.092***     0.335   -0.691***   0.501    -1.160***   0.313    -0.650***   0.522&#13;
+school                 (0.046)             (0.023)              (0.063)              (0.027)&#13;
+Mother Ever            -0.956***   0.385   -0.731***   0.482    -1.347***   0.260    -0.920***   0.399&#13;
+Attended School        (0.109)             (0.035)              (0.148)              (0.040)&#13;
+Household Characteristics&#13;
+Rural                  0.185***    1.204   -0.144***   0.866    0.437***    1.547    -0.128***   0.880&#13;
+                       (0.072)             (0.030)              (0.093)              (0.033)&#13;
+Household size         0.073***    1.076   0.049***    1.050    0.092***    1.096    0.046***    1.047&#13;
+                       (0.011)             (0.005)              (0.014)              (0.005)&#13;
+Head children &lt;5       -0.141***   0.868   -0.028**    0.972    -0.067*     0.936    -0.003      0.997&#13;
+years old              (0.026)             (0.013)              (0.035)              (0.015)&#13;
+Live in own home       -0.028      0.972   -0.277***   0.758    0.029       1.030    -0.133***   0.876&#13;
+                       (0.081)             (0.031)              (0.111)              (0.038)&#13;
+Asset Quintile 1       1.371***    3.939   1.515***    4.549    1.667***    5.298    2.085***    8.047&#13;
+                       (0.131)             (0.054)              (0.143)              (0.059)&#13;
+Asset Quintile 2       0.898***    2.454   0.847***    2.333    1.152***    3.164    1.310***    3.707&#13;
+                       (0.130)             (0.051)              (0.140)              (0.054)&#13;
+Asset Quintile 3       0.321***    1.378   0.447***    1.563    0.484***    1.622    0.881***    2.413&#13;
+                       (0.130)             (0.051)              (0.137)              (0.052)&#13;
+Asset Quintile 4       0.091       1.095   0.166***    1.180    0.158       1.171    0.499***    1.647&#13;
+                       (0.140)             (0.051)              (0.143)              (0.051)&#13;
+Proximity to Basic Services&#13;
+Time to nearest        0.322***    1.380   0.202***    1.224    --          --       --          --&#13;
+primary school (15-    (0.074)             (0.044)&#13;
+29 mins)&#13;
+Time to nearest        1.308***    3.699   0.398***    1.489    --          --       --          --&#13;
+primary school (30+ (0.131)                (0.056)&#13;
+mins)&#13;
+Time to nearest        --          --      --          --       -0.253      0.777    0.115**     1.121&#13;
+middle school (15-                                              (0.164)              (0.056)&#13;
+29 mins)&#13;
+Time to Nearest        --          --      --          --       -0.225      0.799    0.182***    1.199&#13;
+Middle School (30-                                              (0.170)              (0.064)&#13;
+&#13;
+                                                 12Â &#13;
+Â &#13;
+&amp;#12;Table 8 Regression Results for Balochistan and the Rest of Pakistan	&#13;
+                        Age 6 to 10                                    Ages 11 to 15&#13;
+Variable                Balochistan             Rest of Pakistan       Balochistan               Rest of Pakistan&#13;
+                        Coefficien Odds         Coefficien Odds        Coefficien Odds           Coefficien Odds&#13;
+                        t           Ratio       t            ratio     t            ratio        t            Ratio&#13;
+44 mins)&#13;
+Time to Nearest         --            --        --            --       -0.418**       0.658      0.106          1.112&#13;
+Middle School (45-                                                     (0.181)                   (0.087)&#13;
+59 mins)&#13;
+Time to Nearest         --            --        --            --       0.003          1.003      -0.048         0.953&#13;
+Middle School (60+                                                     (0.188)                   (0.086)&#13;
+mins)&#13;
+Basic Services          0.286***      1.331     0.204***      1.227    0.761***       2.140      0.126**        1.134&#13;
+Proximity Score         (0.077)                 (0.037)                (0.164)                   (0.061)&#13;
+tercile 1&#13;
+Basic Services          -0.006        0.994     0.131***      1.140 0.350**           1.419       0.139**       1.149&#13;
+Tercile 2               (0.062)                 (0.029)                 (0.160)                   (0.055)&#13;
+Constant                7.372***       --       10.876*** --            -8.656*** --              -6.069*** --&#13;
+                        (0.815)                 (0.029)                 (2.961)                   (1.363)&#13;
+N                       13,278         --       48,245        --        9,717         --          41,570        --&#13;
+Log Likelihood          -              --       -             --        -             --          -             --&#13;
+                        6,814.329               25,496.78               4,009.198                 19,468.76&#13;
+                                                5                                                 7&#13;
+Prob &gt; chi2              0.000                  0.000                   0.000                     0.000&#13;
+Notes: the dependent variable is out of school (1 if out of school, 0 if in school). * indicates significance at the 0.10&#13;
+level. ** indicates significance at the 0.05 level,*** indicates significance at the 0.001 level.&#13;
+&#13;
+&#13;
+&#13;
+5. Discussion&#13;
+The results will be discussed separately for each age group and each model. For&#13;
+Balochistan, the results for 6-10 year olds indicate that females are 4.5 times more likely&#13;
+than males to be out of school, all else equal. Moreover, in this age group, as age&#13;
+increases, the child is more likely to be enrolled in school, stated differently, younger&#13;
+children are more likely to be out of school than older children. Parental education is&#13;
+another significant factor that explains the variation in schooling status; if a childâ&#128;&#153;s father&#13;
+or mother has ever attended school, he or she is less likely to be out of school.&#13;
+Household characteristics indicate that children living in rural areas are 1.2 times more&#13;
+likely to be out of school than their urban counterparts. Children coming from larger&#13;
+households are more likely to be out of school, while children with a greater number of&#13;
+siblings less than five years old are less likely to be out of school. Children coming from&#13;
+families that are in the bottom asset index quintile are 3.9 times more likely to be out of&#13;
+school than those who are in the top wealth quintile.&#13;
+&#13;
+Distance from primary school is another significant predictor of being out of school, as&#13;
+children who live within 15-29 minutes of a primary school, are 1.4 times more likely to&#13;
+be out of school than children who live less than 15 minutes from a primary school. As&#13;
+distance to primary school increases, the likelihood of being out of school increases;&#13;
+children who live more than 30 minutes away from a primary school are more than three&#13;
+&#13;
+                                                       13Â &#13;
+Â &#13;
+&amp;#12;times as likely to be out of school as children who live less than 15 minutes away from a&#13;
+primary school.&#13;
+&#13;
+For the 11 to 15 year old age group, the results are generally similar to the younger age&#13;
+cohort with a few exceptions. Greater gender disparity is observed in this age group, as&#13;
+females are 15.5 times more likely to be out of school than males. Unlike the 6-10 year&#13;
+age group, age is not a statistically significant predictor of being out of school however,&#13;
+first born children are 1.3 times more likely to be out of school as compared to all other&#13;
+children in the household. Children whose fathers have attended school in the past are a&#13;
+third as likely to be out of school as compared to children with fathers who have never&#13;
+attended school. Similarly, children whose mothers have attended school are a quarter as&#13;
+likely to be out of school, relative to children with mothers who have never gone to&#13;
+school.&#13;
+&#13;
+Household characteristics tell a similar story; children coming from larger families are&#13;
+more likely to be out of school. Children belonging to households in the bottom asset&#13;
+index quintiles are 5 times more likely to be out of school than children belonging to the&#13;
+wealthiest asset index quintiles. Moreover, children who are working are 25 times more&#13;
+likely to be out of school than children who are not working. Middle school distance is&#13;
+not a statistically significant predictor of being out of school except for children who live&#13;
+between 45 minutes and 59 minutes of a primary school, who are less likely to be out of&#13;
+school than those who live less within 14 minutes away from a middle school. This&#13;
+result is counterintuitive as one would expect children who live further away from a&#13;
+middle school to be out of school as compared to children who live near a middle school.&#13;
+&#13;
+The PSLM surveys also contain questions that solicit information from parents regarding&#13;
+why a child is not enrolled in school. For the ease of interpretation the responses have&#13;
+been classified in to the categories listed in table 9 below. The responses have been&#13;
+presented separately by gender, and for the two different age groups. The results indicate&#13;
+that the primary reason for boys between the ages of 6 and 10 for being out of school is&#13;
+that the children are unwilling to go to school. The second most common answer&#13;
+reported is that the child is too young to go to school. 16 percent of respondents cited&#13;
+school distance as the primary reason, while only 10 percent of respondents claimed that&#13;
+reason for not going to school was because education was too expensive. For girls&#13;
+between the ages of 6 and 10, the primary reason for not attending school is that parents&#13;
+do not allow them to go to school (34 percent). One fifth of respondents also claimed&#13;
+that the girls are unwilling to go to school, and 16 percent stated that the child was too&#13;
+young to go to school.&#13;
+&#13;
+In the 11 to 15 age group, 44 percent of respondents claimed that the primary reason for&#13;
+boys being out of school is because they are working. For girls in the 11 to 15 year age&#13;
+group, 41 percent of respondents cited that their parents did not allow them to go to&#13;
+school, while 24 percent of respondents claimed they had to help with work, therefore&#13;
+they could not attend school. As a child becomes older, poverty plays an increasingly&#13;
+important role, because they are often required to help out at home, or work rather than&#13;
+go to school.&#13;
+&#13;
+                                             14Â &#13;
+Â &#13;
+&amp;#12;Table 9 Reasons for Being out of School, Children in Balochistan	&#13;
+Reason for Being Ages 6 to 10                                 Ages 11 to 15&#13;
+out of school for Males            Females     All            Males        Females       All Children&#13;
+Balochistan                                    Children&#13;
+Child unwilling       30.33        20.16       24.17          26.74        13.66        19.12&#13;
+Parents donâ&#128;&#153;t allow   3.8          34.17       22.18          1.84         40.98         24.65&#13;
+Child is too          28.01        15.93       20.7           0.46         0.36          0.4&#13;
+young/old&#13;
+School is too far     15.66        10.11       12.3           10.56        7.67          8.88&#13;
+away&#13;
+Child is working at   4.13         9.07        7.12           43.75        24.12         32.31&#13;
+home or at a job&#13;
+Too costly            10.38        3.65        6.31           8.36         2.92          5.19&#13;
+Education is not      2.59         2.61        2.6            2.79         3.96         3.47&#13;
+useful&#13;
+Other Reason          2.19         2.04        2.1            2.73         3.78          3.35&#13;
+Low quality of        1.88         1.87        1.87           2.01         2.26         2.16&#13;
+education/shortage&#13;
+of male/female&#13;
+teachers&#13;
+Sick/handicapped      1.03         0.4         0.65           0.75         0.27          0.47&#13;
+N                     2,514        4,031       6,545          2,254        3,174        5,428&#13;
+Notes: Sample only includes out of school children in the relevant age group for Balochistan. Numbers&#13;
+reported in columns are percentages. All proportions have been adjusted for sample weights. Source:&#13;
+PSLM Surveys 2010/11&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+6.		Conclusion		&#13;
+&#13;
+Based on the results of the analysis, it is evident that when it comes to education, girls are&#13;
+particularly disadvantaged in Balochistan. The incidence of schooling for households&#13;
+with multiple girls shows that 57 percent of households in Balochistan with girls between&#13;
+the ages of 6-15 do not send any of their girls to school. These gender wide disparities&#13;
+are captured in the PSLM surveys when respondents indicate that the primary reason girls&#13;
+between the ages of 6-10 and 11-15 do not attend school is because parents do not allow&#13;
+them to attend school. The quantitative analysis corroborates this claim with females&#13;
+being more likely than boys to be out of school, all else equal. Moreover, in the 6-10 age&#13;
+group, the results of the regression analysis confirm the responses of parents who cite age&#13;
+as one of the reasons why their children are not enrolled in school: The younger the child&#13;
+is, the more likely he or she is to be out of school. Poverty also plays a major role in&#13;
+determining whether or not children go to school, as we see that children from poorer&#13;
+households are less likely to be in school and in the 11-15 age group, children who are&#13;
+working for pay, profit, or â&#128;&#152;family gainâ&#128;&#153; are more likely to be out of school than those&#13;
+who are not working. Lastly, primary school distance also plays a role for children&#13;
+between the ages of 6-10; children who live further away from primary schools are more&#13;
+likely to be out of school than children who live within 15 minutes of a primary school.&#13;
+&#13;
+&#13;
+                                                 15Â &#13;
+Â &#13;
+&amp;#12;                                 BIBLIOGRAPHY	&#13;
+Anzar , U. (1999). Education reforms in balochistan 1990-1998. The World Bank.&#13;
+&#13;
+Dancer , D. M., &amp; Rammohan, A. (2007). Determinants of schooling in egypt: the role of gender&#13;
+and rural/urban residence. Oxfod Development Studies, 35(2), 171-195. doi:&#13;
+10.1080/13600810701322041&#13;
+&#13;
+Government of Pakistan, Pakistan Bureau of Statistics. (2011). Pakistan social and living&#13;
+standards measurement survey (2010-11).&#13;
+&#13;
+Hazarika, G. (2001). The sensitivity of primary school enrollment to the costs of post-primary&#13;
+schooling in rural pakistan: A gender perspective. Education Economics, 9(3), 237-244.&#13;
+&#13;
+Kim, J., Alderman, H., &amp; Orazem, P. F. (1998). Can private school subsidies increase enrollment&#13;
+for the poor? the quetta urban fellowship program. The World Bank Economic Review, 13(3),&#13;
+443-465.&#13;
+&#13;
+Konstantopoulos, S. (2007). A comment on variance decomposition and nesting effects in two-&#13;
+and three-level designs. IZA, no. 3178.&#13;
+&#13;
+United Nations , UNESCO Institute for Statistics. (2012). Net enrolment ratio in primary&#13;
+education (ner). Retrieved from: http://data.un.org/Data.aspx?d=SOWC&amp;f=inID:7&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                              16Â &#13;
+Â &#13;
+&amp;#12;</ml:original-txt><ml:search-metadata><doc id="17462630">
+        <url>
+            http://documents.worldbank.org/curated/en/2013/03/17462630/determinants-school-enrollment-balochistan-determinants-school-enrollment-balochistan
+        </url>
+        <availablein>English</availablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2013/03/17462630/determinants-school-enrollment-balochistan-determinants-school-enrollment-balochistan</url_friendly_title>
+        <new_url>2013/03/17462630/determinants-school-enrollment-balochistan-determinants-school-enrollment-balochistan</new_url>
+        <disclosure_date>2013-03-20T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2013-03-20T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/03/20/000445729_20130320122948/Rendered/INDEX/761150NWP0Fina00Box374362B00PUBLIC0.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/03/20/000445729_20130320122948/Rendered/PDF/761150NWP0Fina00Box374362B00PUBLIC0.pdf</pdfurl>
+        <datestored>2013-03-20T00:00:00Z</datestored>
+        <docdt>2013-03-01T00:00:00Z</docdt>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            Determinants of school enrollment in Balochistan
+        </repnme>
+        <abstracts>
+            Educational attainment in Pakistan has
+            been historically low as compared to other countries in the
+            region. Currently the primary net enrollment rate (NER) in
+            Pakistan is sixty six percent which is far below that of
+            some of the other countries in the region. It is also
+            evident that there is great disparity within Pakistan,
+            particularly in Balochistan which has a primary NER of fifty
+            six percent as compared to the Punjab province which has a
+            primary NER of seventy percent. This project examined
+            various factors that influence enrollment decisions in
+            Pakistan however; there have been relatively few recent
+            studies that examine the determinants of schooling decisions
+            and gender differentials in schooling in Balochistan. This
+            analysis consists of three main components: (i) constructing
+            profiles of children in Balochistan by schooling status;
+            (ii) conducting a decomposition of variance of schooling
+            status; and (iii) a logistic regression analysis to
+            determine gender differentials in school enrollment. The
+            project results suggest that for six - ten year olds in
+            Balochistan the majority of variation in schooling status is
+            explained between households rather than within households,
+            while for eleven - fifteen year olds the majority of
+            variation in schooling status is explained by within
+            household differences. Poverty also plays a major role in
+            determining whether or not a child is enrolled in school, as
+            children belonging to the poorest wealth quintile in the six
+            - ten age groups are four times more likely to be out of
+            school than children in the richest wealth quintile.
+        </abstracts>
+        <docna>
+            Determinants of School Enrollment in Balochistan
+        </docna>
+        <display_title>Determinants of school enrollment
+            in Balochistan : Determinants of School Enrollment in Balochistan</display_title>
+        <listing_relative_url>/research/2013/03/17462630/determinants-school-enrollment-balochistan-determinants-school-enrollment-balochistan</listing_relative_url>
+        <docty>Working Paper (Numbered Series)</docty>
+        <subtopic>Disability,Youth and Governance,Primary Education,Education For All,Adolescent Health</subtopic>
+        <teratopic>Education,Governance,Health, Nutrition and Population,Social Protections and Labor</teratopic>
+        <count>Pakistan</count>
+        <geo_region_mdks>
+            <geo_region_mdk>World!$!80475</geo_region_mdk>
+            <geo_region_mdk>Asia!$!80451</geo_region_mdk>
+            <geo_region_mdk>South Asia!$!80470</geo_region_mdk>
+        </geo_region_mdks>
+        <entityids>
+            <entityid>000445729_20130320122948</entityid>
+        </entityids>
+        <admreg>South Asia,South Asia</admreg>
+        <colti>South Asia: Human Development Sector ; No. 56</colti>
+        <lang>English</lang>
+        <historic_topic>Education,Governance,Health, Nutrition and Population,Social Protections and Labor</historic_topic>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            age cohort, age groups, basic service, Basic
+            services, dropouts, Education Economics, Education reforms,
+            Education Sector, Educational attainment, families, Gender,
+            gender bias, gender differentials, Gender disparities,
+            gender disparity, girls enrollment, girls in school, Human
+            Development, literacy, Middle School, NER, Net Enrollment,
+            Net Enrollment Rate, Net enrollment ratio, Net enrolment,
+            Net enrolment ratio, old age, older children, out of school
+            children, Parental education, primary education, primary net
+            enrollment rate, primary school, primary school enrollment,
+            primary schooling, primary schools, private school, private
+            schooling, public school, rural areas, school children,
+            school counterparts, School Enrollment, school
+            participation, Schooling, schooling for girls, schools, teachers
+        </keywd>
+        <owner>Macroeconomics 3 (ECSP3)</owner>
+        <geo_regions>
+            <geo_region>World</geo_region>
+            <geo_region>Asia</geo_region>
+            <geo_region>South Asia</geo_region>
+        </geo_regions>
+        <repnb>76115</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Teaching and Learning</ml:concept><ml:concept>Poverty Reduction</ml:concept><ml:concept>Poverty Reduction and Distributional Analysis</ml:concept><ml:concept>Poverty Reduction and Equity</ml:concept><ml:concept>Poverty and Inequality</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Social Protections and Labor</ml:concept><ml:concept>Science and Technology</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Education</ml:concept><ml:concept>Health, Nutrition and Population</ml:concept><ml:concept>Poverty</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Social Protection and Labor</ml:concept><ml:concept>Private Investment in Education</ml:concept><ml:concept>Private Provision of Education</ml:concept><ml:concept>Private Provision of Education Services</ml:concept><ml:concept>Private School</ml:concept><ml:concept>Education Reform and Management</ml:concept><ml:concept>Longevity</ml:concept><ml:concept>Analysis &amp; Monitoring</ml:concept><ml:concept>Delivery Units</ml:concept><ml:concept>Grievance Redress</ml:concept><ml:concept>Indicators</ml:concept><ml:concept>M&amp;E</ml:concept><ml:concept>Performance Measurement</ml:concept><ml:concept>Performance Reviews</ml:concept><ml:concept>Rapid Results Approaches</ml:concept><ml:concept>Econometrics</ml:concept><ml:concept>Income</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Boundaries</ml:concept><ml:concept>Private Education</ml:concept><ml:concept>Education Reform</ml:concept><ml:concept>Subsidies</ml:concept><ml:concept>Aging</ml:concept><ml:concept>Monitoring and Evaluation</ml:concept></ml:concepts><ml:geo-regions><ml:geo-region>Asia</ml:geo-region><ml:geo-region>Pakistan</ml:geo-region><ml:geo-region>Southern Asia</ml:geo-region></ml:geo-regions></ml:annotations></ml:doc-envelope>

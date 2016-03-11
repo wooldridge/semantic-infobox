@@ -1,0 +1,1334 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>ï»¿                                         88843&#13;
+&#13;
+&#13;
+Implementing the ECOWAS&#13;
+Common External Tariff&#13;
+Challenges and Opportunities for Nigeria&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Erik von Uexkull&#13;
+Lulu Shui&#13;
+&#13;
+&#13;
+&#13;
+Africa Trade Practice Working Paper Series&#13;
+Number 5&#13;
+June 2014&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+www.worldbank.org/africa/trade&#13;
+&amp;#12;                          Implementing the ECOWAS Common External Tariff&#13;
+                                                                       1&#13;
+                              Challenges and Opportunities for Nigeria&#13;
+&#13;
+&#13;
+Executive Summary&#13;
+&#13;
+This paper assesses the potential impact on Nigeria of implementing the new ECOWAS Common&#13;
+External Tariff (CET). It uses the World Bankâ&#128;&#153;s Tariff Reform Impact Simulation Tool (TRIST) to simulate&#13;
+three scenarios: i) keeping in place current import bans and levies which are charged in addition to&#13;
+tariffs, while implementing the CET tariff rate on non-banned products ii) removing the import bans and&#13;
+implementing the CET rate on all products, but keeping the additional import levies in place and iii) fully&#13;
+implementing the CET on all products and completely removing import bans and levies. The paper&#13;
+suggests that implementing the CET would have significant and largely positive effects on Nigerian&#13;
+consumers and producers, but only under the third scenario which includes the removal of import bans&#13;
+and special import levies. In this case, imports could be expected to increase between 3 and 5 percent.&#13;
+&#13;
+Tariff revenue would increase if import bans are replaced with ad valorem tariffs, but once import levies&#13;
+are also removed the net effect is likely to be negative, though a precise assessment is difficult given&#13;
+data limitations. A significant share of this loss could be offset by expected revenue gained from&#13;
+increased formalization of imports as the CET reduces the incentives for informal trade. Overall, tariff&#13;
+and other trade taxes account for just 3.7 percent of total government revenue, so the overall fiscal&#13;
+effect would be small.&#13;
+&#13;
+The full CET scenario, including the removal of import bans and levies, would significantly benefit&#13;
+Nigerian consumers, who could expect to see the price of their consumption bundle decline by around&#13;
+2.4 percent. The main channel of impact would be the removal of the levy on rice. On the contrary, if&#13;
+the bans and levies are kept in place under scenario i), implementing the CET on non-banned products&#13;
+would lead to an increase in the price of the average consumption basket that would adversely and&#13;
+disproportionately affect the poor.&#13;
+&#13;
+Overall, CET implementation under all three scenarios would benefit the majority of manufacturing&#13;
+firms in Nigeria (between 60 and 75 percent), accounting for the majority of manufacturing jobs. Their&#13;
+profits are expected to be higher after the reform due to lower prices on intermediate inputs, and in&#13;
+some cases higher protection for these firmsâ&#128;&#153; outputs. Firms that are already exporting can also be&#13;
+expected to gain through cheaper access to intermediate inputs, greater preferential market access in&#13;
+&#13;
+&#13;
+&#13;
+1&#13;
+  World Bank and Consultant, respectively. Corresponding author is Erik von Uexkull (jvonuexkull@worldbank.org).&#13;
+The authors are grateful for the comments and suggestions of Paul Brenton, Jim de Melo, Cristian Ugarte, Olivier&#13;
+Cadot, Julien Gourdon, Petra Voionmaa, Volker Treichel, Roberto Echandi, Josaphat Kweka, Jean-Christophe Maur,&#13;
+Mombert Hoppe, Dominique Njinkeu, Stephen Mink, Jose Daniel Reyes, and Bertram Boie.&#13;
+The views expressed in this note are those of the authors, and all errors and omissions remain entirely their&#13;
+responsibility.&#13;
+&#13;
+                                                       2&#13;
+    www.worldbank.org/africa/trade&#13;
+&amp;#12;the region, and in particular trade facilitation effects associated with a simplified customs regime if bans&#13;
+and levies are removed.&#13;
+&#13;
+The remaining domestic firms in the manufacturing sector could experience declines in their profitability&#13;
+as the domestic price of their main outputs would be lower after the CET is in force and levies and bans&#13;
+are removed. In most cases, they would nevertheless remain profitable. The largest negative effects are&#13;
+likely to be concentrated on the textile and apparel sectors, where adjustment assistance might be&#13;
+required. Geographical disparities could also arise, suggesting a possible rationale for adjustment&#13;
+assistance targeted to states with a disproportionate amount of negatively affected firms. While&#13;
+negative effects are likely to be concentrated on relatively few firms, benefits in terms of lower input&#13;
+prices are distributed rather evenly and could give a significant boost in competitiveness to the&#13;
+manufacturing sector as a whole.&#13;
+&#13;
+Firm level data suggest that exporting to the regional market can be an important first step beyond the&#13;
+home market for Nigerian firms that may not yet be competitive in the global market. Implementation&#13;
+of the CET will open new opportunities for Nigerian firms in the regional market. On average, the&#13;
+preferential margin over competitors from the rest of the world in ECOWAS markets will increase for&#13;
+Nigerian firms as partner countries implement the new CET, though there are disparities across&#13;
+industries and partner countries. In particular, sizeable new opportunities can be expected in the food&#13;
+and beverage industry, and especially in Ghana, which is large in economic terms and where there will&#13;
+be substantial increases in the preferential margin for Nigerian firms under the CET. In addition,&#13;
+implementation of the CET and removal of the import bans and levies would contribute to trade&#13;
+facilitation at both Nigerian and regional borders by reducing complexity, diminishing the incentives for&#13;
+informal trade and smuggling, and promoting trade facilitation. In the future, moving towards a full&#13;
+Customs Union where tariffs are collected at the border of entry rather than in the country of&#13;
+consumption could render even greater trade facilitation benefits by removing the need for rules of&#13;
+origin and transit regulations.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                     3&#13;
+  www.worldbank.org/africa/trade&#13;
+&amp;#12;Contents&#13;
+&#13;
+Executive Summary....................................................................................................................................... 2&#13;
+1.     Introduction .......................................................................................................................................... 5&#13;
+2.     Current Trade Profile ............................................................................................................................ 6&#13;
+     2.1.      Imports .......................................................................................................................................... 6&#13;
+     2.2.      Exports .......................................................................................................................................... 7&#13;
+     2.3.      Trade Policy ................................................................................................................................. 13&#13;
+3.     Impact of CET Implementation ........................................................................................................... 18&#13;
+     3.1.      Protection, Trade and Revenue .................................................................................................. 18&#13;
+     3.2.      Consumer Welfare ...................................................................................................................... 21&#13;
+     3.3.      Competitiveness and Jobs........................................................................................................... 23&#13;
+4.     Market Access in ECOWAS .................................................................................................................. 30&#13;
+     4.1.      Preference Margin ...................................................................................................................... 30&#13;
+     4.2.      Trade Facilitation ........................................................................................................................ 34&#13;
+Conclusions ................................................................................................................................................. 37&#13;
+References .................................................................................................................................................. 38&#13;
+Annex 1: Methodology for simulating the effect of the CET on Nigerian firms ......................................... 40&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                4&#13;
+     www.worldbank.org/africa/trade&#13;
+&amp;#12;    1. Introduction&#13;
+&#13;
+The Common External Tariff (CET) for ECOWAS was adopted at a Heads of State Summit in October 2013&#13;
+in Dakar. Leading up to this milestone decision, which presents a significant step forward in the long&#13;
+history of regional integration attempts in West Africa, the public debate in Nigeria has been lively.&#13;
+Concerns have been expressed from various sides on a loss of protection â&#128;&#147; and ultimately jobs â&#128;&#147; in&#13;
+sectors where implementing the CET would expose Nigerian industries to stronger foreign competition.&#13;
+This note is intended to enrich the debate by presenting projections on the likely effects of CET&#13;
+implementation. To the extent possible with the limited available data, it gives a comprehensive&#13;
+overview of the effects to be expected on government revenue, the welfare of consumers, and the&#13;
+performance of Nigerian firms. It also discusses new opportunities for Nigerian firms to benefit from the&#13;
+regional market that are likely to arise if the CET is implemented.&#13;
+&#13;
+The note is organized as follows: Section 2 describes Nigeriaâ&#128;&#153;s current trade profile with a particular&#13;
+focus on trade with the ECOWAS region. It also reviews the system of tariffs and other trade related&#13;
+policy measures currently in place, and discusses the effectiveness of these measures.&#13;
+&#13;
+Section 3 makes use of the World Bankâ&#128;&#153;s Tariff Reform Impact Simulation Tool (TRIST) to analyze the&#13;
+impact of implementing the CET in Nigeria in terms of changes in the level of protection by industry,&#13;
+government revenue from taxes levied at the border, consumer welfare, and the competitiveness of&#13;
+Nigerian firms. The purpose is to derive an order of magnitude on the costs and benefits associated with&#13;
+the CET, illustrate the resulting forces of structural change in the Nigerian economy, and highlight&#13;
+potential areas were adjustment assistance might be required to compensate those affected negatively&#13;
+by the reform.&#13;
+&#13;
+Section 4 shifts the focus beyond Nigeriaâ&#128;&#153;s borders to look at the regional market within ECOWAS. While&#13;
+in principle intra-community trade is already free of tariff duties, market access conditions for Nigerian&#13;
+firms exporting to ECOWAS partners would be affected by a change in the preference margin that they&#13;
+enjoy over competitors from other parts of the world. This section therefore analyzes the change in&#13;
+tariff treatment towards non-ECOWAS partners that would result from ECOWAS members implementing&#13;
+the CET, and identifies resulting opportunities and challenges for Nigerian firms. It also discusses how&#13;
+simplifying Nigeriaâ&#128;&#153;s trade policy regime in the context of CET implementation could lead to substantial&#13;
+benefits in terms of trade facilitation. Section 5 concludes.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                    5&#13;
+  www.worldbank.org/africa/trade&#13;
+&amp;#12; 2. Current Trade Profile&#13;
+&#13;
+ 2.1.    Imports&#13;
+ The availability of detailed and reliable trade statistics for Nigeria remains a major challenge for any&#13;
+ trade related analysis. Due to underreporting, informal trade, re-export and smuggling, officially&#13;
+ recorded trade does not capture the full picture of cross-border transactions within the region. For&#13;
+ instance, Hoppe (2013) estimates the non-oil trade flows between Nigeria and Cameroon are in fact&#13;
+ over US$230 million compared to the official value of US$10 to $40 million. Even within the officially&#13;
+ recorded trade statistics, large discrepancies are frequent, in particular for the latest available&#13;
+ statistics in 2012. This note therefore makes use of the import data reported by Nigeria for 2010 and&#13;
+ 2011 which is available in the UNâ&#128;&#153;s COMTRADE database, and derives an average over the two years&#13;
+ in order to reduce the potential impact of outliers. Nevertheless, the results based on trade data&#13;
+ discussed in this and the following sections need to be viewed with caution, as it is well known that&#13;
+ significant unofficial and thus unrecorded trade take place across Nigeriaâ&#128;&#153;s borders. Official data are&#13;
+ thus likely to underreport, in particular, imports of food and other items of daily consumption.&#13;
+&#13;
+ In 2010-11, Nigeria imported, on average, about US$40 billion worth of goods annually from the&#13;
+ world, equivalent to around 18 percent of its GDP. Its major trading partners include the US, the EU&#13;
+ and the BRIC countries (Figure 1).&#13;
+&#13;
+                                               Figure 1&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+ Source: COMTRADE&#13;
+&#13;
+ Processed food and beverages, motor vehicles, machinery, chemicals and refined petroleum are the&#13;
+ main imports, together accounting for over half of total imports (Figure 2). The majority of the top 3&#13;
+ imports come from the BRIC countries, the EU and U.S.&#13;
+&#13;
+&#13;
+&#13;
+ Less than 1 percent of Nigeriaâ&#128;&#153;s imports come from ECOWAS countries, among which Ghana&#13;
+ accounts for over 55 percent and Ivory Coast another 27 percent of the total sum. Although the&#13;
+ total is small, imports from ECOWAS are relatively diversified and similar in composition to imports&#13;
+ from the rest of the world (Figure 2). Over 95 percent of imported carpets come from ECOWAS, as&#13;
+ well as over half of imported jewelry, fruits and nuts.&#13;
+&#13;
+&#13;
+                                                  6&#13;
+www.worldbank.org/africa/trade&#13;
+&amp;#12;Figure 2&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Source: COMTRADE&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+2.2.       Exports&#13;
+    Over the past decade, regional exports have not grown in line with the strong oil driven export&#13;
+    performance in global markets. As a result, the share of regional in total exports declined from 4.8&#13;
+    percent in 2000-04 to 2.6 percent in 2010-11. After growing from an annual average of US$1.1 bln in&#13;
+    2000-04 to US$3.5 bln in 2005-10, Nigeriaâ&#128;&#153;s exports to regional markets declined to US$2.8 bln in&#13;
+    2010-11 (Figure 3).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                   7&#13;
+   www.worldbank.org/africa/trade&#13;
+&amp;#12;Figure 3&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Source: COMTRADE&#13;
+&#13;
+Exports to both ECOWAS partners and the global market are heavily dominated by oil and oil products.&#13;
+However, there are significant differences in the composition of non-oil exports between the regional&#13;
+and global markets. While global non-oil exports are dominated by agricultural products and, to a lesser&#13;
+extent, leather products, non-oil exports to the region are distributed more evenly across different&#13;
+manufacturing industries, including tobacco products, footwear, food, and chemical products (Figures 4&#13;
+and 5).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                   8&#13;
+   www.worldbank.org/africa/trade&#13;
+&amp;#12;Figure 4&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Source: COMTRADE, average over Nigeriaâ&#128;&#153;s exports reported for the years 2010 and 2011.&#13;
+&#13;
+Figure 5&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Source: COMTRADE, average over Nigeriaâ&#128;&#153;s exports reported for the years 2010 and 2011.&#13;
+&#13;
+&#13;
+                                                                   9&#13;
+   www.worldbank.org/africa/trade&#13;
+&amp;#12;As a result, once oil exports are removed from the data, Nigeriaâ&#128;&#153;s regional trade reveals a significantly&#13;
+lower index of export concentration than trade with the rest of the world. In other words, non-oil&#13;
+exports to ECOWAS are more diversified than non-oil exports to the rest of the world.&#13;
+&#13;
+Figure 6&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Source: Calculated by the authors using COMTRADE data on Nigeriaâ&#128;&#153;s exports reported for the years 2010-11.&#13;
+&#13;
+An important strand of recent research on trade has moved beyond the concept of comparative&#13;
+advantage by industries and instead emphasized the importance of individual firms (Melitz, 2003). This&#13;
+is based on the empirical finding that usually only the more productive firms in a country are able to&#13;
+enter and successfully compete in foreign markets (Bernard, Eaton, Jensen, &amp; Kortum, 2003).&#13;
+&#13;
+In the case of Nigeria, only very few manufacturing firms are engaged in exporting (Figure 7, left panel).&#13;
+Consistent with findings from other countries, very profitable firms are more likely to be exporting&#13;
+(Figure 7, right panel). What is remarkable is that despite the relatively small share of regional markets&#13;
+in the total value of exports, over one third of the exporting firms in the sample report ECOWAS&#13;
+countries as their primary export market. In terms of their profitability, these firms tend to fall in&#13;
+between purely domestic firms and global exporters, suggesting that the regional market provides&#13;
+export opportunities for firms that are not ready to â&#128;&#152;go globalâ&#128;&#153; yet. The data also shows that global&#13;
+exporters tend to be significantly larger than domestic firms and regional exporters.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                    10&#13;
+   www.worldbank.org/africa/trade&#13;
+&amp;#12;Figure 7&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Source: Calculated by the authors using World Bank 2009 / 2007 Enterprise Survey data. Survey weights are not applied, implying that&#13;
+aggregates are representative of the survey sample but not the entire universe of firms in Nigeria.&#13;
+&#13;
+While global exporters outperform both domestic and regionally exporting firms in terms of their sales&#13;
+growth, the regional exporters have the fastest rate of job creation of the three groups of firms (Figure&#13;
+8). While this may appear counterintuitive it is, in fact, not uncommon to find that firms characterized&#13;
+by high growth in global markets are, at the same time, rapidly increasing their labor productivity, and&#13;
+thus do not create as many jobs as one might expect when observing the expansion of their sales. In this&#13;
+regard, regional exporters appear to be more similar to domestic firms in the sense that they create&#13;
+relatively more jobs per unit of output growth. Further research could address the question whether this&#13;
+is related to the industries these firms are engaged in, or driven by firm specific factors such as&#13;
+production technology or human resource strategies.&#13;
+&#13;
+Either way, these figures suggest that regional trade can play an important role in helping Nigerian firms&#13;
+to establish themselves internationally, and that these firms have made a strong contribution to job&#13;
+creation over the past years. Further measures to facilitate market access and trade with regional&#13;
+partners is thus likely to encourage additional Nigerian firms which currently only operate in their home&#13;
+market to look beyond the borders for opportunities in their neighboring countries, and, as they do so,&#13;
+create more jobs.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                     11&#13;
+   www.worldbank.org/africa/trade&#13;
+&amp;#12;Figure 8&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Source: Calculated by the authors using World Bank 2009 / 2007 Enterprise Survey data. Survey weights are not applied, implying that&#13;
+aggregates are representative of the survey sample but not the entire universe of firms in Nigeria.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                     12&#13;
+   www.worldbank.org/africa/trade&#13;
+&amp;#12;     2.3.     Trade Policy&#13;
+Nigeria aligns its tariffs to the five duty bands under the ECOWAS common external tariff (CET), with&#13;
+rates ranging from 0 to 35 percent. The current trade weighted collected tariff rate is 10.5 percent, at&#13;
+the high end for ECOWAS members. Levels of protection are highest on consumer products like tobacco,&#13;
+recreational products, apparel, and furniture. Duties are also high on food items, which constitute a&#13;
+large share of total imports (Figure 9).&#13;
+&#13;
+Stronger forms of protection come from additional measures such as levies, miscellaneous surcharges&#13;
+and outright import bans. Levies range from 5 to 100 percent and are applied mainly to rice, wheat&#13;
+flour, sugar, alcohol, tobacco, textiles, iron and steel.&#13;
+&#13;
+Figure 9&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Source: Authorsâ&#128;&#153; calculation based on 2013 tariff and levy rates and import bans from Nigeria customs and 2010/11 import data from&#13;
+COMTRADE.&#13;
+&#13;
+In addition, Nigeria maintains a long list of products banned from importation, with 24 categories&#13;
+ranging from foods, textiles and footwear, to furniture, medicine and used vehicles (Figure 9). These&#13;
+bans are applied against all trading partners, including ECOWAS members. The list changes often and&#13;
+bans are sometimes lifted by special import licenses granted to a small number of importers. Treichel et&#13;
+al (2012) estimate that on average import prohibitions raise the domestic price of banned products by&#13;
+77 percent. Recent estimates by de Melo and Ugarte (2013) also find high price markups on most&#13;
+banned products, though there are significant differences across product groups and it is difficult to&#13;
+separate out clearly the impact of import bans from other non-tariff barriers (NTBs), such as restrictive&#13;
+application of standards at the border.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                               13&#13;
+   www.worldbank.org/africa/trade&#13;
+&amp;#12;Imports also face numerous surcharges and fees, including a port development fee of 7 percent of&#13;
+import tariff value, a 1 percent charge for the Comprehensive Import Supervision Scheme and the 0.5&#13;
+percent ECOWAS levy, which would be raised to 1.5 under the ECOWAS customs union.&#13;
+&#13;
+In principle, trade within ECOWAS is liberalized under the ECOWAS Trade Liberalization Scheme (ETLS).&#13;
+Agricultural products, livestock and handmade products are supposed to receive duty-free treatment&#13;
+without needing a certificate of origin. Industrial products, however, do require such documentation,&#13;
+and the process to obtain it is often described as cumbersome, in particular by smaller firms.&#13;
+&#13;
+Revenue from all the taxes on imports combined accounted for 3.7 percent of total government revenue&#13;
+or 17 percent of non-oil revenue in 2011 (Table 1). Over half of this revenue is derived from import&#13;
+tariffs, with levies and other fees and taxes collected at the border accounting for the rest.&#13;
+&#13;
+Table 1&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Source: IMF Art. IV Staff report for Nigeria (2012)&#13;
+&#13;
+High and complex trade barriers present a strong incentive for smuggling across Nigeriaâ&#128;&#153;s borders, in&#13;
+particular with Benin. Raballand and Mjekiqi (2010) estimate an order of magnitude of this smuggling by&#13;
+comparing imports reported by Benin with exports to Benin reported by third countries, observing that&#13;
+a large part of the high discrepancy between these figures is likely smuggled onwards to Nigeria. These&#13;
+calculations are replicated in Figure 10. They suggest that indeed import bans and prohibitively high&#13;
+duties do not stop goods from entering Nigeria. On the contrary, smuggling appears to be highest in the&#13;
+most restricted categories of goods subject to import bans and levies. The total amount of potential&#13;
+smuggling from Benin is estimated at close to US$5 bln, nearly 10 percent of Nigeriaâ&#128;&#153;s official imports. If&#13;
+the current tariff rates and levies had been applied to these goods, this would have led to an estimated&#13;
+increase of US$1.2 bln in government revenue. Additional channels for informal trade and smuggling are&#13;
+likely to exist via other neighboring countries as well as through non- or under-reporting at Nigerian&#13;
+ports.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                      14&#13;
+   www.worldbank.org/africa/trade&#13;
+&amp;#12;Figure 10&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Source: Authorsâ&#128;&#153; calculation based on COMTRADE and Nigeria customs data.&#13;
+&#13;
+Smuggling also reduces the impact of import bans on domestic prices. Treichel et al. (2012) found that&#13;
+because prohibited items can be obtained through unofficial trade channels in regions near the border&#13;
+with Benin, prices of such goods in cities along Nigeriaâ&#128;&#153;s western border are significantly lower than in&#13;
+other regions.&#13;
+&#13;
+A number of recent studies have evaluated the effect of Nigeriaâ&#128;&#153;s import bans and other trade policy&#13;
+measures aimed at protecting and stimulating domestic production. For the case of the textile industry,&#13;
+de Melo and Ugarte (2012) show how a combination of high but illâ&#128;&#147;designed protective measures have&#13;
+reduced incentives for productivity growth, prevented the industry from taking advantage of new&#13;
+market opportunities abroad, and encouraged informal competition with smuggled imports. Eberhard&#13;
+and Teal (2010) come to similar conclusions and point out that the current economic model has not led&#13;
+to incentives for productivity growth and the creation of high quality wage employment.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                  15&#13;
+   www.worldbank.org/africa/trade&#13;
+&amp;#12;                                                              Enterprise level data generally confirms these&#13;
+ Figure 11&#13;
+                                                              findings (Figure 11). While firms benefiting from&#13;
+                                                              bans on the importation of the products they&#13;
+                                                              produce have realized slightly higher sales growth&#13;
+                                                              between 2002 and 2008 than other domestic&#13;
+                                                              firms, this may well be driven by price effects in&#13;
+                                                              the domestic market rather than real output&#13;
+                                                              growth. More importantly, sales growth has been&#13;
+                                                              significantly higher for exporting firms than for any&#13;
+                                                              domestic producers.&#13;
+&#13;
+                                                              At the same time, there is no indication that&#13;
+                                                              import bans have led to higher job growth in&#13;
+                                                              domestic firms producing these goods.&#13;
+&#13;
+                                                              As discussed in the previous section, global&#13;
+                                                              exporters have created jobs at a slower pace than&#13;
+                                                              domestic firms despite their higher sales growth.&#13;
+                                                              This is not uncommon, as exporters tend to be&#13;
+                                                              among the firms with the strongest productivity&#13;
+                                                              growth. The positive flipside of this is that wages&#13;
+                                                              and working conditions in these firms tend to be&#13;
+                                                              significantly better, which is demonstrated by the&#13;
+                                                              fact that their spending on wages and benefits per&#13;
+                                                              worker is roughly twice as high as for purely&#13;
+                                                              domestic firms. On the other hand, there is no&#13;
+                                                              indication that domestic firms benefiting from&#13;
+                                                              protection through import bans perform better&#13;
+                                                              than other domestic firms in terms of the wages&#13;
+                                                              and benefits offered to their workers. This&#13;
+                                                              suggests that the rents that such protection is&#13;
+                                                              generating in Nigeria are being taken by the&#13;
+                                                              owners of the protected firms rather than their&#13;
+                                                              workers.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Source: Calculated by the authors using median values from&#13;
+World Bank Enterprise Survey 2009 / 2007 data.               16&#13;
+   www.worldbank.org/africa/trade&#13;
+&amp;#12;An additional problem associated with Nigeriaâ&#128;&#153;s current trade policy is its complexity, which gives rise to&#13;
+significant inefficiencies at the border (de Melo and Ugarte, 2013). Delays, uncertainty and, in some&#13;
+cases, unofficial payments impose a significant burden on trading firms. They undermine the&#13;
+competitiveness of Nigerian firms and in particular exporters, who often face this burden twice as they&#13;
+import intermediate inputs or capital goods and export their final products. They also make it very&#13;
+difficult for Nigerian firms to harness the gains that can be derived from integration with global&#13;
+production networks that rely heavily on the ability to import and export in a quick and reliable manner.&#13;
+&#13;
+Various international indicators reveal problems with customs efficiency in Nigeria. According to the&#13;
+2012 Logistics Performance Index (LPI), Nigeria ranked 146 out of 155 countries in customs efficiency,&#13;
+the worst performer in ECOWAS after Sierra Leone (Figure 12). The 2013 Doing Business Report puts&#13;
+Nigeria at 154 out of 185 countries when it comes to trading across borders, below all but three&#13;
+ECOWAS members (above Cote dâ&#128;&#153;Ivoire, Burkina Faso and Niger). Importing to Nigeria generally takes&#13;
+longer and requires more documentation. The fact that Nigeria continues to slide downward on all&#13;
+rankings over time makes the situation even more worrisome.&#13;
+&#13;
+Figure 12&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Source: Various databases as indicated by series.&#13;
+&#13;
+Anecdotal evidence on the ground also confirms the inefficiency and complexity of customs clearance&#13;
+processes in Nigeria. Hoppe (2013) finds that duties and procedures are often negotiated on a case-by-&#13;
+case basis, depending on the location, weather, time of day, specific border crossing, scale of operation,&#13;
+type of product, and personalities involved. Numerous agencies cluster at the borders, not necessarily to&#13;
+enforce regulations, but often to collect fees while causing unnecessary delays. It is thus not uncommon&#13;
+to see trucks lining up at customs checkpoints for days or even weeks. Treichel (2010) shows that&#13;
+Nigerian ports are equally plagued by severe congestion due to the high rate of physical inspections of&#13;
+containers for false declarations and prohibited items.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                    17&#13;
+   www.worldbank.org/africa/trade&#13;
+&amp;#12;3. Impact of CET Implementation&#13;
+&#13;
+3.1.    Protection, Trade and Revenue&#13;
+This section uses the World Bankâ&#128;&#153;s Tariff Reform Impact Simulation Tool (TRIST) in order to assess the&#13;
+potential impact of upcoming tariff changes on trade flows and tariff and tax revenues for Nigeria.&#13;
+Normally, TRIST is based on detailed customs data on import transactions and revenue collected at the&#13;
+border and thus provides precise summary information on imports and trade related tariff and tax&#13;
+revenues. However, these data could not be obtained in Nigeria, and so the simulations in this paper&#13;
+instead rely on a combination of import data from COMTRADE for 2010/11 at the HS 6 digit level of&#13;
+detail, subject to the caveats discussed in section 2, and statutory rates for tariffs and levies from&#13;
+Nigerian Customs in the year 2013. The implicit assumption is that all tariffs are fully collected at the&#13;
+border with no exemptions. This is usually not the case in practice, in fact, Brenton et al. (2010) show&#13;
+that it is not uncommon for up to 50 percent of potential tariff revenue to be lost due to exemptions.&#13;
+The results derived from these simulations should thus be seen as an upper bound of the potential&#13;
+impact of the CET. In reality, a number of import transactions may remain unaffected by a trade policy&#13;
+reform because they enter the country under a tariff exemption. In addition, formalization of currently&#13;
+informal trade may well compensate revenue losses from lowering tariffs.&#13;
+&#13;
+An additional complication in the case of Nigeria is the use of non-tariff measures, and in particular&#13;
+import bans. In order to account for these bans, the TRIST tool was calibrated with ad valorem&#13;
+equivalents for these products that were calculated based on a comparison between price levels in&#13;
+Nigeria and comparator countries. The data used for this exercise is from de Melo and Ugarte (2013),&#13;
+and the underlying methodology is explained in detail in their work. The highest ad valorem equivalent&#13;
+rates are found for poultry (132 percent), eggs (81 percent) and beverages (72 percent), with the simple&#13;
+average over all banned products at 57 percent. For the simulations where the bans are removed, the ad&#13;
+valorem equivalent for these products is replaced with the new CET rate.&#13;
+&#13;
+TRIST uses a simple partial equilibrium trade model with imperfect substitution between imports from&#13;
+different trading partners and domestic production. In the absence of empirically estimated elasticities&#13;
+for Nigeria, the model is calibrated with different scenarios of standard elasticities of substitution&#13;
+between trading partners (â&#128;&#152;exporter substitutionâ&#128;&#153;) and the overall effect on import demand (â&#128;&#152;demand&#13;
+elasticityâ&#128;&#153;). The methodology, including the standard low and high elasticities typically applied, are&#13;
+discussed in Brenton et al. (2010).&#13;
+&#13;
+Three scenarios are simulated: first, Nigeria implements the ECOWAS CET on all non-banned products,&#13;
+and zero tariffs for ECOWAS partners, but continues to apply the bans and current levies on top of the&#13;
+CET; second, the import bans are removed but levies are maintained on top of the CET; and third, under&#13;
+full implementation of the CET, the levies are removed as well.&#13;
+&#13;
+The weighted average tariff rate under the current tariff regime is 10.5 percent. According to TRIST&#13;
+results, this would increase to 11.3 percent once the CET is implemented. The only industry where a&#13;
+significant reduction in the tariff rate could be expected is tobacco, as for most other industries the new&#13;
+CET rate is similar to the current tariff structure (Figure 13). However, once import bans and levies are&#13;
+&#13;
+                                                    18&#13;
+  www.worldbank.org/africa/trade&#13;
+&amp;#12;also removed, the sectors currently benefiting from these measures such as tobacco, apparel, textiles,&#13;
+food and beverages, motor vehicles, and leather products could experience significant effects.&#13;
+&#13;
+Figure 13&#13;
+&#13;
+100%&#13;
+                            Change in protection by sector after CET implementation&#13;
+    90%                           Current collected tariff rate incl. AVEs of import bans and levies&#13;
+                                  CET incl. AVEs of import bans and levies&#13;
+    80%                           CET incl. levies&#13;
+                                  CET&#13;
+    70%                           Share in total imports&#13;
+&#13;
+    60%&#13;
+&#13;
+    50%&#13;
+&#13;
+    40%&#13;
+&#13;
+    30%&#13;
+&#13;
+    20%&#13;
+&#13;
+    10%&#13;
+&#13;
+    0%&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Source: Authorâ&#128;&#153;s calculations based on data from Nigeria customs and COMTRADE&#13;
+&#13;
+&#13;
+If both levies and import bans are kept in place with the adoption of the CET, TRIST results suggest that&#13;
+the overall net impact on imports is negative (Table 2). Tariff revenue would increase by between 4.4 to&#13;
+5.1 percent and total imports would decrease by between 0.3 to 0.6 percent.2 This scenario suggests&#13;
+that if the CET is adopted without the removal of import bans and levies, Nigeriaâ&#128;&#153;s trade regime would&#13;
+become more restrictive.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+2&#13;
+  The range in the simulated impact reflects different assumptions about the responsiveness of consumers and&#13;
+producers to changes in prices as a result of the change in tariffs. Standard elasticities shown as "low É&#155;", are set at&#13;
+1.5 for exporter substitution and 0.5 for demand substitution, whereas "high É&#155;" are set at 5 for exporter&#13;
+substitution and 1 for demand substitution. See Brenton et al. (2009) for a detailed discussion of the trade model&#13;
+in TRIST and the meaning of these elasticities.&#13;
+&#13;
+                                                               19&#13;
+     www.worldbank.org/africa/trade&#13;
+&amp;#12;Table 2&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Source: TRIST simulations carried out by authors based on data from COMTRADE and Nigeria customs.&#13;
+&#13;
+Under the scenario where import bans are removed but levies are still applied, both tariff revenue and&#13;
+imports would increase as non-revenue generating import bans are replaced with revenue generating&#13;
+tariffs. When both bans and levies are removed, imports would increase by 2.7 to 5.3 percent, more&#13;
+than double compared to the previous scenario. Tariff revenue would increase by between 10.3 to 13.8&#13;
+percent but total revenue collected at the border would decrease by between 14.3 to 16.7 percent due&#13;
+to the total loss in levy collection. However, a number of qualifications apply. First, as explained above,&#13;
+these figures are based on the assumption that no tariff exemptions are currently granted. The true&#13;
+magnitude of the effect would therefore likely be smaller. Second, it is very likely that by removing&#13;
+levies and reducing the complexity of border procedures, substantial amounts of currently informal&#13;
+trade could be formalized, leading to positive revenue effects. And third, as shown in Table 1, total&#13;
+revenue collected at the border accounts for just 3.7 percent of total government revenue, so the&#13;
+overall fiscal impact would not be very significant.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                  20&#13;
+   www.worldbank.org/africa/trade&#13;
+&amp;#12;3.2.        Consumer Welfare&#13;
+The most direct effect of implementing the CET on the life of Nigerians can be expected to materialize&#13;
+through changes in the prices of their daily consumption goods. In order to evaluate the magnitude and&#13;
+direction of these effects, price changes calculated at the detailed product level in the TRIST tool are&#13;
+matched with information on the consumption patterns of Nigerian households. These simulations are&#13;
+based on the assumption that reduced (increased) duties applied to imported products are fully passed&#13;
+through to domestic consumers in the form of lower (higher) prices, and so should be considered&#13;
+maximum bounds of the estimated magnitude of the impact.&#13;
+&#13;
+The results reveal that a partial reform, which would implement the CET but leave in place the import&#13;
+bans and special levies, would leave consumers at all income levels worse off than before the reform as&#13;
+the price of their average consumption bundle would increase by up to 0.7 percent. The effect is slightly&#13;
+regressive as the poorest households would see the strongest price increases (Figure 14).&#13;
+&#13;
+Removing the import bans along with implementing the CET would almost offset the negative impact on&#13;
+consumers, but still leave them slightly worse off than before. The positive impact of removing the&#13;
+import ban is less pronounced in these results than in Treichel et al. (2012) because the bans are&#13;
+replaced with relatively high CET rates rather than the current tariff rate.&#13;
+&#13;
+A full reform scenario that also involves the removal of import levies would lead to a significant net&#13;
+benefit to consumers as the price of the average household consumption bundle would decrease&#13;
+between 2.3 and 2.5 percent.&#13;
+&#13;
+Figure 14&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                   21&#13;
+   www.worldbank.org/africa/trade&#13;
+&amp;#12;Source: Calculated by the authors using TRIST results described in the previous section and consumption data from the NHLSS 2009-10&#13;
+National Harmonized Living standard survey&#13;
+&#13;
+The figures on the impact of total spending per household mask substantial variation in the impact of&#13;
+the trade policy reform by product category (Figure 15). For households in the lowest income quintile&#13;
+the main driver of the increase in real income under the full CET scenario is the fall in prices for rice. This&#13;
+is due to the combination of a large price reduction from the removal of the import levy and the&#13;
+importance of rice in the consumption bundle of households, and in particular for the poor. An&#13;
+important accompanying measure would be to inform the public of the removal of the levy and effective&#13;
+competition in the distribution of rice to ensure that rice importers pass the price reductions on to&#13;
+consumers rather than absorbing them as profits. The figure also shows that the benefits of falling prices&#13;
+for some key consumption items is in part offset by significant increases in the prices of meat products&#13;
+and vegetables, for which the new CET provides higher protection than the current tariff. A review of&#13;
+the CET rates for these products, with a view to their reduction, is of particular importance for the poor&#13;
+in Nigeria.&#13;
+&#13;
+Figure 15&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Source: Calculated by the authors using TRIST results described in the previous section and consumption data from the NHLSS 2009-10 National&#13;
+Harmonized Living Standard Survey.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                    22&#13;
+   www.worldbank.org/africa/trade&#13;
+&amp;#12;3.3.    Competitiveness and Jobs&#13;
+A tariff reform affects firms through a number of channels. In the long run, dynamic effects from lower&#13;
+tariff protection materialize as capital and jobs are reallocated towards more efficient sectors and firms,&#13;
+and integration with global value chains provides opportunities to access new knowledge, technology,&#13;
+and market opportunities. However, analyzing the short to medium term effects of a trade policy reform&#13;
+is important to understand the forces of structural change that it is likely to trigger, and prepare&#13;
+adjustment assistance to firms or workers where it may be required.&#13;
+&#13;
+In the short run, firms are affected by a trade policy reform primarily through three price channels:&#13;
+changes in the domestic price on the output they produce, the inputs they use, and the capital goods&#13;
+they purchase. Typically, a lower tariff on a given good would reduce its domestic price, and thus&#13;
+diminish the profitability of firms producing this product. On the other hand, lower tariffs on their&#13;
+intermediate inputs and capital goods would increase the profitability of firms.&#13;
+&#13;
+Ultimately, a firmâ&#128;&#153;s response to these changes will also depend on its pre-reform level of profitability.&#13;
+Firms operating in highly protected sectors often have considerable profit margins, and may well&#13;
+continue or even grow their operations even if their profit margin is slightly reduced due to a tariff&#13;
+reform. In fact, recent research has emphasized that adjustment to trade reforms often has more&#13;
+noticeable effects at the firm level, with capital and labor moving from less productive firms to more&#13;
+productive firms within a sector, than it does in terms of movement across sectors.&#13;
+&#13;
+In order to account for these factors, changes in prices from the reforms predicted by TRIST are matched&#13;
+with data on Nigerian firms. The analysis focuses on manufacturing firms and covers firms across the&#13;
+entire country from micro enterprises to large firms with over 1,000 employees. The exact methodology&#13;
+and data sources are explained in Annex 1. As in the previous section, it should be emphasized that the&#13;
+results represent upper bound estimated of the effects of CET implementation because they are based&#13;
+on the assumption that tariff changes at the border are fully passed through as changes in domestic&#13;
+prices. In addition, results only cover the manufacturing sector. Further assessment of the potential&#13;
+impact on the agricultural sector would be highly desirable, but could not be included in this paper given&#13;
+data and resource constraints.&#13;
+&#13;
+For all three reform scenarios, the overall effect on profitability for the median firm in the sample is&#13;
+positive, though negligible for scenario i (keeping bans and levies, Figure 16). The main positive effects&#13;
+result from the reduction in input prices due to the removal of import bans and levies. In the full reform&#13;
+scenario with removal of bans and levies, the effects through output prices becomes slightly negative,&#13;
+but are more than offset by strong reductions in input prices. Change in the prices of capital goods do&#13;
+not have a significant impact in the short run due to the relatively low weight of these goods in the cost&#13;
+structure of firms, but access to foreign capital goods is an important driver of innovation in the longer&#13;
+term. For instance, Eaton and Kortum (2001) find that 25 percent of cross-country differences in&#13;
+productivity can be attributed to price differences for equipment, and that about half of these price&#13;
+differences are caused by trade barriers. In the same vein, Estevadeordal and Taylor (2008) find that&#13;
+lower tariffs on capital equipment (and on intemediate inputs) lead to higher economic growth.&#13;
+&#13;
+&#13;
+                                                    23&#13;
+  www.worldbank.org/africa/trade&#13;
+&amp;#12;Figure 16&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Source: Authorsâ&#128;&#153; calculations using data sources and methodology explained in Annex 1.&#13;
+&#13;
+It is important to note that the results shown in Figure 16 for the median firm mask substantial variation&#13;
+within the sample. For the full reform scenario, while the median effect through output prices is only&#13;
+very slightly negative, there are some firms at the extreme ends of the distribution for which effects&#13;
+could be substantial. On the negative end, this includes some of the firms that are currently protected&#13;
+by import bans and levies (Figure 17).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                    24&#13;
+   www.worldbank.org/africa/trade&#13;
+&amp;#12;Figure 17&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Source: Authorsâ&#128;&#153; calculations using data sources and methodology explained in Annex 1.&#13;
+&#13;
+On the other hand, the benefits resulting from reductions in the price of inputs are much more evenly&#13;
+distributed across the universe of firms, with virtually all firms benefiting. This has important political&#13;
+economy implications: firms at the lower end of the distribution for the output effect are likely to be&#13;
+well aware of their potential losses from the reform, and thus have a strong incentive to voice their&#13;
+opposition. On the other hand, the positive effects that can be expected from lower input prices are&#13;
+likely to materialize in a much more diffuse way that would give a boost to the competitiveness of all&#13;
+firms in the country. But because the benefits are spread widely, the benefitting firms are less likely to&#13;
+mobilize together to lobby in favor of the reforms.&#13;
+&#13;
+Depending on whether import bans and levies are removed along with the implementation of the CET,&#13;
+between 60 and 75 percent of firms in the sample can be expected to see their profitability increase&#13;
+because of some combination of lower prices on inputs and / or more protection for the output they&#13;
+produce (Figure 18, upper panel). Another 3 percent of firms in the sample are exporters that can also&#13;
+be expected to benefit from more trade openness because their output prices do not depend on&#13;
+protection in the domestic market while they still benefit from lower input prices.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                    25&#13;
+   www.worldbank.org/africa/trade&#13;
+&amp;#12;Figure 18&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Source: Authorsâ&#128;&#153; calculations using data sources and methodology explained in Annex 1.&#13;
+&#13;
+In the full CET scenario, including the removal of all bans and levies, 33 percent of firms would&#13;
+experience a reduction in their profitability. While most of them would nevertheless remain profitable, 8&#13;
+percent of firms could see their profit levels drop below zero in this scenario. Policy interventions that&#13;
+would target these firms could focus on helping them increase their productivity, rather than prolonging&#13;
+tariff protection at the expense of consumers and the majority of firms that stand to gain from the&#13;
+reform.&#13;
+&#13;
+&#13;
+                                                                    26&#13;
+   www.worldbank.org/africa/trade&#13;
+&amp;#12;The most important factor in terms of the economic wellbeing of Nigerians is not the fate of individual&#13;
+firms, but of the jobs that these firms provide. It is often found that the best policy to facilitate&#13;
+adjustment to a trade shock is one that protects workers by helping them to transition into new jobs if&#13;
+necessary, rather than protecting individual firms. In this context, it is illustrative to weigh the firms in&#13;
+the sample by the number of jobs they offer (Figure 18, lower panel). The results show that while only&#13;
+around 3 percent of firms in the sample are exporters, they account for 12 percent of jobs. On the other&#13;
+hand, the 33 percent of firms that are affected adversely by the reform only account for 28 percent of&#13;
+jobs. In cases where labor is shed in firms that are negatively affected by the implementation of the CET,&#13;
+this suggests that policy measures could support workers from these firms in transitioning to firms that&#13;
+are benefitting from the reform.&#13;
+&#13;
+A breakdown of the data from Figure 18 by economic sector reveals that most of the firms for which&#13;
+profitability may decline are in the textiles, apparel, and food industries (Figure 19). For the food&#13;
+industry as a whole, a large majority of workers is nevertheless employed in firms that stand to gain&#13;
+from the reform. There are also a number of successful exporting firms in this industry which, as&#13;
+discussed in section 4.1, could gain considerable new export opportunities in the region if the CET&#13;
+moves forward. Thus, to the extent that adversely affected firms in this industry are forced to shed&#13;
+labor, it is likely that new employment opportunities could be found within the same industry.&#13;
+&#13;
+The situation for workers in the textile and apparel industries appears more problematic, as almost all&#13;
+firms in these sectors may be affected negatively with the exception of successful exporters. This would&#13;
+clearly be a priority sector for adjustment assistance that could involve a combination of programs to&#13;
+help strengthen the competitiveness of producers while at the same time assisting retrenched workers&#13;
+to find employment in other sectors. Such opportunities can be expected to arise in a number of other&#13;
+sectors where the effect of the reform would be positive for the majority of firms. Where assistance is&#13;
+provided to firms rather than individual workers, it needs to be temporary, with a clear exit strategy,&#13;
+and bound to objective measures of improvement.&#13;
+&#13;
+A seemingly surprising finding is the largely positive impact of the reform on firms in the furniture sector&#13;
+despite the removal of the current import ban on furniture. The reason is that the data from de Melo&#13;
+and Ugarte (2013) used for the simulations indicates that the current price gap on furniture between&#13;
+Nigeria and the world market is very close to the CET rate that would apply to most furniture items. In&#13;
+this case, the output price for furniture producing firms would not change significantly if the ban is&#13;
+replaced with the CET. However, as this finding is quite sensitive to the assumptions for the price gap on&#13;
+furniture, it should be interpreted with caution and further research on the impact of the CET on the&#13;
+furniture sector and effects of the existing ban would be desirable.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                     27&#13;
+  www.worldbank.org/africa/trade&#13;
+&amp;#12;Figure 19&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Source: Authorsâ&#128;&#153; calculations using data sources and methodology explained in Annex 1.&#13;
+&#13;
+&#13;
+Given Nigeriaâ&#128;&#153;s vast territory and federal structure, the geographic dimension of the reformâ&#128;&#153;s impact is&#13;
+also highly relevant. To the extent that gains and losses are distributed very unevenly, they could&#13;
+contribute to inequality across states. This could impose rigidity in terms of the ability of the labor&#13;
+market to adjust to the shock and create pressure for internal migration with potentially adverse social&#13;
+consequences. We address this issue below, but the results should be treated with some caution as they&#13;
+are rather sensitive to the sampling method and survey weights by region assigned to firms in the&#13;
+underlying Enterprise Survey, an instrument which is not primarily intended to represent the&#13;
+geographical distribution of employment across the country.&#13;
+&#13;
+While the results in Figure 18 suggest that overall impacts are relatively well balanced across most of the&#13;
+country, a few states with high employment in industries that stand to lose under the reform might face&#13;
+more significant adjustment challenges. These include Akwo Ibom, Benue, Cross River and Imo for&#13;
+example. There are also states (such as Jigawa, Katsina ad Taraba) that are home to more export related&#13;
+jobs and these stand to gain unambiguously. This suggests that further analysis would be useful to track&#13;
+the geographical distribution of the reformâ&#128;&#153;s impact, and, if these results are confirmed, consider&#13;
+mechanisms to prioritize support to struggling industries and workers in states that are affected&#13;
+disproportionately.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                    28&#13;
+   www.worldbank.org/africa/trade&#13;
+&amp;#12;Figure 20&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Source: Authorsâ&#128;&#153; calculations using data sources and methodology explained in Annex 1.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                    29&#13;
+   www.worldbank.org/africa/trade&#13;
+&amp;#12;4. Market Access in ECOWAS&#13;
+&#13;
+4.1.      Preference Margin&#13;
+Under the ECOWAS Trade Liberalization Scheme, Nigerian firms already enjoy duty free access to all&#13;
+ECOWAS partner countries. Thus, implementation of the new CET would not directly affect their market&#13;
+access conditions. However, it would affect the market access conditions of firms from other parts of&#13;
+the world, and thus may have an indirect impact on Nigerian firms through more or, in the case of a&#13;
+tariff increase, less international competition in these markets. While the latter outcome is not desirable&#13;
+from the point of view of the importing country, which would suffer a net welfare reduction, Nigerian&#13;
+firms could benefit from a higher preferential margin over international competitors once the CET has&#13;
+been introduced. Table 3 shows the changes in the preferential margin â&#128;&#147; the difference between the&#13;
+tariffs faced by competitors from the rest of the world and tariffs faced by Nigerian firms, the latter&#13;
+being 0 under both scenarios â&#128;&#147; that would result from ECOWAS partners implementing the CET. The&#13;
+most gains are visible in the food and beverage industries, for which virtually all ECOWAS partners&#13;
+would have to increase their levels of protection under the CET. Other industries, such as leather&#13;
+products, are likely to experience a decline in their preferential margin over non-ECWOAS competitors.&#13;
+For most industries, the picture is ambiguous, with the preferential margin for Nigerian firms increasing&#13;
+in some partner countries and decreasing in other.&#13;
+&#13;
+Table 3&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Source: Authorsâ&#128;&#153; calculation based on data from Nigeria customs, COMTRADE and TRAINS. The changes in preference margins are calculated at&#13;
+the HS6 digit product level and unweighted averages are reported here for each sector.&#13;
+&#13;
+&#13;
+                                                                   30&#13;
+   www.worldbank.org/africa/trade&#13;
+&amp;#12;To gain a better understanding of the net impact of changes in preference margins, the expected&#13;
+changes in the tariff levels are matched with import data for each product and trading partner. For&#13;
+instance, if an ECOWAS country imports a total USD 1 mln of a given product, and an external tariff of 20&#13;
+percent is applied, the preferential margin for other ECOWAS producers whose imports are rated at 0&#13;
+percent would be valued at (20% - 0%) * USD 1 mln = USD 200,000. If the CET for this product was now&#13;
+set at 10 percent, the value of the preferences would decline to (10% - 0%) * USD 1 mln = USD 100,000.&#13;
+In these calculations, the value of preferences is calculated over the entire import basket of ECOWAS&#13;
+partners, not just over imports already originating within the region. The rationale for this is to illustrate&#13;
+the change in opportunities resulting for Nigerian or other ECOWAS exporters resulting from these&#13;
+preferences, whether they are already being exploited or not, rather than just looking at existing trade.&#13;
+However, this information is matched in Figure 21 with information on Nigeriaâ&#128;&#153;s exports to verify&#13;
+whether Nigerian firms already have the capacity to seize these opportunities.&#13;
+&#13;
+The combination of high imports and a significant increase in the external tariff explains a strong&#13;
+increase in the value of preferences for the food and beverage industries. As Nigerian firms are already&#13;
+active in exporting a number of food products, both globally and to the region, the increase in the&#13;
+preferential margin is likely to lead to considerable gains for producers in this industry. Results will,&#13;
+however, vary by product, as the data also shows some products in these industries for which the CET&#13;
+would lead to lower protection.&#13;
+&#13;
+Considerable increases in the value of preferences can also be expected for different types of&#13;
+machinery, motor vehicles, and transport equipment. Nigeria has considerable exports in these&#13;
+industries, though it is likely that some of the exported goods reported by Nigeria are in fact re-exports&#13;
+of used goods. Negative net effects are expected in five sectors - leather, basic metals, chemicals, paper,&#13;
+and medical instruments â&#128;&#147; but they are generally small.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                     31&#13;
+  www.worldbank.org/africa/trade&#13;
+&amp;#12;Figure 21&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Source: Authorâ&#128;&#153;s calculation based on data from TRAINS and COMTRADE databases reported by ECOWAS countries as well as the ECOWAS CET&#13;
+schedule. The change in preference value is calculated at the HS 6 digit level for each ECOWAS country with available data available as the&#13;
+change in the average tariff when moving to the CET multiplied with imports of the product in question.&#13;
+&#13;
+A breakdown of the results on changes in preferences by partner countries reveals the importance of&#13;
+the Ghanaian market (Figure 22). The CET would lead to considerable upward adjustments in Ghanaâ&#128;&#153;s&#13;
+tariff protection against the rest of the world, and in combination with its sizeable imports, this&#13;
+translates into high values of preferences. While the net effect is sizeable and positive, there are also a&#13;
+number of products for which Nigerian firms stand to lose part of their preferential margin, offsetting&#13;
+roughly half of the preferences gained in other products with an increase in protection. Tariff changes in&#13;
+Cote dâ&#128;&#153;Ivoire and Senegal can also be expected to lead to significant gains in preference value for&#13;
+Nigerian firms. Net effects are positive for all countries with data availability. No recent import data at&#13;
+the required level of detail could be obtained for Liberia, Sierra Leone, Guinea-Bissau and Guinea.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                   32&#13;
+   www.worldbank.org/africa/trade&#13;
+&amp;#12;Figure 22&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Source: Authorâ&#128;&#153;s calculation based on data from TRAINS and COMTRADE databases reported by ECOWAS countries as well as the ECO WAS CET&#13;
+schedule. The change in preference value is calculated at the HS 6 digit level for each ECOWAS country with available data available as the&#13;
+change in the average tariff when moving to the CET multiplied by imports of the product in question.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                   33&#13;
+   www.worldbank.org/africa/trade&#13;
+&amp;#12;4.2.        Trade Facilitation&#13;
+As discussed in section 2.3, procedures at Nigerian borders can be long and cumbersome and impose a&#13;
+significant burden on firms. This undermines the competitiveness of Nigerian firms and prevents them&#13;
+from realizing gains associated with integration into global production chains that can be driver of&#13;
+innovation and growth. As pointed out by de Melo and Ugarte (2013), part of the reason for these&#13;
+problems is the complexity of the current trade policy regime. Implementing the CET and removing the&#13;
+current system of import bans and levies would be a significant step forward in simplifying these&#13;
+procedures, and could thus significantly reduce the scope for delays and uncertainty at the border.&#13;
+&#13;
+While in principle, ECOWAS commitments have removed all trade barriers between member countries,&#13;
+a number of recent studies (e.g. World Bank 2012, West African Trade 2010) have documented&#13;
+significant remaining difficulties with their implementation. Traders often report that free trade&#13;
+commitments are not honored and unofficial payments are demanded at the border. Even where&#13;
+procedures are followed correctly, delays at the border can impose substantial costs on trading firms.&#13;
+&#13;
+Manufacturing firms also have to go through a complex two stage licensing process to obtain a&#13;
+certificate of origin confirming that a given product was, in fact, manufactured in the region. While less&#13;
+problematic for large producers, many smaller firms find it difficult to comply with these procedures and&#13;
+thus end up paying customs duties. And even when firms are compliant, they lose time and money&#13;
+dealing with licensing procedures.&#13;
+&#13;
+As a result, Nigerian firms exporting to the regional market are currently more likely to rank customs&#13;
+and other trade regulations as a major or very severe obstacle than firms exporting to the global market.&#13;
+This is consistent with results in von Uexkull (2012) showing that while regional exporters in ECOWAS&#13;
+have significant potential to create quality jobs, they are often held back by remaining high trade&#13;
+barriers within the region.&#13;
+&#13;
+Figure 23&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                   34&#13;
+   www.worldbank.org/africa/trade&#13;
+&amp;#12;Source: Authorsâ&#128;&#153; calculation based on World Bank Enterprise Survey 2009 data for Nigeria&#13;
+&#13;
+&#13;
+&#13;
+The implementation of a customs union could render many of the processes at intra-regional borders&#13;
+redundant, and thus allow for significant progress in terms of trade facilitation. The CET model currently&#13;
+under negotiation foresees a system where tariffs on products imported from outside the region are&#13;
+collected in the country of final consumption. Unlike more advanced forms of customs unions where&#13;
+tariffs are collected at the first point of entry and then redistributed within the region, this model would&#13;
+still require the operation of transit and rules of origin verification systems. However, trade facilitation&#13;
+benefits can be expected mainly from a reduced need for the physical inspection and other measures to&#13;
+prevent smuggling (Table 4). This is the case because with a common external tariff, there is no longer&#13;
+an incentive for traders to smuggle goods imported from other parts of the world once they have&#13;
+entered the ECOWAS territory.&#13;
+&#13;
+Perhaps even more importantly, Maur (2008) also points out that the political and economic dynamic&#13;
+resulting from the implementation of a full CET in other regions often had additional positive effects in&#13;
+terms of stimulating cooperation in the area of customs modernization and, more generally, trade&#13;
+facilitation. A lot remains to be done in this area throughout the ECOWAS region, including in the areas&#13;
+of border management, coordination between different agencies active at the border, removal of&#13;
+roadblocks and nuisance fees and taxes, and more effective implementation of the ECOWAS Trade&#13;
+Liberalization Scheme including a reform of the rules of origin. The CET would provide an important&#13;
+impulse to give momentum to a more aggressive regional trade facilitation agenda.&#13;
+&#13;
+In the longer run, additional trade facilitation benefits could be realized if the CET was charged at the&#13;
+border where a good first enters the ECOWAS customs union, and tariff revenues were then distributed&#13;
+across member countries based on a previously agreed formula. This would eliminate the need for any&#13;
+certification and verification of rules of origin, as any product, once it has entered the customs union&#13;
+and paid the applicable CET rate, could circulate freely within its borders. Such an arrangement would&#13;
+remove a significant burden which is particularly burdensome for small and medium sized enterprises.&#13;
+In addition, such an arrangement would also render the operation of bonded transit regimes redundant&#13;
+and thus reduce the number of procedures and rigidities that firms engaging in transit trade have to&#13;
+comply with.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                    35&#13;
+   www.worldbank.org/africa/trade&#13;
+&amp;#12;Table 4&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Source: Authors, partially based on Maur (2008)&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                  36&#13;
+   www.worldbank.org/africa/trade&#13;
+&amp;#12;Conclusions&#13;
+Nigerians are debating how to proceed with the full integration of their country into an ECOWAS&#13;
+Customs Union. As every policy reform, this step would generate gains and losses and so it is not&#13;
+surprising that there is a variety of opinions on how to proceed. This paper suggests that the benefits of&#13;
+Nigeria fully implementing the ECOWAS CET and removing its present system of import bans and levies&#13;
+would outweigh the costs, even in the short run. Nigerian consumers would benefit from lower prices&#13;
+for their daily necessities. Workers in most industries could expect to see their firms benefit from access&#13;
+to cheaper inputs, new market opportunities in the region, and fewer obstacles when they import and&#13;
+export their products. As more Nigerian firms would be able to take the leap to becoming exporters to&#13;
+the region, and perhaps eventually to the rest of the world, they would create more jobs, and they&#13;
+would create better jobs.&#13;
+&#13;
+This is not to say that implementing the CET is without risks, and that those who fear negative&#13;
+consequences should not be heard. Effective implementation of reforms that benefits many but hurt a&#13;
+few need to be accompanied by remedial measures to support those who carry the burden, with&#13;
+assistance targeted to the poor. This can be done by helping firms in struggling industries to enhance&#13;
+their productivity, by giving workers who have lost their jobs social assistance and training to find a new&#13;
+one, and by transferring funds to support such programs to the regions that are affected the most.&#13;
+There are many options for such policies, and there are good examples from around the world on how&#13;
+they can work. Therefore, in order to support the few who might lose, it is not necessary to curtail the&#13;
+opportunities of the many who could gain from an integrated West Africa region.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                    37&#13;
+  www.worldbank.org/africa/trade&#13;
+&amp;#12;References&#13;
+Andriamananjara, S., Brenton, P., von UexkÃ¼ll, E. and Walkenhorst, P. 2009. "Assessing the Economic&#13;
+       Impacts of of an Economic Parnership Agreement on Nigeria." Policy Research Working Paper&#13;
+       4920, World Bank, Washington, D.C.&#13;
+&#13;
+Bernard, A., Eaton, J., Jensen, J., &amp; Kortum, S. 2003. "Plants and Productivity in International Trade."&#13;
+       American Economic Review, 93(4), 1268-1290.&#13;
+&#13;
+Brenton, P., Saborowksi, C., Staritz, C., and von Uexkull, E. 2009. "Assessing the Adjustment Implications&#13;
+       of Trade Policy Changes Using TRIST (Tariff Reform Simulation Tool)." Policy Research Working&#13;
+       Paper 5045, World Bank, Washington, D.C.&#13;
+&#13;
+de Melo, J. and Ugarte, C. 2013. "Nigeria: Time to Take the Lead on Regional and Global Trade&#13;
+       Integration in West Africa." Working Paper 66, Foundation for International Development Study&#13;
+       and Research, Clermont Ferrand, France.&#13;
+&#13;
+Doing Business Indicators (database). http://www.doingbusiness.org/. World Bank, Washington, D.C.&#13;
+&#13;
+Eaton, J. and S. Kortum 2001. â&#128;&#156;Trade in capital goods.â&#128;? European Economic Review, Elsevier 45(7), pp.&#13;
+1195-1235.&#13;
+&#13;
+Eberhardt, M. and Teal, F. 2010. "Productivity Analysis in Global Manufacturing Production."&#13;
+       Department of Economics, University of Oxford, U.K.&#13;
+&#13;
+ECOWAS Trade Liberalization Scheme Rules for Traders. "Trading in the ECOWAS Free Trade Area."&#13;
+     ECOWAS Commission.&#13;
+&#13;
+Enterprise Surveys (database). http://www.enterprisesurveys.org/. World Bank, Washington, D.C.&#13;
+&#13;
+Estevadeordal, A. and Taylor, A. 2008. â&#128;&#156;Is the Washington Consensus Dead? Growth, Openess and the&#13;
+Great Liberalization, 1970s to 2000s.â&#128;? Cambridge: NBER Working Paper 14264.&#13;
+&#13;
+Golub, S. 2013. "Informal Cross-Border Trade and Smuggling in Africa." Swarthmore College,&#13;
+        Pennsylvania, USA.&#13;
+&#13;
+Hoppe, M. and Aidoo, F. 2013. "Removing Barriers to Trade between Ghana and Nigeria: Strengthening&#13;
+       Regional Integration by Implementing ECOWAS Commitments" Africa Trade Policy Notes No. 30,&#13;
+       World Bank, Washington, D.C.&#13;
+&#13;
+Hoppe, M. 2013. "Estimating Trade Flows, Describing Trade Relationships, and Identifying Barriers to&#13;
+       Cross-Border Trade between Cameroon and Nigeria." Working Paper 78283, World Bank,&#13;
+       Washington, D.C.&#13;
+&#13;
+International Monetary Fund. 2013. "Nigeria 2012 Article IV Consultation." IMF Country Report No.&#13;
+        13/116, IMF, Washington, D.C.&#13;
+&#13;
+&#13;
+&#13;
+                                                     38&#13;
+  www.worldbank.org/africa/trade&#13;
+&amp;#12;Logistics Performance Index (database). http://data.worldbank.org/indicator/LP.LPI.OVRL.XQ, World&#13;
+         Bank, Washington, D.C.&#13;
+&#13;
+Maur, J. 2008. "Regionalism and Trade Facilitation." Policy Research Working Paper 4464, World Bank,&#13;
+        Washington, D.C.&#13;
+&#13;
+Melitz, J. 2003. "The Impact of Trade on Intra-Industry Reallocations and Aggregate Industry."&#13;
+         Econometrica, 71(6), 1695-1725.&#13;
+&#13;
+Nigeria Customs Administration. https://www.customs.gov.ng/. "Import Prohibition List."&#13;
+&#13;
+Raballand, G., and Mjekiqi, E. 2010. "Nigeriaâ&#128;&#153;s Trade Policy Facilitates Unofficial Trade but not&#13;
+        Manufacturing." In Putting Nigeria to Work: A Strategy for Employment and Growth Chapter 6,&#13;
+        ed. Treichel, V., World Bank, Washington, D.C.&#13;
+&#13;
+Treichel, V., Hoppe, M., Cadot, O. and Gourdon, J. 2012. "Import Bans in Nigeria Increase Poverty."&#13;
+        Africa Trade Policy Notes No. 28, World Bank, Washington, D.C.&#13;
+&#13;
+von Uexkull, E. 2012. "Regional Trade and Employment in ECOWAS." In Policy Priorities for International&#13;
+       Trade and Jobs Chapter 14, ed. Lippoldt, D., OECD, e-publication, available at:&#13;
+       www.oecd.org/trade/icite.&#13;
+&#13;
+World Integrated Trade Solution (database). http://wits.worldbank.org/witsweb/. World Bank,&#13;
+        Washington, DC.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                   39&#13;
+  www.worldbank.org/africa/trade&#13;
+&amp;#12;Annex 1: Methodology for simulating the effect of the CET on Nigerian firms&#13;
+The following table illustrates the methodology and data sources used for the firm level simulations presented in section 3.3. Calculations are&#13;
+carried out over a sample of 2427 manufacturing firms covered by World Bank Enterprise Surveys in 2007 and 2009. The full datasets,&#13;
+questionnaires and methodology descriptions for these surveys can be found on the website www.enterprisesurveys.org&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                      40&#13;
+&amp;#12;</ml:original-txt><ml:search-metadata><doc id="19732830">
+        <url>
+            http://documents.worldbank.org/curated/en/2014/06/19732830/implementing-ecowas-common-external-tariff-challenges-opportunities-nigeria
+        </url>
+        <availablein>English</availablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2014/06/19732830/implementing-ecowas-common-external-tariff-challenges-opportunities-nigeria</url_friendly_title>
+        <new_url>2014/06/19732830/implementing-ecowas-common-external-tariff-challenges-opportunities-nigeria</new_url>
+        <disclosure_date>2014-06-27T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2014-06-27T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/06/27/000442464_20140627090155/Rendered/INDEX/888430REPLACEM0Box385245B00PUBLIC0.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/06/27/000442464_20140627090155/Rendered/PDF/888430REPLACEM0Box385245B00PUBLIC0.pdf</pdfurl>
+        <datestored>2014-06-27T00:00:00Z</datestored>
+        <docdt>2014-06-01T00:00:00Z</docdt>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Revised</versiontyp>
+        <versiontyp_key>1309936</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            Implementing the ECOWAS common external
+            tariff : challenges and opportunities for Nigeria
+        </repnme>
+        <abstracts>
+            The common external tariff (CET) for
+            Economic Community of West African States (ECOWAS) was
+            adopted at a Heads of State Summit in October 2013 in Dakar.
+            This paper assesses the potential impact on Nigeria of
+            implementing the new ECOWAS CET. It uses the World
+            Bank's tariff reform impact simulation tool (TRIST) to
+            simulate three scenarios: (i) keeping in place current
+            import bans and levies which are charged in addition to
+            tariffs, while implementing the CET tariff rate on
+            non-banned products, (ii) removing the import bans and
+            implementing the CET rate on all products, but keeping the
+            additional import levies in place, and (iii) fully
+            implementing the CET on all products and completely removing
+            import bans and levies. The paper suggests that implementing
+            the CET will have significant and largely positive effects
+            on Nigerian consumers and producers. This note is intended
+            to enrich the debate by presenting projections on the likely
+            effects of CET implementation. To the extent possible with
+            the limited available data, it gives a comprehensive
+            overview of the effects to be expected on government
+            revenue, the welfare of consumers, and the performance of
+            Nigerian firms. It also discusses new opportunities for
+            Nigerian firms to benefit from the regional market that are
+            likely to arise if the CET is implemented. The note is
+            organized as follows: section one gives introduction.
+            Section two describes Nigeria's current trade profile
+            with a particular focus on trade with the ECOWAS region.
+            Section three makes use of the World Bank's TRIST to
+            analyze the impact of implementing the CET in Nigeria in
+            terms of changes in the level of protection by industry,
+            government revenue from taxes levied at the border, consumer
+            welfare, and the competitiveness of Nigerian firms. Section
+            four shifts the focus beyond Nigeria's borders to look
+            at the regional market within ECOWAS.
+        </abstracts>
+        <docna>
+            Implementing the ECOWAS common external
+            tariff : challenges and opportunities for Nigeria
+        </docna>
+        <display_title>Implementing the ECOWAS common
+            external tariff : challenges and opportunities for Nigeria</display_title>
+        <listing_relative_url>/research/2014/06/19732830/implementing-ecowas-common-external-tariff-challenges-opportunities-nigeria</listing_relative_url>
+        <docty>Working Paper (Numbered Series)</docty>
+        <subtopic>Free Trade,Trade Policy,Economic Theory &amp; Research,Debt Markets,Trade Law</subtopic>
+        <teratopic>Finance and Financial Sector Development,Law and Development,International Economics and Trade,Macroeconomics and Economic Growth</teratopic>
+        <count>Nigeria</count>
+        <authors>
+            <author>Uexkull, Erik von</author>
+            <author>Shui, Lulu</author>
+        </authors>
+        <geo_region_mdks>
+            <geo_region_mdk>World!$!80475</geo_region_mdk>
+            <geo_region_mdk>Sub-Saharan Africa!$!80473</geo_region_mdk>
+            <geo_region_mdk>West Africa!$!80474</geo_region_mdk>
+        </geo_region_mdks>
+        <entityids>
+            <entityid>000442464_20140627090155</entityid>
+        </entityids>
+        <admreg>Africa,Africa</admreg>
+        <colti>Africa trade practice working paper series ;
+            no. 5</colti>
+        <lang>English</lang>
+        <historic_topic>Finance and Financial Sector Development,Law and Development,International Economics and Trade,Macroeconomics and Economic Growth</historic_topic>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            accounting, ad valorem, adjustment
+            assistance, agricultural products, agricultural sector,
+            apparel, apparel industries, application of standards,
+            average tariff, Barriers to Trade, Border Trade, capital
+            goods, case-by-case basis, collected tariff, comparative
+            advantage, competitiveness, Cross-Border Trade, cross-border
+            transactions, customs, Customs Administration, customs
+            clearance, customs duties, customs modernization, customs
+            regime, Customs Union, customs unions, demand elasticity,
+            domestic market, domestic price, domestic prices, domestic
+            producers, domestic production, equilibrium, equipment,
+            export market, export opportunities, export performance,
+            exporter, exporters, Exports, External Tariff, food
+            industry, foreign capital, foreign competition, foreign
+            markets, free access, free trade, Free Trade Area, free
+            treatment, GDP, global market, global markets, Global Trade,
+            government revenue, high duties, high trade barriers, home
+            market, human resource, Impact of Trade, import bans, import
+            data, import licenses, Import Prohibition, import
+            prohibitions, import tariff, import tariffs, imported
+            products, importing country, imports, income levels,
+            Industrial products, inefficiency, inequality, instrument,
+            intermediate inputs, international competition,
+            International Development, International Trade, labor
+            market, levies, levy, Living standard, micro enterprises,
+            Monetary Fund, non-tariff barriers, Policy Priorities,
+            Policy Research, political economy, positive effects,
+            preferential margin, preferential market access, price
+            changes, price increases, price levels, productivity,
+            productivity growth, profit margin, profit margins,
+            profitability, protective measures, real income, regional
+            integration, regional trade, Regionalism, remedial measures,
+            rules of origin, structural change, tariff barriers, tariff
+            changes, tariff exemptions, tariff levels, tariff
+            protection, tariff rate, tariff rates, Tariff Reform, Tariff
+            revenue, tariff revenues, tariff structure, tariff
+            treatment, tax, tax revenues, terms of trade, textile
+            industry, total revenue, trade barriers, trade channels,
+            trade data, trade facilitation, trade flows, Trade
+            Integration, Trade Liberalization, trade model, trade
+            openness, trade policy, trade policy reform, trade reforms,
+            trade regime, trade regulations, Trade Relationships, trade
+            taxes, trading, value of exports, wages, welfare of
+            consumers, world market, zero tariffs
+        </keywd>
+        <owner>AFT: PREM 3 (AFTP3)</owner>
+        <geo_regions>
+            <geo_region>World</geo_region>
+            <geo_region>Sub-Saharan Africa</geo_region>
+            <geo_region>West Africa</geo_region>
+        </geo_regions>
+        <repnb>88843</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>Economic Policy and Debt</ml:concept><ml:concept>Transportation</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Poverty Reduction</ml:concept><ml:concept>Poverty Reduction and Distributional Analysis</ml:concept><ml:concept>Poverty Reduction and Equity</ml:concept><ml:concept>Poverty and Inequality</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Social Protections and Labor</ml:concept><ml:concept>International Competitiveness</ml:concept><ml:concept>International Economics and Trade</ml:concept><ml:concept>Trade Liberalization</ml:concept><ml:concept>Trade Liberalization and Regional Integration</ml:concept><ml:concept>Trade Restrictiveness</ml:concept><ml:concept>Trade and Integration</ml:concept><ml:concept>Industry</ml:concept><ml:concept>Macroeconomic Vulnerability and Debt</ml:concept><ml:concept>Transport</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Agriculture and Food Security</ml:concept><ml:concept>Poverty</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Social Protection and Labor</ml:concept><ml:concept>Trade</ml:concept><ml:concept>Terms of Trade Shocks</ml:concept><ml:concept>Trade Shocks</ml:concept><ml:concept>Shocks</ml:concept><ml:concept>Microenterprises</ml:concept><ml:concept>Trade Impact</ml:concept><ml:concept>Human Resource Management Capacities</ml:concept><ml:concept>Human Resource Management Systems</ml:concept><ml:concept>Staffing Needs Assessments</ml:concept><ml:concept>Ports</ml:concept><ml:concept>Livestock</ml:concept><ml:concept>Livestock and Animal Husbandry</ml:concept><ml:concept>Transportation Equipment</ml:concept><ml:concept>Analysis &amp; Monitoring</ml:concept><ml:concept>Delivery Units</ml:concept><ml:concept>Grievance Redress</ml:concept><ml:concept>Indicators</ml:concept><ml:concept>M&amp;E</ml:concept><ml:concept>Performance Measurement</ml:concept><ml:concept>Performance Reviews</ml:concept><ml:concept>Rapid Results Approaches</ml:concept><ml:concept>GVCs</ml:concept><ml:concept>Production Sharing Networks</ml:concept><ml:concept>Value Chains</ml:concept><ml:concept>Logistics and Trade Facilitation</ml:concept><ml:concept>Trade Facilitation</ml:concept><ml:concept>Trade Logistics</ml:concept><ml:concept>Market Access</ml:concept><ml:concept>NTMs</ml:concept><ml:concept>Non-Tariff Barriers (NTBs)</ml:concept><ml:concept>Free Trade Agreements</ml:concept><ml:concept>Regional Integration</ml:concept><ml:concept>Trade Preferential Agreements</ml:concept><ml:concept>WTO Accession</ml:concept><ml:concept>Wage Setting</ml:concept><ml:concept>Wages, Compensation and Benefits</ml:concept><ml:concept>Free Trade</ml:concept><ml:concept>Consumption</ml:concept><ml:concept>Income</ml:concept><ml:concept>Textiles</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Economic Shocks and Trade</ml:concept><ml:concept>Shocks and Vulnerability</ml:concept><ml:concept>Micro-enterprises</ml:concept><ml:concept>Impact of Trade</ml:concept><ml:concept>Human Resources</ml:concept><ml:concept>Ports &amp; Waterways</ml:concept><ml:concept>Animal Production</ml:concept><ml:concept>Transport Equipment</ml:concept><ml:concept>Congestion</ml:concept><ml:concept>Monitoring and Evaluation</ml:concept><ml:concept>Global Value Chains</ml:concept><ml:concept>Trade Facilitation and Logistics</ml:concept><ml:concept>Trade Policy</ml:concept><ml:concept>Tariff and Non-Tariff Measures</ml:concept><ml:concept>Trade Agreements and Negotiations</ml:concept><ml:concept>Wages</ml:concept></ml:concepts><ml:geo-regions><ml:geo-region>Africa</ml:geo-region><ml:geo-region>Nigeria</ml:geo-region></ml:geo-regions></ml:annotations></ml:doc-envelope>

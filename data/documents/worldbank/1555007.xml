@@ -1,0 +1,1042 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>The Political Economy of Protection in Belgium&#13;
+SWP431&#13;
+World Bank Staff Working Paper No. 431&#13;
+October 1980&#13;
+Prepared by: P.K.M. Tharakan (Consultant)&#13;
+Economic Analysis and Projections Department&#13;
+Copyright ( 1980&#13;
+The World Bank&#13;
+1818 H Street, N.W.&#13;
+Washington, D.C. 20433, U.S.A.&#13;
+The views and interpretations in this document are those of the authors F           C   cJF'y               ./1&#13;
+and should not be attributed to the World Bank, to its affiliated&#13;
+organizations, or to any individual acting in their behalf.&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+The views and interpretations in this document are those of the author&#13;
+and should not be attributed to the World Bank, to its affiliated&#13;
+organizations, or to any individual acting in their behalf.&#13;
+WORLD BANK&#13;
+Staff Working Paper No. 431&#13;
+October 1980&#13;
+THE POLITICAL ECONOMY OF PROTECTION IN BELGIUM&#13;
+This work in progress report is part of an inquiry being undertaken&#13;
+by the World Bank in conjunction with scholars from twelve industrial countries&#13;
+into the penetration of the markets of industrial countries by exports of&#13;
+manufactures from developing countries. The project seeks to establish the&#13;
+shares of industrial country markets held by the developing countries, changes&#13;
+in such shares in the 19708, and why they vary among industry groups and countries&#13;
+The aim is to assist developing and industrial countries to improve their policies&#13;
+through a better understanding of trade patterns and protectionist pressures.&#13;
+This paper reports the results of the analysis of the causes of&#13;
+protection in Belgium. Tariffs were found to be correlated positively with the&#13;
+total and non-wage value added per person, suggesting that the present structure&#13;
+of the European Community's Common External Tariff supports industries&#13;
+in which Belgium has a comparative advantage. However, industries using scarce&#13;
+natural resources also receive some tariff protection, and non-tariff assistance&#13;
+to industry appears to be skewed toward the more labor intensive products.&#13;
+Government assistance to industry on the whole seems to be favoring sectors that&#13;
+are vulnerable to competition from the developing countries.&#13;
+The paper was written during the author's visit to the Institute for&#13;
+International Economic Studies at the University of Stockholm where a first&#13;
+version of the study was presented at a seminar. The author is thankful to the&#13;
+participants of that seminar, particularly C. Hamilton, M.E. Kreinin, A. Lindbeck&#13;
+and T.A. Oyejide for their helpful comments. R. Erzan of IIES and W. Nonneman&#13;
+of the University of Antwerp (UFSIA) extended programming assistance and made&#13;
+useful suggestions. The author takes the responsibility for any remaining errors.&#13;
+Prepared by: P.K.M. Tharakan (Consultant)&#13;
+Economic Analysis and Projections Department&#13;
+Copyright Q1980&#13;
+The World Bank&#13;
+1818 H St.N.W.&#13;
+Washington D.C. 20433, U.S.A.&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+TABLE OF CONTENTS&#13;
+Page &#13;
+I.  THE POLITICAL ECONOMY OF PROTECTION                         1&#13;
+II.  THE ANALYTICAL RATIONALE                                    4&#13;
+III.  RESULTS                                                     8&#13;
+IV.  CONCLUSIONS                                                17&#13;
+STATISTICAL APPENDIX                                       18&#13;
+REFERENCES                                                 21&#13;
+LIST OF TABLES&#13;
+RESULTS OF THE REGRESSIONS IN WHICH NOMINAL TARIFFS&#13;
+(NT) WERE USED AS THE DEPENDENT VARIABLE                    9&#13;
+RESULTS OF THE REGRESSIONS IN WHICH EFFECTIVE TARIFFS&#13;
+(ET) WERE USED AS THE DEPENDENT VARIABLE                   11&#13;
+RESULTS OF THE REGRESSIONS IN WHICH NON-TARIFF&#13;
+BARRIERS (NTBs) WERE USED AS THE DEPENDENT VARIABLE        13&#13;
+SPEARMAN RANK CORRELATIONS BETWEEN INDUSTRY&#13;
+CHARACTERISTICS AND CONCENTRATION OF ASSISTANCE&#13;
+TO INDUSTRY                                                15&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+I. THE POLITICAL ECONOMY OF PROTECTION&#13;
+The sharp rise in the protectionist tendencies in the indus-&#13;
+trialised market economy countries which we are now witnessing is&#13;
+leading to   resurgence of analytical intereIt in the political&#13;
+economy of protection.  A number of authors.LI have recently attempted&#13;
+to explain the structure of protection or governmental assistance to&#13;
+industries in various high income countries by resorting to models of&#13;
+political choice. Various offshoots of the fledgling theory no the&#13;
+political economy of trade policy have been surveyed recentlyhJ and&#13;
+hence will not be reviewed here in detail. Caves (1976) identifies an&#13;
+"adding machine" model in which the trade policy is shaped by the number&#13;
+of voters who are expected to favour or oppose it, an "interest-group"&#13;
+model which stresses the way groups with common economic interests&#13;
+organize lobbying pressure in order to influence public policy and&#13;
+thirdly a "national policy" model where the emphasis is on integrating&#13;
+the national preference for particular industrial structures in the&#13;
+traditional realm of optimization analysis. The essence of the approach&#13;
+is the use of exogenous variables reflecting the likely impact of&#13;
+pressure groups on trade policy decisions to explain why some industries&#13;
+succeed in receiving more protection or assistance than others. The&#13;
+approach, if not the topic, is relatively new and is hence often&#13;
+characterized by intuitive rather than formal models and sometimes&#13;
+haphazard choice of variables. In the present exercise we shall first&#13;
+attempt to suggest a conceptual framework within whicK&#143; the pressures&#13;
+for protection can be empirically analyzed, note some of the pitfalls&#13;
+surrounding the approach and subsequently isolate and quantify the&#13;
+variables which can be used for such an analysis.&#13;
+It may be recalled that the essence of the neo-classical&#13;
+argument is that the commodity composition of trade between countries&#13;
+will be determined mainly by the concordance of the pattern of factor-&#13;
+endowment of the trading countries with the factor intensities of the&#13;
+production processes of the commodities traded. The 'positive' element&#13;
+of this proposition consists of the fact that subject to a set of highly&#13;
+restrictive assumptions, it will be able to 'explain' or predict the&#13;
+actual pattern of trade and production. It is also normative in the&#13;
+sense that the predicted pattern of trade and production would be the&#13;
+optimal mix in the inter-industry allocation of resources between&#13;
+countries, as it will not only lead to a better distribution of income&#13;
+between countries, but also to a tendency towards the equalization of&#13;
+the returns to labour and capital within the trading countries.&#13;
+1/ See for example, Anderson (1978a, 1978b), Caves (1976),&#13;
+Helleiner (1977) and Pincus (1975).&#13;
+2/ See Caves (1976) and Baldwin (1978).&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+-2-&#13;
+Part of the post-Leontief paradox literature in this field&#13;
+has stressed that the non-free-good nature of knowledge pertinent both&#13;
+to the production and the demand side could substantially distort the&#13;
+optimal inter-industry mix predicted in a Hecksher-Ohlin world. In&#13;
+the context of the present exercise, the analysis from the production&#13;
+(supply) side which takes into account the 'imperfect' nature of&#13;
+technology markets is less relevant than the analysis from the demand&#13;
+side which stresses the imperfect competition resulting from product&#13;
+differentiation. The essence of the latter argument is that the price&#13;
+of a given product in a given market, at a given point of time, is&#13;
+determined by the slope of the tangent of the production possibilities&#13;
+curve to the highest possible indifference curve and hence the preference&#13;
+of the consumers or the price they are willing to pay for a given variety&#13;
+of a product has to be explained in terms of factors which determine such&#13;
+preferences and not simply accepted as 'given' (Tharakan et al 1978).&#13;
+The process by which a consumer is persuaded to pay a higher price&#13;
+for a particular brand of a labour-intensive product for its presumed&#13;
+qualitative difference compared to the same product imported from a&#13;
+developing country is not very different from that by which governments&#13;
+are persuaded to protect structurally weak industries for 'national'&#13;
+reasons and consumers to pay a higher price for 'domestic' products.&#13;
+In this instance, the brunt of the persuasion campaigns will be directed&#13;
+at the policy makers so that they may erect or maintain protective&#13;
+barriers. But the success of such efforts hinges substantially on&#13;
+keeping the majority of the citizens of a country persuaded that the&#13;
+effects of protection are beneficial to them or for the country as a&#13;
+whole. For, after all, if the majority of the people were convinced&#13;
+about the detrimental effects of protection, they would not vote for the&#13;
+politicians who set up or maintain such trade barriers. As Downs (1957)&#13;
+points out, in a world where politicians act to maximize their chances&#13;
+of election, the optimal policies implied in a neo-classical model would&#13;
+be still preferred if costless, perfect knowledge could be shown to&#13;
+prevail. Since this is evidently not the case, protectionist pressures&#13;
+tend to have varying,impacts. A normally diffused group of consumers,&#13;
+either unaware of the adverse effects of protection on the economy as&#13;
+a whole and on their income in particular, or persuaded that liberalization&#13;
+of trade would be detrimental to the national interests, would tend to&#13;
+accept protection. Even in cases where consumer organisations have&#13;
+created some awareness to the contrary, the high cost of organizing&#13;
+campaigns against the influence of the protectionist lobbies would&#13;
+probably discourage any such action. On the other hand, the import-&#13;
+competing industry, highly aware of the threat to its income level,&#13;
+will organize itself and lobby for protection or assistance.&#13;
+While this line of reasoning provides the basis for the&#13;
+empirical analysis which attempts to explain the structure of protection,&#13;
+the nature of the model necessitates particular care in the interpretation&#13;
+of the results. As Pincus (1975) points out, conceptually, such a model&#13;
+contains two parts, namely, the determinants of the intensity of pressure&#13;
+group activity and the decision making body's response to that pressure.&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+-3-&#13;
+In the empirical analysis, neither the lobbying pressure, nor the&#13;
+governmental response to such pressure are directly measured. It is&#13;
+implicitly assumed that the explanatory variables such as the degree&#13;
+of regional concentration of industries, magnitude of the value added,&#13;
+and soon accurately reflect the extent of the protectionist pressures,&#13;
+and that the governmental response to such pressures is reflected in&#13;
+the structure of protection. But given the fact that lobbies for&#13;
+industries with given characteristics may not always react towards&#13;
+trade policy in the same manner in every country or in every situation,&#13;
+it is not always possible to predict the sign of the explanatory&#13;
+variables. The question of the governmental response is even more&#13;
+problematic. Governments - hopefully even in parliamentary democracies -&#13;
+might refuse to cede to lobbying pressures and take trade policy decisions&#13;
+on the basis of other considerations. For example, as Helleiner (1977)&#13;
+points out, the pattern of the prevalent tariff structures are the results&#13;
+of successive tariff-cutting bargains on the basis of reciprocity between&#13;
+countries.  The national governments do not always have the power to&#13;
+modify the structure of protection, even if they wish to do so. Thus,&#13;
+for example, Belgium, like other members of the European Community,&#13;
+has to accept, most of the time, the Common External Tariffs (CET) as&#13;
+given. One could of course argue that both in the case of international&#13;
+tariff-cutting negotiations and the formation of common regional tariffs,&#13;
+the position taken by the individual governments reflects the pressures&#13;
+generated by the domestic protectionist lobbies. Further, the protect-&#13;
+ionist interests in most high income countries tend to have some common&#13;
+ground such as opposition to imports of labour-intensive products. They&#13;
+have also organized themselves at regional levels. Nevertheless, given&#13;
+the fact that the nature of trade policy at a given point in time is&#13;
+the net result of the interaction between different kinds of pressures&#13;
+and the responses of decision making bodies at different levels, it&#13;
+would be incorrect to hypothesize a direct relationship between the&#13;
+structure of protection and variables which serve as a proxy for&#13;
+domestic protectionist pressures. But the results of an empirical&#13;
+analysis of the type outlined above could be certainly used to verify&#13;
+whether the structure of protection that has developed through this&#13;
+complex process, does correspond to certain characteristics of the&#13;
+industries.&#13;
+It is evident that the above line of reasoning is mainly&#13;
+'positive' rather than normative. Assuming that some of the variables&#13;
+representing protectionist pressures prove to be empirically significant&#13;
+in explaining the structure of protection, one should not, of course,&#13;
+fall into the temptation of rationalizing the process. But the know-&#13;
+ledge gained from such an analysis can be of use in the effective&#13;
+encouragement of 'first best' policies. After all, as Caves (1976)&#13;
+states succinctly, "without a positive theory of public decision&#13;
+making, normative economics can only crank out blue-prints for the&#13;
+wise statesman".&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+-4 -&#13;
+II. THE ANALYTICAL RATIONALE&#13;
+In the empirical analysis of the structure of protection, the&#13;
+dependent variable used by various authors has varied from nominal&#13;
+tariffs (Pincus 1975), nominal and effective tariffs separately (Caves&#13;
+1976), nominal and effective rates as well as changes in their levels&#13;
+(Helleiner 1977) and effective rates of assistance to an industry&#13;
+(Anderson 1978a, 1978b). Caves (1976) has argued that the effective&#13;
+tariffs are the most appropriate dependent variable because they measure&#13;
+better than the nominal tariffs the net pulls on resource allocation&#13;
+and proportional increases in payments to the domestic factors of&#13;
+production caused by tariffs. But it should be noted that in the&#13;
+Belgian case, strong rank correlation exists between the effective and&#13;
+the nominal rates of protection (Ilzkovitz and Kestens 1978). Never-&#13;
+theless, in our regressions, we have followed a procedure similar to&#13;
+that of Caves (1976) and Helleiner (1977), by introducing alternatively,&#13;
+the effective and the nominal rates of tariffs as the dependent variable&#13;
+in the regressions, with the purpose of noting any d,ifferences that a&#13;
+comparison of the pattern of results might reveal.-I&#13;
+Most of the above-mentioned authors, with the notable exception&#13;
+of Anderson (1978a, 1978b), have confined their investigation to the&#13;
+structure of tariff protection. But tariffs are only one of the&#13;
+protectionist devices used by most of the countries. Non-tariff&#13;
+barriers (NTBs), in particular, became more prevalent during the&#13;
+1970s. Information on the NTBs available from the documents qf the&#13;
+GATT Joint Working Group on import restrictions (GATT, 1974)2/ was&#13;
+made use of in constructing a sample of dummy variables which were&#13;
+introduced as the dependent variable in separate multiple regressions&#13;
+to investigate the determinants on non-tariff protection. The method&#13;
+used and some of its limitations are explained elsewhere in this paper.&#13;
+Assistance to industry can often have a protectionist character.&#13;
+In Belgium, the assistance to industry is given mai ly within the frame-&#13;
+work of the Belgian Economic Expansion Legislation:! which contains&#13;
+measures to foster economic activities in depressed regions. Although&#13;
+l/ For detailed information on the sources and methods relied upon in&#13;
+the quantification of all the variables used in the present&#13;
+exercise, see the statistical appendix.&#13;
+2/ The information contained in this document has to be interpreted&#13;
+with caution. It lists all types of measures considered by some&#13;
+members of GATT Working Group on Import Restrictions. It does&#13;
+not imply that the importing countries concerned accept that&#13;
+these restrictions are operative.&#13;
+3/ The Laws of 17th and 18th of July 1959 and the 30th of December 1970.&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+data on the cost incurred by the state for this purpose (through interest&#13;
+reductions, capital premiums, etc.) are available for the period studied&#13;
+here, their high level of aggregation and the consequent smallness of&#13;
+the sample precludes meaningful use of multiple correlation regression&#13;
+analysis. Hence, in the case of this particular possible component of&#13;
+protection, we have, as will be explained below, relied on the calcula-&#13;
+tion of Spearman rank correlation coefficient between variables&#13;
+representing the concentration of assistance to industry and each one&#13;
+of the postulated determinants of protection.&#13;
+The choice of appropriate explanatory variables as proxies&#13;
+for the protectionist pressures is crucial to the whole exercise.&#13;
+Caves (1976) suggests that for all three types of models (see above p 1),&#13;
+the value added per worker TVA would be relevant, but its interpretation&#13;
+would be quite different, dep nding on whether the structure of protection&#13;
+has been determined by the national policy model or by either one of the&#13;
+two other models. He argues that in the case of the "adding machine"&#13;
+model, the relevance of this variable is that, the lower the value&#13;
+added per worker, the more workers benefit from a tariff that protects&#13;
+a given amount of value added from import competition. Helleiner (1977)&#13;
+modifies this somewhat by reasoning that the reciprocity principle in&#13;
+the successive tariff cutting negotiations has led to large (at least&#13;
+before the introduction of the GSP) reductions of tariffs on capital&#13;
+intensive products, so that the structure of the present day tariffs&#13;
+in the industrialised countries is likely to be inversely correlated&#13;
+with unskilled labour intensity or non-wage value added per worker&#13;
+(!!VA). Pincus (1975) on the other hand implies that for nationalistic&#13;
+reasons a country is likely to foster industries which use physical&#13;
+and human capital intensively; hence a positive correlation between&#13;
+the structure of protection and value added per worker should be&#13;
+expected. Anderson (1978a) uses a labour intensity variable and&#13;
+expects it to be negatively correlated with the effective rate of&#13;
+assistance. In the present analysis we have used either the total&#13;
+value added per person or the non-wage value added per person, both&#13;
+in free trade prices, as one of the explanatory variables of the&#13;
+Belgian tariff and non-tariff protection, as well as of assistance&#13;
+to the industry.&#13;
+The second set of explanatory variables used by most of the&#13;
+authors are those representing the degree of concentration in the&#13;
+industry. Anderson (1978a, 1978b), Caves (1976) and Helleiner (1977)&#13;
+use the market share or the share of the output of the largest four&#13;
+firms as a proxy for the pressure for protection that would emanate&#13;
+from such groups. All three authors expect this variable to be&#13;
+positively correlated with the rate of protection or effective rate&#13;
+of assistance. As Pincus (1975) argues tariffs have the characteristics&#13;
+of a public good, and this can give rise to a free rider problem in the&#13;
+sense that a certain number of would-be beneficiaries might try, with-&#13;
+out contributing to the costs involved in the process, to enjoy the&#13;
+fruits of the efforts of others to persuade the public authorities to&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+-6-&#13;
+maintain the protection. This problem is likely to be less sharp if the&#13;
+benefits can be appropriated by, and the costs involved assigned to, a&#13;
+limited number of firms. This is often the case in the industries&#13;
+characterised by a high degree of concentration of output. But this&#13;
+argument is not completely without ambiguity. While large firms have&#13;
+greater cohesiveness for lobbying and larger resources at their disposal,&#13;
+they also have often more international connections and sub-contracting&#13;
+arrangements which make them less protectionist. In the present analysis&#13;
+we have used, alternatively, two different indices of concentration,&#13;
+namely, a Herfindahl index (CH) and the market share of the output of&#13;
+the largest four firms (C4).&#13;
+A similar line of reasoning can be evidently extended to the&#13;
+geographical concentration of workforce by industry. If particular&#13;
+industries have their workforce concentrated in certain regions, they&#13;
+could normally be expected to lobby energetically for greater protection&#13;
+through their regional representatives. But the pattern of the Belgian&#13;
+regional concentration of workforce by industry need not coincide with&#13;
+that of the more influential members of the European Communities, thus&#13;
+casting some doubt on its likely impact on the structure of CET. In&#13;
+the present analysis, we have measured the degree of the geographical&#13;
+concentration of workforce by industry (RC) by using a Gini-Hirschman&#13;
+index.&#13;
+Another set of important explanatory variables used by some&#13;
+authors is some proxy for the vulnerability of an industry, under the&#13;
+assumption that the greater such vulnerability, the greater would be&#13;
+the efforts of the industry to obtain protection or assistance. Anderson&#13;
+(1978a) argues that assistance to such industries could be readily&#13;
+justified by the governments as a welfare measure, especially if rapid&#13;
+change is seen as undesirable.  Average wage per employee (W)   the&#13;
+proxy often used to represent this variable, was also used gere.&#13;
+Among the authors mentioned, Helleiner (1977) alone includes&#13;
+a natural resource intensity variable in the equation to explain the&#13;
+structure of protection. He relied on Vanek's (1963) measure of&#13;
+natural resource intensity for the U.S. for this purpose. He argues&#13;
+that since a number of developing countries compete with the natural&#13;
+resource processing industries in Canada, there is the possibility&#13;
+that protection would be positively correlated with the natural&#13;
+resource content. But he hedges on this by pointing out that most&#13;
+of the large firms operating in this sector might prefer relatively&#13;
+free trade in natural resource products. Belgium is, of course, a&#13;
+clear-out example of a natural resource poor country. We have used&#13;
+an index of natural resource product requirements (NR) developed in&#13;
+an earlier study for Belgium (Tharakan, Busschaert, Schoofs and Vaes,&#13;
+1976).&#13;
+To sum up: in our empirical analysis we take into account&#13;
+three components of the structure of protection in Belgium, namely:&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+-7-&#13;
+tariff duties, non-tariff barriers and assistance to industry. Both&#13;
+nominal and effective tariff rates are analysed. On the basis of&#13;
+theoretical analysis elaborated above, the various industry charac-&#13;
+teristics  [(TVA)  NVA)   NR, (p),     CC and RCI were related to the&#13;
+levels of nominal (NT) and effective (EY) rates q Aprotection as well&#13;
+as to the non-tariff barriers (NTBs). Because (-p--) is a substitute&#13;
+for (-F-) and C4 for CH' the following alternative formulations were&#13;
+used:&#13;
+f(TVA)        W&#13;
+r = f [( p )s NR, f(p), C4, RC]&#13;
+= f    (NVA)W, NR, () C4, RC&#13;
+f            W    43 RC]&#13;
+NT = f t(TpVA, NRI, (p), i, RC]&#13;
+Nr = f [(pVA    NR , (-f   ,   C&#13;
+The same formulations were used to explain effective rates of protection&#13;
+and non-tariff barriers. In the regressions for NTBs, the dependent&#13;
+variable took the value of 1 in the cases of those commodities for which&#13;
+Belgium is reported to use non-tariff barriers, and 0 for all the other&#13;
+products. There are no theoretical reasons suggesting the appropriate-&#13;
+ness of a particular functional form; we chose to use a simple linear&#13;
+function in our regressions. The data used in the regressions pertain&#13;
+to the year 1970, which was a relatively normal year in the sense that&#13;
+no major economic convulsions took place during that period. It was&#13;
+also the pre-Generalised Scheme of Preferences (GSP) period so that&#13;
+the tariff rates for that year probably reflect the maximum tariff&#13;
+protection against imports from developing countries reached in Belgium&#13;
+during the 1970s. In the case of assistance to industry, estimates of&#13;
+the industry concentration of the governmental investment incentives&#13;
+were available for various years. The Spearman rank correlation of&#13;
+these concentration indices with qach one of the explanatory variables&#13;
+mentioned above were calculated.1"&#13;
+1/ Unlike the structure of tariffs, the concentration of assistance&#13;
+to industry has varied substantially over a period of time.&#13;
+Hence, in our calculations, we have used data pertaining to the&#13;
+assistance to industry covering the period 1959-1976.&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+-8-&#13;
+III. RESULTS&#13;
+In Table III.1 we have reported the regression results which&#13;
+were obtained by using nominal tariffs as the dependent variable. Each&#13;
+of the f&amp;dr specifications described in the preceding section were&#13;
+regressed at two different levels of aggregation of the sample data&#13;
+to verify whether the degree of aggregation has influenced the pattern&#13;
+of results obtained. In the case of the first four regressions reported&#13;
+in the table, in which the data used consisted of 37 observations, the&#13;
+level of aggregation corresponded to that which is used in the Belgian&#13;
+national industrial statistics. For the last four regressions shown in&#13;
+the table, the same sample of industries were aggregated into 18 obser-&#13;
+vations, corresponding to the Belgian input-output classification of&#13;
+1970.&#13;
+As can be seen from the table, at both levels of aggregation,&#13;
+the total value added per person is positively and significantly&#13;
+correlated with the structure of nominal tariff protection in Belgium.&#13;
+The pattern remains the same in alternative formulations when total&#13;
+wage value added per person is replaced by non-wage value added per&#13;
+person. Thus in Belgium, in contrast to Canada or Australia, the&#13;
+structure of nominal tariff protection is favourable to industries&#13;
+with high value added per person.&#13;
+The national resource product requirement variable has&#13;
+consistently yielded a positive sign but is not significant in the&#13;
+first four regressions at any of the acceptable levels. When the&#13;
+data used are more aggregative (in the last four equations) the level&#13;
+of significance of this coefficient shows some improvement and is&#13;
+acceptable, in alternate specifications, at 10 or 15 per cent confidence&#13;
+levels. In general, the performance of the NR variable suggests that&#13;
+the CET provides some protection to natural resource processing indus-&#13;
+tries in natural resource scarce Belgium.&#13;
+The average wage per employee (-) consistently yielded a&#13;
+negative sign. In the first four regressYons this coefficient is&#13;
+significant at 5 per cent confidence level. In the next two regressions,&#13;
+for which the data were used in a more aggregative form, this variable&#13;
+remained equally significant. Note, however, that in the last two&#13;
+specifications (regressions 1.7 and I.8) its level of significance shows&#13;
+a slight decline. In Belgium as in other industrial countries, indus-&#13;
+tries with low average wage levels, which probably contain a large&#13;
+number of low-skilled labourers, tend to receive high nominal tariff&#13;
+protection.&#13;
+Neither of the indices of industrial concentration yielded&#13;
+significant results. This could at least partly result from tension&#13;
+between the diverging attitudes of large firms towards the question&#13;
+of protection; they find it easier to appropriate the benefits of&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+TABLE III.1: RESULTS OF THE REGRESSIONS IN WHICH NOMINAL TARIFFS (NT) WERE USED AS THE DEPENDENT VARIABLE&#13;
+PFREGS                 TVA        NWVA)        N                                                             2           NUMBER&#13;
+SION    CONSIANT (1)            (p            NR                       C4           CH          RC         R2      F      of&#13;
+NUKBER                                                                                                                   OBSER-&#13;
+VATIONS.&#13;
+I.1.     725.066e    7.4571                  1.549      -8.188       0.483                    -3.070t      0.34   3.20     37&#13;
+(2.932)    (3.554)                 (0.993)     (-2.620)    (0.868)                   (-2.035)&#13;
+I.2.     723.328*               4.537*       1.556      -5.2568     0.483                     -3.063A      0.34   3.21     37&#13;
+(2.928)                (3.559)     (0.997)     (-1.991)    (0.868)                   (-2.032)&#13;
+I.3.     694.0311    7.6511                  1.489      -7.543*                  0.00725      -2.686X      0.33   2.98     37&#13;
+(2.778)    (3.608)                 (0.940)     (-2.428)                 (0.042)      (-1.817)&#13;
+I.4.     692.2771               4.654*       1.495      -4.535A                  0.00728      -2.6801      0.33   2.99     37&#13;
+(2.714)                (3.614)     (0.945)     (-1.749)                 (0.0426)     (-1.814)&#13;
+I.5.     1194.708    5.9768                  1.5830     -9.032*     0.293                     -7.025 x     0.39   1.46     18&#13;
+(1.681)    (2.212)                 (1.383)     (-1.803)    (0.280)                   (-1.139)&#13;
+I.6.     1030.731               3.538        1.5210     -6.9341     0.443                     -4.678       0.49   2.28     18&#13;
+(1.624)                (2.914)     (1.466)     (-1.808)    (0.469)                   (-0.838)&#13;
+I.7.     1252.931    6.2231                  1.296X     -8.4030                  -0.133       -7.429x      0.38   1.49     18&#13;
+(1.779)    (2.311)                 (1.141)     (-1.713)                (-0.417)      (-1.208)&#13;
+I.8.     1062.32t               3.5831       1.399'     -6.4600                  0.0386       -4.740       0.48   2.20     18&#13;
+(1.669)                (2.292)     (1.330)     (-1.688)                (0.133)       (-0.850)&#13;
+Note: The figures in brackets are t values.&#13;
+(x) Indicates that the coefficient is significant at 5% confidence level; (0) indicates that the coefficient is signifi-&#13;
+cant at 10% confidence level, and, (x) indicates that the coefficient is significant at the 15% confidence level.&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+- 10 -&#13;
+protection, but the nature of their operations tends to make them more&#13;
+free-trade oriented. In contrast to the concentration of output&#13;
+variable, the variable representing the geographic concentration of&#13;
+workforce by industry (RC) has a negative coefficient, which is highly&#13;
+significant in the first four regressions although it is less so in&#13;
+the last four. A possible explanation of this puzzling result is that&#13;
+the pattern of the geographic concentration of workforce by industry&#13;
+in the major member countries of the Community, which probably has&#13;
+influenced the structure of the CET, is the opposite of that of Belgium.&#13;
+This hypothesis has to be verified.&#13;
+In Table III.2, we have reported the regression results&#13;
+obtained by using the effective rates of tariffs (ET) as the dependent&#13;
+variable. In general, the pattern of the results obtained is very&#13;
+similar to that of the preceding exercise, in which the nominal rates&#13;
+were the dependent variable. Irrespective of the level of aggregation,&#13;
+the coefficients of total value added per person (TVA) and non-wage&#13;
+value added per person (VA) are positive and highly significant.&#13;
+The natural resource product requirement variable (NR) has once again&#13;
+a positive coefficient in all equations and is more significant here&#13;
+than in the previous regressions explaining nominal protection. This&#13;
+lends further support to the belief that effective rates of protection&#13;
+tend to be higher for industries processing primary products.&#13;
+The coefficient of the variable (-) has again consistenly&#13;
+yielded a negative sign, but its level of significance is noticeably&#13;
+lower, particularly when the set of data used are more aggregative.&#13;
+Both the Herfindahl index and the market share of the largest four&#13;
+firms have turned out, once again to be unimportant in explaining the&#13;
+structure of protection. Similar results were obtained for the&#13;
+variable representing the regional concentration of the workforce&#13;
+(RC) which is negatively correlated with the structure of effective&#13;
+protection, probably for the reasons which were suggested for the&#13;
+nominal tariff rates.  Note that the summary statistics reported in&#13;
+Table I.1, which are respectable for cross-section regressions, show&#13;
+marginal improvements for most of the equations in Table II.2.&#13;
+Analysis of the simple correlation coefficients and the scatter of&#13;
+residuals indicated no serious problems of multicollenearity.&#13;
+The positive and significant correlation between the value&#13;
+added variables and the nominal and effective rates of protection&#13;
+warrants further consideration. It is of course possible that with a&#13;
+different sample and with different estimation procedures, the significance&#13;
+of this positive correlation might deteriorate or even disappear. But&#13;
+given that the present sample covers,3 substantial part of the products&#13;
+entering into Belgian foreign trade,-0 it is unlikely - and here one&#13;
+1/ A list of the products as well as their share in the total value&#13;
+added can be obtained from the author.&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+TABLE III.2:   RESULTS OF THE REGRESSIONS IN WHICH EFFECTIVE TARIFFS.(ET) WERE USED AS THE DEPENDENT VARIABLE&#13;
+REGRES                 TVA        (NV)                       W                                    RC                NF      U&#13;
+SION4   CONSI'ANt    (-p   (-p                NR(W)                                              RCR2               rOf&#13;
+NUMBER                                                                                                                     OBSER-&#13;
+VATIONS.&#13;
+II.1.     1087.29k   13.015*                 3.602X      -11.186*    0.246                     -7.493       0.36   3.49      37&#13;
+(2.368)     (3.341)                 (1.244)    (-1.928)     (0.238)                   (-2.676)&#13;
+II.2.     1084.39*               7.921*      3.613X      -6.070X     0.245                     -7.482       0.36   3.50      37&#13;
+(2.364)                (3.347)      (1.248)    (-1.239)     (0.237)                   (-2.674)&#13;
+II.3.     1051.05i   13.234                  3.480 X     -10.562 X                -0.097       -7.145t      0.36   3.50      37&#13;
+(2.295)     (3.404)                 (1.198)    (-1.854)                 (-0.309)      (-2.636)&#13;
+II.4.     1048.15*               8.053*      3.491 x     -5.361 X                 -0.0968      -7.134t      0.36   3.51      37&#13;
+(2.291)                (3.411)      (1.202)    (-1.128)                 (-0.39)       (-2.634)&#13;
+II.5.     1848.50'   9.372                   4.221t      -9.410      -0.465                    -16.033A     0.40   1.63      18&#13;
+(1.344)     (1.795)                 (1.907)    (-0.971)     (-0.229)                  (-1.344)&#13;
+II.6.     1587.56X               5.458*      4.121*      -5.984      -0.227                    -12.378*     0.47   2.09      18&#13;
+(1.240)                (2.229)      (1.969)    (-0.773)     (-0.119)                  (-1.240)&#13;
+I1.7.     1883.060   9.620                   3.945A      -9.108                   -0.361       -16.4900     0.42   1.73     18&#13;
+(1.394)    (1.863)                  (1.811)    (-0.968)                 (-0.592)      (-1.398)&#13;
+II.8.    1583.63                 5.4060      4.080i     -5.881                    -0.0991      -12.46lX     0.47   2.10 -   18&#13;
+(1.244)                (2.204)      (1.952)    (-0.769)                 (-0.171)      (-1.105)&#13;
+Note: The figures in brackets are t values.&#13;
+(x) Indicates that the coefficient is significant at 5% confidence level; (0) indicates that the coefficient is signifi-&#13;
+cant at 10% conficence level, and, (x) indicates that the coeffificient is significant at 15% confidence level.&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+- 12 -&#13;
+chooses one's words carefully - that the use of alternative samples&#13;
+or procedures would yield a significant negative correlation between&#13;
+the structure of tariff protection and value added per person in&#13;
+Belgium.  I  the value added per person is a good proxy for capital&#13;
+intensity,1  the results obtained are indeed unconventional insofar&#13;
+as they suggest that the structure.of the nominal and effective protection&#13;
+tends to favour capital intensive industries in a highly capital-endowed&#13;
+country. As the cross-section data pertain to the last year of the pre-&#13;
+GSP period, it can be hardly argued that the structure of tariff protection&#13;
+could have taken an opposite orientation in the ensuing years.  Part of&#13;
+the answer to the riddle could be that Belgium, as a small high income&#13;
+country trading mostly with other high income countries, suffers dis-&#13;
+economic,s of scale which cannot be compensated bX capital intensity&#13;
+alone.JV We have empirically verified elsewhere&gt;3/ that, while capital&#13;
+intensity has some significance in explaining the 'revealed comparative&#13;
+advantage' of Belgium vis-a-vis the developing world, it has none in&#13;
+the explanation of Belgium's comparative advantage with the rest of&#13;
+the world. Given this vulnerability, it is possible that industries&#13;
+with high capital intensity, facing competition from their counter-&#13;
+parts in other high income countries, exert whatever pressure they&#13;
+can muster at the European level to preserve a structure of tariff&#13;
+protection that is in their favour.&#13;
+This by itself does not of course, mean that Belgian trade&#13;
+policy is not protectionist particularly with respect to the products&#13;
+for which the developing countries have comparative advantage. It is&#13;
+quite possible that in a given country, the high value added industries&#13;
+might succeed in obtaining tariff protection while labour intensive&#13;
+industry groups are awarded non-tariff barriers and assistance. We&#13;
+shall now proceed to test 'the latter part of this proposition.&#13;
+Table III1.3 shows the results of the regressions in which&#13;
+the non-tariff barriers (NTBs) were used as the dependent variable.&#13;
+The basic statistical problems associated with the models in which&#13;
+the dependent variable is dichotomous and equal to one or zero'&#13;
+(depending in, the present case, on whether the4jmports are subjected&#13;
+to NTBs or not) have been dealt with elsewhere- in detail and will&#13;
+1/  There is some evidence that in the Belgian case this is a'rather&#13;
+good proxy, see Tharakan and Vandoorne (1979).&#13;
+2/  This point has been dealt with in more detail by Dreze (1959) and&#13;
+(1960), Tharakan et al (1978).&#13;
+3/  These results are available from the author on request.&#13;
+4/  See Bowen, W. G. and Finegan, T.A., The Economics of Labor Force&#13;
+Participation, Princeton, N. J., Princeton University Press,&gt; 1969.&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+TABLE III. 3: RESULTS OF THE REGRESSIONS IN WHICH NON-TARIFF BARRIERS (NTBs) WERE USED AS THE DEPENDENT VARIABLE&#13;
+REGMES                TVA        INWVA                     wNN&#13;
+SIGNP                  ()                                                                       R                      NUMBER&#13;
+SIONU    CNSTANT (MBE (R                     NR                       C4                       RC        R2      F       of&#13;
+NUMB                                                                    4           CH POBSER-&#13;
+TIONS.&#13;
+III.1    0.517'     -0.00125                -0.00235   -0.00218     -0.00159°                0.003490    0.18    1.38     37&#13;
+(1.178)    (-0.336)                (-0.849)   (-0.393)    (-1.598)                  (1.303)&#13;
+II1.2    0.517X                 -0.000771   -0.00235   -0.00266     -0.001580                0.003490     0.18   1.38     37&#13;
+(1.178)                (-0.341)    (-0.850)   (-0.568)    (-1.600)                  (1.304)&#13;
+III.3    0.539x      -0.00142               -0.00251   -0.00313                 -0.0004150   0.00283X    0.17    1.23     37&#13;
+(1.212)    (-0.377)                (-0.894)   (-0.569)                 (-1.372)     (1.080)&#13;
+III.4    0.538X                 -0.000873   -0.00251   -0.00368                 -0.0004150   0.00283X     0.17   1.23     37&#13;
+(1.218)                (-0.383)    (-0.895)   (-0.801)                 (-1.372)     (1.081)&#13;
+II1.5    0.183      -0.00442                -0.00208   -0.00363     -0.000638                0.0132X     0.38   1.47      18&#13;
+(0.152)    (-0.968)                (-1.076)   (-0.429)    (-0.360)                  (1.271)&#13;
+II1.6    0.334                  -0.00189    -0.00201   -0.00628    -0.000779                 0.0117X     0.36   1.39      18&#13;
+(0.280)                (-0.830)    (-1.033)   (-0.871)    (-0.439)                  (1.117)&#13;
+III.7    0.197      -0.00425                -0.00227X  -0.00356                 0.000345     0.0129X     0.39   1.56      18&#13;
+(0.167)    (-0.941)                (-1.190)   (-0.433)                 (-0.647)     (1.252)&#13;
+111.8    0.338                  -0.00212    -0.00231X -0.00543                  -0.000455    0.0112X     0.39   1.56      18&#13;
+(0.292)                (-0.946)    (-1.210)   (-0.778)                 (-0.858)     (1.091)&#13;
+Note: The figures in brackets are t values.&#13;
+(M) Indicates that the coefficient is significant at 5% confidence level; (0) indicates that the coefficient is signifi-&#13;
+cant at 10% confidence level, and, (x) indicates that the coefficient is significant at 15% confidence level.&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+- 14 -&#13;
+not be analysed here. The essence of the problem is that in dealing&#13;
+with dichotomous dependent variables, the assumption that the distur-&#13;
+bance variances are constant from observation to the OLS method does&#13;
+not produce the best linear unbiased estimates. Also the calculated&#13;
+probability of obtaining a zero or a one can fall outside the (0, 1)&#13;
+interval., This must be'borne in mind in analysing the results&#13;
+presented in Table III.3.&#13;
+In addition to the problem of heteroscedasticity mentioned&#13;
+above, note that the results of the regressions in which the NTBs'&#13;
+were used'as the dependent variable have yielded results of poor quality.&#13;
+Although the total value added per person and the non-wage added per&#13;
+person have consistently yielded negative signs, the level of significance&#13;
+of the estimated coefficients is very low. The other independent&#13;
+variables have yielded similarly poor results with the exception of&#13;
+the regional concentration of the work force by industry (RC) which is&#13;
+positively correlated with the-occurrence of non-tariff barriers and&#13;
+is significant, in alternate specifications, at 10 to 15 per cent&#13;
+confidence level. This particular result which is clearly different&#13;
+from that obtained in'analysing the structure of tariff protection is&#13;
+more in accordance with the conventional theoretical formulation. It is&#13;
+mainly explained by the fact that the NTBs are largely concentrated in&#13;
+the textile sector which has a rather high regional concentration in&#13;
+Belgium.&#13;
+The pattern of the government assistance given to Belgian&#13;
+industry is of special relevance in the present analysis as its structure&#13;
+depends, unlike tariff protectionf and NTBs, almost entirely on national&#13;
+centers of decision. As was mentioned in section II, the assistance to&#13;
+industry in Belgium is given mainly within the framework of the Belgian&#13;
+Economic Expansion Legislation and consists mainly of interest reductions,&#13;
+capital premiums, etc.   The inter-industry assistance thus provided can&#13;
+be ranked according to the investment it helped to generate. Given the&#13;
+fact that the amount of assistance thus extended to the industry has shown&#13;
+considerable fluctuations annually, it would be appropriate to analyse&#13;
+the inter-industry concentration of assistance over a period of time.!-&#13;
+In a recent study, Taeymans and Vanwynsbergh (1979) have calculated the&#13;
+concentration indices of government assistance to industry for 1959-76&#13;
+as a function of the investment generated, for a small and highly&#13;
+aggregative sample.l/ Table III.4 shows the Spearman rank correlation&#13;
+coefficient between the weighted index of the concentration of&#13;
+assistance to the industry, and the different independent variables&#13;
+used in the preceding multi'ple correlation regressions.&#13;
+1/  An analysis of the assistance to industry for the year.1970 would&#13;
+be also somewhat superfluous as some components of such assistance&#13;
+have already entered into the calculation of the effective rates of&#13;
+protection for that year.&#13;
+2/  See the statistical appendix for the method used in the calculation of&#13;
+this index.&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+- 15 -&#13;
+TABLE III.4: SPEARMAN RANK CORRELATIONS BETWEEN INDUSTRY CHARACTERISTICS&#13;
+AND CONCENTRATION OF ASSISTANCE TO INDUSTRY&#13;
+INDUSTRY         ,        SPEARMAN&#13;
+CHARACTERISrICS        RANK CORRELATION&#13;
+COEFFICIENTS&#13;
+TIVA&#13;
+(TVA)                 - .548&#13;
+(NWA &gt;                 - .571&#13;
+NR                      -.619&#13;
+w&#13;
+(p)                     - .548&#13;
+C4                        .119&#13;
+CH                        .071&#13;
+RC                      - .476&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+- 16 -&#13;
+The first point to be noted in analysing the table is that&#13;
+none of the Spearman rank correlation coefficients show acceptable&#13;
+level of significance, although the magnitude of the first four&#13;
+variables approach the 0 05 significance level. Both the total&#13;
+value added per person (--A) and the non-wage value added per person&#13;
+(NWVA) show an inverse rank correlation, suggesting that investment&#13;
+subsidies have been going mainly to industries with low value added&#13;
+per person. A similai, negative rank correlation is found in the case&#13;
+of wages per person (p), the natural resource product requirements (NR)&#13;
+and the regional concentration of work force by industry (RC). Assistance&#13;
+to industries having low average wages is in accordance with the pressure&#13;
+group theory of protection. But the negative sign of the RC variable&#13;
+and its rather low level of significance suggest that as far as the&#13;
+concentration of assistance for investment is concerned, the regional&#13;
+concentration of workforce by industry has not had much of an impact.&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+- 17 -&#13;
+IV. CONCLUSIONS&#13;
+We have tried to explain the pattern of nominal and effective&#13;
+tariffs, non-tariff barriers, and the inter-industry concentration of&#13;
+governmental assistance.  The national government's control over the&#13;
+first two components of protection are much less than that over NTBs&#13;
+and assistance to industry. Possibly partly for that reason, as well as&#13;
+because of certain special characteristics of the Belgian economy, the&#13;
+pattern of results we have obtained differs, in some respects, from&#13;
+those found in other industrial countries. Thus for the sample of&#13;
+products taken into account, nominal and effective tariffs are positively&#13;
+correlated with total value added per person and non-wage value added&#13;
+per person. It cannot of course be argued that the interests of the&#13;
+Belgian lobbies or the pressures emanating from them had any decisive&#13;
+impact on the structure of the CET. But given that Belgian industries&#13;
+face intense competition from non-community high income countries with&#13;
+endowment patterns which are similar to that of Belgium, it is quite&#13;
+likely that the most influential among the Belgian industrial lobbies&#13;
+would be happy with the maintenance of whatever protection which the&#13;
+present pattern of the CET can provide for the high value added indus-&#13;
+tries. On the other hand, industries using scarce natural resources,&#13;
+appear to receive some tariff protection, particularly when the&#13;
+effective rates are taken into account.&#13;
+There is, of course, the possibility that while the structure&#13;
+of tariffs provides some protection against competition from non-community&#13;
+high income countries, the pattern of non-tariff barriers and assistance&#13;
+to industry is skewed in favour of the more labour intensive items.&#13;
+Because of the low statistical significance of the results obtained in&#13;
+the empirical analysis of the structure of the NTBs and of the concentration&#13;
+of assistance to industry, it is not possible to fully confirm - or reject -&#13;
+this hypothesis. In general, the indications are that government assistance&#13;
+to industry on the whole favours sectors with characteristics making them&#13;
+vulnerable to competition from the developing countries. Thus, even a&#13;
+relatively open economy such as Belgium's appears to use various national&#13;
+and regional protectionist devices to shield industries facing competition&#13;
+origination from countries with differing endowment patterns.&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+- 18 -&#13;
+STATISTICAL APPENDIX&#13;
+Data on effective and nominal protection rates (ET and NT)&#13;
+are from the recent work of Ilzkovitz and Kestens (1978) a I European&#13;
+Community sources. The products for which non-tariff barriers (NTBs)&#13;
+are operative were identified with the help of the information contained&#13;
+in GATT (1974). Data on the inter-industry concentration of assistance&#13;
+for investments are from Taeymans and Vanwynsberghe (1979). The latter&#13;
+authors estimated the concentration index by dividing the sector's share&#13;
+of government assistance by the share of the investment generated.&#13;
+Data on  o    value added per person ( p ) and non-wage value&#13;
+added per person (-F--) are from Tharakan, Busschaert, Schoofs and Vaes&#13;
+(1976).  In this study, the value added per person was calculated for&#13;
+each of the industries by taking the total sales and the transfers to&#13;
+other establishments, deducting from them the cost of the materials used,&#13;
+and adjusting these results for changes in inventories of finished&#13;
+products and of goods in processing between the first and the last day&#13;
+of the year. The figures were deflated to take account of the impact of&#13;
+tariffs on value added.&#13;
+The natural resource product requirements are also from the&#13;
+Tharakan, Busschaert, Schoofs and Vaes (1976) study in which the method&#13;
+of an earlier study by Vanek (1959) was followed. The procedure used&#13;
+is as follows: the structure of the input-output table is defined as&#13;
+(I-A)x = f&#13;
+where     I-A .    the identity matrix minus the matrix of direct&#13;
+coefficients;&#13;
+x       the vector of total output, and,&#13;
+f    =  the vector of final demand.&#13;
+The same structure can be also represented as:&#13;
+(I-A)  f  =x&#13;
+where:     (I-A)     = the inverse of (I-A) or the matrix of the&#13;
+direct and indirect coefficients.&#13;
+Matrix (I-A)    consists of elements bik which indicate the&#13;
+input of good i which is required to produce a unit of final demand of&#13;
+good k. We are interested here only in the additional amount of natural&#13;
+resource products i* that are required to produce one unit of k. The&#13;
+natural resource products were specified to contain the following sectors&#13;
+in the Belgian input-output table:&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+- 19 -&#13;
+(01) agricultural wood and forest products;&#13;
+(02) fishing products;&#13;
+(14) coal;&#13;
+(16) crude petroleum and natural gas;&#13;
+(33) iron ore;&#13;
+(34) ores of non-ferrous metals;&#13;
+(35) non-metallic minerals.&#13;
+The total natural resource product requirements (NR) for each of the&#13;
+products k:&#13;
+£t b i*kX&#13;
+W        The data used in the calculation of average wages per employee&#13;
+(p)  are from N.I.S. (1973).   The Herfindahl index of concentration (CH)&#13;
+and the share of the four largest firms (C4) are from Van Lommel, E.,&#13;
+Liebaers, D., De Brabander, B. and Demeulenaere, J. (1976). In that study&#13;
+CH was calculated using the following version of the Herfindahl formula:&#13;
+n      2&#13;
+ilxi&#13;
+CH      n n    2&#13;
+(E X.)&#13;
+where:    Xi = the output of enterprise i.&#13;
+Data available in N.I.S. (1975) on the industrial workforce&#13;
+per district in Belgium were used to calculate the indices of regional&#13;
+concentration of workforce per industry (RC). The following version of&#13;
+the Gini-Hirschman formula was used for that purpose:&#13;
+n =w10      2&#13;
+RC =100       E     i&#13;
+i=1&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+- 20 -&#13;
+where:    wj = total workforce in industry i in year J.&#13;
+w d  = the workforce in industry i in district d in year j.&#13;
+iiJ&#13;
+If the entire workforce' in a given industry were concentrated&#13;
+in one district, the coefficient obtained by the above formula would be,&#13;
+of course, -100.&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+- 21 -&#13;
+REFERENCES&#13;
+Anderson, K. (1978a). "The Political Market for Government Assistance&#13;
+to Industry" (mimeo), Australian National University.&#13;
+Anderson, K. (1978b). "Politico-Economic Factors Affecting Structural&#13;
+Change and Adjustment" (mimeo), Macquarie University, Sydney.&#13;
+Baldwin, R. E. (1978). "An Introduction to the Analysis of Protection&#13;
+Issues" (mimeo).&#13;
+Bowen, W. G. and Finegan, T. A. (1969). The Economics of Labour Force&#13;
+Participation, Princeton, N. J., Princeton University Press.&#13;
+Caves, R. E. (1976). "Economic Models of Political Choice: Canada's&#13;
+Tariff Structure".   The Canadian Journal of Economics (IX,l)&#13;
+May, pp. 278-300.&#13;
+Downs, A. (1957). An Economic Theory of Democracy, Harper and Row,&#13;
+New York.&#13;
+Dreze, J. (1960). "Quelques re'flexions sereines sur l'adaptation de&#13;
+l'industrie Belge au Marche Commun", Comptes Rendus des&#13;
+Traveaux de la Societe Royale d'Economie Politique de Belgique,&#13;
+no. 275, decembre.&#13;
+Helleiner, G. K. (1977), "The Political Economy of Canada's Tariff&#13;
+Structure: An Alternative Model", The Canadian Journal of&#13;
+Economics, (X,2), May, pp. 318-326.&#13;
+N.I.S. (1973). Industriele Statistieken, 1872, nummber 3, Koninkrijk&#13;
+Belgi'e, Ministerie van Economische Zaken, Brussels.&#13;
+N.I.S. (1975). Volkstelling 1970, Koninkrijk Belgie, Ministerie van&#13;
+Economische Zaken, Brussels, pp. 320-346.&#13;
+Pincus, J. J. (1975). "Pressure Groups and the Pattern of Tariffs",&#13;
+Journal of Political Economy, 83, No. 4, August, pp. 757-778.&#13;
+Taeymans, P. and Vanwynsberghe, D. (1979). "Regionale Inkomensverdeling:&#13;
+Gevolgen en Beleid", Veertiende Vlaams Wetenschappelijk Congres,&#13;
+Inkomens - en Vermogensverdeling, Referaten, Centrum voor&#13;
+Econometrie en Management Sciences, Vrije Universiteit Brussel,&#13;
+pp. IV. 2.1.-IV.2.68.&#13;
+Tharakan, P.K.M., Busschaert, J.A., Schoofs, W.M. and Vaes, A. (1976).&#13;
+"Measurements of Factor Intensities and National Resource Content".&#13;
+Centre for Development Studies, University of Antwerp, (mimeo).&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+- 22 -&#13;
+Tharakan, P.K.M., Soete, L.G. and Busschaert, J.A. (1978). "Heckscher-&#13;
+Ohlin and Chamberlain Determinants of Comparative Advantage",&#13;
+European Economic Review, pp. 221-239.&#13;
+Tharakan, P.K.M., Vandoorne, M. (1979). "Structure of Comparative&#13;
+Advantage of Belgium vis-a-vis the Developing World", Cahiers&#13;
+Economigues de Bruxelles, May, pp. 215-234.&#13;
+Vanek, J. (1959). "The Natural Resource Content of Foreign Trade&#13;
+1870-1955, and the Relative Abundance of Natural Resources in&#13;
+the United States", Review of Economics and Statistics, May,&#13;
+pp. 146-153.&#13;
+Vanlommel, E., Liebaers, D., De Brabander, B. and Demeulenaere, J.&#13;
+(1976). "Vergelijking van Alternatieve Concentratiemaatstaven&#13;
+voor de Industriele Sectoren in Belgie", N.I.S., Statistisch&#13;
+Tijdschrift, September, no. 9. pp. 889-905.&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+MARKET PENETRATION RESEARCH PROJECT--WORK-IN-PROGRESS REPORTS&#13;
+425      Britain's Pattern of Specialization in Manufactured Goods      Vincent Cable &amp;&#13;
+with Developing Countries and Trade Protection                Ivonia Rebelo&#13;
+426      Worker Adjustment to Liberalized Trade: Costs and              Graham Glenday&#13;
+Assistance Policies                                           Glenn P. Jenkins&#13;
+John C. Evans&#13;
+427      On the Political Economy of Protection in Germany              H.H. Glismann &amp;&#13;
+F.D. Weiss&#13;
+428      Italian Commercial Policies in the 1970s                       Enzo Grilli&#13;
+429      Effects of Non-Tariff Barriers to Trade on Prices,&#13;
+Employment, and Imports: The Case of the Swedish&#13;
+Textile and Clothing Industry                                 Carl Hamilton&#13;
+430      Output and Employment Changes in a "Trade&#13;
+Sensiti',e" Sector: Adjustment in the U.S. Footwear           John Mutti &amp;&#13;
+Industry                                                      Malco'.m Bale&#13;
+431      The Polit'cal Economy of Protection in Belgium                 P.K.M. Tharakan&#13;
+432      European Community Protection Against Manufactured             Eric Verreydt&#13;
+Imports from Developing Countries: A Case Study in                 &amp;&#13;
+the Pol'tical Economy of Protection                           Jean 11aelbroeck&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+</ml:original-txt><ml:search-metadata><doc id="1555007">
+        <url>
+            http://documents.worldbank.org/curated/en/1980/10/1555007/political-economy-protection-belgium
+        </url>
+        <availablein>English</availablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/1980/10/1555007/political-economy-protection-belgium</url_friendly_title>
+        <new_url>1980/10/1555007/political-economy-protection-belgium</new_url>
+        <disclosure_date>2010-07-01T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2010-07-01T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2003/07/12/000178830_98101903405786/Rendered/INDEX/multi0page.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2003/07/12/000178830_98101903405786/Rendered/PDF/multi0page.pdf</pdfurl>
+        <datestored>2003-07-12T00:00:00Z</datestored>
+        <docdt>1980-10-31T00:00:00Z</docdt>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            The political economy of protection in Belgium
+        </repnme>
+        <abstracts>
+            This work in progress report is part of
+            an inquiry being undertaken by the World Bank in conjunction
+            with scholars from twelve industrial countries into the
+            penetration of the markets of industrial countries by
+            exports of manufactures from developing countries. The
+            project seeks to establish the share of industrial country
+            markets held by the developing countries, changes in such
+            shares in the 1970s, and why they vary among industry groups
+            and countries. The aim is to assist developing and
+            industrial countries to improve their policies through a
+            better understanding of trade patterns and protectionist
+            pressures. This paper reports the results of the analysis of
+            the causes of protection in Belgium. Tariffs were found to
+            be correlated positively with the total and non-wage value
+            added per person, suggesting that the present structure of
+            the European Community's Common External Tariff
+            supports industries in which Belgium has a comparative
+            advantage. However, industries using scarce natural
+            resources also receive some tariff protection, and
+            non-tariff assistance to industry appears to be skewed
+            toward the more labor intensive products. Government
+            assistance to industry on the whole seems to be favoring
+            sectors that are vulnerable to competition from the
+            developing countries.
+        </abstracts>
+        <docna>
+            The political economy of protection in Belgium
+        </docna>
+        <display_title>The political economy of
+            protection in Belgium</display_title>
+        <listing_relative_url>/research/1980/10/1555007/political-economy-protection-belgium</listing_relative_url>
+        <docty>Staff Working Paper</docty>
+        <subtopic>Environmental Economics &amp; Policies,Free Trade,Economic Theory &amp; Research,Water and Industry,Banks &amp; Banking Reform</subtopic>
+        <teratopic>Water Resources</teratopic>
+        <count>Belgium</count>
+        <authors>
+            <author>THARAKAN, P.</author>
+        </authors>
+        <geo_region_mdks>
+            <geo_region_mdk>World!$!80475</geo_region_mdk>
+            <geo_region_mdk>Europe!$!80461</geo_region_mdk>
+        </geo_region_mdks>
+        <entityids>
+            <entityid>000178830_98101903405786</entityid>
+        </entityids>
+        <subsc>(Historic)Trade</subsc>
+        <admreg>Europe and Central Asia,Europe and Central Asia</admreg>
+        <colti>Staff working paper ; no. SWP 431</colti>
+        <lang>English</lang>
+        <historic_topic>Water Resources</historic_topic>
+        <sectr>(Historic)Economic Policy</sectr>
+        <majdocty>Publications,Publications &amp; Research</majdocty>
+        <keywd>
+            Nontariff trade barriers; Optimization
+            models; Protectionism; Regression analysis; State
+            intervention; Tariffs; Labor intensity
+            adverse effects,comparative
+            advantage,conceptual framework,consumers,country
+            markets,decision making,distribution of income,Economic
+            Analysis,Economic Expansion,empirical
+            analysis,equalization,exogenous variables,exports,External
+            Tariff,External Tariffs,factors of production,foreign
+            trade,free rider,free rider problem,free trade,human
+            capital,imperfect competition,import competition,import
+            restrictions,imports,income,inventories,investment
+            incentives,Labor Force,Laws,Legislation,liberalization of
+            trade,market share,natural resources,normative
+            economics,optimization,pattern of trade,policy
+            decisions,policy makers,political economy,product
+            differentiation,production possibilities curve,production
+            processes,protection rates,protectionist
+            devices,protectionist pressures,public good,public
+            policy,rates of protection,reciprocity,regression
+            analysis,resource allocation,TARIFF BARRIERS,tariff
+            protection,tariff rates,tariff structures,total output,trade
+            barriers,trade patterns,trade policy,value added,voters,wages
+        </keywd>
+        <owner>ECS</owner>
+        <geo_regions>
+            <geo_region>World</geo_region>
+            <geo_region>Europe</geo_region>
+        </geo_regions>
+        <repnb>SWP431</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>Social Development &amp; Poverty</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Environment</ml:concept><ml:concept>Poverty Reduction</ml:concept><ml:concept>Poverty Reduction and Distributional Analysis</ml:concept><ml:concept>Poverty Reduction and Equity</ml:concept><ml:concept>Poverty and Inequality</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Social Protections and Labor</ml:concept><ml:concept>International Competitiveness</ml:concept><ml:concept>International Economics and Trade</ml:concept><ml:concept>Trade Liberalization</ml:concept><ml:concept>Trade Liberalization and Regional Integration</ml:concept><ml:concept>Trade Restrictiveness</ml:concept><ml:concept>Trade and Integration</ml:concept><ml:concept>Industry</ml:concept><ml:concept>Social Development</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Economic Growth</ml:concept><ml:concept>Environment and Natural Resources</ml:concept><ml:concept>Poverty</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Social Protection and Labor</ml:concept><ml:concept>Trade</ml:concept><ml:concept>Environmental Economics and Policies</ml:concept><ml:concept>Legislation and Regulation</ml:concept><ml:concept>Alternative Sentencing Options</ml:concept><ml:concept>Community Policing</ml:concept><ml:concept>Community based Policing</ml:concept><ml:concept>Correctional Services and Facilities</ml:concept><ml:concept>Corrections</ml:concept><ml:concept>Crime Policies</ml:concept><ml:concept>Crime Prevention</ml:concept><ml:concept>Crime and Society</ml:concept><ml:concept>Defense Services</ml:concept><ml:concept>Detention</ml:concept><ml:concept>Enforcement Policies and Oversight Mechanism</ml:concept><ml:concept>Forensic</ml:concept><ml:concept>Forensic Services</ml:concept><ml:concept>Investigation</ml:concept><ml:concept>Investigative Task Force Police</ml:concept><ml:concept>Juvenile Justice</ml:concept><ml:concept>Law Enforcement</ml:concept><ml:concept>Offender Reintegration</ml:concept><ml:concept>Police Administration and Management</ml:concept><ml:concept>Police Reform</ml:concept><ml:concept>Problem solving Policing</ml:concept><ml:concept>Prosecution</ml:concept><ml:concept>Restorative Justice</ml:concept><ml:concept>Therapeutic Justice</ml:concept><ml:concept>Victim Assistance</ml:concept><ml:concept>Victim Services</ml:concept><ml:concept>Victim-Offender Mediation</ml:concept><ml:concept>Commodities</ml:concept><ml:concept>Commodity Prices</ml:concept><ml:concept>Commodity Rich Countries</ml:concept><ml:concept>Natural Resources</ml:concept><ml:concept>Asset Recovery</ml:concept><ml:concept>Civil Service Employment</ml:concept><ml:concept>Civil Service Reform</ml:concept><ml:concept>Human Capital</ml:concept><ml:concept>Managing People</ml:concept><ml:concept>Public Employment</ml:concept><ml:concept>Market Access</ml:concept><ml:concept>NTMs</ml:concept><ml:concept>Non-Tariff Barriers (NTBs)</ml:concept><ml:concept>Political Economy</ml:concept><ml:concept>Political Economy Analysis</ml:concept><ml:concept>Wage Setting</ml:concept><ml:concept>Wages, Compensation and Benefits</ml:concept><ml:concept>Free Trade</ml:concept><ml:concept>Income</ml:concept><ml:concept>Textiles</ml:concept><ml:concept>Environmental Economics &amp; Policies</ml:concept><ml:concept>Legislation</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Criminal Justice</ml:concept><ml:concept>Copyright</ml:concept><ml:concept>Commodities and Resources</ml:concept><ml:concept>Political Economy of Trade Policy</ml:concept><ml:concept>Investment Incentives</ml:concept><ml:concept>Forests</ml:concept><ml:concept>Subsidies</ml:concept><ml:concept>Human Resources Management</ml:concept><ml:concept>Trade Policy</ml:concept><ml:concept>Tariff and Non-Tariff Measures</ml:concept><ml:concept>Political Economy of Reform</ml:concept><ml:concept>Wages</ml:concept><ml:concept>Negotiation</ml:concept></ml:concepts><ml:geo-regions><ml:geo-region>Asia</ml:geo-region><ml:geo-region>Europe</ml:geo-region><ml:geo-region>Belgium</ml:geo-region><ml:geo-region>Central Asia</ml:geo-region></ml:geo-regions></ml:annotations></ml:doc-envelope>

@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>                               6&#13;
+COMPETITIVE CITIES FOR JOBS AND GROWTH&#13;
+                                     101717&#13;
+COMPANION PAPER 6&#13;
+&#13;
+GROWTH PATHWAYS&#13;
+A Diagnostic Methodology for&#13;
+City Competitiveness&#13;
+Dmitry Sivaev&#13;
+December 2015&#13;
+&amp;#12;2&#13;
+&amp;#12;TABLE OF&#13;
+CONTENTS&#13;
+&#13;
+&#13;
+&#13;
+Background and Acknowledgements 5&#13;
+&#13;
+&#13;
+&#13;
+Introduction: Why Diagnose City Competitiveness? 6&#13;
+&#13;
+&#13;
+&#13;
+Part 1: What is the Growth Pathways methodology? 7&#13;
+&#13;
+Growth Pathways is . . . 7&#13;
+&#13;
+Growth Pathways offers . . . 7&#13;
+&#13;
+Principles of Growth Pathways 7&#13;
+&#13;
+The framework behind Growth Pathways 8&#13;
+&#13;
+&#13;
+&#13;
+Part 2: How does Growth Pathways work? 10&#13;
+&#13;
+Overview of diagnostic exercises 10&#13;
+&#13;
+Competitive Cities Snapshot 10&#13;
+&#13;
+&#13;
+&#13;
+Team Contact 11&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                     3&#13;
+&amp;#12;4&#13;
+&amp;#12;BACKGROUND AND&#13;
+ACKNOWLEDGEMENTS&#13;
+&#13;
+&#13;
+&#13;
+I&#13;
+  nterest in studying city competitiveness has                     â&#128;&#156;deep divesâ&#128;&#157; and case studies in selected countries and cities.&#13;
+  skyrocketed in the last few years, although the topic            We are able to inform the continuing debates on what really&#13;
+  itself is far from new. Mayors and city leaders have long        matters for economic outcomes in cities with analysis of&#13;
+worried about the obstacles to job creation, competitiveness       over-arching trends and associations, supplemented with&#13;
+and economic growth that plague their cities.                      rigorous analyses to identify causal relationships. We also try&#13;
+                                                                   to â&#128;&#156;stand on the shoulders of giantsâ&#128;&#157; where possible: We use&#13;
+This paper is part of a broader research initiative (the           and make reference to existing resources (research, analysis,&#13;
+â&#128;&#156;Competitive Cities Knowledge Baseâ&#128;&#157; project) man-                  toolkits and experts).&#13;
+aged jointly by the Trade &amp; Competitiveness Global Practice&#13;
+and the Social, Urban, Rural and Resilience Global Practice of     The summary findings of the overall research are presented&#13;
+the World Bank Group. Its objective is to create a knowledge       in the framework paper â&#128;&#156;Competitive Cities for Jobs and&#13;
+base on competitive cities, to improve the understanding of        Growth.â&#128;&#157; The objective of this paper is to present the&#13;
+job creation at the city level, and to serve as a foundation for   Competitive Cities diagnostic methodology and to&#13;
+a Community of Practice on this topic for World Bank staff,        guide city practitioners through the diagnostic pro-&#13;
+academia, donor partners and practitioners.                        cess, tools and resources that the Competitive Cities&#13;
+                                                                   team offers. This document was developed for use by World&#13;
+Our effort in this initiative has been to focus our en-            Bank Teams, for this reason only a short version is made&#13;
+ergies on bringing a robust body of knowledge to our               available to the public. Please contact the authors for further&#13;
+clients â&#128;&#147; to address their questions on benchmarking their         details.&#13;
+performance, on understanding what has worked elsewhere&#13;
+and what has not, and on discerning how to organize for            This paper and the methodology were prepared by Dmitry Sivaev,&#13;
+delivery in different contexts.                                    with critical guidance from Austin Kilroy and with advice from a&#13;
+                                                                   number of World Bank Group task team leaders including Smita&#13;
+Our approach has focused on using different meth-                  Kuriakose, Andres F. Garcia, Angelica Nunez, Onur Ozlu, Fatima&#13;
+odologies to tackle these questions â&#128;&#147; based on best                Shah and others. The co-TTLs of the CCKB project are Austin Kil-&#13;
+practices, data availability, replicability and sim-               roy and Megha Mukim. Overall guidance on the project has been&#13;
+plicity. In many cases, we leveraged new and existing data         provided by Stefano Negri, Sameh Wahba, Ceci Sager and Somik&#13;
+sources to shed new light on some unanswered questions; in         Lall as senior advisors.&#13;
+others, we conducted primary research since available data&#13;
+were inadequate. We looked at global and regional trends,          The team would like to gratefully acknowledge the European&#13;
+comparing different typologies of cities â&#128;&#147; by income, sector       Commission, the ACP Secretariat and the governments of Austria,&#13;
+and region. We buttressed these findings with econometric          Switzerland and Norway for financing this study through the&#13;
+                                                                   Competitive Industries and Innovation Program (CIIP).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                             5&#13;
+&amp;#12;Introduction: Why Diagnose City                                    The design of this tool was based on an extensive&#13;
+Competitiveness?                                                   overview of Local Economic Development literature&#13;
+                                                                   and consultations with World Bank Group Task Team&#13;
+The first step to making a city more competitive is                Leaders with experience in working with city-level&#13;
+understanding its economy. To be more competitive,                 clients. Elements of this methodology were tested in World&#13;
+cities need to create an environment in which businesses           Bank Group projects in South Africa, Malaysia, Kenya,&#13;
+can thrive. But there is no single way of achieving that goal.     Tanzania and Rwanda, along with a project covering several&#13;
+Successful interventions should be tailored to the state of the    Central American countries. This paper does not engage in&#13;
+city economy and informed by evidence on the state of its key      a deep theoretical justification of the approach or individual&#13;
+drivers of competitiveness, the needs of local businesses and      tools: Instead, it aims to guide competitiveness practitioners&#13;
+the vision of the cityâ&#128;&#153;s future development path.                  through the resources they can use and the approaches they&#13;
+                                                                   can deploy in a city competitiveness diagnostic exercise.&#13;
+City leaders are eager to know more about the per-&#13;
+formance of their cities. World Bank Group experience              This guide is prepared for the benefit of World Bank&#13;
+of working with city-level clients often shows that one of the     Group Task Team Leaders and staff working with city&#13;
+first questions mayors and city leaders ask is, â&#128;&#156;How is my city    clients on issues of competitiveness.&#13;
+doing?â&#128;&#157; On the top level, they want to understand how their&#13;
+city compares to its neighbors, to competitor cities in the re-    This guide is structured as follows:&#13;
+gion, and to global leaders. But to inform policymaking, city&#13;
+                                                                   â&#128;¢	   Part 1 explains the structure of the methodology, the&#13;
+leaders also need a deeper, detailed analysis of the factors and&#13;
+                                                                        framework that it uses and the principles that it follows.&#13;
+conditions that drive economic growth and competitiveness.&#13;
+                                                                   â&#128;¢	   Part 2 explains each of the diagnostic exercises in-&#13;
+This guide describes a diagnostic methodology that&#13;
+                                                                        cluded in this methodology in more detail, covering their&#13;
+will help World Bank Group teams working on issues&#13;
+                                                                        goals, the tools they use, and the data, time and human&#13;
+of city competitiveness address the diagnostic needs&#13;
+                                                                        resources they require. (Full chapter available in full&#13;
+of city clients. The methodology was designed as a part of&#13;
+                                                                        version of this document, upon request.)&#13;
+the Competitive Cities Knowledge Base project and aims to&#13;
+complement other products of the Competitive Cities team.          â&#128;¢	   Part 3 explains the resources that the Competitive&#13;
+The methodology can be used as a self-standing product                  Cities team has developed to support World Bank Group&#13;
+that can be adjusted according to the priorities of a specific          task teams in using the Growth Pathways methodol-&#13;
+engagement.                                                             ogy. (Available in full version of this document, upon&#13;
+                                                                        request.)&#13;
+&#13;
+                                                                   â&#128;¢	   Part 4 explains how the different exercises offered in the&#13;
+                                                                        methodology can combine to create a holistic diagnos-&#13;
+                                                                        tic approach, and how this diagnostic process can fit&#13;
+                                                                        into a larger World Bank Group engagement with a city&#13;
+                                                                        client. (Available in full version of this document, upon&#13;
+                                                                        request.)&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+6&#13;
+&amp;#12;1: What is the Growth Pathways                                        a.	 Competitive Cities Snapshot tool â&#128;&#147; an auto-&#13;
+methodology?                                                              mated Microsoft-Excel-based tool that helps quickly&#13;
+                                                                          visualize data and create an overview of the cityâ&#128;&#153;s&#13;
+Growth Pathways is . . .                                                  economic performance, allowing it to be compared&#13;
+                                                                          to the performance of other cities.&#13;
+          . . . a diagnostic methodology that evaluates&#13;
+how competitive a cityâ&#128;&#153;s economy is, identifies what its com-         b.	 Growth Pathways catalogue â&#128;&#147; a collection of&#13;
+petitive advantages are, and highlights the key barriers that             data sources, indicators, tools, techniques, expert&#13;
+businesses in the city are facing.                                        contacts, questionnaires and industrial-sector pro-&#13;
+                                                                          files that can be used to inform in-depth diagnostic&#13;
+           . . . a demand-driven approach designed to                     exercises. 		&#13;
+address the questions that World Bank Group task&#13;
+teams are most frequently asked by city clients: â&#128;&#156;How            Principles of Growth Pathways&#13;
+is my city doing?â&#128;&#157; What are my strengths and my weakness-&#13;
+es? What are the issues that I need to be addressing? Should     â&#128;¢	   No need to reinvent the wheel. There are many&#13;
+I be focusing on specific industries and clusters, and which          indicators, tools and methodologies that have been used&#13;
+ones have greater potential for my city?â&#128;&#157; Growth Pathways,            successfully to diagnose a city economy. What is needed&#13;
+by itself, might not be able to answer these difficult ques-          is not new tools, but resources that offer easy access to&#13;
+tions, but it will offer an approach and the tools that can           various diagnostic resources and a framework for putting&#13;
+help guide user through the process of seeking the an-                them together into a holistic diagnostic exercise to in-&#13;
+swers. 	                                                              form decisions on economic development in a city.&#13;
+&#13;
+ 	       . . . designed to be used by World Bank Group           â&#128;¢	   Flexibility and adoptability. Cities are diverse. They&#13;
+teams working with cities on issues of competitiveness and            differ in size, income level, economic structure, geogra-&#13;
+Private Sector Development.                                           phy, skills, resource endowments, the availability of data&#13;
+                                                                      and the capacity and level of organization of public- and&#13;
+Growth Pathways offers . . .                                          private-sector actors. Although there are indicators and&#13;
+                                                                      analytical tools that are applicable across the board,&#13;
+1.	 A framework that defines city competitiveness                     there is no single approach to diagnosing a city economy.&#13;
+    and its drivers and categorizes it into components,               This is why Growth Pathways is a flexible methodology&#13;
+    structuring the diagnostic exercise accordingly.                  that is designed to be adapted to individual city circum-&#13;
+                                                                      stances.&#13;
+2.	 Three diagnostic exercises:&#13;
+                                                                 â&#128;¢	   An evolving methodology. Growth Pathways is not a&#13;
+    a.	 Competitive City Snapshot â&#128;&#147; offers an overview                finished product â&#128;&#147; nor is it intended to be. Growth Path-&#13;
+        of the city economy and benchmarking of the city              ways instead is a combination of an analytical framework&#13;
+        against global competitors on key indicators of eco-          and a living catalogue of tools. Users will contribute tools&#13;
+        nomic performance and drivers of growth.                      and datasets to this catalogue as they engage with cities&#13;
+                                                                      and as they identify new needs and new resources. This&#13;
+    b.	 Deep Dives â&#128;&#147; analyze the potential of a given sec-            approach requires taking ownership of the methodology,&#13;
+        tor or type of businesses (as defined by size, owner-         but it also ensures that it wonâ&#128;&#153;t fall out of date.&#13;
+        ship type and industrial sector), and the constraints&#13;
+        that the selected industry or group of businesses        â&#128;¢	   Knowing your limits. Cities are complex. Constraints&#13;
+        faces.                                                        that city economies face may vary from cargo-processing&#13;
+                                                                      inefficiencies in the local port, to specific clauses in the&#13;
+    c.	 Constraints Diagnostic â&#128;&#147; provides a detailed                  land-use code, to a lack of technical skills in a given in-&#13;
+        analysis of cross-cutting drivers of city competitive-        dustry. Developing a tool that aspires to drill down into&#13;
+        ness.                                                         the specifics, in great depth of detail, is too ambitious&#13;
+                                                                      and is likely to be counterproductive, given the vast ex-&#13;
+3.	 A set of resources to support and inform these                    pertise that is already held by World Bank Group teams&#13;
+    exercises:                                                        and external experts. This is why, when it comes to get-&#13;
+                                                                      ting down to the technical details of problems, Growth&#13;
+                                                                      Pathways relies on attracting experienced experts rather&#13;
+                                                                      than offering a generic one-size-fits-all solution.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                           7&#13;
+&amp;#12;The framework behind Growth Pathways                                                             2.	 Infrastructure and Land: the ease of gaining&#13;
+                                                                                                     access to land suitable for development, the physi-&#13;
+Growth Pathways uses the Competitive Cities concep-                                                  cal infrastructure (such as roads, utility networks,&#13;
+tual framework. The main characteristics of this frame-                                              ports and airports) and the information technology&#13;
+work are:                                                                                            infrastructure.&#13;
+&#13;
+â&#128;¢	   A city is defined as a metropolitan area according to the                                   3.	 Skills and Innovation: the local knowledge base,&#13;
+     geographic distance that allows for daily professional in-                                      including the quality of human capital, the quality&#13;
+     teractions, and contains the extent of labor and housing                                        of schools, hospitals, universities, vocational train-&#13;
+     markets, which can also be referred to as the â&#128;&#156;travel to                                        ing and research institutions, and the density of&#13;
+     work area.â&#128;&#157;                                                                                     innovation networks.&#13;
+&#13;
+â&#128;¢	   The competitiveness of a city economy is defined by                                         4.	 Enterprise Support and Finance: the local&#13;
+     the performance of its firms, their ability to grow and                                         financial base, including access to capital, subsidies,&#13;
+     their ability to create jobs.                                                                   incentives, export assistance, and various business&#13;
+                                                                                                     capacity-development and support programs.&#13;
+â&#128;¢	   Firm-level performance is a function of factor&#13;
+     markets, entrepreneurial ability, output markets                                       â&#128;¢	   The ability of various city actors to change these&#13;
+     and agglomeration effects â&#128;&#148; and cities provide                                              conditions is defined by the â&#128;&#156;City Wedge.â&#128;&#157; The larg-&#13;
+     several intermediating factors in that process.                                             er the wedge, the more control the city actors have over&#13;
+     Inputs such as land, labor and capital are configured by                                    the determinants of competitiveness. The city wedge&#13;
+     entrepreneurs, churning raw materials into products                                         includes:&#13;
+     that are transported and sold. Agglomeration effects&#13;
+     lubricate this process by creating local pools of skilled                                   --   The Mayorâ&#128;&#153;s Wedge: the administrative remit and&#13;
+     labor, shared infrastructure and knowledge spillovers                                            implementation capacity of the city government.&#13;
+     among firms and among employees.&#13;
+                                                                                                 --   Growth Coalitions: the collaboration between&#13;
+â&#128;¢	   These conditions cannot be addressed directly, but they                                          the private sector, the city administration and other&#13;
+     are shaped in various degrees by a large set of city-level                                       local actors.&#13;
+     determinants, which we arrange into four key groups:&#13;
+                                                                                                 --   Intergovernmental relations: the ability of the&#13;
+     1.	 Institutions and Regulations: a broad array of                                               city to engage other levels of government, including&#13;
+         conditions for doing business, ranging from taxes to                                         regional and national authorities and leaders of&#13;
+         business licensing to the level of corruption.                                               neighboring jurisdictions.&#13;
+&#13;
+&#13;
+&#13;
+Figure 1: Competitive Cities Conceptual Framework&#13;
+&#13;
+&#13;
+                             In s&#13;
+                                    ti t                                           City Wedge*                                                         nd&#13;
+                                        ut&#13;
+                                             ion                                                                                                  La&#13;
+                                                   s&amp;                                                                                    r   e&amp;&#13;
+                                                        Re                                                                       u   ctu&#13;
+                                                           gu                                                             s tr&#13;
+                                                              la       ti o                                   In   fr a&#13;
+                                                                              ns&#13;
+                                                                                    Agglomeration&#13;
+&#13;
+                                                                                    Firm-level&#13;
+                                                                                   performance&#13;
+&#13;
+                                                                                   Factor Output&#13;
+                                                                                   markets markets    En&#13;
+                                                                                                        ter&#13;
+                                                                                                              pr&#13;
+                                                                   n                                               ise&#13;
+                                                              ti o                                                       Su&#13;
+                                                         va                                                                   pp&#13;
+                                                  In   no                                                                             or&#13;
+                                                                                                                                           t&amp;&#13;
+                                         l   s&amp;                                                                                                 F in&#13;
+                               S    k il                                                                                                               an&#13;
+                                                                                                                                                            ce&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+ 8&#13;
+&amp;#12;Based on this framework, the Growth Pathways                            includes conditions that are exogenous and that canot be&#13;
+methodology identifies the following goals:                             changed by the city stakeholders, but may still have an&#13;
+                                                                        impact on the local economy (geography, natural resourc-&#13;
+â&#128;¢	   Understand the overall performance of the city economy,            es, history and global market trends).&#13;
+     focusing on the private sector.&#13;
+                                                                   â&#128;¢	   Columns represent different types of firms, which can&#13;
+â&#128;¢	   Understand the strengths and the weaknesses of the city            be defined based on industrial sector, the size of business&#13;
+     with regard to the four groups of determinant condi-               (micro, small, medium-sized, large) or ownership (state-&#13;
+     tions.                                                             owned enterprises, foreign-owned, private domestically&#13;
+                                                                        owned) or a combination of such criteria.&#13;
+â&#128;¢	   Acknowledge that the needs of various businesses differ;&#13;
+     understand the nature of the types of businesses that         The matrix allows analysts to look at the city economy as a&#13;
+     populate the cityâ&#128;&#153;s economy, their potential for growth       space where different conditions may have different degrees&#13;
+     and job creation; and understand whether the city offers      of relevance for different types of businesses. What really&#13;
+     the determinants conditions that they require.                matters is the interrelationship among the condi-&#13;
+                                                                   tions that a city can offer and the needs of businesses&#13;
+We have structured the diagnostic resources accord-                that have a potential (given the external market&#13;
+ing to the â&#128;&#156;Matrixâ&#128;&#157; conceptual framework. (Figure 2)               conditions) to inspire and deliver jobs.&#13;
+â&#128;¢	   Rows represent different determinants of competitive-&#13;
+     ness that affect the performance of firms and outcomes&#13;
+     for the city. In addition to the four main groups of&#13;
+     determinants featured in the framework, rows include&#13;
+     the agglomeration conditions â&#128;&#147; a major source of produc-&#13;
+     tivity in cities â&#128;&#147;and the other endowments category that&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Figure 2: The matrix representation of a city economy.&#13;
+&#13;
+                                                                Sectors                Sizeband                Ownership&#13;
+                                                          Manuf.        ICT        SMEs      MNCs           Foreign   Local&#13;
+                      Competitiveness factors              (e.g.)      (e.g.)      (e.g.)     (e.g.)        owned   business&#13;
+ Institutions and     Taxes, licenses, duties&#13;
+ Regulations&#13;
+                      Legal system&#13;
+                      Market regulations&#13;
+                      Local government&#13;
+ Infrastructure and   Physical infrastructure&#13;
+ Land&#13;
+                      Social infrastructure&#13;
+                      Housing&#13;
+ Skills and           Human capital&#13;
+ Innovation&#13;
+                      Education and research&#13;
+                      Networks&#13;
+ Enterprise Support Financial maturity&#13;
+ and Finance&#13;
+                    Cost of credit&#13;
+ Agglomeration        Industrial mix/clustering&#13;
+                      Local supply chains&#13;
+ Other endowments Location, history, amenities&#13;
+                      City image and other intangibles&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                           9&#13;
+&amp;#12;Part 2: How does Growth Pathways work?&#13;
+Overview of diagnostic exercises&#13;
+The Growth Pathways methodology includes three diagnostic exercises. Each addresses a different type of client ques-&#13;
+tion and uses a different set of techniques and tools. However, all three diagnostics are organized around the Matrix model of a&#13;
+cityâ&#128;&#153;s economy and together make up a holistic approach to city competitiveness. (Figure 3)&#13;
+&#13;
+&#13;
+Figure 3 Structure of Growth Pathways methodology&#13;
+Competitive Cities Snapshot&#13;
+Provides an overview of the city economy focusing on changes in key economic indicators, benchmarks of the cityâ&#128;&#153;s economic performance and&#13;
+enabling conditions, and an analysis of the cityâ&#128;&#153;s economic structure.&#13;
+Why do it: The snapshot answers the question from city leaders, â&#128;&#156;How is my city doing?â&#128;&#157;&#13;
+What it delivers: An overview of the cityâ&#128;&#153;s economic performance, plus two types of hypotheses: (i) constraints on city compet-&#13;
+itiveness and (ii) sections of the cityâ&#128;&#153;s businesses (defined by sector, size or type of ownership) that offer growth potential or are&#13;
+underperforming and thus deserve special attention.&#13;
+&#13;
+&#13;
+                                                              Sectors           Sizeband          Ownership       Constraints&#13;
+                      Competitiveness factors&#13;
+                                                         Manuf.&#13;
+                                                          (e.g.)&#13;
+                                                                     ICT&#13;
+                                                                    (e.g.)&#13;
+                                                                             SMEs&#13;
+                                                                             (e.g.)&#13;
+                                                                                      MNCs&#13;
+                                                                                      (e.g.)&#13;
+                                                                                               Foreign&#13;
+                                                                                               owned&#13;
+                                                                                                        Local&#13;
+                                                                                                       business&#13;
+                                                                                                                  Diagnostics&#13;
+ Institutions and     Taxes, licenses, duties                                                                     This level of analysis zooms into&#13;
+ Regulations                                                                                                      economywide conditions that appear&#13;
+                      Legal system&#13;
+                      Market regulations&#13;
+                                                                                                                  in the snapshot to be major barriers&#13;
+                      Local government&#13;
+                                                                                                                  to growth of local businesses across&#13;
+                                                                                                                  industrial sectors and business types.&#13;
+ Infrastructure and   Physical infrastructure&#13;
+ Land                                                                                                             Why do it: Our research indicates&#13;
+                      Social infrastructure&#13;
+                      Housing                                                                                     that successful cities use both&#13;
+ Skills and           Human capital&#13;
+                                                                                                                  targeted interventions and general&#13;
+ Innovation&#13;
+                      Education and research&#13;
+                                                                                                                  business-climate reforms. Such&#13;
+                                                                                                                  conditions may include infrastruc-&#13;
+                      Networks&#13;
+                                                                                                                  ture, regulations, skills and innova-&#13;
+ Enterprise Support   Financial maturity&#13;
+ and Finance&#13;
+                                                                                                                  tion issues, enterprise support and&#13;
+                      Cost of credit                                                                              access to finance.&#13;
+ Agglomeration        Industrial mix/clustering                                                                   What it delivers: An in-depth un-&#13;
+                      Local supply chains                                                                         derstanding of the issues related to&#13;
+ Other endowments     Location, history, amenities                                                                a specific determinant of city-level&#13;
+                      City image and other intangibles                                                            economic competitiveness.&#13;
+&#13;
+&#13;
+Deep Dives&#13;
+Focuses on selected industrial sectors or firm size bands and ownership types to identify their competitive potential and to identify key con-&#13;
+straints.&#13;
+Why do it: Our approach to city competitiveness starts from firm-level needs. Needs of firms differ across industries, firm sizes&#13;
+and ownership types. Thus the most efficient interventions are sometimes those that identify and target the needs of specific busi-&#13;
+ness with growth potential.&#13;
+What it delivers: A focus on issues that need to be addressed to support specific types of businesses in the city.&#13;
+Deep-dive diagnostics combines two analytical techniques:&#13;
+1.	       In-depth prioritization â&#128;&#147; a detailed analysis of industry potential using market-research techniques.&#13;
+2.	       Driving conditions benchmarking â&#128;&#147; a study of conditions that define growth in specific industries.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+10&#13;
+&amp;#12;Team contacts&#13;
+The full version of this paper can be made available upon&#13;
+request. Please contact one of the team members for more&#13;
+details.&#13;
+&#13;
+The Growth Pathways diagnostic methodology for cities was&#13;
+developed as a part of Competitive Cities Knowledge Base&#13;
+(CCKB) project, which is a joint effort of the Trade and Com-&#13;
+petitiveness and Social, Urban and Rural Development Global&#13;
+Practices of the World Bank Group.&#13;
+&#13;
+If you are interested in learning more about the tool, please&#13;
+contact Dmitry Sivaev at dsivaev@worldbank.org, or CCKB&#13;
+task team leaders Austin Kilroy (akilroy@worldbank.org) and&#13;
+Megha Mukim (mmukim@worldbank.org).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                11&#13;
+&amp;#12;Funding for the companion papers and the main report was provided by&#13;
+&#13;
+&#13;
+CIIP     Competitive Industries and Innovation Program&#13;
+&#13;
+Financed by                               in partnership with&#13;
+&#13;
+&#13;
+&#13;
+www.theciip.org&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Find the companion papers and the main report at&#13;
+www.worldbank.org/competitivecities&#13;
+&amp;#12;</ml:original-txt><ml:search-metadata><doc id="25658517">
+        <url>
+            http://documents.worldbank.org/curated/en/2015/12/25658517/growth-pathways-diagnostic-methodology-city-competitiveness
+        </url>
+        <availablein>English</availablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2015/12/25658517/growth-pathways-diagnostic-methodology-city-competitiveness</url_friendly_title>
+        <new_url>2015/12/25658517/growth-pathways-diagnostic-methodology-city-competitiveness</new_url>
+        <disclosure_date>2015-12-09T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2015-12-09T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <docm_id>090224b083c40f4e</docm_id>
+        <chronical_docm_id>090224b083c40f4e</chronical_docm_id>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2015/12/09/090224b083c40f4e/1_0/Rendered/INDEX/Growth0pathway0city0competitiveness.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2015/12/09/090224b083c40f4e/1_0/Rendered/PDF/Growth0pathway0city0competitiveness.pdf</pdfurl>
+        <datestored>2015-12-09T00:00:00Z</datestored>
+        <docdt>2015-12-01T11:45:05Z</docdt>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            Growth pathways : a diagnostic methodology
+            for city competitiveness
+        </repnme>
+        <docna>
+            Growth pathways : a diagnostic methodology
+            for city competitiveness
+        </docna>
+        <display_title>Growth pathways : a diagnostic
+            methodology for city competitiveness</display_title>
+        <listing_relative_url>/research/2015/12/25658517/growth-pathways-diagnostic-methodology-city-competitiveness</listing_relative_url>
+        <subtopic>E-Business,Urban Services to the Poor,City Development Strategies,Urban Slums Upgrading,Knowledge for Development</subtopic>
+        <docty>Working Paper</docty>
+        <teratopic>Communities and Human Settlements,Private Sector Development,Urban Development,Education</teratopic>
+        <count>World</count>
+        <authors>
+            <author>Sivaev,Dmitry</author>
+        </authors>
+        <entityids>
+            <entityid>090224b083c40f4e_1_0</entityid>
+        </entityids>
+        <admreg>The World Region,The World Region</admreg>
+        <lang>English</lang>
+        <historic_topic>Communities and Human Settlements,Private Sector Development,Urban Development,Education</historic_topic>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            skills, users, technology, availability of
+            data, regulations, competitors, human capital, city leaders,
+            city administration, global market, schools, information
+            technology, materials, access to capital, knowledge base,
+            competitiveness, body of knowledge, stakeholders, networks,
+            information, housing, mayors, image, technical skills,
+            private sector, projects, conceptual framework, decisions,
+            cities, city economies, physical infrastructure, city
+            competitiveness, roads, administration, external market,
+            economic development, collaboration, knowledge, community of
+            practice, ict, institutions, data, land, understanding,
+            supply chains, legal system, licenses, education, business,
+            businesses, document, performance, business licensing,
+            relationships, growth path, innovation, experts,
+            practitioners, vision, learning, analytical tools, private
+            sector development, industrial sector, social
+            infrastructure, process, governments, innovation program,
+            practice, growth potential, target, uses, economies, user, infrastructure
+        </keywd>
+        <owner>LCREC - External Communications (LCREC)</owner>
+        <repnb>101717</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>Transportation</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Teaching and Learning</ml:concept><ml:concept>Poverty Reduction</ml:concept><ml:concept>Poverty Reduction and Distributional Analysis</ml:concept><ml:concept>Poverty Reduction and Equity</ml:concept><ml:concept>Poverty and Inequality</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Social Protections and Labor</ml:concept><ml:concept>International Competitiveness</ml:concept><ml:concept>International Economics and Trade</ml:concept><ml:concept>Trade Liberalization</ml:concept><ml:concept>Trade Liberalization and Regional Integration</ml:concept><ml:concept>Trade Restrictiveness</ml:concept><ml:concept>Trade and Integration</ml:concept><ml:concept>City Development Strategies</ml:concept><ml:concept>Science and Technology</ml:concept><ml:concept>Transport</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Agriculture and Food Security</ml:concept><ml:concept>Education</ml:concept><ml:concept>Economic Growth</ml:concept><ml:concept>Health, Nutrition and Population</ml:concept><ml:concept>Poverty</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Social Protection and Labor</ml:concept><ml:concept>Trade</ml:concept><ml:concept>Urban Development</ml:concept><ml:concept>Drivers of Growth</ml:concept><ml:concept>Enablers of Growth</ml:concept><ml:concept>Growth Determiners</ml:concept><ml:concept>Growth Drivers</ml:concept><ml:concept>Growth Enablers</ml:concept><ml:concept>Generic Name List</ml:concept><ml:concept>Generics</ml:concept><ml:concept>List of Generic Drugs</ml:concept><ml:concept>Off patent drugs</ml:concept><ml:concept>Ports</ml:concept><ml:concept>Competitiveness and Competition Policy</ml:concept><ml:concept>Market Regulation</ml:concept><ml:concept>Microeconomic and Market Reforms</ml:concept><ml:concept>Continuous Vocational Training (CVT)</ml:concept><ml:concept>Lifelong Learning</ml:concept><ml:concept>Strengthening Technical Education</ml:concept><ml:concept>Strengthening Vocational Education</ml:concept><ml:concept>Technical Vocational Education and Training Policies and Systems</ml:concept><ml:concept>Technical and Vocational Education</ml:concept><ml:concept>Vocational Education and Training</ml:concept><ml:concept>Vocational Training</ml:concept><ml:concept>Civil Service Employment</ml:concept><ml:concept>Civil Service Reform</ml:concept><ml:concept>Human Capital</ml:concept><ml:concept>Managing People</ml:concept><ml:concept>Public Employment</ml:concept><ml:concept>Analysis &amp; Monitoring</ml:concept><ml:concept>Delivery Units</ml:concept><ml:concept>Grievance Redress</ml:concept><ml:concept>Indicators</ml:concept><ml:concept>M&amp;E</ml:concept><ml:concept>Performance Measurement</ml:concept><ml:concept>Performance Reviews</ml:concept><ml:concept>Rapid Results Approaches</ml:concept><ml:concept>Econometrics</ml:concept><ml:concept>Economic Development</ml:concept><ml:concept>Income</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Determinants of Growth</ml:concept><ml:concept>Generic Drugs</ml:concept><ml:concept>Ports &amp; Waterways</ml:concept><ml:concept>Airports</ml:concept><ml:concept>Subsidies</ml:concept><ml:concept>Output Markets</ml:concept><ml:concept>Infrastructure</ml:concept><ml:concept>Competitive Industries</ml:concept><ml:concept>Competition Policy</ml:concept><ml:concept>Competitive Cities</ml:concept><ml:concept>Human Resources Management</ml:concept><ml:concept>Monitoring and Evaluation</ml:concept></ml:concepts><ml:geo-regions/></ml:annotations></ml:doc-envelope>

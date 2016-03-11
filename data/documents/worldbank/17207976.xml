@@ -1,0 +1,1292 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>ï»¿                                                            74998&#13;
+             Georgiaâ&#128;&#153;s Medical Insurance&#13;
+             Program for the Poor&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Owen Smith&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+             Universal Health Coverage Studies Series (UNICO)&#13;
+             UNICO Studies Series No. 16                        1&#13;
+&amp;#12;&amp;#12;UNICO Studies Series 16&#13;
+Georgiaâ&#128;&#153;s Medical Insurance Program for the Poor&#13;
+Owen Smith, World Bank 1&#13;
+&#13;
+The World Bank, Washington DC, January 2013&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+1&#13;
+  The author would like to thank Daniel Cotlear, George Gotsadze, Huong Lan Dao, Karima Saleh, Aparnaa&#13;
+Somanathan, and participants in the Authorsâ&#128;&#153; Workshop for their helpful comments.&#13;
+&amp;#12;           The World Bankâ&#128;&#153;s Universal Health Coverage Studies Series (UNICO)&#13;
+All people aspire to receive quality, affordable health care. In recent years, this aspiration has&#13;
+spurred calls for universal health coverage (UHC) and has given birth to a global UHC&#13;
+movement. In 2005, this movement led the World Health Assembly to call on governments to&#13;
+â&#128;&#156;develop their health systems, so that all people have access to services and do not suffer&#13;
+financial hardship paying for them.â&#128;? In December 2012, the movement prompted the United&#13;
+Nations General Assembly to call on governments to â&#128;&#156;urgently and significantly scale-up efforts&#13;
+to accelerate the transition towards universal access to affordable and quality healthcare&#13;
+services.â&#128;? Today, some 30 middle-income countries are implementing programs that aim to&#13;
+advance the transition to UHC, and many other low- and middle-income countries are&#13;
+considering launching similar programs.&#13;
+The World Bank supports the efforts of countries to share prosperity by transitioning toward&#13;
+UHC with the objectives of improving health outcomes, reducing the financial risks associated&#13;
+with ill health, and increasing equity. The Bank recognizes that there are many paths toward&#13;
+UHC and does not endorse a particular path or set of organizational or financial arrangements to&#13;
+reach it. Regardless of the path chosen, successful implementation requires that many&#13;
+instruments and institutions be in place. While different paths can be taken to expand coverage,&#13;
+all paths involve implementation challenges. With that in mind, the World Bank launched the&#13;
+Universal Health Coverage Studies Series (UNICO Study Series) to develop knowledge and&#13;
+operational tools designed to help countries tackle these implementation challenges in ways that&#13;
+are fiscally sustainable and that enhance equity and efficiency. The UNICO Studies Series&#13;
+consists of technical papers and country case studies that analyze different issues related to the&#13;
+challenges of UHC policy implementation.&#13;
+The case studies in the series are based on the use of a standardized protocol to analyze the nuts&#13;
+and bolts of programs that have expanded coverage from the bottom upâ&#128;&#148;programs that have&#13;
+started with the poor and vulnerable rather than those initiated in a trickle-down fashion. The&#13;
+protocol consists of nine modules with over 300 questions that are designed to elicit a detailed&#13;
+understanding of how countries are implementing five sets of policies to accomplish the&#13;
+following: (a) manage the benefits package, (b) manage processes to include the poor and&#13;
+vulnerable, (c) nudge efficiency reforms to the provision of care, (d) address new challenges in&#13;
+primary care, and (e) tweak financing mechanisms to align the incentives of different&#13;
+stakeholders in the health sector. To date, the nuts and bolts protocol has been used for two&#13;
+purposes: to create a database comparing programs implemented in different countries, and to&#13;
+produce case studies of programs in 24 developing countries and one high-income â&#128;&#156;comparator,â&#128;?&#13;
+the state of Massachusetts in the United States. The protocol and case studies are being published&#13;
+as part of the UNICO Studies Series, and a comparative analysis will be available in 2013.&#13;
+We trust that the protocol, case studies, and technical papers will provide UHC implementers&#13;
+with an expanded toolbox, make a contribution to discussions about UHC implementation, and&#13;
+that they will inform the UHC movement as it continues to expand worldwide.&#13;
+                                                                               Daniel Cotlear&#13;
+                                                       UNICO Studies Series Task Team Leader&#13;
+                                                                             The World Bank&#13;
+                                                                             Washington, DC&#13;
+&#13;
+                                                                                                ii&#13;
+&amp;#12;                                                          TABLE OF CONTENTS&#13;
+&#13;
+&#13;
+Abbreviations ............................................................................................................................................... iv&#13;
+Executive Summary ...................................................................................................................................... v&#13;
+Introduction ................................................................................................................................................... 1&#13;
+Putting MIP in Context: An Overview of Health System Financing and Delivery in Georgia .................... 2&#13;
+Institutional Architecture and Interaction of MIP with the Rest of Health System ...................................... 4&#13;
+Targeting, Identification, and Enrolment of Beneficiaries............................................................................ 6&#13;
+Public Financial Management and Fiscal Considerations ............................................................................ 7&#13;
+Management of the Benefits Package ........................................................................................................... 8&#13;
+Monitoring and Evaluation of MIP ............................................................................................................... 9&#13;
+Special Theme: Contracting Out the Purchasing Function to Private Insurance Companies ..................... 11&#13;
+Pending Agenda for MIP ............................................................................................................................ 14&#13;
+Annex 1 Spider Web ................................................................................................................................... 16&#13;
+References ................................................................................................................................................... 19&#13;
+&#13;
+&#13;
+FIGURES&#13;
+Figure 1 Health Financing in the Europe and Central Asia Region, 2010 .................................................... 3&#13;
+Figure 2 Coverage and Targeting of MIP by Decile ..................................................................................... 7&#13;
+Figure 3 MIP Impact Evaluation Findings .................................................................................................. 11&#13;
+&#13;
+TABLES&#13;
+Table 1 MIP Budget Trends, 2008â&#128;&#147;11 .......................................................................................................... 5&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                              iii&#13;
+&amp;#12;                                   Abbreviations&#13;
+&#13;
+&#13;
+GDP      gross domestic product&#13;
+HMO      health maintenance organization&#13;
+HUES     Health Utilization and Expenditure Survey&#13;
+IT       information technology&#13;
+MIP      Medical Insurance Program&#13;
+MoLHSA   Ministry of Labor, Health, and Social Affairs&#13;
+TSA      Targeted Social Assistance&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                         iv&#13;
+&amp;#12;Executive Summary&#13;
+&#13;
+Georgia launched its Medical Insurance Program (MIP) for the poor in 2006. This program&#13;
+draws from general tax revenues to provide comprehensive, means-tested health insurance to the&#13;
+poorest 20 percent of the population as identified by a proxy means test. The government&#13;
+contracts private insurance companies who serve as financial risk carriers and purchasing agents&#13;
+for the program. MIP is well targeted to the poor and has had a major impact on improving&#13;
+financial protection of its beneficiaries. It has also served as a launching pad for significant&#13;
+investments in hospitals and information technology (IT) systems.&#13;
+&#13;
+However, managing private insurers has been an ongoing challenge and has met with mixed&#13;
+results so far; by late 2012 their role was being reconsidered. In addition, broader health system&#13;
+weaknesses, including with regard to primary care and pharmaceutical markets, have curtailed&#13;
+MIPâ&#128;&#153;s effectiveness in enabling better access to high-quality health care goods and services.&#13;
+Nonetheless, the journey to universal coverage is long, and Georgiaâ&#128;&#153;s experience with MIP&#13;
+offers potential lessons for other countries contemplating their own path.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                v&#13;
+&amp;#12;vi&#13;
+&amp;#12;Introduction&#13;
+&#13;
+During the transition period following independence in 1991, Georgia undertook various health&#13;
+reform initiatives related to financing, service delivery, and stewardship. However, few of these&#13;
+efforts were successful, in large part because the broader environment during the 1990s was&#13;
+characterized by severe economic collapse, fiscal distress, and civil conflict. The Rose&#13;
+Revolution in 2003 ushered in a new reform era, with several notable achievements, including&#13;
+improved security, stronger revenue collection, and robust economic growth.&#13;
+&#13;
+Following implementation of far-reaching reforms in several sectors, including the creation of a&#13;
+cash-benefit program targeted to the poor as its flagship social sector priority, the government&#13;
+turned its attention to the health sector in 2006. At the time, the health system suffered from&#13;
+chronic underfundingâ&#128;&#148;the government health budget amounted to only about 1.5 percent of&#13;
+gross domestic product (GDP)â&#128;&#148;and thus about 75 percent of total health expenditure came from&#13;
+out-of-pocket sources. While there was universal health coverage in principle, the funding level&#13;
+was such that benefits were very limited. Infrastructure was in poor condition and the quality of&#13;
+care was weak. In line with its broader strategy to pursue limited government and to target social&#13;
+spending to the poor, Georgia launched its Medical Insurance Program (MIP) for the poor that&#13;
+year. The major objective of MIP was to provide financial protection to the poorest segment of&#13;
+the population.&#13;
+&#13;
+In brief, MIP is a program funded through general taxation that provides a fairly comprehensive&#13;
+benefits package of health services to the poorest 20 percent of the population as identified via a&#13;
+proxy means test. There are no copayments for services. Although run by a state purchaser&#13;
+during the first two years, since 2008 its key feature has been that private insurance companies&#13;
+are contracted by the Ministry of Health to bear financial risk and to purchase services from both&#13;
+public and private providers on behalf of poor beneficiaries. The government sets policy, pays a&#13;
+per capita premium per beneficiary to private insurers, and conducts program oversight.&#13;
+&#13;
+Overall health outcomes in Georgia are about average for a middle-income country, with life&#13;
+expectancy of about 72 years. But similar to other countries in the Eastern European region,&#13;
+there has been relatively slow progress in improving health outcomes over many decades after&#13;
+initial gains against infectious diseases and maternal and child health in the 1950s and 1960s.&#13;
+Life expectancy in the late 1960s was about 68 years. At present, noncommunicable diseases,&#13;
+especially cardiovascular disease, account for over 90 percent of the disease burden in terms of&#13;
+mortality.&#13;
+&#13;
+This case study provides an overview of how MIP is designed, its achievements to date, and&#13;
+challenges for the future. A key theme discussed in further detail, and of potential interest to&#13;
+other countries contemplating a push toward the achievement of universal health coverage, is the&#13;
+contracting of private insurance companies to purchase services on behalf of the poor. Some&#13;
+attention is also given to MIPâ&#128;&#153;s targeting approach.&#13;
+&#13;
+A new government took office after elections in late 2012, with uncertain implications for the&#13;
+direction of MIP design and for health reform more broadly. A further rapid expansion of health&#13;
+coverage to the previously uninsured population and the creation of a new state purchasing&#13;
+&#13;
+                                                                                                 1&#13;
+&amp;#12;agency were under discussion at the time of writing. This case study focuses on the evolution of&#13;
+MIP prior to this period.&#13;
+&#13;
+Putting MIP in Context: An Overview of Health System Financing and Delivery in Georgia&#13;
+&#13;
+Total health expenditure in Georgia is about 9 percent of GDP, which is high for a lower-middle-&#13;
+income country. But about 70 percent of total health expenditures are from private out-of-pocket&#13;
+sources, at least half of which is spent on pharmaceuticals. Thus, pooling of health care resources&#13;
+is weak on the system level. About 20 to 25 percent of total health expenditures, or about 2&#13;
+percent of GDP, passes through the government budget and is financed from general tax&#13;
+revenues. The share of the total government budget allocated to health is low. The health budget&#13;
+is divided between MIP for the poor and a patchwork of programs for the rest of the population.&#13;
+&#13;
+Figure 1 shows how health financing in Georgia compares with the Europe and Central Asia&#13;
+region. This pictureâ&#128;&#148;and in particular, Georgiaâ&#128;&#153;s position in the upper leftâ&#128;&#148;may appear to&#13;
+indicate that it has covered very little ground on the road to universal health coverage. The&#13;
+reason that Georgia offers an interesting case study is that it launched a comprehensive program&#13;
+for the poor in the absence of any significant coverage for the better off, and in doing so it&#13;
+adopted a unique institutional design that relies on private insurers.&#13;
+&#13;
+More specifically, at the time of its launch, the MIP benefits package was the most&#13;
+comprehensive offered by government to any segment of the population. The non-MIP&#13;
+population, including most of the better off, was eligible for a basic universal package. In&#13;
+principle, this consists of various service guarantees, based on a mixture of specific diseases (for&#13;
+example, oncology), services (for example, emergency care), and target groups (for example,&#13;
+children), which may be subjected to copayments of 25 to 50 percent. However, the benefits&#13;
+package for the non-MIP population was not clearly defined or well understood by the&#13;
+population, and under-the-table payments are common, particularly at the hospital level, due&#13;
+largely to underfunding. Thus, for those not covered by MIP, the main alternative has continued&#13;
+to be high out-of-pocket payment for most services. However, civil servants (including the&#13;
+military, police, and teachers) receive a program similar to MIP, and some formal sector workers&#13;
+also have employment-based coverage.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                  2&#13;
+&amp;#12;              Figure 1 Health Financing in the Europe and Central Asia Region, 2010&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                          80&#13;
+                  OOP as % of total health expenditures&#13;
+                                                                   AZB   TAJ    GEO&#13;
+&#13;
+                                                                         ARM&#13;
+&#13;
+&#13;
+&#13;
+                                                          60&#13;
+                                                                                      ALB&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                    BUL                     MOL&#13;
+                                                                                        UZB&#13;
+                                                                                                                                     BOS&#13;
+                                                          40&#13;
+&#13;
+                                                                          TMN         KAZ                   UKR&#13;
+                                                                                                KYR                            SRB&#13;
+                                                                                                                MAC&#13;
+                                                                                              RUS         LAT&#13;
+                                                                                                                      LIT         MON&#13;
+&#13;
+                                                                                                                       HUN     SVK&#13;
+                                                                                                          ROM            POL&#13;
+                                                          20&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                 EST&#13;
+                                                                                                          BEL      TUR              CZR       EU15&#13;
+                                                                                                                                  CRO&#13;
+                                                                                                                                        SVN&#13;
+                                                          0&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                               0            2                 4                6                                     8&#13;
+                                                                           Government health spending as % of GDP&#13;
+&#13;
+&#13;
+               Source: WHO.&#13;
+&#13;
+In September 2012 (just prior to elections), the government extended a comprehensive MIP-style&#13;
+benefits package to additional groups, including pensioners, children under five, and students.&#13;
+Promises to achieve universal coverage are also occasionally made. But otherwise, it is notable&#13;
+that the better off in Georgia do not have access to any well-funded government health program.&#13;
+Thus, MIP is not aiming to extend a government-funded benefits package to the poor that is&#13;
+already enjoyed by the better off, since the better off typically do not have proper coverage&#13;
+themselves. Thus, unlike in some other countries, MIP is intended to improve coverage of the&#13;
+poor despite the relative absence of such coverage for higher socioeconomic groups.&#13;
+&#13;
+With respect to the delivery of care, most providers in Georgia are private. This reflects reforms&#13;
+undertaken between 2005 and 2010, consistent with the governmentâ&#128;&#153;s overall privatization&#13;
+agenda, which spanned all sectors. Thus, primary care and outpatient specialists are essentially&#13;
+all private, although physicians in rural areas do receive a stipend from government. About 80&#13;
+percent of all hospital beds are private, again largely as a result of recent reforms. Many are&#13;
+owned by private insurance companies. A small number of public hospitals remain, most of&#13;
+which are single-profile hospitals (for example, TB, psychiatry). Under MIP, contracts signed&#13;
+with private insurers in 2010 included a requirement to build and operate hospitals. The premium&#13;
+negotiations for these contracts reflected this contractual requirement, but construction was&#13;
+executed by the insurance companies with government oversight. About 150 new or fully&#13;
+refurbished hospitals are expected by the end of 2013.&#13;
+&#13;
+While MIP represents a major demand-side effort to improve coverage, and the hospital program&#13;
+represents a major supply-side investment initiative, it is notable that primary care in Georgia is&#13;
+quite weak. The population tends to bypass primary care doctors and seek care directly from&#13;
+specialists at a polyclinic or hospital, or to self-treat at a pharmacy. For example, only 5 percent&#13;
+of survey respondents report consulting a family doctor as the first point of call when they have&#13;
+been feeling ill, far lower than corresponding figures in Central Asia, Moldova, and Russia. All&#13;
+&#13;
+                                                                                                                                                         3&#13;
+&amp;#12;primary care was privatized between 2005 and 2010, although the problems with primary care&#13;
+date back many years to the period of public ownership (private provision of primary health care&#13;
+is also the norm in about two-thirds of OECD [Organization for Economic Co-operation and&#13;
+Development] countries). Nor is geographic coverage the main problem; rural areas generally&#13;
+have primary care doctors, and there is a so-called village doctor program funded by&#13;
+government, which pays a stipend to ensure that doctors in small towns and villages can make a&#13;
+livelihood in low-density areas. Instead, the major challenge in primary care would appear to be&#13;
+the quality of the services provided. This is a major constraint on MIP to fulfill its potential with&#13;
+regard to improving health outcomes.&#13;
+&#13;
+In the area of public health, major efforts in the 1950s and 1960s (that is, during Soviet times) to&#13;
+address priorities such as infectious diseases and maternal and child health resulted in the&#13;
+achievement of relatively strong performance on Millennium-Development-Goal-type health&#13;
+indicators in Georgia several decades ago. Childhood immunization programs generally function&#13;
+well, and the prevalence of HIV/AIDS is low. As in other countries in the region, however, there&#13;
+is scope to improve the public health system, in particular by shifting toward a greater population&#13;
+focus, and addressing new priorities such as health promotion and the prevention of&#13;
+noncommunicable diseases. Tuberculosis, including drug-resistant TB, remains a key public&#13;
+health challenge.&#13;
+&#13;
+Institutional Architecture and Interaction of MIP with the Rest of Health System&#13;
+&#13;
+MIP provides a comprehensive benefits package of health care services to the poorest 20 percent&#13;
+of Georgiaâ&#128;&#153;s population, as identified by a proxy means test. MIP is funded by general tax&#13;
+revenues but implemented by private insurance companies and private providers under Ministry&#13;
+of Labor, Health, and Social Affairs (MoLHSA) oversight. The program was launched in 2006&#13;
+but has evolved significantly since then. The fundamental objective of MIP has been to provide&#13;
+health insurance to the poor. The most commonly cited aim has been to improve financial&#13;
+protection of the poor, not to improve health outcomes, per se.&#13;
+&#13;
+MIP is the responsibility of the MoLHSA, and its subordinated implementing agency, the Social&#13;
+Services Agency. The MoLHSA is accountable to the cabinet and parliament. There is no titular&#13;
+head of MIP; the director of the Social Services Agency and the minister of the MoLHSA are&#13;
+responsible, but have other duties, as well. The MoLHSA is in charge of policy setting (through&#13;
+various decrees and legislation), financing (through general tax revenues), and monitoring of&#13;
+MIP implementation (including through mandatory reporting via IT systems). The Social&#13;
+Services Agency makes premium payments to private insurers, but does not deliver services or&#13;
+pay providers. Regional governments also play a role in MIP; two regions, Adjara and Tbilisi&#13;
+(the capital city), have elected to fund additional beneficiaries (specifically the near-poor, or&#13;
+those with slightly higher proxy means test scores, as described below) out of their own&#13;
+revenues. Finally, the government also supports a semi-independent Health Insurance Mediation&#13;
+Service, which serves as an MIP ombudsman. It resolves disputes among insurers, beneficiaries,&#13;
+and providers, and provides information to beneficiaries about program benefits and rules.&#13;
+Overall, the national government has been supportive and a key champion of MIP.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                   4&#13;
+&amp;#12;Private insurance companies are contracted for three years on the basis of a competitive&#13;
+tendering process for regional â&#128;&#156;packages.â&#128;? They receive a per capita premium determined by&#13;
+government (based on some rough actuarial work) for each beneficiary. They are responsible for&#13;
+purchasing health care services, as defined in the benefits package identified by government,&#13;
+based on medical claims submitted by contracted providers, for all eligible beneficiaries within a&#13;
+specific geographic area. They are free to negotiate contracts with providers (for example,&#13;
+reimbursement prices and payment mechanisms) as they choose, but must provide a certain level&#13;
+of geographic coverage. Increasingly, the private insurers have moved into ownership of their&#13;
+own provider network. Patients have a modest degree of provider choice within these networks.&#13;
+The role of private insurers is discussed in further detail in Section 8.&#13;
+&#13;
+Providers deliver care to MIP beneficiaries per their contracts with insurance companies. There&#13;
+has been no effective functioning accreditation system for providers in Georgia in recent years&#13;
+(Chanturidze et al. 2009), but the government is starting to pursue reforms in that direction.&#13;
+&#13;
+With respect to the interaction of MIP with the rest of the health system, in essence, MIP is the&#13;
+centerpiece of health reform in Georgia. Until recently, beyond MIP there was only a patchwork&#13;
+of disease-specific programs funded by government, while the rest of the system was mainly out-&#13;
+of-pocket funding by individuals seeking care from private providers in a largely unregulated&#13;
+environment. There is also some corporate private insurance. Rather than interfering with or&#13;
+complementing the â&#128;&#156;mainâ&#128;? health system, MIP is in fact the major building block around which&#13;
+a new health system will be developed from the ashes of a nearly devastated system that emerged&#13;
+from the transition period.&#13;
+&#13;
+For example, starting from September 2012, a benefits package similar to MIP was extended to&#13;
+over 750,000 beneficiaries in nonpoor groups such as pensioners, children, and students. This&#13;
+expansion is also relying on private purchasing by insurers contracted for the task. In addition,&#13;
+MIP has led to government support for hospital and IT investments that should also be beneficial&#13;
+to the non-MIP population.&#13;
+&#13;
+Table 1 shows the trend of the MIP budget since 2008, in relation to the larger government&#13;
+health budget and GDP. The slight decline in funding in 2011 reflects the renegotiation of the&#13;
+monthly premium paid to insurers (discussed further below), not a decline in enrolment or&#13;
+benefits.&#13;
+&#13;
+                                 Table 1 MIP Budget Trends, 2008â&#128;&#147;11&#13;
+               Total MIP             As % of         As % of Total       As % of       Number&#13;
+ Year                                                                     GDP          Enrolled&#13;
+              Expenditures          MoLHSA              Public&#13;
+                 (GEL)             Expenditures      Expenditures&#13;
+ 2011            GEL 136m              42.6              2.3               0.6         972,912&#13;
+ 2010            GEL 147m              44.7              2.7               0.7         805,392&#13;
+ 2009            GEL 127m              43.6              2.4               0.7         750,838&#13;
+ 2008             GEL 80m              35.5              1.5               0.4         706,336&#13;
+Source: MoLHSA and World Bank staff calculations.&#13;
+Note: GEL 1 = approximately US$0.60.&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                  5&#13;
+&amp;#12;Targeting, Identification, and Enrolment of Beneficiaries&#13;
+&#13;
+One of the strongest elements of Georgiaâ&#128;&#153;s MIP is the explicit aim of targeting the poor through&#13;
+a rigorous means-testing process, even in the absence of a proper government program for the&#13;
+better off. The government responsible for MIP was explicitly aiming for a smaller state, but&#13;
+attempted to target its social spending envelope to the poor, while leaving other population&#13;
+groups to take care of themselves (although this started to change with recent coverage&#13;
+expansions to other groups). This section provides a brief overview of how the MIP targeting and&#13;
+eligibility system works.&#13;
+&#13;
+The proxy means test was originally developed, with some outside technical support, for a cash&#13;
+assistance program referred to as Targeted Social Assistance (TSA), which aims to reach the 10&#13;
+percent of the Georgian population estimated to be living in extreme poverty. A dedicated survey&#13;
+was undertaken to identify which household characteristics are the best predictors of&#13;
+consumption poverty. Over 100 indicators are included in the proxy means test, significantly&#13;
+more than in many other such programs in the region. These include mostly asset-based&#13;
+indicators, but some demographic and regional data are also used in the formula.&#13;
+&#13;
+Households that believe they are eligible must apply to the Social Services Agency, an&#13;
+implementation unit of the Ministry (MoLHSA). Enrolment is not automatic. A social worker&#13;
+will visit the applicantâ&#128;&#153;s household to collect information on the relevant indicators. These are&#13;
+then fed into a complex formula that results in a household score. Eligibility is determined on a&#13;
+household, not individual, basis, although MIP beneficiaries are ultimately given individual&#13;
+identity (insurance policy) cards.&#13;
+&#13;
+Once eligible, they will be enrolled in MIP within three months. Eligibility is for a period of&#13;
+three to four years, after which beneficiaries should undergo a recertification process based on&#13;
+the same proxy means test, in case household living conditions have changed in the interim.&#13;
+Certain one-off efforts to undertake audits of the eligibility status of beneficiaries may also lead&#13;
+to the withdrawal of benefits before that time (for example, if a recipient is found to have&#13;
+provided false information on their application by concealing assets). There are concerns that&#13;
+some beneficiaries have cheated on their applications, and some anecdotes have been publicized&#13;
+in the past, but overall it is seen as a relatively clean program with regard to the probity of&#13;
+implementation. MIP is not open to the nonpoor; that is, they cannot get the same benefits&#13;
+package for the same premium paid out of pocket.&#13;
+&#13;
+Nearly half the Georgian population has applied during the last six years. There is little&#13;
+evidenceâ&#128;&#148;anecdotal or otherwiseâ&#128;&#148;of stigma associated with program eligibility. Households&#13;
+with a score of 70,000 or below are eligible for MIP. There are currently about 900,000&#13;
+beneficiaries. Households with a score of 57,000 or below are eligible for TSA; there are about&#13;
+400,000 TSA beneficiaries. TSA was intended for the extreme poor (10 percent of the&#13;
+population), and thus the proxy means test was chosen to best identify this group. MIP is&#13;
+intended for the 20 to 25 percent of the population that is poorâ&#128;&#148;a group over twice as large as&#13;
+the extreme poor. Thus, there have been some questions as to whether the current proxy means&#13;
+test is ideally suited for identifying MIP eligibility. But for administrative simplicity (that is, not&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                     6&#13;
+&amp;#12;having two separate proxy means tests), the prevailing system has remained in place. However,&#13;
+there are periodic attempts to fine-tune the methodology to improve targeting.&#13;
+&#13;
+Due to the inevitable errors of inclusion and exclusion associated with any targeting mechanism,&#13;
+the eligibility system is not perfectly covering the poor while excluding the nonpoor. Figure 2&#13;
+shows indicators of targeting and coverage. Although it is generally a well-performing proxy&#13;
+means test compared to other similar programs worldwide, the errors of exclusion highlight a&#13;
+drawback faced by targeted programs, since over half of the poorest quintile of the population&#13;
+still do not get MIP benefits. There have been slow but steady improvements of targeting and&#13;
+coverage indicators over time.&#13;
+&#13;
+The targeting system for MIP is not a parallel structure, since it uses the only existing poverty-&#13;
+based targeting mechanism used by government. In addition, there are no special rules or&#13;
+considerations for special categoriesâ&#128;&#148;MIP eligibility is strictly based on the same proxy means&#13;
+test for all. The same agency, the Social Services Agency, is in charge of enrolment and&#13;
+administration. They do not have discretion beyond the proxy means test results. There are&#13;
+mechanisms of redress that involve community participation to review results of the application&#13;
+process. There is some political pressure to ensure that the beneficiary identification process&#13;
+excludes the nonpoor from benefiting.&#13;
+&#13;
+                           Figure 2 Coverage and Targeting of MIP by Decile&#13;
+                   Panel A                                                Panel B&#13;
+      Coverage (% of each decile receiving                  Targeting (% of total benefits to each&#13;
+                  benefits)                                               decile)&#13;
+ 50                                                    25&#13;
+ 45&#13;
+ 40                                                    20&#13;
+ 35&#13;
+ 30                                                    15&#13;
+ 25&#13;
+                                                2009                                                    2009&#13;
+ 20                                                    10&#13;
+                                                2011                                                    2011&#13;
+ 15&#13;
+ 10                                                     5&#13;
+  5&#13;
+  0&#13;
+                                                        0&#13;
+      1   2   3   4   5    6   7   8   9   10&#13;
+                                                              1   2   3   4   5    6   7   8   9   10&#13;
+                      Decile&#13;
+                                                                              Decile&#13;
+&#13;
+Source: World Bank 2012.&#13;
+&#13;
+Public Financial Management and Fiscal Considerations&#13;
+&#13;
+The management of public funds by MIP has not been a major topic to date. The programâ&#128;&#153;s&#13;
+budget is essentially a monthly premium paid to insurers for each eligible enrollee times the&#13;
+number of total beneficiaries. In this sense, there is little difference from a cash transfer program,&#13;
+such as social assistance or pensions. Georgia also had previous experience with a single&#13;
+purchasing agency, and thus provider reimbursement has not been uncharted terrain from a&#13;
+                                                                                                           7&#13;
+&amp;#12;public budgeting standpoint. Financial risk is borne by insurance companies, which also&#13;
+determine the provider payment method. The main short-term risk for government would be if a&#13;
+large number of newly eligible households were to self-identify all at once. But application&#13;
+levels have been quite stable recently. Over the longer term (that is, beyond the current contract&#13;
+period with insurers), there is a chance of escalating costs if utilization rates were to increase&#13;
+from currently modest levels, thus necessitating a higher monthly premium. This remains to be&#13;
+seen. Overall, the Ministry of Finance has been supportive of MIP as a way to prioritize&#13;
+government spending to the poor while maintaining a sound fiscal and macroeconomic&#13;
+environment.&#13;
+&#13;
+Management of the Benefits Package&#13;
+&#13;
+The MIP benefits package is defined in the legislation establishing the program on the basis of&#13;
+MoLHSA recommendations. It has both a positive list and negative list, but generally only by&#13;
+broad categories (for example, â&#128;&#156;outpatient servicesâ&#128;?). Services that are less conducive to&#13;
+insurance, such as dental and optical, are excluded. High-cost care such as kidney dialysis is&#13;
+provided under a separate state program, as are certain other services such as mental health care.&#13;
+The benefits package is broadly informed by disease burden and basic cost information, without&#13;
+formal criteria for inclusion or exclusion (for example, cost-effectiveness, scientific opinion, and&#13;
+so forth). No major changes to the benefits package have been made since the beginning of the&#13;
+program, with the exception of a small additional benefit for outpatient drugs that was included&#13;
+in 2010. A further expansion of the drug benefit has been proposed for the future.&#13;
+&#13;
+More specifically, the MIP package includes (a) urgent outpatient and inpatient treatment,&#13;
+including diagnostic or laboratory tests used to determine the need for hospitalization; (b)&#13;
+planned inpatient services, excluding expenses for certain services such as cosmetic treatment or&#13;
+treatment abroad; (c) chemotherapy and radiation therapy; (d) outpatient care and limited&#13;
+diagnostic and lab tests prescribed by the family physician or general practitioner; (e) child&#13;
+delivery costs (up to 400 GEL); and (f) a small benefit for outpatient pharmaceuticals (up to GEL&#13;
+50 or US$30 annually with a 50 percent copayment). The Health Insurance Mediation Service&#13;
+serves as a check on key actors to help ensure that the right of beneficiaries to access the&#13;
+government-defined benefits package is protected.&#13;
+&#13;
+With regard to costing and cost containment, the original budget was based on a mix of local and&#13;
+donor-funded actuarial work, but with a heavy dose of guesswork due to a lack of necessary&#13;
+micro data. The available budget is inevitably part of the calculus for benefits package design.&#13;
+There are various caps by service type, but these are quite highâ&#128;&#148;for example, GEL 15,000 for&#13;
+an operation (about US$9,000), or GEL 12,000 for radiation or chemotherapy. High-cost&#13;
+diagnostics such as MRIs and CT scans are excluded except for inpatient surgery and&#13;
+hospitalization cases. There are no copayments except for the outpatient drug benefit noted&#13;
+above. Program eligibility and enrolment are not manipulated for cost purposes; if a person is&#13;
+covered, the finances will in principle be available. There have been no major problems with&#13;
+MIP funding drying up during its program life. But there may be a longer-term funding challenge&#13;
+if or when utilization rates increase, necessitating a higher premium.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                  8&#13;
+&amp;#12;The relatively low coverage of outpatient drugs from the benefits package is notable for several&#13;
+reasons. The drug benefit is kept small in part as a cost-containment measure, since&#13;
+pharmaceutical spending is very high in Georgia (at about 3 to 4 percent of GDP, one of the&#13;
+highest levels in the world), and thus more comprehensive coverage could lead to unsustainable&#13;
+demands on the MIP budget. The pharmaceutical market is characterized by high prices; high&#13;
+markups; and significant cartel control of importing, wholesale, and retailing (Transparency&#13;
+International 2012). Moreover, there is anecdotal evidence of overprescription by doctors who&#13;
+are compensated by the industry, and a tendency to overconsume among the population.&#13;
+However, the purchasing power that MIP offers could help confront these problems, including&#13;
+through generic promotion and essential drug lists. This will be an ongoing conundrum,&#13;
+especially since drugs for cardiovascular disease and other conditions have the potential for&#13;
+major health gains if they were successfully integrated into the MIP benefits package.&#13;
+&#13;
+In general, the financial risk embodied by the benefits package â&#128;&#156;promiseâ&#128;? is borne by insurers,&#13;
+most of which are owned by commercial banks. Payment methods may vary by private insurer,&#13;
+but in general, fee-for-service is used for inpatient services and capitation for primary care. There&#13;
+have been proposals to introduce case-based payments such as diagnosis-related groups (DRGs),&#13;
+but this has not yet been done. Prices and reimbursement rates are the outcome of negotiations&#13;
+between insurers and providers. No detailed information is available on contract specifics&#13;
+between private insurers and private providers, such as whether price-and-quantity contracts are&#13;
+invoked to manage costs. In a growing number of cases, these are the same entity (that is,&#13;
+insurer-owned hospitals similar to health maintenance organizations [HMOs]).&#13;
+&#13;
+Monitoring and Evaluation of MIP&#13;
+&#13;
+Significant IT investments and standardization of information flows have been undertaken by the&#13;
+MoLHSA with donor support, and these efforts are ongoing. Insurance companies must report&#13;
+claims data to the National Bank of Georgia as the supervisory authority, and utilization data to&#13;
+MoLHSA. This information is used to monitor finances and inform future premium calculations,&#13;
+although it is not currently being used to improve the delivery of health care services to any&#13;
+significant extent. MIP itself does not have specific program goals for which it is accountable or&#13;
+must report. In general, there is currently no strong analytical unit or function institutionalized&#13;
+within MIP. However, studies to better assess program performance have been undertaken and&#13;
+are briefly described here.&#13;
+&#13;
+To assess the impact of MIP on key outcomes of interest, an impact evaluation was undertaken&#13;
+in 2009 (Bauhoff, Hotchkiss, and Smith 2011a; 2011b). The sample was evenly divided into MIP&#13;
+and non-MIP beneficiaries. To ensure that MIP participants who were surveyedâ&#128;&#148;the â&#128;&#156;treatmentâ&#128;?&#13;
+groupâ&#128;&#148;could be compared with the most similar possible â&#128;&#156;controlâ&#128;? group of non-MIP&#13;
+households, the survey only collected data on households just above and just below the eligibility&#13;
+thresholds of 70,000 or 100,000 (depending on the region). That is, the approach used was a&#13;
+regression discontinuity design.&#13;
+&#13;
+The study found that MIP has a significant impact on reducing out-of-pocket expenditures for&#13;
+health care. As shown in figure 3, for outpatient care in Adjara and Tbilisi, and inpatient care in&#13;
+all regions, MIP beneficiaries pay approximately 40 to 60 percent less than nonbeneficiaries&#13;
+&#13;
+                                                                                                   9&#13;
+&amp;#12;(there is no statistically significant difference for outpatient care in the regions with a cutoff&#13;
+score of 70,000). The survey also found that MIP beneficiaries were more likely to report&#13;
+receiving free or reduced-price care because of insurance, and less likely to report that they could&#13;
+not pay for the costs of care out of their usual income. Together these findings indicate that MIP&#13;
+has made a major contribution to reducing out-of-pocket spending among its beneficiaries, and is&#13;
+therefore achieving one of its key program goals. The main reason why out-of-pocket spending&#13;
+has not fallen to zero among MIP members is because of drug expenditures, which are largely&#13;
+not covered. The study was undertaken prior to the recent introduction of an outpatient drug&#13;
+benefit as part of MIP. However, some respondents also reported paying for certain services that&#13;
+are supposed to be covered by MIP, indicating that informal payments may persist and there is&#13;
+scope to improve knowledge of the benefits package.&#13;
+&#13;
+The survey results also indicated, however, that the program has not had any impact on&#13;
+utilization. While it is difficult to pinpoint a single major explanation for this finding, various&#13;
+reasons are possible. First, many households reported that they were not aware of their&#13;
+beneficiary status, and thus various measures have been taken to improve implementation&#13;
+(including cancellation of the voucher mechanism in favor of competitive bidding for regional&#13;
+packages). Second, low quality of care is probably an important reason, and the current efforts to&#13;
+improve the supply side (including a new hospital construction program as part of MIP) should&#13;
+help in this regard. Third, the absence of a pharmaceutical benefit at the time of the evaluation&#13;
+(introduced in May 2010) may have reduced the motivation for the beneficiary population to&#13;
+seek care from their doctor.&#13;
+&#13;
+The evaluation also looked at indicators of health behavior and general checkups, in addition to&#13;
+the diagnosis and treatment of common chronic illnesses such as high blood pressure, asthma,&#13;
+diabetes, depression, and arthritis. There are generally no systematic differences across&#13;
+beneficiaries and nonbeneficiaries in this regard. In additional analysis, there were no differences&#13;
+found in reported health status, as measured by questions on activities of daily living. Finally,&#13;
+provider responsiveness was lower for MIP patients than for the rest of the population outside of&#13;
+Adjara and Tbilisi.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                 10&#13;
+&amp;#12;                                                                             Figure 3 MIP Impact Evaluation Findings&#13;
+                 Panel A                                                                                                             Panel B&#13;
+Out-of-Pocket Per Episode: A Large Impact                                                                          % of Individuals Using Care: No Significant&#13;
+                                                                                                                                     Impact&#13;
+       700                                                                                                             8&#13;
+                                                                                                                                                                                                7.4&#13;
+                                                                                                                                                                                         7.0&#13;
+                                                                                                        596            7&#13;
+       600&#13;
+                                                                                                                                   6.0&#13;
+                                                                                                                       6&#13;
+       500                                                                                                                                 5.4&#13;
+&#13;
+                                                         431                                                           5&#13;
+                                                                                                                                                              4.4     4.3                                                4.3&#13;
+       400&#13;
+                                                                                                                   %   4                                                                                         3.7&#13;
+ GEL&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+       300                                                                                                             3&#13;
+                                                  221                                            233&#13;
+&#13;
+       200                                                                                                             2&#13;
+&#13;
+&#13;
+                                                                                                                       1&#13;
+       100                                                                          85.2&#13;
+                      63.6      52.2                                         43.6&#13;
+                                                                                                                       0&#13;
+         0                                                                                                                 Out-patient 70,000 (30days) In-patient 70,000 (1year)    Out-patient 100,000   In-patient 100,000 (1year)&#13;
+                  Out-patient 70,000           In-patient 70,000        Out-patient 100,000   In-patient 100,000                                                                         (30days)&#13;
+&#13;
+                                                        MIP        Non-MIP                                                                                             MIP     Non-MIP&#13;
+ Source: Bauhoff, Hotchkiss, and Smith, 2010&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+More up-to-date analysis has generally confirmed these trends using data collected since 2009. A&#13;
+difference-in-difference analysis of the Health Utilization and Expenditure Survey (HUES)&#13;
+undertaken in 2007 and 2010 yielded similar findings of a significant MIP impact on financial&#13;
+protection but relatively little impact on utilization (Gotsadze et al., forthcoming). Preliminary&#13;
+evidence from 2011 indicates that MIP beneficiaries are using health care services more than&#13;
+non-MIP individuals. These results compare full populations of MIP and non-MIP individuals,&#13;
+and therefore may not fully isolate the causal effect of MIP on outcomes of interest. A study to&#13;
+be undertaken in 2013 should help to further update the evidence on MIPâ&#128;&#153;s impact.&#13;
+&#13;
+Special Theme: Contracting Out the Purchasing Function to Private Insurance Companies&#13;
+&#13;
+During the first two years of implementation (2006â&#128;&#147;08), the purchasing of health care under MIP&#13;
+was done by the state purchasing agency. In 2008, this responsibility was transferred to private&#13;
+insurance companies. Initially beneficiaries were given a voucher and allowed to choose their&#13;
+own private insurance company. However, this approach was revised in 2010, and insurers were&#13;
+instead selected on the basis of competitive tenders for â&#128;&#156;medical regionsâ&#128;?â&#128;&#148;that is, they became&#13;
+de facto single purchasers for all beneficiaries within a certain geographic region for the period&#13;
+of contract duration (currently three years). The experience with private insurers is discussed&#13;
+further in this section.&#13;
+&#13;
+Georgia opted for the private insurance model for MIP largely due to the prevailing pessimistic&#13;
+view among key decision makers in government about the capability of the state to run such a&#13;
+scheme itself, a view influenced by the early postindependence experience during the 1990s,&#13;
+when Georgia struggled to establish robust state institutions. (A further consideration was that&#13;
+under traditional public finance management rules, public purchasers were budgetary institutions&#13;
+that could not bear financial risk.) The so-called â&#128;&#156;publicâ&#128;? system that existed before MIP was in&#13;
+many respects a myth and certainly a failure, with low levels of public funding, a predominance&#13;
+of out-of-pocket funding, public providers that were poorly reimbursed and weakly regulated,&#13;
+deteriorating infrastructure, and widespread corruption. Reforms were essential. The decision to&#13;
+&#13;
+                                                                                                                                                                                                                                11&#13;
+&amp;#12;privatize the purchasing function under MIP (and to privatize most delivery) was consistent with&#13;
+a broader government strategy applied to other sectors, as well.&#13;
+&#13;
+The initial mechanism for assigning MIP beneficiaries to insurance companies (that is, from&#13;
+2008â&#128;&#147;10) was with vouchers. Households that gained eligibility were supposed to receive the&#13;
+voucher from a primary care doctor, and they could then choose their private insurer, who would&#13;
+give the voucher back to government in order to claim the per capita premium revenue for that&#13;
+household. However, numerous problems emerged with this approach. Many households did not&#13;
+receive a voucher or got it after many monthsâ&#128;&#153; delay. Survey evidence suggested that many&#13;
+households did not perceive that they in fact had a choice of insurers. In effect, the vouchers had&#13;
+a significant monetary value to insurance companies, and this led to high acquisition costs&#13;
+incurred by insurers (and thus, implicitly, an unproductive use of MIP budget funds) because&#13;
+they sought to hire agents to lobby households for their voucher. It also led to outright fraud,&#13;
+since primary care doctors became agents of insurers, and in some cases gave the voucher to&#13;
+insurers without informing the household.&#13;
+&#13;
+Thus, it was decided in 2010 to change the method by which beneficiaries were assigned to&#13;
+insurers. A competitive tendering process was implemented, and insurance companies made bids&#13;
+for regional medical â&#128;&#156;packagesâ&#128;? of MIP enrollees for a three-year period. The tendering&#13;
+procedure had to be run twice after collusion mired the first attempt. Eight to ten private insurers&#13;
+won different regional packages across Georgia. This approach for engaging private insurers&#13;
+resembles some Indian schemes. The contracts will expire in 2013, and the new government may&#13;
+choose to revise the model.&#13;
+&#13;
+Several medium-term issues related to the private insurance model loom on the horizon,&#13;
+including in the area of the efficiency of spending. Private insurers receive premium revenue&#13;
+from the government and typically have four potential â&#128;&#156;usesâ&#128;? for these funds: (a) reimbursement&#13;
+of medical services (this share is often termed the â&#128;&#156;loss ratioâ&#128;?), (b) marketing costs, (c)&#13;
+administrative costs, and (d) profits. Each of these items raises policy issues for the successful&#13;
+operation of MIP in the future. These are discussed below.&#13;
+&#13;
+Medical care costs: In principle, the private insurers could keep reimbursement costs down&#13;
+through smart or â&#128;&#156;active purchasingâ&#128;? of health care services, and this may be facilitated because&#13;
+they are increasingly integrated with the hospital system (HMO style). In other systems with&#13;
+multiple insurers (for example, the United States), prices of health services tend to be higher&#13;
+because the fragmentation of purchasing gives greater bargaining power to the providers&#13;
+(especially hospitals, which typically enjoy substantial market power). This may be mitigated in&#13;
+Georgia due to the noncompetition of insurers within a geographic area once MIP contracts have&#13;
+been signed, and because of the growing integration of insurers and providers.&#13;
+&#13;
+But the government and MIP beneficiaries together will need to monitor this in order to ensure&#13;
+accountability both with regard to covering the MIP benefits package as required and providing a&#13;
+high quality of care. The Health Insurance Mediation Service and ongoing investments in IT by&#13;
+the Social Services Agency can help in this regard. An important concern here is that keeping&#13;
+costs down may result in less provision of â&#128;&#156;necessaryâ&#128;? care, including preventive care. One key&#13;
+consideration is the expected duration of the relationship between the insurance company and the&#13;
+&#13;
+                                                                                                 12&#13;
+&amp;#12;patient; in the United States, where there is high turnover in the market, there is evidence that&#13;
+insurers neglect many preventive services because they do not expect to be covering the patient&#13;
+in 5 or 10 years, when a health condition may become more serious and therefore costly.&#13;
+&#13;
+Marketing costs: These were quite high prior to 2010, when competition occurred through&#13;
+vouchers for beneficiaries, as insurers went to great effort to attract customers. The transition to&#13;
+competitive tendering for three-year contracts has reduced this cost pressure significantly.&#13;
+&#13;
+Administrative costs: The approach of multiple private insurers has led to high administrative&#13;
+costs in some other countries (for example, the United States), due to inconsistent procedures,&#13;
+duplication, and a proliferation of paperwork. Georgiaâ&#128;&#153;s recent efforts to establish a strong IT&#13;
+platform, including standardization of reporting procedures, is a positive step. But much remains&#13;
+to be done. Since Georgiaâ&#128;&#153;s insurance industry is relatively young, it is natural to expect higher&#13;
+fixed investments by insurers in IT and other systems than in the long term.&#13;
+&#13;
+Profits: Some multiple insurance systems allow profits (for example, Chile, the United States)&#13;
+while others do not (for example, Germany, and Switzerland on the basic package), and yet&#13;
+others are mixed between for-profit and nonprofit insurers (for example, the Netherlands). A&#13;
+clear picture on current insurer profits of MIP is not available, although industrywide evidence&#13;
+reported to the National Bank of Georgia suggests that the loss ratio (medical care expenses&#13;
+divided by premium revenue) was only about 50 to 60 percent in 2008â&#128;&#147;09, but has since risen to&#13;
+about 80 percent in 2011. This suggests that profit margins have narrowed significantly. As&#13;
+noted, higher administrative and investment costs are to be expected in a nascent industry, so&#13;
+lower loss ratios are not automatically a reflection of high profits.&#13;
+&#13;
+In the United States, the Affordable Care Act has mandated loss ratios (including measures to&#13;
+improve quality of care) of at least 80 to 85 percent. High insurer profits and concerns about&#13;
+collusion have been a source of debate in Chile. In general, a low loss ratio should raise concerns&#13;
+that an insurance program is getting poor value for money with the taxpayerâ&#128;&#153;s health dollars.&#13;
+Some stakeholders have acknowledged that the MIP premium was deliberately set quite high in&#13;
+the early program years as a way to encourage private insurers to participate in the program.&#13;
+Loss ratios on MIP will merit close monitoring going forward.&#13;
+&#13;
+The expiry of current MIP contracts expected in 2013 provides an opportunity to review many of&#13;
+these issues, if indeed the decision is made to keep the current model and renew the contracts. A&#13;
+key longer-term issue facing MIP is that if and when the utilization of services by beneficiaries&#13;
+starts to rise, there will be important implications for the required premium paid to insurance&#13;
+companies, and therefore for the health budget. In the long term, broad population coverage&#13;
+under various health insurance programs will be a key requirement for achieving health sector&#13;
+objectives.&#13;
+&#13;
+If a prominent role for private insurers is maintained, a major unanswered question is whether&#13;
+the health system evolves toward a U.S. model with a high degree of fragmentation and&#13;
+inefficiency and significant market failure in the individual and small group insurance markets,&#13;
+leaving a large share of the population uncovered, or toward a European model (for example,&#13;
+Austrian, Dutch, German) in which insurer activities are more closely regulated and insurance is&#13;
+&#13;
+                                                                                                 13&#13;
+&amp;#12;mandatory. Evidence would suggest that the latter model offers a better route toward universal&#13;
+coverage. But the new government may opt for a completely different approach.&#13;
+&#13;
+Pending Agenda for MIP&#13;
+&#13;
+A significant agenda remains with respect to the further strengthening of MIP in Georgia. In&#13;
+recent years, it has served as the cornerstone of health reform in the country, and future progress&#13;
+with regard to the achievement of universal coverage will depend on improvements to MIP and&#13;
+an expansion of its benefits to the rest of the population. A selection of key issues corresponding&#13;
+to the topics discussed in the preceding sections is highlighted here.&#13;
+&#13;
+First, MIP was designed as a demand-side approach to the achievement of universal coverage,&#13;
+with funding attached to beneficiaries in the form of a per capita premium paid by government to&#13;
+insurers. In effect, money followed the patient. Initially, there were few efforts to address the&#13;
+supply side, especially infrastructure and quality of care. There has been a widespread&#13;
+acknowledgement that quality of care is problematic in Georgia, and this may be one factor that&#13;
+helps explain the finding from the early evaluation of MIP that there was no difference in&#13;
+utilization rates between MIP and non-MIP populations. Since 2011, there has been a strong&#13;
+effort to upgrade hospital infrastructure, and most of the new hospitals include outpatient&#13;
+departments. But a key outstanding issue is the quality of primary care. As noted, most&#13;
+Georgians bypass the primary care level and seek care at more specialized facilities or via self-&#13;
+treatment at pharmacies. This challenge has yet to be adequately addressed either by MIP or&#13;
+through broader health system strengthening activities, but long-term health outcome&#13;
+improvement, especially in terms of managing noncommunicable disease risk factors, will&#13;
+require a strong primary care system.&#13;
+&#13;
+Second, there is an ongoing challenge to improve coverage of the poor. Although the proxy&#13;
+means test used by MIP is generally well targeted, about half of the poorest quintile is still not&#13;
+covered. There has been gradual improvement of this indicator between 2009 and 2011, but&#13;
+many poor remain outside the health safety net. While focusing limited government resources on&#13;
+the poor is one of the most laudable aspects of MIP, it also highlights a tradeoff between a&#13;
+targeted and universal approach, since better coverage of the poor might have been achieved&#13;
+through a more broad-based (albeit more costly) expansion of health coverage to the population.&#13;
+&#13;
+Nevertheless, a better understanding of why many poor are not covered by MIPâ&#128;&#148;for example,&#13;
+whether it is due to information barriers that prevent people from applying, or methodological&#13;
+issues with the proxy means test that lead to exclusion of legitimately poor householdsâ&#128;&#148;will be&#13;
+important and can help inform policy measures to better cover the poor. Survey work by&#13;
+UNICEF in 2011 suggested that some minority populations (for example, Azeri, Armenian)&#13;
+appear to be underrepresented among beneficiaries of MIP, most likely due to language barriers.&#13;
+Some tailored outreach campaigns may help remedy this situation.&#13;
+&#13;
+More generally with regard to population coverage, there has been uncertainty regarding how&#13;
+rapidly MIP or â&#128;&#156;MIP-likeâ&#128;? programs would be expanded. As of mid-2012, MIP covered about 20&#13;
+percent of the population. In September 2012, the government started to cover pensioners,&#13;
+students, and children with a similar program that also relies on private insurers. But even then,&#13;
+&#13;
+                                                                                                14&#13;
+&amp;#12;about half of the Georgian population was left without adequate health coverage. In late 2012,&#13;
+the new government indicated that it would move rapidly to expand coverage to the remaining&#13;
+50 percent of the population, but this will introduce its own challenges.&#13;
+&#13;
+Third, with respect to the benefits package, this is already quite comprehensive in terms of health&#13;
+care services, but coverage of pharmaceuticals is quite low. This translates into high out-of-&#13;
+pocket spending for outpatient drugs. Expanding the benefits package to include some essential&#13;
+drugs would significantly enhance financial protection. A key obstacle here is that the&#13;
+pharmaceutical market in Georgia is subject to high prices arising from an oligopolistic market&#13;
+structure, and thus expanding drug coverage could come at substantial cost. But it works both&#13;
+ways; using government purchasing power could help mitigate the cost implications. In any&#13;
+event, given the key role of essential drugs for the management of chronic diseases (which&#13;
+predominate Georgiaâ&#128;&#153;s disease burden), and the current high levels of out-of-pocket payments&#13;
+for drugs, expanding MIP to include a more comprehensive benefit would represent a significant&#13;
+step with respect to improving both health outcomes and financial protection.&#13;
+&#13;
+Fourth, on the issue of MIPâ&#128;&#153;s fiscal implications, while current MIP costs are not high,&#13;
+experience in health systems around the world suggests this will change over time, as coverage is&#13;
+expanded and benefits are enhanced. In addition, the premium currently paid by government to&#13;
+insurers is relatively low, reflecting historically low utilization of health care in Georgia. But as&#13;
+quality and utilization increase, there will be added pressure on the public budget due to MIP.&#13;
+&#13;
+Finally, significant efforts were made to collect data through a new IT system to capture&#13;
+utilization and reimbursement information between insurers and providers. But there is no&#13;
+systematic, institutionalized effort to analyze this data for program purposes, or to collect data&#13;
+from households or to do rigorous program evaluation. Building analytical capacity will be an&#13;
+important challenge for MIP going forward.&#13;
+&#13;
+Overall, MIP has registered significant achievements during its first five years of operation. It is&#13;
+well targeted, has made a large impact on the financial protection of beneficiaries, and&#13;
+considerable institutional groundwork has been carried out. But a large agenda remains with&#13;
+regard to covering more of the poor, leveraging supply-side improvements in service provision,&#13;
+and ultimately achieving an impact on health care utilization and outcomes. With regard to&#13;
+passing a verdict on its key feature, the role of private insurers, this will require significantly&#13;
+more time and evidence on how MIP and the overall health system evolve. With a new&#13;
+government seeking to forge its own health reform agenda, many questions remain about how&#13;
+Georgiaâ&#128;&#153;s long road toward universal coverage will unfold going forward.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                  15&#13;
+&amp;#12;                                                             Annex 1 Spider Web&#13;
+&#13;
+                            I. Outcomes comparisons:&#13;
+                   Georgia and Lower Middle Income Countries&#13;
+                                                                                           Note on interpretation:&#13;
+                                                                                           In this plot â&#128;&#152;higherâ&#128;&#153; is â&#128;&#152;worseâ&#128;&#153; â&#128;&#147; since&#13;
+                                                                                           these indicators are positive measures&#13;
+                                                                                           of mortality / morbidity. Life&#13;
+                                                                                           expectancy is converted to be an&#13;
+                                                                                           inverse measure.&#13;
+&#13;
+                                                                                           The values on the radar plot have&#13;
+                                                                                           been standardized with respect to the&#13;
+                                                                                           average lower middle income country&#13;
+                                                                                           value.&#13;
+&#13;
+                                                                                           The table below summarizes outcome&#13;
+                                                                                           comparisons with the average lower&#13;
+                                                                                           middle income country (LMIC).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+IMR: Infant mortality rate (2010). U5MR: Under-5 mortality rate (2010). Stunting: prevalence of low height-for-age among children under 5 (2010). MMR: Maternal&#13;
+mortality rate (2010) per 100 000 live births. Adult mortality: Adult mortality rate per 1000 male adults (2010). [100-(life expectancy)]: Life expectancy at birth&#13;
+(2010) subtracted from maximum of 100. Neonatal mortality: Neonatal mortality per 1000 living births. CD as cause of death: Communicable diseases as cause of&#13;
+death (% total). All data from World Bank's World Development Indicators. Income averages for stunting calculated by Bank staff and are unweighted.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                             II. Inputs comparisons&#13;
+                   Georgia and Lower Middle Income Countries&#13;
+                                                                                           Note on interpretation:&#13;
+                                                                                           This plot shows indicators which&#13;
+                                                                                           measure spending on health or the&#13;
+                                                                                           number of health workers per&#13;
+                                                                                           population.&#13;
+&#13;
+                                                                                           The values on the radar plot have&#13;
+                                                                                           been standardized with respect to&#13;
+                                                                                           the average lower middle income&#13;
+                                                                                           country value.&#13;
+&#13;
+                                                                                           The table below summarizes inputs&#13;
+                                                                                           comparisons with the average lower&#13;
+                                                                                           middle income country (LMIC).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+THE as % of GDP: Health expenditure, total (% of GDP) (2010). Hospital bed density: Hospital beds per 1,000 people (latest available year). Physician density: Physicians&#13;
+per 1,000 people (latest available year). Nurse/midwife density: Nurses and midwives per 1,000 people (latest available year). GHE as % of THE/10: Public health&#13;
+expenditure (% of total expenditure on health) (2010). All data from World Bank's World Development Indicators.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                                            16&#13;
+&amp;#12;                            III. Coverage comparisons&#13;
+                   Georgia and Lower Middle Income Countries&#13;
+                                                                                           Note on interpretation:&#13;
+                                                                                           In this plot â&#128;&#152;higherâ&#128;&#153; is â&#128;&#152;betterâ&#128;&#153; â&#128;&#147; since&#13;
+                                                                                           these     indicators      are    positive&#13;
+                                                                                           measures. In this case, all are percent&#13;
+                                                                                           of the population receiving or having&#13;
+                                                                                           access to a certain health related&#13;
+                                                                                           service.&#13;
+&#13;
+                                                                                           The values on the radar plot have&#13;
+                                                                                           been standardized with respect to&#13;
+                                                                                           the average lower middle income&#13;
+                                                                                           country value.&#13;
+                                                                                           The table below summarizes&#13;
+                                                                                           coverage comparisons with the&#13;
+                                                                                           average lower middle income&#13;
+                                                                                           country (LMIC).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+DPT immunization: % of children aged 12-23 months with DPT immunization (2010). Prenatal services: % of pregnant women receiving prenatal care (latest available&#13;
+year). Contraceptive prevalence: % of women ages 15-49 using contraception (latest available year). Skilled birth attendance: % of all births attended by skilled health&#13;
+staff (latest available year). Improved sanitation: % of population with access to improved sanitation facilities (2010). TB treatment success: Tuberculosis treatment&#13;
+success rate (% of registered cases). All data from World Bank's World Development Indicators.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                         IV. Infrastructure comparisons&#13;
+                   Georgia and Lower Middle Income Countries&#13;
+                                                                                           Note on interpretation:&#13;
+                                                                                           In this plot â&#128;&#152;higherâ&#128;&#153; is â&#128;&#152;betterâ&#128;&#153; â&#128;&#147; since&#13;
+                                                                                           these     indicators      are    positive&#13;
+                                                                                           measures of provision of certain&#13;
+                                                                                           good / service, and a measure of&#13;
+                                                                                           urban development.&#13;
+&#13;
+                                                                                           The values on the radar plot have&#13;
+                                                                                           been standardized with respect to&#13;
+                                                                                           the average lower middle income&#13;
+                                                                                           country value.&#13;
+&#13;
+                                                                                           The table below summarizes&#13;
+                                                                                           infrastructure comparisons with the&#13;
+                                                                                           average lower middle income&#13;
+                                                                                           country (LMIC).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Paved roads: % of total roads paved (most recent). Internet users: users per 100 people (2010, with some estimates from prior years). Mobile phone users: mobile&#13;
+cellular subscriptions per 100 people (2010). Access to improved water: % of population with access to improved water source (2010). All data from World Bank's&#13;
+World Development Indicators.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                                           17&#13;
+&amp;#12;                          V. Demography comparisons&#13;
+                   Georgia and Lower Middle Income Countries&#13;
+                                                                                            Note on interpretation:&#13;
+                                                                                            Indicators here measure births per&#13;
+                                                                                            woman, the extent of rurality, and&#13;
+                                                                                            the number of dependents.&#13;
+&#13;
+                                                                                            The values on the radar plot have&#13;
+                                                                                            been standardized with respect to&#13;
+                                                                                            the average lower middle income&#13;
+                                                                                            country value.&#13;
+&#13;
+                                                                                            The table below summarizes&#13;
+                                                                                            demographic indicators comparisons&#13;
+                                                                                            with the average lower middle&#13;
+                                                                                            income country (LMIC).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+TFR: total fertility rate (births per woman), 2009. Dependency ratio: % of working-age population (2010) aged less than 15 or more than 64. Youth dependency: % of&#13;
+working-age population (2010) aged less than 15. Rurality: % of total population in rural areas (2010). All data from World Bank's World Development Indicators.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                            VI. Inequality comparisons&#13;
+                   Georgia and Lower Middle Income Countries&#13;
+                                                                                            Note on interpretation:&#13;
+                                                                                            In this plot â&#128;&#152;higherâ&#128;&#153; is â&#128;&#152;inequalâ&#128;&#153; and&#13;
+                                                                                            indicators here measure inequalities&#13;
+                                                                                            in selected health outcomes by&#13;
+                                                                                            taking the ratio of prevalence&#13;
+                                                                                            between Q1 and Q5.&#13;
+&#13;
+                                                                                            The values on the radar plot have&#13;
+                                                                                            been standardized with respect to&#13;
+                                                                                            the average lower middle income&#13;
+                                                                                            country value.&#13;
+&#13;
+                                                                                            The table below summarizes&#13;
+                                                                                            inequality indicators comparisons&#13;
+                                                                                            with the average lower middle&#13;
+                                                                                            income country (LMIC).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+All indicators measure the ratio of prevalence between the poorest (in Q1, the first wealth distribution quintile) and the richest (in Q5, the fifth wealth distribution&#13;
+quintile). The data (latest data available) are taken from HNPstats (http://data.worldbank.org/data-catalog/HNPquintile).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                                           18&#13;
+&amp;#12;                                         References&#13;
+&#13;
+&#13;
+Bauhoff, S., D. Hotchkiss, and O. Smith. 2011. â&#128;&#156;Responsiveness and Satisfaction with Providers&#13;
+      and Carriers in a Safety Net Insurance Program: Evidence from Georgiaâ&#128;&#153;s Medical&#13;
+      Insurance for the Poor.â&#128;? Health Policy 102: 286â&#128;&#147;294.&#13;
+Bauhoff, S., D. Hotchkiss, and O. Smith. 2011. â&#128;&#156;The Impact of Medical Insurance for the Poor in&#13;
+      Georgia: A Regression Discontinuity Approach.â&#128;? Health Economics 20 (11): 1326â&#128;&#147;1378.&#13;
+Chanturidze, T., T. Ugulava, A. DurÃ¡n, T. Ensor, and E. Richardson. 2009. â&#128;&#156;Georgia: Health&#13;
+      System Review.â&#128;? Health Systems in Transition 11 (8): 1â&#128;&#147;116.&#13;
+Gotsadze, G., A. Zoidze, M. Cho, and N. Rukhadze. (forthcoming). â&#128;&#156;Purchasing Private Health&#13;
+      Insurance for Poor in Georgia: Preliminary Results and Policy Implications.â&#128;? Draft.&#13;
+      Curatio International Foundation, Tbilisi.&#13;
+Transparency          International.         2012.          â&#128;&#156;Who       Owned     Georgia?â&#128;?&#13;
+       http://transparency.ge/sites/default/files/post_attachments/Who%20Owned%20Georgia%&#13;
+       202002-2012.pdf.&#13;
+World          Bank.      2012.       â&#128;&#156;Georgia       Public       Expenditure      Review.â&#128;?&#13;
+        http://documents.worldbank.org/curated/en/2012/11/17097163/georgia-public-&#13;
+        expenditure-review-managing-expenditure-pressures-sustainability-growth.&#13;
+Zoidze, A., N. Rukhadze, K. Chkhatarashvili, and G. Gotsadze 2012. â&#128;&#156;Promoting Universal&#13;
+       Financial Protection: Is Health Insurance for the Poor Georgiaâ&#128;&#153;s Path to Universal&#13;
+       Coverage? A Case Study.â&#128;? Draft. Curatio International Foundation, Tbilisi.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                            19&#13;
+&amp;#12;20&#13;
+&amp;#12;21&#13;
+&amp;#12;The World Bank supports the efforts of countries to share prosperity by&#13;
+transitioning toward universal health coverage (UHC) with the objectives of&#13;
+improving health outcomes, reducing the financial risks associated with ill&#13;
+health, and increasing equity. The Bank recognizes that there are many paths&#13;
+toward UHC and does not endorse a particular path or set of organizational or&#13;
+financial arrangements to reach it. Regardless of the path chosen, the quality of&#13;
+the instruments and institutions countries establish to implement UHC are&#13;
+essential to its success. Countries will face a variety of challenges during the&#13;
+implementation phase as they strive to expand health coverage. With that in&#13;
+mind, the World Bank launched the Universal Health Coverage Studies Series&#13;
+(UNICO Studies Series) to develop knowledge and operational tools designed&#13;
+to help countries tackle these implementation challenges in ways that are&#13;
+fiscally sustainable and that enhance equity and efficiency. The UNICO Studies&#13;
+Series consists of technical papers and country case studies that analyze&#13;
+different issues related to the challenges of UHC policy implementation.&#13;
+&#13;
+The case studies in the series are based on the use of a standardized protocol&#13;
+to analyze the nuts and bolts of 27 programs in 25 countries that have&#13;
+expanded coverage from the bottom up, starting with the poor and vulnerable.&#13;
+The protocol consists of 300 questions designed to elicit a detailed&#13;
+understanding of how countries are implementing five sets of policies to&#13;
+accomplish the following:&#13;
+&#13;
+â&#128;¢   Manage the benefits package&#13;
+â&#128;¢   Manage processes to include the poor and vulnerable&#13;
+â&#128;¢   Nudge efficiency reforms to the provision of care&#13;
+â&#128;¢   Address new challenges in primary care&#13;
+â&#128;¢   Tweak financing mechanisms to align the incentives of different stakeholders&#13;
+    in the health sector&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+The UNICO Studies Series aims to provide UHC implementers with an expanded toolbox.&#13;
+The protocol, case studies and technical papers are being published as part of the Series. A&#13;
+comparative analysis of the case studies will be available in 2013.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                               22&#13;
+&amp;#12;</ml:original-txt><ml:search-metadata><doc id="17207976">
+        <url>
+            http://documents.worldbank.org/curated/en/2013/01/17207976/georgias-medical-insurance-program-poor
+        </url>
+        <availablein>English</availablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2013/01/17207976/georgias-medical-insurance-program-poor</url_friendly_title>
+        <new_url>2013/01/17207976/georgias-medical-insurance-program-poor</new_url>
+        <disclosure_date>2013-02-01T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2013-02-01T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/02/01/000425962_20130201162852/Rendered/INDEX/749980NWP0Box30Program0for0the0Poor.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/02/01/000425962_20130201162852/Rendered/PDF/749980NWP0Box30Program0for0the0Poor.pdf</pdfurl>
+        <docdt>2013-01-01T00:00:00Z</docdt>
+        <datestored>2013-02-01T00:00:00Z</datestored>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            Georgia's medical insurance program
+            for the poor
+        </repnme>
+        <abstracts>
+            Georgia launched its Medical Insurance
+            Program (MIP) for the poor in 2006. This program draws from
+            general tax revenues to provide comprehensive, means-tested
+            health insurance to the poorest 20 percent of the population
+            as identified by a proxy means test. The government
+            contracts private insurance companies who serve as financial
+            risk carriers and purchasing agents for the program. MIP is
+            well targeted to the poor and has had a major impact on
+            improving financial protection of its beneficiaries. It has
+            also served as a launching pad for significant investments
+            in hospitals and information technology (IT) systems. In
+            brief, MIP is a program funded through general taxation that
+            provides a fairly comprehensive benefits package of health
+            services to the poorest 20 percent of the population as
+            identified via a proxy means test. There are no copayments
+            for services. Although run by a state purchaser during the
+            first two years, since 2008 its key feature has been that
+            private insurance companies are contracted by the Ministry
+            of Health to bear financial risk and to purchase services
+            from both public and private providers on behalf of poor
+            beneficiaries. The government sets policy, pays a per capita
+            premium per beneficiary to private insurers, and conducts
+            program oversight. This case study provides an overview of
+            how MIP is designed, its achievements to date, and
+            challenges for the future. A key theme discussed in further
+            detail, and of potential interest to other countries
+            contemplating a push toward the achievement of universal
+            health coverage, is the contracting of private insurance
+            companies to purchase services on behalf of the poor. Some
+            attention is also given to MIP's targeting approach.
+        </abstracts>
+        <docna>
+            Georgia's medical insurance program for
+            the poor
+        </docna>
+        <display_title>Georgia's medical insurance
+            program for the poor</display_title>
+        <listing_relative_url>/research/2013/01/17207976/georgias-medical-insurance-program-poor</listing_relative_url>
+        <docty>Working Paper (Numbered Series)</docty>
+        <subtopic>Health Monitoring &amp; Evaluation,Insurance &amp; Risk Mitigation,Health Economics &amp; Finance,Health Systems Development &amp; Reform,Population Policies</subtopic>
+        <teratopic>Health, Nutrition and Population,Finance and Financial Sector Development</teratopic>
+        <count>Georgia</count>
+        <authors>
+            <author>Smith, Owen</author>
+        </authors>
+        <geo_region_mdks>
+            <geo_region_mdk>World!$!80475</geo_region_mdk>
+            <geo_region_mdk>Asia!$!80451</geo_region_mdk>
+            <geo_region_mdk>Commonwealth of Independent States!$!80457</geo_region_mdk>
+            <geo_region_mdk>Eastern Europe!$!107233</geo_region_mdk>
+        </geo_region_mdks>
+        <entityids>
+            <entityid>000425962_20130201162852</entityid>
+        </entityids>
+        <admreg>Europe and Central Asia,Europe and Central Asia</admreg>
+        <colti>Universal Health Coverage (UNICO) studies
+            series ; no. 16</colti>
+        <lang>English</lang>
+        <historic_topic>Health, Nutrition and Population,Finance and Financial Sector Development</historic_topic>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            access to services, administrative costs,
+            Adult mortality, Adult mortality rate, aged, agents,
+            applications, Beneficiaries, capitation, cardiovascular
+            disease, chemotherapy, child delivery, child health, civil
+            conflict, Communicable diseases, community participation,
+            competitive bidding, contraception, Contraceptive
+            prevalence, contracts with providers, cost-effectiveness,
+            costs of care, delivery costs, delivery of health care,
+            Dependency ratio, depression, developing countries,
+            diabetes, disease risk factors, doctors, economic growth,
+            emergency care, employment, essential drugs,
+            fee-for-service, fertility, fertility rate, finance
+            management, Financial Management, financial protection,
+            financial risk, financial risks, fraud, government support,
+            gross domestic product, group insurance, health behavior,
+            health care, health care resources, health care services,
+            health care utilization, Health Coverage, Health Economics,
+            health expenditure, health expenditures, Health Financing,
+            health indicators, health insurance, health maintenance,
+            health maintenance organization, health maintenance
+            organizations, health outcomes, Health Policy, health
+            promotion, health reform, health sector, health services,
+            health spending, health status, Health System, Health System
+            Financing, health system strengthening, health systems,
+            Health Systems in Transition, health workers, healthcare
+            services, high blood pressure, HIV/AIDS, HMO, HMOs,
+            hospital, hospital beds, hospital system, hospitalization,
+            hospitals, ill health, illnesses, immunization, impact on
+            health, income, income countries, Infant, Infant mortality,
+            Infant mortality rate, infectious diseases, informal
+            payments, inpatient care, Insurance, Insurance Companies,
+            insurance industry, insurance markets, integration, lab
+            tests, life expectancy, Life expectancy at birth, live
+            births, living conditions, loss ratio, marketing, Maternal
+            mortality, Maternal mortality rate, Medical care, Medical
+            care costs, Medical Insurance, medical services, mental,
+            mental health, mental health care, midwives, Ministry of
+            Health, minority, monthly premium, morbidity, mortality,
+            multiple insurance systems, multiple insurers, national
+            government, Neonatal mortality, Nurses, outpatient care,
+            outpatient services, patient, Patients, pensions,
+            pharmaceutical spending, pharmacies, pharmacy, physician,
+            physicians, pocket payment, pocket payments, Policy
+            Implications, population groups, pregnant women, prenatal
+            care, prices of health services, primary care, primary care
+            doctor, primary care doctors, primary health care, Private
+            Health Insurance, Private Insurance, Private Insurance
+            Companies, private insurer, private insurers, programs,
+            progress, provider payment, provision of care, psychiatry,
+            Public Expenditure, public health, Public health
+            expenditure, public health system, public hospitals, public
+            providers, purchasing power, quality of care, radiation,
+            reimbursement rates, respect, risk factors, rural areas,
+            safety net, sanitation, sanitation facilities, service
+            delivery, service provision, Skilled birth attendance,
+            Social Affairs, Social Assistance, social sector, Social
+            Services, surgery, Tuberculosis, universal access, urban
+            development, woman, workers, working-age population
+        </keywd>
+        <owner>Health, Nutrition &amp; Popultn Team (HDNHE)</owner>
+        <geo_regions>
+            <geo_region>World</geo_region>
+            <geo_region>Asia</geo_region>
+            <geo_region>Commonwealth of Independent States</geo_region>
+            <geo_region>Eastern Europe</geo_region>
+        </geo_regions>
+        <repnb>74998</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Teaching and Learning</ml:concept><ml:concept>Poverty Reduction</ml:concept><ml:concept>Poverty Reduction and Distributional Analysis</ml:concept><ml:concept>Poverty Reduction and Equity</ml:concept><ml:concept>Poverty and Inequality</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Social Protections and Labor</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Agriculture and Food Security</ml:concept><ml:concept>Education</ml:concept><ml:concept>Health, Nutrition and Population</ml:concept><ml:concept>Poverty</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Social Protection and Labor</ml:concept><ml:concept>Health Monitoring and Evaluation</ml:concept><ml:concept>Delivery of Health Care</ml:concept><ml:concept>Health Care Delivery</ml:concept><ml:concept>Health Service Management and Delivery</ml:concept><ml:concept>Health Systems</ml:concept><ml:concept>Medical Supplies, Drugs</ml:concept><ml:concept>Pharmaceutical Industry</ml:concept><ml:concept>Safety Nets</ml:concept><ml:concept>Safety Nets and Transfers</ml:concept><ml:concept>Social Safety Nets</ml:concept><ml:concept>Impact Evaluations</ml:concept><ml:concept>Randomized Control Trials</ml:concept><ml:concept>Alternative Service Delivery</ml:concept><ml:concept>Contracting out</ml:concept><ml:concept>Insurance &amp; Risk Mitigation</ml:concept><ml:concept>Demographics</ml:concept><ml:concept>Child Survival and Health</ml:concept><ml:concept>Early Child and Children's Health</ml:concept><ml:concept>Efficiency of Public Expenditures</ml:concept><ml:concept>Public Expenditures</ml:concept><ml:concept>Public Financial Management</ml:concept><ml:concept>Public Spending</ml:concept><ml:concept>Analysis &amp; Monitoring</ml:concept><ml:concept>Delivery Units</ml:concept><ml:concept>Grievance Redress</ml:concept><ml:concept>Indicators</ml:concept><ml:concept>M&amp;E</ml:concept><ml:concept>Performance Measurement</ml:concept><ml:concept>Performance Reviews</ml:concept><ml:concept>Rapid Results Approaches</ml:concept><ml:concept>Arms Length Agencies</ml:concept><ml:concept>Citizen Mapping</ml:concept><ml:concept>Contracting Out</ml:concept><ml:concept>Delivery Chains</ml:concept><ml:concept>Service Delivery Arrangements</ml:concept><ml:concept>Service Standards, Service Fees</ml:concept><ml:concept>Checks on Executive Power</ml:concept><ml:concept>Citizen Oversight</ml:concept><ml:concept>Citizen User Satisfaction Survey</ml:concept><ml:concept>Independent Commissions</ml:concept><ml:concept>Ombudsmen</ml:concept><ml:concept>Oversight</ml:concept><ml:concept>Parliament</ml:concept><ml:concept>Procurement Complaints Review Institutions</ml:concept><ml:concept>Supreme Audit Institutions</ml:concept><ml:concept>Health Monitoring &amp; Evaluation</ml:concept><ml:concept>Income</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Impact Evaluation</ml:concept><ml:concept>Health Insurance</ml:concept><ml:concept>Health Services Delivery</ml:concept><ml:concept>Primary Care</ml:concept><ml:concept>Pharmaceuticals</ml:concept><ml:concept>Diseases</ml:concept><ml:concept>Social Assistance</ml:concept><ml:concept>Impact Assessment</ml:concept><ml:concept>Outsourcing</ml:concept><ml:concept>Infrastructure</ml:concept><ml:concept>Insurance</ml:concept><ml:concept>Public Health</ml:concept><ml:concept>Population</ml:concept><ml:concept>Child Health</ml:concept><ml:concept>Managing Public Finances</ml:concept><ml:concept>Monitoring and Evaluation</ml:concept><ml:concept>Public Service Delivery</ml:concept><ml:concept>Public Accountability Mechanisms</ml:concept><ml:concept>Mediation</ml:concept></ml:concepts><ml:geo-regions><ml:geo-region>Asia</ml:geo-region><ml:geo-region>Central Asia</ml:geo-region><ml:geo-region>Georgia</ml:geo-region></ml:geo-regions></ml:annotations></ml:doc-envelope>

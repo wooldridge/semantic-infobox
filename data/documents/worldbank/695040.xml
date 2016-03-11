@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>Viewpoint&#13;
+The World Bank Group                                                                  January 1997&#13;
+Note No. 104   Competition in Network Industries-&#13;
+Where and How to Introduce It&#13;
+Michael Kleini    If privatizing network industries is to bring last-  price regulation. Only rebidding promises an&#13;
+and Philip Gray   ing public benefits, governments should also   escape from the old-style regulated monopoly.&#13;
+attempt to introduce competition. Otherwise,   But if there are significant sunk investments&#13;
+the regulation required in areas with monopoly  involved, assets will need to be transferred at&#13;
+segments may become so intrusive that it un-  the end of the franchise, leading to complex&#13;
+dermines the reform. The scope for such com-   exercises in asset valuation. Still, by placing&#13;
+petition is growing with increasing deregulation   time limits on the franchise and requiring some&#13;
+and technological innovation. And as technol-  form of competitive rebidding, governments&#13;
+ogy continues to improve, the use of "smart  can ensure regular challenges to the incum-&#13;
+markets"-computer-assisted auction systems   bent, and the incentive to maintain reputation&#13;
+to clear competitive but complex markets-is   will reduce the temptation to slacken efforts&#13;
+likely to become feasible for an ever-expand-   during the duration of the franchise.&#13;
+ing group of products and countries. This Note&#13;
+outlines the opportunities for introducing net-   Competition over existing networks&#13;
+work competition-competition for the mar-&#13;
+ket, competition over existing networks, and   There are three types of competition over ex-&#13;
+competition among networks. It briefly con-  isting networks, described here as open access,&#13;
+siders in each case whether regulation will still  pooling, and time-tabling arrangements. Which&#13;
+be necessary and whether it will become easier  type is suitable for a particular network indus-&#13;
+or more complicated. It looks at how these op-  try depends on the technical characteristics of&#13;
+portunities could be applied in different net-  the goods and of the networks over which these&#13;
+works. And it concludes with some basic   goods are provided.&#13;
+guidelines for introducing competition.&#13;
+Open access&#13;
+Competition for the market&#13;
+Open access regimes are found in many gas&#13;
+One way of bringing competitive forces to bear   pipeline systems in Europe and the United&#13;
+on natural monopoly segments of an industry   States. Parts of telecommunications networks&#13;
+is to delineate a monopoly franchise and auc-   are also under open access regimes, including&#13;
+tion it off to the bidder offering the lowest price  long-distance satellite communications, parts&#13;
+to consumers.' But monopoly franchises, es-   of the major carriers' long-distance networks,&#13;
+pecially long-term ones, still involve regula-   and the local loop in systems where there is&#13;
+tion-indeed, some commentators argue that  competition in long-distance services. In es-&#13;
+this form of competition is simply a way of  sence, open access occurs when allowing com-&#13;
+facilitating regulation. Prices and related terms   petition in one segment of an industry requires&#13;
+of the franchise (often known as a concession)   ensuring access to the remaining natural mo-&#13;
+have to be adjusted in response to events. These   nopoly bottlenecks, provided that there is avail-&#13;
+adjustments can be complex, but there are ba-   able capacity. If the owners of a gas pipeline&#13;
+sically two options for making them: rebidding   have no interest in supply, for example, it will&#13;
+the franchise periodically or using traditional   always pay them to allow access to additional&#13;
+WN               Private Sector Development Department . Finance, Private Sector, and Infrastructure Network&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+Competition in Network Industries-Where and How to Introduce It&#13;
+gas suppliers. When capacity constraints are  ing used in electricity systems throughout the&#13;
+binding, rationing of access (interconnection)   world and in gas systems in the United King-&#13;
+to the bottleneck will be needed. This inter-   dom and the United States.&#13;
+connection can be achieved efficiently with-&#13;
+out regulation, but the owners of the bottleneck   Time-tabling&#13;
+facility may receive monopoly profits. If these&#13;
+profits are politically unacceptable, the access   In power or natural gas supply systems, the&#13;
+prices charged by the owners of the bottle-   source of the electrons or molecules a customer&#13;
+neck facility and the prices for any other ser-  receives does not matter because the product&#13;
+vices they provide to final customers of the   is sufficiently homogeneous. But for airlines,&#13;
+network industry will need to be regulated.  railways, or telecommunications, where freight,&#13;
+passengers, or callers need to reach a particu-&#13;
+If the incumbent owns some of the competing   lar customer or point in the network, the re-&#13;
+supply facilities-for example, power plants,   quirements for network optimization are more&#13;
+gas fields, or long-distance telephone transmis-   complex than simply that total inflows match&#13;
+sion facilities-it may try to raise prices for  total outflows.&#13;
+network access to preclude competitors in the&#13;
+nonmonopoly segments of the network. To pre-   If rights to use railway tracks, for example, were&#13;
+vent such predatory behavior by owners of mo-   defined and allocated to multiple parties. sec-&#13;
+nopoly segments, regulators may impose access   ondary trading should yield the optimal set of&#13;
+obligations and matching pricing principles,   paths through the network-the set that maxi-&#13;
+such as forcing the incumbent to pay a price   mizes welfare given producers' and consum-&#13;
+for transport equal to the price it charges its   ers' valuations of the service. The optimal set&#13;
+competitors. If such limits cause the owner of   of paths forms the optimal delivery schedule&#13;
+the bottleneck facility to try to exploit market   or timetable (delivery of person or good x to&#13;
+power in the competitive segments, there may   point y at time z). The issue is whether an&#13;
+be a case for imposing limits on vertical inte-   optimal timetable can be generated through de-&#13;
+gration and separating ownership from other   centralized bargaining. Because the value of&#13;
+parts of the system.                        each right to use a segment of track at a par-&#13;
+ticular time depends on what happens with all&#13;
+Pooling                                     adjacent segments (all segments are indirectly&#13;
+adjacent to all others), a single, optimizing smart&#13;
+The open access approach attempts to allow    market may be needed. Sweden and the United&#13;
+competition over the network by selling rights   Kingdom are investigating whether such smart&#13;
+to network capacity to competing firms on a   markets can be established for railways. An-&#13;
+nondiscriminatory basis. But it may be difficult  other potential application is airport slots. For&#13;
+to define, adjust, and enforce such rights in a   now, experiments with such smart markets have&#13;
+way that allows effective competition. For ex-   been limited to computer simulations.&#13;
+ample, in a power system, the capacity used&#13;
+or unused at any moment in any part of the   Competition among networks&#13;
+system is a function of all physical flows&#13;
+throughout the system, not of bargaining or   The discussion has suggested that the hard core&#13;
+individual transport decisions, so it may not   of natural monopoly is the smart market,&#13;
+be practical to define capacity or access rights.   whether for dispatch or for optimizing time-&#13;
+An alternative is to use a central dispatch sys-  tabling. But in some cases, competition among&#13;
+tem that optimizes system flows, instanta-   multiple networks may be desirable. For long-&#13;
+neously matching supply and demand. This   distance telecommunications networks, petro-&#13;
+ensures open access in the sense that winning   leum product distribution systems competing&#13;
+bidders will always and by definition be dis-   with natural gas systems, or railways compet-&#13;
+patched. Such "smart" pooling systems are be-  ing with trucks, for example, the theoretical&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+benefits of complete and integrated schedul-   where goods and services are not homogeneous&#13;
+ing are probably less important than the prac-   and where starting and end points of network&#13;
+tical benefits of allowing competition among   flows matter, though possible solutions are be-&#13;
+networks. Competition is most useful where   ing debated in the context of the Swedish and&#13;
+the central planning problem is hardest because    U.K. railway reforms. The currently preferred&#13;
+of great uncertainty or complexity. There are   option for such networks is some form of open&#13;
+thus dynamic or informational benefits from    access or common carriage system with regula-&#13;
+incomplete scheduling, which allows compe-   tion of interconnection. This approach is par-&#13;
+tition on the basis of some duplication. This   ticularly appropriate for telecommunications, but&#13;
+duplication is necessary to try out new things   it is also used in such networks as railroads,&#13;
+and to check monopolistic behavior. Central-   airports, and natural gas pipelines.&#13;
+ized scheduling is likely to be inevitable only&#13;
+when temporary congestion is very costly-   One way to introduce unregulated competition&#13;
+such as systemwide electricity blackouts.     is to rely on competition between networks, or&#13;
+intermodal or substitute competition. Railways,&#13;
+Industry guidelines                            for example, often face competition from trucks.&#13;
+And competition from the petroleum products&#13;
+How competition is introduced and how effec-   market can discipline pricing behavior in the&#13;
+tively and easily it is implemented will vary from    natural gas market, as in Finland, Germany (for&#13;
+one network industry to another, depending on   large users), and Hong Kong. An international&#13;
+the physical characteristics. Introducing compe-   comparison of regulatory regimes shows that&#13;
+tition is generally easiest in industry segments   countries are most likely to leave the rail and&#13;
+where sunk costs are unimportant, such as for   natural gas sectors unregulated, relying on sub-&#13;
+many transport vehicles-ships, planes, trucks,   stitute competition to provide pricing discipline.&#13;
+and taxis. The policy solution here is free entry&#13;
+without economic regulation. Where economies   In telecommunications, line-based networks are&#13;
+of scale due to scheduling are important, such   increasingly exposed to competition from wire-&#13;
+as in urban bus transport or solid waste collec-   less services and in many cases even from new&#13;
+tion services, awarding monopoly franchises   line-based networks being established as the cost&#13;
+competitively may be efficient. As long as sunk    of such infrastructure falls. Further technical&#13;
+costs are not important, repeated franchise bid-   progress may obviate the need for regulation.&#13;
+ding can provide a good level of competition    Countries with limited regulatory capability can&#13;
+without a need for extensive regulation. There   already rely on competition from wireless ser-&#13;
+has been positive experience with competition    vices to provide basic consumer protection.&#13;
+in all these transport industry segments.&#13;
+The toughest regulatory challenges remain in&#13;
+Where sunk costs are important, introducing    electricity, water, airports, and roads. As previ-&#13;
+competition becomes more complex. For elec-   ously indicated, in electricity, the solution may&#13;
+tricity and natural gas systems, which produce   lie in competitive power pools. In water, com-&#13;
+and transport fairly homogeneous products, the    petitive forces may be conceptually similar to&#13;
+best solution appears to be smart competitive    power pools, but their effective introduction is&#13;
+pools wherever a sufficiently large market can    a fair way off. In the roads sector, operations&#13;
+be created to sustain workable competition.   may be revolutionized as electronic traffic man-&#13;
+This argues, of course, for fostering interna-   agement in conjunction with congestion pric-&#13;
+tional trade in energy services wherever pos-   ing may soon become more widespread as a&#13;
+sible. Although still at an experimental stage,   result of tests in such countries as Italy, Nor-&#13;
+competitive pools have shown clear promise.   way, Singapore, and the United States. In Cali-&#13;
+fornia, for example, a private toll lane has been&#13;
+Smart markets have yet to provide practical so-   financed by charging congestion tolls that are&#13;
+lutions for introducing competition in networks   inversely proportional to the traffic on the free&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+Competition in Network Industries-Where and How to Introduce It&#13;
+alternative. Auctions of airport landing rights still   ture firms or issuing concessions to build new&#13;
+await the arrival of appropriate smart markets,    facilities. Monopoly rights do lower the cost of&#13;
+which would also be instrumental in efficiently    capital and make financing easier. But they do&#13;
+managing road networks and decentralizing in-    so by shifting risk to customers, not by reduc-&#13;
+vestment decisions in these networks.                 ing overall risk. In the last century, investments&#13;
+not protected by entry barriers were neverthe-&#13;
+The key to finding new solutions for introduc-    less funded. And today, new  investments in&#13;
+ing competition is technical progress. In tele-    competitive segments of network industries also&#13;
+communications, technical change offers hope    are being financed, such as power plants in&#13;
+for workable competition among networks. In    competitive markets in Argentina, Chile, and&#13;
+other industries, such as transport and energy,    the United Kingdom.&#13;
+new solutions will depend on advances in te-&#13;
+lemetry and telecommunications combined    The technological changes and new  thinking&#13;
+with computer-based smart markets.                    discussed in this Note suggest the following&#13;
+guidelines for policymakers introducing com-&#13;
+Free entry or not?                                    petition:&#13;
+T The more complex the network and the lower&#13;
+Policymakers are sometimes reluctant to allow           the sunk cost, the more value there is likely&#13;
+free entry for what sound like good reasons. An         to be in introducing competition from other&#13;
+unsustainable or suboptimal outcome may result          networks.&#13;
+The Nate series is en&#13;
+open forum intended to    from  the competition for a natural monopoly    * Where technical change is rapid, defining the&#13;
+encourage dissemina-  under a policy of free entry. Or regulation may         bounds of natural monopoly will be more&#13;
+tion of and debate on  provide incentives for excessive bypass-where          difficult and the dynamic benefits of compe-&#13;
+ideas, innovations, and&#13;
+best practices for   vertically integrated incumbents may try charg-          tition will be large.&#13;
+expanding the private  ing excessive access or interconnection fees that   * Where government capacity to benevolently&#13;
+sector. The views     lead suppliers to bypass the system. Or network         and efficiently recognize natural monopoly&#13;
+published are those of&#13;
+the authors and should    externalities may create either excess inertia (too  and establish barriers to entry is weak, entry&#13;
+not be attributed to the    little investment while firms wait for others to  probably should not be limited by policy.&#13;
+World Bank or any of its   invest in expanding the network) or excess mo-&#13;
+affiliated organizations.&#13;
+Nor do any of the con-  mentum  (too much investment as firms try to    But because there are so many questions about&#13;
+clusions represent   establish an advantage by moving first). These    whether monopoly should ever prevail and&#13;
+official policy of the  arguments for barriers to free entry in natural    whether government is capable of identifying&#13;
+World Bank or of its&#13;
+Executive Directors  monopolies reflect concerns about undersupply    the situations in which it should, there is a need&#13;
+or the countries they  or excessive costs of serTice delivery.              for an underlying policy rule: In case of doubt,&#13;
+represent.                                                                  do not restrict entry-and if entry barriers are&#13;
+To order additional   Some arguments for entry barriers have little    imposed, subject them to an automatic test af-&#13;
+copies please call 202-    foundation, however. Some parties will argue    ter a set period and prolong them only if war-&#13;
+458-1111 or contact  that entry barriers are required to maintain sub-    ranted by a cost-benefit review.&#13;
+Suzanne Smith, editor,&#13;
+Room G8105, The World    sidies. Certainly, cross-subsidies can be sus-&#13;
+Bank, 1818 H Street,  tained only if competition is somehow limited&#13;
+NW, Washington, D.C.  and cherry picking restricted. But the same sub-           Ne  is sedn pape Y Michae Klein competition in&#13;
+28433, orlInternet        chrypcigNetwork industries" (Policy Research Working Paper 1591. World&#13;
+address ssmith7@      sidy can be provided explicitly, funded from          Bank, Washington, DC, April 1996).&#13;
+worldbank.org.        competition-neutral sources. Some say barri-    ' See AntonyDnes, Franchisingand Privatization" (Note40 March&#13;
+The series is also    ers are necessary for financing-hence the call          1995), and Pienre Guislain and Michel Kerf, 'Concessions-The&#13;
+available on-line                                                             Way to Pnvatize Infrastructure Sector Monopolies" (Note 59, Oc-&#13;
+(www.worldbank.       for exclusivity periods, long concession terms,         tober 1995).&#13;
+org/html/fpd/notes/   and the like. Investors, investment bankers, and&#13;
+notelist.html).       short-term revenue-maximizers in government    Michael Klein, Manager (mklein@worldbank.&#13;
+ePrinted on recycled  will naturally all argue for entry barriers to lower    org), and Philip Gray (pgray@worldbank.org),&#13;
+paper.               the cost of capital when privatizing infrastruc-    Private SectorDevelopment Department&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+</ml:original-txt><ml:search-metadata><doc id="695040">
+        <url>
+            http://documents.worldbank.org/curated/en/1997/01/695040/competition-network-industries-introduce
+        </url>
+        <availablein>English</availablein>
+        <virt_coll>Knowledge Notes</virt_coll>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/1997/01/695040/competition-network-industries-introduce</url_friendly_title>
+        <new_url>1997/01/695040/competition-network-industries-introduce</new_url>
+        <disclosure_date>2010-07-01T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2010-07-01T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/1997/01/01/000009265_3980420172725/Rendered/INDEX/multi0page.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/1997/01/01/000009265_3980420172725/Rendered/PDF/multi0page.pdf</pdfurl>
+        <datestored>2001-05-14T00:00:00Z</datestored>
+        <docdt>1997-01-31T00:00:00Z</docdt>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            Competition in network industries - where
+            and how to introduce it
+        </repnme>
+        <abstracts>
+            If privatizing network industries is to
+            bring lasting public benefits, governments should also
+            attempt to introduce competition. The scope for such
+            competition is growing with increasing deregulation and
+            technological innovation. As technology continues to
+            improve, the use of "smart
+            markets"--computer-assisted auction systems to clear
+            competitive but complex markets--is likely to become
+            feasible for an ever-expanding group of products and
+            countries. This Note outlines the opportunities for
+            introducing network competition--competition for the market,
+            competition over existing networks, and competition among
+            networks. It briefly considers in each case whether it will
+            become easier or more complicated. It looks at how these
+            opportunities could be applied in different networks. And it
+            concludes with some basic guidelines for introducing
+            competition: 1) the more complex the network and the lower
+            the sunk cost, the more value there is likely to be in
+            introducing competition from other networks. 2) Where
+            technical change is rapid, defining the bonds of natural
+            monopoly will be more difficult and the dynamic benefits of
+            competition will be large. 3) Where government capacity to
+            be benevolently and efficiently recognize natural monopoly
+            and establish barriers to entry is weak, entry probably
+            should not be limited by policy.
+        </abstracts>
+        <docna>
+            Competition in network industries - where
+            and how to introduce it
+        </docna>
+        <display_title>Competition in network industries
+            - where and how to introduce it</display_title>
+        <listing_relative_url>/research/1997/01/695040/competition-network-industries-introduce</listing_relative_url>
+        <docty>Viewpoint</docty>
+        <subtopic>Environmental Economics &amp; Policies,Knowledge Economy,Economic Theory &amp; Research,Education for the Knowledge Economy,Access to Markets</subtopic>
+        <teratopic>Environment,International Economics and Trade,Macroeconomics and Economic Growth,Education</teratopic>
+        <count>World</count>
+        <authors>
+            <author>Klein, Michael</author>
+            <author>Gray, Philip</author>
+        </authors>
+        <entityids>
+            <entityid>000009265_3980420172725</entityid>
+        </entityids>
+        <subsc>Privatization-DV</subsc>
+        <admreg>The World Region,The World Region</admreg>
+        <colti>Public policy for the private sector ; Note
+            no. 104</colti>
+        <lang>English</lang>
+        <historic_topic>Environment,International Economics and Trade,Macroeconomics and Economic Growth,Education</historic_topic>
+        <sectr>(Historic)Private Sector Development</sectr>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            Auctions; Concessions; New technologies;
+            Market competition; Voting; Free entry; Network industries;
+            Natural monopolies; Sunk costs
+            asset valuation,Auctions,barriers to
+            entry,central planning,competitive markets,consumer
+            protection,consumers,deregulation,externalities,monopolies,monopoly,natural
+            monopoly,networks,optimization,power plants,price
+            regulation,pricing principles,producers,regulatory
+            regimes,sunk
+            costs,suppliers,telecommunications,telecommunications networks
+        </keywd>
+        <owner>Off of VP, FPD - WB (FPDVP)</owner>
+        <repnb>16894</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>ICT</ml:concept><ml:concept>ICT for Development</ml:concept><ml:concept>Information Technology</ml:concept><ml:concept>Information and Communication Technologies (ICT)</ml:concept><ml:concept>Transportation</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>PPP</ml:concept><ml:concept>Public-Private Partnerships</ml:concept><ml:concept>Energy</ml:concept><ml:concept>Energy and Mining</ml:concept><ml:concept>Environment</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Information and Communication Technologies</ml:concept><ml:concept>Transport</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Public-Private Partnerships (PPP)</ml:concept><ml:concept>Economic Growth</ml:concept><ml:concept>Energy and Extractives</ml:concept><ml:concept>Environment and Natural Resources</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Environmental Economics and Policies</ml:concept><ml:concept>Institutions and Growth</ml:concept><ml:concept>Technological Change</ml:concept><ml:concept>Denationalization</ml:concept><ml:concept>Deregulation</ml:concept><ml:concept>Destatization</ml:concept><ml:concept>Divestiture of Ownership</ml:concept><ml:concept>Railways Transport</ml:concept><ml:concept>Solid Waste Management</ml:concept><ml:concept>Urban Solid Waste Management</ml:concept><ml:concept>Infrastructure and Networks (National; State; Local)</ml:concept><ml:concept>Telecommunication and Network Services</ml:concept><ml:concept>Telecommunications</ml:concept><ml:concept>Power Systems Technologies and Operations</ml:concept><ml:concept>Thermal Power Generation</ml:concept><ml:concept>Knowledge Economy</ml:concept><ml:concept>Environmental Economics &amp; Policies</ml:concept><ml:concept>Energy Service</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Technology Transfer and Diffusion</ml:concept><ml:concept>Privatization</ml:concept><ml:concept>Railways</ml:concept><ml:concept>Solid Waste</ml:concept><ml:concept>Airports</ml:concept><ml:concept>Congestion</ml:concept><ml:concept>Satellites</ml:concept><ml:concept>Pipelines</ml:concept><ml:concept>Infrastructure</ml:concept><ml:concept>Telecommunications and Broadband Access</ml:concept><ml:concept>Consumer Protection</ml:concept><ml:concept>Power Systems</ml:concept></ml:concepts><ml:geo-regions/></ml:annotations></ml:doc-envelope>

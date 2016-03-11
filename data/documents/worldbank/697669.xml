@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>/ &amp; 7 1q&#13;
+Technical Note&#13;
+The World Bank        FPD Note No. 35                                       February 1995&#13;
+Long-term Finance in Inflationary Economies&#13;
+High inflation creates punishing repayment schedules&#13;
+Dan Mozes&#13;
+There is a common misconception    will lose (rather than gain) purchasing&#13;
+that, in a high-inflation environment,   power by saving their money and de-&#13;
+long-term investment can be funded   laying their spending. Borrowers there-&#13;
+fO00        j          r _ __ by long-term loans' as long as a high   fore are required to pay interest rates&#13;
+nominal interest rate is charged. In    that are higher than the rate of infla-&#13;
+reality, inflation-adjusted interest rates  tion. If interest rates are lower than&#13;
+are not a viable solution for long-term  the rate of inflation, real rates are neg-&#13;
+financing because they do not provide  ative and borrowers are paying back&#13;
+investors with a realistic repayment    amounts smaller in real value than the&#13;
+v w      schedule-one that can be supported   amounts borrowed. Such loans will not&#13;
+by the cash flow from investments  be supported by voluntary savings.&#13;
+financed with the loan. While high  Besides discouraging savings, negative&#13;
+nominal interest rates in high-inflation  real rates provide a subsidy to the bor-&#13;
+economies do provide adequate real   rowers and therefore distort the alloca-&#13;
+&gt; *J^ compensation to lenders and reason-  tion of resources.&#13;
+able real total costs to borrowers, they&#13;
+create unacceptable cash flows. In  Real and nominal rates&#13;
+fact, high rates of inflation transform    Assume that interest rates are 7 per-&#13;
+all long-term nominal interest loans    cent a year when prices are stable. If&#13;
+into short-term loans, making them  the annual rate of inflation rises to 40&#13;
+unsuitable for financing long-term  percent, nominal interest rates would&#13;
+investments. Thus, high inflation cre-   have to rise to 50 percent a year to&#13;
+ates major problems for long-term  give lenders and borrowers the same&#13;
+finance.                          real interest rate. This can be calculat-&#13;
+ed in the following way. The real in-&#13;
+The impact of inflation            terest rate (Ri), defined as the interest&#13;
+on interest rates                 rate in real terms (that is, accounting&#13;
+Under inflationary conditions, nominal  for inflation), comes from dividing&#13;
+interest rates change to reflect the rate  (not subtracting, as people commonly&#13;
+of inflation. Savers demand a positive   do) the nominal interest rate (i) by the&#13;
+real return for their deposits as com-    inflation rate (f).2 Thus,&#13;
+pensation for delaying their spending.&#13;
+Unless the rate of interest paid to them  (1+Ri) = (1+i) . (1+f), or&#13;
+is higher than the rate of inflation, they  (1+i) = (1+Ri(1+J).&#13;
+Financial Sector Development Department&#13;
+-FPD    Vice Presidency for Finance and Private Sector Development&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+Some economists suggest that long-term lending&#13;
+Table 1 Nominal interest rates needed to achieve         with periodically adjusted short-term  rates is a&#13;
+7 percent real return at various inflation rates         workable solution to the problem  of long-term&#13;
+(percent)                                                  okbeslto   otepolmo  ogtr&#13;
+lending in unstable economies. In stable econo-&#13;
+Annual inflation rate     Nominal interest rate     mies, adjustable-interest-rate loans (or floating-rate&#13;
+50                       60.5               loans, as they are sometimes called), which allow&#13;
+75                       87.3               for periodic (monthly, quarterly, or semiannual)&#13;
+100                      114.0a               rate adjustments, are a useful tool; they enable fi-&#13;
+200                      221.0                nancial institutions to lend for longer terms than&#13;
+a. A rate of inflation of 100 percent means that prices double, so  their sources of funds without having to carry the&#13;
+that each unit of currency can buy only half of what it could  risk of a change of interest rates. As demonstrated&#13;
+buy a year earlier. The lender of S100 therefore needs to re-  below, however, in unstable economies, such ar-&#13;
+ceive $200 just to retain the purchasing power of the principal.  rangements can become a trap for borrowers com-&#13;
+At the beginning of the year, 7 percent interest amounted to $7,  r&#13;
+but to buy goods worth $7 a year later, the lender would have  pelling them to pay interest rates far above their&#13;
+to have $14. Thus, at 100 percent inflation, the lender of $100  cash flow repayment capacity.&#13;
+requiring 7 percent real interest would demand $214 at the end&#13;
+of one year, or 100 percent of principal plus 114 percent nomi-&#13;
+nal interest.                                            Long-term finance under high inflation&#13;
+The high effective nominal interest rates that result&#13;
+from high inflation rates cause long-term loans to&#13;
+In this example, 1.5 . 1.4 = 1.07. In other words,          become short-term from the borrower's cash flow&#13;
+with a nominal interest rate of 50 percent, the lender  point of view. To illustrate this phenomenon, the&#13;
+receives a 7 percent real return when the inflation         following numerical example compares the nominal&#13;
+rate is 40 percent. To achieve a real return of 7 per-    and real flows of two five-year loans with the same&#13;
+cent under other inflation scenarios, the nominal           real interest rate-one under stable and one under&#13;
+interest rate would naturally have to be adjusted           inflationary conditions. For the sake of simplicity,&#13;
+appropriately (table 1).                                   the example assumes that interest payments are&#13;
+made once a year at the end of the year, so that the&#13;
+Short-term  rates                                           nominal and effective (compounded) interest rates&#13;
+These computations are relevant for determining             are the same (see box on page 4 for an explanation&#13;
+short-term interest rates. In most cases of short-term      of the compounding effect).&#13;
+financing, however, the interest rate is fixed when&#13;
+the loan is provided-before the actual rate of infla-   Case I (base case)&#13;
+tion is known. Most economies that suffer high infla-  In case 1, there is no inflation. The five-year loan is&#13;
+tion also witness large month-to-month fluctuations    in the amount of $5,000, at 10 percent interest. Prin-&#13;
+in the inflation rate. Seasonality, periodic adjust-&#13;
+ments in government-controlled prices, tariffs, and&#13;
+foreign exchange rates, and the relative success and          Table 2 Repayment schedule for case 1&#13;
+failure of monetary and fiscal policies all have an            (dollars)&#13;
+impact on the monthly rate of inflation. For some             End of  Payment  Payment   Total  Disttibution of&#13;
+periods, the interest rates fixed at the beginning of         year (t) of principal of interest payment payments (%)&#13;
+the period may prove to be too low ex post, creat-            (1)         (2)        (3)       (4)        (5)&#13;
+ing negative real interest rates; for other periods, the      1          1,000       500      1,500       23.0&#13;
+real interest rates may be very high. Because of the          2          1,000       400      1,400       21.5&#13;
+uncertainty, lenders will attempt to secure their real        3          1,000       300      1,300       20.0&#13;
+return by charging higher nominal rates. This uncer-          4          1,000       200      1,200       18.5&#13;
+tainty effect will be especially costly for borrowers         5          1,000       100      1,100       17.0&#13;
+when the inflation rate is decreasing.                        Total      5,000     1,500      6,500      100.0&#13;
+2&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+Table 3 Repayment schedule for case 2&#13;
+Cost-of-    Payment of   Payment of  Total nominal   Payments    Distribution   Distribution&#13;
+End of   living index    principal  interest     payment      at tvalues     of nominal    of payments at&#13;
+year (t)   (t = 100)      ($)         (S)          ($)           ($)       payments (%)    to values (%)&#13;
+(1)          (2)         (3)          (4)       (3)+(4)=(5)      (6)            (7)            (8)&#13;
+1            200        1,000        6,ooo        7,000         3,500          30.4           60.3&#13;
+2            400        1,000        4,800        5,800         1,450          25.2           25.0&#13;
+3            800        1,000        3,600        4,600          575           20.0            9.9&#13;
+4           1,600       1,000        2,400        3,400          212           14.8            3.6&#13;
+5           3,200       1,000        1,200        2,200           69            9.6            1.2&#13;
+Total                   5,000       18,000       23,000         5,806         100.0          100.0&#13;
+cipal is to be repaid in five equal payments, and      Comparing the time distribution of the payments in&#13;
+interest is to be paid once annually, at the end of    the two cases highlights the effect of inflation on a&#13;
+each year, on the amount outstanding during that       borrower's cash flow. In case 1, under stable con-&#13;
+year (table 2).                                        ditions, the payments of principal and interest dur-&#13;
+ing the first year amount to 23 percent of the total&#13;
+Case 2 (inflation-adjusted interest rate)              payments. In case 2, under 100 percent inflation,&#13;
+In case 2, the loan terms are the same, but because    the payments during the first year amount to more&#13;
+of 100 percent inflation (prices double every year)    than 60 percent of the total payments in constant&#13;
+the interest rate required to achieve a 10 percent     dollars. The first year's payment in real terms for&#13;
+real rate of return is 120 percent. This rate is calcu-    the five-year loan in case 2 is equal to the first&#13;
+lated using the formula                                year's payment for a two-year loan under stable&#13;
+conditions.&#13;
+(1+i) = (1+J)(1+Ri), or&#13;
+Casbhflow effect&#13;
+(1+1.2) = (1+1.0)(1+0.1).                 The distribution of payments for a loan such as that&#13;
+in case 2 is incompatible with the kind of cash flow&#13;
+Columns 3, 4, 5, and 7 in table 3 are equivalent to    profile typical of long-term investment. Major capi-&#13;
+columns 2, 3, 4, and 5 in table 2. In case 2, howev-   tal investments involve large initial cash outlays for&#13;
+er, the high interest rate means that the amounts      the investing firm that must be recovered over a&#13;
+paid are much larger: $23,000, compared with           long period. To repay debt, the firm must generate&#13;
+$6,500 in case 1. In table 3, column 6 shows the       net positive cash flows-as reflected in its profits&#13;
+value at the time the loan was made (to) of the nom-  and the depreciation charges in its accounts-&#13;
+inal payments in column 5. These real amounts are   through sales of new products or increased produc-&#13;
+calculated by dividing the nominal amounts in col-   tion of existing ones. And adding new products or&#13;
+umn 5 by the inflation multiplier (cost-of-living in-    increasing production of existing ones requires ad-&#13;
+dex in t divided by the cost-of-living index in t)     ditional permanent working capital to finance raw&#13;
+This gives the value of each payment in constant       materials, work in process, inventories, and receiv-&#13;
+value dollars. Total payments over the five years      ables. The same problem arises with capital invest-&#13;
+amount to $5,806 in constant dollars.3 Column 8        ments aimed at cost reduction; such cost reductions&#13;
+shows the distribution of the payments in constant    will increase a firm's net cash inflow only over a&#13;
+value dollars. The differences between column 8 in   long period.&#13;
+table 3 and column 5 in table 2 show how inflation&#13;
+affects the distribution of payments in real terms     These problems are exacerbated in developing econ-&#13;
+over the life of a loan.                               omies, which have a smaller base of financially strong&#13;
+3&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+Box 1 The effect of compounding                            end of the year, it becomes clear why the compounding&#13;
+on interest payments                                       effect cannot be ignored. When inflation is high and nominal&#13;
+interest rates rise to allow a positive real interest rate, the&#13;
+In discussions of finance and interest rates, the periodicity of   nominal rates can become very high indeed. Under such&#13;
+actual interest payments is often neglected. The interest rate    circumstances, the frequency of interest payments becomes&#13;
+on a loan is generally quoted as an annual rate, and people    as significant as the rate itself. (This is shown dramatically in&#13;
+commonly disregard how often interest is actually charged. It  the table below, which calculates interest rates actually&#13;
+is usual to charge interest at the end of each month or each    charged in economies with high inflation.) Any analysis of&#13;
+quarter, with the actual monthly charge 1/12 of the annual    interest rates in high-inflation countries therefore should use&#13;
+rate and the quarterly charge 1/4 of the annual rate. With a  the effective (compounded) rate of interest, not the nominal&#13;
+12 percent annual interest rate, the monthly charge would be   rate. This compounded rate should be compared with the&#13;
+1 percent and the quarterly charge 3 percent.             inflation rate (itself a compound function) to compute the&#13;
+real rate.&#13;
+When nominal interest rates are low, the compounding effect&#13;
+is insignificant. If the annual nominal rate is 12 percent, the    Effective annual interest rates&#13;
+effective annual rate with monthly payments of interest is  (percent)&#13;
+12.7 percent (with quarterly payments, 12.5 percent). The&#13;
+compounded interest rate, or effective annual interest rate, is                  Effective annual interest rate with&#13;
+higher when interest is charged more frequently.          Annual&#13;
+nominal Monthly   Semiannual  Quarterly    Monthly&#13;
+Let's use the first example in the text (table 1), in which  interest  interest  interest     interest    interest&#13;
+prices are stable and the interest rate is 7 percent. If interest   rate  rate  payments   payments   payments&#13;
+is charged monthly, the effective (compounded) rate would   12          1           12.4        12.5        12.7&#13;
+be 7.23 percent. With 40 percent inflation, the equivalent rate    36   3           39.2        41.2        42.6&#13;
+of interest would be 50 percent. This nominal rate, if charged    60                69.0        74.9        79.6&#13;
+monthly, would become an effective rate of 63.2 percent,    84          7          101.6       114.4       125.2&#13;
+and the compounding effect would increase from 3 percent    8           9          137.2       l6o.1       18153&#13;
+of the nominal rate to 26 percent. At this level, the effects of    10  9           1.2        160         181.3&#13;
+'           ~~~180      15          261.0        342.0       435.0&#13;
+compounding can no longer be ignored.                      300        25           525.0       837.9      1,355.2&#13;
+If the borrower must borrow additional funds to pay the    420         35          861.0      1,766.1     3,564.4&#13;
+interest and needs to know what the total debt will be at the    540  45         1,269.0      2,949.8     8,538.1&#13;
+firns and undeveloped capital markets. The need in           Illustration by Ruth Sofair Ketler.&#13;
+these economies for medium- and long-term debt fi-             Loans with final maturities of three to seven years are considered&#13;
+nancing is greatest when they are attempting to accel-         medium-term loans, and loans with final maturities of more than seven&#13;
+erate economic growth by increasing investments in             years are considered long-term loans.&#13;
+fixed assets and rapidly expanding production. Firms         2 In all such computations, the interest rates must be expressed as&#13;
+decimals rather than as percentages (in this example 7 percent = 0.07).&#13;
+in industrial econom-iies generate much of thieir own        3 The total payments in constant value dollars are less than the total&#13;
+long-term funding through net cash flows from existing    payments under zero inflation. That is because the quick repayment of&#13;
+operations. When capital markets are well developed,           principal in real terms shortens the average period of the loan in real&#13;
+firms undertaking large-scale expansion can issue              terms, resulting in smaller total real interest payments.&#13;
+shares to the public and increase their capital base&#13;
+beyond their internal accumulation. Investing firms in       Dan Mozes, Senior Financial Specialist, Financial Sector Development&#13;
+developing economies don't have these options.               Department&#13;
+This series is published to share ideas and invite discussion. It covers financial and private sector development as well as&#13;
+industry and energy. The views expressed are those of the authors and are not intended to represent an official statement of&#13;
+Bank policy or strategy. e Printed on recycled paper.&#13;
+Comments are welcome. Please call the FPD Note line to leave a message: 202-458-1111; or contact Suzanne Smith, editor, Room&#13;
+G8105, The World Bank, 1818 H Street, NW, Washington, DC 20433, or Intemet address ssmith7@worldbank.org.&#13;
+4&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+</ml:original-txt><ml:search-metadata><doc id="697669">
+        <url>
+            http://documents.worldbank.org/curated/en/1995/02/697669/long-term-finance-inflationary-economies-high-inflation-creates-punishing-repayment-schedules
+        </url>
+        <availablein>English</availablein>
+        <virt_coll>Knowledge Notes</virt_coll>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/1995/02/697669/long-term-finance-inflationary-economies-high-inflation-creates-punishing-repayment-schedules</url_friendly_title>
+        <new_url>1995/02/697669/long-term-finance-inflationary-economies-high-inflation-creates-punishing-repayment-schedules</new_url>
+        <disclosure_date>2010-07-01T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2010-07-01T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/1995/02/01/000009265_3971229181410/Rendered/INDEX/multi_page.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/1995/02/01/000009265_3971229181410/Rendered/PDF/multi_page.pdf</pdfurl>
+        <docdt>1995-02-28T00:00:00Z</docdt>
+        <datestored>1995-02-01T00:00:00Z</datestored>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            Long-term finance in inflationary economies
+            : high inflation creates punishing repayment schedules
+        </repnme>
+        <abstracts>
+            There is a common misconception that in
+            a high-inflation environment, long-term investment can be
+            funded by long-term loans as long as a high nominal interest
+            rate is charged.  In reality, inflation-adjusted interest
+            rates are not a viable solution for long-term financing
+            because they do not provide investors with a realistic
+            repayment schedule.  While high nominal interest rates in
+            high-inflation economies do provide adequate real
+            compensation to lenders and reasonable real total costs to
+            borrowers, they create unacceptable cash flows.  In fact,
+            high rates of inflation transform all long-term nominal
+            interest loans into short-term loans, making them unsuitable
+            for financing long-term investments.  Thus, high inflation
+            creates major problems for long-term finance.  This Note
+            discusses the impact of inflation on interest rates--real
+            and nominal rates, and short-term rates.  The high effective
+            nominal interest rates that result from high inflation rates
+            cause long-term loans to become short-term from the
+            borrower's cash flow point of view.  This Note uses two
+            cases to illustrate this phenomenon.  Also, a separate box
+            on the effect of compounding on interest payments, a subject
+            often neglected, is included.
+        </abstracts>
+        <docna>
+            Long-term finance in inflationary economies
+            : high inflation creates punishing repayment schedules
+        </docna>
+        <display_title>Long-term finance in inflationary
+            economies : high inflation creates punishing repayment schedules</display_title>
+        <listing_relative_url>/research/1995/02/697669/long-term-finance-inflationary-economies-high-inflation-creates-punishing-repayment-schedules</listing_relative_url>
+        <docty>Viewpoint</docty>
+        <subtopic>Insurance &amp; Risk Mitigation,Environmental Economics &amp; Policies,Economic Theory &amp; Research,Insurance Law,Banks &amp; Banking Reform</subtopic>
+        <teratopic>Finance and Financial Sector Development,Law and Development,Macroeconomics and Economic Growth,Environment</teratopic>
+        <count>World</count>
+        <authors>
+            <author>Mozes, Dan</author>
+        </authors>
+        <entityids>
+            <entityid>000009265_3971229181410</entityid>
+        </entityids>
+        <subsc>Other Finance</subsc>
+        <admreg>The World Region,The World Region</admreg>
+        <colti>Public policy for the private sector ; FPD
+            Note no. 35</colti>
+        <lang>English</lang>
+        <historic_topic>Finance and Financial Sector Development,Law and Development,Macroeconomics and Economic Growth,Environment</historic_topic>
+        <sectr>Finance</sectr>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            Inflation; Long term loans; Real interest
+            rates; Interest rates; Finance; Cash flow; Long term investment
+            accounting,capital base,capital
+            markets,compensation,controlled
+            prices,debt,deposits,economic growth,economists,exchange
+            rates,Financial Sector,fiscal policies,foreign
+            exchange,inflation,inflation rate,inflation rates,interest
+            rates,inventories,maturities,nominal interest rate,nominal
+            interest rates,purchasing power,real interest
+            rate,savings,total costs,working capital
+        </keywd>
+        <owner>Financial Sctr Operations &amp; Pol (OPD)</owner>
+        <repnb>16979</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>Economic Policy and Debt</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Economic Management</ml:concept><ml:concept>Macroeconomic Management</ml:concept><ml:concept>Macroeconomic Policy</ml:concept><ml:concept>Macroeconomics Policy</ml:concept><ml:concept>Macroeconomics and Economic Growth</ml:concept><ml:concept>Macroeconomics and Growth</ml:concept><ml:concept>Poverty Reduction</ml:concept><ml:concept>Poverty Reduction and Distributional Analysis</ml:concept><ml:concept>Poverty Reduction and Equity</ml:concept><ml:concept>Poverty and Inequality</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Macroeconomic Vulnerability and Debt</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Agriculture and Food Security</ml:concept><ml:concept>Macroeconomic and Structural Policies</ml:concept><ml:concept>Poverty</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Capital Flows</ml:concept><ml:concept>Capital Markets and Capital Flows</ml:concept><ml:concept>Insurance &amp; Risk Mitigation</ml:concept><ml:concept>Fiscal &amp; Monetary Policy</ml:concept><ml:concept>Fiscal Consolidation</ml:concept><ml:concept>Fiscal Decentralization</ml:concept><ml:concept>Fiscal Governance</ml:concept><ml:concept>Fiscal Governance and Structural Fiscal Reform</ml:concept><ml:concept>Fiscal Reform</ml:concept><ml:concept>Fiscal Rules</ml:concept><ml:concept>Fiscal Sustainability</ml:concept><ml:concept>Macro-Fiscal Policy</ml:concept><ml:concept>Debt Management</ml:concept><ml:concept>Debt Policy</ml:concept><ml:concept>Debt Policy and Management</ml:concept><ml:concept>Public Debt Management</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Subsidies</ml:concept><ml:concept>Capital Markets</ml:concept><ml:concept>Insurance</ml:concept><ml:concept>Savings</ml:concept><ml:concept>Inflation</ml:concept><ml:concept>Fiscal Policy</ml:concept><ml:concept>Debt</ml:concept></ml:concepts><ml:geo-regions/></ml:annotations></ml:doc-envelope>

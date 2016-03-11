@@ -1,0 +1,933 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>                                                                  87902&#13;
+                PES Learning Paper 2012-3P&#13;
+&#13;
+&#13;
+O Projeto Mina dâ&#128;&#153;Ã&#129;gua em SÃ£o Paulo, Brasil&#13;
+&#13;
+Helena Carrascosa von Glehn, Denise Taffarello, Aracy Kamiyama,&#13;
+       Ana Carolina Dalla Vecchia, Caroline Vigo Cogueto&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                         Outubro 2012&#13;
+&#13;
+&#13;
+Latin America and Caribbean Sustainable Development Department&#13;
+                          World Bank&#13;
+                       Washington DC, USA&#13;
+&amp;#12;Resumo	&#13; Â &#13;
+O Pagamento por ServiÃ§os Ambientais (PSA) foi concebido como um novo instrumento de gestÃ£o,&#13;
+adicional a os de comando e controle jÃ¡ existentes, visando viabilizar em especial a restauraÃ§Ã£o e&#13;
+conservaÃ§Ã£o da vegetaÃ§Ã£o nativa e a conversÃ£o de sistemas produtivos convencionais para modelos&#13;
+mais sustentÃ¡veis em Ã¡reas de importÃ¢ncia ambiental. Nesse contexto, o estado de SÃ£o Paulo decidiu&#13;
+desenvolver um programa estadual de PSA, sendo o Projeto Mina dâ&#128;&#153;Ã&#129;gua o exemplo pioneiro, que&#13;
+deverÃ¡ fornecer informaÃ§Ãµes para orientar a continuidade das aÃ§Ãµes, principalmente quanto aos&#13;
+arranjos para a implementaÃ§Ã£o e a formataÃ§Ã£o dos prÃ³ximos projetos.&#13;
+&#13;
+Autores	&#13; Â &#13;
+Helena Carrascosa von Glehn Ã© Assessora TÃ©cnica do Gabinete da Secretaria do Meio Ambiente do&#13;
+Estado de SÃ£o Paulo (SMA) e Gerente TÃ©cnica Ambiental do Projeto de Desenvolvimento Rural&#13;
+SustentÃ¡vel; Denise Taffarello Ã© estudante de doutorado na Universidade de SÃ£o Paulo, Escola de&#13;
+Engenharia SÃ£o Carlos, Departamento de HidrÃ¡ulica e Saneamento; Aracy Kamiyama e Ana Carolina&#13;
+Dalla Vecchia sÃ£o especialistas ambientais da SMA; e Caroline Vigo Cogueto Ã© BiÃ³logo na Companhia&#13;
+de Tecnologia de Saneamento Ambiental (CETESB).&#13;
+&#13;
+Palavras	&#13; Â chave	&#13; Â &#13;
+Pagamentos por ServiÃ§os Ambientais (PSA), Brasil&#13;
+&#13;
+Agradecimentos	&#13; Â &#13;
+Este artigo Ã© baseado no trabalho realizado durante a implementaÃ§Ã£o do Projeto de Desenvolvimento&#13;
+Rural SustentÃ¡vel (PDRS) â&#128;&#156;Microbacias IIâ&#128;&#157;, executado pela Coordenadoria de Biodiversidade e Recursos&#13;
+Naturais (CBRN) da Secretaria de Estado do Meio Ambiente (SMA) e pela Coordenadoria de AssistÃªncia&#13;
+TÃ©cnica Integral (CATI) da Secretaria de Estado de Agricultura e Abastecimento (SAA), com recursos de&#13;
+acordo de emprÃ©stimo firmado com o Banco Mundial. Uma versÃ£o anterior deste artigo foi apresentada&#13;
+no Workshop sobre Pagamentos por ServiÃ§os Ambientais: ExperiÃªncias no Brasil, organizados pela&#13;
+Secretaria Estadual de Meio Ambiente de SÃ£o Paulo (SMA), em SÃ£o Paulo, em 29-30 de marÃ§o de 2011,&#13;
+como parte do fechamento do Projeto Mata Ciliares, que foi financiada por uma doÃ§Ã£o do Fundo Global&#13;
+para o Meio Ambiente (GEF) de USD 7,75 milhÃµes.&#13;
+&#13;
+Foto	&#13; Â da	&#13; Â capa	&#13; Â &#13;
+Nascente em uma propriedade no municÃ­pio de Guapiara, SÃ£o Paulo (Stefano Pagiola).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+PES	&#13; Â Learning	&#13; Â Papers	&#13; Â &#13;
+PES Learning Papers draw on the World Bankâ&#128;&#153;s extensive experience in supporting programs of&#13;
+Payments for Environmental Services (PES). They are part of a larger effort by the World Bank to&#13;
+provide open access to its research and make a contribution to development policy discussions around&#13;
+the world.&#13;
+The PES Learning Paper series disseminates the findings of work in progress to encourage the exchange&#13;
+of ideas about PES. An objective of the series is to get the findings out quickly, even if the&#13;
+presentations are less than fully polished. The papers carry the names of the authors and should be&#13;
+cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely&#13;
+those of the authors. They do not necessarily represent the views of the International Bank for&#13;
+Reconstruction and Development/World Bank and its affiliated organizations, or those of the Executive&#13;
+Directors of the World Bank or the governments they represent. The boundaries, colors,&#13;
+denominations, and other information shown on any map in this work do not imply any judgment on the&#13;
+part of The World Bank concerning the legal status of any territory or the endorsement or acceptance&#13;
+of such boundaries.&#13;
+&amp;#12;                 O Projeto Mina dâ&#128;&#153;Ã&#129;gua em SÃ£o Paulo, Brasil&#13;
+           Helena Carrascosa von Glehn, Denise Taffarello, Aracy Kamiyama,&#13;
+                  Ana Carolina Dalla Vecchia, Caroline Vigo Cogueto&#13;
+&#13;
+                                   1. IntroduÃ§Ã£o&#13;
+       No estado de SÃ£o Paulo, a cobertura de florestas nativas jÃ¡ chegou a ocupar mais&#13;
+de 80% do territÃ³rio, decaindo progressivamente atÃ© a dÃ©cada de 1990. Quando se&#13;
+compara os resultados dos Ãºltimos inventÃ¡rios florestais, no entanto, verifica-se que a&#13;
+cobertura de vegetaÃ§Ã£o nativa estÃ¡ estabilizada em cerca de 4,3 milhÃµes de hectares,&#13;
+correspondendo a 17,5% da superfÃ­cie do estado (Instituto Florestal, 2010). Nos Ãºltimos&#13;
+anos, tem sido observado, inclusive, um acrÃ©scimo na vegetaÃ§Ã£o que indica que um&#13;
+movimento de recuperaÃ§Ã£o de florestas estÃ¡ em curso, em especial de matas ciliares.&#13;
+Mas o que se observa Ã© que a taxa de recuperaÃ§Ã£o ainda Ã© baixa se considerarmos a&#13;
+necessidade de recuperar Ã¡reas importantes para a manutenÃ§Ã£o dos serviÃ§os&#13;
+ecossistÃªmicos essenciais para a qualidade de vida e o desenvolvimento. Os instrumentos&#13;
+de comando e controle, isoladamente, nÃ£o se mostram suficientes para alavancar a&#13;
+recuperaÃ§Ã£o em larga escala. VÃ¡rios fatores podem ser lembrados para entender esse&#13;
+fato, sendo prioritÃ¡rio que urgentes aÃ§Ãµes e programas sejam promovidos.&#13;
+        O Pagamento por ServiÃ§os Ambientais (PSA) foi concebido como um novo&#13;
+instrumento de gestÃ£o, adicional a os de comando e controle jÃ¡ existentes, visando&#13;
+viabilizar em especial a restauraÃ§Ã£o e conservaÃ§Ã£o da vegetaÃ§Ã£o nativa e a conversÃ£o de&#13;
+sistemas produtivos convencionais para modelos mais sustentÃ¡veis em Ã¡reas de&#13;
+importÃ¢ncia ambiental.&#13;
+       Nesse contexto, o estado de SÃ£o Paulo decidiu desenvolver um programa estadual&#13;
+de PSA, sendo o Projeto Mina dâ&#128;&#153;Ã&#129;gua o exemplo pioneiro, que deverÃ¡ fornecer&#13;
+informaÃ§Ãµes para orientar a continuidade das aÃ§Ãµes, principalmente quanto aos arranjos&#13;
+para a implementaÃ§Ã£o e a formataÃ§Ã£o dos prÃ³ximos projetos.&#13;
+&#13;
+                                     2. Origens&#13;
+       A decisÃ£o de estudar e implantar o PSA decorreu da constataÃ§Ã£o de que os&#13;
+instrumentos tradicionais de controle, embora eficazes para coibir o desmatamento, nÃ£o&#13;
+se mostram capazes de induzir a restauraÃ§Ã£o de Ã¡reas degradadas.&#13;
+&#13;
+Estudos&#13;
+        O desenvolvimento da estratÃ©gia de PSA foi um dos objetivos do Projeto de&#13;
+RecuperaÃ§Ã£o de Matas Ciliares desenvolvido pela Coordenadoria de Biodiversidade e&#13;
+Recursos Naturais (CBRN) da Secretaria de Estado do Meio Ambiente (SMA). O PRMC foi&#13;
+concebido com o objetivo de desenvolver instrumentos, metodologias e estratÃ©gias para&#13;
+viabilizar a recuperaÃ§Ã£o de matas ciliares em um programa de longo prazo (SMA, 2006).&#13;
+O projeto foi implementado entre 2005 e 2011, com o apoio do Fundo Global de Meio&#13;
+Ambiente (GEF) e do Banco Mundial, por meio de uma doaÃ§Ã£o de US$ 7,75 milhÃµes. A&#13;
+equipe do PRMC teve o privilÃ©gio de contar com o apoio de especialistas do Banco&#13;
+&#13;
+                                          1&#13;
+&amp;#12;Mundial e da OrganizaÃ§Ã£o das NaÃ§Ãµes Unidas para Agricultura e AlimentaÃ§Ã£o (FAO), o&#13;
+que possibilitou o acesso a informaÃ§Ãµes sobre vÃ¡rias iniciativas de PSA em&#13;
+desenvolvimento no mundo. AlÃ©m disso, o PRMC apoiou uma sÃ©rie de estudos que&#13;
+poderÃ£o ser utilizados como subsÃ­dios para a implantaÃ§Ã£o de projetos de PSA (Quadro 1).&#13;
+&#13;
+Quadro 1: SÃ­ntese dos resultados de alguns estudos apoiados pelo PRMC&#13;
+RelaÃ§Ã£o entre mata ciliar, erosÃ£o, turbidez e qualidade da Ã¡gua (Sousa JÃºnior, 2011): Dois&#13;
+estudos combinados geraram informaÃ§Ãµes a fim de estabelecer critÃ©rios para o&#13;
+desenvolvimento de um mecanismo de PSA que associe a funÃ§Ã£o ecossistÃªmica das matas&#13;
+ciliares com o uso de prÃ¡ticas conservacionistas em relaÃ§Ã£o Ã  contenÃ§Ã£o de erosÃ£o e reduÃ§Ã£o&#13;
+da quantidade de sedimentos em suspensÃ£o na Ã¡gua. AlÃ©m disso, estabeleceu cenÃ¡rios de uso&#13;
+e cobertura da terra de acordo com sua capacidade em termos de conservaÃ§Ã£o dos solos.&#13;
+Monitoramento de impactos na diversidade biolÃ³gica (Metzger, 2011): Este estudo visou&#13;
+indicar grupos biolÃ³gicos que possam ser utilizados como indicadores para o monitoramento da&#13;
+biodiversidade, por meio de revisÃ£o de artigos cientÃ­ficos relacionados com indicadores&#13;
+ecolÃ³gicos para a Mata AtlÃ¢ntica. O estudo tambÃ©m elencou os mÃ©todos de monitoramento em&#13;
+funÃ§Ã£o do tipo de manejo florestal e os critÃ©rios para a escolha dos mÃ©todos mais adequados&#13;
+Ã s condiÃ§Ãµes ambientais locais.&#13;
+Capacidade dos sistemas agroflorestais para gerar crÃ©ditos de carbono (Martins, 2009): Este&#13;
+estudo visou Ã  proposiÃ§Ã£o e avaliaÃ§Ã£o da viabilidade de projetos de reflorestamento ciliar&#13;
+associado a atividades comerciais em Ã¡reas tampÃ£o capazes de gerar crÃ©ditos de carbono. As&#13;
+propostas consideraram as condiÃ§Ãµes ambientais, sociais e econÃ´micas necessÃ¡rias para sua&#13;
+exploraÃ§Ã£o.&#13;
+QuantificaÃ§Ã£o de biomassa e carbono em reflorestamentos de restauraÃ§Ã£o (Melo e outros,&#13;
+2008): O PRMC apoiou tÃ©cnicos do Instituto Florestal e da Universidade Federal do ParanÃ¡ que&#13;
+desenvolveram equaÃ§Ãµes alomÃ©tricas para quantificaÃ§Ã£o de biomassa e carbono em Ã¡rvores de&#13;
+reflorestamento implantado para restauraÃ§Ã£o ecolÃ³gica de mata ciliar e outras Ã¡reas. O estudo&#13;
+auxiliou a quantificar um dos serviÃ§os ambientais prestados pelas florestas: o papel das&#13;
+Ã¡rvores como sumidouros de carbono, que contribui para a reduÃ§Ã£o dos nÃ­veis de CO 2&#13;
+atmosfÃ©rico. As informaÃ§Ãµes geradas por este estudo subsidiarÃ£o as polÃ­ticas e programas&#13;
+relacionados ao fomento da restauraÃ§Ã£o por meio da alocaÃ§Ã£o de recursos financeiros advindos&#13;
+de â&#128;&#156;crÃ©ditosâ&#128;&#157; estaduais de carbono (associado ao cumprimento de metas de reduÃ§Ã£o de&#13;
+emissÃµes estabelecida na PolÃ­tica Estadual de MudanÃ§as ClimÃ¡ticas - PEMC).&#13;
+EstruturaÃ§Ã£o de um Fundo Estadual para PSA (FGV, 2009): Este estudo focou a anÃ¡lise de&#13;
+diferentes cenÃ¡rios e a elaboraÃ§Ã£o de recomendaÃ§Ãµes para estruturaÃ§Ã£o do Fundo Estadual de&#13;
+PSA, contemplando arranjos variados no que se refere Ã s caracterÃ­sticas jurÃ­dicas, financeiras,&#13;
+gerenciais e operacionais.&#13;
+Viabilidade do uso de reverse auction como mecanismo de PSA (Hercowitz e Figueiredo, 2011):&#13;
+A maioria dos programas de PSA ao redor do mundo com o objetivo de incentivar a adoÃ§Ã£o de&#13;
+boas prÃ¡ticas ambientais tem adotado mecanismos de negociaÃ§Ã£o e pagamentos baseados em&#13;
+preÃ§os prÃ©-fixados, definidos em conformidade com diversos fatores, sendo o custo de&#13;
+oportunidade um dos principais. O PRMC decidiu testar o mecanismo de leilÃ£o reverso, um&#13;
+instrumento econÃ´mico que pode ser aplicado Ã  negociaÃ§Ã£o dos valores a serem pagos em um&#13;
+programa de PSA. O estudo apresentou uma revisÃ£o teÃ³rica sobre outras iniciativas em leilÃ£o&#13;
+reverso em outros paÃ­ses. Trouxe tambÃ©m os resultados de duas simulaÃ§Ãµes de leilÃ£o reverso&#13;
+para PSA realizadas em duas regiÃµes do estado â&#128;&#147; uma na Ã&#129;rea de ProteÃ§Ã£o Ambiental (APA)&#13;
+Capivari-Monos, na Ã&#129;rea de ProteÃ§Ã£o dos Mananciais da Guarapiranga, municÃ­pio de SÃ£o Paulo,&#13;
+e outra na APA de Itupararanga, no bairro do Verava, municÃ­pio de IbiÃºna.&#13;
+&#13;
+                                              2&#13;
+&amp;#12;      Embora o PRMC tenha terminado em abril de 2011, o Banco Mundial continua a&#13;
+prestar apoio Ã  estratÃ©gia de implementaÃ§Ã£o de projetos de PSA no estado de SÃ£o Paulo&#13;
+por meio do Projeto de Desenvolvimento Rural SustentÃ¡vel (PDRS) â&#128;&#156;Microbacias IIâ&#128;&#157;,&#13;
+executado pela CBRN e pela Coordenadoria de AssistÃªncia TÃ©cnica Integral (CATI) da&#13;
+Secretaria de Estado de Agricultura e Abastecimento (SAA), com recursos de acordo de&#13;
+emprÃ©stimo firmado com o Banco Mundial visando apoiar a sustentabilidade econÃ´mica,&#13;
+ambiental e social da agricultura familiar.&#13;
+&#13;
+Projeto piloto&#13;
+      O Projeto Piloto â&#128;&#156;Produtor de Ã&#129;gua no PCJâ&#128;&#157; (PdA-PCJ, ver Padovezi e outros,&#13;
+2012), formulado com base na metodologia proposta pela AgÃªncia Nacional de Ã&#129;guas&#13;
+(ANA) no Ã¢mbito do Programa Produtor de Ã&#129;gua (PdA) e executado conjuntamente com&#13;
+projetos demonstrativos do PRMC, foi um passo importante no processo de&#13;
+desenvolvimento de uma estratÃ©gia de PSA para todo o estado de SÃ£o Paulo. A&#13;
+experiÃªncia do programa de PSA em Extrema tambÃ©m forneceu liÃ§Ãµes valiosas. Vale a&#13;
+pena mencionar que havia outros esforÃ§os de PSA em SÃ£o Paulo durante esse perÃ­odo,&#13;
+como o Projeto OÃ¡sis, e que tambÃ©m contribuÃ­ram para o crescente corpo de&#13;
+experiÃªncia neste tema.&#13;
+       As microbacias onde estÃ¡ sendo desenvolvido o Projeto Piloto PdA-PCJ estÃ£o&#13;
+concentradas na porÃ§Ã£o superior das sub-bacias dos rios Atibaia, Camanducaia,&#13;
+CorumbataÃ­ e Jaguari. Nessa regiÃ£o, a baixa aptidÃ£o agrÃ­cola das terras, por causa do&#13;
+relevo acidentado e maior susceptibilidade Ã  erosÃ£o (PROESP Engenharia, 2005),&#13;
+associado aos recursos provenientes da cobranÃ§a federal recebidos a partir de janeiro de&#13;
+2006 (ver abaixo), indicou que a implantaÃ§Ã£o de um esquema de PSA poderia trazer&#13;
+avanÃ§os socioeconÃ´micos e ambientais para se lidar com o problema. Assim, o projeto&#13;
+iniciou-se em 2009, sendo a sua consolidaÃ§Ã£o dada no inÃ­cio de 2011, com os primeiros&#13;
+pagamentos aos proprietÃ¡rios rurais. Os desafios fundamentais para o Ãªxito das aÃ§Ãµes,&#13;
+que ainda persistem, foram abordados por Padovezi e outros (2012).&#13;
+&#13;
+Aspectos legais&#13;
+       Uma limitaÃ§Ã£o importante para o desenvolvimento de programas de PSA foi a&#13;
+restriÃ§Ã£o para que o Estado realizasse pagamentos diretamente aos proprietÃ¡rios rurais.&#13;
+No PdA-PCJ, por exemplo, os pagamentos foram feitos pela organizaÃ§Ã£o nÃ£o&#13;
+governamental (ONG) The Nature Conservancy (TNC).&#13;
+       A CBRN e a CÃ¢mara TÃ©cnica de ProteÃ§Ã£o das Ã&#129;guas do Conselho Estadual de&#13;
+Recursos HÃ­dricos (CRH) elaboraram, em 2009, um anteprojeto de lei visando Ã &#13;
+instituiÃ§Ã£o de uma polÃ­tica estadual de PSA. O anteprojeto foi submetido aos Conselhos&#13;
+Estaduais do Meio Ambiente e de Recursos HÃ­dricos, que o aprovaram. Enquanto a&#13;
+proposta de polÃ­tica de PSA tramitava, a AssemblÃ©ia Legislativa do Estado de SÃ£o Paulo&#13;
+(ALESP) aprovou a PolÃ­tica Estadual de MudanÃ§as ClimÃ¡ticas (PEMC, Lei Estadual&#13;
+No.13.798), proposta pela SMA, que instituiu o PSA como um dos instrumentos do&#13;
+Programa de Remanescentes Florestais (PRF), objeto do artigo 23 da referida lei.&#13;
+Considerando a PEMC, decidiu-se por nÃ£o encaminhar Ã  ALESP o anteprojeto de lei&#13;
+visando instituir uma polÃ­tica de PSA. O conteÃºdo do anteprojeto de lei aprovado pelos&#13;
+&#13;
+                                           3&#13;
+&amp;#12;conselhos estaduais deu origem aos dispositivos relativos ao PSA no Decreto&#13;
+No.55.947/2010 que regulamentou a PEMC (artigos 63 a 67).&#13;
+       O Decreto No.55.947/2010 especifica que o PRF pode prever, para consecuÃ§Ã£o de&#13;
+suas finalidades, pagamentos aos proprietÃ¡rios rurais conservacionistas (art.51) e&#13;
+contempla regras gerais para o PSA. TambÃ©m estabelece que os projetos serÃ£o definidos&#13;
+por ResoluÃ§Ãµes do SecretÃ¡rio do Meio Ambiente. HÃ¡ dispositivos tratando de aÃ§Ãµes que&#13;
+podem ser contempladas; critÃ©rios para a seleÃ§Ã£o de Ã¡reas prioritÃ¡rias, privilegiando a&#13;
+proteÃ§Ã£o da Ã¡gua e da biodiversidade; condiÃ§Ãµes e requisitos para a participaÃ§Ã£o de&#13;
+produtores rurais; critÃ©rios e limites para a definiÃ§Ã£o de valores a serem pagos, alÃ©m de&#13;
+estratÃ©gias de implementaÃ§Ã£o. Portanto, o estado de SÃ£o Paulo, atualmente, possui uma&#13;
+base jurÃ­dica sÃ³lida, que constitui o marco legal para a implantaÃ§Ã£o dos projetos de PSA.&#13;
+       A instituiÃ§Ã£o da cobranÃ§a pelo uso da Ã¡gua foi um importante avanÃ§o na gestÃ£o&#13;
+dos recursos hÃ­dricos nesse perÃ­odo e deverÃ¡ viabilizar programas de PSA. No estado de&#13;
+SÃ£o Paulo, a cobranÃ§a pelos usos industrial e urbano dos recursos hÃ­dricos foi instituÃ­da&#13;
+pela Lei Estadual No.12.183, de 29 de dezembro de 2005, e regulamentada pelo Decreto&#13;
+Estadual No.50.667, de 30 de marÃ§o de 2006. No Ã¢mbito federal, a cobranÃ§a Ã© um dos&#13;
+instrumentos da PolÃ­tica Nacional de Recursos HÃ­dricos (Lei Federal No.9.433/1997),&#13;
+sendo da ANA a atribuiÃ§Ã£o de implementar, em articulaÃ§Ã£o com os ComitÃªs de Bacia&#13;
+HidrogrÃ¡fica, a cobranÃ§a pelo uso dos recursos hÃ­dricos de domÃ­nio da UniÃ£o, conforme&#13;
+Lei Federal No.9.984/2000. Iniciada em 2003, a cobranÃ§a federal foi adotada&#13;
+inicialmente na bacia do rio ParaÃ­ba do Sul, seguida da implantaÃ§Ã£o nas bacias dos rios&#13;
+Piracicaba, Capivari e JundiaÃ­ (PCJ). Em 2010, a cobranÃ§a federal foi implantada na&#13;
+bacia do rio SÃ£o Francisco e, a partir de outubro de 2011, na bacia hidrogrÃ¡fica do rio&#13;
+Doce. No estado de SÃ£o Paulo, a cobranÃ§a encontra-se em fase de franca&#13;
+implementaÃ§Ã£o. AtÃ© o presente momento, trÃªs ComitÃªs de Bacia (ParaÃ­ba do Sul, PCJ,&#13;
+Sorocaba e MÃ©dio TietÃª) jÃ¡ efetuam cobranÃ§a, que deverÃ¡ ser implantada a curto prazo&#13;
+em mais 12 ComitÃªs de Bacia. AtÃ© dezembro de 2010, sete propostas de cobranÃ§a pelos&#13;
+usos industriais e urbanos dos recursos hÃ­dricos de domÃ­nio do estado de SÃ£o Paulo foram&#13;
+referendadas pelo CRH, estimando um total de arrecadaÃ§Ã£o de cerca de R$ 111 milhÃµes&#13;
+por ano, a partir do terceiro ano apÃ³s o inÃ­cio da cobranÃ§a, que Ã© progressiva em seus&#13;
+trÃªs primeiros anos.&#13;
+        O produto da cobranÃ§a estarÃ¡ vinculado Ã s bacias hidrogrÃ¡ficas em que for&#13;
+arrecadado, e serÃ¡ aplicado em financiamentos, emprÃ©stimos, ou a fundo perdido, para&#13;
+a implementaÃ§Ã£o de programas, projetos, serviÃ§os e obras, de interesse pÃºblico, da&#13;
+iniciativa pÃºblica ou privada, definidos nos Planos de Recursos HÃ­dricos, em&#13;
+conformidade com o aprovado pelo respectivo ComitÃª de Bacia (CRHi, 2010). Se uma&#13;
+parcela for destinada ao financiamento de projetos de PSA voltados Ã  proteÃ§Ã£o da Ã¡gua,&#13;
+serÃ¡ possÃ­vel contar com uma fonte permanente de recursos para a conservaÃ§Ã£o e&#13;
+restauraÃ§Ã£o. Por exemplo, em 2006, os ComitÃªs da Bacia HidrogrÃ¡fica do rios PCJ1, em&#13;
+1&#13;
+    HÃ¡ trÃªs CBH nas bacias hidrogrÃ¡ficas dos rios Piracicaba, Capivari e JundiaÃ­: o comitÃª Paulista, criado&#13;
+    segundo a Lei Paulista No.7.663/91, o comitÃª Mineiro, criado segundo a Lei Mineira No.13.199/99, e o&#13;
+    comitÃª Federal, criado segundo a Lei Federal No.9.433/97.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                    4&#13;
+&amp;#12;uma decisÃ£o pioneira, aprovaram alteraÃ§Ã£o no seu Plano de Bacia, abrindo a&#13;
+possibilidade de destinar para PSA recursos da cobranÃ§a pelo uso da Ã¡gua em rios de&#13;
+domÃ­nio da UniÃ£o.&#13;
+&#13;
+Para a implementaÃ§Ã£o&#13;
+       Em razÃ£o de sua dependÃªncia da PEMC para fornecer a sua base jurÃ­dica, o uso do&#13;
+PSA em SÃ£o Paulo estÃ¡, neste momento, limitado a aÃ§Ãµes relacionadas Ã s alteraÃ§Ãµes&#13;
+climÃ¡ticas: as aÃ§Ãµes que promovem o seqÃ¼estro de carbono e/ou Ã  reduÃ§Ã£o do&#13;
+desmatamento e controle da degradaÃ§Ã£o de remanescentes florestais (especialmente, ao&#13;
+segundo â&#128;&#156;Dâ&#128;&#157; do REDD+, visto que o Ã­ndice de desmatamento no estado de SÃ£o Paulo estÃ¡&#13;
+estabilizado). No entanto, entre as diversas aÃ§Ãµes que proporcionam seqÃ¼estro ou&#13;
+manutenÃ§Ã£o de estoques de carbono foram incluÃ­das apenas aquelas que contribuem&#13;
+tambÃ©m para a conservaÃ§Ã£o da biodiversidade e a proteÃ§Ã£o da Ã¡gua. Em outras palavras,&#13;
+as aÃ§Ãµes que podem ser objeto de PSA sÃ£o aquelas que seqÃ¼estram ou conservam&#13;
+carbono e que tambÃ©m contribuem para a conservaÃ§Ã£o da biodiversidade e/ou para a&#13;
+proteÃ§Ã£o da Ã¡gua. Projetos que seqÃ¼estram carbono, mas nÃ£o tÃªm efeitos positivos em&#13;
+relaÃ§Ã£o aos demais serviÃ§os ecossistÃªmicos nÃ£o sÃ£o objetos de PSA no escopo do PRF,&#13;
+que relaciona, assim, as agendas de mudanÃ§as climÃ¡ticas, biodiversidade e proteÃ§Ã£o dos&#13;
+recursos hÃ­dricos.&#13;
+       Durante as discussÃµes que resultaram na regulamentaÃ§Ã£o do PSA houve muito&#13;
+debate, especialmente no Ã¢mbito do Sistema Estadual de Gerenciamento de Recursos&#13;
+HÃ­dricos, uma vez que hÃ¡ a expectativa de que parte dos recursos advindos da cobranÃ§a&#13;
+pelo uso da Ã¡gua de domÃ­nio estadual seja alocada para projetos de PSA que contribuam&#13;
+para a conservaÃ§Ã£o dos recursos hÃ­dricos. Uma preocupaÃ§Ã£o importante nesse fÃ³rum&#13;
+relacionava-se Ã  manutenÃ§Ã£o da autonomia dos comitÃªs de bacia hidrogrÃ¡fica para&#13;
+decidir sobre o financiamento de projetos de PSA considerando seus interesses e&#13;
+prioridades. A autonomia dos comitÃªs de bacia foi mantida na regulamentaÃ§Ã£o do&#13;
+instrumento, no que se refere Ã  destinaÃ§Ã£o dos recursos advindos da cobranÃ§a pelo uso&#13;
+dos recursos hÃ­dricos.&#13;
+        Outras duas questÃµes foram objeto de intensas discussÃµes: se o PSA significaria&#13;
+pagar para que se cumpra a lei e se as Ã¡reas protegidas deveriam ser excluÃ­das de&#13;
+projetos de PSA. ApÃ³s amplo debate foi consolidado o entendimento de que o PSA nÃ£o&#13;
+significa â&#128;&#156;pagar para cumprir a leiâ&#128;&#157;, jÃ¡ que nÃ£o haverÃ¡ pagamentos sem a comprovaÃ§Ã£o&#13;
+da realizaÃ§Ã£o das aÃ§Ãµes previstas em contratos, nÃ£o havendo previsÃ£o para PSA&#13;
+â&#128;&#156;passivoâ&#128;&#157;. Os projetos nÃ£o serÃ£o implantados de forma aleatÃ³ria e sim em Ã¡reas&#13;
+especÃ­ficas, que serÃ£o definidas de acordo com sua prioridade para a geraÃ§Ã£o dos&#13;
+serviÃ§os ambientais que se pretende incentivar, podendo-se incluir Ã¡reas especialmente&#13;
+protegidas. Ademais, o PSA nÃ£o substitui os instrumentos de comando e controle&#13;
+tradicionais, mas consiste em um instrumento de gestÃ£o complementar.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                          5&#13;
+&amp;#12;                               3. O Projeto Mina dâ&#128;&#152;Ã&#129;gua&#13;
+       Conforme citado anteriormente, o PRF estabelece que a SMA definirÃ¡ por norma&#13;
+prÃ³pria os projetos de PSA, de acordo com os princÃ­pios, diretrizes e critÃ©rios da PEMC e&#13;
+do PRF. O Projeto Mina dâ&#128;&#153;Ã&#129;gua Ã© o primeiro projeto de PSA de Ã¢mbito estadual definido&#13;
+com base nos princÃ­pios do PRF. Foi instituÃ­do pela ResoluÃ§Ã£o SMA No.61, de 24 de junho&#13;
+de 2010, posteriormente substituÃ­da pela ResoluÃ§Ã£o SMA No.123, de 24 de dezembro de&#13;
+2010, e tem como objetivo a proteÃ§Ã£o e a recuperaÃ§Ã£o de nascentes em mananciais de&#13;
+abastecimento pÃºblico.&#13;
+      O Projeto serÃ¡ executado em etapas, sendo a primeira, em curso, voltada ao&#13;
+desenvolvimento e avaliaÃ§Ã£o de metodologias, estratÃ©gias e arranjos de implementaÃ§Ã£o,&#13;
+baseadas em parcerias entre SMA e Prefeituras Municipais. Os resultados esperados nessa&#13;
+fase relacionam-se mais ao aprimoramento dos arranjos de implementaÃ§Ã£o do que Ã &#13;
+proteÃ§Ã£o propriamente dita das nascentes. Isso porque os impactos do Projeto Mina&#13;
+dâ&#128;&#153;Ã&#129;gua sobre a qualidade da Ã¡gua serÃ£o limitados, uma vez que somente algumas&#13;
+nascentes dentro de cada microbacia serÃ£o diretamente beneficiadas. As Ã¡reas marginais&#13;
+aos cursos dâ&#128;&#153;Ã¡gua e outras Ã¡reas importantes para a recarga e para a reduÃ§Ã£o do aporte&#13;
+de sedimentos e poluentes para os cursos dâ&#128;&#153;Ã¡gua nÃ£o estÃ£o contempladas neste projeto.&#13;
+        Foram firmados convÃªnios entre o Estado e os MunicÃ­pios que prevÃªem o repasse&#13;
+de R$3,15 milhÃµes na forma de financiamento nÃ£o reembolsÃ¡vel para o pagamento aos&#13;
+proprietÃ¡rios rurais para cinco anos de execuÃ§Ã£o do projeto. Estes recursos sÃ£o&#13;
+provenientes do orÃ§amento do Estado e foram alocados no Fundo Estadual de Controle e&#13;
+PrevenÃ§Ã£o da PoluiÃ§Ã£o (FECOP). Para o repasse de recursos do Estado, Ã© necessÃ¡rio que&#13;
+as Prefeituras aprovem suas respectivas leis municipais, permitindo a realizaÃ§Ã£o dos&#13;
+pagamentos aos proprietÃ¡rios rurais. A SMA/CBRN sugeriu aos municÃ­pios dois modelos de&#13;
+projeto de lei municipal e constantemente fornece esclarecimentos aos municÃ­pios que&#13;
+solicitam apoio para o cumprimento desse importante requisito que viabilizarÃ¡ a&#13;
+execuÃ§Ã£o do projeto.&#13;
+&#13;
+Parcerias formadas para viabilizar o projeto&#13;
+       Arranjos de implementaÃ§Ã£o eficazes e eficientes sÃ£o vitais para o sucesso a longo&#13;
+prazo de qualquer programa de PSA, em especial no caso de programas que em Ãºltima&#13;
+instÃ¢ncia destinam-se a ser implementados no Ã¢mbito estadual. A implementaÃ§Ã£o do&#13;
+Projeto Mina dâ&#128;&#153;Ã&#129;gua ocorrerÃ¡ em parceria com prefeituras, mediante convÃªnio entre o&#13;
+Estado e os municÃ­pios. Essa estratÃ©gia foi definida considerando, principalmente, os&#13;
+seguintes motivos:&#13;
+    ! restriÃ§Ã£o, Ã  Ã©poca em que o Decreto 55.947/2010 foi editado e o projeto lanÃ§ado,&#13;
+       para que o estado realizasse pagamentos diretamente aos proprietÃ¡rios rurais com&#13;
+       recursos do FECOP2;&#13;
+&#13;
+&#13;
+&#13;
+2&#13;
+    Essa limitaÃ§Ã£o foi superada pela aprovaÃ§Ã£o da Lei Estadual No.14.350/2011, que possibilita&#13;
+    pagamentos nÃ£o reembolsÃ¡veis diretamente aos proprietÃ¡rios rurais.&#13;
+&#13;
+                                              6&#13;
+&amp;#12;   !   entendimento de que seria conveniente incorporar adequadamente&#13;
+       especificidades locais nas regras do projeto, e que seria inviÃ¡vel se todas as&#13;
+       decisÃµes fossem tomadas pela administraÃ§Ã£o estadual;&#13;
+   !   necessidade de ampliar a capacidade operacional para a implantaÃ§Ã£o do projeto,&#13;
+       uma vez que a SMA nÃ£o conta (nem deverÃ¡ contar) com tÃ©cnicos em nÃºmero&#13;
+       suficiente para a realizaÃ§Ã£o de todas as atividades requeridas para a&#13;
+       implementaÃ§Ã£o dos projetos.&#13;
+        As prefeituras municipais envolvidas tÃªm tido participaÃ§Ã£o ativa na definiÃ§Ã£o das&#13;
+atividades e etapas para a implementaÃ§Ã£o do projeto, atuando como parceiras da SMA&#13;
+no desenvolvimento do PSA. Deve ser ressaltada a alta qualificaÃ§Ã£o de vÃ¡rios dos&#13;
+profissionais municipais e o profundo conhecimento das realidades locais. Esse fato Ã©&#13;
+significativo e reforÃ§a a convicÃ§Ã£o de que a parceria entre o Estado e as Prefeituras Ã©&#13;
+um caminho promissor para a consolidaÃ§Ã£o do PSA como instrumento de polÃ­tica pÃºblica.&#13;
+       Para a implementaÃ§Ã£o do projeto Mina dâ&#128;&#153;Ã&#129;gua no Ã¢mbito municipal, tem sido de&#13;
+fundamental importÃ¢ncia a criaÃ§Ã£o de arranjos institucionais locais. VÃ¡rias parcerias&#13;
+foram viabilizadas pelas prefeituras, com ONGs (como ocorre, por exemplo, em Bertioga&#13;
+e IbiÃºna) e empresas privadas. Destaca-se que em vÃ¡rios municÃ­pios hÃ¡ o envolvimento&#13;
+da Casa da Agricultura, vinculada Ã  CATI, e em outros municÃ­pios hÃ¡ forte interaÃ§Ã£o com&#13;
+o ComitÃª de Bacias, que fornece apoio tÃ©cnico ao trabalho das prefeituras.&#13;
+       Cabe Ã  CBRN fornecer apoio tÃ©cnico para planejamento e execuÃ§Ã£o do projeto&#13;
+(requisitos, procedimentos, monitoramento, avaliaÃ§Ã£o de impactos) e capacitaÃ§Ã£o Ã &#13;
+equipe das prefeituras municipais. Algumas dessas capacitaÃ§Ãµes foram realizadas em&#13;
+meados de 2010 e as prÃ³ximas ocorrerÃ£o durante a execuÃ§Ã£o do projeto. A SMA tambÃ©m&#13;
+deve fornecer subsÃ­dios tÃ©cnicos para a adequaÃ§Ã£o ambiental das propriedades rurais,&#13;
+por meio dos Centros TÃ©cnicos Regionais da CBRN.&#13;
+      Os custos operacionais sÃ£o financiados pela SMA e pelas prefeituras. A estimativa&#13;
+do valor das contribuiÃ§Ãµes em espÃ©cie para os custos de gestÃ£o do projeto (informaÃ§Ãµes&#13;
+levantadas pelas prefeituras e pela SMA) ainda nÃ£o foi concluÃ­da.&#13;
+&#13;
+Ã&#129;reas de intervenÃ§Ã£o&#13;
+      No Ã¢mbito do PRF, os projetos de PSA tÃªm de definir as Ã¡reas prioritÃ¡rias para a&#13;
+execuÃ§Ã£o do projeto, a serem indicadas na ResoluÃ§Ã£o SMA que o instituir. Foram, no&#13;
+entanto, previamente definidas diretrizes gerais para as Ã¡reas passÃ­veis de serem&#13;
+abrangidas por projetos de PSA:&#13;
+   ! Ã¡reas prioritÃ¡rias para o incremento da conectividade entre remanescentes de&#13;
+      vegetaÃ§Ã£o nativa, com base em informaÃ§Ã£o obtida de mapa elaborado pelo&#13;
+      Projeto Biota da FundaÃ§Ã£o de Amparo Ã  Pesquisa do Estado de SÃ£o Paulo&#13;
+      (FAPESP), que tem a finalidade de inventariar e caracterizar a biodiversidade do&#13;
+      estado de SÃ£o Paulo;&#13;
+   ! mananciais de abastecimento pÃºblico, segundo a informaÃ§Ã£o extraÃ­da do Plano&#13;
+      Estadual de Recursos HÃ­dricos;&#13;
+&#13;
+&#13;
+&#13;
+                                           7&#13;
+&amp;#12;    !   Ã¡reas indicadas como prioritÃ¡rias para conservaÃ§Ã£o ou recuperaÃ§Ã£o em Planos de&#13;
+        Bacia HidrogrÃ¡fica, Planos Diretores de Bacia ou Planos Diretores Municipais; e&#13;
+    !   Ã¡reas com maior potencial para o seqÃ¼estro de carbono, com base em informaÃ§Ã£o&#13;
+        obtida de mapa de estimativa de biomassa em vegetaÃ§Ã£o elaborado pelo PRMC.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Fonte: Elaborado pelo Centro de Monitoramento do CBRN/SMA.&#13;
+        Figura 1: MunicÃ­pios participantes da etapa piloto do Projeto Mina dâ&#128;&#153;Ã&#129;gua&#13;
+&#13;
+       Em sua primeira etapa o Projeto Mina dâ&#128;&#153;Ã&#129;gua serÃ¡ executado em 20 municÃ­pios,&#13;
+sendo um em cada Unidade de GestÃ£o de Recursos HÃ­dricos (UGRHi) em que se divide o&#13;
+estado.3 Os municÃ­pios selecionados para a primeira etapa do Projeto Mina dâ&#128;&#153;Ã&#129;gua, estÃ£o&#13;
+relacionados na Figura 1. Os critÃ©rios utilizados para a seleÃ§Ã£o dos municÃ­pios&#13;
+participantes foi a existÃªncia, nos quadros municipais, de equipe capacitada e motivada&#13;
+na Ã¡rea de meio ambiente, nÃ£o sendo necessÃ¡ria a criaÃ§Ã£o de nova estrutura para se&#13;
+encarregar das atividades do Projeto, alÃ©m de localizaÃ§Ã£o dos municÃ­pios em Ã¡reas&#13;
+prioritÃ¡rias para a conservaÃ§Ã£o, conforme indicado nos Planos de Bacia, e atuaÃ§Ã£o&#13;
+participativa dos municÃ­pios nos projetos ambientais estratÃ©gicos da SMA, tais como o&#13;
+MunicÃ­pio Verde Azul, o PRMC, o projeto Adote uma Nascente e o Pacto das Ã&#129;guas.&#13;
+3&#13;
+    O municÃ­pio de Bertioga, na UGRHi 7 - Litoral Sul, foi retirado, a pedido, do projeto Mina dâ&#128;&#153;Ã&#129;gua, por&#13;
+    nÃ£o possuir nascentes elegÃ­veis atÃ© o momento.&#13;
+&#13;
+&#13;
+                                                     8&#13;
+&amp;#12;       As propriedades agropecuÃ¡rias paulistas apresentam tamanho mÃ©dio de 110 ha,&#13;
+com dimensÃµes menores no eixo SÃ£o Paulo-Campinas, composto por municÃ­pios que&#13;
+possuem maior pressÃ£o de ocupaÃ§Ã£o urbana. A Tabela 1 demonstra que dentre os 21&#13;
+municÃ­pios participantes do projeto Mina dâ&#128;&#153;Ã&#129;gua, o tamanho mÃ©dio das propriedades&#13;
+rurais Ã© menor em Itapecerica da Serra (11 ha), integrante da RegiÃ£o Metropolitana de&#13;
+SÃ£o Paulo (RMSP), e maior em Brotas (141 ha).&#13;
+&#13;
+Tabela 1: InformaÃ§Ãµes socioeconÃ´micas dos municÃ­pios participantes da etapa piloto&#13;
+      do Projeto Mina dâ&#128;&#153;Ã&#129;gua&#13;
+                                                                                                 Tamanho&#13;
+                                                                                Renda mÃ©dia     mÃ©dio das&#13;
+                                                       Ã&#129;rea       NÃºmero de        mensal      propriedades&#13;
+UGRHI                             MunicÃ­pio           (km2)a      habitantesa   familiar (R$)b rurais (ha)c&#13;
+1- Serra da Mantiqueira           SÃ£o Bento do&#13;
+                                                          252,6     10.462          921            26&#13;
+                                    SapucaÃ­&#13;
+2 - ParaÃ­ba do Sul                Monteiro Lobato         333,3     4.123           851            83&#13;
+3 - Litoral Norte                 Ubatuba                 710,8     78.870          1040           44&#13;
+4 - Pardo                         Santa Rosa de&#13;
+                                                          288,6     23.871          1320           58&#13;
+                                    Viterbo&#13;
+5 - Piracicaba Capivari JundiaÃ­   Piracaia&#13;
+                                                          385       25.139          1044           31&#13;
+    (PCJ)&#13;
+6 - Alto TietÃª                    Itapecerica da&#13;
+                                                          150,3    152.380          2013           11&#13;
+                                    Serra&#13;
+8 - SapucaÃ­-Mirim/Grande          Cristais Paulista       385,2     7.591           861            68&#13;
+9 - Mogi GuaÃ§u                    SÃ£o JoÃ£o da Boa&#13;
+                                                          812,5     83.661          1354           41&#13;
+                                    Vista&#13;
+10 - Sorocaba MÃ©dio TietÃª         IbiÃºna              1057,5        71.228          1125           32&#13;
+11- Ribeira de Iguape / Litoral   Eldorado&#13;
+                                                      1654,3        14.645          878            137&#13;
+   Sul&#13;
+12 - Baixo Pardo Grande           Colina                  422       17.373          965            137&#13;
+13 - TietÃª JacarÃ©                 Brotas                  1.101     21.580          1009           141&#13;
+14 - Alto Paranapanema            Guapiara                408,3     17.988          864            30&#13;
+15 - Turvo Grande                 Votuporanga             424,1     84.728          1060           37&#13;
+16 - TietÃª Batalha                Novo Horizonte          931,7     36.612          1355           63&#13;
+17 - MÃ©dio Paranapanema           Assis                   460,3     95.156          1329           53&#13;
+18 - SÃ£o JosÃ© dos Dourados        Santa FÃ© do Sul         208,2     29.235          1008           28&#13;
+19 - Baixo TietÃª                  Guararapes              956,3     30.600          1259           121&#13;
+20/21 - AguapeÃ­/Peixe             GarÃ§a                   555,6     43.124          994            63&#13;
+22 - Pontal do Paranapanema       Regente FeijÃ³           265,1     18.496          1003           52&#13;
+Valores mÃ©dios                                                     43.544          1126           110&#13;
+Fontes:      a. IBGE, 2010; b. FundaÃ§Ã£o SEADE, 2010; c. LUPA, 2010.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                      9&#13;
+&amp;#12;Tabela 2: Ã&#129;reas prioritÃ¡rias para implementaÃ§Ã£o da etapa piloto do Projeto Mina&#13;
+      dâ&#128;&#153;Ã&#129;gua&#13;
+                           Tamanho da      NÃºmero            Nascentes&#13;
+                               Ã¡rea       estimativo            com&#13;
+                            prioritÃ¡ria       de             cobertura&#13;
+MunicÃ­pio                      (ha)a      nascentesb        vegetal (%)c         Culturas predominantesd&#13;
+SÃ£o Bento do SapucaÃ­           1845           21                62         BraquiÃ¡ria, capim-gordura, banana,&#13;
+                                                                           pÃ­nus&#13;
+Monteiro Lobato                1402           62                89         BraquiÃ¡ria, eucalipto, capim-gordura,&#13;
+                                                                           gramas&#13;
+Ubatuba                        618            26                100        Banana, mandioca, cacau, palmito&#13;
+Santa Rosa de Viterbo          1144           12                17         Cana-de-aÃ§Ãºcar, braquiÃ¡ria,&#13;
+                                                                           eucalipto, laranja&#13;
+Piracaia                      31570           880               24         Cana-de-aÃ§Ãºcar, braquiÃ¡ria, laranja,&#13;
+                                                                           gramas&#13;
+Itapecerica da Serra           3285           95                57         Alface, chuchu, eucalipto, abÃ³bora&#13;
+Cristais Paulista              3490           68                38         BraquiÃ¡ria, cafÃ©, cana-de-aÃ§Ãºcar,&#13;
+                                                                           milho&#13;
+SÃ£o JoÃ£o da Boa Vista          6913           189               75         BraquiÃ¡ria, cana-de-aÃ§Ãºcar, milho,&#13;
+                                                                           cafÃ©&#13;
+IbiÃºna                        53788          1044               94         BraquiÃ¡ria, alface, milho, repolho&#13;
+Eldorado                        75             2                 0         BraquiÃ¡ria, banana, eucalipto,&#13;
+                                                                           palmito&#13;
+Colina                         467             4                 0         Cana-de-aÃ§Ãºcar, laranja, braquiÃ¡ria,&#13;
+                                                                           seringueira&#13;
+Brotas                        17410           476               59         BraquiÃ¡ria, cana-de-aÃ§Ãºcar, laranja,&#13;
+                                                                           eucalipto&#13;
+Guapiara                       2611           16                13         BraquiÃ¡ria, eucalipto, milho, pÃªssego&#13;
+Votuporanga                    8140           46                17         BraquiÃ¡ria, cana-de-aÃ§Ãºcar, laranja,&#13;
+                                                                           seringueira&#13;
+Novo Horizonte                 5161           16                19         Cana-de-aÃ§Ãºcar, braquiÃ¡ria, laranja,&#13;
+                                                                           limÃ£o&#13;
+Assis                          2756           16                 6         Cana-de-aÃ§Ãºcar, braquiÃ¡ria, soja,&#13;
+                                                                           gramas&#13;
+Santa FÃ© do Sul                2843           11                 0         BraquiÃ¡ria, coloniÃ£o, banana, laranja&#13;
+Guararapes                     2909           36                 3         Cana-de-aÃ§Ãºcar, braquiÃ¡ria, milho,&#13;
+                                                                           coloniÃ£o&#13;
+GarÃ§a                          1021           22                14         BraquiÃ¡ria, cafÃ©, gramas, seringueira&#13;
+Regente FeijÃ³                  7391           152               36         BraquiÃ¡ria, cana-de-aÃ§Ãºcar, milho,&#13;
+                                                                           eucalipto&#13;
+Valores mÃ©dios                7742           160                36&#13;
+Fontes:     a. Bacias delimitadas em escala 1:50.000 pelas prefeituras em conjunto com o Centro de&#13;
+            Monitoramento da CBRN.&#13;
+            b. Segundo cartografia 1:50.000 .&#13;
+            c. Segundo intersecÃ§Ã£o de fragmentos do InventÃ¡rio Florestal 2010 (Instituto Florestal, 2010).&#13;
+            d. Segundo LUPA (2010).&#13;
+&#13;
+&#13;
+                                                       10&#13;
+&amp;#12;       Dentro de cada municÃ­pio, as Ã¡reas especÃ­ficas a serem abrangidas foram&#13;
+propostas pelas prefeituras e validadas pela CBRN, com base em sua localizaÃ§Ã£o em&#13;
+relaÃ§Ã£o ao ponto de captaÃ§Ã£o de Ã¡gua para o abastecimento pÃºblico do municÃ­pio. Essas&#13;
+Ã¡reas prioritÃ¡rias sÃ£o mostradas na Tabela 2.&#13;
+&#13;
+ParticipaÃ§Ã£o&#13;
+       As prefeituras, com apoio da CBRN, definem a estratÃ©gia de abordagem ao&#13;
+proprietÃ¡rio rural (considerando, necessariamente, o diagnÃ³stico socioeconÃ´mico e de&#13;
+percepÃ§Ã£o ambiental, seguindo a InstruÃ§Ã£o Normativa SMA No.01/2010) e elaboram um&#13;
+plano de comunicaÃ§Ã£o/divulgaÃ§Ã£o do projeto. AlÃ©m disso, a equipe municipal de meio&#13;
+ambiente tambÃ©m Ã© responsÃ¡vel por avaliar as inscriÃ§Ãµes, firmar contratos com os&#13;
+participantes aceitos, prover suporte tÃ©cnico (com apoio da SMA), monitorar o&#13;
+cumprimento das condiÃ§Ãµes necessÃ¡rias ao pagamento e efetuar os pagamentos e&#13;
+monitorar despesas com o gerenciamento municipal do projeto.&#13;
+       As prefeituras dos municÃ­pios participantes, observando os princÃ­pios de&#13;
+publicidade, impessoalidade e isonomia, selecionarÃ£o os provedores de serviÃ§os&#13;
+ambientais, dentre os proprietÃ¡rios rurais das Ã¡reas de mananciais de abastecimento&#13;
+pÃºblico que sejam, preferencialmente, agricultores familiares. A ResoluÃ§Ã£o SMA&#13;
+No.123/2010 estabeleceu um nÃºmero mÃ¡ximo de quatro nascentes por produtor, de&#13;
+modo a evitar a concentraÃ§Ã£o de nascentes e indicou que devem ser priorizados os&#13;
+produtores familiares.&#13;
+       Destaca-se que a participaÃ§Ã£o no projeto estÃ¡ condicionada Ã  inexistÃªncia de&#13;
+quaisquer pendÃªncias do participante no Cadastro Informativo dos CrÃ©ditos NÃ£o Quitados&#13;
+de Ã&#147;rgÃ£os e Entidades Estaduais (CADIN Estadual) e Ã  comprovaÃ§Ã£o do uso ou ocupaÃ§Ã£o&#13;
+regular do imÃ³vel a ser contemplado (matrÃ­cula, transcriÃ§Ã£o ou documento de posse&#13;
+mansa e pacÃ­fica) e Ã  adequaÃ§Ã£o ambiental do participante.&#13;
+       Para aplicaÃ§Ã£o dos critÃ©rios de elegibilidade dos participantes, assim como para a&#13;
+assinatura do Termo de Compromisso de AdequaÃ§Ã£o Ambiental (se for o caso), as&#13;
+prefeituras e os proprietÃ¡rios, respectivamente, contarÃ£o com apoio tÃ©cnico da CBRN e&#13;
+seus Centros TÃ©cnicos Regionais. Somente serÃ£o aceitas nascentes que se encontrem&#13;
+protegidas, livre de fatores de degradaÃ§Ã£o e com vegetaÃ§Ã£o preservada, em regeneraÃ§Ã£o&#13;
+ou restaurada com o plantio de mudas.&#13;
+       A adesÃ£o aos projetos de PSA Ã© voluntÃ¡ria e serÃ¡ formalizada atravÃ©s de contratos&#13;
+renovÃ¡veis entre o produtor e a Prefeitura Municipal, cujos prazos de duraÃ§Ã£o nÃ£o serÃ£o&#13;
+inferiores a dois nem superiores a cinco anos.&#13;
+&#13;
+Valores a serem pagos&#13;
+     O Projeto Mina dâ&#128;&#153;Ã&#129;gua prevÃª incentivos aos proprietÃ¡rios rurais das cabeceiras de&#13;
+mananciais de abastecimento pÃºblico que protegem ou recuperam a Ã¡rea de preservaÃ§Ã£o&#13;
+permanente (APP) no raio de 50m das nascentes, de modo a favorecer o serviÃ§o&#13;
+ambiental fornecido pela floresta.&#13;
+&#13;
+&#13;
+&#13;
+                                           11&#13;
+&amp;#12;       O Decreto 55.947/2010 estabeleceu que os valores a serem pagos aos provedores&#13;
+de serviÃ§os ambientais deverÃ£o ser proporcionais aos serviÃ§os prestados considerando a&#13;
+extensÃ£o e as caracterÃ­sticas da Ã¡rea envolvida, os custos de oportunidade e as aÃ§Ãµes&#13;
+efetivamente realizadas (art.65). Especificou tambÃ©m que os pagamentos nÃ£o podem&#13;
+exceder a 100 Unidades Fiscais do Estado de SÃ£o Paulo (UFESPs) por hectare por ano e a&#13;
+5.000 UFESPs por participante por ano (em 2011, o valor da UFESP correspondia a R$&#13;
+17,45, conforme Comunicado DA-88/10, de 17.12.2010).&#13;
+      O valor a ser pago serÃ¡ calculado com base em fÃ³rmula que considera um valor de&#13;
+referÃªncia (definido considerando o custo de oportunidade) e fatores que dependem do&#13;
+estado de conservaÃ§Ã£o das nascentes e da importÃ¢ncia da nascente para o&#13;
+abastecimento; quanto melhor conservada e quanto maior a vazÃ£o e a populaÃ§Ã£o&#13;
+atendida, maior o valor do pagamento. A equaÃ§Ã£o abaixo define o valor a ser pago:&#13;
+         Valor do Pagamento = VRef X (FProt + FImp) X 0,2, onde:&#13;
+         VRef = Valor de ReferÃªncia&#13;
+         FProt = Fator de ProteÃ§Ã£o&#13;
+         FImp = Fator de ImportÃ¢ncia&#13;
+&#13;
+&#13;
+Tabela 3: Coeficientes do fator de proteÃ§Ã£o da nascente&#13;
+Fator                                                                          Valor&#13;
+Fator de proteÃ§Ã£o da nascente, FProt&#13;
+   EstÃ¡gio inicial de regeneraÃ§Ã£o da vegetaÃ§Ã£o                                  1,0&#13;
+   EstÃ¡gio mÃ©dio de regeneraÃ§Ã£o da vegetaÃ§Ã£o                                    2,0&#13;
+   EstÃ¡gio avanÃ§ado da vegetaÃ§Ã£o                                                4,0&#13;
+Fator de importÃ¢ncia da nascente, FImp&#13;
+   Subfator uso&#13;
+      Abastecimento de comunidade isolada                                       0,5&#13;
+      Abastecimento do municÃ­pio                                                1,0&#13;
+      Abastecimento regional                                                    2,0&#13;
+   Subfator vazÃ£o&#13;
+      Pequenaa                                                                  0,5&#13;
+      MÃ©diaa                                                                    1,0&#13;
+      Grandea                                                                   2,0&#13;
+   Subfator localizaÃ§Ã£o&#13;
+      Ã&#128; jusante da captaÃ§Ã£o                                                     0,5&#13;
+      Ã&#128; montante da captaÃ§Ã£o (influÃªncia indireta)                              1,0&#13;
+      Ã&#128; montante da captaÃ§Ã£o (influÃªncia direta)                                2,0&#13;
+Notas:     a. considerando as vazÃµes de permanÃªncia observadas na microbacia&#13;
+Fonte:     ResoluÃ§Ã£o SMA No.123, de 24 de dezembro de 2010.&#13;
+&#13;
+&#13;
+                                               12&#13;
+&amp;#12;       O valor de referÃªncia, nessa etapa do Projeto Mina dâ&#128;&#153;Ã&#129;gua, foi definido como&#13;
+R$150. O fator de proteÃ§Ã£o da nascente varia de 1,0 a 4,0, conforme a Tabela 19.3. O&#13;
+fator de importÃ¢ncia da nascente estÃ¡ relacionado com o impacto da aÃ§Ã£o sobre a&#13;
+produÃ§Ã£o do serviÃ§o ambiental, e varia de 1,5 a 6,0. A pontuaÃ§Ã£o Ã© obtida atravÃ©s da&#13;
+soma de trÃªs subfatores (uso, vazÃ£o e localizaÃ§Ã£o), conforme a tabela 19.3. Com relaÃ§Ã£o&#13;
+ao subfator uso, verifica-se o tipo de uso atribuÃ­do Ã  nascente, isto Ã©, se Ã¡gua da&#13;
+nascente Ã© drenada para tributÃ¡rios que abastecem os municÃ­pios da regiÃ£o, um&#13;
+municÃ­pio ou somente pequenos nÃºcleos populacionais. Para o subfator vazÃ£o, considera-&#13;
+se a vazÃ£o de permanÃªncia da nascente, que relaciona a vazÃ£o com sua probabilidade de&#13;
+ocorrÃªncia ao longo do tempo, em um ano hidrolÃ³gico. Ressalta-se que no caso de&#13;
+nascentes, a extensÃ£o da Ã¡rea Ã© constante (raio de 50 m ao redor da nascente), razÃ£o&#13;
+pela qual a fÃ³rmula deixou de contemplar a Ã¡rea abrangida.&#13;
+       No Ã¢mbito do projeto Mina dâ&#128;&#153;Ã&#129;gua, os pagamentos a serem efetuados estÃ£o&#13;
+condicionados ao cumprimento das obrigaÃ§Ãµes estabelecidas em contrato, observadas&#13;
+por meio de vistorias tÃ©cnicas e relatÃ³rios realizados pela equipe das prefeituras&#13;
+conveniadas. Cabe Ã s prefeituras definir os procedimentos e a periodicidade para&#13;
+aferiÃ§Ã£o e pagamento pelos serviÃ§os ambientais prestados, de acordo com a estrutura e&#13;
+o pessoal disponÃ­vel para trabalhar no projeto, em cada municÃ­pio. Caso seja observado&#13;
+o nÃ£o cumprimento das aÃ§Ãµes, o proprietÃ¡rio rural nÃ£o poderÃ¡ ser pago, atÃ© que ele&#13;
+conclua as aÃ§Ãµes previstas no cronograma do projeto.&#13;
+       Dentre outras aÃ§Ãµes, os convÃªnios prevÃªem um Plano de Monitoramento especÃ­fico&#13;
+para cada municÃ­pio. O objetivo desse plano Ã© avaliar o cumprimento do contrato por&#13;
+conta do proprietÃ¡rio, demonstrando se ele poderÃ¡ ou nÃ£o receber pelos serviÃ§os&#13;
+ambientais prestados. Cada municÃ­pio determinarÃ¡, nesse plano, os procedimentos a&#13;
+serem utilizados nas visitas tÃ©cnicas e a periodicidade delas (que deverÃ¡ coincidir com a&#13;
+periodicidade dos pagamentos, uma vez que os pagamentos estÃ£o atrelados Ã  avaliaÃ§Ã£o&#13;
+do cumprimento das clÃ¡usulas contratuais), a proporÃ§Ã£o de cumprimento das condiÃ§Ãµes&#13;
+necessÃ¡rias ao pagamento por parte dos participantes e a atualizaÃ§Ã£o do valor a ser pago&#13;
+pela proteÃ§Ã£o de cada nascente no ano seguinte.&#13;
+&#13;
+Monitoramento e avaliaÃ§Ã£o de impactos&#13;
+      Sendo o Mina dâ&#128;&#153;Ã&#129;gua essencialmente um projeto piloto de PSA, torna-se&#13;
+necessÃ¡rio que seja feita uma avaliaÃ§Ã£o de impacto de suas aÃ§Ãµes nas Ã¡reas elegÃ­veis&#13;
+que receberÃ£o o pagamento, visando subsidiar a futura ampliaÃ§Ã£o do projeto ou em&#13;
+outras polÃ­ticas pÃºblicas de PSA. Encontra-se em fase final de elaboraÃ§Ã£o um plano de&#13;
+monitoramento para avaliaÃ§Ã£o de impactos, atividade desenvolvida pela CBRN e tÃ©cnicos&#13;
+de quatro prefeituras conveniadas com o apoio de especialistas do Banco Mundial.&#13;
+       O plano de avaliaÃ§Ã£o de impacto, que serÃ¡ realizado nos municÃ­pios de Assis,&#13;
+Guapiara, IbiÃºna e Piracaia, considera como indicadores (i) a evoluÃ§Ã£o da cobertura&#13;
+vegetal nas nascentes e outras Ã¡reas de preservaÃ§Ã£o permanente nas propriedades e (ii)&#13;
+a evoluÃ§Ã£o dos usos da terra e da percepÃ§Ã£o ambiental dos proprietÃ¡rios. Os&#13;
+proprietÃ¡rios que receberÃ£o o pagamento serÃ£o comparados com aqueles que nÃ£o&#13;
+receberÃ£o, adotando-se um grupo controle que permita isolar os efeitos do projeto de&#13;
+&#13;
+&#13;
+                                           13&#13;
+&amp;#12;influÃªncias outras, conseqÃ¼Ãªncias de mudanÃ§as naturais no espaÃ§o e na comunidade.&#13;
+Esse grupo controle serÃ¡, idealmente, constituÃ­do de proprietÃ¡rios que se candidataram&#13;
+ao projeto, mas, atravÃ©s do sorteio, foram excluÃ­dos do Projeto. Caso nÃ£o haja&#13;
+suficiente nÃºmero de proprietÃ¡rios, serÃ¡ utilizada uma Ã¡rea de mesma paisagem como&#13;
+controle, fora da Ã¡rea prioritÃ¡ria, para realizaÃ§Ã£o das comparaÃ§Ãµes.&#13;
+      As comparaÃ§Ãµes serÃ£o realizadas entre os provedores e o controle por meio do&#13;
+acompanhamento dos indicadores mencionados, em 2011 (linha de base) e 2015. A linha&#13;
+de base estÃ¡ sendo elaborada de forma bastante detalhada, com informaÃ§Ãµes sobre o&#13;
+uso da terra, percepÃ§Ã£o ambiental e indicadores socioeconÃ´micos.&#13;
+&#13;
+BeneficiÃ¡rios do Projeto&#13;
+      Toda a sociedade pode se beneficiar indiretamente dos serviÃ§os incentivados pelo&#13;
+Projeto Mina dâ&#128;&#153;Ã&#129;gua no que se refere Ã  mitigaÃ§Ã£o de mudanÃ§as climÃ¡ticas.&#13;
+       As populaÃ§Ãµes abastecidas pelos mananciais abrangidos no Projeto beneficiam-se&#13;
+diretamente, jÃ¡ que a proteÃ§Ã£o das nascentes relaciona-se positivamente com a&#13;
+qualidade e a disponibilidade de Ã¡gua, alÃ©m de contribuir para a reduÃ§Ã£o dos custos de&#13;
+tratamento. Tais mananciais podem ter importÃ¢ncia local, como ocorre no municÃ­pio de&#13;
+Colina, enquanto outros apresentam importÃ¢ncia regional, como no caso de Piracaia,&#13;
+cujos mananciais estÃ£o situados na sub-bacia do rio Cachoeira, que integra trÃªs represas&#13;
+(Cachoeira, Atibainha e Jaguari/JacareÃ­) do sistema Cantareira, responsÃ¡vel por 50% do&#13;
+abastecimento de Ã¡gua para os 19 milhÃµes de habitantes da RMSP.&#13;
+       As instituiÃ§Ãµes responsÃ¡veis pela captaÃ§Ã£o, tratamento e distribuiÃ§Ã£o da Ã¡gua nos&#13;
+municÃ­pios participantes do projeto sÃ£o pÃºblicas. Em 14 dos 21 municÃ­pios, esses serviÃ§os&#13;
+sÃ£o prestados pela Companhia de Saneamento BÃ¡sico do Estado de SÃ£o Paulo (SABESP) e&#13;
+em sete (Brotas, Colina, Cristais Paulista, GarÃ§a, Guararapes, Santa FÃ© do Sul e&#13;
+Votuporanga) por autarquias ou empresas municipais. Essas empresas, assim como as&#13;
+responsÃ¡veis pela geraÃ§Ã£o de energia hidrelÃ©trica, sÃ£o as mais prejudicadas pelos altos&#13;
+Ã­ndices de assoreamento dos cursos dâ&#128;&#153;Ã¡gua, ocasionado pela sedimentaÃ§Ã£o por erosÃ£o&#13;
+laminar.&#13;
+       No estado de SÃ£o Paulo, mais de 90% da populaÃ§Ã£o Ã© atendida com abastecimento&#13;
+pÃºblico de Ã¡gua. Com relaÃ§Ã£o ao Ã&#141;ndice de Atendimento de Ã&#129;gua, que indica o&#13;
+percentual da populaÃ§Ã£o total dos municÃ­pios que Ã© efetivamente atendida por&#13;
+abastecimento pÃºblico de Ã¡gua, a maior parte da populaÃ§Ã£o paulista vive em municÃ­pios&#13;
+populosos, com Ã­ndice de atendimento classificado como Bom. Muitos dos municÃ­pios que&#13;
+participam do Projeto Mina dâ&#128;&#153;Ã&#129;gua foram classificados como Regular nos anos de 2007 e&#13;
+2008, apresentando valores entre 50 e 89% da populaÃ§Ã£o total atendida pelo&#13;
+abastecimento pÃºblico de Ã¡gua, a exemplo de Guapiara, que possuÃ­a 51% da populaÃ§Ã£o&#13;
+atendida, sendo esse o menor Ã­ndice dentre os apresentados pelos municÃ­pios da UGRHi-&#13;
+14 Alto Paranapanema (CRHi, 2010).&#13;
+&#13;
+ImplementaÃ§Ã£o&#13;
+    O projeto encontra-se em estÃ¡gio inicial de implementaÃ§Ã£o. AtÃ© o presente&#13;
+momento, as Ã¡reas elegÃ­veis (propriedades nascentes situadas nas cabeceiras de&#13;
+&#13;
+                                           14&#13;
+&amp;#12;mananciais de abastecimento pÃºblico) foram propostas pelas prefeituras e validadas pela&#13;
+CBRN, com base em sua localizaÃ§Ã£o em relaÃ§Ã£o ao ponto de captaÃ§Ã£o de Ã¡gua para o&#13;
+abastecimento pÃºblico do municÃ­pio. SeqÃ¼encialmente, os municÃ­pios cadastraram as&#13;
+nascentes que serÃ£o protegidas ou recuperadas.&#13;
+       Alguns municÃ­pios jÃ¡ aplicaram o questionÃ¡rio de percepÃ§Ã£o socioambiental, cujas&#13;
+informaÃ§Ãµes sobre uso da terra, percepÃ§Ã£o ambiental e indicadores socioeconÃ´micos nos&#13;
+auxiliam na elaboraÃ§Ã£o da linha de base. TambÃ©m estÃ¡ sendo realizado o registro dos&#13;
+custos das atividades desenvolvidas, por meio de planilhas orÃ§amentÃ¡rias (despesas&#13;
+tantos das prefeituras quanto da CBRN), o que fornecerÃ¡ subsÃ­dios para o&#13;
+dimensionamento dos recursos necessÃ¡rios e o aprimoramento da gestÃ£o dos futuros&#13;
+projetos de PSA a serem desenvolvidos pelo estado de SÃ£o Paulo.&#13;
+       Uma das dificuldades de implementaÃ§Ã£o do projeto refere-se Ã  necessidade de&#13;
+adequaÃ§Ã£o ambiental das propriedades rurais que, ao invÃ©s de ser encarada como&#13;
+oportunidade, pode ser vista, pelos proprietÃ¡rios rurais, como um empecilho nas adesÃµes&#13;
+ao projeto. Esta questÃ£o, aliada as incertezas com relaÃ§Ã£o Ã  tramitaÃ§Ã£o da proposta de&#13;
+alteraÃ§Ã£o do cÃ³digo florestal4, tem representado uma limitaÃ§Ã£o para a implantaÃ§Ã£o do&#13;
+projeto. A expectativa sobre o que seria efetivamente aprovado gerou a paralisaÃ§Ã£o de&#13;
+novas iniciativas de restauraÃ§Ã£o ou manejo florestal em muitas Ã¡reas de preservaÃ§Ã£o&#13;
+permanente e de reservas legais no Brasil.&#13;
+&#13;
+    4. Desafios e perspectivas dos Projetos de PSA do estado de SÃ£o Paulo&#13;
+       O Projeto Mina dâ&#128;&#153;Ã&#129;gua Ã© apenas um exemplo do que se pode realizar com base na&#13;
+legislaÃ§Ã£o estadual, conciliando atividades de preservaÃ§Ã£o com geraÃ§Ã£o de renda no&#13;
+meio rural. A polÃ­tica de PSA foi concebida de modo a possibilitar a eleiÃ§Ã£o das aÃ§Ãµes&#13;
+(dentre as previstas no Decreto 55.947/2010) que sejam consideradas as mais adequadas&#13;
+e relevantes para a geraÃ§Ã£o dos serviÃ§os ambientais que se pretende fomentar. Assim,&#13;
+novos projetos poderÃ£o ser formatados com foco em serviÃ§os ambientais especÃ­ficos&#13;
+e/ou em Ã¡reas geogrÃ¡ficas definidas. Desde que sejam observadas as diretrizes,&#13;
+princÃ­pios e regras gerais estabelecidos na lei (PEMC) e no decreto (PRF), os projetos&#13;
+podem ser â&#128;&#156;customizadosâ&#128;&#157; de modo a atender da melhor forma possÃ­vel aos objetivos de&#13;
+proteÃ§Ã£o e conservaÃ§Ã£o ambiental.&#13;
+      O principal objetivo da SMA com o Projeto Mina dâ&#128;&#153;Ã&#129;gua Ã© desenvolver e validar&#13;
+arranjos de implementaÃ§Ã£o que permitam a ampliaÃ§Ã£o do alcance de projetos de PSA no&#13;
+estado de SÃ£o Paulo. Baseado nesta experiÃªncia serÃ¡ definido se o projeto serÃ¡ replicado&#13;
+&#13;
+4&#13;
+    No momento do Workshop sobre PSA, em 2011, encontrava-se em tramitaÃ§Ã£o, no Congresso Nacional,&#13;
+    o Projeto de Lei 1876/1999, que revogaria a Lei No.4.771, de 1965 (CÃ³digo Florestal), e alteraria a Lei&#13;
+    No.9.605, de 1998 (Lei de Crimes Ambientais). Durante a editoraÃ§Ã£o desse livro, em abril de 2012, a&#13;
+    CÃ¢mara dos Deputados aprovou a nova versÃ£o do CÃ³digo Florestal e o texto seguiu para sanÃ§Ã£o da&#13;
+    PresidÃªncia da RepÃºblica. Em 25 de maio de 2012, foi promulgada a lei No.12.651/2012, que dispÃµe&#13;
+    sobre a proteÃ§Ã£o da vegetaÃ§Ã£o nativa; altera as Leis No.6.938, de 31 de 1981, No.9.393, de 1996, e&#13;
+    No.11.428, de 2006; revoga as Leis No.4.771, de 1965, e No.7.754, de 1989, e a Medida ProvisÃ³ria&#13;
+    No.2.166-67, de 2001; e dÃ¡ outras providÃªncias.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                    15&#13;
+&amp;#12;para outros municÃ­pios ou se haverÃ¡ novos projetos, com caracterÃ­sticas diferentes.&#13;
+Registra-se que hÃ¡ grande e crescente demanda de prefeituras e comitÃªs de bacia para&#13;
+que o projeto seja expandido ou que novos projetos de PSA especÃ­ficos para&#13;
+determinadas regiÃµes sejam desenvolvidos, o que vem sendo objeto de estudos.&#13;
+       Uma linha de interesse, considerada promissora, Ã© a utilizaÃ§Ã£o do PSA para&#13;
+incentivar a criaÃ§Ã£o de Reservas Particulares do PatrimÃ´nio Natural (RPPN), o que&#13;
+deverÃ¡ envolver a FundaÃ§Ã£o Florestal, responsÃ¡vel pelo gerenciamento do programa&#13;
+estadual de RPPNs. Um projeto de programa de PSA/RPPN estÃ¡ atualmente em&#13;
+discussÃ£o.&#13;
+       Baseado nas constataÃ§Ãµes realizadas atÃ© o momento, Ã© possÃ­vel assumir algumas&#13;
+diretrizes para a ampliaÃ§Ã£o do PSA no estado de SÃ£o Paulo:&#13;
+   ! foco em novos projetos em regiÃµes geogrÃ¡ficas bem definidas (bacia hidrogrÃ¡fica,&#13;
+       zona de amortecimento de unidade de conservaÃ§Ã£o etc.) e/ou em serviÃ§os&#13;
+       ambientais especÃ­ficos que se pretende fomentar (conservaÃ§Ã£o de remanescentes,&#13;
+       recuperaÃ§Ã£o de Ã¡reas, melhoria de sistemas de produÃ§Ã£o agrÃ­cola, controle de&#13;
+       espÃ©cies invasoras etc.);&#13;
+   ! intenÃ§Ã£o de manter a diretriz de firmar parcerias com prefeituras em funÃ§Ã£o das&#13;
+       razÃµes anteriormente expostas, mesmo com a ediÃ§Ã£o da Lei Estadual No.14.350&#13;
+       de 2011 que possibilita que o FECOP faÃ§a pagamentos nÃ£o reembolsÃ¡veis&#13;
+       diretamente aos proprietÃ¡rios rurais;&#13;
+   ! possibilidade de implementar, adicionalmente, projetos em parcerias com outras&#13;
+       instituiÃ§Ãµes pÃºblicas, como a FundaÃ§Ã£o Florestal no caso das RPPNs, ou OSCIPs, o&#13;
+       que deverÃ¡ ser objeto de avaliaÃ§Ã£o;&#13;
+   ! viabilizaÃ§Ã£o de novas parcerias, bem como a ampliaÃ§Ã£o das jÃ¡ existentes,&#13;
+       dependerÃ¡ da alocaÃ§Ã£o de recursos para fazer frente aos custos operacionais&#13;
+       (planejamento, assistÃªncia tÃ©cnica, monitoramento do cumprimento de contratos,&#13;
+       monitoramento de resultados e impactos).&#13;
+   ! consolidaÃ§Ã£o do PSA como PolÃ­tica PÃºblica serÃ¡ favorecida se as diversas&#13;
+       iniciativas municipais e regionais (no Ã¢mbito dos ComitÃªs de Bacia HidrogrÃ¡fica)&#13;
+       de programas e projetos de PSA forem integradas (nÃ£o subordinadas) ao programa&#13;
+       estadual. Isso irÃ¡ assegurar um alinhamento dos programas e projetos,&#13;
+       respeitando-se as especificidades locais. A coordenaÃ§Ã£o dos esforÃ§os das diversas&#13;
+       instituiÃ§Ãµes possibilitarÃ¡ maiores avanÃ§os no desenvolvimento de estratÃ©gias e&#13;
+       metodologias e a reduÃ§Ã£o dos custos de implantaÃ§Ã£o, monitoramento e avaliaÃ§Ã£o.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                          16&#13;
+&amp;#12;                                         ReferÃªncias&#13;
+IBGE (Instituto Brasileiro de Geografia e EstatÃ­stica). 2010. PopulaÃ§Ã£o e Ã¡rea dos municÃ­pios.&#13;
+    DisponÃ­vel em: &lt;http://www.ibge.gov.br/cidadesat/topwindow.htm?1&gt;. Acesso em&#13;
+    13.05.2011. Brasilia: IBGE.&#13;
+CRHi (Coordenadoria de Recursos HÃ­dricos). 2010. â&#128;&#156;RelatÃ³rio de Acompanhamento de&#13;
+    ImplantaÃ§Ã£o da CobranÃ§a pelo Uso dos Recursos HÃ­dricos de DomÃ­nio do Estado de SÃ£o&#13;
+    Paulo.â&#128;&#157; SÃ£o Paulo: CRHi.&#13;
+FGV (FundaÃ§Ã£o Getulio Vargas). 2009. â&#128;&#156;EstruturaÃ§Ã£o de um Fundo Estadual para pagamento por&#13;
+    serviÃ§os ambientais.â&#128;&#157; RelatÃ³rio â&#128;&#147; Escopo 6.1 - RevisÃ£o de ExperiÃªncias Nacionais e&#13;
+    Internacionais. SÃ£o Paulo: Secretaria de Estado do Meio Ambiente, Projeto de RecuperaÃ§Ã£o&#13;
+    de Matas Ciliares.&#13;
+Hercowitz, M., e G.R. Figueiredo. 2011. â&#128;&#156;Teste de viabilidade do uso de reverse auction como&#13;
+    mecanismo de pagamentos por serviÃ§os ambientais.â&#128;&#157; SÃ£o Paulo: Secretaria de Estado do Meio&#13;
+    Ambiente, Projeto de RecuperaÃ§Ã£o de Matas Ciliares.&#13;
+Instituto Florestal. 2010. â&#128;&#156;InventÃ¡rio Florestal da VegetaÃ§Ã£o Natural do Estado de SÃ£o Paulo,&#13;
+    2010.â&#128;&#157; SÃ£o Paulo: Secretaria de Estado do Meio Ambiente, Instituto Florestal.&#13;
+LUPA (Levantamento CensitÃ¡rio de Unidades de ProduÃ§Ã£o AgrÃ­cola). 2010. â&#128;&#156;Levantamento&#13;
+    CensitÃ¡rio de Unidades de ProduÃ§Ã£o AgrÃ­cola do Estado de SÃ£o Paulo â&#128;&#147; LUPA, 2007/2008.â&#128;&#157;&#13;
+    DisponÃ­vel em: &lt;http://www.cati.sp.gov.br/projetolupa&gt;. Acesso em 20.04.2011. SÃ£o Paulo:&#13;
+    CATI.&#13;
+Martins, O.S. 2010. â&#128;&#156;Sistemas agroflorestais em mata ciliar associados a atividades comerciais&#13;
+    em Ã¡reas tampÃ£o capazes de gerar crÃ©ditos de carbono.â&#128;&#157; SÃ£o Paulo: Secretaria de Estado do&#13;
+    Meio Ambiente, Projeto de RecuperaÃ§Ã£o de Matas Ciliares.&#13;
+Melo, A.C.G., D.L.C. Miranda, C.R. Sanquetta, G. Durigan, H.W. Forster, S.M.B. Florshein, e I.L.&#13;
+    Lima. 2008. â&#128;&#156;QuantificaÃ§Ã£o de biomassa e carbono em reflorestamentos de restauraÃ§Ã£o.â&#128;&#157; SÃ£o&#13;
+    Paulo: Secretaria de Estado do Meio Ambiente, Projeto de RecuperaÃ§Ã£o de Matas Ciliares.&#13;
+Metzger, J.P. 2011. â&#128;&#156;Sistema de monitoramento de impactos na diversidade biolÃ³gica&#13;
+    decorrentes de programas de pagamentos por serviÃ§os ambientais.â&#128;&#157; SÃ£o Paulo: Secretaria&#13;
+    de Estado do Meio Ambiente, Projeto de RecuperaÃ§Ã£o de Matas Ciliares.&#13;
+Padovezi, A., R.A. Gorne Viani, U. Kubota, D. Taffarello, M. Faria, H. Bracale, V. Ferrari, e F.H.&#13;
+    de Carvalho. 2012. â&#128;&#156;O Projeto Produtor de Ã&#129;gua na bacia hidrogrÃ¡fica PCJ em SÃ£o Paulo,&#13;
+    Brasil.â&#128;&#157; PES Learning Paper 2012-2P. Washington: World Bank.&#13;
+PROESP Engenharia. 2005. â&#128;&#156;Plano Diretor para a RecomposiÃ§Ã£o Florestal Visando a ProduÃ§Ã£o de&#13;
+    Ã&#129;gua nas Bacias hidrogrÃ¡ficas dos Rios Piracicaba, Capivari e JundiaÃ­. RelatÃ³rio Final (Volume&#13;
+    I).â&#128;&#157; Atibaia: ComitÃª das Bacias HidrofrÃ¡ficas dos Rios Piracicaba, Capivari e JundiaÃ­.&#13;
+FundaÃ§Ã£o SEADE (Sistema Estadual de AnÃ¡lise de Dados). 2010. â&#128;&#156;Rendimento das Pessoas&#13;
+    ResponsÃ¡veis pelo DomicÃ­lio.â&#128;&#157; SÃ£o Paulo: SEADE.&#13;
+SMA (Secretaria de Estado do Meio Ambiente). 2006. â&#128;&#156;Projeto de RecuperaÃ§Ã£o de Matas Ciliares â&#128;&#147;&#13;
+    Manual Operativo.â&#128;&#157; SÃ£o Paulo: Coordenadoria de Biodiversidade e Recursos Naturais.&#13;
+Sousa JÃºnior, W.C., 2011. â&#128;&#156;Pagamento por ServiÃ§os EcossistÃªmicos: Mata ciliar, erosÃ£o, turbidez&#13;
+    e qualidade da Ã¡guaâ&#128;&#157;. SÃ£o Paulo: Secretaria de Estado do Meio Ambiente, Projeto de&#13;
+    RecuperaÃ§Ã£o de Matas Ciliares.&#13;
+&#13;
+&#13;
+&#13;
+                                               17&#13;
+&amp;#12;</ml:original-txt><ml:search-metadata><doc id="19457353">
+        <url>
+            http://documents.worldbank.org/curated/en/2012/10/19457353/o-projeto-mina-dágua-em-são-paulo-brasil
+        </url>
+        <availablein>Portuguese</availablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2012/10/19457353/o-projeto-mina-dágua-em-são-paulo-brasil</url_friendly_title>
+        <new_url>2012/10/19457353/o-projeto-mina-dágua-em-são-paulo-brasil</new_url>
+        <disclosure_date>2014-05-05T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2015-05-20T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <docm_id>090224b0828bb78b</docm_id>
+        <chronical_docm_id>090224b0828bb78b</chronical_docm_id>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2015/05/20/090224b0828bb78b/1_0/Rendered/INDEX/O0Projeto0Mina0em0S0o0Paulo00Brasil.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2015/05/20/090224b0828bb78b/1_0/Rendered/PDF/O0Projeto0Mina0em0S0o0Paulo00Brasil.pdf</pdfurl>
+        <loan_no>79080;55091</loan_no>
+        <docdt>2012-10-01T10:15:05Z</docdt>
+        <datestored>2014-05-05T00:00:00Z</datestored>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            O Projeto Mina d'Água em São Paulo, Brasil
+        </repnme>
+        <abstracts>
+            This paper points out that Payment for
+            Environmental Services (PSA) was conceived as a new
+            management tool, additional to the existing command and
+            control, in order to facilitate the restoration and special
+            conservation of native vegetation and the conversion of
+            conventional models for production systems more sustainable
+            in areas of environmental importance. In this context, the
+            state of São Paulo decided to develop a statewide program of
+            PSA, and the Mine Water Project pioneered the example that
+            should provide information to guide the continuity of
+            actions, especially regarding the arrangements for the
+            implementation and formatting of upcoming projects.
+        </abstracts>
+        <docna>
+            O Projeto Mina d'Água em São Paulo, Brasil
+        </docna>
+        <display_title>O Projeto Mina d'Água em São
+            Paulo, Brasil</display_title>
+        <listing_relative_url>/research/2012/10/19457353/o-projeto-mina-dágua-em-são-paulo-brasil</listing_relative_url>
+        <count>Brazil</count>
+        <lang>Portuguese</lang>
+        <sectr>Agriculture, fishing, and forestry,Transportation,Public Administration, Law, and Justice,Industry and trade,Agriculture, fishing, and forestry,Health and other social services,Public Administration, Law, and Justice</sectr>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            environmental services, sustainable
+            development, watershed
+        </keywd>
+        <lndinstr>
+            Specific Investment Loan
+        </lndinstr>
+        <majtheme>Social dev/gender/inclusion,Rural development,Environment and natural resource management</majtheme>
+        <alt_title>
+            O Projeto Mina d'Água em São Paulo, Brasil
+        </alt_title>
+        <projn>BR-Sao Paulo Sustainable Rural Development
+            And Access To Markets -- P108443,BR-Brazil - Ecosystem Restoration Of
+            Riparian Forests In Sao Paulo -- P088009</projn>
+        <subtopic>Environmentally Protected Areas,Environmental Management,Water Conservation,Water Resources Management,Watershed Management</subtopic>
+        <docty>Working Paper (Numbered Series)</docty>
+        <teratopic>Environment,Water Resources</teratopic>
+        <authors>
+            <author>Cogueto, Caroline Vigo</author>
+            <author>Kamiyama, Aracy</author>
+            <author>Taffarello, Denise</author>
+            <author>Vecchia, Ana Carolina Dalla</author>
+            <author>von Glehn, Helena Carrascosa</author>
+        </authors>
+        <entityids>
+            <entityid>000456286_20140505151442</entityid>
+        </entityids>
+        <geo_region_mdks>
+            <geo_region_mdk>World!$!517191</geo_region_mdk>
+            <geo_region_mdk>South America!$!South America</geo_region_mdk>
+            <geo_region_mdk>Latin America &amp; Caribbean!$!119228</geo_region_mdk>
+        </geo_region_mdks>
+        <admreg>Latin America &amp; Caribbean,Latin America &amp; Caribbean</admreg>
+        <subsc>General agriculture, fishing and forestry sector,Rural and Inter-Urban Roads and Highways,Public administration- Agriculture, fishing
+            and forestry,Agro-industry, marketing, and trade,Agricultural extension and research,Forestry,General agriculture, fishing and forestry sector,Sub-national government administration,Other social services</subsc>
+        <theme>Rural markets,Rural services and infrastructure,Rural policies and institutions,Environmental policies and institutions,Water resource management,Participation and civic engagement,Biodiversity,Land administration and management,Environmental policies and institutions</theme>
+        <colti>Payments for Environmental Services (PES)
+            learning paper,no. 2012-3</colti>
+        <historic_topic>Environment,Water Resources</historic_topic>
+        <prdln>IBRD/IDA,Global Environment Project</prdln>
+        <owner>Envir &amp; Nat. Res. - GP (GENDR),Agriculture - GP (GFADR)</owner>
+        <EnvironmentalCategory>B</EnvironmentalCategory>
+        <trustfund>TF055091-GEF FSP-BRAZIL: ECOSYSTEM
+            RESTORATION OF RIPARIAN FORESTS IN SAO PAULO</trustfund>
+        <geo_regions>
+            <geo_region>World</geo_region>
+            <geo_region>South America</geo_region>
+            <geo_region>Latin America &amp; Caribbean</geo_region>
+        </geo_regions>
+        <repnb>87902</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Environment</ml:concept><ml:concept>Sustainable Climate Business</ml:concept><ml:concept>Sustainable Energy Finance</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Social Protections and Labor</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Agriculture and Food Security</ml:concept><ml:concept>Environment and Natural Resources</ml:concept><ml:concept>Climate Change</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Social Protection and Labor</ml:concept><ml:concept>PES</ml:concept><ml:concept>REDD</ml:concept><ml:concept>Reduced Emissions from Deforestation</ml:concept><ml:concept>Environmentally Protected Areas</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Boundaries</ml:concept><ml:concept>Public Employment Services</ml:concept><ml:concept>Reduced Emissions from Deforestation and Degradation (REDD)</ml:concept></ml:concepts><ml:geo-regions><ml:geo-region>State Associations</ml:geo-region><ml:geo-region>Americas</ml:geo-region><ml:geo-region>Brazil</ml:geo-region><ml:geo-region>Caribbean</ml:geo-region></ml:geo-regions></ml:annotations></ml:doc-envelope>

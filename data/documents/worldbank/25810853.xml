@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>ï»¿                                                                                             102852&#13;
+          Applying IFRS 9 to Central Banks Foreign Reserves&#13;
+&#13;
+                                                   January 20, 2016&#13;
+&#13;
+                                                     Abstract&#13;
+&#13;
+&#13;
+Effective January 1, 2018, IFRS 9 Financial Instruments will replace IAS 39 Financial Instruments:&#13;
+Recognition and Measurement (IAS 39). Unlike most publications on IFRS 9, this paper focuses&#13;
+primarily on the application of the new standard on central banksâ&#128;&#153; foreign reserve assets, which&#13;
+increasingly constitute a substantial part of central banksâ&#128;&#153; balance sheet.&#13;
+&#13;
+Based on IFRS 9 implementation assessment projects with several central banks, the World Bank RAMP1&#13;
+Accounting team2 identified six factors that can help central banks determine appropriate business model&#13;
+for foreign reserve assets. Empirically, the result of applying the six factors has indicated that central&#13;
+banksâ&#128;&#153; reserve portfolios often display elements of more than one business model; hence management&#13;
+judgment coupled with a well-articulated accounting policy paper will be critical when implementing&#13;
+IFRS 9. Under most central banks reserves management frameworks, performing the solely payments of&#13;
+principal and interest (SPPI) test should be a relatively straightforward exercise, and the practical&#13;
+expedient option under the new impairment provisions should also apply.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Keywords: Foreign reserves, International Financial Reporting Standard 9 Financial Instruments (IFRS&#13;
+9), Central banks, Business model, Held-to-collect, Collecting-and-selling, Solely payments of principal&#13;
+and interest, Fair value through profit and loss, Amortized cost, Fair value through other comprehensive&#13;
+income, Impairment, Expected Credit Loss model, Practical expedient option, Explicit probability of&#13;
+default approach&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+1&#13;
+  Reserve Advisory and Management Program (RAMP) is a capacity building service aimed towards central banks and other&#13;
+official sector asset management entities. For more information, please go to:&#13;
+  http://treasury.worldbank.org/sip/htm/central_bank.html&#13;
+2&#13;
+  This paper is a product of a team effort, with Lott Chidawaya as the key author, numerous insights and guidance from Amit&#13;
+Bajaj, Wei Chen, Kelley Dai, Yunjung Ha, Ying Li, Diann Martin, Shaun Ng and Robert Anthony Surtees Shotter. The RAMP&#13;
+Accounting Team is indebted to Salome Skhirtladze (Head of Finance and Accounting Department, National Bank of Georgia)&#13;
+and Naidene Ford-Hoon (Chief Financial Officer, Reserve Bank of South Africa) for their generous collaboration. RAMP&#13;
+Accounting Team is also grateful to World Bankâ&#128;&#153;s Financial Advisory &amp; Banking (FAB) team; Quantitative Solutions, SAA &amp;&#13;
+Analytics (QSA) team and Kenneth Sullivan for extensively reviewing the paper.&#13;
+&#13;
+                                                            1&#13;
+&amp;#12;Executive Summary&#13;
+Central banks are public policy agencies designed to maintain monetary and financial stability, set&#13;
+regulatory standards for the financial system, establish financial infrastructure, provide other public good&#13;
+functions, and monitor policy operations (Archer 2009). A part of the policy operations of central banks is&#13;
+the foreign reserves management function, through which central banks hold official foreign exchange&#13;
+reserves (foreign reserves) to meet unique purposes, such as to support foreign exchange rate&#13;
+management, meet a countryâ&#128;&#153;s foreign financial obligations, and maintain a reserve for emergencies. In&#13;
+the past decade, many central banks around the world have increased the foreign reserve assets on their&#13;
+balance sheets (Morahan and Mulder 2013). While the trend of increasing reserve size continues, over the&#13;
+years the appropriateness of IFRS standards as the financial reporting framework for central banks has&#13;
+been discussed and explored in the literature (for example, Schwarz et al. 2014). Other publications (for&#13;
+example, Archer and Moser-Boehm 2013; Sullivan 2003; Sullivan 2005) have commented on the&#13;
+potential hazards of distributing resources based solely on accounting profit. While recognizing the&#13;
+credibility and transparency benefits of complying with internationally recognized financial reporting&#13;
+standards, this paper intentionally does not discuss these topics.&#13;
+&#13;
+Instead, the paper provides guidance on how central banks that have adopted IFRS should classify and&#13;
+measure foreign reserve assets as well as implement the impairment model.1 The translation of&#13;
+transactions and balances from foreign currencies to functional and presentation currencies remains under&#13;
+the domain of International Accounting Standard 21. The paper also intentionally does not discuss the&#13;
+implications of IFRS 9 on central banksâ&#128;&#153; domestic assets, which arguably deserve at least equal attention&#13;
+and effort. IFRS 9, as compared with International Accounting Standard 39 (IAS 39), has changed the&#13;
+requirements for the classification and measurement of financial assets, enhanced the impairment model,&#13;
+and simplified hedge accounting.2 The standard applies one classification approach for all types of&#13;
+financial assets within its scope based on two criteria: the business model for managing the financial&#13;
+assets and the contractual cash flow characteristics of the financial assets. The International Accounting&#13;
+Standards Board (IASB)3 clarified that it is more efficient to consider the business model criterion first,&#13;
+followed by the contractual cash flow characteristics criterion.&#13;
+&#13;
+A business model refers to the way an entity (for the purpose of this discussion, entities denotes central&#13;
+banks) manages its financial assets in order to generate cash flows. A business model is a matter of fact&#13;
+rather than an assertion and is generally observable through activities that an entity undertakes to achieve&#13;
+its business objectives. The standard envisages two distinct business models within which financial assets&#13;
+can be managedâ&#128;&#148;held-to-collect and collecting-and-sellingâ&#128;&#148;and a third residual category. The World&#13;
+Bank Reserves Advisory and Management Program (RAMP) accounting team worked with several&#13;
+central banks as part of its RAMP engagement in IFRS 9 implementation assessment projects on foreign&#13;
+reserves.4 As a result of the in-depth practical experience, the RAMP Accounting team identified six&#13;
+factors which are implicitly in the standard, which can help central banks determine the appropriate&#13;
+business model for holding foreign reserve assets:&#13;
+&#13;
+    1. Objectives for each foreign reserve tranche&#13;
+    2. Frequency, value, and timing of sales in prior periods; the reasons for those sales; and&#13;
+       expectations about future sales activity&#13;
+    3. Basis of management decision making: whether or not central bank management focuses&#13;
+       primarily on fair value information to make decisions&#13;
+&#13;
+                                                     2&#13;
+&amp;#12;    4. Risk parameters under which portfolio reserve assets are managed to meet the objectives&#13;
+    5. Performance evaluation (including compensation): how central bank portfolio managersâ&#128;&#153;&#13;
+       performance is evaluated and how it relates to compensation&#13;
+    6. Relative significance of the various sources of income (for example, interest income relative to&#13;
+       fair value gains and losses) as one objective determinant to assess how integral contractual cash&#13;
+       flows are vis-Ã -vis fair value gains or losses&#13;
+&#13;
+The result of applying the above six factors has shown that central banksâ&#128;&#153; reserve tranches very often&#13;
+display elements of more than one business model. Consequently, the most appropriate business model&#13;
+for a particular central bank usually requires managementâ&#128;&#153;s judgment. Similar portfolio s of foreign&#13;
+reserve assets could be classified and measured differently according to each central bankâ&#128;&#153;s unique&#13;
+management objectives, trading strategies, and implementation styles.&#13;
+&#13;
+The second criterion, contractual cash flow characteristics, is applied at individual instrument level to&#13;
+verify whether contractual cash flows from the foreign reserves assets are solely payments of principal&#13;
+and interest (SPPI). Performing the SPPI assessment is not a bright-line test and also requires professional&#13;
+judgment. However, since many central banksâ&#128;&#153; foreign reserve assets consist of sovereign debt&#13;
+instruments, performing the SPPI test may be a relatively straightforward exercise. Financial assets that&#13;
+meet both the business model and SPPI tests can be classified and measured either at amortized cost or at&#13;
+fair value through other comprehensive income (FVOCI). All other financial assets that do not meet the&#13;
+business model or SPPI tests are classified and measured in the residual category, fair value through profit&#13;
+and loss (FVTPL).&#13;
+&#13;
+The standard also introduced a single impairment model for all financial assets measured at amortized&#13;
+cost or FVOCI. The new IFRS 9 expected credit loss (ECL) model is a forward-looking approach that is&#13;
+an enhancement from the current IAS 39 incurred loss model that produces different results depending on&#13;
+asset classification. For high-quality assets typically characteristic of foreign reserve holdings, central&#13;
+bank management can elect the practical expedient option, which reduces implementation challenges for&#13;
+assets that are deemed to have low credit risk. Empirically, implementing the ECL model using the&#13;
+explicit probability of default approach assuming the practical expedient option is elected may well result&#13;
+in negligible expected credit loss provisions.&#13;
+&#13;
+The Purpose of Central Banksâ&#128;&#153; Foreign Reserves&#13;
+In the past decade, many central banks around the world have increased the foreign reserve assets on their&#13;
+balance sheets (Morahan and Mulder 2013). Central banks hold foreign reserves in support of critical and&#13;
+unique objectives of national importance. These include the following:5&#13;
+&#13;
+    ï&#130;·   Supporting and maintaining confidence in the policies for monetary and exchange rate&#13;
+        management, including the capacity to intervene in support of the national or union currency&#13;
+    ï&#130;·   Limiting external vulnerability by maintaining foreign currency liquidity to absorb shocks during&#13;
+        times of crisis or when access to borrowing is curtailed, and, in doing so,&#13;
+        o provide a level of confidence to markets that a country can meet its current and future&#13;
+            external obligations,&#13;
+        o demonstrate the backing of domestic currency by external assets,&#13;
+        o assist the government in meeting its foreign exchange needs and external debt obligations,&#13;
+            and&#13;
+        o maintain a reserve for national disasters or emergencies&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                     3&#13;
+&amp;#12;In determining what foreign reserve assets are needed for which purpose, central banks perform elaborate&#13;
+reserve-management processes by segregating assets into subportfolios, each with specific objectives and&#13;
+guidelines. Most central banks create, through a process called tranching, portfolios of foreign reserve&#13;
+assets based on time horizons when commitments (for example, import coverage, debt payments) are due&#13;
+and payable. For example, a working capital tranche is usually set to meet financial needs falling within&#13;
+the short term, say, up to 3 months, and a liquidity tranche is usually created to meet financial needs&#13;
+within up to 12 months and to fund the working capital tranche. Another subportfolio, an investment&#13;
+tranche, is usually set up for longer term financial needs and to generate moderate returns.&#13;
+&#13;
+Central banks use traditional portfolio management frameworks such as the strategic asset allocation&#13;
+(SAA) approach to manage foreign reserve asset portfolios. After determining appropriate monetary&#13;
+amounts for each tranche and taking into consideration macroeconomic factors, the SAA is the&#13;
+investment policy statement that defines currency and foreign reserve assets composition, risk budget,&#13;
+acceptable credit risk and concentration limits, acceptable duration of the portfolio assets, and the&#13;
+appropriate portfolio benchmarks. Tranche portfolios or subportfolios may be managed and performance&#13;
+evaluated against benchmarks and conservative investment guidelines. Since the goal of central banks is&#13;
+to maintain financial stability, usually these constraints ensure that foreign reserve assets are managed&#13;
+within a capital preservation framework.&#13;
+&#13;
+Overview of IFRS 9&#13;
+The final IFRS 9 was issued on July 24, 2014, completing the three phases that the IASB embarked on to&#13;
+replace IAS 39. Many users of financial statements and other interested parties had deemed IAS 39 as too&#13;
+prescriptive and difficult to understand, apply, and interpret. IFRS 9 has a mandatory implementation date&#13;
+effective for annual periods beginning on or after January 1, 2018, with early adoption permitted.6 The&#13;
+new standard introduced changes in the way financial instruments are classified and measured, a new&#13;
+impairment model, and a new approach to hedge accounting that better aligns with risk management&#13;
+practices. Hedge accounting is outside the scope of this paper.&#13;
+&#13;
+Financial Assets Classification and Measurement&#13;
+&#13;
+IFRS 9 applies one classification approach for all types of financial assets based on two criteria:&#13;
+&#13;
+    1. The business model for managing the financial assets&#13;
+    2. The contractual cash flow characteristics of the financial assets&#13;
+&#13;
+A business model refers to the way an entity (for the purpose of this discussion, entities denotes central&#13;
+banks) manages its financial assets in order to generate cash flows. A business model is a matter of fact&#13;
+rather than an assertion and is generally observable through activities that an entity undertakes to achieve&#13;
+its business objectives. The standard envisages two distinct business models within which financial assets&#13;
+can be managedâ&#128;&#148;held-to-collect and collecting-and-sellingâ&#128;&#148;and a third residual category. Under both&#13;
+the held-to-collect and collecting-and-selling models, contractual cash flows from the financial assets&#13;
+must be SPPI.&#13;
+&#13;
+Financial instruments that consist of SPPI-type cash flows are usually simple-debt financial assets,&#13;
+including money market instruments. In this context, interest is deemed to be compensation for the time&#13;
+value of money; credit risk, and other basic lending risks (for example, liquidity risk); costs (for example,&#13;
+administrative costs); and profit margin, consistent with a basic lending arrangement. After considering&#13;
+the classification criteria and performing the SPPI tests, financial assets that are held-to-collect cash flows&#13;
+and whose contractual cash flows are SPPI will be classified and measured at amortized cost. On the other&#13;
+&#13;
+                                                      4&#13;
+&amp;#12;hand, financial assets that are held for collecting-and-selling when generating cash flows and where&#13;
+contractual cash flows are SPPI will be classified and measured at FVOCI. Financial assets that violate&#13;
+any of the two classification criteria will be classified and measured in the FVTPL residual category.&#13;
+Derivatives and equity investments do not meet the SPPI test, and are classified and measured at FVTPL.&#13;
+&#13;
+Despite the classification criteria just discussed, entities may, at initial recognition when they become&#13;
+party to the contractual provisions of debt financial assets, irrevocably designate such debt financial assets&#13;
+as measured at FVTPL if doing so eliminates or significantly reduces a measurement or recognition&#13;
+inconsistency that is commonly referred to as an accounting mismatch. In addition, entities that hold&#13;
+equity instruments for non-contractual benefits, rather than primarily for increases in the value of the&#13;
+investment, may make an irrevocable election at inception on an instrument-by-instrument basis to&#13;
+classify and measure such equity investments at FVOCI. Unrealized gains or losses for both debt and&#13;
+equity instruments measured at FVOCI are reported as other comprehensive income. Realized gains or&#13;
+losses for debt instruments are subsequently reclassified to profit or loss, whereas realized gains or losses&#13;
+for equity instruments are not reclassified to profit or loss. Instead, cumulative realized gains or losses for&#13;
+equity instruments may be transferred within equity accounts.&#13;
+&#13;
+A Brief Overview of the New Impairment Model&#13;
+&#13;
+IFRS 9 introduced one impairment model for all financial assets that are classified and measured at&#13;
+amortized cost or FVOCI. The new impairment approach is a forward-looking ECL model that is an&#13;
+improvement over the current incurred-loss model under IAS 39. Under the incurred-loss model, entities&#13;
+may consider only losses that arise from past events and current conditions, whereas under the ECL&#13;
+model, the effects of possible future credit loss events are also considered. Consequently, IFRS 9&#13;
+broadens the information entities must consider when determining expectations of credit losses.&#13;
+&#13;
+This information must be reasonable, supportable, and available without undue cost or effort and&#13;
+ordinarily would include historical, current, and forecast information. The standard is not prescriptive on&#13;
+any particular measurement methods; entities will use sources that they generally use in their normal&#13;
+business undertakings. The new ECL model for impairment ranks among the fundamental changes that&#13;
+IFRS 9 has introduced. To enhance a robust and consistent implementation, the IASB created a discussion&#13;
+forum called the IFRS Transition Resource Group for Impairment of Financial Instruments (ITG),7&#13;
+mandated with soliciting, discussing, and opining on impairment implementation issues arising from ECL&#13;
+model requirements.&#13;
+&#13;
+In a nutshell, the ECL model consists of three stages for impairment based on changes in credit quality&#13;
+since initial recognition. They are shown in figure ES1.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                      5&#13;
+&amp;#12;Figure ES.1 The Expected Credit Loss (ECL) Modelâ&#128;&#153;s Three Stages for Impairment&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Entities will be required to calculate either 12-month or lifetime expected credit losses for each financial&#13;
+asset, depending on what impairment stage the asset falls in. When measuring expected credit losses, the&#13;
+following non-exhaustive list could be considered:&#13;
+&#13;
+    ï&#130;·   The probability-weighted outcome that reflects the possibility that a credit loss occurs and the&#13;
+        possibility that no credit loss occurs&#13;
+    ï&#130;·   The time value of money, by discounting expected credit losses to the reporting date&#13;
+    ï&#130;·   Reasonable, supportable, and available information without undue cost or effort&#13;
+&#13;
+It is important to note that lifetime expected credit losses (stages 2 and 3) are recognized only after a&#13;
+significant increase in credit risk. The standard elaborates on this point by stating that when credit is first&#13;
+extended, the initial creditworthiness of the borrower and initial expectations of credit losses are taken&#13;
+into account in determining acceptable pricing and other terms and conditions. True economic losses arise&#13;
+when expected credit losses exceed initial expectations (that is, when the lender is not receiving&#13;
+compensation for the level of credit risk to which it is now exposed).&#13;
+&#13;
+Financial instruments that have low credit risk, such as investment grade rated assets (although an&#13;
+external rating grade is not a prerequisite for a financial instrument to be considered low credit risk), are&#13;
+generally assessed for 12-month expected credit losses under stage 1 of the ECL model. For operational&#13;
+simplification convenience, entities can elect the practical expedient option, through which entities can&#13;
+always assume that credit risk has not increased significantly since initial recognition for assets that are&#13;
+deemed to have low credit risk. The practical expedient option is covered in more detail under the&#13;
+subsection â&#128;&#156;ECL Impairment Approach to Foreign Reservesâ&#128;?.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                      6&#13;
+&amp;#12;Empirical Results of IFRS 9 Implementation Projects&#13;
+The ideas discussed in this section were gathered from an extensive review of the IFRS 9 standard, Basis&#13;
+for Conclusions on IFRS 9,8 as well as information shared in the various webcasts hosted by staff of the&#13;
+IFRS Foundation. In this section, any reference simply to a paragraph number refers to the content in&#13;
+IFRS 9. Paragraph references from the â&#128;&#156;Application Guidanceâ&#128;? (appendix B of IFRS 9) are prefixed with&#13;
+the letter â&#128;&#156;Bâ&#128;?;9 and paragraph references from the Basis for Conclusions on IFRS 9 will be prefixed with&#13;
+â&#128;&#156;BCâ&#128;?. Most important, the World Bank RAMP accounting team worked closely with several central&#13;
+banks as part of the RAMP engagement and conducted in-depth IFRS 9 implementation analyses in order&#13;
+to fully break down the issues and nuances specifically associated with foreign reserves management&#13;
+within a central bankâ&#128;&#153;s context.&#13;
+&#13;
+When assessing the two criteria for determining how financial assets are classified and measured, the&#13;
+IASB clarified in BC4.14 that it is more efficient for entities to consider the business model first,&#13;
+followed by the contractual cash flow characteristics of financial assets. Consequently, the discussion&#13;
+below follows the sequence in IFRS 9, starting with both aspects of the classification and measurement&#13;
+approach (business model followed by contractual cash flow characteristics considerations) and the ECL&#13;
+impairment approach. As previously indicated, hedge accounting is outside the scope of this paper.&#13;
+&#13;
+Classification and Measurement: What Is the Business Model?&#13;
+&#13;
+Paragraph 4.1.1(a) requires entities to classify financial assets on the basis of the entityâ&#128;&#153;s business model&#13;
+for managing the financial assets, unless management has elected as an option, in accordance with&#13;
+paragraph 4.1.5, the accounting policy to designate financial assets at FVTPL. Based on the business&#13;
+model as determined by the entityâ&#128;&#153;s key management personnel,10 central banks must assess whether&#13;
+financial assets meet one of the following conditions:&#13;
+&#13;
+     ï&#130;·   Either in accordance with paragraph 4.1.2(a) the financial assets are held within a business model&#13;
+         whose objective is to hold financial assets in order to collect contractual cash flows, or&#13;
+     ï&#130;·   In accordance with paragraph 4.1.2A (a) the financial assets are held within a business model&#13;
+         whose objective is achieved by both collecting contractual cash flows and selling financial assets.&#13;
+&#13;
+Table ES.1, though not exhaustive, summarizes some of the factors that central banks need to consider&#13;
+while assessing the business model within which foreign reserve assets are held in accordance with IFRS&#13;
+9.&#13;
+&#13;
+Table ES.1 Factors to Consider When Assessing the Business Model to Hold Foreign Reserves&#13;
+           Factors                 IFRS 9     Possible focus points&#13;
+Objectives for each foreign    ï&#130;·     B4.1.2   ï&#130;· Investment guidelines and foreign reserve tranche documents&#13;
+reserve tranche                                   must be worded in cognizance of IFRS 9 to reflect how groups of&#13;
+                                                  financial assets are managed together to achieve a particular&#13;
+                                                  business objective. For example, for central banks the primary&#13;
+                                                  objective of the liquidity tranche assets is often to meet â&#128;&#156;liquidity&#13;
+                                                  needsâ&#128;? and â&#128;&#156;match duration of the assets to the duration of&#13;
+                                                  liabilities,â&#128;? while the secondary objective is to maximize returns&#13;
+                                                  within a very prudent risk budget. Assess and update investment&#13;
+                                                  guidelines for the working capital and buffer tranches, if&#13;
+                                                  applicable.&#13;
+&#13;
+&#13;
+                                                        7&#13;
+&amp;#12;          Factors                       IFRS 9   Possible focus points&#13;
+                                                 ï&#130;· Information about past sales and expectations about future sales&#13;
+                                                     provide evidence related to how central banksâ&#128;&#153; stated objectives&#13;
+                                                     for managing the financial assets are achieved and, specifically,&#13;
+                                                     how cash flows are realized.&#13;
+Frequency, value, and                            ï&#130;· Sales due to increase in assetsâ&#128;&#153; credit risk, infrequent and&#13;
+timing of sales in prior            ï&#130;·    B4.1.2C     significant in value or frequent but insignificant in value of sales&#13;
+periods; the reasons for            ï&#130;·    B4.1.3A     to manage credit concentration risk or close to the assetsâ&#128;&#153;&#13;
+those sales; and expectations       ï&#130;·    B4.1.3B     maturity do not preclude the held-to-collect business objective.&#13;
+about future sales activity&#13;
+                                                 ï&#130;· Note that IFRS 9 makes it clear that frequent sales activity even&#13;
+                                                     of significant value in itself does not automatically lead to&#13;
+                                                     FVTPL. Other factors need to be considered to determine the&#13;
+                                                     appropriate business model.&#13;
+&#13;
+                                                     ï&#130;·   Review how tranche performance is computed and reported, e.g.,&#13;
+                                                         for certain subportfolios, central banks may report performance&#13;
+Basis of management                                      based on interest yields and income, while for other tranches,&#13;
+decision making: whether or                              performance may be computed and reported on the total return&#13;
+not central bank            ï&#130;·           B4.1.2B(a)       fair value basis.&#13;
+management focuses&#13;
+                            ï&#130;·           B4.1.6     ï&#130;·     Very often, the best practice for well-managed central banks is&#13;
+primarily on fair value&#13;
+information to make                                      that many of the subportfolios of foreign reserves are monitored&#13;
+decisions                                                and reported on a fair value basis to management. This tends to&#13;
+                                                         support the argument for the FVTPL model.&#13;
+&#13;
+                                                     ï&#130;·   For central banks, an operational objective is very often capital&#13;
+                                                         preservation. As such, risk parameters and guidelines are often&#13;
+                                                         very prudent in order to ensure with a high confidence level that&#13;
+                                                         the proceeds after selling these assets are sufficient to meet the&#13;
+                                                         stated objectives. Consequently, the intent to collect contractual&#13;
+Risk parameters under                                    cash flows (amortized cost) and to collect contractual cash flows&#13;
+which portfolio reserve                                  and sell (FVOCI) is often integral to central banksâ&#128;&#153; business&#13;
+                                ï&#130;·       B4.1.2B(b)&#13;
+assets are managed to meet                               models.&#13;
+the objectives                                       ï&#130;·   In some circumstances, a particular tranche may have objectives&#13;
+                                                         and trading strategies that are more consistent with maximizing&#13;
+                                                         short-term gains and losses (FVTPL). The key is to have clarity&#13;
+                                                         about the purpose of each subportfolio and document that linkage&#13;
+                                                         in unambiguous terms.&#13;
+&#13;
+Performance evaluation                               ï&#130;·   Review whether portfolio managers are compensated based on&#13;
+(including compensation):                                performance results. Determine whether portfolio managersâ&#128;&#153;&#13;
+how central bank portfolio&#13;
+                             ï&#130;·          B4.1.2B(c)       performance is assessed based on tranche net asset values&#13;
+managersâ&#128;&#153; performance is&#13;
+                                                         measured on a fair value basis.&#13;
+evaluated and how it relates&#13;
+to compensation&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                              8&#13;
+&amp;#12;           Factors                   IFRS 9     Possible focus points&#13;
+                                                ï&#130;· Central banks should perform quantitative assessments to&#13;
+                                                    determine whether interest income forms a significant part&#13;
+Relative significance of the&#13;
+various sources of income                           relative to fair value gains and losses of the trancheâ&#128;&#153;s income. If&#13;
+(for example, interest income                       yes, then there seems to be evidence to argue that the collection&#13;
+relative to fair value gains                        of contractual cash flows is more integral to achieving the&#13;
+and losses) as one objective     ï&#130;·     B4.1.5       business modelâ&#128;&#153;s objective (amortized cost or FVOCI). If, on the&#13;
+determinant to assess how                           other hand, the fair value gains and losses are significant relative&#13;
+integral contractual cash                           to interest income, then collection of contractual cash flows may&#13;
+flows are vis-Ã -vis fair value&#13;
+                                                    be more incidental and suggest that a FVTPL classification is&#13;
+gains or losses&#13;
+                                                    more appropriate.&#13;
+&#13;
+&#13;
+&#13;
+Classification and Measurement: Are Cash Flows SPPI?&#13;
+&#13;
+Paragraph 4.1.1(b) requires central banks to classify financial assets on the basis of the contractual cash&#13;
+flow characteristics of the financial assets, unless management has elected as an option, in accordance&#13;
+with paragraph 4.1.5, the accounting policy to designate financial assets at FVTPL. According to the&#13;
+standard as stipulated in both paragraphs 4.1.2(b) and 4.1.2A (b), central banks must assess whether the&#13;
+contractual terms of financial assets give rise on specified dates to cash flows that are SPPI on the&#13;
+principal amount outstanding.&#13;
+&#13;
+Contractual cash flows that are SPPI on the principal amount outstanding are consistent with a basic&#13;
+lending arrangement. Contractual terms that introduce exposure to risks or volatility in the contractual&#13;
+cash flows that are unrelated to a basic lending arrangement, such as exposure to changes in equity prices&#13;
+or commodity prices, are inconsistent with SPPI cash flows. For contractual terms that change the timing&#13;
+or amount of cash flows (for example, prepayment or term extension provisions), central banks must&#13;
+assess either quantitatively or qualitatively the contractual cash flows that could arise both before and&#13;
+after the change in contractual cash flows. In cases where these changes in contractual cash flows are&#13;
+significantly different from each other, financial assets fail to meet the SPPI test. Management must use&#13;
+professional judgment to determine the significant threshold. Cash flow characteristics that do not&#13;
+represent SPPI but have a de minimis effect on the contractual cash flows of the asset can be safely&#13;
+disregarded.&#13;
+&#13;
+To assess whether the effect is de minimis, central banks must consider the possible effect of the&#13;
+contractual cash flow characteristic in each reporting period and cumulatively over the life of financial&#13;
+assets. However, if contractual cash flow characteristics could have an effect on the contractual cash&#13;
+flows that is more than de minimis, but that cash flow characteristic is â&#128;&#156;not genuine,â&#128;? it does not affect the&#13;
+classification of a financial asset. According to the standard, a cash flow characteristic is not genuine if it&#13;
+affects the instrumentâ&#128;&#153;s contractual cash flows only on the occurrence of an event that is extremely rare,&#13;
+highly abnormal, and very unlikely to occur. Again, central bank management must use professional&#13;
+judgment to determine whether contractual terms could be considered not genuine and therefore safely&#13;
+disregarded. Figure ES.2 summarizes the process for determining whether cash flows are SPPI.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                          9&#13;
+&amp;#12;Figure ES.2 Determining Whether Cash Flows Are Solely Payments of Principal and Interest&#13;
+(SPPI)&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+To summarize, IFRS 9 applies one classification approach for all types of financial assets within its scope,&#13;
+based on two criteria: the business model for managing the financial assets and the contractual cash flow&#13;
+characteristics of the financial assets. However, the criteria are not straightforward and require&#13;
+professional judgment. Similar foreign reserve assets could be classified and measured differently among&#13;
+central banks and even within the same central bank. For example, certain foreign reserve assets that meet&#13;
+the SPPI condition could be held in, say, the working capital tranches in order to collect contractual cash&#13;
+flows to meet short-term liquidity needs. Similar foreign reserve assets could also be held in another&#13;
+portfolio whose main purpose is to meet potential liquidity needs necessary to fulfil central banksâ&#128;&#153;&#13;
+multiple functions. In the meantime, central banks may hold these assets to collect contractual cash flows&#13;
+and to sell in part to increase financial returns under certain strict parameters. Unless if FVTPL was&#13;
+elected, in the former case for working capital tranches, the assets would be classified and measured at&#13;
+amortized cost and in the latter case, these assets would be classified and measured at FVOCI.&#13;
+&#13;
+Similar assets can also be held in a portfolio whose main objective is to actively trade in order to&#13;
+maximize returns to offset against the costs of accumulating reserves for central banks. Under this&#13;
+scenario, the assets would be classified and measured at FVTPL. Also, even though the business model of&#13;
+a certain tranche is determined to be collecting-and-selling, if any financial assets in that tranche fail&#13;
+SPPI, such assets would be classified and measured at FVTPL instead of FVOCI. For instance, if a&#13;
+liquidity tranche whose business model is collecting-and-selling holds either financial assets with&#13;
+leveraged cash flows such as derivatives (for example, futures and foreign exchange forwards) or&#13;
+&#13;
+                                                    10&#13;
+&amp;#12;financial assets with complex features that fail SPPI, such assets would be classified and measured at&#13;
+FVTPL.&#13;
+&#13;
+When central banks become party to the contractual provisions of equity investments (for example, Bank&#13;
+for International Settlements, or BIS, shares), they can make an irrevocable election at initial recognition&#13;
+to classify and measure such equity investments at FVOCI11. For unquoted equity investments such as&#13;
+BIS shares, central banks would be required under IFRS 9 to record fair value except under limited&#13;
+circumstances. In practice some central banks value BIS shares at net asset value less a 30 percent&#13;
+discount to estimate fair value. The 30 percent discount is a precedent of the International Court at The&#13;
+Hagueâ&#128;&#153;s decision for the BIS shares repurchase in 2001 and which is now used as the basis for&#13;
+determining fair value of BIS shares. In limited circumstances IFRS 9 allows the use of cost as a proxy&#13;
+for fair value. One example when this is allowed is where there is a wide range of possible fair value&#13;
+measurements and cost represents the best estimate of fair value within that range. Judgment will need to&#13;
+be used in the final assessment, and this will need to withstand the scrutiny of the auditors. The standard&#13;
+includes indicators where cost might not be used as an estimate of fair value, one such indicator being&#13;
+where evidence could be drawn from external transactions in the investeeâ&#128;&#153;s equity. Central banks may&#13;
+need to evaluate and justify the basis of valuation in light of the changes under IFRS 9.&#13;
+&#13;
+ECL Impairment Approach to Foreign Reserves&#13;
+&#13;
+The preceding sections dealing with classification and measurement are vitally important in ECL&#13;
+determination. Only foreign reserve assets measured at amortized cost or FVOCI fall in the scope of the&#13;
+ECL impairment model (but excluding equity investments for which irrevocable election was made to&#13;
+classify and measure at FVOCI). Any computed ECL charges will be reported through the profit or loss&#13;
+accounts, with the corresponding entries posted in either â&#128;&#156;other comprehensive incomeâ&#128;? or â&#128;&#156;loss&#13;
+allowanceâ&#128;? accounts for assets measured at FVOCI or amortized cost, respectively.&#13;
+&#13;
+For operational convenience, the standard provides a practical expedient option for assets that are deemed&#13;
+to have low credit risk. Examples of low credit risk assets include investment grade assets or assets so&#13;
+categorized by management based on central banksâ&#128;&#153; internal credit rating systems. Since most central&#13;
+banks hold investment grade and quoted instruments in foreign reserve portfolios because of the&#13;
+overriding capital preservation objective, electing the practical expedient approach under the ECL model&#13;
+is likely to be a viable option.12&#13;
+&#13;
+Under the practical expedient option, central banks need to compute only the 12-month ECL. The&#13;
+standard is intentionally not prescriptive and allows management to adopt a variety of methods in&#13;
+computing ECL. For more sophisticated central banks that already have an internal credit risk function as&#13;
+part of total financial risk management, the existing internal model is likely to be adequate in most&#13;
+cases.13 For the vast majority of the central banks, an acceptable and yet simple method would be to&#13;
+utilize an explicit probability of default approach:&#13;
+&#13;
+Expected credit losses = Exposure at default (EAD) Â· Probability of default (PD) Â· Loss given default (LGD).&#13;
+&#13;
+PD and LGD parameters can be derived from data published by global credit rating agencies (for&#13;
+example, Moodyâ&#128;&#153;s, Standard &amp; Poorâ&#128;&#153;s, and Fitch). A cursory review of the sovereign ratings transition&#13;
+matrices published by these rating agencies for a one-year holding horizon (12-month PD) reveals that&#13;
+investment grade sovereign debt (a common asset class for many central banks) usually has a zero or&#13;
+close to zero 12-month PD, in which case expected credit losses will be negligible.&#13;
+&#13;
+Financial instruments deemed to have low credit risk are not required to be externally rated. Instead,&#13;
+central banks can use their internal credit ratings that are consistent with a global credit rating definition&#13;
+&#13;
+                                                           11&#13;
+&amp;#12;of investment grade. The low credit risk operational simplification is not meant to be a bright-line trigger&#13;
+for recognizing lifetime ECL when financial instruments are not considered to have low credit risk at the&#13;
+reporting date. In such a case, central banks must assess whether there has been a significant increase in&#13;
+credit risk since initial recognition and thus whether lifetime expected credit losses are required to be&#13;
+recognized.&#13;
+&#13;
+For central banks whose foreign reserves include assets assessed as having high credit risk, the new ECL&#13;
+model is likely to result in process and/or accounting system changes. A direct input in the ECL model is&#13;
+information that impacts credit expectations. Therefore implementing the model will invariably be data&#13;
+intensive. As market data input will be used, it is foreseen that the effect on profit and loss may become&#13;
+more volatile, since impairment losses will be reported as profit or loss and may affect distributable&#13;
+income. Professional judgment will need to be made, and auditors will need to both understand and&#13;
+review the processes supporting the ECL calculations. The information will then need to be presented in a&#13;
+manner that is understandable to the users of financial statements and in compliance with the standard,&#13;
+disclosing quantitative and qualitative factors, including inputs, assumptions, and estimation techniques&#13;
+used to determine impairment losses.&#13;
+&#13;
+Table ES.2, though not exhaustive, summarizes some of the issues that central banks need to consider to&#13;
+effectively implement the ECL impairment model in accordance with IFRS 9.&#13;
+&#13;
+Table ES.2 Issues in Implementing the Expected Credit Loss (ECL) Impairment Model&#13;
+   Considerations           IFRS 9                                 Possible focus points&#13;
+                                         ï&#130;·   Review existing holdings and determine if there are assets with&#13;
+                                             high credit risks.&#13;
+                        ï&#130;·   B5.5.22      ï&#130;·   Review existing investment guidelines and align to IFRS 9 ECL&#13;
+                        ï&#130;·   B5.5.23          model requirements.&#13;
+Portfolio review&#13;
+                        ï&#130;·   B5.5.24      ï&#130;·   Clearly define criteria for low credit risk; at a minimum include&#13;
+                                             issuersâ&#128;&#153; risk of default, capacity to meet obligations, and whether&#13;
+                                             there are adverse economic conditions that may impact&#13;
+                                             counterpartiesâ&#128;&#153; ability to meet obligations.&#13;
+                        ï&#130;·   B5.5.41      ï&#130;·   Policy and guidelines for determining default probabilities, loss&#13;
+                        ï&#130;·   B5.5.42          given defaults, exposures at default, or mapping from external&#13;
+Finance, credit, and&#13;
+market risk             ï&#130;·   B5.5.43          sources&#13;
+                        ï&#130;·   B5.5.37      ï&#130;·   Corroboration between finance or accounting department with&#13;
+departments&#13;
+                                             credit or market risk departments and leveraging existing&#13;
+corroboration&#13;
+                                             infrastructureâ&#128;&#148;perform internal credit rating systems review, if&#13;
+                                             applicable&#13;
+                        ï&#130;·   B5.5.28-29   ï&#130;·   Models to calculate 12-month ECL and if needs be, lifetime ECL&#13;
+ECL model review&#13;
+                        ï&#130;·   B5.5.44      ï&#130;·   Policy for ECL discount rate (effective interest rate)&#13;
+                        ï&#130;·   B5.5.15-21   ï&#130;·   Policy for credit risk migration between stages 1, 2, and 3 and&#13;
+                                             clearly defined credit events that constitute â&#128;&#156;significant increase in&#13;
+Credit risk&#13;
+                                             credit riskâ&#128;?&#13;
+expectations&#13;
+                                         ï&#130;·   Frequency of portfolio reviews and possibility of implementing&#13;
+                                             â&#128;&#156;watch listsâ&#128;? to effectively monitor credit events&#13;
+                                         ï&#130;·   Model       risk    management        frameworks:       development,&#13;
+Governance                                   implementation, use, and ongoing model validation&#13;
+                                         ï&#130;·   Roles and responsibilities between various departments&#13;
+&#13;
+There are two potential missteps that central bank management may make with regard to implementing&#13;
+the ECL model.&#13;
+&#13;
+&#13;
+&#13;
+                                                    12&#13;
+&amp;#12;    1. The first would be to panic. Many have estimated it will take the entire remaining two and a&#13;
+       half years to implement the standard and seem to suggest that entire information and accounting&#13;
+       systems need to be overhauled. While the new standard is expected to be complex, it is also&#13;
+       expected to be implemented without undue cost and effort. The implications of IFRS 9 on central&#13;
+       banksâ&#128;&#153; domestic assets may require special attention and effort depending on the types of asset&#13;
+       classes and asset classifications. However, the scope of this paper is limited to foreign reserve&#13;
+       portfolio assets. Due to the conservative nature of central banksâ&#128;&#153; reserve portfolios and strategic&#13;
+       asset allocations, electing the practical expedient option could be an operational simplification for&#13;
+       most central banks. Central bank management should not panic, but rather start the assessment&#13;
+       early, assess whether the practical expedient is applicable, and ensure that the principle of undue&#13;
+       cost and effort is not compromised.&#13;
+&#13;
+    2. The second is to start implementing IFRS 9 too late or to underestimate the implications&#13;
+       and complexity of implementing the standard. Implementing the ECL model will involve&#13;
+       collaboration across several business lines, through which suitable models must be identified for&#13;
+       calculating expected credit losses. Central banks should consider setting up an IFRS 9&#13;
+       implementation team that includes risk specialists in order to determine appropriate&#13;
+       categorization logic, credit quality indicators, and thresholds for the three-stage model. It will be&#13;
+       necessary to introduce processes and procedures on how to monitor changes in credit quality for&#13;
+       allocation within the ECL model. There could be an impact on systems and processes, and that is&#13;
+       why implementation impact assessment should start early. The new disclosures are far reaching,&#13;
+       and central banks should not underestimate the effort required, including having systems and&#13;
+       processes in place to collect data. IFRS 9 implementation teams should closely monitor the work&#13;
+       of the ITG discussion forum.&#13;
+&#13;
+Conclusion&#13;
+With just two years remaining before the mandatory IFRS 9 implementation date of January 1, 2018,&#13;
+central banks have their work cut out. Early adoption of the standard is permissible. Starting February&#13;
+2015, central banks that decide to early apply the standard will apply the version of IFRS 9 issued in July&#13;
+2014 (see figure ES.3).&#13;
+&#13;
+Figure ES.3 Key Dates for Implementing IFRS 9&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+IFRS 9 impact assessment should start early, with the collaboration of accounting and foreign reserves&#13;
+management departments. Work on assessing current foreign reserve assets classification under IFRS 9&#13;
+and any associated transition adjustments should rank high on every central bankâ&#128;&#153;s agenda of priorities.&#13;
+Internal business documentation will need to be aligned to IFRS 9 requirements for business model and&#13;
+contractual cash flow characteristics requirements.&#13;
+&#13;
+                                                    13&#13;
+&amp;#12;The six factors for determining the business model provide a useful framework that central banks can use&#13;
+to perform classification and measurement assessment. When the assessment is applied to a portfolio or&#13;
+subportfolio, experience has shown that each of the six factors when considered separately can often lead&#13;
+to different classifications. Therefore, all of the factors need to be considered in totality. The importance&#13;
+of each factor to the business model is also likely to be different among central banks. Management must&#13;
+use best judgment to determine which objectives (held-to-collect, collecting-and-selling, or neitherâ&#128;&#148;for&#13;
+example, active trading to maximize fair value gains) for investing financial assets are most integral to the&#13;
+business model. Once the business model is determined, each financial asset must be assessed to&#13;
+determine whether contractual cash flows are SPPI.&#13;
+&#13;
+When assessing the impact of the newly introduced ECL impairment model, central banksâ&#128;&#153; accounting&#13;
+departments must closely collaborate with credit and markets departments to determine the best approach&#13;
+to applying the model. Central banks are advised not to underestimate the potential level of preparation&#13;
+work, especially if systems need to be modified and new processes need to be designed.&#13;
+&#13;
+&#13;
+&#13;
+Notes&#13;
+&#13;
+1&#13;
+  While IFRS 9 will arguably have an equal or larger significant impact on central banksâ&#128;&#153; domestic asset base, this paper focus es&#13;
+only on implementing IFRS 9 on foreign reserve assets.&#13;
+2&#13;
+  Due to lack of wide applicability to the central bank community, hedge accounting is outside the scope of this paper.&#13;
+3&#13;
+  The IFRS Foundation develops the International Financial Reporting Standards through the IASB, its independent standard-&#13;
+setting body.&#13;
+4&#13;
+   Reserves Advisory and Management Program (RAMP) engagements are designed to help official sector partners develop&#13;
+world-class asset management operations through building in-house capacity and employing financial service providers. For&#13;
+more, see the programâ&#128;&#153;s website at http://treasury.worldbank.org/sip/htm/index.html.&#13;
+5&#13;
+   Objectives of foreign exchange reserves were drawn from International Monetary Fund (2013), Guidelines for Foreign&#13;
+Exchange Reserve Management.&#13;
+6&#13;
+  IFRS 9 Financial Instruments as published by the International Accounting Standards Board in July 2014.&#13;
+7&#13;
+  Terms of reference of the IFRS Transition Resource Group for Impairment of Financial Instruments can be accessed at&#13;
+http://www.ifrs.org/About-us/IASB/Advisory-bodies/ITG-Impairment-Financial-Instrument/Pages/Home.aspx.&#13;
+8&#13;
+  The Basis for Conclusions on IFRS 9 analyses the considerations of the IASB when developing IFRS 9 and includes an analysis&#13;
+of the feedback received on the proposals that preceded the standard and how the IASB responded to that feedback. It also&#13;
+includes an analysis of the likely effects of IFRS 9. While the Basis for Conclusions accompanies IFRS 9, it is not part of IFRS 9.&#13;
+9&#13;
+  Appendix B, â&#128;&#156;Application Guidance,â&#128;? is an integral part of IFRS 9 standard.&#13;
+10&#13;
+   Per International Accounting Standard 24 Related Party Disclosures, key management personnel are those persons having&#13;
+authority and responsibility for planning, directing, and controlling the activities of the entity, directly or indirectly, including any&#13;
+director (whether executive or otherwise) of that entity.&#13;
+11&#13;
+   Unrealized gains or losses for both debt and equity instruments measured at FVOCI are reported as other comprehensive&#13;
+income. However, since equity instruments are not assessed for impairment under IFRS 9, realized gains or losses for equity&#13;
+instruments are not recycled to profit or loss, whereas realized gains or losses for debt instruments are appropriately recycled to&#13;
+profit or loss. Instead, cumulative realized gains or losses for equity instruments may be transferred within equity accounts..&#13;
+12&#13;
+   The practical expedient option per IFRS 9 paragraph 5.5.10 can be elected provided the following criteria per paragraph&#13;
+B5.5.22 are met:&#13;
+1.      The financial instrument has a low risk of default.&#13;
+2.      The borrower has a strong capacity to meet its contractual cash flow obligations in the near term.&#13;
+3.      Adverse changes in economic and business conditions in the longer term may, but will not necessarily, reduce the ability&#13;
+        of the borrower to fulfil its contractual cash flow obligations.&#13;
+Central banksâ&#128;&#153; objectives and strategic asset allocations usually ensure conservative investment guidelines, wealth preservat ion,&#13;
+capital stability, limited downside risk, and limited downside losses. These factors may indicate that the first two criteria are met.&#13;
+The third criterion does not mean that the economy might not change if the country went to war, or suffered a natural disaster, but&#13;
+only that at the time of impairment review none of these conditions exist.&#13;
+13&#13;
+   Managers with questions are advised to contact RAMPAccounting@worldbank.org. RAMPâ&#128;&#153;s credit risk and accounting&#13;
+professionals will be able to verify and assist.&#13;
+&#13;
+&#13;
+                                                                  14&#13;
+&amp;#12;References&#13;
+Archer, D. 2009 â&#128;&#156;Roles and Objectives of Modern Central Banks.â&#128;? In Issues in the Governance of Central Banks, Bank for&#13;
+International Settlements. Basel, Switzerland, http://www.bis.org/publ/othp04_2.pdf, full report at&#13;
+http://www.bis.org/publ/othp04.htm.&#13;
+&#13;
+Archer, D., and P. Moser-Boehm, P. 2013 â&#128;&#156;Central Bank Finances.â&#128;? BIS Papers no. 71, April,&#13;
+http://www.bis.org/publ/bppdf/bispap71.pdf.&#13;
+&#13;
+International Accounting Standards Board (IASB). 2014. IFRS 9 Financial Instruments. London: IASB, July.&#13;
+&#13;
+International Monetary Fund (IMF). 2013. Guidelines for Foreign Exchange Reserve Management, Washington, DC: IMF,&#13;
+http://www.imf.org/external/np/pp/eng/2013/020113.pdf.&#13;
+&#13;
+Morahan, A and C. Mulder, 2013, â&#128;&#156;SURVEY OF RESERVE MANAGERS: LESSONS FROM THE CRISISâ&#128;?, IMF Working&#13;
+Paper, WP/13/99, IMF, Washington, DC, https://www.imf.org/external/pubs/ft/wp/2013/wp1399.pdf&#13;
+&#13;
+Schwarz, C., P. Karakitsos, N. Merriaman, and W. Studener. 2014, â&#128;&#156;Why Accounting Matters: A Central Bank Perspective.â&#128;?&#13;
+Occasional Paper Series no. 153, European Central Bank, Frankfurt am Main,&#13;
+https://www.ecb.europa.eu/pub/pdf/scpops/ecbop153.pdf.&#13;
+&#13;
+Sullivan, K. 2003. â&#128;&#156;Profits, Dividends and Capital: Considerations for Central Banks.â&#128;? In Accounting Standards for Central&#13;
+Banks, edited by N. Courtis and B. Mander, 25â&#128;&#147;34. London: Central Banking Publications.&#13;
+&#13;
+Sullivan, K. 2005, â&#128;&#156;Transparency in Central Bank Financial Statement Disclosuresâ&#128;?, IMF Working Paper, WP/05/80, IMF,&#13;
+Washington, DC, http://www.imf.org/external/pubs/ft/wp/2005/wp0580.pdf.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                              15&#13;
+&amp;#12;</ml:original-txt><ml:search-metadata><doc id="25810853">
+        <url>
+            http://documents.worldbank.org/curated/en/2016/01/25810853/applying-ifrs-9-central-banks-foreign-reserves
+        </url>
+        <availablein>English</availablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2016/01/25810853/applying-ifrs-9-central-banks-foreign-reserves</url_friendly_title>
+        <new_url>2016/01/25810853/applying-ifrs-9-central-banks-foreign-reserves</new_url>
+        <disclosure_date>2016-01-20T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2016-01-21T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <docm_id>090224b0840dfa05</docm_id>
+        <chronical_docm_id>090224b0840dfa05</chronical_docm_id>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2016/01/20/090224b0840dfa05/1_0/Rendered/INDEX/Applying0IFRS00s0foreign0reserves0.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2016/01/20/090224b0840dfa05/1_0/Rendered/PDF/Applying0IFRS00s0foreign0reserves0.pdf</pdfurl>
+        <datestored>2016-01-20T00:00:00Z</datestored>
+        <docdt>2016-01-20T22:19:01Z</docdt>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            Applying IFRS 9 to Central Banks foreign reserves
+        </repnme>
+        <abstracts>
+            Effective January 1, 2018, IFRS 9
+            Financial Instruments will replace IAS 39 Financial
+            Instruments: Recognition and Measurement (IAS 39). Unlike
+            most publications on IFRS 9, this paper focuses primarily on
+            the application of the new standard on central banks’
+            foreign reserve assets, which increasingly constitute a
+            substantial part of central banks’ balance sheet.  Based on
+            IFRS 9 implementation assessment projects with several
+            central banks, the World Bank RAMP accounting team
+            identified six factors that can help central banks determine
+            appropriate business model for foreign reserve assets.
+            Empirically, the result of applying the six factors has
+            indicated that central banks’ reserve portfolios often
+            display elements of more than one business model; hence
+            management judgment coupled with a well-articulated
+            accounting policy paper will be critical when implementing
+            IFRS 9. Under most central banks reserves management
+            frameworks, performing the solely payments of principal and
+            interest (SPPI) test should be a relatively straightforward
+            exercise, and the practical expedient option under the new
+            impairment provisions should also apply.
+        </abstracts>
+        <docna>
+            Applying IFRS 9 to Central Banks foreign reserves
+        </docna>
+        <display_title>Applying IFRS 9 to Central Banks
+            foreign reserves</display_title>
+        <listing_relative_url>/research/2016/01/25810853/applying-ifrs-9-central-banks-foreign-reserves</listing_relative_url>
+        <topic>Access to Finance m1327464 1249,Financial Inclusion m1327456 363,Financial Integrity m1326313 328,Reserve Rates m1327611 1127</topic>
+        <subtopic>Banks &amp; Banking Reform,Debt Markets,Bankruptcy and Resolution of Financial Distress,Currencies and Exchange Rates,Emerging Markets</subtopic>
+        <docty>Working Paper</docty>
+        <teratopic>Private Sector Development,Finance and Financial Sector Development</teratopic>
+        <count>World</count>
+        <authors>
+            <author>Chidawaya,Lott</author>
+            <author>Bajaj, Amit</author>
+            <author>Chen,Wei-000334325</author>
+            <author>Dai,Kelley Yueyao</author>
+            <author>Ha,Yunjung Sarah</author>
+            <author>Martin,Diann Dodd</author>
+            <author>Ng,Shaun Wei Tjia</author>
+            <author>Shotter,Robert Anthony Surtees</author>
+            <author>Li,Ying Eileen</author>
+        </authors>
+        <entityids>
+            <entityid>090224b0840dfa05_1_0</entityid>
+        </entityids>
+        <admreg>The World Region,The World Region</admreg>
+        <lang>English</lang>
+        <historic_topic>Private Sector Development,Finance and Financial Sector Development</historic_topic>
+        <topicv3>Access to Finance m1327464 1249,Financial Inclusion m1327456 363,Financial Integrity m1326313 328,Reserve Rates m1327611 1127</topicv3>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            holding, borrower, interest income,
+            accounting, defaults, valuation, futures, interest,
+            regulatory standards, interest rate, option, exchange,
+            discount rate, liquidity, credit rating agencies, portfolio,
+            liquidity risk, financial statements, market instruments,
+            capacity building, financial statement, discount,
+            creditworthiness, asset base, probability of default, asset
+            management, asset values, reserve, central banks,
+            prepayment, cash flows, instruments, lender, credibility,
+            budget, central bank, maturity, external finance,
+            international court, derivatives, credit ratings, currency,
+            asset portfolios, domestic currency, natural disaster, level
+            of confidence, reserve bank, tranches, portfolios, finances,
+            foreign currencies, trading, external assets, credit risks,
+            monetary fund, markets, debt, return, reserves, asset
+            classes, financial system, finance, asset classification,
+            foreign currency, profit margin, transactions, investment
+            guidelines, credit losses, equity, sovereign ratings, debt
+            payments, credit risk assets, sovereign debt, foreign
+            exchange reserves, credit loss, asset value, good,
+            transparency, financial stability, tranche, market data,
+            future, returns, equity investments, financial instruments,
+            financial instrument, working capital, fair value, financial
+            asset, financial service providers, shares, balance sheet,
+            market, default, credit rating, foreign exchange, market
+            risk, default probabilities, investment policy, risk of
+            default, asset classifications, accounting standard, foreign
+            exchange reserve, financial infrastructure, credit risk,
+            holdings, bank portfolio, currencies, equity instruments,
+            accounting standards, debt instruments, national bank,
+            investment, balance sheets, credit quality, debt
+            obligations, financial assets, money market, future credit,
+            external debt, profit, money market instruments,
+            investments, risk management, lending, financial risk, asset
+            class, exchange rate, instrument, profits, liabilities,
+            commodity prices, hedge, short-term liquidity, international
+            settlements, cash flow, portfolio management, investing
+        </keywd>
+        <owner>HNP AFR West/Centr Region (GHN07)</owner>
+        <repnb>102852</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>Economic Policy and Debt</ml:concept><ml:concept>ICT</ml:concept><ml:concept>ICT for Development</ml:concept><ml:concept>Information Technology</ml:concept><ml:concept>Information and Communication Technologies (ICT)</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Economic Management</ml:concept><ml:concept>Macroeconomic Management</ml:concept><ml:concept>Macroeconomic Policy</ml:concept><ml:concept>Macroeconomics Policy</ml:concept><ml:concept>Macroeconomics and Economic Growth</ml:concept><ml:concept>Macroeconomics and Growth</ml:concept><ml:concept>Environment</ml:concept><ml:concept>Poverty Reduction</ml:concept><ml:concept>Poverty Reduction and Distributional Analysis</ml:concept><ml:concept>Poverty Reduction and Equity</ml:concept><ml:concept>Poverty and Inequality</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Social Protections and Labor</ml:concept><ml:concept>International Competitiveness</ml:concept><ml:concept>International Economics and Trade</ml:concept><ml:concept>Trade Liberalization</ml:concept><ml:concept>Trade Liberalization and Regional Integration</ml:concept><ml:concept>Trade Restrictiveness</ml:concept><ml:concept>Trade and Integration</ml:concept><ml:concept>City Development Strategies</ml:concept><ml:concept>Macroeconomic Vulnerability and Debt</ml:concept><ml:concept>Information and Communication Technologies</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Macroeconomic and Structural Policies</ml:concept><ml:concept>Economic Growth</ml:concept><ml:concept>Environment and Natural Resources</ml:concept><ml:concept>Poverty</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Social Protection and Labor</ml:concept><ml:concept>Trade</ml:concept><ml:concept>Urban Development</ml:concept><ml:concept>Banks and Banking Reform</ml:concept><ml:concept>Commodities</ml:concept><ml:concept>Commodity Prices</ml:concept><ml:concept>Commodity Rich Countries</ml:concept><ml:concept>Natural Resources</ml:concept><ml:concept>Central Banks</ml:concept><ml:concept>Shocks</ml:concept><ml:concept>Central Banking</ml:concept><ml:concept>Impact Evaluations</ml:concept><ml:concept>Randomized Control Trials</ml:concept><ml:concept>Business Models</ml:concept><ml:concept>Debt Management</ml:concept><ml:concept>Debt Policy</ml:concept><ml:concept>Debt Policy and Management</ml:concept><ml:concept>Public Debt Management</ml:concept><ml:concept>Analysis &amp; Monitoring</ml:concept><ml:concept>Delivery Units</ml:concept><ml:concept>Grievance Redress</ml:concept><ml:concept>Indicators</ml:concept><ml:concept>M&amp;E</ml:concept><ml:concept>Performance Measurement</ml:concept><ml:concept>Performance Reviews</ml:concept><ml:concept>Rapid Results Approaches</ml:concept><ml:concept>Foreign Direct Investment</ml:concept><ml:concept>Governance and Public Accountability (GPA)</ml:concept><ml:concept>Incentives for Good Government</ml:concept><ml:concept>National Governance</ml:concept><ml:concept>Foreign Direct Investments</ml:concept><ml:concept>Linkages</ml:concept><ml:concept>External Debt</ml:concept><ml:concept>Banks &amp; Banking Reform</ml:concept><ml:concept>Natural Disasters</ml:concept><ml:concept>Income</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Commodities and Resources</ml:concept><ml:concept>Monetary and Financial Stability</ml:concept><ml:concept>Central Banking Institutional Set-up</ml:concept><ml:concept>Volatility</ml:concept><ml:concept>Shocks and Vulnerability</ml:concept><ml:concept>Market Risks</ml:concept><ml:concept>Impact Assessment</ml:concept><ml:concept>Infrastructure</ml:concept><ml:concept>Telecommunications Organizational Design</ml:concept><ml:concept>Financial Risk Management</ml:concept><ml:concept>Debt</ml:concept><ml:concept>Portfolio Management</ml:concept><ml:concept>Monitoring and Evaluation</ml:concept><ml:concept>Investment Policy</ml:concept><ml:concept>Governance</ml:concept><ml:concept>FDI Spillovers</ml:concept><ml:concept>Asset Management</ml:concept></ml:concepts><ml:geo-regions/></ml:annotations></ml:doc-envelope>

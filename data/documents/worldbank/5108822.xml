@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>268                                                                                                          privatesector      P U B L I C        P O L I C Y      F O R      T H E&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+   NUMBER&#13;
+&#13;
+&#13;
+&#13;
+         NOTE&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+             2004&#13;
+                                                                                                                   SMEs, Growth, and Poverty&#13;
+&#13;
+                 FEBRUARY&#13;
+&#13;
+&#13;
+                                                                                    Thorsten Beck and              Do Pro-SME Policies Work?&#13;
+                                                                                    Asli Demirgüç-Kunt&#13;
+                                                                                                                   This Note explores the relationship between the size of the small and&#13;
+                                                                                    Thorsten Beck&#13;
+                                                                                                                   medium-size enterprise (SME) sector and economic growth and&#13;
+                                                                                    (tbeck@worldbank.org)&#13;
+&#13;
+                                                                                    is senior financial economist, poverty reduction. A new study finds no support for the widely held&#13;
+                                                                                    and Asli Demirgüç-Kunt         belief that SMEs promote higher growth and lower poverty. But it&#13;
+                                                                                    (ademirguckunt@&#13;
+&#13;
+                                                                                    worldbank.org) is research     does provide some support for the view that the quality of the&#13;
+&#13;
+                         PRESIDENCY                                                 manager, in the Development    business environment facing all firms, large and small, influences&#13;
+                                                                                    Research Group of the World&#13;
+                                                                                                                   economic growth.&#13;
+                                   VICE                                             Bank.&#13;
+&#13;
+                                                                                                                   To accelerate growth and reduce poverty, inter-    ments, direct government support of SMEs can&#13;
+                                                                                                                   national aid agencies provide assistance tar-      boost economic growth and development.&#13;
+                                                                                                                   geted to small and medium-size enterprises         Finally, some argue that the growth of SMEs&#13;
+                                                                                                                   (SMEs) in developing economies. The World          boosts employment more than the growth of&#13;
+                                       DEVELOPMENT&#13;
+                                                                                                                   Bank Group, for example, approved more than        large firms because SMEs are more labor&#13;
+                                                                                                                   US$10 billion for programs supporting SMEs in      intensive. So subsidizing SMEs may help reduce&#13;
+                                                  SECTOR                                                           the past five years. Does this pro-SME policy      poverty.&#13;
+                                                                                                                   work?                                                 Even as international donors channel a large&#13;
+                                                                                                                                                                      and growing amount of aid to subsidizing SMEs,&#13;
+                                                        PRIVATE                                                    The arguments for and against                      skeptics put forth four views questioning the&#13;
+                                                                                                                   Advocates of the pro-SME policy make three         efficacy of this policy. First, some emphasize the&#13;
+                                                                                                                   core arguments for its effectiveness. First, they  advantages of large firms. Large enterprises&#13;
+                                                                                                                   argue that SMEs enhance competition and            may exploit economies of scale and more easily&#13;
+                                                               GROUP&#13;
+                                                                                                                   entrepreneurship and thus have economywide         undertake the fixed costs associated with&#13;
+                                                                                                                   benefits in efficiency, innovation, and produc-    research and development, boosting produc-&#13;
+&#13;
+                                                                    BANK                                           tivity growth. So direct government support of     tivity. And empirical evidence from both indus-&#13;
+                                                                                                                   SMEs can help countries reap social benefits.      trial and developing countries shows that large&#13;
+                                                                                                                   Second, proponents often claim that SMEs are       firms offer more stable employment, higher&#13;
+                                                                                                                   generally more productive than large firms but     wages, and more nonwage benefits than small&#13;
+                                                                        WORLD                                      are impeded in their development by failures of    firms, even after differences in workers'&#13;
+                                                                                                                   financial markets and other institutions. Thus,    education, experience, and industry are con-&#13;
+                                                                             THE                                   pending financial and institutional improve-       trolled for.&#13;
+&amp;#12;&#13;
+S M E S , G R O W T H , A N D P O V E R T Y D O P R O - S M E P O L I C I E S W O R K ?&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                        Second, skeptics challenge the assumptions         been hampered by the lack of comparable cross-&#13;
+                                    underlying pro-SME arguments. Some research            country data. A new study provides the first cross-&#13;
+                                    finds that SMEs are neither more labor intensive       country evidence on the links between SMEs and&#13;
+                                    nor better at creating jobs than large firms.          economic growth and poverty reduction.&#13;
+                                    Moreover, recent work finds that underdevel-&#13;
+                                    oped financial and legal institutions do not hurt      The provocative findings&#13;
+                                    only SMEs. Indeed, research finds that such            Comparable cross-country data are notoriously&#13;
+                                    institutions constrain all firms from growing to       hard to come by. For starters, countries define&#13;
+                                    their efficient size.                                  a small or medium-size enterprise in many dif-&#13;
+2&#13;
+                                        Third, skeptics question the validity of con-      ferent ways. Moreover, by definition, the data&#13;
+                                    sidering firm size to be an exogenous determi-         exclude the informal sector, where many such&#13;
+                                    nant of economic growth. According to this             firms operate in developing countries. So the&#13;
+                                    "institutional" view, natural resource endow-          data used in the analysis are the best available,&#13;
+                                    ments, technology, policies, and institutions          not the ideal.&#13;
+                                    help determine the industrial composition and             The study carries out an econometric analy-&#13;
+                                    optimal firm size in a country. For example,           sis using two newly compiled indicators of the&#13;
+                                    some countries may have endowments provid-             SME sector based on its share of manufacturing&#13;
+                                    ing a comparative advantage in goods produced          employment (box 1).1 The study also builds an&#13;
+                                    most efficiently in large firms, while others have&#13;
+                                    a comparative advantage in goods produced&#13;
+                                                                                            Box  Measuring the SME sector&#13;
+                                    most efficiently in small firms. Similarly, in&#13;
+                                                                                        1&#13;
+                                    countries open to international trade, the opti-              The study compiled two SME indicators for the&#13;
+                                    mal firm size may be larger than in countries                 econometric analysis. One is the share of the SME sector&#13;
+                                    that are less open. And some argue that firm size             in the total official labor force in manufacturing, with&#13;
+                                    reflects the margin between intrafirm transac-                250 employees taken as the cutoff for defining an&#13;
+                                    tion costs and market transaction costs, such                 enterprise as small or medium-size. This indicator&#13;
+&#13;
+                                    that as market transaction costs fall relative to             provides a consistent measure of firm size distribution&#13;
+&#13;
+                                    intrafirm transaction costs, the optimal firm size            across countries. The second indicator is the share of&#13;
+&#13;
+                                    falls. For institutional and technological rea-               the SME sector in the total official labor force in&#13;
+                                                                                                  manufacturing based on the official country definition of&#13;
+                                    sons, this margin varies across industries and&#13;
+                                                                                                  a small or medium-size enterprise, with the cutoff&#13;
+                                    countries. So in this view pro-SME policies could&#13;
+                                                                                                  ranging from 100 to 500 employees. This indicator takes&#13;
+                                    distort firm size and potentially hurt economic&#13;
+                                                                                                  into account that a country's economic and institutional&#13;
+                                    efficiency.&#13;
+                                                                                                  characteristics might determine whether a firm is defined&#13;
+                                        Fourth, some skeptics, taking a "business                 as small, medium-size, or large.&#13;
+                                    environment" view, doubt the crucial role of                    These indicators have shortcomings. For example,&#13;
+                                    SMEs and instead emphasize the importance of                  information on SME employment outside manufacturing&#13;
+                                    the business environment facing all firms, big                (such as in agriculture and services) would be useful to&#13;
+                                    and small. Low entry and exit barriers, well-                 have, but no cross-country data are available for the share&#13;
+&#13;
+                                    defined property rights, effective contract                   of SMEs in other sectors. Another potential problem is that&#13;
+&#13;
+                                    enforcement, and access to finance--all factors               the definition of SMEs is restricted to formal enterprises,&#13;
+&#13;
+                                    conducive to competition and private commer-                  yet informal enterprises may account for an important&#13;
+                                                                                                  share of output in some economies. The analysis controls&#13;
+                                    cial transactions--may encourage SMEs. But&#13;
+                                                                                                  for the importance of the informal economy, however, by&#13;
+                                    these skeptics focus not on SMEs, but on the&#13;
+                                                                                                  incorporating estimates of the size of the informal sector&#13;
+                                    environment facing all businesses. So, like other&#13;
+                                                                                                  relative to the formal sector in each economy. Here the&#13;
+                                    skeptics, they question the policy of subsidizing&#13;
+                                                                                                  analysis relies on earlier work estimating the market value&#13;
+                                    the development of SMEs.                                      of output produced by the informal sector as a share of&#13;
+                                        Much research has evaluated pro-SME argu-                 measured GDP. It uses measures of informal activity rather&#13;
+                                    ments at the level of the firm, industry, or coun-            than the informal labor force because few countries have&#13;
+                                    try. But cross-country studies of the relationship            data on the size of informal sector employment.&#13;
+                                    between SMEs and economic development have&#13;
+&amp;#12;&#13;
+indicator of the quality of the business envi-                                                     But the results do not take into account the&#13;
+ronment facing firms of all sizes--an aggregate                                               possibility of reverse causation--that high&#13;
+measure of entry and exit costs, contract                                                     growth might lead to the emergence of many&#13;
+enforcement, and property rights protection.                                                  small enterprises. Moreover, the results could be&#13;
+Countries are considered to have a more effec-                                                the outcome of a third factor, not included in the&#13;
+tive business environment if property rights are                                              estimations, that might drive both the high share&#13;
+well protected, the costs of contract enforce-                                                of SMEs and the high growth of the economy.&#13;
+ment and business registration are low, and the                                               Regressions that explicitly control for reverse&#13;
+insolvency process is cheap, fast, and efficient.                                             causation and the possibility of such a third fac-&#13;
+                                                                                                                                                                                     3&#13;
+The data show that the importance of SMEs in                                                  tor erode the significance of the relationship&#13;
+manufacturing varies greatly across countries                                                 between SMEs and economic growth. This find-&#13;
+and that those with a smaller share of SMEs also                                              ing is consistent with the view that a large SME&#13;
+have a business environment that is hardly                                                    sector is a characteristic of fast-growing econo-&#13;
+conducive to doing business (table 1). The                                                    mies but not a cause of their rapid growth.&#13;
+cross-country econometric analysis yields some                                                     When the analysis focuses on income growth&#13;
+interesting results.                                                                          among the lowest income quintile rather than&#13;
+                                                                                              the overall population, it again finds no evi-&#13;
+SMEs and growth: correlation or causality?                                                    dence for the importance of SMEs. Nor does it&#13;
+Regressions of GDP per capita growth, averaged                                                find any statistically significant relationship&#13;
+over the 1990s, on either of the two SME meas-                                                between the importance of SMEs and the depth&#13;
+ures and an array of other country characteris-                                               and breadth of poverty across countries.&#13;
+tics that can account for differences in growth&#13;
+across countries show a strong relationship                                                   Business environment and growth&#13;
+between the importance of SMEs and economic                                                   While cross-country comparisons provide no&#13;
+growth. This relationship still holds when the                                                evidence that SMEs cause economic growth&#13;
+analysis controls for the importance of the in-                                               or reduce poverty, cross-country regressions&#13;
+formal economy and excludes transition                                                        provide qualified evidence that an effective&#13;
+economies and Sub-Saharan African countries                                                   business environment does cause growth.&#13;
+whose growth path might vary from those in                                                    Cross-country regressions of GDP per capita&#13;
+other regions.                                                                                growth on the business environment indicator&#13;
+&#13;
+&#13;
+ Table  Size of SME sector and quality of business environment, selected countries, 1990s&#13;
+&#13;
+1                                                    Average GDP                         Average annual&#13;
+&#13;
+                                                     per capita,                         GDP per                         Percentage of&#13;
+&#13;
+                                                     1990­99                             capita growth,                  manufacturing                     Business&#13;
+&#13;
+                                                     (constant                           1990­99                         labor force                       environment&#13;
+&#13;
+         Country                                     1995 US$)                           (percent)                       in SMEsa                          indexb&#13;
+         Brazil                                      4,327                               0.63                            59.80                             ­0.34&#13;
+         Cameroon                                    653                                 ­1.74                           20.27                             ­1.98&#13;
+         Germany                                     30,240                              1.43                            70.36                             0.82&#13;
+         Indonesia                                   963                                 3.09                            79.20                             ­1.37&#13;
+         Korea, Rep. of                              10,508                              5.41                            78.88                             1.03&#13;
+         Turkey                                      2,865                               2.49                            61.05                             ­0.12&#13;
+         Ukraine                                     1,190                               ­7.17                           5.38                              ­0.56&#13;
+         United States                               28,232                              1.93                            52.54                             2.26&#13;
+&#13;
+      a. Small and medium-size enterprises are classified on the basis of the official country definition.&#13;
+      b. The business environment index is a composite of four measures relating to the protection of property rights, the costs of contract enforcement and business registra-&#13;
+      tion, and the cost and efficiency of the insolvency process. It has an average value of zero and a standard deviation of one. Higher values indicate a more effective busi-&#13;
+      ness environment.&#13;
+      Source: Meghana Ayyagari, Thorsten Beck, and Asli Demirgüç-Kunt, "Small and Medium Enterprises across the Globe: A New Database," Policy Research Working Paper 3127,&#13;
+      World Bank, Development Research Group, Washington, D.C., 2003.&#13;
+&amp;#12;&#13;
+S M E S , G R O W T H , A N D P O V E R T Y D O P R O - S M E P O L I C I E S W O R K ?&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+and an array of other potential growth factors                  ating aggregate growth, the results do not&#13;
+show a strong relationship between an effective                 suggest that the business environment has an&#13;
+business environment and economic growth.                       effect on poverty beyond its effect on the over-&#13;
+Moreover, they show that this relationship still                all economy.&#13;
+holds when the analysis takes into account the                        Together, these findings have important pol-                    viewpoint&#13;
+possibility that faster-growing countries might                 icy implications. They suggest that rather than&#13;
+adopt more effective business regulations or                    directly subsidizing SMEs and aiming for a large&#13;
+that a third factor might drive both an effective               number of small enterprises, policymakers&#13;
+                                                                                                                                      is an open forum to&#13;
+business environment and economic growth.                       should focus on creating a business environ-&#13;
+                                                                                                                                      encourage dissemination of&#13;
+So, unlike for SMEs, there is evidence that an                  ment that allows easy entry and exit for firms&#13;
+                                                                                                                                      public policy innovations for&#13;
+effective business environment is not just a char-              and assures entrepreneurs and financiers that&#13;
+                                                                                                                                      private sector­led and&#13;
+acteristic of successful economies but also plays               property rights and contracts will be enforced.&#13;
+                                                                                                                                      market-based solutions for&#13;
+an important part in their success.&#13;
+                                                                                                                                      development. The views&#13;
+   Cross-country comparisons show that the&#13;
+                                                                                                                                      published are those of the&#13;
+positive relationship between an effective busi-                                                                                      authors and should not be&#13;
+ness environment and income growth holds as                     Note                                                                  attributed to the World&#13;
+much for the lowest income quintile as for the                        1. The raw data were collected from national and                Bank or any other affiliated&#13;
+&#13;
+rest of society. But there are limits: the results do           international sources, such as the United Nations, Inter-             organizations. Nor do any of&#13;
+&#13;
+not show that a good business environment has                   American Development Bank, and Organisation for                       the conclusions represent&#13;
+&#13;
+an effect on poverty reduction beyond its posi-                 Economic Co-operation and Development. For details                    official policy of the World&#13;
+&#13;
+tive effect on GDP per capita growth.                           see Meghana Ayyagari, Thorsten Beck, and Asli                         Bank or of its Executive&#13;
+&#13;
+                                                                Demirgüç-Kunt, "Small and Medium Enterprises across                   Directors or the countries&#13;
+&#13;
+Policy implications                                             the Globe: A New Database," Policy Research Working                   they represent.&#13;
+&#13;
+Cross-country comparisons suggest a strong pos-                 Paper 3127 (World Bank, Development Research Group,&#13;
+&#13;
+itive association between SME development and                   Washington, D.C., 2003).                                              To order additional copies&#13;
+&#13;
+economic growth. But this relationship does not                                                                                       contact Suzanne Smith,&#13;
+&#13;
+hold up when the analysis controls for reverse                                                                                        managing editor,&#13;
+&#13;
+causation or for a third factor that might drive                                                                                      Room I9-009,&#13;
+&#13;
+both growth and the emergence of many SMEs.                                                                                           The World Bank,&#13;
+&#13;
+                                                                                                                                      1818 H Street, NW,&#13;
+Moreover, cross-country comparisons do not&#13;
+                                                                                                                                      Washington, DC 20433.&#13;
+show that SMEs do much to boost the incomes&#13;
+of the poor or that they have a significant rela-&#13;
+                                                                                                                                      Telephone:&#13;
+tionship with the depth and breadth of poverty.&#13;
+                                                                                                                                      001 202 458 7281&#13;
+So while a thriving SME sector is a characteristic&#13;
+                                                                                                                                      Fax:&#13;
+of flourishing economies, the results do not sup-&#13;
+                                                                                                                                      001 202 522 3480&#13;
+port the contention that SMEs accelerate growth&#13;
+                                                                                                                                      Email:&#13;
+and reduce poverty, calling into question the&#13;
+                                                                                                                                      ssmith7@worldbank.org&#13;
+policy of directly subsidizing their development.&#13;
+   But cross-country comparisons do point to&#13;
+                                                                                                                                      Produced by&#13;
+the potential benefits of policies that strengthen                                                                                    Maryland Composition&#13;
+the business environment in ways that foster                                                                                          Company, Inc.&#13;
+competition and facilitate commercial trans-&#13;
+actions for all firms, large and small. The                                                                                           Printed on recycled paper&#13;
+&#13;
+results show that a measure of the business&#13;
+environment--an index incorporating informa-&#13;
+tion on entry and exit barriers, the protection of&#13;
+property rights, and the efficiency of contract&#13;
+enforcement--is associated with the growth rate&#13;
+of GDP per capita. But while a sound business&#13;
+environment tends to help the poor by acceler-&#13;
+&#13;
+                                                                                                             T h i s N o t e i s a v a i l a b l e o n l i n e :&#13;
+                                                                              h t t p : / / r r u . w o r l d b a n k . o r g / V i e w p o i n t / i n d e x . a s p&#13;
+&amp;#12;&#13;
+</ml:original-txt><ml:search-metadata><doc id="5108822">
+        <url>
+            http://documents.worldbank.org/curated/en/2004/02/5108822/smes-growth-poverty
+        </url>
+        <availablein>English</availablein>
+        <virt_coll>Knowledge Notes</virt_coll>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2004/02/5108822/smes-growth-poverty</url_friendly_title>
+        <new_url>2004/02/5108822/smes-growth-poverty</new_url>
+        <disclosure_date>2010-07-01T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2010-07-01T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2004/09/08/000009486_20040908165006/Rendered/INDEX/298980PAPER0VP02681private.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2004/09/08/000009486_20040908165006/Rendered/PDF/298980PAPER0VP02681private.pdf</pdfurl>
+        <datestored>2004-09-08T00:00:00Z</datestored>
+        <docdt>2004-02-01T00:00:00Z</docdt>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            SMEs, growth, and poverty
+        </repnme>
+        <abstracts>
+            This Note explores the relationship
+            between the size of the small and medium-size enterprise
+            (SME) sector and economic growth and poverty reduction.  A
+            new study finds no support for the widely held belief that
+            SMEs promote higher growth and lower pover ty.  But it does
+            provide some support for the view that the quality of the
+            business environment facing all firms, large and small,
+            influences economic growth.
+        </abstracts>
+        <docna>
+            SMEs, growth, and poverty
+        </docna>
+        <display_title>SMEs, growth, and poverty</display_title>
+        <listing_relative_url>/research/2004/02/5108822/smes-growth-poverty</listing_relative_url>
+        <docty>Viewpoint</docty>
+        <subtopic>Microfinance,Small and Medium Size Enterprises,Poverty Assessment,Achieving Shared Growth,Governance Indicators</subtopic>
+        <teratopic>Private Sector Development,Poverty Reduction,Governance,Finance and Financial Sector Development</teratopic>
+        <count>World</count>
+        <authors>
+            <author>Beck, Thorsten</author>
+            <author>Demirguc-Kunt, Asli</author>
+        </authors>
+        <entityids>
+            <entityid>000009486_20040908165006</entityid>
+        </entityids>
+        <admreg>The World Region,The World Region</admreg>
+        <colti>Public policy for the private sector ; Note
+            no. 268</colti>
+        <lang>English</lang>
+        <historic_topic>Private Sector Development,Poverty Reduction,Governance,Finance and Financial Sector Development</historic_topic>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            business environment, Company, comparative
+            advantage, developing countries, economic development,
+            economic growth, economies of scale, empirical evidence,
+            employment, entrepreneurs, entrepreneurship, firm size,
+            firms, fixed costs, income, innovation, international
+            donors, labor force, Large enterprises, Medium Enterprises,
+            productivity, productivity growth, property rights, small
+            enterprises, small firms, SME development, SME employment,
+            SME Policies, SME sector, transaction costs, wages
+        </keywd>
+        <owner>KM and Outreach-IFC (FPDKM)</owner>
+        <repnb>29898</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>ICT</ml:concept><ml:concept>ICT for Development</ml:concept><ml:concept>Information Technology</ml:concept><ml:concept>Information and Communication Technologies (ICT)</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Poverty Reduction</ml:concept><ml:concept>Poverty Reduction and Distributional Analysis</ml:concept><ml:concept>Poverty Reduction and Equity</ml:concept><ml:concept>Poverty and Inequality</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Social Protections and Labor</ml:concept><ml:concept>Science and Technology</ml:concept><ml:concept>Information and Communication Technologies</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Agriculture and Food Security</ml:concept><ml:concept>Economic Growth</ml:concept><ml:concept>Health, Nutrition and Population</ml:concept><ml:concept>Poverty</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Social Protection and Labor</ml:concept><ml:concept>Commodities</ml:concept><ml:concept>Commodity Prices</ml:concept><ml:concept>Commodity Rich Countries</ml:concept><ml:concept>Natural Resources</ml:concept><ml:concept>Bankruptcy and Resolution of Financial Distress</ml:concept><ml:concept>Business Debt Resolution</ml:concept><ml:concept>Closing of Business</ml:concept><ml:concept>Insolvency</ml:concept><ml:concept>Business Registration</ml:concept><ml:concept>Business Regulation for Enterprise Creation and Growth</ml:concept><ml:concept>Legal Regulation and Business Environment</ml:concept><ml:concept>Business Regulation</ml:concept><ml:concept>Demographics</ml:concept><ml:concept>Research and Development</ml:concept><ml:concept>Research and Development Commercialization</ml:concept><ml:concept>Research and Innovation</ml:concept><ml:concept>Analysis &amp; Monitoring</ml:concept><ml:concept>Delivery Units</ml:concept><ml:concept>Grievance Redress</ml:concept><ml:concept>Indicators</ml:concept><ml:concept>M&amp;E</ml:concept><ml:concept>Performance Measurement</ml:concept><ml:concept>Performance Reviews</ml:concept><ml:concept>Rapid Results Approaches</ml:concept><ml:concept>Wage Setting</ml:concept><ml:concept>Wages, Compensation and Benefits</ml:concept><ml:concept>Econometrics</ml:concept><ml:concept>Economic Development</ml:concept><ml:concept>Income</ml:concept><ml:concept>Business Environments</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Agriculture</ml:concept><ml:concept>Commodities and Resources</ml:concept><ml:concept>Access to Finance</ml:concept><ml:concept>Bankruptcy and Liquidation</ml:concept><ml:concept>Business Entry and Startup</ml:concept><ml:concept>Business Environment Indicators</ml:concept><ml:concept>Business Environment</ml:concept><ml:concept>Economic Governance and Transparency</ml:concept><ml:concept>Population</ml:concept><ml:concept>Research, Development and Innovation (RDI)</ml:concept><ml:concept>Monitoring and Evaluation</ml:concept><ml:concept>Wages</ml:concept></ml:concepts><ml:geo-regions/></ml:annotations></ml:doc-envelope>

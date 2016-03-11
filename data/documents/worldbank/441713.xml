@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>I7 " I&#13;
+0&#13;
+Viewpoint&#13;
+LIMT.I .  i.    :                                                                            .Li &#13;
+Note No. 118   The Drivers of the Information&#13;
+James Bond   Revolution-Cost, Computing Power,&#13;
+and Convergence&#13;
+Powerful forces are    In the past few years, there has been a technological phase-shift as computers have become&#13;
+recasting the business&#13;
+world in a fleeter, more   ubiquitous, communications technologies have multiplied, and the Internet has become a widely&#13;
+competitive form.&#13;
+These forces, largely    used means of doing business. The three most powerful trends driving these developments are&#13;
+grouped around&#13;
+information infra-  the decline in the cost of transmitting information, the increase in the power of computing, and&#13;
+structure and new&#13;
+communications   the shift from analog to digital information technologies that has joined the telecommunications&#13;
+technologies, have&#13;
+come to be known  and computing industries and merged market segments of the information industry. This Note&#13;
+collectively as the&#13;
+information revolution.   explains these three trends.&#13;
+This Note is the first in&#13;
+a series of five that&#13;
+looks at the information&#13;
+revolution and the  Cost of communicating                     cable, the cost is mostly in installation), the&#13;
+future of telecom-                                            generalization of fiber optics is profoundly&#13;
+theymenoan forthe  The cost of communicating has declined dra-   changing the industry's cost structure, moving&#13;
+regulatory role of  matically in the past twenty years. The cost of  it away from existing tariff-setting mechanisms.&#13;
+government.       a voice transmission circuit, for example, has&#13;
+fallen by a factor of 10,000 as a result of the   Cheap electronics. A key part of the telephone&#13;
+development of fiber optics, cheap electron-   infrastructure is network exchanges, made up&#13;
+ics, and smart wireless (figure 1).         of switching equipment. Automatic switches&#13;
+were originally electromechanical, but the&#13;
+Fiber optics. First produced commercially by   switches installed today are electronic-essen-&#13;
+Corning Glass in 1970, fiber-optic cable has   tially specialized computers. The advent of&#13;
+become the increasingly dominant means of   cheap, powerful, microprocessor-based com-&#13;
+signal transmission in telephony since the mid-   puting has altered the economics of switching,&#13;
+1980s, replacing copper cables, microwave   reducing costs and increasing reliability while&#13;
+transmission, and satellite. Optical fiber has ex-   also delivering new value added services for&#13;
+tremely high capacity (bandwidth) because of  the user (such as call waiting and caller ID).&#13;
+the light it transports. The high frequency of   Cheap electronics are also at the heart of cel-&#13;
+light allows higher information density than   lular telephony and personal communications&#13;
+conventional cable: a fiber thinner than a single   services, which use electromagnetic spectrum&#13;
+hair can carry a laser signal combining many   more efficiently than conventional wireless.&#13;
+thousands of telephone conversations, so that   And computing power now makes it possible&#13;
+the cost per voice circuit becomes almost in-  to run existing telecommunications infrastruc-&#13;
+finitesimal. Because fiber optics reduces the   ture as an "intelligent network," improving&#13;
+cost of signal transmission so much, and be-   capacity utilization, lowering the cost of main-&#13;
+cause this cost is increasingly fixed (with main-   taining switches, and creating new services,&#13;
+tenance costs much lower than for conventional   such as virtual private networks.&#13;
+:IIJ      3      Industry and Energy Department * Finance, Private Sector, and Infrastructure Network&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+The Drivers of the Information Revolution-Cost, Computing Power, and Convergence&#13;
+FIGURE 1   COST TRENDS IN OPTICAL FIBER TRANSMISSION&#13;
+Index of transmission cost&#13;
+per bits per second per kilometer&#13;
+(log scale)                                                                Smart wireless. Wireless technology is evolving&#13;
+1,000                                                                     toward higher frequencies (inherently  more&#13;
+45 3Mbps 0     : 0:  ::  :   0 ::;: ;: 0 00  0 0 00 \          information dense), with a range of clever com-&#13;
+100           90 135Mbps                                                 pression algorithms to squeeze many conversa-&#13;
+10   400Mbps.  :  Q  :     ;t     ;    \         tions into a given frequency  (such as Time&#13;
+Ban"      ;14.7Gbps   :       :   :         i:         Division Mlultiple Access, or TDMA, and Code&#13;
+1  Bandwiddi   \  L: 6Gps                                              Division Multiple Access, or CDMA). This de-&#13;
+0 1 l t 0 fG \26bps:0X; t\velopment, coupled with cheap electronics, per-&#13;
+0.1          fi:M                             b41Gbps                  mits mobility for the user-in some situations,&#13;
+0.01 __:_::______________________                                        wireless has become an alternative to conven-&#13;
+1975     1980     1985     1990  0 01995 0  2000                   tional wireline technology for basic services. Cel-&#13;
+Note: Mbps is megabits per second; Gbps is gigabits per second.            lular telephonv is growing rapidly. more than&#13;
+Source: AT&amp;T data.     :\\:    ::        &#13;
+Source. AT&amp;T datai         2;;  ;; f X0doubling worldwide every two years, while fixed&#13;
+FIGURE 2   PRICE TRENDS IN INFORMATION PROCESSING                          wireless is increasingly being deployed for the&#13;
+"local loop," or local access network-that part&#13;
+Index of investment cost                                                   of the network providing access to the end user.&#13;
+per instruction per second                                                  S   besides bringing overall costs down, fixed&#13;
+(log-scale)                                                                  0,&#13;
+:  100 : :00   ;; ;; ;0fX  ; X         f   f22 ;::  ; J0     ;  i f   :   wireless has also introduced real opportunities&#13;
+I: kism 00t mairdrame :;    ;  f   f:   :: 0 : f     : :0       :       for competing providers of local services, an&#13;
+:0 :;:          gitatVA:0  :fRX A :: f  :0:   : 0    0 \ D uX0   :  :::   area earlier deemed to be a natural monopoly.&#13;
+100t00 Cra     Digi&lt;tal VAX;;00tf t;;; ;t0 ; 0 0  W 0                     Finally, the cost of deploying wireless is much&#13;
+less sensitive to subscriber density (the number&#13;
+: :; 3   \: E: :: :a B :\:   S : :S: N \:\1: S f:: i::c:S0: J :;   :::::   of customers in a given area) than that of install-&#13;
+1   ;;:; IBM PC  ~\; Sun Microsystems 2                 ing wireline, so wireless is of great interest to&#13;
+developing countries, particularly for -ural areas.&#13;
+0.1&#13;
+Tllese three developinieints hiave necessarily been&#13;
+P0: :  :  entium  accompanied by a move away from  analog to&#13;
+0.01&#13;
+1975         1980          1985          1990         1995               digital technology, in which signals are trans-&#13;
+Source: World Bank compilationbased on industry data.                      mitted as binary code. Digital telephone net-&#13;
+works ensure better quality and allow  the use&#13;
+FIGURE 3   TRENDS IN TRANSISTORS PER MICROPROCESSOR                        of packing protocols for data transmission, such&#13;
+as frame relay. Asynchronous Transfer Mode&#13;
+(log scale)                                     Pentium    ;     :          (ATM), and the Internet protocol TCP/IP.&#13;
+(7.5fmillion)&#13;
+10,000.000                   F:Pentium Pro                                  P         o  computin&#13;
+:5.5 nmillion:                 Powerofcomputing&#13;
+1,000,000              ;                0   :: : 0; Q; ;486.X// 0 IPentium  The second important driver of the information&#13;
+(3.  lo :: \   : \    R :tj     :revolution has been the relentless increase in the&#13;
+386 *                                       power of computing. Computing power per dol-&#13;
+100,000                 286        *                                     lar invested has risen by a factor of 10,000 in&#13;
+Motorola 68000                                                  twentv vears (figure 2). Power has increased and&#13;
+Intel 8086                 SunSPARC n                        costs have fallen because of the development of&#13;
+10,000                                                                   integrated circuits and microchips, because of&#13;
+increasing transistor density on microchips, and&#13;
+Intel 8080                                                because of economies of scale in production.&#13;
+ntel 4004&#13;
+10070      1975      1980     1985     1990    199       2000           Integrated circuits, miniaturization, and micro-&#13;
+chips. The moder-n electronics era began with&#13;
+::&amp;0i:oUce.':ordiancoplati6nbased :nIndusrdt.:\\0:R\:tE0:59090:;&#13;
+Sourge ;0  :\ World Bank compilation b\\ased on; f idsr date.  X:the invention of the integrated circuit in a Texas&#13;
+::::0:;00::0:fV:0S0f:;;:X:u\X   :     :\:  : instruments laboratory in Dallas in 1958. The&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+integrated circuit, which groups transistors and    cating is the rise of networks. When PCs began&#13;
+other electronic circuits on a tiny piece of semi-   penetrating the business environment around&#13;
+conductor, is a breakthrough in product design    1981, they were used mainly as stand-alone work-&#13;
+because of its enormous potential for miniatur-   stations. Independent mainframe computers,&#13;
+ization and for reducing unit costs. The micro-   accessed by "dumb" terminals, continued to&#13;
+chip, essentially an entire computer on a chip,   handle much of the heavy processing. Today's&#13;
+was developed by Intel (as the four-bit 4004   business computers are connected to one another&#13;
+processor) in 1971. Its 2,300 transistors provide   in local area networks (LANs), and increasingly,&#13;
+all the essential functions of a computer.   these private networks are interconnected through&#13;
+the Internet, the international "network of net-&#13;
+Increasing transistor density. The density of tran-   works,' which is doubling in size every year.&#13;
+sistors has been rising exponentially-a phe-   Because of the growing interconnection, PCs pri-&#13;
+nomenon sometimes characterized as Moore's   marv frunction has shifted from document and&#13;
+law. In the 1960s, Gordon Moore, an electrical   spreadsheet management to communication and&#13;
+engineer and a cofounder of Intel, observed that   information processing. The growth of the&#13;
+the number of transistors on a microchip doubles   Internet illustrates Metcalfe's law (Metcalfe was&#13;
+every one to two years. Because computing   the cofounder of modern computer networking),&#13;
+power is roughly proportional to the number of   which states that the value of a network equals&#13;
+transistors, or "gates." on the microprocessor,  the square of the number of interconnected&#13;
+this would translate into a doubling of comput-   nodes. As new users join the Internet, its value&#13;
+ing power per microchip every eighteen months   for all users increases geometrically. Metcalfe's&#13;
+or so. And because the cost of a microchip rises   law illustrates how networking PCs radically&#13;
+only slowly from one generation to the next   increases their value as a knowledge tool.&#13;
+and represents only about 5 to 15 percent of&#13;
+the cost of the computer, Moore's law would   Convergence&#13;
+translate into a near doubling of computing&#13;
+power for a given investment every eighteen   As costs have fallen and digitalization has re-&#13;
+months. In fact, the growth in power over   placed analog technologies in telecommunica-&#13;
+twenty-four years-from the Intel 4004 (2,300   tions, the telecommunications, information&#13;
+transistors) of 1971 to the Pentium It (7.5 mil-  technology, and media industries are merging&#13;
+lion) of 1997-averaged nearly 40 percent a year,  into a "bit industry" that manipulates voice,&#13;
+corresponding to a doubling every twenty-five   image, video, and computer data in binary form.&#13;
+and a half months-close enough to Moore's   This convergence has profound implications for&#13;
+estimate (figure 3).                         the industries involved.&#13;
+* Communications and information services are&#13;
+Economies of scale. Computing has also become  being delinked from their underlying deliv-&#13;
+far cheaper and more powerful because of econo-  ery infrastructure: telephone services can be&#13;
+mies of scale in production, not only of micro-  delivered through coaxial cable, data services&#13;
+chips but of such essential ancillary equipment  and Internet access through telephone lines,&#13;
+as mass storage (disk drives), removable stor-  and cable TV through direct broadcast satellite.&#13;
+age, and computer network equipment. The   - Accompanying the delinking is increasing&#13;
+emergence of a set of de facto industry sLandards  overlap between the two primary coimiponeilts&#13;
+-based on the first IBM personal computer (PC)  of the communications industry, which have&#13;
+of 1981, the Intel microprocessor instruction set,    traditionally been segregated: common car-&#13;
+and the Microsoft operating systems (DOS and    rier conduit systems and networks designed&#13;
+Windows)-has also enabled producers to stan-    to transmit signals anonymously (telephony)&#13;
+dardize equipment and software and encouraged   and content-based information sources and&#13;
+price competition.                             technologies (broadcasting).&#13;
+One result of the increase in the power of com-   Thus, it is now possible to receive raclio broad-&#13;
+puting and the decline in the cost of communi-   casts over the Internet (using telephone net-&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+The Drivers of the Information Revolution-Cost, Computing Power, and Convergence&#13;
+FIGURE 4   THE CHANGING INFORMATION INFRASTRUCTURE UNDER CONVERGENCE&#13;
+Before convergence                                  After convergence&#13;
+Vie poit isd an ope&#13;
+forumintendedtowors),andtelephoneservices can be provided  legal sanctions (through thecourtsTeof&#13;
+encourage dissemina-  by companie  in cable TV (a broa g me  ms c              ha   b n i          u&#13;
+Videwpoinnvtios, andoe&#13;
+ideas, inooacticns, and  shades from narrow-casting (custom-tailored in-    do so using existing content regrulation mecha-&#13;
+expanding the private  formation) to one-to-one communication like    nisms. And convergence opens new realms of&#13;
+sector. Thu views      telephony (figure 4).                                   communications where traditional content regu-&#13;
+published are those ofaote3I    s                                                                                        e&#13;
+the authors and should                                                         laincno   eapplied.intscoex,wa&#13;
+not be attributed to the  Convergence has important implications for    do policymakers do about decency, privacy,&#13;
+World Bank or any of its    policymakers. First, it has made existing models    and intellectual property rights?&#13;
+affiliated organizations, f   t   t                   i         &#13;
+Nor do any of the con-  f    teteo        uiinicCrob le&#13;
+cloniono represent    Those models have assumed that telecommu-    Convergence also opens up huge opportuni-&#13;
+official polity of the  nications is a public ser-vice, delivered through      ties for developing countries to accelerate the&#13;
+World Bank or of its&#13;
+Executive Directors    a network that is a natural monopoly. But these    rollout of connectivity to their populations Tsing&#13;
+or the candtries they  models are negated by the competition now               innovative technologies and private sector-led&#13;
+represent.            possible between segments of the delivery    investment in a competitive mode. Cheaper&#13;
+To order additional   infrastructure (intermodal competition) and,    communications are offering new possibilities&#13;
+copies please cell 202-    increasingly, within segments (intramodal    for countries to be internationally competitive&#13;
+458-11t1 or contact    competition). Convergence thus means that    and to "plug in" to the global economy-and&#13;
+Suzanne Smith, editor,&#13;
+Room F6P-188,         governments must lower harriers to entry and             providing much more cost-effective ways to&#13;
+The World Bask,        overhaul telecommunications regulatory Sys-    deliver essential puhlic services to the poor.&#13;
+i8i8 H Street, NW,    tems to promote competition, moving away&#13;
+Wasingteon, Dddr243    from  utility-type regulation (Viewpoint 121).          fames Bond (jbond@worldbank.org), Division&#13;
+ssmith7@worldhank.org.                                                         Chieft Telecommuunications and Informyatics&#13;
+The series is also     Second, convergence raises serious issues re-&#13;
+enailable on-line&#13;
+(www.worldbenk.       lating to content regulation. In broadcasting.&#13;
+org/htmlefpdonotes/    countries have applied standards of decency,&#13;
+notelisthoitl).        privacy, and protection of intellectual property&#13;
+@ Printed on recycled  rights using different mechanisms, hut usually&#13;
+papere                relying on a combination of self-regulation and&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+</ml:original-txt><ml:search-metadata><doc id="441713">
+        <url>
+            http://documents.worldbank.org/curated/en/1997/07/441713/drivers-information-revolution-cost-computing-power-convergence
+        </url>
+        <availablein>English</availablein>
+        <virt_coll>Knowledge Notes</virt_coll>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/1997/07/441713/drivers-information-revolution-cost-computing-power-convergence</url_friendly_title>
+        <new_url>1997/07/441713/drivers-information-revolution-cost-computing-power-convergence</new_url>
+        <disclosure_date>2010-07-01T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2010-07-01T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/1999/08/15/000009265_3980624164928/Rendered/INDEX/multi_page.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/1999/08/15/000009265_3980624164928/Rendered/PDF/multi_page.pdf</pdfurl>
+        <datestored>1999-08-15T00:00:00Z</datestored>
+        <docdt>1997-07-31T00:00:00Z</docdt>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            The drivers of the information revolution :
+            cost, computing power, and convergence
+        </repnme>
+        <abstracts>
+            The author explains the drivers of the
+            information revolution - the decline in the cost of
+            transmitting information, the increase in the power of
+            computing, and the shift from analog to digital information
+            technologies that has joined the telecommunications and
+            computing industries and merged segments of the information
+            industry. Over the past twenty years, the cost of voice
+            transmission circuits and the computing power per dollar
+            invested have both fallen by a factor of 10,000. Prices have
+            not fallen nearly as fast - they have been set by a
+            cartel-like system of international agreements between
+            incumbent monopolies. But as convergence restructures the
+            telecommunications industry, new operators are arbitraging
+            the difference between costs and the old tariff structures,
+            putting pressure on incumbent telecommunications operators.
+        </abstracts>
+        <docna>
+            The drivers of the information revolution :
+            cost, computing power, and convergence
+        </docna>
+        <display_title>The drivers of the information
+            revolution : cost, computing power, and convergence</display_title>
+        <listing_relative_url>/research/1997/07/441713/drivers-information-revolution-cost-computing-power-convergence</listing_relative_url>
+        <docty>Viewpoint</docty>
+        <subtopic>Knowledge Economy,General Technology,Education for the Knowledge Economy,Information Technology,ICT Policy and Strategies</subtopic>
+        <teratopic>Education,Information and Communication Technologies,Macroeconomics and Economic Growth</teratopic>
+        <count>World</count>
+        <authors>
+            <author>Bond, James</author>
+        </authors>
+        <entityids>
+            <entityid>000009265_3980624164928</entityid>
+        </entityids>
+        <subsc>Telecommunications &amp; Informatics</subsc>
+        <admreg>The World Region,The World Region</admreg>
+        <colti>Public policy for the private sector ; Note
+            no. 118</colti>
+        <lang>English</lang>
+        <historic_topic>Education,Information and Communication Technologies,Macroeconomics and Economic Growth</historic_topic>
+        <sectr>Information and communications</sectr>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            Communication; Fibre optics; Electronics;
+            Information sources; Information technology; Digital
+            telecommunication systems; Computer systems
+            algorithms,analog,bandwidth,basic,binary
+            code,broadcasting,chips,communications
+            industry,communications
+            technologies,computing,connectivity,data services,data
+            transmission,digital information,digitalization,disk
+            drives,DOS,economies of scale,electronic
+            circuits,electronics,information industry,INFORMATION
+            INFRASTRUCTURE,INFORMATION PROCESSING,information
+            services,information technologies,instruction,integrated
+            circuits,intellectual property,Internet access,LANs,local
+            area networks,mainframe computers,media,networking,operating
+            systems,property
+            rights,protocols,telecommunications,telecommunications
+            technologies,telephone lines,telephone
+            services,telephony,terminals,TRANSISTORS,virtual private networks
+        </keywd>
+        <owner>Private Sctr Devel &amp; Infrastr VP (PSI)</owner>
+        <repnb>17125</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>ICT</ml:concept><ml:concept>ICT for Development</ml:concept><ml:concept>Information Technology</ml:concept><ml:concept>Information and Communication Technologies (ICT)</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>International Competitiveness</ml:concept><ml:concept>International Economics and Trade</ml:concept><ml:concept>Trade Liberalization</ml:concept><ml:concept>Trade Liberalization and Regional Integration</ml:concept><ml:concept>Trade Restrictiveness</ml:concept><ml:concept>Trade and Integration</ml:concept><ml:concept>City Development Strategies</ml:concept><ml:concept>Science and Technology</ml:concept><ml:concept>Information and Communication Technologies</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Arts and Culture</ml:concept><ml:concept>Health, Nutrition and Population</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Trade</ml:concept><ml:concept>Urban Development</ml:concept><ml:concept>Infrastructure and Networks (National; State; Local)</ml:concept><ml:concept>Telecommunication and Network Services</ml:concept><ml:concept>Telecommunications</ml:concept><ml:concept>Business Regulation for Enterprise Creation and Growth</ml:concept><ml:concept>Legal Regulation and Business Environment</ml:concept><ml:concept>Demographics</ml:concept><ml:concept>Longevity</ml:concept><ml:concept>Servers</ml:concept><ml:concept>Switches</ml:concept><ml:concept>Connectivity</ml:concept><ml:concept>Lagging Regions</ml:concept><ml:concept>Knowledge Economy</ml:concept><ml:concept>Business Environments</ml:concept><ml:concept>Engineering</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Media</ml:concept><ml:concept>Satellites</ml:concept><ml:concept>Infrastructure</ml:concept><ml:concept>Telecommunications and Broadband Access</ml:concept><ml:concept>Business Environment</ml:concept><ml:concept>Population</ml:concept><ml:concept>Aging</ml:concept><ml:concept>Network Management</ml:concept><ml:concept>Intellectual Property Rights</ml:concept><ml:concept>Connectivity and Lagging Regions</ml:concept></ml:concepts><ml:geo-regions/></ml:annotations></ml:doc-envelope>

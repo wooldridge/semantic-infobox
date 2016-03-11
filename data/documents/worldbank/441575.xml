@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>1 3720&#13;
+Viewpoint&#13;
+Note No. 160                                                                          November 1998&#13;
+Michael Klein   Designing Auctions for Concessions-&#13;
+Guessing the Right Value to Bid and the&#13;
+Winner's Curse&#13;
+This is the third ina  Once a government has decided to award a   technically comparable, then the real bidding&#13;
+series of four Notes on   concession by auction, it needs to decide what  starts. In multiple rounds bidders raise their bids&#13;
+bidding for infrastruc-&#13;
+ture concessions. The    kind of auction to use-whether a first-price   in response to others until only one bidder, the&#13;
+otherthreeintheseries   or second-price auction, whether sealed or   winner, is left. The winner pays the last price&#13;
+examine how conces-    open bids, and whether sequential or simulta-  that he or she offered. Open auctions have been&#13;
+sion design affects&#13;
+competition in bidding    neous bids for multiple items. For concessions   used for radio spectrum licenses in the United&#13;
+and the sustainability of  the standard is a first-price sealed bid auction   States.&#13;
+the contract, whether to  in which bidders submit sealed envelopes con-&#13;
+acinor negotiate,  t nn  hi  fe                             hoig        oto&#13;
+and the case for pe-i-    taining their offer and the highest offer deter-   Choosing an option&#13;
+odic rebidding.  mines the price. The bidding may occur in one&#13;
+or two stages. In two-stage bidding the techni-   The choice of auction method is affected by&#13;
+cal parameters of the bids are made compa-   arguments about:&#13;
+rable in the first stage, and only the main offer   * The political sustainability of the outcome.&#13;
+on the core bid parameter is submitted in the   * The robustness of firms' bidding strategies.&#13;
+second. The main offer may relate to a price, a   * The opportunities for collusion among firms.&#13;
+level of subsidy, a payment for net worth, or&#13;
+any other appropriate parameter; the discus-   All these elements combine in determining&#13;
+sion in this Note focuses on price. In one-stage   whether an auction design yields value: how&#13;
+bidding the entire bid is submitted,' the enve-  that value is distributed among bidders, con-&#13;
+lopes are opened, the bids are made public,  sumers, and the government; and whether the&#13;
+and the highest bidder wins. But it may not   deal will last.&#13;
+immediately be obvious who has won, because&#13;
+bids must first be compared and evaluated on   Political sustainability&#13;
+all relevant dimensions. These bidding&#13;
+approaches parallel those for civil works and   Bidding for concession-type arrangements often&#13;
+equipment contracts.                       occurs among only a few players, and the price&#13;
+offers can differ dramatically. The winning bid&#13;
+In recent years debate over optimal auction   has often been several hundred million dollars&#13;
+design has intensified. Problems with sealed bid   higher than the second-highest one, as in the&#13;
+auctions have led to reconsideration of their   Mexican railway auctions (North-east conces-&#13;
+merits, and new auction methods have been   sion) and the Peruvian phone system privati-&#13;
+tried. New Zealand, for example, used second-   zation. In second-price sealed bid auctions such&#13;
+price sealed bids to auction licenses for radio   huge differences can make the result politi-&#13;
+spectrum. In a second-price auction the pro-   cally unsustainable. The extreme outcome of&#13;
+cess of submitting and opening bids is like that   New Zealand's radio spectrum auction, where&#13;
+in a first-price sealed bid auction, but the win-  the first bid was NZ$100,000 and the second&#13;
+ner pays only the value offered by the second-   only NZ$6, created obvious political problems&#13;
+highest bidder. In open auctions bids are made   (McMillan 1994).&#13;
+IW |The World Bank Group * Finance, Private Sector, and Infrastructure Network&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+Designing Auctions for Concessions-Guessing the Right Value to Bid and the Winner's Curse&#13;
+Open bidding processes do not reveal what the   For a standard equipment contract the bidders&#13;
+winning bidder might have been willing to pay,   often know what their own costs will be and&#13;
+because bidding stops when the winner offers   can then calculate the best offer. But for many&#13;
+just a little more than the second-highest bidder.   concessions bidders may need to value the right&#13;
+The winner thus pays more or less the second-   to the concession, which depends not just on&#13;
+highest price, but nobody sees how much more   their own skill but on factors affecting all bid-&#13;
+could have been obtained. That tends to reduce   ders, such as consumers' willingness to pay&#13;
+political complications, unless the winning   and regulators' future behavior. Cases where&#13;
+bidder's staff leaks information about how much   the bid value depends only on characteristics&#13;
+it would have been willing to pay.           of the bidder are called private value auctions.&#13;
+Cases where the value depends on factors that&#13;
+Sealed bid second-price auctions are clearly   affect all bidders are called common value&#13;
+dangerous for political sustainability when there   auctions.&#13;
+are only a few bidders, as is typical for conces-&#13;
+sions. If there were many bidders, the likeli-   Different bidders have different information and&#13;
+hood of big differences between the first and   different abilities to value a concession. So the&#13;
+second bids would be much lower. but the   most optimistic bidder rather than the most&#13;
+transaction costs of the process might be pro-   efficient one could win the auction, resulting&#13;
+hibitive. First-price sealed bid auctions and   in the failure of the winner, pressures for rene-&#13;
+open auctions can both yield reasonable   gotiation, and excessive costs. That is called&#13;
+sustainability, because in one case the first price   the winner's curse.2&#13;
+wins and in the other the first price is unknown.&#13;
+Bidders therefore need to assume that they are&#13;
+Guessing competitor strategy                 overoptimistic and adjust their bids downward.&#13;
+If they do not assume that they are the most&#13;
+In first-price auctions bidders need to guess   optimistic bidder and discount the bid accord-&#13;
+how their rivals will bid. The better they guess,  ingly, they will not survive for long in an in-&#13;
+the smaller the premium they need to bid to   dustry based on common value auctions.&#13;
+win. If their guess is perfect, they can bid just  Inexperienced bidders often fall prey to the&#13;
+above the second price, as in an open auction,   winner's curse.&#13;
+and still win. Some bidders take multiple en-&#13;
+velopes to the bid opening. If they find that   Experienced long-term players selected through&#13;
+they arc the only biddcr or if their most seri-   prequalification to bid for concessions adjust&#13;
+ous competitors do not show up, they submit  their bid prices conservatively so as not to fall&#13;
+the envelope with their lowest bid. The more   prey to the winner's curse. But they might bid&#13;
+risk averse bidders are, the more likely that   more aggressively if they had better informa-&#13;
+they will bid "too high" just to make sure that   tion about the value of the concession. Open&#13;
+they win.                                    bidding gives them some better information,&#13;
+because it reveals what others are willing to&#13;
+In second-price auctions they bid what they   bid. If pessimistic bidders see that everybody&#13;
+think the concession is worth. They do not need   is still bidding when they are thinking of quit-&#13;
+to think about others' valuations and can thus   ting, they might continue to bid. And if bid-&#13;
+focus on valuing their own bid. First-price auc-   ders see that most others have started to drop&#13;
+tions make bidding more complex for bidders,   out, they would revise their valuation down-&#13;
+increasing the risk that clever firms rather than   ward. Thus under open bidding among pru-&#13;
+efficient ones win. But in sealed bid first-price   dent, experienced bidders the winning bid on&#13;
+auctions government revenue should be higher   average should be higher and the likelihood&#13;
+than in second-price sealed bid ones if bid-   of an overoptimistic bid lower. For governments&#13;
+ders are risk averse.'                       the outcome should be better and more sus-&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+tainable deals on average. It was this expecta-   While sealed bid auctions can be made some-&#13;
+tion that led the U.S. Federal Communications   what collusion-proof, open auctions can also&#13;
+Commission to choose open bidding for auc-   be 'proofed" a bit. For example, in an open&#13;
+tioning rights to radio spectrum.            auction bidders' identities can be kept secret.&#13;
+Bidders need not be in the same room and can&#13;
+In general, governments should provide as   bid remotely. Reputable auditors can ensure&#13;
+much relevant informaLion to bidders as pos-  the integrity of the process. But cartels can still&#13;
+sible so as to make bidding more aggressive.   retaliate better against defectors under open&#13;
+More information sometimes reveals weak-   auctions than under sealed bid schemes.3&#13;
+nesses in a concession proposal and thus&#13;
+reduces bid prices. But in such cases the win-   When competition is weak, governments can&#13;
+ner would have had to renegotiate anyway.    use reserve prices to guard against collusive&#13;
+low bids. Keeping reserve prices secret helps&#13;
+Collusion                                    ensure that risk-averse bidders pay more rather&#13;
+than less. But care must be taken to prevent&#13;
+First-price sealed bid auctions may offer a little   arbitrary manipulation of secret reserve prices&#13;
+better protection against collusion by bidders   by corrupt auctioneers. One way is to deposit&#13;
+than open auctions. Suppose there is a bid-   the reserve price in a sealed envelope with&#13;
+ding cartel among some of the bidders. In an   reputable auditors.&#13;
+open auction they can see when one of them&#13;
+breaks ranks and bids more aggressively than   The use of reserve prices also tends to serve&#13;
+agreed. Other members of the cartel can imme-   political aims, by convincing the public that&#13;
+diately retaliate by also bidding more aggres-   state assets are not sold below value. This pur-&#13;
+sively. Fear of such retaliation strengthens   pose sometimes runs counter to sound use of&#13;
+discipline in the cartel. In sealed bid auctions,   reserve prices. For example, when assets might&#13;
+however, retaliation can occur only if there is  fetch less than book value, it is often politi-&#13;
+repeated bidding for concessions involving   cally difficult to set a reserve price below book&#13;
+similar players. But that is often the case, par-   value. But these cases are, of course, tough to&#13;
+ticularly for water concessions today. So in   handle under any circumstances.&#13;
+practice sealed bid auctions may not always&#13;
+provide better protection against cartels than    First-price sealed bid or open&#13;
+open auctions.                               auctions?&#13;
+Moreover, many sealed bid auctions are in real-   Altogether, it is thus not quite clear whether&#13;
+ity open. As a result of widespread corruption   first-price sealed bid auctions or open auctions&#13;
+bidders often learn about their competitors' bids   are preferable. The private sector often uses&#13;
+before bid award and can adjust their own bids   some form of competitive negotiation, which&#13;
+accordingly. Two-stage bidding offers the best  in principle operates like an open auction. But&#13;
+safeguards against such practices. The price   for government procurement or procurement&#13;
+envelope is submitted on the day of bid open-   by regulated monopolies it is generally desir-&#13;
+ing, and deadlines tend to be firm. Bidders try   able to allow less discretion than is involved&#13;
+to hand in their envelope just before the dead-   in competitive negotiation. Broadly, the follow-&#13;
+line so as to reduce the possibility that the en-   ing general arguments about the relative mer-&#13;
+velope will be tampered with and to take   its of open and sealed bids might then hold.&#13;
+advantage of any information that may emerge   When there is strong competition among many&#13;
+until the last minute. Bids are opened publicly   bidders or among diverse bidders, open auc-&#13;
+and in the presence of auditors, who ensure   tions might be preferable, because collusion is&#13;
+that those who open i:he bid read it out cor-   unlikely, anticipating the bidding strategies of&#13;
+rectly and do not suppress or distort information.   others is unnecessary, and the danger of the&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+Designing Auctions for Concessions-Guessing the Right Value to Bid and the Winner's Curse&#13;
+winner's curse is lower. In such  cases fixed                 ondary markets bear the burden of improving&#13;
+price contracts are in principle relatively more              on the aggregation of concessions or licenses.&#13;
+desirable than cost-sharing contracts. However,&#13;
+first-price sealed bid auctions may be prefer-                The role of the regulator in auctions&#13;
+able to guard against collusion when the num-&#13;
+ber of bidders is small. To stimulate bidding                 Regardless of the type of auction used, discretion&#13;
+competition, contracts should have higher cost    will almost certainly play a part in the evalua-&#13;
+sharing  between  the concessionaire and the                  tion of bids. Bids may vary on so many dimen-&#13;
+customers. Sealed bids may also be preferable                 sions  that nondiscretionary  comparison  is&#13;
+when bidders are risk averse and when bid-                    impossible. Moreover, prequalification and short-&#13;
+ders are diverse; under these  circumstances                  listing may already have involved some judg-&#13;
+sealed bids may increase the bids placed by                   ment when the bidders' reputation and integrity&#13;
+the winner.                                                   matter, not just their verifiable track record. So&#13;
+it is important that the auctioneers (or panels of&#13;
+Simultaneous or sequential auctions?                          bid evaluators) be at arm's-length from  political&#13;
+pressures and from bidders' interests. Just like&#13;
+In selling rights to radio spectrum  the United               regulators, they must be independent.&#13;
+States used a simultaneous open auction. Bid-&#13;
+ders bid simultaneously on all areas where they               That said, why not have the regulator conduct&#13;
+wished to acquire a license to tuse a particular              the auction? Since auctions are essentially  a&#13;
+Viewpoint is an open     frequency. Areas were auctioned simultaneously                mechanism  to  improve  information  in price&#13;
+forum intended to        because  of the  possibilities for significant    review  processes, the regulator seems a par-&#13;
+encourage dissemina-     complementarities. For example, telecommuni-    ticularly appropriate choice.&#13;
+tion of and debate on&#13;
+ideas, innovations, and  cations firms might want to  own licenses in&#13;
+best practices for ex-   adjacent areas to reduce the costs of building                ' For more technical expositions of these points see McAfee and&#13;
+panding the private      out the infrastructure for wireless communica-                2 MeMilwan 1987 anddr-ilgrom 1989.&#13;
+sector. The views pub-                                                                   "Lowballig" bidders-called coyotes" in Mexico-bid low in the&#13;
+lished are those of the  tion systems. If areas are auctioned sequentially,              hope of making gains later in renegotiation. If bidders expect that&#13;
+authors and should not   bidders for one area cannot know whether they                   they can get away with renegotiation, they have no incentive to bid&#13;
+be attributed to the     can acquire a valuable adjacent area and there-                 responsibly. For bidding to he meaningftl, failure to comply with&#13;
+World Bank or any of                                                                     the terms of the bid must impose costs on the winnng bidder. In a&#13;
+its affiliated organiza-  fore bid less for the first or not at all. Simulta-            meaningful auction the winner's curse is a serious threat to the&#13;
+tions. Nor do any of the  neous auctions make sense only when they are                   winner&#13;
+onficsianl  represenfth   open, because bidders must be able to adjust    3 This is an instance where some degree of nontransparency pre-&#13;
+cofilcilupsiyofs rpenthee,bcuebder    utb                         bet  adjust            vents collosion. Althoogh overall, rmues to ensote transparency are&#13;
+World Bank or of its     their bids in response to otlhers.                              valuable, the design of such rules needs to take such instances into&#13;
+Executive Directors                                                                      account.&#13;
+or the countries they    The sale of U.S. radio spectrum  so far repre-&#13;
+represent.               sents the only use of simultaneous auctions for               References&#13;
+To order additional      concession-type arrangements. For most con-                   McAfee, Preston I.., andJohnMcMillan. 1987. Auctions and Bidding."&#13;
+copies please call       cessions it is not clear that such auctions offer               Journal ofEconomiceiterature 25.&#13;
+202-458-1111 or contact  significantbenefits. Simultaneous auctionswere                McMillan, John. 1994. "Selling Spectrum Rights."Journal ofEconomic&#13;
+Suzanne Snmith, editor,  sgiiatbnft.Smlaeu   utoswr                                        metvs8&#13;
+Room F6P-188,            considered for the three major rail concessions               Milgromr  Paul. 1989. "Auctions and Bidding: A Primeri" Journal of&#13;
+The World Bank,          in Mexico. But bidders could not aggregate con-                 Economic Perspectives 3.&#13;
+1818 H Street, NW,&#13;
+Washington, D.C. 20433,    cessions, because no bidder could win more&#13;
+or Internet address      than one. Bidders simply needed to value each&#13;
+ssmith7@worldbank.org.    concession and bid what it was worth to them.    Michael Klein (Michael UKlein@SI.shell.com)&#13;
+available on-line        A  simultaneous auction might make sense for                  Chief Economist Shel  London&#13;
+(www.worldbank.org/      airport slots that have to  be aggregated  into&#13;
+html/fpd/notes/).        routes, because it would allow  the market to&#13;
+@ Printed on recycled   decide how  to aggregate them  most efficiently.&#13;
+paper.                   Once the pieces of a system  are auctioned, sec-&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+</ml:original-txt><ml:search-metadata><doc id="441575">
+        <url>
+            http://documents.worldbank.org/curated/en/1998/11/441575/designing-auctions-concession-guessing-right-value-bid-sinners-curse
+        </url>
+        <availablein>English</availablein>
+        <virt_coll>Knowledge Notes</virt_coll>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/1998/11/441575/designing-auctions-concession-guessing-right-value-bid-sinners-curse</url_friendly_title>
+        <new_url>1998/11/441575/designing-auctions-concession-guessing-right-value-bid-sinners-curse</new_url>
+        <disclosure_date>2010-07-01T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2010-07-01T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/1999/08/15/000094946_99031910553610/Rendered/INDEX/multi_page.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/1999/08/15/000094946_99031910553610/Rendered/PDF/multi_page.pdf</pdfurl>
+        <docdt>1998-11-30T00:00:00Z</docdt>
+        <datestored>1999-08-15T00:00:00Z</datestored>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            Designing auctions for concession :
+            guessing the right value to bid and the sinner's curse
+        </repnme>
+        <abstracts>
+            Once a government has decided to award a
+            concession by auction, it needs to decide what kind of
+            auction to use. For concessions the standard is a
+            first-price sealed bid auction in which bidders submit
+            sealed envelopes containing their offer and the highest
+            offer determines the price. The bidding may occur in one or
+            two stages. In two-stage bidding the technical parameters of
+            the bids are made comparable in the first stage, and only
+            the main offer on the core bid parameter is submitted in the
+            second. The main offer may relate to a price, a level of
+            subsidy, a payment for net worth, or any other appropriate
+            parameter; the discussion in this Note focuses on price.
+        </abstracts>
+        <docna>
+            Designing auctions for concession : guessing
+            the right value to bid and the sinner's curse
+        </docna>
+        <display_title>Designing auctions for concession
+            : guessing the right value to bid and the sinner's curse</display_title>
+        <listing_relative_url>/research/1998/11/441575/designing-auctions-concession-guessing-right-value-bid-sinners-curse</listing_relative_url>
+        <docty>Viewpoint</docty>
+        <subtopic>Markets and Market Access,Access to Markets,Municipal Financial Management,International Terrorism &amp; Counterterrorism,Private Sector Economics</subtopic>
+        <teratopic>Private Sector Development,Macroeconomics and Economic Growth,International Economics and Trade,Urban Development,Conflict and Development</teratopic>
+        <count>World</count>
+        <authors>
+            <author>Klein, Michael</author>
+        </authors>
+        <entityids>
+            <entityid>000094946_99031910553610</entityid>
+        </entityids>
+        <subsc>Non-Sector Specific</subsc>
+        <admreg>The World Region,The World Region</admreg>
+        <colti>Public policy for the private sector ; Note
+            no. 160</colti>
+        <lang>English</lang>
+        <historic_topic>Private Sector Development,Macroeconomics and Economic Growth,International Economics and Trade,Urban Development,Conflict and Development</historic_topic>
+        <sectr>(Historic)Multisector</sectr>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            Concessions; Auctions; Bidding; Bids;
+            Prices; Collusion; Sealed bids; Open bids; Sequential
+            bidding; Simultaneous bidding; Prequalification
+            assets,auction,auctions,bid,bidders,bidding,bidding
+            for concessions,bids,book value,Executive
+            Directors,monopolies,Open auctions,transaction costs,transparency
+        </keywd>
+        <owner>Private Sctr Devel &amp; Infrastr VP (PSI)</owner>
+        <repnb>18720</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>Transportation</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Poverty Reduction</ml:concept><ml:concept>Poverty Reduction and Distributional Analysis</ml:concept><ml:concept>Poverty Reduction and Equity</ml:concept><ml:concept>Poverty and Inequality</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>International Competitiveness</ml:concept><ml:concept>International Economics and Trade</ml:concept><ml:concept>Trade Liberalization</ml:concept><ml:concept>Trade Liberalization and Regional Integration</ml:concept><ml:concept>Trade Restrictiveness</ml:concept><ml:concept>Trade and Integration</ml:concept><ml:concept>Transport</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Fragility, Conflict and Violence</ml:concept><ml:concept>Poverty</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Trade</ml:concept><ml:concept>Markets and Market Access</ml:concept><ml:concept>Railways Transport</ml:concept><ml:concept>Cartels</ml:concept><ml:concept>Horizontal Agreements</ml:concept><ml:concept>Price Fixing</ml:concept><ml:concept>Financial Management &amp; Procurement</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Access to Markets</ml:concept><ml:concept>Railways</ml:concept><ml:concept>Anticartel Enforcement</ml:concept><ml:concept>Airports</ml:concept><ml:concept>Subsidies</ml:concept><ml:concept>Terrorism</ml:concept><ml:concept>Infrastructure</ml:concept><ml:concept>Negotiation</ml:concept><ml:concept>Government Procurement</ml:concept></ml:concepts><ml:geo-regions/></ml:annotations></ml:doc-envelope>

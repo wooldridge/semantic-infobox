@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>                                     102956&#13;
+&#13;
+&#13;
+&#13;
+world development report&#13;
+&#13;
+&#13;
+            BACKGROUND PAPER&#13;
+&#13;
+            Digital Dividends&#13;
+&#13;
+            Guatemala, an Early Spectrum&#13;
+            Management Reformer&#13;
+&#13;
+            Jose Marino Garcia&#13;
+            World Bank Group&#13;
+&amp;#12;This background paper was prepared for the World Development Report 2016 Digital Dividends. It is made&#13;
+available here to communicate the results of the Bankâ&#128;&#153;s work to the development community with the least possible&#13;
+delay. The manuscript of this paper therefore has not been prepared in accordance with the procedures appropriate&#13;
+to formally-edited texts. The findings, interpretations, and conclusions expressed in this paper do not necessarily&#13;
+reflect the views of The World Bank, its Board of Executive Directors, or the governments they represent.&#13;
+The World Bank does not guarantee the accuracy of the data included in this work. The boundaries, colors,&#13;
+denominations, and other information shown on any map in this work do not imply any judgment on the part of&#13;
+The World Bank concerning the legal status of any territory or the endorsement or acceptance of such boundaries.&#13;
+&amp;#12;             Guatemala, an Early Spectrum Management Reformer&#13;
+  Background Paper prepared for the World Development Report 2016: Digital Dividends&#13;
+              by Jose Marino Garcia (World Bank Consultant), June 2015&#13;
+&#13;
+Guatemala, the most populated State in Central America with 15.7 million people and 3,340&#13;
+USD$ GNI per capita in 2013, is an example of early spectrum management liberalization. The&#13;
+enactment of the General Telecommunications Law in 1996 in Guatemala was a milestone in&#13;
+that countryâ&#128;&#153;s spectrum management. It had big implications also for other developing&#13;
+countries as Guatemala was one of the first countries to move in the direction of market&#13;
+mechanisms, including auctions, for allocating spectrum. Article 54 states that any person or&#13;
+company might request the right to use a non-previously allocated spectrum band. The&#13;
+petitioner shall participate in a public tender to obtain a license â&#128;&#156;TÃ­tulo de Usufructo de&#13;
+Frecuenciasâ&#128;&#157; (TUF), and once the license is granted, the licensee has the right to determine the&#13;
+service and technology to implement. Bands can be leased, sold, or subdivided during the&#13;
+period of time set forth in the license and the only restrictions imposed, are the frequency range,&#13;
+the maximum power transmitted in the band and at adjacent bands, the geographic scope, and&#13;
+license duration. Although not all frequency bands are available within this modelâ&#128;&#148;some are&#13;
+reserved for public services and the radio amateur serviceâ&#128;&#148;a big portion of the useable radio&#13;
+spectrum is now allocated under this regime in Guatemala. The regulator â&#128;&#156;Superintendencia de&#13;
+Telecomunicaciones (SIT)â&#128;&#157; is responsible to enforce the rules and to solve any dispute over&#13;
+the rights of use that interferences might cause.&#13;
+&#13;
+At the time, this approach to spectrum management was revolutionary, since the common&#13;
+practice for allocating frequencies was normally the opposite: the regulator specified in a&#13;
+license the service and technology to be used in each frequency band, and any change to these&#13;
+conditions was not allowed without prior regulatorâ&#128;&#153;s approval.&#13;
+&#13;
+The idea behind the Guatemalan case, however, is not new; as early as 1959 Ronald Coase&#13;
+(1959, 1960) pointed out that a regulator allocating the spectrum would face the problem of&#13;
+efficiently assign the frequencies without reliable information on the market value of the band&#13;
+and consumer preferences. Furthermore, the regulator would be subject to political pressure,&#13;
+thus making allocations potentially inefficient.&#13;
+&#13;
+Notwithstanding, there are powerful arguments for regulating spectrum allocations as a scarce&#13;
+resource. These stem from the likelihood of interference between radio communication&#13;
+services, economies of scale, externalities linked to some of the commercial services using the&#13;
+spectrum, the existence of services which may be considered pure public goods, along with&#13;
+conditioning factors linked to the legacy usage of spectrum. While the concept of best practice&#13;
+in spectrum management regime remains controversial, the case of Guatemala is a perfect&#13;
+â&#128;&#152;experimentâ&#128;&#153; to discern the effect of policies where the market is afforded a more important&#13;
+role in the allocation of frequencies.&#13;
+&#13;
+When Coase wrote his paper, spectrum scarcity was not a major issue. Nowadays, though,&#13;
+spectrum management has become a major policy concern and a topic of increasing interest in&#13;
+the economic literature. The extraordinary growth in the use of smartphones and other wireless&#13;
+devices and the emergence of new services and applications are increasing traffic demand&#13;
+exponentially and consistently spectrum usage. The Radio-communication Bureau of the&#13;
+International Telecommunication Union (ITU), the UN specialized agency for&#13;
+telecommunications in 2007 estimated the need for additional spectrum for mobile broadband&#13;
+as between 1,280 and 1,720 MHz by 2020 (ITU, 2007). But the impressive growth of traffic&#13;
+&#13;
+&#13;
+                                                1&#13;
+&amp;#12;meant even these forecasts fell short, and ITU is conducting a new review of to update these&#13;
+estimates ahead of a future World Radio Conference, where additional allocations for mobile&#13;
+broadband may be made, ITU (2013).&#13;
+&#13;
+Broadband and its wireless component have been identified as a source of increased growth&#13;
+and productivity rates; see World Bank (2009), Czernich et al (2011), Koutroumpis (2009). In&#13;
+developing countries, the demand for spectrum to unlock mobile broadbandâ&#128;&#153;s potential for&#13;
+growth is located in the upper band of the estimates. Wireless access is in many cases the only&#13;
+practical and affordable way to expand internet access in developing countries. Thatâ&#128;&#153;s because&#13;
+many developing countries lack legacy fixed networks of copper loops and widespread mobile&#13;
+coverage undermines the business case for building new ones, especially in rural and sparsely&#13;
+populated areas.&#13;
+&#13;
+    Figure 1: Research evidence of broadband impact on GDP growth in different regions&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+    Source: R. Katz (2010) The impact of broadband on the economy: Research to date and policy issues.&#13;
+&#13;
+&#13;
+                                         The impact of the reform&#13;
+&#13;
+In 1996 the Guatemalan Government carried out a spectrum policy reform to liberalize the&#13;
+allocation of frequencies. Before the reform, spectrum markets were regulated by a State&#13;
+Agency for frequencies below 800 MHz, and a State owned company controlled frequencies&#13;
+above 800MHz. Mobile telephony was an exception since it was provided by a private&#13;
+company that gave a share of its profits to the stated-owned company. The Guatemalan reform&#13;
+was followed by a similar reform in El Salvador.&#13;
+&#13;
+Mobile telephony and wireless broadband can be considered the most successful commercial&#13;
+services using the spectrum over the last 20 years 1 , consequently the amount of spectrum&#13;
+devoted to mobile services in the years since the reform is a good indicator of the ability of a&#13;
+spectrum management regime to allocate the bands to the usage that the market gives the&#13;
+highest value.&#13;
+&#13;
+Penetration rates, and retail prices are good indicators of a marketâ&#128;&#153;s degree of competition;&#13;
+Ibarguren (2003) analyzes the time series of the Guatemalan mobile penetration and the retail&#13;
+prices in the years immediately following the reform and compares this data with the time&#13;
+1&#13;
+  For example a study carried out by Analysys Mason (2012) for the UK, estimates that some 58% of the value of&#13;
+radio spectrum in the UKâ&#128;&#147; Â£30.2 billion -comes from public mobile communications. The second most valuable&#13;
+service is broadcasting â&#128;&#147; Â£10.8 billion or 21% of total spectrum value.&#13;
+&#13;
+&#13;
+                                                        2&#13;
+&amp;#12;series of an average of Latin American countries. Penetration grew in Guatemala at an annually&#13;
+compounded rate of 71.7% between 1997 and 2001, compared to 46.8% for the Latin American&#13;
+average. Average retail prices for mobile services in Guatemala were only halve2 the Latin&#13;
+American average in 2002.&#13;
+&#13;
+    Figure 2: Mobile Penetration (RHS) and ARPU as proxy of retail prices in Guatemala, and Latin&#13;
+    America, after the reform 1996&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+            Figure 5 below provides a graphic representation establishing a linear relationship&#13;
+            between the amount of spectrum allocated and average prices. The figure confirms the&#13;
+             impact of&#13;
+    Source: Ibarguren   greater&#13;
+                      (2003)     spectrum&#13;
+                             liberating       allocation&#13;
+                                        the radio        on&#13;
+                                                  spectrum in price reduction in the mobile&#13;
+                                                              Guatemala&#13;
+                                             4&#13;
+            telecommunications sector.&#13;
+A higher amount of spectrum allocated to the mobile service is expected to yield increased&#13;
+         Then,&#13;
+competition,    figure 6 shows&#13;
+               penetration  rates,us    lowerrelationship&#13;
+                                     a linear&#13;
+                                   and         prices. IDRC   (2010)the&#13;
+                                                            between     amount&#13;
+                                                                     analyzes theof spectrum allocated&#13;
+                                                                                  correlation between&#13;
+spectrum   allocations&#13;
+         and  the degreeandof the average price&#13;
+                              concentration        per minute&#13;
+                                              measured   by theof mobile&#13;
+                                                                 HHI. Thevoice  calls,&#13;
+                                                                          negative     the Herfindahl-&#13;
+                                                                                    relationship&#13;
+Hirschman    Index  of telephony    market   concentration   and the percentage&#13;
+         between both variables, although weaker than the previous one, shows anrate  of mobile  phone&#13;
+                                                                                          improvement&#13;
+penetration      Costaâ&#128;&#153;sRica,&#13;
+             forsector&#13;
+         in the                 El Salvador,&#13;
+                         Â competition         Guatemala,&#13;
+                                         indices,           Nicaragua&#13;
+                                                  with the exception ofand Panama.&#13;
+                                                                        Costa Rica, where the opening&#13;
+            up of telecommunications has been lagging behind the other countries in the region.&#13;
+Figure 3 shows an inverse and significant correlation between the amount of spectrum allocated&#13;
+to the mobile service and the price per minute of a mobile call. Countries that carried out&#13;
+spectrum Finally, figure 7 shows&#13;
+          liberalization,          a linear&#13;
+                                          El relationship&#13;
+                           principally        Salvador and between  the amount&#13;
+                                                             Guatemala,         of spectrum&#13;
+                                                                         allocated           allocated&#13;
+                                                                                    higher amounts    of&#13;
+spectrum   to the&#13;
+         and      degree&#13;
+              mobile      of mobile phone&#13;
+                       communications          2003, and in&#13;
+                                            inpenetration   bythe population.&#13;
+                                                               2009,          The positive&#13;
+                                                                                     lower relationship&#13;
+                                                                      both enjoyed         prices than&#13;
+countries where spectrum&#13;
+         between                    is a were&#13;
+                              regimes&#13;
+                   both variables              not&#13;
+                                         sign of    liberalized (Costa&#13;
+                                                 improvement           Rica, Nicaragua&#13;
+                                                                in penetration           and Panama),&#13;
+                                                                               rates in countries in the&#13;
+though prices  declined&#13;
+         region.         in  all countries   sampled.&#13;
+&#13;
+    Figure 3: Spectrum&#13;
+            Figure     allocations&#13;
+                   5 Radio         in 2003&#13;
+                            spectrum       and 2009&#13;
+                                       allocations inMHz&#13;
+                                                     2003and&#13;
+                                                          andto average&#13;
+                                                              2009      price&#13;
+                                                                    (MHz)     per&#13;
+                                                                            and   minute&#13;
+                                                                                their    in US$&#13;
+                                                                                      relation toper&#13;
+    minute                       average prices per minute (US$/min)&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+      Price per&#13;
+       Minute&#13;
+         US$&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                           Amount of Spectrum (MHz)&#13;
+    Source: IDRC                                                Costa Rica, El Salvador, Guatemala, Nicaragua&#13;
+                  (2010). Data collected from the regulators ofSpectrum&#13;
+             Prices per Minute&#13;
+    and Panama.&#13;
+            Source: Sutel (CRC), Siget (ESA), SIT (GUA), Telcor (NCA), ANSP (PAN)&#13;
+2&#13;
+ Retail prices were estimated in the study using a proxy, the average revenue per subscription, to avoid problems&#13;
+associated with non-linear pricing.&#13;
+&#13;
+&#13;
+                                                         3&#13;
+&#13;
+            4&#13;
+                Linear regressions developed for figures 5, 6 and 7 show correlations between the variables&#13;
+&amp;#12;Concerning market structure and competition, Figure 4 shows a significant correlation between&#13;
+the amount of spectrum allocated to the mobile service and lower figures in the HH Index and&#13;
+therefore a higher degree of competition in countries with liberalized spectrum markets. It&#13;
+should be noted however, that in the case of Costa Rica mobile telephony was supplied by a&#13;
+government monopoly until 2011 and this make more difficult to interpret the data.&#13;
+&#13;
+      Figure&#13;
+ Figure       6 Radio&#13;
+        4: Spectrum   spectrum&#13;
+                    allocations inallocations in 2003&#13;
+                                   2003 and 2009       and2009&#13;
+                                                  MHzand        (MHz) and their relation&#13;
+                                                          the Herfindhal-Hirschman  Indexto the&#13;
+                                                                                           of market&#13;
+ concentration               Herfindahl-Hirschman     Index of market concentration&#13;
+&#13;
+&#13;
+         Figure 6 Radio spectrum allocations in 2003 and 2009 (MHz) and their relation to the&#13;
+                                    Herfindahl-Hirschman Index of market concentration&#13;
+&#13;
+   HHI&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                           Amount of Spectrum (MHz)&#13;
+ Source: IDRC (2010). Data collected from the regulators of Costa Rica, El Salvador, Guatemala, Nicaragua&#13;
+       HHI&#13;
+ and Panama.                                        Spectrum&#13;
+         Source: Sutel (CRC), Siget (ESA), SIT (GUA), Telcor (NCA), ANSP (PAN)&#13;
+&#13;
+      HHI to the penetration rate Figure 5 exhibits&#13;
+With regard                                           Spectruma significant correlation between the&#13;
+amount  of  spectrum   for the  mobile   service   and the  penetration rate. Except for the case of&#13;
+      Source: Sutel (CRC), Siget (ESA), SIT (GUA), Telcor (NCA), ANSP (PAN)&#13;
+      Figure  7 Radio spectrum   allocations  in 2003 and  2009 (MHz)&#13;
+Panama, where the mobile market departed from a regulated monopoly     and    to arelation&#13;
+                                                                           their           to themarket&#13;
+                                                                                   competitive&#13;
+                penetration&#13;
+in 2003, El Salvador                     ratethe countries with higher penetration rates.&#13;
+                            percentage are&#13;
+                      and Guatemala&#13;
+         Figure 7 Radio spectrum allocations in 2003 and 2009 (MHz) and their relation to the&#13;
+                 penetration&#13;
+ Figure 5: Spectrum             in 2003 and rate&#13;
+                              percentage&#13;
+                    allocations             2009 MHz and their relation to penetration rate&#13;
+&#13;
+&#13;
+    Penetration&#13;
+       Rate&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+         Penetration percentage                         Spectrum&#13;
+                                           Amount of Spectrum (MHz)&#13;
+         Source: Sutel (CRC), Siget (ESA), SIT (GUA), Telcor (NCA), ANSP (PAN)&#13;
+       : IDRC (2010).percentage&#13;
+ SourcePenetration     Data collected from the regulators of Costa Rica, El Salvador, Guatemala, Nicaragua&#13;
+                                                        Spectrum&#13;
+ and Panama.&#13;
+       Source: Sutel (CRC), Siget (ESA), SIT (GUA), Telcor (NCA), ANSP (PAN)&#13;
+&#13;
+         These findings help us make inferences about the significance of spectrum allocation in&#13;
+The relationship between the spectrum reform, increased competition and fall in retail prices&#13;
+might reducing&#13;
+      be spurious&#13;
+      These&#13;
+                 the. prices&#13;
+              findings Anhelpof mobile&#13;
+                           analysis      services provided&#13;
+                                     controlling&#13;
+                               us make             for about&#13;
+                                           inferences&#13;
+                                                             in telecommunications.&#13;
+                                                        additional   variables is needed.&#13;
+                                                               the significance&#13;
+                                                                                         The Hazlett&#13;
+                                                                                   of spectrum&#13;
+                                                                                              results et al&#13;
+                                                                                                   allocation in&#13;
+                                                                                              3&#13;
+(2006)show   us out&#13;
+       carried  thatanspectrum         studypolicy&#13;
+                                 allocation&#13;
+                        econometric           of thecan  be regarded&#13;
+                                                      Guatemalan       as an&#13;
+                                                                    reform   effective&#13;
+                                                                            using       tool for&#13;
+                                                                                   a dataset     the&#13;
+                                                                                                of 16 Latin&#13;
+      reducing the prices of mobile services provided in telecommunications. The results&#13;
+American   countries&#13;
+      promotion        with annual&#13;
+                   of greater        data between&#13;
+                               competition    in the 2000-2004,    in order to&#13;
+                                                     telecommunications        test and,&#13;
+                                                                            sector  if theconsequently,&#13;
+                                                                                           higher amount&#13;
+         show us that spectrum allocation policy can be regarded as an effective tool for the&#13;
+        for  the provision&#13;
+         promotion               of lower-cost&#13;
+                          of greater               services&#13;
+                                         competition       in in the&#13;
+                                                               the     region. Furthermore,&#13;
+                                                                    telecommunications            spectrum&#13;
+                                                                                                 sector  and, consequently,&#13;
+3&#13;
+  The study  includes&#13;
+        allocations     the following&#13;
+                         have   allowed  variables:&#13;
+                                           the      GDP&#13;
+                                                general   per Capita,&#13;
+                                                          public    to  the Fraser&#13;
+                                                                        access     Index  of&#13;
+                                                                                communicationEconomic  freedom,&#13;
+                                                                                                    services,    population&#13;
+                                                                                                               opening&#13;
+density, for&#13;
+         fixedthe  provision&#13;
+                line penetration, of   lower-cost&#13;
+                                     the percentage ofservices    in that&#13;
+                                                         population   the live&#13;
+                                                                            region.   Furthermore,&#13;
+                                                                                in urban                spectrum&#13;
+                                                                                          areas and the percentage  of GDP&#13;
+        network&#13;
+         allocations&#13;
+tied to the mobileintegration&#13;
+                          have&#13;
+                      service         possibilities&#13;
+                                asallowed&#13;
+                                   controllingthe     as well&#13;
+                                                    general&#13;
+                                                 variables. The asstudy&#13;
+                                                                   job and&#13;
+                                                               public    to   business&#13;
+                                                                             access&#13;
+                                                                          confirms  that  opportunities.&#13;
+                                                                                      communication&#13;
+                                                                                         the               services,&#13;
+                                                                                             reform explains           opening&#13;
+                                                                                                              the increased&#13;
+spectrum devoted to mobile communications in Guatemala and El Salvador, as the significant correlation cannot&#13;
+         network&#13;
+be explained          integration&#13;
+               by other    variables, possibilities&#13;
+                                        such as GDP per  as Capita&#13;
+                                                             well as orjobthe and  business&#13;
+                                                                              Fraser           opportunities.&#13;
+                                                                                      Index, since these two countries are&#13;
+        One&#13;
+associated     way&#13;
+            with     to interpret&#13;
+                  relatively           theseof&#13;
+                              lower levels      incomein&#13;
+                                              results   andthe  region freedom.&#13;
+                                                                          was posited by Hazlett, Ibarguen &amp;&#13;
+                                                             economic&#13;
+         One way(2007).&#13;
+         Leighton              theseto&#13;
+                          According&#13;
+                  to interpret         these authors,&#13;
+                                     results          the regulatory&#13;
+                                             in the region           framework&#13;
+                                                            was posited        for spectrum&#13;
+                                                                         by Hazlett, Ibarguen &amp;&#13;
+         management  and use&#13;
+         Leighton (2007).    has implications&#13;
+                          According  to thesefor       the welfare&#13;
+                                               4 consumer&#13;
+                                              authors,                 efficiency in for&#13;
+                                                                   and framework&#13;
+                                                           regulatory                the spectrum&#13;
+         management and use has implications for consumer welfare and efficiency in the&#13;
+&amp;#12;of spectrum brought about by the reform was the explanatory variable for increased&#13;
+competition and fall in retail prices. They found that liberalization has achieved its policy goals&#13;
+in the cases of Guatemala and El Salvador. There is a positive relationship between the amount&#13;
+of spectrum and the degree of competition and a negative correlation between the amount of&#13;
+spectrum and retail prices.&#13;
+&#13;
+                                              Current situation&#13;
+&#13;
+Spectrum management policies similar to those of Guatemala, e.g. the use of auctions to&#13;
+allocate spectrum, have currently been accomplished by several countries in the region. Some&#13;
+of these countries have surpassed the amount of spectrum that Guatemala allocates to the&#13;
+mobile service. For example, Dominican Republic, Mexico and Honduras currently exceed&#13;
+Guatemalaâ&#128;&#153;s figures.&#13;
+&#13;
+ Two reasons might explain why other countries in the region have overtaken Guatemala in&#13;
+terms of the availability of spectrum to the mobile service. First, although the Guatemalan&#13;
+spectrum regime enables the use of market mechanisms to allocate spectrum in the so-called&#13;
+regulated bands, the procedures to assess the feasibility and effectively change an allocation&#13;
+from public to regulated where market demands additional spectrum have not been addressed&#13;
+in the Telecommunications Act.&#13;
+&#13;
+In April 2015, the Guatemalan spectrum regulator, SIT, transformed the bands 1670-1859 MHz&#13;
+and 2110-2290 MHz from frequencies reserved for public usage to regulated bands subject to&#13;
+the grant of TUF licenses4. The resolution SIT 265/2015 stated that although the entire suitable&#13;
+spectrum available in regulated bands had already been allocated to the mobile service, there&#13;
+would not be enough frequencies to meet demand for mobile broadband if additional spectrum&#13;
+were not allocated to the mobile service. However one month later, the resolution SIT-369-&#13;
+20155 revoked resolution SIT 265/2015 stating that the transformation of the spectrum use from&#13;
+public to regulated shall be suspended under the contentious administrative court provisions.&#13;
+&#13;
+Secondly, it may be difficult to change the use of spectrum even in regulated bands because of&#13;
+the existence of coordination failures in the transaction of TUFs in certain bands. For example,&#13;
+the broadcasting of television signals is a public service that requires the grant of TUF licenses.&#13;
+Broadcasters are willing to change the technology of emissions from analogue to digital in&#13;
+order to either diminish the number of TUFs they need to provide the service or increase the&#13;
+number of television channels. Potential spectrum users, such as mobile operators, are also&#13;
+willing to participate in the auction of frequencies from the analogue to digital transition in&#13;
+order to meet demand for mobile broadband. Also the regulator is keen to facilitate the&#13;
+transition from analogue to digital because it would allow a more efficient spectrum usage,&#13;
+increased revenues for the regulator and enhanced cultural diversity from the increased number&#13;
+of television channels. However, for the transition from analogue to digital television to reap&#13;
+the benefits of additional services two elements must exist. There should exist a mechanism to&#13;
+re-organize frequencies allocated to the broadcasting service to made available a contiguous&#13;
+spectrum block suitable for the provision of mobile broadband and a procedure to sell some&#13;
+TUFâ&#128;&#153;s from broadcasters to mobile operatorsâ&#128;&#148;or other spectrum usersâ&#128;&#148;in such a way that&#13;
+both can benefit from the transaction. This will not occur without a coordinated process&#13;
+managed by the regulator. The Guatemalan regulator has lagged behind in this process with&#13;
+&#13;
+&#13;
+4&#13;
+    Resolution 265/2015 available at: http://www.sit.gob.gt/index.php/2014-05-28-20-40-10/resoluciones&#13;
+5&#13;
+    Resolution 369/2015 available at: http://www.sit.gob.gt/index.php/2014-05-28-20-40-10/resoluciones&#13;
+&#13;
+&#13;
+                                                        5&#13;
+&amp;#12;regard to other countries such as Mexico that will finish the transition from analogue to digital&#13;
+in December 2015 or the Dominican Republic that will also finish the transition in 2015.&#13;
+&#13;
+                         Conclusions and policy recommendations&#13;
+&#13;
+Existing literature support the hypothesis of social welfare gains associated with an increased&#13;
+market role in spectrum allocation. The case of Guatemala is an example of how market&#13;
+mechanisms for allocation can improve competition and efficiency in spectrum markets.&#13;
+&#13;
+Although initially liberalization allowed Guatemala to leapfrog its regional peer countries&#13;
+regarding the amount of spectrum allocated to the mobile service, increased competition and&#13;
+lower prices. Allocations are currently similar or less to those accomplished by other countries&#13;
+in the region such as Mexico, Dominican Republic or Honduras that also reformed the spectrum&#13;
+management regime.&#13;
+&#13;
+Once the amount of spectrum identified to be granted with TUF licenses have been exhausted&#13;
+in Guatemala, the regulator needs to find a way to re-organize existing allocations. Mechanisms&#13;
+to assess the change of use from public to regulated where it is feasible and approaches to&#13;
+accelerate the change of use in regulated bands when coordination failures exist would help to&#13;
+alleviate tensions in spectrum demand.&#13;
+&#13;
+The â&#128;&#156;Big Bangâ&#128;&#157; reform that entails the possibility to lease, resell, or subdivide the spectrum&#13;
+and enables the change of service and technology should be balanced with a more gradual&#13;
+approach with increasing rights of use in selected bands. Other possibilities that allow higher&#13;
+market participation are also available. The utilization of administered incentive prices , where&#13;
+the regulator set administrative fees for the use of spectrum that try to emulate the market price&#13;
+of a frequency band in order to introduce price signals and encourage more efficient usage,&#13;
+the use of auctions as an allocation mechanism, the flexible use of spectrum authorizing the&#13;
+change of technology and service in a particular frequency band, are complementary solutions&#13;
+to the definition of property rights, and the existence of a secondary market for spectrum. The&#13;
+best approach for each country and spectrum band should be analyzed on a case by case basis.&#13;
+The existence of economies of scale in device manufacturing through global and regional&#13;
+spectrum harmonization and the advantage of a more important market role in spectrum&#13;
+allocations should be weighted in order to find the most efficient solution for each particular&#13;
+band and country. One size fit all policy solutions are not possible in spectrum management&#13;
+since the legacy usage of a spectrum band might be different in each country and is a key&#13;
+element to determine the cost and benefit of each approach.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                6&#13;
+&amp;#12;                                       References&#13;
+&#13;
+Analysys Mason. 2012. â&#128;&#156;Impact of radio spectrum on the UK economy and factors&#13;
+      influencing future spectrum demand.â&#128;&#157; Department for Business Innovation and Skills&#13;
+      (BIS), Department for Culture Media and Sport (DCMS).&#13;
+      https://www.gov.uk/government/publications/impact-of-radio-spectrum-on-the-uk-&#13;
+      economy-and-factors-influencing-future-spectrum-demand&#13;
+Coase, R.H. 1959. â&#128;&#156;The Federal Communication Commissionâ&#128;&#157; The Journal of Law &amp;&#13;
+       Economics 2 (March):1â&#128;&#147;40. http://www.eecs.berkeley.edu/~dtse/coase.pdf&#13;
+Coase, R.H. 1960. â&#128;&#156;The Problem of Social Cost.â&#128;&#157; The Journal of Law &amp; Economics 3(1):1â&#128;&#147;&#13;
+       44.&#13;
+Czernich, N., Falck, O., Kretschmer, T. and Woessmann, L. 2011. â&#128;&#156;Broadband Infrastructure&#13;
+       and Economic Growth.â&#128;&#157; The Economic Journal 121: 505â&#128;&#147;532. doi: 10.1111/j.1468-&#13;
+       0297.2011.02420.x.2152-2009.&#13;
+Ibarguren, Giancarlo. 2003. â&#128;&#156;Liberating the radio spectrum in Guatemalaâ&#128;&#157;&#13;
+       Telecommunications Policy 27(7):543â&#128;&#147;554.&#13;
+       http://www.sciencedirect.com/science/article/pii/S0308596103000508&#13;
+International Development Research Centre (IDRC). 2010. â&#128;&#156;Radio-spectrum allocation and&#13;
+        management in Central American countries and their impact in the development of&#13;
+        the mobile telecommunications services sector.â&#128;&#157; https://idl-&#13;
+        bnc.idrc.ca/dspace/bitstream/10625/49429/1/IDL-49429.pdf&#13;
+International Telecommunications Union (ITU). 2007. â&#128;&#156;ITU-R Recommendation ITU-R&#13;
+        M.2078,â&#128;&#157; www.itu.int/pub/R-REP-M.2078&#13;
+International Telecommunications Union (ITU). 2013. â&#128;&#156;ITU-R Recommendation ITU-R&#13;
+        M.1768-1,â&#128;&#157; www.itu.int/rec/R-REC-M.1768-1-201304-I/fr&#13;
+Katz, R. 2010. â&#128;&#156;The Impact of Broadband on the Economy: Research and Policy Issues.â&#128;&#157;&#13;
+       Global Symposium for Regulators. International Telecommunication Union.&#13;
+       http://www.itu.int/ITU-D/treg/Events/Seminars/GSR/GSR10/documents/GSR10-&#13;
+       ppt1.pdf.&#13;
+Koutroumpis, P. 2009. â&#128;&#156;The Economic Impact of Broadband on Growth: A simultaneous&#13;
+      approach.â&#128;&#157; mimeo.&#13;
+World Bank. 2009. â&#128;&#156;Information and Communication for Development 2009: Extending&#13;
+      Reach and Increasing Impact.â&#128;&#157; http://go.worldbank.org/NATLOH7HV0.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                            7&#13;
+&amp;#12;</ml:original-txt><ml:search-metadata><doc id="25851785">
+        <url>
+            http://documents.worldbank.org/curated/en/2016/02/25851785/world-development-report-2016-digital-dividends-guatemala-early-spectrum-management-reformer
+        </url>
+        <availablein>English</availablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2016/02/25851785/world-development-report-2016-digital-dividends-guatemala-early-spectrum-management-reformer</url_friendly_title>
+        <new_url>2016/02/25851785/world-development-report-2016-digital-dividends-guatemala-early-spectrum-management-reformer</new_url>
+        <disclosure_date>2016-01-31T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2016-02-01T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <docm_id>090224b0841220bd</docm_id>
+        <chronical_docm_id>090224b0841220bd</chronical_docm_id>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2016/02/01/090224b0841220bd/1_0/Rendered/INDEX/World0developm00management0reformer.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2016/02/01/090224b0841220bd/1_0/Rendered/PDF/World0developm00management0reformer.pdf</pdfurl>
+        <docdt>2015-06-01T02:09:02Z</docdt>
+        <datestored>2016-02-01T00:00:00Z</datestored>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            World development report 2016 : digital
+            dividends - Guatemala, an early spectrum management reformer
+        </repnme>
+        <abstracts>
+            Guatemala, the most populated State in
+            Central America with 15.7 million people and 3,340 United
+            States dollar (USD) gross national income (GNI) per capita
+            in 2013, is an example of early spectrum management
+            liberalization. The enactment of the general
+            telecommunications law in 1996 in Guatemala was a milestone
+            in that country’s spectrum management. It had big
+            implications also for other developing countries as
+            Guatemala was one of the first countries to move in the
+            direction of market mechanisms, including auctions, for
+            allocating spectrum. This approach to spectrum management
+            was revolutionary, since the common practice for allocating
+            frequencies was normally the opposite: the regulator
+            specified in a license the service and technology to be used
+            in each frequency band, and any change to these conditions
+            was not allowed without prior regulator’s approval. The
+            extraordinary growth in the use of smartphones and other
+            wireless devices and the emergence of new services and
+            applications are increasing traffic demand exponentially and
+            consistently spectrum usage. In developing countries, the
+            demand for spectrum to unlock mobile broad band’s potential
+            for growth is located in the upper band of the estimates.
+            Wireless access is in many cases the only practical and
+            affordable way to expand internet access in developing
+            countries. In 1996 the Guatemalan Government carried out a
+            spectrum policy reform to liberalize the allocation of
+            frequencies. The amount of spectrum devoted to mobile
+            services in the years since the reform is a good indicator
+            of the ability of a spectrum management regime to allocate
+            the bands to the usage that the market gives the highest value.
+        </abstracts>
+        <docna>
+            World development report 2016 : digital
+            dividends - Guatemala, an early spectrum management reformer
+        </docna>
+        <display_title>World development report 2016 :
+            digital dividends - Guatemala, an early spectrum management reformer</display_title>
+        <listing_relative_url>/research/2015/06/25851785/world-development-report-2016-digital-dividends-guatemala-early-spectrum-management-reformer</listing_relative_url>
+        <topic>Broadband Networks m1327576 291,Network Management m1325939 672,Telecommunications Spectrum Management
+            m1326232 2340,Smart Networks m1326607 2368,Mobile Networks and Devices m1326868 293</topic>
+        <docty>World Development Report</docty>
+        <subtopic>ICT Policy and Strategies,E-Business,Roads and Highways Performance,Markets and Market Access,Telecommunications Infrastructure</subtopic>
+        <teratopic>Macroeconomics and Economic Growth,Transport,Private Sector Development,Information and Communication Technologies</teratopic>
+        <count>World</count>
+        <authors>
+            <author>Garcia,Jose Marino</author>
+        </authors>
+        <entityids>
+            <entityid>090224b0841220bd_1_0</entityid>
+        </entityids>
+        <admreg>The World Region,The World Region</admreg>
+        <colti>World Development Report</colti>
+        <lang>English</lang>
+        <historic_topic>Macroeconomics and Economic Growth,Transport,Private Sector Development,Information and Communication Technologies</historic_topic>
+        <topicv3>Broadband Networks m1327576 291,Network Management m1325939 672,Telecommunications Spectrum Management
+            m1326232 2340,Smart Networks m1326607 2368,Mobile Networks and Devices m1326868 293</topicv3>
+        <majdocty>Publications,Publications &amp; Research</majdocty>
+        <keywd>
+            skills, auction, manufacturing, users,
+            telecommunications law, phone, technology, harmonization,
+            auctions, transaction, pdf, itu, market structure, its,
+            telecommunication, results, participation, interest,
+            frequencies, value, mobile phone, telecommunications
+            services, average prices, international telecommunications
+            union, demand, mobile services, networks, information,
+            frequency band, services, mobile communications, spectrum,
+            best practice, telecommunications sector, international
+            telecommunication union, signals, average price, spectrum
+            allocation, pricing, traffic, price, market, frequency
+            bands, retail prices, international telecommunication,
+            market value, policy, penetration rates, internet, media,
+            retail, mobile telephony, television, communications,
+            spectrum management, radio communication, data, digital
+            television, licenses, market concentration, network,
+            business, telecommunications, business innovation, license,
+            innovation, productivity, market demands, telephony, law,
+            television channels, monopoly, communication, markets,
+            international telecommunications, consultant, wireless
+            access, radio spectrum, wireless devices, telecommunications
+            policy, penetration rate, communication services, research,
+            framework, profits, sit, mobile service, radio, prices,
+            broadband, market price, competition
+        </keywd>
+        <owner>World Development Report (DECWD)</owner>
+        <repnb>102956</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>ICT</ml:concept><ml:concept>ICT for Development</ml:concept><ml:concept>Information Technology</ml:concept><ml:concept>Information and Communication Technologies (ICT)</ml:concept><ml:concept>Transportation</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Social Protections and Labor</ml:concept><ml:concept>International Competitiveness</ml:concept><ml:concept>International Economics and Trade</ml:concept><ml:concept>Trade Liberalization</ml:concept><ml:concept>Trade Liberalization and Regional Integration</ml:concept><ml:concept>Trade Restrictiveness</ml:concept><ml:concept>Trade and Integration</ml:concept><ml:concept>Science and Technology</ml:concept><ml:concept>Information and Communication Technologies</ml:concept><ml:concept>Transport</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Arts and Culture</ml:concept><ml:concept>Health, Nutrition and Population</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Social Protection and Labor</ml:concept><ml:concept>Trade</ml:concept><ml:concept>ICT Policy and Strategies</ml:concept><ml:concept>ICT Sector Development</ml:concept><ml:concept>Infrastructure and Networks (National; State; Local)</ml:concept><ml:concept>Telecommunication and Network Services</ml:concept><ml:concept>Telecommunications</ml:concept><ml:concept>Leasing law</ml:concept><ml:concept>Demographics</ml:concept><ml:concept>Analysis &amp; Monitoring</ml:concept><ml:concept>Delivery Units</ml:concept><ml:concept>Grievance Redress</ml:concept><ml:concept>Indicators</ml:concept><ml:concept>M&amp;E</ml:concept><ml:concept>Performance Measurement</ml:concept><ml:concept>Performance Reviews</ml:concept><ml:concept>Rapid Results Approaches</ml:concept><ml:concept>Market Access</ml:concept><ml:concept>Econometrics</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Media</ml:concept><ml:concept>Boundaries</ml:concept><ml:concept>Highways</ml:concept><ml:concept>Infrastructure</ml:concept><ml:concept>ICT Strategy, Policy and Regulation</ml:concept><ml:concept>Telecommunications and Broadband Access</ml:concept><ml:concept>Leasing</ml:concept><ml:concept>Population</ml:concept><ml:concept>Monitoring and Evaluation</ml:concept><ml:concept>Trade Policy</ml:concept></ml:concepts><ml:geo-regions/></ml:annotations></ml:doc-envelope>

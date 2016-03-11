@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>I49 o&#13;
+At a Glance&#13;
+The World Bank          FPD Note No. 16                                             July 1994&#13;
+Power Sector Investment&#13;
+How Market Forces Are Challenging the Least-Cost Plans&#13;
+of Power Utilities&#13;
+Dennis Anderson&#13;
+Most of the power industry's engineers   dustryperformance because they can&#13;
+and planners have gained their work    help show whether investments, plant&#13;
+experience in vertically integrated  operating (dispatching) schedules, and&#13;
+public utilities, where investments are   prices are indeed being competitively&#13;
+identified through least-costplanning    determined.&#13;
+models and bids are invited forprecise-&#13;
+ly specified types of plant. Now, howev-  Massive change in the power sector&#13;
+er, private producers are "contesting"   Institutionally and technologically, the&#13;
+the least-cost investment plans ofpublic  electric power industry is undergoing&#13;
+utilities on the grounds that they can    the most far-reaching changes in near-&#13;
+build and operatepower stations more  ly six decades. From 1900 until around&#13;
+cheaply and more quickly than public   1940, independent producers were the&#13;
+utilities can. Private producers-togeth-  main drivers of industry expansion.&#13;
+er with the new energy technologies-    But rapidly declining marginal costs&#13;
+are driving a new approach to least-    arising from scale economies and tech-&#13;
+cost investments in electricity supply.    nical progress, together with econo-&#13;
+They are willing to absorb technical  mies of interconnection, led to the&#13;
+andfinancial risks-something that    consolidation of the independent pro-&#13;
+least-costplanning has never dealt  ducers into "natural" public monopo-&#13;
+with satisfactorily-and to find more   lies. Least-cost planning models were&#13;
+innovative ways to reduce risk-for&#13;
+example, by turning to more modular&#13;
+technologies with shorter lead times.  Table 1 Private sector power&#13;
+development opportunities&#13;
+Traditional approaches to least-cost  in the next five to ten years&#13;
+planning need to be overhauled. As     (gigawatts)&#13;
+private investment increases, least-cost                      Private&#13;
+planning models will become less use-           Current Future  sector&#13;
+fulfor identifying the best investment  Region   capacity  need potential&#13;
+cboices. Under the newparadigm,       Asia       280    170   55&#13;
+competition should lead to lower-cost  Latin America 135    70   30&#13;
+supplies. However, the least-cost models   Source, Unpublished indicative data compiled by&#13;
+still will be usefulfor monitoring in-  Mangesh Hoskote, World Bank.&#13;
+Industry and Energy Department&#13;
+Hka                     Vice Presidency for Finance and Private Sector Development&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+* base-load plant with higher thermal efficiencies&#13;
+Forces shaping the power industry                       are still needed.&#13;
+* peak-load plant will usually be the older thermal&#13;
+* growth of privatization and independent generation.  plant on the system, supplemented by low-capital-&#13;
+* increased range of power plant types now available. In  cost plant, such as gas turbines.&#13;
+addition to conventional pulverized coal and stoker  * thermal plant will still be operated in merit order,&#13;
+boilers, there are combined-cycle gas-fired, fluidized bed&#13;
+combustion, aeroderivatives, and integrated coal gasifi-  except that the dispatchig schedules will be de-&#13;
+cation combined-cycle plants. There are also renewable  cided by competitive bids rather than by a central&#13;
+energy technologies: thermal solar; wind power; cogen-  dispatcher relying on the fuel and operating cost&#13;
+eration; photovoltaics for off-grid and (now being test-  coefficients provided by the utilities' engineers.&#13;
+ed) decentralized grid connected supplies; and biomass-  * where hydro plants provide a large share of the&#13;
+fired power plants using conventional boilers or&#13;
+gasification processes and combined-cycle technology.&#13;
+* modularity in power plant technologies. This modularity  needed in dry years.&#13;
+has changed the locus of scale economies from the   * the cost and operating characteristics of small-&#13;
+power plant to the factory. A consequence of this     scale plant, of the decentralized forms of genera-&#13;
+change is that investments in small, modular power    tion noted above, and of intermittent supplies&#13;
+plants are becoming feasible for independent producers.  with or without storage, will be the same in prin-&#13;
+In the past, by contrast, economies of scale favored the&#13;
+large power plants built and operated by public utilities.  ciple whether the supplies are public or private.&#13;
+So the cost simulation models developed by public&#13;
+enterprises could be used to predict how a com-&#13;
+developed in response to this situation, and have       petitive system of private generation is likely to&#13;
+since been in widespread use.                           evolve or, alternatively, to assess whether private&#13;
+investment is taking place under genuinely com-&#13;
+Now, however, changes in technologies and costs are   petitive arrangements. The models also can be&#13;
+working in the opposite direction, and the industry is   adapted to analyze the prospects for new technol-&#13;
+becoming more "unbundled." Budgetary and other          ogies, to estimate the marginal costs of supply (for&#13;
+stresses arising from poor operational and financial    example, for regulation and oversight), and to ex-&#13;
+performance are also encouraging governments to         amine questions of the cost and price efficiency of&#13;
+open up the industry to independent producers.          private or public arrangements for the provision of&#13;
+supply.&#13;
+The numbers of private bids, unsolicited or otherwise,&#13;
+and the challenges to existing plans of public utilities,   Private producers drive radical new approach&#13;
+will increase as private generation grows. There are    Private generation entails few, if any, changes in&#13;
+many cases already-for example, in India (gas versus  methodology, but it does involve a radical change&#13;
+coal), the Czech Republic (alternative types of coal   in the approach to deciding on least-cost arrange-&#13;
+plant), and Honduras (wind versus diesel). Table I      ments. Rather than identifying capacity and energy&#13;
+illustrates the scope for change by providing a recent   requirements first and then using simulation studies&#13;
+assessment of private investment opportunities in the    to identify the least-cost program, as the public util-&#13;
+power sector over the next five to ten years.           ities do, in the private model both capacity require-&#13;
+ments and the choice of plant are determined by&#13;
+Narrower role for least-cost models                     competitive bidding and licensing. In other words,&#13;
+The economic characteristics of the least-cost solu-    the algorithms in the computer software of the pub-&#13;
+tion are the same in theory whether the investments  lic utilities are replaced by the market, and simula-&#13;
+are public or private. In privately as in publicly      tion studies are no longer required to determine the&#13;
+owned systems:                                         least-cost investment plan. There is an intermediate&#13;
+2&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+Table 2 Methods for determining investments&#13;
+Capacity requirements  Choice ofpower plant&#13;
+Traditional model      Estimated by utility    Cost simulation -       Invite bids&#13;
+Intermediate case      Estimated by utility    Open bidding -          Cost simulation studies&#13;
+Private model          Market-determined       Market-determined       Cost simulation for monitoring only&#13;
+case in which private generation is allowed to com-   there are questions of antitrust and integrity in pri-&#13;
+pete with public generation on an essentially public   vate investment, and so on. The three cases are&#13;
+system; in such cases, bids are solicited from pri-       summarized in table 2.&#13;
+vate producers before the simulation studies are&#13;
+performed, to help determine the least-cost invest-    Investment choice and risks&#13;
+ment. This approach, similar to that used in the          The technical and institutional changes in the pow-&#13;
+United States,' is relevant for countries that prefer a   er sector suggest that the industry is likely to&#13;
+phased approach to privatization or for those that        change rapidly and unpredictably. Already private&#13;
+see value in using the models for indicative plan-        investment is producing a wider range of technical&#13;
+ning. In a fully privatized industry, planning and        options. There is more emphasis on modular units&#13;
+simulation models may be used for looking back-           with shorter lead times. Another possibility is the&#13;
+ward rather than forward, to assess market behav-    emergence of decentralized generation, the "distrib-&#13;
+ior-whether prices are reflecting costs, whether          uted utility."&#13;
+How investment decisions are made through least-cost planning&#13;
+The traditional approach to least-cost planning starts with a forecast of demand. Forecasts take into account a range of fac-&#13;
+tors-the growth of per capita incomes and populations; urbanization; the growth of industry and whether new electricity-&#13;
+intensive industries are emerging; the number of people who lack electric service and would like to have it (more than 2&#13;
+billion in developing countries); and improved efficiency of consumer equipment and appliances.&#13;
+The next step is to define an investment program that would enable the power system to meet forecast energy and peak&#13;
+power demands with a reasonable probability of avoiding brownouts and blackouts. The investment program is not confined&#13;
+to new power plants, but could also include, for example, the reinforcement of transmission links with other regions that&#13;
+have lower-cost supplies or spare peaking capacity (for example, if their peak demands occur at different times).&#13;
+Simulation studies are then made of how the system would be operated to minimize costs; from these studies, total system&#13;
+operating costs are then estimated. The capital costs of the investment program are calculated separately and added to system&#13;
+operating costs to give the overall costs of the program being considered. Several alternatives and their technical feasibility&#13;
+are usually examined under this approach.&#13;
+Once the least-cost investments have been identified and agreed upon, bids are invited for each type of plant-for example,&#13;
+for a coal-fired station of a given capacity, for a hydro plant, for so many megawatts of gas turbines for meeting peak loads,&#13;
+or for a gas, diesel, or coal plant to provide the thermal complement to a hydro scheme. Consistency with efficiency in end-&#13;
+use is sought through commercial pricing policies in which prices reflect the marginal costs of supply by time of day, voltage&#13;
+level, and (depending on the system) season.&#13;
+3&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+How risks are allowed for and who bears them will&#13;
+lead to different investment decisions-for example,          Figure 1 Coal-fired power plants in the United&#13;
+a move to investments with shorter lead times, such          States: Cost versus size&#13;
+as a gas-fired combined-cycle power plant. A more&#13;
+dramatic example is the reaction of private produc-          Calculated cost&#13;
+ers to nuclear power. Private producers have been&#13;
+distinctly more circumspect than public producers.           2,500&#13;
+Privatization has made the real costs of the environ-        2,000      -    ;&#13;
+mental risks associated with nuclear power more&#13;
+transparent.                                                 1,500            --&#13;
+1,000        -         : ,._&#13;
+Technical, economic, or other risks have never been                  - -    .  - _&#13;
+"modeled" in a fully satisfactory way in the least-           500  - 9-      ,-   -        '          -&#13;
+cost investment planning of public utilities. They              0        -&#13;
+have often been ignored. Investments normally                    0   200  400  600  800  1,000 1,200 1,400&#13;
+have been compared on the basis of expected costs,                    Nameplate capacity (megawatts)&#13;
+with risks addressed through sensitivity analysis.&#13;
+Allowances for contingencies (typically 10 to 25             Note: Costs were calculated using nameplate capacity and&#13;
+including allowance for funds used during construction. Sample&#13;
+percent, and slippages of up to one year) usually           size is 401 plants.&#13;
+are included in the cost estimates. But in reality the&#13;
+dispersion of costs ex post is much greater than the&#13;
+ranges commonly assumed in sensitivity studies.           vate costs. But as company records and reported&#13;
+Cost overruns of 20 to 50 percent are not uncom-          returns in the financial markets show, real returns of&#13;
+mon.2 Even for a mature technology such as coal-    this magnitude are not widely realized in practice.&#13;
+fired plant in an industrial country, ex post costs       Where high returns are achieved initially, they are&#13;
+can vary enormously (figure 1).                           better seen as a benefit to the early risk-takers-&#13;
+unless there is evidence of disorderliness and a loss&#13;
+Private producers have to allow for risks in their        of integrity in the bidding process. As risks decline,&#13;
+bids. (Exceptions arise only when contracts need-         investment will increase, and the returns should de-&#13;
+lessly transfer technical and financial risks to the      cline to more normal rates. So too should the real&#13;
+public purse, something that good contractual ar-         costs of electricity production.&#13;
+rangements should avoid.) That helps to explain&#13;
+wh-iy high discount rates (20 percent or more) are         See Hirst and Coldman in Annual Review of Energy and the&#13;
+often quoted for private investment. The high dis-         Environmzent, Vol. 17, 1992.&#13;
+count rates allow for cost escalation and slippages.    2 Refer to forthcoming survey by John Besant-Jones (Energy and Indus-&#13;
+They will also include an allowance for country and        try Department Paper, World Bank).&#13;
+political risks-an area where public insurance or&#13;
+risk guarantees may legitimately help to reduce pri-    Dennis Anderson, Senior Advisor, Industry and Energy Department&#13;
+This series is published to share ideas and invite discussion. It covers financial and private sector development as well as&#13;
+industry and energy. The views expressed are those of the authors and are not intended to represent an official statement of&#13;
+Bank policy or strategy. i9 Printed on recycled paper.&#13;
+Comments are welcome. Please call the FPD Note line to leave a message: 202-458-1 1 11; or contact Suzanne Smith, editor, Roorn&#13;
+G8105, The World Bank, 1818 H Street, NW, Washington, DC 20433, or Internet address ssmith@worldbank.org.&#13;
+4&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+</ml:original-txt><ml:search-metadata><doc id="441236">
+        <url>
+            http://documents.worldbank.org/curated/en/1994/07/441236/power-sector-investment-market-forces-challenging-least-cost-plans-power-utilities
+        </url>
+        <availablein>English</availablein>
+        <virt_coll>Knowledge Notes</virt_coll>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/1994/07/441236/power-sector-investment-market-forces-challenging-least-cost-plans-power-utilities</url_friendly_title>
+        <new_url>1994/07/441236/power-sector-investment-market-forces-challenging-least-cost-plans-power-utilities</new_url>
+        <disclosure_date>2010-07-01T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2010-07-01T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/1999/09/10/000009265_3971229181315/Rendered/INDEX/multi_page.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/1999/09/10/000009265_3971229181315/Rendered/PDF/multi_page.pdf</pdfurl>
+        <docdt>1994-07-31T00:00:00Z</docdt>
+        <datestored>1999-09-10T00:00:00Z</datestored>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            Power sector investment : how market forces
+            are challenging the least-cost plans of power utilities
+        </repnme>
+        <abstracts>
+            Most of the power industry's
+            engineers and planners have gained their work experience in
+            vertically integrated public utilities, where investments
+            are identified through least-cost planning models and bids
+            are invited for precisely specified types of plant. Now,
+            however, private producers are driving a new approach to
+            least-cost investments in electricity supply. They are
+            willing to absorb technical and financial risks--something
+            that least-cost planning has never dealt with
+            satisfactorily--and to find more innovative ways to reduce
+            risk. Traditional approach to least-cost planning need to be
+            overhauled. As private investment increases, least-cost
+            planning models will become less useful for identifying the
+            best investment choices. Under the new paradigm, competition
+            should lead to lower-cost supplies. However, the least-cost
+            models still will be useful for monitoring industry
+            performance because they can help show whether investments,
+            plant operating schedules, and prices are indeed being
+            competitively determined.
+        </abstracts>
+        <docna>
+            Power sector investment : how market forces
+            are challenging the least-cost plans of power utilities
+        </docna>
+        <display_title>Power sector investment : how
+            market forces are challenging the least-cost plans of power utilities</display_title>
+        <listing_relative_url>/research/1994/07/441236/power-sector-investment-market-forces-challenging-least-cost-plans-power-utilities</listing_relative_url>
+        <docty>Viewpoint</docty>
+        <subtopic>Environmental Economics &amp; Policies,Energy and Environment,Economic Theory &amp; Research,ICT Policy and Strategies,Water and Industry</subtopic>
+        <teratopic>Environment,Macroeconomics and Economic Growth,Energy,Information and Communication Technologies,Water Resources</teratopic>
+        <count>World</count>
+        <authors>
+            <author>Anderson, Dennis</author>
+        </authors>
+        <entityids>
+            <entityid>000009265_3971229181315</entityid>
+        </entityids>
+        <subsc>Other Power &amp; Energy Conversion</subsc>
+        <admreg>The World Region,The World Region</admreg>
+        <colti>At a glance ; FPD note no. 16,Public policy for the private sector ; Note
+            no. 16</colti>
+        <lang>English</lang>
+        <historic_topic>Environment,Macroeconomics and Economic Growth,Energy,Information and Communication Technologies,Water Resources</historic_topic>
+        <sectr>(Historic)Electric Power &amp; Other Energy</sectr>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            Energy industries; Public services; Cost
+            analysis; Private investments; Bids; Prices; Markets; Denationalization
+            bed combustion,coal,coal plant,Coal-fired
+            power,competitive bidding,construction,costs of electricity
+            production,discount rates,economies of scale,electric
+            power,electric power industry,electricity,electricity
+            supply,end- use,energy
+            technologies,engineers,Forecasts,fuel,gas,insurance,marginal
+            costs,nuclear power,per capita incomes,power industry,power
+            plants,power utilities,producers,wind power
+        </keywd>
+        <owner>ECA/MNA Regions Technical Department</owner>
+        <repnb>16960</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Energy</ml:concept><ml:concept>Energy and Mining</ml:concept><ml:concept>Environment</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Social Protections and Labor</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Agriculture and Food Security</ml:concept><ml:concept>Energy and Extractives</ml:concept><ml:concept>Environment and Natural Resources</ml:concept><ml:concept>Health, Nutrition and Population</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Social Protection and Labor</ml:concept><ml:concept>Environmental Economics and Policies</ml:concept><ml:concept>Denationalization</ml:concept><ml:concept>Deregulation</ml:concept><ml:concept>Destatization</ml:concept><ml:concept>Divestiture of Ownership</ml:concept><ml:concept>Insurance &amp; Risk Mitigation</ml:concept><ml:concept>Power Systems Technologies and Operations</ml:concept><ml:concept>Thermal Power Generation</ml:concept><ml:concept>Coal Energy</ml:concept><ml:concept>Coal Thermal Power Generation</ml:concept><ml:concept>Thermal Energy</ml:concept><ml:concept>Demographics</ml:concept><ml:concept>Checks on Executive Power</ml:concept><ml:concept>Citizen Oversight</ml:concept><ml:concept>Citizen User Satisfaction Survey</ml:concept><ml:concept>Independent Commissions</ml:concept><ml:concept>Ombudsmen</ml:concept><ml:concept>Oversight</ml:concept><ml:concept>Parliament</ml:concept><ml:concept>Procurement Complaints Review Institutions</ml:concept><ml:concept>Supreme Audit Institutions</ml:concept><ml:concept>Electric Power</ml:concept><ml:concept>Fuels</ml:concept><ml:concept>Income</ml:concept><ml:concept>Environmental Economics &amp; Policies</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Privatization</ml:concept><ml:concept>Insurance</ml:concept><ml:concept>Power Systems</ml:concept><ml:concept>Coal-Fired Power</ml:concept><ml:concept>Population</ml:concept><ml:concept>Public Accountability Mechanisms</ml:concept></ml:concepts><ml:geo-regions/></ml:annotations></ml:doc-envelope>

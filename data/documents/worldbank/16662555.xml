@@ -1,0 +1,1212 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>ï»¿PROGRAMME EAU ET ASSAINISSEMENT DOCUMENT DE TRAVAIL&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                           58554&#13;
+Programme global de mise Ã  lâ&#128;&#153;Ã©chelle de lâ&#128;&#153;assainissement&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Gestion du flux&#13;
+dâ&#128;&#153;informations relatives au&#13;
+suivi dans le but dâ&#128;&#153;amÃ©liorer&#13;
+lâ&#128;&#153;assainissement en milieu&#13;
+rural Ã  Java-Est&#13;
+Nilanjana Mukherjee, Djoko Wartono, et Amin Robiarto&#13;
+&#13;
+&#13;
+DÃ©cembre 2010&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Le Programme Eau et Assainissement est un partenariat multi-bailleurs&#13;
+administrÃ© par la Banque mondiale et ayant pour objectif de soutenir les&#13;
+populations dÃ©favorisÃ©es Ã  atteindre un accÃ¨s sain, durable et Ã  un prix&#13;
+abordable Ã  lâ&#128;&#153;eau et aux services dâ&#128;&#153;assainissement.&#13;
+&amp;#12;     Managing the Flow of Monitoring Information Introduction&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+     I.          Introduction&#13;
+&#13;
+     La mise Ã  lâ&#128;&#153;Ã©chelle de lâ&#128;&#153;assainissement en milieu rural et Ã  lâ&#128;&#153;Ã©chelle mondiale rentre          RÃ©sultats&#13;
+     dans le cadre dâ&#128;&#153;un Programme dâ&#128;&#153;eau et dâ&#128;&#153;assainissement (WSP) en cours de mise en                â&#128;¢	 Mesurer et assurer le suivi des rÃ©sultats&#13;
+     Å&#147;uvre en Inde, en IndonÃ©sie et en Tanzanie. De concert avec les gouvernements                      obtenus par tous les niveaux des&#13;
+     locaux et le secteur privÃ© dans 29 districts de la province de Java-Est en IndonÃ©sie,              intervenants constitue la clÃ© en vue de&#13;
+     lâ&#128;&#153;approche WSP allie les demandes formulÃ©es par les gouvernements locaux,                          lâ&#128;&#153;atteinte des objectifs.&#13;
+     antÃ©rieures Ã  lâ&#128;&#153;initiation des interventions liÃ©es au projet, et celles formulÃ©es par les       â&#128;¢	 La cartographie participative rend le&#13;
+     consommateurs relatives aux installations sanitaires amÃ©liorÃ©es et au changement de                suivi entiÃ¨rement public et transparent,&#13;
+     comportement- avant de rendre disponible sur les marchÃ©s locaux une gamme variÃ©e                   et catalyse lâ&#128;&#153;action de la communautÃ©&#13;
+     de produits et services dâ&#128;&#153;assainissement. Cette approche demande-rÃ©ponse combine                   en faveur dâ&#128;&#153;un changement de&#13;
+     un Assainissement total pilotÃ© par la communautÃ© (ATPC), une communication                         comportement collectif Ã  Ã©chÃ©ance&#13;
+     axÃ©e sur le changement des comportements, et des approches de promotion dans le                    bien dÃ©terminÃ©e.&#13;
+     domaine de lâ&#128;&#153;assainissement visant Ã  aider les villages Ã  devenir des villages sans&#13;
+                                                                                                     â&#128;¢	 A travers le suivi participatif, les&#13;
+     dÃ©fÃ©cation en plein air (SDAL).&#13;
+                                                                                                        communautÃ©s sont capables de&#13;
+                                                                                                        gÃ©nÃ©rer des donnÃ©es de suivi de haute&#13;
+     A la fin de la troisiÃ¨me annÃ©e dâ&#128;&#153;exÃ©cution du projet, lâ&#128;&#153;accÃ¨s des mÃ©nages aux services             qualitÃ© conformes aux indicateurs du&#13;
+     dâ&#128;&#153;assainissement progresse Ã  un rythme jamais enregistrÃ© dans les projets                          Programme Conjoint de Surveillance.&#13;
+     dâ&#128;&#153;assainissement en milieu rural en IndonÃ©sie. En moyenne, un tiers de lâ&#128;&#153;ensemble&#13;
+     des communautÃ©s impliquÃ©es sont devenues communautÃ© sans dÃ©fÃ©cation en plein                    â&#128;¢	 Les gouvernements locaux nâ&#128;&#153;ont pas&#13;
+     air (SDAL) en un an. Cependant, Ã  travers les districts, des progrÃ¨s ont Ã©tÃ© rÃ©alisÃ©s,             besoin de mener des activitÃ©s de suivi&#13;
+     en fonction du degrÃ© de soutien politique atteint, de la capacitÃ© de mise en Å&#147;uvre, et             au niveau communautaire. Les bases&#13;
+     du rapport coÃ»t-efficacitÃ© des interventions menÃ©es.                                               de donnÃ©es gouvernementales peuvent&#13;
+                                                                                                        Ãªtre mises Ã  jour en consolidant les&#13;
+                                                                                                        donnÃ©es au niveau communautaire de&#13;
+     Les gouvernements de district local participent de maniÃ¨re significative au partage&#13;
+                                                                                                        maniÃ¨re pÃ©riodique.&#13;
+     des coÃ»ts, Ã  la fourniture des Ã©quipements institutionnels, et au dÃ©ploiement du&#13;
+     personnel. Ainsi, pour la premiÃ¨re fois, le financement du gouvernement local Ã                  â&#128;¢	 Alors que les communautÃ©s peuvent&#13;
+     Java-Est sert uniquement dans le cadre du Â«logicielÂ» dâ&#128;&#153;activitÃ©s telles que gÃ©nÃ©rer la             entiÃ¨rement Ãªtre en mesure dâ&#128;&#153;assurer&#13;
+     demande en matiÃ¨re dâ&#128;&#153;assainissement, amÃ©liorer lâ&#128;&#153;approvisionnement du marchÃ©                       le suivi de leurs propres progrÃ¨s, le&#13;
+     local en produits et services dâ&#128;&#153;assainissement, et renforcer les capacitÃ©s institutionnelles.      transfert manuel de donnÃ©es des&#13;
+                                                                                                        communautÃ©s vers les bases de&#13;
+                                                                                                        donnÃ©es du district peut sâ&#128;&#153;avÃ©rer lourd&#13;
+     Au moment oÃ¹ le projet entre dans sa derniÃ¨re annÃ©e de mise en Å&#147;uvre, les questions&#13;
+                                                                                                        lorsque lâ&#128;&#153;on passe Ã  un programme Ã &#13;
+     clÃ©s Ã  aborder sont liÃ©es au maintien de la dynamique et Ã  la pÃ©rennisation de&#13;
+                                                                                                        grand Ã©chelle.&#13;
+     lâ&#128;&#153;engagement institutionnel et au financement de la part du gouvernement local par&#13;
+     rapport Ã  lâ&#128;&#153;approche du projet. Des preuves tangibles peuvent Ãªtre dâ&#128;&#153;un apport                  â&#128;¢	 Les     tÃ©lÃ©phones    mobiles,   qui&#13;
+     capital. Au niveau du district, les bailleurs de fonds du Programme ont besoin de                  permettant de faire le point sur&#13;
+     preuves attestant de lâ&#128;&#153;efficacitÃ© et de la rentabilitÃ© des nouvelles approches de travail          le progrÃ¨s accompli Ã  travers une&#13;
+     ainsi que de meilleurs rÃ©sultats par Rupiah dÃ©pensÃ© par rapport aux prÃ©cÃ©dentes&#13;
+                                                                                                        passerelle informatisÃ©e au niveau du&#13;
+     approches. Ils doivent Ã©galement Ãªtre en mesure dâ&#128;&#153;Ã©valuer les progrÃ¨s accomplis et les&#13;
+     rÃ©sultats obtenus au niveau communautaire Ã  travers des mÃ©thodes fiables, facilement               district, ont grandement amÃ©liorÃ©&#13;
+     vÃ©rifiables et Ã  des prix abordables.                                                              le flux des donnÃ©es partant de la&#13;
+                                                                                                        communautÃ© vers les districts.&#13;
+     Lâ&#128;&#153;expÃ©rience WSP avec le suivi participatif de Java Est a montrÃ© que les communautÃ©s            â&#128;¢	 Des mesures incitatives dâ&#128;&#153;ordre&#13;
+     sont pleinement capables et extrÃªmement motivÃ©es en matiÃ¨re dâ&#128;&#153;Ã©valuation des                       institutionnel sont indispensables Ã &#13;
+     progrÃ¨s vers lâ&#128;&#153;atteinte dâ&#128;&#153;un statut SDAL et quâ&#128;&#153;ils peuvent rÃ©guliÃ¨rement assurer le&#13;
+     suivi des changements enregistrÃ©s dans lâ&#128;&#153;accÃ¨s des communautÃ©s Ã  de meilleurs                      lâ&#128;&#153;Ã©tablissement de rapport de suivi&#13;
+     services dâ&#128;&#153;assainissement. Les donnÃ©es gÃ©nÃ©rÃ©es par les activitÃ©s initiales de                     complets Ã  des intervalles rÃ©guliers.&#13;
+     cartographie sociale ainsi que les mises Ã  jour cartographiques continues remplissent           â&#128;¢	 Une Ã©valuation basÃ©e sur des mesures&#13;
+     Ã©galement les exigences Ã©noncÃ©es dans le Programme Conjoint de Surveillance                        incitatives externes, venant dâ&#128;&#153;une&#13;
+     (PCS) de lâ&#128;&#153;OMS et lâ&#128;&#153;UNICEF servant Ã  Ã©valuer les progrÃ¨s accomplis dans lâ&#128;&#153;atteinte&#13;
+                                                                                                        tierce partie peuvent Ãªtre plus efficaces&#13;
+     des Objectifs du MillÃ©naire pour le DÃ©veloppement (OMD) en matiÃ¨re&#13;
+     dâ&#128;&#153;assainissement.                                                                                  que les celles en interne.&#13;
+&#13;
+&#13;
+ii                                                                                                       Intensifier lâ&#128;&#153;Assainissement Ã  lâ&#128;&#153;Echelle Mondiale&#13;
+&amp;#12;GÃ©rer le flux dâ&#128;&#153;informations relatives au suivi    Introduction&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Toutefois, au cours de lâ&#128;&#153;annÃ©e 2009, lâ&#128;&#153;Ã©quipe du projet a             â&#128;¢ 	 Relier le suivi participatif Ã  base communautaire Ã  une&#13;
+observÃ© que si les donnÃ©es de contrÃ´le ont rÃ©guliÃ¨rement Ã©tÃ©              base de donnÃ©es au niveau du district;&#13;
+gÃ©nÃ©rÃ©es au sein des communautÃ©s, une grande partie de ces&#13;
+donnÃ©es nâ&#128;&#153;ont pas Ã©tÃ© transmises au sous-district, district, ou Ã      â&#128;¢ 	 SÃ©parer les donnÃ©es de suivi en assainissement amÃ©liorÃ©e&#13;
+des niveaux des plus Ã©levÃ©s pour une consolidation rÃ©guliÃ¨re.             et non amÃ©liorÃ© comme dÃ©finis par le PCS, permettant&#13;
+Avec le nombre de communautÃ©s impliquÃ©es se chiffrant Ã                    ainsi le suivi des progrÃ¨s accomplis dans lâ&#128;&#153;atteinte des&#13;
+plusieurs milliers Ã  Java-Est, il Ã©tait devenu trop laborieux et          OMD en matiÃ¨re dâ&#128;&#153;assainissement, et&#13;
+chronophage pour le personnel mobile gouvernemental de&#13;
+recueillir manuellement les donnÃ©es de chaque communautÃ©              â&#128;¢ 	 Ajouter des donnÃ©es dâ&#128;&#153;assainissement classifiÃ©es se&#13;
+impliquÃ©e sur une base mensuelle. En rÃ©ponse Ã  ce dÃ©fi, un                rapportant au bien-Ãªtre des mÃ©nages afin de vÃ©rifier si les&#13;
+systÃ¨me participatif Ã  base communautaire de suivi des rÃ©sultats          mÃ©nages dÃ©favorisÃ©es ont accÃ¨s Ã  un assainissement&#13;
+a Ã©tÃ© mis sur pied.                                                       amÃ©liorÃ©.&#13;
+&#13;
+En mettant un accent particulier sur la mise en Å&#147;uvre des           Ce document de travail montre comment ce systÃ¨me&#13;
+approches durables, PEA sâ&#128;&#153;est focalisÃ© sur lâ&#128;&#153;intÃ©gration par        fonctionne et donne un aperÃ§u de sa mise en Å&#147;uvre Ã  ce jour.&#13;
+les gouvernements locaux des innovations au sein                    La Figure 1 de la page suivante prÃ©sente une vue schÃ©matique&#13;
+mÃ©canismes de suivi existants. A Java Est, les innovations          des Ã©tapes dÃ©crites, en notant le niveau, les acteurs, les actions&#13;
+ont Ã©tÃ© dÃ©veloppÃ©es afin de:                                        et les donnÃ©es associÃ©es Ã  chaque Ã©tape.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+www.wsp.org&#13;
+                                                                                                                                         iii&#13;
+&amp;#12;iv&#13;
+                                                                                                                                                                                                                                                                                                                                  GÃ©rer&#13;
+&#13;
+                         Ã&#137;tape           1                         2                          3                           4                        5                           6                     7&#13;
+                                                                                                                                                                                                                                                                                                                                  Managing&#13;
+                                                                                                                                                                                                                                                                                                                                        le flux&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+          Nivea&#13;
+                                                                                                                                                                                                                                                                                                                                            the Flow&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                               CommunautÃ©                                              Sous-District                                           District                         Province&#13;
+                                                                                                                                                                                                                                                                                                                                                 dâ&#128;&#153;informations&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+     Personnel ClÃ©&#13;
+                                                              ComitÃ©                                                                                                        District&#13;
+                                                                                                                                                                                                                                                                                                                                                     of Monitoring Information&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                       Puskesmas                     HygiÃ©niste               District                                          Provincial&#13;
+                               Facilitateurs ATPC        d'Assainissement&#13;
+                                                                                    Personnel / Ã&#137;quipe                                      SantÃ© Bureau                  SantÃ© Bureau         SantÃ© Bureau&#13;
+                                                          Communautaire&#13;
+                                                                                                                                                                                                                                                                                                                                                                    relatives auIntroduction&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                               ATPC impliquÃ©             suivi des progrÃ¨s         Recueillir les mises         Fournir SMS              Consolider les               Analyser les          Mener une&#13;
+                                                                                                                                         donnÃ©es Ã  partir de                                                     Ce procÃ©dÃ©&#13;
+                                                                                                                                                                                                                                                                                                                                                                                 suivi    Introduction&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                         accomplis par la          Ã  jour mensuelles            mensuels                                              donnÃ©es dans le       Ã©valuation&#13;
+                                                         communautÃ©                de la part tes                                        la passerelle                but de faciliter la&#13;
+                                                                                                                                                                                                                 peut Ãªtre&#13;
+                                                                                                                                                                                            croisÃ©e annuelle&#13;
+                                                                                   communautÃ©s                                           informatique                                                            Ã©tendu au&#13;
+     Action MenÃ©e                                                                                               Signaler dÃ©claration                                  planification et la   des intervenants     niveau&#13;
+                                                         Demande de                impliquÃ©es                   des Ã©vÃ©nements                                        budgÃ©tisation         dus districts une&#13;
+                                                                                                                                         Fournir un feedback                                                     national afin&#13;
+                                                         vÃ©rification du statut                                 SDAL                     Ã  l'hygiÃ©niste               futures au sein du    analyse              d'analyser&#13;
+                                                         SDAL                      Fournir fun feedback                                                               district              comparative          les progrÃ¨s&#13;
+                                                         vÃ©rification              Ã  la communautÃ©                                       Rapport du                                                              au niveau&#13;
+                                                                                   VÃ©rifier les emandes                                  Pukesmans sur                Transmettre les                            des&#13;
+                                                                                   de statut SDAL                                        dÃ©clarations SDAL            donnÃ©es au                                 provinces&#13;
+                                                                                                                                                                      JPIP*&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                                                            Mener une&#13;
+                                                                                                             Mises Ã  jour                                                                   rÃ©fÃ©renciation&#13;
+                              Cartographie sociale      Mise Ã  jour               Formulaire LB-1            mensuelles recueillies    Mises Ã  jour&#13;
+                              de la ligne de base       cartographie sociale      rempli                     afin d'assurer le suivi   mensuelles                                           croisÃ©e au sein du&#13;
+  DonnÃ©es GÃ©nÃ©rÃ©es            indiquant, l'accÃ¨s aux    indiquant les             Ã  l'aide des               de l'accÃ¨s aux            recueillies afin                                     district des&#13;
+                                                                                  donnÃ©es recueillies        services                  d'assurer le suivi de                                performances des&#13;
+                              services                  changements                                                                    l'accÃ¨s aux services&#13;
+                                                                                  auprÃ¨s des                 d'assainissement au                                          Rapport           programmes&#13;
+                              d'assainissement au       intervenus dans le        multiples                                            d'assainissement au&#13;
+                              sein de la                                                                     sein des                                                     annuel**          d,assainissement&#13;
+                                                        domaine de l'accÃ¨s        cartographies              communautÃ©s               sein du district&#13;
+                              communautÃ© au             aux services              sociales                   impliquÃ©es&#13;
+                              moment du                 d'assainissement                                                               CommunautÃ©s SDAL                                     Ã&#137;valuation&#13;
+                              l'implication de lâ&#128;&#153;ATPC                             VÃ©rification des           CommunautÃ©s ayant         dans le district                                     annuelle&#13;
+                                                        dans le temps             listes de contrÃ´le         nouvellement acquis                                                            du JPIP*&#13;
+                                                                                  SDAL                       le statut SDAL&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+ *JPIP = Jawa Pos Institut Pro-Otonomi, un Ã©valuateur indÃ©pendant des performances des districts. JPIP utilise cette donnÃ©e afin de dÃ©terminer&#13;
+ le laurÃ©at d'un prix annuel trÃ¨s convoitÃ© sur l'assainissement au niveau provincial.&#13;
+ ** Les rapports annuels sont transmis au bureau du Bupati (chef de l'Administration du District) et au DPRD (Conseil LÃ©gislatif du District).&#13;
+                                                                                                                                                                                                                                 FIGURE 1: FLUX SÃ&#137;QUENTIEL DU SUIVI DES INFORMATIONS DE LA COMMUNAUTÃ&#137; VERS LE NIVEAU PROVINCIAL&#13;
+&amp;#12;III.&#13;
+                                                                     Points clÃ©s&#13;
+                    Recueillir et Partager                           â&#128;¢    Mesurer et assurer le suivi des rÃ©sultats obtenus par tous les&#13;
+&#13;
+                    les informations afin                                 niveaux dâ&#128;&#153;intervenants constitue la clÃ© en vue de lâ&#128;&#153;atteinte des&#13;
+                                                                          objectifs.&#13;
+                    dâ&#128;&#153;assurer le suivi des                           â&#128;¢ 	 Au niveau du village ou dâ&#128;&#153;une communautÃ©, les donnÃ©es&#13;
+                                                                          relatives au suivi servent Ã  lâ&#128;&#153;auto-Ã©valuation des progrÃ¨s&#13;
+                    progrÃ¨s accomplis                                     accomplis dans le sens de lâ&#128;&#153;atteinte du statut SDAL&#13;
+                                                                     â&#128;¢ 	 Au niveau du sous-district et du district, les donnÃ©es relatives&#13;
+                                                                          au suivi servent Ã  faire un Ã©tat des progrÃ¨s accomplis et Ã &#13;
+                                                                          apporter des informations sur le rapport coÃ»t -efficacitÃ©.&#13;
+                                                                     â&#128;¢ 	 Au niveau provincial, les donnÃ©es relatives au suivi sont&#13;
+                                                                          consolidÃ©es dans les indicateurs de rÃ©fÃ©renciation permettant&#13;
+                                                                          de faciliter la comparaison entre districts.&#13;
+                                                                     â&#128;¢ 	 Dans les districts et au niveau sectoriel, les synthÃ¨ses des&#13;
+                                                                          donnÃ©es relatives au suivi et Ã  la rÃ©fÃ©renciation servent au&#13;
+                                                                          partage des connaissances.&#13;
+&#13;
+&#13;
+Au Niveau Communautaire                                                  ressource recrutÃ© par le WSP pour aider au renforcement des&#13;
+                                                                         capacitÃ©s du gouvernement du district&#13;
+Au niveau de la communautÃ© ou du village, le personnel des&#13;
+centres de santÃ© locaux comme lâ&#128;&#153;hygiÃ©niste ou la sage-femme              Ã&#128; la fois au niveau du sous-district et du district, le personnel&#13;
+du village parcourent le village pour recueillir les donnÃ©es de la       du programme au sein du gouvernement local et les&#13;
+cartographie sociale et contre-vÃ©rifier les progrÃ¨s signalÃ©s Ã            gestionnaires se servent des donnÃ©es relatives au suivi pour&#13;
+partir les observations obtenues sur le terrain. Le formulaire           informer le Chef du Bureau de la SantÃ©, le RÃ©gent et les&#13;
+LB-1 du (Annexe 1, Exemple de Rapport dâ&#128;&#153;Avancement Mensuel)              dÃ©putÃ©s du district sur les progrÃ¨s accomplis. Ils ont&#13;
+sert Ã  enregistrer les donnÃ©es de la ligne de base et les mises Ã         Ã©galement commencÃ© Ã  se servir de ces donnÃ©es pour informer&#13;
+jour mensuelles pour chaque village. Les donnÃ©es saisies dans            sur le niveau rentabilitÃ© de leur budget dâ&#128;&#153;investissement par&#13;
+ce formulaire servent Ã  gÃ©nÃ©rer des graphiques et sont                   rapport aux rÃ©sultats obtenus au niveau communautaire. Cet&#13;
+consolidÃ©es dans des synthÃ¨ses se rapportant Ã  une ou plusieurs          Ã©tat de choses a conduit Ã  une augmentation constante des&#13;
+communautÃ©s, conformÃ©ment aux exigences dÃ©finies par les                 allocations budgÃ©taires annuelles du gouvernement local en&#13;
+bureaux de santÃ© du district et de la province, et soumis au             faveur des programmes dâ&#128;&#153;assainissement en milieu rural&#13;
+district de santÃ© sur une base mensuelle (figure 3).                     pendant la pÃ©riode de mise en Å&#147;uvre du projet Ã  Java Est.&#13;
+&#13;
+A ce niveau, les leaders naturels et les comitÃ©s dâ&#128;&#153;hygiÃ¨ne /             Au niveau du District et de la Province&#13;
+ATPC utilisent les donnÃ©es relatives au suivi aprÃ¨s admission&#13;
+de lâ&#128;&#153;ATPC dans le programme afin dâ&#128;&#153;Ã©valuer le niveau de&#13;
+                                                                         Au niveau provincial, les donnÃ©es relatives au suivi sont&#13;
+progression de leur communautÃ© par rapport Ã  lâ&#128;&#153;obtention du&#13;
+                                                                         consolidÃ©es dans les indicateurs de rÃ©fÃ©renciation permettant&#13;
+statut SDAL, ceux des mÃ©nages ayant un accÃ¨s et ceux nâ&#128;&#153;ayant&#13;
+                                                                         de faciliter la comparaison entre districts tout en Ã©valuant les&#13;
+pas , et si les dÃ©favorisÃ©es y ont accÃ¨s. Le projet a introduit un&#13;
+                                                                         performances de chaque district en matiÃ¨re dâ&#128;&#153;assainissement.&#13;
+code couleur pour chaque classe sociale de mÃ©nage, permettant&#13;
+                                                                         Depuis 2009, les indicateurs de rÃ©fÃ©renciation en matiÃ¨re&#13;
+ainsi aux leaders de la communautÃ© et aux comitÃ©s ATPC&#13;
+                                                                         dâ&#128;&#153;assainissement sont inclus dans lâ&#128;&#153;Ã©valuation annuelle de&#13;
+dâ&#128;&#153;identifier les mÃ©nages qui sont Ã  la traÃ®ne et prendre des&#13;
+                                                                         gouvernance du district qui sert de base au choix du district le&#13;
+mesures visant Ã  les aider Ã  opÃ©rer le changement souhaitÃ©.&#13;
+                                                                         mieux gÃ©rÃ© au cours de lâ&#128;&#153;annÃ©e. La prestigieuse rÃ©compense est&#13;
+                                                                         attribuÃ©e par lâ&#128;&#153;Institut Pos JawaPro-Otonomi, une fondation du&#13;
+Dans certaines communautÃ©s, un autocollant de couleur avec               rÃ©seau de communication Java Post basÃ©e Ã  Java Est.&#13;
+un pouce levÃ© et le slogan, â&#128;&#156;WC ku Sehatâ&#128;? (â&#128;&#156;Jâ&#128;&#153;utilise des&#13;
+latrines amÃ©liorÃ©esâ&#128;?) servent dâ&#128;&#153;outil de suivi supplÃ©mentaire.&#13;
+                                                                         A travers les districts et au niveau sectoriel, les synthÃ¨ses des&#13;
+Lâ&#128;&#153;autocollant est fixÃ© sur la devanture de chaque maison&#13;
+                                                                         donnÃ©es relatives au suivi et Ã  la rÃ©fÃ©renciation servent Ã &#13;
+pourvu dâ&#128;&#153;installations amÃ©liorÃ©es (Figure 4).&#13;
+                                                                         lâ&#128;&#153;apprentissage et au partage. Une Ã©mulation saine, basÃ©e sur la&#13;
+                                                                         performance est gÃ©nÃ©rÃ©e Ã  travers lâ&#128;&#153;analyse des donnÃ©es relatives&#13;
+Au niveau du Sous-district et du District                                au suivi et Ã  la rÃ©fÃ©renciation au cours des revues annuelles&#13;
+                                                                         dâ&#128;&#153;apprentissage impliquant toutes les parties prenantes. Au&#13;
+Au niveau du district, les bureaux de santÃ© compilent les                niveau du district et de la province, les fonctionnaires exerÃ§ant&#13;
+donnÃ©es et transmettent au RÃ©gent (chef administratif du                 dans les secteurs de la SantÃ©, des travaux publics, de lâ&#128;&#153;Ã©ducation,&#13;
+district, Ã©galement connu sous le nom de Bupati), le bureau              la planification et du dÃ©veloppement communautaire prennent&#13;
+de santÃ© provincial, et le WSP, avec lâ&#128;&#153;aide dâ&#128;&#153;un organisme               part Ã  ces Ã©vÃ©nements populaires dâ&#128;&#153;apprentissage de groupe.&#13;
+&#13;
+www.wsp.org&#13;
+                                                                                                                                               v&#13;
+&amp;#12;     GÃ©rer le flux&#13;
+     Managing      dâ&#128;&#153;informations&#13;
+                 the              relatives&#13;
+                     Flow of Monitoring     au suivi    Collecter&#13;
+                                         Information     Recueilliret Partager les&#13;
+                                                                    etPartager                   pour&#13;
+                                                                                    informations afin&#13;
+                                                                                les informations       assurer le&#13;
+                                                                                                      dâ&#128;&#153;assurer le progrÃ¨s&#13;
+                                                                                                                   suivi des progrÃ¨s accomplis&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                       FIGURE 3: ECHANTILLON Dâ&#128;&#153;ANALYSE DE DONNEES A PARTIR Dâ&#128;&#153;UN ETAT Dâ&#128;&#153;AVANCEMENT MENSUEL&#13;
+                                                      Changement de comportement dans le domaine de lâ&#128;&#153;assainissement un mois&#13;
+                                                        aprÃ¨s intÃ©gration dans le programme Ã  Dusun Nglawan-Village Senden&#13;
+                                        70&#13;
+                    Nombre de MÃ©nages&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                        60&#13;
+                                        50&#13;
+                                        40&#13;
+                                        30&#13;
+                                        20&#13;
+                                        10&#13;
+                                        0&#13;
+                                                A      M                        D         A     M        D           A     M          D            A         M          D&#13;
+                                               AccÃ¨s aux latrines                        AccÃ¨s aux latrines         AccÃ¨s aux latrines           Situation de dÃ©fÃ©cation&#13;
+                                                  amÃ©liorÃ©es                              non amÃ©nagÃ©es               communes                       en plein air (OD)&#13;
+&#13;
+                                                                                       Comportement en matiÃ¨re d'assainissement&#13;
+&#13;
+                                                                                                             LÃ©gende&#13;
+                                                                                                 Ligne de base        progrÃ¨s&#13;
+                                                    A = MÃ©nages aisÃ©s                           M = MÃ©nages Ã  revenu moyen    D = MÃ©nages&#13;
+                                                                                                    dÃ©favorisÃ©s&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                      ProgrÃ¨s accomplis dans les districts en phase trois (Septembre 2009 Ã  Avril 2010)&#13;
+                                                                                140&#13;
+&#13;
+                                                                                120&#13;
+                                                        Nombre de CommunautÃ©s&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                100&#13;
+&#13;
+                                                                                 80&#13;
+&#13;
+                                                                                 60&#13;
+&#13;
+                                                                                 40&#13;
+&#13;
+                                                                                 20&#13;
+&#13;
+                                                                                  0&#13;
+                                                                                       MALANG SIDOARJO MOJOKERTO MAGETAN BOJONEGORO LAMONGAN GRESIK SAMPANG&#13;
+&#13;
+&#13;
+&#13;
+                                         CommunautÃ©s actuellement&#13;
+                                                                                          49        34         42         72            35             65        104     120&#13;
+                                         impliquÃ©es&#13;
+                                         Nombre de communautÃ©s                            8         5          12         33            15             20        92         95&#13;
+                                         SDAL&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+vi                                                                                                                                                 Intensifier lâ&#128;&#153;Assainissement Ã  lâ&#128;&#153;Echelle Mondiale&#13;
+&amp;#12;GÃ©rer le flux&#13;
+Managing      dâ&#128;&#153;informations&#13;
+            the              relatives&#13;
+                Flow of Monitoring      au suivi    Collecter&#13;
+                                    Information     Capturing et Partager&#13;
+                                                               and        les&#13;
+                                                                    Sharing   informations&#13;
+                                                                            Information to pour assurer&#13;
+                                                                                           Monitor      le progrÃ¨s&#13;
+                                                                                                   Progress&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+     FIGURE 4: ASSURER LE SUIVI Dâ&#128;&#153;UN ASSAINISSEMENTAMELIORÃ&#137; â&#128;&#156;WC KU SEHATâ&#128;?tâ&#128;?&#13;
+&#13;
+&#13;
+     Dans certaines communautÃ©s, un&#13;
+     autocollant de couleur avec un pouce&#13;
+     levÃ© et le slogan, Â«WC ku Sehat â&#128;&#156;&#13;
+     (â&#128;&#156;Jâ&#128;&#153;utilise des latrines amÃ©liorÃ©esÂ»)&#13;
+     sert dâ&#128;&#153;outil de suivi supplÃ©mentaire.&#13;
+     Lâ&#128;&#153;autocollant est fixÃ© sur la devanture&#13;
+     de       chaque     maison      pourvue&#13;
+     dâ&#128;&#153;installations amÃ©liorÃ©es. Lâ&#128;&#153;absence&#13;
+     dâ&#128;&#153;autocollant indique que les rÃ©sidents&#13;
+     continuent de dÃ©fÃ©quer Ã  lâ&#128;&#153;air libre ou&#13;
+     dâ&#128;&#153;utiliser des latrines communes. En&#13;
+     outre, dans certaines communautÃ©s,&#13;
+     les mÃ©nages ne disposant pas&#13;
+     dâ&#128;&#153;installations     amÃ©liorÃ©es       (par&#13;
+     exemple, des latrines insalubres et&#13;
+     non hygiÃ©niques) sont marquÃ©s avec&#13;
+     un autocollant de couleur diffÃ©rente,&#13;
+     ce qui reprÃ©sente Ã  la fois une situation&#13;
+     embarrassante et une incitation Ã &#13;
+     lâ&#128;&#153;endroit des propriÃ©taires Ã  amÃ©liorer&#13;
+     leurs installations dÃ¨s que possible.&#13;
+&#13;
+&#13;
+Ce qui contribue Ã  trouver un plus grand consensus                                                      lâ&#128;&#153;institutionnalisation du systÃ¨me de suivi du projet a Ã©tÃ©&#13;
+intersectoriel au sein de la province sur la voie Ã  suivre en                                           influencÃ©e par les facteurs suivants:&#13;
+termes dâ&#128;&#153;assainissement en milieu rural.&#13;
+                                                                                                           â&#128;¢ 	 Le programme ne peut pas contraindre les&#13;
+En utilisant cette approche, on obtient une traÃ§abilitÃ© des                                                    communautÃ©s Ã  faire un Ã©tat des activitÃ©s relatives Ã &#13;
+donnÃ©es indiquant des changements enregistrÃ©s dans le                                                          lâ&#128;&#153;assainissement au niveau du sous-district ou du&#13;
+domaine de lâ&#128;&#153;accÃ¨s Ã  lâ&#128;&#153;assainissement amÃ©liorÃ© et, en                                                          district. Le projet encourage les communautÃ©s Ã &#13;
+particulier, les progrÃ¨s accomplis par les mÃ©nages dÃ©favorisÃ©s                                                 assurer le suivi du processus de changement de&#13;
+au sein de chaque communautÃ©. Les donnÃ©es sont facilement                                                      comportement de maniÃ¨re Ã  atteindre le statut SDAL&#13;
+vÃ©rifiables Ã  travers les cartographies sociales et visites sur le                                             et jouir du prestige qui lui est associÃ©. La crÃ©ation et&#13;
+terrain, et rÃ©pond aux exigences de suivi contenues dans le                                                    lâ&#128;&#153;utilisation des cartographies sociales constituent un&#13;
+PCS. Les communautÃ©s ne sont pas tenues de transmettre                                                         outil leur permettant de vÃ©rifier et communiquer leurs&#13;
+les donnÃ©es au centre de santÃ© du district sur une base                                                        progrÃ¨s de maniÃ¨re transparente.&#13;
+pÃ©riodique. Elles les transmettent plutÃ´t lorsquâ&#128;&#153;elles&#13;
+soumettent une demande de statut SDAL, invitant ainsi le                                                     â&#128;¢ Tous les districts disposent dâ&#128;&#153;un personnel de&#13;
+gouvernement local Ã  en faire la vÃ©rification.                                                                 sensibilisation au sein du centre de santÃ© appelÃ©&#13;
+                                                                                                               hygiÃ©nistes, qui travaillent au niveau du sous-&#13;
+Un systÃ¨me global de suivi de lâ&#128;&#153;information (MIS), dÃ©veloppÃ©                                                   district et de la communautÃ© Ã  lâ&#128;&#153;amÃ©lioration de&#13;
+par le WSP, a Ã©tÃ© mis en Å&#147;uvre Ã  Java Est et dans dâ&#128;&#153;autres                                                     lâ&#128;&#153;environnement sanitaire. Le projet a ainsi confiÃ© Ã &#13;
+pays-projets. Cependant, Ã  Java Est, la rÃ©cupÃ©ration des                                                       lâ&#128;&#153;hygiÃ©niste un rÃ´le majeur dans la stimulation et le&#13;
+donnÃ©es de suivi communautaire par le gouvernement local,                                                      suivi des changements de comportement en matiÃ¨re&#13;
+ne sâ&#128;&#153;est pas toujours effectuÃ©e sur une base mensuelle;                                                        dâ&#128;&#153;assainissement, ainsi que la collecte, lâ&#128;&#153;analyse, et&#13;
+                                                                                                               lâ&#128;&#153;enregistrement des donnÃ©es de suivi au niveau du&#13;
+Les donnÃ©es communautaires ont pu Ãªtre recueillies sur une                                                     district.&#13;
+base mensuelle, bimensuelle ou trimestrielle. A Java Est,&#13;
+&#13;
+&#13;
+&#13;
+www.wsp.org&#13;
+                                                                                                                                                                          vii&#13;
+&amp;#12;       â&#128;&#130;&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+       VI.&#13;
+                                                                           Points clÃ©s&#13;
+                              AmÃ©liorer la collecte                        â&#128;¢ Le transfert manuel de donnÃ©es des cartographies communautaires&#13;
+&#13;
+                              et la transmission                              vers les bases de donnÃ©es du gouvernement local devient lourd&#13;
+                                                                              lorsquâ&#128;&#153;on passe Ã  un programme Ã  grande Ã©chelle.&#13;
+                              des donnÃ©es                                  â&#128;¢ Lâ&#128;&#153;utilisation des technologies Ã©mergentes telles que la messagerie&#13;
+                                                                              par SMS directement liÃ©e Ã  une base de donnÃ©es informatisÃ©e&#13;
+                                                                              peut rÃ©duire les erreurs de donnÃ©es manuelles et amÃ©liorer la&#13;
+                                                                              frÃ©quence de suivi et de transmission.&#13;
+                                                                           â&#128;¢ Les mesures incitatives dâ&#128;&#153;ordre institutionnel servant Ã  motiver&#13;
+                                                                              le personnel Ã  assurer le suivi sur une base rÃ©guliÃ¨re constituent&#13;
+                                                                              une exigence clÃ©.&#13;
+&#13;
+&#13;
+&#13;
+       Lâ&#128;&#153;expÃ©rience WSP avec le suivi participatif de Java Est a           Pour remÃ©dier Ã  cette situation, un processus de collecte des&#13;
+       montrÃ© que communautÃ©s sont pleinement capables et                  donnÃ©es Ã  lâ&#128;&#153;aide tÃ©lÃ©phones mobiles, le service de messages&#13;
+       extrÃªmement motivÃ©es en matiÃ¨re dâ&#128;&#153;Ã©valuation des progrÃ¨s            courts (SMS), et un systÃ¨me passerelle informatisÃ©e a Ã©tÃ©&#13;
+       vers un statut SDAL et quâ&#128;&#153;elles peuvent rÃ©guliÃ¨rement               testÃ© dans deux districts oÃ¹ le projet est mis en Å&#147;uvre, une&#13;
+       assurer un suivi les changements enregistrÃ©s dans lâ&#128;&#153;accÃ¨s des       approche rendue possible grÃ¢ce Ã  la possession gÃ©nÃ©ralisÃ©e&#13;
+       communautÃ©s Ã  de meilleures services dâ&#128;&#153;assainissement.              de tÃ©lÃ©phones portables dans les zones rurales de Java Est&#13;
+       Les donnÃ©es gÃ©nÃ©rÃ©es par lâ&#128;&#153;activitÃ© de cartographie sociale         (figure 7).&#13;
+       initiale, et les mises Ã  jour continues des cartographies&#13;
+       rÃ©pondent Ã©galement aux exigences de suivi contenues dans           Les rÃ©sultats du projet pilote ont Ã©tÃ© encourageants. Fin&#13;
+       le PCS. Avec le nombre de communautÃ©s impliquÃ©es se                 Mars 2010, 22 puskesmas avait envoyÃ© des lignes de base&#13;
+       chiffrant Ã  plusieurs milliers dans la province, recueillir         et des donnÃ©es relatives aux progrÃ¨s accomplis Ã  travers&#13;
+       manuellement les donnÃ©es de chaque communautÃ©                       la passerelle SMS, contre 13 puskesmas avant la mise en&#13;
+       impliquÃ©e sur une base mensuelle, est devenu trop laborieux         Å&#147;uvre du systÃ¨me de suivi par SMS. Lâ&#128;&#153;utilisation du&#13;
+       et chronophage pour le personnel mobile gouvernemental.             systÃ¨me par SMS, a permis rÃ©duire les erreurs de transmission&#13;
+       Comme le montre la figure 6, la plupart des mises Ã  jour des        que lâ&#128;&#153;on rencontre dans la collecte et lâ&#128;&#153;enregistrement&#13;
+       donnÃ©es communautaires arrivent dans les bases de donnÃ©es           manuels des donnÃ©es. On a Ã©galement notÃ© un impact&#13;
+       au niveau du district seulement tous les trois mois.                positif sur la vÃ©rification des donnÃ©es Ã©tant donnÃ© que&#13;
+                                                                           celles-ci ont Ã©tÃ© ont Ã©tÃ© stockÃ©es dans les tÃ©lÃ©phones mobiles&#13;
+       Au cours de lâ&#128;&#153;annÃ©e 2009, on a observÃ© que si les donnÃ©es           des dâ&#128;&#153;hygiÃ©nistes.&#13;
+       de suivi ont Ã©tÃ© rÃ©guliÃ¨rement gÃ©nÃ©rÃ©es au sein des&#13;
+       communautÃ©s, une grande partie de ces donnÃ©es nâ&#128;&#153;a pas Ã©tÃ©          Afin de se doter dâ&#128;&#153;un systÃ¨me de transmission par SMS, un&#13;
+       transmise au sous-district, district, ou Ã  des niveaux des plus    district doit: (i) disposer du matÃ©riel - un ordinateur au&#13;
+       Ã©levÃ©s pour une consolidation rÃ©guliÃ¨re.                           niveau du district et des tÃ©lÃ©phones portables; (ii) bÃ¢tir Ã  la&#13;
+                                                                                                fois un engagement et un mÃ©canisme&#13;
+                                                                                                de transmission fonctionnel entre les&#13;
+           FIGURE 6: FREQUENCE DES RAPPORTS DE SUIVI                                            diffÃ©rents acteurs de suivi (district,&#13;
+                                                                                                puskesmas, et cadres / communautÃ©);&#13;
+                              1 district&#13;
+                                                                                                (iii) financer le coÃ»t de fonctionnement&#13;
+                                                                    LÃ©gende                     liÃ© Ã  lâ&#128;&#153;exploitation dâ&#128;&#153;un systÃ¨me de&#13;
+                                             11 districts            1 mois                     suivi par SMS .&#13;
+               13 districts&#13;
+                                                                     2 mois&#13;
+                                                                     3 mois&#13;
+                                                                                                  Trois messages SMS sont saisis pour&#13;
+                                       4 districts                                                chaque nouvelle communautÃ©: lâ&#128;&#153;un&#13;
+                                                                     &gt;3 mois&#13;
+                                                                                                  dans le profil de la communautÃ©&#13;
+                                                                                                  (population, etc.), lâ&#128;&#153;un dans la ligne de&#13;
+                                                                                                  base des donnÃ©es relatives Ã &#13;
+&#13;
+&#13;
+viii                                                                                                 Intensifier lâ&#128;&#153;Assainissement Ã  lâ&#128;&#153;Echelle Mondiale&#13;
+&amp;#12;GÃ©rer le flux&#13;
+Managing      dâ&#128;&#153;informations&#13;
+            the              relatives&#13;
+                Flow of Monitoring      au suivi    AmÃ©liorer&#13;
+                                    Information     Improving&#13;
+                                                    Capturing Collecte&#13;
+                                                               Data&#13;
+                                                              and      et Transmission&#13;
+                                                                    Collection&#13;
+                                                                   Sharing              des donnÃ©es&#13;
+                                                                                and Reporting&#13;
+                                                                            Information to Monitor Progress&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+    FIGURE&#13;
+  Figure     7: SYSTEME&#13;
+         7: Data        DE COLLECTE&#13;
+                             System DES&#13;
+                  Collection            DONNEES&#13;
+                                    Using       PAR PASSERELLE&#13;
+                                          Computer-Based       INFORMATIS&#13;
+                                                          Gateway  and SMSEE ET MESSAGES SMS&#13;
+                                                                           Messaging&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                       DonnÃ©es relatives Ã &#13;
+                                                       la communautÃ©&#13;
+                                                       DonnÃ©es relatives Ã &#13;
+                                                       la ligne de base&#13;
+                                                       DonnÃ©es relatives&#13;
+                                                       au progrÃ¨s accomplis&#13;
+&#13;
+                           Transmettre                                                          SMS Gateway&#13;
+                         donnÃ©es par SMS&#13;
+&#13;
+                                                                                                     SystÃ¨me&#13;
+                                                                                                  d'information                                Base de&#13;
+                                                                                                    de gestion                                 donnÃ©es&#13;
+                                                                                                      (SIG)&#13;
+                    TÃ©lÃ©phone portable/SMS&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                       Compte-rendu&#13;
+                                                                                                               Identifier Ã&#137;metteur,&#13;
+                                              HygiÃ©niste                                                              Heure&#13;
+                                                                                                               d'envoi, code SMS&#13;
+&#13;
+  GrÃ¢ce Ã  ce systÃ¨me, les hygiÃ©nistes attachÃ©s aux puskesmas sont tenus de collecter les donnÃ©es de maniÃ¨re automatique&#13;
+  au niveau communautaire et charger les donnÃ©es via SMS, en temps rÃ©el, dans un systÃ¨me passerelle informatisÃ© situÃ© au&#13;
+  niveau du bureau de santÃ© du district. Le systÃ¨me vÃ©rifie automatiquement les progrÃ¨s nouvellement signalÃ©s par rapport aux&#13;
+  donnÃ©es contenues dans la ligne de base et celles du mois prÃ©cÃ©dent, et gÃ©nÃ¨re des rapports- Ã©liminant la nÃ©cessitÃ© dâ&#128;&#153; une&#13;
+  saisie manuelle des donnÃ©es. Des contrÃ´les alÃ©atoires sont effectuÃ©s de maniÃ¨re pÃ©riodique au niveau communautaire et au&#13;
+  cours du processus de vÃ©rification SDAL visant Ã  sâ&#128;&#153;assurer de la vÃ©racitÃ© des donnÃ©es transmises par SMS.&#13;
+&#13;
+&#13;
+lâ&#128;&#153;assainissement et un autre sur les progrÃ¨s accomplis. Par la                                          amÃ©liore la qualitÃ© des donnÃ©es en temps rÃ©el grÃ¢ce Ã  la&#13;
+suite, le chef de la communautÃ© ou son reprÃ©sentant qui                                                 cohÃ©rence automatiques des contrÃ´les.&#13;
+rend compte des progrÃ¨s Ã  lâ&#128;&#153;hygiÃ©niste envoie un SMS&#13;
+chaque mois. Lâ&#128;&#153;hygiÃ©niste transfÃ¨re les messages Ã  la                                                   A lâ&#128;&#153;heure actuelle le systÃ¨me ne tient compte que des progrÃ¨s&#13;
+passerelle du district. AprÃ¨s le projet pilote, le bureau de                                            accomplis par les mÃ©nages dans le domaine de lâ&#128;&#153;accÃ¨s Ã  des&#13;
+santÃ© du district Jombang a commencÃ© Ã  fournir des                                                      conditions dâ&#128;&#153;assainissement amÃ©liorÃ©es. Des plans sont en&#13;
+impulsions tÃ©lÃ©phoniques dâ&#128;&#153;une valeur mensuelle de Vaut                                                 cours pour lâ&#128;&#153;Ã©tendre au suivi des progrÃ¨s accomplis en&#13;
+Rp.5, 000 ($ 0,60) aux hygiÃ©nistes ayant enregistrÃ© leurs                                               matiÃ¨re de promotion de lâ&#128;&#153;assainissement et du changement&#13;
+numÃ©ros de tÃ©lÃ©phone dans le systÃ¨me, qui couvre le coÃ»t                                                de comportement relatif Ã  lâ&#128;&#153;assainissement. Le gouvernement&#13;
+dâ&#128;&#153;environ 20 SMS par mois. Il sâ&#128;&#153;agit lÃ  dâ&#128;&#153;un coÃ»t trÃ¨s bas                                              national a entamÃ© les discussions avec le WSP en vue de&#13;
+que tous les districts peuvent facilement supporter.                                                    lâ&#128;&#153;Ã©largissement du systÃ¨me Ã  dâ&#128;&#153;autres provinces et du&#13;
+                                                                                                        dÃ©veloppement dâ&#128;&#153;un systÃ¨me de suivi du secteur national.&#13;
+En octobre 2010, le WSP a introduit et rendu opÃ©rationnel&#13;
+le systÃ¨me dans lâ&#128;&#153;ensemble des 29 districts, avec onze                                                  Au cours du projet, un besoin Ã  Ã©mergÃ©, celui de vÃ©rifier les&#13;
+districts fournissant le matÃ©riel nÃ©cessaire. Les districts ont                                         changements de comportement rapportÃ©s par les&#13;
+rapportÃ© que le systÃ¨me (1) est plus facile Ã  exploiter par                                             communautÃ©s et les types dâ&#128;&#153;installations sanitaires&#13;
+rapport aux systÃ¨mes manuels, (2) amÃ©liore le flux de                                                   (amÃ©liorÃ©es ou non) ayant Ã©tÃ© acquises au titre de lâ&#128;&#153;accÃ¨s Ã &#13;
+donnÃ©es rÃ©guliÃ¨res, (3) rÃ©duit considÃ©rablement le temps                                                lâ&#128;&#153;assainissement ont augmentÃ©. Cet Ã©tat de choses a ajoutÃ©&#13;
+nÃ©cessaire au traitement des donnÃ©es Ã  chaque niveau, et (4)                                            un contrÃ´le souhaitable dans le processus Ã  travers les&#13;
+&#13;
+&#13;
+www.wsp.org&#13;
+                                                                                                                                                                        ix&#13;
+&amp;#12;    GÃ©rer le flux&#13;
+    Managing      dâ&#128;&#153;informations&#13;
+                the              relatives&#13;
+                    Flow of Monitoring      au suivi    AmÃ©liorer&#13;
+                                        Information     CapturingCollecte et Transmission&#13;
+                                                                  and Sharing  Information des donnÃ©es&#13;
+                                                                                           to Monitor Progress&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+    exercices de vÃ©rification SDAL menÃ©es par les gouvernements                                            RÃ©fÃ©renciation des performances pour une&#13;
+    locaux. Mais cela signifie aussi que les gains en termes                                               comparaison entre districts&#13;
+    dâ&#128;&#153;accÃ¨s reconnus comme Â«assainissement amÃ©liorÃ©Â» peuvent&#13;
+    Ãªtre enregistrÃ©s. A tout moment, on dispose toujours dâ&#128;&#153;une                                             Un mÃ©canisme permettant de comparer de maniÃ¨re&#13;
+    rÃ©serve de communautÃ©s qui se sont dÃ©clarÃ©es SDAL, mais                                                objective la performance du programme Ã  travers les districts&#13;
+    le systÃ¨me local de vÃ©rification SDAL nâ&#128;&#153;a pas encore Ã©tÃ© en                                            sur une base annuelle a rÃ©cemment Ã©tÃ© mis en Å&#147;uvre. Le&#13;
+    mesure de les couvrir tous. Lâ&#128;&#153;Ã©tendue de cette rÃ©serve peut                                            systÃ¨me est basÃ© sur une analyse comparative du rendement&#13;
+    Ãªtre considÃ©rable. Par exemple, le Rapport SIG semi-annuel                                             du systÃ¨me mis en place par le WSP en Inde en collaboration&#13;
+    qui va de Juillet Ã  DÃ©cembre2009 indique concernant les                                                avec le projet Intensifier lâ&#128;&#153;Assainissement en Milieu Rural Ã &#13;
+    Ã&#137;tats situÃ©s Ã  Java Est :                                                                              lâ&#128;&#153;Echelle Mondiale En IndonÃ©sie, le systÃ¨me de rÃ©fÃ©renciation&#13;
+                                                                                                           mesure les progrÃ¨s accomplis Ã  par rapport Ã  huit rÃ©sultats&#13;
+    De juillet Ã  dÃ©cembre 2009, on a enregistrÃ© 289 500 personnes                                          clÃ©s ainsi que par rapport Ã  dâ&#128;&#153;autres indicateurs&#13;
+    qui sont passÃ©es de la dÃ©fÃ©cation en plein air Ã  lâ&#128;&#153;utilisation des                                     supplÃ©mentaires (Figure 8).&#13;
+    installations sanitaires.. Parmi eux, 107 237 sont considÃ©rÃ©s&#13;
+    comme ayant acquis un des latrines amÃ©liorÃ©es. 182263                                                  Les mesures incitatives dâ&#128;&#153;ordre institutionnel en faveur&#13;
+    personnes supplÃ©mentaires ont Ã©galement eu accÃ¨s aux services                                          dâ&#128;&#153;une vÃ©rification SDAL plus rÃ©guliÃ¨re peuvent Ã©galement&#13;
+    dâ&#128;&#153;assainissement, mais leurs installations nâ&#128;&#153;avaient pas encore                                        Ãªtre gÃ©nÃ©rÃ©es Ã  partir de moyens extÃ©rieurs. A Java Est , le&#13;
+    Ã©tÃ© contrÃ´lÃ©es, parce que nâ&#128;&#153;ayant pas encore fait lâ&#128;&#153;objet dâ&#128;&#153;une                                        lien crÃ©Ã© en 2009 entre la performance du programme&#13;
+    vÃ©rification SDAL.                                                                                     dâ&#128;&#153;assainissement du gouvernement du district et le prix du&#13;
+                                                                                                           PJPI constitue un puissant stimulant. Il sâ&#128;&#153;agit dâ&#128;&#153;un prix&#13;
+    Outre le fait quâ&#128;&#153;elles facilitent la transmission des donnÃ©es                                          prestigieux sur la gouvernance du district particuliÃ¨rement&#13;
+    par tÃ©lÃ©phone portable, les mesures incitatives dâ&#128;&#153;ordre                                                convoitÃ© par les districts et Bupatis. La compÃ©tition et&#13;
+    institutionnel constituent une exigence clÃ© dans la                                                    lâ&#128;&#153;Ã©valuation en vue de lâ&#128;&#153;attribution du prix est conduite par&#13;
+    motivation du personnel Ã  assurer le suivi sur une base                                                lâ&#128;&#153;Institut Pos Jawa Pro-Otonomi, (JPIP) une fondation du&#13;
+    rÃ©guliÃ¨re. Sachant que pour lâ&#128;&#153;instant aucune autoritÃ© ou                                               plus grand rÃ©seau de communication basÃ©e Ã  Java Est. Les&#13;
+    mÃ©canisme ne contraint les districts Ã  rÃ©guliÃ¨rement mettre                                            indicateurs dont PJPI se sert dans son Ã©valuation en matiÃ¨re&#13;
+    Ã  jour les donnÃ©es SDAL du district en fonction dâ&#128;&#153;un                                                   dâ&#128;&#153;assainissement sont les mÃªmes que les rÃ©sultats du projet&#13;
+    Ã©chÃ©ancier bien dÃ©terminÃ©.                                                                             et les indicateurs de performance. Les donnÃ©es de suivi&#13;
+                                                                                                           relatives Ã  lâ&#128;&#153;accÃ¨s de la part de la communautÃ©, donnÃ©es&#13;
+    Afin de mettre en place un tel SIG interdistrict et de                                                 relatives Ã  lâ&#128;&#153;atteinte du statut SDAL et les analyses coÃ»ts-&#13;
+    rÃ©examiner le systÃ¨me gÃ©rÃ© par le gouvernement provincial, le                                          efficacitÃ© de ces rÃ©sultats servent de base dâ&#128;&#153;Ã©valuation des&#13;
+    WSP a planifiÃ© une initiative de recherche-action Ã  Java-Est                                           performances en matiÃ¨re dâ&#128;&#153;assainissement. Le PJPI obtient&#13;
+    au cours de la seconde moitiÃ© de 2010 afin dâ&#128;&#153;identifier les                                            les donnÃ©es relatives Ã  la rÃ©fÃ©renciation en matiÃ¨re&#13;
+    stratÃ©gies permettant dâ&#128;&#153;amÃ©liorer les taux dâ&#128;&#153;atteinte du statut                                        dâ&#128;&#153;assainissement et au suivi des bureaux de santÃ© des districts&#13;
+    SDAL dans les communautÃ©s ATPC impliquÃ©es et en                                                        auxquelles sont ajoutÃ©es les observations indÃ©pendantes et&#13;
+    utilisant les rÃ©sultats, de recommander des mesures de soutien                                         les enquÃªtes dâ&#128;&#153;opinion.&#13;
+    aux gouvernements de district et de province. Les&#13;
+    recommandations comprendront la possibilitÃ© de crÃ©er une                                               En se fondant sur lâ&#128;&#153;expÃ©rience du projet acquise Ã  ce jour,&#13;
+    demande institutionnelle interne et des mesures incitatives                                            un systÃ¨me de suivi au niveau national peut Ãªtre nÃ©cessaire&#13;
+    facilitant la transmission rÃ©guliÃ¨re des donnÃ©es de vÃ©rification                                       au maintien de lâ&#128;&#153;intÃ©rÃªt des institutions gouvernementales&#13;
+    SDAL des districts vers la province (et ensuite au niveau                                              de Java Est pour ce type de suivi et assurer la collecte&#13;
+    national), peut-Ãªtre dans un intervalle de trois ou six mois.                                          systÃ©matique des donnÃ©es relatives aux comportements&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+x                                                                                                                                 Intensifier lâ&#128;&#153;Assainissement Ã  lâ&#128;&#153;Echelle Mondiale&#13;
+&amp;#12;GÃ©rer le flux&#13;
+Managing      dâ&#128;&#153;informations&#13;
+            the              relatives&#13;
+                Flow of Monitoring      au suivi    AmÃ©liorer&#13;
+                                    Information     CapturingCollecte et Transmission&#13;
+                                                              and Sharing  Information des donnÃ©es&#13;
+                                                                                       to Monitor Progress&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+tels que lâ&#128;&#153;atteinte du statut SDAL au niveau du village.                                              suivi est essentiel et doit faire partie intÃ©grante dâ&#128;&#153;un plan&#13;
+Pour atteindre cet objectif, le WSP a menÃ© un plaidoyer                                               national de dÃ©veloppement des capacitÃ©s en matiÃ¨re&#13;
+politique conduisant au lancement dâ&#128;&#153;une StratÃ©gie                                                     dâ&#128;&#153;assainissement en milieu rural&#13;
+nationale de pointe dâ&#128;&#153;assainissement total Ã  base&#13;
+communautaire (CBTS) , qui a suscitÃ© lâ&#128;&#153;intÃ©rÃªt des autres                                             Une percÃ©e potentielle est venue sous la forme dâ&#128;&#153;une&#13;
+programmes Ã  grande Ã©chelle dans la reprise des approches                                             INPRES (Instruction prÃ©sidentielle) rendue publique en&#13;
+introduites par le projet dâ&#128;&#153;assainissement total et le                                                2010. Dans cette INPRES, le PrÃ©sident indonÃ©sien a&#13;
+marketing de lâ&#128;&#153;assainissement (ATMA). Le dÃ©fi suivant                                                 demandÃ© Ã  tous les MinistÃ¨res concernÃ©es dâ&#128;&#153;assurer le suivi&#13;
+consiste Ã  mettre au point des systÃ¨mes et mÃ©canismes au                                              des progrÃ¨s accomplis vers lâ&#128;&#153;atteinte des OMD, notamment&#13;
+niveau national visant Ã  renforcer lâ&#128;&#153;engagement du                                                    ceux relatifs Ã  lâ&#128;&#153;assainissement. Le progrÃ¨s accomplis servent&#13;
+gouvernement local Ã  traduire dans les faits la stratÃ©gie                                             dâ&#128;&#153;indicateurs de performance pour les ministÃ¨res concernÃ©s.&#13;
+CBTS. En IndonÃ©sie, le gouvernement central a exprimÃ©                                                 La responsabilitÃ© pour ce qui des objectifs relatifs Ã &#13;
+sa volontÃ© de mettre sur pied un systÃ¨me de suivi par SMS                                             lâ&#128;&#153;assainissement incombe au ministÃ¨re de la santÃ©. Le&#13;
+pour tous les cinq piliers CBTS (Ã©limination des                                                      ministre de la santÃ© a demandÃ© Ã  tous les gouverneurs de&#13;
+dÃ©fÃ©cations en plein air, le lavage des mains avec du savon,                                          province de prÃ©senter des rapports bimensuels, et par voie&#13;
+manipulation saine des aliments, la manipulation saine de                                             de consÃ©quence, les Bupatis sont tenus de dÃ©clarer les&#13;
+lâ&#128;&#153;eau potable, lâ&#128;&#153;Ã©limination sans risque des dÃ©chets                                                  donnÃ©es relatives au suivi de leur circonscription tous les&#13;
+domestiques solides et liquides), mais les capacitÃ©s nâ&#128;&#153;ont                                            deux mois. Une telle demande au niveau national va&#13;
+pas encore Ã©tÃ© dÃ©veloppÃ©es. Le gouvernement national                                                  contribuer Ã  focaliser lâ&#128;&#153;attention du Bupatis sur le suivi&#13;
+reconnaÃ®t que le renforcement des capacitÃ©s en matiÃ¨re le                                             rÃ©gulier de lâ&#128;&#153;accÃ¨s Ã  un assainissement amÃ©liorÃ©.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+www.wsp.org&#13;
+                                                                                                                                                                       xi&#13;
+&amp;#12;      GÃ©rer le flux&#13;
+      Managing      dâ&#128;&#153;informations&#13;
+                  the              relatives&#13;
+                      Flow of Monitoring                   Recueillir Collecte&#13;
+                                              au suivi    AmÃ©liorer&#13;
+                                          Information     Capturing   et Partager&#13;
+                                                                       and     et Transmission&#13;
+                                                                           Sharingles informations&#13;
+                                                                                    Information des  donnÃ©es&#13;
+                                                                                                to afin dâ&#128;&#153;assurer&#13;
+                                                                                                   Monitor        le suivi des progrÃ¨s accomplis&#13;
+                                                                                                             Progress&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+        FIGURE 8: REFERENCIATION DES PERFORMANCES DU PROGRAMME DE DISCTICT A JAVA EST (2009)&#13;
+        Les programmes dâ&#128;&#153;assainissement du district sont notÃ©s sur dix indicateurs de&#13;
+        processus dans un rapport annuel dâ&#128;&#153;Ã©valuation comparative. Cinq indicateurs                                                                           10          10&#13;
+        servent Ã  Ã©valuer les rÃ©sultats, tandis que les cinq autres servent Ã  Ã©valuer le&#13;
+        processus. Cette visualisation met en lumiÃ¨re, Ã  vu dâ&#128;&#153;Å&#147;il, les zones de haute et                                                             10                             10&#13;
+        faible performance. Le WSP et le gouvernement provincial ont compilÃ© et prÃ©sentÃ©&#13;
+        ces rÃ©sultats au cours des Revues annuelle dâ&#128;&#153;apprentissage des parties prenantes&#13;
+        en 2009 et 2010, suscitant parmi les intervenants venant de tous les districts, un                                                         10                                    10&#13;
+        esprit dâ&#128;&#153;Ã©mulation, et produisant de riches Ã©changes de connaissances et de&#13;
+        discussions fructueuses par rapport Ã  la voie Ã  suivre dans le futur.                                                                                                          5&#13;
+                                                                                                                                                        15                         5&#13;
+        A droite, le coefficient de pondÃ©ration comparatif pour chacun des 10&#13;
+        indicateurs. Note: Deux indicateurs de processus (liÃ©s Ã  lâ&#128;&#153;amÃ©lioration en                                                                                     15&#13;
+        approvisionnement) nâ&#128;&#153;ont pu Ãªtre mesurÃ©s en 2009. Ainsi, le graphique&#13;
+        du haut ressort les scores pour huit des 10 indicateurs possibles&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                         LÃ©gende&#13;
+&#13;
+                                                                                      AccÃ¨s Ã  l'assainissement gagnÃ© par Rp. Programme d'investissement 1M&#13;
+                                                                                      CoÃ»t du programme par statut SDAL atteint&#13;
+                                                             RÃ©sultats                Investissement des mÃ©nages mobilisÃ© par Rp. Programme d'investissement 1M&#13;
+                                                                                      Populations additionnelles ayant accÃ¨s aux installations sanitaires amÃ©liorÃ©es&#13;
+                                                                                      Nombre de communautÃ© ayant obtenu le statut SDAL au cours de l'annÃ©e&#13;
+                     90                                                               de mise en Å&#147;uvre&#13;
+                                                                                      Nombre de communautÃ©s impliquÃ©es&#13;
+                     80                                     Processus                 Budget d'assainissement du district utilisÃ© pour des activitÃ©s ne comportant&#13;
+                                                                                      pas de construction&#13;
+                                                                                      Budget d'assainissement du district allouÃ© par mÃ©nage non desservi&#13;
+                     70&#13;
+                                                                                   - Nombre de maÃ§ons formÃ©s par sous-district proposant les options â&#128;&#156;WC- kusehatâ&#128;?&#13;
+                     60                                                            - Nombre de fournisseurs par sous-district vendant/faisant la promotion&#13;
+                                                                                     des options â&#128;&#156;WC-ku sehat&#13;
+&#13;
+                     50&#13;
+             Score&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                     40&#13;
+&#13;
+&#13;
+                     30&#13;
+&#13;
+&#13;
+                     20&#13;
+&#13;
+&#13;
+                     10&#13;
+&#13;
+&#13;
+                     0&#13;
+                            Je lan&#13;
+                             m o&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                     Ba ow o&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                              on n&#13;
+                            ng g&#13;
+                            n an&#13;
+                         rn jang&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                           Ng tan&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                            Pa ng&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                            uw o&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                            M rjo&#13;
+                                       g&#13;
+                             Ke o&#13;
+                          jo iun&#13;
+                              b n&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                      Bo jok r&#13;
+                          M ggo&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                              T k&#13;
+&#13;
+&#13;
+                             Ng n&#13;
+                            su p&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                             G gi&#13;
+                         en go&#13;
+&#13;
+                            ol k&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                        Jo uan&#13;
+                             m k&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                          ng ng&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                            M tar&#13;
+                               Bl i&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                           Si iri&#13;
+                           o be&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                   aw&#13;
+                         Sa ond&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                       La uba&#13;
+                         nd ert&#13;
+                        Ba pan&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                     si&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                      r&#13;
+                        ny os&#13;
+                        Si ita&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                   an&#13;
+                        ob ale&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                   ga&#13;
+                        Pa ene&#13;
+                        Su ju&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                  an&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                 go&#13;
+                        Po as&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                   d&#13;
+                                   u&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                   a&#13;
+                                ka&#13;
+                       Tr oro&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                  a&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                 re&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                      Bo ad&#13;
+                                   i&#13;
+                                  e&#13;
+                               an&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                m&#13;
+                                c&#13;
+                              ag&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                              do&#13;
+&#13;
+                               al&#13;
+                               in&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                 r&#13;
+                     Tu mb&#13;
+                                a&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                      Pr gg&#13;
+&#13;
+&#13;
+                             ag&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                             ne&#13;
+                            ek&#13;
+                     m&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                           tu&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                           m&#13;
+                 Lu&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                        M&#13;
+                       lu&#13;
+                     Pa&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                     Districts&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+xii                                                                                                                                                Intensifier lâ&#128;&#153;Assainissement Ã  lâ&#128;&#153;Echelle Mondiale&#13;
+&amp;#12;â&#128;&#130;&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+VII.                 .&#13;
+                         SynthÃ¨se des enseignements ClÃ©s&#13;
+&#13;
+&#13;
+Mesurer et assurer le suivi des rÃ©sultats obtenus par tous les   pÃ©riodique Ã  partir des cartographies sociales, et les utiliser&#13;
+niveaux dâ&#128;&#153;intervenants constitue la clÃ© en vue de lâ&#128;&#153;atteinte     dans la gestion et lâ&#128;&#153;amÃ©lioration de la mise en Å&#147;uvre du&#13;
+des objectifs. Les organismes chargÃ©s de la mise en Å&#147;uvre        programme dâ&#128;&#153;assainissement.&#13;
+nâ&#128;&#153;assurent traditionnellement que le suivi des intrants et&#13;
+rÃ©sultats, tout en laissant la mesure des rÃ©sultats dâ&#128;&#153;aprÃ¨s-     Les communautÃ©s sont capables de gÃ©nÃ©rer des donnÃ©es&#13;
+projet aux Ã©tudes dâ&#128;&#153;Ã©valuation externe. Il se trouve quâ&#128;&#153;il       de suivi de haute qualitÃ© conformes aux indicateurs du&#13;
+sâ&#128;&#153;agit-lÃ  dâ&#128;&#153;un moyen particuliÃ¨rement couteux de se rendre       Programme Conjoint de Surveillance. A Java Est , lâ&#128;&#153;Ã©quipe&#13;
+compte trop tard que les objectifs nâ&#128;&#153;ont souvent Ã©tÃ© pas         de mise en Å&#147;uvre du projet utilise la terminologie locale et&#13;
+atteints. Le TSSM a choisi, par consÃ©quent, de combiner le       des descriptions des termes assainissement Â«amÃ©liorÃ©Â» et&#13;
+programme mis en Å&#147;uvre avec le suivi des progrÃ¨s par             Â«non amÃ©liorÃ©Â» conformes aux indicateurs contenues dans&#13;
+rapport aux rÃ©sultats escomptÃ©s en: a) dÃ©finissant les           le Programme Conjoint de Surveillance appliquÃ© Ã  lâ&#128;&#153;Ã©chelle&#13;
+rÃ©sultats escomptÃ©s sous une forme facilement mesurable          mondiale Ceci contribue Ã  sensibiliser davantage le public&#13;
+(par exemple, lâ&#128;&#153;Ã©limination des dÃ©fÃ©cations en plein air au      sur ce qui diffÃ©rencie installations sanitaires amÃ©liorÃ©e et&#13;
+sein dâ&#128;&#153;une communautÃ©, ou lâ&#128;&#153;accÃ¨s Ã  un assainissement            non-amÃ©liorÃ©e. Les lÃ©gendes de la cartographie sociale&#13;
+amÃ©liorÃ© pour 100% des mÃ©nages Ã  travers lâ&#128;&#153;autofinancement)      permettent de diffÃ©rencier les deux, et de pousser les gens Ã &#13;
+et b) impliquant les groupes clÃ©s de parties prenantes           vouloir passer des installations existantes Ã  de versions&#13;
+(communautÃ©s participantes, le personnel du gouvernement         â&#128;&#156;amÃ©liorÃ©esâ&#128;? plus sÃ»res et plus saines.&#13;
+local, les fournisseurs de services dâ&#128;&#153;assainissement) dans le&#13;
+suivi des progrÃ¨s y affÃ©rent.                                    Le transfert de donnÃ©es manuel des cartographies&#13;
+                                                                 communautaires vers les bases de donnÃ©es du&#13;
+Rendre le suivi entiÃ¨rement public et transparent permet         gouvernement local devient lourd lorsquâ&#128;&#153;on passe Ã  des&#13;
+de catalyser lâ&#128;&#153;action de la communautÃ© en faveur dâ&#128;&#153;un            programmes Ã  grande Ã©chelle. Pour assurer le suivi des&#13;
+changement de comportement collectif Ã  Ã©chÃ©ance bien             progrÃ¨s, le personnel du gouvernement local effectue des&#13;
+dÃ©terminÃ©e. Le suivi participatif utilisant des cartographies    visites au sein des communautÃ©s sur une base mensuelle afin&#13;
+sociales qui sont Ã©tablies et rÃ©guliÃ¨rement mises Ã  jour par     de recueillir les donnÃ©es et observer les progrÃ¨s. A Java Est,&#13;
+les membres de la communautÃ© peut servir au suivi mensuel        cependant, le nombre de communautÃ©s impliquÃ©es&#13;
+des changements des comportements intervenus dans le             nÃ©cessitant un suivi mensuel se chiffre en milliers en deux&#13;
+domaine de lâ&#128;&#153;assainissement Ã  lâ&#128;&#153;Ã©chelle de la communautÃ©         ans. Le transfert manuel des donnÃ©es est devenu ardu.&#13;
+ainsi que sâ&#128;&#153;agissant de lâ&#128;&#153;accÃ¨s Ã  un assainissement amÃ©liorÃ©.    Depuis novembre 2009, la transmission des rapports relatifs&#13;
+Lâ&#128;&#153;utilisation dâ&#128;&#153;une approche publique, visuelle, que tout le     aux progrÃ¨s vers le sous-district et les niveaux plus Ã©levÃ©s&#13;
+monde dans le village peut voir et vÃ©rifier les progrÃ¨s          sâ&#128;&#153;est faite au moyen de tÃ©lÃ©phones mobiles vers une base de&#13;
+accomplis par chaque mÃ©nage individuel, rue, quartier, ou        donnÃ©es informatisÃ©e. Cet Ã©tat de choses a grandement&#13;
+hameau. La communautÃ© est motivÃ©e par rapport Ã  lâ&#128;&#153;atteinte       amÃ©liorÃ© le flux de donnÃ©es partant de la communautÃ© vers&#13;
+du statut SDAL dÃ¨s que possible, couronnÃ©e par des               le sous-district et les niveaux plus Ã©levÃ©s. Une formation&#13;
+rÃ©compenses immÃ©diates comme une plus grande confiance           visant Ã  rendre opÃ©rationnelle la transmission des donnÃ©es&#13;
+en soi et une reconnaissance prestigieuse de la part des         sur une base mensuelle par message texte est prÃ©vue dans&#13;
+gouvernements locaux et des villages voisins. Les bases de       tous les districts. Des visites de terrain et la vÃ©rification&#13;
+donnÃ©es gouvernementales doivent seulement recueillir et         SDAL basÃ©e sur lâ&#128;&#153;observation par les Ã©quipes locales servent&#13;
+consolider les donnÃ©es communautaires de maniÃ¨re                 au recoupement des donnÃ©es transmises par tÃ©lÃ©phone.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+www.wsp.org&#13;
+                                                                                                                                   xiii&#13;
+&amp;#12;      Managing the Flow of Monitoring Information SynthÃ¨se des enseignements ClÃ©s&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+      les gens Ã  vouloir passer des installations existantes Ã  de                   nÃ©cessaires, mais elles courent le risque dâ&#128;&#153;Ãªtre corrompues si&#13;
+      versions â&#128;&#156;amÃ©liorÃ©esâ&#128;? plus sÃ»res et plus saines.                              elles sont entiÃ¨rement gÃ©rÃ©es en interne. Une Ã©valuation&#13;
+                                                                                    basÃ©e sur des mesures incitatives externes, venant dâ&#128;&#153;une&#13;
+      Le transfert de donnÃ©es manuel des cartographies                              tierce partie peuvent Ãªtre plus efficaces que les celles en&#13;
+      communautaires vers les bases de donnÃ©es du                                   interne. Dans cette optique, le WSP a appuyÃ© en 2008, une&#13;
+      gouvernement local devient lourd lorsquâ&#128;&#153;on passe Ã  des                        collaboration avec The Java Post, le plus grand rÃ©seau de&#13;
+      programmes Ã  grande Ã©chelle. Pour assurer le suivi des                        communication de Java Est, dâ&#128;&#153;intÃ©grer la performance du&#13;
+      progrÃ¨s, le personnel du gouvernement local effectue des                      programme dâ&#128;&#153;assainissement dans les critÃ¨res dâ&#128;&#153;Ã©valuation&#13;
+      visites au sein des communautÃ©s sur une base mensuelle                        dâ&#128;&#153;auto-gouvernance du district. Jawa Post Institut Pro-&#13;
+      afin de recueillir les donnÃ©es et observer les progrÃ¨s. A Java                Otonomi (PJPI) est une fondation du rÃ©seau de&#13;
+      Est, cependant, le nombre de communautÃ©s impliquÃ©es                           communication qui mÃ¨ne des Ã©valuations annuelles&#13;
+      nÃ©cessitant un suivi mensuel se chiffre en milliers en deux                   comprenant des enquÃªtes auprÃ¨s du public, lâ&#128;&#153;analyse des&#13;
+      ans. Le transfert manuel des donnÃ©es est devenu ardu.                         donnÃ©es du programme et des observations. Les indicateurs&#13;
+      Depuis novembre 2009, la transmission des rapports                            dâ&#128;&#153;Ã©valuation du PJPI sont les mÃªmes que les indicateurs de&#13;
+      relatifs aux progrÃ¨s vers le sous-district et les niveaux plus                rÃ©sultats et de performance du projet Intensifier&#13;
+      Ã©levÃ©s sâ&#128;&#153;est faite au moyen de tÃ©lÃ©phones mobiles vers une                    lâ&#128;&#153;Assainissement en Milieu Rural Ã  lâ&#128;&#153;Echelle Mondiale. Le&#13;
+      base de donnÃ©es informatisÃ©e. Cet Ã©tat de choses a                            prestigieux prix PJPI a suscitÃ© lâ&#128;&#153;intÃ©rÃªt et plus de&#13;
+      grandement amÃ©liorÃ© le flux de donnÃ©es partant de la                          responsabilisation par rapport aux performances du&#13;
+      communautÃ© vers le sous-district et les niveaux plus Ã©levÃ©s.                  programme dâ&#128;&#153;assainissement parmi les responsables&#13;
+      Une formation visant Ã  rendre opÃ©rationnelle la                               politiques et administratifs dans les districts de Java Est.&#13;
+      transmission des donnÃ©es sur une base mensuelle par&#13;
+      message texte est prÃ©vue dans tous les districts. Des visites                 La viabilitÃ© Ã  long terme dâ&#128;&#153;un SIG relatif Ã &#13;
+      de terrain et la vÃ©rification SDAL basÃ©e sur lâ&#128;&#153;observation                    lâ&#128;&#153;assainissement nÃ©cessite lâ&#128;&#153;obtention de telles donnÃ©es&#13;
+      par les Ã©quipes locales servent au recoupement des donnÃ©es                    Ã  partir des systÃ¨mes nationaux. Lâ&#128;&#153;institutionnalisation&#13;
+      transmises par tÃ©lÃ©phone.                                                     dâ&#128;&#153;un SIG national relatif Ã  lâ&#128;&#153;assainissement qui requiert&#13;
+                                                                                    rÃ©guliÃ¨rement et catÃ©goriquement des donnÃ©es au niveau&#13;
+      Les mesures incitatives dâ&#128;&#153;ordre institutionnel sont                           du district Ã  la fois sur lâ&#128;&#153;accÃ¨s Ã  assainissement amÃ©liorÃ©&#13;
+      nÃ©cessaires au suivi aisÃ© et rÃ©gulier du flux des donnÃ©es.                    (dÃ©finitions PCS), les nombre et la proportion de&#13;
+      Si le dÃ©sir dâ&#128;&#153;obtenir le statut SDAL sert de stimulant au                     communautÃ©s SDAL par rapport au nombre total des&#13;
+      suivi de la part de la communautÃ©, le gouvernement local et                   communautÃ©s dans le district constitue un prÃ©alable&#13;
+      les organismes impliquÃ©s dans le suivi doivent Ãªtre motivÃ©s                   essentiel pour un suivi durable. Le dÃ©cret prÃ©sidentiel&#13;
+      par dâ&#128;&#153;autres moyens. Les mesures incitatives dâ&#128;&#153;ordre                          dâ&#128;&#153;aoÃ»t 2010 (voir article 8, dernier paragraphe) pourrait&#13;
+      institutionnel en faveur dâ&#128;&#153;un suivi rÃ©gulier et fiable sont                   ouvrir les portes Ã  la mise sur pied dâ&#128;&#153;un tel SIG.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+xiv                                                                                                        Intensifier lâ&#128;&#153;Assainissement Ã  lâ&#128;&#153;Echelle Mondiale&#13;
+&amp;#12;</ml:original-txt><ml:search-metadata><doc id="16662555">
+        <url>
+            http://documents.worldbank.org/curated/en/2010/12/16662555/managing-flow-monitoring-information-improve-rural-sanitation-east-java-gestion-du-flux-dinformations-relatives-au-suivi-dans-le-dameliorer-lassainissement-en-milieu-rural-java-est
+        </url>
+        <availablein>English,French</availablein>
+        <fullavailablein>
+            <available_in lang="English" entityid="000334955_20101220071309" node_id="16662555"/>
+        </fullavailablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2010/12/16662555/managing-flow-monitoring-information-improve-rural-sanitation-east-java-gestion-du-flux-dinformations-relatives-au-suivi-dans-le-dameliorer-lassainissement-en-milieu-rural-java-est</url_friendly_title>
+        <new_url>2010/12/16662555/managing-flow-monitoring-information-improve-rural-sanitation-east-java-gestion-du-flux-dinformations-relatives-au-suivi-dans-le-dameliorer-lassainissement-en-milieu-rural-java-est</new_url>
+        <disclosure_date>2012-08-31T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2012-08-31T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2012/08/31/000333037_20120831002044/Rendered/INDEX/585540WP0FRENC00WSP0Gestion0du0flux.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2012/08/31/000333037_20120831002044/Rendered/PDF/585540WP0FRENC00WSP0Gestion0du0flux.pdf</pdfurl>
+        <docdt>2010-12-01T00:00:00Z</docdt>
+        <datestored>2012-08-31T00:00:00Z</datestored>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            Managing the flow of monitoring information
+            to improve rural sanitation in East Java
+        </repnme>
+        <abstracts>
+            Global scaling up rural sanitation is a
+            Water and Sanitation Program (WSP) project currently being
+            implemented in India, Indonesia, and Tanzania. Working with
+            local governments and the private sector in 29 districts of
+            East Java province in Indonesia, WSP's approach
+            combines generating demand from local governments prior to
+            initiating project interventions and demand from consumers
+            for improved sanitation facilities and behaviors prior to
+            making a greater range of sanitation products and services
+            available through local markets. This demand responsive
+            approach combines Community-Led Total Sanitation (CLTS),
+            behavior change communication, and sanitation marketing
+            approaches to help villages become open defecation free
+            (ODF). At the end of the third year of project
+            implementation, household access to sanitation is growing at
+            rates hitherto never seen in rural sanitation projects in
+            Indonesia. On average, one-third of all triggered
+            communities have become ODF within a year. However, across
+            districts, varying levels of progress have been achieved
+            depending on the extent of political support garnered,
+            implementation capacity developed, and the
+            cost-effectiveness of interventions undertaken. However,
+            during 2009 the project team observed that while monitoring
+            data was being generated regularly in the communities, much
+            of this data was not reaching sub-district, district, or
+            higher levels for regular consolidation. With the number of
+            triggered communities running into the thousands in East
+            Java, it had become too labor and time intensive for
+            government outreach staff to collect data manually from each
+            triggered community on a monthly basis. In response to this
+            challenge, a community-based participatory outcome
+            monitoring system was developed.
+        </abstracts>
+        <docna>
+            Gestion du flux d'informations
+            relatives au suivi dans le but d'ameliorer
+            l'assainissement en milieu rural a Java-Est
+        </docna>
+        <display_title>Managing the flow of monitoring
+            information to improve rural sanitation in East Java :
+            Gestion du flux d'informations relatives au suivi dans
+            le but d'ameliorer l'assainissement en milieu
+            rural a Java-Est</display_title>
+        <listing_relative_url>/research/2010/12/16662555/managing-flow-monitoring-information-improve-rural-sanitation-east-java-gestion-du-flux-dinformations-relatives-au-suivi-dans-le-dameliorer-lassainissement-en-milieu-rural-java-est</listing_relative_url>
+        <subtopic>Health Monitoring &amp; Evaluation,Hygiene Promotion and Social Marketing,Housing &amp; Human Habitats,Urban Water Supply and Sanitation,E-Business</subtopic>
+        <docty>UNDP-Water &amp; Sanitation Program</docty>
+        <teratopic>Private Sector Development,Water Supply and Sanitation,Health, Nutrition and Population,Communities and Human Settlements</teratopic>
+        <count>Indonesia</count>
+        <authors>
+            <author>Mukherjee, Nilanjana</author>
+            <author>Wartono, Djoko</author>
+            <author>Robiarto, Amin</author>
+        </authors>
+        <geo_region_mdks>
+            <geo_region_mdk>World!$!80475</geo_region_mdk>
+            <geo_region_mdk>Asia!$!80451</geo_region_mdk>
+            <geo_region_mdk>Southeast Asia!$!80471</geo_region_mdk>
+        </geo_region_mdks>
+        <entityids>
+            <entityid>000333037_20120831002044</entityid>
+        </entityids>
+        <admreg>East Asia and Pacific,East Asia and Pacific</admreg>
+        <colti>Water and sanitation program working paper ; WSP</colti>
+        <lang>French</lang>
+        <historic_topic>Private Sector Development,Water Supply and Sanitation,Health, Nutrition and Population,Communities and Human Settlements</historic_topic>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            access to sanitation, access to water,
+            action plan, behavior change, budget allocation, budget
+            allocations, capability, capacity building, cell phones,
+            communities, community access, community action, Community
+            Development, cost effectiveness, Data Analysis, data entry,
+            data transfer, demand for sanitation, description,
+            districts, drains, dry pit, environmental health, excreta
+            disposal, exercises, flush latrine, government funding,
+            graphics, hand washing, hands after defecation, handwashing,
+            hardware, Health Services, holistic approach, household
+            access, Household Latrines, household sanitation, household
+            waste, households, human excreta, human waste, hygiene,
+            hygiene behavior, image, Implementing agencies, Information
+            System, innovations, institutional capacity,
+            institutionalization, intervention, interventions, knowledge
+            products, lan, latrine, marketing, material, mobile phone,
+            mobile phones, monitoring mechanism, monitoring mechanisms,
+            neighborhood, performance indicator, performance indicators,
+            phone, phone numbers, photo, pit contents, pit latrine,
+            private sector, Public Works, reliability, result, results,
+            rural areas, safe disposal, safe drinking water, safe
+            practices, safety, SANITATION, sanitation access, sanitation
+            activities, sanitation coordination committee, sanitation
+            facilities, sanitation facility, SANITATION PROGRAM,
+            sanitation service, sanitation services, school sanitation,
+            search, service providers, sites, soap, targets, technical
+            support, toilet, Toilets, user, users, uses, ventilation,
+            Verification, verifications, village communities, village
+            level, villages, Wash hands with soap, washing, washing
+            hands, water seal, water source, water sources, water supply
+        </keywd>
+        <owner>Water - Water &amp; Sant. Prgrm-EAP (GWASE)</owner>
+        <geo_regions>
+            <geo_region>World</geo_region>
+            <geo_region>Asia</geo_region>
+            <geo_region>Southeast Asia</geo_region>
+        </geo_regions>
+        <repnb>58554</repnb>
+        <alt_title>
+            Gestion du flux d'informations
+            relatives au suivi dans le but d'ameliorer
+            l'assainissement en milieu rural a Java-Est
+        </alt_title>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>Water Resources</ml:concept><ml:concept>Water</ml:concept><ml:concept>Health, Nutrition and Population</ml:concept><ml:concept>Health Monitoring and Evaluation</ml:concept><ml:concept>Water and Sanitation</ml:concept><ml:concept>Demographics</ml:concept><ml:concept>Health Monitoring &amp; Evaluation</ml:concept><ml:concept>Water Supply and Sanitation</ml:concept><ml:concept>Population</ml:concept></ml:concepts><ml:geo-regions><ml:geo-region>Asia</ml:geo-region><ml:geo-region>Eastern Asia</ml:geo-region><ml:geo-region>Indonesia</ml:geo-region></ml:geo-regions></ml:annotations></ml:doc-envelope>

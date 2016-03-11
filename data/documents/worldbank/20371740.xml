@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>                                                                                                            92587&#13;
+&#13;
+     Capacity Development&#13;
+                                                                    briefs&#13;
+            S h a r i n g      k n o w l e d g e          a n d    L e ss o n s          L e a r n e d&#13;
+&#13;
+&#13;
+&#13;
+Strengthening Networks: Using Organizational Network&#13;
+Analysis to Promote Network Effectiveness, Scale,&#13;
+and Accountability&#13;
+By Evan Bloom, Matt Reeves, Amy Sunseri, and Veronica Nyhan-Jones&#13;
+&#13;
+&#13;
+   Networks are emerging as an important delivery mechanism for sustainable development; however, reli-&#13;
+   able network diagnostics are necessary to ensuring accountability and quality to donors and stakehold-&#13;
+   ers and to monitoring, evaluating, and learning from networks. In this brief, the authors examine cur-&#13;
+   rent practice around networks for development. They describe â&#128;&#156;organizational network analysis,â&#128;&#157; a tool&#13;
+   applied by Pactâ&#128;&#153;s Capacity Building Services Group1 in multiple international settings, which can help&#13;
+   identify opportunities and improve network effectiveness. The authors conclude by emphasizing that a&#13;
+   networked approach can provide innovative solutions to todayâ&#128;&#153;s development challenges.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+  Around the world, donors and nongovernmental             costs, risks, and benefits associated with network sup-&#13;
+organizations (NGOs) are choosing to pursue their          port activities.&#13;
+missions through networks of long-term partners. This        WBIâ&#128;&#153;s multidimensional approach to poverty reduction&#13;
+is an acknowledgement of the power in numbers: a           has emphasized networked information and knowledge&#13;
+single person or organization does not have access to      as a means of building more effective institutions and&#13;
+the same information, skills, or resources that a group    an enabling environment for concrete development&#13;
+of people or organizations do working together. When       results (World Bank, 2001). A 2007 stocktaking of WBI&#13;
+a networked approach is successful, the payoffs can be     interventions identified 32 initiatives delivered through&#13;
+impressive, connecting people for knowledge sharing,       networks. Networked approaches to development are&#13;
+improving service quality, and deepening development       employed by all WBI sector teams and are operating in&#13;
+outcomes.2 In some cases, connecting local resources       all regions of the world.&#13;
+through networks may also be vital for sustainability        Despite the rise in networked approaches to devel-&#13;
+and avoiding donor dependency.                             opment within WBI, a degree of confusion and&#13;
+  Despite this enormous potential, however, an honest&#13;
+assessment of current practice must acknowledge that&#13;
+                                                            1&#13;
+practitioners and donors have limited understanding of          Pact is an international NGO, whose mission is to build&#13;
+how networks operate. This is particularly challenging     empowered communities, effective governments, and responsible&#13;
+                                                           private institutions that give people an opportunity for a better&#13;
+due to the difficulties of evaluating the frequency and    life. Pact does this by strengthening the capacity of organiza-&#13;
+quality of interactions that are often invisible.          tions and institutions to be good service providers, represent their&#13;
+  As the dialogue on networking for development            stakeholders, network with others for learning and knowledge&#13;
+intensifies and reaches deeper levels of understanding,    sharing, and advocate for social, economic, and environmental&#13;
+institutions are beginning to seek tools that can help     justice. Interdependence, responsible stewardship, inclusion of&#13;
+                                                           vulnerable groups, and respect for local ownership and knowledge&#13;
+to provide baselines, monitor, and evaluate networks,      are core values across all of its programs.&#13;
+as well as tools that improve network effectiveness.          2&#13;
+                                                                Engel, Keijzer, and Ã&#152;rnemark (2006), who summarize the&#13;
+To this end, Pact supported team leaders at the World      arguments of Creech and Willard (2001) and Nunez and Wilson-&#13;
+Bank Institute (WBI) to ask hard questions on the          Grau (2003). See also Liebler and Ferri (2004).&#13;
+&#13;
+&#13;
+&#13;
+       AUGUST 2008&#13;
+       NUMBERâ&#128;&#130; 28&#13;
+&amp;#12;  Types of Networks&#13;
+&#13;
+  Many networks defy easy categorization, as they tend to fulfill multiple roles. The ambiguity of the term â&#128;&#156;networkâ&#128;&#157; makes it dif-&#13;
+  ficult to pin down its precise meaning. It could mean friends, large organizations, routers along the backbone of the Internet, or&#13;
+  as network researcher Duncan Watts points out, neurons firing in the brain. Here is a list of network types of particular interest&#13;
+  to capacity building for development:&#13;
+&#13;
+  â&#128;¢	 Representative networks are the most formal type of network associated with WBI work. These are often legally recognized,&#13;
+     bounded groups of similar organizations or individuals that coordinate to take advantage of scale. Examples of representative&#13;
+     networks include chambers of commerce, InterAction, and the American Medical Association.&#13;
+  â&#128;¢	 Action networks are groups of organizations and/or individuals that coordinate in order to achieve a strategic goalâ&#128;&#148;be it to&#13;
+     scale up learning, providen services, or advocate on a policy issue. Action networks often include diverse groups of organiza-&#13;
+     tions and/or individuals. Examples of action networks include the Affiliated Network for Social Accountability (ANSA)-Africa,&#13;
+     Net Impact, and the Impact Alliance.&#13;
+  â&#128;¢	 Knowledge exchange and social networks are the most informal type of network for capacity development. These networks are&#13;
+     primarily trust based and are intended to increase an individualâ&#128;&#153;s â&#128;&#156;social capitalâ&#128;&#157; by facilitating connections, diffusing infor-&#13;
+     mation, and increasing knowledge. Examples of knowledge exchange and social networks include Knowledge Management for&#13;
+     Development (KM4D), Linked-In, Facebook, and the WBI Alumni Group.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+uncertainty remains on what precisely constitutes a                   of the survey are processed using a software applica-&#13;
+network. Many sector teams are in the business of                     tion3 and are presented in network maps as nodes (the&#13;
+working through networks without realizing it. Others                 organizations or individuals) and links (flows of col-&#13;
+may understand the business of networks, but do                       laboration, resources, and so on).&#13;
+not know how to assess and capture performance.                         Network metrics generated using organizational net-&#13;
+Meanwhile, these teams may be missing out on gains                    work analysis bridge the computational skills of math-&#13;
+they could be making by applying promising network-                   ematicians and physicists with the insights of sociolo-&#13;
+strengthening practices. The first step is to make man-               gists, and economists. Each of the metrics provides&#13;
+agers and their program constituents aware of what                    deeper information about interactions across networks&#13;
+constitutes a network (see box).                                      and about key actors within networks. These include&#13;
+                                                                      the following:&#13;
+Organizational Network Analysis as a Tool for&#13;
+                                                                      â&#128;¢	   Network density, calculated by dividing the num-&#13;
+Understanding Networks and Improving Their&#13;
+                                                                           ber of links in a network by the total number of&#13;
+Effectiveness&#13;
+                                                                           links that would exist if every node were linked&#13;
+                                                                           to every other node. The higher the network den-&#13;
+  One tool that shows great promise for visualizing,                       sity, the more interconnected are the organiza-&#13;
+monitoring, and understanding networks is organi-                          tions within the network. An intervention that is&#13;
+zational network analysis (see box). This approach                         intended to build or strengthen a network would&#13;
+uses a survey to gather information on collaboration                       expect to report an increase in network density&#13;
+among organizations and/or individuals. The results                        with time.&#13;
+                                                                      â&#128;¢	   Degree scores describe the number of connec-&#13;
+                                                                           tions that an individual node has. Nodes with&#13;
+                                                                           high â&#128;&#156;degrees outâ&#128;&#157; scores are those individuals or&#13;
+  Organizational Network Analysis&#13;
+                                                                           organizations that report having large numbers of&#13;
+                                                                           links with others. These are the most active net-&#13;
+  Organizational network analysis views network relation-&#13;
+  ships in terms of nodes and links. Nodes are the individual              workers and promoters. Nodes with high â&#128;&#156;degrees&#13;
+  actors (organizations or individuals) within the network,                inâ&#128;&#157; scores are â&#128;&#156;connectorsâ&#128;&#157; that represent infor-&#13;
+  and links are the relationships between the actors.                      mation hubs considered to be of high value by&#13;
+                                                                           other actors in the network.&#13;
+                      Individual                                      â&#128;¢	   Betweenness scores describe the extent to which&#13;
+                                                                           an individual node acts as a bridge between oth-&#13;
+                                                                           erwise unconnected groups in a network. Nodes&#13;
+                                                                           with high â&#128;&#156;betweennessâ&#128;&#157; scores are powerful&#13;
+                                                                           actors with the potential to make or break overall&#13;
+                                                                           network effectivenessâ&#128;&#148;either acting as bridges or&#13;
+                                                                           bottlenecks for information and resources.&#13;
+&#13;
+&#13;
+&#13;
+        AUGUST 2008&#13;
+        NUMBERâ&#128;&#130; 28&#13;
+&amp;#12;Figure 1a: A Hub-and-Spoke Network&#13;
+                                                                                                         NGOTSU&#13;
+                                                                                                                                               SOS Children's Village&#13;
+    Zambian Service Providers&#13;
+    Zambian NGOs                                                                                                                  Chilangwa&#13;
+                                                                                                                                                        UNV                              JICA&#13;
+                                                                                                            ISTT&#13;
+    INGO                                                                      KEPA                                               MAPP&#13;
+                                                                                                                                                                                                   Care&#13;
+    Bi &amp; Multilateral                                                                                 Sunset (Mukala)                         ZAMSIF&#13;
+&#13;
+    Government                                                              YDO&#13;
+                                                                                                                                                                                    Nzelu&#13;
+                                                                                             Choma&#13;
+                                                                                             YDA                      HACOP                Swaaz&#13;
+    Other                                                    Monze Youth                                                                                                                            Children&#13;
+                                                             Development                                                                                 Plan                                       in Need&#13;
+                                                                                                         USAID                                                       Oxfam          Matoka          Network&#13;
+                                        UNDP&#13;
+                                                                                                                       Kubalusa&#13;
+                                                                                                                                              ZNAN&#13;
+                                                               ZINGO        ARHA&#13;
+                                                                                                                                                                         IDE            TEVETA&#13;
+                                                                                                                                                Changula&#13;
+                                        GTZ                                                                                         ZPHAI&#13;
+                                                             World                                                                                                   CHAZ&#13;
+                                                             Bank                                                                                                                         NAC&#13;
+                                                                              Steadfast&#13;
+                                            DFID               MISA                                                                                              DHMT&#13;
+                                                                                                           Pact&#13;
+                                                         Home Based Care&#13;
+                                                                                                                                              Solwezi&#13;
+                                 APC&#13;
+                                                                            SNV                                                                                                          DATF&#13;
+                                                      Thandizani                                                                                                     ZINGO&#13;
+                                                                                                                                 Kays Arts                           South&#13;
+                                One World                                                                                        Promotions             GFC&#13;
+&#13;
+                                                                Mansa                                                                                                                    VSO&#13;
+                                                                               Harvest Help&#13;
+                                AMARC                                                                                                       World&#13;
+                                                     Panos                                                                                  Vision&#13;
+                                                                                             ZBCA                                                          NZP+              WCRP&#13;
+                                                                                                                  Chilindi&#13;
+                                                                                              Campus              Youth Alive&#13;
+                                                             CELIM                            Crusades&#13;
+                                                                           Luumbo                                                Kawambwa&#13;
+                                                                                                                                 Anti-AIDS Club&#13;
+&#13;
+                                       Muzeyi Counselling Center                     LUFAID&#13;
+                                                                                                    Liwomadi&#13;
+                                                                                        Ministry of&#13;
+                                                                                        Education                                 Share&#13;
+                                                                         MCDSS&#13;
+&#13;
+&#13;
+&#13;
+Figure 1b: The Network without a Hub&#13;
+                                                                                                          NGOTSU&#13;
+                                                                                                                                                SOS Children's Village&#13;
+&#13;
+    Zambian Service Providers&#13;
+                                                                                                                                   Chilangwa&#13;
+    Zambian NGOs                                                                                                                                        UNV                                 JICA&#13;
+&#13;
+                                                                              KEPA                           ISTT&#13;
+                                                                                                                                  MAPP&#13;
+    INGO                                                                                                                                                                                           Care&#13;
+                                                                                                                                               ZAMSIF&#13;
+    Bi &amp; Multilateral                                                                                   Sunset (Mukala)&#13;
+&#13;
+    Government                                                                                                                                                                        Nzelu&#13;
+                                                                             YDO              Choma&#13;
+                                                                                              YDA                     HACOP                Swaaz&#13;
+                                                             Monze Youth                                                                                                                             Children&#13;
+    Other                                                                                                                                                 Plan                                       in Need&#13;
+                                                             Development                                  USAID                                                      Oxfam            Matoka         Network&#13;
+                                         UNDP&#13;
+                                                                                                                        Kubalusa&#13;
+                                                                                                                                               ZNAN&#13;
+                                                                ZINGO        ARHA&#13;
+                                                                                                                                                                         IDE             TEVETA&#13;
+                                                                                                                                                 Changula&#13;
+                                        GTZ                                                                                          ZPHAI&#13;
+                                                             World                                                                                                   CHAZ&#13;
+                                                             Bank                                                                                                                           NAC&#13;
+                                                                               Steadfast&#13;
+                                              DFID              MISA                                                                                              DHMT&#13;
+                                                         Home Based Care&#13;
+                                                                                                                                              Solwezi&#13;
+                                  APC&#13;
+                                                                             SNV                                                                                                            DATF&#13;
+                                                       Thandizani                                                                                                     ZINGO&#13;
+                                                                                                                                 Kays Arts                            South&#13;
+                                One World                                                                                        Promotions             GFC&#13;
+&#13;
+                                                                 Mansa                                                                                                                      VSO&#13;
+                                                                                 Harvest Help&#13;
+                                AMARC                                                                                                         World&#13;
+                                                     Panos                                                                                    Vision&#13;
+                                                                                              ZBCA                                                            NZP+             WCRP&#13;
+                                                                                                                   Chilindi&#13;
+                                                                                                Campus             Youth Alive&#13;
+                                                             CELIM                              Crusades&#13;
+                                                                            Luumbo                                               Kawambwa&#13;
+                                                                                                                                 Anti-AIDS Club&#13;
+&#13;
+                                        Muzeyi Counselling Center                     LUFAID&#13;
+                                                                                                     Liwomadi&#13;
+                                                                                          Ministry of&#13;
+                                                                                          Education                                Share&#13;
+                                                                           MCDSS&#13;
+&amp;#12;Figure 2a: Weak Ties among Country Office Teams&#13;
+&#13;
+&#13;
+                                       Tanzania 1&#13;
+&#13;
+                                                                              Madagascar 2               Madagascar 1&#13;
+&#13;
+&#13;
+                                                                                                                               HQ 3&#13;
+                                                                                                                                                               HQ 1&#13;
+                      Tanzania 3&#13;
+                                                   Tanzania 2                                Ecuador 1&#13;
+                                                                                                                                           Ukraine 1&#13;
+&#13;
+                                                                                                                                                                                     Nigeria 1&#13;
+                                                                                                              HQ 2&#13;
+&#13;
+                                                                                                                                          HQ 6&#13;
+&#13;
+                                                                                                                                                                                            Zambia 2&#13;
+                                                                                                                               Zambia 1&#13;
+                                   DRC 2&#13;
+                                                                DRC 1                                                                                       Cambodia 1&#13;
+                                                                                                         HQ 5&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                        HQ 4&#13;
+&#13;
+&#13;
+                                                                                                                                                                  Ethiopia 2&#13;
+                                                                                         Kenya 1&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                 Ethiopia 3&#13;
+                                                                           Kenya 3                            Kenya 4&#13;
+                                                                                                                                                                           Ethiopia 1&#13;
+                                                        Kenya 6&#13;
+&#13;
+&#13;
+                                                                                             Kenya 2&#13;
+&#13;
+                                                                                                                                          Nigeria 2&#13;
+                                                                           Kenya 5&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Figure 2b: New Links and Connections&#13;
+&#13;
+                                                                                                    Madagascar 2&#13;
+&#13;
+                                                                                                                                                           HQ 1&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                        HQ 3&#13;
+&#13;
+&#13;
+                                                                                                                                                                                    Ukraine 1&#13;
+                                                                                                                                             HQ 2&#13;
+&#13;
+&#13;
+                                                                                                         DRC 1&#13;
+                                                                                     Madagascar 1                                                          Zambia 1&#13;
+                                                                                                                                                                               Cambodia 1&#13;
+                                                                                                                                      Ecuador 1&#13;
+&#13;
+                                                                                                                                                                                                       Nigeria 1&#13;
+                                                                                                                                                    HQ 6&#13;
+                                                                                                                HQ 5&#13;
+&#13;
+                                            Tanzania 3                                                                                                                Ethiopia 2&#13;
+                                                                                                                                          Kenya 1&#13;
+&#13;
+                                                                                                    Kenya 2&#13;
+                                                                                                                           Ethiopia 3&#13;
+                                                                   DRC 2&#13;
+                                                                                                                                                              HQ 4&#13;
+         Tanzania 2&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                                               Kenya 4&#13;
+                                                                                                   Kenya 5              Kenya 3&#13;
+&#13;
+                                                                                                                                           Ethiopia 1&#13;
+&#13;
+                                                                        Tanzania 1&#13;
+&#13;
+&#13;
+                                       Nigeria 2                                                                                                               Zambia 2&#13;
+                                                                                                                 Kenya 6&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+        AUGUST 2008&#13;
+        NUMBERâ&#128;&#130; 28&#13;
+&amp;#12;â&#128;¢	   Centrality is a score for the entire network that      brokering and supporting communication among local&#13;
+     describes the extent to which the network relies on    organizations in the network. The overall network has a&#13;
+     a small number of bridging nodes for connectivity.     high centralization score, indicating that it is exception-&#13;
+     In a network with high centrality, the removal of a    ally vulnerable to the loss of its central member, Pact.&#13;
+     few key bridging nodes can lead to the breakup of         Figure 1b shows what would happen if Pact were&#13;
+     the entire network. Where centrality is lower, the     removed from this network. Without Pact, the network&#13;
+     network is less vulnerable to the loss of key actors   splinters into numerous smaller clusters, the largest of&#13;
+     and interactions are more sustainable.                 which contains only 29 participants.&#13;
+â&#128;¢	   Reach describes the percentage of a network that          Moving beyond the hub-and-spoke model requires&#13;
+     can be accessed within two steps by individual         engaging in â&#128;&#156;network weavingâ&#128;&#157; activitiesâ&#128;&#148;the cre-&#13;
+     members. The greater the reach of a node, the          ation of new interactions among isolated clusters.&#13;
+     better access it has to information and resources      Network weavers must have the vision, energy, and&#13;
+     within the network.                                    data to connect with diverse individuals and groups&#13;
+                                                            and start information flowing among local actors,&#13;
+                                                            as well as external links outside the community to&#13;
+Network Analysis and the International                      introduce new information and ideas into the network&#13;
+Development Sector                                          (Krebs and Holley, 2006).&#13;
+                                                               As a result of the Zambia organizational network&#13;
+  The application of network analysisâ&#128;&#148;for the purpose       analysis and ensuing strategic discussions with project&#13;
+of visualizing patterns of information flow and col-        stakeholders, Pact was able to redesign its program&#13;
+laboration among individuals and groupsâ&#128;&#148;is rising           there to promote greater focus on network-weaving&#13;
+among numerous corporations, including American             activities. Emphasis was placed on collaboration with&#13;
+Express, British Petroleum, IBM, McKinsey, and              participants with the greatest â&#128;&#156;betweennessâ&#128;&#157; scores.&#13;
+Microsoft. The use of organizational network analy-         This meant developing local communities of practice&#13;
+sis in international development is also increasing,        and quality circles (sharing and learning teams), host-&#13;
+including Pactâ&#128;&#153;s work in mapping and supporting net-        ing a â&#128;&#156;marketplace of innovation,â&#128;&#157; and investing in a&#13;
+works in Zambia, Malawi, Cyprus, Cambodia, Ecuador,         talent locator and referral system to link civil society&#13;
+Bolivia, and the Philippines.4                              organizations with international organizations, local&#13;
+  Pact has found that, in many networks for devel-          government, and local media.&#13;
+opment, international organizations play the role of           Another common challenge facing network weavers&#13;
+convener, distributing resources and brokering col-         is how to bridge the gaps among clusters of individu-&#13;
+laboration among local organizations. These local           als or organizations that operate in different sectors,&#13;
+organizations in turn provide services to communities       locations, and cultures. Network theory argues that&#13;
+and people in need.                                         these â&#128;&#156;weak tiesâ&#128;&#157; that span traditional boundaries can&#13;
+  In practice, these networks take a hub-and-spoke          act as powerful conduits for generating ideas, mobi-&#13;
+formâ&#128;&#148;the international organization in the center cre-      lizing resources, and scaling up promising practices&#13;
+ates strong links with local organizations around the       (Granovetter, 1973).&#13;
+periphery. Links among individual local organizations          Figure 2a shows how Pact has used organizational&#13;
+are often weak or nonexistent. Pactâ&#128;&#153;s research has          network analysis to catalyze the development of&#13;
+found this hub-and-spoke pattern repeated in numer-         boundary-spanning â&#128;&#156;weak tiesâ&#128;&#157; among country office&#13;
+ous development contextsâ&#128;&#148;including Zambia, Bolivia,         teams. The first map shows a baseline of collaboration&#13;
+and Malawiâ&#128;&#148;and sectorsâ&#128;&#148;HIV/AIDS, conservation,              among members of a global network of democracy and&#13;
+and governance.                                             governance experts. The map and its associated per-&#13;
+  Although hub-and-spoke networks are effective             formance metrics shows that much of the interaction&#13;
+delivery mechanisms for development interventions,          occurs within individual country offices. Participants&#13;
+they do not necessarily create the links among local        from Madagascar, Ethiopia, Democratic Republic of&#13;
+actors that would facilitate a sustainable network          Congo (DRC), Kenya, and in particular, Tanzania are&#13;
+beyond the life of the funded intervention. Figure 1a is    all closely clustered by country office and engage in&#13;
+an example of a hub-and-spoke network showing col-          relatively minimal interaction that spans the boundar-&#13;
+laboration among organizational participants in one of      ies among clusters.&#13;
+Pactâ&#128;&#153;s capacity development programs in Zambia. This           Headquarters (HQ) staff also play a vital role as&#13;
+particular network analysis was undertaken midway           brokers within the network, relaying knowledge and&#13;
+in a five-year program.&#13;
+  The first map shows that Pact has succeeded in con-        3&#13;
+                                                               Two commonly used organizational network analysis soft-&#13;
+necting with local organizations, facilitating the flow     ware packages are InFlow (www.orgnet.com) and UCINet (www.&#13;
+of information and resources throughout this 60-node        analytictech.com/ucinet/ucinet.htm)&#13;
+network; however, Pact also plays the central role in        4&#13;
+                                                               Bloom, Kummer, and Reeves (2006).&#13;
+&amp;#12;resources among the groupâ&#128;&#153;s diverse regions. In the          References&#13;
+most extreme case, interactions between democracy&#13;
+and governance experts in neighboring Kenya and&#13;
+                                                             Bloom, E., E. Kummer, and M. Reeves. 2006. Building&#13;
+Tanzania are brokered by the headquarters (HQ5)&#13;
+                                                                Dynamic Local Service Provider Communities: A&#13;
+node residing in Washington, D.C.&#13;
+                                                                Value Chain Approach. USAID, Office of Private and&#13;
+  By connecting country-level experts through learn-&#13;
+                                                                Voluntary Cooperation, Washington, D.C.&#13;
+ing labs and a community of practice, Pact was able to&#13;
+                                                             Creech, H. and T. Willard. 2001. Strategic Intentions:&#13;
+â&#128;&#156;weaveâ&#128;&#157; new connections into the network (see figure&#13;
+                                                                Managing Knowledge Networks for Sustainable&#13;
+2b). These new ties span geographic boundaries and&#13;
+                                                                Development. International Institute for Sustainable&#13;
+facilitate idea and resource exchange in new and pow-&#13;
+                                                                Development, Winnipeg, Canada.&#13;
+erful ways. This example both highlights the power of&#13;
+                                                             Engel, P., K. Keijzer, and C. Ã&#152;rnemark. 2006.&#13;
+organizational network analysis as a tool for under-&#13;
+                                                                Networking for Learning: the Human Face of&#13;
+standing interactions within networks, as well as the&#13;
+                                                                Knowledge Management. ECDPM Policy Management&#13;
+power of deliberate network-weaving strategies for&#13;
+                                                                Brief #18. European Center for Development Policy&#13;
+developing sustainable networks that support flows&#13;
+                                                                Management, Maastricht, Netherlands.&#13;
+of information, ideas, and resources among diverse&#13;
+                                                             Granovetter, M. S. 1973. â&#128;&#156;The Strength of Weak Ties.â&#128;&#157;&#13;
+stakeholders.&#13;
+                                                                The American Journal of Sociology 78(6): 1360â&#128;&#147;80.&#13;
+                                                             Krebs, V. and J. Holley. 2006. Building Smart&#13;
+Conclusion                                                      Communities through Network Weaving.&#13;
+                                                                http://www.orgnet.com/BuildingNetworks.pdf.&#13;
+                                                             Liebler, C. and M. Ferri. 2004. NGO Networks:&#13;
+  Innovative solutions to development problems&#13;
+                                                                Building Capacity in a Changing World. USAID,&#13;
+require adopting a network mind set. But the con-&#13;
+                                                                Office of Private and Voluntary Cooperation,&#13;
+siderable benefits of networks cannot be easily&#13;
+                                                                Washington, D.C.&#13;
+achieved without acknowledgment of the â&#128;&#156;science of&#13;
+                                                             Nunez, M. and R. Wilson-Grau. 2003. Towards a&#13;
+networksâ&#128;&#157; and the analytical power of organizational&#13;
+                                                                Conceptual Framework for Evaluating International&#13;
+network analysis. If an organization or a manager&#13;
+                                                                Social Change Networks. Monitoring and Evaluation&#13;
+has not considered the strong possibility that they&#13;
+                                                                News, Cambridge, United Kingdom.&#13;
+are already deeply affected by network dynamics,&#13;
+                                                             World Bank. 2001. World Development Report 2000â&#128;&#147;&#13;
+they are missing out on ways to improve perfor-&#13;
+                                                                01. Oxford University Press, New York, NY.&#13;
+mance and enhance sustainability. High-performing&#13;
+networks are a perennial challenge. By their very&#13;
+nature, networks require management of complex                 Peer Reviewers&#13;
+relationships and often require upfront costs that&#13;
+should ultimately yield higher returns and more                Michele de Nevers, Senior Manager, Environment&#13;
+leveraged resources in the long run. Making real               Department, The World Bank,&#13;
+inroads is possible by ensuring that managers under-           Nora Dudwick, Poverty Reduction Group,&#13;
+stand these network principles and have tools at their         The World Bank,&#13;
+disposal to meet their responsibilities as stewards of         Alexandre Marc, Acting Director, Social&#13;
+networked initiatives.                                         Development Department, The World Bank&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+ About World Bank Institute (WBI): Unleashing the Power of Knowledge to Enable a World Free of Poverty&#13;
+ The World Bank Institute (WBI) helps countries share and apply global and local knowledge to meet development&#13;
+ challenges. WBI's capacity development programs are designed to build skills among groups of individuals involved&#13;
+ in performing tasks, and also to strengthen the organizations in which they work, and the sociopolitical environ-&#13;
+ ment in which they operate.&#13;
+ WBI Contact:&#13;
+ Mark Nelson; program manager, Capacity Development Resource Center&#13;
+ Tel: 202-458-8041, e-mail: mnelson1@worldbank.org&#13;
+ Ajay Tejasvi; program coordinator, Capacity Development Resource Center&#13;
+ Tel: 202-458-4064, e-mail: anarasimhan@worldbank.org&#13;
+ Visit our website for more information and download the electronic copies of all Capacity Development Briefs at&#13;
+ http://www.worldbank.org/capacity&#13;
+&#13;
+&#13;
+&#13;
+       AUGUST 2008&#13;
+       NUMBERâ&#128;&#130; 28&#13;
+&amp;#12;</ml:original-txt><ml:search-metadata><doc id="20371740">
+        <url>
+            http://documents.worldbank.org/curated/en/2008/08/20371740/strengthening-networks-using-organizational-network-analysis-promote-network-effectiveness-scale-accountability
+        </url>
+        <availablein>English</availablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2008/08/20371740/strengthening-networks-using-organizational-network-analysis-promote-network-effectiveness-scale-accountability</url_friendly_title>
+        <new_url>2008/08/20371740/strengthening-networks-using-organizational-network-analysis-promote-network-effectiveness-scale-accountability</new_url>
+        <disclosure_date>2014-11-12T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2014-11-12T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/11/12/000333037_20141112004955/Rendered/INDEX/925870WBIWP0Bo0B00PUBLIC00CDBrief28.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/11/12/000333037_20141112004955/Rendered/PDF/925870WBIWP0Bo0B00PUBLIC00CDBrief28.pdf</pdfurl>
+        <datestored>2014-11-12T00:00:00Z</datestored>
+        <docdt>2008-08-01T00:00:00Z</docdt>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            Strengthening networks : using
+            organizational network analysis to promote network
+            effectiveness, scale, and accountability
+        </repnme>
+        <abstracts>
+            Networks are emerging as an important
+            delivery mechanism for sustainable development; however,
+            reliable network diagnostics are necessary to ensuring
+            accountability and quality to donors and stakeholders and to
+            monitoring, evaluating, and learning from networks. In this
+            brief, the authors examine current practice around networks
+            for development. They describe &#145;organizational network
+            analysis,&#146; a tool applied by pact&#146;s capacity building
+            services group in multiple international settings, which can
+            help identify opportunities and improve network
+            effectiveness. The authors conclude by emphasizing that a
+            networked approach can provide innovative solutions to
+            today&#146;s development challenges.
+        </abstracts>
+        <docna>
+            Strengthening networks : using
+            organizational network analysis to promote network
+            effectiveness, scale, and accountability
+        </docna>
+        <display_title>Strengthening networks : using
+            organizational network analysis to promote network
+            effectiveness, scale, and accountability</display_title>
+        <listing_relative_url>/research/2008/08/20371740/strengthening-networks-using-organizational-network-analysis-promote-network-effectiveness-scale-accountability</listing_relative_url>
+        <topic>Knowledge Accumulation m1326292 1915,Knowledge Management m1326612 664,Industrial Zones m1326507 1202,Postal Capacity Building m1326858 2392,Industry Policy m1327403 1075</topic>
+        <docty>WBI Working Paper</docty>
+        <subtopic>Knowledge for Development,Geographical Information Systems,Technology Industry,E-Business,Knowledge Economy</subtopic>
+        <teratopic>Private Sector Development,Industry,Macroeconomics and Economic Growth,Education</teratopic>
+        <count>World</count>
+        <authors>
+            <author>Bloom, Evan</author>
+            <author>Reeves, Matt</author>
+            <author>Sunseri, Amy</author>
+            <author>Nyhan-Jones, Veronica</author>
+        </authors>
+        <entityids>
+            <entityid>000333037_20141112004955</entityid>
+        </entityids>
+        <admreg>The World Region,The World Region</admreg>
+        <colti>Capacity development briefs ; no. 28</colti>
+        <lang>English</lang>
+        <historic_topic>Private Sector Development,Industry,Macroeconomics and Economic Growth,Education</historic_topic>
+        <topicv3>Knowledge Accumulation m1326292 1915,Knowledge Management m1326612 664,Industrial Zones m1326507 1202,Postal Capacity Building m1326858 2392,Industry Policy m1327403 1075</topicv3>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            backbone, boundaries, boundary, brain,
+            Capacity Building, categorization, Center, chambers of
+            commerce, collaboration, communities, communities of
+            practice, community of practice, Conceptual Framework,
+            connectivity, connectors, dependency, discussions, e-mail,
+            enabling environment, flow of information, flows of
+            information, Hub, idea, ideas, information flow, innovation,
+            insights, know how, Knowledge exchange, Knowledge
+            Management, Knowledge Networks, knowledge sharing, learning,
+            local knowledge, media, metrics, network analySiS,
+            networking, networkS, organizational network, practitioners,
+            result, results, routers, Service Provider, service
+            providers, social capital, Social Development, social
+            networks, software packages, types of networks, uses, Value
+            Chain, Vision, website, www
+        </keywd>
+        <owner>Learning for Development (LLILD)</owner>
+        <repnb>92587</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>ICT</ml:concept><ml:concept>ICT for Development</ml:concept><ml:concept>Information Technology</ml:concept><ml:concept>Information and Communication Technologies (ICT)</ml:concept><ml:concept>Social Development &amp; Poverty</ml:concept><ml:concept>Transportation</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Poverty Reduction</ml:concept><ml:concept>Poverty Reduction and Distributional Analysis</ml:concept><ml:concept>Poverty Reduction and Equity</ml:concept><ml:concept>Poverty and Inequality</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Social Protections and Labor</ml:concept><ml:concept>International Competitiveness</ml:concept><ml:concept>International Economics and Trade</ml:concept><ml:concept>Trade Liberalization</ml:concept><ml:concept>Trade Liberalization and Regional Integration</ml:concept><ml:concept>Trade Restrictiveness</ml:concept><ml:concept>Trade and Integration</ml:concept><ml:concept>City Development Strategies</ml:concept><ml:concept>Information and Communication Technologies</ml:concept><ml:concept>Social Development</ml:concept><ml:concept>Transport</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Arts and Culture</ml:concept><ml:concept>Poverty</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Social Protection and Labor</ml:concept><ml:concept>Trade</ml:concept><ml:concept>Urban Development</ml:concept><ml:concept>Ports</ml:concept><ml:concept>Analysis &amp; Monitoring</ml:concept><ml:concept>Delivery Units</ml:concept><ml:concept>Grievance Redress</ml:concept><ml:concept>Indicators</ml:concept><ml:concept>M&amp;E</ml:concept><ml:concept>Performance Measurement</ml:concept><ml:concept>Performance Reviews</ml:concept><ml:concept>Rapid Results Approaches</ml:concept><ml:concept>Participation, Empowerment and Accountability</ml:concept><ml:concept>Social Accountability and Demand for Good Governance</ml:concept><ml:concept>Very Vulnerable Groups (disability, orphans, children and youth)</ml:concept><ml:concept>GVCs</ml:concept><ml:concept>Production Sharing Networks</ml:concept><ml:concept>Value Chains</ml:concept><ml:concept>Governance and Public Accountability (GPA)</ml:concept><ml:concept>Incentives for Good Government</ml:concept><ml:concept>National Governance</ml:concept><ml:concept>Demand for Good Governance</ml:concept><ml:concept>Open Government, Accountability and Transparency</ml:concept><ml:concept>Social Accountability</ml:concept><ml:concept>Judicial Reform</ml:concept><ml:concept>Justice Reform</ml:concept><ml:concept>Legal and Judicial Reform</ml:concept><ml:concept>Connectivity</ml:concept><ml:concept>Lagging Regions</ml:concept><ml:concept>Knowledge for Development</ml:concept><ml:concept>Civil Society</ml:concept><ml:concept>Social Capital</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Media</ml:concept><ml:concept>Boundaries</ml:concept><ml:concept>Ports &amp; Waterways</ml:concept><ml:concept>Youth</ml:concept><ml:concept>Knowledge Management</ml:concept><ml:concept>Monitoring and Evaluation</ml:concept><ml:concept>Vulnerable Groups</ml:concept><ml:concept>Global Value Chains</ml:concept><ml:concept>Governance</ml:concept><ml:concept>Open Government and Transparency</ml:concept><ml:concept>Justice</ml:concept><ml:concept>Connectivity and Lagging Regions</ml:concept></ml:concepts><ml:geo-regions/></ml:annotations></ml:doc-envelope>

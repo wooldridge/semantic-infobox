@@ -1,0 +1,1160 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>                                                    80758&#13;
+&#13;
+&#13;
+                                      Governance Working paper series&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Access to&#13;
+Information Program   Access to Public&#13;
+                      Information and&#13;
+                      Citizen Participation&#13;
+                      in Supreme Audit&#13;
+                      Institutions (Sai)&#13;
+                      Ezequiel Nino&#13;
+&amp;#12;&amp;#12;Working Paper&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Access to Public&#13;
+Information and Citizen&#13;
+Participation in Supreme&#13;
+Audit Institutions (Sai)&#13;
+Guide to Good Practices&#13;
+&#13;
+Ezequiel Nino&#13;
+&#13;
+2010&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+AsociaciÃ³n Civil por la Igualdad y la Justicia (ACIJ)&#13;
+www.acij.org.ar&#13;
+&amp;#12;This work was carried out with the support of the Access to Information, Program of the World&#13;
+Bank Institute (WBI), through the financial support of the Spanish Government Trust Fund.&#13;
+&#13;
+We are grateful to the International Budget Partnership (IBP), and especially Vivek Ramkumar, for&#13;
+their support. Part of the information in this document has been the result of the learning gathered&#13;
+at the International Seminar â&#128;&#156;Dialogue on Civil Society Engagement in Public Accountabilityâ&#128;&#157; or-&#13;
+ganized jointly by IBP and UNDSEA (United Nations Department of Economic and Social Affairs),&#13;
+in Manila, The Philippines, November 7-8, 2006. We also thank ArÃ¡nzazu GuillÃ¡n Montero, Jorge&#13;
+Romero LeÃ³n, William Reuben, Luis Fernando VelÃ¡squez Leal and Andre Herzog for their com-&#13;
+ments.&#13;
+&#13;
+The analysis presented in this document does not reflect the official opinion of the World Bank or&#13;
+the Government of Spain, and is the sole responsibility of the author.&#13;
+&amp;#12;    Contents&#13;
+&#13;
+Foreword....................................................................................................v&#13;
+&#13;
+1. Introduction............................................................................................1&#13;
+&#13;
+2. Strengthening the Public Oversight System................................................3&#13;
+   2.1	 SAI Models......................................................................................................... 3&#13;
+   2.2	 The Necessary Relationship between SAIs and CSOs.................................................4&#13;
+&#13;
+3. Good Practices to Strengthen the External Oversight System.......................7&#13;
+   3.1	 Improvement in the Information Related to External Oversight.                           ............................... 7&#13;
+        3.1.1	 Dissemination of Audit Reports produced by SAIs . ............................................... 7&#13;
+        3.1.2	 Disclosure of institutional information related to the external audit system.............. 8&#13;
+        3.1.3	 Dissemination of information related to the Auditorsâ&#128;&#153; selection process&#13;
+               to citizens and opening the process to participation ................................................ 9&#13;
+        3.1.4	 Citizen training on the External Audit System...................................................... 11&#13;
+   3.2	 Opening Up the External Oversight of Public Administration to&#13;
+   	    Citizen Participation ..........................................................................................12&#13;
+        3.2.1	 The filing of citizen complaints.   ............................................................................ 12&#13;
+        3.2.2	 Participation in the selection of agencies or programs to be audited.                     ...................... 13&#13;
+        3.2.3	 Coordinated Audits and Citizen Oversight Committees........................................ 15&#13;
+        3.2.4	 Participation in the monitoring of compliance with audit recommendations ........ 15&#13;
+&#13;
+4. Table: Summary of Good Practices.......................................................... 17&#13;
+&#13;
+5. Final Observations................................................................................. 19&#13;
+&#13;
+             ............................................................................................ 21&#13;
+6. References.&#13;
+&#13;
+Endnotes.................................................................................................. 23&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                               iii&#13;
+&amp;#12;&amp;#12;    Foreword&#13;
+&#13;
+For more than a decade, the Association for Civil       America. Our interest in this subject goes back&#13;
+Rights (AsociaciÃ³n por los Derechos Civiles, ADC)       several years. Since 2001, ADC has been actively&#13;
+has been working actively to strengthen a le-           working on the promotion of reforms intended&#13;
+gal and institutional culture that guarantees the       to increase both the transparency and the par-&#13;
+fundamental rights of individuals in accordance         ticipation of civil society in the operation of the&#13;
+with Argentinaâ&#128;&#153;s National Constitution, inter-          Judiciary.&#13;
+national human rights standards and democrat-                To conduct the research related to the Su-&#13;
+ic values. Among other objectives, ADC aims to          preme Audit Institutions and Congress, ADC in-&#13;
+monitor and support the reform of those insti-          vited two expert organizations that are region-&#13;
+tutions of democracy of which an improved op-           al leaders in these matters, AsociaciÃ³n Civil por&#13;
+eration enables a greater protection of citizenâ&#128;&#153;s       la Igualdad y la Justicia (ACIJ) (Civil Association&#13;
+rights, such as the Judiciary.                          for Equality and Justice)â&#128;&#148;from Argentinaâ&#128;&#148;and&#13;
+     At the beginning of 2008, ADC began a              FundaciÃ³n Pro Acceso (Pro Access Foundation)â&#128;&#148;&#13;
+project to document various good practices              from Chile.1&#13;
+and experiences from different Latin Ameri-                  The result of this project is reflected in this&#13;
+can countries related to access to information          series of three documents that are intended to&#13;
+(ATI) and transparency of the State. More pre-          serve as a reference for NGOs in the region,&#13;
+cisely, innovative experiences in regards to the        government officials, members of academia, and&#13;
+Judiciary, Congress and Supreme Audit Institu-          public policy experts. The papers were written&#13;
+tions were identified. This was all done thanks         by Ã&#129;lvaro Herrero and Gaspar LÃ³pez (ADC);&#13;
+to the valuable support of the Access to Infor-         Ezequiel Nino (ACIJ); and TomÃ¡s Vial Solar&#13;
+mation Program of the World Bank Institute              (FundaciÃ³n Pro Acceso).&#13;
+(WBI).                                                       Lastly, we wish to thank the internal and&#13;
+     In addition to acting as lead on the project       external reviewers of the World Bank Institute&#13;
+on ATI and transparency of the State, ADC has           for their valuable comments on the three doc-&#13;
+been responsible for the particular research on         uments. Any errors and omissions, however, are&#13;
+good practices in the judicial systems of Latin         the sole responsibility of the authors.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                    v&#13;
+&amp;#12;&amp;#12;1&#13;
+        Introduction&#13;
+&#13;
+    External oversight agencies perform a funda-              good practices in terms of access to public in-&#13;
+    mental role in monitoring the exercise of pow-            formation and citizen participation that de-&#13;
+    er in democratic regimes, especially in countries         serve to be publicized. Where there are expe-&#13;
+    characterized by high corruption rates and in-            riences that can be replicated they should be&#13;
+    efficiency in public management. Despite their            adapted to the needs of each jurisdiction. This&#13;
+    importance, however, they do not usually have             document highlights the importance of access&#13;
+    strong links to society. Their reports do not re-         to public information in these external over-&#13;
+    ceive the public recognition they deserve and             sight agencies and the consequent use of such&#13;
+    the oversight agencies themselves are not usual-          information in the promotion of participato-&#13;
+    ly perceived by civil society as places for partic-       ry mechanisms in the oversight work conduct-&#13;
+    ipation. Nevertheless, in recent years, there have        ed by Supreme Audit Institutions. As evidenced&#13;
+    been increasing demands for these agencies to             in this document, such practices can be gener-&#13;
+    establish transparency, access to information, and        ated from the audit institutions towards society&#13;
+    citizen participation mechanisms in the work              (top-down) as well as from society towards these&#13;
+    they carry out. This is intended to strengthen            agencies (bottom-up).&#13;
+    their control functions, increase the demand for               It should be noted that it is still too early to&#13;
+    accountability from public administration and             identify particularly successful practices, since in&#13;
+    thus enhance the credibility of governmental              most cases these are incipient experiences that&#13;
+    policies and programs.                                    are currently being implemented, and began&#13;
+         Although we are still far from having over-          only a short time ago. Consequently, future as-&#13;
+    sight agencies that are close to the population           sessment is needed. It is also worthwhile noting&#13;
+    and exhibit a high degree of citizen participa-           that the experiences compiled in this document&#13;
+    tion in the monitoring work that they perform,            come from various countries, with special em-&#13;
+    there areâ&#128;&#148;in various countriesâ&#128;&#148;examples of                phasis in Latin America.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                          1&#13;
+&amp;#12;&amp;#12;2&#13;
+        Strengthening the&#13;
+        Public Oversight System&#13;
+&#13;
+    The consolidation of democracies in developing           effort designed to strengthen the public control&#13;
+    countries requires appropriate accountability            systems that characterize democratic regimes.&#13;
+    with regard to public resources. Corruption and&#13;
+    inefficiency in the use of resources appear as a&#13;
+    growing citizen concern. In the context of gov-          2.1	 SAI Models&#13;
+    ernance reforms that seek to strengthen trans-&#13;
+    parency and accountability processes, there is a         In this context, Supreme Audit Institutions&#13;
+    need to have external oversight agencies more            (SAIs) represent a key component in what are&#13;
+    involved in producing concrete results that are          generally complex public oversight systems. De-&#13;
+    observable by citizens. In that sense, these agen-       pending on the institutional placement of the&#13;
+    cies should take on new roles, because they have         oversight agencies, it is possible to distinguish&#13;
+    been considered to be eminently technical and            between two types of public control: external&#13;
+    beyond the reach of society.                             and internal. External oversight entities are not&#13;
+          This need is being recognized even by the          part of the organization to be audited, while in-&#13;
+    oversight agencies themselvesâ&#128;&#148;which, as com-             ternal control entities are those established with-&#13;
+    plex state agencies, usually display a more cau-         in the various organizations that are the subject&#13;
+    tious approach to these types of transparen-             of control. Therefore, external control agencies&#13;
+    cy and participatory processes. Thus, at the end         tend to enjoy greater autonomy and, therefore,&#13;
+    of 2007, the International Organization of Su-           greater margin for collaboration with civil so-&#13;
+    preme Audit Institutions (INTOSAI)1 indicated            ciety.&#13;
+    the need to â&#128;&#156;consider establishing working re-                Using this distinction as a basis, this docu-&#13;
+    lationships with civil society organizations that        ment focuses on practices that make information&#13;
+    participate in activities related to the develop-        public (that is, the dissemination of, and grant-&#13;
+    ment and use of key national indicators to ex-           ing of access to, public information) and par-&#13;
+    pand the exchange of information and promote             ticularly on those that link SAIs and civil soci-&#13;
+    the various functions that each supreme audit            ety organizations (CSOs). Such practices around&#13;
+    institution may perform in connection with the           SAIs as external control agencies present both&#13;
+    development and use of the indicators with the           difficulties that are related to rules (for example,&#13;
+    aim of fostering government transparency, ac-            the lack of an adequate regulatory framework)&#13;
+    countability and effectiveness.â&#128;&#157;2 Consequently,          and others that are of an institutional nature&#13;
+    it is an appropriate time to promote this type of        (for example, the lack of institutional channels&#13;
+&#13;
+                                                         3&#13;
+&amp;#12;4     Access to Public Information and Citizen Participation in Supreme Audit Institutions (Sai)&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+    to formalize the engagement between SAIs and              Finally, in other cases, the SAI is autono-&#13;
+    CSOs). For this reason, it is necessary to pro-        mous. It is not a part of any government branch.&#13;
+    mote and develop formal and informal instanc-&#13;
+    es that make it possible to foster these practices.    2.2	 The Necessary&#13;
+    This document examines a series of good prac-&#13;
+    tices with respect to access to public informa-&#13;
+                                                                Relationship between&#13;
+    tion and citizen participation, that are intend-            SAIs and CSOs&#13;
+    ed to promote a more effective external control&#13;
+    of public actions, thus contributing to inclusive      Although the functions of SAIs and CSOs are&#13;
+    governance.                                            different in nature, the oversight actions they per-&#13;
+         External audit agencies may be classified ac-     form make it possible to establish spaces for co-&#13;
+    cording to the branch of government to which           operation. This section briefly presents some of&#13;
+    they report.3 A first model is characterized by        the specific characteristics of both types of actors&#13;
+    the SAI reporting to the Legislative branch. In        that can contribute to a complementary exercise&#13;
+    this case, the SAI presents the findings regarding     of control functions. This description is only in-&#13;
+    its work to the Legislature (through specialized       tended as an illustration, to show the possibilities&#13;
+    legislative committees), which uses this infor-        of interrelation around external auditing.&#13;
+    mation to perform its functions of government               SAIs have the duty of auditing budget ex-&#13;
+    oversight. This model may assume two forms of          ecution and expenditure efficiency. In other&#13;
+    leadership: one headed by a single Auditor Gen-        words, the concrete functions of these entities&#13;
+    eral in charge of the SAI, and another led by sev-     include: (a) ensuring that funds go to the areas&#13;
+    eral auditors who are members of a multi-mem-          to which they have been allocated and that they&#13;
+    ber body (Board of Auditors).4                         have been used in an adequate and legal manner&#13;
+         In this model, at the end of each year the        (legal and financial audits); and (b) that the agen-&#13;
+    SAIâ&#128;&#153;s reports are submitted for examination by         cies being audited have complied with the ob-&#13;
+    a legislative commission and, later, by the ple-       jectives that they agreed upon at the start of the&#13;
+    num of Congress, which issues recommenda-              cycle under examination (management audit).&#13;
+    tions on corrections to be made. The legislative            CSOs, especially in developing countries&#13;
+    committee, in turn, is responsible for monitor-        with fragile public institutions, are gradual-&#13;
+    ing compliance thereafter. While the single-           ly acquiring an increasingly important role in&#13;
+    person leadership model may favor a more ex-           the institutional strengthening of their respec-&#13;
+    peditious operation, the multi-member Board            tive countries. One of the roles that they have&#13;
+    of Auditors model is more deliberative and can         been playing on a more frequent basis is that of&#13;
+    accommodate different perspectives, although           monitoring the state through the social auditing&#13;
+    it runs the risk of resulting in a slower oper-        of (or exercising social accountability over) gov-&#13;
+    ation.                                                 ernment agencies.&#13;
+         In a second model, the SAI reports to the Ju-          It is evident that the respective roles of&#13;
+    diciary. In that case, the SAI members are judg-       SAIs and CSOs can be mutually complemen-&#13;
+    es (members of the Judicial Branch), who deter-        tary. While SAIs have the obligation of audit-&#13;
+    mine the legality of the administrative activities     ing, CSOs take it upon themselves as a volun-&#13;
+    and may prosecute any officials who commit ir-         tary action.&#13;
+    regularities. This type of SAI does not usually             Compared to CSOs, SAIs have a number of&#13;
+    conduct management audits.                             specific characteristics that indicate that they are&#13;
+&amp;#12;                                                        Strengthening the Public Oversight System          5&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+better placed for the performance of their audit-    have the resources or the access to the valuable&#13;
+ing functions:                                       information available to SAIs. This material, in-&#13;
+                                                     cluded in the reports that the latter develop, can&#13;
+â&#128;¢	   Access to information: Due to laws and oth-     serve as a starting point from which CSOs may&#13;
+     er regulations (along with offices in charge    initiate the monitoring of public administration&#13;
+     of promoting, disseminating and guaran-         activities. Based on such information, CSOs can&#13;
+     teeing it), access to public information by     propose and demand changes, denounce pub-&#13;
+     citizens is gradually advancing in various      lic officials who may have committed corrupt&#13;
+     states. However, SAIs have privileged access    acts, disseminate among public opinion specific&#13;
+     to government agencies and can require all      issues that they detect in government and pro-&#13;
+     the necessary information in an expeditious     pose an informed and technical dialogue with&#13;
+     manner;                                         public officials.&#13;
+â&#128;¢	   Human and financial resources: In general,           SAIs, in turn, can benefit from coopera-&#13;
+     SAIs have at their disposal highly qualified    tion with CSOs, since it might not only im-&#13;
+     personnel (accountants, lawyers, economists,    prove the impact of the work the SAIs do, but&#13;
+     etc.) to conduct the work with which they       also the quality of institutional oversight. At&#13;
+     are charged; and                                times, audit reports do not have sufficient im-&#13;
+â&#128;¢	   Technical tools: SAIs usually have a greater    pact on the governmental agencies in which ir-&#13;
+     technical capacity than CSOs to audit gov-      regularities are detected. External oversight sys-&#13;
+     ernment agencies, although several CSOs         tems are complex: SAIs only represent one link&#13;
+     are making progress in that direction.          in a more extensive chain, of which legislative&#13;
+                                                     commissions, the National Legislature and vari-&#13;
+    For their part, CSOs also have distinct char-    ous offices of the Executive are also part. Exces-&#13;
+acteristicsâ&#128;&#148;different from those of SAIsâ&#128;&#148;that        sive bureaucracy and conflicting political inter-&#13;
+enable them to strengthen the execution of ex-       ests usually conspire against the system working&#13;
+ternal oversight:                                    on its own. For that reason, there is a need for&#13;
+                                                     the participation of other stakeholders (judg-&#13;
+â&#128;¢	   The possibility of using the information re-    es, prosecutors, Ombudsmen, journalists and&#13;
+     sulting from monitoring efforts for concrete    CSOs.) Through interaction with CSOs, SAIs&#13;
+     advocacy actions;                               could prevent their efforts from being thwarted.&#13;
+â&#128;¢	   Greater closeness to service delivery and,      The irregularities they highlight in their reports&#13;
+     hence, to the users;                            have better chances of being remedied if there&#13;
+â&#128;¢	   Sensitivity to the implementation of gov-       is pressure coming from stakeholders external to&#13;
+     ernment programs in practice;                   the public oversight system.&#13;
+â&#128;¢	   Capacity to go beyond the time and proce-            The SAIs, as entities responsible for the ex-&#13;
+     dural limits (predefined types of audit) that   ternal auditing of public management, have pro-&#13;
+     govern the work of SAIs; and                    gressively been entering the field of citizen par-&#13;
+â&#128;¢	   A lower degree of bureaucratization.            ticipation and adjusting their institutional, legal&#13;
+                                                     and operational structures accordingly.&#13;
+    Both types of actors, with different but com-         In Colombia, in 1999, the Office of the&#13;
+plementary roles, can benefit from each other.       Comptroller General of the Republic (Contral-&#13;
+Even more so, it may be asserted that they must      orÃ­a General de la RepÃºblica, CGR) began a strat-&#13;
+interact. As previously indicated, CSOs do not       egy called â&#128;&#156;Participatory Fiscal Control,â&#128;&#157; which&#13;
+&amp;#12;6     Access to Public Information and Citizen Participation in Supreme Audit Institutions (Sai)&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+    sought to promote citizen participation in fis-        tect the confidential nature of certain stages in&#13;
+    cal control. This strategy has continued to be         the investigation process, and insulate them from&#13;
+    developed since then, both at the national lev-        social or political pressures that could affect the&#13;
+    el (CGR), and at the level of the Departmental         diagnosis.7 For that reason, it is necessary to have&#13;
+    and Municipal Comptroller Offices, which are           clear rules that determine stages and procedures&#13;
+    accompanied by the CGR.                                for the granting of access to, or dissemination of,&#13;
+         In the Latin America and the Caribbean            information related to auditing activities, while&#13;
+    region, the 4th General Assembly of the Latin          at the same time protecting the integrity and&#13;
+    American and Caribbean Organization of Su-             objectivity of the oversight process.&#13;
+    preme Audit Institutions (OLACEFS, by its ac-               Within this logic, access to public informa-&#13;
+    ronym in Spanish), held in 1994, reported on           tion is fundamental in order to establish a frame-&#13;
+    the first steps taken in this area by Colombiaâ&#128;&#153;s       work in which greater participation exists. This&#13;
+    Office of the Comptroller General of the Re-           document aims to present a survey of practic-&#13;
+    public. However, it was only one year later, at        es and experiences in which either civil society&#13;
+    the 5th General Assembly of OLACEFS, which             organizations or SAIs have worked to improve&#13;
+    took place in Lima in 1995, that the possibility       the relationship between SAIs and social audit-&#13;
+    opened up for citizen participation in fiscal con-     ing agents. These agents may contribute to the&#13;
+    trol â&#128;&#156;as a source of qualified and permanent in-       efficiency of the external auditing system, and&#13;
+    formation on the critical areas of public admin-       consequently to an effective accountability on&#13;
+    istration.â&#128;&#157;6                                           the part of public administration and improved&#13;
+         In general terms, however, it may be stated       governance.&#13;
+    that SAIs and CSOs do not interact with each                The main experience being examined is&#13;
+    other enough. On the one hand, CSOs fear that          that of Argentina, partially resulting from an&#13;
+    the relations they may establish with SAI offi-        ACIJ project on the national public administra-&#13;
+    cials might be misconstrued. On the other hand,        tionâ&#128;&#153;s external auditing system. Initiatives imple-&#13;
+    SAIs fear that the neutrality and objectivity that     mented in other countries, mainly Latin Amer-&#13;
+    is expected of their reports may be compro-            ica nations, that adequately illustrate different&#13;
+    mised if they maintain a collaborative relation        practices that can be undertaken to improve the&#13;
+    with the CSOs. For that reason, SAIs are not           efficiency of external control are also included.&#13;
+    usually open to the establishment of links out-             What follows is a series of good practic-&#13;
+    side government. In this respect, the sensitivi-       es to strengthen SAIs (and the external auditing&#13;
+    ty of SAIs control activities requires establish-      system) through their interaction with CSOs.&#13;
+    ing measures to guarantee their objectivity and        These good practices ought to be systematically&#13;
+    autonomy. It is important to have clear and well       incorporated into the operation of SAIs.&#13;
+    established procedures and timeframes that pro-&#13;
+&amp;#12;3&#13;
+        Good Practices to&#13;
+        Strengthen the External&#13;
+        Oversight System&#13;
+&#13;
+    Both the dissemination of and access to public            tions in Mexico City. Its Fifth Principle estab-&#13;
+    information related to control functions, along           lishes that SAIs have the right and the duty to&#13;
+    with the establishment of mechanisms for cit-             disseminate the results of their work and that&#13;
+    izen participation, contribute to strengthening           they should suffer no interferences in that re-&#13;
+    the external oversight system. This section pres-         gard. The Sixth Principle stipulates, among oth-&#13;
+    ents a series of good practices in both areas, il-        er things, that SAIs are free to publish and dis-&#13;
+    lustrated by examples of concrete implementa-             seminate their reports once they have formally&#13;
+    tion experiences, presented in boxes.                     been delivered to the corresponding authorities.&#13;
+                                                                   Broadly speaking, the dissemination and/&#13;
+    3.1	 Improvement in the                                   or access to information regarding the work of&#13;
+                                                              SAIs face two challenges: i) the technical char-&#13;
+         Information Related                                  acter of audit reports; and ii) the lack of com-&#13;
+         to External Oversight                                munication mechanisms with other social stake-&#13;
+                                                              holders.&#13;
+    In the field of dissemination and access to public             Generally, audit reports are of such a techni-&#13;
+    information, four concrete practices are presented:       cal nature that it makes it difficult for anybody&#13;
+                                                              who is not a subject matter expert to read them.&#13;
+    1.	 Dissemination of audit reports by SAIs;               This obstacle could be understood as an indi-&#13;
+    2.	 Disclosure of institutional information re-           rect violation of the right to access public in-&#13;
+        lated to the external audit system;                   formation. As is the case in various public ar-&#13;
+    3.	 Dissemination to citizens of information              eas, the technical nature of certain information&#13;
+        about the process for selecting auditors, and         should not prevent somehow making it acces-&#13;
+        the opening of such processes to participation;       sible to citizens. As in the case of the Judicia-&#13;
+    4.	 Training citizens with regard to the external         ry, which is increasingly being asked to explain&#13;
+        auditing system.                                      their decisions in a clearer fashion (either by us-&#13;
+                                                              ing a less formal language; through activities to&#13;
+    3.1.1	 Dissemination of Audit Reports                     explain them to the media and train the latter in&#13;
+           produced by SAIs                                   relation to such decisions, or, in general, by hav-&#13;
+                                                              ing greater contact with citizens)8 audit agencies&#13;
+    In 2007, INTOSAI issued the Declaration on                should also improve the accessibility of the in-&#13;
+    the Independence of Supreme Audit Institu-                formation they produce.&#13;
+&#13;
+                                                          7&#13;
+&amp;#12;8     Access to Public Information and Citizen Participation in Supreme Audit Institutions (Sai)&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+      Box 1.â&#128;&#130; Argentina: a) Website to Disseminate Audit Reports&#13;
+      b) Summaries provided by the National Auditorâ&#128;&#153;s Office (AuditorÃ­a General de la NaciÃ³n, AGN)&#13;
+&#13;
+       a) 	 The union of audit institutionsâ&#128;&#153; personnel (APOC) created a website that is used to disseminate sum-&#13;
+            marized versions of the reports generated by the various audits, which use plain language. The texts&#13;
+            that serve as a basis for the summaries are the official AGN reports. That is, they are not â&#128;&#156;preliminary&#13;
+            versions,â&#128;&#157; â&#128;&#156;drafts,â&#128;&#157; or any of the intermediate documents that are generated in an auditing process.&#13;
+&#13;
+      	    Through this service, the population may access the site or request to daily receive news related&#13;
+           to the reports developed by the national or provincial oversight agencies. The portal also contains&#13;
+           academic papers on external auditing systems and assessments of their functioning.&#13;
+&#13;
+      	    It is noteworthy that the union has undertaken this type of work; but it is also useful to understand&#13;
+           that such an entity is another actor that has a concrete interest in strengthening the audit agencies.&#13;
+           Typically those working within audit institutions are career professionals who have no ties to a specific&#13;
+           administration, which makes clear the affinity they may have with initiatives seeking to enhance the&#13;
+           independence and the impact of the SAIs work.&#13;
+&#13;
+      b) 	 Through its press department, the AGN sends journalists, Ombudsmen, CSOs and subscribers a&#13;
+           bulletin explaining briefly and in a non technical language, the findings of the most important reports&#13;
+           produced by the agency. This information contains a description of the objective of the corresponding&#13;
+           audit, the period audited, the context in which it was carried out and the conclusions drawn from it. An&#13;
+           example of such reports may be seen in www.agn.gov.ar/informes/informesPDF2008/Ficha_021_08.&#13;
+           pdf. AsociaciÃ³n Civil por la Igualdad y la Justicia (ACIJ) promoted the dissemination of this bulletin&#13;
+           and assisted the AGN in developing a wide database of contacts to disseminate the information.&#13;
+&#13;
+      * www.elauditor.info&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+         	 Still, there is typically no formal infor-          they produce. For that reason, the press, commu-&#13;
+    mation channel between the SAIs, the media and             nications and/or community relations offices of&#13;
+    CSOs. Beyond the fact that, in general, SAIs do            SAIs should more proactively seek to establish&#13;
+    have press offices, they do not have institutional         links with professional NGOs, community or-&#13;
+    relations policies that consider other actors (be-         ganizations, journalists (both from national and&#13;
+    yond government branches to whom they must                 local media), Ombudsmen Offices, prosecutors&#13;
+    report) as major audiences for the information             and judges.&#13;
+&#13;
+&#13;
+      Box 2.â&#128;&#130; South Korea: Civil Society Advocacy Actions for a Full Dissemination of Audit Reports&#13;
+&#13;
+      Until not too long ago, the Board of Audit and Inspection (South KoreaÂ´s SAI) only publicly disclosed audit&#13;
+      summaries . It held that audit reports were internal materials for the State, intended for corrective use.&#13;
+      A group of politicians, CSOs and journalists formed a coalition to demand changing this practice. They&#13;
+      asserted that the principle that should govern disclosure consisted of the fact that the state belongs to&#13;
+      citizens in general, and therefore each individual constituting it has a legitimate interest in gaining access&#13;
+      to the reports in which the performance of government offices is assessed. The coalitionâ&#128;&#153;s pressure led&#13;
+      to a change in policy, and currently the complete texts are published, with the exception of the material&#13;
+      including â&#128;&#156;state secretsâ&#128;&#157; or such matters that â&#128;&#156;if disclosed, could affect national security.â&#128;&#157;&#13;
+&#13;
+      * Pyun 2006.&#13;
+&amp;#12;                                          Good Practices to Strengthen the External Oversight System            9&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+  Box 3.â&#128;&#130; Mexico: Agreement between the Supreme Audit Institution of the Federation (AuditorÃ­a&#13;
+  Superior de la FederaciÃ³n, ASF) and the Federal Institute for Access to Public Information (Instituto&#13;
+  Federal de Acceso a la InformaciÃ³n PÃºblica, IFAI) to promote transparency in oversight functions&#13;
+&#13;
+  Both agencies report to different branches of government. While IFAI is a decentralized agency of the&#13;
+  Federal Public Administration, ASF is an auxiliary agency of the Chamber of Deputies which enjoys&#13;
+  technical autonomy. However, on April 2, 2006, they both signed an agreement intended to define joint&#13;
+  activities in the field of transparency, access to public government information and superior oversight.&#13;
+  The ultimate goal is to promote a culture of accountability. The press release issued by the two agencies&#13;
+  recognizes that they both have a growing presence and influence in the countryâ&#128;&#153;s public life and that,&#13;
+  therefore, an agreement between them to improve access to public information related to the functions&#13;
+  entrusted to the ASF represents a major step forward in external control activities. The agreement is&#13;
+  innovative because it subjects the ASF to commitments with the agency specializing in these matters.&#13;
+&#13;
+  * See in this regard: www.ifai.org.mx/descargar.pho?r+pdf/sala_prensa/publicaciones/communicados/2006/&amp;a=Co&#13;
+  mmunicaoIFA1010406.pdf&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+     An example of improved availability and              3.1.2	 Disclosure of institutional&#13;
+dissemination of information on the work of                      information related to the&#13;
+SAIs is provided by the Argentine National Au-                   external audit system&#13;
+ditorâ&#128;&#153;s Office, through its website and the publi-&#13;
+cation of summaries of audit reports.                     Transparency regarding SAIsâ&#128;&#153; structures, activ-&#13;
+     Next, the mobilization of segments of South          ities, and employees is also required. They are&#13;
+Koreaâ&#128;&#153;s civil society illustrates another kind of         public organizations and, as such, they should be&#13;
+experience, which has served to promote the               held accountable for their actions, and dissem-&#13;
+availability of information on the work of the            inate the information that they generate to the&#13;
+oversight system.                                         public in the broadest and most easily under-&#13;
+&#13;
+&#13;
+  Box 4.â&#128;&#130; Argentina: Court rulings to increase transparency in the work of the legislative&#13;
+  commission that receives audit reports&#13;
+&#13;
+  The Joint Accounts Review Commission (ComisiÃ³n Mixta Revisora de Cuentas, CMRC), which reports to&#13;
+  the National Chamber of Deputies and the National Senate, kept a policy of secrecy. It did not actively&#13;
+  provide any type of information on its work. Furthermore, it refused the requests from CSOs for access&#13;
+  to the minutes of its meetings, although that was provided for in the rules of Congress. At the same time,&#13;
+  it also refused requests to access the Commissionâ&#128;&#153;s meetings. After having submitted two requests to&#13;
+  access the minutes of meetings without receiving an answer from the CMRC, ACIJ filed a legal action of&#13;
+  amparo (which demands the protection of a constitutional guarantee) to receive the minutes of the past&#13;
+  and future meetings. The courts ruled in ACIJâ&#128;&#153;s favor and ordered CMRC to hand over the meeting minutes.&#13;
+&#13;
+  After another filing by ACIJ, in 2006, the courts instructed the CMRC to hold their meetings publicly and&#13;
+  to announce the date, time and place of the meetings on the Internet.&#13;
+&#13;
+  After several requests for information made by ACIJ that received no answer, the CMRC published in&#13;
+  the Senateâ&#128;&#153;s website its regulations, its budget allocation and execution, and the details indicating the&#13;
+  dates of each of the transactions associated with the Investment Account (execution of the budget).*&#13;
+&#13;
+  *See in this regards www.senado.gov.ar/web/comisiones/evenComi.php?nro_comision=100.&#13;
+&amp;#12;10     Access to Public Information and Citizen Participation in Supreme Audit Institutions (Sai)&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+     stood fashion. The fact that they are oversight            On the other hand, in Argentina, a greater&#13;
+     agencies does not exempt them from this re-            transparency of the bodies to which the Nation-&#13;
+     quirement and, as the impact of their auditing         al Auditorâ&#128;&#153;s Office reports has also been pro-&#13;
+     work increases, there is a growing need for these      moted through court resolutions.&#13;
+     entities to be transparent and independent from&#13;
+     political power. This means that those who ex-         3.1.3	 Dissemination of information&#13;
+     ert oversight (agents who monitor) should also                related to the Auditorsâ&#128;&#153;&#13;
+     be monitored and, to that end, they need to pro-              selection process to citizens&#13;
+     mote good governance measures. In this regard,                and opening the process to&#13;
+     CSOs can also play a fundamental role, promot-                participation&#13;
+     ing the transparency of such oversight agencies&#13;
+     and subjecting those who exercise public con-          Just as in the case of the Judiciary, where trans-&#13;
+     trol to scrutiny.                                      parency and participation mechanisms are be-&#13;
+          On the one hand, audit institutions should        ing adopted for the appointment of judges and&#13;
+     be included in the legislation on access to pub-       officials,9 it is also necessary for these trans-&#13;
+     lic information. Thus, at the request of any in-       parency and participation mechanisms to exist&#13;
+     terested party, an SAI should provide appropri-        in SAIs. To that end, the process should be as&#13;
+     ate, timely, truthful, and complete information,       broadly disseminated as possible at all its stag-&#13;
+     except for internal notes or data that could af-       es. As suggested in the ADC document refer-&#13;
+     fect a personâ&#128;&#153;s privacy. An SAI should provide,        enced above, the dissemination of information&#13;
+     among other pieces of information, data on its         about the call for applications, the list of appli-&#13;
+     organization, staff, compensation of employ-           cants, their background, tax situation, income&#13;
+     ees and officials, audit plans and status, deci-       and assets declarations, and so forth should&#13;
+     sions adopted by the auditor or board of audi-         de done through all possible means (Inter-&#13;
+     tors, and minutes of the meetings of the board         net, official gazette, local and national news-&#13;
+     of auditors.                                           papers, specialized journals). Thereafter, citi-&#13;
+          In the oversight systems in which an entity       zens should be provided with a time period&#13;
+     different from the SAI is responsible for approv-      in which to challenge candidacies, and pres-&#13;
+     ing the reports it has produced, ordering mea-         ent comments, observations and endorsements&#13;
+     sures or filing complaints on the basis of the in-     with regard to each. Prior to each appoint-&#13;
+     formation contained in them, and supervising           ment, a public hearing should be convened so&#13;
+     compliance with the orders that are issued, it is      that the body responsible for it may pose que-&#13;
+     vital for such institutional information to also       ries relative to any concern that might exist. At&#13;
+     be disseminated. In general, the focus is usually      this hearing, time should be reserved for citi-&#13;
+     placed on the agency that produces the reports         zens to ask questions. These types of practices&#13;
+     and not on the body that makes recommenda-             involve important elements regarding the dis-&#13;
+     tions and has to verify compliance. For that rea-      semination of information about procedures&#13;
+     son, it is fundamental for both instances to be        and candidates, as well as elements of social&#13;
+     equally transparent and accessible.                    participation in the processes related to the se-&#13;
+          In Mexico, increased cooperation between          lection of SAIâ&#128;&#153;s authorities.&#13;
+     public agencies has contributed to strengthen-              The experience of the Accounts Chamber&#13;
+     ing the transparency of the external oversight         in the Dominican Republic exemplifies the rel-&#13;
+     system.                                                evance of this practice.&#13;
+&amp;#12;                                           Good Practices to Strengthen the External Oversight System            11&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+  Box 5.â&#128;&#130; Dominican Republic: Civil Societyâ&#128;&#153;s Proposal on the Appointment of Members of the&#13;
+  Accounts Chamber&#13;
+&#13;
+  In July 2008, the Senate of the Dominican Republic removed one of the members of the Accounts Cham-&#13;
+  ber. The rest of the members resigned in view of the possibility of suffering a similar fate. As a result,&#13;
+  numerous Dominican CSOs urged that, given the seriousness of the events that gave rise to the removal&#13;
+  and the resignations (claims of irregularities, corruption, and unjustified pay raises), it was necessary to&#13;
+  design a transparent and participatory mechanism to appoint their replacements. The process should&#13;
+  consider making the CVs of the candidates and their income and assets declarations publicly available.&#13;
+  The CSOs also called on citizens, in general, to actively collaborate in the process to prevent a repetition&#13;
+  of the events that had lead to the replacement of the members of the Accounts Chamber.&#13;
+&#13;
+  Source: Daily Hoy 2008&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+3.1.4	 Citizen training on the External                    company greater opportunities for participa-&#13;
+       Audit System                                        tion.&#13;
+                                                                As mechanisms for public information and&#13;
+It is fundamental to expand public knowledge               participation are incorporated, various aware-&#13;
+of the work of SAIs.Without it, access to public           ness-raising actions should be implemented to&#13;
+information and citizen participation will only            expand the target audience. There are differ-&#13;
+involve the organizations that are professional-           ent ways to conduct this sort of actions. The&#13;
+ly devoted to monitoring government activities.            first step would consist in using general surveys&#13;
+Although it is true that in times of little partic-        about CSOs, which in general are already avail-&#13;
+ipation it is hard to attract attention to these           able.This will make it possible to identify a con-&#13;
+types of institutions, the experiences described           siderable number of thematic organizations that&#13;
+in the following section show that, when spac-             could take advantage of the information and&#13;
+es become available to make concrete contribu-             participation arrangements in the context of&#13;
+tions, multiple interested parties emerge. How-            SAIs. It is likewise useful to contact academic&#13;
+ever, in addition to opening up these spaces for           centers that conduct studies, research and field&#13;
+information and participation, it is necessary to          work with CSOs,10 foundations dedicated to&#13;
+actively conduct training efforts regarding the            promoting CSO networks,11 and the informa-&#13;
+subject matter. Such training should always ac-            tion networks CSOs may have set up to com-&#13;
+&#13;
+&#13;
+&#13;
+  Box 6.â&#128;&#130; Honduras: Training Activities Conducted by the Supreme Accounts Tribunal (Tribunal&#13;
+  Superior de Cuentas, TSC)&#13;
+&#13;
+  In the context of a project that was supported by the World Bank, the TSC implemented actions to improve&#13;
+  its interaction with citizens. Thus, it organized informational meetings, participatory training workshops&#13;
+  and conferences. The TSC created a Citizen Participation Directorate that is currently offering training&#13;
+  modules on: the organization of the State, citizen participation and social auditing, access to information&#13;
+  legislation, and participation in the Accounts Tribunal. They also initiated programs to engage citizens&#13;
+  and civic organizations in institutional control. Around 1,200 citizens attended the public presentation of&#13;
+  the results of the audits in each of the agencies that were audited.*&#13;
+&#13;
+  *Tribunal Superior de Cuentas de la RepÃºblica de Honduras 2007/2008.&#13;
+&amp;#12;12     Access to Public Information and Citizen Participation in Supreme Audit Institutions (Sai)&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+     municate among themselves.12 In turn, it is nec-       comments; citizen oversight committees; partic-&#13;
+     essary to adjust the language to the needs of the      ipation in audit supervision; and actions to dis-&#13;
+     various types of organizations.                        seminate auditing activities.&#13;
+          In Honduras, the Supreme Accounts Tribu-               At the same time, it is necessary to remain&#13;
+     nal has promoted actions to make its procedures        aware of the potential risks associated with the&#13;
+     public and the training of citizens in the work-       participation of CSOs in oversight activities. It&#13;
+     ings of the oversight system.                          is important, for example, for the selection of&#13;
+                                                            the audits to be carried out in compliance with&#13;
+                                                            objective priorities and relevant criteria, to pre-&#13;
+     3.2	 Opening Up the                                    vent an inappropriate influence of individual in-&#13;
+          External Oversight of                             terests.&#13;
+          Public Administration                                  This section presents good practices related&#13;
+                                                            to: i) the filing of citizen complaints to the SAIs;&#13;
+          to Citizen                                        ii) social participation in the definition of SAI&#13;
+          Participation                                     audits; iii) the establishment of coordinated au-&#13;
+                                                            dits and of citizen oversight committees; and iv)&#13;
+     As mentioned in the introduction, access to            the supervision of compliance with the recom-&#13;
+     public information and transparency in SAIs are        mendations made by the SAIs.&#13;
+     a sine qua non condition to ensure the participa-&#13;
+     tion of various non-state actors in the external       3.2.1	 The filing of citizen complaints&#13;
+     oversight system. But, at the same time, the par-&#13;
+     ticipation in these public spheres contributes to      It is commonplace for citizens to make the as-&#13;
+     the justification of access to information. They       sumption that in any government there are cer-&#13;
+     are two sides of the same coin, through which          tain areas where irregularities and corrupt ac-&#13;
+     non-governmental stakeholders are able to exer-        tions repeatedly take place. Such perception is&#13;
+     cise oversight over public administration.There-       damaging for the democratic system. If the as-&#13;
+     fore, as transparency and access to information        sumptions are true, it means that there are agen-&#13;
+     are broadened, public participation mechanisms         cies in which public resources are being inade-&#13;
+     should be promoted. In other words, informa-           quately invested. Even worse, such assumptions&#13;
+     tion is a necessary but not sufficient condition       help foster an image of public officials as those&#13;
+     for effective control. For that reason, it is neces-   who have no regard for the public good. Addi-&#13;
+     sary to move forward with the design of appro-         tionally, false assumptions contribute to unfair-&#13;
+     priate methodologies for citizen participation in      ly creating an inaccurate image of public offi-&#13;
+     fiscal control, defining the principles, roles and     cials without the possibility of demonstrating&#13;
+     scope of such participation, and introducing the       otherwise. It should be noted here that crim-&#13;
+     necessary institutional adjustments, including         inal courts only act upon concrete reports of&#13;
+     innovations in the auditing techniques that are        crime, which is not the case if there are on-&#13;
+     employed.                                              ly general assumptions of irregularities or in-&#13;
+          There are different ways of channeling such       efficiency.&#13;
+     participation: creating channels to receive com-            For these reasons, giving citizens the oppor-&#13;
+     plaints; participatory processes for the selection     tunity to file complaints,individually or through&#13;
+     of the agencies or programs to be audited; open-       CSOs, and to request audits of areas over which&#13;
+     ing up the audits to suggestions, proposals and        suspicions are harbored represents an innovative&#13;
+&amp;#12;                                            Good Practices to Strengthen the External Oversight System           13&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+  Box 7.â&#128;&#130; South Korea: Citizen Complaints Regarding Areas About Which They Harbor Suspicions&#13;
+&#13;
+  South Koreaâ&#128;&#153;s Superior Audit Office recently incorporated a system whereby citizens may request the&#13;
+  conduction of certain audits in areas suspected of irregularities or corrupt actions. The system has been&#13;
+  broadly disseminated in Korean society and has been receiving a growing number of requests. At the&#13;
+  same time, a committee has been established to assess the quality of proposals brought forward by CSOs&#13;
+  or citizens. Initially it was formed by four Auditor Generals and three civil society experts. Furthermore,&#13;
+  the ratio of representation was later reversed (four members appointed at the proposal of citizens and&#13;
+  three Auditor Generals), with the aim of making the system more open.*&#13;
+&#13;
+  *Pyun 2006.&#13;
+&#13;
+&#13;
+&#13;
+way of strengthening democracy. Citizen com-                     Likewise, in Peru, a mechanism to present&#13;
+plaints serve to channel social audit efforts that          complaints to that countryâ&#128;&#153;s Comptroller Gen-&#13;
+lack defined institutional channels, taking ad-             eral of the Republic has been established.&#13;
+vantage of proximity to society, thereby enhanc-&#13;
+ing the effectiveness of the control and oversight          3.2.2	 Participation in the selection&#13;
+functions implicit in the SAIâ&#128;&#153;s mandate. SAIs                      of agencies or programs to be&#13;
+â&#128;&#148;which as an indispensable prerequisite need                       audited&#13;
+to maintain full autonomy vis-Ã -vis the Execu-&#13;
+tive Branch, as indicated in the Declaration of             In a manner similar to that indicated above, it&#13;
+Mexico City on SAIsâ&#128;&#153; Independence by INTO-                  is desirable for the selection of audits not to&#13;
+SAIâ&#128;&#148;will have to take into account some of                  take place behind closed doors, but rather by&#13;
+these complaints and proceed to examine mat-                taking into account citizen concerns, gener-&#13;
+ters that would otherwise simply remain in the              ally based on recommendations made by in-&#13;
+realm of public perceptions.                                termediary organizations. CSOs have valuable&#13;
+     In this respect, South Korea has established           information derived from the work they carry&#13;
+a system whereby citizens may request that spe-             out. As these organizations progressively devel-&#13;
+cific audits be conducted in areas about which              op, they become diversified and specialized in&#13;
+they harbor suspicions.                                     thematic areas. Thus, with increasing frequen-&#13;
+&#13;
+&#13;
+&#13;
+  Box 8.â&#128;&#130; Peru: Complaints Reception Service at the Office of the Comptroller General of the&#13;
+  Republic&#13;
+&#13;
+  In 2003 the SAI passed a resolution establishing a mechanism that can be used by citizens (individually&#13;
+  or through organizations),officials, and servants to exercise the right to file complaints before the Office&#13;
+  of the Comptroller General. Pursuant to the agencyâ&#128;&#153;s resolution, the target of the complaints can be&#13;
+  actions or operations that are suspected as a result of acts or omission related to the undue, illegal, or&#13;
+  inefficient management and/or use of State assets or resources. The agency is banned from disclosing&#13;
+  data or information that could endanger the complainant. Once the admissibility of the complaint has&#13;
+  been determined, the agency is obliged to process it and verify the facts. The Comptroller is required&#13;
+  to communicate to the complainant the results of the process. As per the resolution itself indicates, as a&#13;
+  result of this mechanism, the Comptroller will benefit from the participation of civil society.*&#13;
+&#13;
+  *Resolution of Peruâ&#128;&#153;s Office of the Comptroller General No. 443/2003, December 31, 2003&#13;
+&amp;#12;14     Access to Public Information and Citizen Participation in Supreme Audit Institutions (Sai)&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+       Box 9.â&#128;&#130; Argentina: Participatory Process to Select Agencies or Programs to be Included in the&#13;
+       Annual Audit Plan&#13;
+&#13;
+       In 2005, the President of the National Audit Office (AuditorÃ­a General de la NaciÃ³n, AGN) informally&#13;
+       implemented an initiative through which the CSOs that had maintained some kind of relationship with the&#13;
+       agency were called to become part of a process whereby they could petition for the inclusion of programs&#13;
+       or agencies in the annual audit plan. The first meeting included a presentation of the initiative and an official&#13;
+       of the institution gave an introduction to the external oversight system and the type of audits that were&#13;
+       carried out, and detailed the type of proposals that could be presented by the CSOs. At the same time,&#13;
+       he made himself available to respond to any concerns that might emerge on the part of the organizations&#13;
+       between that time and the second meeting, when the organizations could submit their proposals. At the&#13;
+       second meeting, the representatives of the CSOs presented the proposals they had prepared. The AGN&#13;
+       officials made an assessment of each and explained whether, based on technical reasons, the initiative&#13;
+       was feasible, whether it was already included in the plan for the following year, whether the agency had&#13;
+       already been audited in the immediately preceding years, or if the proposal needed to be redrafted.&#13;
+       After these observations, the proposals were presented to the Board of Auditors, who decided on their&#13;
+       inclusion in the future plan. One of the most visible results of the process consisted in the introduction&#13;
+       of an analysis of accessibility for people with physical disabilities to the buildings of each of the agencies&#13;
+       to be audited. This proposal was presented by a CSO devoted to promoting the rights of people with&#13;
+       disabilities. It should be noted that the AGN had promised the attendants that it would provide written&#13;
+       feedback related to the assessment of each proposal, but failed to comply with this commitment. Such a&#13;
+       document would be recommendable in the context of these types of experiences, because it represents&#13;
+       a response to the petitions filed and a justification regarding those that were turned down.&#13;
+&#13;
+&#13;
+&#13;
+     cy, in regard to each public issue being debat-             reasons, it is valuable to incorporate CSOs in&#13;
+     ed, the specialized opinion of a CSO devoted                the mechanisms related to the selection of au-&#13;
+     to the issue of reference is sought. This is not            dits to be undertaken. It is a way of opening&#13;
+     only the case with the mass and community                   the process to society, taking into account the&#13;
+     media, but it is also frequent in the case of leg-          concerns arising and improving the channels of&#13;
+     islative committees, academic events and even               participatory democracy.&#13;
+     in the courts through the institution known as                   This type of practice may be illustrated with&#13;
+     amicus curiae (friends of the court). For the same          the following example of the AGN in Argentina.&#13;
+&#13;
+&#13;
+       Box 10.â&#128;&#130; Honduras: Citizen Collaboration with the Work of the Superior Accounts Tribunal&#13;
+&#13;
+       According to the Superior Accounts Tribunal itself, the experience of engaging citizens and civil organiza-&#13;
+       tions in the agencyâ&#128;&#153;s audits between August 2007 and March 2008 had very satisfactory results. A recent&#13;
+       quantitative assessment indicated that such participation made it possible to detect 186 internal control&#13;
+       deficiencies and make 199 management and 23 legality recommendations. Furthermore, 41 findings&#13;
+       generated 155 civil liabilities for over US$1.6 million; representing 64 percent of the total detected by&#13;
+       the Superior Accounts Tribunal.&#13;
+&#13;
+       According to the Tribunal, â&#128;&#156;the establishment of effective and dynamic relations between institutional&#13;
+       oversight and citizens implies, on the part of the auditor, adopting an attitude sensitive to dialogue, as&#13;
+       well as a broad disposition towards an understanding of the social issues underlying the services delivered&#13;
+       by the agencies that are auditedâ&#128;&#157;*&#13;
+&#13;
+       *See www.tsc.gob.hn/PDFS/PARTICIPACION%20CIUD/proyecto_balance%20pdf.pdf&#13;
+&amp;#12;                                              Good Practices to Strengthen the External Oversight System               15&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+3.2.3	 Coordinated Audits and Citizen                             Likewise, in Colombia, citizen oversight&#13;
+       Oversight Committees                                    committees allow the exercise of an autono-&#13;
+                                                               mous oversight of public management.&#13;
+This is a mechanism whereby groups of cit-&#13;
+izens become actively involved in audit pro-                   3.2.4	 Participation in the monitoring&#13;
+cesses. For example, a CSO may propose that                           of compliance with audit&#13;
+a multi-member body, made up of renowned                              recommendations&#13;
+experts in the subject-matter to be addressed,&#13;
+jointly participate along with the auditors that               The Seventh Principle of the Declaration of the&#13;
+will conduct the investigations within a certain               City of Mexico on SAIsâ&#128;&#153; Independence (issued&#13;
+agency or program. In this way, a valuable inter-              by INTOSAI in November 2007) establish-&#13;
+action takes place between public servants and                 es that there should be effective mechanisms in&#13;
+qualified professionals coming from non-gov-                   place to monitor the recommendations from the&#13;
+ernmental sectors, also achieving an improved                  audits. In addition to the requirement for them&#13;
+control of the audited agencies and the strength-              to send their reports to the body responsible for&#13;
+ening of the SAIs.                                             their examination (Congress or the Judiciary,&#13;
+     Citizen participation in Honduras has con-                in accordance with the SAI models previous-&#13;
+tributed to strengthen the auditing efforts con-               ly described), the Declaration notes that SAIs&#13;
+ducted by the Superior Accounts Tribunal                       should have an internal mechanism to monitor&#13;
+through coordinated audits.                                    compliance with the recommendations includ-&#13;
+&#13;
+&#13;
+&#13;
+  Box 11. Colombia: Citizen Oversight Committees in the Office if the Comptroller General of the&#13;
+  Republic (ContralorÃ­a General de la RepÃºblica, CGR)&#13;
+&#13;
+  Article 270 of the National Constitution establishes that the â&#128;&#156;The Law will organize the ways and systems&#13;
+  for citizen participation to take place in a manner that allows for oversight of public management at the&#13;
+  various administrative levels and regarding its outcomes.â&#128;&#157;&#13;
+&#13;
+  Two laws (passed in 1994 and 2003)* regulated the concept of â&#128;&#152;citizen oversight committees,â&#128;&#153; which are&#13;
+  democratic forms of representation that allow citizens and various community organizations to exercise&#13;
+  oversight on public management processes involving administrative, political, judicial, electoral, and&#13;
+  legislative authorities. To be eligible, a committee must have members with the technical skills required&#13;
+  to undertake particular projects (lawyers to examine contracts, engineers to evaluate constructions, and&#13;
+  so forth).&#13;
+&#13;
+  From 1999 (the year when the Citizen Participation in Fiscal Control Program was launched by the CGR)&#13;
+  to 2003, the CGR promoted the Citizen Oversight Committees (ComitÃ©s de Vigilancia Ciudadana, CVC),&#13;
+  as a form of citizen audit.Â§ Later, with the passing of Law 850 in 2003, the possibility opened up for Citizen&#13;
+  Oversight Committees to apply to the CGR, through an exceptional way of control (control exercised over&#13;
+  territorial resources), for conducting audits of departmental or municipal agencies that manage national&#13;
+  resources. Currently, the Citizen Oversight Committees contribute to the audits processes performed by&#13;
+  the CGR through the filing of complaints.â&#128; &#13;
+&#13;
+  * Law 134 of 1994 and Law 850 of 2003.&#13;
+  Â§&#13;
+    VelÃ¡squez Leal 2002.&#13;
+  â&#128; &#13;
+    Participatory Fiscal Control is constituted by five components: Information, Training, Organization, Coordinated&#13;
+  Audits and Complaints Reception System (www.contraloriagen.gov.co)&#13;
+&amp;#12;16     Access to Public Information and Citizen Participation in Supreme Audit Institutions (Sai)&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+     ed in their audit reports. It is, evidently, an ap-    that civil society can play in following up on the&#13;
+     propriate measure, given the failures detected in      implementation of the recommendations is fun-&#13;
+     the diagnosis that are undertaken regarding the        damental.14&#13;
+     external audit systems.13 In this sense, the role&#13;
+&amp;#12;4&#13;
+       Table: Summary of&#13;
+       Good Practices&#13;
+&#13;
+                      Practices                         Experience 1                  Experience 2&#13;
+&#13;
+                      Dissemination of the audit        Website developed by          Digital Bulletin of the&#13;
+                      reports produced by SAIs          the union of audit agen-      National Audit Office&#13;
+                                                        cies (www.elauditor.info),    (Argentina)&#13;
+                                                        (Argentina)&#13;
+                      Disclosure of institutional infor- Agreement between the        Transparency in the work&#13;
+                      mation related to the external Superior Audit Office of         of the legislative commis-&#13;
+                      audit system                       the Federation and the       sion that examines audit&#13;
+                                                         Federal Institute for Ac-    reports (Argentina)&#13;
+    Improvement in                                       cess to Public Information&#13;
+    the information                                      to promote transparency&#13;
+    related to the                                       in the oversight function&#13;
+    external over-                                       (Mexico)&#13;
+    sight system&#13;
+                      Dissemination of informa-         Civil societyâ&#128;&#153;s proposal&#13;
+                      tion related to the Auditorsâ&#128;&#153;     on the appointment of&#13;
+                      selection process to citizens     members of the Accounts&#13;
+                      (and opening the process to       Chamber (Dominican&#13;
+                      participation)                    Republic)&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                      Citizen training on the external Training activities con-&#13;
+                      audit system                     ducted by the Superior&#13;
+                                                       Accounts Tribunal (Hon-&#13;
+                                                       duras)&#13;
+&#13;
+&#13;
+                                                                                         (continued on next page)&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                       17&#13;
+&amp;#12;18     Access to Public Information and Citizen Participation in Supreme Audit Institutions (Sai)&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                          Practices                        Experience 1                Experience 2&#13;
+&#13;
+                          Opening up to the filing of citi- Citizen complaints re-     Complaints Reception&#13;
+                          zen complaints before the SAI garding areas over which       Service of the Office of&#13;
+                                                            they harbor suspicions     the Comptroller General&#13;
+                                                            (South Korea)              of the Republic (Peru)&#13;
+                          Participation in the selection   Annual participatory pro-&#13;
+                          of agencies or programs to be    cess for the selection of&#13;
+                          audited.                         agencies or programs to&#13;
+                                                           be audited (Argentina)&#13;
+     Opening Up to&#13;
+     citizen participa-   Coordinated audits and Citizen Citizen Oversight Com-        Citizen participation in&#13;
+     tion in the exter-   Oversight Committees           mittees in the Office of      the auditing efforts of&#13;
+     nal oversight of                                    the Comptroller General       the Accounts Tribunal&#13;
+     public adminis-                                     of the Republic (Colom-       (Honduras)&#13;
+     tration                                             bia)&#13;
+                          Participation in monitoring&#13;
+                          compliance with auditsâ&#128;&#153; recom-&#13;
+                          mendations.&#13;
+&#13;
+     Source: Author.&#13;
+&amp;#12;5&#13;
+        Final Observations&#13;
+&#13;
+    The practices and experiences regarding access             tion. Undoubtedly, a strong international move-&#13;
+    to information and citizen participation that              ment is a critical resource that citizens have to&#13;
+    are reviewed in this document reflect a certain            promote positive changes in local contexts that&#13;
+    progress towards strengthening the control sys-            lack adequate incentives.&#13;
+    tem, something that is indispensable for inclu-                 Consensus is increasingly growing within&#13;
+    sive governance. However, the survey also in-              the global community on the relevance of SAIs,&#13;
+    dicates that states have not taken concrete steps,         their transparency and the need to be open to&#13;
+    but rather isolated measures that only form a pic-         citizen participation. Some of the good prac-&#13;
+    tureâ&#128;&#148;even if incompleteâ&#128;&#148;when seen in com-                  tices mentioned in this document are, precisely,&#13;
+    bination with the measures that have been taken            the result of the work of different CSOs and in-&#13;
+    by others. Experience also shows that political            ternational institutions. Undoubtedly, this is the&#13;
+    powers have no incentive to produce compre-                road to be traveled, only at a faster pace.&#13;
+    hensive reforms. The worst-intentioned officials                This document presents a series of good&#13;
+    fear becoming the target of scrutiny, and those            practices designed to strengthen external au-&#13;
+    that are well-intentioned are concerned about a            dit systems. As indicated in the introduction, the&#13;
+    greater bureaucratization of public management.            collaboration between SAIs and CSOs is an ar-&#13;
+    As a consequence, measures toward openness                 ea of development that is only beginning to re-&#13;
+    and transparency are usually only taken when               ceive the attention it merits. In this sense, there&#13;
+    serious effects emerge as a result of poor prac-           are a series of issues that would benefit from fur-&#13;
+    tices and, consequently, cause a public outcry for         ther research and analysis. Among those that de-&#13;
+    change. For example, the latest political crises in        mand a more complete understanding, the fol-&#13;
+    Latin American countries have shown to be fa-              lowing can be listed:&#13;
+    vorable opportunities for the adoption of trans-&#13;
+    parency and participation rules.                           â&#128;¢	   Evaluating the impact of the various prac-&#13;
+         The international community may provide                    tices and collaboration mechanisms be-&#13;
+    an adequate context to achieve greater prog-                    tween SAIs and CSOs that were examined.&#13;
+    ress. In that framework, international organiza-           â&#128;¢	   Analyzing the relationship between trans-&#13;
+    tions such as INTOSAIâ&#128;&#148;and the respective re-                    parency and participation in the external&#13;
+    gional organizationsâ&#128;&#148;are fundamental players                    audit system.&#13;
+    to continue promoting changes. The same ap-                â&#128;¢	   Examining whether any of the external au-&#13;
+    plies to the international treaties against corrup-             dit models (legislative, judicial, autonomous)&#13;
+&#13;
+                                                          19&#13;
+&amp;#12;20        Access to Public Information and Citizen Participation in Supreme Audit Institutions (Sai)&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+            is more effective in creating channels for ac-     â&#128;¢	   Investigating the conditions that facilitate&#13;
+            cess to public information and civil society            transparency and social participation in SAIs.&#13;
+            participation in regards to SAIs.&#13;
+     â&#128;¢	     Examining the impact of access to pub-&#13;
+            lic information laws on the opening of the&#13;
+            SAIs in practice.&#13;
+&amp;#12;6&#13;
+        References&#13;
+&#13;
+    AsociaciÃ³n Civil por la Igualdad y la Justicia                  vista de ReflexiÃ³n y AnÃ¡lisis PolÃ­tico, NÂº 7,&#13;
+        (ACIJ). 2005. En busca del control perdido, Vol.            Buenos Aires, Argentina, May.&#13;
+        1 a 4, Buenos Aires, Argentina.                         OLACEFS. 2004. â&#128;&#156;Control Ciudadano: Expe-&#13;
+    Daily Hoy. 2008. Santo Domingo, Dominican                       riencias de las Entidades Fiscalizadoras Su-&#13;
+        Republic. July 5-10.                                        periores.â&#128;&#157; XIV Asamblea General Ordina-&#13;
+    FernÃ¥ndez, Francisco. 2004. Organismos de control               ria de la OrganizaciÃ³n Latinoamericana de&#13;
+        en los paises delMERCOSUR. Editorial As-                    Entidades Fiscalizadoras Superiores, Buenos&#13;
+        trea, Buenos Aires, Argentina.                              Aires, Argentina.&#13;
+    GonzÃ¡lez de Rebella, Liliana. 2005. â&#128;&#156;Democra-               Peruzzotti, Enrique and Smulovitz, Catalina.&#13;
+        cia, accountability: control y el sistema me-               2001. Controlando la polÃ­tica: ciudadanos y me-&#13;
+        ritocrÃ¡tico, el caso de la AuditorÃ­a General                dios en las nuevas democracias latinoamericanas.&#13;
+        de la NaciÃ³n.â&#128;&#157; 3Âº Congreso Argentino de                     Temas Grupo Editor, Buenos Aires, Argen-&#13;
+        AdministraciÃ³n PÃºblica. Sociedad, Estado y                  tina.&#13;
+        AdministraciÃ³n, San Miguel de TucumÃ¡n,                  Peruzzotti, Enrique. 2007. â&#128;&#156;The workings of&#13;
+        Argentina. June 2-4.                                        social accountability: Context and condi-&#13;
+    Herrero, Ã&#129;lvaro and Gaspar LÃ³pez. 2008. â&#128;&#156;Ac-                    tions.â&#128;&#156; Workshop Generating Genuine De-&#13;
+        ceso a la informaciÃ³n y transparencia en el                 mand with Social Accountability Mecha-&#13;
+        Poder Judicial: GuÃ­a de buenas prÃ¡cticas en                 nisms, Paris. November 1-2.&#13;
+        AmÃ©rica Latina.â&#128;&#157; Mimeo. AsociaciÃ³n por los              Pyun, Ho-Bum. 2006. â&#128;&#156;Audit and civil society:&#13;
+        Derechos Civiles, Buenos Aires, Argentina.                  The Korean experience.â&#128;&#157; International Jo-&#13;
+    INTOSAI. 2007. â&#128;&#156;Acuerdos de MÃ©xico.â&#128;&#157; Mexi-                      urnal of Government Auditing. April. Avai-&#13;
+        co City, Mexico. November 5-10, at www.                     lable at http://findarticles.com/p/articles/&#13;
+        intosai.org/blueline/upload/accordsesp.pdf.                 mi_qa3662/is_200604/ai_n17175680.&#13;
+    MÃ¡rquez GÃ³mez, Daniel. 2005. â&#128;&#156;FunciÃ³n jurÃ­di-               Ramkumar,Vivek. 2007. â&#128;&#156;Expanding collabora-&#13;
+        ca de control de la administraciÃ³n pÃºblica.â&#128;&#157;                tion between SAIs and Civil Society.â&#128;&#157; In-&#13;
+        Universidad Nacional AutÃ³noma de MÃ©xi-                      ternational Journal of Government Audi-&#13;
+        co (UNAM). Mexico City, Mexico.                             ting. April.&#13;
+    Oâ&#128;&#153;Donnell, Guillermo, 2001. â&#128;&#156;Accountability                 Ramkumar, Vivek. 2007. â&#128;&#156;Our money, our res-&#13;
+        Horizontal: La institucionalizaciÃ³n legal de                ponsibility: A citizensâ&#128;&#153; guide to monitoring&#13;
+        la desconfianza polÃ­tica.â&#128;&#157; POSTData, Re-                    government expenditures.â&#128;&#157; International&#13;
+&#13;
+&#13;
+                                                           21&#13;
+&amp;#12;22     Access to Public Information and Citizen Participation in Supreme Audit Institutions (Sai)&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+         Budget Project. Available at www.interna-              Available at: http://unpan1.un.org/intra-&#13;
+         tionalbudget.org.                                      doc/groups/public/documents/UN/UN-&#13;
+     Tribunal Superior de Cuentas de la RepÃºbli-                PAN021950.pdf.&#13;
+         ca de Honduras. 2007/2008. â&#128;&#156;Democratiza-           VallÃ¨s Vives, Francesc. 2002. Control externo del&#13;
+         ciÃ³n del control institucional: Balance de la          gasto pÃºblico y Estado constitucional. Universi-&#13;
+         vinculaciÃ³n de la ciudadanÃ­a y organizacio-            dad AutÃ³noma de Barcelona, Barcelona, Es-&#13;
+         nes civiles a los procesos auditores del Tri-          paÃ±a.&#13;
+         bunal Superior de Cuentas de la RepÃºblica          VelÃ¡squez Leal, Luis Fernando. 2002. â&#128;&#156;Moder-&#13;
+         de Honduras.â&#128;&#157; Available at www.tsc.gob.                nizaciÃ³n institucional y gerencia pÃºbli-&#13;
+         hn/PDFS/PARTICIPACION%20CI-                            ca: Apuntes sobre la experiencia de la par-&#13;
+         UD/proyecto_balance%20pdf.pdf.                         ticipaciÃ³n ciudadana en el Control Fiscal&#13;
+     United Nations (UN). 2005. â&#128;&#156;Auditing for so-               en Colombia.â&#128;&#157; 3Âº Congreso Iberoamerica-&#13;
+        cial change: A strategy for citizen engage-             no de Gerencia de Proyectos, Caracas,Vene-&#13;
+        ment in public sector accountability.â&#128;&#157; De-              zuela, July 10-12.&#13;
+        partment of Economics and Social Affairs.&#13;
+&amp;#12;     Endnotes&#13;
+&#13;
+1â&#128;&#131;&#13;
+    The original version of this document was published, in         ty and CEDES, at www.utdt.edu/ver_contenido.php?id_&#13;
+Spanish, in 2009.                                                   contenido=181&amp;id_item_menu=823.&#13;
+2â&#128;&#131;                                                                  11â&#128;&#131;&#13;
+    For more information, see the organizationâ&#128;&#153;s website at             See, for example, the work of the Avina Foundation, at&#13;
+www.intosai.org.                                                    www.avina.net.&#13;
+3â&#128;&#131;                                                                  12â&#128;&#131;&#13;
+    INTOSAI 2007.                                                       In Argentina, see Red InfocÃ­vica, at www.infocivica.&#13;
+4â&#128;&#131;&#13;
+    Ramkumar 2007b.                                                 org.ar.&#13;
+5â&#128;&#131;                                                                  13â&#128;&#131;&#13;
+    GonzÃ¡lez de Rebella 2005.                                           See, for example, ACIJ 2005.&#13;
+6â&#128;&#131;                                                                  14â&#128;&#131;&#13;
+    OLACEFS 2004.                                                       As indicated in Box 6, the Superior Accounts Tribu-&#13;
+7â&#128;&#131;&#13;
+    There is a real tension between the secrecy required to         nal (Tribunal Superior de Cuentas, TSC) of Honduras de-&#13;
+conduct certain stages of oversight activities and the im-          signed a methodology to involve citizens and civil soci-&#13;
+portance of social participation in them. There should be           ety organizations in monitoring the recommendations for&#13;
+mechanisms to establish clear rules to increase transparen-         improvement as a result of a pilot project which included&#13;
+cy in oversight activities without raising questions about          eight audits involving citizen participation in the educa-&#13;
+the objectivity of the process.The handling of sensitive and        tion, health, municipalities and infrastructure sectors. This&#13;
+confidential information should be submitted to known               methodology was adopted through a formal signing (in a&#13;
+and predictable rules.                                              public event) by citizens, the audited agency and the TSC.&#13;
+8â&#128;&#131;&#13;
+    Herrero and LÃ³pez 2008.                                         Currently, citizens and their organizations and the TSC,&#13;
+9â&#128;&#131;&#13;
+    Herrero and LÃ³pez 2008.                                         through the Directorate of Supervision and Monitoring,&#13;
+10â&#128;&#131;&#13;
+     See, for example, in Argentina, the postgraduate               monitor the implementation of the recommendations that&#13;
+course in civil society organizations organized by the              are formulated as part of this exercise.&#13;
+University of San AndrÃ©s, Torcuato Di Tella Universi-&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                               23&#13;
+&amp;#12;About the World Bank Instituteâ&#128;&#153;s Governance Practice&#13;
+Governance is one of seven priority themes in the World Bank Instituteâ&#128;&#153;s recently launched renewal strat-&#13;
+egyâ&#128;&#148;a strategy that responds to client demand for peer-to-peer learning by grounding WBIâ&#128;&#153;s work in the&#13;
+distillation and dissemination of practitioner experiences. The Institute is committed to building knowledge&#13;
+and capacity on the â&#128;&#156;how toâ&#128;&#157; of governance reforms, with emphasis on supporting and sustaining multi-&#13;
+stakeholder engagement in bringing about such reforms.&#13;
+&#13;
+WBIâ&#128;&#153;s Governance Practice works with partners, including networks of country and regional institutions, to&#13;
+develop and replicate customized learning programs. Its programmatic approach aims at building multi-&#13;
+stakeholder coalitions and in creating collaborative platforms and peer networks for knowledge exchange.&#13;
+&#13;
+The Practice focuses on three thematic areas: governance of extractive industries, procurement reform,&#13;
+and access to information. A fourth program supports anti-corruption programs for Parliamentarians, the&#13;
+Judiciary and the Private Sector. A Mobilizing Stakeholders for Reform group links stakeholder groups in&#13;
+support of these priority areas, documents and codifies knowledge, and builds capacity in cross-cutting&#13;
+areas. And lastlyâ&#128;&#148;but importantlyâ&#128;&#148;a Leadership Development Program focuses on strengthening the ca-&#13;
+pacity of potential leaders to harness the energies of stakeholder groups and to and channel these efforts&#13;
+toward reform.&#13;
+&#13;
+For further information:&#13;
+WBI&#13;
+The World Bank&#13;
+1818 H Street, NW&#13;
+Washington, DC 20433&#13;
+Fax: 202-522-1492&#13;
+&#13;
+Visit us on the web at: http://wbi.worldbank.org/wbi/topics/governance&#13;
+&#13;
+&#13;
+&#13;
+Photo Credits: (Front cover) istockphotos.com.&#13;
+&amp;#12;</ml:original-txt><ml:search-metadata><doc id="25237513">
+        <url>
+            http://documents.worldbank.org/curated/en/2015/11/25237513/access-public-information-citizen-participation-supreme-audit-institutions-sai-guide-good-practices
+        </url>
+        <availablein>English</availablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2015/11/25237513/access-public-information-citizen-participation-supreme-audit-institutions-sai-guide-good-practices</url_friendly_title>
+        <new_url>2015/11/25237513/access-public-information-citizen-participation-supreme-audit-institutions-sai-guide-good-practices</new_url>
+        <disclosure_date>2015-11-01T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2015-11-02T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <docm_id>090224b0831869a6</docm_id>
+        <chronical_docm_id>090224b083185cfe</chronical_docm_id>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2015/11/02/090224b0831869a6/2_0/Rendered/INDEX/Access0to0publ0de0to0good0practices.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2015/11/02/090224b0831869a6/2_0/Rendered/PDF/Access0to0publ0de0to0good0practices.pdf</pdfurl>
+        <datestored>2015-11-02T00:00:00Z</datestored>
+        <docdt>2010-01-01T03:02:03Z</docdt>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            Access to public information and citizen
+            participation in supreme audit institutions (SAI) : guide to
+            good practices
+        </repnme>
+        <abstracts>
+            External oversight agencies perform a
+            fundamental role in monitoring the exercise of power in
+            democratic regimes, especially in countries characterized by
+            high corruption rates and inefficiency in public management.
+            Despite their importance, however, they do not usually have
+            strong links to society. This document highlights the
+            importance of access to public information in these external
+            oversight agencies and the consequent use of such
+            information in the promotion of participatory mechanisms in
+            the oversight work conducted by supreme audit institutions
+            (SAI). As evidenced in this document, such practices can be
+            generated from the audit institutions towards society
+            (top-down) as well as from society towards these agencies
+            (bottom-up). It should be noted that it is still too early
+            to identify particularly successful practices, since in most
+            cases these are incipient experiences that are currently
+            being implemented, and began only a short time ago. It is
+            also worthwhile noting that the experiences compiled in this
+            document come from various countries, with special emphasis
+            in Latin America.
+        </abstracts>
+        <docna>
+            Access to public information and citizen
+            participation in supreme audit institutions (SAI) : guide to
+            good practices
+        </docna>
+        <display_title>Access to public information and
+            citizen participation in supreme audit institutions (SAI) :
+            guide to good practices</display_title>
+        <listing_relative_url>/research/2010/01/25237513/access-public-information-citizen-participation-supreme-audit-institutions-sai-guide-good-practices</listing_relative_url>
+        <topic>Information Management m1327335 655,Disclosure of Information m1327689 1244,Management Information Systems m1326540 730,Right to Information m1327454 2031,Information Auditing and Compliance
+            m1326178 2373</topic>
+        <subtopic>Social Accountability,Knowledge for Development,Governance Indicators,Children and Youth,E-Government</subtopic>
+        <docty>WBI Working Paper</docty>
+        <teratopic>Education,Governance,Social Development</teratopic>
+        <count>Latin America</count>
+        <authors>
+            <author>Nino, Ezequiel</author>
+        </authors>
+        <entityids>
+            <entityid>090224b0831869a6_2_0</entityid>
+        </entityids>
+        <admreg>Latin America &amp; Caribbean,Latin America &amp; Caribbean</admreg>
+        <colti>Governance working paper series</colti>
+        <lang>English</lang>
+        <historic_topic>Education,Governance,Social Development</historic_topic>
+        <topicv3>Information Management m1327335 655,Disclosure of Information m1327689 1244,Management Information Systems m1326540 730,Right to Information m1327454 2031,Information Auditing and Compliance
+            m1326178 2373</topicv3>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            skills, public officials, extractive
+            industries, advocacy, regulatory framework, feedback, civic
+            organizations, reform, income, government, community
+            organizations, legislative committees, good governance,
+            information, services, monitoring, incentives, citizen
+            oversight, decisions, institutional information, municipal
+            agencies, crime, corruption, subject matter expert,
+            treaties, oversight, mobilization, civil society
+            organizations, bureaucracy, review, audits, credibility,
+            collaboration, knowledge, courts, accountability systems,
+            institutions, public policy, data, public information,
+            participatory processes, document, relevance, institutional
+            strengthening, contracts, engaging citizens, budget
+            allocation, citizen participation, civil society, democracy,
+            political power, citizen, experts, documents, legislation,
+            government transparency, learning, access, indicators,
+            monitoring compliance, research, journalists, process,
+            service delivery, democratic regimes, practice, governance
+            reforms, efficiency, effective mechanisms, participatory
+            democracy, access to information, participation mechanisms,
+            people with disabilities, grant, national security, social
+            participation, public opinion, accountability, jurisdiction,
+            public perceptions, transparency, participation, survey,
+            investigation, stakeholders, accessibility, processes,
+            social accountability, reports, workshop, anti-corruption,
+            public oversight, local media, participatory process, logic,
+            investigations, openness, corrupt actions, workshops, public
+            institutions, civil society engagement, assumptions,
+            international community, citizens, media, governance,
+            governmental agencies, human rights, public agencies,
+            consensus, government agencies, understanding, social audit,
+            security, public participation, judicial systems, partners,
+            public administration, crises, citizen complaints,
+            stakeholder, dissemination of information, law, legislative
+            branch, community, audit, government information, public
+            accountability, database, social issues, stakeholder
+            engagement, public good, budget project, service,
+            innovations, auditing
+        </keywd>
+        <owner>Governance - GP (GGODR)</owner>
+        <repnb>80758</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>Social Development &amp; Poverty</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Economic Management</ml:concept><ml:concept>Macroeconomic Management</ml:concept><ml:concept>Macroeconomic Policy</ml:concept><ml:concept>Macroeconomics Policy</ml:concept><ml:concept>Macroeconomics and Economic Growth</ml:concept><ml:concept>Macroeconomics and Growth</ml:concept><ml:concept>Teaching and Learning</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Social Protections and Labor</ml:concept><ml:concept>Social Development</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Fragility, Conflict and Violence</ml:concept><ml:concept>Arts and Culture</ml:concept><ml:concept>Macroeconomic and Structural Policies</ml:concept><ml:concept>Education</ml:concept><ml:concept>Health, Nutrition and Population</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Social Protection and Labor</ml:concept><ml:concept>Legislation and Regulation</ml:concept><ml:concept>Alternative Sentencing Options</ml:concept><ml:concept>Community Policing</ml:concept><ml:concept>Community based Policing</ml:concept><ml:concept>Correctional Services and Facilities</ml:concept><ml:concept>Corrections</ml:concept><ml:concept>Crime Policies</ml:concept><ml:concept>Crime Prevention</ml:concept><ml:concept>Crime and Society</ml:concept><ml:concept>Defense Services</ml:concept><ml:concept>Detention</ml:concept><ml:concept>Enforcement Policies and Oversight Mechanism</ml:concept><ml:concept>Forensic</ml:concept><ml:concept>Forensic Services</ml:concept><ml:concept>Investigation</ml:concept><ml:concept>Investigative Task Force Police</ml:concept><ml:concept>Juvenile Justice</ml:concept><ml:concept>Law Enforcement</ml:concept><ml:concept>Offender Reintegration</ml:concept><ml:concept>Police Administration and Management</ml:concept><ml:concept>Police Reform</ml:concept><ml:concept>Problem solving Policing</ml:concept><ml:concept>Prosecution</ml:concept><ml:concept>Restorative Justice</ml:concept><ml:concept>Therapeutic Justice</ml:concept><ml:concept>Victim Assistance</ml:concept><ml:concept>Victim Services</ml:concept><ml:concept>Victim-Offender Mediation</ml:concept><ml:concept>Disabilities</ml:concept><ml:concept>Health and Disability</ml:concept><ml:concept>Asset Recovery</ml:concept><ml:concept>Access to Information</ml:concept><ml:concept>Freedom of Information</ml:concept><ml:concept>Immunity Provisions and Protections</ml:concept><ml:concept>Demographics</ml:concept><ml:concept>Administrative and Civil Service Reform</ml:concept><ml:concept>Public Administration Reform</ml:concept><ml:concept>Public Management and Employment</ml:concept><ml:concept>Analysis &amp; Monitoring</ml:concept><ml:concept>Delivery Units</ml:concept><ml:concept>Grievance Redress</ml:concept><ml:concept>Indicators</ml:concept><ml:concept>M&amp;E</ml:concept><ml:concept>Performance Measurement</ml:concept><ml:concept>Performance Reviews</ml:concept><ml:concept>Rapid Results Approaches</ml:concept><ml:concept>Participation, Empowerment and Accountability</ml:concept><ml:concept>Social Accountability and Demand for Good Governance</ml:concept><ml:concept>Governance and Public Accountability (GPA)</ml:concept><ml:concept>Incentives for Good Government</ml:concept><ml:concept>National Governance</ml:concept><ml:concept>Demand for Good Governance</ml:concept><ml:concept>Open Government, Accountability and Transparency</ml:concept><ml:concept>Social Accountability</ml:concept><ml:concept>Checks on Executive Power</ml:concept><ml:concept>Citizen Oversight</ml:concept><ml:concept>Citizen User Satisfaction Survey</ml:concept><ml:concept>Independent Commissions</ml:concept><ml:concept>Ombudsmen</ml:concept><ml:concept>Oversight</ml:concept><ml:concept>Parliament</ml:concept><ml:concept>Procurement Complaints Review Institutions</ml:concept><ml:concept>Supreme Audit Institutions</ml:concept><ml:concept>Civil Society</ml:concept><ml:concept>Disability</ml:concept><ml:concept>Income</ml:concept><ml:concept>Legislation</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Media</ml:concept><ml:concept>Criminal Justice</ml:concept><ml:concept>Expenditure Efficiency</ml:concept><ml:concept>Health of the Disabled</ml:concept><ml:concept>Examinations</ml:concept><ml:concept>Placement</ml:concept><ml:concept>Right to Information</ml:concept><ml:concept>External Audit</ml:concept><ml:concept>Human Rights</ml:concept><ml:concept>Population</ml:concept><ml:concept>Monitoring and Evaluation</ml:concept><ml:concept>Governance</ml:concept><ml:concept>Open Government and Transparency</ml:concept><ml:concept>Public Accountability Mechanisms</ml:concept></ml:concepts><ml:geo-regions><ml:geo-region>Americas</ml:geo-region><ml:geo-region>Caribbean</ml:geo-region></ml:geo-regions></ml:annotations></ml:doc-envelope>

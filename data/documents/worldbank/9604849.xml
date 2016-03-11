@@ -1,0 +1,1192 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>                                                                  44295&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Economic Impacts&#13;
+  of Sanitation in&#13;
+                   Cambodia&#13;
+                                                   Summary&#13;
+&#13;
+                               A five-country study conducted in&#13;
+                               Cambodia, Indonesia, Lao PDR,&#13;
+                               The Philippines and Vietnam&#13;
+                               under the Economics of Sanitation Initiative (ESI)&#13;
+&#13;
+&#13;
+&#13;
+   Water and Sanitation Program - East Asia and the Pacific (WSP-EAP)&#13;
+                               World Bank&#13;
+                     East Asia and the Pacific Region&#13;
+&#13;
+&#13;
+&#13;
+                                2008&#13;
+&amp;#12;&#13;
+Contents&#13;
+&#13;
+  CONTENTS                                                                            2&#13;
+&#13;
+  FOREWORD                                                                            3&#13;
+&#13;
+  ACKNOWLEDGEMENTS                                                                    4&#13;
+&#13;
+  EXECUTIVE SUMMARY                                                                   7&#13;
+&#13;
+  1. INTRODUCTION                                                                     9&#13;
+&#13;
+  2. METHODS                                                                          11&#13;
+&#13;
+     2.1 STUDY APPROACH                                                               11&#13;
+&#13;
+     2.2 SCOPE OF SANITATION                                                          11&#13;
+&#13;
+     2.3 IMPACTS EVALUATED                                                            12&#13;
+&#13;
+     2.4 IMPACT MITIGATION                                                            12&#13;
+&#13;
+  3. RESULT                                                                           14&#13;
+&#13;
+     3.1 HEALTH IMPACTS                                                               14&#13;
+&#13;
+     3.2 WATER RESOURCE IMPACTS                                                       16&#13;
+&#13;
+     3.3 ENVIRONMENTAL IMPACTS                                                        19&#13;
+&#13;
+     3.4 OTHER WELFARE IMPACTS                                                        20&#13;
+&#13;
+     3.5 TOURISM IMPACTS                                                              23&#13;
+&#13;
+     3.6 OVERALL ECONOMIC IMPACTS OF POOR SANITATION                                  24&#13;
+&#13;
+  4. RECOMMENDATIONS                                                                  27&#13;
+&#13;
+  ABBREVIATIONS                                                                       28&#13;
+&#13;
+  REFERENCES                                                                          29&#13;
+&#13;
+&#13;
+&#13;
+  Tables&#13;
+&#13;
+  Table 1. Aspects of sanitation included and excluded in the present study           12&#13;
+&#13;
+  Table 2. Features of sanitation interventions for assessing economic gains          13&#13;
+&#13;
+  Table 3. Summary of health impacts by disease due to poor sanitation and hygiene    14&#13;
+&#13;
+  Table 4. Total health-related costs                                                 15&#13;
+&#13;
+  Table 5. Daily release of polluting substances to inland and ground water bodies    17&#13;
+&#13;
+  Table 6. Selected water quality measurements in Cambodia                            17&#13;
+&#13;
+  Table 7. Unit cost of water                                                         18&#13;
+&#13;
+  Table 8. Time used accessing latrines                                               21&#13;
+&#13;
+  Table 9. Economic impact of lower tourist numbers                                   23&#13;
+&#13;
+  Table 10. Predicted financial and economic gains from improved sanitation           26&#13;
+&#13;
+&#13;
+&#13;
+  Figures&#13;
+&#13;
+  Figure 1. Improved sanitation coverage measured in different surveys in Cambodia    9&#13;
+&#13;
+  Figure 2. Contribution of different costs to total cost, by disease                 16&#13;
+&#13;
+  Figure 3. Water-related financial and economic costs due to poor sanitation         18&#13;
+&#13;
+  Figure 4. Perceived importance of improved latrine to households                    20&#13;
+&#13;
+  Figure 5. Female school drop-out rate vs. school sanitation                         22&#13;
+&#13;
+  Figure 6. Financial and economic losses due to poor sanitation, 2005                24&#13;
+&#13;
+  Figure 7. Economic cost per capita in 2005, by impact (US$)                         25&#13;
+&amp;#12;&#13;
+                Foreword&#13;
+                                                                                                                                                                               Acknowledgments&#13;
+&#13;
+&#13;
+                                                                                                                                                               The Sanitation Impact Study was conducted under the Economics of                of the Cambodia country draft report were:HildaWinarta (UNICEF), Jan&#13;
+&#13;
+                                                                                                                                                               Sanitation Initiative (ESI) in four countries:Cambodia, Indonesia,              Lam (SNV), Chea Samnang (Ministry of Rural Development), Ruud Corsel&#13;
+Cambodia is developing in all sectors, gradually lifting its people out of    scientific evidence and information related to economic benefits of improved&#13;
+                                                                                                                                                               the Philippines andVietnam.A study is ongoing in Lao PDR.The study was          (Niras-Scanagri,Vietnam), Oun Syvibola (Plan International), JanWillem&#13;
+poverty as well as improving their living standards.Along with such           sanitationandhygieneoptions.Theprincipalfocusofthisstudyistoexamine&#13;
+                                                                                                                                                               led by the East Asia and Pacific office of theWorld Bank'sWater and             Rosenboom (WSP Cambodia), Isabel Blackett (WSP-EAP),&#13;
+development, the Royal Government of Cambodia, led by Samdech Akka            the economic and social losses associated with poor sanitation and hygiene,&#13;
+                                                                                                                                                               Sanitation Program (WSP-EAP), with the contribution fromWSP teams in            and Brian Smith (WSP-EAP).The Cambodia study benefited from peer&#13;
+Moha Sena PadeiTechor Hun Sen, Prime Minister of the Kingdom of               and conversely, the potential economic and social gains of improving&#13;
+                                                                                                                                                               each of the participating countries.The study took one year to complete,        review conducted simultaneously on other country reports as well as the&#13;
+Cambodia, acknowledged in the National Forum on Rural Sanitation and          sanitation and hygiene.&#13;
+                                                                                                                                                               and has undergone two major peer review processes.This summary report           synthesis report.Peer reviewers of the synthesis draft report were (World&#13;
+Hygieneon13th­14thNovember2007theissueofpoorsanitationcoverage&#13;
+                                                                                                                                                               is based on four full-length country reports and a full-length synthesis report Bankstaffunlessotherwisestated):EddyPerez,AnjaliAcharya,PeteKolsky,&#13;
+and hygiene practices of the Cambodian people living in rural areas.The       OnbehalfoftheMinistryofRuralDevelopment,asthegovernmentinstitution&#13;
+                                                                                                                                                               (see CD-Rom in this publication, inside the back cover).                        Elena Strukova (consultant), Bjorn Larsen (consultant), and Peter Feldman&#13;
+Prime Minister SamdechTechor said, "In Cambodia, poor sanitation and          inchargeofruralwatersupply,sanitationandhygiene,Iwouldliketoexpress&#13;
+                                                                                                                                                                                                                                               (Plan International).Peer reviewers of the Philippines country draft report&#13;
+hygieneisoneofthefactorscontributingtothepovertyofCambodianpeople             my sincere thanks to theWater and Sanitation Program of theWorld Bank,&#13;
+                                                                                                                                                               Guy Hutton (WSP-EAP senior water and sanitation economist) led the              were:Jema Sy and Andy Robinson (consultant).Peer reviewers of the&#13;
+and blocking the efforts of the Royal Government in national economic         East Asia and the Pacific region, for including Cambodia as one of the&#13;
+                                                                                                                                                               development of the concept and methodology for ESI, and the management          Vietnam country draft report were:Samuel Leibermann, Doan Hong Quang,&#13;
+development."The lack of good sanitation and hygiene practices severely       collaborating countries in this useful research program.The results of the&#13;
+                                                                                                                                                               and coordination of the country teams.The study benefited from the              Pham KhanhToan (Ministry of Construction), NguyenViet Anh (University&#13;
+affects the lives of rural people, especially poor households and vulnerable  research will be valuable for inclusion in the National Strategy on Rural&#13;
+                                                                                                                                                               continuous support of otherWSP-EAP staff.Isabel Blackett was the task           of Civil Engineering), Nguyen KimThai (University of Civil Engineering),&#13;
+peoplewhoareathigherriskfromwater-borneandhygiene-relateddiseases.            Sanitation and Hygiene Promotion in Cambodia, which the Ministry is&#13;
+                                                                                                                                                               team leader;Jemima Sy, Brian Smith, AlmudWeitz and Richard Pollard              NguyenVanThuan (Australian Agency for International Development), and&#13;
+                                                                              planning in the year 2008.I would encourage concerned institutions to use&#13;
+                                                                                                                                                               providedinputtotheconceptdevelopmentandstudyexecution.BjornLarsen               John Collett (Plan International).&#13;
+Sanitation and hygiene has received very limited attention from relevant      the data and information from this study to improve the planning of rural&#13;
+                                                                                                                                                               (WSP consultant) contributed to the study methodology and provided the&#13;
+institutions within Cambodia.Very limited information exists on the impacts   sanitation and hygiene programs in Cambodia.&#13;
+                                                                                                                                                                                                                                                  Reference for citation:&#13;
+                                                                                                                                                               figures for malnutrition-related health effects of poor sanitation.&#13;
+ofpoorsanitationandhygiene,ortheinstitutionalpolicyoptionsandstrategies&#13;
+                                                                                                                                                                                                                                                  This Policy Brief is an abbreviated version of the technical report.&#13;
+to improve sanitation and hygiene.Sanitation and hygiene improvement is&#13;
+                                                                                                                                                               ThecountryteaminCambodiaconsistedofPhyrumKov(EconomicInstitute                     A more comprehensive discussion is available in the detailed&#13;
+one of the priorities of the Ministry of Rural Development, who needs better&#13;
+                                                                                                                                                               of Cambodia, country lead), Hach Sok (EIC director), Sophanara Roth and            research report: "Economic impacts of sanitation in Cambodia".&#13;
+understanding of the impacts of poor sanitation and hygiene both in the&#13;
+                                                                                                                                                               Kongkea Chhoeun.JanWillem Rosenboom (WSP Cambodia) contributed                     Kov P, Sok H, Roth S, Chhoeun K, Hutton G. World Bank, Water&#13;
+present and in the future.Ultimately this will enable the implementation of&#13;
+                                                                                                                                                               importantly to the study.                                                          and Sanitation Program. 2008.&#13;
+pro-poor strategies in line with the policies of the Royal Government of&#13;
+&#13;
+Cambodia.                                                                                                                                                                                                                                         References for other reports:&#13;
+                                                                                                                                                               The ESI was financed by the regional component of the Sustainable&#13;
+                                                                                                                                                                                                                                                  · Economic impacts of sanitation in Southeast Asia.Hutton G,&#13;
+                                                                                                                                                               Sanitation in East Asia (SUSEA) program, which is funded by the Swedish&#13;
+For the above reasons, theWater and Sanitation Program of theWorld                                                                                                                                                                                  Rodriguez UE, Napitupulu L,Thang P, Kov P.World Bank,&#13;
+                                                                                                                                                               International Development Agency (SIDA).The Philippines study received&#13;
+Bank, East Asia and the Pacific region, supported the research program                                                                                                                                                                              Water and Sanitation Program.2008.&#13;
+                                                                                                                                                               co-funding from the United States Agency for International Development&#13;
+"Economic Impacts of Sanitation"in Cambodia.The study aim is to provide                                                                                                                                                                           · Economic impacts of sanitation in Indonesia.Napitupulu L and&#13;
+                                                                                                                                                               (USAID), Environmental Cooperation-Asia (ECO-Asia), andWater and&#13;
+                                                                                                                                                                                                                                                   Hutton G.World Bank,Water and Sanitation Program.2008.&#13;
+                                                                                                                                                               Sanitation Program.WSP and the report authors are grateful to the funding&#13;
+                                                                                                                                                                                                                                                  · Economic impacts of sanitation in the Philippines.Rodriguez UE,&#13;
+                                                                                                                                                               agencies for supporting this study.&#13;
+                                                                                                                                                                                                                                                   Jamora N, Hutton G.World Bank,Water and Sanitation Program.&#13;
+&#13;
+                                                                                                                                                                                                                                                   2008.&#13;
+                                                                                                                                                               Elena Strukova, Caroline van den Berg, Anjali Archarya, andTracey Hart&#13;
+                                                                                                                                                                                                                                                  · Economic impacts of sanitation inVietnam.Thang P,Tuan H,&#13;
+                                                                                                                                                               reviewed the methodology study before its implementation.Peer reviewers&#13;
+                                                                                                                                                                                                                                                   Hang N, Hutton G.World Bank,Water and Sanitation Program.2008.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                          3                                                                                                                                                                4&#13;
+&amp;#12;&#13;
+WSP and the country team appreciate the inputs of local stakeholders    Supply Authority (PPWSA), and other institutions. A complete list of&#13;
+&#13;
+­ Department of Rural Health Care of Ministry of Rural Development,     key informants is given in the table below.&#13;
+&#13;
+Department of Planning of Ministry of Health, Phnom Penh Water&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                        Table of Basic Country Data - Cambodia&#13;
+    No                       Name                                Institution                            Scope of work&#13;
+&#13;
+     1             Mr. Mak Soeun                            FAO                               Water resource impact                                                  Variable                                             Cambodia&#13;
+     2             Mr. Sin Somuny                           MediCam                           Health impact                                            Population&#13;
+     3             Mr. Nang Phirun                          MoE                               Water resource impact&#13;
+                                                                                                                                                        Total population (millions)                                         13.8&#13;
+     4             Mr. Phin Rady                            MoE                               Water resource impact&#13;
+                                                                                                                                                           Rural population (%)&#13;
+     5                                                                                                                                                                                                                     83.8%&#13;
+                   Mr. Saron Sambo                          MoE                               Environment impact&#13;
+&#13;
+     6             Mr. Pen Saroeun                          MoEYS                             User preference                                              Urban population (%)                                            16.2%&#13;
+&#13;
+     7             Mrs. Kuy Phalla                          MoEYS                             Sanitation at school                                      Annual population growth                                            1.9%&#13;
+&#13;
+     8             Ms. Khoun Engmuny                        MoH                               Health impact                                             Under 5 population (% of total)                                    12.3%&#13;
+     9             Mr. Sok Touch                            MoH                               Health impact&#13;
+                                                                                                                                                        Under 5 mortality rate (per 1,000)                                    83&#13;
+     10            Mr. Veng Thay                            MoH                               Health &amp; environmental health&#13;
+                                                                                                                                                        Female population (% of total)                                     51.5%&#13;
+     11            Dr. San Sary                             MoH                               Hospital&#13;
+&#13;
+     12                                                                                                                                                 Population below poverty line (million)&#13;
+                   Mr. Pok Vanthat                          MoLV                              User preference (workplace)                                                                                                   35%&#13;
+&#13;
+     13            Ms. Hou Neamita                          MoWA                              Gender                                                    Currency&#13;
+&#13;
+     14            Mr. Mao Hak                              MoWRM (MRC)                       Water quality and river flow                              Currency name                                                        Riel&#13;
+     15            Mr. Chiep Sivorn                         MPP                               Waste management                                          Year of cost data presented1                                        2005&#13;
+     16            Dr. Chea Samnang                         MRD                               Rural sanitation&#13;
+                                                                                                                                                        Currency exchange with US$                                          4,050&#13;
+     17            Mr. Chreay Pom                           MRD                               Rural sanitation&#13;
+                                                                                                                                                        GDP per capita (US$)&#13;
+     18                                                                                                                                                                                                                      447&#13;
+                   Mr. Mao Bunsoth                          NIPH                              Health impact&#13;
+&#13;
+     19            Dr. Ou Kevanna                           NMCH                              Malnutrition                                            Sanitation&#13;
+&#13;
+     20            Ms. Chy Kimhuy                           NPH                               Malnutrition                                            Improved rural (%)                                                   15.7%&#13;
+&#13;
+     21            Mr. Oun Syvibola                         Plan International                Rural water supply and sanitation                       Improved urban (%)                                                   56.1%&#13;
+     22            Mr. Sao Kun Chhon                        PPWM                              Waste management&#13;
+                                                                                                                                                      Urban sewage connection treated (%)                                  28.9%&#13;
+     23            Mr. Ros Kim Leang                        PPWSA                             Water supply&#13;
+                                                                                                                                                 1Except tourism loss where the cost is estimated based on 2006 figure&#13;
+     24            Mr. Khuth Vuthearith                     PPWSA                             Water supply&#13;
+&#13;
+     25            Mr. Keo Heng                             PPWSA                             Water supply&#13;
+&#13;
+     26            Mr. Jan Lam                              NBP                               Small-scale biogas&#13;
+&#13;
+     27            Ms. Lam Saoleng                          NBP                               Small-scale biogas&#13;
+&#13;
+     28            Ms. Sieng Leakna                         UNDP                              Gender specialist&#13;
+&#13;
+     29            Ms. Hilda Winarta                        UNICEF                            Sanitation&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                            5                                                                                         6&#13;
+&amp;#12;&#13;
+                  Executive Summary&#13;
+&#13;
+&#13;
+In 2004, only about 17% of Cambodian people had access to improved                     interpretation of the results, the study distinguishes between financial and&#13;
+&#13;
+sanitation, meaning that there were still more than 11 million Cambodians living       economicimpacts,andpresentsforrural/urbanareasanddifferentgeographical&#13;
+&#13;
+with an unimproved latrine or with no latrine at all.Although the figure given         groupings at zonal level.&#13;
+&#13;
+by the Cambodia Demographic and Health Survey (CDHS) in 2005 indicates&#13;
+                                                                                                                                                                           Having estimated the impacts, the study also evaluated the benefits       keylinksimprovedsanitationhaswithotherdevelopmentgoals(poverty&#13;
+the increase of access coverage to nearly 22% in 2005, it is estimated that            Overall,thestudyfindsthatpoorsanitationleadstoeconomiclossesofUS$448&#13;
+                                                                                                                                                                           associated with improved sanitation and hygiene practices.The results     and hunger reduction, gender equality, child health, access to safe&#13;
+about 204,000 people need to gain access to improved latrines each year if             million, per year which translates into per capita loss of approximately US$32.&#13;
+                                                                                                                                                                           showed that improved hygiene practices such as hand washing can           drinking water, and quality of life of slum-dwellers), demonstrates that&#13;
+Cambodia is to achieve the internationally-set Millennium Development Goal             These economic losses are equivalent to 7.2% of the Cambodia's Gross&#13;
+                                                                                                                                                                           reduce health-related costs by approximately US$84 million.Improved       sanitation should receive far greater attention from players whose&#13;
+target of reducing by half in 2015 the proportion of people without improved           Domestic product (GDP) in 2005.This amount is roughly equivalent to the&#13;
+                                                                                                                                                                           physicalaccesstosanitarytoiletscanreduceeconomiccostsassociated           interest is the equitable socio-economic development of Cambodia.&#13;
+sanitation from the base year of 1990.                                                 contribution of the fishery sector, to the GDP, or twice the contribution of the&#13;
+                                                                                                                                                                           with time use by about US$38 million.Improved toilet systems can          Decision-makers should act now and in a concerted way to increase&#13;
+                                                                                       forestry sector.&#13;
+                                                                                                                                                                           reduce health costs by US$60 million.Improvement in the treatment         access to improved sanitation and hygiene practices.&#13;
+While there is a consensus that lack of access to clean water and improved&#13;
+                                                                                                                                                                           ordisposalofwastehasalargeimpactinwaterresourcesandtourism,&#13;
+sanitation has a variety of impacts, there is often a lack of evidence to affirm       The health impact is the largest contributor of quantified costs.Health-related&#13;
+                                                                                                                                                                           which can reduce costs totaling US$223 million where US$149 million&#13;
+that poor sanitation imposes a significant burden on society.In response, the          economic impacts amount to US$187 million accounting for 42% of the total&#13;
+                                                                                                                                                                           is from mitigated water impacts and US$74 million is from tourism&#13;
+"Sanitation Impact"study, initiated by theWorld BankWater and Sanitation               economic costs.The next main contributor is the water costs which share&#13;
+                                                                                                                                                                           gain.&#13;
+Program, aims to generate sound evidence on the negative impacts of existing           roughly one third of the total economic losses being nearly US$150 million.&#13;
+&#13;
+sanitation and hygiene conditions and the potential benefits of improvements           Moreover, tourism sector which may also be affected by poor sanitation and&#13;
+                                                                                                                                                                           The findings of this study indicate that poor sanitation has significant&#13;
+in sanitation and hygiene in Cambodia.                                                 hygiene practice in the country, is also estimated to cause losses of about&#13;
+                                                                                                                                                                           economic costs.It also shows that improvements in the sanitation&#13;
+                                                                                       US$74 million per year, or 16% of total cost.Other welfare costs ­ specifically&#13;
+                                                                                                                                                                           sector will not only result in economic savings, but will also lead to&#13;
+In this study, quantitative assessment is conducted on the economic impacts            the loss of time to access defecation sites ­ equals roughly US$38 million, or&#13;
+                                                                                                                                                                           gains that go beyond the simple mitigation of the costs, such as the&#13;
+of poor sanitation and hygiene on health, water resource, tourism and other            9% of the total cost.&#13;
+                                                                                                                                                                           value of human excreta used for fertilizer.&#13;
+welfare impacts.In addition to the quantitative evaluation, the study also&#13;
+&#13;
+discusses the effects of poor sanitation on various qualitative dimensions               Economic costs of poor sanitation in 2005, by impact&#13;
+                                                                                                                                                                           This is the first regional study to compile economic evidence on a&#13;
+including health-related quality of life, intangible user preferences, life decisions,                                 (US$ million)&#13;
+                                                                                                                                                                           range of impacts of poor sanitation.The results are a wake-up call to&#13;
+and the quality of the surrounding environment.The study also presents some                      (Overall economic costs = US$448 million)&#13;
+                                                                                                                                                                           the Cambodian government and the development community.Poor&#13;
+of the benefits of improved sanitation when impacts mentioned above are&#13;
+                                                                                                                                                Health costs               sanitation affects everyone, but especially the poor and vulnerable&#13;
+completely or partially eliminated.&#13;
+                                                                                                                             73.7               Water costs                (children, women, disabled and senior people).The considerable&#13;
+                                                                                                                                                Other welfare costs&#13;
+                                                                                                                                                Tourism                    socio-economic importance of sanitation shown in this study, and the&#13;
+The analysis focused on a narrow definition of sanitation, related to human&#13;
+&#13;
+excreta.However, there were instances in which sanitation as it relates to gray         38.2                                                                      187.1&#13;
+&#13;
+water and solid waste were also included.In measuring the impacts, the study&#13;
+&#13;
+uses a peer-reviewed methodology developed specifically for this study, which&#13;
+&#13;
+draws on established methods and, where these do not exist, develops new&#13;
+                                                                                          149&#13;
+approaches to capture the impacts of poor sanitation.For improving policy&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                                      7                                                                                                                                                        8&#13;
+&amp;#12;&#13;
+                     Introduction&#13;
+&#13;
+&#13;
+Sanitationisaglobalconcern.OneofthetargetsoftheMillenniumDevelopment                             In Cambodia, various data sources are available for sanitation coverage, of&#13;
+&#13;
+Goals(MDG)istohalve­from1990to2015­theproportionofpeoplewithout                                  which three data are presented in Figure 1:the Cambodia Socioeconomic&#13;
+&#13;
+access to sanitation [1].Given that Cambodia lags far behind other countries                     Survey (CSES) 2004, the Cambodia Inter-censual Population Survey (CIPS)&#13;
+&#13;
+in the region in terms of rural coverage of improved sanitation, the national                    2004, and the Cambodia Demographic and Health Survey (CDHS) 2005.It&#13;
+&#13;
+policy on rural water and sanitation sets the vision:"Every person in rural                      is observed that different surveys give different results of sanitation coverage.&#13;
+&#13;
+communitieshassustainedaccesstosafewatersupplyandsanitationservices                              However, the CDHS tends to be more reliable compared to other sources of&#13;
+&#13;
+andlivesinahygienicenvironmentby2025".Obviously,thisvisionemphasizes                             data.It can be observed that CDHS (2005) has utilized theWHO/UNICEF                      Figure 1 shows clearly that sanitation coverage is lagging far behind other   The target audience of ESI is primarily national level policy makers with&#13;
+&#13;
+the need for more investment in sanitation in rural areas.What is more, the                      Joint Monitoring Program (JMP) definitions of improved and unimproved                    global development goals.In the CDHS survey in 2005, only a total of 21.6%    influence over the allocation of resources to sanitation, including central&#13;
+&#13;
+CambodiaMillenniumDevelopmentGoal(CMDG)targetforsanitationcoverage                               sanitation1.                                                                             of the population had access to improved sanitation.Furthermore, the rural-   ministries (e.g.Prime Minister's office, MEF), line ministries (e.g.MRD, MIME,&#13;
+&#13;
+is set to be 30% for rural areas and 74% for urban areas, to be achieved by                                                                                                               urban disparity is evident as only 15.7% of the rural population in 2005 had  MoLMUPC) and external funding partners (multilateral, bilateral and non-&#13;
+&#13;
+2015 [2].Based on current coverage and existing resource allocations to                                                                                                                   access to improved sanitation compared to 56.1% for the urban population.     governmental agencies).The study is also targeted at sub-national decision&#13;
+&#13;
+sanitation, however, it is unlikely that these targets will be reached by 2015.                                                                                                                                                                                         making levels where results and conclusions of this study are also relevant.&#13;
+&#13;
+                                                                                                                                                                                          Despite the importance of water and sanitation in the development process,&#13;
+&#13;
+                                                                                                                                                                                          there is limited data and research to document the impact of poor sanitation&#13;
+&#13;
+                                                                                                                                                                                          which makes this study necessary to generate concrete evidence for decision-&#13;
+                    Figure 1. Improved sanitation coverage measured in different surveys in Cambodia&#13;
+                                                                                                                                                                                          makers.The study is conducted under theWater and Sanitation Program's&#13;
+&#13;
+                                                                                                                                                                                          (WSP)EconomicsofSanitationInitiative(ESI),implementedbytheorganization's&#13;
+    80%&#13;
+                                                                                                                                                                                          East Asia and Pacific office.ESI aims to compile and generate evidence on&#13;
+&#13;
+                            CSES (2004)                                                                                                                                                   the following aspects:&#13;
+&#13;
+    60%                     CIPS (2004)&#13;
+                                                                                  61.1%&#13;
+                            CDHS (2005)                                                                                                                                                   · Economic impacts of poor sanitation on health, water and the environment.&#13;
+                                                                                            54.4%   56.1%&#13;
+                                                                                                                                                                                          · Thelinksbetweensanitationandbroaderhumanactivities,suchaseducation,&#13;
+&#13;
+    40%                                                                                                                                                                                     productivity, tourism, and business investment climate.&#13;
+&#13;
+                                                                                                                                                                                          · Populationpreferencesconcerninglatrineoptionsandenvironmentalsanitation,&#13;
+&#13;
+                                                                                                                                                                                            and their contribution to quality of life.&#13;
+                                                                                                                                          25.5%&#13;
+    20%&#13;
+                                                                                                                                                  21.2% 21.6%                             · How much improved sanitation can alleviate these burdens and generate&#13;
+                                    16.5%&#13;
+                                              15.7% 15.7%                                                                                                                                   economic savings to society and improve quality of life.&#13;
+&#13;
+&#13;
+     0%&#13;
+                                             Rural                                          Urban                                                  Total&#13;
+&#13;
+&#13;
+&#13;
+   1The latrine is improved if it is used only by household members and not shared              with slab, and composting toilet.The unimproved sanitation facility, however, refers&#13;
+&#13;
+   with others, and if the system can separate human waste from human contact.The               to the shared latrine and other types of latrine which do not effectively separate&#13;
+&#13;
+   types of facilities that are likely to achieve this may consist of flush or pour flush to    human waste from human contact.&#13;
+&#13;
+   piped sewer/septic tank/pit latrine, ventilated improved pit (VIP) latrine, pit latrine&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                                                     9                                                                                                                                                              10&#13;
+&amp;#12;&#13;
+               Methods&#13;
+&#13;
+&#13;
+&#13;
+2.1 Study approach                                                         in primary units of measurement (e.g.disease episodes, water quality), and&#13;
+                                                                                                                                                                                           Table 1.Aspects of sanitation included and excluded in the present study&#13;
+                                                                           converts these to monetary equivalents using conventional economic&#13;
+This Sanitation Impact study employs a standardized peer reviewed&#13;
+                                                                           valuation techniques.Lack of existing economic valuation approaches for&#13;
+methodology [3].It follows the methodology adopted in four other countries                                                                                         Included                                                                     Excluded&#13;
+                                                                           some impacts required further methodological development (e.g.fisheries,&#13;
+(Indonesia, Lao PDR, the Philippines, andVietnam) with a view toward                                                                                            · Practices related to human excreta:                                           · Drainage and general flood control measures&#13;
+                                                                           tourism).ResultsoneconomicimpactarepresentedinUnitedStatesDollars&#13;
+generating comparable outputs for Southeast Asia.&#13;
+                                                                                                                                                                   · Quality, safety and proximity of latrine system                            · Industrial effluents, toxic waste and medical waste&#13;
+                                                                           (US$) for a single year ­ the latest available data were for 2005 for most&#13;
+&#13;
+                                                                           variables, while for some variables 2006 was the latest year.For those                  · Disposal or treatment of waste and impact on the                           · Other agricultural waste&#13;
+The aim of the study is to present impacts in disaggregated form, to aid&#13;
+                                                                           impacts where quantification in economic terms is problematic, the impacts                 (inhabited) outdoor environment                                           · Vector control&#13;
+interpretation and eventually policy recommendations about the overall&#13;
+                                                                           are examined and reported descriptively.&#13;
+negativeimpactsofpoorsanitationandthepotentialbenefitsofimplementing                                                                                               · Hygiene practices                                                          · Broader food safety&#13;
+&#13;
+different types of sanitation improvement.Geographical disaggregation of                                                                                        · Practices related to disposal or treatment of gray water                      · Broader environmental sanitation&#13;
+&#13;
+results is presented for some types of economic impact, i.e.at the zonal   2.2 Scope of sanitation&#13;
+                                                                                                                                                                · Practices related to disposal or treatment of household&#13;
+level which groups together several provinces.Rural/urban disaggregations  Sanitation is used to describe many different aspects of hygiene and the&#13;
+                                                                                                                                                                   solid waste&#13;
+are made for impacts where feasible.Furthermore, health impacts are        disposal or recycling of waste.Despite the focus of the MDG target on&#13;
+                                                                                                                                                                · Practices related to use or disposal of animal excreta&#13;
+disaggregated by age groups for selected diseases and descriptive gender   human excreta, this study recognizes other aspects of sanitation relevant&#13;
+&#13;
+analyses are conducted for selected impacts.                               to the economic impacts, thus the management of human and animal&#13;
+&#13;
+                                                                           excreta, solid waste, other agricultural waste, toxic waste, wastewater, food&#13;
+&#13;
+Thestudyusesamodelingapproach,drawingalmostexclusivelyonexisting           safety,andassociatedhygienepracticeswereincluded.Table1summarizes&#13;
+&#13;
+studies and survey data from routine sources.The study presents impacts    the aspects of sanitation included and excluded from this study.                   2.3 Impacts evaluated                                                           2.4 Impact mitigation&#13;
+                                                                                                                                                              Poorsanitationhasmanyactualorpotentialnegativeeffectsonpopulations              Having estimated the losses resulting from poor sanitation, from a policy&#13;
+&#13;
+                                                                                                                                                              as well as the national economy.Based on initial assessment of a long           viewpoint it is important to know how much these losses can be reduced&#13;
+&#13;
+                                                                                                                                                              list of potential impacts, a shortened list was selected for evaluation in this by implementing improved sanitation options.For some impacts such as&#13;
+&#13;
+                                                                                                                                                              present study.These are:                                                        health, sanitation options have less than 100% effectiveness, and hence&#13;
+&#13;
+                                                                                                                                                                 · Health impacts                                                             the overall estimated losses cannot be fully mitigated.&#13;
+&#13;
+                                                                                                                                                                 · Water resource impacts&#13;
+&#13;
+                                                                                                                                                                 · Environmental impacts (focus on the outdoor environment)                   There exist many types and configurations of sanitation improvement.&#13;
+&#13;
+                                                                                                                                                                 · Other welfare impacts                                                      This present study estimates potential benefits obtainable for a selected&#13;
+&#13;
+                                                                                                                                                                 · Tourism impacts                                                            number of features of sanitation improvements.This study provides an&#13;
+&#13;
+                                                                                                                                                                                                                                              initial tentative estimate of the likely gains possible from improving these&#13;
+&#13;
+                                                                                                                                                              For these impacts, the estimated economic costs include additional              sanitation features (seeTable 2).It is the aim of the second study of ESI&#13;
+&#13;
+                                                                                                                                                              expenditures, incomes or productivity losses, and value of premature            to estimate the costs and benefits of specific sanitation options.&#13;
+&#13;
+                                                                                                                                                              death.Non-pecuniary welfare impacts were also assessed, but not&#13;
+&#13;
+                                                                                                                                                              quantified in monetary units.Except the estimate of time loss accessing&#13;
+&#13;
+                                                                                                                                                              toilet, all the impacts i.e.health impacts, water pollution, and tourism were&#13;
+&#13;
+                                                                                                                                                              estimated based on an attributable fraction.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                        11                                                                                                                                                                 12&#13;
+&amp;#12;&#13;
+                                                                                                                                                       Results&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                         3.1 Health impacts&#13;
+                    Table 2. Features of sanitation interventions for assessing economic gains&#13;
+&#13;
+                                                                                                                                         Poor sanitation and hygiene in Cambodia have a substantial impact on health,    diarrheal diseases.Moreover, it is observed that the total deaths related to&#13;
+ Intervention               Detail                                                 Gains evaluated&#13;
+                                                                                                                                         causing morbidity and deaths as shown inTable 3.                                poor sanitation and hygiene is conservatively close to 10,000 in 2005, most&#13;
+&#13;
+Making toilets cleaner     Improved: position or type of toilet seat or pan;       Avert health impacts (32% reduction)                                                                                                  of them are resulted from diarrheal diseases (67%), while the rest are from&#13;
+&#13;
+and safer                  structure; collection system; ventilation;                                                                    It is estimated that the number of cases associated with poor sanitation and    ALRI (18%), malaria (10%), and measles (4%).&#13;
+&#13;
+                                                                                                                                         hygiene in 2005 totaled nearly 9.7 million cases.Of those cases, 97% are&#13;
+                           waste evacuation&#13;
+&#13;
+Hygiene                    Availability of water for anal cleansing;               Avert health impacts (45% reduction)&#13;
+&#13;
+                           safe disposal of materials for anal cleansing;&#13;
+                                                                                                                                                                        Table 3. Summary of health impacts by disease due to poor sanitation and hygiene&#13;
+                           hand washing with soap; toilet cleaning&#13;
+&#13;
+Latrine access             Toilets closer and more accessible                      Save latrine access time                                                                                            Cases                                                       Deaths&#13;
+                                                                                                                                                    Disease&#13;
+                           (private rather than shared or public)&#13;
+                                                                                                                                                                                  Reported1                 Estimated Total1               Reported2                 Estimated Total1&#13;
+Isolation of human         Improved: septic tank functioning and emptying;         Avert costs of accessing&#13;
+                                                                                                                                          Diarrheal diseases                       621,353                        9,364,210                        99                         6,600&#13;
+waste from water           flood-proof; treatment; drainage system                 clean water for drinking and other&#13;
+                                                                                                                                          Skin disease                             101,393                          144,596                          -                               -&#13;
+resources                                                                          household uses; avert losses to fish production&#13;
+                                                                                                                                          Malnutrition                                   574                            852                          -                               -&#13;
+Sanitary conditions        Culturally appropriate improved tourist toilet          Avert tourist losses&#13;
+                                                                                                                                          ALRI                                       50,164                         159,706                       926                         1,786&#13;
+for tourists               facilities (hotel, restaurants, tourist attractions)&#13;
+                                                                                                                                          Measles                                            -                             -                        1                            420&#13;
+                           and general sanitary conditions&#13;
+                                                                                                                                          Malaria                                     1,295                          19,108                       282                         1,033&#13;
+Reuse of human waste       Composting of feces for fertilizer; biogas production   Value of replaced fertilizer and fuel&#13;
+                                                                                                                                          Total                                    774,778                        9,688,471                     1,308                         9,840&#13;
+&#13;
+&#13;
+                                                                                                                                        1With adjustment for attribution to poor sanitation and hygiene&#13;
+&#13;
+                                                                                                                                        2Without adjustment for attribution to poor sanitation and hygiene&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                  13                                                                                                                                                                 14&#13;
+&amp;#12;&#13;
+                                                                                                                                                       Figure 2 shows the contribution of different costs to overall cost, by                         of polluting substances in water resources, and the eventual uses of&#13;
+&#13;
+                                                                                                                                                       disease. It is seen that premature death is the main economic cost for                         water. Despite the fact that Cambodia has many water resources ­&#13;
+&#13;
+                                                                                                                                                       diarrhea and diseases associated with malnutrition (indirect diseases).                        surface water, ground water and rain water ­ most land-based water&#13;
+ The economic impacts assessed in this study include spending on (1)        economic loss. The majority of economic cost is accounted for by&#13;
+                                                                                                                                                       However, health care costs are the most important costs for malnutrition                       resources suffer from pollution due to human activities. The water bodies&#13;
+ health care, (2) loss of income or production associated with disease      premature death which shares up to 90% (US$169 million) of the&#13;
+                                                                                                                                                       and skin diseases.                                                                             near cities or populated areas are usually more polluted than the remote&#13;
+ (productivity costs), and (3) the value associated with premature loss     health-related economic costs. In terms of disease, diarrhea is the&#13;
+                                                                                                                                                                                                                                                      water bodies due to excessive discharge of pollutants generated by&#13;
+ of life. Table 4 shows a summary of the financial and economic costs       main financial loss accounting to 94% of the total financial losses. In&#13;
+                                                                                                                                                                                                                                                      humans.Table 5 shows the total daily release of human excreta to water&#13;
+ of different health impacts due to poor sanitation and hygiene in          addition, it is also a major contributor to economic costs amounting to    3.2 Water resource impacts&#13;
+                                                                                                                                                                                                                                                      bodies, totaling 234 tons of feces, 2,335 cubic meters of urine, and 8,154&#13;
+ Cambodia.The health-related financial cost is US$13 million, while the     nearly 70% of total costs. ALRI and malaria are the next contributors&#13;
+                                                                                                                                                                                                                                                      cubic meters of gray water per day. This generates approximately 497&#13;
+ economic cost is US$187 million. Health care costs account for more        to the total economic losses sharing 17% and 10% of the total costs        The economic impacts of polluted water resources depend on three&#13;
+                                                                                                                                                                                                                                                      tons of biological oxygen demand (BOD) on a daily basis.&#13;
+ than 80% of the financial loss, while it accounts for only 7% in the       respectively.                                                              main factors: the extent of water resources in the country, the release&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                       Table 4. Total health-related costs&#13;
+                                                                                                                                                                                                                  Figure 2. Contribution of different costs to total cost, by disease&#13;
+&#13;
+                                     Total financial costs (million US$)                      Total economic costs (million US$)&#13;
+          Disease                                                                                                                                                                                100%&#13;
+                                  HC            PROD        DEATH           Total            HC          PROD            DEATH            Total&#13;
+                                                                                                                                                                                                                                                                                                                       DEATH&#13;
+&#13;
+  Diarrhea                          9.9           2.5              0.2          12.5          12.3             5.0          112.8          130.1            diseaseyb,                            80%                                                                                                                  PROD&#13;
+&#13;
+  Skin disease                      0.4           0.0              0.0           0.4           0.5             0.0            0.0             0.5                                                                                                                                                                      HC&#13;
+&#13;
+                                                                                                                                                                      costs&#13;
+  ALRI1                             0.4           0.0              0.0           0.4           0.5             0.1           30.8           31.3                                                  60%&#13;
+&#13;
+  Measles1                          0.0           0.0              0.0           0.0           0.0             0.0            7.2             7.2&#13;
+                                                                                                                                                                           economic               40%&#13;
+  Malaria1                          0.1           0.0              0.0           0.1           0.1             0.0           17.8           17.9&#13;
+&#13;
+  Total                           10.7            2.5              0.2          13.3          13.4             5.1          168.6          187.1&#13;
+                                                                                                                                                                                                  20%&#13;
+&#13;
+1Indirect disease burden related to malnutrition&#13;
+                                                                                                                                                                                   Health-related&#13;
+                                                                                                                                                                                                  0%&#13;
+                                                                                                                                                                                                         Diarrhea              Skin disease                 Direct malnutrition              Malnutrition-related&#13;
+&#13;
+                                                                                                                                                                                                                                                                                                    diseases&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                 15                                                                                                                                                                             16&#13;
+&amp;#12;&#13;
+                                Table 5 . Daily release of polluting substances to inland and ground water bodies                                                     Duetothescarcityofdataoncoststhatareusedfortheestimationofeconomic               Figure 3 presents the financial and economic costs of polluted water attributed&#13;
+&#13;
+                                                                                                                                                                      costs of water resource, some assumptions based on discussion with               to poor sanitation.These costs include drinking water access costs, water&#13;
+&#13;
+                                                                                                                                                                      stakeholders and experts are made to enable estimation of economic impacts.      access costs for domestic uses (other than drinking water), and fish production&#13;
+                                                              Total release (volume)                                           Polluting substances&#13;
+         Region                                                                                                                                                       Table 7 shows the unit costs of different water sources as well as water         lossesduetopoorsanitation.TheresultsshowthatUS$149million,ineconomic&#13;
+&#13;
+                                      Feces (Tons)                    Urine (m3)              Graywater (m3)                          BOD (Tons)                      treatment via boiling used in the study.According to the table, piped water      terms, is lost due to polluted water attributed to poor sanitation.Drinking water&#13;
+&#13;
+   Phnom Penh                                29                              287                         607                               58                         tariff is US$0.07 per m3 in urban area, while it is more than US$0.3 per m3      costs is the dominant factor sharing about 63% of the total economic costs,&#13;
+&#13;
+                                                                                                                                                                      in rural area.This can be explained by the fact that water supply in urban areas while fish production losses contribute 30% and domestic uses water costs&#13;
+   Plains                                    71                              713                      1,777                               196&#13;
+                                                                                                                                                                      is more efficient than in rural areas.The water tariff for purchased water from  contribute 7% to the total costs.&#13;
+   Tonlé Sap                                 77                              765                      3,100                               150&#13;
+                                                                                                                                                                      vendor is roughly 15 times more than piped water tariff in rural areas, and 35&#13;
+   Coastal                                   26                              257                      1,305                                37&#13;
+                                                                                                                                                                      timesthatinurbanareas.Thebottlewaterisevenmoreexpensivewithaverage&#13;
+                                                                                                                                                                                                                                                                                    Figure 3. Water-related financial and economic costs&#13;
+   Plateau                                   31                              314                      1,365                                57                         cost of US$43 per m3 calculated from a standard 20-liter bottle water.Boiling                                                 due to poor sanitation&#13;
+   Total                                    234                            2,335                      8,154                               497                         is the main household water treatment method used in Cambodia.According&#13;
+&#13;
+                                                                                                                                                                      to the table, the cost of boiling water in urban areas is roughly US$16.5 per&#13;
+                                                                                                                                                                                                                                                                                    100&#13;
+                                                                                                                                                                      m3 while it is only US$8 per m3 in rural areas due to abundant fuel wood&#13;
+Given the large volumes of water in the main rivers and lakes in Cambodia,           from two different institutions, namely Phnom PenhWater Supply Authority&#13;
+                                                                                                                                                                                                                                                                                              92.7 93.8&#13;
+                                                                                                                                                                      which can be used for boiling water.                                                                                                                        Financial costs&#13;
+these pollutants become diluted and hence less harmful to wildlife and human         (PPWSA) who supply drinking water to Phnom Penh citizens, and the Mekong                                                                                                                       80&#13;
+                                                                                                                                                                                                                                                          million)                                                                Economic costs&#13;
+activity.Despite this, the water quality of many surface waters is still unsafe for  River Commission (MRC) who tests water quality at different locations along&#13;
+&#13;
+untreated consumption due to the presence of bacteria.Table 6 shows the              the Mekong River and its tributaries.Indicators showing water quality such as                           Table 7. Unit cost of water                                          (US$ 60&#13;
+&#13;
+water quality measurements in Cambodia from various surface water locations          total suspended solids (TSS) and dissolved oxygen (DO) are presented here.                                                                                                   costs&#13;
+                                                                                                                                                                              Type of water use                     Unit cost (US$/m3)                                              40                                                44.4&#13;
+&#13;
+                                                                                                                                                                           Piped water tariff                                                                          ater-related&#13;
+                                                                                                                                                                                                                                                                                   W&#13;
+                                                  Table 6. Selected water quality measurements in Cambodia                                                                                                                                                                          20&#13;
+                                                                                                                                                                              Rural                                              0.34&#13;
+&#13;
+                                                                                                                                                                              Urban                                              0.07                                                                              9.8 10.9&#13;
+                                                                                                                                                                                                                                                                                      0&#13;
+                            River (location)                                       Total release (volume)                     Polluting substances                         Purchased water (vendor)&#13;
+                                                                                                                                                                                                                                                                                              Drinking water     Domestic uses    Fish production&#13;
+                              (wet season)                                                                                                                                    Rural                                              4.94&#13;
+                                                                                              TSS                                         DO                                                                                                                                                       costs           water costs         losses&#13;
+                                                                                                                                                                              Urban                                              2.47&#13;
+   Tonlé Sap River1 (Phum Prek)                                                               120                                         3.4&#13;
+                                                                                                                                                                           Purchased water (bottled)&#13;
+&#13;
+   Mekong River1 (Chroy Changva)                                                              175                                         5.5                                 Rural                                            43.21&#13;
+&#13;
+   Tonlé Sap Lake2 (Phnom Krom)                                                               661                                         6.5                                 Urban                                            43.21&#13;
+&#13;
+ Sources:1PPWSA, 2MRC                                                                                                                                                      Water treatment cost&#13;
+&#13;
+                                                                                                                                                                              Rural                                              8.23&#13;
+&#13;
+                                                                                                                                                                              Urban                                            16.46&#13;
+&#13;
+&#13;
+                                                                                                                                                                      Estimate based on market prices of goods and materials&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                             17                                                                                                                                                                                  18&#13;
+&amp;#12;&#13;
+3.3 Environmental impacts&#13;
+                                                                                                                                                                      3.4 Other welfare impacts&#13;
+In terms of environmental impact, the present study focuses on assessing the      the sellers and at best loaded on the edge of their stalls or in the entrance to&#13;
+                                                                                                                                                                       According to a recent study byWater and Sanitation Program (WSP) in three     addition, comfort, health improvement, safety, and convenience are the next&#13;
+impacts of solid waste in terms of aesthetics and land quality, largely in        the market.Waste products produce bad odors and transform the marketplace&#13;
+                                                                                                                                                                       selected provinces and Phnom Penh, it is found that hygiene and cleanliness   most perceived benefits of an improved latrine.It is also claimed that privacy,&#13;
+qualitative terms.Based on interviews with stakeholders, it is confirmed that     into unregulated dumpsites for the households situated nearby.While a market&#13;
+                                                                                                                                                                       is the main perceived benefits of latrine [4].Based on the study, more than   improved family status and prestige are other advantages of having a latrine&#13;
+solid waste management in Cambodia has gradually been improved, although          should be a pleasant place which needs to be attractive to customers, the&#13;
+                                                                                                                                                                       80% of urban and 70% of rural households recognize that improved latrine      at home.Figure 4 shows that rural and urban people tend to have a similar&#13;
+there is a lot more to be done to keep the country environmentally clean.Many     market with improper waste disposal keeps away its customers.This causes&#13;
+                                                                                                                                                                       will provide better hygiene and a generally clean environment for living.In   pattern of perception regarding the benefits of latrine.&#13;
+areas of Cambodia's cities, including Phnom Penh, are still without adequate      loss of sales to sellers in the market.&#13;
+&#13;
+waste collection service.Many tons of wastes are dumped into rivers and&#13;
+&#13;
+ponds, burned, or left uncollected to be scattered by animals, thus blocking      In addition to scattered household and market wastes, the impact of the so-&#13;
+&#13;
+the drains and creating unsanitary conditions.Waste collection is relatively      called designated dumpsite on the nearby residents is even more severe.The&#13;
+&#13;
+weak in outlying areas of the cities, and in unplanned settlements that are       ten-hectare dumpsite in Phnom Penh is situated not far from the residential                                        Figure 4. Perceived importance of improved latrine to households&#13;
+&#13;
+hometothousandsofthecity'spoorestfamilies.Besides,theofficialdesignated           areas.While bad odor from the dumpsite is disturbing the livelihood of the&#13;
+&#13;
+dumpsites of solid waste are reaching capacity, particularly in Phnom Penh        residents, the smoggy air pollution due to burning of waste can be harmful&#13;
+                                                                                                                                                                                  Hygiene/clean&#13;
+city where nearly 1,000 tons of waste is dumped everyday.                         to the health of the residents as well as dumpsite scavengers.In addition, the&#13;
+&#13;
+                                                                                  dumpsite may contaminate ground water quality, and damage local land                        More comfortable&#13;
+&#13;
+The greatest perceived impact of solid waste on aesthetics is the fact that       quality through the penetration and spillover of waste and chemically-&#13;
+&#13;
+waste produces odor, and spoils visual appearance, especially in towns and        contaminated water.                                                                           Improved health&#13;
+&#13;
+cities.In most towns and cities of Cambodia, household solid waste is usually&#13;
+                                                                                                                                                                                 Improved safety&#13;
+disposed of in front of houses, on sidewalks, or in some cases on open land.      It should also be noted that in Cambodia the designated dumpsites are&#13;
+&#13;
+Those wastes sometimes decompose prior to being picked up by waste                available only in urban areas.In rural areas, however, the waste is normally&#13;
+                                                                                                                                                                       Convenience/save time&#13;
+collectors, thus producing bad smells to the surrounding environment.This         burned or buried into the ground for disposal.It is argued that the land used&#13;
+&#13;
+polluted air quality creates unpleasant atmosphere to not only the households     for dumpsite is normally hard to convert to agriculture land.This is because                      More privacy                                                                                                           %Urban&#13;
+&#13;
+nearby, but also the pedestrians, travelers, and tourists passing by the areas.   the waste is usually mixed between the composted waste and the non-                                                                                                                                                      %Rural&#13;
+&#13;
+Inadditiontotheodor,thescatteredwasteshavedamagedthevisualaesthetics              compostedwastesuchasplasticsandothermaterials.However,theconversion                 Improved status/prestige&#13;
+&#13;
+of many cities of the country, which make the cities less attractive to tourists  of the dumpsite for other selected non-agriculture purpose may be possible.&#13;
+                                                                                                                                                                                                    0%            10%          20%            30%     40%          50%           60%         70%           80%        90%&#13;
+(see Section 3.5 onTourism impacts).Solid waste also poses health hazards&#13;
+&#13;
+for the local population, which until now has not been quantified.                Therefore, although the environmental impact is not easily quantifiable, it&#13;
+&#13;
+                                                                                  affects the well-being, livelihood and health of populations.Moreover, the loss&#13;
+&#13;
+Besideshouseholdsolidwaste,themanagementofwasteatmostmarketplaces                 of land value due to unregulated unsanitary dumpsites is significant.&#13;
+&#13;
+has been very poor.In most cases, the wastes are untidily scattered around&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                              19                                                                                                                                                                    20&#13;
+&amp;#12;&#13;
+ In order to estimate time losses from accessing unimproved sanitation, and             is roughly US$0.7 million (Table 8).These costs include both the adults and&#13;
+&#13;
+ in the absence of field data, this study assumes that the average access time          children's welfare losses assuming adult's time value is 30% of average&#13;
+&#13;
+ for open defecation is 10 minutes per person per day, and the waiting time             income, and children's time value is 50% of adult's time value.It should be&#13;
+&#13;
+ for people who share toilet facilities is 3 minutes per person per day.It is           notedthattheevaluationoftoiletaccesstimeprovidedbelowdoesnotinclude&#13;
+&#13;
+ estimated that the total annual economic losses associated with time spent             the time for urination which can be a time-consuming daily activity, especially      Not only does poor sanitation negatively impact on education sector, but       negatively affects the quality of life and income of the workers, the reduced&#13;
+&#13;
+ accessing open defecation is about US$37.5 million and of shared facility              for women.                                                                           alsoonworkplacewhereadequatesanitationandhygienefacilityisimportant.           productivity may have some further economic losses for the employers and&#13;
+&#13;
+                                                                                                                                                                             Itisrecognizedthatpoorsanitationaffectsthehealthofworkersoremployees,          the country as a whole.&#13;
+&#13;
+                                                                                                                                                                             which in turn reduces the productivity of workers.Therefore, while poor health&#13;
+&#13;
+&#13;
+                                                                    Table 8. Time used accessing latrines&#13;
+&#13;
+&#13;
+                                     Population size                       Total time spent accessing                                           Value                                                                    Figure 5. Female school drop-out rate vs. school sanitation&#13;
+&#13;
+                                            (million)                              (million hours)                                        (US$ million)                                            50&#13;
+      Location&#13;
+&#13;
+                               Shared                  Open                   Shared                Open               Shared               Open              Total                                45&#13;
+                                                                                                                                                                                                                                                                                                              Primary school&#13;
+                                 facility1         defecation                  facility1        defecation             facility1 defecation                                                                                                                                                                   Secondary school&#13;
+                                                                                                                                                                                                   40&#13;
+&#13;
+  Rural                            0.5                    9.0                     8.7                549.5                 0.5                34.7            35.3&#13;
+                                                                                                                                                                                                   35&#13;
+&#13;
+  Urban                            0.2                                                                                                                                             (%)&#13;
+                                                          0.7                     2.9                  44.1                0.2                  2.8            3.0&#13;
+                                                                                                                                                                                      ater         30&#13;
+  Total                            0.6                    9.8                    11.6                593.5                 0.7                37.5            38.2&#13;
+                                                                                                                                                                                                   25&#13;
+1Refers to population with shared facilities who are assumed to have inadequate toilet. Using by many people, the shared facilities cause                                                 Drop-out&#13;
+ waiting time to users.                                                                                                                                                                            20&#13;
+&#13;
+&#13;
+                                                                                                                                                                                                   15&#13;
+&#13;
+This study also attempts to explore the relationship between poor sanitation             among school girls are higher in the provinces with high rates of without-toilet&#13;
+                                                                                                                                                                                                   10&#13;
+in schools and the participation of girls in education, i.e.rates of female school       schools.It can be also noticed from Figure 5 that the impact tends to be more&#13;
+&#13;
+drop-out.Although there are many different reasons for school drop-out among             sensitive for secondary school students as the drop-out rate is higher than that                          5&#13;
+&#13;
+school girls, the lack of toilet facility at school is potentially one of the reasons.   of the primary school students.This can be explained by the fact that when                                 0&#13;
+&#13;
+According to the Figure 5 below, it is interesting to note that the drop-out rates       the girls are getting older, more privacy for toilet going is needed.                                       0        10               20                30           40                50               60              70            80&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                                  21                                                                                                                                                                     22&#13;
+&amp;#12;&#13;
+ 3.5 Tourism impacts&#13;
+&#13;
+ The growth in the number of tourist arrivals, from 1.05 million in 2004 to 1.70      wastestimeintheirholiday,andmayincursomeexpensesrelatedtotreatment.                     3.6 Overall economic impacts of poor sanitation&#13;
+ millionin2006,hascontributedtotherecenthigheconomicgrowthinCambodia                  Being sensitive to their environment, tourists will enjoy their stay less if exposed&#13;
+                                                                                                                                                                              This section summarizes the overall losses of poor sanitation and estimated        overall economic costs of poor sanitation and hygiene.The water costs are&#13;
+ [5].The share of tourism in Gross Domestic Product (GDP) has expanded                to the smells and sights of people defecating openly and uncollected or&#13;
+                                                                                                                                                                              gains of improved sanitation in Cambodia.As Figures 6 and 7 indicate, the          the next major loss in economic impacts of poor sanitation, amounting to&#13;
+ from 11% in 2004 to nearly 15% in 2006.In absolute terms, income from                scattered solid waste.So, the tourists will be discouraged to come again, or&#13;
+                                                                                                                                                                              annual economic losses from poor sanitation and hygiene are estimated at           about US$149 million and making one third of the total costs.The economic&#13;
+ tourism has grown sharply from only US$580 million in 2004 to more than              the bad experience is spread among their friends and families which, in the&#13;
+                                                                                                                                                                              around US$448 million, amounting to about 7.2% of the Cambodia's GDP               loss of tourism due to poor sanitation and hygiene is roughly US$74 million,&#13;
+ US$1 billion in 2006.In addition, the tourism sector has provided employment         long-run, results in less tourists coming to the country.&#13;
+                                                                                                                                                                              in 2005.The per capita economic cost is around US$32 compared to the               which shares about 16% of the total economic costs.The economic loss due&#13;
+ to 225,000 people in Cambodia, contributing to about 3% of total employment&#13;
+                                                                                                                                                                              GDPpercapitaofaboutUS$450.Itshouldbenotedthatincontrasttofinancial                 to access time to unimproved sanitation is US$38 million, contributing 9%&#13;
+ in 2005.                                                                             The losses to tourism are estimated as the gap between the current and&#13;
+                                                                                                                                                                              losses where health-related losses are much less than water access costs,          to the total costs.&#13;
+                                                                                      potential tourist numbers (at an assumed occupancy rate of existing tourist&#13;
+                                                                                                                                                                              health-related costs (US$187 million) are the main contributor at 42% of the&#13;
+ Given the tourism growth and its potential growth in the near future, it is          hotels of 80%), a proportion of which (10%) is attributed to poor sanitation in&#13;
+&#13;
+ important to address some of the challenges facing further tourism growth            Cambodia.The attributed economic cost of lower tourist numbers is estimated&#13;
+&#13;
+ in Cambodia.One of these challenges is sanitation.Poor sanitation in the             at US$74 million per year (seeTable 9).It should be noted that the economic&#13;
+&#13;
+ countrygenerally,andintouristsitesspecifically,canhaveimportantimplications          cost of the number of tourists getting sick attributed to poor sanitation is not                                                  Figure 6. Financial and economic losses due to poor sanitation, 2005&#13;
+&#13;
+ for the eventual number of tourists visiting the country, their length of stay, and  evaluated in this study due to lack of data.Yet, it can be assumed that the fact&#13;
+&#13;
+ their desire to return.Also, once tourists are on-site, they may get sick from       that tourists falling sick will undermine Cambodia's tourism prospects which,&#13;
+                                                                                                                                                                                                            500&#13;
+ a sanitation or hygiene-related disease, and thus experience a reduction in          in the long-run, will affect the country's economy as a whole.                                                              Financial costs                                                                                   448&#13;
+&#13;
+ enjoyment of their holiday.Getting sick is a bad experience in itself, but it also                                                                                                                               Economic costs&#13;
+                                                                                                                                                                                  million)                  400&#13;
+&#13;
+&#13;
+                                                                                                                                                                                          (US$&#13;
+                                                                                                                                                                                                            300&#13;
+&#13;
+                                                            Table 9. Economic impact of lower tourist numbers                                                                                 losses&#13;
+                                                                                                                                                                                                    all                   187.1&#13;
+                                                                                                                                                                                                       er   200&#13;
+                                                                                                                                                                                                                                                                                                             160.1&#13;
+   Region                Current                    Hotel occupancy                    Potential value                Attribution to                  Annual                                             Ov                                      149&#13;
+                                                                                                                                                                                                                                           146.8&#13;
+&#13;
+                     tourism value                          rate (%)                    (Million US$)                   sanitation              economic loss1                                              100&#13;
+                                                                                                                                                                                                                                                                                        73.7&#13;
+                                                                                                                                                                                                                                                                   38.2&#13;
+                     (million US$)                                                                                                               (million US$)&#13;
+                                                 Current                Target                                                                                                                                      13.3&#13;
+                                                                                                                                                                                                              0&#13;
+   Cambodia                1,049                    54.8                   80.0                 1,786                        10%                         73.7&#13;
+                                                                                                                                                                                                                      Health                 Water                 Other              Tourism                   Total&#13;
+&#13;
+                                                                                                                                                                                                                       costs                  costs               welfare&#13;
+Source of tourist numbers and value: Ministry of Tourism&#13;
+                                                                                                                                                                                                                                                                   costs&#13;
+1Calculated as the gap between current and potential, multiplied by the attribution to sanitation&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                                       23                                                                                                                                                                    24&#13;
+&amp;#12;&#13;
+    Figure 7. Economic cost per capita in 2005, by impact (US$)&#13;
+&#13;
+                Overall per capita loss = US$ 32.4                     Health costs&#13;
+&#13;
+                                                                       Water costs&#13;
+&#13;
+                                                                       Other welfare costs        Besides looking at the economic losses due to poor sanitation and hygiene,    sanitation or hygiene only reduces by a proportion of 30-50% of the overall&#13;
+                              5.3&#13;
+                                                                       Tourism                    it is also important to look into the possible economic gains from improved   sanitation and hygiene related diseases.In addition, the results from the&#13;
+&#13;
+                                                                13.6                              sanitation and hygiene.Five options are given in theTable 10 below where      sanitation market studies are presented, including potential annual market size&#13;
+&#13;
+ 2.8                                                                                              each option corresponds to the impact on selected benefit categories.         for sanitation inputs based on market prices, and potential annual benefits of&#13;
+&#13;
+                                                                                                                                                                                sanitation outputs based on the cash saving by using biogas.&#13;
+&#13;
+                                                                                                  In general, all of the costs measured can be averted from one or more of the&#13;
+&#13;
+                                                                                                  improvement options, except the health benefits, given that basic improved&#13;
+&#13;
+10.8&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                          Table 10. Predicted financial and economic gains from improved sanitation&#13;
+&#13;
+&#13;
+                                                                                                                                          A                        B                    C                        D                            E&#13;
+&#13;
+                                                                                                        Impact area                  Hygiene                  Latrine            Improved                   Treatment                     Reuse&#13;
+&#13;
+                                                                                                       (million US$)                 practices          physical access        toilet system               or disposal&#13;
+&#13;
+                                                                                                                                    Fin.     Econ.         Fin.       Econ.    Fin.         Econ.         Fin.        Econ.           Fin.          Econ.&#13;
+&#13;
+                                                                                                     Health                          6.0       84.2                             4.3           59.9&#13;
+&#13;
+                                                                                                     Water                                                                                                146.8       149.0&#13;
+&#13;
+                                                                                                     User preferences                                                   38.2&#13;
+&#13;
+                                                                                                     Tourism                                                                                                             73.7&#13;
+&#13;
+                                                                                                     Sanitation markets                                      0.3         0.3    1.2             1.2                                    1.8           1.8&#13;
+&#13;
+                                                                                                     TOTAL                           6.0       84.2          0.3        38.6    5.5           61.1        146.8       222.7            1.8           1.8&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                            25                                                                                                                                                                26&#13;
+&amp;#12;&#13;
+                         Recommendations                                                                                                                                       Abbreviations&#13;
+&#13;
+&#13;
+Recommendation 1.&#13;
+&#13;
+Provide greater priority for investments in sanitation                               Another priority would be the low-income populations in urban areas.Such areas&#13;
+                                                                                                                                                                          ALRI                  Acute Lower Respiratory Infection&#13;
+With around four-fifths of the Cambodian population exposed to unimproved            have high population densities which are more likely to be exposed to poor&#13;
+                                                                                                                                                                          BOD                   Biological Oxygen Demand&#13;
+sanitation, it is clear that more investments are needed in the sector.The           sanitation, and where, in such a confined space, poorly disposed or untreated&#13;
+                                                                                                                                                                          CDHS                  Cambodia Demographic and Health Survey&#13;
+Government of Cambodia and other stakeholders should jointly reassess the            human excreta pollutes water resources and increases health risks.&#13;
+                                                                                                                                                                          CIPS                  Cambodia Inter-censual Population Survey&#13;
+current and planned spending levels in the sanitation and related sectors, covering&#13;
+                                                                                                                                                                          CMDG                  Cambodia Millennium Development Goals&#13;
+health, water resources, environment, rural and urban planning and development,      Recommendation 3.&#13;
+                                                                                                                                                                          CSES                  Cambodia Socio-Economic Survey&#13;
+fisheries, and tourism.Increased political importance and budget allocations         Strengthen education and information campaigns for promoting personal&#13;
+                                                                                                                                                                          DO                    Dissolved Oxygen&#13;
+should be given to sanitation.                                                       hygiene&#13;
+                                                                                                                                                                          EAP                   East Asia and the Pacific&#13;
+                                                                                     The study showed that hand washing can lead to substantial benefits in the form&#13;
+                                                                                                                                                                          Ecosan                Ecological Sanitation&#13;
+While the specific types of investment projects were not explored in the study,      of lower health costs, particularly reduced diarrheal incidence.This means that&#13;
+                                                                                                                                                                          EIC                   Economic Institute of Cambodia&#13;
+these may include the provision of simple pit latrines and moderately sophisticated  intensifying existing campaigns for hand washing and other hygiene practices&#13;
+                                                                                                                                                                          ESI                   Economics of Sanitation Initiative&#13;
+latrines in rural and urban areas, respectively.This may also include increasing     can be an effective and cheaper means to directly reduce the disease incidence&#13;
+                                                                                                                                                                          GDP                   Gross Domestic Product&#13;
+the coverage of piped sewers in urban areas.In areas where space is a major          and the impacts of poor sanitation indirectly.&#13;
+                                                                                                                                                                          JMP                   Joint Monitoring Program (WHO,UNICEF)&#13;
+constraintandwhenfinancialresourcesarelimited,projectsmayinvolveconstructing&#13;
+                                                                                                                                                                          Kg                    Kilograms&#13;
+easy-to-maintain communal facilities.                                                Recommendation 4.&#13;
+                                                                                                                                                                          MAFF                  Ministry of Agriculture, Forestry and Fisheries&#13;
+                                                                                     Collect further information on key variables related to sanitation&#13;
+                                                                                                                                                                          MDG                   Millennium Development Goal&#13;
+Recommendation 2.                                                                    Thepresentanalysisreliedonsecondarydataandtheexistingliteraturetoanalyze&#13;
+                                                                                                                                                                          MEF                   Ministry of Economy and Finance&#13;
+Target investments to rural regions as well as low-income                            the economic impacts of sanitation.In many instances, it did not find information&#13;
+                                                                                                                                                                          MIME                  Ministry of Industry, Mines and Energy&#13;
+urban areas                                                                          which is directly relevant to the analysis.Also, the absence of well-defined and&#13;
+                                                                                                                                                                          MoEYS                 Ministry of Education,Youth and Sport&#13;
+Priority should be given to populations with no latrine, recognizing that effective  established relationships between sanitation and the evaluated impacts also&#13;
+                                                                                                                                                                          MoLMUPC               Ministry of Land Management, Urban Planning &amp;&#13;
+demand may be low in these groups due to low incomes and poor awareness              constrained the quantitative analysis, in particular fish losses and tourism.This&#13;
+                                                                                                                                                                                                Construction&#13;
+of the benefits of investing in sanitation.As well as stimulating demand through     not only limited the scope of the study but also introduced uncertainty in the&#13;
+                                                                                                                                                                          MPP                   Municipality of Phnom Penh&#13;
+publichealthandlatrineadvocacymessages,governmentsshouldtargetprograms,              impacts presented.&#13;
+                                                                                                                                                                          MRC                   Mekong River Commission&#13;
+subsidies and financing mechanisms to the most disadvantaged population&#13;
+                                                                                                                                                                          MRD                   Ministry of Rural Development&#13;
+groups.                                                                              Recommendation 5.&#13;
+                                                                                                                                                                          NBP                   National Biodigester Program&#13;
+                                                                                     Evaluate the available options/technologies for improving sanitation in the&#13;
+                                                                                                                                                                          NGO                   Non-Governmental Organization&#13;
+The priority for rural regions arises from the finding that access to improved       country&#13;
+                                                                                                                                                                          PPWM                  Phnom PenhWaste Management&#13;
+sanitation is lower in rural areas and a large proportion (84%) of the population    Having estimated the economic benefits from improving sanitation, the next step&#13;
+                                                                                                                                                                          PPWSA                 Phnom PenhWater Supply Authority&#13;
+is rural.This means that relatively simple and inexpensive facilities can go a long  is to evaluate potential measures to address the problem.This involves analyzing&#13;
+                                                                                                                                                                          TSS                   Total Suspended Solids&#13;
+way in terms of addressing the problem.On the other hand, the emphasis on            the options which are available to concerned agencies/institutions.Such studies&#13;
+                                                                                                                                                                          VIP                   Ventilated Improved Pit (latrine)&#13;
+regions with high concentrations of children arises from the finding that children,  should carefully weigh the costs of each option relative to the benefits.&#13;
+                                                                                                                                                                          WHO                   World Health Organization&#13;
+especially those under the age of five, are very vulnerable to health impacts of&#13;
+                                                                                                                                                                          WSP                   Water and Sanitation Program&#13;
+unimproved sanitation.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                                 27                                                                               28&#13;
+&amp;#12;&#13;
+                   References&#13;
+&#13;
+&#13;
+&#13;
+1.WHO/UNICEF/JMP, Meeting the MDG DrinkingWater and Sanitation target:           9. WorldTravel andTourist Association and Accenture,Travel and tourism&#13;
+&#13;
+  theurbanandruralchallengeofthedecade.2006.JointMonitoringProgramme.               traveling to new heights.Executive summary.2006.&#13;
+&#13;
+  World Health Organization, Geneva;and the United Nations Children's Fund,         http://www.wttc.org/2006TSA/pdf/World.pdf.&#13;
+&#13;
+  NewYork.&#13;
+&#13;
+                                                                                 10.Ministry ofTourism.Tourism statistical report:First semester 2007.Statistics&#13;
+&#13;
+2.Ministry of Planning, Cambodia.National Strategic Development Plan 2006-          andTourism Information Department, Ministry ofTourism:Phnom Penh.&#13;
+&#13;
+  2010.2005.&#13;
+&#13;
+                                                                                 11.Ministry of Agriculture, Forestry and Fisheries, and SNV Netherlands&#13;
+&#13;
+3.Hutton, G.Evaluation of the Economic Impacts of Sanitation:Methodology            Development Organisation.National Biodigester Programme Cambodia:&#13;
+&#13;
+  andGuideline.2007.Unpublisheddocument.WorldBank,WaterandSanitation                Information Folder.November 2006.National Biodigester Programme&#13;
+&#13;
+  Program.103 pages.                                                                Cambodia.&#13;
+&#13;
+&#13;
+&#13;
+4.Roberts, M.and A.Long, Demand Assessment for Sanitary Latrines in Rural        12.Chandararot, K.and L.Dannet.Biodigester User Survey Report.May 2007.&#13;
+&#13;
+  and Urban Areas of Cambodia.2007.World BankWater and Sanitation                   National Biodigester Programme.&#13;
+&#13;
+  Program.28 pages.&#13;
+&#13;
+&#13;
+&#13;
+5.Neou, S., et al., Cambodia EconomicWatch.Vol.6.April 2007.Phnom Penh:&#13;
+&#13;
+  Economic Institute of Cambodia.&#13;
+&#13;
+&#13;
+&#13;
+6.Bellavance, F., G.Dionne, and M.Lebeau.The value of a statistical life:a meta-&#13;
+&#13;
+  analysis with a mixed effects regression model.2007.Canada Research&#13;
+&#13;
+  Chair in Risk Management;Working Paper 06-12.&#13;
+&#13;
+&#13;
+&#13;
+7.Department of Fisheries.Cambodia post-harvest fisheries overview.2005.&#13;
+&#13;
+  Ministry of Agriculture Forestry and Fisheries:Phnom Penh.&#13;
+&#13;
+&#13;
+&#13;
+8.Doyle, B.Increasing education and other opportunities for girls and women&#13;
+&#13;
+  with water, sanitation and hygiene.1995.UNICEF, NewYork.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                        29&#13;
+&amp;#12;&#13;
+</ml:original-txt><ml:search-metadata><doc id="9604849">
+        <url>
+            http://documents.worldbank.org/curated/en/2008/01/9604849/economic-impacts-sanitation-cambodia-summary-five-country-study-conducted-cambodia-indonesia-lao-pdr-philippines-vietnam-under-economics-sanitation-initiative-esi
+        </url>
+        <availablein>English</availablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2008/01/9604849/economic-impacts-sanitation-cambodia-summary-five-country-study-conducted-cambodia-indonesia-lao-pdr-philippines-vietnam-under-economics-sanitation-initiative-esi</url_friendly_title>
+        <new_url>2008/01/9604849/economic-impacts-sanitation-cambodia-summary-five-country-study-conducted-cambodia-indonesia-lao-pdr-philippines-vietnam-under-economics-sanitation-initiative-esi</new_url>
+        <disclosure_date>2008-06-26T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2008-06-26T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2008/06/26/000334955_20080626064337/Rendered/INDEX/442950WSP0KH0v1mic0impacts01PUBLIC1.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2008/06/26/000334955_20080626064337/Rendered/PDF/442950WSP0KH0v1mic0impacts01PUBLIC1.pdf</pdfurl>
+        <docdt>2008-01-01T00:00:00Z</docdt>
+        <datestored>2008-06-26T00:00:00Z</datestored>
+        <totvolnb>2</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            Economic impacts of sanitation in Cambodia
+            : a five-country study conducted in Cambodia, Indonesia, Lao
+            PDR, the Philippines, and Vietnam under the Economics of
+            Sanitation Initiative (ESI)
+        </repnme>
+        <abstracts>
+            The sanitation impact study, initiated
+            by the World Bank water and sanitation program, aims to
+            generate sound evidence on the negative impacts of existing
+            sanitation and hygiene conditions and the potential benefits
+            of improvements in sanitation and hygiene in Cambodia. In
+            this study, quantitative assessment is conducted on the
+            economic impacts of poor sanitation and hygiene on health,
+            water resource, tourism and other welfare impacts. In
+            addition to the quantitative evaluation, the study also
+            discusses the effects of poor sanitation on various
+            qualitative dimensions including health-related quality of
+            life, intangible user preferences, life decisions, and the
+            quality of the surrounding environment. The analysis focused
+            on a narrow definition of sanitation, related to human
+            excreta. However, there were instances in which sanitation
+            as it relates to gray water and solid waste were also
+            included. In measuring the impacts, the study uses a
+            peer-reviewed methodology developed specifically for this
+            study, which draws on established methods and, where these
+            do not exist, develops new approaches to capture the impacts
+            of poor sanitation. For improving policy interpretation of
+            the results, the study distinguishes between financial and
+            economic impacts, and presents for rural/urban areas and
+            different geographical groupings at zonal level. Overall,
+            the study finds that poor sanitation leads to economic
+            losses. These economic losses are equivalent to 7.2 percent
+            of the Cambodia's Gross Domestic product (GDP) in 2005.
+            This amount is roughly equivalent to the contribution of the
+            fishery sector, to the GDP, or twice the contribution of the
+            forestry sector.
+        </abstracts>
+        <docna>
+            Executive summary
+        </docna>
+        <display_title>Economic impacts of sanitation in
+            Cambodia : a five-country study conducted in Cambodia,
+            Indonesia, Lao PDR, the Philippines, and Vietnam under the
+            Economics of Sanitation Initiative (ESI) : Executive summary</display_title>
+        <listing_relative_url>/research/2008/01/9604849/economic-impacts-sanitation-cambodia-five-country-study-conducted-cambodia-indonesia-lao-pdr-philippines-vietnam-under-economics-sanitation-initiative-esi-executive-summary</listing_relative_url>
+        <docty>UNDP-Water &amp; Sanitation Program</docty>
+        <subtopic>Health Monitoring &amp; Evaluation,Hygiene Promotion and Social Marketing,Urban Water Supply and Sanitation,Sanitation and Sewerage,Wastewater Treatment</subtopic>
+        <teratopic>Water Supply and Sanitation,Health, Nutrition and Population</teratopic>
+        <count>Cambodia</count>
+        <authors>
+            <author>Foster, Stephen</author>
+            <author>Kemper, Karin</author>
+            <author>Tuinhof, Albert</author>
+            <author>Koundouri, Phoebe</author>
+            <author>Nanni, Marcella</author>
+            <author>Garduno, Hector</author>
+        </authors>
+        <geo_region_mdks>
+            <geo_region_mdk>World!$!80475</geo_region_mdk>
+            <geo_region_mdk>Asia!$!80451</geo_region_mdk>
+            <geo_region_mdk>Southeast Asia!$!80471</geo_region_mdk>
+        </geo_region_mdks>
+        <entityids>
+            <entityid>000334955_20080626064337</entityid>
+        </entityids>
+        <admreg>East Asia and Pacific,East Asia and Pacific</admreg>
+        <colti>Water and Sanitation Program EAP research
+            report series</colti>
+        <lang>English</lang>
+        <historic_topic>Water Supply and Sanitation,Health, Nutrition and Population</historic_topic>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            access to safe water, access to safe water
+            supply, access to sanitation, animal excreta, animals,
+            bacteria, bad smells, benefits of sanitation, better
+            hygiene, biogas, BOD, boiling water, child health, clean
+            water, cleanliness, composting, connection, cost of water,
+            decision making, diarrhea, diarrheal diseases, disease
+            incidence, dissolved oxygen, Drainage, drainage system,
+            drains, environmental health, environmental sanitation,
+            families, feces, flood control, good sanitation, ground
+            water, hand washing, Health Care, health effects, health
+            risks, human excreta, human waste, hygiene, hygiene
+            improvement, hygiene practice, hygiene practices, Hygiene
+            Promotion, Industrial effluents, information campaigns,
+            Intervention, investments in sanitation, Isolation, lakes,
+            latrine, metaanalysis, morbidity, mortality, odors, oxygen,
+            oxygen demand, Pacific Region, personal hygiene, piped
+            sewers, pit latrine, pit latrines, plastics, ponds, poor
+            health, public health, quality of life, quantitative
+            analysis, recycling, research program, residential areas,
+            rivers, Rural Sanitation, rural water supply, safe disposal,
+            safe drinking water, safe water, safe water supply, Sanitary
+            conditions, Sanitary Latrines, Sanitation, sanitation
+            coverage, sanitation facility, sanitation improvement,
+            sanitation interventions, sanitation market, sanitation
+            options, Sanitation Program, sanitation sector, sanitation
+            services, scavengers, school Health, school sanitation,
+            septic tank, sewage, skin diseases, soap, solid waste, solid
+            waste management, supply Water, surface water, surface
+            waters, suspended solids, toilet, toilet facilities,
+            toilets, urban area, urban areas, Urban Water, users, Vector
+            control, ventilation, volumes of water, Waste, waste
+            collection, waste disposal, wastes, wastewater, water
+            pollution, water quality, WATER RESOURCE, water resources,
+            water sources, water tariff, water treatment, water use,
+            workers, workplace
+        </keywd>
+        <owner>Water - Water &amp; Sant. Prgrm-EAP (GWASE)</owner>
+        <geo_regions>
+            <geo_region>World</geo_region>
+            <geo_region>Asia</geo_region>
+            <geo_region>Southeast Asia</geo_region>
+        </geo_regions>
+        <repnb>44295</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>Social Development &amp; Poverty</ml:concept><ml:concept>Water Resources</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Environment</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Social Protections and Labor</ml:concept><ml:concept>Science and Technology</ml:concept><ml:concept>Social Development</ml:concept><ml:concept>Water</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Rural Development</ml:concept><ml:concept>Agriculture and Food Security</ml:concept><ml:concept>Environment and Natural Resources</ml:concept><ml:concept>Health, Nutrition and Population</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Social Protection and Labor</ml:concept><ml:concept>Health Monitoring and Evaluation</ml:concept><ml:concept>Water and Sanitation</ml:concept><ml:concept>Agriculture and Rural Development</ml:concept><ml:concept>Solid Waste Management</ml:concept><ml:concept>Urban Solid Waste Management</ml:concept><ml:concept>Access to Basic Sanitation</ml:concept><ml:concept>On-site Sanitation</ml:concept><ml:concept>Sanitation Marketing</ml:concept><ml:concept>Sanitation Promotion</ml:concept><ml:concept>Forest and Forestry</ml:concept><ml:concept>Demographics</ml:concept><ml:concept>Health Monitoring &amp; Evaluation</ml:concept><ml:concept>Income</ml:concept><ml:concept>Engineering</ml:concept><ml:concept>Agricultural Growth and Rural Development</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Water Supply and Sanitation</ml:concept><ml:concept>Rural Health</ml:concept><ml:concept>Water Supply</ml:concept><ml:concept>Diseases</ml:concept><ml:concept>Water, Sanitation and Hygiene</ml:concept><ml:concept>Fertilizers</ml:concept><ml:concept>Environmental Health</ml:concept><ml:concept>Solid Waste</ml:concept><ml:concept>Women</ml:concept><ml:concept>Sanitation</ml:concept><ml:concept>Rural Sanitation</ml:concept><ml:concept>Savings</ml:concept><ml:concept>Forestry</ml:concept><ml:concept>Population</ml:concept><ml:concept>Drainage</ml:concept></ml:concepts><ml:geo-regions><ml:geo-region>Asia</ml:geo-region><ml:geo-region>Cambodia</ml:geo-region><ml:geo-region>Eastern Asia</ml:geo-region></ml:geo-regions></ml:annotations></ml:doc-envelope>

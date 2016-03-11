@@ -1,0 +1,1488 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>ï»¿                                                                  74963&#13;
+                     The Health Extension&#13;
+                     Program in Ethiopia&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Netsanet W. Workie&#13;
+and&#13;
+Gandham NV Ramana&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                     Universal Health Coverage Studies Series (UNICO)&#13;
+                     UNICO Studies Series No. 10&#13;
+&amp;#12;&amp;#12;UNICO Studies Series 10&#13;
+The Health Extension Program in Ethiopia1&#13;
+Netsanet W. Workie and Gandham NV Ramana&#13;
+&#13;
+The World Bank, Washington DC, January 2013&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+1&#13;
+  The authors appreciate the valuable comments from peer reviewers Christopher Lemiere, Rafael Cortez, and Eyasu&#13;
+Tsehaye. We are also grateful for the input and guidance of the UNICO team. The case study benefited from the&#13;
+brainstorming and feedback during the Authorsâ&#128;&#153; Workshop, including the Trios feedback from Patrick Lumumba&#13;
+Osewe, Hannah Brown, and Chris Lovelace. We are also grateful to Daniel Cotlear for his guidance throughout the&#13;
+process, to Karima Saleh and Emiliana Gunawan for all their support, and to Diane Stamm for editing the case&#13;
+study.&#13;
+&amp;#12;           The World Bankâ&#128;&#153;s Universal Health Coverage Studies Series (UNICO)&#13;
+All people aspire to receive quality, affordable health care. In recent years, this aspiration has&#13;
+spurred calls for universal health coverage (UHC) and has given birth to a global UHC&#13;
+movement. In 2005, this movement led the World Health Assembly to call on governments to&#13;
+â&#128;&#156;develop their health systems, so that all people have access to services and do not suffer&#13;
+financial hardship paying for them.â&#128;? In December 2012, the movement prompted the United&#13;
+Nations General Assembly to call on governments to â&#128;&#156;urgently and significantly scale-up efforts&#13;
+to accelerate the transition towards universal access to affordable and quality healthcare&#13;
+services.â&#128;? Today, some 30 middle-income countries are implementing programs that aim to&#13;
+advance the transition to UHC, and many other low- and middle-income countries are&#13;
+considering launching similar programs.&#13;
+The World Bank supports the efforts of countries to share prosperity by transitioning toward&#13;
+UHC with the objectives of improving health outcomes, reducing the financial risks associated&#13;
+with ill health, and increasing equity. The Bank recognizes that there are many paths toward&#13;
+UHC and does not endorse a particular path or set of organizational or financial arrangements to&#13;
+reach it. Regardless of the path chosen, successful implementation requires that many&#13;
+instruments and institutions be in place. While different paths can be taken to expand coverage,&#13;
+all paths involve implementation challenges. With that in mind, the World Bank launched the&#13;
+Universal Health Coverage Studies Series (UNICO Study Series) to develop knowledge and&#13;
+operational tools designed to help countries tackle these implementation challenges in ways that&#13;
+are fiscally sustainable and that enhance equity and efficiency. The UNICO Studies Series&#13;
+consists of technical papers and country case studies that analyze different issues related to the&#13;
+challenges of UHC policy implementation.&#13;
+The case studies in the series are based on the use of a standardized protocol to analyze the nuts&#13;
+and bolts of programs that have expanded coverage from the bottom upâ&#128;&#148;programs that have&#13;
+started with the poor and vulnerable rather than those initiated in a trickle-down fashion. The&#13;
+protocol consists of nine modules with over 300 questions that are designed to elicit a detailed&#13;
+understanding of how countries are implementing five sets of policies to accomplish the&#13;
+following: (a) manage the benefits package, (b) manage processes to include the poor and&#13;
+vulnerable, (c) nudge efficiency reforms to the provision of care, (d) address new challenges in&#13;
+primary care, and (e) tweak financing mechanisms to align the incentives of different&#13;
+stakeholders in the health sector. To date, the nuts and bolts protocol has been used for two&#13;
+purposes: to create a database comparing programs implemented in different countries, and to&#13;
+produce case studies of programs in 24 developing countries and one high-income â&#128;&#156;comparator,â&#128;?&#13;
+the state of Massachusetts in the United States. The protocol and case studies are being published&#13;
+as part of the UNICO Studies Series, and a comparative analysis will be available in 2013.&#13;
+We trust that the protocol, case studies, and technical papers will provide UHC implementers&#13;
+with an expanded toolbox, make a contribution to discussions about UHC implementation, and&#13;
+that they will inform the UHC movement as it continues to expand worldwide.&#13;
+                                                                               Daniel Cotlear&#13;
+                                                       UNICO Studies Series Task Team Leader&#13;
+                                                                             The World Bank&#13;
+                                                                             Washington, DC&#13;
+&#13;
+                                                                                                ii&#13;
+&amp;#12;                                                          TABLE OF CONTENTS&#13;
+&#13;
+&#13;
+Abbreviations ............................................................................................................................................... iv&#13;
+Executive Summary ...................................................................................................................................... v&#13;
+1.     Introduction ........................................................................................................................................... 1&#13;
+2.     General Health System Overview and Health Financing ..................................................................... 3&#13;
+3.     Brief Description of Public Health, Primary Care, and Key Supply-side Efforts ................................. 8&#13;
+4.     HEP Institutional Architecture and its Interaction with the Rest of the Health System ..................... 10&#13;
+5.     Targeting, Identification, and Enrolment of Beneficiaries.................................................................. 14&#13;
+6.     Special Topics Related to the Management of Public HEP Funds ..................................................... 14&#13;
+7.     Management of the HEP Benefits Package ........................................................................................ 14&#13;
+8.     The HEP Information Environment .................................................................................................... 15&#13;
+9.     Discussion of Themes Specific to this Country .................................................................................. 15&#13;
+10. Pending Agenda .................................................................................................................................. 17&#13;
+Annex 1 Financial Flow Chart, 2007/2008 ................................................................................................. 19&#13;
+Annex 2 Spider Web ................................................................................................................................... 20&#13;
+References ................................................................................................................................................... 23&#13;
+&#13;
+&#13;
+FIGURES&#13;
+Figure 1 Ethiopiaâ&#128;&#153;s Three-tier System .......................................................................................................... 4&#13;
+Figure 2 Trends in Health Expenditure by Source of Finance ...................................................................... 5&#13;
+Figure 3 Per Capita Expenditure on Health in US$ (Low-income Sub-Saharan Africa countries) .............. 6&#13;
+Figure 4 Flow of Funds in the Health Sector ................................................................................................ 7&#13;
+Figure 5 Trends in Regional Government Health Expenditure .................................................................... 7&#13;
+Figure 6 Contraceptive Prevalence Rate ..................................................................................................... 17&#13;
+&#13;
+TABLES&#13;
+Table 1 Progress in Key Health Indicators, Ethiopia, 2005 and 2011 .......................................................... 2&#13;
+Table 2 Expansion of Health Infrastructure .................................................................................................. 9&#13;
+Table 3 Package of HEP Interventions ....................................................................................................... 14&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                             iii&#13;
+&amp;#12;                                 Abbreviations&#13;
+&#13;
+&#13;
+CHWs      Community Health Workers&#13;
+GDP       gross domestic product&#13;
+HEP       Health Extension Program&#13;
+HEWs      Health Extension Workers&#13;
+HSDP IV   Health Sector Development Program&#13;
+MDGs      Millennium Development Goals&#13;
+NGO       nongovernmental organization&#13;
+NHA       National Health Accounts&#13;
+SWAp      Sector Wide Approach&#13;
+THE       total health expenditure&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                 iv&#13;
+&amp;#12;Executive Summary&#13;
+&#13;
+Ethiopia has made substantial progress in improving health outcomes during the last decade and&#13;
+is on track to achieve some of the health Millennium Development Goals. Innovative strategies&#13;
+to improve household behaviors and coverage of basic health care services contributed to&#13;
+Ethiopiaâ&#128;&#153;s achievements, and the Health Extension Program (HEP) remains the core of such&#13;
+innovations and provides a model for countries struggling to improve health outcomes in a&#13;
+resource-constrained setting.&#13;
+&#13;
+Introduced in 2003, initially in agrarian communities and subsequently tailored and scaled up&#13;
+into the pastoral and urban communities, the HEP was developed by the Government of Ethiopia&#13;
+to be the main vehicle for achieving universal coverage of primary health care. The HEP is fully&#13;
+integrated into the broader health system and is part and parcel of the Primary Health Care Unit&#13;
+structure. The program delivers 16 clearly defined packages of preventive, promotive, and basic&#13;
+curative services. All services delivered under the program are free and available to everyone.&#13;
+&#13;
+The Health Extension Workers (HEWs) are the key players in the program. They are all female,&#13;
+10th grade high school graduates, recruited from the community with the active participation of&#13;
+the community. They are trained for one full year and then deployed back into the community to&#13;
+promote health and provide services at the village level. Two HEWs are paired to serve 3,000 to&#13;
+5,000 people and serve at a health post. Much of their time is devoted to home visits and&#13;
+outreach. Over 35,000 HEWs are recruited, trained, and deployed to the villages. Over 15,000&#13;
+health posts have been constructed and equipped with the active participation and contribution of&#13;
+the community.&#13;
+&#13;
+Since its rollout, the HEP has shown substantial outcomes in areas related to disease prevention,&#13;
+family health, hygiene, and environmental sanitation. The HEP has been central to the&#13;
+strengthening of the community health system, including providing standards and manuals and&#13;
+regular evaluation of the program. Although it is difficult to attribute improvements in health&#13;
+care directly to the rollout of the HEP, between 2005 and 2011, under-five mortality decreased&#13;
+from 123 per 1,000 live births to 88 per 1,000 live births; the contraceptive prevalence rate&#13;
+increased from 15 percent to 29 percent; stunting in under-five children declined from 52 percent&#13;
+to 44 percent; the prevalence of anemia among women decreased from 27 percent to 17 percent;&#13;
+the total fertility rate decreased from 5.4 to 4.8; and use of insecticide-treated nets increased from&#13;
+1.3 percent to 42 percent.&#13;
+&#13;
+Despite considerable achievements in the last eight years, the HEP faces a number of challenges.&#13;
+These include improving the quality of services provided under the program; enhancing skills&#13;
+and performance of the HEWs, particularly in the area of maternal health; and sustaining the&#13;
+program with an appropriate carrier structure for the HEWs.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                    v&#13;
+&amp;#12;vi&#13;
+&amp;#12;1. Introduction&#13;
+&#13;
+Context&#13;
+&#13;
+With an area of 1.1 million square kilometers and a 2012 projected population of 84.3 million&#13;
+(CSA 2012a), Ethiopia is the second-most-populous country in Sub-Saharan Africa. Eighty-three&#13;
+percent of the population resides in rural areas of the country. The economy has been growing at&#13;
+twice the rate of the Africa region; between 2004 and 2011, annual gross domestic product&#13;
+(GDP) growth averaged 10.6 percent per year compared to 5.2 percent in Sub-Saharan Africa&#13;
+(World Bank 2012). Despite impressive economic growth, with a per capita GDP of US$392,&#13;
+Ethiopia remains one of the poorest nations in the world. The sectoral strategies, particularly the&#13;
+Health Extension Program, are developed with full recognition of the macro resource constraints.&#13;
+&#13;
+Since August 1995, Ethiopia has been structured into nine regional states and two city&#13;
+administration councils under a constitutional federal system. In addition to receiving federal&#13;
+subsidies, the regions are mandated to generate local revenue. Decentralization from the regional&#13;
+to the woreda (district) level was initiated in 2002 except in the emerging regions, 2 in which&#13;
+decentralization started in 2004. Woredas are the basic decentralized administrative unit and&#13;
+each has an administrative council composed of elected members. The country is highly&#13;
+heterogeneous, with large socioeconomic differences across regional states and across urban and&#13;
+rural areas, and there is a well-elaborated intergovernmental fiscal transfer formula in Ethiopia&#13;
+(World Bank 2010).&#13;
+&#13;
+The health sector has shown remarkable progress in a number of health, nutrition, and population&#13;
+indicators. The 2011 Demographic and Health Survey (CSA and ICF International 2012)&#13;
+revealed a 28 percent reduction in under-five mortality from 123 to 88 per 1,000 live births; the&#13;
+number of children under six months who are exclusively breastfed increased from 31.6 to 52&#13;
+percent; the number of under-five children who are stunted decreased from 51.3 to 44.4 percent;&#13;
+and the contraceptive prevalence rate (any modern method) among currently married women&#13;
+increased from 13.9 to 27.3 percent between 2005 and 2011. National fever prevalence among&#13;
+under-five children decreased from 24.0 percent in 2007 to 19.7 percent in 2011, with a sharp&#13;
+reduction among children under one year of age from 21.8 percent in 2007 to 14.9 percent in&#13;
+2011 (Ethiopian Health and Nutrition Research Institute and Partners 2012). Despite this&#13;
+important progress, challenges remain, particularly in the maternal mortality and reproductive&#13;
+health services (table 1). The maternal mortality ratio did not significantly change between 2005&#13;
+and 2011 and remains over 600 per 100,000 live births. Despite an increase in the number of&#13;
+deliveries attended by skilled providersâ&#128;&#148;from 5.7 to 10 percentâ&#128;&#148;the number remains very low.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+2&#13;
+    Afar, Benishangul-Gumuz, Gambella, and Somalia regions.&#13;
+&#13;
+                                                                                                 1&#13;
+&amp;#12;                    Table 1 Progress in Key Health Indicators, Ethiopia, 2005 and 2011&#13;
+              Health Outcome/Output                        2005             2011     Change&#13;
+              Under-five mortality rate                     123              88       -28%&#13;
+              Infant mortality rate                          77              59       -23%&#13;
+              Stunting in under-five children                51              44       -14%&#13;
+              Prevalence of anemia among women               27              17       -37%&#13;
+              Total fertility rate                          5.4              4.8      -11%&#13;
+              Contraceptive prevalence rate                  15             27.5      +83%&#13;
+              Source: CSA and ICF International 2012.&#13;
+&#13;
+The Health Extension Program (HEP), a flagship program of the Government of Ethiopia, was&#13;
+launched by the Federal Ministry of Health in 2003 with the goal of improving health outcomes&#13;
+in Ethiopia by targeting households and communities. The program was originally launched in&#13;
+2003 in the countryâ&#128;&#153;s four big agrarian regions 3 and has made important contributions to&#13;
+Ethiopiaâ&#128;&#153;s achievements in the area of health. The HEP, which has been expanded to the&#13;
+remaining regions in the country, started tailoring the program to the particular requirements of&#13;
+the pastoral and agropastoral communities in 2006, and to urban areas in 2010.&#13;
+&#13;
+The HEP delivers a package of basic and essential promotive, preventive, and curative health&#13;
+services targeting households in a community, based on the principles of primary health care to&#13;
+improve familiesâ&#128;&#153; health status with the active participation of both households and the&#13;
+community (FMOH 2007). The focus of the program is on improving household behaviors and&#13;
+providing basic health services that have high impact and are cost-effective, such as improving&#13;
+sanitation and personal hygiene, childhood vaccinations, family planning, prevention and&#13;
+treatment of malaria, and treatment of diarrhea and pneumonia (introduced recently) in under-&#13;
+five children. The HEP became a core component of the broader health systemâ&#128;&#148;one fully&#13;
+integrated into the primary health care unitâ&#128;&#148;and is one of the strategies adopted with the goal of&#13;
+achieving universal primary health care coverage of the rural population by 2009.&#13;
+&#13;
+Objectives&#13;
+&#13;
+This case study describes and assesses the contributions made by the HEP to improving the&#13;
+health outcomes targeting households and communities. The program rests on an accelerated&#13;
+expansion of basic health infrastructure and local human resources with required skills to scale-&#13;
+up delivery of high-impact interventions focusing on improving the supply of and enhancing&#13;
+demand for a well-defined package of essential promotive, preventive, and curative health&#13;
+services. The objectives of the case study are to provide a detailed description of (a) the context&#13;
+for the introduction of the program; (b) the scope of the service package delivered under the&#13;
+program; and (c) the institutional arrangements and the links with the rest of the health system.&#13;
+The case study also summarizes and discusses the evidence of the programâ&#128;&#153;s achievements and&#13;
+the challenges to achieving universal primary health care coverage. The study also discusses the&#13;
+importance of political will and commitment in introducing such large-scale innovations in&#13;
+improving service delivery and mobilizing the community in a resource-constrained setting.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+3&#13;
+    Amahra; Oromia; Southern Nations, Nationality and Peoples; and Tigray regions.&#13;
+&#13;
+                                                                                                 2&#13;
+&amp;#12;2. General Health System Overview and Health Financing&#13;
+&#13;
+General Health System&#13;
+&#13;
+To achieve the goals of the health policy, issued in 1993, the government has formulated a 20-&#13;
+year health sector development strategy, which is being implemented through a series of five-&#13;
+year programs. Implementation of the first Health Sector Development Program (HSDP I) was&#13;
+launched in 1996/97. Subsequent health sector development programs are aligned to&#13;
+international commitments such as the Millennium Development Goals (MDGs) and the&#13;
+governmentâ&#128;&#153;s macroeconomic development frameworks, that is, the Sustainable Development&#13;
+and Poverty Reduction Program (2002/03â&#128;&#147;2004/05), the Plan for Accelerated and Sustained&#13;
+Development to End Poverty (2005/06â&#128;&#147;2009/10), and the Growth and Transformation Plan&#13;
+(2010/11â&#128;&#147;2014/15). The fourth Health Sector Development Program (HSDP IV) has entered its&#13;
+third year of implementation. The HSDP IV aims to reduce morbidity, mortality, and disability,&#13;
+and to improve the health status of the Ethiopian people.&#13;
+The health sector has focused on achieving universal coverage with quality health services by&#13;
+addressing the following strategic objectives (FMOH 2012b): (a) community ownership; (b)&#13;
+access to health services; (c) quality of health services; (d) public health emergency preparedness&#13;
+and response; (e) pharmaceutical supply and services; (f) evidence-based decision making,&#13;
+harmonization, and alignment; (g) the regulatory system; (h) the health infrastructure; (i) human&#13;
+capital and leadership; and (j) resource mobilization and utilization. The HEP is fully integrated&#13;
+into the HSDP IV and serves as the main vehicle to achieve many of the stated strategic&#13;
+objectives.&#13;
+&#13;
+HSDP IV has introduced a three-tier 4 health service system (FMOH 2010). The primary care&#13;
+level comprises three service delivery points with a defined referral systemâ&#128;&#148;health post, health&#13;
+center, and primary hospital. The size of the catchment population varies between urban and&#13;
+rural areas. A health post, staffed with two HEWs, serves 3,000 to 5,000 people. A health center&#13;
+is designed to serve 60,000 to 100,000 people. It provides both preventive and curative services&#13;
+and serves as a referral center and practical training institution for HEWs. A primary hospital&#13;
+provides inpatient and ambulatory services. In addition to what a health center can provide, a&#13;
+primary hospital provides emergency surgical services, including caesarean sections, and access&#13;
+to blood transfusion services. It also serves as a referral center for health centers in its catchment&#13;
+areas, and is a practical training center for nurses and other paramedical health professionals. The&#13;
+secondary care level comprises general hospitals. A general hospital provides inpatient and&#13;
+ambulatory services and serves as a referral center for primary hospitals. It also serves as a&#13;
+training center for Health Officers, nurses, and emergency surgeons, as well as other categories&#13;
+of health workers. The tertiary care level comprises specialized hospitals and serves as a&#13;
+referral from general hospitals (figure 1).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+4&#13;
+  Introduced following the Business Process Re-engineering exercise. In the earlier HSDPs, service delivery was&#13;
+organized into a four-tier system: a primary health care unit, (a network of a health centers and five health posts),&#13;
+district hospitals, regional hospital, and specialized referral hospitals).&#13;
+&#13;
+                                                                                                                   3&#13;
+&amp;#12;                              Figure 1 Ethiopiaâ&#128;&#153;s Three-tier System&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+       Source: FMOH 2012.&#13;
+&#13;
+The government is the major provider of health services in Ethiopia. According to the national&#13;
+welfare monitoring survey (CSA 2012b), twoâ&#128;?thirds of all patients have visited government&#13;
+facilities compared to 27 percent who visit private for-profit and nongovernmental organization&#13;
+(NGO) providers. The main reason for the choice of provider is access, as measured by closeness&#13;
+to the facility. Four out of five visited the health facility because either it is closer to home or&#13;
+they have no other choice of facility. The role of private health clinics and medical services is&#13;
+growing in importance, particularly in urban areas. In addition, about 200 NGO health clinics&#13;
+and eight NGO hospitals are operating throughout the country, particularly in rural areas.&#13;
+In line with the devolution of power to the lower levels, decision making for public service&#13;
+delivery has shifted from the central to the regional and woreda governments. However, through&#13;
+the HSDP Sector Wide Approach (SWAp) mechanism, the health sector ensures effective&#13;
+coordination and harmonization of policies and provision of services including support from&#13;
+development partners. The HSDP harmonization and alignment manual (FMOH 2007b), the&#13;
+compact signed in 2008 between the Government of Ethiopia and most of the development&#13;
+partners active in the health sector, and the joint financing arrangement, frame the alignment and&#13;
+harmonization efforts toward the principles of â&#128;&#156;one plan, one budget and one report,â&#128;? the SWAp&#13;
+mechanism. Since 2008, a pooled fundâ&#128;&#148;the MDG performance fundâ&#128;&#148;has been in place. In&#13;
+addition to other activities, the MDG fund finances equipment, commodities, and supplies for the&#13;
+HEP, and the capacity building of the HEWs through integrated refresher training.&#13;
+&#13;
+Health Financing&#13;
+&#13;
+Health expenditure in Ethiopia has steadily increased over time. Four rounds of National Health&#13;
+Accounts (NHA) show a continued increase in total health expenditure (THE) over the years. Per&#13;
+capita spending on health increased from US$5.6 to US$16.09 between 1999/00 and 2007/08&#13;
+(figure 2). Spending on health as a proportion of GDP has remained relatively flat at around 5&#13;
+percent during the same period. As detailed in the fourth round of NHA for 2007/08, the three&#13;
+major financing sources for health in Ethiopia are (a) external assistance, at 39 percent; (b) out-&#13;
+of-pocket expenditure, at 37 percent; and (c) the government budget, at 21 percent. Both public&#13;
+and private financing has increased over the years (FMOH and Abt Associates 2010).&#13;
+&#13;
+&#13;
+                                                                                                  4&#13;
+&amp;#12;                           Figure 2 Trends in Health Expenditure by Source of Finance&#13;
+                                  20.0&#13;
+&#13;
+                                  16.0&#13;
+&#13;
+              Per capita in US$&#13;
+                                  12.0&#13;
+&#13;
+                                   8.0&#13;
+&#13;
+                                   4.0&#13;
+&#13;
+                                   0.0&#13;
+                                         1999/2000              2004/05               2007/08&#13;
+&#13;
+                                                GHE   OOP   External   Others   THE&#13;
+&#13;
+           Source: Second, third and fourth round National Health Accounts.&#13;
+&#13;
+Public spending increased faster than private spending, mostly due to a sharp increase in donor&#13;
+funding. Between 1999/00 and 2007/08, public spending on health more than tripled from a per&#13;
+capita amount of US$2.80 to US$9.70. External financing per capita increased even fasterâ&#128;&#148;over&#13;
+sixfoldâ&#128;&#148;from US$0.90 to US$6.30 per capita. Domestic public spending increased by 80&#13;
+percent from US$1.90 to US$3.40 per capita.&#13;
+&#13;
+Private spending on health increased significantly during the period. Between 1999/00 and&#13;
+2007/08, private spending more than doubled from US$2.80 to US$6.40. Out-of-pocket spending&#13;
+remains a major source of finance accounting for a third of the THE, and increased from US$2.0&#13;
+per capita in 1999/00 to US$4.90 in 2007/08.&#13;
+&#13;
+The overall mix between public and private financing has shifted from an equal share in 1999/00&#13;
+to a higher share from the public sector (60 percent) in 2007/08.&#13;
+&#13;
+All private sector financing agents (households, private employers, nonprofit institutions, and&#13;
+others) together managed 44 percent of THE in 2007/08. The Ministry of Health (central,&#13;
+regional, and woreda level) managed 42 percent. The rest of the world (external donors and&#13;
+international NGOs) is also a key financing agent, managing 14 percent.&#13;
+Providers of public health programs are the major recipients of health resources, accounting for&#13;
+27 percent, followed by public primary health care units, which receive 21 percent, and&#13;
+government hospitals, which receive 13 percent. General administration consumed 9 percent of&#13;
+spending.&#13;
+&#13;
+Despite the considerable increase, THE in Ethiopia remains low compared to other countries in&#13;
+Sub-Saharan Africa. Per capita spending of US$16.09 in 2007/08 was half the average of the&#13;
+low-income Sub-Saharan Africa countries, at US$32 (figure 3). This reflects three things: (a) that&#13;
+despite rapid growth in the last five years, the overall resource base remains low in Ethiopia (at a&#13;
+per capita GDP of US$392); (b) that although over the last 10 years, the government allocation&#13;
+to health increased from 4 percent to 8 percent, it is still lower than the Sub-Saharan Africa&#13;
+&#13;
+&#13;
+                                                                                                  5&#13;
+&amp;#12;country average; and (c) Ethiopia receives a relatively much lower level of external aid than&#13;
+other Sub-Saharan Africa countries.&#13;
+&#13;
+                                      Figure 3 Per Capita Expenditure on Health in US$&#13;
+                                         (Low-income Sub-Saharan Africa countries)&#13;
+&#13;
+                       Uganda&#13;
+                         Chad&#13;
+                          Mali&#13;
+                  Burkina Faso&#13;
+                        Kenya&#13;
+                         Benin&#13;
+                        Liberia&#13;
+                          Togo&#13;
+                      Comoros&#13;
+                      Average&#13;
+                  Gambia, The&#13;
+                      Tanzania&#13;
+                 Mozambique&#13;
+                         Niger&#13;
+                       Burundi&#13;
+       Central African Republic&#13;
+                       Malawi&#13;
+                       Guinea&#13;
+                Guinea-Bissau&#13;
+                  Madagascar&#13;
+             Congo, Dem. Rep.&#13;
+                      Ethiopia&#13;
+                        Eritrea&#13;
+&#13;
+&#13;
+                                  0        5     10    15     20     25    30     35     40   45&#13;
+    Source: WHS 2010.&#13;
+&#13;
+Ethiopia is a federal state consisting of nine regions and two city administrations. The&#13;
+subnational structure has four levelsâ&#128;&#148;regions, zones, woredas, and kebeles. Fiscal&#13;
+decentralization has deepened over the last decade, but the subnational institutions still rely on&#13;
+block grants for about three-quarters of their expenditures. The block grant for services transfers&#13;
+funds from the federal and regional level to the woreda level for service delivery. External&#13;
+resources flow through multiple channels, including the Federal Ministry of Health; in-kind&#13;
+support to regions, woredas, and health facilities; and in some cases, direct implementation by&#13;
+partners (figure 4). (Also see the Annex for a chart of the flow of funds from various source,&#13;
+financing agents, and providers to functions based on the results from the fourth round NHA.)&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                   6&#13;
+&amp;#12;                          Figure 4 Flow of Funds in the Health Sector&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+There is great variation in the level of per capita health expenditure across regions, as shown in&#13;
+figure 5. Each regionâ&#128;&#153;s per capita health expenditure has increased over the five-year period&#13;
+covered by the figure, and the variation across regions is evident. For instance, in 2009/2010,&#13;
+among all regions, per capita government health expenditure in Harari (Birr 133.1, US$10.30)&#13;
+was almost five times that of Amhara (Birr 27.1, US$2.10). This, however, could be because of&#13;
+the small size of the population in Harari and the high unit cost of service provision. The&#13;
+variation also seems to narrow over the five years.&#13;
+&#13;
+                Figure 5 Trends in Regional Government Health Expenditure&#13;
+&#13;
+            Federal&#13;
+             Tigray&#13;
+            SNNPR&#13;
+            Oromia&#13;
+            Harrari&#13;
+         Dire Dawa&#13;
+ Benishangul-Gumuz&#13;
+           Amhara&#13;
+       Addis Ababa&#13;
+&#13;
+                      0        20         40        60           80       100     120       140&#13;
+                                                   Per capita in Birr&#13;
+&#13;
+                          2009/10     2008/09   2007/08     2006/07     2005/06&#13;
+&#13;
+Source: MOFED, Government Accounts.&#13;
+&#13;
+&#13;
+                                                                                                  7&#13;
+&amp;#12;The Government of Ethiopia also introduced fee waiver and exemption systems for services at&#13;
+health centers and hospitals aimed at protecting the poorest of the poor against the financial&#13;
+burden of user fees. The fee waiver screening and identification of eligible beneficiaries is&#13;
+conducted through community participation. The selected beneficiaries are given a certificate&#13;
+entitling them to free health care services. The woreda administration allocates an annual budget&#13;
+for covering the cost, enters into agreements with health facilities, and reimburses health&#13;
+facilities for services rendered. The experience varies across regions, and a 2011 review of the&#13;
+health sector reform recommended further improvement in â&#128;&#156;the targeting and identification of&#13;
+the right beneficiariesâ&#128;? (Purvis, Alebachew, and Feleke 2011).&#13;
+&#13;
+The list of exempted services includes family planning, deliveries, pre- and postnatal care,&#13;
+tuberculosis, leprosy, childhood vaccination, voluntary counseling and testing for HIV,&#13;
+antiretroviral treatment, and prevention of mother-to-child transmission of HIV. All public health&#13;
+facilities are expected to post lists of exempted services in the waiting area. However, most of&#13;
+the exempted services are financed through external funding. Although these services are&#13;
+expected to be provided free of charge, there are reported divergences between policy and&#13;
+practice, especially when it comes to deliveries. Some of the exempted services, particularly&#13;
+deliveries and safe motherhood at the health facility level, have no substantial external funding.&#13;
+As a result, facilities charge fees for some of the exempted services. According to a national&#13;
+baseline assessment for emergency obstetric and newborn care (FMOH, UNICEF, UNFPA,&#13;
+WHO, and AMDD 2010), 17 percent of health centers and 77 percent of hospitals charged&#13;
+mothers for normal deliveries. There is an ongoing dialogue about revisiting the financing and&#13;
+list of exempted services.&#13;
+&#13;
+A Community Based Health Insurance initiative is also being studied in 13 woredas, and there&#13;
+are plans for national scale-up along with the social insurance program for formal sector&#13;
+employers. However, some critical challenges remain.&#13;
+&#13;
+3. Brief Description of Public Health, Primary Care, and Key Supply-side Efforts&#13;
+&#13;
+While the burden of disease in Ethiopia has not been systematically measured in recent years at&#13;
+the national level, the results of a study of the burden of disease in a rural area of Ethiopia&#13;
+showed that communicable, maternal, perinatal, and nutritional problems contributed to 72&#13;
+percent of the total Disability Adjusted Life Years lost, noncommunicable diseases contributed&#13;
+to 24 percent, and injuries contributed 4 percent (Abdulahi, Mariam, and Kebede 2001).&#13;
+&#13;
+Despite the substantial improvement in recent years, access to and utilization of primary health&#13;
+services remains limited. According to the 2011 welfare monitoring survey (CSA 2012b), 64.7&#13;
+percent of households are within less than 5 kilometers of the nearest health post, 40.1 percent&#13;
+are within 5 kilometers of a health center, and 14.2 percent are within 5 kilometers of a hospital.&#13;
+Urban-rural disparity in the distribution of health facilities is significant. In urban areas, health&#13;
+service providers, that is, health posts, health centers, and hospitals, are available within less than&#13;
+5 kilometers for about 88.2 percent, 87.7 percent, and 49.4 percent of the households,&#13;
+respectively.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                     8&#13;
+&amp;#12;In the last decade, the country has made a concerted effort to address the supply-side constraints&#13;
+in expanding primary health care coverage. The HEP is one of the strategies aimed at removing&#13;
+the supply-side constraints for increased primary care coverage, with the construction of 15,668&#13;
+health posts, training and deploying over 35,000 Health Extension Workers. During HSDP III&#13;
+(2005/06â&#128;&#147;2009/10), there were aggressive across-the-board capital investments to expand&#13;
+coverage of health services in general and primary health care in particular.&#13;
+&#13;
+The accelerated expansion of primary health care launched in 2005 focused on both physical&#13;
+availability and accessibility of essential health services to reduce the distance between primary&#13;
+health care facilities and health care users. The total investment cost of this expansion over five&#13;
+years was estimated at about US$1.2 billion (US$322.01 for construction and equipping of&#13;
+12,249 new health posts; US$224.84 for construction and equipping of 563 new health centers;&#13;
+and US$671.52 for upgrading and equipping 2,167 health stations to health center level). Of this,&#13;
+the share of capital investment cost is 73 percent and the share of recurrent cost is 27 percent&#13;
+(FMOH 2005). As presented in table 2, the number of public health facilities expanded&#13;
+substantially by the end of HSDP III, achieving the infrastructure expansion projected in 2005.&#13;
+And as documented in the 2010 HEP evaluation study (CNHDE 2012a), the majority (82.3&#13;
+percent) of kebeles 5 have health post infrastructure specifically built for the provision of HEP&#13;
+(table 2).&#13;
+&#13;
+                                    Table 2 Expansion of Health Infrastructure&#13;
+                                                        2001/02     2004/05    2009/10    2011/12&#13;
+                    Health Posts                           76        2,899      14,416     15,668&#13;
+                    Health Centers                        412         519       2,689      2,999&#13;
+                    Hospitals (all types)a                 87         126        195        195&#13;
+                   Note: a. Includes six specialized hospitals.&#13;
+&#13;
+A major challenge for HSDP IV is to ensure that the functionality of health infrastructure that&#13;
+has been rapidly expanded during the last five years and the quality of health services provided&#13;
+from the health post to the referral levels keep pace with this expansion in access. Utilization of&#13;
+health center services remains relatively low at 0.29 visits per capita in 2012 (FMOH 2012a), in&#13;
+part attributed to the quality of services and affordability. HSDP IV plans a big push to improve&#13;
+quality, including ensuring standards of speed of delivery, harmonization at the point of service&#13;
+through the integration of vertical programs, effectiveness of the services and patient safety,&#13;
+ethical and professional service delivery, and availability of the required inputs (human&#13;
+resources, finance, pharmaceuticals, and so forth).&#13;
+&#13;
+To tackle the shortage of a skilled midlevel health workforce, the government has invested&#13;
+heavily in expanding medical schools and enrolling large numbers of students in the preservice&#13;
+training program. To bridge the health workforce gap at the primary health care level, Ethiopia&#13;
+has introduced a new cadre of health workers, called Health Officers, who are trained to provide&#13;
+many of the basic public health and clinical services at the primary care level. There has been&#13;
+remarkable achievement in increasing the number of Health Officers (over 3,000) and Health&#13;
+Extension Workers (over 35,000).&#13;
+&#13;
+&#13;
+5&#13;
+    A kebele is part of a woreda (district) and is the smallest administrative unit of Ethiopia.&#13;
+&#13;
+                                                                                                    9&#13;
+&amp;#12;To improve the availability of essential medicines and medical supplies, a revolving drug fund&#13;
+has been established and logistics and supply chain management has been overhauled (FMOH&#13;
+2012a). A new entityâ&#128;&#148;the Pharmaceutical Fund and Supply Agencyâ&#128;&#148;was established in 2007&#13;
+to improve efficiency in the procurement of health sector commodities and strengthen&#13;
+distribution. A commodity tracking and stock management study, conducted in 2011, reported a&#13;
+major improvement in the stock-out of essential commodities in primary health facilities.&#13;
+&#13;
+4. HEP Institutional Architecture and its Interaction with the Rest of the Health System&#13;
+&#13;
+The Health Extension Program, launched in 2003 in the four big agrarian regions, 6 was expanded&#13;
+to the remaining regions in subsequent years. The program has been tailored to the particular&#13;
+requirements of pastoral and agropastoral communities and, more recently, to urban&#13;
+communities. The overall goal of the HEP is to create a healthy society and reduce rates of&#13;
+maternal and child morbidity and mortality. The objectives include (a) improving access to and&#13;
+equity of preventive essential health interventions at the village and household levels in line with&#13;
+the decentralization process to ensure health care coverage to the rural areas; (b) ensuring&#13;
+ownership and participation by increasing health awareness, knowledge, and skills among&#13;
+community members; (c) promoting gender equality in accessing health services; (d) improving&#13;
+the utilization of peripheral health services by bridging the gap between the communities and&#13;
+health facilities through Health Extension Workers; (e) reducing maternal and child mortality;&#13;
+and (f) promoting a healthy life style.&#13;
+&#13;
+The HEP has rapidly expanded access to primary health care services, especially for rural&#13;
+communities of Ethiopia, within a short time. The key motivations for the introduction of the&#13;
+HEP are:&#13;
+&#13;
+      â&#128;¢    Low coverage for health interventions known to have high impact. For example, in 2005,&#13;
+           only 1.3 percent of under-five children slept under insecticide-treated nets, 32 percent of&#13;
+           children exclusively breastfed, 37 percent of children with diarrhea were given oral&#13;
+           rehydration therapy, 17 percent of children with a fever or cough were brought to a health&#13;
+           facility, immunization coverage remained low, and only 6 percent of mothers were&#13;
+           assisted by a skilled health worker during delivery (CSA and ICF International 2012).&#13;
+      â&#128;¢    Low access to essential health services, particularly for the rural poor, and an overall&#13;
+           shortage of health workers.&#13;
+      â&#128;¢    A critical shortage of mid- and high-level health workers. Although Ethiopia has one of&#13;
+           the highest numbers of health workers in Sub-Saharan Africa, its large population leaves&#13;
+           it with a very low health-worker-to-population ratio. The Federal Ministry of Health&#13;
+           reported 65,554 health workersâ&#128;&#148;public, private, and NGOâ&#128;&#148;which translates into a total&#13;
+           density of 0.84 per 1,000 people (Feysa et al. 2012).&#13;
+      â&#128;¢    Weak institutional synergies that limited the expansion of primary health care services.&#13;
+&#13;
+&#13;
+The HEP, initiated and led by the government, is designed on the basis of experiences and&#13;
+challenges in the earlier community health workers initiatives, such as traditional birth attendants&#13;
+and other voluntary workers. In addition, there has been intensive South-South cooperation and&#13;
+&#13;
+6&#13;
+    Amahra; Oromia; Southern Nations, Nationality and Peoples; and Tigray regions.&#13;
+&#13;
+                                                                                                   10&#13;
+&amp;#12;experience sharing with Kerala State, India. Moreover, the government expressed its strong&#13;
+political will about and commitment to the program by covering the cost of the design of the&#13;
+program and curriculum development; the training of HEWs; and a significant part of the salary&#13;
+of the HEWs, ensuring that they remain civil servants with defined career development. External&#13;
+support was sought for the construction of the health posts; supplying equipment, commodities,&#13;
+and supplies; and for capacity building.&#13;
+&#13;
+The program became operational in 2004. It aimed to recruit, train, and deploy two female health&#13;
+extension workers to a health post that serves a population of 3,000 to 5,000 people. The&#13;
+program has a defined package of basic and essential promotive, preventive, and curative health&#13;
+services targeting households in a community, based on the principle of primary health care to&#13;
+improve the familiesâ&#128;&#153; health status with their full participation. These services include high-&#13;
+impact and cost-effective interventions such as childhood vaccinations, family planning,&#13;
+prevention and treatment of malaria, and treatment of diarrhea and pneumonia (introduced&#13;
+recently) in under-five children. The HEP became a core component of the broader health&#13;
+system, and it is one of the core strategies adopted by Ethiopia to achieve universal primary&#13;
+health care coverage of the rural population by 2009, in the overall context of limited resources.&#13;
+&#13;
+Selection of Health Extension Workers (HEWs)&#13;
+&#13;
+The HEWs remain the key drivers of the program. HEWs are recruited based on nationally&#13;
+agreed criteria that include residence in the village, knowledge of the local language, graduation&#13;
+from 10th grade, and willingness to remain in the village and serve the community. Selection is&#13;
+done by a committee comprising members nominated by the local community and&#13;
+representatives from the woreda (district) health office, the wordea capacity building office, and&#13;
+the woreda education office.&#13;
+&#13;
+Training of Health Extension Workers&#13;
+&#13;
+All selected HEWs go through a year-long training, which includes practical training in health&#13;
+centers. The training is provided in the technical vocational education centers with the close&#13;
+collaboration of the Ministry of Education. Upon graduation, the HEWs are assigned to the&#13;
+village from which they came to provide HEP health services. HEWs work closely with&#13;
+voluntary Community Health Workers. 7 The village council and the health center support the&#13;
+HEWs. Recently, training in providing community-based care, such as treatment of sick children&#13;
+and the conduct of clean and safe deliveries, also started.&#13;
+&#13;
+Supportive Supervision&#13;
+&#13;
+A supervisory team consisting of members from different disciplines was established at the&#13;
+federal, regional, and woreda levels to guide and support HEWs in effectively performing their&#13;
+duties. The teams are involved in all aspects of program management including planning,&#13;
+implementation, and monitoring and evaluation. Members of the team are trained in skills&#13;
+needed for supportive supervision (facilitation, interpersonal communication, problem solving,&#13;
+&#13;
+7&#13;
+ In the 2012 revised HEP guidelines, these volunteers are organized as Health Development teams in one-to-five&#13;
+networks.&#13;
+&#13;
+                                                                                                           11&#13;
+&amp;#12;and analytical skills), oriented to various tools and methods (such as peer review and&#13;
+performance assessment tools), and provided with opportunities to frequently upgrade their&#13;
+technical skills. The supervisors are trained in a specially designed curriculum. At each level, the&#13;
+supervisory team prepares its own annual plan, checklists, and detailed schedule for each&#13;
+supervisory visit.&#13;
+&#13;
+Service Delivery by the Health Extension Program (HEP)&#13;
+&#13;
+The HEWs were initially expected to spend more than 75 percent of their time on community&#13;
+outreach, visiting households, especially those with mothers and children. However, the 2012&#13;
+revised HEP guidelines (FMOH 2012b) require the HEWs to distribute their time equally&#13;
+between the community and household level and the health post level to ensure that the health&#13;
+post is open for services throughout the week. Thus, while one of the HEWs is out in the&#13;
+community, the other will be able to provide services at the health post. For the household visits,&#13;
+priority will be given to households with (a) pregnant women, mothers who recently delivered,&#13;
+and infants; and (b) persons with chronic health problems. The goal is a satisfactory result in&#13;
+implementing the health extension packages.&#13;
+&#13;
+The HEWs identify and train â&#128;&#156;model familiesâ&#128;? that have been involved in other development&#13;
+work or that have acceptance and credibility by the community, and that are early adopters of&#13;
+desirable health practices. Model families, as role models, help diffuse health messages leading&#13;
+to the adoption of the desired practices and behaviors by the community. The HEWs provide 60&#13;
+hours of training to such households on selected HEP packages and follow the householdâ&#128;&#153;s&#13;
+practices before graduation and certification of the household as a model family.&#13;
+&#13;
+The HEWs use multiple implementation strategies at different levels in delivering services&#13;
+(FMOH 2012b). These include:&#13;
+&#13;
+   â&#128;¢   Household level: Provide basic health care services including family planning, pre- and&#13;
+       postnatal care, and immunization services; followâ&#128;?up, prioritizing households with low&#13;
+       performance in implementing the package and support them in all the health extension&#13;
+       packages that are relevant to them; providing health education; and support and&#13;
+       encourage model households to maintain their progress&#13;
+   â&#128;¢   Community level: Communicate health messages disseminated by involving the&#13;
+       community from the planning stage through evaluation. HEWs use community social&#13;
+       networks (Idir, Ekub, and others), associations (womenâ&#128;&#153;s, youth, and farmerâ&#128;&#153;s&#13;
+       associations), religious institutions, and government structures (for example agricultural&#13;
+       development stations). Organize, follow up, and provide supportive supervision and&#13;
+       evaluation of the one to five networks and development teams; and conduct biweekly&#13;
+       meetings to evaluate the performance of the development teams.&#13;
+   â&#128;¢   Schools and youth centers: Engage schools and youth centers to deliver health education&#13;
+       and services at youth centers; make schools models of HEP implementation and educate&#13;
+       students; and organize or use existing school clubs to train students on important health&#13;
+       issues.&#13;
+   â&#128;¢   Health posts: HEWs provide integrated community case management for childhood&#13;
+       illnesses; maintain cold chains for vaccines; provide vaccination services, family&#13;
+&#13;
+&#13;
+                                                                                                 12&#13;
+&amp;#12;           planning services, and pre- and postnatal care; identify children and pregnant or&#13;
+           breastfeeding mothers with nutritional deficiencies and provide nutritional counseling;&#13;
+           conduct monthly discussions for pregnant women; provide first-aid service; treat malaria&#13;
+           according to results of blood tests using rapid diagnostic tests; counseling on and testing&#13;
+           for HIV 8; conduct community-based tuberculosis prevention and control services; treat&#13;
+           trachoma cases and provide advice on prevention; provide treatment for scabies; refer&#13;
+           clients and patients to health centers for services above the level of the health post;&#13;
+           organize demonstration sites at health post to carry out health education; register daily&#13;
+           activities; organize files; compile information and submit reports regularly; and prepare,&#13;
+           update, and post health and health-related information throughout graphs and charts in a&#13;
+           visible place in the health post.&#13;
+&#13;
+&#13;
+Roles and Responsibilities for the HEP at Different Levels of Government&#13;
+&#13;
+The Ministry of Health and various levels of government are involved in the design,&#13;
+implementation, and supervision of the HEP.&#13;
+&#13;
+       â&#128;¢   The Federal Ministry of Health is responsible for the overall program concept, standards,&#13;
+           and implementation guidelines. It determines the career structure for HEWs and&#13;
+           mobilizes national and international resources, and provides communication tools and&#13;
+           materials and procures medical equipment and supplies. The Federal Ministry of Health&#13;
+           also sets up the health management information system.&#13;
+       â&#128;¢   The Regional Health Bureaus/Zonal Health Departments provide technical and&#13;
+           administrative support to Woreda Health Offices; adapt implementation guidelines to&#13;
+           local conditions; adapt communication tools and materials into local languages and&#13;
+           distributes them to woredas; obtain reports from Woreda Health Offices and provide&#13;
+           information to the Ministry of Health. They mobilize regional resources, establish&#13;
+           referral systems between health posts and health centers, and strengthen the health&#13;
+           management information system.&#13;
+       â&#128;¢   The Woreda Health Office provides technical, administrative, and financial support to the&#13;
+           HEP. It allocates budgets and supplies to health centers and health posts and adapts&#13;
+           communication materials. The Woreda Health Office provides supportive supervision of&#13;
+           HEWs and the overall management of health centers and health posts. It also plans and&#13;
+           provides in-service training to HEWs and Woreda Health Office staff and obtains reports&#13;
+           from health posts and health centers and provides information to Regional Health&#13;
+           Bureaus or Zonal Health Departments.&#13;
+       â&#128;¢   Health Extension Workers manage operations of health posts; conduct home visits and&#13;
+           outreach services to promote preventive actions; provide referral services to health&#13;
+           centers, and follow up on referrals. They also identify, train, and collaborate with&#13;
+           voluntary Community Health Workers and provide reports to Woreda Health Offices.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+8&#13;
+    This service will be carried out by HEWs that have completed Level IV training.&#13;
+&#13;
+                                                                                                   13&#13;
+&amp;#12;5. Targeting, Identification, and Enrolment of Beneficiaries&#13;
+&#13;
+The HEP is designed to take services closer to the people, particularly in rural and underserved&#13;
+communities. HEP services are provided free of charge and are available to everyone. Upon&#13;
+assignment, HEWs conduct a baseline survey of the village, using a standardized tool. They map&#13;
+households and the population by age category. They also prioritize health problems of the&#13;
+village, set targets with respect to the 16 packages of services, and draft a plan of action for the&#13;
+year. The draft plan of action is then submitted to the village council for approval. The plans are&#13;
+also disseminated to the district and regional councils and health offices.&#13;
+&#13;
+6. Special Topics Related to the Management of Public HEP Funds&#13;
+&#13;
+Since HEP services are provided free of charge, HEWs do not manage funds. Salaries for HEWs&#13;
+are paid through the woredas. Commodities and supplies for health posts are delivered mainly&#13;
+through the regular logistics system of supplies to the health centers managed by the&#13;
+Pharmaceuticals Funds and Supply Agency. Some commodities such as contraceptives, vaccines,&#13;
+and insecticide-treated nets are also financed through the MDG Performance Fund (a pooled&#13;
+fund managed by the Federal Ministry of Health using government procedures). In some&#13;
+instances, these commodities may be centrally procured and delivered directly to the health post&#13;
+by the Federal Ministry of Health.&#13;
+&#13;
+7. Management of the HEP Benefits Package&#13;
+&#13;
+The package of services delivered through the HEP consists of 16 health interventions organized&#13;
+under four major categories: disease prevention and control, maternal and child health, hygiene&#13;
+and environmental sanitation, and health education (table 3). These services are provided free of&#13;
+charge. The government covers most of the salary and recurrent costs. The contributions of&#13;
+development partners are used to supply HEP with equipment, commodities, and supplies, and&#13;
+continued capacity building of the HEWs.&#13;
+&#13;
+                                Table 3 Package of HEP Interventions&#13;
+Disease Prevention and Control                                 Hygiene and Environmental Sanitation&#13;
+    â&#128;¢ HIV/AIDS and other sexually transmitted infections       â&#128;¢ Excreta disposal&#13;
+         prevention and control                                â&#128;¢ Solid and liquid waste disposal&#13;
+    â&#128;¢ Tuberculosis prevention and control                      â&#128;¢ Water supply and safety measures&#13;
+    â&#128;¢ Malaria prevention and control                           â&#128;¢ Food hygiene and safety measures&#13;
+    â&#128;¢ First-aid emergency measures                             â&#128;¢ Healthy home environment&#13;
+    â&#128;¢ Family health                                            â&#128;¢ Personal hygiene&#13;
+                                                               â&#128;¢ Rodent control&#13;
+Maternal and Child Health&#13;
+   â&#128;¢ Family planning                                       Health Education and Communication&#13;
+   â&#128;¢ Immunization&#13;
+   â&#128;¢ Nutrition&#13;
+   â&#128;¢ Adolescent reproductive health&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                      14&#13;
+&amp;#12;8. The HEP Information Environment&#13;
+&#13;
+Information systems that facilitate the collection, analysis, use, and dissemination of data&#13;
+significantly improve the support provided to the HEP, as well as the quality and relevance of the&#13;
+HEP to beneficiary communities. Accordingly, the Federal Ministry of Health designed a robust,&#13;
+simplified, and standardized health management information system contextualized to the&#13;
+Ethiopian setting (Bilal et al. 2011). Family folders were developed based on the 16 packages of&#13;
+health interventions, and health extension workers and HEP supervisors were trained on their&#13;
+application and use. Each household is expected to have a family folder that records the status of&#13;
+its members (for family planning, prenatal care, expanded program of immunization, and so&#13;
+forth) and the household in general (ownership and use of a latrine, clean water supply and use,&#13;
+waste disposal, and so forth) in terms of completing the desired changes indicated in the HEP.&#13;
+&#13;
+The HEWs collect information using standardized reporting formats and pass it on to the kebele&#13;
+Council and Woreda Health Office for review and action. At the kebele level, the kebele&#13;
+Committee, HEP, and voluntary Community Health Workers meet weekly and provide a report&#13;
+to the kebele cabinet on program implementation. During town hall meetings the community&#13;
+identifies weaknesses and strengths and provides ideas for improvement.&#13;
+&#13;
+HEP Indicators&#13;
+&#13;
+Key HEP indicators include:&#13;
+   â&#128;¢ Access to and utilization of preventive and promotive health services, referrals to health&#13;
+      centers, adequately staffed and well-maintained health posts, participation in basic health&#13;
+      and demographic data collection, and provision of financial support for health posts.&#13;
+   â&#128;¢ Immunization, breastfeeding, use of oral rehydration salts, adolescent parenthood,&#13;
+      prenatal care, assisted delivery, contraceptive use, and tetanus toxoid immunization.&#13;
+   â&#128;¢ Use of insecticide-treated nets, antimalarial drugs, HIV and sexually transmitted&#13;
+      infections, tuberculosis follow-up, and first-aid and self-care.&#13;
+   â&#128;¢ Facilities for liquid and solid waste disposal, safe drinking water, healthy home&#13;
+      environment, and sanitation and hygiene.&#13;
+&#13;
+9. Discussion of Themes Specific to this Country&#13;
+&#13;
+The following three themes stand out in the design and implementation of the HEP:&#13;
+&#13;
+   â&#128;¢   Strong direction and leadership provided by the government at the highest political level.&#13;
+       There has been political will and commitment at all levels of government, from design to&#13;
+       implementation of the program. The government covers most of the recurring costs of the&#13;
+       program through its annual budget. The government leadership and commitment has&#13;
+       enabled the program to be scaled up to the national level in very short time. There is&#13;
+       strong ownership by the community, and the program management is integrated into the&#13;
+       decentralized structures of the country. The management and support of the HEP is&#13;
+       aligned with the overall government decentralized policy. Thus, the woredas are&#13;
+       primarily responsible for the implementation, supervision, and management of the HEP.&#13;
+&#13;
+&#13;
+                                                                                               15&#13;
+&amp;#12;   â&#128;¢   Unique design features of the program, which include a combination of supply- and&#13;
+       demand-side approaches and ensuring that only local residents willing to serve the&#13;
+       community are selected as HEWs, who remain the backbone for the program. Ensuring&#13;
+       that all HEWs are civil servants with a career path, and learning from past experiences of&#13;
+       community health initiatives within Ethiopia and in other countries. Finally, emphasis on&#13;
+       improving household behaviors using model families and objective criteria for a&#13;
+       household to graduate and support five more households.&#13;
+&#13;
+   â&#128;¢   Country-relevant strategies to remove supply-side constraints on expanding primary&#13;
+       health care services rapidly. The HEP has, to a large extent, succeeded in addressing the&#13;
+       following supply-side constraints in a relatively short time: (a) over 35,000 HEWs have&#13;
+       been recruited, trained, and deployed to rural Ethiopia in about three years from the start&#13;
+       of the program; (b) over 15,000 health posts have been constructed and equipped with the&#13;
+       active participation and contribution of the community; and (c) there has been an&#13;
+       improvement in the availability of essential commodities and supplies at the health post.&#13;
+       To complement the budget allocation with contributions of partners, the Federal Ministry&#13;
+       of Health established a pooled fund (MDG Fund). A result of continued dialogue over the&#13;
+       years, the MDG Fund materialized following the signing of the International Health&#13;
+       Partnership (IHP+) country compact. The Fund is managed by the Federal Ministry of&#13;
+       Health in accordance with the Joint Financing Arrangement that is signed by many of the&#13;
+       partners working in the health sector. Among other things, the Fund is used to support the&#13;
+       HEP, particularly to procure commodities and supplies.&#13;
+&#13;
+Since its rollout in 2004, the HEP has shown substantial outcomes in areas related to disease&#13;
+prevention, family health, hygiene, and environmental sanitation. The HEP has been central to&#13;
+community health system strengthening, including providing standards and manuals and regular&#13;
+evaluation of the program. It has also been key in the provision of in-service training focused on&#13;
+identified skills gaps, and supportive supervision.&#13;
+&#13;
+The program has also aided development of community information systems. The HEP&#13;
+evaluation, conducted in 2010 (CNHDE 2012), validates significant program achievements. In&#13;
+addition, there is increasing and converging evidence that the HSDP strategy of predominantly&#13;
+targeting efforts at the community level through the HEP has moved Ethiopia onto an improved&#13;
+trend path for child mortality (Admassiea, Abebawa, and Woldemichael 2009; CNHDE 2008;&#13;
+CSA and ICF 2012; Medhanyie et al. 2012). Some of the results include:&#13;
+&#13;
+   â&#128;¢   Family planning: Between 2005 and 2011, use of modern family planning methods&#13;
+       among married women has more than doubled, increasing from 10.9 percent to 23.4&#13;
+       percent (CSA and ICF International 2012) (figure 6). This high uptake in family planning&#13;
+       is due to the contribution of the HEWs and the availability of contraceptives through the&#13;
+       HEP. The HEP evaluation (CNHDE 2012) also reported a comparable figure, that is, 28.7&#13;
+       percent of married women currently use modern contraceptive methods. The current use&#13;
+       of any contraceptive method among married women was higher among model-family&#13;
+       households (44.3 percent).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                               16&#13;
+&amp;#12;                                 Figure 6 Contraceptive Prevalence Rate&#13;
+&#13;
+                           60                                                   52.5&#13;
+                                                                        46.7&#13;
+                                                                 35.6&#13;
+&#13;
+              Percentage&#13;
+                           40&#13;
+                                                  23.4&#13;
+                           20           10.9&#13;
+                                4.3&#13;
+                            0&#13;
+                                        Rural                           Urban&#13;
+&#13;
+                                      EDHS 2000      EDHS 2005   EDHS 2011&#13;
+&#13;
+&#13;
+&#13;
+   â&#128;¢    Access to safe or improved water supply: There has been a rapid increaseâ&#128;&#148;from 35&#13;
+        percent in 2005 to 54 percent in 2011â&#128;&#148;in the percentage of households in Ethiopia that&#13;
+        use some type of improved source of drinking water (CSA and ICF International 2012).&#13;
+        However, the 2010 HEP evaluation reported a much higher figureâ&#128;&#148;about 62 percentâ&#128;&#148;of&#13;
+        people reported to have access to safe or improved water supply sources, with high&#13;
+        coverage in Dire Dawa (89 percent) and Tigray (77 percent), and low coverage in Harari&#13;
+        (29 percent) and Afar (42 percent) regions (CNHDE 2012).&#13;
+&#13;
+   â&#128;¢    Treatment of diarrhea: Comparable data from the 2000 and 2005 Ethiopia Demographic&#13;
+        and Health Surveys show an increase in mothersâ&#128;&#153; health-seeking behavior for children&#13;
+        with diarrhea over the last decade. The percentage of children with diarrhea who were&#13;
+        taken to a health provider increased steadily from 13 percent in 2000 to 22 percent in&#13;
+        2005 and to 32 percent in 2011 (CSA and ICF International 2012).&#13;
+&#13;
+&#13;
+Though difficult to directly attribute, largely as a result of the rollout of the HEP program, gains&#13;
+have been seen in access to community-level preventive and basic curative services over the last&#13;
+five years. Data from the 2011 Demographic and Health Survey (CSA and ICF International&#13;
+2012) indicate the following improvements in health indicators between 2005 and 2011: under-&#13;
+five mortality declined from 123 per 1,000 live births to 88 per 1,000 live births; the&#13;
+contraceptive prevalence rate increased from 15 percent to 29 percent; stunting in children under&#13;
+five decreased from 52 percent to 44 percent; the prevalence of anemia among women decreased&#13;
+from 27 percent to 17 percent; the total fertility rate decreased from 5.4 to 4.8; skilled birth&#13;
+delivery increased from 5 percent to 10 percent; and the use of insecticide-treated nets increased&#13;
+from 1.3 percent to 42 percent.&#13;
+&#13;
+10. Pending Agenda&#13;
+&#13;
+For increased and sustained HEP results, a number of pending agenda items or challenges will&#13;
+need to be addressed.&#13;
+&#13;
+    â&#128;¢   Improving quality of services: The program was rolled out in a relatively short time and&#13;
+        has been scaled up initially in all rural Ethiopian villages. The expansion in infrastructure&#13;
+        networks is, however, not matched with the necessary quality requirements. For instance,&#13;
+&#13;
+                                                                                                  17&#13;
+&amp;#12;    the HEWs have not received sufficient practical training and lack skills in assisted&#13;
+    delivery. Maternal mortality is an area that Ethiopia lags in the health MDGs. How best&#13;
+    to use the HEWs in tackling this important MDG agenda will remain an important area&#13;
+    for policy discussion. In addition, the evaluation of the HEP (CNHDE 2012) has revealed&#13;
+    stock-outs of essential commodities at the health post level. This will negatively&#13;
+    influence service utilization and perceived quality of care.&#13;
+&#13;
+â&#128;¢   Enhancing HEW skills and performance: HEWs are found to be weak in health facility&#13;
+    deliveries, skilled birth attendance, and on-time referral through early identification of&#13;
+    danger signs. In a recent study (Medhanyie et al. 2012), more than halfâ&#128;&#148;54 percentâ&#128;&#148;of&#13;
+    HEWs had poor knowledge about the contents of prenatal care counseling, and the&#13;
+    majorityâ&#128;&#148;88 percentâ&#128;&#148;had poor knowledge about danger symptoms, danger signs, and&#13;
+    complications in pregnancy. Hence, there is an urgent need to design appropriate&#13;
+    strategies to improve the performance of HEWs by enhancing their knowledge and&#13;
+    competencies, while creating appropriate work conditions.&#13;
+&#13;
+â&#128;¢   Sustaining HEWs: The government has done a tremendous job in recruiting and&#13;
+    deploying the HEWs and in replacing those who leave the program. However, sustaining&#13;
+    the current practice of replacement and training can be a challenge. There is an ongoing&#13;
+    dialogue on the career development path of HEWs.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                           18&#13;
+&amp;#12;                                Annex 1 Financial Flow Chart, 2007/2008&#13;
+&#13;
+&#13;
+         Sources                                       Agents                     Providers&#13;
+                                                                             Government hospitals&#13;
+   Central government                                                               13.0%&#13;
+           4.1%                                        FMOH*&#13;
+                                                        20.8%                   Private hospitals&#13;
+Regional/municipal gov't                                                              7.1%&#13;
+         16.8%                                          RHB           (for profit 6.8%, not for profit 0.3%)&#13;
+                                                       19.8%&#13;
+Parastatal employer funds                                                      Government PHCU&#13;
+           1.4%                                Private insurance                    20.9%&#13;
+                                                     0.7%&#13;
+ Private employer funds                                                            Private PHCU&#13;
+          1.1%                                  Household OOP                           9.5%&#13;
+                                                                          (for profit 7.8%, not for profit&#13;
+                                                       37.0%               1.1%, employer clinics 0.6%)&#13;
+    Household funds&#13;
+                                                                      Traditional healers &amp; occupational&#13;
+         37.1%                                  National NGOs                       health&#13;
+                                                     5.6%                            0.7%&#13;
+     National NGOs&#13;
+          0.2%                                    Parastatals                       Pharmacies&#13;
+                                                     1.1%                              2.7%&#13;
+   International NGOs                                                     (Privat 2.3% and public 0.4%)&#13;
+          6.0%                                 Private for profit&#13;
+                                                     0.9%                    Public health programs&#13;
+   Other private funds                                                                27.3%&#13;
+          0.1%                                 Rest of the world&#13;
+                                                     14.1%            General health admin. &amp; insurance&#13;
+  International donors                                                              9.1%&#13;
+         33.2%&#13;
+                                                                      Lab, bloodbank, research, training,&#13;
+                                                                               other institutions&#13;
+* includes funds managed by other central government                                  9.7%&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                             19&#13;
+&amp;#12;                                                              Annex 2 Spider Web&#13;
+&#13;
+                                     I. Outcomes comparisons:&#13;
+                                Ethiopia and Low Income Countries&#13;
+                                                                                            Note on interpretation:&#13;
+                                                                                            In this plot â&#128;&#152;higherâ&#128;&#153; is â&#128;&#152;worseâ&#128;&#153; â&#128;&#147; since&#13;
+                                                                                            these indicators are positive measures&#13;
+                                                                                            of mortality / morbidity. Life&#13;
+                                                                                            expectancy is converted to be an&#13;
+                                                                                            inverse measure.&#13;
+&#13;
+                                                                                            The values on the radar plot have&#13;
+                                                                                            been standardized with respect to the&#13;
+                                                                                            average low income country value.&#13;
+&#13;
+                                                                                            The table below summarizes outcome&#13;
+                                                                                            comparisons with the average low&#13;
+                                                                                            income country (LIC).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+IMR: Infant mortality rate (2010). U5MR: Under-5 mortality rate (2010). Stunting: prevalence of low height-for-age among children under 5 (2010). MMR: Maternal&#13;
+mortality rate (2010) per 100 000 live births. Adult mortality: Adult mortality rate per 1000 male adults (2010). [100-(life expectancy)]: Life expectancy at birth&#13;
+(2010) subtracted from maximum of 100. Neonatal mortality: Neonatal mortality per 1000 living births. CD as cause of death: Communicable diseases as cause of&#13;
+death (% total). All data from World Bank's World Development Indicators. Income averages for stunting calculated by Bank staff and are unweighted.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                       II. Inputs comparisons&#13;
+                                 Ethiopia and Low Income Countries&#13;
+                                                                                            Note on interpretation:&#13;
+                                                                                            This plot shows indicators which&#13;
+                                                                                            measure spending on health or the&#13;
+                                                                                            number of health workers per&#13;
+                                                                                            population.&#13;
+&#13;
+                                                                                            The values on the radar plot have&#13;
+                                                                                            been standardized with respect to&#13;
+                                                                                            the average low income country&#13;
+                                                                                            value.&#13;
+&#13;
+                                                                                            The table below summarizes inputs&#13;
+                                                                                            comparisons with the average low&#13;
+                                                                                            income country (LIC).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+ THE as % of GDP: Health expenditure, total (% of GDP) (2010). Hospital bed density: Hospital beds per 1,000 people (latest available year). Physician density: Physicians&#13;
+ per 1,000 people (latest available year). Nurse/midwife density: Nurses and midwives per 1,000 people (latest available year). GHE as % of THE/10: Public health&#13;
+ expenditure (% of total expenditure on health) (2010). All data from World Bank's World Development Indicators.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                                             20&#13;
+&amp;#12;                                      III. Coverage comparisons&#13;
+                                 Ethiopia and Low Income Countries&#13;
+                                                                                            Note on interpretation:&#13;
+                                                                                            In this plot â&#128;&#152;higherâ&#128;&#153; is â&#128;&#152;betterâ&#128;&#153; â&#128;&#147; since&#13;
+                                                                                            these     indicators      are    positive&#13;
+                                                                                            measures. In this case, all are percent&#13;
+                                                                                            of the population receiving or having&#13;
+                                                                                            access to a certain health related&#13;
+                                                                                            service.&#13;
+                                                                                            The values on the radar plot have&#13;
+                                                                                            been standardized with respect to&#13;
+                                                                                            the average low income country&#13;
+                                                                                            value.&#13;
+                                                                                            The table below summarizes&#13;
+                                                                                            coverage comparisons with the&#13;
+                                                                                            average low income country (LIC).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+ DPT immunization: % of children aged 12-23 months with DPT immunization (2010). Prenatal services: % of pregnant women receiving prenatal care (latest available&#13;
+ year). Contraceptive prevalence: % of women ages 15-49 using contraception (latest available year). Skilled birth attendance: % of all births attended by skilled health&#13;
+ staff (latest available year). Improved sanitation: % of population with access to improved sanitation facilities (2010). TB treatment success: Tuberculosis treatment&#13;
+ success rate (% of registered cases). All data from World Bank's World Development Indicators.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                  IV. Infrastructure comparisons&#13;
+                                Ethiopia and Low Income Countries&#13;
+                                                                                            Note on interpretation:&#13;
+                                                                                            In this plot â&#128;&#152;higherâ&#128;&#153; is â&#128;&#152;betterâ&#128;&#153; â&#128;&#147; since&#13;
+                                                                                            these     indicators      are    positive&#13;
+                                                                                            measures of provision of certain&#13;
+                                                                                            good / service, and a measure of&#13;
+                                                                                            urban development.&#13;
+&#13;
+                                                                                            The values on the radar plot have&#13;
+                                                                                            been standardized with respect to&#13;
+                                                                                            the average low income country&#13;
+                                                                                            value.&#13;
+&#13;
+                                                                                            The table below summarizes&#13;
+                                                                                            infrastructure comparisons with the&#13;
+                                                                                            average low income country (LIC).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Paved roads: % of total roads paved (most recent). Internet users: users per 100 people (2010, with some estimates from prior years). Mobile phone users: mobile&#13;
+cellular subscriptions per 100 people (2010). Access to improved water: % of population with access to improved water source (2010). All data from World Bank's&#13;
+World Development Indicators.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                                            21&#13;
+&amp;#12;                                     V. Demography comparisons&#13;
+                                  Ethiopia and Low Income Countries&#13;
+                                                                                            Note on interpretation:&#13;
+                                                                                            Indicators here measure births per&#13;
+                                                                                            woman, the extent of rurality, and&#13;
+                                                                                            the number of dependents.&#13;
+&#13;
+                                                                                            The values on the radar plot have&#13;
+                                                                                            been standardized with respect to&#13;
+                                                                                            the average low income country&#13;
+                                                                                            value.&#13;
+&#13;
+                                                                                            The table below summarizes&#13;
+                                                                                            demographic indicators comparisons&#13;
+                                                                                            with the average low income country&#13;
+                                                                                            (LIC).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+ TFR: total fertility rate (births per woman), 2009. Dependency ratio: % of working-age population (2010) aged less than 15 or more than 64. Youth dependency: % of&#13;
+ working-age population (2010) aged less than 15. Rurality: % of total population in rural areas (2010). All data from World Bank's World Development Indicators.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                      VI. Inequality comparisons&#13;
+                                 Ethiopia and Low Income Countries&#13;
+                                                                                            Note on interpretation:&#13;
+                                                                                            In this plot â&#128;&#152;higherâ&#128;&#153; is â&#128;&#152;inequalâ&#128;&#153; and&#13;
+                                                                                            indicators here measure inequalities&#13;
+                                                                                            in selected health outcomes by&#13;
+                                                                                            taking the ratio of prevalence&#13;
+                                                                                            between Q1 and Q5.&#13;
+&#13;
+                                                                                            The values on the radar plot have&#13;
+                                                                                            been standardized with respect to&#13;
+                                                                                            the average low income country&#13;
+                                                                                            value.&#13;
+&#13;
+                                                                                            The table below summarizes&#13;
+                                                                                            inequality indicators comparisons&#13;
+                                                                                            with the average low income country&#13;
+                                                                                            (LIC).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+All indicators measure the ratio of prevalence between the poorest (in Q1, the first wealth distribution quintile) and the richest (in Q5, the fifth wealth distribution&#13;
+quintile). The data (latest data available) are taken from HNPstats (http://data.worldbank.org/data-catalog/HNPquintile).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                                           22&#13;
+&amp;#12;                                          References&#13;
+&#13;
+&#13;
+Abdulahi, H., D. H. Mariam, and D. Kebede. 2001. â&#128;&#156;Burden of Disease Analysis in Rural&#13;
+      Ethiopia.â&#128;? Ethiopian Medical Journal 39 (4) (October): 271â&#128;&#147;81.&#13;
+Admassiea, A., D. Abebawa, and A. Woldemichael. 2009. â&#128;&#156;Impact Evaluation of the Ethiopian&#13;
+     Health Services Extension Program.â&#128;? Journal of Development Effectiveness 1 (4): 430â&#128;&#147;&#13;
+     49.&#13;
+Araya Medhanyie, Mark Spigt, GeertJan Dinant, and Roman Blanco. 2012. â&#128;&#156;Knowledge and&#13;
+      Performance of the Ethiopian Health Extension Workers on Antenatal and Delivery Dare:&#13;
+      A Cross-sectional Study.â&#128;? Human Resources for Health 10: 44.&#13;
+Berhanu Feysa, Christopher Herbst, Wuleta Lemma, and Agnes Soucat. 2012. â&#128;&#156;The Health&#13;
+      Workforce in Ethiopia: Addressing the Remaining Challenges.â&#128;? World Bank,&#13;
+      Washington, DC.&#13;
+CNHDE (Center for National Health Development in Ethiopia). 2008. â&#128;&#156;Ethiopia Health&#13;
+    Extension Program Evaluation Study, 2005â&#128;&#147;2007, Volume. I. Household Health Survey.â&#128;?&#13;
+    Addis Ababa.&#13;
+â&#128;&#148;â&#128;&#148;â&#128;&#148;. 2012. â&#128;&#156;Evaluation of Health Extension Program, Rural Ethiopia 2010.â&#128;? Addis Ababa.&#13;
+CSA (Central Statistical Agency). 2012a. 2011 National Statistics (Abstract). Addis Ababa.&#13;
+â&#128;&#148;â&#128;&#148;â&#128;&#148;. 2012b. â&#128;&#156;Ethiopia Welfare Monitoring Survey 2011.â&#128;? Addis Ababa.&#13;
+CSA (Central Statistical Agency) and ICF International. 2012. â&#128;&#156;Ethiopia Demographic and&#13;
+     Health Survey 2011.â&#128;? Addis Ababa and Calverton, Maryland, USA: Central Statistical&#13;
+     Agency and ICF International.&#13;
+Ethiopian Health and Nutrition Research Institute and Partners. 2012. â&#128;&#156;Ethiopia National Malaria&#13;
+       Indicator Survey 2011.â&#128;? Addis Ababa.&#13;
+FMOH (Federal Ministry of Health). 2012a. â&#128;&#156;HSDP IV Annual Performance Report â&#128;&#147; 2011.â&#128;?&#13;
+    Addis Ababa&#13;
+â&#128;&#148;â&#128;&#148;â&#128;&#148;. 2012b. â&#128;&#156;Health Extension Program Implementation Guidelineâ&#128;? (Revised). Addis Ababa.&#13;
+â&#128;&#148;â&#128;&#148;â&#128;&#148;. 2007a. â&#128;&#156;Health Extension Program in Ethiopia â&#128;&#147; Profile.â&#128;? Addis Ababa.&#13;
+â&#128;&#148;â&#128;&#148;â&#128;&#148;. 2007b. â&#128;&#156;The HSDP Harmonization and Alignment Manual.â&#128;? Addis Ababa.&#13;
+â&#128;&#148;â&#128;&#148;â&#128;&#148;. 2005. â&#128;&#156;Health Sector Strategic Plan (HSDP-III) 2005/06â&#128;&#147;2009/10.â&#128;? Addis Ababa.&#13;
+â&#128;&#148;â&#128;&#148;â&#128;&#148;. 2004. â&#128;&#156;Health Sector Needs Assessment for Ethiopia.â&#128;? Addis Ababa.&#13;
+FMOH (Federal Ministry of Health) and Abt Associates. 2010. â&#128;&#156;Fourth National Health Account&#13;
+    Report.â&#128;? Addis Ababa.&#13;
+FMOH, UNICEF, UNFPA, WHO, and AMDD. 2010. â&#128;&#156;Ethiopia National Baseline Assessment&#13;
+    for Emergency Obstetric and Newborn Care 2008.â&#128;? Addis Ababa.&#13;
+Global Health Workforce Alliance. 2012. â&#128;&#156;Global Experience of Community Health Workers for&#13;
+       Delivery of Health Related Millennium Development Goals: A Systematic Review.â&#128;?&#13;
+&#13;
+                                                                                             23&#13;
+&amp;#12;      Country Case Studies, and Recommendations for Integration into National Health&#13;
+      Systems. Geneva.&#13;
+MOFED (Ministry of Finance and Economic Development). 2010. â&#128;&#156;Growth and Transformation&#13;
+    Plan (2010/11â&#128;&#147;2014/15) Volume I Main Text.â&#128;? Addis Ababa.&#13;
+â&#128;&#148;â&#128;&#148;â&#128;&#148;. 2012. â&#128;&#156;Growth and Transformation Plan (2010/11â&#128;&#147;2014/15) Annual Progress Report for&#13;
+   F.Y. 2010/11.â&#128;? Addis Ababa.&#13;
+Nejmudin Bilal, Christopher Herbst, Feng Zhao, Agnes Soucat, and Christophe Lemiere. 2011.&#13;
+      â&#128;&#156;Health Extension Workers in Ethiopia: Improved Access and Coverage for the Rural&#13;
+      Poor.â&#128;? In Yes Africa Can: Success Stories from a Dynamic Continent, ed. Punam&#13;
+      Chuhan-Pole and Manka Angwafo. Washington, DC: World Bank.&#13;
+Purvis, George, Abebe Alebachew, and Wondwossen Feleke. 2011. â&#128;&#156;Ethiopia Health Sector&#13;
+       Financing Project Mid-Term Evaluation Summary Report.â&#128;? U.S. Agency for&#13;
+       International Development, Addis Ababa.&#13;
+World Bank. 2012. â&#128;&#156;Ethiopia Economic Update â&#128;&#147; Overcoming Inflation, Raising&#13;
+     Competitiveness.â&#128;? World Bank, Addis Ababa.&#13;
+â&#128;&#148;â&#128;&#148;â&#128;&#148;. 2010. â&#128;&#156;Ethiopia Public Finance Review 2010.â&#128;? World Bank, Addis Ababa.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                       24&#13;
+&amp;#12;25&#13;
+&amp;#12;The World Bank supports the efforts of countries to share prosperity by&#13;
+transitioning toward universal health coverage (UHC) with the objectives of&#13;
+improving health outcomes, reducing the financial risks associated with ill&#13;
+health, and increasing equity. The Bank recognizes that there are many paths&#13;
+toward UHC and does not endorse a particular path or set of organizational or&#13;
+financial arrangements to reach it. Regardless of the path chosen, the quality of&#13;
+the instruments and institutions countries establish to implement UHC are&#13;
+essential to its success. Countries will face a variety of challenges during the&#13;
+implementation phase as they strive to expand health coverage. With that in&#13;
+mind, the World Bank launched the Universal Health Coverage Studies Series&#13;
+(UNICO Studies Series) to develop knowledge and operational tools designed&#13;
+to help countries tackle these implementation challenges in ways that are&#13;
+fiscally sustainable and that enhance equity and efficiency. The UNICO Studies&#13;
+Series consists of technical papers and country case studies that analyze&#13;
+different issues related to the challenges of UHC policy implementation.&#13;
+&#13;
+The case studies in the series are based on the use of a standardized protocol&#13;
+to analyze the nuts and bolts of 27 programs in 25 countries that have&#13;
+expanded coverage from the bottom up, starting with the poor and vulnerable.&#13;
+The protocol consists of 300 questions designed to elicit a detailed&#13;
+understanding of how countries are implementing five sets of policies to&#13;
+accomplish the following:&#13;
+&#13;
+â&#128;¢   Manage the benefits package&#13;
+â&#128;¢   Manage processes to include the poor and vulnerable&#13;
+â&#128;¢   Nudge efficiency reforms to the provision of care&#13;
+â&#128;¢   Address new challenges in primary care&#13;
+â&#128;¢   Tweak financing mechanisms to align the incentives of different stakeholders&#13;
+    in the health sector&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+The UNICO Studies Series aims to provide UHC implementers with an expanded toolbox.&#13;
+The protocol, case studies and technical papers are being published as part of the Series. A&#13;
+comparative analysis of the case studies will be available in 2013.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                               26&#13;
+&amp;#12;</ml:original-txt><ml:search-metadata><doc id="17207663">
+        <url>
+            http://documents.worldbank.org/curated/en/2013/01/17207663/ethiopia-health-extension-program-ethiopia
+        </url>
+        <availablein>English</availablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2013/01/17207663/ethiopia-health-extension-program-ethiopia</url_friendly_title>
+        <new_url>2013/01/17207663/ethiopia-health-extension-program-ethiopia</new_url>
+        <disclosure_date>2013-02-01T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2013-02-01T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/02/01/000425962_20130201141557/Rendered/INDEX/749630NWP0ETHI00Box374316B00PUBLIC0.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/02/01/000425962_20130201141557/Rendered/PDF/749630NWP0ETHI00Box374316B00PUBLIC0.pdf</pdfurl>
+        <docdt>2013-01-01T00:00:00Z</docdt>
+        <datestored>2013-02-01T00:00:00Z</datestored>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            Ethiopia - The health extension program in Ethiopia
+        </repnme>
+        <abstracts>
+            Ethiopia has made substantial progress
+            in improving health outcomes during the last decade and is
+            on track to achieve some of the health Millennium
+            Development Goals. Innovative strategies to improve
+            household behaviors and coverage of basic health care
+            services contributed to Ethiopia's achievements, and
+            the Health Extension Program (HEP) remains the core of such
+            innovations and provides a model for countries struggling to
+            improve health outcomes in a resource-constrained setting.
+            The program rests on an accelerated expansion of basic
+            health infrastructure and local human resources with
+            required skills to scale-up delivery of high-impact
+            interventions focusing on improving the supply of and
+            enhancing demand for a well-defined package of essential
+            promotive, preventive, and curative health services. The
+            objectives of the case study are to provide a detailed
+            description of (a) the context for the introduction of the
+            program; (b) the scope of the service package delivered
+            under the program; and (c) the institutional arrangements
+            and the links with the rest of the health system. The case
+            study also summarizes and discusses the evidence of the
+            program's achievements and the challenges to achieving
+            universal primary health care coverage. The study also
+            discusses the importance of political will and commitment in
+            introducing such large-scale innovations in improving
+            service delivery and mobilizing the community in a
+            resource-constrained setting.
+        </abstracts>
+        <docna>
+            Ethiopia - The health extension program in Ethiopia
+        </docna>
+        <display_title>Ethiopia - The health extension
+            program in Ethiopia</display_title>
+        <listing_relative_url>/research/2013/01/17207663/ethiopia-health-extension-program-ethiopia</listing_relative_url>
+        <docty>Working Paper (Numbered Series)</docty>
+        <subtopic>Health Monitoring &amp; Evaluation,Population Policies,Housing &amp; Human Habitats,Health Economics &amp; Finance,Health Systems Development &amp; Reform</subtopic>
+        <teratopic>Health, Nutrition and Population,Communities and Human Settlements</teratopic>
+        <count>Ethiopia</count>
+        <authors>
+            <author>Workie, Netsanet W.</author>
+            <author>Ramana, Gandham NV</author>
+        </authors>
+        <geo_region_mdks>
+            <geo_region_mdk>World!$!80475</geo_region_mdk>
+            <geo_region_mdk>East Africa!$!80458</geo_region_mdk>
+            <geo_region_mdk>Sub-Saharan Africa!$!80473</geo_region_mdk>
+        </geo_region_mdks>
+        <entityids>
+            <entityid>000425962_20130201141557</entityid>
+        </entityids>
+        <admreg>Africa,Africa</admreg>
+        <colti>Universal Health Coverage (UNICO) studies
+            series ; no. 10</colti>
+        <lang>English</lang>
+        <historic_topic>Health, Nutrition and Population,Communities and Human Settlements</historic_topic>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            access to health services, access to primary
+            health care, Adolescent reproductive health, aged,
+            aggressive, agricultural development, basic health care,
+            basic health services, birth attendants, breastfeeding,
+            burden of disease, caesarean sections, capacity building,
+            center for health, certification, child health, child
+            morbidity, child mortality, clinics, cold chains,
+            Communicable diseases, Community Health, community
+            participation, competencies, Contraceptive Prevalence,
+            contraceptive use, contraceptives, counseling, decision
+            making, developing countries, disability, dissemination,
+            drugs, economic growth, essential commodities, essential
+            health services, essential medicines, expenditures,
+            families, family health, family planning, fertility,
+            fertility rate, General Health System, government
+            leadership, gross domestic product, health care, health care
+            coverage, health care facilities, health care services,
+            health centers, health clinics, health education, Health
+            Expenditure, Health Extension, health facilities, Health
+            Financing, Health Indicators, Health Infrastructure, health
+            initiatives, Health Insurance, health interventions, health
+            management, health messages, health outcomes, health policy,
+            health posts, health problems, health professionals, health
+            sector, health sector reform, health service, health service
+            providers, health services, health status, Health System,
+            health system strengthening, health systems, Health Workers,
+            health workforce, healthy life, HIV, HIV/AIDS, home visits,
+            hospital, Hospital beds, hospitals, household level, human
+            capital, human resources, hygiene, ill health, illnesses,
+            immunization, income, Infant, Infant mortality, Infant
+            mortality rate, infants, information system, Information
+            systems, injuries, integration, interpersonal communication,
+            large population, leprosy, Life expectancy, limited
+            resources, live births, local community, malaria, management
+            of health, married women, maternal health, maternal
+            mortality, maternal mortality ratio, medical equipment,
+            medical services, medical supplies, medicines, Millennium
+            Development Goals, Ministry of Education, Ministry of
+            Health, modern contraceptive methods, modern family, modern
+            family planning, modern family planning methods, morbidity,
+            mortality, mother, mother-to-child, mother-to-child
+            transmission, national level, Needs Assessment, newborn,
+            newborn care, normal deliveries, number of children, nurses,
+            nutrition, nutritional deficiencies, occupational health,
+            oral rehydration therapy, patient, patients, personal
+            hygiene, Pharmacies, Physician, Physicians, plan of action,
+            population indicators, populous country, postnatal care,
+            pregnancy, pregnant women, prenatal care, primary care,
+            primary health care, primary health care facilities, primary
+            health care services, primary health facilities, primary
+            health services, Progress, promoting gender equality,
+            provision of care, provision of services, Public Health,
+            public health programs, public service, quality of health,
+            quality of services, referral services, referral system,
+            referral systems, regional hospital, religious institutions,
+            reproductive health, reproductive health services, resource
+            constraints, resource mobilization, respect, role models,
+            rural areas, rural communities, rural population, safe
+            drinking water, safe motherhood, safety measures,
+            sanitation, screening, service delivery, service delivery
+            points, service provision, sexually transmitted infections,
+            social networks, socioeconomic differences, Sustainable
+            Development, technical skills, tetanus, traditional birth
+            attendants, tuberculosis, tuberculosis prevention,
+            under-five mortality, UNFPA, universal access, urban areas,
+            urban communities, user fees, vaccination, vaccines,
+            vocational education, waste, waste disposal, Workers
+        </keywd>
+        <owner>Health, Nutrition &amp; Popultn Team (HDNHE)</owner>
+        <geo_regions>
+            <geo_region>World</geo_region>
+            <geo_region>East Africa</geo_region>
+            <geo_region>Sub-Saharan Africa</geo_region>
+        </geo_regions>
+        <repnb>74963</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>Social Development &amp; Poverty</ml:concept><ml:concept>Water Resources</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Environment</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Social Protections and Labor</ml:concept><ml:concept>Social Development</ml:concept><ml:concept>Water</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Economic Growth</ml:concept><ml:concept>Environment and Natural Resources</ml:concept><ml:concept>Health, Nutrition and Population</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Social Protection and Labor</ml:concept><ml:concept>Health Monitoring and Evaluation</ml:concept><ml:concept>Commodities</ml:concept><ml:concept>Commodity Prices</ml:concept><ml:concept>Commodity Rich Countries</ml:concept><ml:concept>Natural Resources</ml:concept><ml:concept>Delivery of Health Care</ml:concept><ml:concept>Health Care Delivery</ml:concept><ml:concept>Health Service Management and Delivery</ml:concept><ml:concept>Health Systems</ml:concept><ml:concept>Medical Supplies, Drugs</ml:concept><ml:concept>Pharmaceutical Industry</ml:concept><ml:concept>Birth Spacing</ml:concept><ml:concept>Vaccines</ml:concept><ml:concept>Access to Basic Sanitation</ml:concept><ml:concept>On-site Sanitation</ml:concept><ml:concept>Sanitation Marketing</ml:concept><ml:concept>Sanitation Promotion</ml:concept><ml:concept>HRH</ml:concept><ml:concept>Health Labor</ml:concept><ml:concept>Health Workers</ml:concept><ml:concept>Demographics</ml:concept><ml:concept>Nutrition – Community Based Interventions</ml:concept><ml:concept>Nutrition – Raising Awareness</ml:concept><ml:concept>Nutrition – Training</ml:concept><ml:concept>Efficiency of Public Expenditures</ml:concept><ml:concept>Public Expenditures</ml:concept><ml:concept>Public Financial Management</ml:concept><ml:concept>Public Spending</ml:concept><ml:concept>Decentralization</ml:concept><ml:concept>Deconcentration</ml:concept><ml:concept>Delegation</ml:concept><ml:concept>Devolution</ml:concept><ml:concept>Sub-National Administration</ml:concept><ml:concept>Subnational Government and Decentralization</ml:concept><ml:concept>Analysis &amp; Monitoring</ml:concept><ml:concept>Delivery Units</ml:concept><ml:concept>Grievance Redress</ml:concept><ml:concept>Indicators</ml:concept><ml:concept>M&amp;E</ml:concept><ml:concept>Performance Measurement</ml:concept><ml:concept>Performance Reviews</ml:concept><ml:concept>Rapid Results Approaches</ml:concept><ml:concept>Health Indicators</ml:concept><ml:concept>Health Monitoring &amp; Evaluation</ml:concept><ml:concept>Income</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Commodities and Resources</ml:concept><ml:concept>Health Services Delivery</ml:concept><ml:concept>Primary Care</ml:concept><ml:concept>Pharmaceuticals</ml:concept><ml:concept>Diseases</ml:concept><ml:concept>Stunting</ml:concept><ml:concept>Family Planning</ml:concept><ml:concept>Contraceptives</ml:concept><ml:concept>Immunizations</ml:concept><ml:concept>Women</ml:concept><ml:concept>Sanitation</ml:concept><ml:concept>Prevention</ml:concept><ml:concept>Infrastructure</ml:concept><ml:concept>Human Resources for Health</ml:concept><ml:concept>Public Health</ml:concept><ml:concept>Population</ml:concept><ml:concept>Nutrition</ml:concept><ml:concept>Managing Public Finances</ml:concept><ml:concept>Administrative Decentralization</ml:concept><ml:concept>Monitoring and Evaluation</ml:concept></ml:concepts><ml:geo-regions><ml:geo-region>Africa</ml:geo-region><ml:geo-region>Ethiopia</ml:geo-region></ml:geo-regions></ml:annotations></ml:doc-envelope>

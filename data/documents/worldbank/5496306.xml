@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>30394&#13;
+la~~~~~~~~~~~~~~~~~~~~- ....&#13;
+.~~~~~~~&#13;
+3                           jCrude Oil Prices&#13;
+Robert Bacon and         Predicting     Price    Differentials Based         on  Quality&#13;
+Silvana Tordo&#13;
+Many developing countries are becoming oil exporters, producing&#13;
+Robert Bacon            crude oils that often differ markedly in quality from               those principally&#13;
+is the maiager, and     traded. Governments must predict the prices of such crudes to&#13;
+*,   .Silvano ltordo    forecast revenue and evaluate the fairness of the price they receive&#13;
+(stordo@wiorldbank.org) a&#13;
+senior energy economist,  from  companies selling on their behalf. Oil companies and industry&#13;
+in the world Banks Oil  consultants have models for analyzing price! differentials with well-&#13;
+antd Gas Polic't Division.&#13;
+An na-Maria Ku ,,, of the known "marker" crudes, but these models have not been widely&#13;
+Anzna-Maria KX-11,/ of the&#13;
+International Finance    known or adapted to account for increasingly              important quality&#13;
+Corpt'oation s Oil, Gas,&#13;
+Corortion' Oil,Gas,     characteristics such as acidity. This Note explains a methodology for&#13;
+o__      Chemicals, and Alining&#13;
+Credit Reviiezt znd     price analysis and a new        extension for incorporating acidity, which&#13;
+o   Portfolio Diviion asisted  can have a big effect on the price differential.&#13;
+with data collet(ion.&#13;
+The world produces and trades more than 160   all these cases governments need to understand&#13;
+varieties of crude oil, which range widely in  the revenue implications of new production&#13;
+price: while the United Kingdom's Brent Blend  streams, because these can account for a large&#13;
+averaged US$43.04 in August 2004, Syrian      share of their budget. Long-term price forecasts&#13;
+Heaxvy averaged US$29.97. Such large differen-  are regularly published for kev cnides-such as&#13;
+O                                tials show why a single price cannot serve as a  Brent Blend, West Texas Intermediate, or&#13;
+forecast for all crudes.I                     Dubai-but no forecasts are published for other&#13;
+In recent years many new producer countries  crudes. Instead, forecasts for a "marker" crude are&#13;
+have started to export substantial amounts of  adjusted by a discount (or premium) specific to&#13;
+tie                              crude oil, including Azerbaijan, Chad, Equatorial  each crude that is based on various aspects of&#13;
+Guinea, Kazakhstan, and Sudan. Several others  quality.&#13;
+are promoting petroleum exploration, with good   Under production sharing contracts the gov-&#13;
+prospects offindingcommerciallyviable amounts  ernment often relies on the oil company to sell&#13;
+of oil. And existing producers are opening new  its share. Similarly, under royalty agreements&#13;
+Wt         m                     fields where the quality of oil can differ greatly  the concessionaire usually sells the oil and trans-&#13;
+from that of fields already under production. In  fers the royalties, linked to the price of crtide, to&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+CRUDE OIL PRICES PREDICTING PRICE DIFFERENTIALS BASED ON QUALITY&#13;
+the government. Since the price governments  index that includes various types of acid. Some of&#13;
+receive may differ, sometimes substantially,  these acids pose no particular problems in the&#13;
+from the well-publicized marker crude prices,  refinery process. But above a certain limit acidity&#13;
+they need to understand the factors that influ-  has a corrosive effect on refineries. Blending low-&#13;
+ence the discount. For new producer countries,  TAN with high-TAN crude can deal with this&#13;
+where the quality of crude may differ substan-  problem, but it increases logistical costs. New&#13;
+tially from that of the marker crudes, this under-  refineries constructed using special materials can&#13;
+standing is critical for projecting revenue and  tolerate higher acidity but are few in number.&#13;
+2                           establishing more trusting relationships with oil  Thus crudes with a high TAN (greater than&#13;
+companies.                                   around 0.5), because they limit the options for&#13;
+refining, are likely to command a discount.&#13;
+Defining quality                                In  recent years  high-TAN   crude  has&#13;
+Crude oils differ from one another in a large  accounted for a growing share of the global oil&#13;
+number of chemical and physical properties,  supply: an industry study reports that crude with&#13;
+many of which play an important part in their  a TAN greater than 1.0 increased from 7.5 per-&#13;
+refining and subsequent sale as petroleum prod-  cent of the global supply in 1998 to around 9.5&#13;
+ucts. Until now statistical analysis of price dif-  percent today.2 For West African crude the pic-&#13;
+ferentials has focused on two main properties:  ture is even more dramatic: in 2001 only 5 per-&#13;
+the specific gravity (lightness) measured in  cent had a TAN greater than 1.0, but by 2006&#13;
+degrees API (a scale devised by the American  this share is expected to rise to 13 percent. If a&#13;
+Petroleum Institute) and the percentage of sul-  high TAN means a substantial discount, this&#13;
+fur content by weight.                       forecast has important implications for devel-&#13;
+Lighter crudes (with higher API) produce a  oping countries depending on oil for a large&#13;
+larger number of lighter products, such as gaso-  share of government revenue. Moreover, if the&#13;
+line, which have higher resale value. So other  share of high-TAN crude grows more rapidly&#13;
+qualities being  equal, lighter crudes are   than the refineries able to accommodate it are&#13;
+expected to sell at a premium  over heavier  constructed, the discount can be expected to&#13;
+crudes. By extension, if the prices of all petro-  increase.&#13;
+leum products rise by the same percentage&#13;
+amount, the absolute price differential between  Relating quality to discounts&#13;
+a heavy crude and a light crude (the discount)  Oil companies and analysts have developed&#13;
+can be expected to grow.                     models for predicting discounts, some of which&#13;
+A high sulfur content has an adverse effect on  are commercially available as off-the-shelf prod-&#13;
+the value of crudes, because it leads to higher  ucts. But these models have centered on API&#13;
+operating costs for refineries due to special pro-  and sulfur content. The growing importance of&#13;
+cessing and maintenance requirements. In addi-  high-TAN crudes, especially from developing&#13;
+tion, in many countries new legislation mandates  countries, calls for extending these models. Two&#13;
+lower sulfur content for gasoline and diesel. So  approaches have been used. The first is based on&#13;
+a high-sulfur (sour) crude is expected to sell at a  a simple pairwise comparison of crudes identi-&#13;
+discount relative to a low-sulfur (sweet) crude of  cal in all major aspects of quality except the one&#13;
+the same API. And an increase in the share of  being investigated. The second is based on a&#13;
+high-sulfur crude in the world market, or a rela-  regression model that can simultaneously incor-&#13;
+tive increase in the demand for low-sulfur prod-  porate all quality differences.&#13;
+ucts, is expected to result in larger discounts for  If crude oils differ in only one dimension of&#13;
+high-sulfur crudes.                          quality, pairwise comparisons can be used to&#13;
+Another important property is acidity. The  relate the price differential to that difference in&#13;
+recent emergence of West African and other pro-  quality. But any single comparison would be&#13;
+ducers has led to an increase in the supply and  affected by factors relating to the period or to&#13;
+number of crudes with high acidity as measured  nonquality characteristics of the crudes being&#13;
+by the total acid number (TAN), an aggregate  compared. As a result, a series of comparisons&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+for several different crudes or for several differ-  The model as presented above is static. Thus&#13;
+ent periods will not yield identical results, so that  it would predict that the set of price differentials&#13;
+the results need to be averaged over a group of  between all crudes would stay constant as long as&#13;
+crudes. This approach can be extended to com-  the qualities of the crudes remained constant. In&#13;
+parisons of crudes differing in more than one  fact, a plot of the average price difference&#13;
+dimension of quality by utilizing a series of pair-  between crudes, period by period, shows sub-&#13;
+wise comparisons.                             stantial movement, roughly matching the move-&#13;
+A regression model overcomes these difficul-  ment of the Brent price, with a greater spread of&#13;
+ties by simultaneously incorporating differences  differentials at higher prices. To allow for the&#13;
+in all important qualities in relation to the price  hypothesis that a given difference in API has a&#13;
+differential. Assuming that the effects of a one-  greater effect at higher prices, the API dil'feren-&#13;
+unit difference in quality are the same regard-  tial term is modified by scaling it by the current&#13;
+less of the crudes being considered, and that the  Brent price. Another extension to the imodel&#13;
+effects of differences in several measures of  introduces a lagged value of the price differen-&#13;
+quality are additive, the discount effect can be  tial into the equation, recognizing that price dif-&#13;
+formulated as follows:                        ferentials may not fully adjust within a month&#13;
+(the data period used) to a change in the aver-&#13;
+A price = a + X1 b, (A qualityi)      age Brent price within that period, but thal some&#13;
+adjustment may spill over into the next month.&#13;
+where A price is the difference in price between&#13;
+a given crude and some marker crude, A quali-  Estimating the model&#13;
+tyi is the difference in quality i between that  Estimating the model required identifying the&#13;
+crude and the marker crude, X represents the  crudes for which data on both quality specifica-&#13;
+sum of the qualities (three in the case consid-  tions and spot prices were publicly available for&#13;
+ered below), and a and bi are parameters to be  a number of months. Data on 56 crudes were col-&#13;
+established by regression analysis.          lected for the period January 2003-June 2004,&#13;
+In this model the parameter b measures the  with data on quality taken from several Web sites&#13;
+effect on the price differential of a one-unit  and data on monthly average prices (fob) taken&#13;
+increase in the difference in each dimension of  from the Platts Oilgram Price Report.&#13;
+quality between the crude in question and the   Brent Blend was taken as the reference crude,&#13;
+marker crude.                                 since it is among the most common markers for&#13;
+Although a regression model will not fully  commercial deals. Brent is a high-quality light&#13;
+explain each difference in price in terms of dif-  crude (API of 38.3) with low sulfur (0.37 percent)&#13;
+ferences in quality, evidence for a large number  and a very low TAN (0.07), so that most other&#13;
+of crudes can identify effects common to all.  crudes would be expected to sell at a discount rel-&#13;
+Moreover, since the effects (other than those  ative to it. During the period analyzed the price of&#13;
+relating to the general oil price level) are not  Brent ranged between US$25 and US$38 a barrel.&#13;
+expected to change rapidly, the model should    The model that was estimated includes sev-&#13;
+be applicable to a succession of intervals and the  eral refinements to the simple framework&#13;
+values of the coefficients should be stable. So  described above:&#13;
+data for a number of crudes and for a number  * The difference in API is multiplied by the&#13;
+of periods can be used in the same regression   current Brent price because the absolute dif-&#13;
+(utilizing a pooled cross-section time-series   ference in the lightness of the cride is&#13;
+approach). The quality characteristics of each  expected to lead to a larger absolute price dif-&#13;
+crude are assumed to remain stable throughout   ferential when the general oil price is higher.&#13;
+each period, since there is no published evi-  a The difference in TAN is included only for&#13;
+dence on changes over time. But if the period   crudes whose TAN is above 0.5, allowing for&#13;
+used is too long, the physical characteristics of  the assumption that below a certain thresh-&#13;
+crude oils, especially blends, may change       old refiners need to take no special action.&#13;
+enough to introduce inaccuracies.             * Freight rates between Europe and the region&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+CRUDE      OIL   PRICES     PREDICTING PRICE DIFFERENTIALS BASED ON QUALITY&#13;
+The case of Syrian Heavy illustrates how the model can be used to estimate what a price would have been given the model's&#13;
+assumptions. Syrian Heavy has low API (24.1), a high sulfur content (3.9 percent) but a TAN (0.17) below the threshold at&#13;
+which the model takes it into account.&#13;
+viewpoint&#13;
+Price of Brent Blend in June 2004                                                =  US$35.04&#13;
+Discount in May 2004                                                             = -US$5.93&#13;
+Effect of lagged discount                        = 0.67 (5.93)                   = -US$3.98                     is an open forum to&#13;
+Effect of lower API                              = 0.00154 x 35.04 (24.1 - 38.3)  = -US$0.77                    encourage dissemination of&#13;
+Effect of higher sulfur                          = 0.27 (3.9 - 0.37)             = -US$0.95                     public policy innovations for&#13;
+Effect of higher TAN                             = 0 (0.17 - 0.07)               = -US$0.00                     private sector-led and&#13;
+Effect of transport differentials                                                = -US$0.28                     market-based solutions for&#13;
+Total predicted discount relative to Brent                                       = -US$5.98                     development. The views&#13;
+Actual discount relative to Brent                                                = -US$6.24                     published are those of the&#13;
+Predicted Syrian Heavy price at actual Brent price                               =  US$29.06                    authors and should not be&#13;
+Actual Syrian Heavy price                                                        =  US$28.80                    attributed to the World&#13;
+Bank or any other affiiiated&#13;
+The strong coherence between the prediction and the actual data confirms, within the margin of error of such a regression  organizations. Nor do any of&#13;
+model and taking quality characteristics into account, that the price of Syrian Heavy conformed to those of other crudes.&#13;
+the conclusions represent&#13;
+official policy of the World&#13;
+Bank or of its Executive&#13;
+from   which the other crudes originate are             tions, to see whether there was anything unusual            Directors or the countries&#13;
+introduced     to  allow  for systematic     differ-     about the actual price received (box 1).                   they represent.&#13;
+ences due to transport costs and for varia-&#13;
+tions over time due to changes in transport              Conclusion                                                 To order additional copies&#13;
+costs. This term      also  includes a constant          A regression model relating price differentials            contact Suzanne Smith,&#13;
+effect common to all crudes.                             to differences in quality characteristics can be a         managing editor,&#13;
+All variables are strongly significant and of            valuable tool for analyzing       the price of new          Room F 4K-206,&#13;
+the expected sign, and the overall squared cor-             crudes whose quality differs greatly from      that of      The World Bank,&#13;
+relation coefficient is 80 percent. The coeffi-             the marker crude. This capability enables gov-              1818 H Street, NW,&#13;
+cient of the lagged price differential is estimated         ernments whose country produces such crudes                 Washington, DC 20433.&#13;
+at 0.67. The long-run effects of the variables,             to better forecast future revenue streams and to&#13;
+evaluated as if the Brent price settled at some             verify that the prices received from       companies        00 202 458 728&#13;
+constant level, are as follows:                             selling the oil on their behalf are reasonable.             Fax:&#13;
+001 202 522 3480&#13;
+Per unit of sulfur                       -US$0.82                                                                       Email:&#13;
+Per unit of TAN                          -US$0.88                                                                       ssmith7@worldbank.org&#13;
+Per unit of API per dollar of Brent +US$0.0047              Notes&#13;
+This Note is taken from   a larger study now under      Produced by Grammarians,&#13;
+The interpretation of the API coefficient is             preparation.                                               Inc.&#13;
+particularly interesting. At a price of US$20 a                 ]. Conventionall) the industry focuses on absolute&#13;
+barrel for Brent each degree of API is worth                (dollar) differentials rather than relative (percentage) dif-  Printed on recycled paper&#13;
+9.4¢, while at a price of US$40 it is worth 18.8¢,          ferentials.&#13;
+supporting     the  hypothesis     that differentials          2. Anne    Shafizadeh, Gregg   McAteer, and John&#13;
+increase as crude prices rise.                              Sigmon, "High-Acid Crudes." paper presented at Crude&#13;
+The model can be used to predict the price               Oil Quality Group meeting. New Orleans,January 30,2003&#13;
+of future streams of crude of known            quality      [http://www.coqg.org/20030130special.asp].&#13;
+under assumed Brent prices or to "backcast" by&#13;
+estimating what the price of a known crude&#13;
+would have been        given the model's assump-&#13;
+This Note is available online:&#13;
+http://rru.worldbank.org/PublicPolicyjournaI&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+</ml:original-txt><ml:search-metadata><doc id="5496306">
+        <url>
+            http://documents.worldbank.org/curated/en/2004/10/5496306/crude-oil-prices-predicting-price-differentials-based-quality
+        </url>
+        <availablein>English</availablein>
+        <virt_coll>Knowledge Notes</virt_coll>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2004/10/5496306/crude-oil-prices-predicting-price-differentials-based-quality</url_friendly_title>
+        <new_url>2004/10/5496306/crude-oil-prices-predicting-price-differentials-based-quality</new_url>
+        <disclosure_date>2010-07-01T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2010-07-01T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2004/12/09/000012009_20041209143656/Rendered/INDEX/30394.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2004/12/09/000012009_20041209143656/Rendered/PDF/30394.pdf</pdfurl>
+        <docdt>2004-10-01T00:00:00Z</docdt>
+        <datestored>2004-12-09T00:00:00Z</datestored>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            Crude oil prices - predicting price
+            differentials based on quality
+        </repnme>
+        <abstracts>
+            Many developing countries are becoming
+            oil exporters, producing crude oils that often differ
+            markedly in quality from those principally traded.
+            Governments must predict the prices of such crudes, to
+            forecast revenue and evaluate the fairness of the price they
+            receive from companies selling on their behalf. Oil
+            companies, and industry consultants, have models for
+            analyzing price differentials with well-known
+            "marker" crudes, but these models have not been
+            widely known, or adapted to account for increasingly
+            important quality characteristics, such as acidity. This
+            note explains a methodology for price analysis, and a new
+            extension for incorporating acidity, which can have a big
+            effect on the price differential.
+        </abstracts>
+        <docna>
+            Crude oil prices - predicting price
+            differentials based on quality
+        </docna>
+        <display_title>Crude oil prices - predicting
+            price differentials based on quality</display_title>
+        <listing_relative_url>/research/2004/10/5496306/crude-oil-prices-predicting-price-differentials-based-quality</listing_relative_url>
+        <docty>Viewpoint</docty>
+        <subtopic>Energy Demand,Environmental Economics &amp; Policies,Access to Markets,Markets and Market Access,Oil Refining &amp; Gas Industry</subtopic>
+        <teratopic>Environment,Macroeconomics and Economic Growth,Energy,Industry,International Economics and Trade</teratopic>
+        <count>World</count>
+        <authors>
+            <author>Bacon, Robert</author>
+            <author>Tordo, Silvana</author>
+        </authors>
+        <entityids>
+            <entityid>000012009_20041209143656</entityid>
+        </entityids>
+        <admreg>The World Region,The World Region</admreg>
+        <colti>Public policy for the private sector ; Note
+            no. 275</colti>
+        <lang>English</lang>
+        <historic_topic>Environment,Macroeconomics and Economic Growth,Energy,Industry,International Economics and Trade</historic_topic>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            Crude oil; Oil pricing; Oil exporting
+            countries; Quality differentiation; International trade; Oil
+            revenues; Fairness; Price distortions; Acidity; Price
+            controls; account, acid, acidity, acids, API, average
+            prices, Chemicals, crude oil, CRUDE OIL, developing
+            countries, International Finance, legislation, matching,
+            Oil, Oil Prices, OIL PRICES, oils, petroleum, physical
+            characteristics, price forecasts, producers, refining,
+            regression analysis, royalties, selling, spot prices,
+            spread, statistical analysis, streams, sulfur, Web sites
+        </keywd>
+        <owner>Off of VP, FPD - WB (FPDVP)</owner>
+        <repnb>30394</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>PPP</ml:concept><ml:concept>Public-Private Partnerships</ml:concept><ml:concept>Energy</ml:concept><ml:concept>Energy and Mining</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>International Competitiveness</ml:concept><ml:concept>International Economics and Trade</ml:concept><ml:concept>Trade Liberalization</ml:concept><ml:concept>Trade Liberalization and Regional Integration</ml:concept><ml:concept>Trade Restrictiveness</ml:concept><ml:concept>Trade and Integration</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Public-Private Partnerships (PPP)</ml:concept><ml:concept>Energy and Extractives</ml:concept><ml:concept>Health, Nutrition and Population</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Trade</ml:concept><ml:concept>Legislation and Regulation</ml:concept><ml:concept>Energy Demand</ml:concept><ml:concept>Longevity</ml:concept><ml:concept>Market Access</ml:concept><ml:concept>Legislation</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Energy Consumption</ml:concept><ml:concept>Refineries</ml:concept><ml:concept>Aging</ml:concept><ml:concept>Trade Policy</ml:concept></ml:concepts><ml:geo-regions/></ml:annotations></ml:doc-envelope>

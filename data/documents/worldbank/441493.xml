@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>169 S3&#13;
+Technical Note&#13;
+The World Bank         FPD Note No. 9                                           June 1994&#13;
+Reality Checks for Power Forecasts&#13;
+Two Simple Checks Relating Power Sector Demand Forecasts&#13;
+to the Macroeconomy&#13;
+Robert Bacon&#13;
+Power demandforecasts are an integral instead. The difficulty with this ap-&#13;
+part ofpowerproject appraisal. The  proach is that it can lead to very high&#13;
+costs of getting these forecasts wrong    growth rates projected to continue&#13;
+can be very high. An overoptimistic  over a long period. These may well be&#13;
+demandforecast can lead to projects   inconsistent with macroeconomic de-&#13;
+which are unnecessarily large at the    velopments (e.g., very large real price&#13;
+countr's current state of economic    rises in electricity as the government&#13;
+development, diverting resourcesfrom   removes subsidies in order to comply&#13;
+better uses. Too low a demandforecast  with loan agreements), and with typi-&#13;
+will lead to underprovision ofpower    cal patterns of power demand viewed&#13;
+and to shortages later on. This Note sets  over the longer term.&#13;
+out two simple reality checks which&#13;
+can help to prevent such mistakes  When these data gaps exist, interna-&#13;
+tional experience can be a very impor-&#13;
+The approach                       tant comparator to check the plausibil-&#13;
+These forecasts are usually expressed   ity of the trend projections. This Note&#13;
+as an average growth rate over a cer-  suggests two simple methods of&#13;
+tain time horizon, e.g., 10 percent per  checking projections against the expe-&#13;
+annum for twenty years. They are of-  rience of other countries.' The first&#13;
+ten based on trend projections of the    check calculates implicit price and&#13;
+power sector and when this is the case, income elasticities for the demand&#13;
+it is important to check that they are   scenario, so that they can be compared&#13;
+consistent with likely movements of    with international values based on&#13;
+the principal macroeconomic determi-  more intensive investigations The sec-&#13;
+nants of demand. However, in some    ond check, which is a simplification of&#13;
+of the poorest countries, which are    this first approach, calculates a coun-&#13;
+now starting to look at large power    try's projected power-to-income ratio.&#13;
+projects, there is often insufficient in-   Again this ratio can be compared to&#13;
+formation on historic demand patterns  actual levels for other countries which&#13;
+to make a reliable forecast. Frequently, are at similar stages of development.&#13;
+in this situation, a simple extrapolation  l A more detailed version of this Note will be pro-&#13;
+of demand growth rates has been used   duced in the IEN Occasional Papers senes&#13;
+Industry and Energy Department&#13;
+--~   D    Vice Presidency for Finance and Private Sector Development&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+The calculation of implicit price and income      Test case&#13;
+elasticities of power demand                      Assume in the forecast that the power demand&#13;
+growth will be at a steady 10 percent per annum for&#13;
+Formula                                            a thirty-year period (1995 to 2025), which implies&#13;
+The starting point is a relationship which is assumed  that demand will reach 1745 percent of its initial&#13;
+to link demand growth with real income and real    level by the end of the period. Real income is fore-&#13;
+electricity price growth rates. Based on a "constant    cast to grow at an average of 5 percent per annum&#13;
+elasticity" demand equation this long-term relation-   for the whole period. However, it is assumed that&#13;
+ship can be expressed as:                         the total real price rise, equivalent to 3 percent per&#13;
+year for thirty years (243 percent total increase), will&#13;
+The rate of growth of demand is equal to the rate   be concentrated in the first ten-year period, and that&#13;
+of growth of prices times the price elasticity, plus   the last twenty years will see no further real price&#13;
+the rate of growth of income times the income     increase. The annual rate of increase of real prices is&#13;
+elasticity                                        therefore 9.3 percent between 1995 and 2005.&#13;
+This is expressed formally as:                    The basic formula (1) can now be applied period by&#13;
+period. For the period 1995 to 2005 the equation&#13;
+d = p x b + g x a                   (1)    becomes:&#13;
+where: d = annual average rate of growth of de-           0.1 = 0.093 b + 0.05 a              (2)&#13;
+mand;&#13;
+a = income elasticity (positive);          Table 1 gives some combinations of price and in-&#13;
+g = annual average rate of growth of real   come elasticities consistent with the macroeconomic&#13;
+income;                                data of (2). A complete set of feasible combinations&#13;
+b = price elasticity of demand (negative);  can be obtained by plotting price and income elas-&#13;
+p = average annual rate of change of real   ticities on a graph. Since the relationship is a straight&#13;
+power prices.                          line, plotting any two points and passing a line&#13;
+through them will describe all the possible solutions.&#13;
+This relation can be used to show which values of  Because price elasticities are always negative, and&#13;
+income and price elasticities would make the      income elasticities for power are always positive,&#13;
+macro variables consistent with the demand for    attention can immediately be focused on just one&#13;
+power growth assumed. These possible combina-   subset of all solutions to (2).&#13;
+tions of elasticities can then be compared to inter-&#13;
+national experience for other developing countries&#13;
+to check whether the total scenario appears plau-&#13;
+sible, or whether the demand forecast would be&#13;
+sible, or whether th  demad f t wTABLE 1 Combinations of Price and Income Elasticites&#13;
+consistent with the macro variables only if the     that Satisfy the Forecast of Power Demand Growth and&#13;
+income and price elasticities in the country were    the Macroeconomic Scenario (1995-2005)&#13;
+very atypical of international experience. In the            Price Elasticity   Income Elasticity&#13;
+latter case it would be necessary to conduct an in-              +0.00           +2.00&#13;
+depth review to ensure that the demand forecast                  -0.50           +2.93&#13;
+was well founded, i.e., that the country would                   -100            +3 86&#13;
+indeed follow a growth path out of line with ex-&#13;
+perience elsewhere.&#13;
+2&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+For the period 2005 to 2025 the equation becomes:   and the sample of Latin American countries. The&#13;
+price elasticities appear to be higher for industrial-&#13;
+0.1 = 0.00 b + 0.05 a                (3)    ized countries, but are still substantial for the Latin&#13;
+American countries.&#13;
+When the rate of change of prices is zero, the value&#13;
+of the price elasticity is immaterial. Thus the only  There have been some suggestions that income elas-&#13;
+value of the income elasticity that is compatible with  ticities tend to fall as the level of income rises, but&#13;
+the data is 2.0.                                    again little systematic testing of this hypothesis has&#13;
+been carried out. The econometric evidence that&#13;
+International benchmarks                            does exist supports a view that the long-run price&#13;
+The key to using this approach is that the implicit    elasticity could well center around -0.5, but might be&#13;
+values of the elasticities can be compared with those  higher. The long-run income elasticity is likely to be&#13;
+established by more detailed investigation for other   greater than unity. Values larger than 2 have been&#13;
+countries at a similar level of development. If the  reported for relatively short periods for some rapidly&#13;
+sets of values are fairly close then this supports the    industrializing countries, but values greater than 3&#13;
+reliability of the forecast power demand for the    are very rare.&#13;
+country in question. On the other hand, if the values&#13;
+are very different then the power demand forecast    In many projections the total growth of real income&#13;
+should be viewed more critically.                   over the period is likely to be much larger than the&#13;
+total movement in real electricity prices, so that the&#13;
+Systematic evidence on international values of price   key to demand forecasting would be the value of&#13;
+and income elasticities for electricity demand comes  the income elasticity. However, in periods where&#13;
+from econometric studies which have correlated      prices are allowed to change very rapidly (typically&#13;
+year-by-year power demand changes with income       in order to catch up to costs), price elasticities can&#13;
+and price changes, as well as with other variables,    be just as important as income elasticities in deter-&#13;
+when appropriate. There is a very large body of     mining overall power demand.&#13;
+such work for industrialized countries, but relatively&#13;
+little work of this nature has been done for develop-  Results&#13;
+ing countries, especially for the poorest countries.  This simple test shows that a scenario of 10 percent&#13;
+Westley (New Directions in Econometric Modeling of  demand growth, while income grows at 5 percent and&#13;
+Energy Demand: With Applications to Latin America,  real prices grow at 9.3 percent for the first decade of&#13;
+Inter-American Development Bank, 1992) surveys a   the forecast, is at the very edge of credibility. With a&#13;
+wide range of studies for electricity demand. For a    price elasticity of -0.5, the income elasticity would&#13;
+group of Latin American countries (Costa Rica, Para-  have to be almost 3 for the period in order for this&#13;
+guay, Colombia, Dominican Republic, and Mexico)   forecast to be consistent with the macro scenario. A&#13;
+the mean price elasticity is -0.48, and the mean in-    value of 3 for the income elasticity is outside the&#13;
+come elasticity is 0.47 for residential and commercial  range of experience reported from other countries.&#13;
+demand and 1.18 for industrial demand. For a sam-&#13;
+ple of twenty-six studies of industrialized countries    For the period 2005 to 2025, where the income elas-&#13;
+the mean long-run price elasticity is -1.15 and the  ticity would have to be 2.0, the scenario is consistent&#13;
+income elasticity is 1.10. The two sets of income   with international evidence, but again such a value&#13;
+elasticities are fairly similar, despite the very large  holding over a long period, while income levels&#13;
+differences in per capita income between the coun-   grow very substantially, is certainly at the higher end&#13;
+tries analyzed in the industrialized countries group,   of experience.&#13;
+3&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+The calculation of electricity-to-income ratios&#13;
+TABLE 2: Electricity Intensity and GNP at Various Dates&#13;
+The second check is simply to calculate the electricity    Date    GW'b        GNP       GWh/GNP   GNP/per&#13;
+(energy) intensity ratio of the country over the project                   (US$mm1ion)  (US$milhon)   capita&#13;
+life and relate this to projected per capita income.       1995      800      5,000        0.160       200&#13;
+Projections which have demand running too far out          2000    1,288      6,381        0.202       226&#13;
+of line with anticipated income growth, will imply         2005    2,075      8,144        0 255       256&#13;
+2015    5,381     13,266        0.406      327&#13;
+an energy intensity that does not equate with the          2025   13,960     21,610        o.646       420&#13;
+experience of other countries with similar economic&#13;
+living standards and similar economic conditions.&#13;
+This check in effect ignores price effects, but it is&#13;
+easier to obtain energy intensities for a wide range    Table 3 gives actual data for a sample of countries in&#13;
+of countries than it is to obtain econometric models   1990. The countries selected have income per capita&#13;
+for demand in low income countries.                      similar to the hypothetical case.&#13;
+The starting values for demand and income need to&#13;
+be known in order to calculate changes in energy           TABLE 3: Electricity Demand and GNP in Various Coun-&#13;
+intensity over the period. This is illustrated for a       TriE 31990u&#13;
+hypothetical country. In 1995 GNP is projected to be       tries (1990)&#13;
+US$200 (1990 real) per capita, derived from a total                          (US$milhon) (US$millhon)  capita&#13;
+GNP of US$5,000 million and a population of 25             Bangladesh 8,057    22,738       0 354      210&#13;
+million. The population is projected to increase at        Malawi      587      1,701       0 345      200&#13;
+2.5 percent per annum, so that real income per capi-       Rwanda      195      2,215       0 088      320&#13;
+ta will grow at 2.5 percent for the whole period if        Kenya      3,215     8,939       0 360      370&#13;
+GNP grows at the projected rate of 5.0 percent. The&#13;
+number of GWh used in 1995 is projected to be 800.&#13;
+From 1995 onwards, power demand and GNP are&#13;
+assumed to grow as in the scenario used for the         These tables suggest that the energy intensities im-&#13;
+previous elasticity analysis.                           plied in the demand projections for the hypothetical&#13;
+country are again at the limits of experience com-&#13;
+Table 2 gives the calculations for total GWh, real      pared to other developing countries. The projection&#13;
+GNP, GWh per unit of real GNP, and GNP per capi-   of energy intensity for 2015 is well above that for&#13;
+ta at various dates. The energy intensity more than     countries such as Kenya, which at present has a&#13;
+quadruples over the thirty-year period. This is not     substantially higher per capita real income than the&#13;
+surprising given that the growth of power demand is  hypothetical country will have after twenty years.&#13;
+projected to rise 5 percent per annum more rapidly&#13;
+than income over a twenty-year period.                  Robert Bacon, Industry and Energy Department&#13;
+This se4es is published to share Ideas and invite discussion. It covers financial and pnvate sector development as well as&#13;
+industry and energy The views expressed are those of the author(s) and are not intended to represent an official statement of&#13;
+Bank policy or strategy&#13;
+Comiments are welcome Please call the FPD Note line to leave a message. 202-458-1 11 1, or contact Suzanne Smith, editor, Room&#13;
+G8105, The World Bank, 1818 H Street, NW, Washington, DC 20043, or Internet address ssmithElworldbank.org.&#13;
+4&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+</ml:original-txt><ml:search-metadata><doc id="441493">
+        <url>
+            http://documents.worldbank.org/curated/en/1994/06/441493/reality-checks-power-forecasts-two-simple-checks-relating-power-sector-demand-forecasts-macroeconomy
+        </url>
+        <availablein>English</availablein>
+        <virt_coll>Knowledge Notes</virt_coll>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/1994/06/441493/reality-checks-power-forecasts-two-simple-checks-relating-power-sector-demand-forecasts-macroeconomy</url_friendly_title>
+        <new_url>1994/06/441493/reality-checks-power-forecasts-two-simple-checks-relating-power-sector-demand-forecasts-macroeconomy</new_url>
+        <disclosure_date>2000-10-24T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2000-10-24T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/1999/08/15/000009265_3980218124215/Rendered/INDEX/multi0page.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/1999/08/15/000009265_3980218124215/Rendered/PDF/multi0page.pdf</pdfurl>
+        <datestored>2000-10-24T00:00:00Z</datestored>
+        <docdt>1994-06-30T00:00:00Z</docdt>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            Reality checks for power forecasts : two
+            simple checks relating power sector demand forecasts to the macroeconomy
+        </repnme>
+        <abstracts>
+            In some of the poorer countries now
+            starting to look at large power projects, the information on
+            past power demand patterns is not good enough to make
+            reliable demand forecasts. Forecasters often end up simply
+            projecting current growth rates. But this can produce
+            forecasts that are inconsistent with macroeconomic
+            developments such as the real price rises that occur when
+            governments remove subsidies. The author outlines two simple
+            reality checks to help prevent forecast error.
+        </abstracts>
+        <docna>
+            Reality checks for power forecasts : two
+            simple checks relating power sector demand forecasts to the macroeconomy
+        </docna>
+        <display_title>Reality checks for power
+            forecasts : two simple checks relating power sector demand
+            forecasts to the macroeconomy</display_title>
+        <listing_relative_url>/research/1994/06/441493/reality-checks-power-forecasts-two-simple-checks-relating-power-sector-demand-forecasts-macroeconomy</listing_relative_url>
+        <docty>Viewpoint</docty>
+        <subtopic>Environmental Economics &amp; Policies,Energy and Environment,Inequality,Economic Theory &amp; Research,Markets and Market Access</subtopic>
+        <teratopic>Environment,Energy,Poverty Reduction,Macroeconomics and Economic Growth</teratopic>
+        <count>World</count>
+        <authors>
+            <author>Bacon, Robert</author>
+        </authors>
+        <entityids>
+            <entityid>000009265_3980218124215</entityid>
+        </entityids>
+        <subsc>Other Power &amp; Energy Conversion</subsc>
+        <admreg>The World Region,The World Region</admreg>
+        <colti>Public policy for the private sector ; Note
+            no. 9,FPD note no. 9</colti>
+        <lang>English</lang>
+        <historic_topic>Environment,Energy,Poverty Reduction,Macroeconomics and Economic Growth</historic_topic>
+        <sectr>(Historic)Electric Power &amp; Other Energy</sectr>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            Energy demand; Power generation; Electric
+            power rates; Macroeconomic planning; Project appraisal;
+            Gross national product
+            annual rate,average annual,average
+            growth,average growth rate,average rate,benchmarks,demand
+            forecasting,demand growth,developing countries,Econometric
+            Modeling,econometric models,economic
+            conditions,elasticities,elasticity,electricity,electricity
+            demand,electricity prices,Energy Demand,energy
+            intensity,forecasts,GNP,growth rate,growth
+            rates,income,income elasticity,income increase,income
+            levels,living standards,low income,per capita income,price
+            changes,price elasticities,price elasticity,price elasticity
+            of demand,Private Sector,real GNP,real income,real level
+        </keywd>
+        <owner>Private Sctr Devel &amp; Infrastr VP (PSI)</owner>
+        <repnb>16953</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Energy</ml:concept><ml:concept>Energy and Mining</ml:concept><ml:concept>Environment</ml:concept><ml:concept>Poverty Reduction</ml:concept><ml:concept>Poverty Reduction and Distributional Analysis</ml:concept><ml:concept>Poverty Reduction and Equity</ml:concept><ml:concept>Poverty and Inequality</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Social Protections and Labor</ml:concept><ml:concept>International Competitiveness</ml:concept><ml:concept>International Economics and Trade</ml:concept><ml:concept>Trade Liberalization</ml:concept><ml:concept>Trade Liberalization and Regional Integration</ml:concept><ml:concept>Trade Restrictiveness</ml:concept><ml:concept>Trade and Integration</ml:concept><ml:concept>Science and Technology</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Energy and Extractives</ml:concept><ml:concept>Environment and Natural Resources</ml:concept><ml:concept>Health, Nutrition and Population</ml:concept><ml:concept>Poverty</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Social Protection and Labor</ml:concept><ml:concept>Trade</ml:concept><ml:concept>Environmental Economics and Policies</ml:concept><ml:concept>Energy Demand</ml:concept><ml:concept>Alternative Sentencing Options</ml:concept><ml:concept>Community Policing</ml:concept><ml:concept>Community based Policing</ml:concept><ml:concept>Correctional Services and Facilities</ml:concept><ml:concept>Corrections</ml:concept><ml:concept>Crime Policies</ml:concept><ml:concept>Crime Prevention</ml:concept><ml:concept>Crime and Society</ml:concept><ml:concept>Defense Services</ml:concept><ml:concept>Detention</ml:concept><ml:concept>Enforcement Policies and Oversight Mechanism</ml:concept><ml:concept>Forensic</ml:concept><ml:concept>Forensic Services</ml:concept><ml:concept>Investigation</ml:concept><ml:concept>Investigative Task Force Police</ml:concept><ml:concept>Juvenile Justice</ml:concept><ml:concept>Law Enforcement</ml:concept><ml:concept>Offender Reintegration</ml:concept><ml:concept>Police Administration and Management</ml:concept><ml:concept>Police Reform</ml:concept><ml:concept>Problem solving Policing</ml:concept><ml:concept>Prosecution</ml:concept><ml:concept>Restorative Justice</ml:concept><ml:concept>Therapeutic Justice</ml:concept><ml:concept>Victim Assistance</ml:concept><ml:concept>Victim Services</ml:concept><ml:concept>Victim-Offender Mediation</ml:concept><ml:concept>Asset Recovery</ml:concept><ml:concept>Demographics</ml:concept><ml:concept>Market Access</ml:concept><ml:concept>Econometrics</ml:concept><ml:concept>Income</ml:concept><ml:concept>Environmental Economics &amp; Policies</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Energy Consumption</ml:concept><ml:concept>Criminal Justice</ml:concept><ml:concept>Subsidies</ml:concept><ml:concept>Population</ml:concept><ml:concept>Trade Policy</ml:concept></ml:concepts><ml:geo-regions/></ml:annotations></ml:doc-envelope>

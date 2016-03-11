@@ -1,0 +1,1551 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>                                                            75009&#13;
+                Peruâ&#128;&#153;s Comprehensive&#13;
+                Health Insurance and&#13;
+                New Challenges for&#13;
+                Universal Coverage&#13;
+&#13;
+&#13;
+&#13;
+Pedro Francke&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                Universal Health Coverage Studies Series (UNICO)&#13;
+                UNICO Studies Series No. 11&#13;
+&amp;#12;&amp;#12;UNICO Studies Series 11&#13;
+Peruâ&#128;&#153;s Comprehensive Health Insurance&#13;
+and New Challenges for Universal Coverage1&#13;
+Pedro Francke&#13;
+&#13;
+The World Bank, Washington DC, January 2013&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+1&#13;
+  The study benefited greatly from the Authorsâ&#128;&#153; Workshop, held in Washington, DC, in July 2012, especially from&#13;
+the comments of panelists Jerry La Forgia, Antonio Giuffrida, and Fernando Montenegro. Peer reviewers Fernando&#13;
+Lavadenz and Robert Hecht made very important contributions. Daniel Cotlear gave inspiring guidance throughout&#13;
+the process, and his support and that of Sarah McCune, Emiliana Gunawan, and the entire UNICO team was&#13;
+invaluable. A last-minute revision by Tania Dmytraczenko allowed significant improvements, and the editing by&#13;
+Diane Stamm made this study much more readable. Thanks to everyone.&#13;
+&amp;#12;           The World Bankâ&#128;&#153;s Universal Health Coverage Studies Series (UNICO)&#13;
+All people aspire to receive quality, affordable health care. In recent years, this aspiration has&#13;
+spurred calls for universal health coverage (UHC) and has given birth to a global UHC&#13;
+movement. In 2005, this movement led the World Health Assembly to call on governments to&#13;
+â&#128;&#156;develop their health systems, so that all people have access to services and do not suffer&#13;
+financial hardship paying for them.â&#128;&#157; In December 2012, the movement prompted the United&#13;
+Nations General Assembly to call on governments to â&#128;&#156;urgently and significantly scale-up efforts&#13;
+to accelerate the transition towards universal access to affordable and quality healthcare&#13;
+services.â&#128;&#157; Today, some 30 middle-income countries are implementing programs that aim to&#13;
+advance the transition to UHC, and many other low- and middle-income countries are&#13;
+considering launching similar programs.&#13;
+The World Bank supports the efforts of countries to share prosperity by transitioning toward&#13;
+UHC with the objectives of improving health outcomes, reducing the financial risks associated&#13;
+with ill health, and increasing equity. The Bank recognizes that there are many paths toward&#13;
+UHC and does not endorse a particular path or set of organizational or financial arrangements to&#13;
+reach it. Regardless of the path chosen, successful implementation requires that many&#13;
+instruments and institutions be in place. While different paths can be taken to expand coverage,&#13;
+all paths involve implementation challenges. With that in mind, the World Bank launched the&#13;
+Universal Health Coverage Studies Series (UNICO Study Series) to develop knowledge and&#13;
+operational tools designed to help countries tackle these implementation challenges in ways that&#13;
+are fiscally sustainable and that enhance equity and efficiency. The UNICO Studies Series&#13;
+consists of technical papers and country case studies that analyze different issues related to the&#13;
+challenges of UHC policy implementation.&#13;
+The case studies in the series are based on the use of a standardized protocol to analyze the nuts&#13;
+and bolts of programs that have expanded coverage from the bottom upâ&#128;&#148;programs that have&#13;
+started with the poor and vulnerable rather than those initiated in a trickle-down fashion. The&#13;
+protocol consists of nine modules with over 300 questions that are designed to elicit a detailed&#13;
+understanding of how countries are implementing five sets of policies to accomplish the&#13;
+following: (a) manage the benefits package, (b) manage processes to include the poor and&#13;
+vulnerable, (c) nudge efficiency reforms to the provision of care, (d) address new challenges in&#13;
+primary care, and (e) tweak financing mechanisms to align the incentives of different&#13;
+stakeholders in the health sector. To date, the nuts and bolts protocol has been used for two&#13;
+purposes: to create a database comparing programs implemented in different countries, and to&#13;
+produce case studies of programs in 24 developing countries and one high-income â&#128;&#156;comparator,â&#128;&#157;&#13;
+the state of Massachusetts in the United States. The protocol and case studies are being published&#13;
+as part of the UNICO Studies Series, and a comparative analysis will be available in 2013.&#13;
+We trust that the protocol, case studies, and technical papers will provide UHC implementers&#13;
+with an expanded toolbox, make a contribution to discussions about UHC implementation, and&#13;
+that they will inform the UHC movement as it continues to expand worldwide.&#13;
+&#13;
+                                                                               Daniel Cotlear&#13;
+                                                       UNICO Studies Series Task Team Leader&#13;
+                                                                             The World Bank&#13;
+                                                                             Washington, DC&#13;
+&#13;
+                                                                                                ii&#13;
+&amp;#12;                                                          TABLE OF CONTENTS&#13;
+&#13;
+&#13;
+Abbreviations ............................................................................................................................................... iv&#13;
+Executive Summary ...................................................................................................................................... v&#13;
+1. Introduction ............................................................................................................................................ 1&#13;
+2. Institutional Architecture of the SIS ....................................................................................................... 2&#13;
+3. Why Has SIS Failed to Grow into a Broader Program? ......................................................................... 7&#13;
+4. The SIS and Health Governance in the Context of Decentralization and Epidemiological Transition 11&#13;
+5. Pending Agenda ................................................................................................................................... 14&#13;
+Annex 1 Overview of Peruâ&#128;&#153;s Health System, including Financing and Delivery....................................... 18&#13;
+Annex 2 Brief Description of Public Health, Primary Care, and Supply Efforts ....................................... 20&#13;
+Annex 3 Spider Web ................................................................................................................................... 22&#13;
+References ................................................................................................................................................... 25&#13;
+&#13;
+&#13;
+FIGURES&#13;
+Figure 1 Evolution of Public Spending on Health, Peru, 2001â&#128;&#147;10 ............................................................... 8&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                             iii&#13;
+&amp;#12;                                  Abbreviations&#13;
+&#13;
+&#13;
+AUS       Universal Health Insurance Law&#13;
+CLAS      Local Health Administration Committees, ComitÃ©s Locales de AdministraciÃ³n de&#13;
+          Salud&#13;
+DIRESAs   Regional Directorates for Health&#13;
+EsSalud   the social security system (Peru)&#13;
+GDP       gross domestic product&#13;
+JUNTOS    Peruâ&#128;&#153;s conditional cash transfer program&#13;
+LAC       Latin America and the Caribbean&#13;
+MEF       Ministry of the Economy and Finance&#13;
+MOH       Ministry of Health&#13;
+PEAS      Essential Health Assurance Plan, Plan Esencial de Aseguramiento en Salud&#13;
+SAMU      Mobile Urgency Medical Care, Servicio de AtenciÃ³n MÃ©dica de Urgencias&#13;
+SERUMS    the mandatory program in Peru that requires graduates who want to work in the&#13;
+          public system to serve in rural areas&#13;
+SIS       Comprehensive Health Insurance, Seguro Integral de Salud&#13;
+SISFOH    National Household Targeting System&#13;
+SUNASA    National Superintendent of Health&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                     iv&#13;
+&amp;#12;Executive Summary&#13;
+&#13;
+In the last two decades, Peru has made significant progress in improving maternal and child&#13;
+health, although health inequities remain in rural areas and among indigenous populations. The&#13;
+epidemiological transition toward noncommunicable diseases poses challenges, as well. Peruâ&#128;&#153;s&#13;
+health system is segmented, and it is comprised of public facilities administered by the&#13;
+decentralized Ministry of Health (Ministerio de Salud, MOH), the social security system, and the&#13;
+private sector, which accounts for 40 percent of spending. Established 10 years ago in parallelâ&#128;&#148;&#13;
+although uncoordinatedâ&#128;&#148;with the countryâ&#128;&#153;s decentralization reforms, the Comprehensive Health&#13;
+Insurance (Seguro Integral de Salud, SIS) has been Peruâ&#128;&#153;s major effort to expand health coverage.&#13;
+&#13;
+The SIS aims to reduce economic barriers through the elimination of user fees for a package of&#13;
+services. Although its budget has been low, the SIS has played an important role in the reduction&#13;
+of maternal and child mortality. However, the improvements expected to the overall health&#13;
+system have not materialized. Meanwhile, when the decentralization process transferred funds&#13;
+and authority to the regions, it did so in a context of weak management capabilities, and it failed&#13;
+to clearly define the relationship between the national and regional governments.&#13;
+&#13;
+What is needed is a substantial and sustained effort to improve coverage with a comprehensive&#13;
+approachâ&#128;&#148;one that integrates national and regional health priorities but that allows for flexibility&#13;
+within networks and health facilities and establishes clear incentives as a means to achieve&#13;
+desired results. The SIS appears to be the best vehicle through which to achieve this approach,&#13;
+and it would be feasible to incorporate into it the â&#128;&#156;Health Strategies.â&#128;&#157; Indeed, the SIS has the&#13;
+advantages of a broad package and the use of instruments that provide greater administrative&#13;
+flexibility, and it has the potential to use incentives.&#13;
+&#13;
+The inequity of basic care demands a special effort to improve the coverage and effectiveness of&#13;
+care in rural areas, where one-quarter of Peruâ&#128;&#153;s population lives. In these areas, it is necessary to&#13;
+integrate SIS efforts with adequate human resource policies.&#13;
+&#13;
+In Lima, where 30 percent of the countryâ&#128;&#153;s population lives, the challenge is no longer providing&#13;
+basic care, but rather responding to noncommunicable diseases through promotion, prevention,&#13;
+and early detection. To achieve this, the following strategies are necessary: (a) increased&#13;
+noncommunicable disease awareness; (b) integrated public health programs that are designed to&#13;
+address all stages of prevalent chronic diseases; and (c) a single purchaser, like the SIS, to&#13;
+procure services from multiple providers.&#13;
+&#13;
+A major effort to strengthen the technical capacity of the MOH should accompany the strategies&#13;
+outlined above. This effort should emphasize a review of health priorities, the design of effective&#13;
+interventions within a fiscally sustainable benefits package, and the introduction of incentives&#13;
+and new payment mechanisms at hospitals and other health facilities.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                   v&#13;
+&amp;#12;vi&#13;
+&amp;#12;1. Introduction&#13;
+&#13;
+This case study analyzes the progress of Peruâ&#128;&#153;s Comprehensive Health Insurance (SIS) and&#13;
+evaluates the challenges that remain to achieving universal health care coverage.&#13;
+&#13;
+Peru is an upper-middle-income country with a gross domestic product (GDP) per capita of just&#13;
+over US$10,000 (purchasing power parity). The country has grown rapidly in the last decade; the&#13;
+average growth rate was 6.5 percent. However, 28 percent of the population lives in poverty&#13;
+(2011), which is estimated with regionally differentiated poverty lines between US$1 and US$2&#13;
+per capita per day. In addition, only one in four individuals has employment with social security&#13;
+coverage.&#13;
+&#13;
+Income inequality measured by the Gini Coefficient is close to 0.60, and there are high&#13;
+inequalities in human development indicators (education and health) and in access to basic&#13;
+services, such as water and sanitation. The Human Opportunity Index ranks Peru 13th out of 17&#13;
+countries in the region. Inequalities in income, human development indicators, and access to&#13;
+services are present both among socioeconomic strata and among regions (the coast compared to&#13;
+Sierra and Amazon, urban compared to rural). Discrimination against women and the exclusion&#13;
+of indigenous populations is also a problem.&#13;
+&#13;
+As an upper-middle-income country, Peruâ&#128;&#153;s mortality indicators (under 1 year = 14.9, under 5&#13;
+years = 19.2, maternal mortality = 67) and life expectancy (73.8) are within the average for&#13;
+countries with similar economic indicators (2010 data). Advances in child mortality have been&#13;
+great in the last decade. The country, however, lags in child malnutrition, which reached 28.2 in&#13;
+2010, and is associated with poverty, inequality, and a lack of access to basic services. In all&#13;
+these indicators, regional differences are large. In Huancavelica, a poor mountainous region, life&#13;
+expectancy is 61 years, whereas in Metropolitan Lima it is 79; chronic malnutrition is 41 percent&#13;
+in rural areas and only 7.5 percent in urban Lima; and infant mortality is 10 per 1,000 in the&#13;
+highest-income quintile but 42 in the lowest.&#13;
+&#13;
+After Haiti, Peru has the second-highest incidence of tuberculosis in the Latin America and&#13;
+Caribbean (LAC) region, and many cases are multi-drug-resistant and extra-drug-resistant.&#13;
+However, the epidemiological transition has already advanced, and 60 percent of deaths are the&#13;
+result of noncommunicable diseases.&#13;
+&#13;
+Health service coverage is similar to other average upper-middle-income countries in terms of&#13;
+basic care, such as immunizations (93 percent), prenatal care (95 percent of women make at least&#13;
+one visit), and contraceptive use (73 percent), but is lower than expected when it comes to more&#13;
+complicated services such as institutional deliveries (84 percent). Primary care has been the&#13;
+focus of programs for several decades, which may account for these statistics. However, there&#13;
+have been fewer resources designated for the health system, in general, with a total expenditure&#13;
+of only 5 percent of GDP. Just 54 percent of this expenditure goes to the public system. The&#13;
+number of doctors, nurses, and beds per capita are considerably lower than average upper-&#13;
+middle-income countries, and there is a general shortage of medical specialists. Resources are&#13;
+also heavily concentrated in Lima and in other cities, so that there are deficits in care in the&#13;
+highlands and in the Amazon and among indigenous populations.&#13;
+&#13;
+                                                                                                1&#13;
+&amp;#12;The health system is segmented and is composed of the parallel and low-funded MOH and social&#13;
+security systems and the private sector. Spending in the private sector represents 40 percent of all&#13;
+health spending, and this spending is primarily on pharmaceuticals (Francke, Arroyo, y GuzmÃ¡n&#13;
+2006). Through its decentralized Regional Directorates for Health (DIRESAS), the MOH has the&#13;
+largest network of hospitals and primary care health centers that provide health care for the poor.&#13;
+Coverage in rural areas is more limited, however, and, given the low funding for the public&#13;
+system, there is high out-of-pocket spending on medicines.&#13;
+&#13;
+Established in 2002, Peruâ&#128;&#153;s SIS was designed to expand health coverage by reducing economic&#13;
+barriers through the elimination of user fees for a package of services. The SIS also implemented&#13;
+policies and management systems that centered on results and incentives. Originally, the SIS was&#13;
+considered a marginal reform, and its budgetâ&#128;&#148;less than 10 percent of the total directed for the&#13;
+MOH/DIRESAsâ&#128;&#148;reflected this. While the SIS has played an important role in the reduction of&#13;
+maternal and child mortality, it has failed to make the reforms to the system that were initially&#13;
+expected. Consequently, a new policy, Universal Health Insurance (AUS), was approved in 2009&#13;
+and 2010 and was intended to be a more holistic approach to health reform. To date, there has&#13;
+been little progress in the implementation of the new policy.&#13;
+&#13;
+This case study will discuss in detail the interaction between Peruâ&#128;&#153;s decentralization reforms and&#13;
+the SIS, and will specifically highlight how this interaction has altered the health systemâ&#128;&#153;s&#13;
+regulation capacity and the purchase and delivery of services.&#13;
+&#13;
+The decentralization of the countryâ&#128;&#153;s health system occurred in 2004 and 2005, during which the&#13;
+administration of public health facilities and the ability to implement health policy was&#13;
+transferred from the central MOH to the regional governments. Facilities in Lima, however,&#13;
+continued to be administered under the central MOH. While the introduction of the SIS was&#13;
+intended to strengthen and modernize the MOHâ&#128;&#153;s oversight of the public health system, the&#13;
+decentralization reforms ultimately weakened the ministry because they failed to clearly outline&#13;
+the relationship between the central MOH and the DIRESAs. Meanwhile, EsSalud, the social&#13;
+security system, remains separated from MOH and centralized.&#13;
+&#13;
+See Annex 1 for an overview of Peruâ&#128;&#153;s health system, including financing and delivery.&#13;
+&#13;
+2. Institutional Architecture of the SIS&#13;
+&#13;
+Brief Description of the SIS&#13;
+&#13;
+The SIS was implemented on the heels of a change in government with the fall of Alberto&#13;
+Fujimori and the subsequent return to democracy in 2001. Civic groupsâ&#128;&#148;such as the Medical&#13;
+Society and the Civil Society Forum on Healthâ&#128;&#148;emerged during this time and advocated for&#13;
+policies promoting the right to health and the reduction of user fees (Conferencia Nacional de&#13;
+Salud 2003; Francke 2006). The SIS was ultimately based on two consolidated but strengthened&#13;
+existing programs: the Maternal-Child and Scholar Schemes.&#13;
+&#13;
+The SIS aims to eliminate direct user fees in public health facilities. These fees posedâ&#128;&#148;and still&#13;
+poseâ&#128;&#148;a major economic barrier in health service access (Ewig 2012). The SIS introduces a new&#13;
+&#13;
+                                                                                                  2&#13;
+&amp;#12;financial mechanism to pay for public health care and drug delivery, transferring funds to&#13;
+hospitals and public health networks under a scheme of payment for services, which are defined&#13;
+within a care plan (there is a small part of the payment that is not related to care). Payment for&#13;
+service is calculated only to cover the variable costs of inputs, and does not include capital&#13;
+(infrastructure and equipment) or staff, whose costs are covered by other budget lines.&#13;
+&#13;
+The SIS is obligated to provide to affiliates free care of the risks and services included in the&#13;
+insurance scheme. Hospitals and health centers are not permitted to charge user fees for&#13;
+providing the benefits package for SIS beneficiaries, and instead they receive payment from the&#13;
+SIS. Thus, the incentive to charge user fees is diminished or even eliminated. In addition, the SIS&#13;
+incentivizes public hospitals and health centers to orient their services to those included in the&#13;
+insurance schemeâ&#128;&#153;s benefits package.&#13;
+&#13;
+SIS and Health Outcomes&#13;
+&#13;
+The SIS has augmented the demand for health services that are included in the benefits package.&#13;
+Indeed, the inclusion of childbirth has increased the incidence of institutional delivery. In 2000,&#13;
+only 24 percent of births in rural areas and only 58 percent in urban areas occurred in health&#13;
+facilities. Today, 58 percent of rural and 85 percent of urban births take place at a medical&#13;
+institution (INEI 2012). This increase in institutional delivery has been associated with a&#13;
+significant reduction in Peruâ&#128;&#153;s maternal mortality ratio; in the last 10 years, the maternal&#13;
+mortality ratio has decreased by almost half. However, other factors have contributed to these&#13;
+results.&#13;
+&#13;
+One of the factors is the economic growth registered in the last decade. Since 2001, Peruvian&#13;
+GDP growth has been one of the greatest in LAC (a 5.8 percent average compared to the LAC&#13;
+4.2 percent average), while maintaining one of the lowest rates of inflation in the region (a 2.5&#13;
+percent average compared to 8.0 percent in LAC) and accumulating a substantial amount of&#13;
+international reserves. Mainly due to GDP growth, since 2007 poverty has declined from 42&#13;
+percent to 28 percent (2011). While in rural areas poverty has only been reduced from 74 percent&#13;
+to 56 percent, mean per capita expenditures of rural households have grown by 25 percent. The&#13;
+reduced poverty allows families to more easily cover transportation and other opportunity costs,&#13;
+increasing demand for health services and improving access to drugs, food, and shelter.&#13;
+&#13;
+Also, there have been advances in the education of women and subsequent declines in the&#13;
+fertility rate that also contribute to decreases in maternal mortality.&#13;
+&#13;
+Finally, health services have been reinforced in rural areas. Institutional deliveries require&#13;
+physicians, safe blood transfusions, inputs, and medication in rural areas where supply and&#13;
+response capacity have been weak. International aid organizations and the Peruvian government&#13;
+(using some of the increased fiscal revenues brought in by economic growth) have introduced&#13;
+initiatives, such as PARSALUD, which have aimed to improve maternal care through&#13;
+infrastructure, equipment, human resources and the incorporation of culturally sensitive birthing&#13;
+practices.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                 3&#13;
+&amp;#12;The rapid expansion of coverage and the reduction of maternal mortality demonstrate that it is&#13;
+possible to improve health services of medium complexity in rural areas. The increase of&#13;
+programs to improve the supply of maternal care and the increase in demand via the SIS have&#13;
+proven to be a winning combination. (See Annex 2 for a description of public health, primary&#13;
+care, and supply efforts.)&#13;
+&#13;
+Targeting, Identification, and Enrolment of Beneficiaries&#13;
+&#13;
+The law that created the SIS established that the target populations of the program were the poor&#13;
+and vulnerable. Indeed, the objective of the SIS is â&#128;&#156;to promote equitable access to quality health&#13;
+services with priority given to uninsured individuals and vulnerable populations living in poverty&#13;
+and extreme poverty.â&#128;&#157; A targeting procedure is therefore required when individuals register with&#13;
+the SIS and, depending on their income, they become affiliated with either the fully subsidized or&#13;
+semicontributory regimes.&#13;
+&#13;
+Individuals that want to become affiliated to SIS apply at health facilities. To identify the&#13;
+socioeconomic level of families, health facilities use the Socio-economic Evaluation Sheet&#13;
+(Ficha de EvaluaciÃ³n SocioeconÃ³mica), which is a proxy means test that distinguishes between&#13;
+the poor and the extreme poor and then categorizes the new affiliates into the semicontributory&#13;
+and fully subsidized regimes, accordingly. There is little supervision or quality control over the&#13;
+application process, however, and the categories of exclusion from the SISâ&#128;&#148;such as affiliation&#13;
+with EsSalud, the social security system, or even a microloanâ&#128;&#148;have been criticized as&#13;
+inadequate.&#13;
+&#13;
+The SIS did make a concerted effort to target poor, rural districts that the government had&#13;
+prioritized in 2007 and 2008. These targeting efforts, however, have not been applied broadly.&#13;
+&#13;
+The nonpoor are allowed to join the SIS but must pay a fee and enroll in the semicontributory&#13;
+scheme. In addition, they are required to register at the SISâ&#128;&#153;s regional officeâ&#128;&#148;the ODSISâ&#128;&#148;&#13;
+rather than at a health establishment. These enrolment requirements, combined with a generally&#13;
+low quality of service and the relatively unfamiliar concept of insurance, leaves the portion of&#13;
+SIS policyholders that contribute to the system at less than 2 percent.&#13;
+&#13;
+As a result, the SIS has fairly good targeting indicators for the Peruvian context, with 15.6&#13;
+percent undercoverage and 12.1 percent leakage (ArrÃ³spide, Rozas, and Valderrama 2009). A&#13;
+study examining the concentration indexes of various social programs and health care found that&#13;
+in 2004, the SIS had a concentration index of -0.08 compared with an average of the MOH of +&#13;
+0.09 (where hospital care is the least redistributive). These statistics were similar to programs&#13;
+like Glass of Milk, but were less redistributive than the average welfare expenditure of -0.18&#13;
+(World Bank 2007).&#13;
+&#13;
+In the future, the SIS will use the National Household Targeting System (SISFOH), a single&#13;
+targeting mechanism that the government uses for different social programs. Implementation of&#13;
+the SISFOH is proceeding slowly, however, and is being used in the poorest regions for the&#13;
+countryâ&#128;&#153;s noncontributory pension scheme (PensiÃ³n 65) and its conditional cash transfer&#13;
+program (JUNTOS). In order to exclude middle-income households and prevent leakages, the&#13;
+&#13;
+                                                                                                4&#13;
+&amp;#12;SISFOH has compiled a database of households in Lima. Implementation problems have&#13;
+prevented the SISâ&#128;&#153;s broad use of this database, however.&#13;
+&#13;
+The Administration of Public Funds and Budget Management in the SIS&#13;
+&#13;
+The public budget in Peru is managed on the basis of an annual budget, particularly in relation to&#13;
+current expenditure programs, like the SIS. The Ministry of Economy and Finance (MEF)&#13;
+formulates the budget that is approved by Congress but cannot make additions to it. The MEF&#13;
+manages the budget by transferring monthly allotments into the bank accounts of public entities.&#13;
+These allotments fall within the budget ceiling, which may not be exceeded. Like the rest of the&#13;
+public sector, the SIS is funded in this manner.&#13;
+&#13;
+Within each institution, there are restrictions on the use of public funds. The amount designated&#13;
+for salaries, for example, cannot be increased, and funds allocated for investments cannot be&#13;
+transferred to expenditures. Resources obtained through user fees are much more flexible,&#13;
+allowing each entity to add them with few limitations on the budget.&#13;
+&#13;
+The SIS was created as an autonomous entity with a budget allocated directly from the MEF&#13;
+without requiring previous MOH approval, and can manage its budget autonomously. This&#13;
+arrangement allows the MEF to maintain the ability to assess and decide how much funds&#13;
+allocate to the entire health sector, and gives it the power to decide how much of the public&#13;
+health budget to allocate to autonomous SIS. The MEF, thus, retains control over the SISâ&#128;&#153;s&#13;
+possible expansion.&#13;
+&#13;
+Subsequent developments show that the MEF has not clearly endorsed the SIS. Rather, it has&#13;
+expanded its budget only when there has been ample fiscal space. The SIS, consequently, has on&#13;
+several occasions run arrears on payments indebted to hospitals and health centers. This can be&#13;
+understood as the MEFâ&#128;&#153;s response to a program, like the SIS, which generates financial risks&#13;
+(increasing high-cost provider services, for example), a response, moreover, that clearly signals&#13;
+that the MEF is unwilling to take the burden of such risks.&#13;
+&#13;
+Does the SIS Allow for Greater Flexibility in the Management of Funds by Health Services?&#13;
+&#13;
+Relative to the regular budget (funds from the treasury), the SIS does provide some additional&#13;
+flexibility in the management of funds. Specifically, it allows implementation units (that&#13;
+comprise a hospital and/or a network of health centers) to flexibly incorporate funds into their&#13;
+budgets throughout the year and thus permits spending on the items that are considered necessary.&#13;
+These budget transfers require several bureaucratic procedures.&#13;
+&#13;
+However, the SISâ&#128;&#153;s additional budget transfers partly replace the funds previously generated&#13;
+from user fees. The revenue from user fees can, in general, be used much more flexibly than the&#13;
+SISâ&#128;&#153;s resources, because the MEF does not need to control those expenditures since they do not&#13;
+affect the fiscal deficit (the expenditures are backed by their own incomes). In addition, the SISâ&#128;&#153;s&#13;
+resources go to implementation units (provincial administrative headquarters) and not directly to&#13;
+the health facilities. User fees, conversely, are often used directly by health facilities, although&#13;
+the law requires them to be sent to the administrative headquarters where they are supposed to be&#13;
+&#13;
+                                                                                                  5&#13;
+&amp;#12;distributed to rural facilities where input is low. By replacing user fees with fiscal transfers, and&#13;
+given the limitations described above, it cannot be asserted that the SIS has improved&#13;
+administrative flexibility in the management of health services.&#13;
+&#13;
+It is important to compare the effects of the SIS with those of the Local Health Administration&#13;
+Committees (CLAS). The CLAS model was promoted from 1994 to 2002, and accounts for a&#13;
+third of all public health facilities in Peru. The committees were composed of six community&#13;
+leaders and the health center director. The CLAS received MOH funds in exchange for&#13;
+proposing, signing, and implementing a local health plan. Moreover, the CLAS could spend the&#13;
+funds flexiblyâ&#128;&#148;similarly to a private companyâ&#128;&#148;prioritizing certain items and making buying&#13;
+and hiring decisions outside the rules that govern the public sector (Cotlear 2006).&#13;
+&#13;
+This flexibility given to CLAS was greater than that of the SIS and the general budget rules for&#13;
+the health facilities. The greater flexibility that the CLAS model gave to health centers and posts&#13;
+(hospitals were not included) coupled with citizen participation improved accountability&#13;
+(Francke 2007) and increased efficiency and quality, as several studies have confirmed (Cortez&#13;
+1998). In the last 10 years, however, the CLAS model has lost much of its autonomy, and hiring&#13;
+decisions must abide by the inflexible civil service rules that apply throughout the public sector.&#13;
+In addition, the MOH has withdrawn its support of the CLAS, and the model, consequently, is no&#13;
+longer an element of health reform.&#13;
+&#13;
+The Road to Reform: From the SIS to the AUS and Beyond&#13;
+&#13;
+SIS reform has only been â&#128;&#156;at the marginâ&#128;&#157; rather than a structural health system reform (Ewig&#13;
+2012). Three issues support this evaluation. The rates paid by SIS do not include capital or&#13;
+human resource costs. The SIS benefits package applied more generally, the Prioritized List of&#13;
+Health Interventions, covers only 20 percent of the calculated disease burden. Until mid-2012,&#13;
+the SIS interacted only with MOH or DIRESA health facilities, excluding those from the social&#13;
+security system or the private sector.&#13;
+&#13;
+Even as a marginal reform, the SIS has initiated substantial change, especially in the realm of&#13;
+paymentâ&#128;&#148;transitioning from payment for inputs as budget items, to payment for services&#13;
+rendered. Prior to the SIS, and with the MOH as the regulator, the capacity to adopt these&#13;
+payment changes was nonexistent. In addition, providersâ&#128;&#148;hospitals, health centers, and&#13;
+networksâ&#128;&#148;experienced extended user fees and did not yet have the protocol requirements and&#13;
+quality audits that the SIS has since required.&#13;
+&#13;
+Seven years after implementation of the SIS, the Universal Health Insurance Law (AUS) was&#13;
+approved in 2009 and regulations issued in 2010. The AUS is focused on a general reform of the&#13;
+health system and included (a) establishment of a minimum for all insurance plans (including&#13;
+those from the private sector and the social security system), (b) creation of a public supervisory&#13;
+body to monitor the quality of insurers and providers (SUNASA), and (c) the possibility that the&#13;
+SIS or another public insurance scheme purchase services from private providers. The MOH&#13;
+later approved the Essential Health Assurance Plan (Plan Esencial de Aseguramiento en Salud,&#13;
+PEAS), which established an insurance minimum and required that it cover approximately 65&#13;
+percent of the causes of morbidity (compared to the 20 percent of the Prioritized List of Health&#13;
+&#13;
+                                                                                                   6&#13;
+&amp;#12;Interventions). The MOH also set forth an eight-year, progressive implementation plan of PEAS&#13;
+that began in the poorest regions and included Chilean-style â&#128;&#156;explicit guarantees.â&#128;&#157; These&#13;
+guarantees affirm that if the state cannot provide the services within the plan, SIS policyholders&#13;
+can access services from another provider and be reimbursed.&#13;
+&#13;
+The AUS has advanced very little, however. The budget increase necessary to finance the PEAS&#13;
+has not materialized, and the MOH/DIRESA allocates less than 10 percent of the budget to the&#13;
+SISâ&#128;&#148;approximately the same percentage that the countryâ&#128;&#153;s only cancer hospital receives. In&#13;
+2010, and with the general elections on the horizon, President GarcÃ­a changed course and&#13;
+decided to first implement the PEAS in Lima, rather than in the poorest regions. The procedures&#13;
+to integrate individuals from the SISâ&#128;&#153;s Prioritized List of Health Interventions to the AUSâ&#128;&#153;s&#13;
+PEAS have been confusing and have thus advanced slowly.&#13;
+&#13;
+In addition, the government that came to power in 2011 has prioritized neither the AUS nor the&#13;
+SIS. The main improvement of SIS is that it has recently begun to purchase services from&#13;
+providers other than the MOH/DIRESA, a new policy launched in the context of a physicianâ&#128;&#153;s&#13;
+strike that opens the way for a broader role of the SIS as an insurer that buys services and&#13;
+promotes efficiency and competition in the market. The SIS now purchases services from the&#13;
+Municipality of Limaâ&#128;&#153;s Solidarity Hospitals.&#13;
+&#13;
+In the main health services government initiative, Plan Esperanza, for cancer patients, SIS plays&#13;
+a marginal role, since another government body (the National Cancer Institute, Instituto de&#13;
+Enfermedades NeoplÃ¡sicas) has the main responsibility for it. The other initiative in public health&#13;
+that the government launched, the Mobile Urgency Medical Care (SAMU), was also not linked&#13;
+to SIS and has advanced slowly. Plan Esperanza begins to address the burden of&#13;
+noncommunicable diseases brought by the epidemiological transition; however, it has the great&#13;
+challenges of integrating both curative and preventive interventions and of reaching poor regions&#13;
+and rural areas where response capacity to diagnose and treat cancer is almost nonexistent. A&#13;
+greater issue is whether Plan Esperanza will be the beginning of a more comprehensive approach&#13;
+to noncommunicable diseases or will follow the path of multiplying uncoordinated health&#13;
+programs.&#13;
+&#13;
+3. Why Has SIS Failed to Grow into a Broader Program?&#13;
+&#13;
+In contrast to the MOH/DIRESA budgets, which have increased over time, the SIS has not had a&#13;
+significant backing of funds (less than 1 percent nonfinancial public spending, and 8 percent of&#13;
+the health budget). The SISâ&#128;&#153;s budget has been unstable and actually decreased in nominal terms&#13;
+from 2005 to 2006. The SISâ&#128;&#153;s budget has also failed to respond to expansions in its benefits&#13;
+package.&#13;
+&#13;
+Figure 1 illustrates the evolution of public spending on health between 2001 and 2010. The&#13;
+figure shows that, following implementation of the SIS in 2002, public expenditure on health&#13;
+(including spending on EsSalud and the MOH) did not increase significantly in the subsequent&#13;
+two to three yearsâ&#128;&#148;years that were marked by fiscal constraints due to low economic growth.&#13;
+The crowding out of private spending, which could be expected due to the SISâ&#128;&#153;s offer to increase&#13;
+low-cost or free services, did not occur.&#13;
+&#13;
+                                                                                                 7&#13;
+&amp;#12;Public spending on health increased between 2006 and 2008. These were years of high growth,&#13;
+which boosted social security contributions and expanded fiscal space, thus increasing the SISâ&#128;&#153;s&#13;
+budget from 270 soles in 2005 to 440 million soles in 2008. The 2008â&#128;&#147;09 international economic&#13;
+crisis halted economic growth in 2009, which also slowed the expansion of the SISâ&#128;&#153;s budget. The&#13;
+decreased public spending on health during 2009 and 2010 was primarily due to a government&#13;
+policy that reduced social security contributions by 14 percent, a decision taken in the aftermath&#13;
+of the international financial crisis of 2008.&#13;
+&#13;
+                 Figure 1 Evolution of Public Spending on Health, Peru, 2001â&#128;&#147;10&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+The fact that SIS has not had a significant budget nor improved public health financing must be&#13;
+analyzed in the broader context of MEF decisions on budget priorities and procedures. Since&#13;
+2006 or 2007, the MEF has pursued an initiative for improving the budgeting process first called&#13;
+â&#128;&#156;Budgeting for Resultsâ&#128;&#157; and now called â&#128;&#156;Quality Spending.â&#128;&#157; This initiative aims to promote&#13;
+public programs that have defined objectives and logical frameworks and indicators, and that&#13;
+emphasize monitoring systems and conducting independent evaluations. This initiative, however,&#13;
+has not altered the mechanism by which the MEF allocates resources due to a lack of incentives&#13;
+on the part of both the MEF and the programs that are allocated funding. However, as a result of&#13;
+this initiative, in health the MEF has allocated funds to programs with more specific goals, such&#13;
+as maternal and child health, tuberculosis, and malaria, rather than to the SIS with its broadly&#13;
+defined benefits package. Consequently, these vertical programs have a budget for 2012 that is&#13;
+three times greater than the SISâ&#128;&#153;s budget.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                8&#13;
+&amp;#12;So, the legal approval of SIS and its benefits package, formally supported by several presidents&#13;
+and governments, has not resulted in significant funding or in a substantial increase of public&#13;
+health expenditures. How this contradiction can be explained?&#13;
+&#13;
+Management of SISâ&#128;&#153;s Benefits Package&#13;
+&#13;
+A first question to ask is by what process has the benefits package been defined, a decision that&#13;
+logically should be closely correlated with the budget allocated to SIS. The truth is that definite&#13;
+timelines and procedures to review the SISâ&#128;&#153;s benefits package do not exist. In addition, the initial&#13;
+package and also the posterior broadened packages were not based on complete, explicit, or well-&#13;
+defined criteria. They tend to exclude complex diseases and high-cost treatments. A new law,&#13;
+however, is considering the addition of these diseases and treatments to the SISâ&#128;&#153;s benefits&#13;
+package.&#13;
+&#13;
+The MOH defined the SISâ&#128;&#153;s benefits package with little coordination with the MEF. Initially,&#13;
+there were several partial packages for different age groups (especially mother and child and&#13;
+adolescents) and special populations. Several years later, the SIS established its first&#13;
+comprehensive benefits package called the â&#128;&#156;Prioritized List of Health Interventions,â&#128;&#157; which&#13;
+covers an estimated 20 to 25 percent of the disease burden.&#13;
+&#13;
+In general, the determination of the benefits package has not ensured a balance among risk,&#13;
+included services, and the budget (Forosalud 2005). Furthermore, there is no relationship among&#13;
+the number of SIS affiliates, the cost of the benefits package, and the provided funds. The SIS&#13;
+budget is historically based, and the initial budget was determined without calculating the cost of&#13;
+the benefits package.&#13;
+&#13;
+How were (and are) these decisions made? The Peruvian Constitution requires that the Congress&#13;
+approve the SIS budget. However, Congress has never amended the budget or examined whether&#13;
+the budget allocated by the MEF is sufficient to cover the costs of the SISâ&#128;&#153;s benefits package.&#13;
+Moreover, the Constitution prohibits Congress from approving additional expenses to the budget.&#13;
+Thus, any proposal to expand the budget to cover the costs of the SISâ&#128;&#153;s benefits package would&#13;
+require MEF approval.&#13;
+&#13;
+How, then, is the equilibrium between SISâ&#128;&#153;s budget and services provided restored? To contain&#13;
+costs, some health services are excluded and reimbursement rates are defined explicitly for&#13;
+public health establishments. Nevertheless, there are no beneficiary caps or payment mechanisms&#13;
+that promote efficiency or effectiveness. Fee-for-service, conversely, which actually incentivizes&#13;
+spending, exists at hospitals. The existence of a maximum budget results in implicit (not explicit)&#13;
+budget caps, and regional administrators must implement cost-control measures, such as ceasing&#13;
+to provide certain services, medicines, tests, and procedures. Such measures often result in the&#13;
+practice of informal payments and copayments.&#13;
+&#13;
+A new benefits package, the Essential Health Services Plan (PEAS), was defined in 2010 and is&#13;
+estimated to cover 65 percent of the disease burden. With the support of international agencies,&#13;
+the PEAS package did use costing as a basis; calculations included epidemiological estimates of&#13;
+high-risk conditions based on a previous study of the disease burden, the standard care for&#13;
+&#13;
+                                                                                                  9&#13;
+&amp;#12;packages associated with these conditions, and the cost of direct inputs plus an approximation of&#13;
+indirect costs. The lack of coordination among the defined benefits package, the implementation&#13;
+plan, and the budget process, however, has hindered effective implementation of the PEAS.&#13;
+&#13;
+The effects of an increased budget and package for SIS must also take into account supply&#13;
+constraints. In poor and rural areas, there is a deficit of health services to effectively cover the&#13;
+broader PEAS package, which includes inpatient hospital services. This is particularly important&#13;
+because expenditure distribution studies clearly indicate that while care at health centers in rural&#13;
+areas is progressive, hospital care is actually regressive because it primarily reaches only urban&#13;
+populations. Increasing the SIS package to complex services and increasing its budget but&#13;
+without considering the rural supply constraints might easily be a way to canalize resources not&#13;
+to the poorest and neediest but to the urban middle classes.&#13;
+&#13;
+To make the SIS into a mechanism to achieve universal health care, its benefits package must&#13;
+also include complex care. In addition, access barriers in rural areas must be addressed. These&#13;
+barriers include facilitating patient transfers, covering the costs of waiting for care (hotel stays)&#13;
+and family accompaniment, increasing response capacity of specialists in rural areas, expanding&#13;
+diagnostic equipment, and training physicians in new techniques for outpatient surgery. These&#13;
+same barriers also hinder the new governmentâ&#128;&#153;s efforts to implement a national cancer program.&#13;
+&#13;
+Balance of Power within the Government&#13;
+&#13;
+However, to fully understand why SIS has not become a broader program, a broader view of&#13;
+national institutions must be included in the analysis. While the Minister of Health is politically&#13;
+responsible, the head of the SIS is appointed by the President of Peru, and the Minister of Health&#13;
+and has administrative and budgetary autonomy (the MOH cannot provide those funds for other&#13;
+uses). Given its autonomy, the SIS has the potential to become the â&#128;&#156;championâ&#128;&#157; of health&#13;
+coverage extension. However, this has not happened in practice, and the head of the SIS&#13;
+regularly reports to the Minister of Health and has not become a strong independent authority.&#13;
+&#13;
+The SIS is not the only autonomous body of recent creation in public health. With the AUS law&#13;
+in 2009, the National Superintendent of Health (SUNASA) was created, with the task of&#13;
+monitoring the quality of both health services and insurance plans. While separating the duties of&#13;
+the SIS and the SUNASA is intended to strengthen the supervision of service and plan quality,&#13;
+this division of steering and supervisory duties has just been initiated, and the coordination&#13;
+between SIS and SUNASA is a challenge and the outcome of this policy is still to be seen. Until&#13;
+now, the SIS has not played an active role in the effort to improve the quality of health services,&#13;
+and has not established requirements or incentives for the payment of services based on quality&#13;
+improvements.&#13;
+&#13;
+Another important institutional issue is that, due to decentralization, regional health directorates&#13;
+outside of Lima have been separated from the direct administrative authority of the MOH, and its&#13;
+regulation is weak. This separation has not been accompanied by new mechanisms that ensure&#13;
+compliance with the governing and regulatory role of the MOH. The SIS, therefore, could&#13;
+become one of the main operating arms the MOH employs to guide and regulate the supply of&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                  10&#13;
+&amp;#12;health services at public facilities. However, as already mentioned, the MEF has not endorsed&#13;
+SIS, and the MOH has other mechanisms to relate with the regions.&#13;
+&#13;
+One political consequence of the decentralization in health without a clear division of&#13;
+responsibilities between central and regional governments is that electoral accountability of&#13;
+health outcomes becomes blurred. Citizens cannot establish whether the performance of health&#13;
+services, including SIS, is to be assigned to central or regional governments, so the heads of&#13;
+these divisions of government do not have strong incentives to improve them.&#13;
+&#13;
+Citizen Empowerment and the Right to Health&#13;
+&#13;
+By law, the SIS established the right of the poor and excluded populations to join the scheme and&#13;
+their right to receive free health services. However, mechanisms to promote these rights do not&#13;
+exist or are very weak. Institutions and organizations, such as the National Ombudsman and the&#13;
+Civil Society Forum on Health, have conducted studies that highlight the serious deficiencies&#13;
+that still exist within SIS, including cases of discrimination at hospitals against SIS affiliates&#13;
+because hospitals prefer fee-paying patients. And while the MOH has an Office of Health&#13;
+Advocacy and Transparency, it has very little power in Lima and practically none in the regions.&#13;
+&#13;
+In addition, the Peruvian judiciary system is quite slow and expensive, and in general, it does not&#13;
+promote confidence and is not viewed or used as a means to ensure the free health services that&#13;
+the SIS promises (CARE-OXFAM 2005). The Constitutional Court, while backing some isolated&#13;
+and special claims, has not ruled strongly in favor of the right to health, and the Peruvian&#13;
+Government has not complied with rulings by the Inter-American Commission on Human Rights&#13;
+(CIDH).&#13;
+&#13;
+4. The SIS and Health Governance in the Context of Decentralization and&#13;
+Epidemiological Transition&#13;
+&#13;
+In 2002, the Peruvian health system underwent two major, parallel reforms: the creation of the&#13;
+SIS and the decentralization of public health services. SIS was launched in 2002 and has&#13;
+gradually expanded to a bigger (but still reduced) package. Decentralization has been a major&#13;
+reform of public management across sectors; it was initiated in 2002 with the election of&#13;
+autonomous regional governments to which funds, regulations, and services were gradually&#13;
+transferred. The decentralization process of public health was completed between 2004 and 2006.&#13;
+Since then, MOH has direct oversight and administrative power over health care in Lima, while&#13;
+the autonomous regional governments manage health care in the regions through the DIRESAs&#13;
+(ForoSalud 2005).&#13;
+&#13;
+It is important to evaluate these reforms in the context of the countryâ&#128;&#153;s epidemiological transition.&#13;
+The transition clearly indicates that maintaining basic public health activitiesâ&#128;&#148;such as&#13;
+immunizations or tuberculosis treatmentâ&#128;&#148;is still essential, but that the country faces the new&#13;
+challenges of noncommunicable diseases, such as diabetes, cardiovascular disease, and cancer&#13;
+(Lavadenz et al. 2011). Noncommunicable diseases require health-promotion and disease-&#13;
+prevention programs, early detection efforts, attention and periodic checks (secondary prevention)&#13;
+if the patient is high risk, and complex interventions in more advanced stages of the disease.&#13;
+&#13;
+                                                                                                 11&#13;
+&amp;#12;Peruâ&#128;&#153;s rural areas, meanwhile, face challenges in providing adequate maternal and child health&#13;
+care as evidenced by the high levels of infant mortality and malnutrition, which require&#13;
+community and intersectoral interventions. Meeting the unique needs of the countryâ&#128;&#153;s transition,&#13;
+therefore, requires strengthening the entry points to the health system by adding specialists and&#13;
+better, additional testing, and services that are regulated by protocols that establish&#13;
+comprehensive care throughout the health system while containing costs.&#13;
+&#13;
+Decentralization and Stewardship&#13;
+&#13;
+Decentralization was supposed to have simultaneously increased and modernized the MOHâ&#128;&#153;s&#13;
+regulatory capacity. However, clear mechanisms for defining priorities and policies within&#13;
+MOHâ&#128;&#153;s relationship with the DIRESAs were not established.&#13;
+&#13;
+Today, this relationship operates through two mechanisms: (a) the supply of inputs and&#13;
+medicines linked to the DIRESAsâ&#128;&#153; Health Strategies, which must follow established protocols;&#13;
+and (b) the funding from the SIS to cover the services within the care package is borrowed. For&#13;
+the poorest regions, investment and technical support is also provided by PARSALUD. In&#13;
+addition, ministers from the regions hold meetings with the Minister of Health to discuss the&#13;
+direction of health policy, but any agreements made during these meetings are not legally&#13;
+binding.&#13;
+&#13;
+The decentralization reforms also came into conflict with the MOHâ&#128;&#153;s national programsâ&#128;&#148;Health&#13;
+Strategiesâ&#128;&#148;which were once the principal operating arms of the institution, and whose&#13;
+operational and management capacity was diminished after the reforms. Health Strategies today&#13;
+cover a wide range of health problems, but are weak on newer priorities, like mental health and&#13;
+noncommunicable diseases. This is especially true regarding their operating mechanisms.&#13;
+Operationally, the Health Strategies have employed centralized purchasing of supplies and drugs&#13;
+and have weak regulations and supervision.&#13;
+&#13;
+These Health Strategies are superposed to the MEFâ&#128;&#153;s Results Based Budget (Presupuesto por&#13;
+Resultados) initiatives, which provide direct funding to the central and regional governments&#13;
+(specifically to the DIRESAs) without MOH intervention or supervision. The MEFâ&#128;&#153;s direct&#13;
+budget transfers to these strategies thus actually weaken the MOHâ&#128;&#153;s oversight role. As a result,&#13;
+programs such as TB control have suffered from weaker management capacity, and the pace at&#13;
+which incidence of TB was been reduced has decreased.&#13;
+&#13;
+Decentralization, moreover, was implemented without clearly defining the roles of the national&#13;
+and regional governments, and was carried out within a context of weak management capacity in&#13;
+many poor regions. The decentralization reforms also failed to establish clearly how national&#13;
+policies would be applied regionally. In this context, previous alternatives that aimed to improve&#13;
+the MOHâ&#128;&#153;s governance of hospitals and networks, such as management agreements, were&#13;
+weakened until they disappeared altogether. Other reforms that had improved equity and&#13;
+efficiency, like increased local participation through the CLAS, have suffered a similar fate.&#13;
+&#13;
+While decentralization reduced the governance capacity of MOH in the regions, the&#13;
+implementation of SIS gave MOH a new tool for establishing priorities and regulating health&#13;
+&#13;
+                                                                                               12&#13;
+&amp;#12;services. The SIS budget remains centralized, and is transferred to regional governments&#13;
+following the priorities established in the care package and following the conditions (tariffs,&#13;
+quality controls, budget caps, administrative procedures) approved by SIS.&#13;
+&#13;
+However, this partitioned system, with SIS and Health Strategies acting separately, clearly&#13;
+weakens the MOHâ&#128;&#153;s steering capacity. Furthermore, despite the fact that they are both MOH&#13;
+initiatives, there are coordination problems between the SIS and the Health Strategies. Moreover,&#13;
+the funds directed for health that the MEF provides to the regional governments are not subject&#13;
+to the planning, priorities, standards, and supervision of the MOH. So, the institutional design&#13;
+resulting from the decentralization process reduces the MOHâ&#128;&#153;s steering capacity.&#13;
+&#13;
+Challenges in Rural Areas&#13;
+&#13;
+In rural Peru, where more than a quarter of the population still lives, there is high inequity in&#13;
+basic care, with much lesser coverage and worse health outcomes than urban areas. Expanded&#13;
+effective coverage would help address these problems (Lavadenz et al. 2011). In these areas, it is&#13;
+necessary to balance the supply of care with the demand and to integrate SISâ&#128;&#153;s efforts with&#13;
+human resource needs.&#13;
+&#13;
+While significant progress has been made, approaches aimed at promoting demand, such as the&#13;
+SIS and JUNTOS (Francke and Mendoza 2006), face supply deficiencies in rural areas where&#13;
+there is a general lack of professionals and equipment. A special effort to improve health care in&#13;
+rural areas should be a national policy, one developed by the MOH in alliance with regional&#13;
+governments and the DIRESAs.&#13;
+&#13;
+A key challenge in this regard is to ensure that rural and remote provinces have doctors and&#13;
+nurses, although incentives now draw them to cities. In these areas, salaries are the same as they&#13;
+are in urban areas, while the quality of life is lower and the opportunities for training and&#13;
+additional jobs are fewer. Rural areas, therefore, face big difficulties in recruitment and have low&#13;
+staff retention.&#13;
+&#13;
+Is it possible and desirable to integrate human resources policy into the SIS? Thus far, human&#13;
+resources policy and the SIS have been seen as separate things. However, if the SIS is to be the&#13;
+tool used to modernize health care management in Peruâ&#128;&#148;a modernization tool that might&#13;
+include new payment mechanisms and better incentivesâ&#128;&#148;human resource policy should be&#13;
+integrated into any reform efforts.&#13;
+&#13;
+Fees paid by SIS only include â&#128;&#156;variable costsâ&#128;&#157; and do not cover costs associated with human&#13;
+resources or equipment. It is assumed that these costs are already covered in another line of the&#13;
+budget, which is unrealistic in rural areas. A proposal that could be considered is to establish&#13;
+higher payment rates for the SIS in rural areas and to allow some of these additional funds to be&#13;
+used as incentives for health professionals, thus permitting some margin of autonomy for&#13;
+regional governments while following a national human resources policy. This policy proposal&#13;
+prioritizes rural areas and aligns the SIS with decentralization. Peru has had good experiences in&#13;
+the past with incentives to human resources working in rural areas. The Basic Health for All&#13;
+Program in the 1990s, in which health professionals in rural areas received a bonus, enjoyed&#13;
+&#13;
+                                                                                                 13&#13;
+&amp;#12;success, and so did the CLAS with a similar policy, but with this local health boards in charge of&#13;
+contracting and paying. One path to explore is to use these successful experiences as a basis to&#13;
+fund transfers based on the SIS and in accordance with advances in coverage.&#13;
+&#13;
+Lima: Meeting New Epidemiological Challenges&#13;
+&#13;
+In Lima, which has a population of about 9 million (30 percent of the national total), the situation&#13;
+is quite different from in the rural areas. Health services remain dependent on the MOH, and&#13;
+there is a more advanced epidemiological transition (Lavadenz et al. 2011) toward&#13;
+noncommunicable diseases. In addition, the population is wealthier, so private insurance and&#13;
+health services are much more developed. Municipalities have also begun to provide specialized&#13;
+outpatient services by expanding the â&#128;&#156;Solidarity Hospitalâ&#128;&#157; model, a new form of public-private&#13;
+partnerships with small firms.&#13;
+&#13;
+The use of sporadic consultations designed to address acute episodes of illness, predominant&#13;
+today, is highly inefficient in this context. Public health services are provided by health centers&#13;
+that have little capacity to adequately meet diagnostic needs. These services are also unable to&#13;
+focus on the prevailing disease burden.&#13;
+&#13;
+Health policy must respond to Limaâ&#128;&#153;s epidemiological transition and address the challenges of&#13;
+chronic diseases with health promotion, prevention, and early detection campaigns, and with&#13;
+efforts to reorganize health networks and services to meet these demands.&#13;
+&#13;
+At the same time, however, Lima has the advantage of having many MOH health facilities, the&#13;
+EsSalud, the Hospitals of Solidarity, and other municipal and private services. The great&#13;
+challenge then is to (a) increase health promotion for noncommunicable diseases, (b) design&#13;
+public health programs and services that address the new and prevalent chronic diseases from&#13;
+early detection to end-stage care, and (c) use multiple providers and implement a single&#13;
+purchaser, like the SIS.&#13;
+&#13;
+5. Pending Agenda&#13;
+&#13;
+The fundamental policy question is whether the Peruvian government will launch a substantial&#13;
+and sustained effort to improve health coverage, whether this effort will include an insurance&#13;
+scheme with a broad benefits package, and whether the SIS will be the institution to implement it.&#13;
+Until now, SIS has not had the funding and political backing to become the spearhead of&#13;
+increasing coverage and health reform, and both of these objectives have advanced slowly. The&#13;
+new government initiative of Plan Esperanza for cancer has begun to address the challenges of&#13;
+coverage of the burden of noncommunicable diseases, but in a piecemeal way, not as part of a&#13;
+comprehensive package, and not within the SIS.&#13;
+This fundamental policy question is related to another one: what tools will be used to strengthen&#13;
+health governance within the MOHâ&#128;&#153;s relationship with the DIRESAs? Now, health governance&#13;
+institutions are divided into three operating arms: the Health Strategies and the SIS in MOH, and&#13;
+the budget allocation to regions and health programs by MEF. The new Plan Esperanza for&#13;
+&#13;
+&#13;
+                                                                                                 14&#13;
+&amp;#12;cancer relies mainly on another government organization, the National Cancer Institute.&#13;
+Coordination problems between these agencies weaken the steering capacity of health authorities.&#13;
+A new way to set priorities and guide health services is needed that would comprehensively&#13;
+address a variety of issues and promote national stewardship within the decentralized system.&#13;
+What is needed is a global vision comprising policies that integrate public health priorities with&#13;
+incentive-based care and flexibility at the health-facility level. The SIS seems to be the&#13;
+mechanism that could bring this global vision to reality; it can easily incorporate the Health&#13;
+Strategies into its policies, its benefits package includes several diseases and services, and it&#13;
+includes some incentives and allows for administrative flexibility.&#13;
+&#13;
+A comprehensive approach should be stressed over one that is constituted by many disease-&#13;
+specific or vertical programs. While the vertical programs seem to achieve good results, they are&#13;
+actually inefficient because they address only a small percentage of the disease burden and&#13;
+because they incur diseconomies of scale in a â&#128;&#156;joint productionâ&#128;&#157; like the one that prevails in&#13;
+health facilities. Such programs, moreover, all use different funding and monitoring mechanisms,&#13;
+increasing the administrative burden on health practitioners.&#13;
+&#13;
+Changes to policy should be accompanied by a major effort to strengthen the technical capacity&#13;
+of the MOH and the SIS. The review of health priorities, the design of effective interventions&#13;
+that link the different levels of care, the breadth and depth of benefits packages, the use of staff&#13;
+incentives, and new payment mechanisms, are some of the issues that deserve attention.&#13;
+&#13;
+Public Health and Incentives in Primary Care&#13;
+&#13;
+The MOHâ&#128;&#153;s stewardship on public health issues is still weak, and is particularly weak on health&#13;
+promotion policies that should advocate behavior changes among various actors, including&#13;
+individuals and families, businesses, communities, schools, and institutions. As for the supply of&#13;
+health services, basic infrastructure for primary care does exist, but it has little response capacity,&#13;
+which leads to a serious shortage of coverage in rural areas and to expenditures in hospitals in&#13;
+urban areas concentrated on general practice.&#13;
+&#13;
+The main problem of health care in remote and poor rural areas is that of human resources and&#13;
+absence of staff incentives. The second and third problems are the provision of inputs and the&#13;
+renovation and maintenance of equipment, and are due to problems associated with budget&#13;
+shortages, greater transportation times and costs, and difficulties in monitoring and supervision&#13;
+of legal mechanisms of transparency and accountability in rural areas.&#13;
+&#13;
+In this context, the SIS promotes stewardship in prioritizing the public health care services that&#13;
+are included in its benefits package and in reducing the economic barriers that adversely affect&#13;
+coverage. Allocating funds on a targeted, propoor basis helps to strengthen primary care,&#13;
+although it ultimately depends on the design and management of the benefits package. The SIS&#13;
+helps provide flexibility in the management of service networks, although administrative systems&#13;
+and political institutions tend to reinforce urban priorities at the expense of rural ones.&#13;
+&#13;
+Two issues are critical in the area of public health and primary care: (a) the relationship between&#13;
+the SIS and the Health Strategies and other social programs that impact health, like JUNTOS;&#13;
+&#13;
+                                                                                                    15&#13;
+&amp;#12;and (b) financing and payment mechanisms that should establish incentives for promotion and&#13;
+prevention for the poor and rural areas. Addressing these two challenges will enable SIS to focus&#13;
+mainly on primary care and on current epidemiological priorities. In addition, staff incentives&#13;
+must be implemented, and the organization of health networks must provide early detection,&#13;
+monitoring, and specialized and hospital care when necessary.&#13;
+&#13;
+The Institutional Architecture of the SIS and its Interaction with the Rest of the Health&#13;
+System&#13;
+&#13;
+The SIS can be instrumental in the implementation of important reforms and can thus be a way&#13;
+to establish incentives for improvements in the coverage and efficiency of the health system. At&#13;
+present, however, the strength of the SISâ&#128;&#153;s stewardship capacity is weak. Indeed, the SISâ&#128;&#153;s&#13;
+payment mechanisms do not provide sufficient incentives and are not well targeted. In addition,&#13;
+the SIS gives limited autonomy to networks and facilities without clearly establishing the&#13;
+financial responsibilities of the DIRESAS, and its monitoring capacity and information&#13;
+utilization is deficient.&#13;
+&#13;
+To resolve incentive-related problems, the SISâ&#128;&#153;s role vis-Ã -vis the MOH and the DIRESAs needs&#13;
+to be better defined. The challenge is to improve the rural areasâ&#128;&#153; management mechanisms in&#13;
+terms of efficiency and effectiveness, and to ensure that the SISâ&#128;&#153;s incentives prioritize primary&#13;
+care and reach strongly to facilities. The MEF and the MOH should view the SIS as a key to the&#13;
+relationships of national health policies with the DIRESAs, and use it as the vehicle to integrate&#13;
+the different programs that are linked to â&#128;&#156;Quality Spendingâ&#128;&#157; budgeting and the Health Strategies,&#13;
+and to promote changes at the national level.&#13;
+&#13;
+Ultimately, it is necessary to develop the SIS into an insurerâ&#128;&#148;one that promotes managed&#13;
+competition and articulates a diverse supply of public, social security, municipal, and private&#13;
+services in providing prioritized interventions to the poor with a cost containment strategy.&#13;
+&#13;
+Targeting, Identification, and Enrolment of Beneficiaries&#13;
+&#13;
+The SISâ&#128;&#153;s targeting mechanism primarily relies on the application of the Socio-economic&#13;
+Evaluation Sheet at health facilities. This alternative is inefficient and a drain on the capacities&#13;
+and administrative processes of health facilities. The best alternative is a single targeting system&#13;
+for all social programs. While this alternative, the SISFOH, has already been approved, its&#13;
+application has been slow, especially in larger cities where individual targeting is most needed.&#13;
+&#13;
+This system could, importantly, improve the mechanisms for reviewing and updating SIS&#13;
+affiliations, and target cases in which a catastrophic illness could lead a family to fall into&#13;
+poverty. The SISFOH, therefore, could be improved if it included a mechanism to identify&#13;
+households that have health problems that could result in catastrophic costs, and a subsequent&#13;
+mechanism to reclassify them as poor and in need of financial assistance or other social&#13;
+protection.&#13;
+&#13;
+In addition, in a context of budgetary and resource constraints, the pre-allocation of budget&#13;
+ceilings for regions and hospitals can be used as an explicit way to improve targeting and to&#13;
+&#13;
+                                                                                                 16&#13;
+&amp;#12;clearly establish decentralized management responsibilities of the insurance scheme. Thus, the&#13;
+budget should be prioritized for poorer regions and for primary care.&#13;
+&#13;
+The Administration of Public Funds and Budget Management in the SIS&#13;
+&#13;
+There are no mechanisms to prioritize transparently the allocation of funds while ensuring a&#13;
+balance between budget and demand for health care. When this happens, rationing occurs in an&#13;
+unplanned and discretionary way. Other problems also arise; fees associated with the SIS do not&#13;
+cover the costs of infrastructure, equipment, and personnel, which are covered by other budget&#13;
+lines and are not necessarily planned according to needs. In many parts of the country, and&#13;
+especially in rural areas, there are serious deficiencies in infrastructure, equipment, and&#13;
+personnel, which require establishments contracting out to meet the additional demand. The cost&#13;
+differentials between urban and rural areas also hamper the expansion of the coverage in rural&#13;
+areas.&#13;
+&#13;
+Finally, because SIS funds are transferred to implementation units that may be distant from&#13;
+health facilities and centered in hospitals, they may only marginally help in giving more&#13;
+autonomy to primary care networks, limiting the strength of the incentives that may contain&#13;
+payment mechanisms.&#13;
+&#13;
+The main challenges in this area are as follows: (a) SIS rates need to be reviewed so they include&#13;
+higher costs in rural areas to take into account existing deficiencies in infrastructure, equipment,&#13;
+and personnel; (b) new mechanisms need to be established for the delivery of funds, such as the&#13;
+CLAS system, which would give more management flexibility to health networks and primary&#13;
+care facilities, while reinforcing incentives to achieve health outcomes and promote citizen&#13;
+participation; and (c) the SIS should be allowed to be used for special staff incentives, especially&#13;
+in rural areas.&#13;
+&#13;
+Management of the SIS Benefits Package&#13;
+&#13;
+At present, the benefits package has no defined review procedures, is not based on costing&#13;
+studies or calculations, and does not include the participation of civil society or the state in its&#13;
+discussion or approval. There is also little correlation between the benefits package and the&#13;
+budget.&#13;
+&#13;
+The benefits package must be adjusted to reflect Peruâ&#128;&#153;s epidemiological transition, and should&#13;
+therefore include primary and secondary prevention of noncommunicable diseases in an&#13;
+integrated way. At the same time, however, the SIS benefits package must account for regional&#13;
+differences in epidemiological profiles, supply of skills, demand for services, and cost.&#13;
+&#13;
+Managing the benefits package requires greater coordination through a special committee&#13;
+composed of representatives from the MOH, SIS, and the MEF. The committee must ensure that&#13;
+a multiyear budget can effectively cover the benefits offered, and guarantee that no other risks or&#13;
+benefits will be added without a corresponding budget. An annual or biannual review of the&#13;
+benefits should be mandated, and the review should include established calculation procedures at&#13;
+approximate the cost-effectiveness of the package and an evaluation of the effect of incentives on&#13;
+efficiency.&#13;
+&#13;
+                                                                                                 17&#13;
+&amp;#12;       Annex 1 Overview of Peruâ&#128;&#153;s Health System, including Financing and Delivery&#13;
+&#13;
+The MOH is the governing body that oversees the nationâ&#128;&#153;s public health. The National&#13;
+Superintendent of Health (SUNASA), an autonomous entity, supervises and monitors the health&#13;
+system, including public and private providers and insurance.&#13;
+&#13;
+The public health system (MOH/DIRESAs) is the principal means by which the state provides&#13;
+health care to the general population. In Lima, this system includes 17 specialty and general&#13;
+hospitals, 180 health network centers, and 168 health posts that are under the direct control of the&#13;
+MOH. In regions outside the capital, public providers are run by regional governments, and each&#13;
+region has at least one regional hospital, a few local hospitals, and dozens of health network&#13;
+centers and health posts.&#13;
+&#13;
+The MOH health services outside of Lima were transferred to the 25 regional governments&#13;
+during the decentralization process in 2004 and 2005, and are currently managed by the&#13;
+DIRESAs. In total, the public system through the MOH/DIRESAs has 155 hospitals, 5,906&#13;
+health centers, and 1,321 health posts (2009 data), and covers almost all districts in the country.&#13;
+The public system is the primary provider in rural areas and small towns. The systemâ&#128;&#153;s funding&#13;
+comes from the national treasury, and to a lesser extent, from user fees (especially from SIS&#13;
+nonmembers who purchase medicines and supplies). These fees constitute a significant economic&#13;
+barrier to access for the poor. Regional governments do not collect taxes and depend on transfers&#13;
+from the public treasury.&#13;
+&#13;
+EsSalud, the social security system for health, serves about a quarter of the population, and this&#13;
+population is primarily located in cities, where work in the formal sector is available (employees&#13;
+pay a mandatory 9 percent of their salary to contribute to the system). Also, EsSalud covers only&#13;
+a small proportion of independently insured individuals. There are 384 EsSalud establishments&#13;
+nationwide, and the hospitals are primarily located in large cities. EsSauld is governed through a&#13;
+centralized administration, and has not gone through a process of decentralization. Legally,&#13;
+EsSalud insures against all risks to health without limitations of any kind, and covers loss of&#13;
+wages due to illness and maternity leave. EsSalud contracts with few private providers, although&#13;
+it recently initiated a contract for the construction and operation of two large private hospitals&#13;
+that should eventually serve 500,000 policyholders. The National Police, the army, the navy, and&#13;
+the air force have their own insurance and providers.&#13;
+&#13;
+The private sector is emerging and expanding primarily in urban areas due to strong economic&#13;
+growth in the last decade. Services in the private sector are mainly financed through out-of-&#13;
+pocket payments. For nonserious illnesses, a large proportion of the population goes to private&#13;
+pharmacies for medical consults, where they can also get prescription drugs without a&#13;
+prescription (although this illegal).&#13;
+&#13;
+Private insurers cover a small percentage (3 to 5 percent) of the population, but coverage is&#13;
+expanding. In addition, the Social Security Health Act allows workers in the formal sector to&#13;
+contract with a private insurer (Empresas Prestadoras de Salud) and contribute a quarter of the&#13;
+mandated contribution to social security (2.25 percent of their monthly salary). The Empresas&#13;
+Prestadoras de Salud contribution covers only a basic amount of care to its membersâ&#128;&#148;who are&#13;
+&#13;
+                                                                                                 18&#13;
+&amp;#12;primarily middle classâ&#128;&#148;and many choose to pay an additional amount to obtain broader risk&#13;
+coverage.&#13;
+&#13;
+Figure A1.1 displays the financial flows within the health system (MINSA 2008). Total health&#13;
+spending is 5 percent of GDP, below what is expected for an upper-middle-income country. A&#13;
+high percentage (approximately 35 percent) of this is private spending, mostly out-of-pocket.&#13;
+The contribution of employers to EsSalud accounts for another 31 percent of spending, and&#13;
+financing from the national treasury accounts for another 31 percent.&#13;
+&#13;
+                 Figure A1.1 Financing Flows of Peruvian Health System, 2005&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                          19&#13;
+&amp;#12;       Annex 2 Brief Description of Public Health, Primary Care, and Supply Efforts&#13;
+&#13;
+Primary care is provided through a network of health centers and posts and is quite expansive,&#13;
+reaching many rural populations. While the health posts generally lack a physician, the health&#13;
+centers have a general practitioner and basic equipment. However, they do not have the capacity&#13;
+for inpatient or emergency care. Thus, while the incidence of immunizations and prenatal care is&#13;
+high at 95 percent, the rate for institutional deliveries in rural areas is still below 60 percent.&#13;
+Hospitals provide outpatient care, (including general and specialized medicine), diagnostic tests,&#13;
+hospitalizations, and surgeries. The collection of fees (at subsidized prices) for the services is&#13;
+widespread and largely unregulated, and medicines are sold at cost. The referral system is weak,&#13;
+and patients can usually go directly to the hospital. Visiting a health center prior to the hospital&#13;
+does not give a patient preference in receving care, and often tests that were conducted at the&#13;
+health center are unnecessarily repeated.&#13;
+&#13;
+A major effort to improve the supply of services in poor areas has been the Health Strategies,&#13;
+(formerly â&#128;&#156;nationalâ&#128;&#157; or â&#128;&#156;vertical programsâ&#128;&#157;). The Health Strategies are MOH initiatives that&#13;
+reinforce the strength and capacity of certain services by buying and distributing critical inputs,&#13;
+establishing protocols, providing training to health professionals, and monitoring&#13;
+epidemiological trends. The primary Health Strategies are:&#13;
+&#13;
+   â&#128;¢   Broad coverage of the immunization program. In recent years, primary health care&#13;
+       strategies have been broadened to cover a greater number of diseases, which has resulted&#13;
+       in a reduction in the number of people covered.&#13;
+   â&#128;¢   The tuberculosis program achieved important successes in the 1990s, but its strength and&#13;
+       effectiveness decreased in the last decade. The country now faces challenges associated&#13;
+       with the growth of multi-drug- and extra-drug-resistant cases.&#13;
+   â&#128;¢   The family planning and reproductive health program has received international support&#13;
+       for many years and has been effective in achieving broad access to contraception and in&#13;
+       tackling HIV/AIDS.&#13;
+   â&#128;¢   The maternal health program has aimed to expand coverage and improve the quality of&#13;
+       deliveries.&#13;
+&#13;
+Despite these efforts, public health care in rural areas is poor and weak. There are difficulties in&#13;
+retaining health professionals due to the lack of bonuses or other incentives. And while there is a&#13;
+mandatory program (SERUM) that requires recent medical school graduates who want to work&#13;
+in the public system to serve in rural areas, it is not strictly enforced. Rural areas also often lack&#13;
+medicine, safe blood, equipment, and ambulances. Since its inception, the SIS has been viewed&#13;
+as a mechanism to support primary health in rural areas, because it covers the costs of supplies,&#13;
+materials, and services in the benefits package.&#13;
+&#13;
+The government has a special program, called PARSALUD, which funds investments in health&#13;
+infrastructure and equipment in rural areas. Supported by the World Bank and the Inter-&#13;
+American Development Bank, PARSALUD aims to improve the responsiveness of health&#13;
+service networks for obstetric and neonatal emergencies in the nine poorest regions of Peru. The&#13;
+budget for PARSALUD II is approximately US$170 million, which includes technical assistance&#13;
+&#13;
+&#13;
+                                                                                                   20&#13;
+&amp;#12;activities. Regional and local governments also make investments in health infrastructure and&#13;
+equipment.&#13;
+&#13;
+In rural areas, mobile brigades, called ELITES, composed of doctors, nurses, and other&#13;
+professionals, provide service in remote areas. In addition, in rural and poor urban areas, health&#13;
+promoters do community outreach and provide health education and minor health services.&#13;
+&#13;
+One challenge in the poor, rural areas of Peru is the adaptation of health services to cultural&#13;
+norms. Many of these areas have concentrated Quechua, Aymara, or other indigenious&#13;
+populations. The stateâ&#128;&#153;s efforts to address this problem have thus far been relatively few and&#13;
+localized to the southern highlands, where efforts have focused on institutional deliveries.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                               21&#13;
+&amp;#12;                                                            Annex 3 Spider Web&#13;
+&#13;
+                               I. Outcomes comparisons:&#13;
+                        Peru and Upper Middle Income Countries&#13;
+                                                                                           Note on interpretation:&#13;
+                                                                                           In this plot â&#128;&#152;higherâ&#128;&#153; is â&#128;&#152;worseâ&#128;&#153; â&#128;&#147; since&#13;
+                                                                                           these indicators are positive measures&#13;
+                                                                                           of mortality / morbidity. Life&#13;
+                                                                                           expectancy is converted to be an&#13;
+                                                                                           inverse measure.&#13;
+&#13;
+                                                                                           The values on the radar plot have&#13;
+                                                                                           been standardized with respect to the&#13;
+                                                                                           average upper middle income country&#13;
+                                                                                           value.&#13;
+&#13;
+                                                                                           The table below summarizes outcome&#13;
+                                                                                           comparisons with the average upper&#13;
+                                                                                           middle income country (UMIC).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+IMR: Infant mortality rate (2010). U5MR: Under-5 mortality rate (2010). Stunting: prevalence of low height-for-age among children under 5 (2010). MMR: Maternal&#13;
+mortality rate (2010) per 100 000 live births. Adult mortality: Adult mortality rate per 1000 male adults (2010). [100-(life expectancy)]: Life expectancy at birth&#13;
+(2010) subtracted from maximum of 100. Neonatal mortality: Neonatal mortality per 1000 living births. CD as cause of death: Communicable diseases as cause of&#13;
+death (% total). All data from World Bank's World Development Indicators. Income averages for stunting calculated by Bank staff and are unweighted.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                 II. Inputs comparisons&#13;
+                        Peru and Upper Middle Income Countries&#13;
+                                                                                           Note on interpretation:&#13;
+                                                                                           This plot shows indicators which&#13;
+                                                                                           measure spending on health or the&#13;
+                                                                                           number of health workers per&#13;
+                                                                                           population.&#13;
+&#13;
+                                                                                           The values on the radar plot have&#13;
+                                                                                           been standardized with respect to&#13;
+                                                                                           the average upper middle income&#13;
+                                                                                           country value.&#13;
+&#13;
+                                                                                           The table below summarizes inputs&#13;
+                                                                                           comparisons with the average upper&#13;
+                                                                                           middle income country (UMIC).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+THE as % of GDP: Health expenditure, total (% of GDP) (2010). Hospital bed density: Hospital beds per 1,000 people (latest available year). Physician density: Physicians&#13;
+per 1,000 people (latest available year). Nurse/midwife density: Nurses and midwives per 1,000 people (latest available year). GHE as % of THE/10: Public health&#13;
+expenditure (% of total expenditure on health) (2010). All data from World Bank's World Development Indicators.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                                            22&#13;
+&amp;#12;                                III. Coverage comparisons&#13;
+                         Peru and Upper Middle Income Countries&#13;
+                                                                                            Note on interpretation:&#13;
+                                                                                            In this plot â&#128;&#152;higherâ&#128;&#153; is â&#128;&#152;betterâ&#128;&#153; â&#128;&#147; since&#13;
+                                                                                            these     indicators      are    positive&#13;
+                                                                                            measures. In this case, all are percent&#13;
+                                                                                            of the population receiving or having&#13;
+                                                                                            access to a certain health related&#13;
+                                                                                            service.&#13;
+&#13;
+                                                                                            The values on the radar plot have&#13;
+                                                                                            been standardized with respect to&#13;
+                                                                                            the average upper income country&#13;
+                                                                                            value.&#13;
+                                                                                            The table below summarizes&#13;
+                                                                                            coverage comparisons with the&#13;
+                                                                                            average upper middle income&#13;
+                                                                                            country (UMIC).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+ DPT immunization: % of children aged 12-23 months with DPT immunization (2010). Prenatal services: % of pregnant women receiving prenatal care (latest available&#13;
+ year). Contraceptive prevalence: % of women ages 15-49 using contraception (latest available year). Skilled birth attendance: % of all births attended by skilled health&#13;
+ staff (latest available year). Improved sanitation: % of population with access to improved sanitation facilities (2010). TB treatment success: Tuberculosis treatment&#13;
+ success rate (% of registered cases). All data from World Bank's World Development Indicators.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                             IV. Infrastructure comparisons&#13;
+                        Peru and Upper Middle Income Countries&#13;
+                                                                                            Note on interpretation:&#13;
+                                                                                            In this plot â&#128;&#152;higherâ&#128;&#153; is â&#128;&#152;betterâ&#128;&#153; â&#128;&#147; since&#13;
+                                                                                            these     indicators      are    positive&#13;
+                                                                                            measures of provision of certain&#13;
+                                                                                            good / service, and a measure of&#13;
+                                                                                            urban development.&#13;
+&#13;
+                                                                                            The values on the radar plot have&#13;
+                                                                                            been standardized with respect to&#13;
+                                                                                            the average upper middle income&#13;
+                                                                                            country value.&#13;
+&#13;
+                                                                                            The table below summarizes&#13;
+                                                                                            infrastructure comparisons with the&#13;
+                                                                                            average upper middle income&#13;
+                                                                                            country (UMIC).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Paved roads: % of total roads paved (most recent). Internet users: users per 100 people (2010, with some estimates from prior years). Mobile phone users: mobile&#13;
+cellular subscriptions per 100 people (2010). Access to improved water: % of population with access to improved water source (2010). All data from World Bank's&#13;
+World Development Indicators.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                                            23&#13;
+&amp;#12;                                 V. Demography comparisons&#13;
+                           Peru and Upper Middle Income Countries&#13;
+                                                                                            Note on interpretation:&#13;
+                                                                                            Indicators here measure births per&#13;
+                                                                                            woman, the extent of rurality, and&#13;
+                                                                                            the number of dependents.&#13;
+&#13;
+                                                                                            The values on the radar plot have&#13;
+                                                                                            been standardized with respect to&#13;
+                                                                                            the average upper middle income&#13;
+                                                                                            country value.&#13;
+&#13;
+                                                                                            The table below summarizes&#13;
+                                                                                            demographic indicators comparisons&#13;
+                                                                                            with the average upper middle&#13;
+                                                                                            income country (UMIC).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+    TFR: total fertility rate (births per woman), 2009. Dependency ratio: % of working-age population (2010) aged less than 15 or more than 64. Youth dependency: % of&#13;
+    working-age population (2010) aged less than 15. Rurality: % of total population in rural areas (2010). All data from World Bank's World Development Indicators.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                               VI. Inequality comparisons&#13;
+                        Peru and Upper Middle Income Countries&#13;
+                                                                                            Note on interpretation:&#13;
+                                                                                            In this plot â&#128;&#152;higherâ&#128;&#153; is â&#128;&#152;inequalâ&#128;&#153; and&#13;
+                                                                                            indicators here measure inequalities&#13;
+                                                                                            in selected health outcomes by&#13;
+                                                                                            taking the ratio of prevalence&#13;
+                                                                                            between Q1 and Q5.&#13;
+&#13;
+                                                                                            The values on the radar plot have&#13;
+                                                                                            been standardized with respect to&#13;
+                                                                                            the average upper middle income&#13;
+                                                                                            country value. Data are not available&#13;
+                                                                                            for high income countries (HIC).&#13;
+&#13;
+                                                                                            The table below summarizes&#13;
+                                                                                            inequality indicators comparisons&#13;
+                                                                                            with the average upper middle&#13;
+                                                                                            income country (UMIC).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+All indicators measure the ratio of prevalence between the poorest (in Q1, the first wealth distribution quintile) and the richest (in Q5, the fifth wealth distribution&#13;
+quintile). The data (latest data available) are taken from HNPstats (http://data.worldbank.org/data-catalog/HNPquintile).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                                           24&#13;
+&amp;#12;                                          References&#13;
+&#13;
+&#13;
+&#13;
+ArrÃ³spide, Mario, Karina Rozas, and JosÃ© Valderrama. 2009. â&#128;&#156;Presupuesto Evaluado: Seguro&#13;
+       Integral de Salud.â&#128;&#157; Ministerio de EconomÃ­a y Finanzas, Lima.&#13;
+Arroyo, Juan, ed. 2002. â&#128;&#156;La salud peruana en el siglo XX : retos y propuestas de polÃ­tica.â&#128;&#157;&#13;
+      Consorcio de InvestigaciÃ³n EconÃ³mica y Social, Lima.&#13;
+CARE-OXFAM. 2005. â&#128;&#156;Haciendo realidad nuestros derechos: aprendizajes de la aplicaciÃ³n del&#13;
+     enfoque de desarrollo basado en derechos.â&#128;&#157; CARE â&#128;&#147; Oxfam, Lima.&#13;
+Conferencia Nacional de Salud Agosto 2002. 2003. â&#128;&#156;La salud un derecho para todos.â&#128;&#157; ForoSalud&#13;
+       â&#128;&#147; Consorcio de InvestigaciÃ³n EconÃ³mica y Social, Lima.&#13;
+Cortez, Rafael. 1998. â&#128;&#156;Equidad y calidad de los servicios de salud : el caso de los CLAS.â&#128;&#157;&#13;
+       Universidad del PacÃ­fico â&#128;&#147; Centro de InvestigaciÃ³n, Lima.&#13;
+Cotlear, Daniel, ed. 2006. â&#128;&#156;Un nuevo contrato social para el PerÃº : Â¿cÃ³mo lograr un paÃ­s mÃ¡s&#13;
+       educado, saludable y solidario?â&#128;&#157; Banco Mundial, Washington, DC.&#13;
+Ewig, Christina. 2012. â&#128;&#156;Neoliberalismo de la segunda ola : gÃ©nero, raza y reforma del sector&#13;
+      salud en el PerÃº.â&#128;&#157; Instituto de Estudios Peruanos, Lima.&#13;
+Forosalud. 2005. â&#128;&#156;II Conferencia Nacional de Salud: Hacia una reforma sanitaria por el derecho&#13;
+       a la salud.â&#128;&#157; ForoSalud, Lima.&#13;
+Francke, Marfil, y Raquel Reynoso. 2007. â&#128;&#156;Salud y enfermedad en los mÃ¡rgenes: diagnÃ³stico&#13;
+       participativo en comunidades peruanas que sufren pobreza y exclusiÃ³n.â&#128;&#157; CIES â&#128;&#147;&#13;
+       Observatorio del Derecho a la Salud â&#128;&#147; CARE PerÃº, Lima.&#13;
+Francke, Pedro. 2006. â&#128;&#156;El Seguro Integral de Salud: una historia polÃ­tica.â&#128;&#157; En La polÃ­tica y la&#13;
+       pobreza en los paÃ­ses andinos, ed. Kristen Sample y Gustavo Guerra-GarcÃ­a. IDEA&#13;
+       Internacional y AsociaciÃ³n Civil Transparencia, Lima.&#13;
+Francke, Pedro. 2007. â&#128;&#156;Explicando las diferencias en la participaciÃ³n en salud y en los&#13;
+       programas alimentarios.â&#128;&#157; En La participaciÃ³n desplegada en la polÃ­tica y la sociedad, ed.&#13;
+       R. Grompone. Lima: Red para el desarrollo de las Ciencias Sociales en el PerÃº / IEP-&#13;
+       PUCP-UP.&#13;
+Francke, Pedro, Juan Arroyo, y Alfredo GuzmÃ¡n. 2006. â&#128;&#156;PolÃ­ticas de Salud 2006â&#128;&#147;2011.â&#128;&#157;&#13;
+       Consorcio de Investigaciones EconÃ³micas y Sociales, Lima.&#13;
+Francke, Pedro, y Armando Mendoza. 2006. â&#128;&#156;PerÃº: Programa Juntos.â&#128;&#157; En Transferencias con&#13;
+       corresponsabilidad. Una mirada latinoamericana,â&#128;&#157; ed. Ernesto Cohen y Rolando Franco.&#13;
+       MÃ©xico: Facultad Latinoamericana de Ciencias Sociales.&#13;
+Instituto Nacional de EstadÃ­stica e InformÃ¡tica. 2012. â&#128;&#156;PerÃº. Encuesta DemogrÃ¡fica y de Salud&#13;
+        Familiar 2011.â&#128;&#157; Instituto Nacional de EstadÃ­stica e InformÃ¡tica, Lima.&#13;
+Lavadenz, Fernando, Alejandra Leyton, y Julie Ruel-Bergeron. 2011. â&#128;&#156;Hacia un PerÃº mÃ¡s&#13;
+      saludable. DesafÃ­os y oportunidades el sistema de salud.â&#128;&#157; En PerÃº en el umbral de una&#13;
+      nueva era. Washington, DC: Banco Mundial.&#13;
+&#13;
+&#13;
+                                                                                             25&#13;
+&amp;#12;Lavado, Pablo. 2007. â&#128;&#156;Inequidad en programas sociales en el PerÃº.â&#128;&#157; Consorcio de&#13;
+      Investigaciones EconÃ³micas y Sociales, Lima.&#13;
+Mendoza, W., J. Leyva, y J. L. Flor. 2011. â&#128;&#156;La distribuciÃ³n del ingreso en el PerÃº: 1980â&#128;&#147;2010.â&#128;&#157;&#13;
+     En Desigualdad distributiva en el PerÃº : dimensiones, ed. Janina LeÃ³n Castillo and Javier&#13;
+     M. IguÃ­Ã±iz EcheverrÃ­a. Lima: Pontificia Universidad CatÃ³lica del PerÃº â&#128;&#147; Fondo Editorial.&#13;
+Ministerio de Salud. 2008. â&#128;&#156;Cuentas Nacionales de Salud. PerÃº, 1995â&#128;&#147;2005.â&#128;&#157; Oficina General de&#13;
+       Planeamiento y Presupuesto MINSA/Consorcio de InvestigaciÃ³n EconÃ³mica y Social/&#13;
+       Observatorio de la Salud, Lima.&#13;
+Monge, Alvaro, Diego Winkelried, y Enrique VÃ¡squez. 2009. â&#128;&#156;Â¿Es el gasto pÃºblico en&#13;
+      programas sociales regresivo en el PerÃº?â&#128;&#157; Universidad del PacÃ­fico y Consorcio de&#13;
+      InvestigaciÃ³n EconÃ³mica y Social, Lima.&#13;
+Physicians for Human Rights. 2008. â&#128;&#156;Demoras Fatales. Mortalidad maternal en el PerÃº.â&#128;&#157;&#13;
+       Physicians for Human Rights, Estados Unidos.&#13;
+World Bank. 2004. World Development Report 2004: Making Services Work for Poor People.&#13;
+      Washington, DC: World Bank.&#13;
+World Bank. 2007. â&#128;&#156;ProtecciÃ³n social en el PerÃº Â¿cÃ³mo mejorar los resultados para los pobres?â&#128;&#157;&#13;
+      World Bank, Washington, DC.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                            26&#13;
+&amp;#12;27&#13;
+&amp;#12;The World Bank supports the efforts of countries to share prosperity by&#13;
+transitioning toward universal health coverage (UHC) with the objectives of&#13;
+improving health outcomes, reducing the financial risks associated with ill&#13;
+health, and increasing equity. The Bank recognizes that there are many paths&#13;
+toward UHC and does not endorse a particular path or set of organizational or&#13;
+financial arrangements to reach it. Regardless of the path chosen, the quality of&#13;
+the instruments and institutions countries establish to implement UHC are&#13;
+essential to its success. Countries will face a variety of challenges during the&#13;
+implementation phase as they strive to expand health coverage. With that in&#13;
+mind, the World Bank launched the Universal Health Coverage Studies Series&#13;
+(UNICO Studies Series) to develop knowledge and operational tools designed&#13;
+to help countries tackle these implementation challenges in ways that are&#13;
+fiscally sustainable and that enhance equity and efficiency. The UNICO Studies&#13;
+Series consists of technical papers and country case studies that analyze&#13;
+different issues related to the challenges of UHC policy implementation.&#13;
+&#13;
+The case studies in the series are based on the use of a standardized protocol&#13;
+to analyze the nuts and bolts of 27 programs in 25 countries that have&#13;
+expanded coverage from the bottom up, starting with the poor and vulnerable.&#13;
+The protocol consists of 300 questions designed to elicit a detailed&#13;
+understanding of how countries are implementing five sets of policies to&#13;
+accomplish the following:&#13;
+&#13;
+â&#128;¢   Manage the benefits package&#13;
+â&#128;¢   Manage processes to include the poor and vulnerable&#13;
+â&#128;¢   Nudge efficiency reforms to the provision of care&#13;
+â&#128;¢   Address new challenges in primary care&#13;
+â&#128;¢   Tweak financing mechanisms to align the incentives of different stakeholders&#13;
+    in the health sector&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+The UNICO Studies Series aims to provide UHC implementers with an expanded toolbox.&#13;
+The protocol, case studies and technical papers are being published as part of the Series. A&#13;
+comparative analysis of the case studies will be available in 2013.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                               28&#13;
+&amp;#12;</ml:original-txt><ml:search-metadata><doc id="23015643">
+        <url>
+            http://documents.worldbank.org/curated/en/2013/01/23015643/perus-comprehensive-health-insurance-new-challenges-universal-coverage
+        </url>
+        <availablein>Spanish,English</availablein>
+        <fullavailablein>
+            <available_in lang="Spanish" entityid="000470435_20141211083423" node_id="23015643"/>
+        </fullavailablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2013/01/23015643/perus-comprehensive-health-insurance-new-challenges-universal-coverage</url_friendly_title>
+        <new_url>2013/01/23015643/perus-comprehensive-health-insurance-new-challenges-universal-coverage</new_url>
+        <disclosure_date>2014-12-12T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2014-12-12T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/12/12/000470435_20141212114020/Rendered/INDEX/750090NWP0Box30r0Universal0Coverage.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/12/12/000470435_20141212114020/Rendered/PDF/750090NWP0Box30r0Universal0Coverage.pdf</pdfurl>
+        <docdt>2013-01-01T00:00:00Z</docdt>
+        <datestored>2014-12-12T00:00:00Z</datestored>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            Peru's comprehensive health insurance
+            and new challenges for universal coverage
+        </repnme>
+        <abstracts>
+            This case study analyzes the progress of
+            Peru's Comprehensive Health Insurance (SIS) and
+            evaluates the challenges that remain to achieving universal
+            health care coverage. Peru is an upper-middle-income country
+            with a gross domestic product (GDP) per capita of just over
+            US$10,000 (purchasing power parity). The country has grown
+            rapidly in the last decade; the average growth rate was 6.5
+            percent. However, 28 percent of the population lives in
+            poverty (2011), which is estimated with regionally
+            differentiated poverty lines between US$1 and US$2 per
+            capita per day. In addition, only one in four individuals
+            has employment with social security coverage. The SIS aims
+            to reduce economic barriers through the elimination of user
+            fees for a package of services. Although its budget has been
+            low, the SIS has played an important role in the reduction
+            of maternal and child mortality. However, the improvements
+            expected to the overall health system have not materialized.
+            Meanwhile, when the decentralization process transferred
+            funds and authority to the regions, it did so in a context
+            of weak management capabilities, and it failed to clearly
+            define the relationship between the national and regional
+            governments. A major effort to strengthen the technical
+            capacity of the Ministry of Health (MOH) should accompany
+            the strategies outlined above. This effort should emphasize
+            a review of health priorities, the design of effective
+            interventions within a fiscally sustainable benefits
+            package, and the introduction of incentives and new payment
+            mechanisms at hospitals and other health facilities.
+        </abstracts>
+        <docna>
+            Peru's comprehensive health insurance
+            and new challenges for universal coverage
+        </docna>
+        <display_title>Peru's comprehensive health
+            insurance and new challenges for universal coverage</display_title>
+        <listing_relative_url>/research/2013/01/23015643/perus-comprehensive-health-insurance-new-challenges-universal-coverage</listing_relative_url>
+        <topic>Health Equity and Access m1326151 1288,Financial Sustainability for Health
+            m1327261 2155,Public Health m1327519 635,Rural Health m1327297 1317,Communicable Disease m1326129 1415</topic>
+        <subtopic>Health Monitoring &amp; Evaluation,Population Policies,Health Economics &amp; Finance,Health Systems Development &amp; Reform,Disease Control &amp; Prevention</subtopic>
+        <docty>Working Paper (Numbered Series)</docty>
+        <teratopic>Health, Nutrition and Population</teratopic>
+        <count>Peru</count>
+        <authors>
+            <author>Francke, Pedro</author>
+        </authors>
+        <geo_region_mdks>
+            <geo_region_mdk>World!$!80475</geo_region_mdk>
+            <geo_region_mdk>America!$!80450</geo_region_mdk>
+            <geo_region_mdk>South America!$!80469</geo_region_mdk>
+        </geo_region_mdks>
+        <entityids>
+            <entityid>000470435_20141212114020</entityid>
+        </entityids>
+        <admreg>Latin America &amp; Caribbean,Latin America &amp; Caribbean</admreg>
+        <colti>Universal Health Coverage (UNICO) studies
+            series ; no. 11</colti>
+        <lang>English</lang>
+        <historic_topic>Health, Nutrition and Population</historic_topic>
+        <topicv3>Health Equity and Access m1326151 1288,Financial Sustainability for Health
+            m1327261 2155,Public Health m1327519 635,Rural Health m1327297 1317,Communicable Disease m1326129 1415</topicv3>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            access to contraception, access to drugs,
+            access to services, adolescents, Adult mortality, age
+            groups, aged, basic infrastructure, beds, budget caps,
+            budget ceiling, budget increase, budget process, cancer,
+            cancer patients, cardiovascular disease, child health, child
+            health care, child mortality, childbirth, chronic
+            malnutrition, cities, citizen, Citizens, Communicable
+            diseases, comprehensive care, Contraceptive prevalence,
+            contraceptive use, crowding, deaths, demand for health,
+            demand for health services, demand for services, democracy,
+            Dependency ratio, developing countries, diabetes,
+            Discrimination, Discrimination against women, doctors,
+            drugs, early detection, economic growth, education of women,
+            emergencies, emergency care, employment, Epidemiological
+            Transition, equilibrium, equitable access, Essential Health
+            Services, expenditures, families, family planning,
+            Fee-for-service, fertility, fertility rate, financial risks,
+            general practice, gross domestic product, Health
+            Administration, health care, health care coverage, health
+            care management, health centers, Health Coverage, health
+            education, Health expenditure, health facilities, health
+            financing, Health for All, health inequities, health
+            infrastructure, Health Insurance, Health Interventions,
+            health outcomes, health plan, health policies, health
+            policy, health posts, health problems, health professionals,
+            health promoters, health promotion, health reform, health
+            sector, Health service, health services, health spending,
+            Health Strategies, Health System, health system reform,
+            health systems, health workers, healthcare services,
+            HIV/AIDS, holistic approach, hospital, Hospital beds,
+            hospital care, hospital services, hospitals, human
+            development, human resources, Human Rights, ill health,
+            illness, illnesses, immunization, immunizations, income,
+            income countries, income households, Income inequality,
+            indexes, indigenous populations, infant, infant mortality,
+            Infant mortality rate, informal payments, insurance plans,
+            insurers, international economic crisis, intervention, large
+            cities, levels of infant, life expectancy, live births,
+            local governments, malaria, management of health, management
+            systems, maternal care, maternal health, maternal mortality,
+            Maternal mortality rate, maternal mortality ratio, maternity
+            leave, Medical Care, medical school, medical specialists,
+            medicines, mental health, midwives, Ministry of Health,
+            modernization, morbidity, mortality, mother, national level,
+            national policies, national policy, Neonatal mortality,
+            number of people, nurses, Office of Health, outpatient care,
+            outpatient services, patient, patients, physician,
+            physicians, practitioners, pregnant women, prenatal care,
+            primary care, primary health care, private pharmacies,
+            private sector, private spending, progress, provision of
+            care, public expenditure, public expenditure on health,
+            Public Health, public health care, public health care
+            services, Public health expenditure, public health
+            expenditures, public health programs, public health
+            services, public health system, public hospitals, public
+            insurance, public insurance scheme, public sector, Public
+            Spending, purchasing power, purchasing power parity, quality
+            control, quality of health, quality of life, referral
+            system, regional hospital, reimbursement rates, reproductive
+            health, reproductive health program, resource constraints,
+            resource needs, respect, rural areas, rural populations,
+            sanitation, sanitation facilities, Skilled birth attendance,
+            social programs, social security, social security systems,
+            surgery, TB control, technical assistance, technical
+            capacity, transportation, tuberculosis, universal access,
+            urban areas, urban development, urban populations, user
+            fees, vulnerable populations, woman, workers, working-age population
+        </keywd>
+        <owner>Health Sector (LCSHH)</owner>
+        <geo_regions>
+            <geo_region>World</geo_region>
+            <geo_region>America</geo_region>
+            <geo_region>South America</geo_region>
+        </geo_regions>
+        <repnb>75009</repnb>
+        <alt_title>
+            El sistema integral de salud y los
+            nuevos retos para la cobertura universal
+        </alt_title>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>Social Development &amp; Poverty</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Social Protections and Labor</ml:concept><ml:concept>Social Development</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Agriculture and Food Security</ml:concept><ml:concept>Health, Nutrition and Population</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Social Protection and Labor</ml:concept><ml:concept>Health Monitoring and Evaluation</ml:concept><ml:concept>Human Resource Management Capacities</ml:concept><ml:concept>Human Resource Management Systems</ml:concept><ml:concept>Staffing Needs Assessments</ml:concept><ml:concept>UHI</ml:concept><ml:concept>Delivery of Health Care</ml:concept><ml:concept>Health Care Delivery</ml:concept><ml:concept>Health Service Management and Delivery</ml:concept><ml:concept>Health Systems</ml:concept><ml:concept>Neoplasms</ml:concept><ml:concept>IMR</ml:concept><ml:concept>Maternal and Child Mortality</ml:concept><ml:concept>U5MR</ml:concept><ml:concept>Insurance &amp; Risk Mitigation</ml:concept><ml:concept>Demographics</ml:concept><ml:concept>Efficiency of Public Expenditures</ml:concept><ml:concept>Public Expenditures</ml:concept><ml:concept>Public Financial Management</ml:concept><ml:concept>Public Spending</ml:concept><ml:concept>Decentralization</ml:concept><ml:concept>Deconcentration</ml:concept><ml:concept>Delegation</ml:concept><ml:concept>Devolution</ml:concept><ml:concept>Sub-National Administration</ml:concept><ml:concept>Subnational Government and Decentralization</ml:concept><ml:concept>Analysis &amp; Monitoring</ml:concept><ml:concept>Delivery Units</ml:concept><ml:concept>Grievance Redress</ml:concept><ml:concept>Indicators</ml:concept><ml:concept>M&amp;E</ml:concept><ml:concept>Performance Measurement</ml:concept><ml:concept>Performance Reviews</ml:concept><ml:concept>Rapid Results Approaches</ml:concept><ml:concept>Governance and Public Accountability (GPA)</ml:concept><ml:concept>Incentives for Good Government</ml:concept><ml:concept>National Governance</ml:concept><ml:concept>Checks on Executive Power</ml:concept><ml:concept>Citizen Oversight</ml:concept><ml:concept>Citizen User Satisfaction Survey</ml:concept><ml:concept>Independent Commissions</ml:concept><ml:concept>Ombudsmen</ml:concept><ml:concept>Oversight</ml:concept><ml:concept>Parliament</ml:concept><ml:concept>Procurement Complaints Review Institutions</ml:concept><ml:concept>Supreme Audit Institutions</ml:concept><ml:concept>Health Monitoring &amp; Evaluation</ml:concept><ml:concept>Income</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Human Resources</ml:concept><ml:concept>Health Insurance</ml:concept><ml:concept>Universal Health Insurance</ml:concept><ml:concept>Health Services Delivery</ml:concept><ml:concept>Primary Care</ml:concept><ml:concept>Diseases</ml:concept><ml:concept>Tuberculosis</ml:concept><ml:concept>Cancer</ml:concept><ml:concept>Infant and Child Mortality</ml:concept><ml:concept>Women</ml:concept><ml:concept>Prevention</ml:concept><ml:concept>Infrastructure</ml:concept><ml:concept>Insurance</ml:concept><ml:concept>Public Health</ml:concept><ml:concept>Population</ml:concept><ml:concept>Managing Public Finances</ml:concept><ml:concept>Administrative Decentralization</ml:concept><ml:concept>Monitoring and Evaluation</ml:concept><ml:concept>Governance</ml:concept><ml:concept>Public Accountability Mechanisms</ml:concept></ml:concepts><ml:geo-regions><ml:geo-region>Americas</ml:geo-region><ml:geo-region>Caribbean</ml:geo-region><ml:geo-region>Peru</ml:geo-region></ml:geo-regions></ml:annotations></ml:doc-envelope>

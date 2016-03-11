@@ -1,0 +1,1242 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>Report No. 72                                                            89982&#13;
+&#13;
+South Asia Human Development Sector&#13;
+&#13;
+International Conference on Use of ICT and ODL in Teacher Education:&#13;
+Bihar, India (June 13-15, 2012)&#13;
+Conference Report Summary - Implications of Teacher Education Programs&#13;
+&#13;
+June 2014&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Discussion Paper Series&#13;
+&amp;#12;Report No. 72&#13;
+&#13;
+&#13;
+&#13;
+South Asia Human Development Unit&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+International Conference on Use of ICT&#13;
+and ODL in Teacher Education: Bihar,&#13;
+India (June 13-15, 2012)&#13;
+Conference Report Summary - Implications of Teacher&#13;
+Education Programs&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+June 2014&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Discussion Paper Series&#13;
+&amp;#12;Discussion Papers are published to communicate the results of the World Bankâ&#128;&#153;s work to the&#13;
+development community with the least possible delay. The typescript manuscript of this&#13;
+paper therefore has not been prepared in accordance with the procedures appropriate to&#13;
+formally edited texts. Some sources cited in the paper may be informal documents that are&#13;
+not readily available.&#13;
+&#13;
+The findings, interpretations, and conclusions expressed herein do not necessarily reflect the&#13;
+views of the International Bank for Reconstruction and Development/The World Bank and&#13;
+its affiliated organizations, or those of the Executive Directors of the World Bank or the&#13;
+Governments they represent.&#13;
+&#13;
+The World Bank does not guarantee the accuracy of the data included in this work. The&#13;
+boundaries, colors, denominations, and other information shown on any map in this work do&#13;
+not imply any judgment on the part of The World Bank concerning the legal status of any&#13;
+territory or the endorsement or acceptance of such boundaries.&#13;
+&amp;#12;                                                      TABLE OF CONTENTS&#13;
+&#13;
+Background ................................................................................................................................................... 1&#13;
+         The Case of Bihar................................................................................................................................ 1&#13;
+Objectives of the Conference ........................................................................................................................ 2&#13;
+Conference Proceedings................................................................................................................................ 4&#13;
+         Setting the Scene: The Context of Teacher Education in India .......................................................... 4&#13;
+         Learning From Teacher Education Practices in India ......................................................................... 7&#13;
+         International Best Practices and Emerging Innovations...................................................................... 9&#13;
+Conference Group Discussions ................................................................................................................... 13&#13;
+         Curriculum Framework ..................................................................................................................... 14&#13;
+         Development of Learning Materials ................................................................................................. 14&#13;
+         DE Strategy and Hardware Architecture ........................................................................................... 17&#13;
+         Delivery of Materials and leaner support system .............................................................................. 19&#13;
+         Monitoring and Evaluation (M&amp;E) ................................................................................................... 19&#13;
+Conclusion: Key Messages ......................................................................................................................... 23&#13;
+&#13;
+&#13;
+Figure 1          Structure of the Conference ...................................................................................................... 3&#13;
+&amp;#12;                   AUTHORS&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                   Shabnam Sinha&#13;
+Senior Education and Institution Development Specialist&#13;
+                     World Bank&#13;
+&#13;
+&#13;
+                         and&#13;
+&#13;
+&#13;
+                     Neil Butcher&#13;
+                      Consultant&#13;
+&amp;#12;ACKNOWLEDGEMENTS&#13;
+&amp;#12;        ABBREVIATIONS AND ACRONYMS&#13;
+&#13;
+&#13;
+BBOSE      Bihar Board of Open Schooling and Examination&#13;
+BCF        Bihar Curriculum Framework&#13;
+BRC        Block Resource Center&#13;
+CIET       Central Institute of Education Technology&#13;
+DE         Distance Education&#13;
+DIET       District Institutes of Education and Training&#13;
+DPE        Diploma in Pre-school Education&#13;
+NCERT      National Council of Educational Research and Training&#13;
+ICT        Information Communications Technology&#13;
+IGNOU      Indira Gandhi National Open University&#13;
+MHRD       Ministry of Human Resource Development&#13;
+NCF        National Curriculum Framework&#13;
+NCTE       National Council for Teacher Education&#13;
+NIOS       National Institute of Open Schooling&#13;
+ODL        Open Distance Learning&#13;
+OER        Open Educational Resource&#13;
+PTEC       Primary Teacher Education Center&#13;
+RTE        The Right to Education&#13;
+SCERT      The State Council Educational Research and Training&#13;
+SITE       Satellite Instructional Television Experiments&#13;
+SSA        Sarva Shiksha Abhiyan&#13;
+TE         Teacher Education&#13;
+TEI        Teacher Education Institutions&#13;
+TESSA      The Teacher Education in Sub Saharan Africa&#13;
+&amp;#12;                                       BACKGROUND&#13;
+&#13;
+With Sarva Shiksha Abhiyan (SSA) transitioning towards the Right To Education (RTE), teacher&#13;
+education institutions and systems need to be fully geared up to meet the demands of pre-service&#13;
+and in-service teacher education and their ongoing professional development. Most states do not&#13;
+have adequate systems to provide the necessary cadres of trained elementary level school&#13;
+teachers. It is thus important to enhance the roles and capacities of teacher education institutions&#13;
+in India to support them to become globally competitive, professionally managed, and&#13;
+futuristically progressive to cater to the needs of huge back logs of untrained teachers. This&#13;
+training is crucial to ensure that children at the elementary levels get quality education in&#13;
+accordance with the National Curriculum Framework (NCF) 2005 and its basic tenets of child-&#13;
+centred pedagogy.&#13;
+&#13;
+Recent analysis by the Department of Education showed that, in 2012, there were 523,000&#13;
+vacancies for school teachers at the elementary level, while the Pupil-Teacher Ratio specified in&#13;
+the Schedule of the RTE Act would create an additional requirement of around 510,000 teachers.&#13;
+Moreover, approximately 774,000 teachers are untrained, that is, they do not possess the&#13;
+prescribed qualifications. Further, there are large inter-state variations in terms of percentages of&#13;
+untrained teachers, teacher post vacancies, and additional requirements of teachers under the&#13;
+RTE and the capacity of the institutions to prepare professionally trained teachers. Assam, Bihar,&#13;
+Chhattisgarh, Jammu and Kashmir, Jharkhand, Orissa, Uttar Pradesh and West Bengal together&#13;
+account for 606,000 untrained teachers and 973,000 teacher requirement. The problem is&#13;
+compounded due to the paucity of appropriate Teacher Education Institutions (TEIs).&#13;
+&#13;
+&#13;
+&#13;
+The Case of Bihar&#13;
+&#13;
+The State of Bihar has a huge shortage of teachers and the pupil-teacher ratio is below the&#13;
+national average. Most schools are single- or two-teacher schools, and many schools used to&#13;
+open for fewer than 100 days a year. Bihar recently adopted a policy of decentralized recruitment&#13;
+of teachers, as a result of which 242,000 new teachers were recruited. Because sufficient trained&#13;
+people were not available, most of the teachers recruited were untrained. These untrained&#13;
+teachers, numbering about 102,000, were provided access to two-year training programmes via&#13;
+distance mode by the Indira Ghandi National Open University (IGNOU). This was the first time&#13;
+that IGNOU conducted training at such a large scale. Though the university was able to provide&#13;
+printed course materials and academic support through academic councillors, multimedia and&#13;
+other technologies could not be optimally used. To meet the requirements of RTE, Bihar has to&#13;
+deploy another 300,000 teachers. According to estimates, 250,000 of these will again be&#13;
+untrained. It will be a major task to provide two-year training programmes to such a large&#13;
+number of teachers.&#13;
+&#13;
+                                                 1&#13;
+&amp;#12;To meet such diverse and pressing needs, it is important to explore alternative mechanisms of&#13;
+providing teacher education that are professionally managed, address the issue of distance&#13;
+between teachers and the taught, and generate enhanced and innovative delivery mechanisms.&#13;
+Viable and effective options can be found that harness Information and Communication&#13;
+Technology (ICT) and Open and Distance Learning (ODL) in teacher education, especially to&#13;
+deliver pre-service teacher education. As is the case for other sectors of the wider economy and&#13;
+society, education providers will need to come to terms with the new technologies. This could&#13;
+require substantial public and private sector investments in software research and development,&#13;
+purchase of hardware, and refurbishment of schools.&#13;
+&#13;
+The World Bank was requested by the state of Bihar to provide support in development of&#13;
+distance education curriculum, related syllabi, content, effective delivery mechanisms,&#13;
+appropriate student support systems, and assessment strategies to meet the needs of its untrained&#13;
+teachers. Many other states are facing similar problems, and will need to prepare comprehensive&#13;
+time-bound plans for untrained teachers to acquire the prescribed qualifications (both academic&#13;
+and professional). Thus, experiences in Bihar might provide models for developing an ICT-based&#13;
+teacher education system that can be used as a useful reference point by other states facing&#13;
+similar problems.&#13;
+&#13;
+&#13;
+&#13;
+                      OBJECTIVES OF THE CONFERENCE&#13;
+&#13;
+Within the above context and in collaboration with the European Commission, the World Bank&#13;
+organized a three-day capacity building and materials development workshop in the state of&#13;
+Bihar on 13th -15th June 2012. The objectives of the conference were to:&#13;
+&#13;
+â&#128;¢ Develop a strategy for ICT curriculum development, materials production, media selection,&#13;
+  production, and dissemination of ICT materials to recover the backlog of untrained teachers;&#13;
+â&#128;¢ Share best international practices in ICT and ODL in teacher education;&#13;
+â&#128;¢ Identify strategies relevant for Bihar to address the specific challenges of the state;&#13;
+â&#128;¢ Deliberate on alternative strategies to train teachers efficiently on a large scale and in a&#13;
+  relatively short period using innovative combinations of ICT and distance education; and&#13;
+â&#128;¢ Develop a delivery model and implementation guidelines which can be scaled up to regional&#13;
+  and national levels.&#13;
+&#13;
+The conference covered both policy and practice in teacher education, with particular emphasis&#13;
+on the use of ICT and ODL. Discussion reflected on both Indian and international experiences,&#13;
+while group discussion allowed participants to engage with each other to develop with&#13;
+implementable solutions. The Conference structure was as follows:&#13;
+&#13;
+                                               2&#13;
+&amp;#12;                             Figure 1 Structure of the Conference&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+The conference was attended by over 150 delegates, with representation from Indian and&#13;
+international organizations, including government officials, experts from teacher education&#13;
+institutions around India, representatives of the NGO and private sectors, and local and&#13;
+international teacher education and ODL experts. The list of dignitaries in attendance included:&#13;
+&#13;
+â&#128;¢ Shri. P. K. Shahi, Honourable Minister for Human Resource Development, Government of&#13;
+  Bihar&#13;
+â&#128;¢ Shri. Nitish Kumar, Honourable Chief Minister of Bihar&#13;
+â&#128;¢ Shri. Pramod Tiwari, Director, Minister for Human Resource Development, Government of&#13;
+  India&#13;
+â&#128;¢ Dr. Amarjeet Sinha, Principal Secretary, Department of Human Resource Development,&#13;
+  Government of Bihar&#13;
+â&#128;¢ Dr. Hans van Vliet, First Counsellor, Development Cooperation, Delegation of the European&#13;
+  Union to India&#13;
+â&#128;¢ Ms. Shagun Mehrotra, Education Advisor, European Union&#13;
+â&#128;¢ Mr. Michael Haney, Operations Advisor, The World Bank, India&#13;
+â&#128;¢ Dr. Shabnam Sinha, Sr. Education and Institutional Development Specialist, The World&#13;
+  Bank&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                               3&#13;
+&amp;#12;Below is a summary of the deliberations of the conference. This is a companion to a full&#13;
+Conference report, which provides summaries of all the individual presentations.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                            CONFERENCE PROCEEDINGS&#13;
+Setting the Scene: The Context of Teacher Education in India&#13;
+&#13;
+Several opening presentations set the context of teacher education in India. It was noted that it is&#13;
+critical to focus on the quality of teacher education programmes in India to achieve the goal of&#13;
+educating all children while ensuring equity of educational provision. Education is a fundamental&#13;
+requirement for ensuring human rights and democracy. India has made strong progress in&#13;
+reducing poverty and enhancing social inclusion, especially access to basic education, which is&#13;
+appreciable. However, in order to improve the quality of education in India and eradicate&#13;
+illiteracy, teacher education needs to be prioritized. Upon enactment of the RTE, however,&#13;
+teacher-related aspects became front line issues for education, and it is thus important to enhance&#13;
+the role and capacity of teacher education institutes in India to make them globally competitive,&#13;
+professionally managed, and progressively positioned to cater to the needs of huge back logs of&#13;
+untrained teachers.&#13;
+&#13;
+The history of teacher education in India after independence started with the establishment of&#13;
+secondary education in 1952 and 1953. This created a need to professionalize teacher education,&#13;
+and also led to the birth of correspondence education for teachers in the early 1960s. In 1973,&#13;
+though, correspondence education programmes in teacher training became a cause for concern in&#13;
+government. A statutory body â&#128;&#147; the National Council of Teacher Education (NCTE) â&#128;&#147; was&#13;
+established to regulate the commercialization of teacher education programmes. In 1978, the first&#13;
+teacher education framework was introduced, which looked at teacher education from a holistic&#13;
+perspective, while discussion was held on the need for specific teacher requirements for the&#13;
+different stages of education. From 1986 onwards, decentralization of teacher education began&#13;
+with the emergence of District Institutes of Education and Training (DIETs) and colleges for&#13;
+teacher education. In 1998, a new national curriculum, including distance learning for teachers,&#13;
+was introduced. Thus, there is a strong and rich history of teacher education in India on which to&#13;
+draw in generating strategies to meet the challenges in Bihar.&#13;
+&#13;
+There are three key challenges in the field of teacher education: (i) quality of education,&#13;
+including teacher retention at schools; (ii) organization of teacher training; and (iii) the need for&#13;
+sharing of good practice in the field of education. The NCTE has been preparing a national&#13;
+curriculum for teacher education, but there is value in drawing on wider experiences of countries&#13;
+&#13;
+&#13;
+&#13;
+                                                 4&#13;
+&amp;#12;such as Brazil, China, Indonesia, and Malaysia when developing teacher education programmes&#13;
+in Bihar.&#13;
+&#13;
+Bihar has shown very fast growth rates in the last few years, especially with respect to human&#13;
+development indicators, which reflect clearly the Stateâ&#128;&#153;s commitment to education. Bihar is also&#13;
+the only state in India that has earmarked 14% of its allocated budget to education. The State of&#13;
+Biharâ&#128;&#153;s ultimate goal for children is â&#128;&#152;high attendance, zero dropouts and completion of primary&#13;
+and secondary educationâ&#128;&#153;. The only way to bind the children at school is by providing quality&#13;
+and interesting education.&#13;
+&#13;
+However, challenges still remain in the State, including quality of education, retention of&#13;
+students in the system, and school attendance (which was around 50% in 2012). Given these&#13;
+challenges, a key solution is to focus on reforming and developing the State teacher education&#13;
+system, particularly because State support for the teacher education system was unfortunately&#13;
+curtailed around ten years ago. Given this, the Ministry of Human Resource Development faces a&#13;
+challenge of rebuilding systemic capacity in this sector as there is a limited number of teacher&#13;
+educators in the State and a corresponding limited training capacity for teachers. It is important&#13;
+to ensure basic minimum standards in pre-service teacher education across the State, while also&#13;
+developing systemic capacity for continuing professional development of teachers.&#13;
+&#13;
+To augment the context of Bihar, experiences from other states in India were shared t the&#13;
+Conference:&#13;
+&#13;
+â&#128;¢ Meghalaya State is aiming to train all untrained teachers by the end of 2015 as per the RTE&#13;
+  guidelines. To achieve this, 16,000 teachers will be trained through IGNOU, 4,000 by the&#13;
+  National Institute of Open Schooling (NIOS) teacher training programme, and the remainder&#13;
+  through other courses. A key challenge is that there are too few training institutions,&#13;
+  especially at the DIET level. Other problems include challenging topography, low teaching&#13;
+  capacity, keeping the minimum qualification at 45% in class XII, insufficient time to train all&#13;
+  teachers, and lack of a consistent support system for teachers. To help to alleviate these&#13;
+  problems, continuous workshops, good networking with experts, and use of ICT in the form&#13;
+  of mobiles or embedded chips can all help to make teacher training easier and more effective.&#13;
+â&#128;¢ In Gujarat State, there are no untrained teachers in government schools, while only 3% of&#13;
+  teachers at private schools are untrained. Good ICT infrastructure, including&#13;
+  video/teleconferencing equipment, exists in each institution, while the curriculum was&#13;
+  reformed for primary schools. The enrolment ratio is more than 98%, the dropout rate is&#13;
+  decreasing, and distance education activities are provided for upper-primary children three&#13;
+  times a week. The only remaining challenge is to improve quality continuously.&#13;
+â&#128;¢ There are 40,000 untrained teachers in Assam State, but a state-initiated teacher training&#13;
+  programme has been initiated for 18,000 of these to date. The NCF has been used as a&#13;
+&#13;
+&#13;
+                                                5&#13;
+&amp;#12;   framework for developing the teacher training curriculum. The main challenge in the state&#13;
+   has been a shortage of DIETs, as there are only 18 currently. This means that there are too&#13;
+   few seats for trainees in all DIETs. In order to train more teachers, various proposals have&#13;
+   been developed to increase the number of training institutions and their capacity. For&#13;
+   instance, there is a proposal for increasing the number of students in each DIET from 100 to&#13;
+   150, and the NCTE has also approved five new DIETs. There is also a proposal to open&#13;
+   DIETs in all districts of the state, as well as 18 block level offices with a capacity to train 50&#13;
+   teachers each. Further, 25,000 teachers have been recruited recently and another 20,000 will&#13;
+   be recruited soon. In addition, the Government of Assam will conduct a Diploma course&#13;
+   through ODL to train teachers and to clear its training backlog.&#13;
+&#13;
+ICT policy in school education in India aims at preparing youth to participate creatively in the&#13;
+establishment, sustenance, and growth of the knowledge society, leading to socio-economic&#13;
+development of the nation and increased global competitiveness. There are three goals: (i) create&#13;
+an environment of collaboration, cooperation, and sharing, conducive to optimal use of, and&#13;
+returns on, ICT investments in education; (ii) motivate wider participation of all sections of&#13;
+society in strengthening the school education process through appropriate use of ICT; and (iii)&#13;
+promote universal, equitable, open, and free access to state-of-the-art ICT and ICT-enabled tools&#13;
+and resources to all stakeholders. To support these goals, various initiatives are in place:&#13;
+&#13;
+â&#128;¢ ICT @ school scheme â&#128;&#147; the Scheme supports ICT infrastructure procurement, as well as&#13;
+  maintenance, running costs, software and e-content, and teacher training costs. In all,&#13;
+  190,643 primary schools and 94,752 Secondary and Senior Secondary schools have been&#13;
+  covered under the Scheme.&#13;
+â&#128;¢ Rashtriya Madhyamik Shiksha Abhiyaan (RMSA) â&#128;&#147; RMSA ensures access to secondary&#13;
+  education to young people from age 14 to 16, with emphasis on quality and equity, upgrading&#13;
+  of upper primary schools, opening of new schools, and strengthening of existing secondary&#13;
+  schools.&#13;
+â&#128;¢ ICT in schools â&#128;&#147; Here, a model curriculum for ICT is to be developed by NCERT.&#13;
+&#13;
+The potential of ICT in teacher education includes its use in teacher resource management and&#13;
+administration, sharing and dissemination of a digital pool of learning resources, teacher capacity&#13;
+building, ongoing teacher support, establishment of a common platform or forum for Teacher&#13;
+Groups, and deployment of tools for evaluation and assessment, lesson plans, and teaching.&#13;
+Challenges and issues include concerns about reach and access, lack of ICT capacity in teacher&#13;
+training and teacher education institutions, lack of an ICT curriculum framework for teacher&#13;
+training, governance issues, and limited budgets.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                 6&#13;
+&amp;#12;Learning From Teacher Education Practices in India&#13;
+&#13;
+Given its role in distance education delivery in India, it seemed appropriate to reflect on lessons&#13;
+learned by IGNOU as a key point of departure. IGNOU was established in September 1985 by&#13;
+an Act of Parliament, to democratize and augment opportunities for higher and continuing&#13;
+education, widen access, and promote a flexible and cost-effective system of education. Two&#13;
+major functions exist for IGNOU: (i) design, develop, and produce programmes and deliver them&#13;
+through ODL; and (ii) promote, coordinate, and maintain standards in open distance learning&#13;
+system in the country through a statutory body, the Distance Education Council (DEC).&#13;
+&#13;
+IGNOU has provided education for over 4 million students in India and 43 other countries. It has&#13;
+21 schools of studies and 425 faculty members and academic staff at headquarters and resource&#13;
+centres. There are 67 regional centres and over 3,000 learner support centres in India.&#13;
+Internationally, there are 80 learner support centres. In all, 36,000 academic counsellors from&#13;
+conventional institutions of higher learning, professional organizations and industry are available&#13;
+to support students. IGNOU is equipped with a network of 40 radio stations, TV channels,&#13;
+EduSat network, e-Gyankosh (national digital repositions to store, preserve &amp; share digital&#13;
+learning resource), virtual classrooms, mobile-phone based learning platform (SMS alert&#13;
+services), on-demand admissions and examinations, webcasting facilities, and a YouTube&#13;
+platform.&#13;
+&#13;
+Course instruction is comprised of self-study printed materials, audio and video materials,&#13;
+assignments, academic counselling, teleconferencing, interactive radio counselling, and&#13;
+dissertation/project work. IGNOU is a nodal agency to implement ODL activities under SSA,&#13;
+and thus helps States to design, develop, and use self-learning training materials. Despite&#13;
+available facilities and infrastructure, there is a problem of inefficient use. Other concerns&#13;
+include the need of improvement in classroom process, quality of learning materials, motivation&#13;
+and readiness of teachers for training, implementation of practical courses, coordination between&#13;
+State Governments and IGNOU, quality assurance, learner support systems, the need for&#13;
+physical (ICT) and human resources, and strengthening of management systems. Resolving these&#13;
+issues is a prerequisite for a successful teacher education programme.&#13;
+&#13;
+Similarly, a distance-learning teacher training programme has been developed by the NIOS for&#13;
+untrained teachers, undertaken in collaboration with the state government of Jharkhand. There&#13;
+are five key areas of collaboration in this kind of ODL engagement: (i) curriculum and course&#13;
+materials; (ii) technology and instruction; (iii) resource persons; (iv) cost sharing; and (v)&#13;
+assessment and certification. Collaboration can be at the individual level, institutional level&#13;
+(placement of resource support), and a consortium level (sharing of expertise). Benefits of&#13;
+collaboration at the individual level include increasing opportunities for professional capacity-&#13;
+building, accessibility and equity, enabling credit transfer, enhancing competencies and level of&#13;
+&#13;
+&#13;
+                                                7&#13;
+&amp;#12;efficiencies, and quality control. At the institutional level, benefits include the expansion of&#13;
+outreach, shared vision, elimination of duplication, establishment of inter-institutional relations,&#13;
+improvement of quality of learning and materials, and innovations in methodologies.&#13;
+&#13;
+The experiences of NIOS indicate that conditions for effective collaborations include: (i) mutual&#13;
+trust and respect; (ii) shared values and vision; (iii) openness and commitment; (iv) mutuality of&#13;
+benefit; (v) credibility and general acceptability; (vi) developmental needs; and (vii) government&#13;
+support. It is essential that the State identifies and ensures availability of infrastructure and&#13;
+resource persons/mentors at the decentralized level, establishes study centres as required by the&#13;
+programme design, ensures eligible resource persons to conduct the contact sessions, identifies&#13;
+locations to conduct contact sessions, and involves state-level resource institutions in delivery.&#13;
+Challenges of collaboration include copyright ownership, institution philosophy and policy&#13;
+directions, dominance of powerful partners, ideological differences, profit sharing formula,&#13;
+administration and logical bottleneck, and time constraints.&#13;
+&#13;
+The Conference agreed that a new teacher education programme in Bihar, which integrates use&#13;
+of ICT, can help to improve educational standards at state-sponsored schools. Linked to this is a&#13;
+need to focus on improving classroom practice. Developing a system of assessment that focuses&#13;
+on studentsâ&#128;&#153; achievement and not on their failures is also an important priority. Modules have to&#13;
+be scalable, replicable, and sustainable. Teacher education programmes need to grapple with the&#13;
+issues of pedagogy and classroom management for a longer time, to enable teachers to become&#13;
+self-reflective and deal with curricular issues and students. One delivery method of teacher&#13;
+education has been tele-education using satellite-based programmes. However, these&#13;
+encountered significant limitations, particularly in the lack of feedback channels and doubts&#13;
+amongst students about the delivery methodology. Also noted was the importance of teachers&#13;
+getting involved in curriculum and textbook development processes, as well as the potential&#13;
+value in harnessing existing materials available from projects and initiatives around India.&#13;
+&#13;
+Currently, English education is introduced at an early stage, usually starting at grade one. Issues&#13;
+in English education include the poor quality of teachersâ&#128;&#153; own proficiency of English, a lack of&#13;
+knowledge in English as a Second Language (ESL) pedagogy, and support for teaching. Current&#13;
+teacher training does not provide courses in ESL pedagogy, thus teachers do not learn its&#13;
+importance and meaning. A suggestion for English teaching methodology is to have a blended&#13;
+approach, which includes both face-to-face engagement between teachers and students and&#13;
+makes teachers autonomous and self-directive by using ICT. Textbooks also need to be teacher&#13;
+friendly and the assessments should be proficiency-based rather than text-based (memory-based).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                 8&#13;
+&amp;#12;International Best Practices and Emerging Innovations&#13;
+&#13;
+&#13;
+Conference delegates â&#128;&#147; and especially speakers from the State of Bihar â&#128;&#147; stressed the importance&#13;
+and value of participants sharing their experience in teacher education and learning from one&#13;
+another. In particular, Shri. Nitish Kumar, Honourable Chief Minister of Bihar, noted that there&#13;
+exist different methodologies to train teachers around the world, so the State of Bihar expressed a&#13;
+desire to learn from others, while keeping in mind the critical question: what are the basic&#13;
+conditions of our existing teachers (in terms of knowledge, adoption capacity) for whom we will&#13;
+provide training? It was noted that it is not feasible to train as many teachers as require training&#13;
+in Bihar through a traditional face-to-face institution, because this would require multiple&#13;
+training institutes. There is insufficient time for this approach, as well as a requirement to ensure&#13;
+high levels of quality. The Conference thus needed to deliberate on innovative solutions to these&#13;
+remaining challenges.&#13;
+&#13;
+Consequently, the Conference provided an opportunity to showcase international best practices&#13;
+and emerging innovations, which are summarized below.&#13;
+&#13;
+â&#128;¢ The â&#128;&#152;English in Actionâ&#128;&#153; programme in Bangladesh is a collaboration between the Bangladesh&#13;
+  University and the Open University, United Kingdom. It focuses on adult learners and&#13;
+  learners from primary and secondary schools. In Bangladesh, English competency of&#13;
+  teachers is low. In order to improve this situation, peer learning and coaching were&#13;
+  introduced. Mobile phones were used with a memory card which had audio/visual data&#13;
+  loaded. As an example of peer learning, teachers talked about what works for one teacher and&#13;
+  shared lessons with others through video. Local accents were used for English materials,&#13;
+  which can be played on the mobile phone. By allocating a quarter of the budget to&#13;
+  monitoring, the programme was able to measure results effectively. It observed substantial&#13;
+  increases in English language use in the classroom, increased opportunities for students to&#13;
+  converse in English, and conducting of proper assessment of speaking abilities of students.&#13;
+  This experience emphasized the importance of enabling teachers through peer learning,&#13;
+  supporting them with adequate materials, and using appropriate technologies which are&#13;
+  practical and readily available.&#13;
+&#13;
+â&#128;¢ Strategic Leadership of ICT (SLICT) was launched in 2001 by the National College of&#13;
+  School Leadership to create leaders who develop e-confident or e-mature organizations. The&#13;
+  programme runs for 10-12 weeks, providing content, challenges, and support, followed by&#13;
+  ongoing engagement during implementation. The programme uses mixed learning styles and&#13;
+  approaches, has continuous facilitated online support (including ongoing membership after&#13;
+  the programme), and focuses on leaders (head teachers / principals). SLICT is not an ICT&#13;
+  skills course, but rather focuses on online and offline self-reflection and development of e-&#13;
+  confidence. It includes a 2.5 day residential programme incorporating school visits, reflection&#13;
+&#13;
+                                                 9&#13;
+&amp;#12;   and debates with peers, sharing of experience combined with expert inputs, and use of ICT in&#13;
+   a curriculum-focused environment. The SLICT started with 150 heads in 2001, and had&#13;
+   trained 13,000 heads by 2006. The National College of School Leadership suggests that there&#13;
+   should be more parental engagement in monitoring and evaluation, self-review and teacher&#13;
+   review should be placed at schools, networks among teacher coordinators and leading&#13;
+   teachers should be developed, and local governments and other organizations in the field of&#13;
+   teacher education should participate in teacher education activities.&#13;
+&#13;
+â&#128;¢ The Commonwealth of Learning (COL) has produced a â&#128;&#152;learning for developmentâ&#128;&#153; course&#13;
+  which focuses on access and quality with ODL and ICT through Open Education Resources&#13;
+  (OER). COLâ&#128;&#153;s intervention for Strengthening Capacity of Teacher Education Institutions&#13;
+  uses ODL to increase the outputs and quality of teachers in teacher education programmes.&#13;
+&#13;
+â&#128;¢ An approach to curriculum development was presented in which the course package has two&#13;
+  components: a study guide and a resource pack compiled from OER. The learner uses&#13;
+  materials from the resource pack according to the requirements of the study guide. This&#13;
+  approach has been adopted with success by two open universities in Sri Lanka and Malaysia:&#13;
+   Ì¶ In Sri Lanka, in a course titled â&#128;&#152;Role of Teacher Educators as a Researcher,â&#128;&#153; which is one&#13;
+      of the six courses in Master in Teacher Education Programme developed by the Open&#13;
+      University of Sri Lanka in collaboration with COL.&#13;
+    Ì¶ In Malaysia, integration of OER into a course titled â&#128;&#152;ICT in Educationâ&#128;&#153; under a Master of&#13;
+      Education Programme offered by Wawasan Open University, which is to be offered in&#13;
+      the July semester of 2012.&#13;
+&#13;
+   The curriculum structure of the courses is different, but a similar constructivist approach was&#13;
+   adopted for curriculum design. The Sri Lankan course adopted a blanket approach of using&#13;
+   an OER course (with adaptation) in Research Methods to support scenario-based learning,&#13;
+   while the Malaysian course used an approach of specifically identifying OER learning&#13;
+   objects to link with every content section. This emphasizes that there is no one-size-fits-all&#13;
+   model of integrating OER into course materials. The main challenges experienced have been&#13;
+   to obtain licences to use technology and print materials. The payment of royalty to&#13;
+   universities which rented the audio-visual material is an obstacle and more relaxation of&#13;
+   licences in developing curriculum is needed.&#13;
+&#13;
+â&#128;¢ TESS-India is a sister project of the Teacher Education in Sab-Saharan Africa (TESSA)&#13;
+  Initiative. The Open University of the UK is initiating the TESS-India project by leveraging&#13;
+  its experience in â&#128;&#152;English in Actionâ&#128;&#153; and TESSA, as well as its extensive Indian network.&#13;
+  TESS-India is an innovative approach based on collaboration and partnership with the&#13;
+  Ministry of Human Resource Development (MHRD) and state governments. The strategic&#13;
+  focus and core principles of the project include: (i) complementing and enhancing in-service&#13;
+&#13;
+&#13;
+                                               10&#13;
+&amp;#12;   training; (ii) availability of classroom-practice based units for teacher educators and teachers&#13;
+   for India; (iii) availability of web-based, print, CD, and audio-video lessons; and (iv) focus&#13;
+   on both the elementary and secondary levels. The timeframe for the project is three years,&#13;
+   from 2012 to 2015, and currently it is operating in seven states, including Assam, Bihar, UP,&#13;
+   MP, Karnataka, and West Bengal.&#13;
+&#13;
+â&#128;¢ The Boston Consulting Group introduced a closed-loop instructional system, which is proven&#13;
+  to achieve better educational outcomes. The framework starts with holistic educational&#13;
+  objectives, then relevant curriculum development and effective delivery, ensuring that&#13;
+  assessments are embedded and allowing for real-time understanding of student performance,&#13;
+  providing appropriate interventions and remediation based on those assessments, and&#13;
+  continually tracking outcomes and learning at the student, teacher, school, and district level&#13;
+  to ensure that all is going well. Technology enables this system to deliver better student&#13;
+  outcomes, faster and potentially at lower cost. Content is no longer a problem, as it comes&#13;
+  from multiple sources, including publishers, universities, teachers, and even passionate&#13;
+  individuals, and most of it is free. The challenge now becomes about navigating, validating,&#13;
+  certifying, and adapting content to fit oneâ&#128;&#153;s needs.&#13;
+&#13;
+â&#128;¢ A government-directed teacher development programme was introduced by the Teacher&#13;
+  Foundation, which trained teachers using Ciscoâ&#128;&#153;s CEED platform and collaborating with the&#13;
+  Department of State Educational Research and Training (DSERT). The objective of this&#13;
+  programme was to use technology to deliver high quality remote training to several hundred&#13;
+  teachers simultaneously at multiple remote locations. The implementation modality included&#13;
+  allocating two lead/expert trainers at a host centre (six batches of 50 teachers each trained&#13;
+  simultaneously in remote locations) and on-site co-facilitators (leveraging the active&#13;
+  engagement of face-to-face training). The pedagogy used for this pilot was to simulate face-&#13;
+  to-face training as much as possible. Positive results included efficient training of 282&#13;
+  teachers with one lead trainer as against 50 teachers in traditional face-to-face training.&#13;
+  Lessons learned from the project included: (i) the lead facilitator behaviour needs to change;&#13;
+  (ii) use of cues â&#128;&#147; visual or auditory â&#128;&#147; is essential to hold the attention of remote students; (iii)&#13;
+  the technology, particularly the web camera, should allow lead trainers to be on their feet and&#13;
+  mobile; (iv) orientation of teachers to the medium is necessary before training; (v) to further&#13;
+  simulate face-to-face training, venues should be equipped with multiple speakers and&#13;
+  cordless microphones; and (vi) the optimum number of participants for this kind of training&#13;
+  should be 30-35 in a reasonably-sized room.&#13;
+&#13;
+â&#128;¢ Also introduced by the Teacher Foundation was a pilot initiative that examined two&#13;
+  questions: (i) how are teachers using Facebook and what benefits are they drawing from it?&#13;
+  and (ii) how are these perceived benefits contributing to the continuing professional&#13;
+  development of teachers? In a six-month study, the Teacher Foundation examined the&#13;
+&#13;
+&#13;
+                                                 11&#13;
+&amp;#12;   following issues: (i) Reflection: Are there opportunities for teachers to reflect on their own&#13;
+   classroom practice? (ii) Peer Networking: Do members interact with peers during the&#13;
+   discussion? (iii) Sharing of classroom practice: Are there opportunities for members to share&#13;
+   examples of classroom practice? and (iv) User-generated content: Do teachers initiate a&#13;
+   discussion or share interesting and useful content on their own ? The mid-term result shows&#13;
+   that there was an increase in the user base from 612 to 1,222, 0.83% of users on average&#13;
+   posted feedback, and there was a 5% increase in membership every month. Results suggest&#13;
+   that informal professional development on a social network is self-initiated, and this enables&#13;
+   teachers to feel empowered.&#13;
+&#13;
+â&#128;¢ There have been various initiatives harnessing teleconferencing in teacher education in India.&#13;
+  In 1975, for example, Satellite Instructional Television Experiments (SITE) was established&#13;
+  and used for maths and science education, while primary teacher training was done through&#13;
+  teleconferencing. In 2005, EDUSAT was launched and it has been equipped with 5,000&#13;
+  terminals-satellites. To date, though EDUSAT has been used in Bihar only for science and&#13;
+  mathematics. EDUSAT has potential to provide video conferencing, as well as night-time&#13;
+  loading and receiving of data. Through EDUSAT, NCERT conducted a 37-day orientation&#13;
+  programme to train teachers on NCF 2005. However, EDUSAT is still not in full use.&#13;
+  Concerns regarding use of teleconferencing include its limited flexibility in programme&#13;
+  design. It is thus important to look at the content development process, build capacity of&#13;
+  experts and coordinators, maintain feedback channels, conduct ongoing research, ensure&#13;
+  optimum use of the network by all involved participants, and maintain hardware to ensure&#13;
+  that it is not stolen and remains in working order. There is a need to design programmes that&#13;
+  enable people to use the technology that is available. Thus, teachers across the country ought&#13;
+  to be trained to explore the potential of EDUSAT for both teachers and students. In order to&#13;
+  use teleconferencing effectively, there is a need for self-instructional materials, visual inputs,&#13;
+  a lot of individual and group activities, telephone facilities for interaction, and internet&#13;
+  connections to interact with a support system.&#13;
+&#13;
+â&#128;¢ CISCOâ&#128;&#153;s â&#128;&#152;Inclusive Growth Groupâ&#128;&#153; was started to provide technology to rural areas to&#13;
+  support education, health, skills development, and public services. The initiative uses cloud-&#13;
+  base services and a replicable, scalable, granular, modular, and measurable model. It seeks to&#13;
+  find technological solutions to virtually transport teachers to rural areas and use this to effect&#13;
+  measurable changes. So far, the project has taught students across 30 locations, delivering&#13;
+  965 virtual classroom sessions over 310 days. Electricity challenges have been solved&#13;
+  through the use of solar panels, and networking supplied by collaborating with Bharat&#13;
+  Sanchar to provide links to remote areas. Teachers were initially sceptical, but now act as&#13;
+  facilitators or co-coordinators when the remote teacher is teaching. Pilots were conducted in&#13;
+  collaboration with SSA and DSERT at nine schools, covering 1,500 students in grades 5-8.&#13;
+  Results from the project have demonstrated that participating students have performed better&#13;
+&#13;
+&#13;
+                                                12&#13;
+&amp;#12;   after the intervention, especially in mathematics, science, and English. Dropout rates have&#13;
+   also decreased and pass rates increased.&#13;
+&#13;
+â&#128;¢ Educomp has engaged in teaching and learning, capacity building of teachers, assessment,&#13;
+  and governance, and currently partners with 14 states. The Educomp Smart Class is in 12,600&#13;
+  schools across the country. The initiative is implemented in collaboration with State&#13;
+  governments. For example, in Haryana state, a 14-day in-service training programme was&#13;
+  provided to 33,000 teachers across the state. The course included training on RTE, CCE, a&#13;
+  bridging course, and content. This experience demonstrated that development of an e-&#13;
+  learning culture requires engagement of learners, teachers, and administrators as key&#13;
+  stakeholders.&#13;
+&#13;
+â&#128;¢ The objective of Save the Children is to build capacity at the national and state level&#13;
+  institutions and within the education department in India by identifying and revising&#13;
+  international models of best practices in the areas of teacher cadre management, school&#13;
+  management, and leadership, with a particular emphasis on inclusive education in a&#13;
+  decentralized context. Inclusive education consists of two processes: (i) increasing&#13;
+  participation in learning; and (ii) identifying and reducing/removing barriers inhibiting&#13;
+  learners from learning and participating. The project covers seven states, including Andhra&#13;
+  Pradesh, Delhi, Gujarat, Jammu and Kashmir, Rajasthan, Orissa, and Himachal Pradesh.&#13;
+  National-level studies have been conducted on teacher cadre management and school-based&#13;
+  management. Constituents of these studies include state committees, district committees, and&#13;
+  village committees. As a result of study visits, seven states have started reforms. Delhi and&#13;
+  Himachal Pradesh now include school leadership, Andhra Pradesh wants to include inclusive&#13;
+  model schools, and Orissa wants to improve learning standards. Currently, save the children&#13;
+  has completed baseline surveys in all schools and Management Information Systems (MIS)&#13;
+  reviews in the states. It will come up with an example curriculum for pre- and in-service&#13;
+  teacher training and will try to institutionalize these reforms.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                      CONFERENCE GROUP DISCUSSIONS&#13;
+&#13;
+As the above summary highlights, the three-day Conference generated a wealth of excellent&#13;
+information and insights to guide effective implementation of teacher education in Bihar using&#13;
+ICT and ODL. Using this wealth of information and the experience of conference delegates, five&#13;
+themes were identified to form a basis for group discussion throughout the conference. A short&#13;
+summary of each groupâ&#128;&#153;s discussion is presented below.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                              13&#13;
+&amp;#12;Curriculum Framework&#13;
+&#13;
+Currently, state personnel have already developed a suitable programme curriculum for teacher&#13;
+education in Bihar. Therefore, the priority is to consider how this curriculum can be delivered via&#13;
+ODL. It is important in this regard to look at models of curriculum available from IGNOU,&#13;
+NIOS, NCTE, and Bihar MHRD, amongst others. The next priority is to select relevant content&#13;
+for developing ODL material that can be used in the teacher training programme to provide&#13;
+certification to untrained working teachers in Bihar. The material should include a lot of&#13;
+examples and experiences, not just theoretical content.&#13;
+&#13;
+The group made the following key recommendations:&#13;
+1) Use the same modules for training both newly recruited and untrained teachers (while&#13;
+   accommodating the experience of working untrained teachers within the model);&#13;
+2) Reorganize and shift the syllabus/content spread over two years for content enrichment of&#13;
+   teachers and in order to ensure deep capacity building;&#13;
+3) Incorporate a rigorous action research component for in-service teacher trainees;&#13;
+4) Contextualize content to make it specific to Bihar;&#13;
+5) Supply guidelines/principles for the development of materials as part of the curriculum&#13;
+   guidelines.&#13;
+&#13;
+&#13;
+&#13;
+Development of Learning Materials&#13;
+&#13;
+The group identified four key roles for learning materials:&#13;
+&#13;
+1) Capturing and communicating the paradigm shift;&#13;
+2) Increasing teachersâ&#128;&#153; competence, by building teachersâ&#128;&#153; understanding of the subject, their&#13;
+   content knowledge, and capabilities within the subject in light of contemporary&#13;
+   understanding.&#13;
+3) Enabling improved performance of teachers;&#13;
+4) Enhancing the likelihood of teacher â&#128;&#152;effectivenessâ&#128;&#153;.&#13;
+&#13;
+Within this context specific advantages were identified in use ICT material. For example, video&#13;
+lessons can demonstrate what can actually be done, or dynamic visuals of shapes enable children&#13;
+to combine different shapes to come up with new ones. ICT materials can be interactive and can&#13;
+enable the creation of a â&#128;&#152;community of learnersâ&#128;&#153;. Material can take the learner to the mastery&#13;
+level through the greater range and more dynamic as well as higher level exposure, and&#13;
+opportunities to act or do (with their minds). ICT Materials can facilitate the improvement of:&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                14&#13;
+&amp;#12;â&#128;¢ Relationships: by making learners think, sympathize with others (for example, if we choose&#13;
+  â&#128;&#152;charactersâ&#128;&#153; they can relate with), make evident (for example, in videos about classroom&#13;
+  practices) the kind of relationships that are desired and inviting teachers to reflect on them.&#13;
+  Also, if the material is such that children and teachers learn something together, it will have a&#13;
+  significant impact.&#13;
+â&#128;¢ Processes: by actually using constructivist pedagogy, encouraging the learner to struggle&#13;
+  with, discover, form her own opinion and justify it, and so on.&#13;
+â&#128;¢ Outcomes: by focusing on higher order outcomes, or emphasizing those outcomes that really&#13;
+  matter (but are often ignored) such as critical thinking, creativity, and the like.&#13;
+&#13;
+It was noted that the following principles should underpin materials development:&#13;
+&#13;
+â&#128;¢ Use of universal design principles (UDL) in architecture to increase accessibility by a range&#13;
+  of people, including those with limited access to language.&#13;
+â&#128;¢ Relevance (for my life, needs), as well as fitness to context, purpose, and needs.&#13;
+â&#128;¢ Development curiosity, avoiding giving â&#128;&#152;finishedâ&#128;&#153; knowledge, with fixed positions. It would&#13;
+  be helpful to give options, enable learners to choose, give their reasons, and so on.&#13;
+â&#128;¢ Presentation of a range of perspectives rather than a single one.&#13;
+â&#128;¢ Respect diversity and see it as vital to making a vibrant, effective classroom.&#13;
+â&#128;¢ Flexibility, adaptability and learner â&#128;&#152;controlâ&#128;&#153; over material and learning.&#13;
+â&#128;¢ Enable constructivist learning, including collaborative learning.&#13;
+&#13;
+Quality was also identified as critical. Material should not only include philosophy, but also give&#13;
+concrete examples. It is important to have contemporary and future-looking material, in line with&#13;
+where we want to go. The developers too need to be curious about knowledge, about the&#13;
+direction in which it is going to grow. Knowledge is not finite, and provision for this growth&#13;
+needs to be built in. The language needs to be easily understood. Material should enable the&#13;
+teacher to effectively communicate with children. Content should not be chapter-based but based&#13;
+on learning outcomes (from the curriculum, rather than the syllabus). It is also important to&#13;
+enable teachers to address all the possible situations that s/he will face in the class (for example,&#13;
+questions that children might ask and what to do about them).&#13;
+&#13;
+The group identified four steps in material development:&#13;
+&#13;
+1) Team identification: the team should be comprised of people from different sections and&#13;
+   layers. They need to be oriented in a number of aspects and agree on roles and&#13;
+   responsibilities. The team approach assumes that people have certain qualifications and&#13;
+   understanding of the topic. The team would need to understand the Bihar Curriculum&#13;
+   Framework (BCF) and its approach. Orientation is required on creativity, conceptualization,&#13;
+   and visualization â&#128;&#147; across different media and subjects.&#13;
+&#13;
+&#13;
+                                                 15&#13;
+&amp;#12;2) Pre-development: in this stage, the curriculum is converted into a course structure. It is also&#13;
+   important to understand teachers and assess their needs, agree on the role and needs of&#13;
+   materials, survey available materials, and identify materials and put them into a framework&#13;
+   and learning flow.&#13;
+&#13;
+3) Development: this comprises the following key steps:&#13;
+   a) Develop exemplars:&#13;
+      i) Make a few exemplars for the key categories (rather than starting on full-scale&#13;
+           material development).&#13;
+      ii) Agree upon the overall structure for each â&#128;&#152;unitâ&#128;&#153; of learning; in terms of â&#128;&#152;outlineâ&#128;&#153; or&#13;
+           frame. Identify the different communication / learning methodologies to be used, then&#13;
+           make a few exemplars.&#13;
+   b) â&#128;&#152;Field testâ&#128;&#153; or â&#128;&#152;feedbackâ&#128;&#153; on exemplars (rapid):&#13;
+      i) Get feedback on draft material â&#128;&#147; from users, teacher educators, teachers, and on the&#13;
+           basis of observation of classroom, transaction, and impact on childrenâ&#128;&#153;s learning.&#13;
+      ii) Improve the exemplar.&#13;
+      iii) Based on this, finalize a set of guidelines.&#13;
+   c) Test the dissemination strategy.&#13;
+   d) Develop the materials:&#13;
+      i) Create the material.&#13;
+      ii) Work in small teams.&#13;
+      iii) Editorial teams put together the work of small teams.&#13;
+      iv) Get continuous feedback to the extent possible.&#13;
+   e) Finalize the Year 1 â&#128;&#152;packageâ&#128;&#153;:&#13;
+      i) Finalize the learning package.&#13;
+      ii) Do a quick review of the material as a package, peer review.&#13;
+&#13;
+4) Post-development, comprising the following key components: D&#13;
+   a) Disseminate materials, initiate their use, and start getting feedback. Implementation&#13;
+      during the first year will be the pilot. While the overall learning framework will be&#13;
+      developed as a whole, the material itself will be developed in phases. While the first&#13;
+      yearâ&#128;&#153;s material is being developed and implemented (and feedback on it collected), the&#13;
+      second yearâ&#128;&#153;s material development will begin. Thus, it is important to put in place a&#13;
+      feedback mechanism and a way to continue improving.&#13;
+   b) Orientation of facilitators. Most of the learning will be of the self-learning kind, and&#13;
+      facilitatorsâ&#128;&#153; role will be more in terms of support, discussion, contact sessions, quality&#13;
+      assurance, and so on. Facilitators will meet, share issues, and get oriented. Generally, a&#13;
+      limited role is envisaged for facilitators. Facilitators help a learning community to come&#13;
+      about.&#13;
+&#13;
+&#13;
+&#13;
+                                               16&#13;
+&amp;#12;DE Strategy and Hardware Architecture&#13;
+&#13;
+A number of key attributes were identified. The strategy should:&#13;
+â&#128;¢ Provide models of good practice to teachers, being carried out by their peers, in schools in&#13;
+   similar contexts to their own;&#13;
+â&#128;¢ Enable teachers to participate in effective learning experiences themselves, characterised by&#13;
+   respect, their knowledge and experiences being valued, and being given space to consider&#13;
+   and explore new ideas with the support of their peers;&#13;
+â&#128;¢ Use a school-based teacher development and support model;&#13;
+â&#128;¢ Include head teachers, and incorporate aspects of improving school leadership;&#13;
+â&#128;¢ Relate to and involve the wider local educational system, including CRCs, DIETs and so&#13;
+   forth, including teacher educators.&#13;
+&#13;
+Using technology, teachers should be able to:&#13;
+â&#128;¢ View videos of good classroom practice and reflect on them;&#13;
+â&#128;¢ Use technology for doing practice exercises in their respective subjects;&#13;
+â&#128;¢ Conduct self-assessments to enhance their own subject capability;&#13;
+â&#128;¢ Engage with their students in warm, constructive ways;&#13;
+â&#128;¢ Use ICT for planning and documenting lessons;&#13;
+â&#128;¢ Use classroom technologies â&#128;&#147; mobile, laptop, computer and LCD projector â&#128;&#147; for ensuring&#13;
+   effective student learning;&#13;
+â&#128;¢ Share and network with peers and colleagues on professional issues within the cluster, block,&#13;
+   and across the district and state.&#13;
+&#13;
+In order to achieve these objectives, access to a wider network for resources is recommended,&#13;
+while enabling teachers to make their own choices and create their own learning materials. It is&#13;
+also important to provide ICT infrastructure that can support teacher educators. In terms of&#13;
+stakeholder engagement, overall coordination and support at state, district, block, and&#13;
+institutional levels are needed. It is important to equip SCERT and district-level coordination and&#13;
+support centres with broadband networks and tiered caches to enable provision of support to&#13;
+DIET and BRC teacher educators, sharing collected OER resources, and access to wider&#13;
+resources and networks. It is also necessary to equip teacher trainees with laptops and video-&#13;
+conferencing capabilities to facilitate communication and resource development. Also, it is&#13;
+recommended to provide broadband connections and wi-fi hotspots to provide access for&#13;
+teachers. The project should tap solar energy wherever possible, and allocate coordinators to be&#13;
+in touch with CRCs and BRCs. A wide range of hardware can be used by teachers: tablet&#13;
+computers and similar devices, and laptops. Depending on budgetary constraints, either tablet&#13;
+computers (for accessing materials) or OLPC (for accessing, creating and sharing materials)&#13;
+might be recommended.&#13;
+&#13;
+&#13;
+&#13;
+                                                17&#13;
+&amp;#12;Key additional recommendations made were as follows:&#13;
+&#13;
+â&#128;¢ The majority of procurement should not experience any major obstacles, apart from&#13;
+  timescale and assuming there are agreed procurement procedures to follow. Strong&#13;
+  procurement should bring any of the equipment options in at a lower total price, especially&#13;
+  where there is some competition in the market space.&#13;
+â&#128;¢ Internet bandwidth is challenging and, whilst the programme should aim for the best that can&#13;
+  be afforded or delivered, it would be important to have appropriate linked caching systems so&#13;
+  that what bandwidth is provided is supported.&#13;
+â&#128;¢ Power is a major issue. Some solutions are suggested, including UPSs at key sites, exploiting&#13;
+  solar provision, and ensuring that any procurement of technology solutions for teachers and&#13;
+  field staff are as battery efficient as possible. It would also be important to consider power&#13;
+  provision for rural locations not in isolation, but to consider carefully other initiatives and&#13;
+  potential links for joint funding for provision.&#13;
+â&#128;¢ Cost of equipment and infrastructure will be a challenge, and so it is recommended that&#13;
+  existing and planned technology facilities are taken into account in the planning. Although&#13;
+  very sensible, there might be obstacles relating to current owners and funders, senior state&#13;
+  support may be needed to drive opportunities and efficiencies through.&#13;
+â&#128;¢ ICT provision is often undone by a lack of funding for and delivery of technical support.&#13;
+  Technical support will be challenging as a result of the conditions and distributed nature of&#13;
+  the programme. It is suggested that careful consideration is given to Technical Support and&#13;
+  that systems are included so that remote management of equipment and software can be&#13;
+  achieved. Also, robustness of equipment should be considered carefully against cost to&#13;
+  reduce demand on technical support.&#13;
+â&#128;¢ A costing exercise should be initiated to establish what can be afforded within the funds&#13;
+  available, and if there is any need/potential for applying for or accessing further funds.&#13;
+â&#128;¢ In parallel:&#13;
+   Ì¶ A detailed functional specification should be developed, tested and then, after any&#13;
+          revision, converted into a detailed technical specification.&#13;
+    Ì¶ Based on the estimated costing, and considering viability, potential procurement&#13;
+          approaches and specification work, a brief and plan should be established and agreed for&#13;
+          procurement, delivery, roll-out and installation, training and implementation.&#13;
+â&#128;¢ Based on experience of other large schemes, there should be some phasing of the roll-out&#13;
+  phase to ensure the most successful outcome.&#13;
+â&#128;¢ Success would be achieved if the:&#13;
+     Ì¶ Functional and technical specifications are produced on time and to quality;&#13;
+      Ì¶ Process draws real competition for excellent pricing against the market for equipment;&#13;
+       Ì¶ Delivery and installation phase is completed to budget, time, and brief;&#13;
+        Ì¶ Uptime of equipment and networking is above an agreed level (to be determined in&#13;
+          specification phase);&#13;
+&#13;
+                                               18&#13;
+&amp;#12;    Ì¶   Feedback on the equipment from users is positive.&#13;
+&#13;
+&#13;
+&#13;
+Delivery of Materials and leaner support system&#13;
+&#13;
+Five principles for the material delivery and learner support system were identified:&#13;
+&#13;
+1) Collaborative learning is very important and ICT can support this.&#13;
+2) The most effective development is close to the classroom. ICT can bring support close to the&#13;
+    teacher in the classroom.&#13;
+3) A wide range of team members is required to devise learning support strategies. This team&#13;
+    should represent different voices â&#128;&#147; district, state, block, and teacher level.&#13;
+4) It is important to pilot different distribution mechanisms.&#13;
+5) There needs to be regular sharing and reflective meetings.&#13;
+Three action areas are recommended: (i) provision of capacity building throughout the system&#13;
+and engagement of people in designing, testing and implementing; (ii) recruitment of teaching&#13;
+champions who have good interpersonal skills and are close to classroom realities; and (iii)&#13;
+creation of a system to enable the voices of teachers to be heard when designing the curriculum.&#13;
+In order to achieve these, it is important to take into account contextual realities, a need for&#13;
+alternative approaches to provide teachers access to audio/video resources, and the assessment of&#13;
+current teacher support systems in the classroom to identify areas of improvement.&#13;
+&#13;
+&#13;
+&#13;
+Monitoring and Evaluation (M&amp;E)&#13;
+&#13;
+The concepts of monitoring and evaluation are distinct, but closely related and the line between&#13;
+them is blurred. It is thus important to define carefully how each concept has been used in the&#13;
+context of this plan.&#13;
+â&#128;¢ Monitoring is regarded as a type of formative evaluation and continuous observation of&#13;
+   implementation progress. Typically, monitoring makes use of routine management&#13;
+   information to establish the extent to which targets, outcomes and/or goals are being&#13;
+   achieved, and to identify changes occurring. Monitoring usually focuses on the ongoing&#13;
+   tracking of inputs, processes and outputs of a strategy or intervention over time. Continuous&#13;
+   monitoring and data inflow is also a source for decision-making, programme planning, and&#13;
+   course correction.&#13;
+â&#128;¢ Evaluation involves the interpretation of monitoring data to discern, explain and assess&#13;
+   changes, trends, patterns and causalities. Evaluation research seeks to understand the impact&#13;
+   that a strategy or intervention is having and is focused on the implications of what&#13;
+   monitoring data shows. In sum, evaluation research takes a deeper and more complex look at&#13;
+   monitoring data, and often includes the collection of additional research data to inform&#13;
+&#13;
+                                                19&#13;
+&amp;#12;   evaluative conclusions about impact. Often, evaluation research will raise further questions&#13;
+   that need to be considered in later evaluation studies.&#13;
+&#13;
+Key principles of M&amp;E identified were as follows:&#13;
+&#13;
+1) Design of the M&amp;E Framework should be tightly integrated with overall project design, to&#13;
+   ensure that indicators of success defined for the overall project drive the design of the M&amp;E&#13;
+   and to enable the ongoing development of the M&amp;E Framework to inform the final project&#13;
+   design.&#13;
+2) M&amp;E activities should be an integral component of project delivery from the outset of the&#13;
+   project. Rather than seeing M&amp;E as an outside and largely inspectorial function, it should be&#13;
+   tightly integrated with the project management processes so that it can serve to inform and&#13;
+   improve project delivery on an ongoing basis.&#13;
+3) The number of indicators of success to be measured through both monitoring and evaluation&#13;
+   should be kept very few and as simple as possible. Once defined, these few indicators should&#13;
+   inform design of all aspects of the M&amp;E Framework, such as design of a Management&#13;
+   Information System (MIS) for the project and implementation of a baseline audit.&#13;
+4) An MIS system designed for the project should be an integral component of the project&#13;
+   management systems, rather than being maintained simply for M&amp;E purposes, in order to&#13;
+   ensure that it is used and kept up to date on a daily basis.&#13;
+5) Development of both the project and the M&amp;E Framework should incorporate inputs from a&#13;
+   wide range of players, including: teachers, teacher unions, students, school principals,&#13;
+   government representatives, parents, and school students. In addition, the actual M&amp;E&#13;
+   activities should make provision for a wide range of ongoing, self-evaluation activities by&#13;
+   project participants so that they are actively involved in the evaluation rather than just being&#13;
+   passive subjects of evaluation.&#13;
+6) The monitoring function will be done internally (i.e. by those involved in day-to-day project&#13;
+   implementation and management) and evaluation will be conducted by a researcher or&#13;
+   research team who are not part of the implementation process.&#13;
+7) A dedicated percentage (proposed to be 5%) of the overall project budget should be ring-&#13;
+   fenced for project evaluation in order to ensure that the M&amp;E Framework is properly&#13;
+   resourced. This is considered important not for the sake of M&amp;E, but rather to ensure that&#13;
+   M&amp;E activities can contribute directly to increased efficiencies and improved performance in&#13;
+   the project on an ongoing basis.&#13;
+&#13;
+The M&amp;E Framework should include measurement of the following key aspects of the project,&#13;
+with activities considering a range of inputs, processes, and outputs:&#13;
+&#13;
+1) Project targets:&#13;
+   a) Infrastructural reach of the project;&#13;
+&#13;
+&#13;
+                                                20&#13;
+&amp;#12;   b) Flow of finances in the project;&#13;
+   c) Deployment of human capacity to implement project, combined with improvements in&#13;
+      capacity (particularly amongst teacher education providers).&#13;
+&#13;
+2) Effect of the programme:&#13;
+   a) Number of teachers trained;&#13;
+   b) Evidence of knowledge transfer;&#13;
+   c) Identified changes in classroom practice occurring as a result of project implementation;&#13;
+   d) Growth in community confidence in schooling.&#13;
+&#13;
+3) Development of people:&#13;
+   a) Measurable improvements in teacher and teacher educator competence;&#13;
+   b) Extent to which project has met needs and aspirations of participating teachers.&#13;
+&#13;
+Ultimately, it is expected that collection and analysis of data across indicators of success drawn&#13;
+from the above list will cohere into a form that enables deep and meaningful assessment of the&#13;
+extent to which the project has created:&#13;
+&#13;
+1) Cost benefit;&#13;
+2) Efficiency gains (as well as any potential unintended negative consequences leading to&#13;
+   increases in inefficiencies);&#13;
+3) Continuity, enabling continuation of activities to a next level or into a next phase of activity&#13;
+   after the project is complete.&#13;
+&#13;
+Detailed activities for the M&amp;E Framework cannot be designed without first defining the&#13;
+proposed indicators of success. Nevertheless, the following broad structure of activities is&#13;
+proposed:&#13;
+&#13;
+1) Baseline audit. It is proposed that the evaluation should commence with an initial baseline&#13;
+   audit. Ideally, this activity could commence in parallel and also contribute to the project&#13;
+   design, as should be possible to initiate this almost immediately. The baseline can then be&#13;
+   used as a core data set against which future progress can be measured. The baseline should&#13;
+   seek to capture:&#13;
+   a) Needs and aspirations of targeted teachers; and immediate school community (parents,&#13;
+       guardians, and children).&#13;
+   b) Capacity development needs of possible teacher education providers;&#13;
+   c) Material realities in contexts in which programme delivery will take place, including&#13;
+       regulatory and physical capacity constraints, willingness and motivation of the&#13;
+       implementing cadres, etc;&#13;
+   d) Baseline Overview of classroom practices.&#13;
+&#13;
+&#13;
+                                                21&#13;
+&amp;#12;2) Design and implementation of online MIS System, which uses data from baseline audit as its&#13;
+    starting data set and then is used throughout the project as a core project management tool,&#13;
+    from which data for M&amp;E activities can be drawn.&#13;
+3) Establish and, as necessary, develop a team of M&amp;E professionals, to be a mix of in-house&#13;
+    and external experts. Though M&amp;E is envisaged as an integral role of implementation, the&#13;
+    M&amp;E cadre would largely be a conscience keeper and problem-solver in matters of&#13;
+    interpretation, data conflict, or overall analysis.&#13;
+4) Completion of a Recognition of Prior Learning (RPL) activity for all teachers, in order to&#13;
+    measure levels of competence up front and identify possibilities for credit exemptions (with&#13;
+    RPL exercises forming a core part of the baseline data set).&#13;
+5) Completion of a series of quarterly, rapid-fire project evaluation exercises for the first 12-18&#13;
+    months, in order to enable the M&amp;E team to contribute to resolving key implementation&#13;
+    challenges and thereby ensuring that the later evaluation activities are not falsely influenced&#13;
+    by implementation problems.&#13;
+6) Integration of ongoing monitoring activities into project management structures, systems, and&#13;
+    processes, so that they are not conceptualized as running parallel to the overall project&#13;
+    implementation.&#13;
+7) Completion of a series of triangulated evaluation activities on an ongoing basis (precise&#13;
+    methodology to be determined by project timing and indicators of success), including:&#13;
+    a) Surveys/questionnaires;&#13;
+    b) Interviews;&#13;
+    c) Focus groups;&#13;
+    d) Observations;&#13;
+    e) Possible early use of â&#128;&#152;controlâ&#128;&#153; groups in schools â&#128;&#147; comprising teachers not yet enrolled in&#13;
+        programme â&#128;&#147; in order to compare classroom practices run by teachers being trained and&#13;
+        not being trained;&#13;
+    f) Self-assessment tools (including possible use of mobile apps);&#13;
+    g) Analysis of teacher assessment outputs;&#13;
+    h) Expert reviews of key outputs (e.g. curriculum content, deployment of LMS, technology&#13;
+        architecture, etc).&#13;
+8) Production of an annual formative evaluation report to inform project implementation;&#13;
+9) Completion of a final summative evaluation report, to share lessons learned with the outside&#13;
+    world.&#13;
+10) Possible publication of academic journal articles to enable integration of project knowledge&#13;
+    into global knowledge pools.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                22&#13;
+&amp;#12;                          CONCLUSION: KEY MESSAGES&#13;
+&#13;
+The objective of the conference was to generate ideas on how to deliver teacher training in Bihar&#13;
+using ICT and ODL. Deliberations focused on material production and media selection, as well&#13;
+as production and dissemination strategies. The Conference considered alternative strategies to&#13;
+train teachers effectively â&#128;&#147; for example, use of OLPC, mobile phones, and other innovative&#13;
+delivery methodologies. Areas of discussion started at policy level and were then taken to the&#13;
+operational level. Both the Indian and international contexts were discussed, while group&#13;
+sessions on implementable actions took place. Key issues discussed included national&#13;
+interventions in ICT, distance education in India, curriculum and statutory requirements, building&#13;
+on existing experience and materials, institutional contributions, innovative technologies, non-&#13;
+traditional training for larger gains, non-government and private sector inputs, state experiences,&#13;
+and training needs analysis. Through this exploration, the Conference has generated a wide range&#13;
+of excellent ideas that will inform the development and implementation of effective teacher&#13;
+education in Bihar.&#13;
+&#13;
+Key messages emerged across the Conference that can usefully be taken into account during&#13;
+programme planning. These are as follows:&#13;
+&#13;
+1) Given the challenges facing the State of Bihar, there are many innovative educational&#13;
+   strategies and approaches that have been deployed, both in India and around the world that&#13;
+   can be effectively harnessed to solve the problem of certifying teachers in the State. New ICT&#13;
+   tools, in particular, offer innovative options for finding creative solutions to the Stateâ&#128;&#153;s&#13;
+   challenges.&#13;
+&#13;
+2) The design and selection of educational strategies and blend of learning methodologies in&#13;
+   any teacher certification programme needs to take into account contextual realities in Bihar.&#13;
+   Any use of technology identified must be designed to work successfully even in the most&#13;
+   challenging rural environments in the State, and should accommodate the ICT proficiency&#13;
+   levels of students and teacher educators alike.&#13;
+&#13;
+3) Implementation of a teacher certification programme in Bihar needs to focus strongly on&#13;
+   developing institutional capacity for ongoing teacher education in the State that can be&#13;
+   sustained well beyond the life of the project.&#13;
+&#13;
+4) Although ICT and ODL provide excellent strategies for solving the challenge of teacher&#13;
+   education in the State, it is noted that ODL has historically faced immense challenges when it&#13;
+   has not included sufficient student support. Because of this, it is essential to ensure that&#13;
+   effective use of face-to-face sessions and interaction is integrated into the design of the&#13;
+   programme.&#13;
+&#13;
+&#13;
+                                                23&#13;
+&amp;#12;5) There is a wealth of existing expertise, content (particularly OER), and other valuable&#13;
+   resources available, both within India and internationally. This should all be harnessed during&#13;
+   programme development, both to accelerate the development process and to ensure that the&#13;
+   programme builds on the best of what is available locally and globally.&#13;
+&#13;
+6) There is strong commitment from all key players represented in the Conference to ensure that&#13;
+   a high quality, innovative ICT-based teacher education programme is developed and&#13;
+   delivered in Bihar, which simultaneously focuses on building effective institutional capacity&#13;
+   and accompanying ICT infrastructure within the State for ongoing teacher professional&#13;
+   development.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                               24&#13;
+&amp;#12;</ml:original-txt><ml:search-metadata><doc id="20104548">
+        <url>
+            http://documents.worldbank.org/curated/en/2014/06/20104548/international-conference-use-ict-odl-teacher-education-bihar-india
+        </url>
+        <availablein>English</availablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2014/06/20104548/international-conference-use-ict-odl-teacher-education-bihar-india</url_friendly_title>
+        <new_url>2014/06/20104548/international-conference-use-ict-odl-teacher-education-bihar-india</new_url>
+        <disclosure_date>2014-08-13T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2014-08-13T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/08/13/000470435_20140813143805/Rendered/INDEX/899820NWP0SA0h00Box385296B00PUBLIC0.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/08/13/000470435_20140813143805/Rendered/PDF/899820NWP0SA0h00Box385296B00PUBLIC0.pdf</pdfurl>
+        <docdt>2014-06-01T00:00:00Z</docdt>
+        <datestored>2014-08-13T00:00:00Z</datestored>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            International conference on use of ICT and
+            ODL in teacher education : Bihar, India
+        </repnme>
+        <abstracts>
+            With Sarva Shiksha Abhiyan (SSA)
+            transitioning towards the Right To Education (RTE), teacher
+            education institutions and systems need to be fully geared
+            up to meet the demands of pre-service and in-service teacher
+            education and their ongoing professional development. Most
+            states do not have adequate systems to provide the necessary
+            cadres of trained elementary level school teachers. It is
+            thus important to enhance the roles and capacities of
+            teacher education institutions in India to support them to
+            become globally competitive, professionally managed, and
+            futuristically progressive to cater to the needs of huge
+            back logs of untrained teachers. This training is crucial to
+            ensure that children at the elementary levels get quality
+            education in accordance with the National Curriculum
+            Framework (NCF) 2005 and its basic tenets of child centered pedagogy.
+        </abstracts>
+        <docna>
+            International conference on use of ICT and
+            ODL in teacher education : Bihar, India
+        </docna>
+        <display_title>International conference on use
+            of ICT and ODL in teacher education : Bihar, India</display_title>
+        <listing_relative_url>/research/2014/06/20104548/international-conference-use-ict-odl-teacher-education-bihar-india</listing_relative_url>
+        <count>India</count>
+        <lang>English</lang>
+        <sectr>Education</sectr>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            academic staff, access to language, access
+            to secondary education, achievement, addition, adult
+            learners, assessment tools, basic education, classroom,
+            classroom management, classroom practice, collaborative
+            learning, colleges, commitment to education, constructivist
+            approach, constructivist pedagogy, continuing education,
+            correspondence education, course materials, course
+            structure, credit transfer, critical thinking, Curriculum,
+            curriculum content, curriculum design, curriculum
+            development, curriculum structure, decentralization,
+            Distance Education, Distance Learning, distance mode,
+            drawing, dropout rate, Dropout rates, education activities,
+            education curriculum, education delivery, education
+            department, Education Programs, education providers,
+            education system, Education Technology, educational
+            objectives, educational outcomes, Educational Research,
+            educational standards, educational strategies, educational
+            system, effective learning, English teaching, enrolment
+            ratio, faculty members, formative evaluation, global
+            competitiveness, global knowledge, head teachers, higher
+            learning, Human Development, Human Resource Development,
+            human resources, human rights, illiteracy, inclusive
+            education, Information Systems, instruction, instructional
+            materials, Instructional Television, interactive radio,
+            interventions, investments in education, knowledge society,
+            Leadership, learner support, Learning, Learning Materials,
+            learning outcomes, learning resources, learning styles,
+            lesson plans, mathematics, meaning, model curriculum,
+            National Curriculum, National Curriculum Framework, National
+            Open University, number of students, number of teachers,
+            Open Education, open universities, opportunities for
+            teachers, Papers, peer review, philosophy, primary children,
+            primary schools, Primary Teacher, Primary Teacher Education,
+            primary teacher training, private schools, proficiency,
+            publishers, Pupil-Teacher Ratio, quality assurance, quality
+            education, quality of education, quality of teachers, radio,
+            radio stations, recruitment of teachers, remote teacher,
+            Research Methods, Resource Center, resource centres,
+            retention of students, Right to Education, rural areas,
+            rural locations, school attendance, school community, school
+            education, school management, school principals, school
+            students, school teachers, school visits, Schooling,
+            schools, science education, Second Language, secondary
+            education, Senior Secondary schools, service training,
+            skills development, speaking, student learning, student
+            outcomes, student performance, student support, study
+            centres, summative evaluation, syllabi, syllabus, Teacher,
+            teacher assessment, teacher certification, teacher
+            development, Teacher Education, teacher education
+            institutes, Teacher Education Institutions, Teacher
+            Education Programs, teacher educators, teacher professional
+            development, teacher requirements, teacher support, teacher
+            trainees, teacher training, teacher unions, teaching, TEI,
+            textbook, textbook development, Textbooks, trainees,
+            training costs, training institutes, training institutions,
+            training materials, training needs, training programme,
+            training programmes, untrained teachers, virtual classrooms,
+            visual material, young people, youth
+        </keywd>
+        <majtheme>Human development</majtheme>
+        <projn>IN-Teacher Education And Professional
+            Development- International B -- P126759</projn>
+        <topic>Primary Education m1326139 480,Tertiary Education m1326349 482,Education Access and Equity m1327050 2127,Curriculum Development m1327282 1556,Education for All m1327049 1467</topic>
+        <subtopic>Curriculum &amp; Instruction,Teaching and Learning,Primary Education,Education For All,Tertiary Education</subtopic>
+        <docty>Working Paper (Numbered Series)</docty>
+        <teratopic>Education</teratopic>
+        <entityids>
+            <entityid>000470435_20140813143805</entityid>
+        </entityids>
+        <geo_region_mdks>
+            <geo_region_mdk>World!$!80475</geo_region_mdk>
+            <geo_region_mdk>Asia!$!80451</geo_region_mdk>
+            <geo_region_mdk>South Asia!$!80470</geo_region_mdk>
+        </geo_region_mdks>
+        <admreg>South Asia,South Asia</admreg>
+        <subsc>General education sector</subsc>
+        <theme>Education for all</theme>
+        <colti>South Asia : human development sector
+            discussion paper series ; no. 72</colti>
+        <historic_topic>Education</historic_topic>
+        <prdln>Technical Assistance (Non-lending)</prdln>
+        <topicv3>Primary Education m1326139 480,Tertiary Education m1326349 482,Education Access and Equity m1327050 2127,Curriculum Development m1327282 1556,Education for All m1327049 1467</topicv3>
+        <owner>Office of the Regional Vice Pres (SARVP),Education - GP (GEDDR)</owner>
+        <trustfund>TF010911-Teachers Education</trustfund>
+        <geo_regions>
+            <geo_region>World</geo_region>
+            <geo_region>Asia</geo_region>
+            <geo_region>South Asia</geo_region>
+        </geo_regions>
+        <repnb>89982</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>ICT</ml:concept><ml:concept>ICT for Development</ml:concept><ml:concept>Information Technology</ml:concept><ml:concept>Information and Communication Technologies (ICT)</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Teaching and Learning</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Social Protections and Labor</ml:concept><ml:concept>Information and Communication Technologies</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Fragility, Conflict and Violence</ml:concept><ml:concept>Education</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Social Protection and Labor</ml:concept><ml:concept>Human Resource Management Capacities</ml:concept><ml:concept>Human Resource Management Systems</ml:concept><ml:concept>Staffing Needs Assessments</ml:concept><ml:concept>Teacher Professional Development</ml:concept><ml:concept>Educational Technology and Distance Education</ml:concept><ml:concept>Radio, Television Instruction</ml:concept><ml:concept>Curriculum Reform</ml:concept><ml:concept>Textbooks</ml:concept><ml:concept>Basic Education</ml:concept><ml:concept>Education Quality</ml:concept><ml:concept>Quality and Education</ml:concept><ml:concept>Distance Education</ml:concept><ml:concept>Education Information Systems</ml:concept><ml:concept>Education Technology</ml:concept><ml:concept>Education and Technology</ml:concept><ml:concept>Education for the Knowledge Economy</ml:concept><ml:concept>ICT and Education</ml:concept><ml:concept>Infrastructure Management</ml:concept><ml:concept>Research and Development</ml:concept><ml:concept>Research and Development Commercialization</ml:concept><ml:concept>Research and Innovation</ml:concept><ml:concept>Decentralization</ml:concept><ml:concept>Deconcentration</ml:concept><ml:concept>Delegation</ml:concept><ml:concept>Devolution</ml:concept><ml:concept>Sub-National Administration</ml:concept><ml:concept>Subnational Government and Decentralization</ml:concept><ml:concept>Analysis &amp; Monitoring</ml:concept><ml:concept>Delivery Units</ml:concept><ml:concept>Grievance Redress</ml:concept><ml:concept>Indicators</ml:concept><ml:concept>M&amp;E</ml:concept><ml:concept>Performance Measurement</ml:concept><ml:concept>Performance Reviews</ml:concept><ml:concept>Rapid Results Approaches</ml:concept><ml:concept>Curriculum &amp; Instruction</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Boundaries</ml:concept><ml:concept>Human Resources</ml:concept><ml:concept>Examinations</ml:concept><ml:concept>Teacher Training</ml:concept><ml:concept>Curriculum Development</ml:concept><ml:concept>Teaching and Learning Materials</ml:concept><ml:concept>Satellites</ml:concept><ml:concept>Human Rights</ml:concept><ml:concept>Infrastructure</ml:concept><ml:concept>Primary Education</ml:concept><ml:concept>Secondary Education</ml:concept><ml:concept>Quality of Education</ml:concept><ml:concept>Education and ICT</ml:concept><ml:concept>ICT Infrastructure</ml:concept><ml:concept>Research, Development and Innovation (RDI)</ml:concept><ml:concept>Administrative Decentralization</ml:concept><ml:concept>Monitoring and Evaluation</ml:concept></ml:concepts><ml:geo-regions><ml:geo-region>Asia</ml:geo-region><ml:geo-region>India</ml:geo-region><ml:geo-region>Southern Asia</ml:geo-region></ml:geo-regions></ml:annotations></ml:doc-envelope>

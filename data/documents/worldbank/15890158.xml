@@ -1,0 +1,1412 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>ï»¿                                              67248&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Middle East         Are Jordan and&#13;
+and                 Tunisiaâ&#128;&#153;s Exports&#13;
+North Africa&#13;
+                    Becoming More&#13;
+Working Paper       Technologically&#13;
+Series              Sophisticated?&#13;
+No. 54&#13;
+                    Analysis Using Highly&#13;
+February 2012       Disaggregated Export&#13;
+                    Databases&#13;
+&#13;
+&#13;
+                    by&#13;
+                    NdiamÃ© Diop&#13;
+The World Bank      World Bank&#13;
+Produced by the&#13;
+Ofï¬?ce of the        Sofiane Ghali&#13;
+Chief Economist&#13;
+                    ESSEC, University of Tunis,&#13;
+                    ERF, LARIME&#13;
+Summaries in&#13;
+Arabic and French&#13;
+&amp;#12;                               Middle East and North Africa&#13;
+                                  Working Paper Series&#13;
+                                         No. 54&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                  Are Jordan and Tunisia's Exports&#13;
+           Becoming More Technologically Sophisticated?&#13;
+        Analysis Using Highly Disaggregated Export Databases&#13;
+&#13;
+                                                       By&#13;
+&#13;
+                                               NdiamÃ© Diop&#13;
+                                               World Bank&#13;
+&#13;
+&#13;
+                                   Sofiane Ghali&#13;
+                      ESSEC, University of Tunis, ERF, LARIME&#13;
+&#13;
+&#13;
+                                            February 2012&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Discussion papers are not formal publications of the World Bank. They represent preliminary and often unpolished&#13;
+results of country analysis and research. Circulation is intended to encourage discussion and comments; citation and&#13;
+the use of the paper should take account of its provisional character. The findings and conclusions of the paper are&#13;
+entirely those of the authors and should not be attributed to the World Bank, its affiliated organizations, or to&#13;
+members of its Board of Executive Directors or the countries they represent.&#13;
+&amp;#12;Acknowledgements&#13;
+&#13;
+&#13;
+The authors thank Elena Ianchovichina, Marc T. Schiffbauer and the anonymous ERF (Cairo)&#13;
+peer reviewing committee for their useful comments. Usual disclaimers apply.&#13;
+&amp;#12;                                                    TABLE OF CONTENTS&#13;
+&#13;
+&#13;
+Abstract ................................................................................................................................ 1&#13;
+&#13;
+Introduction ......................................................................................................................... 4&#13;
+&#13;
+Major Changes in the Structure of Global Trade and in Light Manufacturing ........... 6&#13;
+           Changes in the Structure of Global Trade............................................................................. 6&#13;
+           Major Changes in Global Light Manufacturing Markets ..................................................... 7&#13;
+&#13;
+Review of Methodologies Used to Capture the Technological Content of Industries ... 9&#13;
+&#13;
+Methodology Used in this Paper Applied to Jordan and Tunisia ................................... 11&#13;
+&#13;
+Results .................................................................................................................................. 12&#13;
+        Structure and Dynamics of Exports by Technological Content, Jordan vs. Tunisia ................ 12&#13;
+        Benchmarking Jordan and Tunisia against OECD and Emerging Economies ........................ 19&#13;
+&#13;
+Policy Discussion ................................................................................................................. 20&#13;
+&#13;
+References ............................................................................................................................ 23&#13;
+&#13;
+FIGURES&#13;
+&#13;
+Figure 1.             Global manufacturing unit value relative to US GDP deflator .................... 8&#13;
+Figure 2.             Average shares of exports by technology content. Jordan: 2007-2010&#13;
+                      Tunisia: 2007-2009 ....................................................................................... 12&#13;
+&#13;
+TABLES&#13;
+Table 1.              Share of Manufacturing industries by technology levels in the Tunisian total&#13;
+                      export (%). .................................................................................................. 13&#13;
+Table 2.              Share of Manufacturing industries by technology levels in the Jordanian total&#13;
+                      export (%). ..................................................................................................... 13&#13;
+Table 3.              Share of low tech industries in the Tunisian total export (%). ..................... 14&#13;
+Table 4.              Share of low tech industries in the Jordanian total export (%). ................. 14&#13;
+Table 5.              Share of medium low tech industries in the Tunisian total export (%). ........ 16&#13;
+Table 6.              Share of medium low tech industries in the Jordanian total export (%). ...... 16&#13;
+Table 7.              Share of medium high tech industries in the Tunisian total export (%). ....... 17&#13;
+Table 8.              Share of medium high tech industries in the Jordanian total export (%). ..... 17&#13;
+Table 9.              Share of high tech industries in the Tunisian total export (%). ..................... 18&#13;
+Table 10.              Share of high tech industries in the Jordanian total export (%). .............. 18&#13;
+Table 11.             Share of Manufacturing industries by technology levels in the total exports:&#13;
+                      Benchmarking, 2005 ..................................................................................... 19&#13;
+&amp;#12;                                          ABSTRACT&#13;
+&#13;
+&#13;
+There is a growing consensus that what you export matters for growth (see for instance,&#13;
+Haussman and al. 2007 and Krishna and Maloney (2011)). This paper examines whether and&#13;
+to what extent Jordan and Tunisia, the two most globally integrated countries of the Middle&#13;
+East and North Africa region, are moving up the technological ladder. To that effect, we use&#13;
+two highly disaggregated panel export database (products captured at the 11-digit level) and a&#13;
+â&#128;&#156;product-basedâ&#128;? methodology that allows a mapping of products classified by technological&#13;
+content and their sector of origin. We find that Jordan and Tunisia have experienced&#13;
+contrasting dynamics over the last decade. Thanks to its large exports of pharmaceutical&#13;
+products, Jordan enjoys a much higher share of high tech products in its export basket (11.5&#13;
+percent versus 5.4 percent respectively) but this share has been declining overtime due to the&#13;
+rapid rise of exports of textiles products. In contrast, from a very low basis, Tunisia has been&#13;
+catching up thanks to a slow but steady rise in medium-high tech products (electronics and&#13;
+mechanical components) and a corresponding decline in the preeminence of exports of textile&#13;
+products. Interestingly, success stories identified in both countries are all associated with the&#13;
+establishment of an â&#128;&#156;enclaveâ&#128;? where transparent â&#128;&#156;rules of the gameâ&#128;? are credibly enforced&#13;
+with the help of an external policy anchor either through international agreements (e.g.&#13;
+Jordanâ&#128;&#153;s free trade agreement with the US and the signature of and compliance with WTOâ&#128;&#153;s&#13;
+Intellectual Property Rights) or the establishment of a â&#128;&#156;special zone/regimeâ&#128;? such as&#13;
+Tunisiaâ&#128;&#153;s â&#128;&#156;offshoreâ&#128;? regime and Jordanâ&#128;&#153;s Qualifying Industrial Zone. This finding&#13;
+underscores the importance of overcoming institutional weaknesses and establishing&#13;
+transparent and rules-based Government-business relationships as a pre-requisite for&#13;
+successful global integration in developing countries countries.&#13;
+&#13;
+&#13;
+JEL code: F14, O30, O55&#13;
+Keywords: Technology Intensity, exports, benchmarking, Jordan, Tunisia.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                1&#13;
+&amp;#12;                                                            â&#128;«Ø®Ø§Ù&#132;ØµØ©â&#128;¬&#13;
+&#13;
+&#13;
+â&#128;«Ø«Ù&#133;Ø© ØªÙ&#136;Ø§Ù?Ù&#130; Ù&#133;ØªØ²Ø§Ù&#138;Ø¯ Ù?Ù&#138; Ø§Ø¢Ù&#132;Ø±Ø§Ø¡ Ø¨Ø´Ø£Ù&#134; Ø£Ú¾Ù&#133;Ù&#138;Ø© Ø§Ù&#132;ØµØ§Ø¯Ø±Ø§Øª Ù?Ù&#138; ØªØ­Ù&#130;Ù&#138;Ù&#130; Ø§Ù&#132;Ù&#134;Ù&#133;Ù&#136; Ø§Ø§Ù&#132;Ù&#130;ØªØµØ§Ø¯Ù&#138; )Ø±Ø§Ø¬Ø¹ Ø¹Ù&#132;Ù&#137; Ø³Ø¨Ù&#138;Ù&#132; Ø§Ù&#132;Ù&#133;Ø«Ø§Ù&#132;Ø&#140; Ú¾Ù&#136;Ø³Ù&#133;Ø§Ù&#134; Ù&#136;Ø¢Ø®Ø±Ù&#136;Ù&#134; 7002Ø&#155;â&#128;¬&#13;
+â&#128;«Ù&#136;Ù&#131;Ø±Ù&#138;Ø´Ù&#134;Ø§ Ù&#136;Ù&#133;Ø§Ù&#132;Ù&#136;Ù&#134;Ù&#138; 1102(. ØªØ¨Ø­Ø« Ú¾Ø°Ù&#135; Ø§Ù&#132;Ù&#136;Ø±Ù&#130;Ø© Ù&#133;Ø§ Ø¥Ø°Ø§ Ù&#131;Ø§Ù&#134; Ø§Ø£Ù&#132;Ø±Ø¯Ù&#134; Ù&#136;ØªÙ&#136;Ù&#134;Ø³ Ù&#133;Ø§Ø¶Ù&#138;Ù&#138;Ù&#134; Ù?Ù&#138; Ø§Ø±ØªÙ&#130;Ø§Ø¡ Ø³Ù?Ù&#132;Ù&#145;Ù&#133; Ø§Ù&#132;ØªÙ&#131;Ù&#134;Ù&#136;Ù&#132;Ù&#136;Ø¬Ù&#138;Ø§ Ù&#136;Ø¥Ù&#132;Ù&#137; Ø£Ù&#138; Ù&#133;Ø¯Ù&#137; Ù&#138;ØªÙ&#133; ØªØ­Ù&#130;Ù&#138;Ù&#130;â&#128;¬&#13;
+â&#128;«Ø°Ù&#132;Ù&#131;Ø&#140; Ù&#136;Ú¾Ù&#133;Ø§ Ø§Ù&#132;Ø¨Ù&#132;Ø¯Ø§Ù&#134; Ø§Ø£Ù&#132;Ù&#131;Ø«Ø± Ø§Ù&#134;Ø¯Ù&#133;Ø§Ø¬Ø§ Ù?Ù&#138; Ø§Ø§Ù&#132;Ù&#130;ØªØµØ§Ø¯ Ø§Ù&#132;Ø¹Ø§Ù&#132;Ù&#133;Ù&#138; Ø¹Ù&#132;Ù&#137; Ù&#133;Ø³ØªÙ&#136;Ù&#137; Ù&#133;Ù&#134;Ø·Ù&#130;Ø© Ø§Ù&#132;Ø´Ø±Ù&#130; Ø§Ø£Ù&#132;Ù&#136;Ø³Ø· Ù&#136;Ø´Ù&#133;Ø§Ù&#132; Ø£Ù?Ø±Ù&#138;Ù&#130;Ù&#138;Ø§. Ù&#136;Ù&#134;Ø³ØªØ®Ø¯Ù&#133; Ù?Ù&#138; Ú¾Ø°Ø§ Ø§Ù&#132;ØµØ¯Ø¯â&#128;¬&#13;
+                â&#128;«Ù?â&#128;¬&#13;
+â&#128;«Ø£Ø¯Ø§ØªÙ&#138;Ù&#134; Ú¾Ù&#133;Ø§ Ù&#130;Ø§Ø¹Ø¯Ø© Ø¨Ù&#138;Ø§Ù&#134;Ø§Øª Ù?Ø¦Ø§Øª Ø§Ù&#132;ØµØ§Ø¯Ø±Ø§Øª Ø§Ù&#132;Ù&#133;Ù?ØµÙ&#132;Ø© Ø¥Ù&#132;Ù&#137; Ø­Ø¯ Ù&#131;Ø¨Ù&#138;Ø± )Ø§Ù&#132;ØªØ³Ø¬Ù&#138;Ù&#132; Ø§Ù&#132;ØªØµÙ&#134;Ù&#138;Ù?Ù&#138; Ù&#132;Ù&#132;Ù&#133;Ù&#134;ØªØ¬Ø§Øª Ø¨Ù&#133;Ø³ØªÙ&#136;Ù&#137; 11 Ø®Ø§Ù&#134;Ø©( Ù&#136;Ù&#133;Ù&#134;Ú¾Ø¬Ù&#138;Ø© "Ù&#133;Ø³ØªÙ&#134;Ø¯Ø© Ø¥Ù&#132;Ù&#137;â&#128;¬&#13;
+                                                                                        â&#128;«Ù?â&#128;¬&#13;
+â&#128;«Ø§Ù&#132;Ù&#133;Ù&#134;ØªØ¬Ø§Øª" ØªØªÙ&#138;Ø­ Ø±ØµØ¯ Ø§Ù&#132;Ù&#133;Ù&#134;ØªØ¬Ø§Øª Ø§Ù&#132;Ù&#133;ØµÙ&#134;Ù?Ø© Ø·Ø¨Ù&#130;Ø§ Ù&#132;Ù&#132;Ù&#133;Ø­ØªÙ&#136;Ù&#137; Ø§Ù&#132;ØªÙ&#131;Ù&#134;Ù&#136;Ù&#132;Ù&#136;Ø¬Ù&#138; Ù&#136;Ù&#130;Ø·Ø§Ø¹ Ø§Ù&#132;Ù&#133;Ù&#134;Ø´Ø£. Ù&#136;Ù&#134;Ø±Ù&#137; Ø£Ù&#134; Ø§Ø£Ù&#132;Ø±Ø¯Ù&#134; Ù&#136;ØªÙ&#136;Ù&#134;Ø³ Ù&#136;Ø§Ø¬Ú¾Ø§ Ø¯Ù&#138;Ù&#134;Ø§Ù&#133;Ù&#138;Ù&#131;Ù&#138;Ø§Øª Ù&#133;ØªØ¨Ø§Ù&#138;Ù&#134;Ø©â&#128;¬&#13;
+                                                                                                 â&#128;«Ù?â&#128;¬&#13;
+â&#128;«Ø¹Ù&#132;Ù&#137; Ù&#133;Ø¯Ù&#137; Ø§Ù&#132;Ø³Ù&#134;Ù&#136;Ø§Øª Ø§Ù&#132;Ø¹Ø´Ø± Ø§Ù&#132;Ù&#133;Ø§Ø¶Ù&#138;Ø©. Ù?Ø¨Ù?Ø¶Ù&#132; ØµØ§Ø¯Ø±Ø§ØªÙ&#135; Ø§Ù&#132;Ù&#131;Ø¨Ù&#138;Ø±Ø© Ù&#133;Ù&#134; Ø§Ù&#132;Ù&#133;Ù&#134;ØªØ¬Ø§Øª Ø§Ù&#132;Ø¯Ù&#136;Ø§Ø¦Ù&#138;Ø© Ù&#136;Ø§Ù&#132;ØµÙ&#138;Ø¯Ø§Ù&#132;Ù&#134;Ù&#138;Ø©Ø&#140; Ù&#138;ØªÙ&#133;ØªØ¹ Ø§Ø£Ù&#132;Ø±Ø¯Ù&#134; Ø¨Ù&#134;Ø³Ø¨Ø© Ù&#133;Ø±ØªÙ?Ø¹Ø© Ù&#131;Ø«Ù&#138;Ø±Ø§ Ù&#133;Ù&#134;â&#128;¬&#13;
+â&#128;«Ø§Ù&#132;Ù&#133;Ù&#134;ØªØ¬Ø§Øª Ø§Ù&#132;Ø¹Ø§Ù&#132;Ù&#138;Ø© Ø§Ù&#132;ØªÙ&#130;Ù&#134;Ù&#138;Ø© Ù?Ù&#138; Ø³Ù&#132;Ø© ØµØ§Ø¯Ø±Ø§ØªÙ&#135; )5.11 Ù?Ù&#138; Ø§Ù&#132;Ù&#133;Ø§Ø¦Ø© Ù&#133;Ù&#130;Ø§Ø¨Ù&#132; 4.5 Ù?Ù&#138; Ø§Ù&#132;Ù&#133;Ø§Ø¦Ø© Ø¹Ù&#132;Ù&#137; Ø§Ù&#132;ØªÙ&#136;Ø§Ù&#132;Ù&#138;( Ù&#136;Ù&#132;Ù&#131;Ù&#134; Ú¾Ø°Ù&#135; Ø§Ù&#132;Ù&#134;Ø³Ø¨Ø© Ø¢Ø®Ø°Ø© Ù?Ù&#138; Ø§Ø§Ù&#132;Ù&#134;Ø®Ù?Ø§Ø¶â&#128;¬&#13;
+â&#128;«Ø¨Ù&#133;Ø±Ù&#136;Ø± Ø§Ù&#132;Ù&#136;Ù&#130;Øª Ø¨Ø³Ø¨Ø¨ Ø§Ø§Ù&#132;Ø±ØªÙ?Ø§Ø¹ Ø§Ù&#132;Ø³Ø±Ù&#138;Ø¹ Ù&#132;ØµØ§Ø¯Ø±Ø§Øª Ø§Ù&#132;Ù&#133;Ù&#134;Ø³Ù&#136;Ø¬Ø§Øª. Ù&#136;Ø¹Ù&#132;Ù&#137; Ø§Ù&#132;Ù&#134;Ù&#130;Ù&#138;Ø¶ Ù&#133;Ù&#134; Ø°Ù&#132;Ù&#131;Ø&#140; ØªØ¹Ù&#133;Ù&#132; ØªÙ&#136;Ù&#134;Ø³ Ø¹Ù&#132;Ù&#137; Ø§Ù&#132;Ù&#132;Ø­Ø§Ù&#130; Ø¨Ø§Ù&#132;Ø±Ù&#131;Ø¨ Ù&#136;Ø§Ù&#132;Ù&#133;Ø¶Ù&#138; Ù&#130;Ø¯Ù&#133;Ø§â&#128;¬&#13;
+â&#128;«Ø¥Ù&#132;Ù&#137; Ø§Ø£Ù&#132;Ù&#133;Ø§Ù&#133; Ù&#134;ØªÙ&#138;Ø¬Ø© Ù&#132;Ø²Ù&#138;Ø§Ø¯Ø© Ù&#133;ØªØ£Ù&#134;Ù&#138;Ø© Ù&#132;Ù&#131;Ù&#134;Ú¾Ø§ Ù&#133;Ø·Ù&#145;Ø±Ø¯Ø© Ù?Ù&#138; Ø§Ù&#132;Ù&#133;Ù&#134;ØªØ¬Ø§Øª Ø§Ù&#132;Ù&#133;ØªÙ&#136;Ø³Ø·Ø© Ù&#136;Ø§Ù&#132;Ø¹Ø§Ù&#132;Ù&#138;Ø© Ø§Ù&#132;ØªÙ&#130;Ù&#134;Ù&#138;Ø© )Ø§Ø§Ù&#132;Ù&#132;Ù&#131;ØªØ±Ù&#136;Ù&#134;Ù&#138;Ø§Øª Ù&#136;Ø§Ù&#132;Ù&#133;Ù&#131;Ù&#136;Ù&#145;Ù&#134;Ø§Øª Ø§Ø¢Ù&#132;Ù&#132;Ù&#138;Ø© Ù&#136;Ø§Ù&#132;Ù&#133;Ù&#138;Ù&#131;Ø§Ù&#134;Ù&#138;Ù&#131;Ù&#138;Ø©(â&#128;¬&#13;
+                           â&#128;«Ù?â&#128;¬                                                                 â&#128;«Ù?â&#128;¬&#13;
+â&#128;«Ù&#136;Ø§Ù&#132;ØªØ±Ø§Ø¬Ø¹ Ø§Ù&#132;Ù&#133;Ù&#130;Ø§Ø¨Ù&#132; Ù?Ù&#138; Ø£Ú¾Ù&#133;Ù&#138;Ø© ØµØ§Ø¯Ø±Ø§Øª Ø§Ù&#132;Ù&#133;Ù&#134;Ø³Ù&#136;Ø¬Ø§Øª. Ù&#136;Ù&#133;Ù&#133;Ø§ Ù&#138;Ø«Ù&#138;Ø± Ø§Ø§Ù&#132;Ú¾ØªÙ&#133;Ø§Ù&#133; Ø£Ù&#134; Ù&#130;ØµØµ Ø§Ù&#132;Ù&#134;Ø¬Ø§Ø­ Ù?Ù&#138; Ø§Ù&#132;Ø¨Ù&#132;Ø¯Ù&#138;Ù&#134; Ù&#133;Ø±ØªØ¨Ø·Ø© Ø¨Ø¥Ù&#134;Ø´Ø§Ø¡ "Ù&#133;Ù&#134;Ø§Ø·Ù&#130; Ù&#133;Ø­ØµÙ&#136;Ø±Ø©"â&#128;¬&#13;
+â&#128;«Ø­Ù&#138;Ø« Ù&#138;Ø¬Ø±Ù&#138; ØªØ·Ø¨Ù&#138;Ù&#130; "Ù&#130;Ù&#136;Ø§Ø¹Ø¯ Ø§Ù&#132;Ù&#132;Ø¹Ø¨Ø©" Ø¨Ø´Ù?Ø§Ù?Ù&#138;Ø© Ù&#136;Ù&#133;ØµØ¯Ø§Ù&#130;Ù&#138;Ø© Ø¨Ù&#133;Ø³Ø§Ø¹Ø¯Ø© Ø¹Ø§Ù&#133;Ù&#132; Ù&#133;Ø­Ù?Ù&#145;Ø² Ø¹Ù&#132;Ù&#137; ØµØ¹Ù&#138;Ø¯ Ø§Ù&#132;Ø³Ù&#138;Ø§Ø³Ø© Ø§Ù&#132;Ø®Ø§Ø±Ø¬Ù&#138;Ø© Ø¥Ù&#133;Ø§ Ù&#133;Ù&#134; Ø®Ø§Ù&#132;Ù&#132; Ø§Ø§Ù&#132;ØªÙ?Ø§Ù&#130;Ù&#138;Ø§Øªâ&#128;¬&#13;
+                                                             â&#128;«Ù?â&#128;¬&#13;
+â&#128;«Ø§Ù&#132;Ø¯Ù&#136;Ù&#132;Ù&#138;Ø© )Ù&#133;Ø«Ù&#132; Ø§ØªÙ?Ø§Ù&#130;Ù&#138;Ø© Ø§Ù&#132;ØªØ¬Ø§Ø±Ø© Ø§Ù&#132;Ø­Ø±Ø© Ø¨Ù&#138;Ù&#134; Ø§Ø£Ù&#132;Ø±Ø¯Ù&#134; Ù&#136;Ø§Ù&#132;Ù&#136;Ø§Ù&#132;Ù&#138;Ø§Øª Ø§Ù&#132;Ù&#133;ØªØ­Ø¯Ø© Ù&#136;Ø§Ù&#132;ØªÙ&#136;Ù&#130;Ù&#138;Ø¹ Ù&#136;Ø§Ø§Ù&#132;Ù&#132;ØªØ²Ø§Ù&#133; Ø¨Ø­Ù&#130;Ù&#136;Ù&#130; Ø§Ù&#132;Ù&#133;Ù&#132;Ù&#131;Ù&#138;Ø© Ø§Ù&#132;Ù?Ù&#131;Ø±Ù&#138;Ø© Ø§Ù&#132;Ù&#133;Ù&#134;Ø¨Ø«Ù&#130;Ø© Ø¹Ù&#134; Ù&#133;Ù&#134;Ø¸Ù&#133;Ø© Ø§Ù&#132;ØªØ¬Ø§Ø±Ø©â&#128;¬&#13;
+â&#128;«Ø§Ù&#132;Ø¹Ø§Ù&#132;Ù&#133;Ù&#138;Ø©( Ø£Ù&#136; Ø¥Ù&#134;Ø´Ø§Ø¡ "Ù&#133;Ù&#134;Ø·Ù&#130;Ø© Ø§Ù&#130;ØªØµØ§Ø¯Ù&#138;Ø© Ø®Ø§ØµØ©/Ù&#134;Ø¸Ø§Ù&#133; Ø®Ø§Øµ" Ù&#133;Ø«Ù&#132; Ù&#134;Ø¸Ø§Ù&#133; "Ø§Ø£Ù&#132;Ù&#136;Ù?Ø´Ù&#136;Ø±" Ù?Ù&#138; ØªÙ&#136;Ù&#134;Ø³ Ù&#136;Ø§Ù&#132;Ù&#133;Ù&#134;Ø·Ù&#130;Ø© Ø§Ù&#132;ØµÙ&#134;Ø§Ø¹Ù&#138;Ø© Ø§Ù&#132;Ù&#133;Ø¤Ú¾Ù&#132;Ø© Ù?Ù&#138; Ø§Ø£Ù&#132;Ø±Ø¯Ù&#134;.â&#128;¬&#13;
+â&#128;«Ù&#136;Ù&#138;Ø¤Ù&#131;Ø¯ Ú¾Ø°Ø§ Ø§Ø§Ù&#132;Ø³ØªÙ&#134;ØªØ§Ø¬ Ø£Ú¾Ù&#133;Ù&#138;Ø© Ø§Ù&#132;ØªØºÙ&#132;Ø¨ Ø¹Ù&#132;Ù&#137; Ø£Ù&#136;Ø¬Ù&#135; Ø§Ù&#132;Ø¶Ø¹Ù? Ø§Ù&#132;Ù&#133;Ø¤Ø³Ø³Ù&#138; Ù&#136;Ø¥Ù&#130;Ø§Ù&#133;Ø© Ø¹Ø§Ù&#132;Ù&#130;Ø§Øª Ø´Ù?Ø§Ù?Ø© Ù&#136;Ù&#133;Ø³ØªÙ&#134;Ø¯Ø© Ø¥Ù&#132;Ù&#137; Ø§Ù&#132;Ù&#130;Ù&#136;Ø§Ø¹Ø¯ Ø¨Ù&#138;Ù&#134; Ø§Ù&#132;Ø­Ù&#131;Ù&#136;Ù&#133;Ø© Ù&#136;Ù&#133;Ø¤Ø³Ø³Ø§Øªâ&#128;¬&#13;
+                                            â&#128;«Ø§Ø£Ù&#132;Ø¹Ù&#133;Ø§Ù&#132; Ù&#131;Ø´Ø±Ø· Ù&#133;Ø³Ø¨Ù&#130; Ù&#136;Ø¶Ø±Ù&#136;Ø±Ù&#138; Ù&#132;Ù&#134;Ø¬Ø§Ø­ Ø§Ù&#132;Ø¨Ù&#132;Ø¯Ø§Ù&#134; Ø§Ù&#132;Ù&#134;Ø§Ù&#133;Ù&#138;Ø© Ù?Ù&#138; Ø§Ø§Ù&#132;Ù&#134;Ø¯Ù&#133;Ø§Ø¬ Ù?Ù&#138; Ø§Ø§Ù&#132;Ù&#130;ØªØµØ§Ø¯ Ø§Ù&#132;Ø¹Ø§Ù&#132;Ù&#133;Ù&#138;.â&#128;¬&#13;
+                                                                                                                â&#128;«Ù?â&#128;¬&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                   â&#128;«Ø±Ù&#130;Ù&#133; ØªØµÙ&#134;Ù&#138;Ù? Ù&#133;Ø¬Ù&#132;Ø© Ø§Ø£Ù&#132;Ø¯Ø¨Ù&#138;Ø§Øª Ø§Ø§Ù&#132;Ù&#130;ØªØµØ§Ø¯Ù&#138;Ø©: 55â&#128;ªF14, O30, Oâ&#128;¬â&#128;¬&#13;
+                                                     â&#128;«Ù&#131;Ù&#132;Ù&#133;Ø§Øª Ø£Ø³Ø§Ø³Ù&#138;Ø©: Ù&#131;Ø«Ø§Ù?Ø© Ø§Ù&#132;ØªÙ&#131;Ù&#134;Ù&#136;Ù&#132;Ù&#136;Ø¬Ù&#138;Ø§Ø&#140; Ø§Ù&#132;ØµØ§Ø¯Ø±Ø§ØªØ&#140; Ù&#133;Ø¹Ø§Ù&#138;Ù&#138;Ø± Ù&#133;Ø±Ø¬Ø¹Ù&#138;Ø©Ø&#140; Ø§Ø£Ù&#132;Ø±Ø¯Ù&#134;Ø&#140; ØªÙ&#136;Ù&#134;Ø³.â&#128;¬&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                               â&#128;«2â&#128;¬&#13;
+&amp;#12;                                            RÃ©sumÃ©&#13;
+&#13;
+&#13;
+&#13;
+La composition des exportations dâ&#128;&#153;un pays compte pour sa croissance : cette idÃ©e fait lâ&#128;&#153;objet&#13;
+dâ&#128;&#153;un consensus grandissant (voir par exemple sur ce sujet Haussman et al. 2007 et Krishna et&#13;
+Maloney 2011). Dans cet article, nous nous penchons sur le cas de la Jordanie et de la Tunisie&#13;
+en nous demandant si, et dans quelle mesure, les deux pays du Moyen-Orient et dâ&#128;&#153;Afrique du&#13;
+Nord les mieux intÃ©grÃ©s au commerce mondial parviennent Ã  sâ&#128;&#153;Ã©lever dans lâ&#128;&#153;Ã©chelle&#13;
+technologique. Ã&#128; cette fin, nous utilisons deux bases de donnÃ©es de panel trÃ¨s dÃ©sagrÃ©gÃ©es&#13;
+(avec une nomenclature Ã  11 chiffres) ainsi quâ&#128;&#153;une mÃ©thodologie Â« basÃ©e sur les produits Â»&#13;
+qui permet de reprÃ©senter et classer les produits en fonction de leur teneur technologique et&#13;
+de leur secteur dâ&#128;&#153;origine. Notre Ã©tude montre que la Jordanie et la Tunisie ont connu deux&#13;
+Ã©volutions contrastÃ©es au cours de la derniÃ¨re dÃ©cennie. GrÃ¢ce Ã  lâ&#128;&#153;ampleur de ses exportations&#13;
+de produits pharmaceutiques, la composition des exportations jordaniennes contient une part&#13;
+beaucoup plus Ã©levÃ©e de produits high-tech (11,5 % contre 5,4 % pour la Tunisie) mais cette&#13;
+part a accusÃ© une baisse progressive en raison de lâ&#128;&#153;essor rapide des exportations de produits&#13;
+textiles. En revanche, la Tunisie, qui est partie dâ&#128;&#153;un niveau trÃ¨s bas, rattrape son retard sous&#13;
+lâ&#128;&#153;effet de la montÃ©e lente mais rÃ©guliÃ¨re des produits de haute et moyenne technologie&#13;
+(Ã©lectronique et composants mÃ©caniques) et du recul concomitant de la suprÃ©matie des&#13;
+exportations textiles. Il est intÃ©ressant de noter que, en Jordanie comme en Tunisie, les&#13;
+exemples de rÃ©ussite mis au jour sont tous liÃ©s Ã  la crÃ©ation dâ&#128;&#153;une Â« enclave Â» oÃ¹ des rÃ¨gles&#13;
+du jeu transparentes sont rÃ©ellement appliquÃ©es du fait dâ&#128;&#153;une obligation extÃ©rieure qui peut&#13;
+prendre la forme soit dâ&#128;&#153;un accord international (avec, dans le cas de la Jordanie, lâ&#128;&#153;accord de&#13;
+libre-Ã©change avec les Ã&#137;tats-Unis et la signature et le respect de lâ&#128;&#153;accord de lâ&#128;&#153;OMC sur la&#13;
+propriÃ©tÃ© intellectuelle) soit de lâ&#128;&#153;instauration dâ&#128;&#153;une zone ou dâ&#128;&#153;un rÃ©gime spÃ©cial (rÃ©gime&#13;
+Â« offshore Â» tunisien et Â« zones franches pour produits homologuÃ©s Â» en Jordanie). Ces&#13;
+conclusions viennent souligner la nÃ©cessitÃ© de vaincre les faiblesses institutionnelles et&#13;
+dâ&#128;&#153;Ã©tablir des relations entre lâ&#128;&#153;Ã&#137;tat et les entreprises basÃ©es sur la transparence et fondÃ©es sur&#13;
+des rÃ¨gles comme condition prÃ©alable Ã  une intÃ©gration mondiale rÃ©ussie des pays en&#13;
+dÃ©veloppement.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Code JEL : F14, O30, O55&#13;
+Mots clÃ©s : intensitÃ© technologique, exportations, analyse comparative, Jordanie, Tunisie.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                3&#13;
+&amp;#12;1.     Introduction&#13;
+       The last decade has witnessed two interesting features in international trade. First,&#13;
+higher-tech products have become the fastest growing segment of international trade. Second,&#13;
+developing countries are increasingly becoming exporters of high-tech products thanks to&#13;
+greater trade openness, greater ability to master and use technologies and a rise in Foreign&#13;
+Direct Investments (WTO 2009). With the globalization of production processes and the&#13;
+important investments in science and technology in rich countries, knowledge and technology&#13;
+spillovers have dramatically increased the opportunities for developing countries to specialize&#13;
+in niches within high-tech sectors. This is particularly true for countries geographically close&#13;
+to the global sources of innovation, are open to trade and investments and have a good human&#13;
+capital base (Keller 2004, Klenow and Rodriguez-Clare 2005 and Howitt 2000).&#13;
+&#13;
+&#13;
+       But why should developing countries, especially those that present the above&#13;
+characteristics, aim at improving the quality of products exported? There is evidence that&#13;
+â&#128;&#156;what you export matters for growthâ&#128;?. For instance, Haussman, Hwang and Rodrik (2007)&#13;
+show that the extent of the overlap of a countryâ&#128;&#153;s export basket with those goods that are&#13;
+exported by richer countries is a significant predictor of the countryâ&#128;&#153;s growth rate. In earlier&#13;
+papers, Fagerberg (1988) and Dalum, Laursen and Verspagen (1999) stress that exporting&#13;
+products with higher income elasticity â&#128;&#147; typically the case of technology-intensive products -,&#13;
+provides better growth prospects. In the same vein, Lall (2000) argues that low technology&#13;
+products tend to grow the slowest and technology-intensive products the fastest. Finally, to&#13;
+the extent that technology-intensive sectors are more productive, a movement of resources&#13;
+into these sectors enhances productivity and competitiveness. A rise in productivity is&#13;
+particularly important for the competitiveness of countries with a large middle class and&#13;
+rising wages.&#13;
+&#13;
+&#13;
+       Because the export basket likely provides a clue for growth, many studies now&#13;
+attempt to gauge countriesâ&#128;&#153; growth prospects through taxonomies of industries by&#13;
+technological intensity. However capturing the technology-content of industries is fraught&#13;
+with technical problems and the significance of empirical results is often unclear. The&#13;
+definition of high-tech, the degree of data aggregation and the nature of specialization within&#13;
+a global product chain all conjure to explain this. For instance, Mayer, Butkevicius and Kadri&#13;
+(2002) suggest that the expansion of high-tech exports from developing countries largely&#13;
+&#13;
+                                               4&#13;
+&amp;#12;reflects their increased participation in labor-intensive segments of high-tech electronics in&#13;
+the context of international production sharing. Lall (2000) notes that a significant part of the&#13;
+high-tech industry outbreak in developing countries might be â&#128;&#156;something of a statistical&#13;
+illusionâ&#128;?, as they specialize in labor-intensive processes within high-tech-intensive industries.&#13;
+Most studies in the empirical literature fail to adequately capture the true technological&#13;
+content of industries and the corresponding changes in countriesâ&#128;&#153; production and export&#13;
+structures. Yet, it is this change in export structures that enhances value-addition and&#13;
+increases the contribution of exports to growth and development.&#13;
+&#13;
+       The objective of this paper is to pinpoint the changes in Jordan and Tunisiaâ&#128;&#153;s&#13;
+production and export structures over the last decade or so, using a methodology that avoid&#13;
+the usual pitfalls found in the literature. To that effect, we use two highly disaggregated panel&#13;
+export database (products captured at the 11-digit level) and a â&#128;&#156;product-basedâ&#128;? methodology&#13;
+that allows a mapping of products classified by technological content and their sector of&#13;
+origin. This approach circumvents the major flaw of â&#128;&#156;sector-basedâ&#128;? methodologies. Indeed,&#13;
+while the same sector can be technology-intensive in one country and not in another one, a&#13;
+technology-intensive product has similar characteristics in all countries. The database used&#13;
+runs from 2003 to 2010 for Jordan and from 1995 to 2009 for Tunisia, providing a pseudo-&#13;
+panel structure.&#13;
+&#13;
+       The choice of Jordan and Tunisia is, by no means, an accident. First, these countries&#13;
+are among the most globally integrated economies in a region known for its weak links to the&#13;
+global economy. FDI stood at 11 percent of GDP in Jordan and 4 percent of GDP in Tunisia&#13;
+and exports/ GDP stood at 49 percent in both countries in 2010; Second, Jordan and Tunisia&#13;
+have a strong human capital base with a secondary school enrollment rate of 88 percent for&#13;
+Jordan and 83 percent for Tunisia, a large number of engineers (88,000 in Jordan and 4,500&#13;
+in Tunisia), a substantial high-skill diaspora (500,000 and 55,000 educated Jordanian and&#13;
+Tunisian abroad, respectively) and an IT-savvy young generation attuned to innovation;&#13;
+Third, both countries struggle with a very high level of unemployment for the educated/&#13;
+skilled individuals: the unemployment rate for university graduates is around 20 percent in&#13;
+Jordan and 30 percent in Tunisia, against a national average of 14 percent in both countries.&#13;
+&#13;
+&#13;
+       In both countries, moving up the value chain and the technological ladder is likely to&#13;
+help enlarge the scope for employing available skilled labor. At the same time, this very&#13;
+&#13;
+&#13;
+                                                5&#13;
+&amp;#12;movement up the value chain is likely to boost productivity and growth. It is estimated that a&#13;
+growth rate above 6 percent is necessary for reducing unemployment in both countries. To&#13;
+reach this objective, the countries count on pursuing structural reforms to enhance&#13;
+competitiveness and on encouraging the emergence of new sources of growth through&#13;
+diversification of products and markets. Product diversification entails, according to&#13;
+Jordanian and Tunisian strategists, a necessary movement up the value chain and the&#13;
+technological ladder, in many existing economic activities.&#13;
+&#13;
+&#13;
+       The rest of the paper comprises 5 sections. The next section reviews briefly the&#13;
+evolution of the structure of global trade in general and in the global light manufacturing&#13;
+market in particular over the last few decades. These changes highlight why moving up the&#13;
+value chain and technological ladder is important for countries like Jordan and Lebanon, like&#13;
+many other middle-income countries.        Section 3 discusses the different methodologies&#13;
+proposed to capture the technological intensity of industries and exports, their shortcomings&#13;
+and evolution overtime. Section 4 describes the methodology used in this paper. Section 5&#13;
+presents the results. Finally, section 6 discusses the policy implications of our findings and,&#13;
+beyond that, some of the key industrial policy issues faced by Jordan and Tunisia.&#13;
+&#13;
+&#13;
+&#13;
+2.  Major changes in the structure of global trade and in light&#13;
+manufacturing&#13;
+Changes in the structure of global trade&#13;
+&#13;
+The WTOâ&#128;&#153;s recent statistics on global trade reveal that China has now overtaken Germany as&#13;
+the world largest exporter of merchandise with about 10 percent of global exports. Over the&#13;
+period 2000-2008, the average annual growth in global merchandise exports (in value) is 12&#13;
+percent, the same rate at which EU exports grew and almost twice as high as for US (7&#13;
+percent). Remarkably, during this period, the average export growth of Africa stood at 18&#13;
+percent, at par with oil-rich countries in MENA and greater than in Asia (13 percent). China&#13;
+has been of course an outlier, with an outstanding average export growth of 24 percent!&#13;
+Tunisia managed to secure an average growth of 10 percent per annum but as seen below, the&#13;
+low value- added of the export basket significantly reduces the growth impact of such&#13;
+exports.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                               6&#13;
+&amp;#12;       Export dynamics indicators provide an additional information on the quality of&#13;
+specialization and competitiveness if they breakdown exported products by degree of&#13;
+sophistication. This is because, the higher the degree of sophistification, the higher the price&#13;
+and associated value-added. This in turn determines the extent to which export growth affects&#13;
+overall GDP growth.&#13;
+       According to WTO statistics (2009), manufacturing products accounted for 66.5&#13;
+percent of world export of goods, followed by oil and extractives industries (22.5 percent).&#13;
+Agricultural products represented 8.5 percent of global trade. Within the manufacturing&#13;
+group, chemical products (10.9 percent), office and telecommunication equipments (9.9&#13;
+percent) and automobile industry products (7.8 percent), considered as high-tech products,&#13;
+dominate. In terms of regional specialization, while the EU and North America still dominate&#13;
+products categories deemed of high value-added content, China and India are catching up&#13;
+fast. For instance, in chemical products, China has more than doubled its market share in the&#13;
+world chemical market between 2000 and 2008 (from 2.1 to 4.7 percent) while India has&#13;
+nearly doubled its own (0.7 to 1.2 percent). This contrast with the sharp decline in US global&#13;
+market share which stood at 13.4 percent in 2008 against 17.6 percent in 2000. Within&#13;
+chemical, US market share of pharmaceutical products declined from 12.1 percent to 9&#13;
+percent.&#13;
+&#13;
+&#13;
+       This global dynamics (rise of China and India and reduction of market share of&#13;
+traditional market leaders) is even more accentuated in office and telecommunication&#13;
+equipments. Here, the global share of the EU27 and the US dropped from 29.2 to 26 percent&#13;
+and 21.5 to 13.3 percent respectively between 2000 and 2008. In contrast, the share of&#13;
+â&#128;&#156;developingâ&#128;? Asia rose from 47.3 to 58.3 percent, driven by China whose market share&#13;
+exploded from 4.5 to a quarter of the world market share. Interestingly, China multiplied by 4&#13;
+its market share in telecom equipments (from 6.8 to 27.1 percent), by 6 its share of the&#13;
+integrated circuits and micro-electronic assembling global market (from 1.7 to 10.5 percent)&#13;
+and by 6.5 its share of information technology equipments (from 5 to 32.2 percent).&#13;
+&#13;
+&#13;
+Major changes in global light manufacturing markets&#13;
+&#13;
+       As seen above, over the last 30 years, trends in global manufacturing markets have&#13;
+been strongly affected by the growth dynamics of key Asian economies. As the four Asian&#13;
+tigersâ&#128;&#148;Korea; Taiwan, China; Hong Kong, China; and Singapore exited the markets of light&#13;
+&#13;
+                                               7&#13;
+&amp;#12;manufacturing to a large extent and upgraded, China has entered, forcefully. There is today&#13;
+evidence that Chinaâ&#128;&#153;s manufacturing efficiency and scale has pushed down the prices of many&#13;
+manufacturing products, relative to many other goods and services in the global economy.&#13;
+World Bank data and projections show a clearly declining trend of the relative price of&#13;
+manufacturing goods in global markets (Figure 1).&#13;
+&#13;
+             Figure 1. Global manufacturing unit value relative to US GDP deflator*&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Note: * Global manufacturing unit value index (base 100=1990) divided by US GDP deflator index base 100=1990;&#13;
+Source: World Bank Global Prospects Group&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+           The overall decline in global manufacturing prices has profound implications for&#13;
+developing economiesâ&#128;&#153; export and growth strategies. For labor-abundant developing countries&#13;
+scrambling to â&#128;&#156;breakâ&#128;? into global manufacturing, labor can be so cheap that the returns to&#13;
+investment in labor-intensive manufacturing still exceed the cost of capital. In these&#13;
+circumstances, the labor-intensive route to export and GDP growth is still possible even if the&#13;
+extent to which it can be effective depends on the pace at which China upgrades and moves&#13;
+away from these industries (Clineâ&#128;&#153;s adding up hypothesis).1&#13;
+&#13;
+           But depressed manufacturing prices pose important challenges for low and middle-&#13;
+income countries that have already broken into global manufacturing for some time. Although&#13;
+there are a number of niches where prices are increasing and where these countriesâ&#128;&#153; firm can&#13;
+still strive, their survival in the low-end segments of manufacturing markets (e.g., in&#13;
+garments, toys, shoes and other light manufacturing markets) which successful low-income&#13;
+&#13;
+&#13;
+1&#13;
+  William Cline has recently revisited the conclusions of his initial paper and subsequent book in the light of 25 more years of evidence.&#13;
+â&#128;&#156;Exports of Manufactures and Economic Growth: The Fallacy of Composition Revisited.â&#128;? Paper prepared for the World Bank. 2006.&#13;
+&#13;
+                                                                       8&#13;
+&amp;#12;countries are entering have become difficult. Middle-income countries that have broken into&#13;
+light manufacturing decades ago have now no choice but to upgrade and exit the low value-&#13;
+added segments of export industries, as the four Asian tigers did and as China is expected to&#13;
+do in the coming years. This is because no country can remain competitive in labor-intensive&#13;
+industries indefinitely. This is all the more so for countries with limited labor and natural&#13;
+resources (Chile, Tunisia, Jordan, Mauritius, etc.) where surplus labor is quickly absorbed and&#13;
+wages tend to rise with the development of a middle-income class.&#13;
+&#13;
+3.    Review of methodologies used to capture the technological content of&#13;
+industries&#13;
+&#13;
+       The concept of high-tech does not lend itself to easy quantification. R&amp;D content is a&#13;
+generally accepted yardstick and a product that incorporates directly or indirectly a high level&#13;
+of R&amp;D can be considered as high-tech. However, in addition to R&amp;D expenses, many other&#13;
+indicators are used in the empirical literature: share of technical and scientific staff in total,&#13;
+share of specialized personal on total, correlation between patent and market share, unit&#13;
+values, clientsâ&#128;&#153; opinion and a priori judgments of experts. For instance, the OECD (OECD&#13;
+2005) proposes to consider the following factors in defining high-tech products, industry or&#13;
+activity : (i) research undertaken that leads to the new product or new process ; (ii) the&#13;
+strategic importance of the product, industry or activity for a government ; (iii) the links and&#13;
+delays between basic research, industrial application, commercialization and obsolescence&#13;
+due to concurrent products and processes ; (iv) risks and (v) international collaboration in&#13;
+R&amp;D, production and commercialization. The only quantifiable element among this list of&#13;
+factors is however R&amp;D.&#13;
+&#13;
+&#13;
+       Not surprisingly, different organizations and countries end up classifying â&#128;&#156;high-tech&#13;
+productsâ&#128;? differently thereby making international comparison complicated. Nevertheless, the&#13;
+lists of products/industries considered as high-tech by the USA and the OECD countries are&#13;
+considered authoritative in the empirical research and are widely used. The US has had a long&#13;
+experience in classifying its industries by technology content. The first official lists of high-&#13;
+tech industries date back in 1971. Based on the work by Boretsky (1971), the US Commerce&#13;
+Department developed a list called DOC1, based on two criteria: R&amp;D expenditures and share&#13;
+of scientific and engineers in total employment. Using the standard industrial classification&#13;
+(SIC), industries in which R&amp;D accounts for at least 10 percent of gross value-added and in&#13;
+&#13;
+&#13;
+&#13;
+                                                9&#13;
+&amp;#12;which the share of personal with scientific and engineering education represent 10 percent or&#13;
+higher are defined as â&#128;&#156;high-techâ&#128;?.&#13;
+&#13;
+       The DOC1 list was further improved in 1977, following the empirical work of Kelly&#13;
+(Kelly, 1976, 1977). The new list, called DOC2, captures the technological content at the&#13;
+product level and defines as â&#128;&#156;high-techâ&#128;? products for which the R&amp;D expense in percentage&#13;
+of sales is above a certain threshold. To enable an analysis of the technological content of&#13;
+traded goods, a correspondence table was introduced to map out SITC trade data with SIC&#13;
+industries. In 1982, the US Commerce Department introduced further improvements (David&#13;
+1982, 1983) by considering not only R&amp;D in percent of sales, but also the R&amp;D undertaken at&#13;
+the intermediate and final producer levels as well. This led to yet another list called DOC3.&#13;
+&#13;
+       In parallel to the work by the US Commerce Department, the National Science&#13;
+Foundation has invested time and resources in developing indicators used in its â&#128;&#156;Science&#13;
+Indicators Seriesâ&#128;?. These indicators were then used to provide an â&#128;&#156;NSFâ&#128;? list of high-tech&#13;
+industries. The specific indicators used for this list were the number of scientific and&#13;
+engineers in total employment and R&amp;D expenditures as a percentage of total sales. Goods&#13;
+produced in industries that invest at least 3.5 percent of their sales in R&amp;D and in which&#13;
+scientific and engineers represent at least 2.5 percent of the personal are considered high-tech.&#13;
+This definition uses industrial data and is based on the SIC. This list was further refined&#13;
+recently using disaggregated trade data (NSF 2008).&#13;
+&#13;
+       Following unsatisfactory attempts at using US definitions, the OECD started&#13;
+developing its own classification of industries. The first classification was published in 1985&#13;
+(OECD1 list) and was based on the share of R&amp;D on the production of each industry. Three&#13;
+product categories were established, according on R&amp;D intensity (over 4 percent, between 1&#13;
+and 4 percent and lower than 1 percent). This list was replaced by a refined one in 1989&#13;
+(OECD2) which made adjustments and introduced the concept of high, medium and low&#13;
+technologies based on R&amp;D intensity. The graduation of industries along the technological&#13;
+ladder was further refined in 1997, when the distinction was introduced between â&#128;&#156;medium-&#13;
+highâ&#128;? and â&#128;&#156;medium-lowâ&#128;? technology (Hatzichronoglou 1997). Twenty two manufacturing&#13;
+sectors in 10 OECD countries were ranked using such criteria in the period 1973-1992.2&#13;
+OECD started using SIC3 in 2001 leading to an upgrade of industries such as â&#128;&#156;manufacturing&#13;
+&#13;
+2&#13;
+ A consistent product-based list was also derived from this latest bit of improvement with the view of&#13;
+analyzing international trade based on SITC3.&#13;
+&#13;
+                                                 10&#13;
+&amp;#12;of medical, precision, optics instrumentsâ&#128;? from medium-high to high technology. The OECD&#13;
+now updates direct and indirect R&amp;D intensities regularly and adjusts the list consistently&#13;
+(OECD 2007).               The OECD list is today the most popular one used by practitioners,&#13;
+researchers and international organizations, including the World Bank.3&#13;
+&#13;
+4.         Methodology used in this paper applied to Jordan and Tunisia&#13;
+           We use here a highly disaggregated export database at the 11-digit level for Tunisia,&#13;
+running from 1995 to 2009, and Jordan for the period 2003 to 2010. Comparison between the&#13;
+two countries is thus possible in the overlapping period of the entire database, 2003-2009.&#13;
+Both databases include products classified according to the Harmonized System of&#13;
+Classification Rev3 at 11-digit disaggregation. Three steps are involved in using this product&#13;
+level export database to determine the technological-intensity of industries and its drivers.&#13;
+&#13;
+&#13;
+           First, we harmonize the Jordan and Tunisia dataset with the OECD classification,&#13;
+using an HSC (Rev3) conversion key to reclassify the two countriesâ&#128;&#153; data according to ISIC&#13;
+(Rev 3), and then group the products according to their industry of origin clustered by&#13;
+technology intensity. The OECD ISIC Rev.3 data features four levels of technology intensity:&#13;
+high-tech, medium-high tech, medium-low tech and low tech products. Once the conversion&#13;
+to ISIC is completed, the share of each industry in total exports and their evolution can be&#13;
+calculated and the evolution of the technological content of exports determined.&#13;
+&#13;
+           The second step involves determining the products (captured first at 4-digit level and&#13;
+then at 11-digit) that drive the observed evolutions. To that effect, a few selection criteria&#13;
+have to be put in place. First, the average share of the exported product (at 4-digit) during the&#13;
+period which the data is available (2003-2010 for Jordan and 1995-2009 for Tunisia) should&#13;
+be at least 5 percent. Obviously, products that have smaller weight cannot drive growth in&#13;
+their category. Second, the product must have been exported during the 3 latest years covered,&#13;
+i.e., 2008, 2009 and 2010 for Jordan and 2007, 2008 and 2009 for Tunisia. Finally, the&#13;
+selected â&#128;&#156;products categoryâ&#128;? (4-digit) are then disaggregated to the 11-digit and the same two&#13;
+criteria applied: the average share of 11-digit products within the 4-digit sub-group is&#13;
+calculated; products that represent more than 5 percent of their sub-group selected; and among&#13;
+the latter, products not exported during the latest 3 years dropped.&#13;
+3&#13;
+ The World Bank made some attempts at establishing a list that would be relevant for a wide-range of developing countries in the late 1990s&#13;
+but use of highly aggregated data (4-digit) and the heterogeneity of inter-sectoral relationships within developing countries led to important&#13;
+misclassifications and inconsistent ranking (see World Bank 1999 for the results obtained and Mani 2000 for a critical analysis of the&#13;
+results).&#13;
+&#13;
+                                                                     11&#13;
+&amp;#12;           A concrete example is warranted. For instance, for â&#128;&#156;Aircraftâ&#128;?, the product category&#13;
+8411 (turbo reactors, turbo propellers, and other gas turbines) was exported by Tunisia during&#13;
+2007-2009; and this category represents on average 11.16 percent of AIRCRAFT exports&#13;
+during 1995-2009. Thus the product category 8411 is selected for analysis at the 11-digit&#13;
+level. The data shows within this category 8411, the product 84112100009 (turbo propellers&#13;
+of power not exceeding 1.100 kW) and the product 84119110005 (parts of turbo reactors or&#13;
+turbo propellers) accounted for 6.7 percent and 37.7 percent of exports respectively over&#13;
+1995-2009. These two products are thus selected while the 11-digit positions of 8411 that do&#13;
+not meet our two criteria are dropped.&#13;
+&#13;
+5.         Results&#13;
+&#13;
+        Structure and dynamics of exports by technological content, Jordan versus Tunisia&#13;
+                                                              Figure 2. Average shares of exports by technology content.&#13;
+                                                                                 Jordan: 2007-2010&#13;
+                                                                                 Tunisia: 2007-2009&#13;
+&#13;
+           Figure 2 shows the&#13;
+â&#128;&#156;currentâ&#128;?                   composition&#13;
+(average shares) of exports&#13;
+by technology content (high,&#13;
+medium-high,              medium-low&#13;
+and low-tech), for the period&#13;
+2007-2010 for Jordan and&#13;
+2007-2009             for       Tunisia.4&#13;
+Clearly, the share of high&#13;
+tech products in total exports is low in both countries, but Jordan exports more than twice as&#13;
+much high tech as Tunisia (11.5 percent versus 5.4 percent respectively). Total exports remain&#13;
+largely dominated by low-tech products, which represent 35.5 percent of total exports in&#13;
+Jordan and 37.9 percent in Tunisia. As shown below, this reflects the large share of textiles&#13;
+and textile products in the export basket. For both countries however, the share of medium-&#13;
+tech exports is quite large, standing at 28.4 percent.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+4&#13;
+  The total of these shares does not add up to 100 percent because products not processed or of natural resource type could not be classified&#13;
+by technology and are dropped. These represent on average 15 percent of total exports. .&#13;
+&#13;
+                                                                      12&#13;
+&amp;#12;           Interestingly, the current export structure of Jordan and Tunisia reflects a contrasting&#13;
+ evolution over the last decade or so, with Tunisia slowly but steadily moving up the&#13;
+ technological ladder from a very low basis while Jordan saw a steep rise in low-tech exports&#13;
+ overtime. In Tunisia, since 2004, excluding the global crisis year 2009, the share of medium&#13;
+ and high tech exports has increased steadily while exports of low-tech products have declined&#13;
+ significantly as a percentage of total exports -from 56.7 percent in 1995 to 38.3 percent in&#13;
+ 2009 (Figure 2). This decline gave way to a slow rise in the export of products classified as&#13;
+ medium-low tech (from 6.1 to 11.2 percent of total exports), medium-high (17.4 to 30&#13;
+ percent) and high-tech (1.8 to 6.5 percent). In Jordan, the share of low and medium-low tech&#13;
+ exports increased dramatically since 2003, overshadowing the relative resistance of high and&#13;
+ medium-tech in the entire period. The share of low-tech exports almost doubled between 2003&#13;
+ and 2006 when it reached its peak (43 percent) while medium-low tech export share increased&#13;
+ steadily          from       5            to         17            percent            between               2003        and          2010.&#13;
+&#13;
+&#13;
+    Table 1. Share of Manufacturing industries by technology levels in the Tunisian total&#13;
+                                       export (%).&#13;
+                          1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009&#13;
+Total High Tech             1.8      1.8      2.1     2.7     1.8     2.0      1.9      2.2     2.6    2.7     3.1     2.9    4.5     5.4    6.5&#13;
+Total Medium High Tech    17.4      18.4    18.2     20.1   19.4     18.6     20.2   20.5      20.3   21.2    22.4    21.7   24.0   31.3    29.9&#13;
+Total Medium Low Tech       6.1      4.2      4.1     4.1     4.0     3.8      3.8      5.5     7.3    6.9     8.0    10.2   10.0   11.0    11.2&#13;
+Total Low Tech             56.7     55.5    57.7     57.5   57.8     53.1     53.7   54.0      53.6   53.2    47.6    45.3   40.9   34.7    38.3&#13;
+ Source: Authors' calculations.&#13;
+&#13;
+   Table 2. Share of Manufacturing industries by technology levels in the Jordanian total&#13;
+                                      export (%).&#13;
+                                      2003      2004        2005      2006      2007      2008        2009    2010       Mean 2003-2010&#13;
+ Total High Tech                       15.1         13.8     12.7      10.1      13.4         10.7     10.3    11.9            12.2&#13;
+ Total Medium High Tech                37.5         29.3     26.7      25.3      26.3         33.3     29.3    24.9            29.1&#13;
+ Total Medium Low Tech                5.6            4.7      6.7      10.1      11.7         13.2     17.2    17.6            10.9&#13;
+ Total Low Tech                        23.0         33.7     37.6      43.1      37.2         34.8     34.2    35.8            34.9&#13;
+   Source: Authors' calculations.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+           Drilling down, it appears that the contracting evolution of Jordan and Tunisiaâ&#128;&#153;s export&#13;
+ structure is the result of the dynamics of a few products. For example, the rise of low-tech&#13;
+ exports in Jordan and the decline of that category in Tunisia are driven by textiles and textile&#13;
+ products, which dominate low-tech exports in both countries. In Tunisia, the share of textiles&#13;
+ and textiles products in total exports dropped by almost half, from 44 to 24 percent (Table 3)&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                     13&#13;
+&amp;#12;                whereas Jordan saw a steady increase in the share of this product category, from 10 to 18&#13;
+                percent between 2003 and 2010 (Table 4).&#13;
+&#13;
+&#13;
+&#13;
+                               Table 3. Share of low tech industries in the Tunisian total export (%).&#13;
+                                             1995 1996     1997   1998   1999 2000                2001         2002 2003              2004     2005 2006       2007   2008   2009&#13;
+Manufacturing, n.e.c.; Recycling             0.5    0.6    0.7    0.7        0.8         0.9          0.9       0.9      0.8          0.8      0.8     1.4     1.2    1.0    1.4&#13;
+Wood, pulp, paper, paper products,&#13;
+printing and publishing                      0.8    0.8    0.9    0.8        1.0         1.1          1.1       1.3      1.6          1.7      1.4     1.3     1.3    1.2    1.6&#13;
+Food products, beverages and tobacco         7.1    5.0    9.3    7.6        9.6         7.1          5.5       4.7      5.1          9.1      8.1     9.9     7.3    6.8    6.9&#13;
+Leather and Footwear                         4.4    4.6    4.9    4.9        5.2         5.2          5.7       5.9      6.0          5.2      5.1     4.7     4.5    3.8    4.2&#13;
+Textiles, textile products                   43.8   44.5   42.0   43.5       41.4        38.9         40.5     41.2      40.1         36.5     32.2    28.1    26.5   21.8   24.2&#13;
+Total Low Tech                              56.7    55.5   57.7   57.5       57.8        53.1         53.7     54.0      53.6         53.2     47.6    45.3    40.9   34.7   38.3&#13;
+                 Source: Authors' calculations.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                               Table 4. Share of low tech industries in the Jordanian total export (%).&#13;
+                                                                                                                                             Mean&#13;
+                                                                                                                                             2003-&#13;
+                                                                              2003         2004         2005        2006 2007 2008 2009 2010 2010&#13;
+                Manufacturing, n.e.c.; Recycling                                   5.0          6.9           8.8      7.2      5.2      3.0     3.3     3.4    5.3&#13;
+                Wood, pulp, paper, paper products, printing and publishing         2.0          1.4           2.9      2.6      3.5      6.5     5.8     7.1    4.0&#13;
+                Food products, beverages and tobacco                               5.5          5.5           7.0      5.8      5.5      5.6     6.8     7.2    6.1&#13;
+                Leather and Footwear                                               0.1          0.1           0.2      0.1      0.1      0.1     0.1     0.1    0.1&#13;
+                Textiles, textile products                                     10.4        19.7              18.8     27.5   23.0       19.7    18.3    18.0   19.4&#13;
+                Total Low Tech                                                 23.0        33.7              37.6     43.1   37.2       34.8    34.2    35.8   34.9&#13;
+                Source: Authors' calculations.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                             In Tunisia, textiles and textile products became the largest export sector following the&#13;
+                creation of an â&#128;&#156;offshoreâ&#128;? investment regime in 1971 and the subsequent participation to EU&#13;
+                textile production networks. Tunisiaâ&#128;&#153;s offshore regime features generous investment&#13;
+                incentives granted to exportersâ&#128;&#148;duty-free tariffs on imported raw materials and equipments,&#13;
+                freedom of investment, tax holiday, etc. It has triggered tremendous growth FDI from EU&#13;
+                companies and in exports of textile products. The share of textiles and clothing in exports rose&#13;
+                from 18 percent in 1980 to 44 percent in 1995, before dropping gradually to 33 percent in&#13;
+                2006 and 24 percent in 2009. The rise and relative decline of textiles and clothing illustrates&#13;
+                two successive structural transformations in Tunisiaâ&#128;&#153;s manufacturing sector since the 1970s:&#13;
+                (i) a period of rapid diversification away from fuel exports which dropped from 52 percent in&#13;
+                1980 to 13 percent in 2006 and; (ii) a gradual diversification away from low value added&#13;
+                textiles and clothing towards light mechanical and electrical manufacturing which now&#13;
+                dominates exports.&#13;
+&#13;
+                                                                               14&#13;
+&amp;#12;             The second structural transformation warrants some elaboration since it is one of the&#13;
+main drivers of the rise in medium tech exports observed over the last decade or so. Indeed, in&#13;
+the mid-1990s, Tunisia abandoned its ambition to build â&#128;&#156;made in Tunisiaâ&#128;? cars and focused&#13;
+on automobile parts and components, in which the country has developed real expertise over&#13;
+the years. The â&#128;&#156;local contentâ&#128;? partnerships built with EU automakers rapidly led to increased&#13;
+participation to EU automobile production networks (France, Italy and Germany mainly) and&#13;
+a double digit growth in exports of engineering and electrical machineries since 1997. As of&#13;
+2010, this category has overtaken textiles and clothing as Tunisiaâ&#128;&#153;s largest export sector,&#13;
+accounting for 30 percent of total exports (against 9 percent in 1995). Products in this broad&#13;
+category also classified as â&#128;&#156;machinery and transportâ&#128;? include: electrical wiring systems,&#13;
+electrical motors and generators, wheels and rubber tires, plastic auto components as well as&#13;
+various mechanical auto parts. The electrical wiring system is by far the largest and most&#13;
+dynamic sub-sector. Tunisia is now among Europeâ&#128;&#153;s top 10 suppliers of electrical wiring&#13;
+systems and the countryâ&#128;&#153;s global market share in this segment is about 2.2 percent (World&#13;
+Bank 2008).&#13;
+&#13;
+&#13;
+             The rise of textiles and clothing in Jordan was also driven by privileges granted to&#13;
+exporters and greater market access. The Qualifying Industrial Zone agreement signed with&#13;
+the US gave Jordanian exports quota-free and duty-free access to the U.S. market under&#13;
+advantageous rules of origin. Thanks to these incentives, investments in the sector&#13;
+skyrocketed and Jordanâ&#128;&#153;s apparel and textile exports rose dramatically from US$50 million&#13;
+per year before 1999 to US$1 billion in 2010. As everywhere around the world, the textile and&#13;
+clothing industry is a significant and cost-effective source of low-skill employment, as it is&#13;
+labor-intensive and does not require heavy investment in assets. In contrast with Tunisia&#13;
+however, most of the 60,000 workers in this sector in Jordan are foreigners.5 Although the&#13;
+sectorâ&#128;&#153;s competitiveness has diminished following the abolition of quotas on China and other&#13;
+large exporters within the framework of the Multi-Fiber Agreement, it remains an important&#13;
+sector for the economy. A key objective for both Tunisia and Jordan is to move up the value&#13;
+chain in textiles and exit gradually the lower end of this sector where competition with lower&#13;
+cost producers is stiff (see section 6).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+5&#13;
+    In Tunisia, the sector employs about 240,000 workers, all Tunisians.&#13;
+&#13;
+                                                                       15&#13;
+&amp;#12;                        Tables 5 to 8 show the products behind the changes in the shares of medium-low,&#13;
+              medium-high tech industries in Tunisia and Jordan. In both countries, exports of basic metals&#13;
+              and fabricated metal products, rubber and plastics products drove the increased share in the&#13;
+              medium-low tech category (Tables 5 and 6). For Tunisia, exports of coke and refined&#13;
+              petroleum products also contributed to the rise of medium-low tech industries. For medium-&#13;
+              high tech industries, as discussed above, a key feature is the formidable rise in export of&#13;
+              electrical machineries in Tunisia, which saw a near four-fold increase in share, from 3.7&#13;
+              percent in 1995 to 14.6 percent in 2009. To a smaller extent, the increase in export of motor&#13;
+              vehicles and machineries and equipments also contributed to the increased share of medium-&#13;
+              high tech industries in total exports (Table 7). In Jordan, medium-high exports have declined&#13;
+              over time as a result of a decline in chemical product exports, in particular manufacture of&#13;
+              fertilizers and nitrogen compounds (potassium-based products) which represent almost half of&#13;
+              this category. The sharp increase in exports of electrical machineries (mainly air conditioning)&#13;
+              in recent years was overshadowed by the decline in chemical product exports (Table 8).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+              Table 5. Share of medium low tech industries in the Tunisian total export (%).&#13;
+                                                     1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009&#13;
+Building and repairing of ships and boats            0.08   0.01   0.16        0.02        0.06        0.04        0.04        0.04        0.06        0.13        0.11   0.24   0.30   0.25   0.19&#13;
+Rubber and plastics products                         1.07   1.14   0.74        0.78        0.90        1.20        1.22        1.68        1.52        1.74        1.77   1.86   1.89   1.74   2.17&#13;
+Coke, refined petroleum products and nuclear fuel 0.02      0.02   0.01        0.00        0.00        0.00        0.00        0.96        2.64        1.82        2.53   2.93   2.63   3.69   3.00&#13;
+Other non-metallic mineral products                  2.03   1.40   1.52        1.46        1.20        1.27        1.22        1.30        1.31        1.30        1.44   1.58   1.53   1.47   1.61&#13;
+Basic metals and fabricated metal products           2.92   1.64   1.65        1.80        1.83        1.32        1.32        1.51        1.80        1.95        2.19   3.61   3.68   3.87   4.20&#13;
+Total Medium Low Tech                                6.1    4.2    4.1         4.1         4.0         3.8         3.8         5.5         7.3         6.9         8.0    10.2   10.0   11.0   11.2&#13;
+               Source: Authors' calculations.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                         Table 6. Share of medium low tech industries in the Jordanian total export (%).&#13;
+&#13;
+                                                                    2003 2004 2005 2006 2007 2008 2009 2010 Mean 2003-2010&#13;
+               Building and repairing of ships and boats                 0.0         0.0         0.0         0.0         0.0         0.0         0.0         0.0           0.0&#13;
+               Rubber and plastics products                              1.3         1.3         1.6         1.3         1.4         1.3         2.6         4.6           1.9&#13;
+               Coke, refined petroleum products and nuclear fuel         0.0         0.0         0.0         1.9         1.1         1.6         0.3         1.1           0.8&#13;
+               Other non-metallic mineral products                       2.1         0.7         0.5         0.3         0.6         1.0         0.7         1.6           0.9&#13;
+               Basic metals and fabricated metal products                2.2         2.7         4.5         6.7         8.7         9.3    13.7        10.3               7.3&#13;
+              Total Medium Low Tech                                      5.6         4.7         6.7    10.1        11.7        13.2        17.2        17.6              10.9&#13;
+              Source: Authors' calculations.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                 16&#13;
+&amp;#12;                             Table 7. Share of medium high tech industries in the Tunisian total export (%).&#13;
+&#13;
+                                                      1995   1996   1997   1998    1999   2000     2001 2002 2003 2004 2005 2006 2007                  2008   2009&#13;
+Electrical machinery and apparatus, n.e.c.            3.72   3.80   3.83   5.50    5.80    5.99    7.20    7.16    8.10    9.05   9.21   8.69   10.65 12.32 14.66&#13;
+Motor vehicles, trailers and semi-trailers            0.77   0.62   0.68   0.66    0.76    0.95    1.41    2.04    1.98    2.11   2.38   2.58   2.40   1.94   2.63&#13;
+Chemicals excluding pharmaceuticals                   11.50 12.57 12.25 12.27 11.49 10.22 9.70             9.24    8.41    8.59   8.95   8.54   8.66   14.60 9.72&#13;
+Railroad equipment and transport equipment, n.e.c. 0.04      0.06   0.04   0.21    0.08    0.10    0.10    0.15    0.18    0.17   0.19   0.21   0.31   0.29   0.29&#13;
+Machinery and equipment, n.e.c.                       1.36   1.38   1.42   1.45    1.30    1.38    1.84    1.94    1.63    1.31   1.64   1.63   2.01   2.16   2.60&#13;
+Total Medium High Tech                                17.4   18.4   18.2   20.1    19.4    18.6    20.2    20.5    20.3    21.2   22.4   21.7   24.0   31.3   29.9&#13;
+                 Source: Authors' calculations&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                            Table 8. Share of medium high tech industries in the Jordanian total export (%).&#13;
+&#13;
+                                                                    2003 2004 2005 2006 2007 2008 2009 2010                       Mean 2003-2010&#13;
+                Electrical machinery and apparatus, n.e.c.           1.0   1.1     0.8    1.1     0.8     1.0     6.6     2.5            1.9&#13;
+                Motor vehicles, trailers and semi-trailers           1.4   1.6     1.2    1.0     0.5     0.5     0.2     0.5            0.9&#13;
+                Chemicals excluding pharmaceuticals                 33.2   25.6    21.1   20.1    20.1    28.8    20.3    19.8           23.6&#13;
+                Railroad equipment and transport equipment, n.e.c. 0.02    0.01    0.0    0.0     0.0     0.0     0.0     0.0            0.0&#13;
+                Machinery and equipment, n.e.c.                      1.9   1.04    3.5    3.2     5.0     2.9     2.3     2.2            2.8&#13;
+                Total Medium High Tech                              37.5   29.3    26.7   25.3    26.3    33.3    29.3    24.9           29.1&#13;
+                  Source: Authors' calculations&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                            Regarding high tech exports, the data reveals an important contrast between Jordan&#13;
+                  and Tunisia: the former relies on one strong high tech sector that alone explains Jordanâ&#128;&#153;s&#13;
+                  larger share of high tech products in total exports. The latter has a large number of small&#13;
+                  (underdeveloped) sectors that contribute modestly to high tech exports.&#13;
+&#13;
+&#13;
+                            In Jordan, high tech exports are driven almost exclusively (98.6 percent) by&#13;
+                  pharmaceutical products. Jordanâ&#128;&#153;s pharmaceutical sector features high value-addition for the&#13;
+                  economy, with strong links to local input markets (packaging, material capsules, technology,&#13;
+                  research, etc.) and an ability to add real or perceived value to the products through branding.&#13;
+                  High quality products are exported to more than 60 markets worldwide, which attests to their&#13;
+                  competitiveness, particularly with regard to brand generic drugs (Jordan Vision 2020). The&#13;
+                  development of the sector was fuelled by specific strategies implemented by individual&#13;
+                  companies, which include: (i) US Food and Drug Administrationâ&#128;&#153;s certification; (ii) research&#13;
+                  on product manufacture for drugs which are nearing their patent expiration exploiting&#13;
+                  loopholes in the Free Trade Agreements signed with the US and the EU signed in the early&#13;
+                  2000s. These agreements provide Jordanian pharmaceutical companies with first mover&#13;
+&#13;
+                                                                              17&#13;
+&amp;#12;            advantage in marketing generic drugs compared to international (European and American)&#13;
+            pharmaceutical companies;6 (iii) signature of the intellectual property right (IPR) and WTO&#13;
+            agreements which increased the confidence of multinational drug companies in Jordan and&#13;
+            resulted in the establishment of several strategic alliances and licensing agreements with&#13;
+            leading international drug companies.&#13;
+&#13;
+&#13;
+                      In contrast with Jordan where high tech exports are concentrated, in Tunisia, a large&#13;
+            number of products contribute modestly to the rise in high tech exports: electronics, in&#13;
+            particular radio, TV and telecom equipments (2.5 percent of total exports), office accounting&#13;
+            and computing machineries (1.9 percent) and medical, precision and optical equipments (1.7&#13;
+            percent) are all contributors to the slow rise in high tech exports. There is no apparent pro-&#13;
+            active strategy behind the evolution of these sectors. Their emergence relates to the&#13;
+            exploitation of existing advantages: availability of skilled and semi-skilled labor, proximity to&#13;
+            the EU and the â&#128;&#156;naturalâ&#128;? development of productive capabilities and inflows of FDI.&#13;
+&#13;
+&#13;
+                              Table 9. Share of high tech industries in the Tunisian total export (%).&#13;
+&#13;
+                                                 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008                                         2009&#13;
+Aircraft and spacecraft                           0.02   0.01    0.02    0.01    0.10      0.08    0.13    0.18    0.04    0.04    0.04   0.03   0.06   0.04   0.06&#13;
+Pharmaceuticals                                   0.23   0.12    0.26    0.29    0.09      0.08    0.11    0.10    0.10    0.17    0.13   0.12   0.14   0.13   0.21&#13;
+Office, accounting and computing machinery        0.03   0.02    0.01    0.00    0.02      0.04    0.03    0.09    0.13    0.37    0.34   0.50   0.73   0.81   1.98&#13;
+Radio, TV and communications equipment            0.96   1.07    1.38    1.91    1.03      1.12    0.98    1.08    1.10    1.04    1.15   1.14   2.26   3.04   2.56&#13;
+Medical, precision and optical instruments        0.57   0.57    0.41    0.49    0.51      0.68    0.63    0.78    1.18    1.10    1.48   1.06   1.31   1.38    1.71&#13;
+Total High Tech                                    1.8     1.8    2.1     2.7        1.8    2.0     1.9     2.2     2.6     2.7     3.1    2.9    4.5    5.4     6.5&#13;
+          Source: Authors' calculations&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                            Table 10. Share of high tech industries in the Jordanian total export (%).&#13;
+&#13;
+                                                                  2003 2004 2005 2006 2007 2008 2009 2010 Mean 2003-2010&#13;
+               Aircraft and spacecraft                             0.0    0.0        0.0    0.0     0.0     0.0     0.0     0.0           0.0&#13;
+               Pharmaceuticals                                    15.0    13.7    12.7     10.0    13.0     10.4    10.2    11.6          12.1&#13;
+               Office, accounting and computing machinery          0.0    0.0        0.0    0.0     0.01    0.04    0.02    0.06          0.02&#13;
+               Radio, TV and communciations equipment              0.0    0.0     0.01      0.05    0.4     0.3     0.11    0.14          0.12&#13;
+               Medical, precision and optical instruments         0.05    0.03    0.02      0.02    0.01    0.01    0.01    0.02          0.02&#13;
+              Total High Tech                                     15.1    13.8    12.7      10.1    13.4    10.7    10.3    11.9          12.2&#13;
+            Source: Authors' calculations&#13;
+&#13;
+&#13;
+&#13;
+            6&#13;
+              European Union legislation prohibits European companies from undertaking generic product preparation (R&amp;D) prior to patent expiry.&#13;
+            Jordanian companies are unaffected by this legislation and have exploited this loophole to develop first mover advantage in the generic&#13;
+            market for drugs which have recently come off patent. The US has removed such a loophole. The EU may close this loophole in its FTA with&#13;
+            Jordan as well.&#13;
+&#13;
+                                                                                18&#13;
+&amp;#12;Benchmarking Jordan and Tunisia against OECD and emerging economies&#13;
+&#13;
+       One advantage of our methodology is that it allows us to benchmark Jordan and&#13;
+Tunisia against OECD and some emerging economies, for which the OECD has undertaken a&#13;
+classification in 2005. Table 11 shows that Tunisia has a long way to go in catching up with&#13;
+OECD countries. Indeed, in 2005, high-tech industries accounted for 22 percent of total&#13;
+exports in OECD against only 3 percent in Tunisia. The gap is much lower for medium-high&#13;
+industries however (39 versus 22 percent). Furthermore, Tunisia lags behind emerging&#13;
+economies like Turkey, South Africa, Brazil, China, India and Indonesia when it comes to&#13;
+high-tech exports. However, the share of medium-high tech export in total is higher in Tunisia&#13;
+than it is in India and Indonesia.&#13;
+       In contrast, Jordan fares quite well compared to many countries. With 12.7 percent of&#13;
+its total exports high tech (again thanks to its large pharmaceutical sector) in the mid-2000s,&#13;
+Jordan ranks better than most emerging economies except China. At 26.7 percent, the share of&#13;
+medium-tech exports was also sizeable on a comparative basis. However, as seen above,&#13;
+Jordanâ&#128;&#153;s export structure has become more concentrated on low-tech products in the second&#13;
+half of the 2000s with the rise of textiles and textile products. While data for the emerging and&#13;
+OECD countries is not available for the year 2009, the table clearly shows that the gap in high&#13;
+tech export performance between Jordan and Tunisia has narrowed quite significantly in the&#13;
+second half of the 2000s.&#13;
+     Table 11. Share of Manufacturing industries by technology levels in the total exports:&#13;
+                                   Benchmarking, 2005&#13;
+                                     High tech manufacturing   Medium high tech manufacturing     Medium low tech          Low tech manufacturing&#13;
+                                            industries                   industries             manufacturing industries         industries&#13;
+&#13;
+                France                        22,4                          39,8                         15,6                       18,5&#13;
+                OECD                          22,6                          38,8                         16,2                       15,6&#13;
+                EU19                          20,6                          39,6                         17,3                       18,3&#13;
+                China                         34,7                          19,9                         13,8                       29,3&#13;
+                Spain                         10,5                          42,0                         20,8                       20,1&#13;
+                Italy                         10,8                          39,0                         21,5                       26,9&#13;
+                Portugal                      11,6                          29,3                         20,0                       36,3&#13;
+                Brasil                         7,5                          24,9                         17,9                       29,1&#13;
+                Turkey                         5,6                          26,5                         25,6                       36,3&#13;
+                South Africa                   3,8                          25,6                         36,6                       13,3&#13;
+                Greece                        11,5                          14,9                         30,4                       31,2&#13;
+                India                          4,9                          17,5                         25,4                       42,6&#13;
+                Indonesia                     10,0                          12,2                         12,6                       30,9&#13;
+                JORDAN                        12.7                          26.7                          6.7                       37.6&#13;
+                TUNISIA                        3,1                          22,4                          8,0                       47,6&#13;
+                JORDAN (2009)                 10.3                          29.3                         17.2                       34.2&#13;
+                TUNISIA (2009)                 6,5                          29,9                         11,2                       38,3&#13;
+&#13;
+&#13;
+                         Source: Authors' calculations and OECD: Science, Technology and Industry Scoreboard, 2007.&#13;
+&#13;
+&#13;
+&#13;
+                                                                   19&#13;
+&amp;#12;6.     Policy discussion&#13;
+&#13;
+       Four observations come out of the analysis above. First, success stories in embracing&#13;
+globalization and moving up the technological ladder exist in MENA, as Jordanâ&#128;&#153;s&#13;
+pharmaceutical industry or Tunisiaâ&#128;&#153;s emerging electronics sector illustrate. Second, â&#128;&#156;smartâ&#128;?&#13;
+industrial policy seems to play a role in some cases, such as Tunisiaâ&#128;&#153;s decision to abandon&#13;
+making cars and focusing on parts and components in partnership with European automakers&#13;
+in the mid-1990s. At the same time, success stories identified in both countries are all&#13;
+associated with the establishment of an â&#128;&#156;enclaveâ&#128;? where transparent â&#128;&#156;rules of the gameâ&#128;? are&#13;
+credibly enforced with the help of an external policy anchor either through international&#13;
+agreements (e.g. Jordanâ&#128;&#153;s free trade agreement with the US and signature of and compliance&#13;
+with WTOâ&#128;&#153;s Intellectual Property Rights) or the establishment of a â&#128;&#156;special zone/regimeâ&#128;?&#13;
+such as Tunisiaâ&#128;&#153;s â&#128;&#156;offshoreâ&#128;? regime and Jordanâ&#128;&#153;s Qualifying Industrial Zone. Finally, when&#13;
+predictable rules of the game exist and are credibly enforced, success stories feature an&#13;
+absence of government intrusive â&#128;&#156;interventionâ&#128;? in all cases. It is noteworthy that the â&#128;&#156;external&#13;
+anchor policy deviceâ&#128;? is an important tactic for addressing institutional weaknesses around&#13;
+the world as discussed by Noland and Polack (2007).&#13;
+&#13;
+       These observations point to the importance of trade tools and a predictable business&#13;
+environment as important ingredients for industrial success in Jordan and Tunisia. In&#13;
+particular, the institutional framework for business conduct seems to be a key determinant of&#13;
+private investment, whether from foreign or domestic entrepreneurs. This is consistent with&#13;
+the main finding of the World Bank regional study â&#128;&#156;from privileges to competitionâ&#128;? published&#13;
+in 2010. The main policy implication from the findings of the paper (as for the Bank report) is&#13;
+that Jordan and Tunisia need first and foremost a reform of the way the state interacts and&#13;
+interface with the private sector. This institutional reform is also a pre-requisite for any&#13;
+effective industrial policy support that these countries may envisage going forward. The&#13;
+current Arab Spring context provides for a unique opportunity to undertake this reform and&#13;
+send the signal the change is real. Indeed, countries at the frontier of innovation typically&#13;
+enjoy a stable, trust-based societal environment. The institutional reform entails deep political&#13;
+and public administration reform to upgrade public services standards in Jordan and Tunisia.&#13;
+&#13;
+Given the patterns of changes in export structures analyzed above however, simply improving&#13;
+the rules of the game seems not enough to accelerate structural change. In the case of Jordan,&#13;
+a key question is whether the country should base its movement up the technological ladder&#13;
+&#13;
+&#13;
+                                               20&#13;
+&amp;#12;solely on one sector: pharmaceutical. Therefore the question arises as to how Jordan can&#13;
+replicate the success in this sector elsewhere, given its capabilities and endowment.7 Another&#13;
+question is whether it is sensible for Jordan to spend much public resources to support the&#13;
+textiles and clothing sector, when the latter employs predominantly foreign labor, displays&#13;
+poor working standards, uses scarce water and energy and is subject to eroding preference in&#13;
+the US market as the latter is more open to China and other large suppliers since the removal&#13;
+of the Multi-fiber agreement. While the response to these questions is beyond the scope of&#13;
+this paper, they are worth considering as Jordan devises a new industrial strategy.&#13;
+&#13;
+          For Tunisia, a key industrial strategy question is whether the country should focus&#13;
+keep counting on a large number of sectors/ products to accelerate its movement up the&#13;
+technological ladder developing or on a few strong sectors where the country has&#13;
+demonstrated real capacity in recent years. Another question is whether Tunisia can boost&#13;
+growth in its emerging high-tech sectors (electronics, office accounting and computing&#13;
+machineries and medical, precision and optical equipments) without deliberately creating new&#13;
+advantages (specialized skills, specific technological/innovation capabilities and specific&#13;
+inputs such as new legislation, accreditation or industry-specific infrastructures) and/or&#13;
+attracting specific international firms/champions. In any case, the existence of market failures&#13;
+with access to credit, skilled labor and specific knowledge provide a rationale for specific&#13;
+policy interventions, beyond broader reform efforts to improve the business environment and&#13;
+providing generic infrastructure. Greater accountability of policymakers and control of&#13;
+corruption (institutional reform) will however be necessary to avoid the usual pitfalls&#13;
+associated with government intervention.&#13;
+&#13;
+          Finally, improving the environment for innovation may facilitate the movement up the&#13;
+technological ladder in both Jordan and Tunisia. As found by Rischard and al (2010) and&#13;
+World Bank (2010), innovation policy in both countries (i) is too narrowly cast, addressing&#13;
+mostly technological innovation and largely missing out on todayâ&#128;&#153;s important non-&#13;
+technological sources of innovation; (ii) suffers from an institutional spaghetti bowl problem&#13;
+with too many organizations with confusing/overlapping mandates and (iii) not aligned to the&#13;
+countryâ&#128;&#153;s industrial strategy and resource endowment. Resources to support innovation are&#13;
+spread across too thin and key priority areas lack adequate resources to undertake their duties.&#13;
+&#13;
+&#13;
+&#13;
+7&#13;
+  Jordan is a services-dominated economy and its current strategy may be sensible. However, to the extent that sectors such as consumer&#13;
+appliances (in particular Air Conditioning) have shown real strengths in recent years, it may be worth keeping in mind.&#13;
+&#13;
+                                                                    21&#13;
+&amp;#12;Addressing these shortcomings can be crucial in supporting structural changes in Jordan and&#13;
+Tunisia.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                            22&#13;
+&amp;#12;References&#13;
+Boresky, M. (1971): Concerns about the Present American Position in International Trade,&#13;
+National Academy of Engineering, Washington.&#13;
+&#13;
+Davis, L. (1982): Technology Intensity of U.S Output and Trade, Department of Commerce,&#13;
+International Trade Administration, Washington.&#13;
+&#13;
+Davis, L. (1988): Technology Intensity of U.S, Canadian and Japanese Manufacturers Output&#13;
+and Exports, Department of Commerce, International Trade Administration, Washington.&#13;
+European Commission (1997): Second European Report on Science and Technology&#13;
+Indicators, Brussels.&#13;
+&#13;
+Hatter, Victoria L. (1985): â&#128;&#156;U.S. High Technology Trade and Competitivenessâ&#128;?, Office of&#13;
+Trade and Development Analysis, Staff Report, U.S Department of Commerce, International&#13;
+Trade Administration, Washington.&#13;
+&#13;
+Hatzichronoglou T. (1997): â&#128;&#156;Revision of the High-Technology Sector and Product&#13;
+Classificationâ&#128;?, OECD Science, Technology and Industry Working Papers, 1997/2, OECD.&#13;
+&#13;
+Howitt, P., 2000, â&#128;&#156;Endogenous Growth and Cross Country Economic Differences,â&#128;? American&#13;
+Economics Review, 90(4): 829-246&#13;
+&#13;
+Keller, W. (2004). â&#128;&#156;International Technology Diffusion,â&#128;? Journal of Economic Literature,&#13;
+42(3): 752-782&#13;
+&#13;
+Kelly, R. (1976): â&#128;&#156;Alternative Measurements of Technology-Intensive Tradeâ&#128;?, Staff&#13;
+Economic Report, U.S. Department of Commerce, Office of Economic Research,&#13;
+Washington.&#13;
+&#13;
+Kelly, R. (1977): â&#128;&#156;The Impact of Technological Innovation on International Trade Patternsâ&#128;?,&#13;
+Staff Economic Report, U.S Department of Commerce, Office of Economic Research,&#13;
+Washington.&#13;
+&#13;
+Klenow, P., and Rodriguez-Clare, A., 2005, â&#128;&#156;Externalities and Growth,â&#128;? in Aghion and&#13;
+Durlauf eds., Handbook of Economic Growth, Volume 1A, Elsevier&#13;
+&#13;
+Krishna, P. and W. F. Maloney (2011). â&#128;&#156;Export Quality Dynamicsâ&#128;? World Bank Policy&#13;
+Research Working Paper No5701&#13;
+&#13;
+Mani, Sunil ((2000): â&#128;&#156;Exports of High Technology Products from Developing Countries: Is it&#13;
+a Real or Statistical Artifact?â&#128;? Maastricht, INTECH, Discussion Paper No 2000-1.&#13;
+&#13;
+National Science Board (2008), Science and Engineering Indicators 2008, two volumes,&#13;
+Arlington, VA: National Science Foundation.&#13;
+&#13;
+Noland, M. and Howard Pack (2007). The Arab Economies in a Changing World.&#13;
+Washington DC: Peterson Institute for International Economics&#13;
+&#13;
+&#13;
+                                            23&#13;
+&amp;#12;NordÃ¥s, Hildegunn Kyvik. (2004). â&#128;&#156;The Global Textile and Clothing Industry Post the&#13;
+Agreement on Textiles and Clothing.â&#128;? Discussion Paper 15, World Trade Organization,&#13;
+Geneva, Switzerland&#13;
+&#13;
+OECD (1985): Trade in High-Technology Products: An Initial Contribution to the Statistical&#13;
+Analysis of Trade Patterns in High-Technology Products, DSTI/SPR/84.66, DSTI/IND/84.60,&#13;
+Paris.&#13;
+&#13;
+O.E.C.D (2001): Science, Technology and Industry Scoreboard, O.E.C.D, Paris.&#13;
+&#13;
+OECD (2004). â&#128;&#156;A New World Map in Textiles and Clothing. Adjusting to Change.â&#128;? Policy&#13;
+Brief, October 2004&#13;
+&#13;
+O.E.C.D (2007): Science, Technology and Industry Scoreboard, O.E.C.D, Paris.&#13;
+&#13;
+Rischard JF, J. White, S.Chung and J.S.Kim (2010). A Candid Review of Jordan Innovation&#13;
+Policy. Mimeo&#13;
+&#13;
+William Cline (2006). Exports of Manufactures and Economic Growth: The Fallacy of&#13;
+Composition Revisited. Paper prepared for the World Bank. 2006&#13;
+&#13;
+World Bank (1999): World Development Indicators 1999, Washington, D.C.&#13;
+&#13;
+World Bank (2000): World Development Indicators 2000, Washington, D.C.&#13;
+&#13;
+World Bank (2006): Morocco, Tunisia, Egypt and Jordan after the MFA: Impact, Challenges&#13;
+and Prospects, December 2006, Report N35376 MNA. The World Bank.&#13;
+&#13;
+World Bank (2010). Tunisia Development Policy Review: Toward Innovation-Driven Growth,&#13;
+World Bank Report N0.50847. Washington DC&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                           24&#13;
+&amp;#12;                          MENA Working Paper Series&#13;
+&#13;
+No. 1    Has Labor Migration Promoted Economic Integration in the Middle East?&#13;
+         June 1992. Nemat Shafik, The World Bank and Georgetown University.&#13;
+&#13;
+No. 2    The Welfare Effects of Oil Booms in a Prototypical Small Gulf State.&#13;
+         September 1992. Ahmed Al-Mutuwa, United Arab Emirates University and John T.&#13;
+         Cuddington, Georgetown University.&#13;
+&#13;
+No. 3    Economic and Social Development in the Middle East and North Africa.&#13;
+         October 1992. Ishac Diwan and Lyn Squire, The World Bank.&#13;
+&#13;
+No. 4    The Link Between Trade Liberalization and Multi-Factor Productivity: The Case of&#13;
+         Morocco. February 1993. Mona Haddad, The World Bank.&#13;
+&#13;
+No. 5    Labor Markets in the Middle East and North Africa.&#13;
+         February 1993. Christopher A. Pissarides, The London School of Economics and&#13;
+         Political Science.&#13;
+&#13;
+No. 6    International Competitiveness of the Private Industry and the Constraints to its&#13;
+         Development: The Case of Morocco.&#13;
+         June 1993. Hamid Alavi, The World Bank.&#13;
+&#13;
+No. 7    An Extended RMSM-X Model for Egypt: Quantifications of Market-Oriented&#13;
+         Reforms. September 1993. Karsten Nimb Pedersen, The World Bank.&#13;
+&#13;
+No. 8    A Report on the Egyptian Tax System.&#13;
+         October 1993. Mark Gersovitz, Roger H. Gordon and Joel Slemrod, The World Bank.&#13;
+&#13;
+No. 9    Economic Development and Cooperation in the Middle East and North Africa.&#13;
+         November 1993. Ishac Diwan and Lyn Squire, The World Bank.&#13;
+&#13;
+No. 10   External Finance in the Middle East: Trends and Prospects.&#13;
+         December 1993. Ishac Diwan, John Underwood and Lyn Squire, The World Bank.&#13;
+&#13;
+No. 11   Tax Incidence on Agriculture in Morocco (1985-1989).&#13;
+         April 1994. Jean-Paul Azam, CERDI, University of Auvergne, Clermont-Ferrand&#13;
+         (France) et CSAE, Oxford (U.K).&#13;
+&#13;
+No. 12   The Demographic Dimensions of Poverty in Jordan.&#13;
+         August 1994. Chantal Worzala, The World Bank.&#13;
+&#13;
+No. 13   Fertility and Family Planning in Iran.&#13;
+         November 1994. Rodolfo A. Bulatao and Gail Richardson, The World Bank.&#13;
+&#13;
+No. 14   Investment Efficiency, Human Capital &amp; Migration A Productivity Analysis of the&#13;
+         Jordanian Economy.&#13;
+         May 1995. Gaston Gelos, Yale University, Department of Economics.&#13;
+&#13;
+No. 15   Tax Effects on Investment in Morocco.&#13;
+         August 1995. David Sewell, Thomas Tsiopoulos and Jack Mintz, The World Bank.&#13;
+&#13;
+&#13;
+                                            25&#13;
+&amp;#12;No. 16   Reconstruction in Lebanon: Challenges for Macroeconomic Management.&#13;
+         April 1999. Daniela Gressani and John Page, The World Bank.&#13;
+&#13;
+No. 17   Towards a Virtuous Circle: A Nutrition Review of the Middle East and North&#13;
+         Africa.&#13;
+         August 1999. Regional HNP Knowledge Management, The World Bank.&#13;
+&#13;
+No. 18   Has Education Had a Growth Payoff in the MENA Region?&#13;
+         December 1999. Lant Pritchett, The World Bank.&#13;
+&#13;
+No. 19   Rationalizing Public Sector Employment in the MENA Region.&#13;
+         December 2000. Elizabeth Ruppert Bulmer, The World Bank.&#13;
+&#13;
+No. 20   Achieving Faster Economic Growth in Tunisia.&#13;
+         March 2001. Auguste T. KouamÃ©, The World Bank.&#13;
+&#13;
+No. 21   Trade Options for the Palestinian Economy: Some Orders of Magnitude.&#13;
+         March 2001. Claus Astrup and SÃ©bastien Dessus, The World Bank.&#13;
+&#13;
+No. 22   Human Capital and Growth: The Recovered Role of Educational Systems.&#13;
+         April 2001. SÃ©bastien Dessus, The World Bank.&#13;
+&#13;
+No. 23   Governance And The Business Environment In West Bank/Gaza.&#13;
+         May 2001. David Sewell, The World Bank.&#13;
+&#13;
+No. 24   The Impact of Future Labor Policy Options on the Palestinian Labor Market.&#13;
+         June 2001. Elizabeth Ruppert Bulmer, The World Bank.&#13;
+&#13;
+No. 25   Reform and Elusive Growth in the Middle-East â&#128;&#147; What Has Happened in the 1990s?&#13;
+         July 2002. Dipak Dasgupta, Jennifer Keller and T.G. Srinivasan, The World Bank.&#13;
+&#13;
+No. 26   Risks and Macro-Economic Impacts of HIV-AIDS in the Middle East and North&#13;
+         Africa: Why waiting to intervene can be costly.&#13;
+         July 2002. David A. Robalino, Carol Jenkins and Karim El Maroufi, The World Bank.&#13;
+&#13;
+No. 27   Exchange Rate Regime and Competitiveness of Manufactured Exports: The Case of&#13;
+         MENA Countries.&#13;
+         August 2002. Mustapha Kamel Nabli and Marie-Ange VÃ©ganzonÃ¨s-Varoudakis, The&#13;
+         World Bank.&#13;
+&#13;
+No. 28   Governance and the Investment Climate in Yemen.&#13;
+         September 2002. Arup Banerji and Caralee McLiesh, The World Bank.&#13;
+&#13;
+No. 29   Exporting Labor or Goods? Long-term Implications for the Palestinian Economy.&#13;
+         October 2002. Claus Astrup and SÃ©bastien Dessus, The World Bank.&#13;
+&#13;
+No. 30   Poverty and Transfers in Yemen.&#13;
+         December 2002. Dominique van de Walle, The World Bank.&#13;
+&#13;
+No. 31   Yemen and the Millennium Development Goals.&#13;
+         March 2003. Qaiser Khan and Susan Chase, The World Bank.&#13;
+&#13;
+&#13;
+&#13;
+                                            26&#13;
+&amp;#12;No. 32   Making Trade Work for Jobs : International Evidence and Lessons for MENA.&#13;
+         July 2003. Dipak Dasgupta, Mustapha Kamel Nabli, Christopher Pissarides (LSE), and&#13;
+         Aristomene Varoudakis, The World Bank.&#13;
+&#13;
+No. 33   Opening up Telecommunications to Competition and MENA Integration in the&#13;
+         World Economy. July 2003. Carlo Maria Rossotto, Khalid Sekkat and Aristomene&#13;
+         Varoudakis, The World Bank.&#13;
+&#13;
+No. 34   Growth, Private Investment and the Cost of Doing Business in Tunisia.&#13;
+         February 2004. AnÃ³s Casero, Paloma, and Aristomene Varoudakis. The World Bank.&#13;
+&#13;
+No. 35   Current World Trade Agenda - Issues and Implications for the MENA Region.&#13;
+         May 2004. Dipak Dasgupta, Mustapha Kamel Nabli, T.G. Srinivasan and Aristomene&#13;
+         Varoudakis, The World Bank.&#13;
+&#13;
+No. 36   Reforms and Growth in MENA Countries - New Empirical Evidence.&#13;
+         May 2004. Mustapha Kamel Nabli, and Marie-Ange VÃ©ganzonÃ¨s-Varoudakis, The World&#13;
+         Bank.&#13;
+&#13;
+No. 37   Gainers and Losers from Trade Reform in Morocco.&#13;
+         August 2004. Martin Ravallion and Michael Lokshin, The World Bank.&#13;
+&#13;
+No. 38   Fiscal and Public Debt Sustainability in Egypt.&#13;
+         September 2004. Pedro Alba, Sherine El-Shawarby and Farrukh Iqbal, The World Bank.&#13;
+&#13;
+No. 39   Trade and Foreign Exchange Liberalization, Investment Climate and FDI in the&#13;
+         MENA Countries.&#13;
+&#13;
+         September 2004. Khalid Sekkat and Marie-Ange VÃ©ganzonÃ¨s-Varoudakis, The World Bank.&#13;
+&#13;
+No. 40   Migration and Trade in MENA â&#128;&#147; Problems or Solutions?&#13;
+         October 2004. Sara Johansson de Silva and Carlos Silva-JÃ¡uregui, The World Bank.&#13;
+&#13;
+No. 41   Do Basic Services and Poverty Programs Reach Moroccoâ&#128;&#153;s Poor? Evidence from&#13;
+         Poverty and Spending Maps&#13;
+         October 2004. Dominique van de Walle, The World Bank.&#13;
+&#13;
+&#13;
+No. 42   Economic Growth in Egypt: Constraints and Determinants&#13;
+         October 2005. Anton Dobronogov and Farrukh Iqbal, The World Bank.&#13;
+&#13;
+No. 43   Lebanon â&#128;&#147; Trade and Competition Policies for Growth: A General Equilibrium&#13;
+         Analysis&#13;
+         May 2006. SÃ©bastien Dessus and Joey Ghaleb, The World Bank.&#13;
+&#13;
+No. 44   Trade and Investment Integration of the Maghreb&#13;
+         May 2006. Paul Brenton, Eugenia Baroncelli and Mariem Malouche, The World Bank.&#13;
+&#13;
+No. 45   Total Factor Productivity in Tunisian Manufacturing Sectors: Convergence or&#13;
+         Catch-up with OECD Members?&#13;
+         June 2006. Mohamed El Arbi Chaffai, Patrick Plane and Dorra Triki Guermazi&#13;
+&#13;
+&#13;
+                                            27&#13;
+&amp;#12;No. 46   Implicit Pension Debt in the Middle East and North Africa: Magnitude and Fiscal&#13;
+         Implications&#13;
+         June 2006. David A. Robalino and Tatyana Bogomolova, The World Bank.&#13;
+&#13;
+No. 47   Water, Food Security and Agricultural Policy in the Middle East and North Africa&#13;
+         Region&#13;
+         July 2006. Shobha Shetty, The World Bank.&#13;
+&#13;
+No. 48   Explaining Large Inventories: the Case of Iran&#13;
+         September 2006. Anton Dobronogov and Ahmad R. Jalali-Naini, The World Bank.&#13;
+&#13;
+No. 49   Job Creation in a High Growth Environment: The MENA Region&#13;
+         December 2007. Mustapha K. Nabli, Carlos Silva- JÃ¡uregui and Sara Johansson de&#13;
+         Silva, The World Bank.&#13;
+&#13;
+No. 50   Economics of "Policy-Induced" Fragmentation: The Costs of Closures Regime to&#13;
+         West Bank and Gaza&#13;
+         January 2008. Sebnem Akkaya, Norbert Fiess, Bartlomiej Kaminski and Gael Raballand,&#13;
+         The World Bank.&#13;
+&#13;
+No. 51   Centralization, Decentralization and Conflict in the Middle East and North Africa&#13;
+         April 2011. Mehmet Serkan Tosun and Serdar Yilma, The World Bank.&#13;
+&#13;
+No. 52   Does MENAâ&#128;&#153;s Governance lead to Spatial Agglomeration and Disparities?&#13;
+         April 2011. Abdoulâ&#128;&#153; Ganiou Mijiyawa, African Centre for Economic Transformation,&#13;
+         ACET. Alexander Kremer and LoÃ¯c Whitmore, The World Bank.&#13;
+&#13;
+No. 53   The Trade Performance of the Middle East and North Africa&#13;
+         July 2011. Alberto Behar, International Monetary Fund and Caroline Freund, The&#13;
+         World Bank.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                            28&#13;
+&amp;#12;</ml:original-txt><ml:search-metadata><doc id="15890158">
+        <url>
+            http://documents.worldbank.org/curated/en/2012/02/15890158/jordan-tunisias-exports-more-technologically-sophisticated-analysis-using-highly-disaggregated-export-databases
+        </url>
+        <availablein>English</availablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2012/02/15890158/jordan-tunisias-exports-more-technologically-sophisticated-analysis-using-highly-disaggregated-export-databases</url_friendly_title>
+        <new_url>2012/02/15890158/jordan-tunisias-exports-more-technologically-sophisticated-analysis-using-highly-disaggregated-export-databases</new_url>
+        <disclosure_date>2012-03-02T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2012-03-02T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2012/03/05/000333038_20120305032614/Rendered/INDEX/672480NWP00PUB07863B00FEBRUARY15NEW.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2012/03/05/000333038_20120305032614/Rendered/PDF/672480NWP00PUB07863B00FEBRUARY15NEW.pdf</pdfurl>
+        <docdt>2012-02-01T00:00:00Z</docdt>
+        <datestored>2012-03-05T00:00:00Z</datestored>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            Are Jordan and Tunisia's exports
+            becoming more technologically sophisticated? Analysis using
+            highly disaggregated export databases
+        </repnme>
+        <abstracts>
+            There is a growing consensus that what
+            you export matters for growth (see for instance, Haussman
+            and al. 2007 and Krishna and Maloney (2011)). This paper
+            examines whether and to what extent Jordan and Tunisia, the
+            two most globally integrated countries of the Middle East
+            and North Africa region, are moving up the technological
+            ladder. To that effect, we use two highly disaggregated
+            panel export database (products captured at the 11-digit
+            level) and a 'product-based' methodology that
+            allows a mapping of products classified by technological
+            content and their sector of origin. We find that Jordan and
+            Tunisia have experienced contrasting dynamics over the last
+            decade. Thanks to its large exports of pharmaceutical
+            products, Jordan enjoys a much higher share of high tech
+            products in its export basket (11.5 percent versus 5.4
+            percent respectively) but this share has been declining
+            overtime due to the rapid rise of exports of textiles
+            products. In contrast, from a very low basis, Tunisia has
+            been catching up thanks to a slow but steady rise in
+            medium-high tech products (electronics and mechanical
+            components) and a corresponding decline in the preeminence
+            of exports of textile products. Interestingly, success
+            stories identified in both countries are all associated with
+            the establishment of an 'enclave' where
+            transparent 'rules of the game' are credibly
+            enforced with the help of an external policy anchor either
+            through international agreements (e.g. Jordan's free
+            trade agreement with the US and the signature of and
+            compliance with WTO's Intellectual Property Rights) or
+            the establishment of a 'special zone/regime' such
+            as Tunisia's 'offshore' regime and
+            Jordan's Qualifying Industrial Zone. This finding
+            underscores the importance of overcoming institutional
+            weaknesses and establishing transparent and rules-based
+            Government-business relationships as a pre-requisite for
+            successful global integration in developing countries countries.
+        </abstracts>
+        <docna>
+            Are Jordan and Tunisia's exports
+            becoming more technologically sophisticated? Analysis using
+            highly disaggregated export databases
+        </docna>
+        <display_title>Are Jordan and Tunisia's
+            exports becoming more technologically sophisticated?
+            Analysis using highly disaggregated export databases</display_title>
+        <listing_relative_url>/research/2012/02/15890158/jordan-tunisias-exports-more-technologically-sophisticated-analysis-using-highly-disaggregated-export-databases</listing_relative_url>
+        <docty>Working Paper (Numbered Series)</docty>
+        <subtopic>Markets and Market Access,Banks &amp; Banking Reform,Economic Theory &amp; Research,Emerging Markets,E-Business</subtopic>
+        <teratopic>Private Sector Development,Macroeconomics and Economic Growth,Finance and Financial Sector Development</teratopic>
+        <count>Jordan,Tunisia</count>
+        <authors>
+            <author>Diop, Ndiame</author>
+            <author>Ghali, Sofiane</author>
+        </authors>
+        <geo_region_mdks>
+            <geo_region_mdk>North Africa!$!80464</geo_region_mdk>
+            <geo_region_mdk>Europe, Middle East and North Africa!$!107234</geo_region_mdk>
+            <geo_region_mdk>Middle East!$!80463</geo_region_mdk>
+            <geo_region_mdk>World!$!80475</geo_region_mdk>
+        </geo_region_mdks>
+        <entityids>
+            <entityid>000333038_20120305032614</entityid>
+        </entityids>
+        <admreg>Middle East and North Africa,Middle East and North Africa</admreg>
+        <colti>Middle East and North Africa working paper
+            series ; no 54</colti>
+        <lang>English</lang>
+        <historic_topic>Private Sector Development,Macroeconomics and Economic Growth,Finance and Financial Sector Development</historic_topic>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            accountability, accounting, Agriculture,
+            automobile, benchmark, Benchmarking, brand, business
+            environment, business relationships, capabilities, capital
+            base, Centralization, commerce, commercialization,
+            Competition Policies, competitiveness, cost of capital,
+            Decentralization, Demographic, developing countries,
+            developing economies, Development Policy, economic
+            activities, Economic Development, Economic Integration,
+            Economic Research, elasticity, Emerging Economies,
+            environment for innovation, equipment, equipments, Exchange
+            Rate, Exchange Rate Regime, expenditures, export growth,
+            export sector, External Finance, Externalities, Foreign
+            Direct Investments, Foreign Exchange, free trade, free trade
+            agreement, Free Trade Agreements, GDP, GDP deflator, General
+            Equilibrium Analysis, global economy, global exports, global
+            market, global markets, globalization, government
+            intervention, gross value, growth rate, growth strategies,
+            human capital, Implicit Pension Debt, income, income
+            elasticity, Industry Scoreboard, information technology,
+            innovation, innovation policy, institutional framework,
+            Intellectual Property, intellectual property right,
+            Intellectual Property Rights, interface, international
+            comparison, International Competitiveness, international
+            trade, Inventories, Investment Climate, Job Creation,
+            Knowledge Management, Labor Market, Labor Markets, Labor
+            Policy, legislation, Liberalization, Macroeconomic
+            Management, mandates, Manufacturing, Manufacturing
+            industries, market access, market failures, market leaders,
+            market share, marketing, material, merchandise, merchandise
+            exports, middle-income countries, Migration, natural
+            resource, natural resources, networks, new product,
+            obsolescence, Output, Pension, policy support, private
+            investment, private sector, product categories, product
+            category, production processes, productivity, public
+            administration, Public Debt, public services, R&amp;amp;D,
+            radio, result, results, sales, Science Foundation, Social
+            Development, spread, Statistical Analysis, structural
+            change, suppliers, surplus, surplus labor, tax, Tax System,
+            taxonomies, technological innovation, telecom,
+            telecommunication, Telecommunications, Total Factor
+            Productivity, total sales, Trade Liberalization, traditional
+            market, transport, unemployment, unemployment rate, uses,
+            value added, value chain, wages, World Development
+            Indicators, World Economy, world market, World Trade, World
+            Trade Organization, WTO
+        </keywd>
+        <owner>Econ. Policy, Poverty &amp; Gender (MNSED)</owner>
+        <geo_regions>
+            <geo_region>North Africa</geo_region>
+            <geo_region>Europe, Middle East and North Africa</geo_region>
+            <geo_region>Middle East</geo_region>
+            <geo_region>World</geo_region>
+        </geo_regions>
+        <repnb>67248</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>ICT</ml:concept><ml:concept>ICT for Development</ml:concept><ml:concept>Information Technology</ml:concept><ml:concept>Information and Communication Technologies (ICT)</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Economic Management</ml:concept><ml:concept>Macroeconomic Management</ml:concept><ml:concept>Macroeconomic Policy</ml:concept><ml:concept>Macroeconomics Policy</ml:concept><ml:concept>Macroeconomics and Economic Growth</ml:concept><ml:concept>Macroeconomics and Growth</ml:concept><ml:concept>Energy</ml:concept><ml:concept>Energy and Mining</ml:concept><ml:concept>Poverty Reduction</ml:concept><ml:concept>Poverty Reduction and Distributional Analysis</ml:concept><ml:concept>Poverty Reduction and Equity</ml:concept><ml:concept>Poverty and Inequality</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Social Protections and Labor</ml:concept><ml:concept>International Competitiveness</ml:concept><ml:concept>International Economics and Trade</ml:concept><ml:concept>Trade Liberalization</ml:concept><ml:concept>Trade Liberalization and Regional Integration</ml:concept><ml:concept>Trade Restrictiveness</ml:concept><ml:concept>Trade and Integration</ml:concept><ml:concept>Industry</ml:concept><ml:concept>Science and Technology</ml:concept><ml:concept>Information and Communication Technologies</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Macroeconomic and Structural Policies</ml:concept><ml:concept>Economic Growth</ml:concept><ml:concept>Energy and Extractives</ml:concept><ml:concept>Health, Nutrition and Population</ml:concept><ml:concept>Poverty</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Social Protection and Labor</ml:concept><ml:concept>Trade</ml:concept><ml:concept>Markets and Market Access</ml:concept><ml:concept>Commodities</ml:concept><ml:concept>Commodity Prices</ml:concept><ml:concept>Commodity Rich Countries</ml:concept><ml:concept>Natural Resources</ml:concept><ml:concept>Structural Measures</ml:concept><ml:concept>Structural Reform</ml:concept><ml:concept>Industrial Parks</ml:concept><ml:concept>Medical Supplies, Drugs</ml:concept><ml:concept>Pharmaceutical Industry</ml:concept><ml:concept>Generic Name List</ml:concept><ml:concept>Generics</ml:concept><ml:concept>List of Generic Drugs</ml:concept><ml:concept>Off patent drugs</ml:concept><ml:concept>Infrastructure and Networks (National; State; Local)</ml:concept><ml:concept>Telecommunication and Network Services</ml:concept><ml:concept>Telecommunications</ml:concept><ml:concept>Civil Service Employment</ml:concept><ml:concept>Civil Service Reform</ml:concept><ml:concept>Human Capital</ml:concept><ml:concept>Managing People</ml:concept><ml:concept>Public Employment</ml:concept><ml:concept>Analysis &amp; Monitoring</ml:concept><ml:concept>Delivery Units</ml:concept><ml:concept>Grievance Redress</ml:concept><ml:concept>Indicators</ml:concept><ml:concept>M&amp;E</ml:concept><ml:concept>Performance Measurement</ml:concept><ml:concept>Performance Reviews</ml:concept><ml:concept>Rapid Results Approaches</ml:concept><ml:concept>GVCs</ml:concept><ml:concept>Production Sharing Networks</ml:concept><ml:concept>Value Chains</ml:concept><ml:concept>Free Trade Agreements</ml:concept><ml:concept>Regional Integration</ml:concept><ml:concept>Trade Preferential Agreements</ml:concept><ml:concept>WTO Accession</ml:concept><ml:concept>Wage Setting</ml:concept><ml:concept>Wages, Compensation and Benefits</ml:concept><ml:concept>Fuels</ml:concept><ml:concept>Income</ml:concept><ml:concept>Textiles</ml:concept><ml:concept>Engineering</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Access to Markets</ml:concept><ml:concept>Patents</ml:concept><ml:concept>Commodities and Resources</ml:concept><ml:concept>Structural Transformation</ml:concept><ml:concept>Structural Policy and Reform</ml:concept><ml:concept>Middle-class</ml:concept><ml:concept>Industrial Zones</ml:concept><ml:concept>Pharmaceuticals</ml:concept><ml:concept>Generic Drugs</ml:concept><ml:concept>Telecommunications and Broadband Access</ml:concept><ml:concept>Human Resources Management</ml:concept><ml:concept>Monitoring and Evaluation</ml:concept><ml:concept>Global Value Chains</ml:concept><ml:concept>Trade Agreements and Negotiations</ml:concept><ml:concept>Intellectual Property Rights</ml:concept><ml:concept>Wages</ml:concept></ml:concepts><ml:geo-regions/></ml:annotations></ml:doc-envelope>

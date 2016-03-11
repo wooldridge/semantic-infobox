@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>                                                 100525 v5&#13;
+&#13;
+&#13;
+Trust Fund for Environmentally &amp;&#13;
+Socially Sustainable Development&#13;
+&#13;
+&#13;
+&#13;
+Water &amp; Climate Adaptation Plan for the Sava River Basin&#13;
+&#13;
+Â &#13;
+Â &#13;
+Â &#13;
+Â &#13;
+Â &#13;
+Â &#13;
+Â &#13;
+Â &#13;
+Â &#13;
+Â &#13;
+Â &#13;
+Â &#13;
+Â &#13;
+Â &#13;
+Â &#13;
+Â &#13;
+Â &#13;
+Â &#13;
+Â &#13;
+Â &#13;
+ANNEX 3 - Guidance Note on Adaptation to Climate Change&#13;
+forâ&#128;&#147; Hydropower&#13;
+&#13;
+August 2015&#13;
+&amp;#12;Â© 2015 The World Bank&#13;
+1818 H Street NW&#13;
+Washington DC 20433&#13;
+Telephone: 202-473-1000&#13;
+Internet: www.worldbank.org&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                              Water &amp; Climate Adaptation Plan for&#13;
+                              the Sava River Basin&#13;
+&#13;
+&#13;
+                              ANNEX 3 - Guidance Note on Adaptation to&#13;
+                              Climate Change for â&#128;&#147; Hydropower&#13;
+&#13;
+                              August 2015&#13;
+&#13;
+&#13;
+                              ACKNOWLEDGMENTS&#13;
+                              This work was made possible by the financial contribution of the World&#13;
+                              Bankâ&#128;&#153;s Water Partnership Program (WPP) - a multi-donor trust fund&#13;
+                              that promotes water security for inclusive green growth (wa-&#13;
+                              ter.worldbank.org/water/wpp) and the Trust Fund for Environmentally&#13;
+                              &amp; Socially Sustainable Development (TFESSD) .&#13;
+&#13;
+                              DISCLAIMER&#13;
+                              This work is a product of The World Bank with external contributions.&#13;
+                              The findings, interpretations, and conclusions expressed in this work&#13;
+                              do not necessarily reflect the views of The World Bank, its Board of&#13;
+                              Executive Directors or the governments they represent.&#13;
+&#13;
+                              The World Bank does not guarantee the accuracy of the data included&#13;
+                              in this work. The boundaries, colours, denominations, and other infor-&#13;
+                              mation shown on any map in this work do not imply any judgment on&#13;
+                              the part of The World Bank concerning the legal status of any territory&#13;
+                              or the endorsement or acceptance of such boundaries.&#13;
+&#13;
+                              RIGHTS AND PERMISSIONS&#13;
+                              The material in this work is subject to copyright. Because The World&#13;
+                              Bank encourages dissemination of its knowledge, this work may be&#13;
+                              reproduced, in whole or in part, for non-commercial purposes as long&#13;
+                              as full attribution to this work is given.&#13;
+&#13;
+                              Any queries on rights and licenses, including subsidiary rights, should&#13;
+                              be addressed to the Office of the Publisher, The World Bank, 1818 H&#13;
+                              Street NW, Washington, DC 20433, USA; fax: 202-522-2422; e-mail:&#13;
+                              pubrights@worldbank.org.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Project No.     A040710&#13;
+Document no.    1&#13;
+Version         8&#13;
+Date of issue   August 2015&#13;
+Prepared        ZAT/DAH&#13;
+Checked         RSS&#13;
+Approved        BAE&#13;
+&amp;#12;                                                                                                                                                     Page i&#13;
+WaterÂ &amp;Â ClimateÂ AdaptationÂ PlanÂ forÂ theÂ SavaÂ RiverÂ BasinÂ Â &#13;
+GuidanceÂ NoteÂ onÂ AdaptationÂ toÂ ClimateÂ ChangeÂ forÂ HydropowerÂ &#13;
+Â &#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                              Table of Contents&#13;
+                                                                                                                                            Page No&#13;
+&#13;
+&#13;
+1Â             Introduction ..................................................................................................................... 1Â &#13;
+&#13;
+2Â             Climate change impact on Hydropower â&#128;&#147; Vulnerability Screening ................................. 2Â &#13;
+&#13;
+3Â             Scenarios for climate change in Sava River Basin ......................................................... 3Â &#13;
+&#13;
+4Â             Case studies - Expected magnitude of climate change impact on Hydropower&#13;
+              Sector in Sava River Basin ............................................................................................. 4Â &#13;
+&#13;
+5Â             Adaptation and Mitigation Guidelines ............................................................................. 7Â &#13;
+5.1Â           Structural adaptation measures ...................................................................................... 7Â &#13;
+5.2Â           Non-structural adaptation measures ............................................................................... 7Â &#13;
+&#13;
+6Â             References: .................................................................................................................... 8Â &#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                               List of Tables&#13;
+                                                                                                                                         Page No.&#13;
+&#13;
+TABLEÂ 1:Â HYDROPOWERÂ CLIMATEÂ CHANGEÂ VULNERABILITYÂ ACCORDINGÂ TOÂ HPPÂ CHARACTERISTICÂ ......................................................Â 2Â &#13;
+TABLEÂ 2:Â HPPSÂ INÂ THEÂ SAVAÂ RIVERÂ BASINÂ USEDÂ ASÂ CASEÂ STUDYÂ ................................................................................................. Â 4Â &#13;
+TABLEÂ 3:Â ELECTRICITYÂ CONSUMPTIONÂ ANDÂ PRODUCTIONÂ FROMÂ THEÂ HYDROPOWERÂ SECTORÂ FORÂ THEÂ SRBÂ COUNTRIESÂ ............................Â 7Â &#13;
+&#13;
+&#13;
+                                                              List of Figures&#13;
+                                                                                                                                         Page No.&#13;
+&#13;
+FIGUREÂ 1:Â LOCATIONÂ OFÂ VRBASÂ RIVERÂ BASINÂ WITHINÂ SAVAÂ RIVERÂ BASINÂ ...................................................................................... Â 1Â &#13;
+FIGUREÂ 2:Â RELATIVEÂ CHANGEÂ INÂ ENERGYÂ PRODUCTIONÂ FIVEÂ CLIMATEÂ SCENARIOSÂ CM1â&#128;&#144;CM5Â ANDÂ NEARÂ ANDÂ FARÂ FUTUREÂ ......................Â 5Â &#13;
+FIGUREÂ 3:Â CHANGEÂ OFÂ ENERGYÂ PRODUCTIONÂ FORÂ HPPÂ BAJINAÂ BAÅ TAÂ BYÂ SEASONSÂ .........................................................................Â 6Â &#13;
+&amp;#12;                                                                                                                 Page 1&#13;
+WaterÂ &amp;Â ClimateÂ AdaptationÂ PlanÂ forÂ theÂ SavaÂ RiverÂ BasinÂ Â &#13;
+GuidanceÂ NoteÂ onÂ AdaptationÂ toÂ ClimateÂ ChangeÂ forÂ HydropowerÂ Â &#13;
+Â &#13;
+&#13;
+      GUIDANCE NOTE ON ADAPTATION TO CLIMATE CHANGE&#13;
+          FOR THE SAVA RIVER BASIN â&#128;&#147; HYDROPOWER&#13;
+&#13;
+1         Introduction&#13;
+This report provides guidance note for decision making on the adaptation needs related to hydropow-&#13;
+er in the Sava River Basin (SRB). This guidance note is one of the components of the Water and Cli-&#13;
+mate Adaptation Plan (WATCAP) being prepared by the Consultant for the International Sava River&#13;
+Basin Commission (ISRBC) under World Bank funding.1 It builds on the main WATCAP report (World&#13;
+Bank, 2013b), the report on the development of future climate scenarios (Vujadinovic and Vukovic,&#13;
+2013) and on the report on development of the hydrologic model for the Sava River basin (World&#13;
+Bank, 2013a). Thus, the guidance note is designed to provide fundamental and flexible instruction on&#13;
+how to conduct impact and vulnerability assessments in the energy sector, specifically for hydropower&#13;
+facilities along with identification opportunities and entry points for integration of climate change miti-&#13;
+gation and adaptation measures into the hydropower energy (HPE) sector processes.&#13;
+&#13;
+An eminent example upon which this guidance note on the hydropower sector is based is The Inte-&#13;
+grated Water and Energy Nexus Study (IWENS) for the Vrbas Basin, a tributary of the Sava River&#13;
+(see Figure 1), that represents a snapshot of the complex and integrated use, development and man-&#13;
+agement of water resources, in order to meet the water needs of multiple users and their future har-&#13;
+monization as well as adapting to climate change.2&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Figure 1: Location of Vrbas River Basin within Sava River Basin&#13;
+&#13;
+&#13;
+1 COWI AS of Norway were contracted by the World Bank to undertake the development of the hydrologic model â&#128;&#147; World&#13;
+Bank Contract No - 7162102&#13;
+2 COWI (2012) Update of the Water Resources Management Basis for the Vrbas River Basin, project report for the World&#13;
+&#13;
+Bank.&#13;
+&amp;#12;                                                                                                                   Page 2&#13;
+WaterÂ &amp;Â ClimateÂ AdaptationÂ PlanÂ forÂ theÂ SavaÂ RiverÂ BasinÂ Â &#13;
+GuidanceÂ NoteÂ onÂ AdaptationÂ toÂ ClimateÂ ChangeÂ forÂ HydropowerÂ Â &#13;
+Â &#13;
+In order to provide proper information about climate change impact on the hydropower sector various&#13;
+analysis were performed with useful results that define an adaptation strategy direction. Similarly,&#13;
+though less extensive analysis is done for the purpose of completing this Adaptation Guidance note&#13;
+and also by giving an example for conducting a more profound and detailed analysis in the future.&#13;
+&#13;
+&#13;
+&#13;
+2            Climate change impact on Hydropower â&#128;&#147; Vulnerability Screening&#13;
+Climate change (CC) impact on the hydropower sector is mainly seen in the effects on power genera-&#13;
+tion potential. Hydropower production would either be positively or adversely affected, depending on&#13;
+the CC effects and how are they managed. Change of three climate parameters as a consequence of&#13;
+CC should be analysed, namely: precipitation, temperatures and evaporation/evapotranspiration (ET).&#13;
+These three parameters are all important components of the hydrological cycle that affects river dis-&#13;
+charge, which in turn is a major input to power generation calculation.&#13;
+Consequently, major projected climate change impacts on the HPE sector are:&#13;
+&#13;
+ï&#130;·   Decreased or increased HP generation potential due to more or less precipitation and conse-&#13;
+    quently more or less river runoff;&#13;
+ï&#130;·   Reduced or increased energy demand for heating or cooling, with regard to CC by means of high-&#13;
+    er or lower air temperatures;&#13;
+ï&#130;·   A decrease or increase of installed flow for facilities changing HPP effectiveness;&#13;
+ï&#130;·   Flooding and landslides damage or complete destruction of HP structures (e.g. dams, transmis-&#13;
+    sion and distribution networks) that may create conflict with downstream communities, increase&#13;
+    social vulnerability e.g. through involuntary resettlement; and&#13;
+ï&#130;·   Energy security and economic development activities will be compromised and production costs&#13;
+    will increase.&#13;
+&#13;
+Major vulnerability of hydropower plants and systems to CC lies in change of key parameters for&#13;
+power production, because they are directly linked to climate parameters. Key parameters whose&#13;
+change would largely affect hydropower production are:&#13;
+&#13;
+ï&#130;·   River discharge or mean flow and on specific dam profiles: a significant change would affect pro-&#13;
+    duction in the same direction;&#13;
+ï&#130;·   Duration curves or a fluctuation of discharge in one time period (i.e. year, season,â&#128;¦) for the dam&#13;
+    profile: a change would affect the change in total volume used for production and in the same&#13;
+    manner production by itself;&#13;
+ï&#130;·   Evaporation/ET would affect volume of available water for production.&#13;
+&#13;
+Some characteristics of hydropower facilities affect their vulnerability to climate change. For instance,&#13;
+electricity generation capacity relative change would be decreased or increased in a bigger or a&#13;
+smaller scale depending on the type of facility, size of the reservoir, etc. The vulnerability of different&#13;
+hydropower characteristics to CC are given in Table 1.&#13;
+Using the pattern shown in Table 1, it is possible to define adaptation strategies depending on a spe-&#13;
+cific situation.&#13;
+&#13;
+Table 1: Hydropower climate change vulnerability according to HPP characteristic&#13;
+&#13;
+                                                                   ReservoirÂ storageÂ area:Â &#13;
+                                         HPPÂ typeÂ                                                ReservoirÂ sizeÂ &#13;
+               ClimateÂ                                                  volumeÂ ratioÂ &#13;
+ ClimateÂ &#13;
+              parameterÂ &#13;
+parameterÂ                  ReservoirÂ                    PumpedÂ &#13;
+               changeÂ                   Runâ&#128;&#144;ofâ&#128;&#144;riverÂ                HighÂ            LowÂ       LargeÂ          SmallÂ &#13;
+                             typeÂ                       storageÂ &#13;
+Evapoâ&#128;&#144;&#13;
+&#13;
+tion/E&#13;
+  raâ&#128;&#144;&#13;
+&#13;
+   TÂ &#13;
+&#13;
+&#13;
+&#13;
+&#13;
+               IncreaseÂ        Â Â             Â Â             Â Â          Â Â               Â Â         Â Â              Â Â &#13;
+&amp;#12;                                                                                                                                      Page 3&#13;
+WaterÂ &amp;Â ClimateÂ AdaptationÂ PlanÂ forÂ theÂ SavaÂ RiverÂ BasinÂ Â &#13;
+GuidanceÂ NoteÂ onÂ AdaptationÂ toÂ ClimateÂ ChangeÂ forÂ HydropowerÂ Â &#13;
+Â &#13;
+                                                                                      ReservoirÂ storageÂ area:Â &#13;
+                                                        HPPÂ typeÂ                                                    ReservoirÂ sizeÂ &#13;
+                      ClimateÂ                                                              volumeÂ ratioÂ &#13;
+ ClimateÂ &#13;
+                     parameterÂ &#13;
+parameterÂ                             ReservoirÂ                          PumpedÂ &#13;
+                      changeÂ                        Runâ&#128;&#144;ofâ&#128;&#144;riverÂ                       HighÂ             LowÂ      LargeÂ          SmallÂ &#13;
+                                        typeÂ                             storageÂ &#13;
+&#13;
+                         DecreaseÂ         Â Â                 Â Â               Â Â             Â Â              Â Â         Â Â              Â Â &#13;
+&#13;
+&#13;
+                         IncreaseÂ         Â Â                 Â Â                                                      Â Â              Â Â &#13;
+    Â runoffÂ &#13;
+     RiverÂ &#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                         DecreaseÂ         Â Â                 Â Â                                                      Â Â              Â Â &#13;
+&#13;
+&#13;
+                          FloodÂ           Â Â                 Â Â                           N/AÂ                        Â Â              Â Â &#13;
+    TemporalÂ Â &#13;
+    variabilityÂ &#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                         DroughtÂ          Â Â                 Â Â                                                      Â Â              Â Â &#13;
+&#13;
+                         SeasonalÂ &#13;
+                                          Â Â                 Â Â                                                      Â Â              Â Â &#13;
+                          offsetÂ &#13;
+&#13;
+&#13;
+Legend:Â             Â Â                biggerÂ decreaseÂ                Â Â               biggerÂ increaseÂ &#13;
+                    Â Â                smallerÂ decreaseÂ               Â Â               smallerÂ increaseÂ &#13;
+Â &#13;
+&#13;
+&#13;
+&#13;
+3                  Scenarios for climate change in Sava River Basin&#13;
+Climate change analysis in Sava River Basin starts with simulations of the future hydrologic regime&#13;
+using a hydrological model for the SRB developed in HEC-HMS. The future climate scenarios are&#13;
+taken from five Global Climate Models (GCM)/Regional Climate Models (RCM) simulations under the&#13;
+A1B Special Report on Emissions Scenario (SRES)/Intergovernmental Panel on Climate Change&#13;
+(IPCC) scenario and are later in text denoted as climate models -CM1 through CM5. With each cli-&#13;
+mate model (CM) daily flows are simulated for three 30-year periods:&#13;
+&#13;
+1. 1961-1990 (past or baseline climate scenario),&#13;
+2. 2011-2040 (near future climate scenario), and&#13;
+3. 2041-2070 (distant future climate scenario).&#13;
+&#13;
+According to work undertaken under this WATCAP study climate change in the Sava River Basin im-&#13;
+plies:3&#13;
+&#13;
+ï&#130;·      Temperature increase about 1Â°C in the near future and 2.3Â°C in the distant future,&#13;
+ï&#130;·      Change of mean annual precipitation ranges between -6% to +4% across the Basin, but seasonal&#13;
+       change takes values between -12% to +14% in the near future and as much as -32% to +19% in&#13;
+       the distant future, as a mean value for all stations on the Basin. For some parts of the SRB differ-&#13;
+       ence is as high as Â±30% in near and Â±40% in the distant future;&#13;
+ï&#130;·      Seasonal variability as described by the 5 used climate models (i.e. CM1 to CM5) is not the same&#13;
+       for all. Predictions of two climate model for the near future and three for the distant future indicate&#13;
+       an increasing precipitation trend will occur in the winter and a decreasing trend in the summer&#13;
+       season.&#13;
+&#13;
+&#13;
+&#13;
+3 COWI, 2013: Water &amp; Climate Adaptation Plan for the Sava River Basin: Completion of the WATCAP with the construction&#13;
+&#13;
+of a hydrologic model.&#13;
+&amp;#12;                                                                                                                                Page 4&#13;
+WaterÂ &amp;Â ClimateÂ AdaptationÂ PlanÂ forÂ theÂ SavaÂ RiverÂ BasinÂ Â &#13;
+GuidanceÂ NoteÂ onÂ AdaptationÂ toÂ ClimateÂ ChangeÂ forÂ HydropowerÂ Â &#13;
+Â &#13;
+Taking the information from Table 1 and the overall climate scenario results for the Sava River Basin&#13;
+area overall, the following conclusions can be drawn:&#13;
+&#13;
+ï&#130;·     With increasing evaporation/ET, due to temperature increase in the future, a bigger decrease of&#13;
+      hydropower production is expected to occur on reservoir type and pumped storage type dams&#13;
+      with a high storage area/volume ratio and small reservoirs. Other types of HPP would show&#13;
+      smaller effects, but still experience a decrease of hydropower generation;&#13;
+ï&#130;·     A decrease in river runoff would affect power generation with a reduction on all facilities but in par-&#13;
+      ticular with run-of-river schemes in the SRB because they are highly and solely dependent on riv-&#13;
+      er runoff; and&#13;
+ï&#130;·     Floods in the fall/winter and droughts in the spring/summer would mostly affect run-of-river HPPs&#13;
+      and HPP with small reservoirs. With this climate change parameter an overall power generation&#13;
+      decrease is expected.&#13;
+&#13;
+From all of the above it can be concluded that, in the future it would be customary to have lower pow-&#13;
+er generation from the hydropower sector on the Sava River Basin from bigger or smaller schemes,&#13;
+depending on the region and the HPP facility. The magnitude of the change has been reviewed by&#13;
+conducting further analysis through case studies that are described below.&#13;
+&#13;
+&#13;
+&#13;
+4              Case studies - Expected magnitude of climate change impact on&#13;
+               Hydropower Sector in Sava River Basin&#13;
+In the Sava River Basin there are 20 hydropower plants (HPP) with installed capacity larger than 10&#13;
+MW (see Chapter 2.4.5 of this Report)). Four HPPs were selected as case studies for analysis of CC&#13;
+impact on energy production. The choice of HPP is made based upon the energy production magni-&#13;
+tude and the share in average total energy production in the SRB or in other words upon their signifi-&#13;
+cance in the hydropower sector in SRB area. In addition, data needed for analysis were directly avail-&#13;
+able from the developed Sava River Basin HEC-HMS Model since for each plant location of those&#13;
+four plants there is hydrological station included in model. All four HPPs are reservoir type dams.&#13;
+&#13;
+Table 2: HPPs in the Sava River Basin used as Case Study&#13;
+                                                                                                                              Share**Â &#13;
+                                                     ReservoirÂ     InstalledÂ                   AverageÂ          Share*Â inÂ &#13;
+                                                                                                                               inÂ totalÂ &#13;
+                                        ReservoirÂ     storageÂ      capacityÂ     InstalledÂ     yearlyÂ proâ&#128;&#144;        averageÂ &#13;
+                                                                                                                              installedÂ &#13;
+    CountryÂ        HPPÂ       RiverÂ       volumeÂ        area:Â        [MW]â&#128;&#144;       dischargeÂ    ductionÂ (ref.Â    totalÂ energyÂ &#13;
+                                                                                                                              capacityÂ &#13;
+                                         (milÂ m3)Â     volumeÂ       ref.Â yearÂ      (m3/s)Â     2005â&#128;&#144;2007)Â        productionÂ &#13;
+                                                                                                                                inÂ SRBÂ &#13;
+                                                       ratioÂ         2005Â                    [GWh/year]Â        inÂ SRBÂ [%]Â &#13;
+                                                                                                                                  [%]Â &#13;
+    SloveniaÂ     BlancaÂ       SavaÂ         9.95Â         0.13Â          43Â           500Â            144Â             2.2Â            1.8Â &#13;
+&#13;
+BosniaÂ andÂ &#13;
+                 BoÄ&#141;acÂ       VrbasÂ         52.1Â        0.045Â         110Â           240Â            308Â             4.8Â            4.5Â &#13;
+HerzegovinaÂ &#13;
+                 ZvornikÂ     DrinaÂ         89.0Â        0.146Â          96Â           620Â            515Â              8Â             3.9Â &#13;
+     SerbiaÂ      BajinaÂ &#13;
+                             DrinaÂ         340Â         0.036Â         360Â           644Â           1691Â             26Â            14.7Â &#13;
+                 BaÅ¡taÂ &#13;
+                                                                         609Â ofÂ &#13;
+TotalÂ SavaÂ RiverÂ BasinÂ (referenceÂ                                                                    2658/6445Â &#13;
+                                             Â             Â              2449Â inÂ            Â                             41Â      24.9Â &#13;
+yearÂ 2005)Â                                                                                             totalÂ &#13;
+                                                                          totalÂ &#13;
+Source:Â AdaptedÂ fromÂ theÂ â&#128;&#156;SavaÂ RiverÂ BasinÂ managementÂ Planâ&#128;&#157;,Â DraftÂ version,Â 2013.Â &#13;
+*thisÂ refersÂ toÂ shareÂ ofÂ specificÂ HPPâ&#128;&#153;sÂ yearlyÂ averageÂ energyÂ productionÂ inÂ totalÂ yearlyÂ averageÂ energyÂ productionÂ (fromÂ hydropowerÂ &#13;
+sector)Â inÂ wholeÂ SRBÂ &#13;
+**thisÂ refersÂ toÂ shareÂ ofÂ installedÂ capacityÂ ofÂ theÂ specificÂ HPPÂ inÂ totalÂ installedÂ capacityÂ (fromÂ hydropowerÂ sector)Â inÂ SRBÂ &#13;
+&#13;
+Simulated daily flows for the above mentioned three 30-years periods and five climate models scenar-&#13;
+ios are used to calculate the daily production for selected HPPs, with the following assumptions and&#13;
+generalizations:&#13;
+&amp;#12;                                                                                                       Page 5&#13;
+WaterÂ &amp;Â ClimateÂ AdaptationÂ PlanÂ forÂ theÂ SavaÂ RiverÂ BasinÂ Â &#13;
+GuidanceÂ NoteÂ onÂ AdaptationÂ toÂ ClimateÂ ChangeÂ forÂ HydropowerÂ Â &#13;
+Â &#13;
+&#13;
+ï&#130;·   Efficiency coefficient value for generator is taken to be the same for all HPPs, Î·gen=0.95;&#13;
+ï&#130;·   Efficiency coefficients for turbines that are used in the four chosen HPPs are:&#13;
+&#13;
+                                                       Francis         0.92&#13;
+                                                       Kaplan           0.9&#13;
+&#13;
+ï&#130;·   Useable head for energy production and for each dam is taken as a constant for each dayâ&#128;&#153;s pro-&#13;
+    duction calculation,&#13;
+ï&#130;·   All dams are close to dam type and no flow and head losses in the tunnel or penstock are taken&#13;
+    into account.&#13;
+&#13;
+Depending on the available daily flow, the flow through the turbines is calculated as:&#13;
+If Qriver ï&#130;£ Qinstalled then Qturbines ï&#128;½ Qriver&#13;
+If Qriver ï&#128;¾ Qinstalled then Qturbines ï&#128;½ Qinstalled .&#13;
+&#13;
+Energy production is calculated using the formula:&#13;
+                                       E ï&#128;½ ï&#129;¨ gen ï&#131;&#151;ï&#129;¨turb ï&#131;&#151; 9.81 ï&#131;&#151; Qturb ï&#131;&#151; H ï&#131;&#151; ï&#129;&#132;t [kWh]&#13;
+&#13;
+ï&#129;¨ gen -coefficient of generator efficiency [-]&#13;
+ï&#129;¨turb -coefficient of utilization of turbines [-]&#13;
+Qturb -flow through turbines [m3/s]&#13;
+H -dam head, difference between upstream of the dam water level (in reservoir) and downstream wa-&#13;
+ter level [m]&#13;
+ ï&#129;&#132;t -time period for which energy is calculated, 1day=24h&#13;
+&#13;
+From the above the daily and yearly productions are calculated. The resulting averages for each 30-&#13;
+year periodâ&#128;&#153;s energy production for both near and distant future scenarios are compared in relation to&#13;
+the baseline scenario (period 1961-1990). The results are given in Figure 2.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                   Â &#13;
+Source:Â FigureÂ producedÂ byÂ COWIÂ &#13;
+&#13;
+Figure 2: Relative change in the annual energy production under A1B emission scenario for five climate&#13;
+              model chains CM1-CM5 in near future (left) and distant future (right)&#13;
+&#13;
+&#13;
+The results for all HPPs in the near future show a small expected change in the average annual ener-&#13;
+gy production, with rather small variation between the scenarios except for HPP BoÄ&#141;ac. Based on the&#13;
+ensemble median values (as a more robust estimate than the ensemble mean, which might be under&#13;
+influence of extreme values in short samples like this one), an increase in the range of 1-1.5% is ex-&#13;
+&amp;#12;                                                                                                  Page 6&#13;
+WaterÂ &amp;Â ClimateÂ AdaptationÂ PlanÂ forÂ theÂ SavaÂ RiverÂ BasinÂ Â &#13;
+GuidanceÂ NoteÂ onÂ AdaptationÂ toÂ ClimateÂ ChangeÂ forÂ HydropowerÂ Â &#13;
+Â &#13;
+pected at two HPPs on the Drina River (Bajina BaÅ¡ta and Zvornik), and a small decrese is expected&#13;
+at HPP BoÄ&#141;ac. HPP Blanca in Slovenia results in 0% change. Greater variation for HPP BoÄ&#141;ac gives&#13;
+a power production decrease of 4% with CM4 and an increase of 9% with CM5, thus indicating a&#13;
+higher uncertainty related to the Vrbas basin hydrologic simulations and consequently to the derived&#13;
+energy production.&#13;
+&#13;
+For the distant future the variation between the scenarios is greater, which is expected with the simu-&#13;
+lation period being further away from the observation period. The energy production is expected to&#13;
+change more markedly in this period, between -8% (HPP BoÄ&#141;ac) and +4% (HPP Bajina BaÅ¡ta), alt-&#13;
+hough the order of the magnitude of these changes is still in the range of the modelling and meas-&#13;
+urement uncertainties. The trend at two HPPs on the Drina River (Bajina BaÅ¡ta and Zvornik) is re-&#13;
+versed and their annual energy production is expected to decrease slightly by 1-2%. The decreasing&#13;
+trend for HPP BoÄ&#141;ac continues in this period as well, while the energy production at HPP Blanca is&#13;
+expected to increase.&#13;
+&#13;
+In addition to the results shown in Figure 2, seasonal energy production variability is analysed for&#13;
+HPP Bajina BaÅ¡ta. These results are portrayed in Figure 3. The near future results show greater en-&#13;
+ergy production in the winter and fall seasons, while in the spring a decrease in energy production is&#13;
+expected. Interestingly, the energy production in the summer season is not expected to change signif-&#13;
+icantly. The distant future results show greater decrease in the spring and summer seasons (by 4%&#13;
+and 10% on average, respectively), whilst in the winter and fall energy production is expected to in-&#13;
+crease by 11% and 5%, respectively, on average.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Â                                                                                                    Â &#13;
+Figure 3: Change in the seasonal energy production for HPP Bajina BaÅ¡ta under A1B emission scenario&#13;
+             for five climate model chains CM1-CM5 in near future (left) and distant future (right)&#13;
+DJF=Decemberâ&#128;&#144;Januaryâ&#128;&#144;February,Â Â &#13;
+MAM=Marchâ&#128;&#144;Aprilâ&#128;&#144;May,Â Â &#13;
+JJA=Juneâ&#128;&#144;Julyâ&#128;&#144;August,Â Â &#13;
+SON=Septemberâ&#128;&#144;Octoberâ&#128;&#144;NovemberÂ &#13;
+Â &#13;
+&amp;#12;                                                                                                                          Page 7&#13;
+WaterÂ &amp;Â ClimateÂ AdaptationÂ PlanÂ forÂ theÂ SavaÂ RiverÂ BasinÂ Â &#13;
+GuidanceÂ NoteÂ onÂ AdaptationÂ toÂ ClimateÂ ChangeÂ forÂ HydropowerÂ Â &#13;
+Â &#13;
+&#13;
+&#13;
+&#13;
+5          Adaptation and Mitigation Guidelines&#13;
+Although predictions of climate scenarios vary over the SRB and by different scenario, it is likely that&#13;
+in the near future no severe alterations of climate that would substantially affect the hydropower sec-&#13;
+tor will happen, while in the distant future water availability would decrease and with it energy pro-&#13;
+duced in hydropower facilities.&#13;
+&#13;
+Although the SRB is predicted to have small (near future) and moderate (distant future) decreases in&#13;
+overall hydropower production as a consequence of CC, these changes are not expected to be se-&#13;
+vere and it is highly unlikely that this would cause detrimental effects on human activities. Further-&#13;
+more, there are other green power sources available (e.g. solar, wind etc.) and a lot of possible&#13;
+measures for adaptation and mitigation to counteract these CC effects.&#13;
+&#13;
+Notwithstanding, on average dependence on hydropower energy for all SRB countries is around 45%,&#13;
+defined as a percentage of hydropower produced from the total energy used (see Table 3 ). Conse-&#13;
+quently, hydropower is very important for the SRB and it follows that work on adaptation and mitiga-&#13;
+tion measures should be started now in order to assure proper and timely resilience to climate change&#13;
+in the future.&#13;
+&#13;
+Table 3: Electricity consumption and production from the hydropower sector for the SRB countries&#13;
+                                                              AverageÂ yearlyÂ electricityÂ    ShareÂ ofÂ usedÂ electricityÂ &#13;
+                                AverageÂ yearlyÂ electricityÂ &#13;
+                                                              productionÂ fromÂ theÂ hyâ&#128;&#144;       fromÂ hydropowerÂ comâ&#128;&#144;&#13;
+SRBÂ countryÂ                       consumptionÂ [BillionÂ &#13;
+                                                              dropowerÂ sectorÂ [BillionÂ      paredÂ toÂ totalÂ electricityÂ &#13;
+                                    kWh]Â 2000â&#128;&#144;2010Â &#13;
+                                                                  kWh]Â 2000â&#128;&#144;2010Â               consumptionÂ [%]Â &#13;
+BosniaÂ andÂ HerzegovinaÂ                      8.70                        5.49                         63.15Â &#13;
+CroatiaÂ                                    14.12                        5.98                         42.36Â &#13;
+MontenegroÂ                                  3.37                        1.87                         55.41Â &#13;
+SerbiaÂ                                     28.62                       10.49                         36.67Â &#13;
+SloveniaÂ                                   12.56                        3.73                         29.71Â &#13;
+                    Sum:Â                   67.35                       27.56                    AverageÂ 45.5%&#13;
+DataÂ source:Â U.SÂ EnergyÂ InformationÂ AdministrationÂ &#13;
+&#13;
+Adaptation and mitigation options, both structural and non-structural for the estimated climate change&#13;
+impact on Sava River Basin are summarized below:&#13;
+&#13;
+&#13;
+5.1        Structural adaptation measures&#13;
+ï&#130;·   Enhance dam structural parameters-diverting upstream tributaries to decrease river runoff, new&#13;
+    reservoir storage, modifying spillways, changing number and/or types of turbines;&#13;
+ï&#130;·   Build robust dams with large reservoirs that can cope with extreme events;&#13;
+ï&#130;·   Flexible design for installed capacity;&#13;
+ï&#130;·   Consideration of planned structural measures before implementation. This includes all uses of the&#13;
+    reservoir (e.g. hydroelectricity, irrigation, drinking water supply, tourism, etc.) before reservoir con-&#13;
+    struction or enlargement.&#13;
+&#13;
+&#13;
+5.2        Non-structural adaptation measures&#13;
+ï&#130;·   Consideration of ecological aspects, as structures can generate significant impacts on the water&#13;
+    courses (morphological changes, barriers to fish migration, etc.);&#13;
+ï&#130;·   Reduce energy demand by promoting public awareness campaigns and training in energy effi-&#13;
+    ciency;&#13;
+&amp;#12;                                                                                                    Page 8&#13;
+WaterÂ &amp;Â ClimateÂ AdaptationÂ PlanÂ forÂ theÂ SavaÂ RiverÂ BasinÂ Â &#13;
+GuidanceÂ NoteÂ onÂ AdaptationÂ toÂ ClimateÂ ChangeÂ forÂ HydropowerÂ Â &#13;
+Â &#13;
+ï&#130;·   Improving hydrological forecasting to improve operational rules and utilization of HPP capacity,&#13;
+ï&#130;·   Improve operation and maintenance practices at power stations;&#13;
+ï&#130;·   Incorporate future reduced or increased generation capacity in design, depending on specific loca-&#13;
+    tion on the basin;&#13;
+ï&#130;·   Consider using more pumped storage hydropower technology in order to match the energy avail-&#13;
+    able to the needs of the consumers and in order to cover peak loads;&#13;
+ï&#130;·   Adoption of an integrated water resources and disaster management approach;&#13;
+ï&#130;·   Integration of climate change considerations into the management and operation of HE power&#13;
+    generation, transmission and distribution system;&#13;
+ï&#130;·   Replacement of incandescent bulbs with ones with low energy consumption;&#13;
+ï&#130;·   Assess and use other renewable energy production facilities such as wind power or solar power&#13;
+    plants;&#13;
+ï&#130;·   More profound analysis for most likely estimation of projected climate variations over HPP lifetime;&#13;
+ï&#130;·   Identification of cost-effective new designs and modification of existing designs to deal with specif-&#13;
+    ic risks for the HPP construction site;&#13;
+ï&#130;·   Undertaken regular reviews of permitting and licensing of hydropower schemes to assess river&#13;
+    flow regimes and minimum and maximum water levels according to season, to ensure sufficient&#13;
+    storage in the reservoir to absorb the spring flood and to tie this into the RBMPs;&#13;
+ï&#130;·   Incorporating climate change into existing codes and guidelines concerning hydropower;&#13;
+ï&#130;·   Establish a mandatory reporting mechanism for all hydropower companies to provide full opera-&#13;
+    tional details on river flow and discharge to improve future monitoring records;&#13;
+ï&#130;·   Development of guiding principles on integrating environmental aspects in the use of existing hy-&#13;
+    dropower plants such as increase in HPP efficiency, flow regulation, as well as in the planning and&#13;
+    construction of new hydropower plants;&#13;
+ï&#130;·   Better development / implementation of strict rules (riparian rights) for discharge of water into riv-&#13;
+    ers and for water withdrawal.&#13;
+&#13;
+&#13;
+&#13;
+6        References:&#13;
+1. Blackshear B., Crocker T., Drucker E., Filoon J., Knelman J, Skiles M. (2011) Hydropower Vul-&#13;
+   nerability and Climate Change-A Framework for Modelling the Future of Global Hydroelectric Re-&#13;
+   sources, Middlebury College Environmental Studies Senior Seminar. Available at&#13;
+   http://www.middlebury.edu/media/view/352071/original/ (retrieved December, 2013).&#13;
+2. COWI (2013) Integrated Water and Energy Nexus Study for the Vrbas River Basin, Guidance&#13;
+   Notes, Project report for World Bank.&#13;
+3. COWI (2012) Update of the Water Resources Management Basis for the Vrbas River Basin, pro-&#13;
+   ject report for the World Bank.&#13;
+4. COWI (2013) Water &amp; Climate adaptation plan for the Sava River Basin, Completion of the&#13;
+   WATCAP with the construction of a hydrological model-Development of the Hydrologic Model for&#13;
+   the Sava River Basin, Draft project Report for the World Bank.&#13;
+5. ISRBC (2013) Integration of water protection in developments in the Sava River Basin (Flood,&#13;
+   Navigation, Hydropower, Agriculture), Background paper No. 9 for SRBMP, International Sava&#13;
+   River Basin Commission. Available at:&#13;
+   http://www.savacommission.org/dms/docs/dokumenti/srbmp_micro_web/backgroundpapers_final&#13;
+   /no_9_background_paper_integration_of_water_protection_in_developments_in_the_sava_rb.pdf&#13;
+   (retrieved November, 2013).&#13;
+6. ISRBC (2013) Sava River Basin Management Plan (SRBMP), Draft version, International Sava&#13;
+   River Basin Commission. Available at: http://www.savacommission.org/srbmp/en/draft (retrieved&#13;
+   November, 2013).&#13;
+7. UNECE (2009) Guidance on water and adaptation to climate change, United Nations Economic&#13;
+   Commission for Europe, New York and Geneva. Available at:&#13;
+   http://www.unece.org/index.php?id=11658 (retrieved December, 2013).&#13;
+&amp;#12;                                                                                            Page 9&#13;
+WaterÂ &amp;Â ClimateÂ AdaptationÂ PlanÂ forÂ theÂ SavaÂ RiverÂ BasinÂ Â &#13;
+GuidanceÂ NoteÂ onÂ AdaptationÂ toÂ ClimateÂ ChangeÂ forÂ HydropowerÂ Â &#13;
+Â &#13;
+8. U.S Energy Information Administration (2010) International Energy Statistics. Available at:&#13;
+    http://www.eia.gov/cfapps/ipdbproject/iedindex3.cfm?tid=44&amp;pid=44&amp;aid=2&amp;cid=regions&amp;syid=19&#13;
+    80&amp;eyid=2012&amp;unit=QBTU (retrieved December, 2013).&#13;
+9. USAID (2007) Adapting to climate variability and change, A Guidance manual for development&#13;
+    planning, United States Agency for International Development. Available at:&#13;
+    http://pdf.usaid.gov/pdf_docs/PNADJ990.pdf (retrieved December, 2013).&#13;
+10. VuÄ&#141;koviÄ&#135; D., MelentijeviÄ&#135; M., MilovanoviÄ&#135; M. (2004) PostojeÄ&#135;estanjeizgraÄ&#145;enostinaslivuDrine,&#13;
+    Pregledni rad, Vodoprivreda 0350-0519, 36 (2004) 207-208, p. 39-49.&#13;
+11. Internet web sites of responsible companies for HPPs with dam specifications data used in the&#13;
+    report:&#13;
+12. http://www.dlhe.rs/latinica/he-bajina-basta&#13;
+13. http://www.dlhe.rs/latinica/hidroelektrana-zvornik&#13;
+14. http://www.henavrbasu.com/hev/Doc.aspx?cat=137&amp;subcat=138&amp;lang=cir&amp;id=196&#13;
+15. http://www.he-ss.si/he-blanca.html&#13;
+&amp;#12;</ml:original-txt><ml:search-metadata><doc id="25223391">
+        <url>
+            http://documents.worldbank.org/curated/en/2015/10/25223391/water-climate-adaptation-plan-sava-river-basin-vol-5-annex-three-guidance-note-adaptation-climate-change-hydropower
+        </url>
+        <availablein>English</availablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2015/10/25223391/water-climate-adaptation-plan-sava-river-basin-vol-5-annex-three-guidance-note-adaptation-climate-change-hydropower</url_friendly_title>
+        <new_url>2015/10/25223391/water-climate-adaptation-plan-sava-river-basin-vol-5-annex-three-guidance-note-adaptation-climate-change-hydropower</new_url>
+        <disclosure_date>2015-10-28T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2015-10-29T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <docm_id>090224b08317950c</docm_id>
+        <chronical_docm_id>090224b08317950c</chronical_docm_id>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2015/10/29/090224b08317950c/1_0/Rendered/INDEX/Annex0three0000hange0for0hydropower.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2015/10/29/090224b08317950c/1_0/Rendered/PDF/Annex0three0000hange0for0hydropower.pdf</pdfurl>
+        <datestored>2015-10-29T00:00:00Z</datestored>
+        <docdt>2015-08-01T03:22:00Z</docdt>
+        <totvolnb>8</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>5</volnb>
+        <repnme>
+            Water and climate adaptation plan for the
+            Sava river basin
+        </repnme>
+        <abstracts>
+            This report presents the water and
+            climate adaptation plan (WATCAP) developed for the Sava
+            river basin (SRB) as result of a study undertaken by the
+            World Bank. The WATCAP is intended to help to bridge the gap
+            between the climate change predictions for the SRB and the
+            decision makers in current and planned water management
+            investment projects that will be affected by changing
+            climate trends. The purpose of the report is to: (i) assist
+            stakeholders and decision makers in assessing and planning
+            for the risks generated by climate change impacts on water
+            resources; (ii) provide a basis for future plans and studies
+            of adaptation to climate change impacts in the SRB; and
+            (iii) stimulate cooperation and debate across the basin
+            toward additional and more detailed studies on climate
+            change impacts at the regional and basin scale. The SRB is
+            projected to experience small increases in water use by the
+            public water supply, industry, energy, and agricultural and
+            irrigation sectors. However, it is widely expected that new
+            hydropower plants (HPPs) will be constructed in the near
+            future, making energy (primarily through hydropower) the
+            most important water use in the SRB.
+        </abstracts>
+        <docna>
+            Annex three - guidance note on adaptation to
+            climate change for hydropower
+        </docna>
+        <display_title>Water and climate adaptation plan
+            for the Sava river basin (Vol. 5) : Annex three - guidance
+            note on adaptation to climate change for hydropower</display_title>
+        <listing_relative_url>/research/2015/08/25223391/water-climate-adaptation-plan-sava-river-basin-vol-5-annex-three-guidance-note-adaptation-climate-change-hydropower</listing_relative_url>
+        <topic>Climate Change Law m1327365 959,Climate Change Adaptation in Coastal and
+            Marine Areas m1327769 1752,Climate Change Adaptation in Urban Areas
+            m1326481 810,Climate Change Impacts m1326159 1773,Climate Change Adaptation m1327767 574,Climate Change Adaptation Impacts m1327768 1750,Climate Change m1326829 567</topic>
+        <projn>7B-See Water And Climate Adaptation -- P113303</projn>
+        <subtopic>Science of Climate Change,Hydro Power,Energy Production and Transportation,Climate Change Mitigation and Green House Gases,Water Supply and Sanitation Governance
+            and Institutions</subtopic>
+        <docty>Working Paper</docty>
+        <teratopic>Science and Technology Development,Environment,Energy,Water Supply and Sanitation</teratopic>
+        <count>South Eastern Europe and Balkans</count>
+        <entityids>
+            <entityid>090224b08317950c_1_0</entityid>
+        </entityids>
+        <theme>Water resource management,Pollution management and environmental health,Climate change,Biodiversity,Environmental policies and institutions</theme>
+        <subsc>General energy sector,General agriculture, fishing and forestry sector,General public administration sector,General industry and trade sector,General water, sanitation and flood
+            protection sector</subsc>
+        <admreg>Europe and Central Asia,Europe and Central Asia</admreg>
+        <lang>English</lang>
+        <historic_topic>Science and Technology Development,Environment,Energy,Water Supply and Sanitation</historic_topic>
+        <prdln>Economic and Sector Work</prdln>
+        <topicv3>Climate Change Law m1327365 959,Climate Change Adaptation in Coastal and
+            Marine Areas m1327769 1752,Climate Change Adaptation in Urban Areas
+            m1326481 810,Climate Change Impacts m1326159 1773,Climate Change Adaptation m1327767 574,Climate Change Adaptation Impacts m1327768 1750,Climate Change m1326829 567</topicv3>
+        <sectr>Agriculture, fishing, and forestry,Energy and mining,Water, sanitation and flood protection,Public Administration, Law, and Justice,Industry and trade</sectr>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            vulnerability to climate change, no,
+            hydropower  sector, power plants, water courses,
+            temperature, climate change vulnerability, calculation,
+            magnitude of climate change, water protection, climate
+            variations, dams, power stations, river flow, activities,
+            climate change analysis, generation, wind, water supply,
+            emissions, reservoirs, air temperatures, fish migration,
+            hydrological forecasting, water_protection, climate
+            scenarios, hydropower schemes, air, water resources,
+            hydrological cycle, temperature increase, electricity
+            consumption, annual precipitation, intergovernmental panel
+            on climate change, power sources, generation capacity,
+            reservoir, power generation, renewable energy production,
+            regional climate, electricity  production, floods, solar
+            power plants, emission scenario, capacity, hydroelectricity,
+            future climate scenarios, climate adaptation, options,
+            water, water resources management, water level, flow
+            regulation, climate model, climate scenario, basin area,
+            precipitation, climate models, energy production facilities,
+            fall, hydropower sector, et, climate variability, energy
+            consumption, emission, hydropower technology, river basin
+            management, climate change, ipcc, drought, resettlement,
+            global climate, climate change impact, river basin,
+            downstream communities, power, electricity, basin
+            management, climate change impacts, extreme events, head,
+            wind power, climate, green power, hydropower, electricity
+            generation, hydrological model, decision making, hydropower
+            production, climate parameter, river basin management plan,
+            season, dam, energy production, hydrologic regime, solar
+            power, power production, turbines, extreme values, energy
+            demand, water availability, electricity generation capacity,
+            drinking water supply, temporal variability, well, drinking
+            water, irrigation, hydropower facilities, riparian rights,
+            incandescent bulbs, hydrologic simulations, temperatures,
+            less, availability, facilities, hydropower generation,
+            climate parameters, gcm, renewable energy, adaptation to
+            climate change, resilience to climate change, electricity
+            production, water levels, seasons, emissions scenario,
+            available water, hydropower plants, approach, hydrological
+            station, energy, river, flow regimes, peak loads
+        </keywd>
+        <owner>Water Europe&amp;Cent.Asia Region(2) (GWA09)</owner>
+        <trustfund>TF095217-Increasing the capacity to
+            adapt water resource management, planning an,TF018453-ECA - Sava River Basin Water
+            and Climate Adaptation Plan,TF095800-Sava River Basin Water and
+            Climate Change Adaptation</trustfund>
+        <majtheme>Environment and natural resource management</majtheme>
+        <repnb>100525</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>Social Development &amp; Poverty</ml:concept><ml:concept>Water Resources</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Energy</ml:concept><ml:concept>Energy and Mining</ml:concept><ml:concept>Environment</ml:concept><ml:concept>Sustainable Climate Business</ml:concept><ml:concept>Sustainable Energy Finance</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>International Competitiveness</ml:concept><ml:concept>International Economics and Trade</ml:concept><ml:concept>Trade Liberalization</ml:concept><ml:concept>Trade Liberalization and Regional Integration</ml:concept><ml:concept>Trade Restrictiveness</ml:concept><ml:concept>Trade and Integration</ml:concept><ml:concept>City Development Strategies</ml:concept><ml:concept>Social Development</ml:concept><ml:concept>Water</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Agriculture and Food Security</ml:concept><ml:concept>Economic Growth</ml:concept><ml:concept>Energy and Extractives</ml:concept><ml:concept>Environment and Natural Resources</ml:concept><ml:concept>Climate Change</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Trade</ml:concept><ml:concept>Urban Development</ml:concept><ml:concept>Energy Demand</ml:concept><ml:concept>Agriculture and Rural Development</ml:concept><ml:concept>Water and Energy</ml:concept><ml:concept>Climate Impacts</ml:concept><ml:concept>Projected Climate Impacts</ml:concept><ml:concept>International Rivers Law</ml:concept><ml:concept>Riparian Rights</ml:concept><ml:concept>Access to Basic Sanitation</ml:concept><ml:concept>On-site Sanitation</ml:concept><ml:concept>Sanitation Marketing</ml:concept><ml:concept>Sanitation Promotion</ml:concept><ml:concept>Green Growth and Sustainability</ml:concept><ml:concept>Sustainable Growth</ml:concept><ml:concept>Hydro Power</ml:concept><ml:concept>Hydroelectric Power</ml:concept><ml:concept>Science of Climate Change</ml:concept><ml:concept>Adaptation to Climate Change</ml:concept><ml:concept>Involuntary Land Acquisition</ml:concept><ml:concept>Disaster Management</ml:concept><ml:concept>Hazard Risk Management</ml:concept><ml:concept>Governance and Public Accountability (GPA)</ml:concept><ml:concept>Incentives for Good Government</ml:concept><ml:concept>National Governance</ml:concept><ml:concept>Consumption</ml:concept><ml:concept>Economic Development</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Energy Consumption</ml:concept><ml:concept>Agriculture</ml:concept><ml:concept>Boundaries</ml:concept><ml:concept>Copyright</ml:concept><ml:concept>Water Supply</ml:concept><ml:concept>Water Resources Management</ml:concept><ml:concept>Energy and Water</ml:concept><ml:concept>Climate Change Impacts</ml:concept><ml:concept>International Waterways</ml:concept><ml:concept>Adaptation</ml:concept><ml:concept>Hydropower Technologies</ml:concept><ml:concept>Storage Hydropower</ml:concept><ml:concept>Sanitation</ml:concept><ml:concept>Green Growth</ml:concept><ml:concept>Renewable Energy</ml:concept><ml:concept>Hydropower</ml:concept><ml:concept>Climate Science</ml:concept><ml:concept>Climate Change Adaptation</ml:concept><ml:concept>Involuntary Resettlement</ml:concept><ml:concept>Disaster Risk Management</ml:concept><ml:concept>Governance</ml:concept></ml:concepts><ml:geo-regions><ml:geo-region>Asia</ml:geo-region><ml:geo-region>Europe</ml:geo-region><ml:geo-region>Central Asia</ml:geo-region><ml:geo-region>Eastern Europe</ml:geo-region></ml:geo-regions></ml:annotations></ml:doc-envelope>

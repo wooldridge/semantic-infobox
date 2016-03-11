@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>ï»¿                                                                            90369            1&#13;
+&#13;
+&#13;
+                 World Bank GHG Accounting Guidance Note #3:&#13;
+                  Agriculture Sector Investment Projects (v1)&#13;
+&#13;
+                                           May 2014&#13;
+&#13;
+                               Agriculture Global Practice (AGP)&#13;
+&#13;
+&#13;
+ Disclaimer: this document is a work in progress and constantly updated; some supporting&#13;
+ material in annexes and weblinks are still incomplete. The document builds on the GHG&#13;
+ Accounting Guidance Note for Agriculture Sector Investment Projects. All comments are&#13;
+ welcome, please send these to Ademola Braimoh (AGP, abraimoh@worldbank.org), cc:&#13;
+ Christine Heumesser (AGP, cheumesser@worldbank.org)&#13;
+&#13;
+CPF maintains a website for GHG accounting at http://ghgaccounting. The site contains the&#13;
+latest information and templates to be followed and should be checked when conducting GHG&#13;
+accounting for projects.&#13;
+&#13;
+&#13;
+&#13;
+ 1. INTRODUCTION&#13;
+ In November 2012, a group of International Financial Institutions (IFIs), including the&#13;
+ World Bank, agreed to harmonize their approaches to project-level greenhouse gas (GHG)&#13;
+ accounting. Each institution would follow established methodologies consistent with&#13;
+ international best practices, and the methodologies would be applied during project&#13;
+ appraisal. GHG accounting is a means to assess the impacts a project is likely to have, and&#13;
+ taken together, to measure the overall impacts an institutionâ&#128;&#153;s lending portfolio will have on&#13;
+ GHG emissions. Investments which are identified as being climate-smart and which lead to&#13;
+ similarly positive socio-economic outcomes can then be properly weighted according to&#13;
+ multiple criteria (WBG 2012).&#13;
+&#13;
+ As part of the World Bank Group Environment Strategy, all World Bank (WB) investment&#13;
+ projects must undertake GHG accounting (â&#128;&#152;carbon footprintingâ&#128;&#153;) starting in fiscal year FY14&#13;
+ (July 2013). The phasing-in of GHG accounting will be done gradually from FY14 to FY16.&#13;
+ The first sectors included in the rollout phase (FY14) were energy, transport, and forestry.&#13;
+ From FY 15, GHG accounting will be undertaken for agriculture sector projects and will be&#13;
+ required at the project approval stage.&#13;
+&#13;
+ Agriculture accounts for about a quarter of anthropogenic GHG emissions, mainly from&#13;
+ deforestation and agricultural emissions from livestock, soil, and nutrient management&#13;
+ (IPCC 2014). The agriculture sector accounts for nearly 50% of global emissions of nitrous&#13;
+ oxide (N2O) and methane (CH4). Nitrous oxide is a powerful warming agent and is about&#13;
+ 300 times more effective at heating the atmosphere than carbon dioxide, and methane has a&#13;
+ global warming potential about 21 times that of CO2 on a 100-year timescale. The scale of&#13;
+ global emissions from agriculture and land-use change is increasing as a result of&#13;
+ population growth, growing consumption of meat and dairy products, and the rising use of&#13;
+ nitrogen fertilizers.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                         WBG GHG Accounting Guidance â&#128;&#147; Agriculture&#13;
+&amp;#12;                                                                                           2&#13;
+&#13;
+&#13;
+Several options exist for mitigation of GHG emissions in agriculture. The most prominent of&#13;
+these are improved crop and grazing land management, the restoration of organic soils, and&#13;
+the restoration of degraded lands. Other mitigation options include improved water&#13;
+management, positive land use change and enhanced livestock and manure management.&#13;
+Many of these options use current technologies and can be implemented immediately, but&#13;
+technological development will be a key driver ensuring the efficacy of additional mitigation&#13;
+measures in the future. The global mitigation potential of agriculture and forestry is&#13;
+estimated at 7.18 â&#128;&#147; 10.60 GtCO2-e/yr at carbon prices up to US$100 per ton of CO2&#13;
+equivalent. About a third of this can be achieved at prices up to $20 (IPCC, 2014).&#13;
+&#13;
+This note provides guidance to World Bank staff for conducting GHG emissions assessment&#13;
+for investment projects in agriculture. Section 2 clarifies the project types requiring GHG&#13;
+assessment, while Section 3 discusses harmonization issues within the World Bank Group.&#13;
+Section 4 provides information on the EX-ACT tool and resources available at the Bank with&#13;
+which to conduct GHG analyses. Section 5 discusses the practical implementation of GHG&#13;
+accounting in World Bank projects, including the role of the GHG Accounting Help Desk at&#13;
+the Agriculture Global Practice (AGP). Section 6 concludes with the application of key&#13;
+concepts.&#13;
+&#13;
+&#13;
+2. TYPES OF WORLD BANK PROJECTS INCLUDED&#13;
+Projects to be included for GHG assessment are all operations classified with the sector&#13;
+codes AB (Agricultural extension and research), AH (Crops), AI (Irrigation and Drainage), AJ&#13;
+(Animal Production), and AZ (General Agriculture). The requirement to prepare GHG&#13;
+assessments applies to investment operations.1 Development Policy Lending (DPL) projects&#13;
+are not included. Additionally, Investment Fund Projects (IFP) which finance â&#128;&#152;non-site&#13;
+specificâ&#128;&#153; activities, such as capacity building and strengthening of institutions, policy&#13;
+development, and governance are excluded.&#13;
+&#13;
+The assessment will be carried out by the project team with support from the GHG&#13;
+Accounting Help Desk at AGP. The assessment is ex ante, and is conducted only once during&#13;
+project preparation. GHG accounting is not used in monitoring during implementation&#13;
+unless it forms part of the results framework. A selection tool (decision tree) for&#13;
+determining if a particular project requires incorporating GHG footprinting and the&#13;
+appropriate tool to use is presented in Annex I.&#13;
+&#13;
+If a project requires GHG accounting, the question arises whether it will generate carbon&#13;
+credits and as such is regulated by a formal, internationally recognized mandatory or&#13;
+voluntary standard such as the Verified Carbon Standard (VCS). If so, the procedures&#13;
+described in this document are to be superseded by those of an internationally recognized&#13;
+third party such as the Executive Board of the UNFCCCâ&#128;&#153;s Clean Development Mechanism&#13;
+(CDM) or the validation or verification body approved under the VCS.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+1   This includes also projects financed from trust funds.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                             WBG GHG Accounting Guidance â&#128;&#147; Agriculture&#13;
+&amp;#12;                                                                                                 3&#13;
+&#13;
+&#13;
+ If approved as generating carbon credits, the measurement and data provided in documents&#13;
+ such as the Project Design Document (PDD, in the case of CDM), or equivalent, can be used.&#13;
+ Generally, all projects for which reliable and accurate GHG accounting is undertaken for&#13;
+ other reasons can use those results to avoid duplication of work. The World Bank has&#13;
+ developed a VCS approved methodology that quantifies the GHG emission reductions of&#13;
+ sustainable land management practice activities that enhance aboveground, belowground&#13;
+ and     soil-based    carbon      stocks     of    agricultural  areas. (http://www.v-c-&#13;
+ s.org/methodologies/VM0017). If a project is not regulated by a formal internationally&#13;
+ recognized standard; it is subject to project-level GHG accounting.&#13;
+&#13;
+&#13;
+ The decision of whether or not project restructuring or additional financing triggers revised&#13;
+ GHG assessment will be reviewed on a case-by-case basis. In essence, if additional resources&#13;
+ are allocated or the scope is varied, a GHG assessment should be conducted. The assessment&#13;
+ needs to be conducted for emergency operations as well, though the timeframe is more&#13;
+ flexible and assessment may be completed during implementation.&#13;
+&#13;
+&#13;
+&#13;
+Box 1: Guidelines and Standards&#13;
+The Good Practice Guidance (IPCC 2003) and the IPCC Guidelines for National Greenhouse Gas&#13;
+Emissions (IPCC, 2006) provide general guidance and a framework to estimate, measure, monitor and&#13;
+report carbon stock changes and greenhouse gas emissions from land use, land-use change and forestry&#13;
+(LULUCF) activities. They include definitions and classifications, detailed calculation steps with&#13;
+underpinning equations, default emission factors and other parameters, and reporting templates. 2&#13;
+&#13;
+There are three primary standards for carbon assessment. These include the Clean Development&#13;
+Mechanism (CDM), the Climate Action Reserve, and the Verified Carbon Standard (VCS). These&#13;
+standards accredit and supervise a number of methodologies or protocols to estimate, measure, monitor&#13;
+and possibly credit net GHG removals by sinks resulting from the implementation of LULUCF activities.&#13;
+They do so by providing a number of rules and principles for GHG accounting such as definition of the&#13;
+baseline scenario, modalities for considering carbon pools and sources of emissions, and ways to&#13;
+account for leakage and permanence.&#13;
+&#13;
+&#13;
+ 3. HARMONIZATION WITHIN THE WORLD BANK GROUP&#13;
+ The World Bank (i.e. IDA and IBRD) and the International Finance Corporation (IFC) have&#13;
+ different project preparation procedures and finance different types of projects. However,&#13;
+ these guidelines will be aligned to the extent possible with the practices used by IFC. This&#13;
+ alignment will be maintained in all future guidance and whenever feasible, similar systems&#13;
+ will be applied across WBG.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+ 2   http://www.ipcc-nggip.iges.or.jp/public/2006gl/vol2.html&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                            WBG GHG Accounting Guidance â&#128;&#147; Agriculture&#13;
+&amp;#12;                                                                                                      4&#13;
+&#13;
+&#13;
+The Global Environment Facility (GEF) and various climate and carbon financing programs&#13;
+also have their requirements for GHG accounting. To promote harmonization of GHG&#13;
+accounting processes and requirements among different financing programs, a more&#13;
+rigorous assessment could be substituted for the ex-ante assessment required at the&#13;
+concept stage.3&#13;
+&#13;
+&#13;
+&#13;
+4. RESOURCES FOR GHG ACCOUNTING&#13;
+In selecting tools for GHG accounting, the WB is guided by the principles of simplicity,&#13;
+transparency, harmonization, and credibility, recognizing that trade-offs between accuracy&#13;
+and time and resources required are likely (WB 2013).&#13;
+&#13;
+Among several tools , the Ex-Ante Carbon balance Tool (EX-ACT) has been selected as the&#13;
+primary tool for GHG accounting in agriculture at the World Bank. EX-ACT has been&#13;
+successfully piloted in WB agriculture Projects in Brazil, Russia, India, China, Niger, Nigeria&#13;
+and Morocco (WB 2011). Since then, its application has grown considerably, covering&#13;
+evaluations of projects and programs in about 38 countries. EX-ACT is a robust accounting&#13;
+tool offering the advantage of a broad of scope of GHG analysis. It is user friendly,&#13;
+interactive and participatory. It is very flexible in terms of requirements for coefficients and&#13;
+site-specific data, and can handle land use conversion, changes in agricultural practices and&#13;
+projections over long time horizons. Its outputs can also be used in the financial and&#13;
+economic analyses of projects.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+3 GEF5 has a requirement to have an ex ante GHG assessment in Project Information Form (PIF) or in&#13;
+Project Concept Note (PCN). However, there is no formal requirement to use specific tools. It is&#13;
+understood that WB ex ante assessment meets the GEF criteria as such. Decision on applicability&#13;
+under GEF6 will be done separately.&#13;
+4 Simple, in terms of assessment time and/or resources and application by project task teams;&#13;
+&#13;
+Transparent, in terms of being objective and clear about methodological choices and assumptions;&#13;
+Harmonized, in terms of alignment with tried and tested approaches, including those used by other&#13;
+IFIs; Credible, in terms of the robustness of analytical underpinning, which is also linked to the other&#13;
+three principles (WB 2013).&#13;
+5 A comparison of GHG accounting tools is provided by World Bank (2011) and Colomb et al. (2013).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                           WBG GHG Accounting Guidance â&#128;&#147; Agriculture&#13;
+&amp;#12;                                                                                            5&#13;
+&#13;
+&#13;
+EX-ACT was developed by the Food and Agriculture Organization (FAO) to provide ex-ante&#13;
+measurements of the mitigation impact of agriculture and forestry development projects.&#13;
+EX-ACT enables estimating the net carbon (C) balance and C sequestration potential of&#13;
+projects which promote the adoption of improved land management practices compared&#13;
+with a business as usual scenario. EX-ACT can be used at the project preparation stage, to&#13;
+assist task teams in refining components and activities to increase the mitigation benefits of&#13;
+projects. EX-ACT is widely applicable in the agriculture sector. Typical applications include&#13;
+crop production intensification, livestock development, food security, rural development,&#13;
+agroforestry, perennial agriculture, forest protection and management, watershed&#13;
+development, land rehabilitation, and bioenergy. The main output of the tool consists of the&#13;
+C balance resulting from the difference between a scenario with a project and a baseline&#13;
+scenario without the project. Though EX-ACT has been designed for the project level it can&#13;
+easily be scaled up to program, sector or national level (Bernoux et al. 2010).&#13;
+&#13;
+EX-ACT consists of a set of six linked Excel sheets, covering agriculture, forestry and other&#13;
+land uses. These six modules allow users to input specific or general information about the&#13;
+project including, changes in land use, agricultural management practices, inputs and other&#13;
+project investments. The EX-ACT modules are shown in Figure 1 and described briefly&#13;
+below:&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Figure 1: The EX-ACT modules&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                        WBG GHG Accounting Guidance â&#128;&#147; Agriculture&#13;
+&amp;#12;                                                                                            6&#13;
+&#13;
+&#13;
+   1. A general description of the project, including information on the location,&#13;
+      climate and soil characteristics and duration of the project.&#13;
+   2. Land use change, in which information on land use changes regarding&#13;
+      deforestation, afforestation and reforestation, and non-forest land use change is&#13;
+      inserted.&#13;
+   3. Crop production and management, to specify agronomic practices, tillage&#13;
+      practices, water and nutrient management, and manure application.&#13;
+   4. Grassland and livestock, specifying grassland management and livestock feeding&#13;
+      practices.&#13;
+   5. Land degradation that captures information on forest degradation, drainage of&#13;
+      organic soils, and peat extraction&#13;
+   6. Inputs and further investment, which captures information fertilizer and agro-&#13;
+      chemical use, fuel consumption and electricity use.&#13;
+&#13;
+A checklist for choosing the relevant study module is presented in Annex 2. The use of EX-&#13;
+ACT comprises 3 steps:&#13;
+&#13;
+1. A general description of the project (geographic area, climate and soil characteristics,&#13;
+   duration of the project);&#13;
+2. Identification of current land use, future land use in case the project is not implemented&#13;
+   and changes in land use and technologies foreseen by project components using&#13;
+   specific â&#128;&#156;modulesâ&#128;? (deforestation, forestation, forest degradation, annual/perennial&#13;
+   crops, rice cultivation, grasslands, livestock, inputs, energy); and&#13;
+3. Computation of C-balance with and without the project using IPCC default values and â&#128;&#147;&#13;
+   when available â&#128;&#147; ad-hoc coefficients.&#13;
+&#13;
+The main output of the tool consists of the C-balance resulting from project activities.&#13;
+&#13;
+The EX-ACT tool and a broad range of additional information can be found at&#13;
+http://www.fao.org/tc/exact/en/. The GHG Accounting Help Desk at AGP has prepared&#13;
+â&#128;&#156;EX-ACT Quick Guidance for Users,â&#128;? that provides an overview and explanation of&#13;
+methodology, results and data needs for the application and final use of EX-ACT. It&#13;
+complements the more comprehensive EX-ACT User Manual and it is targeted at leading&#13;
+World Bank users to proficiency in the independent use of the tool. These and other&#13;
+resources are available at http://ghgaccounting.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                        WBG GHG Accounting Guidance â&#128;&#147; Agriculture&#13;
+&amp;#12;                                                                                          7&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+5. IMPLEMENTATION&#13;
+GHG accounting will become routine and part of the regular project preparation cycle and&#13;
+will be considered as one of the tasks conducted by the project preparation team. Resources&#13;
+for the assessment will come from project preparation budgets. Figure 2 depicts the typical&#13;
+steps of the net emissions calculation process.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                     Support from GHG Accounting Help Desk at the&#13;
+                               Agriculture Global Practice&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Figure 2       GHG accounting in project preparation&#13;
+&#13;
+&#13;
+To implement sustainable agricultural strategies, task team leaders (TTLs), project staff,&#13;
+and consultants must have ready access to expertise, sound appraisal methodologies (such&#13;
+as EX-ACT), to evaluate potential GHG impacts, and mitigation strategies for their projects.&#13;
+The GHG Accounting Help Desk in the Agriculture Global Practice is designed, during the&#13;
+initial year of the GHG Accounting rollout, as a mandatory resource towards these ends.&#13;
+Collaboration with the guidance unit in the development of sustainable Bank agricultural&#13;
+projects will help streamline the understanding of the challenges and opportunities&#13;
+associated with GHG assessment for World Bank agricultural investments.&#13;
+&#13;
+The GHG Accounting Help Desk will provide guidance on EX-ACT and other accounting tools&#13;
+at project preparation, implementation and completion stages, and on other pertinent GHG&#13;
+related issues that TTLs can apply to their projects. The unit will also provide specific&#13;
+guidance for other funding sources â&#128;&#147; such as the GEF â&#128;&#147; which also have developed specific&#13;
+GHG evaluation and monitoring requirements for agriculture projects.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                        WBG GHG Accounting Guidance â&#128;&#147; Agriculture&#13;
+&amp;#12;                                                                                                      8&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+    Box 2: The GHG accounting roll-out process at AGP&#13;
+&#13;
+    The GHG Accounting Help Desk of the AGP was set up in FY 14 to support the application and&#13;
+    the mainstreaming of GHG accounting in agriculture operations. In March 2014, a Learning&#13;
+    and Management System, LMS-accredited face-to-face EX-ACT training was held in DC,&#13;
+    followed by another for country staff in Brazil in April 2014. More of such trainings may be&#13;
+    held at other country locations in future. In addition, an e-learning course is being developed&#13;
+    together with the Climate Change Group (CCG). The e-course on EX-ACT will further facilitate&#13;
+    the mainstreaming of the use of the tool and provide an online-forum for peer learning with an&#13;
+    online expert facilitation.&#13;
+&#13;
+&#13;
+&#13;
+6. REPORTING&#13;
+The measurement of GHG accounting will be conducted at the project level. However,&#13;
+whether or not reporting and dissemination will be at corporate level (e.g. specific annual&#13;
+reports) or at project level (e.g. in PADs) is still to be determined.6, 7 A reporting sample is&#13;
+found in Annex 3.&#13;
+&#13;
+7. APPLICATION OF KEY CONCEPTS&#13;
+Because GHG accounting is being introduced at several IFIs, the institutions have agreed on&#13;
+a joint approach and terminology to allow coherence across institutions (WB 2012).&#13;
+However, their consistent application for accounting purposes requires sector-specific&#13;
+agreement and interpretation on the key concepts. Definitions of these concepts are&#13;
+provided in the World Bank Group GHG Accounting Guidance Note (WB 2013).&#13;
+&#13;
+In all GHG accounting, WB guidelines and definitions are applied (WB 2013). Their specific&#13;
+application to investment projects in agriculture is outlined below.&#13;
+&#13;
+&#13;
+7.1 Gross vs. Net Emissions&#13;
+Both gross and net emissions will be calculated. Gross emissions refer to the actual project&#13;
+emissions; while net emissions denote the change in emissions as a result of the&#13;
+implementation of a WB investment project. Net emissions are calculated as the difference&#13;
+between emissions in the project scenario and emissions occurring in the corresponding&#13;
+baseline scenario. The approach of the WB will focus on net emissions, although gross&#13;
+calculations are typically identified as well. The reporting of these two types of emissions&#13;
+will be decided separately (see section 6 above).&#13;
+&#13;
+6 There is no decision yet on whether or not GHG footprints are to be disclosed at the project level. It&#13;
+is not yet [March 2014] clear if some clients would oppose disclosing project specific carbon&#13;
+accounting results. Until final decisions have been made, project teams need to take this in to&#13;
+consideration.&#13;
+7 In the initial stage of GHG reporting, GHG reporting is an interim, offline reporting. GHG reporting&#13;
+&#13;
+will become part of the Operations Portal at a later stage.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                            WBG GHG Accounting Guidance â&#128;&#147; Agriculture&#13;
+&amp;#12;                                                                                              9&#13;
+&#13;
+&#13;
+7.2 Baseline&#13;
+The baseline, also called â&#128;&#152;referenceâ&#128;&#153; or â&#128;&#152;counterfactualâ&#128;&#153; scenario, is a crucial in GHG&#13;
+estimation, as the carbon balance of a project (â&#128;&#156;net emissionsâ&#128;?) is given by the difference of&#13;
+the overall effect of the project and the baseline scenarios. The baseline scenario is&#13;
+represented by the most plausible scenario and includes the most credible options of land&#13;
+use, possible land use changes and management practices that could have occurred on the&#13;
+land within the project boundaries but without the project actually occurring. The baseline&#13;
+is an extrapolated value of gross GHG emissions as they would have occurred in the absence&#13;
+of the project. It is thus the scenario that reasonably describes changes over time in carbon&#13;
+stocks and GHG emissions within the project boundary in the absence of the proposed&#13;
+project activity.&#13;
+&#13;
+Estimating the baseline is among the most challenging elements of conducting a GHG&#13;
+analysis as it requires an understanding of current land use options and management&#13;
+practices and their evolution, as well as, their extrapolation in a credible scenario. Clearly,&#13;
+the further out in time a project scenario is projected, the more assumptions are needed for&#13;
+a baseline projection.&#13;
+&#13;
+The baseline can be static or dynamic. In contrast to the static elements, which do not&#13;
+change over time and assume that the pre-project assumptions extend into the future, the&#13;
+dynamic elements change over the timeframe of the assessment and are more complicated&#13;
+to develop. Dynamic baseline are typically preferred, but often cannot be achieved due to&#13;
+the lack of data to assess hypothetical scenarios. If data are lacking for credible projections,&#13;
+GHG analysis may opt for a simplified description of the baseline corresponding to a&#13;
+continuation of current land-use or a static scenario (WB 2013).&#13;
+&#13;
+In EX-ACT, users can choose between, or combine, three approaches to generate a baseline&#13;
+scenario. These are&#13;
+  i.    No change scenario: is often used in small-scale projects. This is a static scenario as&#13;
+        it assumes no changes in the land use and management practices with respect to the&#13;
+        initial situation.&#13;
+ ii.    Use of past trends: is a dynamic scenario and based on the assumption that&#13;
+        without a project the changes in land use and practices will evolve in the same way&#13;
+        as in the past. In small scale projects, expert consultation could inform these&#13;
+        processes, while in in large scale projects, past trends are often extrapolate from&#13;
+        secondary data.&#13;
+iii.    Use of future trends: is a dynamic scenario and estimates the future land uses and&#13;
+        management practices based on quantitative data for several or few selected&#13;
+        variables.&#13;
+&#13;
+&#13;
+The default baseline is the current use of the land.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                         WBG GHG Accounting Guidance â&#128;&#147; Agriculture&#13;
+&amp;#12;                                                                                                   10&#13;
+&#13;
+&#13;
+7.3 Project Boundaries and Scope&#13;
+The project area is the discrete site(s) where a project is implemented (i.e., the area under&#13;
+the control of the project component). The scope of the GHG assessment will encompass&#13;
+scope 1 and scope 2 emissions, as decided in the IFI harmonized approach to GHG&#13;
+accounting. It could also include scope 3 emissions attributable to a project, which should&#13;
+be clearly stated in relevant policies, procedures and results. 8 The project boundaries&#13;
+should include all activities, facilities or infrastructure that is being financed. This includes&#13;
+the project area and other components that will be impacted by the project such as inputs&#13;
+(fertilizers, pesticides, infrastructure, and energy consumption) and leakage, i.e. emissions&#13;
+occurring outside the projectâ&#128;&#153;s boundaries as a result of project activities.9&#13;
+&#13;
+&#13;
+7.4 Relevant gases&#13;
+GHG accounting, such as EX-ACT, ideally considers estimated values of all five carbon pools&#13;
+as well as estimated coefficients of CH4, N2O and selected CO2 emissions. A carbon pool is a&#13;
+reservoir with the capacity to accumulate (remove) or release (emit) carbon. Five carbon&#13;
+pools are usually considered in a GHG analysis including: above ground living biomass,&#13;
+below ground living biomass, dead wood (standing, laying or on ground, or in the soil, e.g.&#13;
+dead root stocks), leaf litter, and soil carbon. Ideally, all carbon pools should be included.&#13;
+However, this depends to a large extent on data availability and default values may be&#13;
+needed.10&#13;
+&#13;
+&#13;
+The relevant GHG associated with agricultural activities are CO2, CH4, and N2O. As these&#13;
+gases have different global warming potentials, their flows are converted into one metric&#13;
+for accounting purposes, Carbon Dioxide Equivalent (tCO2e), based on their global warming&#13;
+potential (GWP). CO2 has a 100 year GWP of 1, CH4 of 25 and N2O of 298.&#13;
+The main emission sources in agriculture, which can be accounted for in EX-ACT are:&#13;
+     i.     Fertilized soils emitting nitrous oxide (N2O);&#13;
+     ii.    Cattle enteric fermentation emitting methane (CH4);&#13;
+&#13;
+&#13;
+&#13;
+8Scope 1 includes all direct GHG emissions; scope 2 refers to indirect emission from consumption of&#13;
+purchased electricity, heat or steam; and scope 3 includes other indirect emission such as the&#13;
+extraction and production of purchased materials and fuels, transport-related activities in vehicles&#13;
+not owned or controlled by the reporting entity, electricity-related activities (e.g. T&amp;D losses) not&#13;
+covered in Scope 2, outsourced activities, waste disposal, etc. (http://www.ghgprotocol.org/).&#13;
+&#13;
+9An example of leakage is a project which reduces deforestation in region A by promoting alternative&#13;
+solutions to wood fuel through e.g. crop intensification, but indirectly results in increasing&#13;
+deforestation in region B outside the project boundary.&#13;
+&#13;
+10 Usually the default is that harvested wood products are considered emitted on the date of harvest.&#13;
+This is reasonable for fuel wood. However, fiber and saw logs/construction wood have much longer&#13;
+life cycles. Global methodologies are currently being developed e.g. by IPCC. In addition, IFC is&#13;
+developing an approach for handling wood products in GHG accounting. The approach used in WB&#13;
+assessments will be aligned with that of IFC to the extent possible.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                          WBG GHG Accounting Guidance â&#128;&#147; Agriculture&#13;
+&amp;#12;                                                                                                                 11&#13;
+&#13;
+&#13;
+     iii.     Biomass burning (emitting N2O and CH4);&#13;
+     iv.      Rice production (emitting CH4);&#13;
+     v.       Manure (emitting N2O and CH4);&#13;
+     vi.      Fertilizer production (emitting N2O and CO2);&#13;
+     vii.     Irrigation (emitting CO2); and&#13;
+     viii.    Farming machinery (emitting CO2).&#13;
+&#13;
+&#13;
+7.5 Timeframe&#13;
+The economic and financial analysis of WB projects often considers 30-year time horizon,&#13;
+and a similar timeframe is used for the GHG assessment11. EX-ACT can handle projections&#13;
+for longer time horizons with user modifications. In the case of forestry projects, this allows&#13;
+ensuring the saturation of carbon sequestration into biomass as plantations progressively&#13;
+reach maturity is accurately captured.&#13;
+&#13;
+EX-ACT allows setting two different time periods for the project, denoted as the&#13;
+implementation phase and the capitalization phase. The implementation phase is analogue&#13;
+to the investment phase and considered to be the active period of the project. The&#13;
+capitalization phase is a period where project benefits are still occurring as a consequence&#13;
+of the activities of the implementation phase.&#13;
+&#13;
+&#13;
+7.6 Emission Factors&#13;
+A variety of parameters are critical to estimate carbon stocks and changes in carbon stock.&#13;
+These include factors relating to biomass growth and changes in land use (e.g.,&#13;
+deforestation rate). The IPCC provides Tier 1 data for many of these parameters while Tier&#13;
+2 (and possibly 3) can be obtained from companion documentation to carbon offset&#13;
+projects, or underlying database of tool. The highest available tier should be used.&#13;
+&#13;
+Box 3: Tiers 1, 2 and 3 Datasets&#13;
+â&#128;&#156;Different methods can be used to estimate emissions or removals from most source and sink categories. The&#13;
+selection of a particular method will depend on the desired degree of estimation detail, the availability of activity&#13;
+data and emission factors, and the financial and human resources available to complete the inventory. In IPCC&#13;
+terminology, the lowest ranking or simplest method is â&#128;&#156;Tier 1â&#128;?, while more elaborate methods are â&#128;&#156;Tier 2â&#128;? and&#13;
+â&#128;&#156;Tier 3.â&#128;?&#13;
+Tier 1 methods typically utilize IPCC default emission factors and require the most basic, and least&#13;
+disaggregated, activity data. Higher tiers usually utilize more elaborate methods and source-specific, technology-&#13;
+specific, region specific and/or country-specific emission factors, which are often based on measurements, and&#13;
+normally require more highly disaggregated activity data. Tier 2 and 3 methods require more detailed data&#13;
+and/or measurements for their application. In cases where a national methodology exists, which is consistent&#13;
+with the IPCC Guidelines, it is highly advisable to use the national methodology. This methodology should be&#13;
+fully documented in order to allow the reader to understand why this particular method is better than the&#13;
+default one proposed by the IPCC.â&#128;? (UNFCCC 2009 : 9)&#13;
+UNFCCC resource guide for preparing the national communications of non-annex I parties, module 3: National&#13;
+&#13;
+&#13;
+11For plantation projects this may need to be adjusted based on rotation lengths to avoid misleading&#13;
+values.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                              WBG GHG Accounting Guidance â&#128;&#147; Agriculture&#13;
+&amp;#12;                                                                                           12&#13;
+&#13;
+&#13;
+greenhouse gas inventories&#13;
+(http://unfccc.int/resource/docs/publications/09_resource_guide3.pdf)&#13;
+&#13;
+7.7 Threshold&#13;
+Usually, a quick ex-ante estimate is conducted to determine whether a project falls over a&#13;
+preset threshold for analysis. In accordance with other IFIs, a threshold of 20 ktCO2eq per&#13;
+year (net) is recommended, i.e. projects that generate net GHG emission reductions&#13;
+(carbon sequestration) greater than 20 ktCO2eq per average year are subject to a further&#13;
+per hectare analysis.&#13;
+&#13;
+The impact of this threshold will be assessed during implementation to understand whether&#13;
+some project types would be systematically excluded from GHG accounting.&#13;
+&#13;
+&#13;
+7.8 Attribution/cost sharing&#13;
+In pooled funding, GHG accounting will cover the whole project, irrespective of WBâ&#128;&#153;s&#13;
+share of the overall project budget.&#13;
+&#13;
+&#13;
+7.9 Estimate ranges&#13;
+Often at the project appraisal stage, many issues of the project design and implementation&#13;
+are still unconfirmed and the data available are often range estimates. As a general rule, the&#13;
+lower (more conservative) boundary value is used in the GHG assessments. However, if&#13;
+some other value clearly has a higher probability, the team may use the most likely value.&#13;
+&#13;
+8. UPDATING AND FURTHER INFORMATION&#13;
+This approach is subject to refinement and expansion based on testing and feedback during&#13;
+implementation.&#13;
+&#13;
+For additional information please visit http://ghgaccounting.&#13;
+&#13;
+For contacts, please get in touch with:&#13;
+ï&#130;·   CPF (GHG accounting at corporate level, collaboration with other IFIs):&#13;
+    ï&#130;·    Jane Ebinger&#13;
+    ï&#130;·    Sameer Akbar&#13;
+&#13;
+ï&#130;·   Agriculture Global Practice (interpretation at the project level)&#13;
+&#13;
+    ï&#130;·    Ademola Braimoh&#13;
+    ï&#130;·    Ijeoma Emenanjo&#13;
+    ï&#130;·    Maurice Rawlins&#13;
+    ï&#130;·    Christine Heumesser&#13;
+    ï&#130;·    Maria Ana de Rijk&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                             WBG GHG Accounting Guidance â&#128;&#147; Agriculture&#13;
+&amp;#12;                                                                   13&#13;
+&#13;
+&#13;
+ï&#130;·   Technical Working Group&#13;
+&#13;
+    ï&#130;·   Gabriella Izzi&#13;
+    ï&#130;·   Maurizio Guadagni&#13;
+    ï&#130;·   Tijen Arin&#13;
+    ï&#130;·   Lori Ann Conzo (IFC)&#13;
+    ï&#130;·   Philippe Ambrosi&#13;
+    ï&#130;·   Maria Amazonas&#13;
+    ï&#130;·   Grant Milne&#13;
+    ï&#130;·   Junu Shrethsa (GEF)&#13;
+    ï&#130;·   Riikka Rajalahti&#13;
+    ï&#130;·   Abel Lufafa&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                       WBG GHG Accounting Guidance â&#128;&#147; Agriculture&#13;
+&amp;#12;                                                                                      14&#13;
+&#13;
+&#13;
+9. REFERENCES:&#13;
+Bernoux, M., et al. (2010): Ex-Ante greenhouse gas balance of agricultural and forestry&#13;
+   development programs. Sci. Agric., 67(1), 31-40&#13;
+Colomb, V., et al. (2013): Selection of appropriate calculators for landscape-scale&#13;
+    greenhouse gas assessment for agriculture and forestry. Environment Research Letters,&#13;
+    8, 1-10.&#13;
+IPCC (2003): Good Practice Guidance for Land Use, Land-Use Change and Forestry. Edited&#13;
+   by Jim Penman, et al. IPCC.&#13;
+IPCC (2006): 2006 IPCC Guidelines for National Greenhouse Gas Inventories. Prepared by&#13;
+   the National Greenhouse Gas Inventories Programme, Eggleston H.S., Buendia L., Miwa&#13;
+   K., Ngara T., and Tanabe K. (eds). Geneva: IPCC.&#13;
+IPCC Working Group III Contribution to AR5 (2014): Climate Change 2014: Mitigation of&#13;
+   climate change. Chapter 11. Agriculture, Forestry and Other Land Use (AFOLU).&#13;
+   Available at: https://www.ipcc.ch/report/ar5/wg3/ (May, 2014)&#13;
+&#13;
+UNFCC (2009): UNFCCC Resource Guide For Preparing the National Communications of&#13;
+   Non-Annex I Parties: Module 3 National Greenhouse Gas Inventories. Available&#13;
+   athttp://unfccc.int/resource/docs/publications/09_resource_guide3.pdf (May, 2014)&#13;
+&#13;
+World Bank (2011): Carbon-footprinting of ARD projects: Testing the Ex-Ante Carbon&#13;
+  Balance Appraisal Tool (EX-ACT). Washington, DC.&#13;
+World Bank (2012): International Financial Institution Framework for Harmonized&#13;
+  Approach       to    Greenhouse      Gas     Accounting.           Available   at:&#13;
+  http://climatechange.worldbank.org/sites/default/files/IFI_Framework_for_Harmoniz&#13;
+  ed_Approach%20to_Greenhouse_Gas_Accounting.pdf (March, 2014)&#13;
+World Bank (2013): GHG Accounting: Definitions and Key Concepts. Available at:&#13;
+  http://intresources.worldbank.org/INTCC/Resources/VERSION1GhgAccountingGuidan&#13;
+  ceNote.pdf (March, 2014).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                       WBG GHG Accounting Guidance â&#128;&#147; Agriculture&#13;
+&amp;#12;Annexes&#13;
+&#13;
+&#13;
+ANNEX I:    PROJECT ELIGIBILITY AND DECISION-TREE FOR TOOL SELECTION&#13;
+&#13;
+1. Eligibility for GHG Accounting projects in agriculture:&#13;
+&amp;#12;                    Annexes&#13;
+&#13;
+&#13;
+                    Annex II: Checklist for choosing EX-ACT modules&#13;
+&#13;
+                                                                                                                  Project&#13;
+Carbon-balance Impact                                                                 EX-ACT&#13;
+                                                                                                               intervention&#13;
+Main Impact Area                                                                      Module(s) to be filled    YES      NO&#13;
+                    A   Reduced emissions of carbon dioxide&#13;
+                        A1    Reduction in rate of deforestation                      Land use change&#13;
+                        A2    Reduction in forest degradation                         Land degradation&#13;
+                        A3   Adoption of improved cropland management                 Crop production&#13;
+                             Introduction of renewable energy and energy-saving&#13;
+                        A4                                                            Investments&#13;
+                             technologies&#13;
+                    B   Reduced emissions of methane and nitrous oxide&#13;
+                        B1    Improved animal production                              Livestock&#13;
+POSITIVE (SINK)&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                        B2    Improved management of livestock waste                  Livestock&#13;
+                        B3    More efficient management of irrigation water in rice   Crop production&#13;
+                                                                                      Crop production,&#13;
+                        B4    Improved nutrient management&#13;
+                                                                                      Livestock&#13;
+                    C   Carbon sequestration&#13;
+                        C1    Conservation farming practices                          Crop production&#13;
+                        C2    Improved forest management practices                    Land use change&#13;
+                        C3    Afforestation and reforestation                         Land use change&#13;
+                        C4    Adoption of agro-forestry                               Crop production&#13;
+                        C5    Improved grassland management                           Grassland&#13;
+                        C6    Restoration of degraded land                            Land use change&#13;
+                        Increased emissions of methane, nitrous oxide and carbon&#13;
+                    D&#13;
+                        dioxide&#13;
+                        D1    Increased livestock production                          Livestock&#13;
+                        D2    Increased irrigated rice production                     Crop production&#13;
+                        D3    Increased fertilizer use and over-fertilization         Inputs&#13;
+                              Production, transportation, storage and transfer of&#13;
+                        D4                                                            Inputs&#13;
+NEGATIVE (SOURCE)&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                              agricultural chemicals&#13;
+                        D5    Increased electricity consumption                       Investments&#13;
+                        D6    Increased fuel consumption                              Investments&#13;
+                        D7    Installation of irrigation systems                      Investments&#13;
+                        D8    Building of infrastructure                              Investments&#13;
+                    E   Decreased carbon stocks&#13;
+                        E1    Increased deforestation &amp; timber logging                Land use change&#13;
+                              Increased land degradation (forests, croplands,         Land degradation,&#13;
+                        E2&#13;
+                              grassland)                                              Grassland&#13;
+                        E3    Cropland expansion                                      Land use change&#13;
+                        E4    Residue burning, deep tillage, ...                      Crop production&#13;
+&amp;#12;        Annexes&#13;
+&#13;
+&#13;
+        Annex III a: World Bank Agriculture GHG Inventory Reporting Template&#13;
+&#13;
+    Assumptions                                                         Baseline    Gross GHG Emissions&#13;
+    Enter details regarding Land Use Change GHG emissions what&#13;
+    is being included/excluded, why, the duration and estimated&#13;
+    amount.&#13;
+1&#13;
+&#13;
+&#13;
+&#13;
+    Enter details regarding Crop Production GHG emissions what&#13;
+    is being included/excluded, why, the duration and estimated&#13;
+2   amount.&#13;
+&#13;
+&#13;
+&#13;
+    Enter details regarding Grassland and Livestock GHG&#13;
+    emissions, what is being included/excluded, why, the duration&#13;
+    and estimated amount.&#13;
+3&#13;
+&#13;
+&#13;
+&#13;
+    Enter details regarding any Land Degradation GHG emissions&#13;
+    (i.e. Scope 3) what is being included/excluded, why, the&#13;
+4   duration and estimated amount.&#13;
+&#13;
+&#13;
+    If applicable, enter details on any Input and Investments GHG&#13;
+    emissions what is being included/excluded, why, the duration&#13;
+5   and estimated amount.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+        Annex III b: GHG Value Chain Calculations&#13;
+&#13;
+         Total Emissions in t CO2-eq for the&#13;
+         different phases of the Value Chain         Emissions (tCO2/t product)&#13;
+                                                              Without              With&#13;
+         PRODUCTION&#13;
+         PROCESSING&#13;
+         TRANSPORT&#13;
+         USE&#13;
+         WASTE&#13;
+&amp;#12;</ml:original-txt><ml:search-metadata><doc id="20176054">
+        <url>
+            http://documents.worldbank.org/curated/en/2014/05/20176054/agriculture-sector-investment-projects
+        </url>
+        <availablein>English</availablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2014/05/20176054/agriculture-sector-investment-projects</url_friendly_title>
+        <new_url>2014/05/20176054/agriculture-sector-investment-projects</new_url>
+        <disclosure_date>2014-09-05T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2014-09-05T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/09/05/000442464_20140905143609/Rendered/INDEX/903690WP0Box380lture0Guidance0GHG0.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/09/05/000442464_20140905143609/Rendered/PDF/903690WP0Box380lture0Guidance0GHG0.pdf</pdfurl>
+        <datestored>2014-09-05T00:00:00Z</datestored>
+        <docdt>2014-05-01T00:00:00Z</docdt>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            Agriculture sector investment projects
+        </repnme>
+        <abstracts>
+            As part of the World Bank Group (WBG)
+            environment strategy, all WB investment projects must
+            undertake greenhouse gas (GHG) accounting (carbon
+            foot-printing) starting in FY2014. The first sectors
+            included in the rollout phase (FY2014) were energy,
+            transport, and forestry. The scale of global emissions from
+            agriculture and land-use change is increasing as a result of
+            population growth, growing consumption of meat and dairy
+            products, and the rising use of nitrogen fertilizers. This
+            note provides guidance to WB staff for conducting GHG
+            emissions assessment for investment projects in agriculture.
+            Section one gives introduction. Section two clarifies the
+            project types requiring GHG assessment, while section three
+            discusses harmonization issues within the WBG. Section four
+            provides information on resources for GHG accounting.
+            Section five discusses the practical implementation of GHG
+            accounting in WB projects, including the role of the GHG
+            accounting help desk at the agriculture global practice
+            (AGP). Section six concludes with the application of key concepts.
+        </abstracts>
+        <docna>
+            Agriculture sector investment projects
+        </docna>
+        <display_title>Agriculture sector investment projects</display_title>
+        <listing_relative_url>/research/2014/05/20176054/agriculture-sector-investment-projects</listing_relative_url>
+        <topic>Agribusiness Investment Climate m1326087 1058,Agricultural Finance m1326892 1059,Agricultural Policies m1326884 170,Agriculture Technology m1326423 1950,Agriculture Extension m1325967 1009</topic>
+        <docty>Working Paper (Numbered Series)</docty>
+        <subtopic>Climate Change Mitigation and Green House Gases,Climate Change Economics,Carbon Policy and Trading,Environment and Energy Efficiency,Energy and Environment</subtopic>
+        <teratopic>Environment,Energy,Macroeconomics and Economic Growth</teratopic>
+        <count>World</count>
+        <entityids>
+            <entityid>000442464_20140905143609</entityid>
+        </entityids>
+        <admreg>The World Region,The World Region</admreg>
+        <colti>World Bank GHG accounting guidance note ;
+            no. 3</colti>
+        <lang>English</lang>
+        <historic_topic>Environment,Energy,Macroeconomics and Economic Growth</historic_topic>
+        <topicv3>Agribusiness Investment Climate m1326087 1058,Agricultural Finance m1326892 1059,Agricultural Policies m1326884 170,Agriculture Technology m1326423 1950,Agriculture Extension m1325967 1009</topicv3>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            afforestation, agricultural activities,
+            agricultural chemicals, agricultural emissions, Animal
+            Production, atmosphere, biomass, Biomass burning, business
+            as usual scenario, calculation, carbon, carbon accounting,
+            carbon assessment, Carbon balance, carbon credits, carbon
+            dioxide, Carbon Dioxide Equivalent, carbon financing, carbon
+            offset, carbon pool, carbon pools, carbon prices, carbon
+            sequestration, carbon stock, carbon stock changes, carbon
+            stocks, CH4, changes in land use, Clean Development, Clean
+            Development Mechanism, climate, Climate Action, Climate
+            Change, CO2, Conservation, cropland management,
+            deforestation, deforestation rate, degraded land, degraded
+            lands, economic analyses, electricity, electricity
+            consumption, electricity use, emission, Emission Factors,
+            emission reductions, emission sources, emissions, emissions
+            from agriculture, emissions from land use, emissions from
+            livestock, emissions of methane, energy consumption, enteric
+            fermentation, fertilization, financial analysis, forest,
+            forest degradation, forest land, forest land use, forest
+            management, forest protection, forestry, forestry projects,
+            forests, fuel consumption, fuel wood, fuels, gases, GHG,
+            global emissions, Global Environment, Global Environment
+            Facility, global warming, global warming potential, grazing
+            land management, greenhouse, greenhouse gas, greenhouse gas
+            assessment, greenhouse gas balance, Greenhouse Gas
+            Emissions, Greenhouse Gas Inventories, GWP, International
+            Financial Institutions, IPCC, Land degradation, land
+            management, land use, land use change, land-use change,
+            living biomass, manure, methane, mitigation potential, N2O,
+            net emissions, nitrogen, nitrogen fertilizers, nitrous
+            oxide, offset projects, pesticides, portfolio, rate of
+            deforestation, renewable energy, Rice production, scenarios,
+            sequestration potential, sink, soil carbon, Total Emissions,
+            waste, waste disposal, wood fuel, wood products
+        </keywd>
+        <owner>Agriculture - GP (GFADR)</owner>
+        <repnb>90369</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>ICT</ml:concept><ml:concept>ICT for Development</ml:concept><ml:concept>Information Technology</ml:concept><ml:concept>Information and Communication Technologies (ICT)</ml:concept><ml:concept>Water Resources</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Energy</ml:concept><ml:concept>Energy and Mining</ml:concept><ml:concept>Environment</ml:concept><ml:concept>Sustainable Climate Business</ml:concept><ml:concept>Sustainable Energy Finance</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>International Competitiveness</ml:concept><ml:concept>International Economics and Trade</ml:concept><ml:concept>Trade Liberalization</ml:concept><ml:concept>Trade Liberalization and Regional Integration</ml:concept><ml:concept>Trade Restrictiveness</ml:concept><ml:concept>Trade and Integration</ml:concept><ml:concept>Information and Communication Technologies</ml:concept><ml:concept>Water</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Agriculture and Food Security</ml:concept><ml:concept>Energy and Extractives</ml:concept><ml:concept>Environment and Natural Resources</ml:concept><ml:concept>Climate Change</ml:concept><ml:concept>Health, Nutrition and Population</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Trade</ml:concept><ml:concept>Sustainable Land and Crop Management</ml:concept><ml:concept>Irrigated Agriculture</ml:concept><ml:concept>Crop Management</ml:concept><ml:concept>Crop Production</ml:concept><ml:concept>Crops</ml:concept><ml:concept>Livestock</ml:concept><ml:concept>Livestock and Animal Husbandry</ml:concept><ml:concept>Agricultural Extension</ml:concept><ml:concept>Agricultural Research and Extension</ml:concept><ml:concept>Agriculture Information Systems</ml:concept><ml:concept>Agriculture and ICT</ml:concept><ml:concept>agro forestry</ml:concept><ml:concept>agroforestry</ml:concept><ml:concept>Forest and Forestry</ml:concept><ml:concept>Energy Conservation &amp; Efficiency</ml:concept><ml:concept>Energy Conservation and Efficiency</ml:concept><ml:concept>Climate Change Mitigation and Green House Gases</ml:concept><ml:concept>Degraded Lands</ml:concept><ml:concept>Desertification</ml:concept><ml:concept>Dry Lands</ml:concept><ml:concept>Drylands &amp; Desertification</ml:concept><ml:concept>Demographics</ml:concept><ml:concept>Governance and Public Accountability (GPA)</ml:concept><ml:concept>Incentives for Good Government</ml:concept><ml:concept>National Governance</ml:concept><ml:concept>Fuels</ml:concept><ml:concept>Consumption</ml:concept><ml:concept>Sustainable Land Management</ml:concept><ml:concept>Land Management</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Agriculture</ml:concept><ml:concept>Boundaries</ml:concept><ml:concept>Irrigation and Drainage</ml:concept><ml:concept>Fertilizers</ml:concept><ml:concept>Animal Production</ml:concept><ml:concept>Forests</ml:concept><ml:concept>Methane</ml:concept><ml:concept>ICT and Agriculture</ml:concept><ml:concept>Agro-forestry</ml:concept><ml:concept>Investment Funds</ml:concept><ml:concept>Forestry</ml:concept><ml:concept>Energy Efficiency</ml:concept><ml:concept>Greenhouse Gas Accounting</ml:concept><ml:concept>Drylands</ml:concept><ml:concept>Population</ml:concept><ml:concept>Governance</ml:concept></ml:concepts><ml:geo-regions/></ml:annotations></ml:doc-envelope>

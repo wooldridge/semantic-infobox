@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>                                                                                    101709&#13;
+&#13;
+         Decentralization in Ethiopia â&#128;&#147; Who benefits?*&#13;
+                          Ritam Chaurey and Megha Mukim1&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                           Abstract&#13;
+&#13;
+      In this paper, show that greater autonomy to cities in Ethiopia through a&#13;
+      process of city proclamations, led to better economic outcomes at the city&#13;
+      level, lowering regional spatial inequalities. In addition, the newly-&#13;
+      empowered cities did not seem to misuse their new powers by favouring&#13;
+      particular firms over others. We investigate the effect of a nation-wide&#13;
+      introduction of VAT in Ethiopia â&#128;&#147; and show that the intended recipients of&#13;
+      the reform, i.e. importing firms performed better (in terms of employment and&#13;
+      sales) only after the VAT introduction in decentralized cities with greater&#13;
+      autonomy than in non-decentralized cities. This is suggestive evidence that&#13;
+      increasing administrative powers (or the mayorâ&#128;&#153;s wedge) played an important&#13;
+      role in making Ethiopian cities more competitive, and allowed mayorâ&#128;&#153;s to&#13;
+      transmit more efficiently the effect of national-level reforms.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Keywords: Competitiveness, Decentralization, Spatial Equality, Imports, Ethiopia&#13;
+JEL Classification: G21, H81, L11, R11, R51&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+*&#13;
+  The authors are grateful to several WBG staff who contributed generously their time to this paper,&#13;
+   providing feedback, comments and suggestions â&#128;&#147; Bob Rijkers, Jacob Goldston and Alexei&#13;
+   Abrahams. Karan Singh provided constructive comments and timely analysis. The CCKB team&#13;
+   also provided useful comments and much needed moral support. And finally, we are extremely&#13;
+   grateful to Eyasu Tsehaye for providing us access to data, Onur Ozlu and Abebaw Alemayehu&#13;
+   for answering our many, many questions with infinite patience.&#13;
+1&#13;
+  Ritam Chaurey is an STC (Economist) with the Competitive Cities Knowledge Base (CCKB)&#13;
+   project. Megha Mukim is an Economist with the urban development department and TTL of the&#13;
+   CCKB Project. CCKB is a joint-collaboration between the Trade &amp; Competitiveness GP and the&#13;
+   Social, Urban, Rural and Resilience GP.&#13;
+&amp;#12;Introduction&#13;
+The governmentâ&#128;&#153;s ability to raise taxes from firms and households to finance public goods&#13;
+is a major obstacle in developing countries (Besley and Persson 2013). As workers and&#13;
+firms continue to move to urban areas, the ability of city governments to raise and&#13;
+administer taxes on firms has become an important channel of growth. In the last few years,&#13;
+researchers have focused more on local and regional policies that lead to growth within a&#13;
+country as opposed to explaining cross-country differences in GDP (Moretti, 2014).&#13;
+Despite the increased focus on local policies, there have been few studies on the impact of&#13;
+city governmentsâ&#128;&#153; administrative powers on firm behavior, and the gap in research is far&#13;
+larger in the case of emerging countries.&#13;
+In this paper, we attempt to fill this gap. First we investigate if the process of&#13;
+decentralization led to worsening of spatial inequalities across cities in different regions in&#13;
+Ethiopia, and if there was any evidence of misuse of the new administrative powers in&#13;
+terms of favouring particular companies over others. We find that decentralization leads to&#13;
+convergence across city-level economic outcomes, suggesting that worse-performing cities&#13;
+started to catch-up with their better-performing counterparts after decentralization.&#13;
+To illustrate our point, we use two policy changes in Ethiopia, firstly, a nationwide&#13;
+introduction of the VAT (value added tax) and secondly the phase-wide roll out of city&#13;
+proclamations across different regions. We test whether economic outcomes for importers&#13;
+improve after the introduction of the VAT introduction, especially in cities that had&#13;
+additional powers post-decentralization. Using a firm-level panel data set from Ethiopia&#13;
+between 2000 and 2011, we find that importers perform better than non-importers after the&#13;
+introduction of the VAT in decentralized cities. This provides evidence that cities with&#13;
+greater administrative powers are better able to pass through national-level reforms to the&#13;
+benefit of their business community.&#13;
+This paper is related the literature on place-based policies, where different sub-national&#13;
+regions provide differential benefits for firms. See for example, Chaurey (2014), Criscuolo,&#13;
+Martin, Overman, and van Reenen (2012), Ham, Swenson, Imrohoroglu, and Song (2011).&#13;
+Regional policies in the context of African countries have hitherto been understudied and&#13;
+this paper also adds to the relatively recent literature focusing on firm-level data from&#13;
+African countries â&#128;&#147; Shiferaw et.al (2013), Frazer (2005), Rijkers et al (2014). The results&#13;
+of this paper are informative to the empirical literature focusing on the effects of&#13;
+decentralization on local economic growth - see Hammond and Tosun (2011), Stansel&#13;
+(2005) - most of which has focused on regional states in the US. To our knowledge, this is&#13;
+the first paper to look at the combined impact of a tax and decentralization policy change.&#13;
+Moreover, by focusing on Ethiopia, the paper provides evidence on a developing country&#13;
+setting.&#13;
+Furthermore, this paper provides supporting evidence about the role of importing firms&#13;
+(defined as firms using imported inputs) in response to policy changes (see Goldberg, et.al&#13;
+(2010) and Khandelwal and Topalova (2011). In this paper, we provide evidence for the&#13;
+role of importers following a VAT introduction in Ethiopia.&#13;
+&amp;#12;Background2&#13;
+Ethiopia had a tradition of centralist authoritarian government until 1991. Municipal&#13;
+structures were established in some cities, but the mayors were centrally appointed and&#13;
+municipalities were treated as branches of central government. When the current&#13;
+government came to power in 1991, it proclaimed a decentralized form of government and&#13;
+developed a constitution that established a Federal Democratic Republic, consisting of nine&#13;
+Regional States, the federal capital city Addis Ababa, and the special administrative region&#13;
+of Dire Dawa. The government structure has four tiersâ&#128;&#148;federal, regional, woreda (or&#13;
+city/municipal) and kebele (neighborhood). The nine regional states have their own&#13;
+constitutions. The country has introduced a dramatic change in terms of its traditions of&#13;
+governance. This legal framework has enabled more participation of the regional states in&#13;
+matters that concern them.&#13;
+&#13;
+Each region has developed specific â&#128;&#156;City Proclamationsâ&#128;&#157; that specify the powers, duties&#13;
+and responsibilities of the cities.&#13;
+&#13;
+Table 1: Legal and Institutional Framework for Cities&#13;
+&#13;
+       Addis Ababa City Government was originally established by the Addis Ababa City&#13;
+       Government Charter Proclamation No 87/1997, and the proclamation revised in 2003 by&#13;
+       Proclamation 361/2003.&#13;
+       Dire Dawa City Administration was established by federal Charter Proclamation 416/2004.&#13;
+       Amhara Regional State: Amhara passed its first City Proclamation No. 43 in 2000. The urban&#13;
+       reform process in Amhara Regional State is now guided by the Revised Proclamation for the&#13;
+       establishment, organization and definition of powers and duties of urban centers in the Amhara&#13;
+       Region, No. 91/2003.&#13;
+       Oromia Regional State passed its first City Proclamation as no. 65/2003. The revised City&#13;
+       Proclamation 116/2006 now guides the urban reform process in Oromia Regional State.&#13;
+       Southern Nations Nationalities and Peoples Regional State passed its first City proclamation as&#13;
+       no. 51/2002. The urban reform process in SNNP Regional State is guided by the revised&#13;
+       proclamation 103/2006.&#13;
+       Tigray Regional State: Tigrayâ&#128;&#153;s first regional city proclamation was no. 65/2003. The urban&#13;
+       reform process in Tigray Regional State is guided by the Tigray Regional State revised City&#13;
+       Proclamation 107/2006.&#13;
+       All five remaining National Regional States - Afar, Benshangul/Gumuz, Gambela, Harari and&#13;
+       Somali have, in 2006/07 developed legal and institutional frameworks (City Proclamations) to&#13;
+       establish local urban government authorities. Some of these have subsequently been amended&#13;
+       by (number and years of City Proclamations):&#13;
+       Gambela: 73/2008, Somali 90/2011, Benishangul Gumuz 69/2007.&#13;
+&#13;
+Under the highly centralized Derg regime (1974-1991), Ethiopiaâ&#128;&#153;s municipalities were&#13;
+marginalized and did not function as independent local authorities. Since 2000, national&#13;
+decentralization policies have formed part of a large-scale reform of government resulting&#13;
+2&#13;
+    This section draws heavily from the World Bankâ&#128;&#153;s Ethiopia Local Government Revenue Study (2014).&#13;
+&amp;#12;in creation of institutional and legal frameworks for urban local government authorities.&#13;
+The objective has been to create and strengthen urban local government that will ensure&#13;
+public participation, democratization and enhance decentralized service delivery through&#13;
+institutional reforms, capacity building, systems development, and training.&#13;
+&#13;
+In all regions, the Bureaus of Urban Development and Construction are responsible for&#13;
+urban management and development issues within the regional government. All regions&#13;
+that have enacted legislation creating urban local government (or city) authorities have&#13;
+adopted an urban governance model that follows the elected council, elected mayor,&#13;
+Mayorâ&#128;&#153;s Committee and city manager system.&#13;
+&#13;
+The 2000-2003 City Proclamations were developed region by region (starting with&#13;
+Amhara) in a fairly robust participatory process. There was strong debate around principles&#13;
+â&#128;&#147; elected mayor/non-elected, etc. In the end all regions followed, more or less, the result&#13;
+arrived at in Amhara and Tigray â&#128;&#147; Amhara then revised theirs to included additions other&#13;
+regions introduced. The City Declarations are therefore relatively similar in scope and&#13;
+form. Generally, in principle they provide significant autonomy for cities to set their own&#13;
+standards, policies, plans, budgets, etc. â&#128;&#147; but other parts of the city proclamations also&#13;
+specify that the region will issue guidelines and directives.&#13;
+&#13;
+The basic regional legislation that regulates citiesâ&#128;&#153; powers and responsibilities is found in&#13;
+the respective City Proclamations. However, various subsidiary legislations â&#128;&#147; most&#13;
+importantly the â&#128;&#156;City Tariff Regulationsâ&#128;&#157; - provide more detailed guidance. The City&#13;
+proclamations give only very broad and generally wide-ranging authority to the cities3. For&#13;
+instance in Oromia, cities are bestowed with powers to â&#128;&#156;introduce, adjust and ensure the&#13;
+collection of taxes, service charges according to lawâ&#128;&#157;, in Tigray, Gambella and&#13;
+Benishangul Gumuz the cities are empowered to â&#128;&#156;determine and collect taxesâ&#128;&#157;. However,&#13;
+the practice that regional governments determine local tariff and tax rates has continued&#13;
+regardless and they continue to provide very detailed guidance in the form of City Tariff&#13;
+Regulations. Typically the tariff regulations include a prescriptive rating of the various&#13;
+urban areas within the region according to their size and economy (typically five grades).&#13;
+For each of these grades of urban areas the tariff regulations will subsequently either set a&#13;
+fixed rate or a band for each of the revenue sources.&#13;
+&#13;
+Table 2 below summarizes the extent to which the regional legislation and regulations&#13;
+effectively allows each city to set its own tariff and tax rates. As indicated by the table,&#13;
+there is some variation of the extent to which regions grant cities autonomy â&#128;&#147; but the&#13;
+general rule is that the regions set the tariff and tax rates with limited or no autonomy for&#13;
+cities to adjust rates.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Table 2: Degree of Autonomy for City Management of Revenues&#13;
+&amp;#12; Region                    Degree of autonomy set by City Tariff Regulations&#13;
+&#13;
+ Tigray                    Tariffs and rates are set by region â&#128;&#147; no autonomy&#13;
+ Benishangul-Gumuz&#13;
+ Gambela&#13;
+&#13;
+ Amhara                    Regional council sets the tariff rates but provides a range within which&#13;
+ Somali                    the cities have some limited discretion.&#13;
+ SNNP&#13;
+ Oromia                    Urban Local Governments appear to have full autonomy to select a rate&#13;
+                           appropriate for their circumstances and/or to introduce a new tax base&#13;
+                           other than what is suggested by the regional revenue Bureau. In&#13;
+                           practice, Cities decide within a recommended range established by the&#13;
+                           region.&#13;
+ Harari                    Special case as the City is almost the same as the state (mayor =&#13;
+                           president, council, revenue office â&#128;&#147; although with separate legislation&#13;
+                           for the city, urban bureau and city administration, etc.)&#13;
+&#13;
+Value-Added Tax (VAT) in Ethiopia was introduced nation-wide through the VAT&#13;
+proclamation No. 285/2002, and came into force on 1 January, 2003. The VAT tax rate is&#13;
+15% of the value of every taxable transaction - import and export services are exempt.&#13;
+Since the introduction of the value-added tax in Ethiopia, firms have been differentially&#13;
+impacted depending on the following categories.&#13;
+&#13;
+Proprietorship firm: Pays VAT at the time of import to the federal government.&#13;
+   ï&#130;· If goods are sold in the domestic market, then the balance of VAT is paid at the&#13;
+       urban local government level. However, sometimes a firm might be eligible for a&#13;
+       refund on the VAT paid to the federal level â&#128;&#147; the refund is collected from the ULG.&#13;
+   ï&#130;· If final goods are exported, then the firm receives a full refund from the ULG.&#13;
+Incorporated firm: Pays VAT at the time of import to the federal government.&#13;
+   ï&#130;· If goods are sold in the domestic market, then the balance of VAT is paid at the&#13;
+       regional level. However, sometimes a firm might be eligible for a refund on the&#13;
+       VAT paid to the federal level â&#128;&#147; the refund is collected from the regional&#13;
+       government.&#13;
+   ï&#130;· If final goods are exported, then the firm receives a full refund from the regional&#13;
+       government.&#13;
+&#13;
+Thus, we hypothesize that factors such as (1) ownership (private or company), (2) status&#13;
+(exporter and/or importer) and possibly (3) size, might influence the extent to which VAT&#13;
+affects firm performance. Furthermore, urban local authorities handle the reimbursement&#13;
+and collection of VAT. Therefore, it is plausible that cities with different levels of taxation&#13;
+and governance capacities, differentially affect firm behavior. We use two exogenous&#13;
+policy changes â&#128;&#147; first, the nation-wide VAT reform starting in 2003, and second, the&#13;
+decentralization of powers to the city governments through the phased city proclamations&#13;
+to identify the effect of the VAT reform and decentralization on firm outcomes.&#13;
+&amp;#12;Data&#13;
+&#13;
+&#13;
+We use the Ethiopian Large and Medium Manufacturing and Electricity Industries Survey&#13;
+collected by the Central Statistical Agency (CSA). We use the data for the years 2000-&#13;
+2011. The scope of Large and Medium Manufacturing Industries Survey includes&#13;
+identification particulars, number of persons engaged and wages and salaries paid (in birr),&#13;
+products, sales and services of the establishment (in birr), value of stocks raw material&#13;
+purchase (in birr), cost and quantity of raw materials, parts and containers used (value in&#13;
+birr), fixed assets and investment (in birr), value of exports, and value of imports. The CSA&#13;
+restricted the survey to establishments engaged in manufacturing activities (as defined&#13;
+above) and employing more than 10 full-time employees. The survey covers both public&#13;
+and private industries in all regions of the country.&#13;
+&#13;
+Summary statistics&#13;
+                                Mean            SD&#13;
+ importers&#13;
+ Log(total employment)          3.6284          1.2862&#13;
+ Log(sales)                     14.5263         2.2455&#13;
+ non-importers&#13;
+ Log(total employment)          3.126           1.2011&#13;
+ Log(sales)                     13.7503         1.9738&#13;
+ exporters&#13;
+ Log(total employment)          5.0321          1.3424&#13;
+ Log(sales)                     16.8177         1.669&#13;
+ non-exporters&#13;
+ Log(total employment)          3.3289          1.2371&#13;
+ Log(sales)                     14.0427         2.1102&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Empirical Strategy&#13;
+&#13;
+&#13;
+In this paper, we test for:&#13;
+&amp;#12;1/     Whether the VAT reform implemented across Ethiopia starting 2003 differentially&#13;
+impacted importing and exporting firms compared to firms that do not import and export,&#13;
+and,&#13;
+2/     Furthermore, whether the VAT reform affected firms differentially after the&#13;
+decentralization across regions in Ethiopia.&#13;
+&#13;
+Since the VAT reform was introduced all over Ethiopia in 2003, we first run a difference&#13;
+in differences specification comparing importing firms to non-importing firms, and&#13;
+exporting firms to non-exporting firms. In this analysis, we define an importing firm as a&#13;
+firm that imports greater than 10% of its total raw materials. Similarly we define an&#13;
+exporting firm as a firm that exports more than 10% of the total value of its sales. We use&#13;
+regressions of the form:&#13;
+&#13;
+í µí±&#140;í µí±&#150;í µí±&#145;í µí±¡ = í µí»¼í µí±&#150; + í µí»½1 í µí±&#137;í µí°´í µí±&#135;í µí±¡ + í µí»½2 í µí±¡í µí±¦í µí±&#157;í µí±&#146;í µí±&#150; + í µí»½3 (í µí±&#137;í µí°´í µí±&#135;í µí±¡ Ã&#151; í µí±¡í µí±¦í µí±&#157;í µí±&#146;í µí±&#150; ) + í µí»¿í µí±¡ + í µí¼&#150;í µí±&#150;í µí±&#145;í µí±¡                              (1)&#13;
+&#13;
+where i represents firm, t represents year and d represents a city. í µí±&#140;í µí±&#150;í µí±&#145;í µí±¡ represents outcomes&#13;
+such as log employment and log sales at the firm level, í µí»¼1 represents firm fixed effects and&#13;
+í µí»¿í µí±¡ represents year fixed effects. í µí±&#137;í µí°´í µí±&#135;í µí±¡ represents an indicator variable equaling 1 after 2003&#13;
+(when the VAT policy was introduced) and 0 otherwise. Similarly, í µí±¡í µí±¦í µí±&#157;í µí±&#146;í µí±&#150; represents an&#13;
+indicator for an importing firm if more than 10% of its raw materials are imported, and an&#13;
+indicator for an exporting firm if more than 10% of its output is exported. Then, í µí»½3, the&#13;
+coefficient on the interaction between í µí±&#137;í µí°´í µí±&#135;í µí±¡ and í µí±¡í µí±¦í µí±&#157;í µí±&#146;í µí±&#150; represents the treatment effect of&#13;
+interest. This coefficient gives us the magnitude of the VAT policy on importing&#13;
+(exporting) firms as compared to non-importing (non-exporting) firms before and after the&#13;
+policy change.&#13;
+&#13;
+Furthermore, we hypothesize that the differential effect of VAT is more pronounced in&#13;
+cities after decentralization than before decentralization. We tackle this question in two&#13;
+steps. The decentralization was rolled out in a phased manner across various regions in&#13;
+Ethiopia. Note that in this analysis we use the year in which the revised city proclamations&#13;
+took place (see Table 1). This gives us variation across geography (i.e. cities) and time. We&#13;
+then compare firms of different types (importers and exporters) in cities before and after&#13;
+the decentralization. In essence, we use a triple difference specification (DIDID) and run&#13;
+regressions of the form:&#13;
+&#13;
+í µí±&#140;í µí±&#150;í µí±&#145;í µí±¡ = í µí»¼í µí±&#150; + í µí»½1 (í µí±&#157;í µí±&#156;í µí± í µí±¡í µí±¡ Ã&#151; í µí±¡í µí±&#159;í µí±&#146;í µí±&#142;í µí±¡í µí±&#159; ) + í µí»½2 (í µí±&#157;í µí±&#156;í µí± í µí±¡í µí±¡ Ã&#151; í µí±¡í µí±&#159;í µí±&#146;í µí±&#142;í µí±¡í µí±&#159; Ã&#151; í µí±¡í µí±¦í µí±&#157;í µí±&#146;í µí±&#150; ) + í µí»¾í µí±&#145; + í µí»¿í µí±¡ + í µí¼&#150;í µí±&#150;í µí±&#145;í µí±¡         (2)&#13;
+&#13;
+where the coefficient í µí»½2 on the triple interaction term is the treatment effect of interest,&#13;
+comparing different types of firms before and after the decentralization.&#13;
+&#13;
+One problem that we encounter while dealing with this hypothesis is that both the VAT&#13;
+reform and the initial phase of decentralization is the timing of the two events. The VAT&#13;
+was introduced in 2003 across Ethiopia, and the first phase of city proclamations were&#13;
+modified in 2003 (and hence began in 2004). Hence, the effect of decentralization on&#13;
+importers (exporters) versus non-importers (non-exporters) nests the period of the VAT&#13;
+&amp;#12;policy as well. Hence, we cannot separate the effect of the decentralization completely&#13;
+from the VAT policy.&#13;
+&#13;
+To provide suggestive evidence that the VAT policy was more effective after&#13;
+decentralization took place in cities we run DID specifications similar to (1) but restrict it&#13;
+to the period before decentralization in regions. Note that different regions issued city&#13;
+proclamations in different years ranging from 2004 to 2011. Hence each region and all&#13;
+cities within the region had periods in time before decentralization in which the VAT had&#13;
+already been introduced. If the VAT policy had an effect on different kinds of firms even&#13;
+in the absence of the decentralization, we would not be able to conclude that the&#13;
+decentralization at the city level had any additional impact on firms after the introduction&#13;
+of VAT in 2003. Therefore, we test for the differential effect of the VAT introduction on&#13;
+different kinds of firms before the decentralization.&#13;
+&#13;
+&#13;
+&#13;
+Results&#13;
+In this section, we describe our main results. First, we look at the results from the triple&#13;
+difference specification (DIDID). In Table 3, we look at the effect of the decentralization&#13;
+separately for importers and exporters. In all the regressions we include firm and year fixed&#13;
+effects. Hence, we compare within-firm performance before and after the decentralization&#13;
+that happened at different points in time for importers versus non-importers and for&#13;
+exporters versus non-exporters. Firm fixed effects allow us to control for time invariant&#13;
+firm-level unobservable characteristics such as managerial capacity, relationship with&#13;
+government authorities etc. We also control for year fixed effects and this allows us to&#13;
+control for any macroeconomic shocks affecting Ethiopia. In all the regressions we cluster&#13;
+the standard errors at the city level. In Column 1, we find that importers performed better&#13;
+than non-importers in cities after the decentralization, as compared to before the&#13;
+decentralization. The magnitude of the treatment effect translates to an increase of 11.3%&#13;
+in employment at the firm level. We do not find any statistically significant difference in&#13;
+outcomes for importers as opposed to non-importers in terms of value of sales (Column 2).&#13;
+Next, we look at the effect of the decentralization on exporters versus non-exporters and&#13;
+we do not find any statistically significant difference in outcomes (employment or sales).&#13;
+&#13;
+Since a large part of the decentralization period coincides with the introduction of the VAT&#13;
+in Ethiopia, it is plausible that these differential effects on importers and exporters might&#13;
+be driven by the VAT policy. The VAT was introduced throughout Ethiopia in 2003. To&#13;
+check whether the VAT policy change differentially affected importers (exporters) as&#13;
+compared to non-importers (exporters), we run a difference in difference specification. We&#13;
+compare importers to non-importers, and exporters to non-exporters before and after the&#13;
+introduction of the VAT. These results are shown in Table 4. Column 1 and 2 show that&#13;
+the VAT reform differentially impacted importers as compared to non-importers, both with&#13;
+respect to employment and sales. In Columns 3 and 4, we look at the effect of the VAT&#13;
+policy for exporters and non-exporters, and find no statistically significant difference in&#13;
+outcomes. Hence, taken together, Tables 2 and 3 suggest that there was a differential effect&#13;
+on importers compared to non-importers, and no such effect for exporters.&#13;
+&amp;#12;Table 3: Effects of decentralization for importers and exporters&#13;
+                              (1)                        (3)&#13;
+                              Log(total      (2)         Log(total (4)&#13;
+ VARIABLES                    employment) Log(Sales) employment) Log(Sales)&#13;
+&#13;
+  Post Ã&#151; Treat Ã&#151; Importer       0.113**          -0.00347&#13;
+                                (0.0547)         (0.146)&#13;
+  Post Ã&#151; Treat Ã&#151; Exporter                                     0.0956          0.0151&#13;
+                                                              (0.148)         (0.230)&#13;
+&#13;
+  Constant                      3.279***         13.63***     3.249***        13.47***&#13;
+                                (0.0473)         (0.137)      (0.0357)        (0.0670)&#13;
+&#13;
+  Observations                  13,607           13,620       13,365          13,606&#13;
+  R-squared                     0.924            0.931        0.924           0.931&#13;
+  Firm FE                       Yes              Yes          Yes             Yes&#13;
+  Year FE                       Yes              Yes          Yes             Yes&#13;
+  *** p&lt;0.01, ** p&lt;0.05, * p&lt;0.1.&#13;
+  Standard errors clustered at the city level.&#13;
+&#13;
+&#13;
+Table 4: Effect of VAT (with decentralization)&#13;
+                        (1)           (2)                 (3)         (4)&#13;
+                        Log(total                         Log(total&#13;
+ VARIABLES              employment) Log(Sales)            employment) Log(Sales)&#13;
+&#13;
+  VAT Ã&#151; Importer          0.0545*          0.224**&#13;
+                          (0.0308)         (0.0919)&#13;
+  VAT Ã&#151; Exporter                                          0.0290         -0.0630&#13;
+                                                          (0.128)        (0.0975)&#13;
+  Constant                3.274***         13.58***       3.248***       13.47***&#13;
+                          (0.0409)         (0.0965)       (0.0324)       (0.0661)&#13;
+&#13;
+  Observations            13,607           13,620         13,365         13,606&#13;
+  R-squared               0.924            0.931          0.924          0.931&#13;
+  Firm FE                 Yes              Yes            Yes            Yes&#13;
+  Year FE                 Yes              Yes            Yes            Yes&#13;
+&#13;
+We hypothesize that the effect of the VAT was more pronounced for importing firms in&#13;
+cities that had more powers post-decentralization as opposed to those in cities where&#13;
+decentralization had not taken place. To answer this we need to test whether the differential&#13;
+effect of VAT on importing firm increases or decreases, if we look only at cities and time&#13;
+periods when the decentralization did not take place. Hence, we are essentially analyzing&#13;
+&amp;#12;the effects of the VAT policy change on firms before the decentralization took place in&#13;
+cities. If the VAT policy were driving the results, we would expect to see similar results&#13;
+on the coefficient of the interaction terms VAT Ã&#151; Importer and VAT Ã&#151; Exporter as in Table&#13;
+4. In Table 5, Columns 1 through 4, we do not find any statistically significant differences&#13;
+in the outcomes of importing or exporting firms before and after the VAT policy.&#13;
+&#13;
+&#13;
+Table 5: Effect of VAT (without decentralization)&#13;
+                      (1)                        (3)&#13;
+                      Log(total     (2)          Log(total           (4)&#13;
+  VARIABLES           employment) Log(Sales) employment)             Log(Sales)&#13;
+ VAT Ã&#151; Importer       0.000116      0.0966&#13;
+                      (0.0435)      (0.0666)&#13;
+ VAT Ã&#151; Exporter                                  0.0277              0.0895&#13;
+                                                 (0.151)             (0.129)&#13;
+ Constant             3.389***      13.69***     3.364***            13.64***&#13;
+                      (0.0364)      (0.0511)     (0.0352)            (0.0422)&#13;
+&#13;
+  Observations          4,095            4,076       4,086           4,120&#13;
+  R-squared             0.941            0.953       0.940           0.953&#13;
+  Firm FE               Yes              Yes         Yes             Yes&#13;
+  Year FE               Yes              Yes         Yes             Yes&#13;
+  *** p&lt;0.01, ** p&lt;0.05, * p&lt;0.1.&#13;
+  Standard errors clustered at the city level.&#13;
+&#13;
+Hence, the results of Tables 3, 4 and 5 taken together seems to provide suggestive evidence&#13;
+that the VAT policy led to differential outcomes on importing firms as compared to non-&#13;
+importing firms. Furthermore, these results were more pronounced in decentralized cities&#13;
+than in cities that had not gained more powers (not decentralized). These results seem to&#13;
+suggest that city-level powers are important determinants of how firms respond to tax&#13;
+incentives.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Evidence of improvement in spatial equality&#13;
+We also provide additional evidence that an increase in city-level powers leads to better&#13;
+outcomes for worse-performing cities â&#128;&#147; in other words, leading to better spatial equity&#13;
+across Ethiopia.&#13;
+&#13;
+Two separate issues are analyzed:&#13;
+  1. Whether the city proclamations (decentralization) led to convergence in outcomes&#13;
+      of cities within regions, and&#13;
+  2. Whether the proclamations led to convergence in firm level outcomes within cities.&#13;
+&amp;#12;If cities are provided with additional powers, convergence (or better spatial equity) would&#13;
+suggest that initially worse-performing cities out-perform initially better-performing cities&#13;
+â&#128;&#147; in effect, catching up with their better-performing counterparts. Divergence would&#13;
+indicate the opposite leading to worsening spatial inequality within the region post-&#13;
+decentralization.&#13;
+&#13;
+Since different regions introduced the city proclamations in different years, we test the first&#13;
+hypothesis, using a difference-in-differences approach. We compare the difference in the&#13;
+standard deviation of outcomes (employment, sales, value of production, and number of&#13;
+firms) across cities (within a region) in decentralized regions as compared to non-&#13;
+decentralized regions, before and after decentralization (city proclamation). Table 6&#13;
+illustrates these results.&#13;
+&#13;
+Table 6: Better spatial equity in city-level outcomes (post-decentralization)&#13;
+                         (1)             (2)             (3)              (4)&#13;
+                                                         Standard         Standard&#13;
+                         Standard        Standard        Deviation        Deviation&#13;
+                         Deviation       Deviation       Of               Of&#13;
+                         Of              Of              Value of         Number of&#13;
+ VARIABLES               Employment Value of sales production             firms&#13;
+&#13;
+  Post Ã&#151; Treat             -1,497***       -2.388e+08**      -2.253e+08**       -9,996**&#13;
+                           (537.6)         (9.328e+07)       (9.768e+07)        (4,244)&#13;
+  Constant                 -298,149***     -1.606e+11***     -1.557e+11***      -2.455e+06***&#13;
+                           (96,811)        (2.608e+10)       (2.936e+10)        (700,595)&#13;
+&#13;
+  Observations           122               122               122                122&#13;
+  R-squared              0.900             0.894             0.884              0.882&#13;
+  Region FE              Yes               Yes               Yes                Yes&#13;
+  Year FE                Yes               Yes               Yes                Yes&#13;
+  Region-time trend      Yes               Yes               Yes                Yes&#13;
+  *** p&lt;0.01, ** p&lt;0.05, * p&lt;0.1.&#13;
+  Robust standard errors in parenthesis&#13;
+&#13;
+We find that within regions, variance across cities has gone down post-decentralization as&#13;
+compared to before decentralization in decentralized regions relative to non-decentralized&#13;
+regions. This is suggestive evidence for convergence of city level outcomes post-&#13;
+decentralization. This seems to imply that on average, cities have used their powers post-&#13;
+decentralization to improve economic outcomes and that initially worse-off cities are&#13;
+catching up with initially better-performing cities.&#13;
+&#13;
+This leads us to our second hypothesis â&#128;&#147; whether greater powers for cities after the&#13;
+decentralization has meant abuse of powers by the city governments â&#128;&#147; in terms of favoring&#13;
+some firms over others. If this were the case we would expect to find divergence in&#13;
+outcomes at the firm level within cities. If cities had used their powers appropriately, we&#13;
+&amp;#12;would expect to find convergence in the outcomes across firms within a city. We test this&#13;
+hypothesis using a similar strategy as above. Table 7 illustrates these results.&#13;
+&#13;
+Table 7: No change in equity of firm-level outcomes (post-decentralization)&#13;
+                         (1)                   (2)&#13;
+                         Standard              Standard&#13;
+                         Deviation             Deviation&#13;
+                         Of                    Of&#13;
+ VARIABLES               Employment            Value of Production&#13;
+&#13;
+  Post Ã&#151; Treat              1.125                 5.292e+06&#13;
+                            (22.93)               (7.662e+06)&#13;
+  Constant                  217.4***              1.964e+07***&#13;
+                            (18.41)               (5.661e+06)&#13;
+&#13;
+  Observations             588                    584&#13;
+  R-squared                0.806                  0.687&#13;
+  Year                     Yes                    Yes&#13;
+  City FE                  Yes                    Yes&#13;
+  *** p&lt;0.01, ** p&lt;0.05, * p&lt;0.1.&#13;
+  Robust standard errors in parenthesis&#13;
+&#13;
+&#13;
+The results in Table 2 above show that there is no statistically significant difference&#13;
+between the variance of outcomes across firms within cities before and after&#13;
+decentralization. This implies that the city proclamations did not lead to cities using their&#13;
+powers to favor certain firms over others.&#13;
+&#13;
+The two sets of results from Tables 6 and 7 taken together provide additional evidence that&#13;
+the process of decentralization in Ethiopia led to better city level outcomes and did not&#13;
+results in improper abuse of powers by city governments in terms of favoring some firms&#13;
+over others.&#13;
+&#13;
+Conclusion&#13;
+With the growth in urbanization over the last few decades, cities and city governments have&#13;
+assumed a unique role in economic development. As countries around the world transform&#13;
+structurally from an agrarian economy to a manufacturing or service-led economy, cities,&#13;
+especially in developing countries, become a focal point of growth. In this paper, we&#13;
+hypothesize that greater autonomy to cities in Ethiopia through a process of city&#13;
+proclamations, led to better economic outcomes at the city level. Initially worse-performing&#13;
+cities caught up with the better-performing counterparts in their region after&#13;
+decentralization, leading to lower spatial inequality. This was not accompanied by&#13;
+divergence in firm-level outcomes within the city, suggesting that the new powers were&#13;
+not misused to favour particular firms. Indeed, national-level reforms were better&#13;
+transmitted to the intended recipients post-decentralization. Following a nation-wide&#13;
+introduction of VAT in Ethiopia, importing firms performed better (in terms of&#13;
+&amp;#12;employment and sales) than non-importing firms. Importantly, importing firms performed&#13;
+better after the VAT introduction in decentralized cities with greater autonomy than in non-&#13;
+decentralized cities. This suggests that city governments (or the mayorâ&#128;&#153;s wedge) can play&#13;
+a large role in making their cities more competitive through helping the growth of both&#13;
+incumbent and new firms. The precise channels through which city governments can&#13;
+influence firm growth are an exciting avenue for future research.&#13;
+&amp;#12;References&#13;
+Besley, T., and T. Persson (2013): â&#128;&#156;Taxation and Development," in Handbook of Public&#13;
+   Economics,vol. 5, ed. by A. Auerbach, R. Chetty, M. Feldstein, and E. Saez. Elsevier.&#13;
+Chaurey, R. (2014): â&#128;&#156;Location-Based Tax Incentives: Evidence from India.â&#128;&#157; Working&#13;
+   Paper&#13;
+Criscuolo, C., R. Martin, H. Overman, and J. van Reenen (2012): â&#128;&#156;The Causal Effects of&#13;
+    an Industrial Policy," NBER Working Paper 17842&#13;
+Frazer, G. (2005): â&#128;&#156;Which Firms Die? A Look at Exit from Manufacturing in Ghana,â&#128;&#157;&#13;
+   Economic Development and Cultural Change, 53(3), p. 585-617&#13;
+Pinelopi Goldberg &amp; Amit Khandelwal &amp; Nina Pavcnik &amp; Petia Topalova, 2010.&#13;
+   â&#128;&#156;Imported Intermediate Inputs and Domestic Product Growth: Evidence from Indiaâ&#128;&#157;,&#13;
+   The Quarterly Journal of Economics, MIT Press, vol. 125(4), pages 1727-1767&#13;
+&#13;
+Ham, J., C. Swenson, A. Imrohoroglu, and H. Song (2011): â&#128;&#156;Government Programs Can&#13;
+  Improve Local Labor Markets: Evidence from State Enterprise Zones, Federal&#13;
+  Empowerment Zones and Federal Enterprise Communities," Journal of Public&#13;
+  Economics, 95, 779{797}&#13;
+Hammond, George W. and Mehmet Tosun (2011), â&#128;&#156;Heterogeneity in the Impact of Local&#13;
+  Decentralization on Economic Growth: Evidence from U.S. Counties,â&#128;&#157; Journal of&#13;
+  Regional Science.51,1, , 47-64&#13;
+Khandelwal Amit and Topalova P (2011): â&#128;&#156;Trade Liberalization and Firm Productivity:&#13;
+   The Case of India,â&#128;&#157; Review of Economics and Statistics, 93(3), 995-1009,&#13;
+Pomeranz, Dina. "No Taxation without Information: Deterrence and Self-Enforcement in&#13;
+   the Value Added Tax." Harvard Business School Working Paper, No. 13-057,&#13;
+   December 2012. (Revised April 2013.)&#13;
+Rijkers, Bob &amp; Freund, Caroline &amp; Nucifora, Antonio, 2014: â&#128;&#156;All in the family : state&#13;
+    capture in Tunisiaâ&#128;&#157; Research Working Paper Series 6810, The World Bank.&#13;
+&#13;
+Slemrod, Joel, â&#128;&#156;Does It Matter Who Writes the Check to the Government? The Economics&#13;
+   of Tax Remittance," National Tax Journal, 2008,61(2), 251{75}&#13;
+Shiferaw A &amp; MÃ¥ns SÃ¶derbom &amp; Eyersusalem Siba &amp; Getnet Alemu, 2013. "Road&#13;
+   Infrastructure and Enterprise Dynamics in Ethiopia," Working Papers 129&#13;
+Stansel, Dean. 2005. â&#128;&#156;Local decentralization and local economic growth: A cross-sectional&#13;
+   examination of US metropolitan areas,â&#128;&#157; Journal of Urban Economics, 57, 55-72.&#13;
+&amp;#12;</ml:original-txt><ml:search-metadata><doc id="25658151">
+        <url>
+            http://documents.worldbank.org/curated/en/2015/12/25658151/decentralization-ethiopia-benefits
+        </url>
+        <availablein>English</availablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2015/12/25658151/decentralization-ethiopia-benefits</url_friendly_title>
+        <new_url>2015/12/25658151/decentralization-ethiopia-benefits</new_url>
+        <disclosure_date>2015-12-09T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2015-12-09T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <docm_id>090224b083c3f8b2</docm_id>
+        <chronical_docm_id>090224b083c3f8b2</chronical_docm_id>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2015/12/09/090224b083c3f8b2/1_0/Rendered/INDEX/Decentralizati0opia000Who0benefits0.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2015/12/09/090224b083c3f8b2/1_0/Rendered/PDF/Decentralizati0opia000Who0benefits0.pdf</pdfurl>
+        <datestored>2015-12-09T00:00:00Z</datestored>
+        <docdt>2015-12-01T09:51:05Z</docdt>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            Decentralization in Ethiopia – Who benefits?
+        </repnme>
+        <docna>
+            Decentralization in Ethiopia – Who benefits?
+        </docna>
+        <display_title>Decentralization in Ethiopia –
+            Who benefits?</display_title>
+        <listing_relative_url>/research/2015/12/25658151/decentralization-ethiopia-benefits</listing_relative_url>
+        <subtopic>Subnational Economic Development,Debt Markets,Regional Economic Development,City Development Strategies,Economic Theory &amp; Research</subtopic>
+        <docty>Working Paper</docty>
+        <teratopic>Finance and Financial Sector Development,Macroeconomics and Economic Growth,Urban Development</teratopic>
+        <count>Ethiopia</count>
+        <authors>
+            <author>Chaurey,Ritam</author>
+            <author>Mukim,Megha</author>
+        </authors>
+        <geo_region_mdks>
+            <geo_region_mdk>World!$!517191</geo_region_mdk>
+            <geo_region_mdk>Middle East and North Africa!$!119229</geo_region_mdk>
+            <geo_region_mdk>Sub-Saharan Africa!$!Sub-Saharan Africa</geo_region_mdk>
+        </geo_region_mdks>
+        <entityids>
+            <entityid>090224b083c3f8b2_1_0</entityid>
+        </entityids>
+        <admreg>Africa,Africa</admreg>
+        <lang>English</lang>
+        <historic_topic>Finance and Financial Sector Development,Macroeconomics and Economic Growth,Urban Development</historic_topic>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            tax incentives, tariffs, sub-national,
+            equity, transaction, value added, city administration, tax
+            rate, urbanization, wages, economic outcomes, city, public
+            economics, business community, administrative region,
+            regional council, future, interest, value, competitiveness,
+            regional level, budgets, spatial inequality, remittance,
+            local governments, spatial equity, city manager, central
+            government, domestic market, developing countries, exports,
+            urban governance, urban areas, exporters, revenues,
+            government revenue, mayors, incentives, firm performance,
+            tax rates, capacity building, variables, city management,
+            regional policies, market, tax, inputs, cities, trade
+            liberalization, regional governments, urban development,
+            exporter, city governments, revenue sources, proprietorship,
+            developing country, municipalities, governance, region,
+            taxation, economic development, macroeconomic shocks, trade,
+            legal frameworks, gdp, goods, influence, fixed assets,
+            regions, stocks, investment, regional revenue, tariff,
+            spatial inequalities, metropolitan areas, decentralization,
+            urban management, revenue, regional government, check,
+            service charges, regional city, markets, mayor, local
+            government, community, tax base, sub-national regions,
+            regional science, urban economics, labor markets, outcomes,
+            agrarian economy, total employment, service delivery, policy
+            changes, legal framework, finance, infrastructure, taxes,
+            future research
+        </keywd>
+        <owner>LCREC - External Communications (LCREC)</owner>
+        <geo_regions>
+            <geo_region>World</geo_region>
+            <geo_region>Middle East and North Africa</geo_region>
+            <geo_region>Sub-Saharan Africa</geo_region>
+        </geo_regions>
+        <repnb>101709</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Economic Management</ml:concept><ml:concept>Macroeconomic Management</ml:concept><ml:concept>Macroeconomic Policy</ml:concept><ml:concept>Macroeconomics Policy</ml:concept><ml:concept>Macroeconomics and Economic Growth</ml:concept><ml:concept>Macroeconomics and Growth</ml:concept><ml:concept>Teaching and Learning</ml:concept><ml:concept>Poverty Reduction</ml:concept><ml:concept>Poverty Reduction and Distributional Analysis</ml:concept><ml:concept>Poverty Reduction and Equity</ml:concept><ml:concept>Poverty and Inequality</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Social Protections and Labor</ml:concept><ml:concept>International Competitiveness</ml:concept><ml:concept>International Economics and Trade</ml:concept><ml:concept>Trade Liberalization</ml:concept><ml:concept>Trade Liberalization and Regional Integration</ml:concept><ml:concept>Trade Restrictiveness</ml:concept><ml:concept>Trade and Integration</ml:concept><ml:concept>City Development Strategies</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Macroeconomic and Structural Policies</ml:concept><ml:concept>Education</ml:concept><ml:concept>Economic Growth</ml:concept><ml:concept>Poverty</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Social Protection and Labor</ml:concept><ml:concept>Trade</ml:concept><ml:concept>Urban Development</ml:concept><ml:concept>Urban Economics</ml:concept><ml:concept>Legislation and Regulation</ml:concept><ml:concept>Shocks</ml:concept><ml:concept>Decentralization</ml:concept><ml:concept>Deconcentration</ml:concept><ml:concept>Delegation</ml:concept><ml:concept>Devolution</ml:concept><ml:concept>Sub-National Administration</ml:concept><ml:concept>Subnational Government and Decentralization</ml:concept><ml:concept>Analysis &amp; Monitoring</ml:concept><ml:concept>Delivery Units</ml:concept><ml:concept>Grievance Redress</ml:concept><ml:concept>Indicators</ml:concept><ml:concept>M&amp;E</ml:concept><ml:concept>Performance Measurement</ml:concept><ml:concept>Performance Reviews</ml:concept><ml:concept>Rapid Results Approaches</ml:concept><ml:concept>Remittances</ml:concept><ml:concept>Temporary Migration</ml:concept><ml:concept>Regional Economic Development</ml:concept><ml:concept>Regional Urban Development</ml:concept><ml:concept>Subnational Economic Development</ml:concept><ml:concept>City Management</ml:concept><ml:concept>Governance and Finance</ml:concept><ml:concept>Municipal Management and Reform</ml:concept><ml:concept>Municipal Management for Cities</ml:concept><ml:concept>Urban Governance and Management</ml:concept><ml:concept>Urban Systems and Governance</ml:concept><ml:concept>Governance and Public Accountability (GPA)</ml:concept><ml:concept>Incentives for Good Government</ml:concept><ml:concept>National Governance</ml:concept><ml:concept>Contract Management</ml:concept><ml:concept>Governance Institutions</ml:concept><ml:concept>Institutional Arrangements in Public Procurement</ml:concept><ml:concept>Institutional Capacity</ml:concept><ml:concept>Institutional Reform</ml:concept><ml:concept>Legal Regulatory Framework</ml:concept><ml:concept>State-Society Relations</ml:concept><ml:concept>Wage Setting</ml:concept><ml:concept>Wages, Compensation and Benefits</ml:concept><ml:concept>Urban Economic Development</ml:concept><ml:concept>Economic Development</ml:concept><ml:concept>Legislation</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Taxation</ml:concept><ml:concept>Shocks and Vulnerability</ml:concept><ml:concept>Spatial Inequality</ml:concept><ml:concept>Examinations</ml:concept><ml:concept>Local Government</ml:concept><ml:concept>Infrastructure</ml:concept><ml:concept>Municipality</ml:concept><ml:concept>Competitive Cities</ml:concept><ml:concept>Administrative Decentralization</ml:concept><ml:concept>Monitoring and Evaluation</ml:concept><ml:concept>Temporary Movement of Labor</ml:concept><ml:concept>Local and Regional Economic Development</ml:concept><ml:concept>Urban Governance and City Systems</ml:concept><ml:concept>Governance</ml:concept><ml:concept>Wages</ml:concept><ml:concept>Tax Incentives</ml:concept></ml:concepts><ml:geo-regions><ml:geo-region>Africa</ml:geo-region><ml:geo-region>Ethiopia</ml:geo-region></ml:geo-regions></ml:annotations></ml:doc-envelope>

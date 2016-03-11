@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>Note No. 181                                                                                             April 1999&#13;
+&#13;
+              The 1996­97 Gas Price Review&#13;
+              in Argentina&#13;
+&#13;
+Andres Gomez-   Argentina's natural gas industry was privatized at  The regulatory framework&#13;
+Lobo and        the end of 1992. Prior to divestiture, the state-&#13;
+Vivien Foster   owned monopoly Gas del Estado was divided           The tariff paid by final gas consumers in Ar-&#13;
+                into two transport and eight distribution compa-    gentina is composed of three parts:&#13;
+                nies, all of which were sold through international&#13;
+                bidding.                                               Final price = gas wellhead purchase price&#13;
+                                                                                   + transport margin&#13;
+                An independent government body, Ente Naal                          + distribution margin&#13;
+                Regulador de Gas (Enargas), was established&#13;
+                to regulate the transport and distribution seg-     Gas wellhead purchase prices are not regu-&#13;
+                ments of the industry. As part of its mandate,      lated, but are determined by the contracts&#13;
+                Enargas is in charge of price reviews. These        negotiated between gas suppliers and pro-&#13;
+                reviews, which occur every five years, deter-       ducers. Purchase costs are passed through to&#13;
+                mine the allowed tariffs for each transport and     final consumers, subject to Enargas's approval&#13;
+                distribution company. The first such review         of the prices as reasonable. There is, however,&#13;
+                took place in 1996­97, and the new tariffs          no formal mechanism to promote efficient&#13;
+                went into effect in January 1998. This Note ex-     purchases.&#13;
+                amines the methodology and outcome of this&#13;
+                experience.                                         Price margins for transport and distribution are&#13;
+                                                                    set by Enargas for five-year periods. The price&#13;
+                The Enargas price review is of interest for sev-    control system is similar to the price cap regu-&#13;
+                eral reasons. First, it is the first of its kind in lation used in the United Kingdom. But unlike&#13;
+                Argentina, and one of the first in a developing     U.K. firms, Argentine firms do not have flexibil-&#13;
+                country. The outcome of the process provides        ity in setting individual prices subject to an&#13;
+                a test of the regulatory framework adopted by       aggregate revenue or tariff basket constraint.&#13;
+                the Argentine government, and may influence         Enargas sets the maximum tariff for all individ-&#13;
+                regulatory reform in other parts of the world.      ual services and customer categories. These tar-&#13;
+                Second, as the first such event, the 1996­97        iffs must be sufficient to:&#13;
+                review set a precedent for methodologies and         Cover operating costs, taxes, and depreciation.&#13;
+                approaches to be used in future utility price        Provide a reasonable rate of return on invested&#13;
+                reviews in Argentina. Finally, the approach            capital.&#13;
+                used to calculate the cost of capital--as well as    Guarantee a secure supply by providing&#13;
+                the other parameters used to set prices--              resources to fund system maintenance and&#13;
+                provide an interesting illustration of how theo-       expansion.&#13;
+                retical and practical methods from regulatory&#13;
+                practice in industrial countries can be adapted     Tariffs are automatically adjusted every six&#13;
+                to developing countries, where data availability    months according to:&#13;
+                and other restrictions prevent a direct transfer&#13;
+                of techniques.                                      (1)             g = PPI ­ X + K,&#13;
+&#13;
+&#13;
+                The World Bank Group  Finance, Private Sector, and Infrastructure Network&#13;
+&amp;#12;&#13;
+2    The 1996­97 Gas Price Review in Argentina&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+     where g is the percentage change of the tariff,      each tariff, and different types of outputs. Another&#13;
+     PPI is the producer price index in the United        simplification in the above formula is the omis-&#13;
+     States,1 X is the efficiency factor, and K is the    sion of taxes. Cash flows should be net of taxes,&#13;
+     investment factor, both of which may differ          since it is the posttax income that is relevant for&#13;
+     across firms. The last two parameters may also       the valuation of companies.&#13;
+     differ for each six-month semester of the five-&#13;
+     year period.                                         To give investors a fair rate of return on their&#13;
+                                                          invested capital, the regulator should set g in&#13;
+     The efficiency factor (X ) reflects the cost reduc-  equation 1 (and therefore tariffs Tt) in such a way&#13;
+     tions that the regulator estimates can be achieved   that the NPV is equal to the capital invested in&#13;
+     in the next five-year period, which are thus         the firm at the beginning of the review period.&#13;
+     passed directly on to customers. The investment      This initial investment was set equal to the price&#13;
+     factor (K ) is an adjustment to allow revenues to    paid for the companies at the time of divestiture&#13;
+     cover expected investments in improving and          rolled forward to the review date by adding the&#13;
+     expanding network infrastructure. Company            new investments made during the interim period&#13;
+     investment plans are first screened by Enargas.      and subtracting depreciation.&#13;
+     Once approved, they are assigned K factors. The&#13;
+     K factors are project-specific and are contingent    There is a further issue in determining the time&#13;
+     on the investment being undertaken. They come        profile of the tariff changes: changes could be&#13;
+     into effect only after a project has come on stream  gradual--through small changes each semester--&#13;
+     and is delivering benefits to customers.             or made all at once at the beginning of each five-&#13;
+                                                          year review period. Enargas decided that the full&#13;
+     Setting the new tariffs                              price reductions would occur on January 1, 1998.&#13;
+                                                          Thus the first X factor was set to achieve this tar-&#13;
+     Estimates of future cash flows for each firm are     iff reduction, while the X factor for each subse-&#13;
+     the starting point for the setting of new tariffs.   quent biannual price adjustment was set to zero.&#13;
+     The cash flow analysis should extend until the       This is in contrast to K factors, which are imple-&#13;
+     licenses expire, since this is the relevant time     mented gradually, as noted above.&#13;
+     horizon over which owners can recoup their&#13;
+     investment. At the time of the review, current       Information requirements&#13;
+     licenses were set to expire in thirty-five years.&#13;
+                                                          Estimates of the growth in demand (that is, pre-&#13;
+     The net present value (NPV) of a firm's future       diction of the parameter V in equation 2) are cru-&#13;
+     cash flows is:                                       cial for determining appropriate tariff levels.&#13;
+                                                          Enargas used information provided by other gov-&#13;
+                          35                              ernment departments (such as the Secretaría de&#13;
+     (2)          NPV =   T     t t&#13;
+                                 V - Ct - It,&#13;
+                                                          Energía y Puertos) and the gas companies them-&#13;
+                          t=1     (1 )  t&#13;
+                                    + r                   selves. The available information was used to con-&#13;
+                                                          struct probable demand scenarios for each firm.&#13;
+     where Tt is the tariff for transporting (or distrib-&#13;
+     uting) gas in period t, Vt is the volume of gas      Detailed information on operating costs and&#13;
+     transported (or distributed), Ct is the operations   revenues, as well as planned investments, was&#13;
+     and maintenance cost, It is additional investment,   submitted to Enargas by each regulated firm ac-&#13;
+     and r is the firm's cost of capital.                 cording to a format provided by the regulator&#13;
+                                                          (Enargas 1996b).&#13;
+     In the actual modeling of cash flows, T is a vec-&#13;
+     tor of tariffs and V is a vector of outputs, since   Productivity increases were considered by the&#13;
+     there are different tariff zones, different parts to regulator when forecasting costs and, therefore,&#13;
+&amp;#12;&#13;
+                                                                                       The World Bank Group                       3&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                            TABLE 1         DEBT AND EQUITY IN THE ARGENTINE GAS&#13;
+&#13;
+                                                                            INDUSTRY, 1996­97&#13;
+&#13;
+                                                                            US$ millions&#13;
+&#13;
+setting the efficiency (X ) factor. The exact               Activity                 Debt        Equity     Debt to equity ratio&#13;
+approach used by Enargas is described below.&#13;
+Investments that expand the network will                    Transport                    874      1,512           0.58&#13;
+increase the volume of gas sold and will also&#13;
+                                                            Distribution              1,015       2,403           0.42&#13;
+affect future cost estimates. These activities are&#13;
+considered when setting the investment (K ) fac-            Source: Enargas 1996a, table 7.&#13;
+&#13;
+tor and are also described below.&#13;
+&#13;
+                                                            TABLE 2         FINAL COST OF CAPITAL FOR THE ARGENTINE&#13;
+The cost of capital&#13;
+                                                                            GAS INDUSTRY&#13;
+&#13;
+A fundamental parameter that must be estimated                              Percent&#13;
+before tariffs can be set is the cost of capital--&#13;
+that is, the cost to a firm of raising an additional                               Nominal        Expected            Real&#13;
+&#13;
+unit of capital. Enargas estimated separate rates           Activity            capital cost       inflation       capital cost&#13;
+for the transport and distribution sectors but did&#13;
+not attempt to differentiate these rates across             Transport                  13.4           1.9              11.3&#13;
+individual companies.                                       Distribution               15.2           1.9              13.1&#13;
+&#13;
+                                                            Source: Enargas 1996a.&#13;
+The aggregate cost of capital is a weighted aver-&#13;
+age of the cost of debt capital and the cost of&#13;
+equity capital. The weights are the portion of&#13;
+debt and equity relative to company assets.          return investors will demand to hold the asset.&#13;
+Formally,                                            Calculating this risk premium for a regulated util-&#13;
+                                                     ity is a necessary but contentious aspect of any&#13;
+                                                     price review. A widely used tool in this endeavor&#13;
+                                    E&#13;
+(3)           rc = rd 1- t&#13;
+                     (    ) DV + re   ,              is the capital asset pricing model.&#13;
+                                    V&#13;
+                                                     Use of the capital asset pricing model is problem-&#13;
+where rc is the cost of capital, rd is the nominal   atic in countries where stock markets are under-&#13;
+interest charged on the firm's debt, t is the profit developed or where the industry under analysis&#13;
+tax rate faced by the firm (0.3 in Argentina), D is  has not historically been quoted on the stock&#13;
+the debt of the firm, re is the opportunity cost of  exchange. This was the case in Argentina. Only&#13;
+equity capital, E is the value of the firm's equity, two of the ten gas firms had been quoted on the&#13;
+and V = D + E. Debt and equity are measured by       stock exchange at the time of the review, and even&#13;
+their market value. Where a firm's debt or shares    for these companies, the time series for stock mar-&#13;
+were not traded in the market, information from      ket data was rather short. Recognizing these obsta-&#13;
+financial statements was used. The equity and        cles, Enargas used the following adjusted capital&#13;
+debt figures for the Argentine gas industry at the   asset pricing model:&#13;
+time of the review are presented in table 1. The&#13;
+final nominal and real capital costs for transport   (4)        re = rf + be (rm ­ rf) + riskARG,&#13;
+and distribution, as calculated by Enargas, are&#13;
+presented in table 2.                                where re is the cost of equity for an Argentine&#13;
+                                                     firm, rf is the return provided by a risk-free asset&#13;
+The cost of equity capital. The cost of equity cap-  in a reference industrial country, rm is the return&#13;
+ital must include a risk premium to compensate       on a well-diversified portfolio in the reference&#13;
+investors for the nondiversifiable volatility of the country, b     is a parameter proportional to the&#13;
+financial returns on a firm's equity. The higher     covariance between the return on the equity of&#13;
+the volatility, the higher the expected rate of      the gas firm and the return on the diversified&#13;
+&amp;#12;&#13;
+4    The 1996­97 Gas Price Review in Argentina&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+     portfolio in the reference country, and riskARG      cient to the gearing ratios of firms. Details on&#13;
+     is a premium reflecting Argentina's sovereignty      this adjustment can be found in Enargas&#13;
+     risk. Except for the last term, the above formula    (1996a). The adjustment for the differences in&#13;
+     is the standard capital asset pricing model.         regulatory regimes is undertaken by examin-&#13;
+                                                          ing the beta coefficients for firms regulated&#13;
+     The risk-free interest rate (rf) was taken to be the under different regimes in Britain and the&#13;
+     yield to maturity on U.S. Treasury bonds of the      United States.&#13;
+     same average life as the Argentine gas compa-&#13;
+     nies. The sovereign risk premium (riskARG) was       The final result was an average beta coefficient&#13;
+     obtained by comparing the rate of return of a        for Argentine gas distribution companies of 0.78.&#13;
+     foreign currency­denominated Argentine bond          For gas transport companies there was no equiv-&#13;
+     with that of a U.S. Treasury bond. Enargas used      alent information on beta coefficients from the&#13;
+     Argentine euronote bonds as the basis for com-       United States. Instead, the parameter for this sec-&#13;
+     parison. These bonds are denominated in U.S.         tor was obtained by rescaling the beta coeffi-&#13;
+     dollars and in deutsche marks and were issued        cient for the distribution sector by the relative&#13;
+     by the Argentine government in European finan-       standard deviation of the returns to each type of&#13;
+     cial markets. The risk premium of a well-            activity in Argentina. (Details can be found in&#13;
+     diversified portfolio (rm ­ rf) was estimated as     Enargas 1996a.) The result is an estimated beta&#13;
+     the difference between the return on a basket of     coefficient for gas transport companies of 0.58.&#13;
+     stocks in the United States and the rates on U.S.    This accords well with prior expectations. Gas&#13;
+     Treasury bonds with long maturities.                 transport is less risky than the more competitive&#13;
+                                                          distribution sector, and so should have a lower&#13;
+     The final parameter needed is the beta coeffi-       risk premium.&#13;
+     cient (be). This parameter is proportional to the&#13;
+     correlation between the returns on the firm's        The cost of debt capital. The cost of debt capital&#13;
+     equity and those on the market portfolio.            was estimated as rf + riskARG, the sum of the&#13;
+     Estimated betas were available in the United         risk-free interest rate (measured by the rate of&#13;
+     States only for gas distribution companies. The      return on U.S. Treasury bonds of similar average&#13;
+     average beta coefficient for these companies was     life as the Argentine gas firms) and the sovereign&#13;
+     0.58 (Enargas 1996a). The estimated beta coeffi-     risk premium for Argentina. The cost of debt cap-&#13;
+     cients for the United States were adjusted for two   ital amounted to 12.56 percent for transport and&#13;
+     factors before being applied to Argentina. Both      13.02 percent for distribution.&#13;
+     adjustments relate to differences in the risk char-&#13;
+     acteristics of the companies in each country:        Determining the efficiency factor&#13;
+      First, the financial gearing of a firm will influ-&#13;
+       ence the beta coefficient. Unless firms in         Enargas analyzed three sources of information&#13;
+       Argentina have the same financial gearing as       on potential efficiency gains to forecast costs and&#13;
+       firms in the United States, the beta coefficients  set efficiency (X ) factors:&#13;
+       for U.S. firms are not applicable to Argentine      Efficiency-enhancing project and restructuring&#13;
+       firms.                                                plans submitted by the firms.&#13;
+      Second, gas distribution firms in the United         Global productivity trends in the industry.&#13;
+       States are regulated by a rate-of-return system.    Financial models to check the consistency of&#13;
+       This regulatory regime may be considered              results.&#13;
+       inherently less risky for investors than the price&#13;
+       cap regime practiced in Argentina.                 Legislation requires Enargas to identify and&#13;
+                                                          quantify the impacts of specific efficiency pro-&#13;
+     An adjustment for the first factor requires the      jects as a basis for setting the X factors. To that&#13;
+     use of a formula that relates the beta coeffi-       end Enargas, with the help of independent con-&#13;
+&amp;#12;&#13;
+                                                                                             The World Bank Group                                        5&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+sultants,   analyzed     detailed   programs     that The transport and distribution companies pre-&#13;
+allowed for reliable estimates of efficiency gains.   sented investment projects worth 1,774 million&#13;
+Examples included inventory control programs,         pesos, of which just 192 million pesos were&#13;
+changes to firms' input purchasing strategies,        approved by Enargas and qualified for a K fac-&#13;
+and changes in billing systems.                       tor. Because Enargas was still evaluating many&#13;
+                                                      projects at the time of the final tariff determina-&#13;
+In this respect, the legislation requires Enargas to  tion, it retained the power to approve further&#13;
+adopt a method that requires detailed knowledge       projects up to ninety days after this date.&#13;
+of the management of firms, and thus contradicts&#13;
+the spirit of arm's-length regulatory control. The    The K factor is broken down by project and&#13;
+problem with this approach is that asymmetric         semester. It is activated only when an investment&#13;
+information prevents the regulator from identify-     project has been completed according to its orig-&#13;
+ing all the efficiency improvements that a com-       inal specification and it meets the objectives for&#13;
+pany could introduce and that, moreover, not all      which it was proposed. The K factor for each pro-&#13;
+efficiency gains can be linked to specific pro-       ject is estimated as the percentage increase in tar-&#13;
+grams. For these reasons, Enargas also analyzed       iffs that would be required so that the value of&#13;
+historical total factor productivity in setting the X the firm is the same with and without the project.&#13;
+factors. However, since license conditions re-&#13;
+quired that the X factors be based on clearly iden-   Tariff increases for system expansion apply only&#13;
+tified and quantified projects, Enargas had to        to customers who benefit from the investment.&#13;
+expend some legal effort in justifying the appli-     Consequently, K factors are specific to each&#13;
+cation of total factor productivity analysis in set-&#13;
+ting the factors.&#13;
+&#13;
+The final X factors for each company are shown               TABLE 3            FINAL EFFICIENCY (X ) FACTORS FOR&#13;
+in table 3. These factors are applied once at the                               TRANSPORT AND DISTRIBUTION FIRMS&#13;
+beginning of the five-year period. Thus on                                      Percent&#13;
+January 1, 1998, tariffs were reduced by the full&#13;
+amount of the efficiency factor.                             Firm                                                                          X factor&#13;
+&#13;
+Determining the investment factor&#13;
+                                                             Transportadora de Gas del Sur                                                      6.5&#13;
+&#13;
+Investment (K ) factors, if positive, increase tar-          Transportadora de Gas del Norte                                                    5.2&#13;
+&#13;
+iffs each semester. Their purpose is to stimulate            Distribuidora de Gas Cuyana                                                        4.8&#13;
+&#13;
+investment in improving and expanding the gas                Gas Natural BAN                                                                    4.8&#13;
+system. Investment projects are approved by                  Litoral Gas                                                                        4.7&#13;
+Enargas if they:&#13;
+                                                             Metrogas                                                                           4.7&#13;
+ Have reasonable costs and schedules.&#13;
+ Cannot be funded with the original tariffs and              Distribuidora de Gas del Centro                                                    4.7&#13;
+&#13;
+   so require additional investment.                         Camuzzi Gas del Sur                                                                4.6&#13;
+ Expand the system--maintenance investment                   Camuzzi Gas Pampeana                                                               4.5&#13;
+&#13;
+   is considered when setting the efficiency (X )            GASNOR                                                                             4.4&#13;
+   factor--and improve the quality and security&#13;
+   of supply beyond the requirements stipulated              Note: For transport firms the X factors apply to all interruptible supply and firm supply&#13;
+&#13;
+   in the license conditions.                                tariffs. For distribution firms the X factors affect residential, general small, general,&#13;
+&#13;
+ Benefit the majority of the firm's customers.               compressed natural gas, and subdistribution tariffs.&#13;
+&#13;
+ Are structured so that companies assume all                 Source: Enargas 1997.&#13;
+&#13;
+   construction cost risks.&#13;
+&amp;#12;&#13;
+6                         The 1996­97 Gas Price Review in Argentina&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+   TABLE 4            INVESTMENT (K ) FACTORS APPROVED FOR GAS DEL NORTE, 1998­2002&#13;
+&#13;
+                      Percent&#13;
+&#13;
+&#13;
+                                        1998                        1999                      2000                         2001                       2002&#13;
+&#13;
+                                First        Second          First      Second          First      Second          First       Second         First       Second&#13;
+&#13;
+   Tariff zone               semester semester semester semester semester semester semester semester semester semester&#13;
+&#13;
+&#13;
+   Salta                           0           0.84          0.52          0.74         0.46           0             0            0             0             0&#13;
+&#13;
+   Tucuman                         0           1.74          0.61          0.82         0.55           0             0            0             0             0&#13;
+&#13;
+   Central                         0           1.85          0.65          0.87         0.58           0             0            0             0             0&#13;
+&#13;
+   Litoral                         0           1.83          0.64          0.86         0.57           0             0            0             0             0&#13;
+&#13;
+   Aldea Brasilera                 0           1.81          0.63          0.85         0.57           0             0            0             0             0&#13;
+&#13;
+   Gran Buenos Aires               0           2.56          1.38          1.55         1.24           0             0            0             0             0&#13;
+&#13;
+   Note: These factors are for a project to reinforce gas mains in some areas with high population densities. Gas del Norte proposed two other projects that were still&#13;
+&#13;
+    pending approval by Enargas at the time the new tariffs were formally announced.&#13;
+&#13;
+   Source: Enargas 1997.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+   TABLE 5            INVESTMENT (K ) FACTORS APPROVED FOR METROGAS, 1998­2002&#13;
+&#13;
+                      Percent&#13;
+&#13;
+&#13;
+                                        1998                        1999                      2000                         2001                       2002&#13;
+&#13;
+                                First        Second          First      Second          First      Second          First       Second         First       Second&#13;
+&#13;
+   Tariff affected           semester semester semester semester semester semester semester semester semester semester&#13;
+&#13;
+&#13;
+   Residential                     0           0.57          0.54          0.51         0.48         0.45          0.42          0.40          0.37          0.35&#13;
+&#13;
+   Commercial&#13;
+&#13;
+     and industrial                0           0.41          0.39          0.37         0.35         0.33          0.31          0.29          0.27          0.26&#13;
+&#13;
+   Note: These data are provisional K factors for two of the three projects presented by Metrogas. The factors are provisional pending the evaluation and approval of&#13;
+&#13;
+    the third project.&#13;
+&#13;
+   Source: Enargas 1997.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                          geographic tariff zone. In addition, only tariffs for                          Conclusion&#13;
+                          services that benefit from an investment project&#13;
+                          are affected.                                                                  The 1996­97 Enargas price review offers a sophis-&#13;
+                                                                                                         ticated approach to the price regulation of natural&#13;
+                          Final K factors for the northern transport firm                                monopolies. An extremely complex procedure,&#13;
+                          (Transportadora de Gas del Norte) and for                                      the review was based to the extent possible on&#13;
+                          Argentina's biggest distribution company (Metro-                               objective information and rules. Its well-defined&#13;
+                          gas) are presented in tables 4 and 5.                                          procedures and methodologies turned out to be&#13;
+                                                                                                         very helpful in resisting pressure from lobbies and&#13;
+                          It must be borne in mind that K factors are                                    preventing regulatory capture.&#13;
+                          applied to tariffs in the semesters when the cor-&#13;
+                          responding investment projects are under way.                                  The review also set important precedents for&#13;
+                          Thus the dates shown in tables 4 and 5 may not                                 future price reviews in the Argentine gas indus-&#13;
+                          be the effective ex post dates if projects fall                                try, as well as subsequent utility price reviews in&#13;
+                          behind schedule.                                                               other countries and sectors.&#13;
+&amp;#12;&#13;
+                                                                         The World Bank Group                             7&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+A point of interest in the Enargas review is the&#13;
+adaptation of methods developed in the United&#13;
+States or Europe to overcome the lack of data in&#13;
+Argentina. In particular, the methodology adopted&#13;
+for estimating the cost of capital may be relevant&#13;
+to other developing countries.&#13;
+&#13;
+Gas transport and distribution licenses require&#13;
+Enargas to identify projects that will lead to effi-&#13;
+ciency gains in order to set the X factors. This&#13;
+approach is unlikely to detect the full range of&#13;
+efficiency improvements that could potentially&#13;
+be made, and furthermore may lead to excessive&#13;
+micromanagement of firms by the regulator. To&#13;
+overcome these problems, Enargas used a more&#13;
+aggregate method (total factor productivity&#13;
+analysis) to determine companies' potential effi-&#13;
+ciency gains. The use of this methodology was&#13;
+contested by the industry, however.&#13;
+&#13;
+                                                                                                Viewpoint is an open&#13;
+1 Legal restrictions prevent domestic price indexation in Argentina.                            forum intended to&#13;
+  But because of the country's currency board system, domestic infla-                           encourage&#13;
+  tion is not expected to differ from international inflation.                                  dissemination of and&#13;
+                                                                                                debate on ideas,&#13;
+                                                                                                innovations, and best&#13;
+References                                                                                      practices for expanding&#13;
+                                                                                                the private sector. The&#13;
+Enargas (Ente Nacional Regulador del Gas). 1996a. "El costo de cap-                             views published are&#13;
+  ital en la revisión quinquenal de tarifas." Working Paper. Gerencia                           those of the authors and&#13;
+  de Desempeño y Economía.                                                                      should not be attributed&#13;
+------. 1996b. "Metodología revisión tarifaria solicitud de informa-                            to the World Bank or any&#13;
+  ción." Letter and annexes sent to licensed companies.                                         of its affiliated organiza-&#13;
+------. 1997. "Informe de aprobación revision tarifaria quinquenal                              tions. Nor do any of the&#13;
+  periodo 1998­2002." Informes GDyE/GAL/GT/GD/GR N. 58­67.                                      conclusions represent&#13;
+Hetherington, B. 1992. "Estimating the Rate of Return for Gas                                   official policy of the&#13;
+  Transportation." U.K. Office of Gas Supply.                                                   World Bank or of its&#13;
+National Economic Research Associates. 1996. "Contrato de consul-                               Executive Directors or&#13;
+  toría N° 006 metodología de cálculo del factor de eficencia (X )."                            the countries they&#13;
+  Report prepared for Enargas.                                                                  represent.&#13;
+&#13;
+&#13;
+                                                                                                To order additional&#13;
+Andres Gomez-Lobo (andres_gomez-lobo@                                                           copies please call&#13;
+oxera.co.uk) and Vivien Foster (vivien                                                          202 458 1111 or contact&#13;
+                                                                                                Suzanne Smith, editor,&#13;
+foster@oxera.sprint.com), Oxford Economic&#13;
+                                                                                                Room F11K-208,&#13;
+Research Associates Ltd., United Kingdom                                                        The World Bank,&#13;
+                                                                                                1818 H Street, NW,&#13;
+                                                                                                Washington, D.C. 20433,&#13;
+                                                                                                or Internet address&#13;
+                                                                                                ssmith7@worldbank.org.&#13;
+                                                                                                The series is also&#13;
+                                                                                                available on-line&#13;
+                                                                                                (www.worldbank.org/&#13;
+                                                                                                html/fpd/notes/).&#13;
+&#13;
+&#13;
+                                                                                                     Printed on recycled&#13;
+                                                                                                paper.&#13;
+&amp;#12;&#13;
+</ml:original-txt><ml:search-metadata><doc id="2529867">
+        <url>
+            http://documents.worldbank.org/curated/en/1999/04/2529867/1996-97-gas-price-review-argentina
+        </url>
+        <availablein>English</availablein>
+        <virt_coll>Knowledge Notes</virt_coll>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/1999/04/2529867/1996-97-gas-price-review-argentina</url_friendly_title>
+        <new_url>1999/04/2529867/1996-97-gas-price-review-argentina</new_url>
+        <disclosure_date>2010-07-01T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2010-07-01T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2003/10/01/000090341_20031001125011/Rendered/INDEX/268310VP0Note0no101810gomez.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2003/10/01/000090341_20031001125011/Rendered/PDF/268310VP0Note0no101810gomez.pdf</pdfurl>
+        <datestored>2003-10-01T00:00:00Z</datestored>
+        <docdt>1999-04-01T00:00:00Z</docdt>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            The 1996-97 gas price review in Argentina
+        </repnme>
+        <abstracts>
+            Argentina's natural gas industry
+            was privatized at the end of 1992. Prior to divestiture, the
+            state-owned monopoly Gas del Estado was divided into two
+            transport and eight distribution companies, all of which
+            were sold through international bidding. An independent
+            government body, Ente Naal Regulador de Gas (Enargas), was
+            established to regulate the transport and distribution
+            segments of the industry. As part of its mandate, Enargas is
+            in charge of price reviews. These reviews, which occur every
+            five years, determine the allowed tariffs for each transport
+            and distribution company. The first such review took place
+            in 1996-97, and the new tariffs went into effect in January
+            1998. This Note examines the methodology and outcome of this
+            experience. The Enargas price review is of interest for
+            several reasons. First, it is the first of its kind in
+            Argentina, and one of the first in a developing country. The
+            outcome of the process provides a test of the regulatory
+            framework adopted by the Argentine government, and may
+            influence regulatory reform in other parts of the world.
+            Second, as the first such event, the 1996-97 review set a
+            precedent for methodologies and approaches to be used in
+            future utility price reviews in Argentina. Finally, the
+            approach used to calculate the cost of capital-as well as
+            the other parameters used to set prices-provide an
+            interesting illustration of how theoretical and practical
+            methods from regulatory practice in industrial countries can
+            be adapted to developing countries, where data availability
+            and other restrictions prevent a direct transfer of techniques.
+        </abstracts>
+        <docna>
+            The 1996-97 gas price review in Argentina
+        </docna>
+        <display_title>The 1996-97 gas price review in Argentina</display_title>
+        <listing_relative_url>/research/1999/04/2529867/1996-97-gas-price-review-argentina</listing_relative_url>
+        <docty>Viewpoint</docty>
+        <subtopic>Environmental Economics &amp; Policies,Banks &amp; Banking Reform,Economic Theory &amp; Research,Municipal Financial Management,Water and Industry</subtopic>
+        <teratopic>Finance and Financial Sector Development,Environment,Urban Development,Water Resources,Macroeconomics and Economic Growth</teratopic>
+        <count>Argentina</count>
+        <authors>
+            <author>Andres Gomez-Labo, and Vivien Foster</author>
+        </authors>
+        <geo_region_mdks>
+            <geo_region_mdk>World!$!80475</geo_region_mdk>
+            <geo_region_mdk>America!$!80450</geo_region_mdk>
+            <geo_region_mdk>South America!$!80469</geo_region_mdk>
+        </geo_region_mdks>
+        <entityids>
+            <entityid>000090341_20031001125011</entityid>
+        </entityids>
+        <subsc>Oil and gas</subsc>
+        <admreg>Latin America &amp; Caribbean,Latin America &amp; Caribbean</admreg>
+        <colti>Public policy for the private sector ; Note
+            no. 181</colti>
+        <lang>English</lang>
+        <historic_topic>Finance and Financial Sector Development,Environment,Urban Development,Water Resources,Macroeconomics and Economic Growth</historic_topic>
+        <sectr>Energy and mining</sectr>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            Gas prices; Natural gas; Monopolies;
+            Bidding; Tariffs; Technology; Regulatory framework;
+            Methodology; Cost of capital; Developing countries; Gas supply
+            asset pricing,assets,bonds,cash flow
+            analysis,Cash flows,construction,consumers,cost of
+            capital,DEBT,depreciation,Economic Research,equity
+            capital,gas,income,indexation,inflation,interest
+            rate,inventory,Legislation,market
+            value,maturities,monopolies,operating costs,opportunity
+            cost,population densities,present
+            value,Productivity,Productivity increases,purchase
+            price,regulatory capture,regulatory framework,regulatory
+            regimes,risk premium,sovereign risk,time series,total factor
+            productivity,total factor productivity
+            analysis,transport,valuation,vec,yield to maturity
+        </keywd>
+        <owner>Off of VP, FPD - WB (FPDVP)</owner>
+        <geo_regions>
+            <geo_region>World</geo_region>
+            <geo_region>America</geo_region>
+            <geo_region>South America</geo_region>
+        </geo_regions>
+        <repnb>26831</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>Economic Policy and Debt</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Environment</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Social Protections and Labor</ml:concept><ml:concept>Macroeconomic Vulnerability and Debt</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Agriculture and Food Security</ml:concept><ml:concept>Environment and Natural Resources</ml:concept><ml:concept>Health, Nutrition and Population</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Social Protection and Labor</ml:concept><ml:concept>Environmental Economics and Policies</ml:concept><ml:concept>Legislation and Regulation</ml:concept><ml:concept>Debt Management</ml:concept><ml:concept>Debt Policy</ml:concept><ml:concept>Debt Policy and Management</ml:concept><ml:concept>Public Debt Management</ml:concept><ml:concept>Demographics</ml:concept><ml:concept>Longevity</ml:concept><ml:concept>Income</ml:concept><ml:concept>Environmental Economics &amp; Policies</ml:concept><ml:concept>Legislation</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Treasury</ml:concept><ml:concept>Volatility</ml:concept><ml:concept>Adaptation</ml:concept><ml:concept>Infrastructure</ml:concept><ml:concept>Inflation</ml:concept><ml:concept>Debt</ml:concept><ml:concept>Population</ml:concept><ml:concept>Aging</ml:concept></ml:concepts><ml:geo-regions><ml:geo-region>State Associations</ml:geo-region><ml:geo-region>Americas</ml:geo-region><ml:geo-region>Argentina</ml:geo-region><ml:geo-region>Caribbean</ml:geo-region></ml:geo-regions></ml:annotations></ml:doc-envelope>

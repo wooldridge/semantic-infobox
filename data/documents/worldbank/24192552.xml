@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>                              95191&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+         Technical Note 2 | April 2012&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Domestic Emissions Trading&#13;
+Existing and Proposed Schemes&#13;
+&amp;#12;This document provides an overview and summary assessment of lessons and insights learned from various&#13;
+existing and proposed domestic cap and trade schemes. For each scheme, a set of general characteristics (or&#13;
+issues) is considered.&#13;
+&#13;
+The characteristics (or issues) covered include the following:&#13;
+    ï&#130;·   Coverage and scope&#13;
+    ï&#130;·   Setting a cap&#13;
+    ï&#130;·   Setting the points of obligation&#13;
+    ï&#130;·   Allocation of allowances&#13;
+    ï&#130;·   Systems for domestic monitoring, reporting and verification (MRV) and compliance&#13;
+    ï&#130;·   Enabling trading and fostering stability&#13;
+    ï&#130;·   Institutional arrangements, including technical and legal infrastructures&#13;
+    ï&#130;·   Use of offsets and linking&#13;
+&#13;
+The domestic emissions trading schemes included in this assessment are the following:&#13;
+    ï&#130;·   European Union ETS (EU ETS)&#13;
+    ï&#130;·   New Zealand ETS (NZ ETS)&#13;
+    ï&#130;·   US northeast states Regional Greenhouse Gas Initiative (RGGI)&#13;
+    ï&#130;·   California ETS (CalETS)&#13;
+    ï&#130;·   Australia â&#128;&#156;Clean Energy Futureâ&#128;&#157; Carbon Pricing Mechanism (AusCPM)&#13;
+    ï&#130;·   Tokyo Cap and Trade Program (TokyoC&amp;T)&#13;
+&#13;
+Resource materials are available at the following websites:&#13;
+&#13;
+On EU ETS : http://ec.europa.eu/clima/policies/ets/index_en.htm&#13;
+&#13;
+On NZ ETS : http://www.climatechange.govt.nz/emissions-trading-scheme/&#13;
+&#13;
+On RGGI : http://www.rggi.org/rggi&#13;
+&#13;
+On California ETS : http://www.arb.ca.gov/regact/2010/capandtrade10/capandtrade10.htm&#13;
+&#13;
+On Australia Carbon Pricing Mechanism: http://www.cleanenergyfuture.gov.au/&#13;
+&#13;
+On Tokyo Can and Trade Program: http://www.kankyo.metro.tokyo.jp/en/climate/cap_and_trade.html&#13;
+&#13;
+Comprehensive IEA study on current and proposed emissions trading schemes:&#13;
+http://www.iea.org/papers/2010/ets_paper2010.pdf&#13;
+&#13;
+On Offsets: Carbon Offset Research and Education (CORE), Stockholm Environment Institute and Greenhouse&#13;
+Gas Management Institute, homepage http://www.co2offsetresearch.org/&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                 1|P a g e&#13;
+&amp;#12;Coverage and Scope&#13;
+The term â&#128;&#156;coverageâ&#128;&#157; is intended in the macro sense of geographies, sectors and timing. â&#128;&#156;Scopeâ&#128;&#157; is intended in&#13;
+the micro sense of emissions sources (e.g., size thresholds) and perhaps institutions or entity types.&#13;
+Coverage and scope define the boundary of a scheme, i.e. what emissions (and removals) sources are&#13;
+included. In deciding on this, policy makers need to balance a number of key issues:&#13;
+    ï&#130;·   What are the important sources of emissions (and removals) of greenhouse gases (GHG)?&#13;
+    ï&#130;·   Is a price-based mechanism likely to be an effective and efficient mitigation policy instrument?&#13;
+    ï&#130;·   Is it feasible to engage emitters in legal obligations, measuring and reporting emissions and trading&#13;
+        allowances at a cost that is affordable, given the scale of the outcomes that are sought?&#13;
+    ï&#130;·   What are the â&#128;&#152;political economyâ&#128;&#153; circumstances of including or not including specific sources?&#13;
+The coverage and scope of the five schemes reviewed reflect different national circumstances in responding&#13;
+to these questions.&#13;
+EU ETS:&#13;
+    ï&#130;· Covers 30 countries (27 EU member states plus Iceland, Liechtenstein and Norway).&#13;
+    ï&#130;· Covers about 45% of the EUâ&#128;&#153;s total CO2 emissions and includes about 11,000 installations.&#13;
+    ï&#130;· Organised in phases, 2005-2007 (pilot phase), 2008-2012, 2013-2020 etc.&#13;
+    ï&#130;· Phase 1 (2005-2007) and Phase 2 (2008-2012) cover CO2 emissions from fuel combustion activities&#13;
+        (with a thermal input capacity &gt; 20 MW) and five major industries: oil refineries, coke ovens, iron and&#13;
+        steel, cement, glass and ceramics, and pulp and paper.&#13;
+    ï&#130;· CO2 emissions from aviation (domestic/intra-EU and arriving and departing international flights) are&#13;
+        covered from 2012.&#13;
+    ï&#130;· In Phase 3 (2013-2020) CO2 emissions from bulk organic chemicals, ammonia and aluminium&#13;
+        industries are to be included, as well as N2O from certain production processes and PFC from&#13;
+        aluminium production.&#13;
+NZ ETS:&#13;
+    ï&#130;· Covers all Kyoto Protocol GHG and all sectors, with staggered entry:&#13;
+        o From 1 January 2008, emissions from deforestation.&#13;
+        o From 1 July 2010, emissions from energy, transport and industry (non-synthetic gases) sectors.&#13;
+        o From 1 January 2013, emissions from industry (synthetic gases) and waste sectors.&#13;
+        o From 1 January 2015, emissions from agriculture sector(if at processor level).a&#13;
+            a&#13;
+                subject to ETS Review, including if should be at farm level.&#13;
+        o    From 1 January 2008 on voluntary opt-in basis, removals from post-1989 forest lands (and&#13;
+             subsequent matching emissions on harvest, as applicable).&#13;
+    ï&#130;·   Virtually the entire economy will be covered by 2015.&#13;
+RGGI:&#13;
+   ï&#130;· Covers 10 northeast states (Connecticut, Delaware, Maine, Maryland, Massachusetts, New&#13;
+      Hampshire, New Jersey, New York, Rhode Island, and Vermont).&#13;
+   ï&#130;· Covers 2009 - 2018 with an initial 3 year compliance period 1 Jan 2009 - 31 Dec 2011.&#13;
+   ï&#130;· Covers CO2 emissions from fossil-fuel powered electricity generating plants â&#137;¥ 25MW (currently 209&#13;
+      facilities region-wide).&#13;
+CalETS:&#13;
+    ï&#130;· Cap-and-trade regulation became effective on 1 January 2012.&#13;
+    ï&#130;· Compliance obligation for GHG emissions to start on 1 January 2013.&#13;
+    ï&#130;· Covers period 2013 â&#128;&#147; 2020, in three three-year compliance periods.&#13;
+    ï&#130;· Over time will cover all major sources, representing 85% of Californiaâ&#128;&#153;s GHG emissions.&#13;
+                                                                                                     2|P a g e&#13;
+&amp;#12;    ï&#130;·   Covers about 350 businesses, representing 600 facilities.&#13;
+        o Starts in 2013 for electric utilities and large industrial facilities.&#13;
+        o Starts in 2015 for distributors of transportation, natural gas and other fuels.&#13;
+AusCPM:&#13;
+   ï&#130;· Australiaâ&#128;&#153;s Clean Energy Legislative Package provides a pathway to introduce a carbon price.&#13;
+   ï&#130;· The Carbon Pricing Mechanism begins on 1 July 2012 as a fixed price carbon â&#128;&#152;levyâ&#128;&#153; (permits initially&#13;
+        sold at A$23/tonne CO2 and increasing by 2.5% a year in real terms).&#13;
+   ï&#130;· From 1 July 2015, transitions to a cap and trade scheme where market sets price (with a price ceiling&#13;
+        and floor for the first 3 years of the flexible carbon price period).&#13;
+   ï&#130;· Covers CO2, methane, nitrous oxide, and PFCs from aluminium smelting.&#13;
+   ï&#130;· The Carbon Pricing Initiative is expected to cover about 500 businesses operating in Australia. Most&#13;
+        operate large emitting facilities (i.e., those generating over 25,000 tonnes CO2e per annum). They&#13;
+        account for about 60% of Australiaâ&#128;&#153;s GHG emissions.&#13;
+   ï&#130;· Covers stationary energy, industrial processes, fugitive emissions (except decommissioned coal&#13;
+        mines), and emissions from â&#128;&#152;non-legacy wasteâ&#128;&#153;.&#13;
+TokyoC&amp;T:&#13;
+   ï&#130;· The TokyoC&amp;T was launched in April 2012 by the Tokyo Metropolitan Government (TMG). It is Japan's&#13;
+        1st cap-and-trade emissions trading scheme and the worldâ&#128;&#153;s 1st urban cap-and-trade program to&#13;
+        cover buildings.&#13;
+   ï&#130;· It covers approximately 40% of Tokyoâ&#128;&#153;s commercial and industrial sectorâ&#128;&#153;s emissions (and about 20%&#13;
+        of Tokyoâ&#128;&#153;s total CO2 emissions), representing about 1000 commercial and institutional buildings and&#13;
+        300 industrial facilities (with annual energy consumption of at least 1,500 kl of crude oil equivalent).&#13;
+Miscellaneous notes&#13;
+   ï&#130;· For schemes that allow delayed entry of sectors, a period of mandatory emissions reporting (e.g.,&#13;
+        6 months or 1 year) prior to the start of the obligatory surrender of allowance is common.&#13;
+Setting a cap&#13;
+For a cap and trade scheme, the cap is the number of â&#128;&#152;allowancesâ&#128;&#153; (or units) that is available for a given&#13;
+compliance period. The purpose of the cap is to set the environmental objective of the scheme, that is, the&#13;
+scale of emission reductions sought from sources within the boundary during a given compliance period. The&#13;
+total amount of allowed emissions in a given period will be the sum of the cap plus the total allowed amount&#13;
+(if any) of external offsets, i.e., credits generated from activities outside the boundary of the scheme. In this&#13;
+context, removals credits under Articles 3.3 and 3.4 of the Kyoto Protocol can be seen as offsets, as they add&#13;
+to the overall Kyoto cap. Articles 3.3 and 3.4 outline provisions related to the sources and removals by sinks&#13;
+resulting from human-induced, land-use change and forestry activities (LULUCF) in Annex I parties. CDM&#13;
+credits are also offsets.&#13;
+In a multi-jurisdiction scheme (e.g., the Kyoto Protocol which includes all Annex B (developed) countries that&#13;
+ratified), the cap is the sum of the individual country targets. The country targets can be seen as initial&#13;
+grandfathered (gratis) allocations of allowances, so are not caps per se (though, this term is sometimes used).&#13;
+For countries under the Kyoto Protocol cap and trade scheme that, in turn, have implemented domestic&#13;
+entity-level cap and trade schemes, the design of the scheme determines whether there is a separate initial&#13;
+cap for the â&#128;&#152;nestedâ&#128;&#153; entity-level scheme (e.g., there is no separate cap in the case of the NZ ETS).&#13;
+For a given cap and trade scheme, the cap (plus the level of any allowed offsets) is one of the two core&#13;
+elements that determines demand (and, in turn, the value of carbon). The other core element is the reference&#13;
+(â&#128;&#152;anywayâ&#128;&#153;) level of emissions expected to occur. The â&#128;&#152;scarcityâ&#128;&#153; of the market commodity (the allowances),&#13;
+which gives carbon a value and drives emission reductions (or removal), is the difference between the cap and&#13;
+the reference emissions. In the absence of any permit carryover (banking) provisions to subsequent&#13;
+compliance periods, an overly generous cap that proves to be higher than the reference emissions will lead to&#13;
+the allowances having zero value. This occurred in the EU ETS Phase 1.&#13;
+All the caps in the schemes reviewed are set on an absolute tonnes basis. (This should not to be confused with&#13;
+the subsequent allocation of allowances, where a variety of absolute and relative approaches are taken. See&#13;
+&#13;
+&#13;
+                                                      -3-&#13;
+&amp;#12;the following section.)&#13;
+The effects of complementary policies and measures to the ETS (e.g., on energy efficiency or renewable&#13;
+energies) should be considered for the cap setting.&#13;
+&#13;
+Schemes address Cap setting as follows:&#13;
+EU ETS:&#13;
+    ï&#130;· For Phase 1 and Phase 2, each EU member state developed a national allocation plan that was&#13;
+        subsequently reviewed and approved by the European Commission based on criteria laid down in the&#13;
+        basic legislation (EU ETS Directive) and guidelines developed by the Commission.&#13;
+    ï&#130;· In Phase 3 the scheme transforms to an EU-wide cap based on the cap for Phase 2 and a linear&#13;
+        reduction factor of 1.74% annually from 2010 onwards (going beyond the end of Phase 3 in 2020).&#13;
+    ï&#130;· The EUâ&#128;&#153;s combined goals on GHG gas emission reductions and expansion of renewables (which is&#13;
+        subject to other policies and measures) were reflected explicitly when the cap was set.&#13;
+NZ ETS:&#13;
+    ï&#130;· There is no separate ETS cap in New Zealand; instead, it is nested within that of the Kyoto Protocol.&#13;
+RGGI:&#13;
+    ï&#130;· The cap is the sum of all allocations provided at the member states level. The objective for the period&#13;
+        2009-2014 is to stabilize emissions from the covered sources at an initial set level (of 188 million short&#13;
+        tons per annum) and then have this decline at 2.5% per annum over 2015-2018.&#13;
+CalETS:&#13;
+    ï&#130;· In 2013, the cap is set at about 2% below emission level forecast for 2012. It declines by 2% in 2014&#13;
+        and declines again by about 3% annually from 2015 to 2020. The overall objective of the scheme is to&#13;
+        contribute to the reductions needed to achieve the goal set under the California Assembly Bill (AB32),&#13;
+        which requires California to return its GHG emissions to 1990 levels by 2020.&#13;
+AusCPM:&#13;
+    ï&#130;· During the first 3 years (July 2012-July 2015), when the price of carbon units is fixed, emissions will&#13;
+        not be capped. Thereafter, the government will set an annual cap. The extent of the cap will be based&#13;
+        on advice from the Climate Change Authority and will be consistent with Australiaâ&#128;&#153;s downward&#13;
+        emissions trajectory (Australiaâ&#128;&#153;s unconditional commitment to reduce its GHG emissions by 5%&#13;
+        compared to 2000 levels by 2020).&#13;
+TokyoC&amp;T:&#13;
+    ï&#130;· The cap for the first compliance period (fiscal year 2010 to fiscal year 2014) aims to reduce total&#13;
+        emissions from capped sectors by 6% from base-year emissions. The second compliance period (fiscal&#13;
+        year 2015 to fiscal year 2019) will include a stricter cap (expected to be s 17% reduction; it will be&#13;
+        fixed during the 1st compliance period).&#13;
+    ï&#130;· The TokyoC&amp;T is a key measure for the TMG to achieving its target of reducing Tokyoâ&#128;&#153;s GHG emissions&#13;
+        by 25% below 2000 levels by 2020.&#13;
+&#13;
+&#13;
+Setting the points of obligation&#13;
+Setting the points of obligation means defining those entities that will have the legal requirement to&#13;
+surrender allowances against the emissions for which they are held responsible. This might either be the point&#13;
+where GHGs are released into the atmosphere (e.g., in the case of a fossil fuel power plant or a cement plant),&#13;
+or it could be emissions that occur downstream through the use of a product (e.g., petroleum products in the&#13;
+transportation sector or natural gas for heating businesses and homes).&#13;
+&#13;
+Schemes address setting points of obligation as follows:&#13;
+EU ETS:&#13;
+    ï&#130;· Points of obligation are essentially downstream. They include medium and large sources of emissions.&#13;
+NZ ETS:&#13;
+    ï&#130;· Points of obligation in the energy sector are essentially upstream, i.e., at the point when fossil fuels&#13;
+        are introduced into the economy. However, some large downstream emitters (e.g., fossil fuel fired&#13;
+&#13;
+                                                      -4-&#13;
+&amp;#12;        electricity generators) can elect to become points of obligations. The point of obligation for industrial&#13;
+        processes (e.g., cement plants) is downstream.&#13;
+RGGI:&#13;
+   ï&#130;·    Points of obligation are fossil fuel fired electricity generators.&#13;
+CalETS:&#13;
+    ï&#130;· Points of obligation are essentially downstream. They include large sources of emissions.&#13;
+AusCPM:&#13;
+   ï&#130;· Points of obligation are essentially downstream. They include large sources of emissions.&#13;
+TokyoC&amp;T:&#13;
+   ï&#130;· Points of obligation are downstream, on commercial buildings, district cooling &amp; heating facilities, as&#13;
+      well as commercial buildings using district heating and cooling and factories.&#13;
+Allocation of allowances&#13;
+Allocation is a critical step in any cap and trade scheme. It is what sets the distribution of costs of an ETS&#13;
+across participants and societies as a whole. Because of this, it is can be highly political and potentially&#13;
+contentious as various entities lobby the government seeking to best protect their interests. Approaching&#13;
+allocation, therefore, usually reflects decisions made regarding the points of obligation.&#13;
+There are two main methods of allocation: (1) gratis allocation of allowances, either based on historic&#13;
+emissions (sometimes referred to as â&#128;&#152;grandfatheringâ&#128;&#153;), or based on benchmarks (tons of CO2 per unit of&#13;
+product); and (2) selling allowances, e.g., at an auction conducted by the administrator of the ETS scheme. It is&#13;
+also possible to have a hybrid of these approaches, e.g., the case of the NZ ETS.&#13;
+A key consideration when deciding on the allocation approach is whether the point of obligation is able to&#13;
+(and likely will) pass on the cost (including the opportunity cost) of the allowances to some other party. If this&#13;
+is likely and the point of obligation is provided the allowances gratis, then the point of obligation is in a&#13;
+position to make a windfall profit from the scheme. Note that the solution is not to prevent firms from passing&#13;
+the costs on. A key purpose of a market mechanism like an ETS is to send price signals into the market for&#13;
+products and services. This helps stimulate efficiency responses, which are important to elicit.&#13;
+Another effect of providing allowances gratis is that their value shows up as an asset on balance sheets. This&#13;
+can provide a point of obligation an opportunity to capitalise on a larger asset sheet for the period prior to the&#13;
+surrender of allowances. This may be good for the point of obligation, but detrimental to others.&#13;
+These market distortions can lead to significant wealth transfers between groups of firms, which can be&#13;
+detrimental to economies and can lead to a political backlash following the introduction of an ETS. This is&#13;
+another lesson learned from the first two phases of the EU ETS. In that scheme, member countries' allocation&#13;
+was primarily grandfathered to points of obligation.&#13;
+Given the ability to pass on the costs of carbon, a scheme could allow the gratis allocation to entities other&#13;
+than those that are regulated in order to provide compensation on the consumer side.&#13;
+Auctioning allowances, or requiring points of obligation to buy allowances in the market (e.g., the NZ ETS), is&#13;
+generally a preferred approach to allocation. But this can be challenging when the points of obligation cannot&#13;
+easily pass on the cost, e.g., if they face competition from others in jurisdictions that do not face a carbon&#13;
+cost. In these cases, the provision of some level of gratis allowances can be a means of compensation. It might&#13;
+also be the case that a firm other than the point of obligation (for example, a firm further downstream) faces&#13;
+costs that cannot be passed on due to â&#128;&#152;across borderâ&#128;&#153; competitiveness concerns. To address this situation,&#13;
+gratis allowances can also be made to firms that are not points of obligation.&#13;
+Another important aspect of auctioning is that it can provide governments with revenues that can be used to&#13;
+invest in climate change mitigation actions and to address social issues that result from increased energy&#13;
+prices following the implementation of an ETS.&#13;
+In multi-period schemes the gratis allocation of allowances is not only a distributional issue and can&#13;
+significantly distort the uniform price on carbon across the regulated entities. Thus gratis allocation based on&#13;
+product-specific benchmarks as an alternative to gratis allocation based on historical emissions has raised&#13;
+&#13;
+                                                        -5-&#13;
+&amp;#12;increasing interest.&#13;
+&#13;
+Schemes address the allocation of allowances as follows:&#13;
+EU ETS:&#13;
+    ï&#130;· The allocation approach in Phases 1 and 2 was primarily gratis based on member countriesâ&#128;&#153; national&#13;
+        allocation plans (at least 95% of allowances in Phase 1 and 90% of allowances in Phase 2 should be&#13;
+        allocated gratis); however, following concerns of carbon price distortions and windfall profits among&#13;
+        electricity generators during Phase 1, some countries, such as Germany, introduced some level of&#13;
+        auctioning in Phase 2.&#13;
+    ï&#130;· From the start of the third trading period in 2013, auctioning will progressively replace gratis&#13;
+        allocation as the main method for allocating allowances to all EU ETS sectors except aviation. In&#13;
+        particular, electricity generators will not receive any EU allowances gratis (with the potential&#13;
+        exception of those in 10 new EU member states that may continue to allocate limited volumes of&#13;
+        allowances gratis for a few years in Phase 3). All other installations will receive free allocation based&#13;
+        on product-specific benchmarks derived from the 10% best installations within the EU&#13;
+NZ ETS:&#13;
+    ï&#130;· Points of obligation are required to buy allowances (New Zealand Units (NZU) and Kyoto compliance&#13;
+        units) in the market.&#13;
+    ï&#130;· Until the end of 2012, points of obligation are only required to submit 0.5 NZUs for each tonne of&#13;
+        CO2e. Also, they can choose to buy NZUs at NZ$25/unit from the government.&#13;
+    ï&#130;· As compensation for increased energy prices, firms in sectors considered to be at-risk for weakened&#13;
+        competitiveness internationally, receive a gratis allocation of NZUs based on an intensity factor (e.g.,&#13;
+        1.06 NZUs per tonne of bell pepper produced). Similarly, industrial process firms that are points of&#13;
+        obligation and deemed competitiveness-at-risk are provided with some level of gratis allocation.&#13;
+    ï&#130;· The level of emissions intensity of production for industrial sectors required to receive an allocation is&#13;
+        set out in legislation, being 800 tonnes of CO2 per million NZ dollars of revenue to receive a 60% rate&#13;
+        of allocation, and 1,600 tonnes of CO2 per million NZ dollars of revenue to receive a 90% rate of&#13;
+        allocation.&#13;
+    ï&#130;· Owners of post-1989 forests can receive gratis NZUs for CO2 removals (sequestration) occurring from&#13;
+        1 January 2008.&#13;
+RGGI:&#13;
+   ï&#130;· While RGGI rules require member states to auction at least 25% of allowances, overall member states&#13;
+      have elected to distribute 90% of allowances through quarterly auctions (with revenues from&#13;
+      auctioning directed at consumer benefits: energy efficiency, renewable energy, and other clean&#13;
+      energy technologies).&#13;
+CalETS:&#13;
+    ï&#130;· For large industrial facilities, allowances are initially provided gratis, based on industry benchmarks.&#13;
+        Over time, allowances will be auctioned.&#13;
+    ï&#130;· For electric utilities, allowances are provided gratis, with value of allowances to benefit ratepayers.&#13;
+        Allowances will be set at about 90% of average emissions computed from recent data.&#13;
+AusCPM:&#13;
+   ï&#130;· Permits (allowances) will be allocated by auctioning, taking into account transitional assistance&#13;
+      provisions for key sectors (allocations of gratis permits based on intensity formulas, and potentially&#13;
+      cash payments).&#13;
+          o All revenue from the carbon price will be used by the government to (i) assist households;&#13;
+              (ii) support competitiveness; and (iii) invest in clean energy and climate change programs.&#13;
+TokyoC&amp;T:&#13;
+   ï&#130;· Allowances are freely allocated at the beginning of each compliance period, according to the&#13;
+      grandfathering method based on past emissions.&#13;
+   ï&#130;· New office buildings and other new entrants built after fiscal year 2010 are allocated allowances from&#13;
+      a new entrants reserve free of charge.&#13;
+&#13;
+                                                      -6-&#13;
+&amp;#12;MRV and Compliance&#13;
+The functioning of a cap and trade scheme relies on the following core pillars:&#13;
+    ï&#130;·   that the commodity is secure within its supply and demand boundaries, i.e., that units created are&#13;
+        genuine and the emissions that will â&#128;&#152;consumeâ&#128;&#153; the commodity are properly measured and accounted;&#13;
+    ï&#130;·   that points of obligation comply with their obligations â&#128;&#147; and that governments enforce these&#13;
+        requirements, including with penalties sufficiently high that the cost of non-compliance for entities is&#13;
+        much greater than the benefits they can derive by not complying;&#13;
+    ï&#130;·   that there is transparency and publicly available information on GHG emissions; and&#13;
+    ï&#130;·   that the market has visibility of demand and supply and transaction prices, including so that entities&#13;
+        can make the judgement when it is cheaper for them to mitigate and when it is cheaper to buy units â&#128;&#147;&#13;
+        the fundamental â&#128;&#152;least costâ&#128;&#153; point of the use of price-based instruments like cap and trade schemes.&#13;
+Schemes address MRV and compliance as follows:&#13;
+EU ETS:&#13;
+    ï&#130;· Common MRV rules are set out through â&#128;&#152;MRGâ&#128;&#153; guidelines developed by the European Commission for&#13;
+        all source types covered in the EU ETS.&#13;
+    ï&#130;· Point of obligation entities must have approved monitoring plans as part of their permits to operate&#13;
+    ï&#130;· Member countries have national emissions authorities responsible to ensure monitoring, third-party&#13;
+        verification and reporting of the emissions of point of obligation entities, based on activity data and&#13;
+        emissions factors; public release of emissions is done annually on an installation level.&#13;
+    ï&#130;· Allowances are held in national registries in Phases 1 and 2; from Phase 3 these registries will be&#13;
+        transferred to an EU-wide registry.&#13;
+    ï&#130;· The penalty for a point of obligation failing to retire sufficient allowances is â&#130;¬100/tonne plus the&#13;
+        make-up of the short allowances.&#13;
+NZ ETS:&#13;
+    ï&#130;· MRV rules are set out in regulations under the legislation.&#13;
+    ï&#130;· Points of obligation (â&#128;&#152;participantsâ&#128;&#153;) must collect the data and information prescribed and must use&#13;
+        prescribed methodologies to calculate their emissions; third party verification is not required, but&#13;
+        participants can be audited (this follows general practice for tax returns in New Zealand).&#13;
+    ï&#130;· Reporting of emissions by participants is done on an annual basis (by 31 March for emissions in the&#13;
+        previous calendar year).&#13;
+    ï&#130;· Units (NZUs and other accepted Kyoto compliance units) must be surrendered for the previous yearâ&#128;&#153;s&#13;
+        emissions by 31 May.&#13;
+    ï&#130;· Units are held in the national units registry.&#13;
+    ï&#130;· The penalty for a point of obligation failing to retire sufficient units is NZ$30/unit plus the make-up of&#13;
+        the short units. A fine regime (of up to NZ$50,000 for firms) exists for any wilfully false declarations&#13;
+        and a participant can face imprisonment for up to five years for deliberately lying about obligations&#13;
+        under the NZ ETS to gain financial benefit or avoid financial loss.&#13;
+RGGI:&#13;
+   ï&#130;· Common MRV rules are set out through a RGGI â&#128;&#152;Model Ruleâ&#128;&#153; and enacted through legislation and&#13;
+      regulations in the member states.&#13;
+   ï&#130;· Monitoring is done on a quarterly basis and reported within 30 days of the end of each quarter.&#13;
+   ï&#130;· The surrendering of allowances is done at the end of the three compliance period (first ends on&#13;
+      31 December 2011).&#13;
+   ï&#130;· Allowances are held in the RGGI CO2 Allowances Tracking System.&#13;
+   ï&#130;· Penalties for non-compliance are determined by each member state â&#128;&#147; and are of the order of 3:1.&#13;
+CalETS:&#13;
+    ï&#130;· Capped industries must continue to report emissions annually (as required since 2008).&#13;
+    ï&#130;· Independent third-party verification of reported emissions.&#13;
+    ï&#130;· If deadline for surrendering allowances is missed or there is a shortfall, four allowances must be&#13;
+        provided for every ton of emissions that was not covered in time.&#13;
+                                                      -7-&#13;
+&amp;#12;    ï&#130;·   The program includes mechanisms to prevent market manipulation.&#13;
+AusCPM:&#13;
+   ï&#130;· MRV and compliance rules will be set out in regulation and the market oversight system managed by&#13;
+      a new Clean Energy Regulator that will begin operating in April 2012.&#13;
+TokyoC&amp;T:&#13;
+   ï&#130;· Covered facilities are obliged to report GHG emissions in the previous fiscal year to the governor and&#13;
+      to disclose such data every fiscal year. (Penalties apply to facilities that fail to meet their reporting and&#13;
+      disclosure obligations.)&#13;
+   ï&#130;· GHG emissions are verified by a third-party agency registered with the governor of Tokyo.&#13;
+Emissions trading periods; Enabling trading and fostering stability&#13;
+Cap and trade schemes take time to design and implement. Most schemes have had some form of soft â&#128;&#152;take -&#13;
+offâ&#128;&#153;. This normally entails a period in advance of the first compliance period where points of obligation be gin&#13;
+to monitor and report emissions following the schemeâ&#128;&#153;s rules. This can start with a voluntary period, then a&#13;
+mandatory period, e.g., 6 months each in the year prior to when emissions carry the obligation to be matched&#13;
+with units.&#13;
+During this start-up phase, the scheme can also be readying other key elements of â&#128;&#152;the architectureâ&#128;&#153;, e.g., the&#13;
+allocation rules and process and units registry, including the legal framework by which the scheme will be&#13;
+given force and the regulatory authority that will manage it.&#13;
+Regarding compliance periods, the key issues are:&#13;
+    ï&#130;·   How long should compliance periods be? And should more than one be established at the outset?&#13;
+    ï&#130;·   When are points of obligation required to surrender units equal to their emissions â&#128;&#147; periodically&#13;
+        through the compliance period or just at the end? If periodically, is this timing specifically connected&#13;
+        to when emissions are to be reported? And to when allowances are allocated (whether gratis or by&#13;
+        auction)?&#13;
+    ï&#130;·   Can unused allowance allocations be carried over to the next period? Will this also apply to possible&#13;
+        voluntary, trial or pilot phases?&#13;
+    ï&#130;·   Will there be phased entry of sectors? If so, how can emissions reporting and allowance allocations&#13;
+        for new sectors be managed to ensure an entry that is as seamless as possible into the market and&#13;
+        that minimizes price volatility?&#13;
+One key issue with respect to â&#128;&#152;market stabilityâ&#128;&#153; are fears (of some) about prices for allowances becoming too&#13;
+high â&#128;&#147; or too low. Are mechanisms needed to address these concerns?&#13;
+Another key issue is the extent to which the government (and scheme regulating authority) will play an active&#13;
+role in helping the broader set of players get ready (usually from the private sector that typically become&#13;
+integral parts of a well functioning market). These include:&#13;
+    ï&#130;·   Forums for buyers and sellers to connect with each other, which can range from formal carbon&#13;
+        trading exchanges to web-based platforms accessible from smart phones.&#13;
+    ï&#130;·   Legal services, to provide contracts needed by buyers and sellers (noting that buying and selling will&#13;
+        often occur on a forward basis prior to the allocation of allowances).&#13;
+    ï&#130;·   Insurance services, to address and spread risks if something does not happen as expected.&#13;
+    ï&#130;·   Market information services that provide details of trading activity, and prospective activity, given&#13;
+        trends in underlying fundamentals that lead to demand and supply.&#13;
+    ï&#130;·   Consulting services for how to mitigate carbon risks or capture carbon opportunities.&#13;
+Or can a more hands-off â&#128;&#156;build it and they will comeâ&#128;&#157; approach be adopted?&#13;
+&#13;
+Insights available from the schemes on emissions trading periods include:&#13;
+&#13;
+&#13;
+                                                       -8-&#13;
+&amp;#12;    ï&#130;·   It has been common to have a number of multi-year periods. (See section on â&#128;&#156;Coverageâ&#128;&#157;).&#13;
+    ï&#130;·   Carryover of surplus allowances to a following period is normally allowed. This is considered a key&#13;
+        means to incentivize over-compliance in early trading periods, especially if caps will be progressively&#13;
+        tightened. Where this did not happen in the case of the EU ETS Phase 1, this was one of the reasons&#13;
+        (along with over-allocation because the cap was established and the scheme started before there was&#13;
+        a good understanding of the expected reference level emissions) that the price collapsed to zero by&#13;
+        the end of the period. However, the arguments on allowing banking or not must be balanced between&#13;
+        the consequences of trial and error during the take-off and the implications of non-banking.&#13;
+    ï&#130;·   The practice is normally to have annual surrender of allowances by points of obligation following a&#13;
+        period of time (e.g., 1 - 3 months) after their annual emissions reports are provided. In RGGI, the fact&#13;
+        that surrender does not happen until the end of the first three-year compliance period is one reason&#13;
+        given (by some market observers) for the low levels of trading activity in the early years of the&#13;
+        scheme.&#13;
+    ï&#130;·   A lesson from both the EU ETS and NZ ETS is that care needs to be taken in the early stages to better&#13;
+        match the flow of supply of allowances with the demand-side compliance surrender dates, although&#13;
+        this also depends on the schemesâ&#128;&#153; rules on the use of offsets (e.g., CDM credits) and the availability of&#13;
+        these. Liquidity (an adequate supply of units in the market) and information on emissions and&#13;
+        allocations are important for markets to work effectively, including providing price discovery so the&#13;
+        market price signal is visible and guides investment decisions.&#13;
+    ï&#130;·   Where the scheme includes multiple sectors, it has been usual practice to us a phase-in approach.&#13;
+    ï&#130;·   The NZ ETS and the contemplated AusCPM both include a price control mechanism, essentially the&#13;
+        option of buying allowances from the government at a specific price. In the case of the NZ ETS, this&#13;
+        mechanism has proven to be unnecessary. The price of units in the market has always been lower&#13;
+        than the price cap (currently around 60%). In the AusCPM, a price ceiling and floor will apply for the&#13;
+        first 3 years of the flexible carbon price period (2015-2018). The price ceiling will be set at A$20 above&#13;
+        the expected international price and will rise by 5% in real terms each year. The price floor will be&#13;
+        A$15, rising by 4% each year in real terms. In RGGI, there is a price floor (minimum price) for&#13;
+        allowances being auctioned and auction prices have hovered just above this floor â&#128;&#147; because of what&#13;
+        appears to have been an overly generous cap, including in light of lower emissions because of&#13;
+        depressed economic activity in the region since 2008.&#13;
+&#13;
+    ï&#130;·   A â&#128;&#152;hands-offâ&#128;&#153; approach has generally been taken with respect to the readiness of the more ancillary&#13;
+        private sector market players.&#13;
+&#13;
+&#13;
+Institutional arrangements, including technical and legal infrastructures&#13;
+Cap and trade schemes need to be set in some form of legal framework. Like any market commodity, carbon&#13;
+derives its value through scarcity and this relies on rules requiring emitters to match their emissions with&#13;
+allowances and face penalties if they do not. Moreover allowances have a value and trading in them can&#13;
+represent wealth transfers between private sector players and between the private sector and governments.&#13;
+There are three key classes of issues requiring institutional arrangements:&#13;
+    ï&#130;·   Policy setting â&#128;&#147; e.g., what sectors to include, what should the cap be, who should be considered as&#13;
+        points of obligation, what method of allocations should be employed, what methods should be&#13;
+        adopted for monitoring and reporting emissions and compliance obligations, what methods of&#13;
+        compensation should be employed for firms and households disproportionately (and unacceptably)&#13;
+        impacted by increases in the cost of energy and other commodities, how should any revenues (e.g.,&#13;
+        from government auctions of allowances) be distributed? These are not just one-off issues only to be&#13;
+        addressed at the start-up of a scheme. The initial scheme settings dealing with these issues may&#13;
+        require programmed periodic review&#13;
+    ï&#130;·   Operational â&#128;&#147; e.g., implementing the monitoring and reporting methods with points of obligation,&#13;
+&#13;
+                                                      -9-&#13;
+&amp;#12;        establishing and operating the units registry, establishing and implementing (and enforcing) the&#13;
+        compliance regime, managing the compensation disbursements&#13;
+    ï&#130;·   Market oversight â&#128;&#147; e.g., implementing provisions to avoid abuse of market power and fraud within&#13;
+        the carbon market â&#128;&#147; preferentially compatible with, or integrated in the provisions set up for, other&#13;
+        commodity and financial markets&#13;
+For schemes involving multiple independent legal/sovereign jurisdictions (e.g., the EU ETS and RGGI), there is&#13;
+also the institutional issue of how these can operate within a common or harmonised framework.&#13;
+&#13;
+Insights available from the schemes on institutional arrangements include:&#13;
+   ï&#130;·    There is normally a separation of institutions between policy and operations. In particular, the process&#13;
+        for cap setting should be separate from the process for allocation.&#13;
+   ï&#130;·    This may involve existing institutions or require the set up of new fit-for-purpose institutions. The&#13;
+        units (and emissions) registry is a critical institutional function and is central to the operational&#13;
+        integrity of the scheme.&#13;
+   ï&#130;·    The way in which verification is handled reflects other aspects of the legal systems in the specific&#13;
+        jurisdictions, e.g., in New Zealand where the tax system involves self reporting following standard&#13;
+        guidelines, the possibility of audits, strict fines and the possibility of prison sentences for wilful&#13;
+        misreporting.&#13;
+   ï&#130;·    Third-party verification requires an early phase-in of provisions for preparation and accreditation of&#13;
+        verification service providers.&#13;
+   ï&#130;·    In multi-jurisdiction schemes there is usually a central third-party body that develops the rules and&#13;
+        guidelines, and requires (or encourages) the individual jurisdictions to follow these rules and&#13;
+        guidelines e.g.,&#13;
+        o   in the case of the EU ETS, the European Commission, has a policy making role while operation is&#13;
+            mainly carried out at the national level; and&#13;
+        o   in the case of RGGI, a not-for-profit corporation (RGGI Inc) created to provide a suite of&#13;
+            operational services to the RGGI member states â&#128;&#147; following the development of the RGGI â&#128;&#152;Model&#13;
+            Ruleâ&#128;&#153; by a RGGI working group made up of staff of the participating states.&#13;
+   ï&#130;·    The infrastructure for trading on the primary and secondary markets (e.g., standard contracts, trading&#13;
+        platforms) is usually left to the private sector, but should be subject to commodity and financial&#13;
+        market oversight.&#13;
+   ï&#130;·    The implementation of cap and trade schemes requires a range of complementary provisions with&#13;
+        regard to taxation and accounting standards as well as early measures for the respective education of&#13;
+        the regulated entities.&#13;
+&#13;
+&#13;
+Use of offsets and linking&#13;
+Offsets are usually provided for in schemes as a means to lower the cost of compliance, as they access&#13;
+opportunities for cheaper emission reductions and sink enhancements that occur outside the boundary of the&#13;
+scheme. Given that the atmospheric concentrations of GHGs are insensitive to where GHGs are emitted or&#13;
+reduced, the provisions of offsets can enhance the economic efficiency of meeting climate change mitigation&#13;
+goals set in a cap-and-trade scheme. However, because the use of offset credits allows emissions inside the&#13;
+boundary to be higher than they would otherwise be (i.e., effectively increasing the cap of a cap and trade&#13;
+scheme), for environmental integrity purposes it is important that offset credits are derived from real&#13;
+mitigation actions that lower emissions below where they would have been otherwise. If not, the atmosphere&#13;
+sees an increase in emissions.&#13;
+In order to ensure that the cap-and-trade scheme provides an incentive for investments in low and zero&#13;
+emissions technologies within the jurisdiction of the cap-and-trade scheme, as well as to ensure that the cap&#13;
+is met at least partly through reductions of GHG emissions covered under the cap-and-trade scheme â&#128;&#147; and&#13;
+                                                     - 10 -&#13;
+&amp;#12;not entirely through offsets â&#128;&#147; it is common practice for there to be constraints on the provision of offsets,&#13;
+both in their nature and quantity.&#13;
+Linking refers to the connection, in some manner, of one cap and trade scheme with another. The other&#13;
+scheme might be another cap and trade scheme or to an offsets generating scheme, such as the CDM. This&#13;
+might also be an indirect means by which two cap and trade schemes become linked (to a degree), e.g., two&#13;
+cap and trade schemes may have no formal links but may both accept CDM credits as offsets.&#13;
+Direct links of two cap and trade schemes are feasible, and there are active efforts by international policy&#13;
+experts to determine how this can be done, e.g., those being undertaken in the International Carbon Action&#13;
+Partnership (ICAP) initiative. But there is a range of challenges to linking that need to be overcome through&#13;
+these technical discussions. In particular, the demand and supply fundamentals are likely to be unique to each&#13;
+particular scheme and, consequently, so will the price for carbon. Even where both schemes may accept CDM&#13;
+credits, there may be different constraints to the use of CDM credits, so the effect of these on the price of&#13;
+allowances in the two schemes may be different. Moreover, the price for CDM credits in the market may be&#13;
+higher than the price for allowances in a given scheme (e.g., in RGGI) so will not be an influencing factor in&#13;
+such a scheme.&#13;
+&#13;
+A number of issues shall be taken into account for linking. They most often trace back to the effect on price&#13;
+and cost distribution in each scheme, both in general and with respect to individual emitting entity types.&#13;
+These include:&#13;
+    ï&#130;·   What is the relative stringency of the overall caps, by comparison with the likely marginal abatement&#13;
+        costs of major emitter groups?&#13;
+    ï&#130;·   What are the allocation methods (e.g., auction or gratis, and if gratis on an absolute or intensity&#13;
+        basis)?&#13;
+    ï&#130;·   Are there cost compensation provisions included in the scheme?&#13;
+    ï&#130;·   Are there price control mechanisms?&#13;
+    ï&#130;·   Are there policy requirements for levels of abatement required from sources within a schemeâ&#128;&#153;s&#13;
+        boundary?&#13;
+    ï&#130;·   What provisions are included for offsets?&#13;
+    ï&#130;·   What are the market oversight mechanisms?&#13;
+&#13;
+Schemes address offsets and linking as follows:&#13;
+EU ETS:&#13;
+    ï&#130;· In Phase 2, the EU ETS has accepted CDM credits (as well JI credits), but with some constraints on&#13;
+        both the type and quantity. Key exclusions have been credits from forest and nuclear projects.&#13;
+    ï&#130;· In Phase 3 these constraints will be tightened further, e.g., industrial gas projects will no longer be&#13;
+        allowed. Eligibility of CDM credits from projects registered after 2012 will be limited to only projects&#13;
+        located in least developed countries (LDCs). The EU is looking to sectoral crediting mechanisms as the&#13;
+        means for other developing countries to provide offset credits. However, Use of international credits&#13;
+        should not exceed 50% of reduction below 2005.&#13;
+    ï&#130;· The EU is interested in the possibility of linking the EU ETS with other countriesâ&#128;&#153; domestic emissions&#13;
+        trading schemes; but not with the effect of significantly affecting on the incentive for mitigation&#13;
+        actions within the EU.&#13;
+NZ ETS:&#13;
+    ï&#130;· As a key purpose of the design of the NZ ETS was to connect it to the international Kyoto price for&#13;
+        carbon, the NZ ETS currently allows an unlimited supply of CDM and other Kyoto compliance units,&#13;
+        subject to some exceptions. There is exclusion for compliance purposes of tCERs, lCERs and CERs and&#13;
+        ERUs generated from nuclear power projects. An exclusion for CERs from HFC-23 and N2O destruction&#13;
+        projects has also recently been adopted.&#13;
+    ï&#130;· New Zealand is an active participant in the international technical discussions about linking emissions&#13;
+&#13;
+                                                     - 11 -&#13;
+&amp;#12;        trading schemes. There are active technical discussions occurring about the feasibility of linking the&#13;
+        NZ ETS with the upcoming AusCPM.&#13;
+RGGI:&#13;
+   ï&#130;· Offsets from anywhere in the United States are allowed, but limited to methane capture (from&#13;
+      landfills, farming operations and leaking natural gas infrastructure), energy efficiency of natural gas&#13;
+      and oil heating, afforestation and capture of SF6 emissions from electricity transmission and&#13;
+      distribution equipment. Sources can cover up to 3.3% of their emissions using offset allowances, an&#13;
+      amount initially estimated to be up to 50% of their emissions reduction obligations.&#13;
+   ï&#130;· If the price of RGGI allowances rises to $7 per ton, sources can cover up to 5% of their emissions using&#13;
+      offsets. If it rises to $10 per ton, sources can cover up to 10% and also use allowances from the EU ETS&#13;
+      and CDM.&#13;
+   ï&#130;· In practice, given the very low prices in RGGI allowance auctions (currently hovering around the floor&#13;
+      price of $1.89), there is limited incentive for offset projects.&#13;
+   ï&#130;· The low price and reasons for this (essentially a cap that is above current emissions levels), plus the&#13;
+      prevailing political environment (where some states are seeking to leave RGGI) would seem to be&#13;
+      major barriers to linking RGGI with other schemes.&#13;
+CalETS:&#13;
+    ï&#130;· Offsets are allowed â&#128;&#147; up to 8% of a covered entityâ&#128;&#153;s compliance obligation.&#13;
+    ï&#130;· There are 3 sources of compliance offsets: (1) offsets issued by the California Air Resources Board&#13;
+        (ARB); (2) offsets issued by a linked regulatory program, and (3) offsets issued by sector based&#13;
+        mechanisms (2 and 3 are subject to future rule-making).&#13;
+        1. â&#128;&#156;Compliance Offsetsâ&#128;&#157; issued by ARB from projects developed under ARB-approved compliance&#13;
+           offset protocols: â&#128;&#156;A Compliance Offset Protocol must specify where the protocol is applicable. The&#13;
+           geographic boundary must be within the United States or its Territories, Canada, or Mexico.â&#128;&#157; To&#13;
+           date, ARB has adopted 4 compliance offset protocols1: (i) U.S. Forest Projects; (ii) Livestock&#13;
+           Projects; (iii) Ozone Depleting Substances Projects; and (iv) Urban Forest Projects. For those four&#13;
+           protocols, eligible activities must be US-based. So localization eligibility is defined by the&#13;
+           protocols. In addition, â&#128;&#156;Early Actionsâ&#128;&#157; are recognized for reductions made between January 2005&#13;
+           and December 2014: Early action projects must be US-based. To date, 4 California Action Reserve&#13;
+           (CAR) protocols can generate early action credits.&#13;
+        2. Compliance offsets issued by a linked regulatory program. CalETS is designed to link with similar&#13;
+           trading programs in other states and regions. For example, California is taking a lead role in the&#13;
+           Western Climate Initiative also involving four Canadian provinces that look to the linking of&#13;
+           (future) emission trading schemes.2&#13;
+        3. Offsets issued by sector based offset mechanisms:&#13;
+           ï&#130;· From developing countries or from subnational jurisdictions within those developing&#13;
+                countries;&#13;
+           ï&#130;· REDD3, others to be defined; and&#13;
+           ï&#130;· Sub-limit on the use of sector-based offsets for compliance: 1st compliance period no more&#13;
+                than 2% of an entityâ&#128;&#153;s compliance obligation, 2nd and 3rd compliance periods no more than&#13;
+                4%.&#13;
+AusCPM:&#13;
+   ï&#130;· A companion policy in Australia is a project based crediting scheme for land-use, agriculture and&#13;
+      forest credits called the Carbon Farming Initiative (CFI). Australian Carbon Credits Units (ACCUs)&#13;
+      issued under the CFI are acceptable permits under the proposed AusCPM (with some constraints).&#13;
+&#13;
+1 Additional protocols are under consideration by ARB, such as Emissions Reductions in Rice Management Systems, N2O&#13;
+Emissions Reductions from Changes in Fertilizer Management, Conversion of High-Bleed Pneumatic Controllers in Oil &amp;&#13;
+Natural Gas Systems.&#13;
+2&#13;
+  A draft regulation for linking Californiaâ&#128;&#153;s and Quebecâ&#128;&#153;s Cap -and-Trade programs expected to undergo stakeholder&#13;
+comments in spring 2012, and be considered by ARB in June 2012.&#13;
+3&#13;
+  With regards to REDD, an memorandum of understanding was signed with Acre in Brazil and Chiapas in Mexico.&#13;
+Working groups have been established to make recommendations on the future inclusion of REDD offsets.&#13;
+                                                      - 12 -&#13;
+&amp;#12;   ï&#130;·  Kyoto credits (CERs, ERUs, RMUs) are eligible for use in the carbon price mechanism, but with&#13;
+      restrictions to exclude CERs and ERUs sources from: (i) nuclear energy projects; (ii) certain industrial&#13;
+      gas destruction projects; (iii) large-scale hydro-electric projects that are not consistent with World&#13;
+      Commission on Dams; or (iv) certain time-limited land-use sector projects (temporary and long-term&#13;
+      CERs). Further restrictions may be added on the advice of the Climate Change Authority.&#13;
+   ï&#130;· Until 2020, liable parties (points of obligation) must meet at least 50% of their annual liability with&#13;
+      domestic permits (including CFI credits). The Climate Change Authority will review this restriction in&#13;
+      2016.&#13;
+   ï&#130;· The Australia government will consider future bilateral links with other international schemes that are&#13;
+      of a suitable standard, based on a range of criteria, including the following:&#13;
+       o an internationally acceptable (or, where applicable, a mutually acceptable) level of mitigation&#13;
+           commitment;&#13;
+       o adequate and comparable monitoring, reporting and verification, compliance and enforcement&#13;
+           mechanisms; and&#13;
+       o compatibility in design and market rules.&#13;
+TokyoC&amp;T:&#13;
+   ï&#130;· Covered facilities may use several offset projects to meet their obligations.&#13;
+   ï&#130;· The TMGâ&#128;&#153;s offset projects basically cover the industrial sector and the commercial sector:&#13;
+   ï&#130;· (a) Small and medium-sized installation credits within the Tokyo area: emissions reductions achieved&#13;
+      through energy-saving measures by small and medium-sized facilities other than facilities under the&#13;
+      scope of the TokyoC&amp;T.&#13;
+   ï&#130;· (b) Outside Tokyo credits: emissions reduction achieved through energy-saving measures. The TMG&#13;
+      sets restrictions, including upper limits, to ensure that emissions continue to be reduced within the&#13;
+      Tokyo metropolitan area.&#13;
+   ï&#130;· (c) Renewable Energy Certificates: the TokyoC&amp;T program prioritizes renewable energy certificates as&#13;
+      one of the most effective offset credits. In particular, for electricity generated by solar power, wind&#13;
+      power, geothermal power, and hydropower (generation below 1,000 kW), the renewable energy&#13;
+      credit is calculated at one and a half (1.5) times the general amount.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                    - 13 -&#13;
+&amp;#12;&amp;#12;</ml:original-txt><ml:search-metadata><doc id="24192552">
+        <url>
+            http://documents.worldbank.org/curated/en/2012/04/24192552/domestic-emissions-trading-existing-proposed-schemes
+        </url>
+        <availablein>English</availablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2012/04/24192552/domestic-emissions-trading-existing-proposed-schemes</url_friendly_title>
+        <new_url>2012/04/24192552/domestic-emissions-trading-existing-proposed-schemes</new_url>
+        <disclosure_date>2015-03-24T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2015-03-24T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2015/03/24/000442464_20150324105101/Rendered/INDEX/951910Partners00Box385315B00PUBLIC0.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2015/03/24/000442464_20150324105101/Rendered/PDF/951910Partners00Box385315B00PUBLIC0.pdf</pdfurl>
+        <docdt>2012-04-01T00:00:00Z</docdt>
+        <datestored>2015-03-24T00:00:00Z</datestored>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            Domestic emissions trading : existing and
+            proposed schemes
+        </repnme>
+        <abstracts>
+            This document provides an overview and
+            summary assessment of lessons and insights learned from
+            various existing and presented domestic cap and trade
+            schemes. For each scheme, a set of general characteristics
+            (or issues) is considered. The characteristics (or issues)
+            covered include the following: (i) coverage and scope; (ii)
+            setting a cap; (iii) setting the points of obligation; (iv)
+            allocation of allowances; (v) systems for domestic
+            monitoring, reporting and verification, (MRV) and
+            compliance; (vi) enabling trading and fostering stability;
+            (vii) institutional arrangements, including technical and
+            legal infrastructures; and (viii) use of offsets and
+            linking. The domestic emissions trading schemes (ETS)
+            included in this assessment are the following: (i) European
+            Union (EU) ETS; (ii) New Zealand (NZ) ETS; (iii) United
+            States (U.S.) northeast states regional greenhouse gas
+            initiative (RGGI); (iv) California (Cal) ETS; (v) Australia
+            clean energy future carbon pricing mechanism (Aus CPM); and
+            (vi) Tokyo cap and trade program (C and T).
+        </abstracts>
+        <docna>
+            Domestic emissions trading : existing and
+            proposed schemes
+        </docna>
+        <display_title>Domestic emissions trading :
+            existing and proposed schemes</display_title>
+        <listing_relative_url>/research/2012/04/24192552/domestic-emissions-trading-existing-proposed-schemes</listing_relative_url>
+        <topic>Climate Change Adaptation Impacts m1327768 1750,Climate Change Mitigation m1327079 579,Climate Change Law m1327365 959,Carbon Emissions and Transport m1327367 1822,Low-Emissions Transport m1326462 163</topic>
+        <docty>Working Paper (Numbered Series)</docty>
+        <subtopic>Climate Change Mitigation and Green House Gases,Climate Change Economics,Energy Production and Transportation,Energy and Environment,Environment and Energy Efficiency</subtopic>
+        <teratopic>Environment,Energy,Macroeconomics and Economic Growth</teratopic>
+        <count>World</count>
+        <entityids>
+            <entityid>000442464_20150324105101</entityid>
+        </entityids>
+        <admreg>The World Region,The World Region</admreg>
+        <colti>Partnership for Market Readiness technical
+            papers ; no. 2</colti>
+        <lang>English</lang>
+        <historic_topic>Environment,Energy,Macroeconomics and Economic Growth</historic_topic>
+        <topicv3>Climate Change Adaptation Impacts m1327768 1750,Climate Change Mitigation m1327079 579,Climate Change Law m1327365 959,Carbon Emissions and Transport m1327367 1822,Low-Emissions Transport m1326462 163</topicv3>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            abatement costs, afforestation, Air, Air
+            Resources, Allocation, Allocation of allowances, allowance,
+            allowance allocations, ammonia, annual cap, annual
+            emissions, approach, atmosphere, atmospheric concentrations,
+            auction, availability, balance, base-year emissions, caps,
+            Carbon, Carbon Credits, carbon market, Carbon Offset, carbon
+            price, carbon trading, carbon units, cement, cement plant,
+            cement plants, Clean Energy, clean energy technologies,
+            Climate, Climate Change, climate change mitigation, CO2,
+            coal, coal mines, combustion activities, cost of energy,
+            crude oil, distribution of costs, district heating, Domestic
+            Emissions, economic activity, electric utilities,
+            electricity, electricity generating, emission, emission
+            level, emission reductions, emission trading, Emissions,
+            emissions factors, emissions from agriculture, emissions
+            from aviation, emissions from deforestation, emissions from
+            energy, emissions from fuel, emissions from fuel combustion,
+            emissions from industry, emissions intensity, emissions
+            levels, emissions reduction, Emissions Reductions, energy
+            consumption, energy efficiency, energy prices, energy-saving
+            measures, environmental integrity, feasibility, financial
+            loss, financial markets, forest, forest lands, Forest
+            Projects, forestry, forestry activities, forests, fossil,
+            fossil fuel, fossil fuel power, fossil fuels, free
+            allocation, fuels, fugitive emissions, gas emission, gas
+            projects, generation, geothermal power, GHG, GHGs,
+            Greenhouse, Greenhouse Gas, greenhouse gases, historical
+            emissions, hydropower, Insurance, international credits,
+            investment decisions, iron, land-use change, landfills,
+            level of emissions, major emitter, marginal abatement,
+            market distortions, member states, methane, minimum price,
+            N2O, national emissions, natural gas, natural gas
+            infrastructure, Natural Gas Systems, nitrous oxide, nuclear
+            energy, nuclear power, offset credits, offset projects, oil
+            equivalent, oil refineries, organic chemicals, Ozone, Ozone
+            Depleting Substances, penalties, petroleum, petroleum
+            products, PFCs, policy makers, power plant, price of
+            allowances, price signal, price volatility, Regional
+            Greenhouse Gas Initiative, renewable energies, renewable
+            energy, secondary markets, SF6, sink, solar power, thermal
+            input, total emissions, trading programs, Use of offsets,
+            value of allowances, waste, wind, wind power, windfall
+            profits, zero emissions
+        </keywd>
+        <owner>Climate Change - D1-GCCCF - IBRD (GCCCF),GCCCF Climate Finance &amp; Carbon (GCCCF)</owner>
+        <repnb>95191</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>Social Development &amp; Poverty</ml:concept><ml:concept>Transportation</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>PPP</ml:concept><ml:concept>Public-Private Partnerships</ml:concept><ml:concept>Energy</ml:concept><ml:concept>Energy and Mining</ml:concept><ml:concept>Environment</ml:concept><ml:concept>Sustainable Climate Business</ml:concept><ml:concept>Sustainable Energy Finance</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Social Development</ml:concept><ml:concept>Transport</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Public-Private Partnerships (PPP)</ml:concept><ml:concept>Agriculture and Food Security</ml:concept><ml:concept>Economic Growth</ml:concept><ml:concept>Energy and Extractives</ml:concept><ml:concept>Environment and Natural Resources</ml:concept><ml:concept>Climate Change</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Legislation and Regulation</ml:concept><ml:concept>Energy Demand</ml:concept><ml:concept>Commodities</ml:concept><ml:concept>Commodity Prices</ml:concept><ml:concept>Commodity Rich Countries</ml:concept><ml:concept>Natural Resources</ml:concept><ml:concept>Airports and Air Services</ml:concept><ml:concept>Aviation</ml:concept><ml:concept>Energy Conservation &amp; Efficiency</ml:concept><ml:concept>Energy Conservation and Efficiency</ml:concept><ml:concept>Climate Change Mitigation and Green House Gases</ml:concept><ml:concept>Political Economy</ml:concept><ml:concept>Political Economy Analysis</ml:concept><ml:concept>Checks on Executive Power</ml:concept><ml:concept>Citizen Oversight</ml:concept><ml:concept>Citizen User Satisfaction Survey</ml:concept><ml:concept>Independent Commissions</ml:concept><ml:concept>Ombudsmen</ml:concept><ml:concept>Oversight</ml:concept><ml:concept>Parliament</ml:concept><ml:concept>Procurement Complaints Review Institutions</ml:concept><ml:concept>Supreme Audit Institutions</ml:concept><ml:concept>Fuels</ml:concept><ml:concept>Legislation</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Energy Consumption</ml:concept><ml:concept>Agriculture</ml:concept><ml:concept>Boundaries</ml:concept><ml:concept>Commodities and Resources</ml:concept><ml:concept>Air Transport</ml:concept><ml:concept>Forests</ml:concept><ml:concept>Carbon Pricing</ml:concept><ml:concept>Methane</ml:concept><ml:concept>Refineries</ml:concept><ml:concept>Infrastructure</ml:concept><ml:concept>Energy Efficiency</ml:concept><ml:concept>Climate Change Mitigation</ml:concept><ml:concept>Greenhouse Gas Accounting</ml:concept><ml:concept>Political Economy of Reform</ml:concept><ml:concept>Public Accountability Mechanisms</ml:concept></ml:concepts><ml:geo-regions/></ml:annotations></ml:doc-envelope>

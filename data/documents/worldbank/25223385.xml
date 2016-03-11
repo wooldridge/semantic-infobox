@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>                                                  100525 v3&#13;
+&#13;
+&#13;
+Trust Fund for Environmentally &amp;&#13;
+Socially Sustainable Development&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Water &amp; Climate Adaptation Plan for the Sava River Basin&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Â &#13;
+Â &#13;
+Â &#13;
+Â &#13;
+Â &#13;
+Â &#13;
+Â &#13;
+Â &#13;
+Â &#13;
+Â &#13;
+Â &#13;
+Â &#13;
+Â &#13;
+Â &#13;
+Â &#13;
+Â &#13;
+Â &#13;
+Â &#13;
+Â &#13;
+ANNEX 1A â&#128;&#147; Training on the Use of the Hydrologic Model for&#13;
+the Sava River Basin&#13;
+August 2015&#13;
+Â &#13;
+&amp;#12;Â© 2015 The World Bank&#13;
+1818 H Street NW&#13;
+Washington DC 20433&#13;
+Telephone: 202-473-1000&#13;
+Internet: www.worldbank.org&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                              Water &amp; Climate Adaptation Plan for&#13;
+                              the Sava River Basin&#13;
+&#13;
+&#13;
+                              ANNEX 1A â&#128;&#147; Training on the Use of the&#13;
+                              Hydrologic Model for the Sava River Basin&#13;
+&#13;
+                              August 2015&#13;
+&#13;
+&#13;
+                              ACKNOWLEDGMENTS&#13;
+                              This work was made possible by the financial contribution of the World&#13;
+                              Bankâ&#128;&#153;s Water Partnership Program (WPP) - a multi-donor trust fund&#13;
+                              that promotes water security for inclusive green growth (wa-&#13;
+                              ter.worldbank.org/water/wpp) and the Trust Fund for Environmentally &amp;&#13;
+                              Socially Sustainable Development (TFESSD).&#13;
+&#13;
+                              DISCLAIMER&#13;
+                              This work is a product of The World Bank with external contributions.&#13;
+                              The findings, interpretations, and conclusions expressed in this work&#13;
+                              do not necessarily reflect the views of The World Bank, its Board of&#13;
+                              Executive Directors or the governments they represent.&#13;
+&#13;
+                              The World Bank does not guarantee the accuracy of the data included&#13;
+                              in this work. The boundaries, colours, denominations, and other infor-&#13;
+                              mation shown on any map in this work do not imply any judgment on&#13;
+                              the part of The World Bank concerning the legal status of any territory&#13;
+                              or the endorsement or acceptance of such boundaries.&#13;
+&#13;
+                              RIGHTS AND PERMISSIONS&#13;
+                              The material in this work is subject to copyright. Because The World&#13;
+                              Bank encourages dissemination of its knowledge, this work may be&#13;
+                              reproduced, in whole or in part, for non-commercial purposes as long&#13;
+                              as full attribution to this work is given.&#13;
+&#13;
+                              Any queries on rights and licenses, including subsidiary rights, should&#13;
+                              be addressed to the Office of the Publisher, The World Bank, 1818 H&#13;
+                              Street NW, Washington, DC 20433, USA; fax: 202-522-2422; e-mail:&#13;
+                              pubrights@worldbank.org.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Project No.     A040710&#13;
+Document no.    1&#13;
+Version         1&#13;
+Date of issue   August 2015&#13;
+Prepared        JAP/DAH&#13;
+Checked         DAH/RSS&#13;
+Approved        DAM&#13;
+&amp;#12;                                                                                                                                                                    Page i&#13;
+WaterÂ &amp;Â ClimateÂ AdaptationÂ PlanÂ forÂ theÂ SavaÂ RiverÂ BasinÂ Â &#13;
+DevelopmentÂ ofÂ theÂ HydrologicÂ ModelÂ forÂ theÂ SavaÂ RiverÂ BasinÂ Â &#13;
+Â &#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                   Table of Contents&#13;
+&#13;
+                                                                                                                                                        Page No&#13;
+&#13;
+1Â            Introduction                                                                                                                                         1Â &#13;
+&#13;
+2Â            Overview                                                                                                                                             1Â &#13;
+&#13;
+3Â            Agenda for the Training Course                                                                                                                       4Â &#13;
+&#13;
+4Â            List of Participants                                                                                                                                 5Â &#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                          List of Tables&#13;
+                                                                                                                                                      Page No.&#13;
+&#13;
+&#13;
+                                                                                                                                                     5Â &#13;
+TABLEÂ 1:Â LISTÂ OFÂ PARTICIPANTSÂ ...................................................................................................................... Â &#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                         List of Figures&#13;
+                                                                                                                                                      Page No.&#13;
+&#13;
+FIGUREÂ 1:Â PARTICIPANTSÂ OFÂ THEÂ TRAININGÂ COURSEÂ ONÂ THEÂ SAVAÂ HYDROLOGICÂ MODEL,Â ZAGREB,Â 12â&#128;&#144;13Â NOVEMBERÂ &#13;
+       2014.Â .............................................................................................................................................................Â 1Â &#13;
+&amp;#12;                                                                              Page ii&#13;
+WaterÂ &amp;Â ClimateÂ AdaptationÂ PlanÂ forÂ theÂ SavaÂ RiverÂ BasinÂ Â &#13;
+DevelopmentÂ ofÂ theÂ HydrologicÂ ModelÂ forÂ theÂ SavaÂ RiverÂ BasinÂ Â &#13;
+Â &#13;
+ACRONYMS AND ABBREVIATIONS&#13;
+&#13;
+HEC-HMS         Hydrologic Engineering Center â&#128;&#147; Hydrologic Modelling System&#13;
+ISRBC           International Sava River Basin Commission&#13;
+SBHM            Sava Basin Hydrologic Model&#13;
+SRB             Sava River Basin&#13;
+USACE           Unite Stated Army Corps of Engineers&#13;
+WATCAP          Water and Climate Adaptation Plan&#13;
+&amp;#12;                                                                                                                             Page 1&#13;
+WaterÂ &amp;Â ClimateÂ AdaptationÂ PlanÂ forÂ theÂ SavaÂ RiverÂ BasinÂ Â &#13;
+TrainingÂ onÂ theÂ UseÂ ofÂ theÂ HydrologicÂ ModelÂ forÂ theÂ SavaÂ RiverÂ BasinÂ Â &#13;
+Â &#13;
+&#13;
+          TRAINING ON THE USE OF THE HYDROLOGIC MODEL&#13;
+                    FOR THE SAVA RIVER BASIN&#13;
+&#13;
+&#13;
+1          Introduction&#13;
+This document presents a report on the training on the use of the hydrologic model for the Sava River&#13;
+Basin (SRB) that has been developed within the Water and Climate Adaptation Plan (WATCAP) being&#13;
+prepared by the Consultant for the International Sava River Basin Commission (ISRBC) under World&#13;
+Bank funding.1 The model development is described in detail in Annex 1 of the main WATCAP report&#13;
+â&#128;&#156;Development of the Hydrologic Model for the Sava River Basinâ&#128;&#157;.&#13;
+&#13;
+&#13;
+&#13;
+2          Overview&#13;
+The training was held in Zagreb on 12-13 November 2014 in the wake of the final WATCAP workshop&#13;
+held on 11th November 2014. The training was performed by the consultantâ&#128;&#153;s (COWI) team consisting&#13;
+of Jasna Plavsic, Zana Topalovic and Nikola Zlatanovic. The 2-day training was undertaken according&#13;
+to the agenda given in section 3.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Figure 1: Participants of the training course on the Sava Hydrologic Model, Zagreb, 12-13 November 2014.&#13;
+&#13;
+&#13;
+&#13;
+1&#13;
+  COWI AS of Norway were contracted by the World Bank to undertake the development of the hydrologic model â&#128;&#147; World Bank Contract No&#13;
+- 7162102&#13;
+&amp;#12;                                                                                                       Page 2&#13;
+WaterÂ &amp;Â ClimateÂ AdaptationÂ PlanÂ forÂ theÂ SavaÂ RiverÂ BasinÂ Â &#13;
+TrainingÂ onÂ theÂ UseÂ ofÂ theÂ HydrologicÂ ModelÂ forÂ theÂ SavaÂ RiverÂ BasinÂ Â &#13;
+Â &#13;
+A total of 24 participants attended the training sessions. The participants came from the major stake-&#13;
+holders in the Sava Basin riparian countries. The list of participants is given in section 4.&#13;
+&#13;
+The training consisted of theoretical and practical sessions. The first day was dedicated to introducing&#13;
+the HEC-HMS software to the participants, including an overview of the rainfall-runoff modelling tech-&#13;
+niques, introduction to the use of HEC-HMS, and tutorials in which participants learned to perform&#13;
+basic tasks in HEC-HMS and in HEC Data Storage System Visual Utility Engine (DSSVue). The sec-&#13;
+ond day was dedicated to the detailed description of the Sava Basin Hydrologic Model (SBHM) that&#13;
+was developed, including technical details necessary for understanding the model organizational&#13;
+structure.&#13;
+&#13;
+The training material was distributed to the participants, including:&#13;
+&#13;
+â&#128;¢       two versions of the SBHM (one with observed data and one with climate scenarios),&#13;
+&#13;
+â&#128;¢       the report on the SBHM development,&#13;
+&#13;
+â&#128;¢       presentations and hand-outs for all training sessions in electronic format.&#13;
+&#13;
+The presentations are also available at the ISRBC web site2.&#13;
+&#13;
+Interesting and lengthy discussions took place both days, but especially on the second day. The par-&#13;
+ticipants seemed to be very interested in the topic and motivated to learn the modelling techniques.&#13;
+&#13;
+The training assessment was made at the closing of the course. All participants responded to the sur-&#13;
+vey. The results are given in Box 1.&#13;
+&#13;
+Other comments given by participants in the survey are as follows:&#13;
+&#13;
+â&#128;¢       â&#128;&#156;Please consider training in HEC-HMS in duration of 5 days, similar to courses given by HEC of&#13;
+        USACE.â&#128;&#157;&#13;
+&#13;
+â&#128;¢       â&#128;&#156;Concise and with measure, excellent lecturers. Very interesting.â&#128;&#157;&#13;
+&#13;
+â&#128;¢       â&#128;&#156;Organize a similar event again. Commendation for everything.â&#128;&#157;&#13;
+&#13;
+â&#128;¢       â&#128;&#156;The training should be enriched with more practical examples for the model itself and possibili-&#13;
+        ties for its amendment, with discussion how it would affect the results.â&#128;&#157;&#13;
+&#13;
+â&#128;¢       â&#128;&#156;It would be good to organize another training in duration of 5-7 days to get into detail of the pro-&#13;
+        cesses, from model creation, to calibration and verification, and to model use via simulations, with&#13;
+        more practical work.â&#128;&#157;&#13;
+&#13;
+â&#128;¢       â&#128;&#156;Organize another workshop about use of softwareâ&#128;&#157;&#13;
+&#13;
+â&#128;¢       â&#128;&#156;Commendations for the concept of the course and for jolly atmosphere.â&#128;&#157;&#13;
+&#13;
+â&#128;¢       â&#128;&#156;Organize regular courses for HEC-HMS.â&#128;&#157;&#13;
+&#13;
+â&#128;¢       â&#128;&#156;Everything is perfect.â&#128;&#157;&#13;
+&#13;
+2&#13;
+    http://www.savacommission.org/event_detail/8/22/325.&#13;
+&amp;#12;                                                                                                     Page 3&#13;
+WaterÂ &amp;Â ClimateÂ AdaptationÂ PlanÂ forÂ theÂ SavaÂ RiverÂ BasinÂ Â &#13;
+TrainingÂ onÂ theÂ UseÂ ofÂ theÂ HydrologicÂ ModelÂ forÂ theÂ SavaÂ RiverÂ BasinÂ Â &#13;
+Â &#13;
+â&#128;¢    â&#128;&#156;Thank you!â&#128;&#157;&#13;
+&#13;
+â&#128;¢    â&#128;&#156;Too short for such a wide subjectâ&#128;&#157;&#13;
+&#13;
+â&#128;¢    â&#128;&#156;I propose to create a document in the Sava Commission languages, e.g. â&#128;&#156;Short manual for the&#13;
+     system useâ&#128;&#157; with examples from particular basins; e.g. the Bosna River for BiH, and similar.â&#128;&#157;&#13;
+&#13;
+â&#128;¢    â&#128;&#156;Great.â&#128;&#157;&#13;
+&#13;
+&#13;
+&#13;
+Box 1: Results of the training assessment.&#13;
+&#13;
+&#13;
+1.   Has the training met your expectations?&#13;
+      â&#128;&#147; Yes, entirely                                 18 (75%)&#13;
+      â&#128;&#147; It exceeded my expectations                    5 (21%)&#13;
+      â&#128;&#147; Partially                                      1 (4%)&#13;
+      â&#128;&#147; No                                             0&#13;
+2.   What do you think about the programme for the training?&#13;
+      â&#128;&#147; I am satisfied with the programme              20 (83%)&#13;
+      â&#128;&#147; Not enough lectures                           1 (4%)&#13;
+      â&#128;&#147; Not enough practical tutorials                3 (13%)&#13;
+3.   What do you think about the duration of the training?&#13;
+      â&#128;&#147; I am satisfied with training duration          18 (75%)&#13;
+      â&#128;&#147; Too long                                      0 (0%)&#13;
+      â&#128;&#147; Too short                                     6 (25%)&#13;
+4.   Please rate the lecturers and instructors (from 1 to 5; 1 â&#128;&#147; excellent, 5 â&#128;&#147; not satisfactory):&#13;
+      â&#128;&#147; Jasna Plavsic                                  1.00&#13;
+      â&#128;&#147; Zana Topalovic                                 1.25&#13;
+      â&#128;&#147; Nikola Zlatanovic                             1.46&#13;
+&amp;#12;                                                                                                     Page 4&#13;
+WaterÂ &amp;Â ClimateÂ AdaptationÂ PlanÂ forÂ theÂ SavaÂ RiverÂ BasinÂ Â &#13;
+TrainingÂ onÂ theÂ UseÂ ofÂ theÂ HydrologicÂ ModelÂ forÂ theÂ SavaÂ RiverÂ BasinÂ Â &#13;
+Â &#13;
+&#13;
+&#13;
+3         Agenda for the Training Course&#13;
+&#13;
+&#13;
+&#13;
+Day 1: Introduction to HEC-HMS&#13;
+&#13;
+    9:15 â&#128;&#147; 10:00        Welcome by ISRBC, class and instructor introductions&#13;
+&#13;
+    10:15 â&#128;&#147; 11:00       Lecture 1-1: Overview of rainfall-runoff processes and model types. Hydrologic&#13;
+                        model purposes and applications&#13;
+&#13;
+    11:15 â&#128;&#147; 12:00       Lecture 1-2: Introduction to HEC-HMS (Capabilities; data organization; basin&#13;
+                        schematic; data entry and editing; run setup and execution; output viewing)&#13;
+&#13;
+    12:15 â&#128;&#147; 13:00       Tutorial 1-1: Using HEC-HMS (program use: creating data sets, setting up model&#13;
+                        components, creating and executing runs, viewing results)&#13;
+&#13;
+    13:00 â&#128;&#147; 14:00       Lunch&#13;
+&#13;
+    14:15 â&#128;&#147; 15:00       Lecture 1-3: Basin modelling methods (precipitation losses, direct runoff,&#13;
+                        baseflow, routing); Meteorology description (precipitation, temperature, evapo-&#13;
+                        transpiration). Model calibration and verification.&#13;
+&#13;
+    15:15 â&#128;&#147; 16:00       Tutorial 1-2: Modelling a single sub-basin. Basin decomposition â&#128;&#147; Multiple sub-&#13;
+                        basins and reaches. Examples.&#13;
+&#13;
+    16:15 â&#128;&#147; 17:00       Tutorial 1-3: Using DSS for model input and output. Data manipulation.&#13;
+&#13;
+&#13;
+&#13;
+Day 2: The Sava Basin Hydrologic Model (SBHM)&#13;
+&#13;
+    9:15 â&#128;&#147; 10:00        Lecture 2-1: Structure of the SBHM. Historical data and climate scenarios.&#13;
+&#13;
+    10:15 â&#128;&#147; 12:00       Tutorial 2-1: Running SBHM&#13;
+&#13;
+    12:15 â&#128;&#147; 13:00       Tutorial 2-2: Analysis of the outputs&#13;
+&#13;
+    13:00 â&#128;&#147; 14:00       Lunch&#13;
+&#13;
+    14:15 â&#128;&#147; 16:00       Review and discussion. Course assessment. Closing.&#13;
+&amp;#12;                                                                                                                              Page 5&#13;
+WaterÂ &amp;Â ClimateÂ AdaptationÂ PlanÂ forÂ theÂ SavaÂ RiverÂ BasinÂ Â &#13;
+TrainingÂ onÂ theÂ UseÂ ofÂ theÂ HydrologicÂ ModelÂ forÂ theÂ SavaÂ RiverÂ BasinÂ Â &#13;
+Â &#13;
+&#13;
+&#13;
+&#13;
+4         List of Participants&#13;
+&#13;
+&#13;
+ No   INSTITUTION / COMPANY                                  NAME                  POSITION&#13;
+                                                    BOSNIA AND HERZEGOVINA&#13;
+      Federal Ministry of Agriculture, Water Management&#13;
+ 1                                                           Suad SkejoviÄ&#135;         Expert Advisor in Water Department&#13;
+      and Forestry - FBiH&#13;
+      Ministry of Agriculture, Forestry and Water Manage-                          Senior Associate - Water Management De-&#13;
+ 2                                                           Marko Krneta&#13;
+      ment of the Republic of Srpska - RS                                          partment&#13;
+      Ministry of Agriculture, Forestry and Water Manage-                          Senior Associate - Water Management De-&#13;
+ 3                                                           Nenad Ä&#144;ukiÄ&#135;&#13;
+      ment of the Republic of Srpska - RS                                          partment&#13;
+ 4    Sava River Watershed Agency, Sarajevo                  Aida Bezdrob          B.Sc.Civ.Eng&#13;
+ 5    Sava River Watershed Agency, Sarajevo                  Amer KavazoviÄ&#135;        B.Sc.Civ.Eng&#13;
+ 6    Sava River Watershed Agency, Sarajevo                  Amina Keso            B.Sc.Civ.Eng&#13;
+ 7    Sava River Watershed Agency, Sarajevo                  Mirza SaraÄ&#141;           B.Sc.Civ.Eng&#13;
+ 8    Public Institution "Waters of Srpska"                  David LatinoviÄ&#135;       Head of Division for Vrbas River Basin&#13;
+      Republic Hydrometeorological Service - Republika&#13;
+ 9                                                           Darko BorojeviÄ&#135;       Head of Hydrology Department&#13;
+      Srpska&#13;
+                                                                                   Head of Department for the Forecast and Wa-&#13;
+ 10   Federal Hydrometeorological Institute                  Nino Rimac&#13;
+                                                                                   ter Balance&#13;
+ 11   Federal Hydrometeorological Institute                  Mirsad Å iljak         Hydrologic Technician&#13;
+                                                            CROATIA&#13;
+ 12   Croatian Waters                                        Vesna TusiÄ&#135;           Senior Engineer for Flood Protection&#13;
+ 13   Croatian Waters                                        Elvis KeÅ¡etoviÄ&#135;       Senior Engineer&#13;
+ 14   Croatian Waters                                        Davorka Stepinac      Senior Engineer&#13;
+ 15   Croatian Waters                                        Bruno RosandiÄ&#135;        Independent Engineer&#13;
+                                                                                   Head of Department for Load Measurements&#13;
+ 16   Meteorological and Hydrological Service                Dijana OskoruÅ¡&#13;
+                                                                                   and River Bed Morphology&#13;
+ 17   Meteorological and Hydrological Service                Tatjana VujnoviÄ&#135;      Hydrologist&#13;
+ 18   Meteorological and Hydrological Service                Å½eljka Klemar         Expert Assistant&#13;
+ 19   Meteorological and Hydrological Service                Petra MutiÄ&#135;           Expert Assistant&#13;
+ 20   Meteorological and Hydrological Service                Toni Jurlina          Expert Assistant&#13;
+                                                            SLOVENIA&#13;
+      Ministry of Agriculture and Environment, Slovenian&#13;
+ 21                                                          Andrej Golob          Hidrologist (modelling and analysis)&#13;
+      Environment Agency&#13;
+                                                             SERBIA&#13;
+ 22   Republic Hydrometeorological Service of Serbia         Slavimir StevanoviÄ&#135;   Director's Adviser for Hydrology&#13;
+ 23   Republic Hydrometeorological Service of Serbia         Samir Ä&#134;atoviÄ&#135;         Head of the Division for Hydrological Analysis&#13;
+                                                           MONTENEGRO&#13;
+                                                                                   Probationary Employee in the Sector of Hy-&#13;
+ 24   Institute of Hydrometeorology and Seismology           Ervin KalaÄ&#141;&#13;
+                                                                                   drology&#13;
+                                                  WORLD BANK, COWI &amp; ISRBC&#13;
+                                                                                   Team Leader and Senior Advisor International&#13;
+ 25   COWI                                                   David Heywood&#13;
+                                                                                   Operations&#13;
+                                                                                   Specialist in Water Engineering and Environ-&#13;
+ 26   COWI                                                   Å½ana TopaloviÄ&#135;&#13;
+                                                                                   mental Management / Hydrological Modeller&#13;
+ 27   COWI                                                   Jasna PlavÅ¡iÄ&#135;         Assistant Professor&#13;
+ 28   COWI                                                   Nikola ZlatanoviÄ&#135;     Research Engineer&#13;
+ 29   International Sava River Basin Commission (ISRBC)      Dejan Komatina        Secretary&#13;
+                                                                                   Deputy Secretary for Integrated River Basin&#13;
+ 30   International Sava River Basin Commission (ISRBC)      Dragan Zeljko&#13;
+                                                                                   Management and Water Planning&#13;
+&amp;#12;</ml:original-txt><ml:search-metadata><doc id="25223385">
+        <url>
+            http://documents.worldbank.org/curated/en/2015/10/25223385/water-climate-adaptation-plan-sava-river-basin-vol-3-annex-1a-training-use-hydrologic-model-sava-river-basin
+        </url>
+        <availablein>English</availablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2015/10/25223385/water-climate-adaptation-plan-sava-river-basin-vol-3-annex-1a-training-use-hydrologic-model-sava-river-basin</url_friendly_title>
+        <new_url>2015/10/25223385/water-climate-adaptation-plan-sava-river-basin-vol-3-annex-1a-training-use-hydrologic-model-sava-river-basin</new_url>
+        <disclosure_date>2015-10-28T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2015-10-29T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <docm_id>090224b0831794b9</docm_id>
+        <chronical_docm_id>090224b0831794b9</chronical_docm_id>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2015/10/29/090224b0831794b9/1_0/Rendered/INDEX/Annex01A000tra0the0Sava0river0basin.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2015/10/29/090224b0831794b9/1_0/Rendered/PDF/Annex01A000tra0the0Sava0river0basin.pdf</pdfurl>
+        <datestored>2015-10-29T00:00:00Z</datestored>
+        <docdt>2015-08-01T03:08:03Z</docdt>
+        <totvolnb>8</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>3</volnb>
+        <repnme>
+            Water and climate adaptation plan for the
+            Sava river basin
+        </repnme>
+        <abstracts>
+            This report presents the water and
+            climate adaptation plan (WATCAP) developed for the Sava
+            river basin (SRB) as result of a study undertaken by the
+            World Bank. The WATCAP is intended to help to bridge the gap
+            between the climate change predictions for the SRB and the
+            decision makers in current and planned water management
+            investment projects that will be affected by changing
+            climate trends. The purpose of the report is to: (i) assist
+            stakeholders and decision makers in assessing and planning
+            for the risks generated by climate change impacts on water
+            resources; (ii) provide a basis for future plans and studies
+            of adaptation to climate change impacts in the SRB; and
+            (iii) stimulate cooperation and debate across the basin
+            toward additional and more detailed studies on climate
+            change impacts at the regional and basin scale. The SRB is
+            projected to experience small increases in water use by the
+            public water supply, industry, energy, and agricultural and
+            irrigation sectors. However, it is widely expected that new
+            hydropower plants (HPPs) will be constructed in the near
+            future, making energy (primarily through hydropower) the
+            most important water use in the SRB.
+        </abstracts>
+        <docna>
+            Annex 1A : training on the use of the
+            hydrologic model for the Sava river basin
+        </docna>
+        <display_title>Water and climate adaptation plan
+            for the Sava river basin (Vol. 3) : Annex 1A : training on
+            the use of the hydrologic model for the Sava river basin</display_title>
+        <listing_relative_url>/research/2015/08/25223385/water-climate-adaptation-plan-sava-river-basin-vol-3-annex-1a-training-use-hydrologic-model-sava-river-basin</listing_relative_url>
+        <topic>Climate Change Adaptation in Coastal and
+            Marine Areas m1327769 1752,Climate Change Adaptation Impacts m1327768 1750,Water Supply m1326961 138,Water Safety Plans m1326749 2007,Water Resources Management m1326089 141</topic>
+        <projn>7B-See Water And Climate Adaptation -- P113303</projn>
+        <subtopic>Drought Management,River Basin Management,Common Property Resource Development,Water Supply and Sanitation Governance
+            and Institutions,Hydro Power</subtopic>
+        <docty>Working Paper</docty>
+        <teratopic>Rural Development,Energy,Water Supply and Sanitation,Water Resources</teratopic>
+        <count>South Eastern Europe and Balkans</count>
+        <entityids>
+            <entityid>090224b0831794b9_1_0</entityid>
+        </entityids>
+        <theme>Water resource management,Pollution management and environmental health,Climate change,Biodiversity,Environmental policies and institutions</theme>
+        <subsc>General energy sector,General agriculture, fishing and forestry sector,General public administration sector,General industry and trade sector,General water, sanitation and flood
+            protection sector</subsc>
+        <admreg>Europe and Central Asia,Europe and Central Asia</admreg>
+        <lang>English</lang>
+        <historic_topic>Rural Development,Energy,Water Supply and Sanitation,Water Resources</historic_topic>
+        <prdln>Economic and Sector Work</prdln>
+        <topicv3>Climate Change Adaptation in Coastal and
+            Marine Areas m1327769 1752,Climate Change Adaptation Impacts m1327768 1750,Water Supply m1326961 138,Water Safety Plans m1326749 2007,Water Resources Management m1326089 141</topicv3>
+        <sectr>Agriculture, fishing, and forestry,Energy and mining,Water, sanitation and flood protection,Public Administration, Law, and Justice,Industry and trade</sectr>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            basin, knowledge, water management,
+            sub-basin, basin development, riparian countries, river
+            basin   development, water security, river basin, basins,
+            head, climate, partnership, water, hydrology, river
+            watershed, rainfall, agriculture, river bed, flood
+            protection, river basin commission, water department,
+            hydrological service, waters, environment, hydrometeorology,
+            precipitation, dam, river basin development, basin
+            commission, riparian, water planning, river
+        </keywd>
+        <owner>Water Europe&amp;Cent.Asia Region(2) (GWA09)</owner>
+        <trustfund>TF095217-Increasing the capacity to
+            adapt water resource management, planning an,TF018453-ECA - Sava River Basin Water
+            and Climate Adaptation Plan,TF095800-Sava River Basin Water and
+            Climate Change Adaptation</trustfund>
+        <majtheme>Environment and natural resource management</majtheme>
+        <repnb>100525</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>Water Resources</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Environment</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>City Development Strategies</ml:concept><ml:concept>Science and Technology</ml:concept><ml:concept>Water</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Agriculture and Food Security</ml:concept><ml:concept>Environment and Natural Resources</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Urban Development</ml:concept><ml:concept>Flood Control</ml:concept><ml:concept>Flood Control and Management</ml:concept><ml:concept>Flood Mitigation</ml:concept><ml:concept>Flood Prevention</ml:concept><ml:concept>Flood Protection and Management</ml:concept><ml:concept>Flood Rehabilitation</ml:concept><ml:concept>Floods and Droughts</ml:concept><ml:concept>Access to Basic Sanitation</ml:concept><ml:concept>On-site Sanitation</ml:concept><ml:concept>Sanitation Marketing</ml:concept><ml:concept>Sanitation Promotion</ml:concept><ml:concept>Forest and Forestry</ml:concept><ml:concept>Green Growth and Sustainability</ml:concept><ml:concept>Sustainable Growth</ml:concept><ml:concept>Governance and Public Accountability (GPA)</ml:concept><ml:concept>Incentives for Good Government</ml:concept><ml:concept>National Governance</ml:concept><ml:concept>Hydrology</ml:concept><ml:concept>Drought Management</ml:concept><ml:concept>Engineering</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Agriculture</ml:concept><ml:concept>Boundaries</ml:concept><ml:concept>Copyright</ml:concept><ml:concept>Flood Protection</ml:concept><ml:concept>Adaptation</ml:concept><ml:concept>Sanitation</ml:concept><ml:concept>Forestry</ml:concept><ml:concept>Green Growth</ml:concept><ml:concept>Governance</ml:concept></ml:concepts><ml:geo-regions><ml:geo-region>Asia</ml:geo-region><ml:geo-region>Europe</ml:geo-region><ml:geo-region>Central Asia</ml:geo-region><ml:geo-region>Eastern Europe</ml:geo-region></ml:geo-regions></ml:annotations></ml:doc-envelope>

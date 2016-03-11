@@ -1,0 +1,1068 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>                                     102955&#13;
+&#13;
+&#13;
+world development report&#13;
+&#13;
+&#13;
+            BACKGROUND PAPER&#13;
+&#13;
+            Digital Dividends&#13;
+&#13;
+&#13;
+            Exploring the Relationship&#13;
+            Between Broadband and&#13;
+            Economic Growth&#13;
+            Michael Minges&#13;
+            ictData.org&#13;
+&amp;#12;&amp;#12;     Exploring the Relationship between Broadband and Economic Growth&#13;
+&#13;
+                                                  Background Paper prepared for the&#13;
+                                   World Development Report 2016: Digital Dividends&#13;
+&#13;
+&#13;
+                                                                  by Michael Minges&#13;
+&#13;
+                                                                       January 2015&#13;
+&#13;
+&#13;
+&#13;
+                                                                   Table of Contents&#13;
+&#13;
+1     Introduction .................................................................................................................... 2&#13;
+2     Studies on the economic impact of broadband................................................................. 3&#13;
+    2.1 Fixed broadband ....................................................................................................... 3&#13;
+       2.1.1 Cross sectional ............................................................................................................. 3&#13;
+       2.1.2 Panel ............................................................................................................................ 4&#13;
+       2.1.3 Non-linear .................................................................................................................... 5&#13;
+    2.2 Mobile broadband .................................................................................................... 6&#13;
+    2.3 Country studies ......................................................................................................... 8&#13;
+       2.3.1 Cross-sectional models using administrative units ..................................................... 8&#13;
+          2.3.1.1     China .................................................................................................................................................8&#13;
+          2.3.1.2     Germany ...........................................................................................................................................8&#13;
+          2.3.1.3     United States .....................................................................................................................................9&#13;
+       2.3.2      Time series models at the national level .................................................................... 9&#13;
+          2.3.2.1     Ecuador .............................................................................................................................................9&#13;
+          2.3.2.2     Panama and Philippines ....................................................................................................................9&#13;
+          2.3.2.3     Senegal ............................................................................................................................................10&#13;
+  2.4 Conclusions ............................................................................................................. 11&#13;
+3 Analytical issues ............................................................................................................ 12&#13;
+  3.1 Models ................................................................................................................... 12&#13;
+  3.2 Lag .......................................................................................................................... 12&#13;
+  3.3 Data ........................................................................................................................ 13&#13;
+  3.4 Broadband definitions ............................................................................................. 14&#13;
+  3.5 Financial crisis ......................................................................................................... 14&#13;
+  3.6 Causation ................................................................................................................ 15&#13;
+4 Recommendations......................................................................................................... 16&#13;
+Bibliography ........................................................................................................................ 18&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                  1&#13;
+&amp;#12;1    Introduction&#13;
+Broadband can be characterized as high-speed, always-on Internet connectivity. It began to appear&#13;
+in some high-income countries in the late 1990s, using the copper wire in ordinary telephone&#13;
+connections (i.e., digital subscriber line (DSL)) or the coaxial cable in cable television networks&#13;
+(i.e., cable modem). In 2001, the first high-speed mobile networks were launched. Today&#13;
+commercialized fixed broadband networks reach download speeds of 1,000 Mb/s over fiber optic1&#13;
+and mobile broadband 300 Mb/s over fourth generation (4G) Long Term Evolution (LTE)&#13;
+networks.2 By the end of 2014, there were some 748 million fixed broadband subscriptions and&#13;
+2.7 billion mobile broadband subscriptions around the world.3&#13;
+&#13;
+This relatively recent emergence of broadband has already stimulated much discussion of it being&#13;
+a powerful general-purpose technology.4 Broadband has driven widespread changes in the&#13;
+Information Technology (IT) sector enabling services such as cloud computing and mobile apps.&#13;
+Equally, it is influencing innovation across many other sectors including health, transport and&#13;
+government. The impact of broadband Internet on the economy is therefore a subject of growing&#13;
+interest.&#13;
+&#13;
+Economists have often modeled economic growth where output is a function of capital, labor and&#13;
+technology (Barro and Sali-i-Martin 2004). Econometric models use proxies to represent these&#13;
+variables such as investment for capital and employment for labor. In order to gauge the impact of&#13;
+broadband, it is used as the technology variable. The econometric models can be divided into three&#13;
+categories: cross sectional, panel and time series. The cross sectional studies are typically used to&#13;
+gauge the impact across a group of countries. Panel studies are used in observing the changes&#13;
+happening over time across a group of countries. Time series models have typically been used to&#13;
+investigate the impact in a single country. It should be noted that the economic impact of different&#13;
+Information and Communication Technologies (ICTs) have been studied for some time and these&#13;
+models have shaped the emerging framework for analyzing the effect of broadband (Roller and&#13;
+Waverman 2001).&#13;
+&#13;
+This paper first looks at different studies on the economic impact of broadband illustrating the&#13;
+range of models and data that have been used. It then examines some of the issues that complicate&#13;
+the task of gauging how broadband impacts the economy. The paper concludes with a summary&#13;
+of the key results and suggestions for moving forward.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+1&#13;
+  Hong Kong Broadband Network. 2015. â&#128;&#156;Home Broadband, Wi -Fi Wireless Broadband &amp; Roaming Data SIM.â&#128;&#157;&#13;
+Accessed November 15. http://www.hkbn.net/new/en/access-plan.shtml#broadband--service-introduction.&#13;
+2&#13;
+  â&#128;&#156;SingTel First in the World to Offer Commercial 300Mbps 4G Service with Huawei Mobile Broadband Device.â&#128;&#157;&#13;
+2014. News Release, July 23. http://info.singtel.com/about-us/news-releases/singtel-first-world-offer-commercial-&#13;
+300mbps-4g-service-huawei-mobile-broadba.&#13;
+3&#13;
+  ITU. 2015. â&#128;&#156;Statistics.â&#128;&#157; Accessed November 15. http://www.itu.int/en/ITU -D/Statistics/Pages/stat/default.aspx.&#13;
+4&#13;
+  World Bank. 2015. â&#128;&#156;Why Broadband?â&#128;&#157; Accessed November 15. http://broadbandtoolkit.org/1.3.&#13;
+&#13;
+&#13;
+                                                       2&#13;
+&amp;#12;2     Studies on the economic impact of broadband&#13;
+This section reviews three types of studies: i) cross-sectional and panel models covering a group&#13;
+of countries, ii) studies looking specifically at mobile broadband and iii) studies that examine the&#13;
+economic effect of broadband in a single country over time.&#13;
+&#13;
+2.1     Fixed broadband&#13;
+&#13;
+2.1.1 Cross sectional&#13;
+&#13;
+The World Bank (Qiang et al. 2009) used a cross sectional analysis to examine the impact of&#13;
+various ICTs including fixed broadband on GDP growth during the period 1980-2006 for 120&#13;
+developing and developed countries. The framework is based on the endogenous growth model&#13;
+(Barro 1991)5:&#13;
+&#13;
+    í µí°ºí µí°·í µí±&#131;8006 = Î±0 + Î±1 Ã&#151; GDP80 + Î±2 Ã&#151; ( I/GDP)8006 + Î±3 Ã&#151; PRIM80 + Î±4 Ã&#151; BBPEN 8006&#13;
+                   + Î±5 Ã&#151; SSA + Î±6 Ã&#151; LAC + Î¼&#13;
+&#13;
+where GDP8006 is the average growth rate of real GDP per capita in US$ between 1980-2006,&#13;
+GDP80 is per capita GDP in 1980, I/GDP8006 is the average ratio of investment to GDP between&#13;
+1980 and 2006, PRIM80 is the primary school enrollment rate in 1980, BBPEN8006 is the average&#13;
+fixed broadband penetration and SSA and LAC are dummy variables for countries in Sub-Saharan&#13;
+Africa and Latin America and the Caribbean (LAC) respectively.&#13;
+&#13;
+The study concludes that a 10 percentage point increase in fixed broadband penetration&#13;
+would increase GDP growth by 1.21% in developed economies and 1.38% in developing ones.&#13;
+However while the coefficient was significant at the 1 percent level for developed economies&#13;
+the significance was only 10% for developing economies. The R2 for the regression was 0.49.&#13;
+Separate regressions were also run for fixed telephone subscriptions, mobile subscriptions and&#13;
+Internet users. The results suggest that GDP growth will experience a higher increase when adding&#13;
+10 mobile subscriptions per capita than adding 10 fixed lines but that broadband has the highest&#13;
+GDP growth increase (Figure 2-1).&#13;
+&#13;
+This model has been updated using recent data (Scott 2012). The same model is used but with data&#13;
+for 86 countries for 1980â&#128;&#147;2011. The results were essentially the same as before with a ten&#13;
+percentage point increase in fixed broadband generating a 1.35% increase in per capita GDP for&#13;
+developing countries and a 1.19% increase for developed countries.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+5&#13;
+ Ironically, Barro later cast doubt on the precision of identifying, which independent variables are relevant for&#13;
+growth. See: Robert J. Barro. 2014. Convergence and Modernization. http://rbarro.com/wp-&#13;
+content/uploads/2011/01/convergence-modern-072714.pdf&#13;
+&#13;
+&#13;
+                                                          3&#13;
+&amp;#12;Figure 2-1: GDP growth impact from 10 percentage point increase in different ICTs, by country economic&#13;
+development category&#13;
+&#13;
+                                           1980-2006                                               1980-2011&#13;
+                       1.6                                                    1.6&#13;
+                                                                       1.38                                                 1.35&#13;
+                       1.4                                                    1.4&#13;
+                                                                   1.21                                              1.19&#13;
+                       1.2                                1.12                1.2&#13;
+   Percentage points&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                       1.0                                                    1.0                           0.93&#13;
+                                              0.81     0.77                                          0.78&#13;
+                       0.8        0.73                                        0.8&#13;
+                                           0.60&#13;
+                       0.6                                                    0.6&#13;
+                              0.43                                                         0.40&#13;
+                       0.4                                                    0.4&#13;
+                                                                                    0.21&#13;
+                       0.2                                                    0.2&#13;
+                       0.0                                                    0.0&#13;
+                                Fixed       Mobile     Internet   Broadband          Mobile           Internet      Broadband&#13;
+                                               Technology                                           Technology&#13;
+&#13;
+&#13;
+                             High-income      Low- and middle-income                 High-income      Low- and middle-income&#13;
+&#13;
+&#13;
+Source: Qiang et al. 2009 and Scott 2012.&#13;
+&#13;
+2.1.2 Panel&#13;
+&#13;
+A panel study with 25 Organization for Economic Co-operation and Development (OECD)&#13;
+countries covering the period 1996â&#128;&#147;2007 was carried out to estimate various broadband impacts&#13;
+and relationships (Czernich et al. 2009). First a production function with logged variables is used&#13;
+to determine the effect of the introduction of broadband:&#13;
+&#13;
+                              í µí±&#153;í µí±&#156;í µí±&#148;(í µí±¦í µí±¡ ) = í µí»¼ + í µí»¼í µí±¡ + í µí»¼1 Ã&#151; í µí°·í µí±¡ + í µí»½1 Ã&#151; í µí±&#153;í µí±&#156;í µí±&#148;(í µí± í µí±¡ ) + í µí»½2 Ã&#151; í µí±&#153;í µí±&#156;í µí±&#148;(â&#132;&#142;í µí±¡ ) + í µí»½3 Ã&#151; í µí±&#155;í µí±¡&#13;
+&#13;
+where t is time, y is real GDP per capita (in 2000 PPP), Î± is a year dummy, D is a binary value&#13;
+equal to 1 after a country has introduced broadband, s is Capital Formation (% of GDP), h is&#13;
+average number of years of schooling and n is the growth of the working age population. It finds&#13;
+that GDP per capita growth is 2.7 to 3.9 percent higher after the introduction of broadband&#13;
+(range reflects the different regressions used). R2 in this model is 0.86. Education and working age&#13;
+population were found to be insignificant. To measure the effect of broadband diffusion on GDP&#13;
+growth, the above framework is applied with several modifications. The dummy variable of&#13;
+broadband introduction is substituted with broadband penetration (Bt ) and the initial level of GDP&#13;
+per capita before broadband introduction (y ) is introduced as the endogenous growth theory&#13;
+suggests (Barro 1991), while adding the years since broadband appearance to control for timing&#13;
+effects (T), because broadband was introduced in different years for different countries:&#13;
+&#13;
+                                  â&#136;&#134;log Yt =Î± + Î±1Bt+Î²1 â&#136;&#134; log st + Î²2 â&#136;&#134;log ht + Î²3 â&#136;&#134;nt + Î²4log y + Î²5Ti + ut&#13;
+&#13;
+They conclude that an increase in broadband penetration by 10% increases GDP growth by 0.65%,&#13;
+but their regression has an R2 equal to 0.30. These frameworks do not determine any causal effects&#13;
+and they might suffer from endogeneity, as the introduction and diffusion of broadband can depend&#13;
+on the economic development of a country. To solve such potential problems, an instrumental&#13;
+&#13;
+&#13;
+                                                                               4&#13;
+&amp;#12;variable approach is used6 to estimate broadband penetration consisting of several parameters such&#13;
+as the existing traditional telephone and cable television networks, diffusion speed and inflexion&#13;
+point. This estimated broadband penetration is then used in the equation above. It found that an&#13;
+increase of 10% in broadband penetration would increase GDP per capita growth by 0.9-&#13;
+1.5%. R2 of the regressions using such an approach is very low, varying from 0.14 to 0.35.&#13;
+&#13;
+Another panel study (Koutroumpis 2009) uses a macroeconomic production function. The research&#13;
+covers 15 European Union countries based on data collected for the period 2003â&#128;&#147;06 (60&#13;
+observations). Variables are transformed to logs with the following equation:&#13;
+&#13;
+    í µí±&#153;í µí±&#156;í µí±&#148;(í µí°ºí µí°·í µí±&#131;í µí±¡ ) = í µí±&#142;0 + í µí±&#142;1 Ã&#151; í µí±&#153;í µí±&#156;í µí±&#148;(í µí°¾í µí±¡ ) + í µí±&#142;2 Ã&#151; í µí±&#153;í µí±&#156;í µí±&#148;(í µí°¿í µí°¹í µí±¡ ) + í µí±&#142;3 Ã&#151; í µí±&#153;í µí±&#156;í µí±&#148;(í µí±&#131;í µí°¸í µí±&#129;í µí±¡ ) + í µí±&#142;4 Ã&#151; í µí±&#153;í µí±&#156;í µí±&#148;(í µí°¸í µí°·í µí±&#136;í µí±¡ )&#13;
+&#13;
+where t is time, GDP is Gross Domestic Product in millions of euros, K is stock of investment (less&#13;
+telecommunications) in millions of euros, LF is Population with full or part time work aged 15-64&#13;
+in millions, PEN is fixed broadband penetration and EDU is Population with tertiary education per&#13;
+100 population aged 25-64. In contrast to most other studies, the capital stock rather than annual&#13;
+fixed capital formation is used. Four different regressions were run using two different techniques&#13;
+(Generalized Method of Moments (GMM)7 and Three-Stage Least Squares (3SLS)) with two&#13;
+different control parameters (random and fixed country and year effects). All found broadband&#13;
+penetration to have a significant impact on GDP growth ranging from 0.26% to 0.85% for&#13;
+each ten percentage point increase in penetration. All regressions had a high R2 (0.98-0.99).&#13;
+&#13;
+2.1.3 Non-linear&#13;
+&#13;
+A non-linear model is used for a study on broadband economic impact in Latin American and&#13;
+Caribbean (LAC) countries (Zaballos and LÃ³pez-Rivas 2012). Independent variables were selected&#13;
+from a group of 87 initial indicators assumed to have an impact on the factors affecting GDP (e.g.,&#13;
+investment, consumption, public spending, and trade surplus or deficit). The four resulting&#13;
+independent variables were those that were not correlated to each other, which provided the best&#13;
+fit in terms of robustness (maximum self-determination coefficient, minimum coefficient of&#13;
+variation of residuals, and conditions of non-heteroskedasticity, nonautocorrelation, and non-&#13;
+multicolinearity). Data covers 26 LAC countries for the period 2003â&#128;&#147;09 with the economic impact&#13;
+calculated for three different periods: 2003â&#128;&#147;05, 2003â&#128;&#147;07 and 2003â&#128;&#147;09. The non-linear model was&#13;
+specified as:&#13;
+&#13;
+                                í µí±&#140;1í µí±&#155; = í µí±&#141; â&#136;&#146; í µí±&#141;1 + í µí±&#141;2 â&#136;&#146; í µí±&#141;3 â&#136;&#146; í µí±&#141;4 + í µí±&#140; â&#136;&#146; í µí±&#140; 2&#13;
+&#13;
+Where Y1 is GDP per capita, Z is the constant, Z1 is the interest rate spread, Z2 is the interest on&#13;
+new debt, Z3 is multilateral debt, Z4 is net official development aid and Y is fixed broadband&#13;
+penetration per 100 inhabitants. The results found that a 10 percent increase in fixed&#13;
+broadband penetration triggered an average increase of 3.19 percent in per capita GDP.&#13;
+&#13;
+&#13;
+&#13;
+6&#13;
+  This consists of two stages, where in the first, the instrument is estimated and in the second stage the estimated&#13;
+instrument is used as an independent variable.&#13;
+7&#13;
+  GMM is often used as an estimation technique if there are endogenous variables since the least squares estimator&#13;
+may be biased and inconsistent.&#13;
+&#13;
+&#13;
+                                                               5&#13;
+&amp;#12;Table 2-1: Cross-section/panel models, fixed broadband impact&#13;
+&#13;
+ Study                       Number of countries       Years       Increase in GDP per 10   Comment&#13;
+                                                                      percentage point&#13;
+                                                                      increase in fixed&#13;
+                                                                   broadband penetration&#13;
+&#13;
+ Qiang et al. 2009 (High-    120                       1980â&#128;&#147;2006            1.2             Impact on per&#13;
+ income economies)                                                                          capita GDP&#13;
+&#13;
+ Qiang et al. 2009 (Low-                               1980â&#128;&#147;2006            1.4             Impact on per&#13;
+ income economies)                                                                          capita GDP&#13;
+&#13;
+ Czernich et al. 2009        25 OECD (300              1996â&#128;&#147;2007          0.9-1.5â&#128;           Impact on per&#13;
+                             observations)                                                  capita GDP&#13;
+&#13;
+ Koutroumpis 2009            15 European Union (60     2003â&#128;&#147;2006          0.3-0.9â&#128;           Impact on&#13;
+                             observations)                                                  GDP&#13;
+&#13;
+ Zaballos and LÃ³pez-         26 Latin America and      2003â&#128;&#147;2009            3.2             Impact on per&#13;
+ Rivas 2012                  the Caribbean (121                                             capita GDP&#13;
+                             observations)&#13;
+&#13;
+Note: â&#128;  More than one regression method used.&#13;
+Source: Adapted from studies listed in first column.&#13;
+&#13;
+2.2    Mobile broadband&#13;
+&#13;
+Studies on mobile broadband are particularly relevant given the rapid diffusion of mobile&#13;
+technology in developing countries. Mobile has grown particularly fast due to i) a lenient&#13;
+regulatory environment allowing competition and private sector investment, ii) the ease by which&#13;
+wireless networks can be installed compared to wired infrastructure and iii) flexible payment&#13;
+options (i.e., prepaid cards). By the end of 2014, the International Telecommunication Union (ITU)&#13;
+estimated that fixed telephone connections in developing countries were just 10 per 100 people&#13;
+compared to 91 mobile subscriptions per 100 people. Similarly, high-speed wireless Internet&#13;
+technologies have been more successful in developing countries than wired broadband. By 2014,&#13;
+mobile broadband penetration was over four times higher than fixed broadband penetration in&#13;
+developing countries (Figure 2-2).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                       6&#13;
+&amp;#12;Figure 2-2: Fixed and mobile broadband subscriptions&#13;
+&#13;
+       Broadband subscriptions per 100 people,                           Broadband subscriptions per 100 people,&#13;
+               developing countries                                                      2014&#13;
+                                                        27.9&#13;
+ 30                                                             90               81.8&#13;
+                                                                80&#13;
+ 25&#13;
+                                                                70&#13;
+ 20                                             17.4            60&#13;
+                                                                50&#13;
+ 15                                      12.4&#13;
+                                                                                                                        37.2&#13;
+                                                                40&#13;
+                                  8.3                                     28.3                      27.9&#13;
+ 10                                                             30&#13;
+                            4.5                                 20&#13;
+                     3.0                                                                                         10.3&#13;
+  5           1.6                                                                             6.6&#13;
+       0.8                                              6.6     10&#13;
+                                5.4  6.2&#13;
+                      4.2  4.9&#13;
+  0         2.9  3.5                                             0&#13;
+       2.3&#13;
+      2007 2008 2009 2010 2011 2012 2013 2014                             Developed          Developing              World&#13;
+&#13;
+                 Fixed (wired)          Active mobile                              Fixed (wired)     Active mobile&#13;
+&#13;
+&#13;
+Source: Adapted from ITU data.&#13;
+&#13;
+One study (Thompson and Garbacz 2011) uses panel data for a sample of developed countries&#13;
+covering the years 2005 to 2009. Unlike most studies using use per capita indicators, variables are&#13;
+converted to per household indicators to measure the impact of fixed and mobile broadband on&#13;
+GDP per household. GDP per household is generalized as a function of the following variables:&#13;
+&#13;
+í µí°ºí µí°·í µí±&#131;í µí°»í µí°» = í µí±&#147;(í µí°¾í µí°»í µí°», í µí°¿í µí°´í µí°µí µí°»í µí°», í µí°¿í µí°´í µí°µí µí°¸í µí°·í µí°»í µí°», í µí°¸í µí°·í µí°»í µí°», í µí°¸í µí°¹í µí°¼, í µí°¹í µí°¼í µí±&#139;í µí°¸í µí°·í µí°µí µí°µí µí°»í µí°», í µí±&#128;í µí±&#130;í µí°µí µí°¼í µí°¿í µí°¸í µí°µí µí°µí µí°»í µí°», í µí±¡í µí±&#150;í µí±&#154;í µí±&#146; í µí±&#145;í µí±¢í µí±&#154;í µí±&#154;í µí±&#150;í µí±&#146;í µí± )&#13;
+&#13;
+where GDPHH is Gross Domestic Product per household (constant 2000 dollars), KHH is capital&#13;
+stock values updated with Gross Fixed Capital Formation using the perpetual inventory method&#13;
+(per household), LABHH is labor force participation per household, LABEDHH is tertiary&#13;
+enrollment per laborer per household, EDHH is total tertiary enrollment per household, EFI is the&#13;
+Economic Freedom Index, FIXEDBBHH is fixed broadband per household and MOBILEBBHH&#13;
+is mobile broadband per household. The study includes country and time fixed effects, finding that&#13;
+every 10 percentage point increase in fixed broadband household penetration increases GDP&#13;
+per household by 0.77 (significant at the 10% level). On the other hand, every 10 percentage&#13;
+point increase in mobile broadband household penetration is found to reduce GDP per&#13;
+household by 0.52 (significant at the 1% level). The adjusted R2 was 0.96. The study concludes&#13;
+that the mobile broadband result could be due to nonproductive applications of mobile broadband&#13;
+technology where it might be an uneconomic substitute or complement to existing fixed&#13;
+broadband. The results are questionable. The study contends that previous research (Wallsten&#13;
+2009) suggests that household penetration of broadband is a better indicator than a per capita&#13;
+measurement. However, instead of using household survey data, the study constructs a synthetic&#13;
+variable dividing broadband subscriptions by the average number of households in the country.&#13;
+This is also repeated for other variables. There is also a possible model misspecification caused by&#13;
+an overbalance of labor and education in the independent variables and including both fixed and&#13;
+mobile broadband penetration together.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                     7&#13;
+&amp;#12;In a study prepared for the GSM Association (Deloitte 2012), the impact of a substitution from 2G&#13;
+to 3G penetration on GDP per capita growth is estimated. They use a panel of 96 countries for a&#13;
+4-year period 2008â&#128;&#147;11. The regression is based on the endogenous growth model with variables&#13;
+converted to natural logs with an implicit lag:&#13;
+                                                                                                                                                           â&#128;²&#13;
+  ln(í µí°ºí µí°·í µí±&#131;í µí±&#157;í µí±&#146;í µí±&#159;í µí±&#144;í µí±&#142;í µí±&#157;í µí±¡ ) = í µí»¾ Ã&#151; ln(í µí°ºí µí°·í µí±&#131;í µí±&#157;í µí±&#146;í µí±&#159;í µí±&#144;í µí±&#142;í µí±&#157;í µí±¡â&#136;&#146;1 ) + í µí»¼2 Ã&#151; ln(í µí°ºí µí°·í µí±&#131;í µí±&#157;í µí±&#146;í µí±&#159;í µí±&#144;í µí±&#142;í µí±&#157;í µí±¡â&#136;&#146;2 ) + í µí»½ Ã&#151; ln(í µí±&#128;í µí±&#156;í µí±&#143;í µí±&#131;í µí±&#146;í µí±&#155;í µí±¡ ) + í µí»¿ Ã&#151; ln(3í µí°ºí µí±&#131;í µí±&#146;í µí±&#155;í µí±¡ ) + í µí±&#139;í µí±¡ Î&#147; + í µí±&#155;&#13;
+&#13;
+where t = time (years), GDPpercap = annual growth rate of real GDP per capita, MobPen = mobile&#13;
+penetration; 3GPen = 3G penetration; X' includes government expenditure (as a % of GDP), trade&#13;
+(as a % of GDP), investment (as a % of GDP) and labor force; and n is a country fixed effect. A&#13;
+Generalized Method of Moments (GMM) estimator is used. The model estimates that a 10%&#13;
+higher 3G penetration results in an increase of 0.15 percentage points in the annual growth&#13;
+rate of GDP per capita. The study also estimated the impact of mobile data usage across 14&#13;
+countries finding that a doubling of mobile data consumption raises GDP by 0.5 percentage points.&#13;
+&#13;
+2.3     Country studies&#13;
+&#13;
+A number of country level studies on the economic impact of broadband have emerged. They use&#13;
+two basic approaches: national level data generally with quarterly data to ensure sufficient&#13;
+observations or panel data based on the administrative divisions of the country (e.g., states,&#13;
+provinces, counties, districts, etc.). In the latter case, if there are a sufficient number of&#13;
+administrative divisions, these can be substituted for a lack of broadband time series data. The&#13;
+studies generally adopt models based on classical economic growth theory.&#13;
+&#13;
+2.3.1 Cross-sectional models using administrative units&#13;
+&#13;
+2.3.1.1 China&#13;
+&#13;
+A study for China (Feng and Ma 2013) develops a simultaneous equation model consisting of a&#13;
+broadband diffusion equation based on users' discrete choice behavior and an economic growth&#13;
+equation, endogenizing the mutual effects between broadband diffusion and economic growth. It&#13;
+uses administrative data covering 31 provinces, municipalities and autonomous regions in China&#13;
+from 2004 to 2009. The regression model uses natural logs to transform the data:&#13;
+&#13;
+                               ï&#130;¶ ln ï&#128;¨ GDPit ï&#128;©&#13;
+                                              ï&#128;½ ï&#129;¢3 ï&#128;« 2ï&#129;¢ 4 ln ï&#128;¨ PENit ï&#128;© ï&#128;« ï&#129;¢13 ln ï&#128;¨ Kit ï&#128;© ï&#128;« ï&#129;¢ 23 ln ï&#128;¨ Lit ï&#128;©&#13;
+                               ï&#130;¶ ln ï&#128;¨ PENit ï&#128;©&#13;
+&#13;
+where GDP = Gross Domestic Product, PEN = Fixed broadband penetration, K = Capital stock&#13;
+and L = Manpower. The authors claim that this model corrects for the â&#128;&#156;pulling effectâ&#128;&#157; of GDP to&#13;
+broadband, examining the â&#128;&#156;pushing effectâ&#128;&#157; of broadband to GDP. They found that for every 10&#13;
+percentage point increase in broadband penetration there was a 2.14% increase in GDP.&#13;
+&#13;
+2.3.1.2 Germany&#13;
+&#13;
+This cross-sectional study (Katz et al. 2010) uses data from 424 German Landkreise&#13;
+(administrative unit beneath a "LÃ¤nder"). The regression model calculates the impact on the growth&#13;
+in GDP between 2003 and 2006 for each percentage change in broadband growth. There is an&#13;
+implicit lag for broadband penetration where the values are averaged for 2002â&#128;&#147;03:&#13;
+&#13;
+&#13;
+                                                                                  8&#13;
+&amp;#12;     í µí°º_í µí°ºí µí°·í µí±&#131;03â&#136;&#146;06 = í µí»½1 Ã&#151; í µí°ºí µí°·í µí±&#131;_í µí°¶í µí±&#142;í µí±&#157;í µí±&#150;í µí±¡í µí±&#142;2000 + í µí»½2 Ã&#151; í µí°º_í µí±&#131;í µí±&#130;í µí±&#131;00â&#136;&#146;06 + í µí»½3 Ã&#151; í µí°º_í µí°µí µí°µí µí±&#131;í µí°¸í µí±&#129;02â&#136;&#146;03&#13;
+&#13;
+where G_GDP03-06 = Growth of GDP between 2003-06, GDP_Capita2000 = GDP per capita in 2000&#13;
+and G_BBPEN02-03 = Broadband penetration growth between 2002-03. The model predicted that&#13;
+for each 10% increase in broadband penetration growth, GDP growth increases by 0.255 with&#13;
+an adjusted R2 of 0.63.&#13;
+&#13;
+2.3.1.3 United States&#13;
+&#13;
+This study (Crandall et al. 2007) uses data for 48 states covering the 2003-05 period to measure&#13;
+the impact of broadband on GDP. It is unique in that other than an employment variable, it uses&#13;
+nontraditional independent factors such as temperatures, union membership and tax rates that the&#13;
+authors believe could account for the growth in output. Although the effect of broadband is&#13;
+positive, the estimated coefficients are not statistically significant and the R2 is relatively low.&#13;
+&#13;
+2.3.2 Time series models at the national level&#13;
+&#13;
+2.3.2.1 Ecuador&#13;
+&#13;
+A study on broadband impact in Ecuador is interesting for its unique methodological approach&#13;
+(Katz and Callorda 2013). It is based on micro data from Ecuadoran household surveys carried&#13;
+out between 2009 and 2011. Given the low level of broadband availability in rural areas, only&#13;
+urban zones were considered. The resulting study is based on 24,028 individual observations. The&#13;
+model predicts the increase in household income based on whether it had broadband connectivity.&#13;
+The model specification is:&#13;
+&#13;
+                          í µí±&#140;2009â&#128;&#147;11 = í µí»¼ + í µí»¾í µí±&#135;í µí±&#159;eí µí±&#142;í µí±¡í µí±&#154;í µí±&#146;í µí±&#155;í µí±¡ + í µí»½í µí±&#139; + í µí±¢ + í µí±¡ + í µí±&#146;&#13;
+&#13;
+where Y is the individual's income; í µí»¾ estimates the impact of broadband "treatment" (1 if the&#13;
+individual was treated, 0 if not); X is a vector of control variables including age, gender, education,&#13;
+health coverage, type of occupation, and position in the household; u is a provincial fixed effect&#13;
+and t is a yearly fixed effect. The study found that if a household had broadband the average&#13;
+annual increase in income was US$25.76 (3.67%). The results were statistically significant but&#13;
+R2 was low (0.41).&#13;
+&#13;
+2.3.2.2 Panama and Philippines&#13;
+&#13;
+The Broadband Commission for Digital Development and the ITU sponsored two studies on the&#13;
+economic impact of broadband.8 Both use a production function to estimate the impact:&#13;
+&#13;
+                           í µí°ºí µí°·í µí±&#131;í µí±¡ = í µí±&#142;1 Ã&#151; í µí°¾í µí±¡ + í µí±&#142;2 Ã&#151; í µí°¿í µí±¡ + í µí±&#142;3 Ã&#151; í µí°µí µí°µ_í µí±&#131;í µí±&#146;í µí±&#155;í µí±¡&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+8&#13;
+   ITU. 2012. â&#128;&#156;Broadband Commission Releases First Country Case Studies.â&#128;&#157; Press Release, May 15.&#13;
+http://www.itu.int/net/pressoffice/press_releases/2012/28.aspx#.VkiwF4Q7P2x.&#13;
+&#13;
+&#13;
+                                                      9&#13;
+&amp;#12;where t = time, GDP = Gross Domestic Product in constant USD (2000), K = Gross fixed capital&#13;
+formation in constant USD (2000), L = Labor force with secondary education and BB_Pen =&#13;
+broadband penetration (two regressions carried out; one for fixed and one for mobile).&#13;
+&#13;
+The study for the Philippines (Katz and Koutroumpis 2012b) looked at the economic impact of&#13;
+both fixed and mobile broadband. It uses quarterly data at a national level for the period 2000-&#13;
+2010. The study found no significant impact for fixed broadband penetration. However, a ten&#13;
+percentage point increase in mobile broadband penetration was found to contribute 0.32%&#13;
+to GDP. While the R2 for both regressions was high, the number of observations was limited (36&#13;
+for fixed and 25 for mobile).&#13;
+&#13;
+In contrast, the study for Panama (Katz and Koutroumpis 2012a) (covering the same years as the&#13;
+Philippines), found that a ten percentage point increase in fixed broadband penetration&#13;
+boosted GDP by 0.44%. One reason is the higher level of broadband penetration in Panama. By&#13;
+2010 fixed broadband subscriptions per 100 people stood at 7.0 in Panama compared to 1.8 in the&#13;
+Philippines.&#13;
+&#13;
+2.3.2.3 Senegal&#13;
+&#13;
+A study for Senegal (Katz and Koutroumpis 2012c) covering the years 2004 to 2011 uses a&#13;
+production function to estimate the impact of broadband on economic growth:&#13;
+&#13;
+                           í µí°ºí µí°·í µí±&#131;í µí±¡ = í µí±&#142;1í µí°¾í µí±¡ + í µí±&#142;2í µí°¿í µí±¡ + í µí±&#142;3í µí°µí µí°µ_ í µí±&#131;í µí±&#146;í µí±&#155;í µí±¡ + ! 1í µí±&#150;&#13;
+&#13;
+The results found a negative impact for fixed broadband although the results were not&#13;
+statistically significant. In contrast to other findings that broadband has the biggest economic&#13;
+impact of all ICTs, simple 2G mobile penetration was found to have a bigger and more&#13;
+significant impact than fixed broadband on the Senegalese economy. Each 10 percentage point&#13;
+increase in mobile penetration was found to raise GDP growth by 0.44% (at a 10% significance&#13;
+level).&#13;
+&#13;
+Table 2-2: Summary of national studies&#13;
+&#13;
+ Country       Dependent      Independent variables (in       Observations       Dates    R2      Fixed BB&#13;
+               variable       addition to broadband                                              Multiplier X&#13;
+                              penetration)                                                           10&#13;
+&#13;
+ Philippines   GDP in         GFCF in constant USD               36 (Q)          2001-   0.99       0.02â&#128; &#13;
+               constant       (2000)                                             2010&#13;
+               USD (2000)&#13;
+                              Labor force with secondary&#13;
+                              education&#13;
+&#13;
+ Senegal       GDP            Labor force                        17 (Q)          2003-   Not        -0.03â&#128; &#13;
+               (Growth)                                                          2011    state&#13;
+                              Fixed Capital Stock&#13;
+                                                                                           d&#13;
+&#13;
+ Panama        GDP in         GFCF in constant USD               40 (Q)          2000-   0.99        0.45&#13;
+               constant       (2000)                                             2010&#13;
+               USD (2000)&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                     10&#13;
+&amp;#12;                                   Labor force with secondary&#13;
+                                   education&#13;
+&#13;
+  China           Real GDP         Capital stock                 31 (panel,     2004-    0.99      2.14&#13;
+                                                                 provinces)     2009&#13;
+                                   Labor force&#13;
+&#13;
+  Germany         GDP growth       GDP per capita 2000           424 (panel,   2002-03   0.63   0.255 (10%&#13;
+                  2003:06                                       Landkreise))                    increase in&#13;
+                                   Population growth 2000:06&#13;
+                                                                                                broadband&#13;
+                                                                                                penetration&#13;
+                                                                                                  growth)&#13;
+&#13;
+  United          GDP              Mean Annual Temperature       48 (panel,     2004     0.63     0.161â&#128; &#13;
+  States          Nonfarm                                         states)&#13;
+                                   Business Tax Climate Index&#13;
+                  Private&#13;
+                  Sector           Union Share of Employment&#13;
+                  (current)&#13;
+                                   Share of College Graduates&#13;
+                                   in Adult Population&#13;
+                                   Average Hourly Earnings&#13;
+                                   Regional (Dummy) Variables&#13;
+&#13;
+Note: â&#128;  Not statistically significant.&#13;
+&#13;
+2.4       Conclusions&#13;
+&#13;
+A variety of models have been designed to measure the impact of broadband on the economy with&#13;
+different formulas and variables, for both cross-country and within country analysis. In general,&#13;
+they share some common findings:&#13;
+&#13;
+      ï&#130;·    Almost every study, despite the methodology and whether it was cross-country or single&#13;
+           country, found a positive economic impact from fixed broadband. However, the results&#13;
+           were sometimes not statistically significant (particularly for developing countries). There&#13;
+           appears to be agreement with most studies that the impact is only noticeable after a certain&#13;
+           threshold of broadband penetration though the exact level remains imprecise.&#13;
+&#13;
+      ï&#130;·    While most studies suggest a certain threshold of penetration is necessary before a&#13;
+           significant economic impact is discernible from fixed broadband, the evidence is&#13;
+           inconclusive about whether there are diminishing returns. One study found the higher the&#13;
+           level of broadband penetration, the higher the impact due to network effects (Koutroumpis&#13;
+           2009).&#13;
+&#13;
+      ï&#130;·    The evidence is inconclusive about whether fixed broadband has a bigger impact on the&#13;
+           economy compared to other ICTs. This was not tested in every study. In those where it&#13;
+           was, one study found that of all ICTs (i.e., fixed telephones, mobile, Internet use and&#13;
+           broadband), broadband has the biggest economic impact (Qiang et al. 2009). However&#13;
+           another study found that in a low-income economy, mobile has a bigger impact, both in&#13;
+           terms of basic subscriptions and mobile broadband (Katz and Koutroumpis 2012c). One&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                         11&#13;
+&amp;#12;        study found that mobile broadband actually has a negative impact possibly due to its&#13;
+        complementarity effect and non-productive application (Thompson and Garbacz 2011).&#13;
+&#13;
+There is no consensus about the appropriate framework. Data availability typically imposes a&#13;
+certain econometric model. For example cross sectional studies are often used for groups of&#13;
+countries and time series models for a single country. However there are also panel time series for&#13;
+groups of countries and averaged time period studies for single country analysis. The classical&#13;
+production function with proxies for capital, labor and technology is often used. On the other hand,&#13;
+there are some models with distinctive independent variables. Different estimators are also used&#13;
+ranging from ordinary least squares to non-linear models, with data either unadjusted or&#13;
+transformed through logs. The description of the techniques and emphasis on the econometric&#13;
+implications often dominate studies implying their model is optimum for controlling various&#13;
+factors. Some models run several regressions with different assumptions and provide a range of&#13;
+possible impacts. These statistical debates cast some doubt on results, as there will inevitably be&#13;
+some violation of econometric principles or a poor fit of the data to the model.&#13;
+&#13;
+3     Analytical issues&#13;
+There are a number of issues affecting the analysis of the economic impact of broadband. These&#13;
+include variable selection, model design, data availability and definitions, causation and the&#13;
+financial crisis of 2008â&#128;&#147;09.&#13;
+&#13;
+3.1    Models&#13;
+&#13;
+Many of the models are derivations of the classical growth model with broadband representing&#13;
+technological influence. They generally have dependent variables based on some variation of&#13;
+income (GDP) and independent variables for investment and labor. The variable selection varies.&#13;
+The lack of agreement about what a broadband economic impact model should look like creates&#13;
+some reservation about the reliability of the estimates.&#13;
+&#13;
+While many models derive from economic growth theory, they use different variations for the&#13;
+variables. For example, growth is typically some derivation of national income (e.g., Gross&#13;
+Domestic Product) but varies from GDP per capita (either in constant or non-inflation adjusted&#13;
+values), GDP growth (either based on actual GDP or per capita GDP) to total GDP. Cross sectional&#13;
+models generally convert economic value indicators to a common currency sometimes with market&#13;
+values and other times using purchasing power parities. Some models use logs. All of these factors&#13;
+introduce subtle influences, which affect the results.&#13;
+&#13;
+According to classical economic theory, the investment indicator should represent the total value&#13;
+of capital stock in the country whereas most of the studies use flow data due to the lack of&#13;
+availability and comparability of stock data.&#13;
+&#13;
+3.2    Lag&#13;
+&#13;
+Some of the studies lag the broadband variable under the assumption that its impact on economic&#13;
+output takes a while to register. However there remains a lack of clarity about whether there is a&#13;
+lag effect, and if so, how many periods the lag should be. One study found that lagging broadband&#13;
+&#13;
+&#13;
+&#13;
+                                                12&#13;
+&amp;#12;penetration did not make much difference with nearly the whole growth-enhancing effect of&#13;
+broadband appearing to be "contemporaneous" with the diffusion of broadband (Czernich et al.&#13;
+2009). Statistical techniques such as cross-correlations can be used to investigate lag effects.9&#13;
+&#13;
+3.3    Data&#13;
+&#13;
+There are a number of issues with the data needed to carry out broadband economic impact&#13;
+analysis. This includes no (or poor) data, insufficient observations and the challenges of integrating&#13;
+diverse data sets. At least 30 observations are needed for a simple regression and 10 more&#13;
+observations for each additional independent variable.10 Most models include investment and labor&#13;
+variables in addition to a broadband indicator suggesting a minimum of 50 observations are&#13;
+needed. Cross-sectional analysis generally does not suffer from a lack of observations since they&#13;
+are carried out over a large number of countries. The lack of observations is a shortcoming for&#13;
+national level studies. Most international data sets on fixed broadband penetration are annual times&#13;
+series and begin in 1998 when only ten countries had data. Even those ten would not have sufficient&#13;
+annual observations for an acceptable regression (minimum of 30 whereas annual data from 1998-&#13;
+2013 would only consist of 16 observations).&#13;
+&#13;
+Two approaches can be taken to generate sufficient observations for a country study. One is to&#13;
+move to a more discrete time interval (e.g., quarterly) and the second is to use national&#13;
+administrative divisions with the statistics broken down at a provincial, state or lower level.&#13;
+However, obtaining the necessary data is difficult since quarterly data is not always compiled for&#13;
+every indicator needed at a national level. Furthermore, some countries do not have enough&#13;
+regional data for the level of administrative data they publish. Assuming quarterly data was&#13;
+available, then the 100 or so countries that launched broadband by early 2002 would have 48&#13;
+observations by the end of 2013.&#13;
+&#13;
+Another challenge is assembling the data set required for the analysis, particularly for national&#13;
+level studies. Given that quarterly data are generally required for national level studies then&#13;
+international data sets are not of much use since they typically only offer annual time series. One&#13;
+exception is Eurostat but data are only available for European Union members. For other countries,&#13;
+suitable data from the relevant government agency must be located and then reformatted to fit into&#13;
+the statistical tool, a process that is often more time consuming than running and modifying&#13;
+regressions. In many instances, particularly for low-income economies, the required data with the&#13;
+necessary time interval are not publicly available, if even compiled at all. When data are available,&#13;
+they were not always in the form of a complete data set for the years required so historical data&#13;
+has to be combined with data that are more recent. Managing such a large data set requires an&#13;
+adequate statistical database management tool.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+9&#13;
+  Three statistical techniques for testing lag data are: Schwarz's Bayesian information criterion (SBIC), the Akaike's&#13;
+information criterion (AIC), and the Hannan and Quinn information criterion (HQIC). See Oscar Torres-Reyna, "Time&#13;
+Series" at http://www.princeton.edu/~otorres/TS101.pdf&#13;
+10&#13;
+   See "PPA 696 RESEARCH METHODS" at: http://www.csulb.edu/~msaintg/ppa696/696regmx.htm&#13;
+&#13;
+&#13;
+                                                         13&#13;
+&amp;#12;3.4    Broadband definitions&#13;
+&#13;
+There is no agreed upon international definition of broadband. The ITU refers to a minimum speed&#13;
+of 256 kb/s for its statistical collection11 though it is unknown how strenuously this is enforced.&#13;
+OECD has defined broadband as not being dial-up (OECD 2013). This implies that the speed is&#13;
+not as critical but rather the fact that the connection is "always-on."12 This assumption is arguable&#13;
+since the speed of the broadband connection has been found to have differing economic impacts (&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+11&#13;
+    International Telecommunication Union (ITU). 2011. Handbook for the Collection of Administrative Data on&#13;
+Telecommunications/ICT. http://www.itu.int/en/ITU-D/Statistics/Pages/publications/handbook.aspx.&#13;
+12&#13;
+   It examined the increase in GDP based on the assumption that dial-up had continued to be the only way of accessing&#13;
+the Internet to calculate a broadband bonus.&#13;
+&#13;
+&#13;
+                                                         14&#13;
+&amp;#12;Box 4-1).&#13;
+&#13;
+Almost all studies use fixed broadband subscriptions per 100 people as an independent variable.&#13;
+There has been little investigation about whether other indicators might be more appropriate (e.g.,&#13;
+household or business penetration). Per capita penetration figures might distort comparisons since&#13;
+household sizes and the ratio of business subscriptions vary. Where models have used household&#13;
+data the methodology has been questionable such as taking broadband subscriptions and simply&#13;
+dividing them by the number of households rather than using survey data.&#13;
+&#13;
+Care must also be exercised in interpreting results since some studies use broadband penetration&#13;
+whereas a few have used the growth in penetration.&#13;
+&#13;
+There are significant issues with the inclusion of mobile broadband. First, the ability to use mobile&#13;
+broadband is dependent on the device and coverage. A mobile broadband subscription using a&#13;
+dongle and laptop would likely have different economic implications than using mobile broadband&#13;
+with a handset or smartphone. Second, there are problems with identifying active users versus&#13;
+those with the theoretical ability to use mobile broadband.13 Third, it is not clear whether&#13;
+broadband should be looked at overallâ&#128;&#148;combining fixed and mobile subscriptionsâ&#128;&#148;or each mode&#13;
+should be examined separately. Existing studies always treat mobile and fixed broadband as&#13;
+separate variables.&#13;
+&#13;
+3.5    Financial crisis&#13;
+&#13;
+The financial crisis of 2008â&#128;&#147;09 triggered a sharp fall in global economic output. World GDP&#13;
+growth dropped from 4% in 2007 to 1.4% in 2008 and was a negative 2.1% in 2009 (Figure 3-1,&#13;
+left). The effect was larger for high-income economies but all income groups registered a decline&#13;
+in growth. This affects broadband economic impact models since the decline in economic growth&#13;
+will distort the results. For example, while the relationship between fixed broadband and per capita&#13;
+income in France was quite strong between December 2000 and March 2008, it become&#13;
+significantly less so after that (Figure 3-1, right).14 Most studies use data before the financial crisis.&#13;
+It is important to gauge broadband economic impact using recent data, particularly since the&#13;
+analysis can then be applied to a wider group of economies where broadband penetration has&#13;
+passed relevant thresholds. Several techniques could be applied to minimize the distorting effect&#13;
+of the financial crisis. For example, a study carried out in Egypt excluded two years because of the&#13;
+political crisis in that country.15 Another option is to re-estimate GDP for those years, as if the&#13;
+financial crisis had not occurred. A third is to use a dummy variable for the periods of negative&#13;
+economic growth.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+13&#13;
+   ictDATA.org. 2013. â&#128;&#156;Mobile Internet in Europe,â&#128;&#157; January 16. http://www.ictdata.org/2013/01/mobile -internet-in-&#13;
+europe.html.&#13;
+14&#13;
+   The weaker link between fixed broadband penetration and GDP per capita in France after the financial crisis&#13;
+provides some argument against income causation. For example, fixed broadband penetration grew 11.5 percentage&#13;
+points after the financial crisis despite declining GDP per capita.&#13;
+15&#13;
+   â&#128;&#156;Measuring Impact of ICT - EGYPT.â&#128;&#157; 2013. Presented at the Capacity Building Workshop on Measuring the Use&#13;
+and Impact of ICT on Social and Economic Development, Tunis, December 17. http://css.escwa.org.lb/ICTD/3272/2-&#13;
+1.pdf.&#13;
+&#13;
+&#13;
+                                                       15&#13;
+&amp;#12;Figure 3-1: World GDP growth and relation between fixed broadband and per capita income in France&#13;
+&#13;
+                           World GDP growth (%)                                                                        29,000 â&#130;¬&#13;
+&#13;
+  5   4.3                                                                                                                                               RÂ² = 0.982&#13;
+                                  4.2           4.1 4.0                      4.1                                       28,500 â&#130;¬                              March&#13;
+                                         3.6                                                                                                                  2008&#13;
+  4&#13;
+                           2.8                                                      2.9                                                                          RÂ² = 0.5176&#13;
+                                                                                                                       28,000 â&#130;¬&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                   Per capita income&#13;
+  3                                                                                        2.4&#13;
+                    2.1&#13;
+             1.7&#13;
+  2                                                           1.4                                                                                                    March&#13;
+                                                                                                                       27,500 â&#130;¬&#13;
+                                                                                                                                                                     2013&#13;
+  1&#13;
+                                                                                                                       27,000 â&#130;¬&#13;
+  0&#13;
+&#13;
+ -1                                                                                                                    26,500 â&#130;¬&#13;
+                                                                                                                                      December&#13;
+                                                                                                                                        2000&#13;
+ -2&#13;
+                                                                     -2.1                                              26,000 â&#130;¬&#13;
+ -3                                                                                                                               0       10       20        30        40&#13;
+      2000&#13;
+             2001&#13;
+                    2002&#13;
+                           2003&#13;
+                                  2004&#13;
+                                         2005&#13;
+                                                2006&#13;
+                                                       2007&#13;
+                                                              2008&#13;
+                                                                      2009&#13;
+                                                                             2010&#13;
+                                                                                    2011&#13;
+                                                                                           2012&#13;
+&#13;
+                                                                                                                                       Fixed broadband penetration&#13;
+&#13;
+&#13;
+Note: In the left chart, annual percentage growth rate of GDP at market prices based on constant local currency.&#13;
+Aggregates are based on constant 2005 U.S. dollars. In the right chart, each marker represents a quarter between 2000&#13;
+and 2013.&#13;
+Source: Adapted from World Bank, Eurostat and ARCEP data.&#13;
+&#13;
+3.6     Causation&#13;
+&#13;
+One challenge in analyzing broadband and economic growth is the direction of the causality. In&#13;
+other words, does the level of economic development impact broadband penetration or is it the&#13;
+other way around? The simple linear charts below illustrate this dilemma as well as how closely&#13;
+related fixed broadband penetration is to income levels. The charts can be interpreted in two ways:&#13;
+either a ten percentage point increase in broadband increases GDP per capita by US$13,036 or a&#13;
+US$1,000 increase in per capita income increases broadband penetration by 0.4. The causality&#13;
+likely works in both ways. There is typically mutual feedback between the economy and factors&#13;
+that influence it. A downturn in growth affects capital and labor markets through less investment&#13;
+and lower employment. Some of the economic broadband studies feature a structural model with&#13;
+a series of equations including one for demand. Broadband penetration is generally modeled as a&#13;
+function of price and income in the demand equation but is awkwardly linked to the output&#13;
+equation to account for causality. Other models estimate broadband penetration as a function of&#13;
+other factors and use that as the independent variable in an effort to weaken the correlation between&#13;
+income and broadband penetration. Neither is satisfactory and while econometric models are&#13;
+useful tools for estimating relationships, they cannot prove causation.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                  16&#13;
+&amp;#12;Figure 3-2: What causes what?&#13;
+&#13;
+                                             $100,000                                                   50&#13;
+&#13;
+                                                                                                        45&#13;
+    GDP per capita (US$), 2012 (log scale)&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                        40&#13;
+                                              $10,000                                                   35      y = 0.0004x + 4.024&#13;
+                                                                                                                     RÂ² = 0.546&#13;
+                                                                                                        30&#13;
+&#13;
+                                                                                                        25&#13;
+                                               $1,000&#13;
+                                                                                                        20&#13;
+&#13;
+                                                                     y = 1303.6x + 1366.3               15&#13;
+                                                                          RÂ² = 0.546&#13;
+                                                                                                        10&#13;
+                                                $100&#13;
+                                                         0       10    20       30       40     50      5&#13;
+                                                        Fixed broadband subscribers (per 100 people),&#13;
+                                                                           2012                         0&#13;
+                                                                                                         $100        $1,000           $10,000   $100,000&#13;
+&#13;
+&#13;
+Note: Each bubble represents one country.&#13;
+Source: Adapted from World Bank data.&#13;
+&#13;
+4                                      Recommendations&#13;
+A wide number of models have been used to study the economic impact of broadband with&#13;
+different frameworks, variables and regression techniques. The lack of uniformity has constrained&#13;
+the analysis of the different economic impacts in individual countries using a common framework.&#13;
+&#13;
+Mobile broadband has emerged as the high-speed network of choice for developing nations. Much&#13;
+more research is needed on the nature of its impact and use. It is more difficult to model mobile&#13;
+broadband impact due to the "fuzziness" of the variable. Unlike fixed broadband, mobile&#13;
+broadband subscription data are overstated when compared to usage surveys; in the United States&#13;
+there was a significant revision of the official data to account for this. The impact of the device&#13;
+used with mobile broadband is also likely to vary: access from a mobile phone would have different&#13;
+economic significance than from a computer or a machine.&#13;
+&#13;
+While the focus of this paper has been on the impact of broadband penetration on economic&#13;
+growth, there is a need to extend analysis to other affects (e.g., employment, productivity) as well&#13;
+as other dimensions of broadband (e.g., business penetration, speed, etc.) (Box 4-1).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                        17&#13;
+&amp;#12;Box 4-1: Other economic dimensions of broadband&#13;
+&#13;
+ In addition to the economic impact of broadband, other studies have examined different impacts or used different&#13;
+ broadband conceptualizations. Several studies have estimated the impact of broadband on employment finding&#13;
+ gains of between 2.5 and 4.0 additional jobs for each broadband job (Kelly and Rossotto 2012). Other studies&#13;
+ have estimated the impact of broadband on the employment creation rate; a study (Katz 2009) for 12 Latin American&#13;
+ countries found that closing the broadband gap of some 11 million lines would result in an increase of 378,000&#13;
+ jobs.&#13;
+ One study (Ericsson 2013) looked at the quality of the broadband connection, measured as the average download&#13;
+ speed, to estimate the economic impact finding that doubling broadband speeds adds 0.3 percent to GDP&#13;
+ growth.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                        18&#13;
+&amp;#12;     Bibliography&#13;
+Barro, Robert J. 1991. â&#128;&#156;Economic Growth in a Cross Section of Countries.â&#128;&#157; The Quarterly Journal of Economics 106 (2):&#13;
+      407â&#128;&#147;43. http://papers.ssrn.com/sol3/papers.cfm?abstract_id=227295&#13;
+Barro, Robert J., and Xavier Sala-i-Martin. 2004. Economic growth. 2nd ed. Cambridge, Mass: MIT Press.&#13;
+      http://mitpress.mit.edu/books/economic-growth&#13;
+Crandall, Robert, William Lehr, and Robert Litan. 2007. â&#128;&#156;The Effects of Broadband Deployment on Output and&#13;
+      Employment: A Cross-sectional Analysis of U.S. Data.â&#128;&#157; The Brookings Institution, Issues in Economic Policy, June.&#13;
+      http://www.brookings.edu/research/papers/2007/06/labor-crandall.&#13;
+Czernich, Nina, Oliver Falck, Tobias Kretschmer, and Ludger Woessmann. 2009. Broadband Infrastructure and&#13;
+      Economic Growth. http://papers.ssrn.com/abstract=1516232.&#13;
+Deloitte. 2012. What is the impact of mobile telephony on economic growth? GSM Association.&#13;
+      http://www.gsma.com/publicpolicy/wp-content/uploads/2012/11/gsma-deloitte-impact-mobile-telephony-economic-&#13;
+      growth.pdf.&#13;
+Ericsson. 2013. Socioeconomic Effects of Broadband Speed. http://www.ericsson.com/res/thecompany/docs/corporate-&#13;
+      responsibility/2013/ericsson-broadband-final-071013.pdf.&#13;
+Feng, Yongsheng, and Yuan Ma. 2013. â&#128;&#156;Broadband Diffusion and Economic Growthâ&#128;&#148;An Empirical Research Based on&#13;
+      Provincial Level Data of China.â&#128;&#157;&#13;
+Katz, Raul. 2009. â&#128;&#156;Estimating Broadband Demand and its economic impact in Latin Americaâ&#128;&#157;. presented at the III&#13;
+      Conference Acorn-Redecom, Mexico City, September 4. http://www.acorn-&#13;
+      redecom.org/presentation/acornredecom2009presentationKatz.pdf.&#13;
+Katz, Raul, and Fernando Callorda. 2013. Impacto del despliegue de la banda ancha en Ecuador.&#13;
+      http://www.teleadvs.com/wp-content/uploads/Katz-Callorda-DIRSI-version-final-revisada_2.pdf.&#13;
+Katz, Raul, and Pantelis Koutroumpis. 2012a. The economic impact of broadband in Panama. ITU.&#13;
+      http://www.itu.int/ITU-D/treg/broadband/BB_MDG_Panama_BBCOM.pdf.&#13;
+â&#128;&#148;â&#128;&#148;â&#128;&#148;. 2012b. The economic impact of broadband in the Philippines. ITU. http://www.itu.int/ITU-&#13;
+      D/treg/broadband/BB_MDG_Philippines_BBCOM.pdf.&#13;
+â&#128;&#148;â&#128;&#148;â&#128;&#148;. 2012c. â&#128;&#156;The Economic Impact of Telecommunications in Senegal.â&#128;&#157; Communications &amp; Strategies 2 (86): 21â&#128;&#147;42.&#13;
+Katz, Raul, Stephan Vaterlaus, Patrick ZenhÃ¤usern, and Stephan Suter. 2010. â&#128;&#156;The impact of broadband on jobs and the&#13;
+      German economy.â&#128;&#157; Intereconomics: Review of European Economic Policy 45 (1): 26â&#128;&#147;34.&#13;
+Kelly, Tim, and Carlo Maria Rossotto, eds. 2012. Broadband Strategies Handbook. Washington DC: World Bank.&#13;
+      http://broadbandtoolkit.org/Custom/Core/Documents/Broadband Strategies Handbook.pdf.&#13;
+Koutroumpis, Pantelis. 2009. â&#128;&#156;The economic impact of broadband on growth: A simultaneous approach.â&#128;&#157;&#13;
+      Telecommunications Policy 33 (9): 471â&#128;&#147;85. doi:10.1016/j.telpol.2009.07.004.&#13;
+OECD. 2013. Measuring the Internet Economy. OECD Digital Economy Papers. Paris: Organisation for Economic Co-&#13;
+      operation and Development. http://www.oecd-ilibrary.org/content/workingpaper/5k43gjg6r8jf-en.&#13;
+Qiang, Christine Zhen-Wei, Carlo Rossotto, and Kaoru Kimura. 2009. â&#128;&#156;Economic Impacts of Broadband.â&#128;&#157; In Information&#13;
+      and Communications for Development. Washington D.C.: World Bank.&#13;
+      http://siteresources.worldbank.org/EXTIC4D/Resources/IC4D_Broadband_35_50.pdf.&#13;
+Roller, Lars-Hendrik, and Leonard Waverman. 2001. â&#128;&#156;Telecommunications Infrastructure and Economic Development: A&#13;
+      Simultaneous Approach</ml:original-txt><ml:search-metadata><doc id="25851781">
+        <url>
+            http://documents.worldbank.org/curated/en/2016/02/25851781/world-development-report-2016-digital-dividends-exploring-relationship-between-broadband-economic-growth
+        </url>
+        <availablein>English</availablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2016/02/25851781/world-development-report-2016-digital-dividends-exploring-relationship-between-broadband-economic-growth</url_friendly_title>
+        <new_url>2016/02/25851781/world-development-report-2016-digital-dividends-exploring-relationship-between-broadband-economic-growth</new_url>
+        <disclosure_date>2016-01-31T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2016-02-01T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <docm_id>090224b084121f4b</docm_id>
+        <chronical_docm_id>090224b084121f4b</chronical_docm_id>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2016/02/01/090224b084121f4b/1_0/Rendered/INDEX/World0developm00and0economic0growth.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2016/02/01/090224b084121f4b/1_0/Rendered/PDF/World0developm00and0economic0growth.pdf</pdfurl>
+        <datestored>2016-02-01T00:00:00Z</datestored>
+        <docdt>2016-01-01T01:58:01Z</docdt>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            World development report 2016 : digital
+            dividends - exploring the relationship between broadband and
+            economic growth
+        </repnme>
+        <abstracts>
+            Broadband can be characterized as
+            high-speed, always-on Internet connectivity. Broadband has
+            driven widespread changes in the information technology (IT)
+            sector enabling services such as cloud computing and mobile
+            apps. Equally, it is influencing innovation across many
+            other sectors including health, transport, and government.
+            The impact of broadband Internet on the economy is therefore
+            a subject of growing interest. This paper looks at different
+            studies on the economic impact of broadband illustrating the
+            range of models and data that have been used. It examines
+            some of the issues that complicate the task of gauging how
+            broadband impacts the economy. The paper concludes with a
+            summary of the key results and suggestions for moving forward.
+        </abstracts>
+        <docna>
+            World development report 2016 : digital
+            dividends - exploring the relationship between broadband and
+            economic growth
+        </docna>
+        <display_title>World development report 2016 :
+            digital dividends - exploring the relationship between
+            broadband and economic growth</display_title>
+        <listing_relative_url>/research/2016/01/25851781/world-development-report-2016-digital-dividends-exploring-relationship-between-broadband-economic-growth</listing_relative_url>
+        <topic>Telecommunications and Broadband Access
+            m1327340 286,Broadcasting Industry and Markets m1326187 2387,Broadcasting Policy and Strategy m1326865 2386,Internet Banking m1326974 1254,Broadband Networks m1327576 291</topic>
+        <subtopic>Technology Industry,E-Business,Pro-Poor Growth,Economic Theory &amp; Research,Telecommunications Infrastructure</subtopic>
+        <docty>World Development Report</docty>
+        <teratopic>Poverty Reduction,Industry,Private Sector Development,Information and Communication Technologies,Macroeconomics and Economic Growth</teratopic>
+        <count>World</count>
+        <authors>
+            <author>Minges,Michael</author>
+        </authors>
+        <entityids>
+            <entityid>090224b084121f4b_1_0</entityid>
+        </entityids>
+        <admreg>The World Region,The World Region</admreg>
+        <colti>World Development Report</colti>
+        <lang>English</lang>
+        <historic_topic>Poverty Reduction,Industry,Private Sector Development,Information and Communication Technologies,Macroeconomics and Economic Growth</historic_topic>
+        <topicv3>Telecommunications and Broadband Access
+            m1327340 286,Broadcasting Industry and Markets m1326187 2387,Broadcasting Policy and Strategy m1326865 2386,Internet Banking m1326974 1254,Broadband Networks m1327576 291</topicv3>
+        <majdocty>Publications,Publications &amp; Research</majdocty>
+        <keywd>
+            subscriber line, itu, economic growth,
+            communication technologies, digital development, feedback,
+            telecommunication, information technology, income, impact of
+            telecommunications, annual growth rate, interest rate, real
+            gdp, gdp per capita, information, labor force, developing
+            countries, cable modem, growth model, ppp, economic
+            implications, digital subscriber, diminishing returns,
+            capacity building, international telecommunication union,
+            variables, price, annual growth, independent variable, time
+            period, developed countries, computer, independent
+            variables, mobile telephony, television, press, development,
+            average growth rate, communications, link, data, influence,
+            digital, per capita income, telecommunications, broadband
+            connectivity, productivity, telephony, econometric models,
+            telecommunications infrastructure, digital economy, debt,
+            per capita growth, connectivity, household surveys,
+            significant impact, telecommunications policy, income
+            levels, dividends, employment creation, gross domestic
+            product, inventory, average growth, broadband, wireless
+            internet, telephone, telecommunication policy, users, phone,
+            technology, pdf, gross fixed capital formation, reliability,
+            high-speed, economic impact, computing, development report,
+            broadband connection, country level, telephone connections,
+            results, basic, financial crisis, market prices, value,
+            economic value, mobile phone, regulatory environment,
+            database management tool, purchasing power, networks,
+            developing world, mobile networks, government expenditure,
+            national income, database management, estimated
+            coefficients, broadband networks, private sector,
+            measurement, growth equation, economic theory, international
+            telecommunication, production function, endogenous
+            variables, internet, fixed effects, private sector
+            investment, result, economic development, trade, telephones,
+            ict, gdp, theory, broadband network, growth rate, network,
+            business, investment, wireless, rural areas, coaxial cable,
+            innovation, institution, it, cable television,
+            communication, growth theory, at, growth impact, database,
+            micro data, public spending, penetration of broadband, 3g,
+            technologies, dsl, wireless networks, prices, uses, income
+            groups, growth
+        </keywd>
+        <owner>World Development Report (DECWD)</owner>
+        <repnb>102955</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>Economic Policy and Debt</ml:concept><ml:concept>ICT</ml:concept><ml:concept>ICT for Development</ml:concept><ml:concept>Information Technology</ml:concept><ml:concept>Information and Communication Technologies (ICT)</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Economic Management</ml:concept><ml:concept>Macroeconomic Management</ml:concept><ml:concept>Macroeconomic Policy</ml:concept><ml:concept>Macroeconomics Policy</ml:concept><ml:concept>Macroeconomics and Economic Growth</ml:concept><ml:concept>Macroeconomics and Growth</ml:concept><ml:concept>Teaching and Learning</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Social Protections and Labor</ml:concept><ml:concept>International Competitiveness</ml:concept><ml:concept>International Economics and Trade</ml:concept><ml:concept>Trade Liberalization</ml:concept><ml:concept>Trade Liberalization and Regional Integration</ml:concept><ml:concept>Trade Restrictiveness</ml:concept><ml:concept>Trade and Integration</ml:concept><ml:concept>City Development Strategies</ml:concept><ml:concept>Industry</ml:concept><ml:concept>Science and Technology</ml:concept><ml:concept>Macroeconomic Vulnerability and Debt</ml:concept><ml:concept>Information and Communication Technologies</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Macroeconomic and Structural Policies</ml:concept><ml:concept>Education</ml:concept><ml:concept>Economic Growth</ml:concept><ml:concept>Health, Nutrition and Population</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Social Protection and Labor</ml:concept><ml:concept>Trade</ml:concept><ml:concept>Urban Development</ml:concept><ml:concept>Public Expenditure</ml:concept><ml:concept>Infrastructure and Networks (National; State; Local)</ml:concept><ml:concept>Telecommunication and Network Services</ml:concept><ml:concept>Telecommunications</ml:concept><ml:concept>Debt Management</ml:concept><ml:concept>Debt Policy</ml:concept><ml:concept>Debt Policy and Management</ml:concept><ml:concept>Public Debt Management</ml:concept><ml:concept>Higher Education</ml:concept><ml:concept>Tertiary Education – Enhancing Access, Equity and Quality</ml:concept><ml:concept>Demographics</ml:concept><ml:concept>Longevity</ml:concept><ml:concept>Efficiency of Public Expenditures</ml:concept><ml:concept>Public Expenditures</ml:concept><ml:concept>Public Financial Management</ml:concept><ml:concept>Public Spending</ml:concept><ml:concept>Analysis &amp; Monitoring</ml:concept><ml:concept>Delivery Units</ml:concept><ml:concept>Grievance Redress</ml:concept><ml:concept>Indicators</ml:concept><ml:concept>M&amp;E</ml:concept><ml:concept>Performance Measurement</ml:concept><ml:concept>Performance Reviews</ml:concept><ml:concept>Rapid Results Approaches</ml:concept><ml:concept>Connectivity</ml:concept><ml:concept>Lagging Regions</ml:concept><ml:concept>Econometrics</ml:concept><ml:concept>Consumption</ml:concept><ml:concept>Economic Development</ml:concept><ml:concept>Income</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Technology Industry</ml:concept><ml:concept>Government Expenditure</ml:concept><ml:concept>Infrastructure</ml:concept><ml:concept>Telecommunications and Broadband Access</ml:concept><ml:concept>Broadband Networks</ml:concept><ml:concept>Debt</ml:concept><ml:concept>Tertiary Education</ml:concept><ml:concept>Population</ml:concept><ml:concept>Aging</ml:concept><ml:concept>Cloud Computing</ml:concept><ml:concept>Managing Public Finances</ml:concept><ml:concept>Monitoring and Evaluation</ml:concept><ml:concept>Connectivity and Lagging Regions</ml:concept></ml:concepts><ml:geo-regions/></ml:annotations></ml:doc-envelope>

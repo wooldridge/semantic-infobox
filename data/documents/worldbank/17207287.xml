@@ -1,0 +1,1524 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>ï»¿                                                                75006&#13;
+                     Toward Universal Coverage&#13;
+                     in Health:&#13;
+                     The Case of the State&#13;
+                     Guaranteed Benefit Package&#13;
+                     of the Kyrgyz Republic&#13;
+&#13;
+&#13;
+Antonio Giuffrida,&#13;
+Melitta Jakab, and&#13;
+Elina M. Dale&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                     Universal Health Coverage Studies Series (UNICO)&#13;
+                                                                        i&#13;
+                     UNICO Studies Series No. 17&#13;
+&amp;#12;&amp;#12;UNICO Studies Series 17&#13;
+Toward Universal Coverage in Health:&#13;
+The Case of the State Guaranteed Benefit Package of&#13;
+the Kyrgyz Republic1&#13;
+Antonio Giuffrida, Melitta Jakab, and Elina M. Dale 2&#13;
+&#13;
+The World Bank, Washington DC, January 2013&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+1&#13;
+  We are grateful to the participants of the UNICO Authorsâ&#128;&#153; Workshop, Helen Edmundson, Pedro Francke, Jack&#13;
+Langenbrunner, and Fernando Montenegro, for the helpful comments. The findings, interpretations, and conclusions&#13;
+expressed in this paper are entirely those of the authors, and do not necessarily represent the views of the World&#13;
+Bank and its Executive Directors, the World Health Organization, or the government of the countries they represent.&#13;
+2&#13;
+  Antonio Giuffrida is with the World Bank, Melitta Jakab is with WHO-EURO, and Elina M. Dale is with the Johns&#13;
+Hopkins School of Public Health.&#13;
+&#13;
+&#13;
+                                                                                                                  i&#13;
+&amp;#12;           The World Bankâ&#128;&#153;s Universal Health Coverage Studies Series (UNICO)&#13;
+All people aspire to receive quality, affordable health care. In recent years, this aspiration has&#13;
+spurred calls for universal health coverage (UHC) and has given birth to a global UHC&#13;
+movement. In 2005, this movement led the World Health Assembly to call on governments to&#13;
+â&#128;&#156;develop their health systems, so that all people have access to services and do not suffer&#13;
+financial hardship paying for them.â&#128;? In December 2012, the movement prompted the United&#13;
+Nations General Assembly to call on governments to â&#128;&#156;urgently and significantly scale-up efforts&#13;
+to accelerate the transition towards universal access to affordable and quality healthcare&#13;
+services.â&#128;? Today, some 30 middle-income countries are implementing programs that aim to&#13;
+advance the transition to UHC, and many other low- and middle-income countries are&#13;
+considering launching similar programs.&#13;
+The World Bank supports the efforts of countries to share prosperity by transitioning toward&#13;
+UHC with the objectives of improving health outcomes, reducing the financial risks associated&#13;
+with ill health, and increasing equity. The Bank recognizes that there are many paths toward&#13;
+UHC and does not endorse a particular path or set of organizational or financial arrangements to&#13;
+reach it. Regardless of the path chosen, successful implementation requires that many&#13;
+instruments and institutions be in place. While different paths can be taken to expand coverage,&#13;
+all paths involve implementation challenges. With that in mind, the World Bank launched the&#13;
+Universal Health Coverage Studies Series (UNICO Study Series) to develop knowledge and&#13;
+operational tools designed to help countries tackle these implementation challenges in ways that&#13;
+are fiscally sustainable and that enhance equity and efficiency. The UNICO Studies Series&#13;
+consists of technical papers and country case studies that analyze different issues related to the&#13;
+challenges of UHC policy implementation.&#13;
+The case studies in the series are based on the use of a standardized protocol to analyze the nuts&#13;
+and bolts of programs that have expanded coverage from the bottom upâ&#128;&#148;programs that have&#13;
+started with the poor and vulnerable rather than those initiated in a trickle-down fashion. The&#13;
+protocol consists of nine modules with over 300 questions that are designed to elicit a detailed&#13;
+understanding of how countries are implementing five sets of policies to accomplish the&#13;
+following: (a) manage the benefits package, (b) manage processes to include the poor and&#13;
+vulnerable, (c) nudge efficiency reforms to the provision of care, (d) address new challenges in&#13;
+primary care, and (e) tweak financing mechanisms to align the incentives of different&#13;
+stakeholders in the health sector. To date, the nuts and bolts protocol has been used for two&#13;
+purposes: to create a database comparing programs implemented in different countries, and to&#13;
+produce case studies of programs in 24 developing countries and one high-income â&#128;&#156;comparator,â&#128;?&#13;
+the state of Massachusetts in the United States. The protocol and case studies are being published&#13;
+as part of the UNICO Studies Series, and a comparative analysis will be available in 2013.&#13;
+We trust that the protocol, case studies, and technical papers will provide UHC implementers&#13;
+with an expanded toolbox, make a contribution to discussions about UHC implementation, and&#13;
+that they will inform the UHC movement as it continues to expand worldwide.&#13;
+                                                                               Daniel Cotlear&#13;
+                                                       UNICO Studies Series Task Team Leader&#13;
+                                                                             The World Bank&#13;
+                                                                             Washington, DC&#13;
+&#13;
+                                                                                                ii&#13;
+&amp;#12;                                                          TABLE OF CONTENTS&#13;
+&#13;
+&#13;
+Abbreviations ............................................................................................................................................... iv&#13;
+Executive Summary ...................................................................................................................................... v&#13;
+Overview of the Kyrgyz Health System ....................................................................................................... 1&#13;
+Key Health Sector Reforms .......................................................................................................................... 4&#13;
+Health Financing Flow.................................................................................................................................. 7&#13;
+The Health Delivery System ......................................................................................................................... 8&#13;
+The State-guaranteed Benefits Package ........................................................................................................ 9&#13;
+Entitlements of the SGBP ........................................................................................................................... 10&#13;
+Copayment Exemptions .............................................................................................................................. 12&#13;
+Management of Public Funds in SGBP ...................................................................................................... 13&#13;
+The SGBP Information Environment ......................................................................................................... 14&#13;
+Lessons for Universal Health Coverage...................................................................................................... 14&#13;
+Pending Agenda .......................................................................................................................................... 16&#13;
+Annex 1 Kyrgyz Republic and Low-income Countries .............................................................................. 18&#13;
+Annex 2 Brief Description of Public Health, Primary Care, and Key Supply-side Efforts ........................ 21&#13;
+References ................................................................................................................................................... 23&#13;
+&#13;
+&#13;
+FIGURES&#13;
+Figure 1 Percentage of Population that Needed but Did Not Seek Care Due to Distance or Affordability.. 2&#13;
+Figure 2 Utilization of Primary and Hospital Health Care Services ............................................................. 2&#13;
+Figure 3 Incidence of Catastrophic Payments............................................................................................... 3&#13;
+Figure 4 Trend of Average Length of Stay, 2000â&#128;&#147;11 ................................................................................... 3&#13;
+Figure 5 Strategic Approach of the Den Sooluk National Health Reform Program ..................................... 4&#13;
+Figure 6 Pooling of Funds and Population Coverage ................................................................................... 6&#13;
+Figure 7 Population and Service Coverage under the SGBP ...................................................................... 10&#13;
+&#13;
+TABLES&#13;
+Table 1 Breakdown of Total Health Expenditure, Kyrgyz Republic, Selected Years, 2000â&#128;&#147;10 .................. 7&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                             iii&#13;
+&amp;#12;                                Abbreviations&#13;
+&#13;
+&#13;
+ADP    Additional Drug Package&#13;
+CVDs   cardio-vascular diseases&#13;
+FAPS   Feldsher-Obstetrical Ambulatory Points&#13;
+FGPs   family group practices&#13;
+FMCs   family medicine centers&#13;
+GPC    General Practice Centers&#13;
+MCH    mother and child health&#13;
+MHI    mandatory health insurance&#13;
+MHIF   Mandatory Health Insurance Fund&#13;
+MOH    Ministry of Health&#13;
+PHC    primary health care&#13;
+SGBP   State Guaranteed Benefits Package&#13;
+SSES   Department of State Sanitary-Epidemiological Surveillance&#13;
+TB     tuberculosis&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                   iv&#13;
+&amp;#12;Executive Summary&#13;
+&#13;
+The Kyrgyz State Guaranteed Benefits Package (SGBP) represents a successful strategy to move&#13;
+toward universal health coverage in a low-income transition economy. The SGBP was&#13;
+introduced as part of a comprehensive national health reform program that included:&#13;
+&#13;
+   â&#128;¢   Definition of health benefits in the SGBP, free primary care for all Kyrgyz citizens, and&#13;
+       subsidized secondary care with extensive exemptions from copayments, which allowed&#13;
+       maintaining equal access to basic health services.&#13;
+   â&#128;¢   Introduction of a mandatory health insurance contribution financed through an earmarked&#13;
+       payroll tax that increased public health funds and flexibility in their use.&#13;
+   â&#128;¢   Creation of the Mandatory Health Insurance Fund (MHIF), which acts as the single&#13;
+       purchaser of services provided under SGBP and which influenced provider behavior to&#13;
+       desired actions.&#13;
+   â&#128;¢   Pooling of all public funds including the general tax and payroll tax under the MHIF,&#13;
+       which created economies of scale and lowered the administrative costs of managing the&#13;
+       SGBP.&#13;
+   â&#128;¢   Introduction of official copayments, which gave facilities small but vital amounts of cash&#13;
+       for drugs and medical supplies, increased availability of medicines and supplies at the&#13;
+       facility level, and reduced (informal) patient payments for these items.&#13;
+   â&#128;¢   Introduction of population- and output-based payment mechanisms, which gave certain&#13;
+       flexibility to facility managers and encouraged a more efficient use of resources.&#13;
+   â&#128;¢   Organizational reforms that strengthened primary health care and supported the&#13;
+       rationalization of the hospital care network, which led to significant efficiency gains,&#13;
+       enabling a reduction of informal payments.&#13;
+&#13;
+This approach has led to documented improvements in financial protection, access, and&#13;
+efficiency, and to the reduction of informal payments. However, some outcomes for key health&#13;
+conditions have not improved as much as expected, and quality of care remains a concern. To&#13;
+address these challenges, the Den Sooluk national health reform program for 2012â&#128;&#147;16 was&#13;
+developed. Den Sooluk focuses on four priority areas: cardiovascular diseases (CVDs), mother&#13;
+and child health (MCH), tuberculosis (TB), and HIV infection (HIV). Den Sooluk proposes an&#13;
+ambitious reform agenda that quantifies the health gains expected over the next four years,&#13;
+identifies the population and individual medical interventions required to achieve such health&#13;
+improvements, and spells out the health system strengthening activities required to achieve the&#13;
+desired goals.&#13;
+&#13;
+In this case study we describe the evolution of the Kyrgyz health care system and discuss&#13;
+challenges in ensuring universal access to basic health care services. Section 1 provides an&#13;
+overview of the Kyrgyz health system and of the national health care reform programs that&#13;
+started in 2001 with Manas (2001â&#128;&#147;2005) and which have been continued with Manas Taalimi&#13;
+(2006â&#128;&#147;2011), and the recently adopted Den Sooluk (2012â&#128;&#147;2016). Section 2 provides a detailed&#13;
+discussion of the SGBP that follows a universal approach as it applies to all citizens, and&#13;
+describes the management of public funds and the information environment of the SGBP.&#13;
+Section 3 draws lessons from Kyrgyz national health reforms for universal health coverage for&#13;
+other countries with very limited public resources, widespread poverty, and high levels of&#13;
+&#13;
+                                                                                               v&#13;
+&amp;#12;corruption. Section 4 discusses the remaining challenges for universal health coverage for the&#13;
+poor and how the provision of good-quality care forms an important part of the agenda for the&#13;
+recently adopted Den Sooluk program.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                            vi&#13;
+&amp;#12;Overview of the Kyrgyz Health System&#13;
+&#13;
+The current health system in the Kyrgyz Republic has been gradually built over the last 20 years,&#13;
+since the collapse of the Soviet Union, and it has been evolving following the new political and&#13;
+economic realities.&#13;
+&#13;
+The pre-1990s Kyrgyz health system adhered to the standard Soviet paradigm. The health system&#13;
+was centrally planned and managed, with minimum discretion allowed to local managers. The&#13;
+distribution of resources, number of hospital beds, and doctors per population followed the&#13;
+planning norms and standards developed by the Semashko Research Institute of Social Hygiene&#13;
+and Public Health in Moscow. The Soviet health system was highly inefficient, with a heavy&#13;
+emphasis on a large network of providers, a preference of hospital over primary care, and a focus&#13;
+on curative rather than preventive services. Health care was almost exclusively financed through&#13;
+state budgetary resources at several levels.&#13;
+&#13;
+The input-based financing system contributed to the expansion of the physical capacity of the&#13;
+health delivery network and encouraged further inefficiencies. In addition, several line&#13;
+ministries, such as the Ministry of Defense and the Ministry of Interior, had their own health&#13;
+facilities. The financial sustainability of the Soviet Kyrgyz health system was possible thanks to&#13;
+substantial budget transfers and support of the national initiatives by Moscow (Rowland and&#13;
+Telyukov 1991). Notwithstanding its inefficiency, the Soviet health system made tangible&#13;
+progress in the Kyrgyz Republic. It provided universal access to basic health services and&#13;
+financial protection. It was also successful in fighting infectious diseases and improving key&#13;
+health outcomes (Meimanaliev 2003; Sargaldakova et al. 2000), although there is some&#13;
+disagreement about the extent of those achievements (Davis 2010).&#13;
+&#13;
+The Soviet model became unaffordable due to the deep economic crisis that accompanied the&#13;
+early years of the Kyrgyz Republicâ&#128;&#153;s transition from a Soviet Republic to an independent&#13;
+country. During 1991â&#128;&#147;95, while the breadth of coverage stayed the same, the depth of coverage&#13;
+eroded, as informal out-of-pocket payments became a usual practice (Jakab and Manjieva 2008).&#13;
+The gap between de jure and de facto entitlements grew, resulting in a deep sense of&#13;
+disillusionment with the health system.&#13;
+&#13;
+In this context, the Manas national health reform program was developed. The main objective of&#13;
+the Manas program, implemented during 2001â&#128;&#147;05, was to improve the financial sustainability of&#13;
+the health sector by restructuring the oversized and unaffordable hospital delivery network&#13;
+inherited from the Soviet period that was absorbing an increasing share of government resources.&#13;
+The Manas program was successful in reducing inefficiencies, and hospital capacity was reduced&#13;
+by 40 percent. The subsequent Manas Taalimi national health reform program, covering 2006â&#128;&#147;&#13;
+10, further strengthened health sector reforms, placing particular emphasis on reducing the&#13;
+financial burden on patients.&#13;
+&#13;
+The results of the Manas and Manas Taalimi programs were mixed, however, but good progress&#13;
+was achieved on access and coverage, equity, financial protection, and efficiency.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                1&#13;
+&amp;#12;The barriers to access have been reduced in the last 10 years (see figure 1), and the Kyrgyz&#13;
+population enjoys higher coverage of a number of basic health services, such as immunization,&#13;
+prenatal services, contraceptive use, and skilled birth attendance compared to other low-income&#13;
+and low-middle-income countries (see Annex 1.III coverage comparisons). In addition, there is&#13;
+no significant utilization gap between the poor and the rich in either primary health care or&#13;
+hospital services (see figure 2).&#13;
+&#13;
+     Figure 1 Percentage of Population that Needed but Did Not Seek Care Due to Distance or&#13;
+                                          Affordability&#13;
+&#13;
+&#13;
+&#13;
+    12%&#13;
+&#13;
+    10%&#13;
+&#13;
+      8%&#13;
+&#13;
+      6%&#13;
+&#13;
+      4%&#13;
+&#13;
+      2%&#13;
+&#13;
+      0%&#13;
+                 2000               2003             2006               2009&#13;
+&#13;
+Source: Kyrgyz Integrated Household Survey, several years.&#13;
+&#13;
+                  Figure 2 Utilization of Primary and Hospital Health Care Services&#13;
+&#13;
+&#13;
+                                                              Poorest&#13;
+           12                                                 20%&#13;
+&#13;
+           10&#13;
+&#13;
+            8&#13;
+&#13;
+            6&#13;
+&#13;
+            4&#13;
+&#13;
+            2&#13;
+&#13;
+            0&#13;
+                              PHC                            Hospital&#13;
+        Source: Kyrgyz Integrated Household Survey, 2009.&#13;
+&#13;
+The capacity of the health system to provide financial protection has improved over the last&#13;
+decade, as shown by the downward incidence of catastrophic health payments, which are defined&#13;
+as out-of-pocket health payments exceeding 15 or 20 percent of total household expenditure (see&#13;
+figure 3). However, in 2009 about 38 percent of households reported that it was â&#128;&#156;difficultâ&#128;? or&#13;
+                                                                                              2&#13;
+&amp;#12;â&#128;&#156;very difficultâ&#128;? to afford health care costs. To find money to pay for health care costs, about 29&#13;
+percent of households used savings, 25 percent reduced consumption, 13 percent sought support&#13;
+from relatives, 10 percent had to borrow money, about 9.5 percent sold production or animals,&#13;
+and about 2 percent sold other valuables. 3&#13;
+&#13;
+                                Figure 3 Incidence of Catastrophic Payments&#13;
+&#13;
+&#13;
+     8.0%                                                        15%&#13;
+                                                                 20%&#13;
+     7.5%&#13;
+&#13;
+     7.0%&#13;
+&#13;
+     6.5%&#13;
+&#13;
+     6.0%&#13;
+&#13;
+     5.5%&#13;
+&#13;
+     5.0%&#13;
+&#13;
+     4.5%&#13;
+&#13;
+     4.0%&#13;
+                 2000               2003                 2006                     2009&#13;
+Source: Kyrgyz Integrated Household Survey, several years.&#13;
+&#13;
+With regard to efficiency, the average length of stay for hospital admissions has shown a strong&#13;
+downward trend both nationally and among Bishkek city health facilities (see figure 4).&#13;
+&#13;
+                              Figure 4 Trend of Average Length of Stay, 2000â&#128;&#147;11&#13;
+&#13;
+&#13;
+&#13;
+                                          2000    2005    2011&#13;
+                       13.7&#13;
+&#13;
+                                12.1                     12.1&#13;
+                                                                  11.2&#13;
+&#13;
+                                          9.9&#13;
+                                                                            9.0&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                        Kyrgyz Republic          Bishkek municipal health facilities&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+3&#13;
+    Kyrgyz Integrated Household Survey 2009.&#13;
+&#13;
+                                                                                                3&#13;
+&amp;#12;Health outcomes for key conditions, however, have not improved, adult mortality is still high&#13;
+(see Annex 1.III outcomes comparisons), and quality of care remains a concern. These factors&#13;
+have led to dissatisfaction among the population and have undermined support of the public&#13;
+system. The Den Sooluk national health reform program, covering 2012â&#128;&#147;16, has been developed&#13;
+to address these challenges. The new program focuses on creating a strong link between program&#13;
+activities and their impact on health outcomes. Four priority health improvement areas have been&#13;
+selected for which expected gains in health outcomes have been set with a five-year horizon:&#13;
+cardiovascular diseases (CVDs), mother and child health (MCH), tuberculosis (TB), and HIV&#13;
+infection (HIV). The strategic approach of Den Sooluk is based on three interlinked pillars: (a)&#13;
+expected health gains, (b) core services needed to achieve expected health gains, and (c)&#13;
+detection and removal of health system barriers that undermine the delivery of core services and&#13;
+hence the achievement of health gains (see figure 5).&#13;
+&#13;
+&#13;
+        Figure 5 Strategic Approach of the Den Sooluk National Health Reform Program&#13;
+&#13;
+                  EXPECTED           CORE                 HEALTH CARE SYSTEM&#13;
+                   RESULTS         SERVICES                STRENGHENING VIA&#13;
+                                                          REMOVAL OF BARRIERS&#13;
+                     CVD              CVD&#13;
+                                                                    Individual health services&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                             Resource generation&#13;
+                                                    Public health&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                   Stewardship&#13;
+                    MCH              MCH&#13;
+                                                                                                 Financing&#13;
+&#13;
+                     TB               TB&#13;
+&#13;
+&#13;
+&#13;
+                     HIV              HIV&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+For each health priority, the Den Sooluk program defines core services whose full delivery to the&#13;
+population is essential for the achievement of expected health improvements. Core services&#13;
+include population-based interventions and individual medical services that are evidence based&#13;
+and are feasible given the existing institutional arrangements.&#13;
+&#13;
+The health care system strengthening dimension of the Den Sooluk focuses on the removal of&#13;
+those health system barriers that have undermined the delivery of core services needed to achieve&#13;
+health gains. Health system barriers have been identified for each of the four priority health&#13;
+improvement areas grouped around the main functions of health systems: public health,&#13;
+individual health services, financing, and resource generation and governance.&#13;
+&#13;
+Key Health Sector Reforms&#13;
+&#13;
+The sequencing and step-by-step implementation were important elements of the success of the&#13;
+Kyrgyz Republicâ&#128;&#153;s national health reform programs. The first phase of reforms rested on the&#13;
+following pillars (Jakab and Manjieva 2008):&#13;
+&#13;
+&#13;
+                                                                                                                                                 4&#13;
+&amp;#12;    â&#128;¢   Introduction of a mandatory health insurance (MHI) contribution, financed through an&#13;
+        earmarked payroll tax to complement budget funds&#13;
+    â&#128;¢   Replacement of line-item health financing with population- and output-based payment&#13;
+        mechanisms&#13;
+    â&#128;¢   Progressive centralization of the purchasing function under the Mandatory Health&#13;
+        Insurance Fund (MHIF)&#13;
+    â&#128;¢   Reforming of the health delivery system, development of the family medicine model for&#13;
+        primary care, and restructuring of hospital care&#13;
+    â&#128;¢   Clarification of entitlements and citizen obligations to copay through the introduction of&#13;
+        the State Guaranteed Benefits Package (SGBP).&#13;
+&#13;
+The payroll tax earmarked to health care was introduced in 1997 to attract additional resources to&#13;
+fund the sector. 4 The MHIF was created the same year to administer the new payroll tax. The&#13;
+MHIF began to contract providers and pay them based on new reimbursement procedures: case-&#13;
+based payment to hospitals and capitation-based payment to primary care level facilities.&#13;
+Therefore, even if the MHI contributions managed by the MHIF represented less than 4 percent&#13;
+of total health expenditure, they introduced important innovations in the system. During the first&#13;
+three years of reforms, the MHIF strengthened and developed its purchasing, operational, and&#13;
+institutional capacity.&#13;
+&#13;
+In 2000, the MHIF introduced the Additional Drug Package (ADP) on a pilot basis. 5 In 2001, the&#13;
+SGBP was introduced in pilot oblasts (region). Simultaneously, two oblasts started to pool&#13;
+budget funds and MHI contributions. The oblast pool was managed by the territorial MHIF that&#13;
+acted as a single payer using the new purchasing mechanisms for the entire pool of funds. In the&#13;
+meantime, health financing expert teams visited all health facilities, estimated the expected&#13;
+revenues under the new system, and made recommendations to optimize their capacity. Each&#13;
+year, two additional oblasts set up oblast-level health financing pools until the entire country was&#13;
+covered by 2005. In 2006, oblast pools were merged at the national level, allowing the MHIF to&#13;
+improve the geographic allocation of resources (see figure 6).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+4&#13;
+  Contribution to MHI was set at 2 percent for the employed and is payable by employers. Farmers pay 5 percent of&#13;
+their land tax as their MHI contribution. Contributions on behalf of pensioners and the unemployed are made by the&#13;
+state budget and are calculated on a base equal to 1.5 times the minimum wage.&#13;
+5&#13;
+  Under the ADP program, the MHIF contracts pharmacies for the delivery of drugs included in the predetermined&#13;
+list. Pharmacies are reimbursed an agreed price that is based on the cost of the generic version of the drugs, and&#13;
+patients must pay the difference if the price charged by the pharmacy is higher.&#13;
+&#13;
+                                                                                                                5&#13;
+&amp;#12;                       Figure 6 Pooling of Funds and Population Coverage&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                  Source: Kutzin, Ibraimova, Kadyrova, et al. 2002.&#13;
+&#13;
+By the end of the Manas national health reform program, the MHIF was the single payer of the&#13;
+public health system, responsible for purchasing health services covered by the SGBP and the&#13;
+ADP. The MHIF consists of a central headquarters and regional (oblast) units. In addition to its&#13;
+main functions of managing contracts and administering payments to health providers, the MHIF&#13;
+is also responsible for monitoring the quality of health services and utilization and enrolment&#13;
+data, and for ensuring protection of patient rights (Government of the Kyrgyz Republic 2006;&#13;
+Ibraimova et al. 2011). Specifically, it is responsible for the following:&#13;
+&#13;
+   â&#128;¢   Operating the hotline for complaints and inquiries&#13;
+   â&#128;¢   Investigating complaints and ensuring that corrective measures are taken&#13;
+   â&#128;¢   Conducting information and awareness campaigns on patient rights&#13;
+   â&#128;¢   Working with civil society organizations on issues related to patient rights, particularly in&#13;
+       the area of HIV/AIDS&#13;
+   â&#128;¢   Coordination with other parts of the health care system for quality assurance measures&#13;
+   â&#128;¢   Conducting regular patient satisfaction surveys.&#13;
+&#13;
+The MOH is responsible for developing national health policy, preparing and implementing&#13;
+legislative acts, and implementing national health programs. It is also responsible for licensing&#13;
+medical and pharmaceutical activities, overseeing the accreditation of health care organizations,&#13;
+and the monitoring and evaluation of the health status of the population. The MOH also directly&#13;
+manages tertiary level facilities and is responsible for the provision of high-technology&#13;
+treatment.&#13;
+&#13;
+The institutional relationship between the MOH and the MHIF has been evolving since its&#13;
+inception. The MHIF was initially established in 1997 as a fund directly accountable to the&#13;
+government, but in subsequent years it was transferred to the MOH. In December 2009, the&#13;
+MHIF was separated from the MOH and became directly subordinated to the Vice Prime&#13;
+Minister for Social Affairs.&#13;
+&#13;
+                                                                                                  6&#13;
+&amp;#12;Health Financing Flow&#13;
+&#13;
+The health sector of the Kyrgyz Republic is financed by public, private, and external funds (see&#13;
+table 1). Public funds are further subdivided into budget funds (state and local budgets)&#13;
+generated by general tax revenues and MHI contributions generated by the earmarked payroll&#13;
+tax. The predominant funding source is the general tax, and the payroll tax plays only a&#13;
+complementary role. Private out-of-pocket payments for health consist of copayments for&#13;
+services provided under the SGBP and ADP, informal payments charged by public providers,&#13;
+payment for drugs, and the premiums paid for private health insurance. External funds include&#13;
+grants from international organizations and donors provided either by inclusion in the state&#13;
+budget or through parallel financing (see table 1).&#13;
+&#13;
+Between 2000 and 2010, with the exception of 2009, the share of private funds has exceeded the&#13;
+share of public funds in total health expenditures. In 2010, (the latest year for which full data are&#13;
+available), private funds represented 43.3 percent (about 86 percent of private health spending is&#13;
+out of pocket) of total health expenditures, public funds represented 43.9 percent, and external&#13;
+financing represented 12.8 percent (MHIF data based on NHA Report 2012, unpublished).&#13;
+&#13;
+Around 70 percent of public funds are managed by the MHIF to purchase health services under&#13;
+the SGBP and the ADP (Temirov et al. 2011). The MHIF pools both general tax revenues and&#13;
+payroll tax funds in one pool and allocates it to providers.&#13;
+&#13;
+    Table 1 Breakdown of Total Health Expenditure, Kyrgyz Republic, Selected Years, 2000â&#128;&#147;10&#13;
+                                   2000        2006       2007      2008       2009       2010&#13;
+ In Nominal Terms&#13;
+ Total health expenditures (million soms)&#13;
+ Budget (general taxation)          1,248.2     2,421.0   2,966.9    3,873.0    4,809.1    4,944.5&#13;
+ MHI contribution (payroll tax)      105.1       466.9    704.469     476.8      682.6      813.2&#13;
+ Private                            1,521.4     3,921.9   4,398.4    4,823.2    5,356.6    5,671.7&#13;
+ External joint financing             N/A        252.6     529.7      409.1      943.2      823.5&#13;
+ External parallel financing          N/A         N/A      519.8      709.0      683.4      851.7&#13;
+ Total                              2,874.7     7,062.4   9,119.2   10,291.2   12,474.8   13,104.6&#13;
+ Per capita rate health expenditures (in soms)&#13;
+ Budget (general taxation)           255.0       466.5     567.9     734.1      894.1      912.6&#13;
+ MHI contribution (payroll tax)       21.5        90.0     134.9      90.4      126.9      150.1&#13;
+ Private                             310.8       755.7     842.0     914.2      995.9     1,046.8&#13;
+ External joint financing             N/A         48.7     101.4      77.5      175.4      152.0&#13;
+ External parallel financing          N/A         N/A       99.5     134.4      127.1      157.2&#13;
+ Total                               587.3      1,360.8   1,745.6   1,950.5    2,319.3    2,418.6&#13;
+ As share of total health expenditures&#13;
+ Budget (general taxation)           43.4%       34.3%     32.5%     37.6%      38.6%      37.7%&#13;
+ MHI contribution (payroll tax)      3.7%        6.6%      7.7%      4.6%        5.5%      6.2%&#13;
+ Private                             52.9%       55.5%     48.2%     46.9%      42.9%      43.3%&#13;
+ External joint financing             N/A        3.6%      5.8%      4.0%        7.6%      6.3%&#13;
+ External parallel financing          N/A         N/A      5.7%      6.9%        5.5%      6.5%&#13;
+ Total                              100.0%      100.0%    100.0%    100.0%     100.0%     100.0%&#13;
+ As GDP share&#13;
+ Budget (general taxation)           1.9%        2.1%      2.1%      2.1%       2.4%       2.3%&#13;
+&#13;
+                                                                                                     7&#13;
+&amp;#12;                                    2000        2006        2007        2008        2009        2010&#13;
+ MHI contribution (payroll tax)       0.2%        0.4%        0.5%        0.3%        0.3%        0.4%&#13;
+ Private                              2.3%        3.5%        3.1%        2.6%        2.7%        2.7%&#13;
+ External joint financing             N/A         0.2%        0.4%        0.2%        0.5%        0.4%&#13;
+ External parallel financing          N/A          N/A        0.4%        0.4%        0.3%        0.4%&#13;
+ Total                               4.4%         6.2%        6.5%        5.6%        6.4%        6.2%&#13;
+ In real terms (in prices of 2000)&#13;
+ Total health expenditures (million soms)&#13;
+ Budget (general taxation)            1,248.2      1,876.5     2,086.7     2,187.9    2,543.8     2,421.7&#13;
+ MHI contribution (payroll tax)        105.1        361.9       495.5       269.3      361.0       398.3&#13;
+ Private                              1,521.4      3,039.7     3,093.5     2,724.7    2,833.4     2,777.8&#13;
+ External joint financing               N/A         195.8       372.6       231.1      498.9       403.3&#13;
+ External parallel financing            N/A          N/A        365.6       400.6      361.5       417.1&#13;
+ Total                                2 874.7      5,473.8     6,413.8     5,813.7    6,598.6     6,418.3&#13;
+ Per capita rate health expenditures (in soms)&#13;
+ Budget (general taxation)             255.0        361.6       399.4       414.7      472.9       446.9&#13;
+ MHI contribution (payroll tax)         21.5         69.7        94.8        51.0       67.1        73.5&#13;
+ Private                               310.8        585.7       592.2       516.4      526.8       512.7&#13;
+ External joint financing               N/A          37.7        71.3        43.8       92.8        74.4&#13;
+ External parallel financing            N/A          N/A         70.0        75.9       67.2        77.0&#13;
+ Total                                 587.3       1,054.7     1,157.8     1,026.0    1,159.6     1,107.6&#13;
+Sources: Temirov et al. 2011; MHIF data based on NHA Report 2012, unpublished.&#13;
+Note: To calculate health expenditures in real terms, the Consumer Price Index was used (2000 = 100).&#13;
+&#13;
+The Health Delivery System&#13;
+&#13;
+The health services delivery system consists of three levels of care facilities. Primary health care&#13;
+(PHC) facilities comprise Feldsher-Obstetrical Ambulatory Points (FAPs), family group&#13;
+practices (FGPs), and family medicine centers (FMCs). FAPs provide PHC services in remote&#13;
+rural areas. They are usually staffed by at least one paramedic health worker, called a feldsher,&#13;
+but in larger villages, FAPs also employ a midwife and a nurse. FAPs offer the most basic&#13;
+services such as prenatal and postnatal care, immunizations, and health education (Ibraimova et&#13;
+al. 2011). FGPs are the main providers of PHC services and usually consist of three to five&#13;
+doctors. FMCs are the largest outpatient health facilities in the country. They employ 10 to 20&#13;
+doctors providing primary and specialized outpatient services, as well as diagnostics and minor&#13;
+surgeries. Typically, there is one FMC per rayon (district) that is responsible for all FGPs and&#13;
+FAPs located in their catchment area (Ibraimova et al. 2011).&#13;
+&#13;
+Secondary care is provided by oblast hospitals and territorial hospitals (former city- and rayon-&#13;
+level hospitals). Oblast hospitals have many medical departments and are able to treat more&#13;
+complex cases. In the Kyrgyz Republic, there are 41 territorial hospitals, including three&#13;
+childrenâ&#128;&#153;s hospitals and seven oblast hospitals (RMIC 2012). In addition, there are 27 General&#13;
+Practice Centers (GPCs), which provide both primary and secondary care (RMIC 2012). GPCs&#13;
+were formed in 2006 by merging territorial hospitals and PHC facilities in remote areas with&#13;
+populations of less than 25,000 (Murzalieva et al. 2007).&#13;
+&#13;
+Tertiary level facilities consist of republican facilities (national hospitals and scientific research&#13;
+institutes and centers) and specialized dispensaries. These facilities are highly specialized and&#13;
+&#13;
+                                                                                                            8&#13;
+&amp;#12;provide services for specific diseases or conditions: cardiology, tuberculosis, traumatology and&#13;
+orthopedics, oncology and radiology, obstetrics, pediatrics, rehabilitation, treatment of infectious&#13;
+diseases, and treatment of mental illnesses (Ibraimova et al. 2011). All tertiary level facilities&#13;
+provide both specialized outpatient and inpatient services.&#13;
+&#13;
+In addition, in the Kyrgyz Republic there are health facilities belonging to other ministries and&#13;
+agencies. The Ministry of Internal Affairs has 3 health facilities, the Ministry of Justice 19, the&#13;
+Ministry of Emergency Situations and the Ministry of Labor and Migration 1, the Ministry of&#13;
+Education 10, the Ministry of Defense 19, the National Security Service 2, the National Guard&#13;
+Service 1, and large state-owned enterprises 7 (Ibraimova et al. 2011). These health facilities are&#13;
+accountable to their respective agencies and are funded directly from their budget.&#13;
+&#13;
+According to the law â&#128;&#156;On Health Protection of the Citizens of the Kyrgyz Republic,â&#128;? approved&#13;
+in 1992, health services can be delivered by both private and public organizations (Meimanaliev&#13;
+et al. 2005). However, provision of publicly financed health services by private facilities is still&#13;
+very limited. Currently, legal mechanisms are not developed sufficiently to allow contracting of&#13;
+private providers under the SGBP. According to current budget procedures, state budget funds&#13;
+cannot be used to purchase medical services from private providers (MOH 2008).&#13;
+&#13;
+Still, the number of private facilities operating in the country has been growing gradually since&#13;
+its independence. It started with pharmacies and later expanded to other health facilities.&#13;
+Although there are no accurate recent data on the relative size of the private sector, it is estimated&#13;
+that in the Kyrgyz Republic operates more than 2,500 private pharmacies and 40 private&#13;
+organizations licensed to conduct business in the pharmaceutical sector (National Statistics&#13;
+Committee 2009). Besides the pharmaceutical sector, more than 600 independent medical&#13;
+doctors and about 230 private health facilities were registered (Checheybaev et al. 2008). The&#13;
+private sector includes about 350 secondary level hospital beds, more than half of which are&#13;
+located in Bishkek, the capital. Finally, the private health insurance market is limited to a few&#13;
+small companies specialized in the provision of services for those people who travel abroad&#13;
+(Ibraimova et al. 2011).&#13;
+&#13;
+The State-guaranteed Benefits Package&#13;
+&#13;
+The SGBP regulates the rights and obligations of citizens and the government with regard to the&#13;
+provision of health services. It establishes a predictable and transparent system of entitlements&#13;
+that is revised annually by government decree (Manjieva et al. 2007). The SGBP follows a&#13;
+universal approach as it applies to all citizens and defines a basic package of health services that&#13;
+is publicly funded and made available to the entire population. Primary health care and&#13;
+emergency care are provided free of charge to all citizens. Referral care is provided for a flat&#13;
+copayment, with generous exemption categories (see figure 7).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                    9&#13;
+&amp;#12;                       Figure 7 Population and Service Coverage under the SGBP&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                 Source: Kutzin et al. 2002.&#13;
+&#13;
+Entitlements of the SGBP&#13;
+&#13;
+The SGBP provides free primary and emergency care services to the entire population. To&#13;
+receive primary care, patients must enroll with an FGP 6 and seek care in their place of&#13;
+enrolment. However, they are allowed to change FGP freely, and, unlike under the Soviet&#13;
+system, the FGP need not be where the permanent residence permit is registered. Lack of a clear&#13;
+understanding of this latter rule has created problems among the growing number of internal&#13;
+migrants, who believe that they are not entitled to seek primary care until they receive permanent&#13;
+residence in their new location, which often takes years. Temporary residence and identification&#13;
+documents are still required for enrolment, however, and these can also serve as barriers for&#13;
+access among the internal migrants, who often lack these basic documents (MOH 2008).&#13;
+&#13;
+Inpatient and specialized outpatient care are provided with appropriate referrals, but with&#13;
+copayments. Copayments are defined as flat lump-sum payments made upon admission. The&#13;
+level of copayment varies across oblasts, by insurance status, by exemption status, and&#13;
+presentation of a referral slip from a primary care physician. Although enrolment with the MHIF&#13;
+is mandatory, as in many low-income countries, this is inappropriately enforced and enrolment is&#13;
+about 70 percent. The uninsured 30 percent are required to pay a higher copayment at the&#13;
+hospital level, providing incentives for enrolment and contribution payment. The level of&#13;
+copayment for hospital care is the only difference between the insured and the uninsured, since&#13;
+they all receive services in the same facilities. Those who are not formally employed or self-&#13;
+employed can purchase insurance in the MHIF. The annual cost of the insurance policy for 2011&#13;
+was 400 Kyrgyz soms, or approximately US$10 dollars.&#13;
+&#13;
+&#13;
+&#13;
+6&#13;
+ Patients belonging to vulnerable social categories (for example, World War II veterans or children under five) are&#13;
+automatically enrolled and are only required to show an ID supporting their status.&#13;
+&#13;
+                                                                                                                10&#13;
+&amp;#12;Exempt categories (see below) pay no copayment or pay a reduced copayment. In addition, to&#13;
+enjoy reduced copayment for inpatient and specialized outpatient care, patients must provide a&#13;
+valid referral from a primary physician in an FGP. Without a proper referral, a patient must pay&#13;
+the full cost of the services, regardless of their insurance status. This mechanism is intended to&#13;
+encourage greater utilization of primary care.&#13;
+&#13;
+The SGBP defines the following caps on the benefits provided:&#13;
+&#13;
+    â&#128;¢   The first type of cap is for number of hospital staysâ&#128;&#148;two per calendar yearâ&#128;&#148;for social&#13;
+        categories that are fully exempt from copayments. Once a patient exceeds this cap, he or&#13;
+        she has to pay a copayment. 7&#13;
+    â&#128;¢   The second type of cap is on drugs provided per hospital stay. If the cost of medicine per&#13;
+        beneficiary exceeds three times the average cost of treatment (approved by the MHIF),&#13;
+        then the expert committee of the hospital can decide whether any further cost of treatment&#13;
+        should be covered by the patient.&#13;
+    â&#128;¢   The third type of cap is for the total amount of medicine per year per beneficiary that is&#13;
+        provided under the ADP. This depends on type of medicine and disease and are listed in&#13;
+        the government decree on the SGBP for 2011. 8&#13;
+&#13;
+High-technology (expensive) services are generally excluded from the SGBP, and patients&#13;
+requiring such services should join specific waiting lists. Provision is approved on a case-by-case&#13;
+basis by a special committee of experts. Drug benefits provided by the ADP are available only to&#13;
+citizens enrolled in the MHI and in an FGP. Only cancer patients can receive ADP benefits, as&#13;
+long as they have an identification card.&#13;
+&#13;
+Modification of SGBP entitlement should take into account fiscal impact. However, in practice it&#13;
+has been modified under political pressure and without due consideration of the fiscal impact of&#13;
+the expansion of entitlements. An example is the expansion of exemptions introduced in 2006 to&#13;
+include all deliveries, children between 1 and 5 years of age, and pensioners 75 years or older,&#13;
+who were not covered by an increase in the available budget. The way the SGBP appears to be&#13;
+still within the budget is by (a) decreasing the existing financing norms, for example, for food&#13;
+per patient; (b) moving expenditures from one category to another; or (c) going into arrears,&#13;
+particularly in the payment of utilities.&#13;
+&#13;
+The initial cost of the SGBP was mainly determined by an amount the government was willing to&#13;
+spend, although parts of the costs were based on actuarial studies. The main purpose was to&#13;
+equalize funding across the regions for the same type of services within the available resources&#13;
+(Manjieva et al. 2007). Taking the existing budget as a given, costs of services were estimated&#13;
+based on existing norms. For example, at the hospital level it was decided that expenditures for&#13;
+food and medicine had to be equalized across regions and brought up to the level of Bishkek (the&#13;
+capital), which was the only region that followed the recommended norms for these items. These&#13;
+were the â&#128;&#156;costsâ&#128;? for food and medicine under the SGBP and formed part of the total cost of the&#13;
+SGBP.&#13;
+&#13;
+7&#13;
+  The cap on the number of hospital stays per year does not apply to exempt disease categories or to children under&#13;
+five, who are fully exempt from copayments.&#13;
+8&#13;
+  For example, Ketoprofen for terminal stage cancer patients is capped at 3,600 milligrams per year per patient.&#13;
+&#13;
+                                                                                                                11&#13;
+&amp;#12;The methodology for estimating financing needs for the SGBP was developed and officially&#13;
+adopted in 2005. 9 A detailed study evaluating the medium-term financial sustainability of the&#13;
+SGBP was performed in 2006. It estimated a funding gap of around 20 to 27 percent of the total&#13;
+cost of the SGBP (Manjieva et al. 2007).&#13;
+&#13;
+Copayment Exemptions&#13;
+&#13;
+The SGBP entitles vulnerable groups to copayment exemptions. In addition, the SGBP protects&#13;
+the poor indirectly by bringing predictability and transparency to the statutary system of health&#13;
+entitlements and through a system that encourages preventive care and the creation of a&#13;
+nationwide pool that allows for geographic cross-subsidization.&#13;
+&#13;
+Two types of targeting for copayment exemptions are used in the SGBP (Jakab and Manjieva&#13;
+2008):&#13;
+&#13;
+      â&#128;¢    Targeting based on social categories, which is aimed at reaching economically&#13;
+           vulnerable groups, defined largely in terms of social and demographic characteristics,&#13;
+           such as World War II veterans, children under five years of age, pensioners 75 years or&#13;
+           older, victims of the events of 2010 and their families, and the disabled regardless of their&#13;
+           income.&#13;
+      â&#128;¢    Targeting based on medical condition and disease, aimed at protecting those with&#13;
+           expected high use of health care services (including pregnant women, terminal stage&#13;
+           cancer patients, those with type I and type II diabetes, and those with hemophilia) and&#13;
+           preventing the spread of and curing diseases with important public health consequences&#13;
+           and externalities (including TB, AIDS, syphilis, anthrax, polio, and diphtheria).&#13;
+&#13;
+The copayment exemptions are not targeted well to the poor population. A recent study shows&#13;
+that 50 percent of the poorest quintile and 39 percent of the richest are entitled to copayment&#13;
+exemptions (Jamal and Jakab 2013). There is significant undercoverage of the poor and leakage&#13;
+to the nonpoor. The exemptions work in the sense that the exempt have a significantly lower&#13;
+total financial burden given hospitalization than the nonexempt. Discussions are under way on&#13;
+how to improve the copayment policy and the targeting outcome of the exemption mechanisms&#13;
+to better protect the poor.&#13;
+&#13;
+In addition, patients from low-income groups have the right to copayment exemption. 10&#13;
+However, whether a particular patient is exempt is decided on a case-by-case basis by an&#13;
+individual facility committee, since mechanisms for this exemption are not well defined. If an&#13;
+exemption is granted, the costs are covered by the reserve fund of health organizations that are&#13;
+financed by setting aside 10 percent of all copayments received (Jakab and Manjieva 2008). In&#13;
+addition, the process of obtaining documents certifying the patient as having an income below&#13;
+the poverty threshold is not a clear. Thus, while there is a national poverty threshold, only a few&#13;
+social assistance benefits are poverty targeted (for example, the Monthly Benefit for Poor&#13;
+Families), and there is no national registry of people entitled to social assistance benefits.&#13;
+&#13;
+&#13;
+9&#13;
+    Government Decree # 280, July 1, 2005.&#13;
+10&#13;
+    Article 4, paragraph 23, Government Decree #350 on the SGBP, July 1, 2011.&#13;
+&#13;
+                                                                                                     12&#13;
+&amp;#12;Management of Public Funds in SGBP&#13;
+&#13;
+The MHIF, like all state entities, is subject to regular audit by the Kyrgyz audit authorities and is&#13;
+accountable to the Ministry of Finance for the use of public funds. In addition, to improve its&#13;
+transparency and accountability, the MHIF has created an internal audit unit, one of the first in&#13;
+the country. Finally, since the MHIF receives resources from the International Development&#13;
+Association (IDA), it is subject to external audit in accordance with international standards.&#13;
+&#13;
+The SGBP is financed by four sources: the budget, the MHI payroll contribution, patient&#13;
+copayments, and special means. Each of these sources has different spending rules and&#13;
+flexibility. According to Article 34 of the law on health care organizations, health care&#13;
+organizations working under the single-payer system can â&#128;&#156;independently formulateâ&#128;¦and make&#13;
+changes to the approved expenditure plan.â&#128;? 11 However, existing financing regulations and&#13;
+guidelines, including those used by the Kyrgyz Chamber of Accounts in auditing public health&#13;
+facilities, limit the capacity for changing the approved expenditure plan. Moreover, in reality,&#13;
+MHIF budget funds are largely used to finance wages, which are a protected item, thus making&#13;
+budget funds rigid, with little room for managerial authority to move funds across different line&#13;
+items, to reinvest savings from efficiency gains, or to introduce incentives for health staff.&#13;
+&#13;
+The persistent funding gap in the SGBP weakens the effectiveness of strategic purchasing in the&#13;
+sector. The MHIF contracts with health care providers on an annual basis. Contracts specify the&#13;
+expected volume of services for a given year, the total amount to be paid by the MHIF for these&#13;
+services, and the sanctions for exceeding the value of the contract. However, it appears that&#13;
+demand has often exceeded the number of patients or cases specified in contracts, which led to&#13;
+increased and unplanned expenditure for providers. As a result, hospitals have accumulated&#13;
+arrears, particularly for utilities and medical supplies. While it is possible for the MHIF to&#13;
+terminate the agreement if a provider does not meet the contractual obligations, the MHIF has&#13;
+not implemented such measures with public sector providers. This has weakened the&#13;
+effectiveness and value of contracts (Kutzin et al. 2002).&#13;
+&#13;
+Another concern related to the management of public funds raised in the health sector fiduciary&#13;
+assessment (World Bank 2005) is the possibility of ghost patients. According to the assessment,&#13;
+there is no comprehensive system for the registration of patients, which makes it possible for&#13;
+them to appear in more than one FGP or FMC count (World Bank 2005). However, there are&#13;
+ongoing efforts to introduce an enrolment database for primary care that would eliminate this&#13;
+risk.&#13;
+&#13;
+With the strengthening of the managerial and financial autonomy of providers, including the&#13;
+transition from line-item budgets to consolidated budgets, the responsibility of providers would&#13;
+also increase. Capacity building of health care providers, particularly in financial management, is&#13;
+one of the key priorities of the new Den Sooluk national health reforms program. A number of&#13;
+providers would become financially sustainable if they were allowed to adjust their structure,&#13;
+staffing, and overall allocation of financial resources (Ibraimova et al. 2011). However,&#13;
+regardless of efficiency gains, some facilities in remote areas might still be financially&#13;
+unsustainable, and new adjustment payment mechanisms are being developed and tried for them.&#13;
+11&#13;
+     Law on Health Care Organizations in the Kyrgyz Republic, August 13, 2004, No. 116.&#13;
+&#13;
+                                                                                                  13&#13;
+&amp;#12;The SGBP Information Environment&#13;
+&#13;
+Monitoring and evaluation is conducted through a health information system consisting of five&#13;
+databases: the MHIF database on the insured population, the enrolment database that enables&#13;
+primary care facilities to make capitation-based payments, the hospital admission database with&#13;
+case coding that enables case-based payments, the outpatient care utilization registry, and the&#13;
+ADP database.&#13;
+&#13;
+The MHIF information system tracks utilization of health services and copayments made under&#13;
+the SGBP by type of condition, social category, and geographic area. These databases play an&#13;
+important role in monitoring SGBP. Based on the routine analysis of payment and utilization&#13;
+data, the MHIF does the following:&#13;
+&#13;
+   â&#128;¢   Examines the outliers, that is, facilities that have unusually low or high volume of&#13;
+       reported copayments against the reported cases and conducts inquiries in cases where&#13;
+       there is incongruence between reported cases and copayments. For example, if a case in a&#13;
+       certain diagnosis-related group should have a certain level of copayment but the reported&#13;
+       copayment is much higher, there is an inquiry, and depending on the outcome, further&#13;
+       actions are taken.&#13;
+   â&#128;¢   Identifies barriers to utilization. For example, if the utilization of child health services&#13;
+       has decreased in a certain geographic area or facility compared to other comparable&#13;
+       facilities or to the previous period, the MHIF quality control unit will examine this&#13;
+       facility more closely by sending its experts to that facility for random checks, to review&#13;
+       documentation, and to interview patients (for example, utilization may be falling because&#13;
+       of informal payments).&#13;
+   â&#128;¢   Forecasts income for the next year. Since copayments are an important source of&#13;
+       financing, the information on the previous yearâ&#128;&#153;s volume of copayment is used in budget&#13;
+       preparation.&#13;
+   â&#128;¢   Estimates expenditures for next year. Since hospitals are paid for the number of cases and&#13;
+       payments depend on the case mix, the data are also used in predicting the â&#128;&#156;needsâ&#128;? or the&#13;
+       required budget.&#13;
+   â&#128;¢   Examines the impact of new policies, such as the abolishment of copayments for&#13;
+       deliveries, on the budget of health facilities and sustainability of the SGBP.&#13;
+&#13;
+In addition, the MHIF introduced a set of process indicators as part of its contracts with health&#13;
+facilities under the SGBP that includes growth monitoring and routine prophylactic of children&#13;
+under five, timely vaccination of children in accordance with the immunization program, timely&#13;
+provision of prenatal care, and follow-up of patients with primary-care-sensitive conditions (such&#13;
+as asthma, hypertension, and chronic obstructive pulmonary disease).&#13;
+&#13;
+Lessons for Universal Health Coverage&#13;
+&#13;
+The SGBP represents a successful strategy to provide universal health coverage in a low-income&#13;
+transition economy. The SGBP was introduced as part of the comprehensive national health&#13;
+reform program, Manas, implemented during 1996â&#128;&#147;2006. Key aspects of the strategy included:&#13;
+&#13;
+&#13;
+                                                                                                14&#13;
+&amp;#12;   â&#128;¢   Definition of a free basic health package provided for the entire Kyrgyz population,&#13;
+       which allowed maintaining equal access to basic health services&#13;
+   â&#128;¢   Introduction of an MHI contribution financed through earmarked payroll contributions,&#13;
+       which increased public health funds and increased flexibility in the use of public&#13;
+       resources&#13;
+   â&#128;¢   Creation of the MHIF, which acted as the single payer of the services provided under the&#13;
+       SGBP&#13;
+   â&#128;¢   Pooling of all public funds under the MHIF, which created economies of scale and&#13;
+       lowered the administrative costs of managing the SGBP&#13;
+   â&#128;¢   Introduction of official copayments, which gave facilities small but vital amounts of cash&#13;
+       that could be spent on drugs and medical supplies&#13;
+   â&#128;¢   Introduction of output-based payment mechanisms, which gave certain flexibility to&#13;
+       facility managers and encouraged a more efficient use of resources&#13;
+   â&#128;¢   Organizational reforms, which strengthened PHC and supported the rationalization of the&#13;
+       hospital care network.&#13;
+&#13;
+This complex systemic strategy has been successful in improving health system performance in a&#13;
+number of areas.&#13;
+&#13;
+   â&#128;¢   Financial protection and access. The financial burden on the poorest 40 percent declined&#13;
+       significantly during 2001â&#128;&#147;06, the incidence of catastrophic payments was reduced, and&#13;
+       geographic and financial barriers to access declined. While 11 percent of those who&#13;
+       needed care did not seek it due to financial reasons or distance in 2000, only 3.1 percent&#13;
+       reported the same in 2006 (Jakab 2013). These improvements occurred in the aftermath&#13;
+       of the introduction of the single-payer system and the SGBP, with first oblast level and&#13;
+       then national pooling, efficiency gains obtained from restructuring, and expansion of the&#13;
+       SGBP.&#13;
+&#13;
+   â&#128;¢   Efficiency. Efficiency of resource allocation within the SGBP improved. The share of&#13;
+       health expenditures in the SGBP allocated to more cost-effective primary care increased&#13;
+       from 29 percent in 2005 to 38 percent in 2009. This was the result of explicit budget&#13;
+       allocation decisions at the MHIF, reflecting elements of strategic purchasing. Direct&#13;
+       patient expenditures (drugs, supplies, and food) increased from 20 percent in 2005 to 30&#13;
+       percent in 2009 as a result of optimizing health facility infrastructure, and allowed a&#13;
+       reduction of patient expenditures. The average length of stay for hospital admissions was&#13;
+       reduced by about 28 percent nationally.&#13;
+&#13;
+   â&#128;¢   Transparency. Between 2001 and 2006, informal payments for medicines and supplies&#13;
+       significantly declined, which was a direct result of the efficiency gains noted above that&#13;
+       led to the increased spending of public funds directly on patients rather than on&#13;
+       infrastructure. However, informal payment to medical personnel continued to grow&#13;
+       linked to very low salaries, with a widening gap between the salary level of medical&#13;
+       personnel and the rest of the economy.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                              15&#13;
+&amp;#12;Pending Agenda&#13;
+&#13;
+Notwithstanding the increase in public health spending, the SGBP suffers a persistent funding&#13;
+gap, which is demonstrated by the declining but continuing practice of charging informal&#13;
+payments to patients.&#13;
+&#13;
+In the last decade, there has been a considerable increase in the population categories entitled to&#13;
+various forms of exemptionâ&#128;&#148;from 29 categories in 2001 to 72 in 2012â&#128;&#148;which was in turn&#13;
+accompanied by an increase in the number of patients entitled to exemptions. The share of&#13;
+patients treated in hospitals eligible for either complete exemption from copayments or reduced&#13;
+copayments because of their socioeconomic status increased from 8.8 percent in 2003 to more&#13;
+than 50 percent in 2009. In 2009, 33.3 percent of patients in hospitals made no official payments,&#13;
+while 11.1 percent made reduced copayments, resulting in 44.4 percent exempted patients&#13;
+(MHIF 2010). The growing number of exempt patients increases the SGBP funding gap. In&#13;
+addition, the current mechanisms used to target copayment exemptions do not ensure that the&#13;
+poor are exempt.&#13;
+&#13;
+A number of options have been discussed to reduce the SGBP funding gap.&#13;
+&#13;
+First, and most important, in the limited fiscal context, is the implementation of additional&#13;
+efficiency measures. The restructuring agenda in Bishkek and Osh remains on the table, with the&#13;
+health care network and infrastructure largely untouched since independence, which has led to&#13;
+increasingly decaying facilities that cost more and more to maintain. This is also where informal&#13;
+payments are the highest. Further, hospitalization rates are high, as is overuse of medication.&#13;
+Addressing these factors could result in significant savings for the health sector, which then&#13;
+could be used for improving the quality of care for the population and reducing informal&#13;
+payments, and thus, the funding gap in the SGBP.&#13;
+&#13;
+Second, it is important to improve the targeting of copayment exemptions and to better focus on&#13;
+the poor. In the revision of the copayment and exemption policies, it is desirable to create&#13;
+synergies with the instruments used to target social assistance benefits, such as the Monthly&#13;
+Benefit for Poor Families, if possible. In addition, the pooling of the reserve funds provided by&#13;
+health facilities and adoption of clear mechanisms for their utilization could increase&#13;
+transparency and access to health services by the poor.&#13;
+&#13;
+Third, formal private financing could be increased. For example, the value of copayments has&#13;
+significantly eroded and has not kept pace with general inflation, and their increase could attract&#13;
+additional formal funds to the sector. Another option is to explore the feasibility of developing a&#13;
+market for Voluntary Health Insurance, which could supplement the coverage of the SGBP. In&#13;
+the Kyrgyz Republic, a supplementary Voluntary Health Insurance could offer improved access&#13;
+to health care covered by SGBP, including access to private providers that provide a greater level&#13;
+of amenities.&#13;
+&#13;
+In this way, public resources channeled through the MHIF would continue to be targeted toward&#13;
+high-value health services comprising the SGBP. Supplementary Voluntary Health Insurance,&#13;
+however, would cover less essential aspects of health care and represent an alternative to the&#13;
+&#13;
+                                                                                                16&#13;
+&amp;#12;widespread use of informal payments in the health sector. At the same time, encouraging&#13;
+individuals to opt out of the public system might not be such a good idea, since there is a risk&#13;
+that the majority of low-risk, wealthy, and quality-conscious patients would leave the public&#13;
+sector. It is likely to lead to a two-tier systemâ&#128;&#148;a poorly performing public, and a well&#13;
+performing private, one.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                             17&#13;
+&amp;#12;                     Annex 1 Kyrgyz Republic and Low-income Countries&#13;
+&#13;
+                             I. Outcomes comparisons:&#13;
+                     Kyrgyz Republic and Low Income Countries&#13;
+                                                                                           Note on interpretation:&#13;
+                                                                                           In this plot â&#128;&#152;higherâ&#128;&#153; is â&#128;&#152;worseâ&#128;&#153; â&#128;&#147; since&#13;
+                                                                                           these     indicators      are   positive&#13;
+                                                                                           measures of mortality / morbidity.&#13;
+                                                                                           Life expectancy is converted to be an&#13;
+                                                                                           inverse measure.&#13;
+&#13;
+                                                                                           The values on the radar plot have&#13;
+                                                                                           been standardized.&#13;
+&#13;
+                                                                                           The table below summarizes&#13;
+                                                                                           outcome comparisons with the&#13;
+                                                                                           average low income country (LIC).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+IMR: Infant mortality rate (2010). U5MR: Under-5 mortality rate (2010). Stunting: prevalence of low height-for-age among children under 5 (2010). MMR: Maternal&#13;
+mortality rate (2010) per 100 000 live births. Adult mortality: Adult mortality rate per 1000 male adults (2010). [100-(life expectancy)]: Life expectancy at birth&#13;
+(2010) subtracted from maximum of 100. Neonatal mortality: Neonatal mortality per 1000 living births. CD as cause of death: Communicable diseases as cause of&#13;
+death (% total). All data from World Bank's World Development Indicators. Income averages for stunting calculated by Bank staff and are unweighted.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                              II. Inputs comparisons&#13;
+                     Kyrgyz Republic and Low Income Countries&#13;
+                                                                                           Note on interpretation:&#13;
+                                                                                           In this plot â&#128;&#152;higherâ&#128;&#153; is â&#128;&#152;betterâ&#128;&#153; â&#128;&#147; since&#13;
+                                                                                           these     indicators      are    positive&#13;
+                                                                                           measures of spending on health or&#13;
+                                                                                           the number of health workers per&#13;
+                                                                                           population.&#13;
+&#13;
+                                                                                           The values on the radar plot have&#13;
+                                                                                           been standardized.&#13;
+&#13;
+                                                                                           The table below summarizes inputs&#13;
+                                                                                           comparisons with the average low&#13;
+                                                                                           income country (LIC).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+THE as % of GDP: Health expenditure, total (% of GDP) (2010). Hospital bed density: Hospital beds per 1,000 people (latest available year). Physician density: Physicians&#13;
+per 1,000 people (latest available year). Nurse/midwife density: Nurses and midwives per 1,000 people (latest available year). GHE as % of THE/10: Public health&#13;
+expenditure (% of total expenditure on health) (2010). All data from World Bank's World Development Indicators.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                                            18&#13;
+&amp;#12;                             III. Coverage comparisons&#13;
+                     Kyrgyz Republic and Low Income Countries&#13;
+                                                                                           Note on interpretation:&#13;
+                                                                                           In this plot â&#128;&#152;higherâ&#128;&#153; is â&#128;&#152;betterâ&#128;&#153; â&#128;&#147; since&#13;
+                                                                                           these     indicators      are    positive&#13;
+                                                                                           measures. In this case, all are percent&#13;
+                                                                                           of the population receiving or having&#13;
+                                                                                           access to a certain health related&#13;
+                                                                                           service.&#13;
+&#13;
+                                                                                           The values on the radar plot have&#13;
+                                                                                           been standardized.&#13;
+&#13;
+                                                                                           The table below summarizes&#13;
+                                                                                           coverage comparisons with the&#13;
+                                                                                           average low income country (LIC).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+DPT immunization: % of children aged 12-23 months with DPT immunization (2010). Prenatal services: % of pregnant women receiving prenatal care (latest available&#13;
+year). Contraceptive prevalence: % of women ages 15-49 using contraception (latest available year). Skilled birth attendance: % of all births attended by skilled health&#13;
+staff (latest available year). Improved sanitation: % of population with access to improved sanitation facilities (2010). TB treatment success: Tuberculosis treatment&#13;
+success rate (% of registered cases). All data from World Bank's World Development Indicators.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                           IV. Infrastructure comparisons&#13;
+                     Kyrgyz Republic and Low Income Countries&#13;
+                                                                                           Note on interpretation:&#13;
+                                                                                           In this plot â&#128;&#152;higherâ&#128;&#153; is â&#128;&#152;betterâ&#128;&#153; â&#128;&#147; since&#13;
+                                                                                           these     indicators      are    positive&#13;
+                                                                                           measures of provision of certain&#13;
+                                                                                           good / service, and a measure of&#13;
+                                                                                           urban development.&#13;
+&#13;
+                                                                                           The values on the radar plot have&#13;
+                                                                                           been standardized.&#13;
+&#13;
+                                                                                           The table below summarizes&#13;
+                                                                                           infrastructure comparisons with the&#13;
+                                                                                           average low income country (LIC).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Paved roads: % of total roads paved (most recent). Internet users: users per 100 people (2010, with some estimates from prior years). Mobile phone users: mobile&#13;
+cellular subscriptions per 100 people (2010). Access to improved water: % of population with access to improved water source (2010). All data from World Bank's&#13;
+World Development Indicators.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                                           19&#13;
+&amp;#12;                            V. Demography comparisons&#13;
+                     Kyrgyz Republic and Low Income Countries&#13;
+                                                                                            Note on interpretation:&#13;
+                                                                                            Indicators here measure births per&#13;
+                                                                                            woman, the extent of rurality, and&#13;
+                                                                                            the number of dependents.&#13;
+&#13;
+                                                                                            The values on the radar plot have&#13;
+                                                                                            been standardized.&#13;
+&#13;
+                                                                                            The table below summarizes&#13;
+                                                                                            demographic indicators comparisons&#13;
+                                                                                            with the average low income country&#13;
+                                                                                            (LIC).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+TFR: total fertility rate (births per woman), 2009. Dependency ratio: % of working-age population (2010) aged less than 15 or more than 64. Youth dependency: % of&#13;
+working-age population (2010) aged less than 15. Rurality: % of total population in rural areas (2010). All data from World Bank's World Development Indicators.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                             VI. Inequality comparisons&#13;
+                     Kyrgyz Republic and Low Income Countries&#13;
+                                                                                            Note on interpretation:&#13;
+                                                                                            In this plot â&#128;&#152;higherâ&#128;&#153; is â&#128;&#152;inequalâ&#128;&#153; and&#13;
+                                                                                            indicators here measure inequalities&#13;
+                                                                                            in selected health outcomes by&#13;
+                                                                                            taking the ratio of prevalence&#13;
+                                                                                            between Q1 and Q5.&#13;
+&#13;
+                                                                                            The table below summarizes&#13;
+                                                                                            inequality indicators comparisons&#13;
+                                                                                            with the average low income country&#13;
+                                                                                            (LIC).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+All indicators measure the ratio of prevalence between the poorest (in Q1, the first wealth distribution quintile) and the richest (in Q5, the fifth wealth distribution&#13;
+quintile). The data are taken from HNPstats (http://data.worldbank.org/data-catalog/HNPquintile).&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                                           20&#13;
+&amp;#12;  Annex 2 Brief Description of Public Health, Primary Care, and Key Supply-side Efforts&#13;
+&#13;
+Family group practices (FGPs) and Feldsher-Obstetrical Ambulatory Points (FAPs) are the first&#13;
+point of contact and act as gatekeepers to more specialized services in the Kyrgyz Republic.&#13;
+According to Decree #350 on SGBP (approved by the Government of the Kyrgyz Republic in&#13;
+2011), basic primary health care services are provided free of charge for patients enrolled with a&#13;
+primary care provider, regardless of their insurance status. These services include general&#13;
+consultations, immunizations, and basic laboratory tests based on referral.&#13;
+&#13;
+If patients need more specialized care, they are referred to specialists in Family Medicine&#13;
+Centers, Outpatient Units of hospitals, or General Practice Centers. Specialized services at the&#13;
+outpatient level are free for the groups exempted on the basis of social (such as World War II&#13;
+veterans) or disease (TB patients) categories. Those who are insured, welfare recipients, children&#13;
+between 5 and 16 years of age, the retired and labor veterans have a 50 percent copayment. All&#13;
+others must pay the full price according to the official price list developed by the Ministry of&#13;
+Health and agreed with the State Agency for Antimonopoly Policy and Development of&#13;
+Competition (Decree #350 on SGBP, 2011).&#13;
+&#13;
+At the start of health care reform, the Kyrgyz health system was dominated by hospitals and a&#13;
+poorly developed level of primary health care (PHC), where 10.3 percent of the total health care&#13;
+budget was allocated to PHC compared with 71.7 percent allocated to hospitals (Atun 2005, 1).&#13;
+The restructuring of PHC began in 1995 in one region with the establishment of FGPs. In&#13;
+addition, FMCs were created in urban areas to retain the narrow specialists at the PHC level. In&#13;
+remote rural areas, FAPs were established to serve populations of between 500 and 2,000. The&#13;
+restructuring was accompanied by intense training of health workers in family medicine and&#13;
+increased allocation of total government health expenditures to primary care. By 2009, the share&#13;
+of total health expenditures on primary care had increased to 37.7 percent (Ibraimova et al.&#13;
+2011). All of these processes led to the strengthening of primary care services. As pointed out in&#13;
+the evaluation of the â&#128;&#156;Manasâ&#128;? Program, â&#128;&#156;there is strong evidence from the analysis of the MHIF&#13;
+data demonstrating a shift from secondary to primary level with a decline in the number of&#13;
+hospital referrals for key acute and chronic conditions that are typically managed in PHC settingâ&#128;?&#13;
+(Atun 2005, 40).&#13;
+&#13;
+According to the same study (Atun 2005), with the exception of a few extremely mountainous&#13;
+areas, there is good physical accessibility to PHC facilities, most of which are located close to&#13;
+patientsâ&#128;&#153; homes, with a median distance of 1 to 2 kilometers. For most patients (73 percent), the&#13;
+travel time to the nearest health facility is less than half an hour (Atun 2005). However, there has&#13;
+been a growing shortage of health workers in rural areas, which has had a negative impact on&#13;
+access to and quality of PHC services (Manjieva, Kojokeev, and Murzalieva 2008).&#13;
+&#13;
+According to the Mid-Term Review of the â&#128;&#156;Manas Taalimiâ&#128;? Program, while at the PHC level the&#13;
+norm is one FGP per 1,500 people, the share of FGPs with more than 2,000 enrolled people is&#13;
+increasing in rural areas. In 2006, at the start of â&#128;&#156;Manas Taalimi,â&#128;? 58 percent of rural FGPs had&#13;
+an enrolled population greater than 2,000, and the target was to reduce this to 33 percent.&#13;
+However, the indicator has actually been increasing, reaching 81 percent in 2007 (MOH 2008).&#13;
+In many rural areas, inability of the MOH to attract young graduates is leading to long-standing&#13;
+&#13;
+                                                                                                 21&#13;
+&amp;#12;vacancies, an increased workload for existing staff, and aging of the health worker population&#13;
+(Kojokeev, Murzalieva, and Manjieva 2008; Manjieva, Kojokeev, and Murzalieva 2008).&#13;
+&#13;
+To attract and retain health workers in rural areas, the MOH has implemented the following&#13;
+measures:&#13;
+&#13;
+   â&#128;¢   According to Article No. 97 of the 2005 Health Protection Law, students who received&#13;
+       state scholarships for medical studies must serve in assigned rural areas for a minimum of&#13;
+       two years following graduation.&#13;
+   â&#128;¢   Originally developed to attract young doctors to rural areas with particularly high&#13;
+       shortages of health staff, the Deposit Program for Doctors was gradually turned into a&#13;
+       program to retain existing staff, without particular regard for their age (Manjieva,&#13;
+       Kojokeev, and Murzalieva 2008). It is a three-year program in which doctors willing to&#13;
+       relocate to remote villages with acute shortage of medical personnel would receive 3,000&#13;
+       soms (US$83) per month into their bank account (subject to income tax), which can be&#13;
+       withdrawn only every six months (Manjieva, Kojokeev, and Murzalieva 2008). Given the&#13;
+       failure to recruit new doctors, the MOH decided to allow doctors to apply for their&#13;
+       current positions so as to retain, at least, those physicians already working in these&#13;
+       villages. The program has thus become a tool for retaining existing health workers more&#13;
+       than attracting new ones. As of early 2009, there were 147 participants in the program. Of&#13;
+       those, 20 were graduates of clinical residency and postgraduate study, and the remaining&#13;
+       127 were local doctors. By early 2010, the total amount paid to doctors working in this&#13;
+       program was 6.3 million Kyrgyz soms.&#13;
+   â&#128;¢   A one-year internship program was reestablished in 2007 requiring students to undertake&#13;
+       practical training in the countryâ&#128;&#153;s oblasts (oblast merged hospitals, oblast FMCs,&#13;
+       territorial hospitals, and rayon FMCs), which are in mostly semi-urban and rural areas.&#13;
+   â&#128;¢   Another measure to attract and retain health workers in rural areas is a gross salary bonus&#13;
+       of 10 percent. The effectiveness of this measure has not yet been evaluated.&#13;
+&#13;
+Since 2006, public health functions in the country have been shared between the Public Health&#13;
+Unit of the MOH, which has primary responsibility for public health policy making, and the&#13;
+Department of State Sanitary-Epidemiological Surveillance (SSES), which is responsible for&#13;
+infectious disease surveillance and sanitary inspection and control (Ibraimova et al. 2011). The&#13;
+SSES is subdivided into the Divisions of State Epidemiological Surveillance, State Sanitary&#13;
+Inspection and Control, and Laboratory Examinations.&#13;
+&#13;
+In addition, the SSES services contain several legally independent bodies such as the Republican&#13;
+AIDS Association, the Republican Centre for Immunoprophylaxis, the Republican Centre for&#13;
+Quarantine and Dangerous Infections, the Republican Centre for Health Promotion, and the&#13;
+Research Institute for Preventive Medicine (Ibraimova, Akkazieva, and Ibraimov 2011). In the&#13;
+past, there was limited involvement of communities in health promotion activities. Nowadays,&#13;
+the Republican Center for Health Promotion develops and implements wide-ranging health&#13;
+promotion and population-based interventions. Village Health Committees have been established&#13;
+nationwide, and the national rollout of the Community Action for Health model was completed&#13;
+in 2008 (MOH 2008).&#13;
+&#13;
+&#13;
+&#13;
+                                                                                               22&#13;
+&amp;#12;                                          References&#13;
+&#13;
+&#13;
+&#13;
+Atun, R. 2005. Evaluating Manas Health Sector Reform (1996â&#128;&#147;2005): Focus on Primary Health&#13;
+       Care. Health Policy Analysis Unit, Policy Research Paper No. 29, Bishkek.&#13;
+Checheybaev, E. et al. 2008. â&#128;&#156;Chastniy sector zdravoohranenia v KRâ&#128;? (â&#128;&#156;The Private Health&#13;
+      Sector in the KRâ&#128;?). Centre for Health System Development, Policy Research Paper No.&#13;
+      53, Bishkek.&#13;
+Davis, C. 2010. â&#128;&#156;Understanding the Legacy: Health Financing Systems in the USSR and Central&#13;
+       and Eastern Europe Prior to Transition.â&#128;? In Implementing Health, ed. J. Kutzin, C.&#13;
+       Cashin, and J. Melitta. Copenhagen: WHO-Europe and European Observatory on Health&#13;
+       Systems and Policies.&#13;
+Government of the Kyrgyz Republic. 2006. â&#128;&#156;Kyrgyz Republic National Health Care Reform&#13;
+      Program â&#128;&#152;Manas Taalimiâ&#128;&#153; (2006â&#128;&#147;2010).â&#128;? Government of the Kyrgyz Republic, Bishkek.&#13;
+Ibraimova, A., B. Akkazieva, and A. Ibraimov, et al. 2011. â&#128;&#156;Kyrgyzstan: Health System&#13;
+       Review.â&#128;? Health Systems in Transition 13 (3): 1â&#128;&#147;152.&#13;
+Jakab, M. 2007. â&#128;&#156;An Empirical Evaluation of the Kyrgyz Health Reform: Does it Work for the&#13;
+       Poor?â&#128;? PhD Dissertation, Harvard University, Cambridge, MA.&#13;
+Jakab, M., and E. Manjieva. 2008. â&#128;&#156;The Kyrgyz Republic: Good Practices in Expanding Health&#13;
+       Care Coverage.â&#128;? In Good Practices in Health Financing: Lessons from Reforms in Low-&#13;
+       and Middle-income Countries, ed. P. Gottret, G. Scheiber, and H. Waters. Washington,&#13;
+       DC: World Bank.&#13;
+Jakab, M. Forthcoming. â&#128;&#156;Financial Protection and Access over a Decade of Health System&#13;
+       Reform.â&#128;? WHO Health Financing Policy Paper Series, Geneva.&#13;
+Jamal, S., and M. Jakab. Forthcoming. â&#128;&#156;Who Benefits from the State Guaranteed Benefit&#13;
+       Package in Kyrgyzstan?â&#128;? WHO Health Financing Policy Paper Series, Geneva.&#13;
+Kojokeev, K., G. Murzalieva, and E. Manjieva. 2008. â&#128;&#156;Why Are Our Doctors Leaving?&#13;
+      Exploring the Reasons behind Migration of Medical Personnel in Kyrgyzstan.â&#128;? World&#13;
+      Health Organization and Health Policy Analysis Center, Policy Research Paper No. 51,&#13;
+      Bishkek.&#13;
+Kutzin, J., S. Shishkin, L. BryndovÃ¡, et al. 2010. â&#128;&#156;Reforms in the Pooling of Funds.â&#128;? In&#13;
+       Implementing Health. Financing Reform Lessons from Countries in Transition, ed. J.&#13;
+       Kutzin, C. Cashin, and J. Melitta. Copenhagen: WHO-Europe and European Observatory&#13;
+       on Health Systems and Policies.&#13;
+Kutzin, J., A. Ibraimova, N. Kadyrova, et al. 2002. â&#128;&#156;Innovations in Resource Allocation, Pooling&#13;
+       and Purchasing in the Kyrgyz Health System.â&#128;? World Health Organization and Health&#13;
+       Policy Analysis Center, Policy Research Paper No. 21, Bishkek.&#13;
+Manjieva, E., K. Kojokeev, and G. Murzalieva. 2008. â&#128;&#156;Evaluation of â&#128;&#152;Doctorâ&#128;&#153;s Depositâ&#128;&#153;&#13;
+      Program.â&#128;? World Health Organization and Health Policy Analysis Center, Policy&#13;
+      Research Paper No. 52, Bishkek.&#13;
+&#13;
+                                                                                             23&#13;
+&amp;#12;Manjieva, E., U. Narmanbetov, N. Kadyrova, and M. Jakab. 2007. â&#128;&#156;Analysis of the Medium-&#13;
+      Term Financial Sustainability of the State Guaranteed Benefits Package.â&#128;? World Health&#13;
+      Organization and Health Policy Analysis Center, Policy Research Paper No. 43, Bishkek.&#13;
+Meimanaliev, T. 2003. â&#128;&#156;Kyrgyz Model of Health Care System.â&#128;? Bishkek, Uchkun.&#13;
+Meimanaliev, A.-S. et al. 2005. â&#128;&#156;Kyrgyzstan: Health System Review.â&#128;? Health Systems in&#13;
+     Transition 7 (2): 1â&#128;&#147;117.&#13;
+MHIF (Mandatory Health Insurance Fund). 2010. â&#128;&#156;Annual Report of MHIF Performance in&#13;
+     2009.â&#128;? Mandatory Health Insurance Fund, Bishkek.&#13;
+MOH (Ministry of Health). 2008. â&#128;&#156;Mid-term Review (MTR) Report: Manas Taalimi Health&#13;
+     Sector Strategy.â&#128;? Ministry of Health, Bishkek.&#13;
+Murzalieva, G. et al. 2007. â&#128;&#156;General Practice Centers: Access and Efficiency.â&#128;? World Health&#13;
+      Organization and Health Policy Analysis Center, Policy Research Paper No. 47, Bishkek.&#13;
+National Statistical Committee. 2009. Demographic Yearbook of the Kyrgyz Republic, 2003â&#128;&#147;&#13;
+       2009. Bishkek: National Statistical Committee.&#13;
+Pulvis, G. 2005. â&#128;&#156;Evaluating Manas Health Sector Reform (1996â&#128;&#147;2005): Focus on&#13;
+       Restructuring.â&#128;? Health Policy Analysis Unit, Bishkek.&#13;
+Oxford Policy Management. 2006. â&#128;&#156;Kyrgyz Republic: PEFA Public Financial Management&#13;
+      Assessment.â&#128;?          Oxford            Policy        Management,     Oxford.&#13;
+      http://www.opml.co.uk/sites/opml/files/PFM_Report_Final_0.pdf.&#13;
+RMIC (Republican Medical Information Center). 2012. â&#128;&#156;Health of the Population and&#13;
+     Performance of Health Facilities.â&#128;? Ministry of Health, Bishkek.&#13;
+Rowland, D., and A. V. Telyukov. 1991. â&#128;&#156;Soviet Health Care from Two Perspectives.â&#128;? Health&#13;
+      Affairs (Millwood) 10 (3): 71â&#128;&#147;86.&#13;
+Sargaldakova, A. et al. 2000. â&#128;&#156;Health Care Systems in Transition: Kyrgyzstan.â&#128;? European&#13;
+       Observatory on Health Care Systems and Policies, Copenhagen.&#13;
+Temirov, A., and B. Akkazieva. 2007. â&#128;&#156;Report on National Health Accounts in Kyrgyzstan:&#13;
+      Review of Total Health Expenditures for 2006.â&#128;? World Health Organization and Health&#13;
+      Policy Analysis Center, Policy Research Paper No. 54, Bishkek.&#13;
+Temirov, A., U. Narmanbetov, K. Duishenaliev et al. 2011. â&#128;&#156;National Health Accounts in&#13;
+      Kyrgyzstan: Overview of Total Health Expenditures in 2009.â&#128;? Health Policy Analysis&#13;
+      Center, Policy Research Paper No. 71, Bishkek.&#13;
+World Bank. 2005. â&#128;&#156;Kyrgyz Republic: Health Sector Fiduciary Assessment.â&#128;? Report No. 69509,&#13;
+      World Bank, Washington, DC.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                         24&#13;
+&amp;#12;25&#13;
+&amp;#12;The World Bank supports the efforts of countries to share prosperity by&#13;
+transitioning toward universal health coverage (UHC) with the objectives of&#13;
+improving health outcomes, reducing the financial risks associated with ill&#13;
+health, and increasing equity. The Bank recognizes that there are many paths&#13;
+toward UHC and does not endorse a particular path or set of organizational or&#13;
+financial arrangements to reach it. Regardless of the path chosen, the quality of&#13;
+the instruments and institutions countries establish to implement UHC are&#13;
+essential to its success. Countries will face a variety of challenges during the&#13;
+implementation phase as they strive to expand health coverage. With that in&#13;
+mind, the World Bank launched the Universal Health Coverage Studies Series&#13;
+(UNICO Studies Series) to develop knowledge and operational tools designed&#13;
+to help countries tackle these implementation challenges in ways that are&#13;
+fiscally sustainable and that enhance equity and efficiency. The UNICO Studies&#13;
+Series consists of technical papers and country case studies that analyze&#13;
+different issues related to the challenges of UHC policy implementation.&#13;
+&#13;
+The case studies in the series are based on the use of a standardized protocol&#13;
+to analyze the nuts and bolts of 27 programs in 25 countries that have&#13;
+expanded coverage from the bottom up, starting with the poor and vulnerable.&#13;
+The protocol consists of 300 questions designed to elicit a detailed&#13;
+understanding of how countries are implementing five sets of policies to&#13;
+accomplish the following:&#13;
+&#13;
+â&#128;¢   Manage the benefits package&#13;
+â&#128;¢   Manage processes to include the poor and vulnerable&#13;
+â&#128;¢   Nudge efficiency reforms to the provision of care&#13;
+â&#128;¢   Address new challenges in primary care&#13;
+â&#128;¢   Tweak financing mechanisms to align the incentives of different stakeholders&#13;
+    in the health sector&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+The UNICO Studies Series aims to provide UHC implementers with an expanded toolbox.&#13;
+The protocol, case studies and technical papers are being published as part of the Series. A&#13;
+comparative analysis of the case studies will be available in 2013.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                               26&#13;
+&amp;#12;</ml:original-txt><ml:search-metadata><doc id="17207287">
+        <url>
+            http://documents.worldbank.org/curated/en/2013/01/17207287/toward-universal-coverage-health-case-state-guaranteed-benefit-package-kyrgyz-republic
+        </url>
+        <availablein>English</availablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2013/01/17207287/toward-universal-coverage-health-case-state-guaranteed-benefit-package-kyrgyz-republic</url_friendly_title>
+        <new_url>2013/01/17207287/toward-universal-coverage-health-case-state-guaranteed-benefit-package-kyrgyz-republic</new_url>
+        <disclosure_date>2013-02-01T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2013-02-01T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/02/01/000333037_20130201153449/Rendered/INDEX/750060NWP0Box30l0Coverage0in0Health.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/02/01/000333037_20130201153449/Rendered/PDF/750060NWP0Box30l0Coverage0in0Health.pdf</pdfurl>
+        <docdt>2013-01-01T00:00:00Z</docdt>
+        <datestored>2013-02-01T00:00:00Z</datestored>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            Toward universal coverage in health : the
+            case of the state guaranteed benefit package of the Kyrgyz Republic
+        </repnme>
+        <abstracts>
+            In this case study the paper describes
+            the evolution of the Kyrgyz health care system and discusses
+            challenges in ensuring universal access to basic health care
+            services. Section one provides an overview of the Kyrgyz
+            health system and of the national health care reform
+            programs that started in 2001 with Manas (2001-2005) and
+            which have been continued with Manas Taalimi (2006-2011),
+            and the recently adopted Den Sooluk (2012-2016). Section two
+            provides a detailed discussion of the SGBP that follows a
+            universal approach as it applies to all citizens, and
+            describes the management of public funds and the information
+            environment of the State Guaranteed Benefit Package (SGBP).
+            Section three draws lessons from Kyrgyz national health
+            reforms for universal health coverage for other countries
+            with very limited public resources, widespread poverty, and
+            high levels of corruption. Section four discusses the
+            remaining challenges for universal health coverage for the
+            poor and how the provision of good-quality care forms an
+            important part of the agenda for the recently adopted Den
+            Sooluk program.
+        </abstracts>
+        <docna>
+            Toward universal coverage in health : the
+            case of the state guaranteed benefit package of the Kyrgyz Republic
+        </docna>
+        <display_title>Toward universal coverage in
+            health : the case of the state guaranteed benefit package of
+            the Kyrgyz Republic</display_title>
+        <listing_relative_url>/research/2013/01/17207287/toward-universal-coverage-health-case-state-guaranteed-benefit-package-kyrgyz-republic</listing_relative_url>
+        <docty>Working Paper (Numbered Series)</docty>
+        <subtopic>Health Monitoring &amp; Evaluation,Health Law,Health Economics &amp; Finance,Health Systems Development &amp; Reform,Population Policies</subtopic>
+        <teratopic>Law and Development,Health, Nutrition and Population</teratopic>
+        <count>Kyrgyz Republic</count>
+        <authors>
+            <author>Giuffrida, Antonio</author>
+            <author>Jakab, Melitta</author>
+            <author>Dale, Elina M.</author>
+        </authors>
+        <geo_region_mdks>
+            <geo_region_mdk>World!$!80475</geo_region_mdk>
+            <geo_region_mdk>Asia!$!80451</geo_region_mdk>
+            <geo_region_mdk>Central Asia!$!80456</geo_region_mdk>
+            <geo_region_mdk>Commonwealth of Independent States!$!80457</geo_region_mdk>
+            <geo_region_mdk>Eastern Europe!$!107233</geo_region_mdk>
+        </geo_region_mdks>
+        <entityids>
+            <entityid>000333037_20130201153449</entityid>
+        </entityids>
+        <admreg>Europe and Central Asia,Europe and Central Asia</admreg>
+        <colti>Universal Health Coverage (UNICO) studies
+            series ; no. 17</colti>
+        <lang>English</lang>
+        <historic_topic>Law and Development,Health, Nutrition and Population</historic_topic>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            access to health care, access to health
+            services, access to services, administrative costs, adult
+            mortality, Adult mortality rate, aged, aging, allocation of
+            resources, basic health care, basic health services, budget
+            allocation, budgetary resources, cancer, cancer patients,
+            capitation, cardiovascular diseases, child health, child
+            health services, citizen, citizens, civil society
+            organizations, Communicable diseases, Community Action,
+            contraceptive use, cost of treatment, developing countries,
+            diabetes, diphtheria, dispensaries, doctors, drugs,
+            economies of scale, emergency care, Emergency Situations,
+            Epidemiological Surveillance, equal access, externalities,
+            families, financial barriers, financial management,
+            financial protection, financial resources, financial risks,
+            Forecasts, General Practice, Health Affairs, health care,
+            health care costs, Health Care Coverage, health care
+            organizations, health care providers, health care reform,
+            Health Care Services, health care system, Health Care
+            Systems, Health Care Systems in Transition, Health
+            Committees, health conditions, health consequences, Health
+            Coverage, Health Delivery, Health Delivery System, health
+            education, Health Expenditure, health expenditures, health
+            facilities, Health Financing, health information, health
+            information system, health insurance, Health Insurance Fund,
+            health insurance market, Health Organization, health
+            organizations, health outcomes, health policy, health
+            programs, Health Promotion, health promotion activities,
+            health providers, Health Reform, health reforms, health
+            sector, Health Sector Reform, health services, health
+            status, Health System, health system performance, Health
+            System Reform, health system strengthening, health systems,
+            Health Systems in Transition, health workers, healthcare
+            services, HIV, HIV infection, HIV/AIDS, Hospital, hospital
+            admission, hospital admissions, hospital beds, hospital
+            capacity, hospital care, hospital services, hospitalization,
+            hospitals, household expenditure, Hygiene, hypertension, ill
+            health, illnesses, immunization, immunizations, impact on
+            health, impact on health outcomes, income, income countries,
+            income groups, Individual health, Infant mortality, Infant
+            mortality rate, infectious diseases, informal payments,
+            institutional capacity, internal migrants, international
+            organizations, Life expectancy, Life expectancy at birth,
+            Low Income, Low-income Countries, medical doctors, medical
+            personnel, medical services, medical supplies, medicines,
+            midwife, migrants, Migration, Ministry of Education,
+            Ministry of Health, morbidity, mortality, mother, National
+            Health, national health policy, national initiatives,
+            national level, National Security, nurse, Nurses, outpatient
+            care, outpatient services, patient, patient rights, patient
+            satisfaction, patient satisfaction surveys, patients,
+            pediatrics, permanent residence, pharmaceutical sector,
+            pharmacies, pharmacy, physician, Physicians, pocket
+            payments, Policy Research, polio, Poor Families, postnatal
+            care, pregnant women, primary care, primary care physician,
+            primary health care, primary health care services, private
+            financing, private health insurance, private pharmacies,
+            private sector, progress, provision of care, provision of
+            health services, provision of services, Public Health,
+            public health policy, public health spending, public health
+            system, public providers, public sector, quality assurance,
+            quality care, quality control, quality of care, quality of
+            health, Quarantine, radiology, rehabilitation, rural areas,
+            skilled birth attendance, Social Affairs, syphilis, tertiary
+            level, tuberculosis, universal access, use of health care
+            services, use of resources, vaccination, vascular diseases,
+            victims, vulnerable groups, War, workers, World Health Organization
+        </keywd>
+        <owner>Health, Nutrition &amp; Popultn Team (HDNHE)</owner>
+        <geo_regions>
+            <geo_region>World</geo_region>
+            <geo_region>Asia</geo_region>
+            <geo_region>Central Asia</geo_region>
+            <geo_region>Commonwealth of Independent States</geo_region>
+            <geo_region>Eastern Europe</geo_region>
+        </geo_regions>
+        <repnb>75006</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Economic Management</ml:concept><ml:concept>Macroeconomic Management</ml:concept><ml:concept>Macroeconomic Policy</ml:concept><ml:concept>Macroeconomics Policy</ml:concept><ml:concept>Macroeconomics and Economic Growth</ml:concept><ml:concept>Macroeconomics and Growth</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Social Protections and Labor</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Agriculture and Food Security</ml:concept><ml:concept>Macroeconomic and Structural Policies</ml:concept><ml:concept>Health, Nutrition and Population</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Social Protection and Labor</ml:concept><ml:concept>Health Monitoring and Evaluation</ml:concept><ml:concept>Complementary Health Insurance</ml:concept><ml:concept>Supplementary Health Insurance</ml:concept><ml:concept>Voluntary Health Insurance</ml:concept><ml:concept>Delivery of Health Care</ml:concept><ml:concept>Health Care Delivery</ml:concept><ml:concept>Health Service Management and Delivery</ml:concept><ml:concept>Health Systems</ml:concept><ml:concept>Preventive Services</ml:concept><ml:concept>Primary and Secondary Prevention</ml:concept><ml:concept>Hospital Care</ml:concept><ml:concept>Inpatient  and Outpatient Care</ml:concept><ml:concept>Secondary Health Care</ml:concept><ml:concept>Specialized Care</ml:concept><ml:concept>Medical Supplies, Drugs</ml:concept><ml:concept>Pharmaceutical Industry</ml:concept><ml:concept>Neoplasms</ml:concept><ml:concept>Vaccines</ml:concept><ml:concept>Insurance &amp; Risk Mitigation</ml:concept><ml:concept>HRH</ml:concept><ml:concept>Health Labor</ml:concept><ml:concept>Health Workers</ml:concept><ml:concept>Demographics</ml:concept><ml:concept>Child Survival and Health</ml:concept><ml:concept>Early Child and Children's Health</ml:concept><ml:concept>Longevity</ml:concept><ml:concept>Analysis &amp; Monitoring</ml:concept><ml:concept>Delivery Units</ml:concept><ml:concept>Grievance Redress</ml:concept><ml:concept>Indicators</ml:concept><ml:concept>M&amp;E</ml:concept><ml:concept>Performance Measurement</ml:concept><ml:concept>Performance Reviews</ml:concept><ml:concept>Rapid Results Approaches</ml:concept><ml:concept>Health Monitoring &amp; Evaluation</ml:concept><ml:concept>Income</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Taxation</ml:concept><ml:concept>Health Insurance</ml:concept><ml:concept>Private Health Insurance</ml:concept><ml:concept>Health Services Delivery</ml:concept><ml:concept>Preventive Care</ml:concept><ml:concept>Primary Care</ml:concept><ml:concept>Secondary Care</ml:concept><ml:concept>Pharmaceuticals</ml:concept><ml:concept>Diseases</ml:concept><ml:concept>Tuberculosis</ml:concept><ml:concept>Cancer</ml:concept><ml:concept>Immunizations</ml:concept><ml:concept>Insurance</ml:concept><ml:concept>Savings</ml:concept><ml:concept>Human Resources for Health</ml:concept><ml:concept>Public Health</ml:concept><ml:concept>Population</ml:concept><ml:concept>Child Health</ml:concept><ml:concept>Aging</ml:concept><ml:concept>Monitoring and Evaluation</ml:concept></ml:concepts><ml:geo-regions><ml:geo-region>State Associations</ml:geo-region><ml:geo-region>Asia</ml:geo-region><ml:geo-region>Central Asia</ml:geo-region><ml:geo-region>Kyrgyzstan</ml:geo-region></ml:geo-regions></ml:annotations></ml:doc-envelope>

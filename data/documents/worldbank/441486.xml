@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>"6135&#13;
+Viewpoint&#13;
+The World Bank                                                                            April 1996&#13;
+Note No.76   The Net, Cybermoney, and Credit Risks&#13;
+New technology-and payment system risks&#13;
+Cathy E.         The application of new technology to the busi-  automated payment processing and communi-&#13;
+Mineban          ness of payments is giving rise to new payment   cations systems such as Fedwire and CHIPS ex-&#13;
+alternatives. Smart cards, electronic checks, and   perienced huge growth in the number of on-line&#13;
+various forms of electronic money, combined   participants and in the volume and value of&#13;
+with the emergence of extensive, broadly ac-  transactions. Throughout this period, it seemed&#13;
+cessible communications facilities such as the   that "bigger" and "faster" meant "better." And in&#13;
+Internet, are rapidly expanding the choices for   many ways, this was true. But the ability to de-&#13;
+low-value, or "retail," payments.         liver payment instructions and securities trans-&#13;
+actions outpaced the ability to achieve final&#13;
+It is tempting to treat the proliferation of tech-   settlement. The delivery of payment instructions&#13;
+nology and service providers in the retail arena   was essentially real-time for on-line institutions,&#13;
+with an attitude quite unlike that with which   but final settlement-the actual posting of en-&#13;
+we in the financial community have addressed   tries to participants' settlement accounts-was&#13;
+wholesale payment systems over the past two   typically an end-of-day (or next-day) process-&#13;
+decades. After all, the values involved are rela-  ing activity. Even in systems that settle with each&#13;
+tively small, the potential for efficiency is large,  transaction-real-time gross settlement systems&#13;
+and to the casual observer the risks seem low.   -payment transfers were completed without&#13;
+But the experience with wholesale systems   regard to balances on hand. As a result, the intra-&#13;
+shows that the application of technology to the   day credit incurred by payment system partici-&#13;
+business of payments can be a double-edged   pants grew at a staggering rate.&#13;
+sword, bringing efficiency and higher service&#13;
+levels but also increasing risk. Developers have   Similar applications of technology in the securi-&#13;
+tended to rush new technology to the market  ties and foreign exchange markets increased&#13;
+in an attempt to "be there first" to attract new    both the volume and the velocity of turnover in&#13;
+business. And users have been quick to adopt  these markets. The time lag between the initia-&#13;
+new technology for fear of losing competitive   tion of securities and foreign exchange trans-&#13;
+advantage. The speed at which this has oc-   actions and their ultimate settlement often&#13;
+curred has often precluded analysis of its po-   exceeded the time lags in settling pure payment&#13;
+tential effects, intended or unintended. This  transactions. As a result, the temporal risk in-&#13;
+Note reviews some of the experience the fi-  curred by market participants was also greater.&#13;
+nancial community has had in trying to tame&#13;
+the technology genie in wholesale systems,   As the 1970s gave way to the 1980s, countries&#13;
+highlighting lessons to guide participants as   around the world began to take note of the&#13;
+they capitalize on changing technology.    growing risk inherent in their payment systems.&#13;
+Various isolated payment system problems dur-&#13;
+Changing technology                       ing the 1970s, and the resulting losses, served&#13;
+to focus minds. By the mid-1980s, technology&#13;
+In the 1970s and early 1980s, technology was   was being applied to improve risk control in&#13;
+applied to payment and clearing systems with a   domestic payment systems. Sophisticated soft-&#13;
+vengeance. In the United States, for example,   ware systems were developed to measure risk&#13;
+L'3a            Financial Sector Development Department . Vice Presidency for Finance and Private Sector Development&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+MN                The Net, Cybermoney, and Credit Risks&#13;
+as a first step toward controlling it. With some   Other systems take this concept a little further,&#13;
+prompting from regulatory authorities, risk   allowing the card holder to transfer value to&#13;
+management software began to be integrated   other cards or to a system operated by the seller&#13;
+with and operated as part of the payment sys-   to receive those payments. This can come close&#13;
+tem applications. Real-time balance monitor-   to being a new form of currency: the potential&#13;
+ing, net debit caps, and bilateral limits are all   exists for the value on the card to remain in&#13;
+examples of automated risk management con-   circulation, transferring from card to card, and&#13;
+trols made possible by creative application of   one endpoint to another, without necessarily&#13;
+technology in wholesale payment systems. But   being converted to a more traditional form of&#13;
+regaining some control over technology in the   money.&#13;
+wholesale systems had taken nearly twenty&#13;
+years. We may be poised to repeat this process   More traditional banking services are also be-&#13;
+in retail payments.                           ing offered electronically. "Virtual banks" are&#13;
+being formed that use the Internet in place of&#13;
+Debit cards, smart cards, and "virtual banks"  traditional brick-and-mortar infrastructure, ac-&#13;
+cessing services provided by banks and other&#13;
+Now we are seeing a migration of sophisticated   financial and nonfinancial institutions. An inter-&#13;
+technology to the retail payment sector, and   esting, and perhaps troubling, aspect of this&#13;
+the possibility of the integration of the retail   development is the emergence of nonbanks as&#13;
+and wholesale payment systems in ways never   major providers of banking and payment ser-&#13;
+before possible. Automated clearinghouses are   vices. In the United States, such major software&#13;
+moving to more daily cycles and ultimately to   providers as Intuit, Microsoft, and Netscape are&#13;
+processing batches on a flow or "on-demand"   battling for a share of the potentially lucrative&#13;
+basis, creating a real technological alternative   market of on-line banking services. Some banks&#13;
+for the smaller, less time-sensitive payments   are forming alliances with these new players;&#13;
+now made on Fedwire. The retail payment sec-   others are developing their own proprietary&#13;
+tor has gone beyond bank-owned networks   systems. Who will emerge as the dominant&#13;
+into much wider areas accessible to consum-   player (or players) and what the principal net-&#13;
+ers initiating payments. These new electronic   work will be remain to be seen.&#13;
+access options are generally of two types: those&#13;
+that use a debit card and those that depend on   The Internet as a payment network&#13;
+"smart" card technology to store value.&#13;
+The Internet is free; no one owns it; no one&#13;
+In the United States the use of debit cards has   oversees, controls, or secures it. These very&#13;
+grown considerably through traditional net-   aspects that make the Internet so flexible and&#13;
+works developed by VISA and Mastercard as   foster its incredible growth also make it less&#13;
+well as through proprietary bank systems such   than ideal for payments. For every "expert" who&#13;
+as NYCE and MAC. But these cards have the   claims that achieving adequate security on the&#13;
+potential for even broader use, independent   Internet is simply a matter of applying the right&#13;
+of these systems and networks, when combined   technological solution, there is one who de-&#13;
+with use of the Internet for electronic authori-   nies that the Net will ever be secure enough&#13;
+zation. Similarly, smart card technology is be-   for payments.&#13;
+ing used to store electronic "notes," authorized&#13;
+by the card holder's bank, that can be used to   It is too early to know who is right. But the&#13;
+transfer value between banks, consumers, and   volume of transactions is growing fast-from&#13;
+merchants. These electronic notes flow over   US$20 million in 1994 to an estimated US$200&#13;
+the Internet and provide authorization for the   million in 1995. Business-to-business payments&#13;
+withdrawal of funds from a bank account for   are beginning to cross the Internet. On-line&#13;
+electronic payment to another party.          banking and brokerage services are being es-&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+tablished. Payment values, volumes, and cross-   The end first&#13;
+border activity are growing rapidly-so much&#13;
+so that Internet-based transactions could soon   First, neither technology nor payment systems&#13;
+account for a significant share of payment sys-   are ends in themselves. Payment systems are&#13;
+tem activity. Moreover, with the proliferation   important, if not vital, to economic growth, but&#13;
+of competing electronic systems, whether   it is that growth itself that is our end. It would&#13;
+Internet-based or not, the landscape is begin-   be both fruitless and counterproductive to be-&#13;
+ning to be reminiscent of the U.S. payment situ-   lieve that we can or should hinder the infusion&#13;
+ation in the mid-1800s, when commercial banks   of new technologies into the payment system.&#13;
+issued their own currencies and an integrated   In the United States, for example, where 60&#13;
+nationwide payment system was still only a   billion paper checks are still processed and col-&#13;
+dream.                                        lected every year, a shift to electronics could&#13;
+reduce the cost of payment operations and sig-&#13;
+Risks?                                        nificantly increase returns to banks, bank cus-&#13;
+tomers, and society. But if we learned nothing&#13;
+Do these developments pose new elements of   else during the 1980s, we learned that the im-&#13;
+risk that we do not yet fully understand?     possible can, and sometimes does, happen.&#13;
+* Is the proliferation of payment and payment   Computers fail just as payment overdrafts are&#13;
+information systems working to increase    mounting, liquidity problems can complicate&#13;
+rather than decrease the time between the   creditworthiness, markets can drop precipi-&#13;
+exchange of payment transactions and their  tously, interest rates don't move in the same&#13;
+ultimate finality?                          direction indefinitely-and on and on. Systemic&#13;
+* Will the ease of access and the low cost of   fragility can damage economic growth just as&#13;
+these new systems attract payments of in-   surely, and perhaps more violently, than the&#13;
+creasing size in ways that enhance short-term    failure to introduce new technologies. There-&#13;
+efficiency but increase long-term risk?     fore, payment systems must be developed to&#13;
+* Does the disintermediation of payments away   withstand turmoil.&#13;
+from the banking system make payment sys-&#13;
+tems more or less accident-prone?           Credit and payments together&#13;
+* Are the new links among systems-national&#13;
+and international-more or less likely to in-   Second, it is impossible to separate credit and&#13;
+duce a chain reaction if one system encoun-   payment systems. While time intervals are short,&#13;
+ters a major mechanical or credit disruption?   there is probably more credit extended through&#13;
+* Are the risks of unauthorized entry and large-   payment systems than through any other single&#13;
+scale fraud greater? And even if security is   source. That is why depository institutions, with&#13;
+adequate, who will guarantee that techno-   their inherent expertise in assessing credit risk,&#13;
+logical failure will not impede access to elec-   have specialized in payment operations, and&#13;
+tronic cash?                                why central banks take payment systems so&#13;
+* And finally, at the extreme, is there a danger   seriously. It is true that information services&#13;
+that these trends can produce distortions in   can make the transfer of value more efficient.&#13;
+measures of the money supply, complicat-  It is also true that central banks that are active&#13;
+ing the conduct of monetary policy?         as payment system service providers, such as&#13;
+the Federal Reserve System, may not have taken&#13;
+Five lessons                                  the information component of payments as se-&#13;
+riously as they should have. However, it is a&#13;
+Although the answers to these questions are   worry that providers of information technol-&#13;
+not yet clear, our work with wholesale systems   ogy offering systems to support retail payments&#13;
+gives us some leads. There are five critical   transfer are attempting to remove credit ex-&#13;
+lessons.                                      pertise from the heart of the system. When the&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+The Net, Cybermoney, and Credit Risks&#13;
+impossible happens, and liquidity is needed    be valuable payment service providers. But in&#13;
+to make some new, all-pervasive, payment sys-   the new retail systems, the use of technology&#13;
+tem  function, the further banks and central    could take netting to new heights, with trans-&#13;
+banks are from the action, the more difficult   actions passed between the ultimate settling&#13;
+the solution will be.                              banks only on a net, net, net basis. Adding to&#13;
+this mix the technical ability to make payments&#13;
+Legal and regulatory framework                     of increasingly large value raises the question&#13;
+of whether some of the surprises we found in&#13;
+Third, effective payment systems, whether   large-value payment systems will come back&#13;
+wholesale or retail, must have certain crucial   to haunt us in the new retail systems.&#13;
+characteristics-accuracy, security, reliability,&#13;
+timeliness, and certainty of value. The means    This brings us to the issue of system oversight.&#13;
+of achieving these characteristics may vary with   In many clearinghouses, the members are the&#13;
+the system, but they must be present. Their    most severe regulators of one another, because&#13;
+presence is determined by the integration of   they realize that their ability to be funded at the&#13;
+the system's technology, its structure and par-    end of a clearing cycle depends on the strength&#13;
+ticipants, and a legal and regulatory framework    of the weakest participant in the clearing. The&#13;
+that clearly defines the roles, rights, obligations,   new, broad, retail electronic networks do not&#13;
+and liabilities of those who use the system.   invite the same kind of participant control-the&#13;
+Thus, it is not technology alone, or even pri-   addition of participants seems more a matter of&#13;
+marily technology, that creates a payment sys-   marketing than of system  control. Banks and&#13;
+tem. Technology interacts with participants'   other payment system providers must ask them-&#13;
+needs and responsibilities and with laws and    selves whether they know in detail what would&#13;
+T he Note series is an&#13;
+open foram intended to   regulations to define a payment system.        happen if a participant fails to make payment,&#13;
+encourage dissemina-                                                    or computers malfunction, or a power outage&#13;
+tion of and debate on  Finality and system oversight                    stops normal operations. And as these systems&#13;
+ideas, innovations, and&#13;
+best practices for                                                      become more pervasive, enlightened oversight&#13;
+expanding the private  Fourth, we've also learned that payment sys-    by central banks will be necessary to ensure&#13;
+sector. The views   tems function best when they have both trans-   that payment system rules, controls, and par-&#13;
+poblished are those of&#13;
+the authors and should    parency and effective internal oversight. In the    ticipation all help to enhance financial stability.&#13;
+not be attributed to the    wholesale payments world, much attention has&#13;
+World Bank or any of its   been focused on making the ultimate transfer    Strategic integration&#13;
+affiliated organizations.&#13;
+Nor do any of the con-    of value as transparent in timing as possible.&#13;
+clusions represent  This has been done by emphasizing finality-    Finally, in the move to more electronic retail&#13;
+official policy of the  that is, the irrevocable availability of funds at a    and wholesale systems, it would be a shame if&#13;
+World Bank or of its&#13;
+Executive Directors  predictable time. Increasingly, central banks and    no consideration is given to how payments ini-&#13;
+or the countries they  other payment system  participants have seen    tiated in one system  can be transferred and&#13;
+represent.          the advantage of systems that grant finality trans-   settled in another. One of the reasons the Fed-&#13;
+Comments are welcome.  fer by transfer-real-time gross settlement sys-    eral Reserve System  came into being was to&#13;
+Please call the FPD  tems-and, in securities transfer and foreign    create a nationally integrated payment transfer&#13;
+Note line to leave a  exchange, of systems that achieve simultaneity    process. Now that the United States is just be-&#13;
+or contact Suzanne  in the delivery of the security and the cash or in    ginning to make great inroads in decreasing&#13;
+Smith, editor, Room  the two legs of the foreign exchange settlement.   the volume of paper-based payments, it must&#13;
+G8105, The World Bank,                                                  not lose the fabric of a nationwide retail pay-&#13;
+1818 H Street, NW,&#13;
+Washington, D.C. 20433,   But wholesale systems did not all start out like    ment system  in the process. To prevent this,&#13;
+or Internet address  this. Many began as the new  retail systems    the central bank must continue to play a large&#13;
+ssmith7@worldbank.org.   have-as net settlement systems-largely be-   role in strategic payment system development.&#13;
+@Printed on recycled  cause the netting process is so efficient. Large-&#13;
+paper.               value net settlement systems have been    Cathy E. Mineban, President, Federal Reserve&#13;
+strengthened over the years and continue to    Bank of Boston&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+</ml:original-txt><ml:search-metadata><doc id="441486">
+        <url>
+            http://documents.worldbank.org/curated/en/1996/04/441486/netcybermoney-credit-risks-new-technologiy-payment-system-risks
+        </url>
+        <availablein>English</availablein>
+        <virt_coll>Knowledge Notes</virt_coll>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/1996/04/441486/netcybermoney-credit-risks-new-technologiy-payment-system-risks</url_friendly_title>
+        <new_url>1996/04/441486/netcybermoney-credit-risks-new-technologiy-payment-system-risks</new_url>
+        <disclosure_date>2010-07-01T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2010-07-01T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/1999/08/15/000009265_3980219162736/Rendered/INDEX/multi0page.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/1999/08/15/000009265_3980219162736/Rendered/PDF/multi0page.pdf</pdfurl>
+        <docdt>1996-04-30T00:00:00Z</docdt>
+        <datestored>2000-10-24T00:00:00Z</datestored>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            The net,cybermoney, and credit risks : new
+            technologiy, and payment system risks
+        </repnme>
+        <abstracts>
+            Smart cards, electronic checks, and
+            electronic money alternatives combined with broadly
+            available communications facilities such as the Internet are
+            rapidly increasing the choices for retail payments. They are
+            also increasing the risks. The author reviews the lessons
+            for risk management from the earlier technological changes
+            in the wholesale system.
+        </abstracts>
+        <docna>
+            The net,cybermoney, and credit risks : new
+            technologiy, and payment system risks
+        </docna>
+        <display_title>The net,cybermoney, and credit
+            risks : new technologiy, and payment system risks</display_title>
+        <listing_relative_url>/research/1996/04/441486/netcybermoney-credit-risks-new-technologiy-payment-system-risks</listing_relative_url>
+        <docty>Viewpoint</docty>
+        <subtopic>Payment Systems &amp; Infrastructure,Environmental Economics &amp; Policies,Financial Intermediation,Information Technology,Banks &amp; Banking Reform</subtopic>
+        <teratopic>Finance and Financial Sector Development,Information and Communication Technologies,Environment</teratopic>
+        <count>World</count>
+        <authors>
+            <author>Minehan, Cathy E.</author>
+        </authors>
+        <entityids>
+            <entityid>000009265_3980219162736</entityid>
+        </entityids>
+        <subsc>Other Finance</subsc>
+        <admreg>The World Region,The World Region</admreg>
+        <colti>Public policy for the private sector ; Note
+            no. 76</colti>
+        <lang>English</lang>
+        <historic_topic>Finance and Financial Sector Development,Information and Communication Technologies,Environment</historic_topic>
+        <sectr>Finance</sectr>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            Monetary circulation; Payments systems; Risk
+            management; Banking systems; Electronic instruments;
+            Electronic funds transfer; Retail banking; Consumer credit
+            banking services,banking
+            system,banks,central banks,clearing
+            systems,clearinghouses,commercial banks,credit risk,debit
+            card,depository,depository
+            institutions,disintermediation,domestic payment
+            systems,economic growth,electronic money,electronic
+            payment,electronics,Federal Reserve System,final
+            settlement,financial stability,foreign exchange,foreign
+            exchange markets,gross settlement,gross settlement
+            systems,information services,information systems,interest
+            rates,laws,liquidity,MAC,market
+            participants,migration,monetary policy,net debit caps,net
+            settlement,net settlement systems,netting,networks,new
+            technologies,New technology,nonbanks,payment
+            instructions,payment systems,regulatory framework,retail
+            payments,risk management,securities,settlement
+            accounts,smart card technology,Smart cards
+        </keywd>
+        <owner>Private Sctr Devel &amp; Infrastr VP (PSI)</owner>
+        <repnb>16935</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>ICT</ml:concept><ml:concept>ICT for Development</ml:concept><ml:concept>Information Technology</ml:concept><ml:concept>Information and Communication Technologies (ICT)</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Economic Management</ml:concept><ml:concept>Macroeconomic Management</ml:concept><ml:concept>Macroeconomic Policy</ml:concept><ml:concept>Macroeconomics Policy</ml:concept><ml:concept>Macroeconomics and Economic Growth</ml:concept><ml:concept>Macroeconomics and Growth</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Social Protections and Labor</ml:concept><ml:concept>Information and Communication Technologies</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Macroeconomic and Structural Policies</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Social Protection and Labor</ml:concept><ml:concept>Central Banks</ml:concept><ml:concept>Central Banking</ml:concept><ml:concept>Commercial Banks</ml:concept><ml:concept>Retail Banking</ml:concept><ml:concept>Payment Instruments</ml:concept><ml:concept>Payment Systems &amp; Infrastructure</ml:concept><ml:concept>Securities Settlement Systems</ml:concept><ml:concept>Settlement Systems</ml:concept><ml:concept>Monetary and Exchange Rate Policy</ml:concept><ml:concept>Electronic Payment</ml:concept><ml:concept>Mobile Money</ml:concept><ml:concept>Mobile Payments</ml:concept><ml:concept>Checks on Executive Power</ml:concept><ml:concept>Citizen Oversight</ml:concept><ml:concept>Citizen User Satisfaction Survey</ml:concept><ml:concept>Independent Commissions</ml:concept><ml:concept>Ombudsmen</ml:concept><ml:concept>Oversight</ml:concept><ml:concept>Parliament</ml:concept><ml:concept>Procurement Complaints Review Institutions</ml:concept><ml:concept>Supreme Audit Institutions</ml:concept><ml:concept>Law and Development</ml:concept><ml:concept>Law and Regulation</ml:concept><ml:concept>Legal and Regulatory Framework</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Central Banking Institutional Set-up</ml:concept><ml:concept>Commercial Banking</ml:concept><ml:concept>Infrastructure</ml:concept><ml:concept>Payment Systems</ml:concept><ml:concept>Retail Payments</ml:concept><ml:concept>Monetary Policy</ml:concept><ml:concept>Electronic Payments</ml:concept><ml:concept>Public Accountability Mechanisms</ml:concept></ml:concepts><ml:geo-regions/></ml:annotations></ml:doc-envelope>

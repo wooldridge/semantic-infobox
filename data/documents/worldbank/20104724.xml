@@ -1,0 +1,1396 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>Report No. 73                                          89983&#13;
+&#13;
+South Asia Human Development Sector&#13;
+&#13;
+Strengthening Teacher Capacity in Bihar through ICT:&#13;
+Designing Innovative Solutions to Unique Challenges&#13;
+&#13;
+&#13;
+June 2014&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Discussion Paper Series&#13;
+&amp;#12;Report No. 73&#13;
+&#13;
+&#13;
+&#13;
+South Asia Human Development Unit&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Strengthening Teacher Capacity in Bihar&#13;
+through ICT: Designing Innovative Solutions to&#13;
+Unique Challenges&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+June 2014&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Discussion Paper Series&#13;
+&amp;#12;Discussion Papers are published to communicate the results of the World Bankâ&#128;&#153;s work to the&#13;
+development community with the least possible delay. The typescript manuscript of this&#13;
+paper therefore has not been prepared in accordance with the procedures appropriate to&#13;
+formally edited texts. Some sources cited in the paper may be informal documents that are&#13;
+not readily available.&#13;
+&#13;
+The findings, interpretations, and conclusions expressed herein do not necessarily reflect the&#13;
+views of the International Bank for Reconstruction and Development/The World Bank and&#13;
+its affiliated organizations, or those of the Executive Directors of the World Bank or the&#13;
+Governments they represent.&#13;
+&#13;
+The World Bank does not guarantee the accuracy of the data included in this work. The&#13;
+boundaries, colors, denominations, and other information shown on any map in this work do&#13;
+not imply any judgment on the part of The World Bank concerning the legal status of any&#13;
+territory or the endorsement or acceptance of such boundaries.&#13;
+&amp;#12;                                                    TABLE OF CONTENTS&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+CHAPTER 1: Introduction ........................................................................................................................... 1&#13;
+CHAPTER 2: Finding a Suitable Model for Bihar ....................................................................................... 3&#13;
+     Design Commencement: Engaging the Stakeholders and the Experts ................................................... 3&#13;
+     Exploring Suitable Options .................................................................................................................... 4&#13;
+CHAPTER 3: The Diploma of Elementary Education ................................................................................. 8&#13;
+     Programme Design ................................................................................................................................. 8&#13;
+     Student Assessment ................................................................................................................................ 9&#13;
+     Student Support .................................................................................................................................... 11&#13;
+     Proposed ICT Architecture ................................................................................................................... 13&#13;
+     ICT Architecture Overview .................................................................................................................. 13&#13;
+     SCERT Central Server and Learner Management System ................................................................... 15&#13;
+     ICT Infrastructure Across the System .................................................................................................. 16&#13;
+     Building Structure Requirements ......................................................................................................... 18&#13;
+     Human Resource Requirements ........................................................................................................... 21&#13;
+CHAPTER 4: Conclusion-Emerging Lessons ............................................................................................ 25&#13;
+Selected Bibliography ................................................................................................................................. 26&#13;
+&#13;
+&#13;
+&#13;
+Table 1           ICT Equipment Power Requirements ..................................................................................... 19&#13;
+&#13;
+&#13;
+Figure 1          Towards an integrated assessment strategy............................................................................... 9&#13;
+Figure 2          Integrated student support model ............................................................................................ 11&#13;
+Figure 3          ICT Architecture from Centre to Periphery ............................................................................ 14&#13;
+Figure 4          Thin-client Network Setup ...................................................................................................... 17&#13;
+&amp;#12;                   AUTHORS&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                   Shabnam Sinha&#13;
+Senior Education and Institution Development Specialist&#13;
+                     World Bank&#13;
+&#13;
+&#13;
+                         and&#13;
+&#13;
+&#13;
+                     Neil Butcher&#13;
+                      Consultant&#13;
+&amp;#12;                               ACKNOWLEDGEMENTS&#13;
+&#13;
+&#13;
+This report is the result of several processes of engagement, with the Government of Bihar&#13;
+(GOB), drawing on the expertise of colleagues in the World Bank, and various teacher education&#13;
+and ICT experts. Their valuable inputs during missions, in preparing conferences/workshops and&#13;
+field research, and in helping to write and comment on many documents from which this report&#13;
+has drawn extensively are gratefully acknowledged.&#13;
+&#13;
+The authors would like to thank all the representatives of the GOB for their many contributions&#13;
+to, and thoughtful reflections on, the emerging design of the teacher education systems and&#13;
+interventions in Bihar on which this report is based. We are particularly grateful for the&#13;
+important contributions: of Principal Secretary, Human Resource Development, Amarjeet Sinha;&#13;
+State Project Director, Sarva Shiksha Abhiyan (SSA) and Secretary, School and Elementary&#13;
+Education (SEEL), Rahul Singh; Managing Director, Bihar State Education Infrastructure&#13;
+Development Corporation (BSEIDC), Sanjiwan Sinha; Joint Director, Department of Primary&#13;
+Education, R. S. Singh; Directorate of Research and Training, Department of Education, A. K.&#13;
+Pandeya; Director, State Council of Education Research and Training (SCERT), Hassan Waris;&#13;
+and Director, Training, SCERT, A. Moin. We would also like to acknowledge all of these&#13;
+representatives of the GOB, staff of SCERT, DIET and PTEC Principals, BRC and CRC&#13;
+Coordinators, and school principals and teachers who participated in many different consultative&#13;
+processes that contributed ideas towards this document.&#13;
+&#13;
+We would also like to recognize the contributions of many World Bank colleagues, who have&#13;
+participated in missions to Bihar, reviewed and commented extensively on documents, and&#13;
+provided excellent advice during the processes leading to this report. Although the contributors&#13;
+are too numerous to mention all by name, we would particularly like to mention: Toby Linden&#13;
+(Lead Education Specialist), Michael Trucano (Senior Education Specialist), and Sangeeta Dey&#13;
+(Consultant, World Bank). In particular, we would like to than Amit Dar (Sector Manager,&#13;
+Education South Asia) for his overall guidance and encouragement in undertaking this&#13;
+challenging task. We would also like to recognize the contributions of Tony Mays and Andrew&#13;
+Moore, consultants to the World Bank, who made significant contributions to the design of the&#13;
+program curriculum and the ICT infrastructure design respectively. We would like to recognize&#13;
+the logistical and administrative support of Tanusree Talukdar, without whom most of the&#13;
+missions to Bihar, workshops, and other field engagements would not have been possible.&#13;
+&amp;#12;           ABBREVIATIONS AND ACRONYMS&#13;
+&#13;
+&#13;
+&#13;
+ADSL        Asymmetric Digital Subscriber Lines&#13;
+BITE        Block Institute of Teacher Education&#13;
+BRC         Block Resource Centre&#13;
+BSEIDC      Bihar State Education Infrastructure Development&#13;
+            Corporation&#13;
+CRC         Cluster Resource Centre&#13;
+CTE         College of Teacher Education&#13;
+D.El.Ed.    Diploma in Elementary Education&#13;
+DIET        District Institute of Education &amp; Training&#13;
+GOB         Government of Bihar&#13;
+ICT         Information and Communication Technology&#13;
+IGNOU       Indira Gandhi National Open University&#13;
+LMS         Learner Management System&#13;
+MHRD        Ministry of Human Resource Development&#13;
+NCTE        National Council of Teacher Education&#13;
+ODL         Open and Distance Learning&#13;
+OS          Operating System&#13;
+PMA         Project Management Agency&#13;
+PRI         Panchayati Raj Institution&#13;
+PTEC        Primary Teacher Education Centres&#13;
+RET         Renewable Energy Technology&#13;
+RtE Act     Right to Education Act&#13;
+SCERT       State Council Educational Research and Training&#13;
+SEEL        School and Elementary Education&#13;
+SIET        State Institute of Educational Technology&#13;
+SMF         Social Management Framework&#13;
+SSA         Sarva Shiksha Abhiyan&#13;
+TE          Teacher Education&#13;
+TEIDI       Teacher Education Institution Development Index&#13;
+TEMIS       Teacher Education Management Information System&#13;
+UPS         Uninterrupted Power Supply&#13;
+&amp;#12;                            CHAPTER 1: INTRODUCTION&#13;
+Until recently, Bihar had a huge shortage of teachers and the student-teacher ratio was as low as&#13;
+90:1. Most schools were single or two teacher schools, which, on average, used to open for fewer&#13;
+than 100 days per year. Realizing that Bihar can only progress through development of its human&#13;
+resources, education was accorded the highest priority in the State in the year 2005-6.&#13;
+Recruitment of teachers was decentralized to panchayati raj institutions, as a result of which&#13;
+242,000 teachers were recruited. At that time, too few trained teachers were available; hence half&#13;
+of those recruited were untrained. These untrained teachers, numbering about 102,000, were&#13;
+trained through distance mode by the Indira Ghandi National Open University (IGNOU) in two-&#13;
+year training courses.&#13;
+&#13;
+The most recent estimates put the number of unqualified teachers in the system, and not engaged&#13;
+in study with IGNOU, at 44,000. To meet the requirements of the Right to Education, however,&#13;
+Bihar is currently deploying more teachers. According to estimates, 150,000 of these will again&#13;
+be untrained. It is a major task to provide two-year training programmes to so many teachers in&#13;
+such a short period. Bihar has very few training institutions, the combined current training&#13;
+capability of which is not more than 5,000 new teachers per year.&#13;
+&#13;
+To meet such diverse and pressing needs, it became important to explore alternative mechanisms&#13;
+of providing teacher education that are professionally managed, address the issue of distance&#13;
+between teachers and the taught, and generate enhanced and innovative delivery mechanisms.&#13;
+The Department of Education of the Government of Bihar launched Mission Gunwatta, which&#13;
+has as its goal that â&#128;&#152;every child in Bihar enrolled in Primary schools attains learning&#13;
+competencies of the class that he/she is inâ&#128;&#153;. Amongst other objectives, Mission Gunwatta is&#13;
+intended to enable a dramatic improvement in learning outcomes for primary learners, to enable&#13;
+teacher educators to make a real difference to the classroom process, to support teachers in&#13;
+schools very effectively, and to support teacher training institutions, Block Resource Centres&#13;
+(BRCs), and Cluster Resource Centres (CRCs) vibrant and effective.&#13;
+&#13;
+Mission Gunwatta includes a heavy emphasis on developing an effective teacher education&#13;
+system for the State, including: training and support for all levels; onsite support to teachers for&#13;
+transforming classroom processes; teams of excellent resource people at CRC level; training&#13;
+modules for all levels of functionaries, with well-defined roles; developing testing tools in&#13;
+training institutions; assessing performance of schools and teachers; and separate training for&#13;
+teachers of Classes I-II and teachers of Classes III-V. Thus, the programme focuses on&#13;
+revitalizing and re-designing teacher education by empowering institutions at the state, district,&#13;
+and sub-district levels to provide quality teacher education for improved teacher performance.&#13;
+This includes providing institutions with robust training infrastructure; sustainable processes for&#13;
+selection and capacity building of teachers and teacher educators; use of modern information&#13;
+&#13;
+&#13;
+                                                 1&#13;
+&amp;#12;technology; efficient teacher management processes; strong monitoring and evaluation; and&#13;
+social audits of school and teacher performance.&#13;
+&#13;
+Several achievements have been registered in this work. The State has obtained permission from&#13;
+the National Council on Teacher Education (NCTE) to start a Diploma in Elementary Education&#13;
+in 52 government institutions, as well as a Bachelor of Education in four government institutions.&#13;
+Teachers with adequate qualifications have been selected through a rigorous process to become&#13;
+teacher educators, and all are being put through a mandatory direct trainer skills training&#13;
+programme (with some also doing an advanced training programme for trainers). The State aims&#13;
+to develop at least 50 outstanding teacher training campuses with the best possible teacher&#13;
+educators, as well as developing infrastructure and resources teams at CRCs and BRCs to meet&#13;
+teacher development needs. Strong monitoring systems for assessing the progress of children,&#13;
+teachers, and schools have also been put in place.&#13;
+&#13;
+Within this context, there are significant opportunities to harness Information and&#13;
+Communication Technology (ICT) and Open and Distance Learning (ODL) in teacher education,&#13;
+especially to deliver pre-service teacher education. Consequently, the Government of Bihar&#13;
+requested the World Bank to provide support in development of distance education curriculum,&#13;
+related syllabi, content, effective delivery mechanisms, appropriate student support systems, and&#13;
+assessment strategies to meet the needs of its untrained teachers. Many other states and countries&#13;
+are facing similar problems, and will need to prepare comprehensive time-bound plans for&#13;
+untrained teachers to acquire the prescribed qualifications (both academic and professional).&#13;
+Thus, experiences in Bihar might provide models for developing an ICT-based teacher education&#13;
+system that can be used as a useful reference point by others facing similar problems. This report&#13;
+outlines these experiences and shares lessons learned through the process to date.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                2&#13;
+&amp;#12;          CHAPTER 2: FINDING A SUITABLE MODEL FOR BIHAR&#13;
+Design Commencement: Engaging the Stakeholders and the Experts&#13;
+&#13;
+Development of suitable models for implementing large-scale teacher education programmes in&#13;
+a context like Bihar is challenging, for various reasons: it is culturally and geographically unique&#13;
+in many respects; the scale of the challenge and the context of implementation is very large;&#13;
+there are significant infrastructural constraints; and the experiences of harnessing ODL and ICT&#13;
+in developing country contexts are much less well documented than in the developed world.&#13;
+Consequently, the process of exploring suitable models to tackle these challenges in Bihar was&#13;
+initiated by an International Conference, held in Patna in June, 2012, on the Use of ICT in&#13;
+Teacher Education in Bihar. The conference, which brought together over 150 education experts&#13;
+from India and around the world, covered both policy and practice in teacher education, with&#13;
+particular emphasis on the use of ICT and ODL. Discussion reflected on both Indian and&#13;
+international experiences, while group discussion allowed participants to engage with each other&#13;
+to develop with implementable solutions.&#13;
+&#13;
+Key messages from the Conference provided a strong conceptual platform for further planning&#13;
+and design. These included the following key observations:&#13;
+&#13;
+1) Given the challenges facing the State of Bihar, there are many innovative educational&#13;
+   strategies and approaches that have been deployed, both in India and around the world, that&#13;
+   can be effectively harnessed to solve the problem of certifying teachers in the State. New ICT&#13;
+   tools, in particular, offer innovative options for finding creative solutions to the Stateâ&#128;&#153;s&#13;
+   challenges.&#13;
+2) Design and selection of educational strategies and a suitable blend of learning methodologies&#13;
+   in any teacher certification programme needs to take into account contextual realities in&#13;
+   Bihar. Any use of technology identified must be designed to work successfully even in the&#13;
+   most challenging rural environments in the State, and should accommodate the ICT&#13;
+   proficiency levels of students and teacher educators alike.&#13;
+3) Implementation of a teacher certification programme in Bihar needs to focus strongly on&#13;
+   developing institutional capacity for ongoing teacher education in the State that can be&#13;
+   sustained well beyond the life of the project.&#13;
+4) Although ICT and ODL provide excellent strategies for solving the challenge of teacher&#13;
+   education in the State, ODL has historically faced immense challenges when it has not&#13;
+   included sufficient student support. Because of this, it is essential to ensure that effective use&#13;
+   of face-to-face sessions and interaction is integrated into the design of the programme.&#13;
+5) There is a wealth of existing expertise, content (particularly open educational resources or&#13;
+   OER), and other valuable resources available, both within India and internationally. This&#13;
+   should all be harnessed during any programme development process, both to accelerate the&#13;
+   development process and to ensure that the subsequent programme builds on the best of what&#13;
+   is available locally and globally.&#13;
+&#13;
+                                                 3&#13;
+&amp;#12;Strong commitment was expressed by all key players represented in this inaugural Conference to&#13;
+ensure development and delivery of a high quality, innovative ICT-based teacher education&#13;
+programme in Bihar, which simultaneously focuses on building effective institutional capacity&#13;
+and an accompanying ICT infrastructure within the State for ongoing teacher professional&#13;
+development.&#13;
+&#13;
+Exploring Suitable Options&#13;
+&#13;
+Following this Conference, a series of engagements subsequently took place to explore suitable&#13;
+options for teacher education in Bihar. These included widespread consultation with key&#13;
+stakeholders in the State, field visits to teacher education sites and schools, and desktop research&#13;
+exercises. This phase culminated in an intensive three-day workshop on the use of ICT in&#13;
+Teacher Education in Bihar, which was organized by the World Bank in November, 2012. This&#13;
+workshop brought together representatives from the State Council of Educational Research and&#13;
+Training (SCERT), Primary Teachers Education College (PTECs), District Institutes for&#13;
+Education and Training (DIETs), Block Resource Centres (BRCs), and Cluster Resource Centres&#13;
+(CRCs) 1 to define a number of key elements of the proposed teacher education system. Together,&#13;
+these structures represent the key institutional infrastructure for delivery of teacher education in&#13;
+Bihar.&#13;
+&#13;
+This workshop, and the various research and development exercises leading up to it, yielded&#13;
+further important insights regarding the design of a suitable model for teacher education in the&#13;
+State. The immediate priority identified in considering a suitable teacher education system was to&#13;
+begin by defining clear Teacher Standards. Here, it was proposed that the State should lead a&#13;
+process to create explicit Teaching Standards for Bihar that capture the key knowledge, skills&#13;
+and understanding required of practising teachers. Simultaneously, such a process should define&#13;
+key leadership roles for state/district institutions, as well as school principals, in driving school&#13;
+improvement and improving teaching quality. This would include a particular focus on the role&#13;
+of teacher educators and principals in coaching, mentoring, and challenging teachers to improve&#13;
+their practice. Linked to the Teaching Standards, it was identified as essential to introduce&#13;
+systematic approaches to performance management focused on improving teaching, based on the&#13;
+Teaching Standards. Having done this, the final step would be to align pre-service teacher&#13;
+education and Continuing Professional Development in Bihar with the Teaching Standards and&#13;
+an agreed performance management system.&#13;
+&#13;
+Although developing Teaching Standards and a Performance Management System was identified&#13;
+as critical for effective teacher education, it was not as only constituting a starting point. The&#13;
+next priority is then to strengthen institutional capacity within the State to be able to deliver and&#13;
+&#13;
+1&#13;
+  In Bihar, education is organized as follows: the State is broken up into Districts. Each District is then divided into Blocks,&#13;
+which are further broken into Clusters. Thus, CRCs are typically the smallest support centres, closest to individual schools&#13;
+(although, due to geographical positioning and the reality that not all planned CRCs are yet functional, some schools are closer to&#13;
+BRCs than CRCs). The planned infrastructure will ensure that a CRC or BRC is within relatively easy walking distance of all&#13;
+schools in the State, thus facilitating ongoing professional development support for teachers.&#13;
+&#13;
+                                                                 4&#13;
+&amp;#12;support effective teacher education, both pre-service and in-service. In this regard, the following&#13;
+key points were noted during this phase of development:&#13;
+&#13;
+1) It is critical to assess teacher performance on an ongoing basis (using the Teaching Standards&#13;
+   and performance management system) and to incentivize good performance. Support and&#13;
+   development will be needed to equip teacher educators and principals with the skills and&#13;
+   techniques to monitor and evaluate teaching in order to identify strengths and weaknesses&#13;
+   and then to lead and manage appropriate action to improve practice. This will include&#13;
+   coaching, mentoring, and training on specific pedagogical techniques, as well as improving&#13;
+   teachersâ&#128;&#153; subject knowledge through training. Identification of suitable incentives is also&#13;
+   critical.&#13;
+2) Curriculum reform is essential: in this regard, ICT is a key enabler, but it is only one&#13;
+   mechanism amongst many. Most important is to ensure that the design of programmes aligns&#13;
+   to the Teaching Standards, is truly innovative in improving classroom practice, and leads to&#13;
+   measurable improvements in quality and student attainment.&#13;
+3) Strong emphasis is needed on institutional strengthening to deliver both pre-service teacher&#13;
+   education and continuing professional development, with an explicit focus on improving&#13;
+   pedagogy. Of particular importance is to strengthen academic/educational support capacity at&#13;
+   both the DIET/PTEC and CRC/BRC levels, with heavy emphasis on developing capacity and&#13;
+   infrastructure for BRCs and CRCs to be able to function effectively as local learning centres.&#13;
+&#13;
+Key roles and responsibilities were identified for all players. These are summarized below:&#13;
+&#13;
+1) SCERT was identified as the nodal agency for teacher education, responsible for&#13;
+   coordinating and managing the activities of the expected 10,000 teacher educators operating&#13;
+   at different levels across the State. Its responsibilities are to:&#13;
+   a) Undertake ongoing needs assessment to determine priorities;&#13;
+   b) Provide academic support across the system;&#13;
+   c) Undertake continuous development of teacher training programme and materials, linked&#13;
+       to National and Bihar Curriculum Frameworks;&#13;
+   d) Develop capacity of local content developers across state to contribute content;&#13;
+   e) Coordinate deployment of ICT infrastructure for teacher education, as well as ongoing&#13;
+       monitoring of the extent and quality of its use;&#13;
+   f) Prioritize and sequence annual TE targets, followed up by monitoring through Results&#13;
+       Frameworks.&#13;
+2) PTECs and DIETs were identified as the entities responsible for managing teacher education&#13;
+   across the districts, with the following roles and responsibilities:&#13;
+   a) Empowered as model ICT centres;&#13;
+   b) Focus work according to district need, based on regular needs assessment;&#13;
+   c) Manage monitoring and evaluation at district level;&#13;
+   d) Develop model lesson plans and other materials (including subject-based materials for&#13;
+       classroom teaching).&#13;
+&#13;
+                                                5&#13;
+&amp;#12;3) CRCs and BRCs will function as local learning centres, ideally within easy walking distance&#13;
+   of every school in the State, that offer a full range of teacher education activities They will:&#13;
+   a) Function as sites for local group discussions, tutorials, remote teaching sessions, and&#13;
+       other contact sessions;&#13;
+   b) Provide access to ICT for teachers to work through materials, participate in online&#13;
+       activities, view video materials as a group, and so on;&#13;
+   c) Focus on larger-scale, intensive face-to-face support activities where required&#13;
+       (predominantly at BRCs) and provide day-to-day support and facilitation close to school&#13;
+       sites (predominantly at CRCs);&#13;
+   d) Work to develop a common leadership vision with school principals on teacher support;&#13;
+       and&#13;
+   e) Identify and share innovative best practices in schools.&#13;
+&#13;
+During this period, a prototype ICT architecture was also designed. Several options were&#13;
+considered in this regard, including a highly ambitious plan to distribute individual devices (such&#13;
+as cheap laptops or â&#128;&#152;netbooksâ&#128;&#153;) to each of the teacher trainees. This option was seen as&#13;
+educationally ideal but financially and logistically unfeasible (particularly as it would likely&#13;
+generate frustration amongst those teachers employed in Bihar who did not participate in the&#13;
+subsequent certification programmes and thus did not receive such a device).&#13;
+&#13;
+Consequently, the subsequent ICT architecture focused on capacitating the institutions&#13;
+themselves, based on the following broad parameters:&#13;
+&#13;
+1) All content and interactive facilities should be made accessible online from the centre via&#13;
+   online, cloud-based applications and systems, managed by the SCERT.&#13;
+2) PTECs, DIETs, BRCs, and CRCs should all be equipped with:&#13;
+   a) Thin-client networks, with the capacity to store content and systems locally when Internet&#13;
+       services are disrupted;&#13;
+   b) Enough workstations to meet needs of teachers who access these facilities (fewest&#13;
+       required at CRC level and most at PTEC/DIET level);&#13;
+   c) Data projector/s to enable group engagement with materials, watching videos, lecture&#13;
+       presentations, and remote teaching sessions;&#13;
+   d) Alternative energy solutions (solar, bio-mass, generator, and so on) to ensure reliable&#13;
+       energy supply where there is no electricity.&#13;
+3) Every teacher educator should be provided a netbook-type device to facilitate mobile&#13;
+   support, ongoing access to content and facilities, communication up and down hierarchy,&#13;
+   peer support, and networking.&#13;
+4) Options should be developed and made available to teachers to procure their own devices (at&#13;
+   their own cost) through preferential (bulk) purchasing arrangements arranged by the State, in&#13;
+   order to develop a culture of ownership and access to ICT amongst teachers.&#13;
+&#13;
+&#13;
+&#13;
+                                                6&#13;
+&amp;#12;These choices were based on the infrastructural realities of Bihar, taking into account constraints&#13;
+in electricity supply, connectivity coverage, availability of local technical expertise to support&#13;
+ICT installations, and the realities of often extreme climatic conditions in the State. Thin client&#13;
+networks were identified as a relatively low maintenance, low-power, and cheap alternative to&#13;
+traditional fat client networks. Success in having deployed thin client networks into schools in&#13;
+the State also indicated that this computing model would work well for teacher education in&#13;
+Bihar.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                7&#13;
+&amp;#12;      CHAPTER 3: THE DIPLOMA OF ELEMENTARY EDUCATION&#13;
+With these basic parameters in place, it became possible to commence the detailed design of a&#13;
+suitable programme and systemic capacity to meet the teacher capacity needs of Bihar. The&#13;
+immediate priority was to design a Diploma of Elementary Education (Open and Distance&#13;
+Learning), D.El.Ed (ODL) that would allow for the large-scale upgrading of the knowledge and&#13;
+classroom competences of unqualified, in-service elementary school teachers.&#13;
+&#13;
+Programme Design&#13;
+&#13;
+Design of the curriculum for the D.El.Ed (ODL) was coordinated by the SCERT, with technical&#13;
+support provided by the World Bank. This design focused on implementation of an ICT-&#13;
+supported distance learning programme. The programme subsequently designed is based on the&#13;
+agreed Bihar Curriculum Framework, and comprises the following elements:&#13;
+&#13;
+A. Core/Foundation/Fundamental/Theory [this component deals with questions of WHAT to&#13;
+   teach and WHY].&#13;
+B. Methods/Pedagogy [this component deals with HOW to teach taking into account the needs&#13;
+   of different children, contexts and subjects].&#13;
+C. Practical/ Internship [this component calls for reflexive practice. It involves field activities,&#13;
+   co-curricular and extra-curricular activities that are classroom and school-based and require&#13;
+   teacher- students to use theory to guide and interrogate practice and in turn to generalize&#13;
+   theory from practice.].&#13;
+&#13;
+The three components will be taught in an integrated way.&#13;
+&#13;
+The D.El.Ed (ODL) will comprise 70% self- and classroom-based learning from printed&#13;
+materials especially designed for purpose and 30% contact-based support in the form of&#13;
+orientation workshops at the start of each semester, as well as contact sessions on Sundays. The&#13;
+contact sessions will happen in study centres (SCERT, DIETs, PTECs, BRCs, and CRCs), that&#13;
+have been equipped with ICT facilities. This will allow teacher students to develop knowledge&#13;
+and skills progressively to integrate appropriate technology into their teaching and learning&#13;
+interactions.&#13;
+&#13;
+The two key components of the programme are high quality learning resources and a robust, pre-&#13;
+emptive support strategy geared towards maximizing improved classroom practice and student&#13;
+throughput. The programme will extend over two years, divided into four semesters.&#13;
+Mechanisms for change include print-based self-learning resources that are activity-based and&#13;
+model an approach to learning that sees knowledge as constructed and contested. This approach&#13;
+will be further reinforced during workshops and contact sessions so that the programme is seen&#13;
+to â&#128;&#152;practise what it preachesâ&#128;&#153;. A variety of media will be used to support this process, for&#13;
+example, watching short videos of classroom practice at a contact session and discussing&#13;
+evidence of good practice and possibilities for improvement. This will also model a collaborative&#13;
+&#13;
+                                                 8&#13;
+&amp;#12;learning approach and hopefully lead to the formation of a professional community of practice&#13;
+that continues even after students have graduated from the programme. In-course activities,&#13;
+formative and summative assessment, and the feedback thereon will be focused towards&#13;
+improved classroom practice and evidence of improved pupil attainment.&#13;
+&#13;
+The main emphasis of the D.El.Ed (ODL) is on improving the quality of teaching practice.&#13;
+Numerous course activities and assessment opportunities focus on ensuring that pedagogical&#13;
+theory is transferred into effective classroom methods and techniques. A team of facilitators&#13;
+working from dedicated Study Centres will be employed to facilitate this growth though&#13;
+observation and mentorship. The D.El.Ed (ODL) is therefore not an online programme, but&#13;
+rather an ICT-supported programme. However, to ensure meaningful exposure to ICT, students&#13;
+will be required to engage with components of the curriculum using computers situated in Study&#13;
+Centres. Student access to computers, either at Study Centres or via their own digital devices,&#13;
+will be necessary for students to complete the course.&#13;
+&#13;
+Student Assessment&#13;
+&#13;
+The assessment strategy is integral to the design of the curriculum, and is intended to privilege&#13;
+requirements for and evidence of improved classroom practice. It is also designed to be&#13;
+manageable for students who are already in full-time employment as teachers. The following&#13;
+diagram illustrates the ways in which the assessment strategy in the programme needs to&#13;
+reinforce improved practice in an integrated way.&#13;
+&#13;
+                      Figure 1 Towards an integrated assessment strategy&#13;
+&#13;
+&#13;
+                                           Self-&#13;
+                                        assessment&#13;
+&#13;
+&#13;
+                                        Formative&#13;
+                                        assessment&#13;
+&#13;
+&#13;
+                                        Summative&#13;
+                                        assessment&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                        Improved&#13;
+                                        classroom&#13;
+                                         practice&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                9&#13;
+&amp;#12;Given that increased learner engagement in the classroom is a desired outcome of the teacher&#13;
+development programme, this needs to be modelled in the distance learning programme through&#13;
+an activity-based approach that requires teacher-students to engage with, critique and&#13;
+problematize content and not simply memorize it. Given also that, for 60% of the time, teacher-&#13;
+students are working independently, the learning resources provided will offer sufficient&#13;
+feedback on the in-resource activities to enable meaningful self-assessment.&#13;
+&#13;
+From a design perspective, it is important that the activities and feedback for self-assessment are&#13;
+varied and challenging enough to develop the knowledge and skills required for formal&#13;
+assignments and formative feedback thereon. Constructive formative feedback on assignments is&#13;
+needed to help students pace themselves and to confirm their self-assessment. It must be&#13;
+provided timeously so that students can learn from one assignment to improve the next. Overall,&#13;
+the assignments provided for formative assessment need to provide sufficient scaffolding for&#13;
+effective completion of time-bound and proctored summative assessment tasks. These&#13;
+summative assessment tasks need to require teacher-students to make explicit the theory that&#13;
+informs their practice and vice versa.&#13;
+&#13;
+In the complex practice of teaching, students will draw on learning from several Papers and other&#13;
+programme elements simultaneously. Hence, there is a need to include in the programme design&#13;
+elements that focus explicitly on classroom practice. With this in mind, the programme&#13;
+assessment approach is as follows:&#13;
+&#13;
+â&#128;¢ Assessment involves a combination of assignments, presentations, case studies, projects,&#13;
+  group work, group discussions, teaching practices, demonstration classes, simulation classes,&#13;
+  critical lessons, final teaching, observations (by senior teachers in schools), and summative&#13;
+  or theory final examinations, split 50 + 50 for applied theory and practicals.&#13;
+â&#128;¢ A group of students may also be attached to a teacher educator/counsellor for evaluations of&#13;
+  some assignments, projects.&#13;
+â&#128;¢ Students complete 3 assignments for each of the eight core papers each year, counting for&#13;
+  40% of the final mark.&#13;
+â&#128;¢ Students also write an examination for each paper, counting for 60% of the final mark.&#13;
+â&#128;¢ For the two non-core courses each year, there are two assignments counting 40% and some&#13;
+  form of summative assessment e.g. ICT practicum or lesson planning/observation counting&#13;
+  60%. [It is felt that a 20%/80% split would be better.]&#13;
+&#13;
+Continuous assessment will be coordinated by Study Centre coordinators/facilitators.&#13;
+&#13;
+There will be two major terminal examinations. At the end of the first year SCERT will conduct&#13;
+an examination which will be held at the DIETs and PTECs and in the second year the Bihar&#13;
+School examination Board will conduct the final year examination. The Board is a statutory body&#13;
+with adequate regulatory powers for conducting these examinations.&#13;
+&#13;
+&#13;
+&#13;
+                                                10&#13;
+&amp;#12;Students must meet a 50% pass (aggregate for all subjects), with a minimum of 45% marks for&#13;
+each subject, in order to proceed; not more than two modules can be repeated concurrently.&#13;
+Feedback is an essential part of the teaching-learning process. For example, the experienced&#13;
+teacher, the school-based mentor and the teacher educator or counsellor will sit together to&#13;
+discuss the strengths and shortcomings of an observed lesson, against a supplied rubric, and&#13;
+outline actions for further improvement. Formative assessment will play a number of roles&#13;
+including, but not limited to, helping both students and teacher educators gauge progress as well&#13;
+as pace the learning process leading to summative assessment.&#13;
+&#13;
+Student Support&#13;
+&#13;
+Support will be provided at different levels:&#13;
+&#13;
+                            Figure 2 Integrated student support model&#13;
+&#13;
+&#13;
+                                           Schools:&#13;
+                                          supporting&#13;
+                                           practice&#13;
+&#13;
+                                          Study centres:&#13;
+                                       a forum for weekly&#13;
+                                         discussions and&#13;
+                                           ICT access&#13;
+&#13;
+&#13;
+                                           DIETs/PTECs:&#13;
+                                        providing support to&#13;
+                                            study centres&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                               SCERT&#13;
+                                         Management and&#13;
+                                        quality assurance of&#13;
+                                             the system&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+First is the state level, represented by SCERT, which will comprise the following departments:&#13;
+Student Support, Academic, Administration, Training and Materials Supply. SCERT will:&#13;
+&#13;
+â&#128;¢ Ensure that the curriculum meets national and state requirements;&#13;
+â&#128;¢ Develop learning resources to support the curriculum;&#13;
+â&#128;¢ Create a content repository comprising OER (Indian and international), as well as collecting&#13;
+  and digitizing available resources with Bihar SIET and other SIETs;&#13;
+â&#128;¢ Develop summative assessment instruments to support the curriculum for year 1;&#13;
+â&#128;¢ Liaise with Bihar State Examination Board for summative assessment in year 2;&#13;
+â&#128;¢ Monitor the quality of provision at study centres;&#13;
+&#13;
+&#13;
+                                                      11&#13;
+&amp;#12;â&#128;¢ Host and maintain an integrated ICT system;&#13;
+â&#128;¢ Track student progress, identify students at risk, and initiate supportive interventions if not&#13;
+  already in process.&#13;
+&#13;
+Study centres will provide support as follows:&#13;
+&#13;
+â&#128;¢ There will be weekly meetings at study centres for discussions on progress and challenges,&#13;
+  including lessons planned and taught for the programme, and to download materials updates,&#13;
+  upload assignments and/or contribute to ongoing discussions. Each session involves groups&#13;
+  of 20-30 teachers. Discussions are led by qualified teacher educators.&#13;
+â&#128;¢ Students also attend a 40 hour orientation workshop each semester at designated study&#13;
+  centres.&#13;
+â&#128;¢ The study centre teacher educator tracks student progress and escalates common problems up&#13;
+  to nodal DIET/PTEC or to SCERT staff as appropriate.&#13;
+&#13;
+Schools will also provide support of different kinds:&#13;
+&#13;
+â&#128;¢ School- and classroom-based practicals will be supported and assessed at school level.&#13;
+â&#128;¢ Practice teaching, demonstration classes, and school-based activities etc. will be conducted&#13;
+  under the supervision of a mentor, a teacher educator or counsellor from the related study&#13;
+  centre, and/or a senior teacher.&#13;
+â&#128;¢ The head of the school will work as mentor, and an experienced teacher will evaluate the&#13;
+  lessons.&#13;
+â&#128;¢ Very small schools will need to be linked with larger schools for support.&#13;
+â&#128;¢ Handbooks/rubrics, training and support will be needed for school-based support staff.&#13;
+&#13;
+Sunday discussions will be divided into four categories: reading materials discussion; assignment&#13;
+related discussion; day-to-day problems faced in the classroom; and ICT practice and integration.&#13;
+Attendance will be compulsory since the programme is offered at no cost to students. A&#13;
+minimum attendance requirement (possibly 80%) will be implemented.&#13;
+&#13;
+A five-day workshop will take place at the start of each semester; preferably during school&#13;
+vacations. The workshops will aim to: model good practice, including simulated and micro&#13;
+teaching; consolidate practical competences such as timetable development, lesson planning, and&#13;
+action research competences; and provide an orientation to the practical and assessment activities&#13;
+of the semester.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                 12&#13;
+&amp;#12;Proposed ICT Architecture&#13;
+&#13;
+ICT Architecture Overview&#13;
+&#13;
+Rollout of ICT infrastructure will be synchronized with the enrolment of students into the&#13;
+programme, on a district-by-district basis. The ICT architecture has, at its centre, a hosting server&#13;
+maintained and supported by the SCERT. The server will host a Learner Management System&#13;
+(LMS) whose functions include registration of student enrolments, provision of a teaching and&#13;
+learning platform, storing and distributing digital programme resources, collecting student&#13;
+submissions, tracking student activity, and calculating student grades.&#13;
+&#13;
+Students registered for the diploma will access the server from their allocated Study Centres.&#13;
+These Study Centres are designed to provide students with access to thin client work stations that&#13;
+connect to the SCERT server via the Internet, using either ADSL or 3G connectivity. In addition,&#13;
+though, all Study Centres will be synchronized regularly with the SCERT servers so that all&#13;
+content and systems are locally accessible when there is no Internet access. Thus, thin client&#13;
+network servers will need to be sufficiently large to facilitate local storage of all course content,&#13;
+while it is proposed that each thin client network comprise at least two servers to build hardware&#13;
+redundancy into the architecture. In addition, it will be necessary to ensure that all equipment is&#13;
+both dust- and heat-resistant.&#13;
+&#13;
+Study Centres will provide local Wi-Fi connectivity, allowing students to use their own devices&#13;
+if they have them (netbooks, tablets, smart phones, and so on) to connect directly with the local&#13;
+server and course LMS. Study Centres will be equipped with clean energy power solutions,&#13;
+either to provide a primary power source where there is no grid electricity or to compensate for&#13;
+intermittent or inadequate electricity supply via the grid. To facilitate this, all equipment&#13;
+procured across the entire system will need to be energy efficient as a key requirement.&#13;
+&#13;
+Consequently, at Study Centres, students will be assured of computer access, connectivity, and&#13;
+power, as well as the mentoring services of the Study Centre coordinator. Students will interact&#13;
+with computer-based learning for a minimum of four hours per week, although the centre will be&#13;
+open to them throughout the week. Access to a Study Centre is thus crucial to the teacher&#13;
+education design model for Bihar. This means that they need to be close to teachersâ&#128;&#153; schools.&#13;
+Consequently, the local CRC will typically be the most logical place to locate Study Centres,&#13;
+while BRCs can also serve as Study Centres when they are close to studentsâ&#128;&#153; schools. Likewise,&#13;
+PTECs and DIETs will function as Study Centres.&#13;
+&#13;
+There will also be training facilities at SCERT set up to operate in the same way as the other&#13;
+Study Centre nodes. These venues will be used to train coordinators who will operate and&#13;
+perform basic maintenance at the CRC, BRT, PTEC and DIET Study Centres. Thus, the ICT&#13;
+&#13;
+&#13;
+&#13;
+                                                 13&#13;
+&amp;#12;architecture can be summarized as a series of concentric circles providing wide access to support&#13;
+across the state:&#13;
+&#13;
+                      Figure 3 ICT Architecture from Centre to Periphery&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+The architecture summarized above supports two-way communication between the various study&#13;
+centres and the central SCERT server. Students will access materials from the central LMS, but&#13;
+will also submit assignments and their progress will be systematically tracked (including&#13;
+progress through activities, time spent on computers, assessment progress, and so on). They will&#13;
+also be able to communicate with each other, with mentors, and with central SCERT support&#13;
+structures. Once this communication infrastructure is in place, it can be used by the Government&#13;
+of Bihar for a wide range of educational communication requirements, while also supporting&#13;
+more general development of professional communities of practice across the state. Thus, this is&#13;
+a highly flexible, decentralized ICT architecture designed to accommodate the contextual&#13;
+realities of Bihar.&#13;
+&#13;
+A key design issue was how best to integrate ICT into the programme in such a way that students&#13;
+are forced to engage with the technology, even though they will not have access to it on an&#13;
+individual basis in their respective classrooms. It was thus proposed that the self-&#13;
+assessment/reflection activity at the end of each unit or sub-unit of learning should be mandatory&#13;
+and completed on one of the Study Centreâ&#128;&#153;s computers during the first 15 minutes of the Sunday&#13;
+session. The self-reflective activity will include tasks where the student can capture their&#13;
+experiences and thoughts, but also include survey type questions designed to collect quantitative&#13;
+data. This has a number of benefits for SCERT, the mentor, and the student as it:&#13;
+&#13;
+â&#128;¢ Ensures that the student is forced to engage with the computers on a weekly basis and hence&#13;
+  acquire soft skills in the process.&#13;
+â&#128;¢ Provides an opportunity for the students to see their growth as each weekâ&#128;&#153;s reflection maps&#13;
+  their learning journey.&#13;
+&#13;
+                                               14&#13;
+&amp;#12;â&#128;¢ Allows the mentor to quickly identify issues within the weekâ&#128;&#153;s work that many of the&#13;
+  participants are struggling with and needs to be the focus for that dayâ&#128;&#153;s discussions.&#13;
+â&#128;¢ Provides SCERT with a log of each individual who has logged in and completed their self-&#13;
+  reflection activity, thus tracking absenteeism from those who have not completed the activity.&#13;
+â&#128;¢ Provides SCERT with data from across the state to perform diagnostic analysis of the&#13;
+  effectiveness of each weekâ&#128;&#153;s course activities. With this data, problems within course&#13;
+  materials can be identified and revised.&#13;
+&#13;
+SCERT Central Server and Learner Management System&#13;
+&#13;
+SCERT, located in Patna, will be the coordinating agency for teacher education in State. As part&#13;
+of this responsibility, it will coordinate the rollout of the Study Centre model described above, as&#13;
+well as overseeing its deployment into CRCs, BRCs, DIETs, and PTECs. A central SCERT&#13;
+server, hosting key programmatic applications, will be central to teacher education, dispensing&#13;
+content, collecting data, monitoring progress, and facilitating communication. In addition,&#13;
+SCERT will act as a venue for the training of Study Centre coordinators so that they can&#13;
+confidently access, use, and maintain the ICT facilities being deployed across the State.&#13;
+&#13;
+Given this, SCERT will be required to deploy and manage a suitable Server Cluster for all online&#13;
+ICT applications, which will disperse and collect data and communication across all Study&#13;
+Centre nodes (either at SCERT or in partnership with a suitable Internet Service Provider). This&#13;
+server cluster, made up of web and database servers, will need to serve a potential Sunday&#13;
+student audience of as many as 40,000 concurrent users. For every 10,000 concurrent&#13;
+connections, five web servers and two database servers are required to support traffic. 2 Beside&#13;
+weekend traffic spikes, the central systems need to be operational 24 hours a day to encourage&#13;
+students to access course materials using their own devices. To mitigate against the risk of hard&#13;
+disk failure, a swappable system, such as RAID, will need to be incorporated into the server&#13;
+design to minimize down time and loss of data.&#13;
+&#13;
+The central servers will be collecting data about student progress and storing student course&#13;
+submissions, as well as managing all communication across the State. A scheduled back-up will&#13;
+thus be required either continuously or at least on a 24 hour basis in order to protect data. A&#13;
+back-up solution is thus required for the server cluster. In addition, the servers and&#13;
+communication infrastructure should be deployed on an isolated network segment front-ended by&#13;
+a shared firewall. This will prevent denial-of-service attacks, as well as providing additional&#13;
+security from hacker attempts. The servers should also run anti-virus software to monitor files&#13;
+uploaded and shared by students.&#13;
+&#13;
+The servers should be proactively monitored to identify actual and, to the best of ability,&#13;
+potential faults and errors, with a view to fixing errors or producing a proposed plan of action to&#13;
+mitigate potential problems. The hosting environment will need to be provided with backbone-&#13;
+&#13;
+2&#13;
+    See discussion on the Moodle Community website for an example: https://moodle.org/mod/forum/discuss.php?d=111847&#13;
+&#13;
+                                                             15&#13;
+&amp;#12;class Internet connectivity, ensuring maximum resilience and performance from the Indian and&#13;
+international Internet. Finally, as the electricity powering the server comes from numerous&#13;
+sources, it will be necessary to have a voltage spike protector to ensure that any supply of voltage&#13;
+above safe levels is diverted to ground.&#13;
+&#13;
+The follow software will be required on the SCERT server cluster:&#13;
+&#13;
+â&#128;¢ Operating System (OS) - The server cluster will run an open source operating system.&#13;
+  Popular systems include Ubuntu, Centos, Fedora and Suse. 3 These systems are cost effective&#13;
+  and have a good international support base which can be used to overcome installation and&#13;
+  maintenance issues.&#13;
+â&#128;¢ Learner Management System (LMS) â&#128;&#147; An open source option for the LMS is also advised&#13;
+  for similar reasons as stated for the OS. Popular and well supported open source LMS&#13;
+  options include Moodle and Sakai. A new open source alternative that is gaining support,&#13;
+  which offers cloud hosting as an additional service, is the Canvas platform.&#13;
+â&#128;¢ Video-streaming server â&#128;&#147; SCERT has inherited a collection of video resources developed by&#13;
+  the State Institute of Educational Technology (SIET). There are potentially hundreds of&#13;
+  curriculum based videos that could be converted into a digital format and distributed using&#13;
+  the new server cluster. An alternative to this might be to partner with YouTube for delivery&#13;
+  of video content.&#13;
+â&#128;¢ Link to Teacher Education Management Information System (TEMIS), for management and&#13;
+  administration purposes.&#13;
+â&#128;¢ Other specialized software as defined by the requirements of individual teacher education&#13;
+  programmes.&#13;
+&#13;
+ICT Infrastructure Across the System&#13;
+&#13;
+As has been noted, thin client networks are envisaged as the preferred device solution across the&#13;
+system. Thin-client networks link individual work stations to a host computer. The works&#13;
+stations are in effect intelligent clusters of monitors, keyboards and mice that use the processing&#13;
+power of the host computer to perform tasks. Some thin-client networks can support up to 100&#13;
+workstations from one host. 4 A typical thin client set up is illustrated in the diagram below. 5&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+3&#13;
+  See Wikipedia for a more comprehensive list at http://en.wikipedia.org/wiki/Linux_distributions#Popular_distributions&#13;
+4&#13;
+  This statistic refers to the NComputing education solution: http://www.ncomputing.com/solutions/education&#13;
+5&#13;
+  This diagram shows a small MS Multipoint Server thin client set up: Available online at http://technet.microsoft.com/en-&#13;
+us/library/jj916390.aspx&#13;
+&#13;
+                                                               16&#13;
+&amp;#12;                               Figure 4 Thin-client Network Setup&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Thin client networks used in the training centres at SCERT, DIETs, PTECs, BRCs, and CRCs&#13;
+will all share the same architecture, but will vary in size according to specific needs.&#13;
+&#13;
+The following peripherals will also be needed to support the thin client networks at each Study&#13;
+Centre.&#13;
+&#13;
+â&#128;¢ Printer/Scanner/Copier â&#128;&#147; A printing device will be added to each network to allow for small&#13;
+  runs of paper-based documents for classroom use. Due to energy constraints, it is important&#13;
+  that energy-efficient appliances are procured. Printer consumables, ink and paper will also be&#13;
+  required. However, printing at micro level is expensive, so only small print jobs of essential&#13;
+  documents will be printed at the Study Centres. Large anticipated paper runs will be&#13;
+  coordinated through the State printer. In order to digitize paper-based materials, such as&#13;
+  student assignments that are to be submitted directly to the SCERT server, a scanning device&#13;
+  will be included in the Study Centre installation. In order to serve both print and scan&#13;
+  functions a single Printer/Scanner/Copier combination device will be installed in the Study&#13;
+  Centre at BRC and CRC level, while dedicated devices for each function might be required at&#13;
+  the DIET, PTEC, and SCERT level.&#13;
+â&#128;¢ Monitor / Projector â&#128;&#147; In order to allow the students and mentors to refer to digital resources,&#13;
+  a ceiling- or wall-mounted LCD monitor will be mounted and connected to the thin client&#13;
+  network. Any smaller and the usefulness of the equipment is nullified as text becomes almost&#13;
+  impossible to read. For Study Centres that host 20 or more students, a data projector will be&#13;
+  required in place of a wall monitor.&#13;
+â&#128;¢ Uninterrupted Power Supply (UPS) â&#128;&#147; To ensure a timely shut down of the server during&#13;
+  times when there is a disruption in the power supply, or to stop the server â&#128;&#152;going downâ&#128;&#153; when&#13;
+  there is a temporary lull before the alternate power source cuts in it, is also important to have&#13;
+  a UPS connected to the thin client network to provide short term temporary power in the&#13;
+  event of power loss. In addition, this facility should modulate power flow to protect the&#13;
+  equipment against unforeseen power surges.&#13;
+â&#128;¢ Netbook â&#128;&#147; all teacher educators across the system will be supplied with a Netbook, with 3G&#13;
+  capability, to ensure that they have full-time access to the courseware, facilitation notes,&#13;
+&#13;
+                                                17&#13;
+&amp;#12;   resources, and communication tools needed to provide ongoing support to teacher trainees.&#13;
+   They will be able to use the centre connectivity to access the SCERT server.&#13;
+&#13;
+Study Centres will need to be connected to the SCERT server via the Internet. To create this&#13;
+Internet link, two options can be deployed based on availability of infrastructure in the area:&#13;
+&#13;
+â&#128;¢ Asymmetric Digital Subscriber Lines (ADSL) can be deployed in those areas where the&#13;
+  telecommunications infrastructure exists. ADSL solutions use existing copper telephone&#13;
+  wires. The ADSL technology â&#128;&#152;splitsâ&#128;&#153; the wires so that both voice signals and data can use the&#13;
+  line concurrently. ADSL is usually a last-mile solution and runs from telephone exchanges in&#13;
+  a radius of 4-8km.&#13;
+â&#128;¢ Alternatively 3G (3rd Generation) networks can be used. They use a different infrastructure&#13;
+  based on mobile technology and are available usually where cellular telephone penetration&#13;
+  exists. Dongles (USB modems) are usually associated with this method of connecting to the&#13;
+  Internet.&#13;
+&#13;
+The Study Centre, will also provide local connectivity for students using a Wi-Fi network.&#13;
+Students can access the course materials on their own digital devices where they have they them,&#13;
+whether these be netbooks, laptops, tablets or smart phones.&#13;
+&#13;
+Building Structure Requirements&#13;
+&#13;
+All of the above ICT infrastructure needs to be hosted in flexible tutorial facilities, which can be&#13;
+used for both tutorial sessions and self-study. These buildings will all require the following:&#13;
+&#13;
+â&#128;¢ Security â&#128;&#147; Windows, entrances, walls, and all apertures (such as air conditioning and power&#13;
+  ducts) will need to be designed to prevent theft of equipment. The computer room will be a&#13;
+  â&#128;&#152;lock-up &amp; goâ&#128;&#153; facility where it is quick and easy to secure. Steel doors, window shutters,&#13;
+  burglar guards are standard.&#13;
+â&#128;¢ Natural Elements â&#128;&#147; The design will ensure that the facility is raised off the ground, especially&#13;
+  where there is a local risk of flooding. Piles or a concrete slab can be constructed to achieve&#13;
+  this. An accompanying set of stairs might be necessary in some instances and this option&#13;
+  needs to exist for those sites where this is needed. Each building will also be equipped with&#13;
+  suitable firefighting equipment.&#13;
+â&#128;¢ Limited Space â&#128;&#147; In those schools, especially in urban or peri-urban locations, where space is&#13;
+  limited, the study centre computer facility can be assembled on the roofs of existing ground&#13;
+  floor buildings. Many of these buildings were built to bear the weight of a second floor, but&#13;
+  never received funding to do so. However, this should be verified at each site before&#13;
+  construction commences.&#13;
+&#13;
+At all levels, SCERT to CRC, power supply is imperative to ensure the ICT infrastructure is&#13;
+operational. Where possible, Study Centres will use power from the national electricity grid. The&#13;
+reality, however, is that electricity supply is often disrupted, even in urban areas. Also, for many&#13;
+&#13;
+                                                18&#13;
+&amp;#12;schools, there is no electricity from the grid. Consequently alternative power solutions are&#13;
+required.&#13;
+&#13;
+The anticipated power demands of a typical 20 Thin Client Study Centre using energy efficient&#13;
+appliances include:&#13;
+&#13;
+Table 1      ICT Equipment Power Requirements&#13;
+&#13;
+    Energy Efficient Appliances                      Typical Consumption&#13;
+1 Host Computer                                      0.2 KW&#13;
+20 Thin Client work stations with monitors 2.1 KW&#13;
+    running 6&#13;
+1 Window air conditioner 7                           1.4 KW&#13;
+                             8&#13;
+2 Energy saver light bulbs (18 watt)                 0.036 KW&#13;
+                                               9&#13;
+1 Energy efficient Printer / Scanner / Copier        0.040 KW active, 0.006 KW standby&#13;
+                   10&#13;
+1 Digital display                                    0.160 KW active, 0.001 KW standby&#13;
+1 ADSL Router                                        0.006 KW&#13;
+The Study centres will therefore require access to clean energy solutions:&#13;
+&#13;
+Bihar faces acute energy shortages, with annual energy deficit in Bihar ranging from 13% to&#13;
+21% in the six-year period from 2008 to 2013. During the same period, the peak deficit in Bihar&#13;
+has been in the range of 14% to 34%. Many people also still do not have access to the grid&#13;
+supply, while around 83% of the households are not electrified (most of which are in remote or&#13;
+far-flung areas). As part of the enabling infrastructure, there is a need to provide a reliable and a&#13;
+cost-effective alternate energy source for energizing the ICT equipment under the project. Bihar&#13;
+is blessed with significant renewable energy sources which can be exploited to alleviate the&#13;
+situation. Given this situation, the ICT architecture considered various potential solutions:&#13;
+&#13;
+â&#128;¢   Solar â&#128;&#147; Atop the study centre, solar panels can collect power from the sun. This energy can&#13;
+    be stored in an inverter when not required or when demand is less than supply. A typical&#13;
+    solar power system deployed for schools can produce 5 KW of power, although this may not&#13;
+    be sufficient to run the facility reliably. 11 Power requirements to run an energy-efficient, thin-&#13;
+    client network of 20 terminals and host computer is estimated to be 2.1 KW (but more&#13;
+&#13;
+6&#13;
+  Drawn from Wyse Technologies.(ND). Desktop Energy consumption: A comparison of Thin Clients and PCs. Available at&#13;
+www.athena.dk/files/UserDir/Documents/energy_study.pdf p.&#13;
+7&#13;
+  http://michaelbluejay.com/electricity/cooling.html&#13;
+8&#13;
+  Based on the Philips â&#128;&#152;Genieâ&#128;&#153; bulb:&#13;
+http://www.philips.co.za/consumerfiles/pageitems/master/categorypages/energysavers/assets/pdf/Switch%20Guide%20(version&#13;
+%20for%20consumer,%20May%202009).pdf&#13;
+9&#13;
+  These figures based on the Energy Star rated HP OfficeJet 7710 All-in-one Printer at&#13;
+http://h10025.www1.hp.com/ewfrf/wc/document?docname=c00839084&amp;tmp_track_link=ot_faqs/top_issues/en_us/c00839084/lo&#13;
+c:1&amp;cc=us&amp;dlc=en&amp;lc=en&amp;product=3330793#N2057&#13;
+10&#13;
+   Based on the NEC 55â&#128;&#157; Large screen display: http://www.necdisplay.com/p/large--screen-displays/e553&#13;
+11&#13;
+   See installation at BRCM Public School, Kolkata for an example http://www.vikramsolar.com/projects/commercial/105-brcm-&#13;
+public-school&#13;
+&#13;
+                                                           19&#13;
+&amp;#12;     detailed analysis is required to verify this). Additional power demands will come from an air&#13;
+     conditioner, lighting, printer, scanner, and display unit.&#13;
+â&#128;¢    Wind â&#128;&#147; Bihar is not characterized by high wind power density, with less than 200 W/m2&#13;
+     being reported in one study. 12 Ideally, a minimum of 200 W/Sq.m is recommended. 13&#13;
+     However, this is worth investigating further. A number of options are worth exploring, such&#13;
+     as small wind turbines designed for residential use, between 2-7m in diameter. These weigh&#13;
+     as little as 16kg and are generally very quiet. Ideally, they need to be 9m higher than&#13;
+     anything within a range of 150m. These small scale turbines can generate 300-10,000 watts&#13;
+     in the right wind conditions. 14 A larger, more substantial installation like the qr5 turbine can&#13;
+     be installed on a 15m tower or 6m roof mast. The turbine itself is 5.5m tall and 3.1m in&#13;
+     diameter, and is reported to generate between 6.5 and 8.5 KW in a wind of 16m/sec. 15 All&#13;
+     power generated using wind would be stored in the Study Centreâ&#128;&#153;s inverter and battery bank.&#13;
+â&#128;¢    Inverter and Battery Bankâ&#128;&#147; an invertor converts low voltage DC power generated by solar&#13;
+     panels or wind turbines to 120 volts AC that can be used to either run study centre appliances&#13;
+     directly or charge a bank of batteries connected to a utility grid. The advantage of having&#13;
+     batteries is that, when power is not being used by the centre but is still being generated by the&#13;
+     solar or wind systems, it is stored for later use.&#13;
+&#13;
+In this context, after conducting a thorough analysis of available renewable energy technologies&#13;
+in Bihar and their suitability with the proposed ICT load requirement, solar energy has been&#13;
+considered as the most viable option. Based on the analysis, solar PV technology was found to&#13;
+have greater acceptability and technology adaption for the requirements of teacher training&#13;
+infrastructure spread across the state.&#13;
+&#13;
+The proposed technical design proposes a solar grid hybrid with storage and manual switchover&#13;
+facility for DG set option. It also considers and mitigates certain critical issues unique to the&#13;
+local conditions in the state, including the threat of theft and vandalism, as well as lack of&#13;
+training and knowledge about Solar PV for the field education department staff. Training needs&#13;
+are proposed to be met through involvement of the project developer in the annual maintenance&#13;
+contract (AMC).&#13;
+&#13;
+A quantitative assessment of daily energy requirement of ICT loads in the given conditions&#13;
+indicates a daily energy requirement for various categories of institutions ranging from 5.3 kWh&#13;
+for a BRC/CRC, 23.8 kWh for a DIET/ PTTEC, and 32.6 kWh for SCERT. A total solar PV&#13;
+capacity of 607 kW is estimated for the pilot phase, which will cover SCERT and 150 additional&#13;
+sites. The capacity for the entire program, covering 1,201 teachers training institutes, will be&#13;
+around 2,600 kW.&#13;
+&#13;
+&#13;
+12&#13;
+   See Wind Resources Map on the Indian Wind Power website at http://www.indianwindpower.com/wind-map.php&#13;
+13&#13;
+   See Gross Wind Power Potential report: http://www.indianwindpower.com/pdf/Gross%20Potential%20Wind%20Energy.pdf&#13;
+14&#13;
+   See Wikipedia http://en.wikipedia.org/wiki/Small_wind_turbine&#13;
+15&#13;
+   See Quiet Revolution http://www.quietrevolution.com/qr5/qr5-turbine.htm&#13;
+&#13;
+                                                        20&#13;
+&amp;#12;Human Resource Requirements&#13;
+&#13;
+Clearly a system of this scale requires a wide range of human resources to function effectively.&#13;
+Although detailed analysis of these requirements was beyond the scope of the design work,&#13;
+several key role-players were identified. First is programme managers, who will be responsible&#13;
+for:&#13;
+&#13;
+â&#128;¢ Ensuring that their programmes comply with the criteria for programme accreditation as set&#13;
+  out by SCERT.&#13;
+â&#128;¢ Ensuring that their programmes comply with quality standards effective in India and where&#13;
+  applicable, outside India. This includes ensuring that their programmes are aligned to the&#13;
+  quality criteria set out by the Distance Education Council and, where applicable, to criteria&#13;
+  set by Professional Bodies/Departments of Education as employers.&#13;
+â&#128;¢ Ensuring that all conditions of programme delivery are in place (effective communication&#13;
+  with students, student support, determination of workloads, timely submission of study&#13;
+  material, checking of tutorial letters, and so on).&#13;
+â&#128;¢ Tabling any teaching-related matters (for example, calendar changes) related to their&#13;
+  programmes at SCERT programme review meetings.&#13;
+â&#128;¢ Managing and processing RPL applications in their programmes.&#13;
+â&#128;¢ Coordinating and facilitating Programme Reviews (both national and internal reviews).&#13;
+â&#128;¢ Convening Programme Committee meetings (including academics, students, and other&#13;
+  stakeholders).&#13;
+â&#128;¢ Leading and managing a team for development and delivery of the programme in accordance&#13;
+  to SCERT curriculum review processes.&#13;
+â&#128;¢ Developing and maintaining sound working relationships between centralized and&#13;
+  decentralized support departments, so that there is an evolving coherence between the&#13;
+  programme and various other programmes and learning pathways that may evolve in future.&#13;
+â&#128;¢ Being responsible for quality assurance of the programme so that the programme not only&#13;
+  meets the requirements of the SCERT and/or Professional Bodies, but is delivered in ways&#13;
+  that are continually self-improving.&#13;
+â&#128;¢ Advising the relevant Director about all matters pertaining to the programme.&#13;
+â&#128;¢ Ensuring that all documentation submitted to the relevant Director for processing and&#13;
+  authorization by staff members of the programme have been properly checked for&#13;
+  completeness and correctness.&#13;
+â&#128;¢ Providing intellectual leadership for the programme. This entails tracking both internal and&#13;
+  external policy environments and ensuring the programme is responsive to such imperatives.&#13;
+â&#128;¢ Advising the relevant Director about professional development needs of members of the&#13;
+  programme, both full-time and part-time.&#13;
+â&#128;¢ Managing and processing applications for exemptions.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                              21&#13;
+&amp;#12;Next are the school-based mentor teachers, whose roles include:&#13;
+&#13;
+â&#128;¢ Introducing the student teacher to the school community and explaining his or her reason for&#13;
+  being there (making him or her feel at home) if she/he is new, or formalizing a mentoring&#13;
+  relationship where a collegial relationship already exists&#13;
+â&#128;¢ Helping teacher students to try new approaches but within an understanding of established&#13;
+  school activities and practices (recognizing that some established ways of doing things may&#13;
+  need to be questioned and communicating and helping to resolve any tensions between&#13;
+  required programme activities and established school practices with the school principal and&#13;
+  teacher educators of the local study centre).&#13;
+â&#128;¢ Providing teacher students with information about the school, and its policies, regulations&#13;
+  and resources and how these relate to the requirements of the programme.&#13;
+â&#128;¢ Demonstrating various teaching techniques and strategies.&#13;
+â&#128;¢ Providing a space for the teacher student to work and keep materials.&#13;
+â&#128;¢ Encouraging teacher students to evaluate their own progress using a reflective process.&#13;
+â&#128;¢ Providing teacher students with feedback and advice on a regular basis.&#13;
+â&#128;¢ Undertaking assessment of classroom practice using a provided rubric and engaging in&#13;
+  critical constructive discussion thereon.&#13;
+&#13;
+In addition to their study centres-based activities, teacher-educators will at times also act as&#13;
+teaching practice supervisors. Given that the overall purpose of the programme is to improve&#13;
+classroom practice and pupil achievement, it is important that current practice is assessed at the&#13;
+start of the programme and at regular intervals during the programme. Most of this monitoring&#13;
+and support will be provided by the school-based mentor, but teacher educators, acting as&#13;
+teaching practice supervisors, are responsible to build relationships with the schools in their&#13;
+cluster as well as with district officials wherever possible, and to recruit, train and support&#13;
+school-based mentor teachers. They also assess the practice of teacher-students at key milestones&#13;
+â&#128;&#147; start of programme, end of first year and end of final semester. It is important that teacher&#13;
+educators keep themselves up to date with current developments in the curriculum and the&#13;
+profession.&#13;
+&#13;
+The following are some of the roles performed during their subsequent school visits:&#13;
+&#13;
+â&#128;¢ Allocate adequate time to visit a teacher-student at a school.&#13;
+â&#128;¢ Allocate sufficient time to visit all students allocated to him/her.&#13;
+â&#128;¢ Observe and assess the lesson presented by the student.&#13;
+â&#128;¢ Meet with the mentor teacher and if possible with the principal to discuss the studentâ&#128;&#153;s&#13;
+  presentation and determine whether the student needs further assistance.&#13;
+â&#128;¢ Meet with the student after the lesson presentation and collect the studentâ&#128;&#153;s self-reflective&#13;
+  feedback.&#13;
+â&#128;¢ Provide own observation and feedback.&#13;
+&#13;
+&#13;
+                                               22&#13;
+&amp;#12;â&#128;¢ If the teacher educator is of the opinion that the studentâ&#128;&#153;s performance is&#13;
+  poor/unacceptable/below the expected standard, he/she spells out the challenges/concerns&#13;
+  and implications and suggests strategies to address them with both the teacher-student and&#13;
+  her/his mentor.&#13;
+â&#128;¢ Gather information about the studentâ&#128;&#153;s learning needs.&#13;
+â&#128;¢ Gather information about the mentor teacherâ&#128;&#153;s and/or principalâ&#128;&#153;s perceptions and&#13;
+  recommendations on the SCERT programme and system.&#13;
+â&#128;¢ Complete the relevant student assessment evaluation form and enter review data onto the&#13;
+  SCERT LMS no later than a week after a school visit.&#13;
+&#13;
+As the process unfolds in Bihar, different training and support needs will manifest themselves.&#13;
+However, there are already several clear areas in which further capacity-building or continuing&#13;
+professional development support will be needed. Amongst others, these include:&#13;
+&#13;
+â&#128;¢ Training/support for Heads of Schools and Senior teachers as school-based mentors and&#13;
+  assessors.&#13;
+â&#128;¢ Training/support for study centre-based teacher educators.&#13;
+â&#128;¢ Training/support for DIET/PTEC trainers and assessors.&#13;
+â&#128;¢ Training and support should cover:&#13;
+    Ì¶ Orientation to the programme design including the assessment and support strategy;&#13;
+   Ì¶ Orientation to the supporting ICT system for all of those who need to use it.&#13;
+â&#128;¢ Orientation briefs for Department of Education officials and other contracted and affected&#13;
+  stakeholders etc.&#13;
+â&#128;¢ ICT systems support from SCERT.&#13;
+&#13;
+Teacher educators at all levels are likely to be more experienced in contact-based provision and&#13;
+may be tempted to lecture on the content of the programme. This would undermine the proposed&#13;
+design of the learning resources that students should engage with the content. Guidelines are&#13;
+therefore needed for teacher educators on how to facilitate discussion, consolidate learning and&#13;
+model good teaching practice in their engagements with student study groups. An additional&#13;
+requirement for teacher educators working from a Study Centre will be an orientation to the ICT&#13;
+used to support the teaching and learning processes. They will need to be familiar with the LMS&#13;
+in order to teach and support students new to the platform. Some of the course administration&#13;
+will also be done using the LMS. Teacher Educators will also be the Study Centre coordinators&#13;
+and so some minor maintenance tasks will be necessary (such as replacing ink cartridges or&#13;
+running a virus checker).&#13;
+&#13;
+Those responsible for training the teacher educator study centre coordinators will be drawn from&#13;
+the DIETS and PTECs. Consequently, trainers need to be well versed in the programmeâ&#128;&#153;s&#13;
+pedagogy, mentoring techniques, LMS operation, and minor technical support. They too will&#13;
+need to be trained. The DIETS and PTECs can draw on different personnel to specialize in&#13;
+certain areas, but the programme of training they develop needs to appreciate that these diverse&#13;
+&#13;
+                                              23&#13;
+&amp;#12;skills need to be acquired by one person. This is especially true of the CRC Study Centre&#13;
+coordinators.&#13;
+&#13;
+Personnel at the DIET and PTEC level, and, in some instances, the BRC level, will also have the&#13;
+task of coordinating and administrating the programme for their district. Consequently, these&#13;
+personnel need to be trained to diagnose district data collected by the LMS, as well as data&#13;
+collected during the multiday orientation and semester workshops hosted by the DIETs and&#13;
+PTECs. These personnel will also be responsible for the deployment of the assessment and&#13;
+support strategies at the district level and will need to be trained on methods of assessment that&#13;
+elicit the skills the programme design encourages as well as strategies to engage clusters and&#13;
+blocks that are struggling with the new way of teaching and learning.&#13;
+&#13;
+At the SCERT level, personnel will also need training to effectively support the programme. All&#13;
+facets of the programme need to be championed at this highest level. Personnel need to be&#13;
+intimate with the new pedagogy, the course materials, ICT integration and the technical&#13;
+specifications of the Study Centres. One of their responsibilities will be to devise and run a&#13;
+programme of capacity development for all stakeholders of the Diploma. In addition they will be&#13;
+responsible for analysing the success and failures of the programme at a state level.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                               24&#13;
+&amp;#12;              CHAPTER 4: CONCLUSION-EMERGING LESSONS&#13;
+As can be seen from the narrative above, the process of developing capacity to support teacher&#13;
+education in Bihar has been a comprehensive and wide-ranging exercise. While the process is&#13;
+ongoing (and in many ways still embryonic), extensive knowledge has been generated that is&#13;
+potentially applicable in many developing country contexts. Beyond the experiences documented&#13;
+above, there are a few key emerging lessons that are worth documenting:&#13;
+&#13;
+1) Effective design of teacher education systems cannot be conceptualized as a once-off&#13;
+   intervention. Rather, it is a series on ongoing, iterative processes that continually needs to&#13;
+   adjust to changing circumstances. In the case of Bihar, these processes are still unfolding as&#13;
+   implementation continues.&#13;
+2) Assuming that teacher education systems focus primarily on the public sector, the design and&#13;
+   development process must ultimately be led by the relevant government agencies, with&#13;
+   technical support from others as needed. Well-intentioned efforts to undertake design on&#13;
+   behalf of such agencies, for example by NGOs or donor-funded activities, are generally&#13;
+   always unsuccessful in the long run, as the requisite government ownership is too weak to&#13;
+   ensure implementation and sustainability. Success in Bihar has been largely a function of the&#13;
+   fact that government has led the process from the outset.&#13;
+3) Although it is tempting to design state-of-the-art ICT architectures, the prospect of their&#13;
+   failure is very high. Thus, educationally effective design of ICT architectures needs to take&#13;
+   contextual realities and logistical constraints into account to be relevant and useful.&#13;
+   Importantly, in developing country contexts and particularly in large-scale implementation&#13;
+   where resources are scarce, there is little merit in experimenting with untested technologies,&#13;
+   particularly as there is now enough evidence of successful technological models that can be&#13;
+   harnessed to avoid this type of experimentation.&#13;
+4) Although ICT is an important piece of the puzzle, the real challenge in designing teacher&#13;
+   capacity development systems is to ensure that they are built on a sound pedagogical&#13;
+   platform. The design of the Diploma Programme provides exactly this kind of platform,&#13;
+   developed over an extended period through ongoing consultation and engagement.&#13;
+5) Given the previous recommendation, implementation of effective pedagogy is only as&#13;
+   effective as the people engaged to deliver it. As is clear from the description of capacity&#13;
+   development needs, there is still much work to be done in capacitating teacher educators in&#13;
+   the State to do this well, although it is promising that there has already been extensive work&#13;
+   to build this capacity.&#13;
+&#13;
+Consequently, although the journey in Bihar is, in many ways, just beginning, it has already&#13;
+yielded many lessons and innovative models that are potentially in many other contexts.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                               25&#13;
+&amp;#12;                            SELECTED BIBLIOGRAPHY&#13;
+â&#128;¢ Government of India â&#128;&#147; Ministry of Human Resource and Development. (2011). Overview of&#13;
+  Teacher Education Policy in India. Retrieved from http://mhrd.gov.in/print/1665.&#13;
+â&#128;¢ Government of India â&#128;&#147; Ministry of Human Resource and Development (Department of&#13;
+  School Education and Literacy). (ND). About Teacher Education. Retrieved&#13;
+  from http://www.teindia.nic.in/About.aspx.&#13;
+â&#128;¢ Government of India â&#128;&#147; Ministry of Human Resource and Development (Department of&#13;
+  School      Education      and     Literacy).    (ND).     Policy     Context.      Retrieved&#13;
+  from http://www.teindia.nic.in/policycontext.aspx.&#13;
+â&#128;¢ Government of India â&#128;&#147; Ministry of Human Resource and Development (Department of&#13;
+  School Education and Literacy). (ND). Reforms in Teacher Education in India. Retrieved&#13;
+  from http://www.teindia.nic.in/reforming_TE.aspx.&#13;
+â&#128;¢ Mays, T. 2011a. Programme modelling: a Nadeosa investigation into the cost and human&#13;
+  resource implications for different models of ODL provision. Johannesburg: Nadeosa and&#13;
+  Saide.&#13;
+â&#128;¢ Mays, T. 2011b. Developing practice: teaching teachers today for tomorrow. US-China&#13;
+  Education Review, December 2011.&#13;
+â&#128;¢ National Council of Educational Research and Training. (2009). Comprehensive Evaluation&#13;
+  of Centrally Sponsored Scheme on Restructuring and Reorganization of Teacher Education.&#13;
+  Retrieved from http://www.teindia.nic.in/js/TE_Scheme_review_NCERT_Review.pdf&#13;
+â&#128;¢ National Council for Teacher Education. (ND). Evaluation of the Diploma in Primary&#13;
+  Education        Programme          through       Distance        Education.        Retrieved&#13;
+  from http://www.teindia.nic.in/js/Report_on_IGNOU_%20DPE_Prog%20by_NCTE_experts&#13;
+  .pdf&#13;
+â&#128;¢ National Council of Educational Research and Training. (2012). Impact of In-service&#13;
+  Teacher         Training          on        Classroom          Transaction.         Retrieved&#13;
+  from http://www.teindia.nic.in/js/Impact_of_TT_Aug2012.pdf.&#13;
+â&#128;¢ National Council of Educational Research and Training. Fifty Years of Teacher Education in&#13;
+  India           (Post            Independence            Developments).             Retrieved&#13;
+  from http://www.teindia.nic.in/js/50Years_TE_Devp.pdf.&#13;
+â&#128;¢ Government of India â&#128;&#147; Ministry of Human Resource and Development. (1997). National&#13;
+  Council for Teacher Education Rules. Retrieved from http://www.teindia.nic.in/Files/RTE-&#13;
+  Act-2009/NCTE_rules.pdf.&#13;
+â&#128;¢ Ministry of Law Justice and Company Affairs. (1993). National Council for Teacher&#13;
+  Education       Act-1993.       Retrieved      from       http://www.teindia.nic.in/Files/TE-&#13;
+  Vikram/NCTE_ACT-1993.pdf.&#13;
+â&#128;¢ University of South Africa (Unisa). 2013. Supporting teaching practice: a manual for mentors&#13;
+  and supervisors. Pretoria: Unisa.&#13;
+&#13;
+&#13;
+                                              26&#13;
+&amp;#12;27&#13;
+&amp;#12;</ml:original-txt><ml:search-metadata><doc id="20104724">
+        <url>
+            http://documents.worldbank.org/curated/en/2014/06/20104724/strengthening-teacher-capacity-bihar-through-ict-designing-innovative-solution-unique-challenges
+        </url>
+        <availablein>English</availablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2014/06/20104724/strengthening-teacher-capacity-bihar-through-ict-designing-innovative-solution-unique-challenges</url_friendly_title>
+        <new_url>2014/06/20104724/strengthening-teacher-capacity-bihar-through-ict-designing-innovative-solution-unique-challenges</new_url>
+        <disclosure_date>2014-08-13T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2014-08-13T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/08/13/000470435_20140813142947/Rendered/INDEX/899830NWP0SA0h00Box385296B00PUBLIC0.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/08/13/000470435_20140813142947/Rendered/PDF/899830NWP0SA0h00Box385296B00PUBLIC0.pdf</pdfurl>
+        <docdt>2014-06-01T00:00:00Z</docdt>
+        <datestored>2014-08-13T00:00:00Z</datestored>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            Strengthening teacher capacity in Bihar
+            through ICT: designing innovative solution to unique challenges
+        </repnme>
+        <abstracts>
+            Within this context, there are
+            significant opportunities to harness Information and
+            Communication Technology (ICT) and Open and Distance
+            Learning (ODL) in teacher education, especially to deliver
+            pre-service teacher education. Consequently, the Government
+            of Bihar requested the World Bank to provide support in
+            development of distance education curriculum, related
+            syllabi, content, effective delivery mechanisms, appropriate
+            student support systems, and assessment strategies to meet
+            the needs of its untrained teachers. Many other states and
+            countries are facing similar problems, and will need to
+            prepare comprehensive time-bound plans for untrained
+            teachers to acquire the prescribed qualifications (both
+            academic and professional). Thus, experiences in Bihar might
+            provide models for developing an ICT-based teacher education
+            system that can be used as a useful reference point by
+            others facing similar problems. This report outlines these
+            experiences and shares lessons learned through the process
+            to date.
+        </abstracts>
+        <docna>
+            Strengthening teacher capacity in Bihar
+            through ICT: designing innovative solution to unique challenges
+        </docna>
+        <display_title>Strengthening teacher capacity in
+            Bihar through ICT: designing innovative solution to unique challenges</display_title>
+        <listing_relative_url>/research/2014/06/20104724/strengthening-teacher-capacity-bihar-through-ict-designing-innovative-solution-unique-challenges</listing_relative_url>
+        <count>India</count>
+        <lang>English</lang>
+        <sectr>Education</sectr>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            absenteeism, access to computers,
+            accreditation, achievement, achievements, advanced training,
+            assessment instruments, attendance requirement, classroom,
+            classroom methods, classroom practice, classroom teaching,
+            classrooms, core courses, course content, course materials,
+            curricular activities, curriculum, Curriculum Frameworks,
+            Curriculum reform, curriculum review, demonstration, digital
+            resources, distance education, Distance Learning, distance
+            mode, education activities, education curriculum, education
+            department, education experts, Education Infrastructure,
+            Education officials, Education Policy, education system,
+            education systems, Educational Research, educational
+            resources, educational strategies, Educational Technology,
+            Elementary Education, elementary school, elementary school
+            teachers, employment, enrolment of students, final
+            examinations, Formative assessment, Human Development, Human
+            Resource Development, human resources, interventions,
+            leadership, learners, learning centres, learning
+            competencies, learning outcomes, learning process, learning
+            processes, learning resources, lesson planning, lesson
+            plans, Literacy, local learning, local learning centres,
+            mentor teachers, mentors, National Open University, needs
+            assessment, outstanding teacher, Papers, pedagogy, peer
+            support, Primary Education, Primary schools, Primary
+            Teacher, Primary Teacher Education, Primary Teachers,
+            Principals, printing, professional development, proficiency,
+            Public School, quality assurance, quality learning, quality
+            of teaching, quality standards, quality teacher education,
+            reading, reading materials, Recruitment of teachers,
+            Resource Centre, Resource Centres, Right to Education,
+            school activities, school community, School Education,
+            school improvement, school level, school principals, school
+            sites, school teachers, school visit, school visits,
+            schools, semesters, senior teacher, senior teachers, skills
+            training, small schools, State Education, Student
+            Assessment, student attainment, student enrolments, Student
+            Support, student-teacher ratio, study centres, syllabi,
+            Teacher, teacher certification, teacher development, teacher
+            education, Teacher Education Management, teacher educators,
+            teacher management, teacher performance, teacher
+            professional development, Teacher Standards, teacher
+            support, teacher trainees, teacher training, teacher
+            training institutions, teachers, Teaching, teaching
+            practice, teaching quality, teaching techniques,
+            teaching-learning, teaching-learning process, technical
+            expertise, telecommunications, training centres, training
+            courses, training facilities, training for teachers,
+            training institutes, training institutions, Training needs,
+            training programme, training programmes, tutorials,
+            untrained teachers
+        </keywd>
+        <majtheme>Human development</majtheme>
+        <projn>IN-Teacher Education And Professional
+            Development- International B -- P126759</projn>
+        <topic>Education for All m1327049 1467,Education Access and Equity m1327050 2127,Education m1327048 470,Tertiary Education m1326349 482,Primary Education m1326139 480</topic>
+        <subtopic>Teaching and Learning,Access &amp; Equity in Basic Education,Primary Education,Education For All,Tertiary Education</subtopic>
+        <docty>Working Paper (Numbered Series)</docty>
+        <teratopic>Education</teratopic>
+        <entityids>
+            <entityid>000470435_20140813142947</entityid>
+        </entityids>
+        <geo_region_mdks>
+            <geo_region_mdk>World!$!80475</geo_region_mdk>
+            <geo_region_mdk>Asia!$!80451</geo_region_mdk>
+            <geo_region_mdk>South Asia!$!80470</geo_region_mdk>
+        </geo_region_mdks>
+        <admreg>South Asia,South Asia</admreg>
+        <subsc>General education sector</subsc>
+        <theme>Education for all</theme>
+        <colti>South Asia : human development sector
+            discussion paper series ; no. 73</colti>
+        <historic_topic>Education</historic_topic>
+        <prdln>Technical Assistance (Non-lending)</prdln>
+        <topicv3>Education for All m1327049 1467,Education Access and Equity m1327050 2127,Education m1327048 470,Tertiary Education m1326349 482,Primary Education m1326139 480</topicv3>
+        <owner>Office of the Regional Vice Pres (SARVP),Education - GP (GEDDR)</owner>
+        <trustfund>TF010911-Teachers Education</trustfund>
+        <geo_regions>
+            <geo_region>World</geo_region>
+            <geo_region>Asia</geo_region>
+            <geo_region>South Asia</geo_region>
+        </geo_regions>
+        <repnb>89983</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>ICT</ml:concept><ml:concept>ICT for Development</ml:concept><ml:concept>Information Technology</ml:concept><ml:concept>Information and Communication Technologies (ICT)</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Teaching and Learning</ml:concept><ml:concept>Energy</ml:concept><ml:concept>Energy and Mining</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Social Protections and Labor</ml:concept><ml:concept>International Competitiveness</ml:concept><ml:concept>International Economics and Trade</ml:concept><ml:concept>Trade Liberalization</ml:concept><ml:concept>Trade Liberalization and Regional Integration</ml:concept><ml:concept>Trade Restrictiveness</ml:concept><ml:concept>Trade and Integration</ml:concept><ml:concept>City Development Strategies</ml:concept><ml:concept>Information and Communication Technologies</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Education</ml:concept><ml:concept>Energy and Extractives</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Social Protection and Labor</ml:concept><ml:concept>Trade</ml:concept><ml:concept>Urban Development</ml:concept><ml:concept>Human Resource Management Capacities</ml:concept><ml:concept>Human Resource Management Systems</ml:concept><ml:concept>Staffing Needs Assessments</ml:concept><ml:concept>Education Management Information System (EMIS)</ml:concept><ml:concept>Education Management Information Systems</ml:concept><ml:concept>Teacher Evaluation</ml:concept><ml:concept>Teacher Professional Development</ml:concept><ml:concept>Educational Technology and Distance Education</ml:concept><ml:concept>Radio, Television Instruction</ml:concept><ml:concept>Curriculum Reform</ml:concept><ml:concept>Basic Education</ml:concept><ml:concept>Distance Education</ml:concept><ml:concept>Education Information Systems</ml:concept><ml:concept>Education Technology</ml:concept><ml:concept>Education and Technology</ml:concept><ml:concept>Education for the Knowledge Economy</ml:concept><ml:concept>ICT and Education</ml:concept><ml:concept>Infrastructure Management</ml:concept><ml:concept>Digital Identities</ml:concept><ml:concept>Servers</ml:concept><ml:concept>Switches</ml:concept><ml:concept>Analysis &amp; Monitoring</ml:concept><ml:concept>Delivery Units</ml:concept><ml:concept>Grievance Redress</ml:concept><ml:concept>Indicators</ml:concept><ml:concept>M&amp;E</ml:concept><ml:concept>Performance Measurement</ml:concept><ml:concept>Performance Reviews</ml:concept><ml:concept>Rapid Results Approaches</ml:concept><ml:concept>Government Performance</ml:concept><ml:concept>Managing for Results</ml:concept><ml:concept>Outcomes Based Management</ml:concept><ml:concept>Performance Drivers</ml:concept><ml:concept>Results Based Management</ml:concept><ml:concept>Contract Management</ml:concept><ml:concept>Governance Institutions</ml:concept><ml:concept>Institutional Arrangements in Public Procurement</ml:concept><ml:concept>Institutional Capacity</ml:concept><ml:concept>Institutional Reform</ml:concept><ml:concept>Legal Regulatory Framework</ml:concept><ml:concept>State-Society Relations</ml:concept><ml:concept>Connectivity</ml:concept><ml:concept>Lagging Regions</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Boundaries</ml:concept><ml:concept>Human Resources</ml:concept><ml:concept>Examinations</ml:concept><ml:concept>Education Indicators and Statistics</ml:concept><ml:concept>Teacher Performance</ml:concept><ml:concept>Teacher Training</ml:concept><ml:concept>Curriculum Development</ml:concept><ml:concept>Infrastructure</ml:concept><ml:concept>Primary Education</ml:concept><ml:concept>Education and ICT</ml:concept><ml:concept>Renewable Energy</ml:concept><ml:concept>ICT Infrastructure</ml:concept><ml:concept>Storage  Management</ml:concept><ml:concept>Network Management</ml:concept><ml:concept>Monitoring and Evaluation</ml:concept><ml:concept>Performance Management</ml:concept><ml:concept>Connectivity and Lagging Regions</ml:concept></ml:concepts><ml:geo-regions><ml:geo-region>Asia</ml:geo-region><ml:geo-region>India</ml:geo-region><ml:geo-region>Southern Asia</ml:geo-region></ml:geo-regions></ml:annotations></ml:doc-envelope>

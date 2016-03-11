@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>                                  33049&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Fiscal Policy and Growth&#13;
+An Application to Sub Saharan&#13;
+Economies&#13;
+                                         Papers&#13;
+Marcel Aloy, Blanca Moreno-Dodson, and&#13;
+Gilles Nancy&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                               orking&#13;
+                                                     W&#13;
+&#13;
+                                                      WBI&#13;
+&amp;#12;&#13;
+                  Fiscal Policy and Growth:&#13;
+     An Application to Sub Saharan Economies&#13;
+&#13;
+&#13;
+&#13;
+                                      Marcel Aloy*&#13;
+&#13;
+                             Blanca Moreno-Dodson**&#13;
+&#13;
+                                     Gilles Nancy*&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Affiliations:&#13;
+&#13;
+ * CEDERS, University of the Mediterranean, Aix-Marseille&#13;
+&#13;
+ ** The World Bank&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                   World Bank Institute&#13;
+&amp;#12;&#13;
+Copyright  2003&#13;
+The International Bank for Reconstruction&#13;
+and Development /The World Bank&#13;
+1818 H Street, N.W.&#13;
+Washington, D.C. 20433, U.S.A.&#13;
+&#13;
+The World Bank enjoys copyright under protocol 2 of the Universal Copyright Convention. This&#13;
+material may nonetheless be copied for research, educational or scholarly purposes only in the&#13;
+member countries of The World Bank. Material in this series is subject to revision. The findings,&#13;
+interpretations, and conclusions expressed in this document are entirely those of the author(s) and&#13;
+should not be attributed in any manner to the World Bank, to its affiliated organizations, or the&#13;
+members of its Board of Executive Directors or the countries they represent.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Fiscal Policy and Growth: An Application to Sub-Saharan Economies&#13;
+Marcel Aloy, Blanca Moreno-Dodson, and Gilles Nancy&#13;
+2003. 16 pages. Stock No. 37211&#13;
+&amp;#12;&#13;
+Contents&#13;
+&#13;
+&#13;
+Introduction 1&#13;
+&#13;
+&#13;
+Section I. Fiscal Policy and Growth: an Overview 2&#13;
+&#13;
+  I.1 Public Financing Patterns and Economic Growth. 2&#13;
+&#13;
+  I.2 Fiscal Policy, Growth and Poverty 3&#13;
+&#13;
+Section II. An Application to Benin, Burkina Faso and Senegal 5&#13;
+&#13;
+  II.1. The Macroeconomic Framework 5&#13;
+&#13;
+  II.2. Numerical Simulations 7&#13;
+&#13;
+Conclusions 9&#13;
+&#13;
+&#13;
+References: 10&#13;
+&#13;
+&#13;
+Endnotes 12&#13;
+&amp;#12;&#13;
+&amp;#12;&#13;
+Introduction&#13;
+&#13;
+In the early 1960s, the developing countries in Sub-Saharan Africa committed to government&#13;
+interventionist policies. The failure of those policies led in the 1990s to economic and&#13;
+institutional reforms that were inspired by a narrower concept of the role of the state, mainly&#13;
+aiming at ensuring property rights, controlling the monetary base, raising taxes, and&#13;
+providing basic education, health and infrastructure public services. Despite these general&#13;
+orientations, the weight of the public sector is still very heavy in most Sub-Saharan countries,&#13;
+which affects the design and implementation of fiscal policies.&#13;
+&#13;
+In this respect, a comparison regarding the role of the state and fiscal policy in other&#13;
+developing countries with similar levels of income in other regions, such as East and South&#13;
+Asia, would not be entirely appropriate because of the weaknesses of African states. In&#13;
+particular, Governments of Sub-Saharan African countries face serious difficulties&#13;
+implementing fiscal policy because of the persistence of the following elements:&#13;
+&#13;
+    ·   Unfair income distribution and higher proportion of the population affected by&#13;
+        extreme poverty;&#13;
+&#13;
+    ·   Vulnerability to external shocks of all kinds (natural disasters, world prices of&#13;
+        exported goods, dependency towards foreign assistance, etc.);&#13;
+&#13;
+    ·   Several market failures because of information imperfection, prevalence of&#13;
+        monopolistic practices and different kinds of negative externalities;&#13;
+&#13;
+    ·   Lack of appropriate incentives for private sector operations in terms of competitive&#13;
+        advantages, regulatory framework and judicial system;&#13;
+&#13;
+    ·   Governmental and institutional inefficiencies resulting from several rigidities, as well&#13;
+        as credibility and governance problems.&#13;
+&#13;
+In the last two decades, Sub-Saharan African countries have implemented macroeconomic&#13;
+policies in the context of structural adjustment programs. Meanwhile, monetary policies of&#13;
+the countries presented in this paper have become the responsibility of the regional central&#13;
+bank (BCEAO). In this respect, the fixed exchange rate regime has been maintained&#13;
+following the devaluation of the CFA Franc in 1994. The nominal anchorage to the French&#13;
+Franc and later on to the Euro has created favorable conditions for implementing inflation&#13;
+targeting policies.&#13;
+&#13;
+Unfortunately, the necessary coordination of fiscal policies that a monetary union requires to&#13;
+ensure price and exchange rate stability has not been the main priority of Sub-Saharan&#13;
+governments. Budget deficits and difficulties to set up an effective tax policy, due to, among&#13;
+other things, the prominent share of poor in the population and a large informal sector, have&#13;
+led to high indebtedness levels. Low levels of debt-reducing savings available for investment&#13;
+have also decreased the perspectives of growth.&#13;
+&#13;
+This paper focuses on two main issues related to the conduct of fiscal policy in Sub-Saharan&#13;
+African countries:&#13;
+&#13;
+    ·   Firstly, we analyze the trade-off among different public financing policies and their&#13;
+        impact on growth, from both theoretical and empirical perspectives.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                 1&#13;
+&amp;#12;&#13;
+2   M. Aloy, B. Moreno-Dodson, and G. Nancy&#13;
+&#13;
+&#13;
+    ·   Secondly, we suggest a simple macroeconomic framework to asses the influence of&#13;
+        fiscal policy on growth, with an application to Burkina Faso, Benin and Senegal.&#13;
+&#13;
+Section I. Fiscal Policy and Growth: an Overview&#13;
+&#13;
+Public expenditure financing is mainly carried out through tax receipts, monetary creation&#13;
+and public debt1. These different forms of financing are not neutral2 vis- à -vis economic&#13;
+growth.&#13;
+&#13;
+        I.1 Public Financing Patterns and Economic Growth.&#13;
+&#13;
+Financing through taxes may have an impact, on welfare and/or on growth, mainly if taxes&#13;
+are distortionary. This impact will depend on the differences in tax rates among different&#13;
+goods (domestic goods versus imported goods; consumer goods versus intermediate or&#13;
+investment goods; essential goods versus luxury goods) and different incomes (income from&#13;
+labor versus income from capital). The neo-classical models have considered for long that&#13;
+fiscal policy was neutral vis-à-vis long-term growth rates but that it might have an impact&#13;
+on the steady state per capita income levels.&#13;
+&#13;
+Thus, in his constant savings rate growth model, Solow [1956] found that the introduction of&#13;
+a proportional tax rate on income leads to ­ under a balanced public budget hypothesis ­ an&#13;
+increase (reduction) of the steady state per capita income if the government invests a higher&#13;
+(lower) fraction of its income compared to that invested by private agents. Taxation may thus&#13;
+reduce per capita income should the state use tax revenues for consumption rather than for&#13;
+productive investment.&#13;
+&#13;
+        The conclusions are quite close in the Cass-Ramsey3 type of optimal growth model:&#13;
+generally, fiscal policy (especially if the budget is maintained in equilibrium and if the labor&#13;
+supply is fixed) does not change the steady-state growth rate, which remains subject to&#13;
+exogenous factors. The search for an optimal tax structure from the welfare perspective,&#13;
+initiated by Ramsey in 1927 has led to an abundant literature4.&#13;
+&#13;
+A similar ambiguity in the results relates to the effects of monetary policy and precisely of&#13;
+the monetary financing of the budget deficit in growth models5. Basically, a direct effect&#13;
+between seignorage and inflation is currently admitted, the growth rate and the level of the&#13;
+money supply being generally neutral on real aggregates. However, this source of financing&#13;
+has limits beyond which the economy could be affected by a balance of payments crisis and&#13;
+speculative attacks on the exchange rate.&#13;
+&#13;
+    Public debt financing also has an impact on growth given its eviction effects: all things&#13;
+being equal, the increase in the public deficit financed through debt may materialize itself&#13;
+through a reduction in private investment and/or a deterioration of the current external&#13;
+account. However, the scope of these eviction effects is itself dependent upon the public&#13;
+deficit effect on the savings behavior of the private sector6.&#13;
+&#13;
+An excessive recourse to domestic debt may increase the domestic interest rates and lead to&#13;
+an explosive debt dynamics. In this context, an interest rate control policy would simply lead&#13;
+to a credit-rationing situation and to a private investment eviction. This effect would not&#13;
+occur only if the private savings increased by the same amount than the debt issued, in&#13;
+anticipation of future taxes that the government will introduce to finance the interest and&#13;
+reimburse the principal. If such were the case, the domestic debt and the taxes would have an&#13;
+identical effect, thus leading to the Ricardian equivalence. However, most of the empirical&#13;
+&amp;#12;&#13;
+                                   Fiscal Policy and Growth: An Application to Sub-Saharan Economies 3&#13;
+&#13;
+&#13;
+studies do not support the strict Ricardian equivalence in developing countries. A reduction&#13;
+of 1% of the GNP financed through internal borrowing increases private savings by 0.4% to&#13;
+0.6% of the GNP7.&#13;
+&#13;
+On the other hand, too much external indebtedness may trigger a debt crisis. First of all,&#13;
+resorting to non-concessional external financing leads to a debt build up that should be&#13;
+serviced and the principal reimbursed. This leads to vulnerability to exchange rate and world&#13;
+interest rates fluctuations whose impact will be more severe the higher the short-term debt&#13;
+component is. Moreover, the external debt increases the availability of external reserves,&#13;
+which can induce an exchange rate appreciation that negatively affects exports and encourage&#13;
+imports. Generally, the constraints of the indebtedness policy of the state are analyzed within&#13;
+the theoretical framework of the debt sustainability8. The government is subject, as all the&#13;
+other agents, to an inter-temporal constraint that can be stated as follows: the present value of&#13;
+the future primary budget surpluses should be equal to the current value of the debt. This&#13;
+sustainability condition will necessary be met if the growth rate of the debt is lower than the&#13;
+interest rates. In that case, the stability of the debt/GDP ratio is guaranteed.&#13;
+&#13;
+        I.2 Fiscal Policy, Growth and Poverty&#13;
+&#13;
+The Endogenous Growth Analyses, Lucas [1988], emphasize the importance of the human&#13;
+capital accumulation and therefore of education policy in the growth process. On the basis of&#13;
+this contribution, there is consensus on the idea that a minimum threshold of human capital&#13;
+should exist (or be introduced) in order to initiate a virtuous process of sustained growth. This&#13;
+idea has been additionally supported by the stylized facts covered by Barro [1991].&#13;
+&#13;
+The reason why education policy cannot be left to the market relies on the idea that these&#13;
+policies may create social externalities - for instance political stability and/or the reduction of&#13;
+poverty as a public "bad" - externalities that will be beneficial to the community but that no&#13;
+individual alone will be interested in funding. A second argument in favor of public&#13;
+intervention is related to the existence of market imperfections: the poor will not be able to&#13;
+finance their human capital needs if the financial market is imperfect.&#13;
+&#13;
+To come back to the impact of fiscal policy on the poverty reduction objective, one may&#13;
+consider two channels.&#13;
+&#13;
+Firstly, public expenditures patterns have a direct effect on poverty through the income&#13;
+redistribution (tax structure effect especially, and the impact of the different alternative forms&#13;
+of public expenditures on different social strata). Secondly they have a specific effect through&#13;
+economic growth for a given distribution structure.&#13;
+&#13;
+Insofar as, on one hand, economic efficiency implies that the factors be remunerated&#13;
+depending on their productivity and, on the other hand, the level of human capital is often&#13;
+unequally distributed between individuals from the same country9, it is often considered ­ at&#13;
+least since John Rawls ­ that efficiency and fairness requirements should be the object of&#13;
+compromise10.&#13;
+&#13;
+Thus the puzzle boils down to the following issue: what weights should be given to the&#13;
+fairness goal in such a compromise?&#13;
+&#13;
+On one side, the richer having a higher savings rate compared to the poorest, an increase in&#13;
+inequalities promotes growth because of the induced increase of the overall savings.&#13;
+&amp;#12;&#13;
+4   M. Aloy, B. Moreno-Dodson, and G. Nancy&#13;
+&#13;
+&#13;
+On the other side, three arguments in favor of reducing income inequalities may be put&#13;
+forward:&#13;
+&#13;
+- High-income inequality ensues political instability that impedes economic growth,&#13;
+according to Barro [1991].&#13;
+&#13;
+- Positive impact of health and education is likely to create an incentive effect to improve&#13;
+labor productivity and savings, thus growth.&#13;
+&#13;
+- Fairness contributes to increase growth by promoting accumulation of factors of production.&#13;
+&#13;
+Consequently, a public finance policy in favor of reducing inequalities may have, subject to it&#13;
+being effective for the beneficiaries, a moderate or nil cost in terms of efficiency and a&#13;
+positive influence on economic growth, thus indirectly, on poverty.&#13;
+&#13;
+It is difficult to assess the collective gain in welfare resulting from a poverty reduction. In this&#13;
+light, poverty may be considered as a public "bad" (Wane, 2001), that is a negative social&#13;
+externality: if society is on average adverse to poverty, it may be possible to suggest an&#13;
+optimal distribution structure.&#13;
+&#13;
+Several empirical studies using econometrics in cross-section or panel data have&#13;
+demonstrated11 a robust and positive link between poverty indicators (education level, infant&#13;
+mortality rate, life expectancy or aggregated human development indicator) and economic&#13;
+growth and/or levels of income. Given that a large number of empirical evidence12 supports&#13;
+this hypothesis, one could assume that the growth policies can work in favor of the poor. In&#13;
+fact, the causality plays both ways. Poverty and inequality represent barriers to growth, for&#13;
+they lead to insufficient savings, a waste in potential human capital, and negative externalities&#13;
+such as social unrests and political instability.&#13;
+&#13;
+If growth plays in favor of the reduction of poverty, then macroeconomic policies have an&#13;
+essential role in the growth process:&#13;
+&#13;
+- to maintain or restore the main equilibriums (inflation, public deficits and external debt);&#13;
+and&#13;
+&#13;
+- to favor private savings and physical and human capital investments&#13;
+&#13;
+According to Levine and Renelt [1992] most of the explanatory variables put forward in the&#13;
+growth literature are econometrically weak, with the exception of two variables that are&#13;
+qualified as robust: the share of the investment in the GDP and the initial level of per capita&#13;
+income13.&#13;
+&#13;
+Fisher [1993] shows that economic growth is negatively affected by inflation, public deficits&#13;
+and exchange market distortions. Taking the Levine and Renelt specification, Stanley Fisher&#13;
+[1993] suggested a causality between "good macroeconomic policy" and growth. The&#13;
+empirical results produced by Fisher indicate that, in particular, inflation and public deficits&#13;
+tend to reduce investment and productivity gains, reducing growth in turn.&#13;
+&amp;#12;&#13;
+                                   Fiscal Policy and Growth: An Application to Sub-Saharan Economies 5&#13;
+&#13;
+&#13;
+Section II. An Application to Benin, Burkina Faso and Senegal&#13;
+&#13;
+        II.1. The Macroeconomic Framework&#13;
+&#13;
+The macro-economic framework that has been set up for numerical simulation is based on a&#13;
+few hypotheses consistent with the reality of Sub-Saharan countries economies. They are&#13;
+small open economies with fixed exchange rates. Each country to be analyzed is a member of&#13;
+the WAEMU14. In terms of monetary policy, the regional currency (CFA Franc) is&#13;
+convertible into euro, which implies that the regional central bank controls money supply and&#13;
+respects as well a minimum coverage ratio of exchange reserves to monetary base (20%).&#13;
+Since the budgetary pact was adopted in 1999, governments of the sub region are committed&#13;
+to determine the budgetary balance and the amount of seigniorage by respecting a debt&#13;
+sustainability constraint;&#13;
+&#13;
+We will further assume that there is no domestic public debt, which roughly corresponds to&#13;
+the situation of countries where a financial market does not exist: the government payment&#13;
+arrears to the domestic private sector are thus ignored.&#13;
+&#13;
+The essential issue raised by this model is the effect of fiscal policy on growth when&#13;
+governments are committed to a debt sustainability constraint. Thus the main concern of the&#13;
+government fiscal policy is the trade off between investment expenditures and transfers.&#13;
+&#13;
+The private (Ipt) and the public (Igt) investment are the main source of output growth&#13;
+(equation 1) through the marginal productivity of each kind of physical capital, denoted g and&#13;
+g0 :&#13;
+&#13;
+(1)     Yt - Yt-1 = g.Ipt-1 + g0.Igt-1&#13;
+&#13;
+This assumption is broadly consistent with current theoretical analyses of growth process in&#13;
+developing countries, built on the so-called AK production function (see for instance Rebello,&#13;
+1992).&#13;
+&#13;
+The investment of the public sector (Igt), at current prices (Pt), is assumed to be proportional&#13;
+to the product of taxes levied by the government (Tt):&#13;
+&#13;
+(2)     PtIgt = .Tt&#13;
+&#13;
+The private sector, physical investment (denoted PtIpt at current price) is the sum of private&#13;
+saving on current income (St) and change in domestic credit to the private sector (CRt ­ CRt-&#13;
+1), minus the accumulation of other assets. In the absence of a financial market, cash balances&#13;
+(Mt) are the only alternative assets to physical capital for the allocation of the private sector&#13;
+savings. Thus the accounting definition of private investment is the following:&#13;
+&#13;
+(3)     PtIpt = St + (CRt ­ CRt-1) ­ (Mt ­ Mt-1)&#13;
+&#13;
+In order to complete the analysis, on the one hand, we have to introduce a hypothesis&#13;
+concerning the household's propensity to save and, on the other hand, we must make explicit&#13;
+the difference between variation in domestic credit (CRt ­ CRt-1) and variation in money (Mt ­&#13;
+Mt-1).&#13;
+&#13;
+Concerning the formation of the private saving as a function of current income (St), since&#13;
+most agents in developing countries are financially constrained, it is often assumed that&#13;
+current consumption (or saving) does not depend on human wealth (as it is the case in life&#13;
+&amp;#12;&#13;
+6   M. Aloy, B. Moreno-Dodson, and G. Nancy&#13;
+&#13;
+&#13;
+cycle models of consumption) but instead on current disposable income. Adding the two&#13;
+sources of savings (disposable income and transfers), we put forward the following&#13;
+expression for aggregate savings:&#13;
+&#13;
+(4)     St = s0(PtYt ­ Tt) + s1.Gt&#13;
+&#13;
+This expression suggests that if the transfers are distributive toward the poor, the saving rates&#13;
+on income net of transfers (s0) will be greater that the saving rate on transfers (s1) since the&#13;
+poor are assumed to be endowed with a high propensity to consume.&#13;
+&#13;
+The government transfers (Gt) are a fixed proportion () of the product of taxes levied by the&#13;
+government (Tt):&#13;
+&#13;
+(5)     Gt = .Tt&#13;
+&#13;
+Let's turn now to the second part of the equation (3), namely the difference between the&#13;
+change in domestic credit and the change in money supply: (CRt ­ CRt-1) ­ (Mt ­ Mt-1).&#13;
+&#13;
+The counterparts of money supply (Mt) are external reserves (Rt), domestic credit to the&#13;
+private sector (CRt) and money stock issuing by the government (MGt).&#13;
+&#13;
+(6)     Mt = Rt + CRt + MGt&#13;
+&#13;
+The balance of payment equilibrium defines the change in external reserves under a fixed&#13;
+exchange rate regime as follows:&#13;
+&#13;
+(7)     Rt ­ Rt-1 = XNt + (Dt ­ Dt-1) ­ i*.(Dt ­ Rt)&#13;
+&#13;
+The change in external reserves of the central bank (Rt ­ Rt-1) is the sum of net exports at&#13;
+current prices (XNt) and the change in external public debt (Dt ­ Dt-1) minus interest paid on&#13;
+public debt (Dt) or received from external reserves (Rt). We assume that the interest rate (i*)&#13;
+and net exports (XNt) are exogenous and that there are no capital movements other than those&#13;
+induced by the change in the public debt.&#13;
+&#13;
+From (6) and (7) the following expression for [(CRt ­ CRt-1) ­ (Mt ­ Mt-1)] is obtained:&#13;
+&#13;
+(8)     (CRt ­ CRt-1) ­ (Mt ­ Mt-1) = i*.(Dt ­ Rt) ­ XNt ­ (Dt ­ Dt-1) ­ (MGt ­ MGt-1)&#13;
+&#13;
+Finally, to close the model, a debt sustainability constraint is introduced. The government&#13;
+tolerates the debt to change proportionally to the difference between the previous level of the&#13;
+debt (Dt-1) and his objective of indebtedness as a percentage of GDP():&#13;
+&#13;
+(9)     Dt ­ Dt-1 = (PtYt ­ Dt-1)&#13;
+&#13;
+According to equation (9), if for instance the outstanding debt (Dt-1) exceeds the ratio %&#13;
+over the GDP, retained as long-run objective, the government will adjust his budget surplus&#13;
+in order to reduce his debt. In the long run, the government debt converges at a speed &#13;
+toward a ratio around % to GDP, which ensures the so called "debt sustainability".&#13;
+&#13;
+Substituting (9) in (8), we have finally:&#13;
+&#13;
+(10)    (CRt ­ CRt-1) ­ (Mt ­ Mt-1) = i*.(Dt ­ Rt) - XNt ­ (Pt-1Yt-1 ­ Dt-1) ­ (MGt ­ MGt-1)&#13;
+&#13;
+Thus the model can be solved with respect to the growth rate of output, substituting (2), (3),&#13;
+(4), (5) and (10) in equation 1.&#13;
+&amp;#12;&#13;
+                                    Fiscal Policy and Growth: An Application to Sub-Saharan Economies  7&#13;
+&#13;
+&#13;
+Expressing the aggregates as percentage of GDP, the solution for the growth rate of output&#13;
+(gwt) is the following:&#13;
+&#13;
+(11)     gwt = g[s0 + i*(dt-1 ­ rt-1) + (dt-1 ­ ) ­ mgt-1 ­ xnt-1]+ t-1[g0 + g(s1 ­ s0) ]&#13;
+&#13;
+with:&#13;
+&#13;
+         gwt = (Yt-Yt-1)/Yt-1 ; dt = Dt/PtYt ; rt = Rt/PtYt ;&#13;
+&#13;
+         mgt = (MGt ­ MGt-1)/PtYt ; xnt = XNt/PtYt ; t = Tt/ PtYt&#13;
+&#13;
+A long run solution for the output growth rate would be achieved when the public&#13;
+indebtedness ratio reaches his objective (d=), with nil monetary financing of deficits (mg)&#13;
+and the equilibrium of the current account (xn=0). In this special case, the external reserves&#13;
+ratio (r) should be equal to the public indebtedness ratio (d) and the long run growth rate of&#13;
+output will be given by the following equation:&#13;
+&#13;
+(12)     gw = gs0 + [g0 + g(s1 ­ s0) ]&#13;
+&#13;
+         II.2. Numerical Simulations&#13;
+&#13;
+The proposition is to numerically simulate the theoretical average annual growth rate of the&#13;
+domestic production (equation 11) of Senegal, Benin and Burkina Faso according to different&#13;
+combinations of parameter values of the indebtedness policy ( and ), public expenditures&#13;
+structure ( and ) and government policy financing (mg and ). The "structural parameters"&#13;
+(g0, s0, xn) of countries considered have been computed using available historical data (1970-&#13;
+1997), and given initial condition on public debt and external reserves (d and r). Notice that&#13;
+the values of propensity to save on transfers (s1) and interest rate on debt and external&#13;
+reserves (i*) are set arbitrarily.&#13;
+&#13;
+&#13;
+&#13;
+                                          Parameters Values&#13;
+                     (average values over 1970-1997, otherwise indicated)&#13;
+&#13;
+                  g0, g1 s0        R (1)   d (1)   mg                              xn       i*(2) s1(2)&#13;
+&#13;
+&#13;
+&#13;
+Senegal          0.168 0.125 0.015 0.899 0.076 0.189 1.037 0.208 -0.061 0.04 0.01&#13;
+&#13;
+Benin            0.227 0.067 0.184 0.813 0                 0.404 0.861 0.142 -0.163 0.04 0.01&#13;
+&#13;
+Burkina Faso 0.172 0.043 0.155 0.576 0                     0.202 0.894 0.118 -0.229 0.04 0.01&#13;
+&#13;
+(1) Year 1997 (2) Determined arbitrarily                Data source: World Bank, CD-ROM WDI&#13;
+&#13;
+The first numerical simulation shows the impact of debt policy parameters, namely the speed&#13;
+of adjustment () of public debt towards the indebtedness ratio, and the indebtedness ratio&#13;
+itself (), on economic growth.&#13;
+&#13;
+Figure 1 shows that the output growth rate increases when the level of indebtedness&#13;
+decreases, while the growth rate of output increases when the convergence speed increases&#13;
+provided that the indebtedness ratio fixed as objective is lower than the current one(&lt;d).&#13;
+&amp;#12;&#13;
+8   M. Aloy, B. Moreno-Dodson, and G. Nancy&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Figure 1: Annual Average Growth Rate (gw) and Debt Policy Parameters (,)&#13;
+&#13;
+The second numerical simulation arbitrarily retains the values  = 0.5 and  = 0.1. It aims at&#13;
+measuring the impact of the government trade off between public investment () and transfers&#13;
+() on economic growth. As expected, the higher the share dedicated to public investment  ,&#13;
+relatively to the redistribution , the higher the growth rate. To attain a growth rate of 5%, the&#13;
+compromise between investments and redistribution, is around 80% for the investment and&#13;
+20% in favor of redistribution.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Figure 2: Annual Average Growth Rate (gw) and Public expenditures Patterns (,)&#13;
+&#13;
+&#13;
+The third simulation retains the same arbitrary values for the indebtedness ratio and the speed&#13;
+of adjustment toward the debt ratio objective, but considers different values for monetary&#13;
+financing of deficits (mg) and for the average tax rate ( or tx in Figure 3).&#13;
+&#13;
+The simulation puts forward the role of the productivity of the public capital for a given value&#13;
+of the propensity to save on transfers. It seems rather significantly that the productivity effect&#13;
+is more important than the saving effect of groups, which benefit from redistribution.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Figure 3: Annual Average Growth Rate (gw) and Government Policy Financing (mg,)&#13;
+&amp;#12;&#13;
+                                Fiscal Policy and Growth: An Application to Sub-Saharan Economies 9&#13;
+&#13;
+&#13;
+Conclusions&#13;
+&#13;
+The stylized facts and the empirical studies clearly point out, even if the intensity of the link&#13;
+is different from one country to another, that there is a robust relationship between poverty&#13;
+and economic growth performance.&#13;
+&#13;
+The least developed countries of Sub-Saharan Africa face significant difficulties in&#13;
+implementing state reforms and thus, in elaborating and implementing fiscal policies targeted&#13;
+toward growth and poverty reduction.&#13;
+&#13;
+In this context, Governments should be aware of the low efficiency of fiscal policy to&#13;
+stimulate growth and reduce poverty. At the same time, they should not ignore that different&#13;
+expenditure financing modes are not neutral on inflation and the external accounts&#13;
+imbalances.&#13;
+&#13;
+Numerical simulations implemented on three countries, Benin, Burkina Faso and Senegal,&#13;
+reinforce the idea that growth is negatively influenced by the level of debt, by its monetary&#13;
+financing and in some way by redistribution policy. To the contrary, the savings rate and&#13;
+capital productivity are the key elements of growth.&#13;
+&amp;#12;&#13;
+10   M. Aloy, B. Moreno-Dodson, and G. Nancy&#13;
+&#13;
+&#13;
+References:&#13;
+&#13;
+Barro R.J.: Government Spending in a Simple Model of Endogenous Growth, JPE, Vol. 98,&#13;
+October 1990, S103-125.&#13;
+&#13;
+Barro R.J.: Economic Growth in a Cross Section of Countries, QJE 106, May 1991, 407-501.&#13;
+&#13;
+Barro R.J., Sala-i-Martin: Economic Growth : McGraw-Hill, 1995.&#13;
+&#13;
+Cashin P., Mauro P., Pattilo C., Sahay R.: Macroeconomic Policies and Poverty Reduction:&#13;
+Stylized Facts and an Overview of Research, IMF Working Paper 01/135, September 2001.&#13;
+&#13;
+Chari V.V., Kehoe P.J.: Optimal Fiscal and Monetary Policy, in J.B. Taylor and M.&#13;
+Woodford, eds, Handbook of Macroeconomics, vol. 1C. Amsterdam : North-Holland, 1999,&#13;
+pp. 1671-1745.&#13;
+&#13;
+Cuddington J.T.: Analysing the Sustainability of Fiscal Deficits in Developing Countries,&#13;
+Economic Department, Georgetown University, Washington D.C., 1996 (1997 revision).&#13;
+&#13;
+Erosa A., Gervais M.: Optimal Taxation in Infinitely-Lived Agent and Overlapping&#13;
+Generation Models: A Review, Federal Reserve Bank of Richmond Economic Quarterly,&#13;
+Vol. 87/2, Spring 2001, pp.23-44.&#13;
+&#13;
+Fisher S.: The Role of Macroeconomic Factors in Growth, JME 32, 1993, 485-512.&#13;
+&#13;
+Fisher S., Easterly W.: The Economics of the Government Budget Constraint, The World&#13;
+Bank Research Observer, Vol. 5, n°2, July 1990, pp. 127-142.&#13;
+&#13;
+Frenkel J.A., Razin A.: Fiscal Policies and the World Economy : MIT Press, 1994.&#13;
+&#13;
+Gonzalez-Paramo, Moreno-Dodson B.: Role of the State and Alternative Forms of&#13;
+Expenditure Financing, World Bank Institute, 2002 (forthcoming).&#13;
+&#13;
+Krugman P, The Myth of Asia's Miracle, Foreign Affairs, November - December 1994.&#13;
+&#13;
+Levine R., Renelt D.: A Sensitivity Analysis of Cross-Country Growth Regression, AER 82,&#13;
+September 1992, 942-964.&#13;
+&#13;
+Loayza N., Schmidt-Hebbel K., Servén L.: What Drives Private Saving Around the World?,&#13;
+World Bank Working Paper, 1998.&#13;
+&#13;
+Lopez, Schmidt-Hebbel and Servén L.: How Effective is Fiscal Policy in Raising National&#13;
+Saving, Review of Economics and Statistics, 2000.&#13;
+&#13;
+Lucas R.E. Jr: On the Mechanics of Development Planning, JME, Vol. 22, July 1988.&#13;
+&#13;
+Moser G., Ichida T.: Economic Growth and Poverty Reduction in Sub-Saharan Africa, IMF&#13;
+Working Paper 01/112, August 2001.&#13;
+&#13;
+Obstfeld M., Rogoff K.: Foundations of International Macroeconomics : MIT Press, 1996.&#13;
+&#13;
+Rebelo S.: Growth in Open Economies, Carnegie-Rochester Conference Series on Public&#13;
+Policy, 36, 1992, 5-46.&#13;
+&amp;#12;&#13;
+                             Fiscal Policy and Growth: An Application to Sub-Saharan Economies 11&#13;
+&#13;
+&#13;
+Schwartz G., Ter-Minassian T.: The Distributional Effects of Public Expenditure, Journal of&#13;
+Economic Surveys, Vol.14, N°3, 2000.&#13;
+&#13;
+Sidrauski M.: Rational Choice and Patterns of Growth in a Monetary Economy, AER, 57,&#13;
+1967, 534-544.&#13;
+&#13;
+Solow R.M.: A Contribution to the Theory of Economic Growth, QJE, Vol.70, February&#13;
+1956, 65-94.&#13;
+&#13;
+Tanzi V., Zee H.H.: Fiscal Policy and Long-Run Growth, IMF Staff Papers, Vol.44 N°2,&#13;
+June, 1997.&#13;
+&#13;
+Turnovsky S.: International Macroeconomic Dynamics : MIT Press, 1997.&#13;
+&#13;
+Wane W.: The Optimal Income Tax when Poverty is a Public "Bad", Journal of Public&#13;
+Economics 82, 2001, 271-299.&#13;
+&amp;#12;&#13;
+12   M. Aloy, B. Moreno-Dodson, and G. Nancy&#13;
+&#13;
+&#13;
+Endnotes&#13;
+&#13;
+&#13;
+1In practice, other forms of public expenditure financing, less conventional from the&#13;
+traditional fiscal deficit measures, exist and are very important in the African countries.&#13;
+Those include official grants, resources from privatizations and contingent liabilities. See&#13;
+Moreno-Dodson and Gonzalez-Paramo, World Bank Institute, forthcoming [2002].&#13;
+&#13;
+2See Fisher and Easterly [1990] for a review.&#13;
+&#13;
+3Barro and Sala-i-Martin [1995].&#13;
+&#13;
+4See Chari and Kehoe [1999] and Erosa and Gervais [2001] for a review.&#13;
+&#13;
+5The first monetary optimal growth model was provided by Sidrausky [1967].&#13;
+&#13;
+6Under the Ricardian neutrality, the public deficit would be neutral on the external account&#13;
+and the investment.&#13;
+&#13;
+7Loayza, Schmidt-Hebbel and Serven [2000], Lopez, Schmidt-Hebbel and Serven [2000].&#13;
+&#13;
+8See for instance Cuddington [1996].&#13;
+&#13;
+9Be it because of the natural effect of age distribution of the population.&#13;
+&#13;
+10See for example Schwartz and Ter-Minassian [2000] for a recent review of the literature.&#13;
+&#13;
+11See Cashin et alii [2000] for a review, and Moser et alii [2001] for an application to sub-&#13;
+Saharan African countries.&#13;
+&#13;
+12This relationship is robust in the poor and rich countries, through the decades and the&#13;
+episodes of low and even negative growths.&#13;
+&#13;
+13Nonetheless, Barro and Sala-i-Martin [1995, p.433 and the next] exhibits a less significant&#13;
+outcome for the investment rate. According to the authors, the relationship between growth&#13;
+and investment rates, when proven, would be explained by a reverse causation.&#13;
+&#13;
+14West African Economic and Monetary Union&#13;
+&amp;#12;&#13;
+</ml:original-txt><ml:search-metadata><doc id="6093139">
+        <url>
+            http://documents.worldbank.org/curated/en/2003/01/6093139/fiscal-policy-growth-application-sub-saharan-economies
+        </url>
+        <availablein>English</availablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2003/01/6093139/fiscal-policy-growth-application-sub-saharan-economies</url_friendly_title>
+        <new_url>2003/01/6093139/fiscal-policy-growth-application-sub-saharan-economies</new_url>
+        <disclosure_date>2005-07-25T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2010-07-01T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2005/07/26/000012009_20050726084511/Rendered/INDEX/330490rev0wbi37211web.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2005/07/26/000012009_20050726084511/Rendered/PDF/330490rev0wbi37211web.pdf</pdfurl>
+        <datestored>2005-07-26T00:00:00Z</datestored>
+        <docdt>2003-01-01T00:00:00Z</docdt>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            Fiscal policy and growth - an application
+            to Sub Saharan economies
+        </repnme>
+        <abstracts>
+            In the early 1960s, the developing
+            countries in Sub-Saharan Africa committed to government
+            interventionist policies. The failure of those policies led
+            in the 1990s to economic and institutional reforms that were
+            inspired by a narrower concept of the role of the state,
+            mainly aiming at ensuring property rights, controlling the
+            monetary base, raising taxes, and providing basic education,
+            health and infrastructure public services. Despite these
+            general orientations, the weight of the public sector is
+            still very heavy in most Sub-Saharan countries, which
+            affects the design and implementation of fiscal policies.
+            This paper focuses on two main issues related to the conduct
+            of fiscal policy in Sub-Saharan African countries: 1) the
+            trade-off among different public financing policies and
+            their impact on growth, from both theoretical and empirical
+            perspectives is analyzed; 2) a simple macroeconomic
+            framework to asses the influence of fiscal policy on growth,
+            with an application to Burkina Faso, Benin and Senegal, is
+            suggested. Section I presents an overview of fiscal policies
+            and growth, examining public finance patterns and economic
+            growth, and, their impact on poverty. Section II introduces
+            an application to Benin, Burkina Faso, and Senegal, through
+            a macroeconomic framework. Numerical simulations implemented
+            on these three countries, reinforce the idea that growth is
+            negatively influenced by the level of debt, by its monetary
+            financing, and in some way by redistribution policy. To the
+            contrary, the savings rate and capital productivity are the
+            key elements of growth.
+        </abstracts>
+        <docna>
+            Fiscal policy and growth - an application to
+            Sub Saharan economies
+        </docna>
+        <display_title>Fiscal policy and growth - an
+            application to Sub Saharan economies</display_title>
+        <listing_relative_url>/research/2003/01/6093139/fiscal-policy-growth-application-sub-saharan-economies</listing_relative_url>
+        <docty>WBI Working Paper</docty>
+        <count>Africa,Benin,Burkina Faso,Senegal</count>
+        <authors>
+            <author>Aloy, Marcel</author>
+            <author>Moreno-Dodson, Blanca</author>
+            <author>Nancy, Gilles</author>
+        </authors>
+        <entityids>
+            <entityid>000012009_20050726084511</entityid>
+        </entityids>
+        <geo_region_mdks>
+            <geo_region_mdk>Sahel!$!80468</geo_region_mdk>
+            <geo_region_mdk>Sub-Saharan Africa!$!80473</geo_region_mdk>
+            <geo_region_mdk>West Africa!$!80474</geo_region_mdk>
+            <geo_region_mdk>World!$!80475</geo_region_mdk>
+        </geo_region_mdks>
+        <admreg>Africa,Africa</admreg>
+        <lang>English</lang>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            accounting, adjustment programs, annual
+            growth, annual growth rate, Average Growth, Average Growth
+            Rate, balance of payments, basic education, Budget
+            Constraint, budget deficit, Budget deficits, budget surplus,
+            capita income, capital accumulation, capital investments,
+            CD, central bank, competitive advantages, current prices,
+            devaluation, developed countries, developing countries,
+            disposable income, domestic credit, econometrics, economic
+            efficiency, Economic Growth, Economic Surveys, education
+            level, empirical results, empirical studies, equilibrium,
+            exchange rate regime, explanatory variables, exports,
+            external shocks, externality, extreme poverty, fiscal
+            deficit, Fiscal Deficits, fiscal policies, Fiscal Policy,
+            fixed exchange rate, fixed exchange rates, GDP, GNP,
+            Government Budget, government debt, Government Spending,
+            growth literature, growth model, growth performance, growth
+            policies, growth process, growth rate, growth rates, Growth
+            Regression, human capital, human development, imports,
+            income distribution, income inequality, income levels,
+            income redistribution, increase growth, inflation, interest
+            rate, interest rates, investment expenditures, investment
+            rate, labor productivity, long run, Long-Run Growth,
+            long-term growth, Macroeconomic Framework, macroeconomic
+            policies, macroeconomic policy, Macroeconomics, marginal
+            productivity, market distortions, market failures, monetary
+            financing, monetary policies, monetary policy, monetary
+            union, money supply, negative externalities, net exports,
+            open economies, output growth, payments crisis, per capita
+            income, per capita income levels, political instability,
+            political stability, poverty reduction, poverty reduction
+            objective, present value, production function, productivity,
+            propensity to save, property rights, public capital, Public
+            debt, public deficit, public deficits, Public Economics,
+            Public expenditure, public expenditures, public finance,
+            public investment, Public Policy, public sector, public
+            services, regulatory framework, rich countries, saving rate,
+            savings, savings behavior, structural adjustment, structural
+            adjustment programs,  tax rates, tax revenues, Taxation,
+            wealth, welfare perspective
+        </keywd>
+        <owner>Poverty Reduction &amp; Econ Mng Div (WBIPR)</owner>
+        <geo_regions>
+            <geo_region>Sahel</geo_region>
+            <geo_region>Sub-Saharan Africa</geo_region>
+            <geo_region>West Africa</geo_region>
+            <geo_region>World</geo_region>
+        </geo_regions>
+        <repnb>33049</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>Economic Policy and Debt</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Economic Management</ml:concept><ml:concept>Macroeconomic Management</ml:concept><ml:concept>Macroeconomic Policy</ml:concept><ml:concept>Macroeconomics Policy</ml:concept><ml:concept>Macroeconomics and Economic Growth</ml:concept><ml:concept>Macroeconomics and Growth</ml:concept><ml:concept>Teaching and Learning</ml:concept><ml:concept>Poverty Reduction</ml:concept><ml:concept>Poverty Reduction and Distributional Analysis</ml:concept><ml:concept>Poverty Reduction and Equity</ml:concept><ml:concept>Poverty and Inequality</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Social Protections and Labor</ml:concept><ml:concept>International Competitiveness</ml:concept><ml:concept>International Economics and Trade</ml:concept><ml:concept>Trade Liberalization</ml:concept><ml:concept>Trade Liberalization and Regional Integration</ml:concept><ml:concept>Trade Restrictiveness</ml:concept><ml:concept>Trade and Integration</ml:concept><ml:concept>Macroeconomic Vulnerability and Debt</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Macroeconomic and Structural Policies</ml:concept><ml:concept>Education</ml:concept><ml:concept>Economic Growth</ml:concept><ml:concept>Health, Nutrition and Population</ml:concept><ml:concept>Poverty</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Social Protection and Labor</ml:concept><ml:concept>Trade</ml:concept><ml:concept>Public Expenditure</ml:concept><ml:concept>Monetary and Exchange Rate Policy</ml:concept><ml:concept>Fiscal &amp; Monetary Policy</ml:concept><ml:concept>Fiscal Consolidation</ml:concept><ml:concept>Fiscal Decentralization</ml:concept><ml:concept>Fiscal Governance</ml:concept><ml:concept>Fiscal Governance and Structural Fiscal Reform</ml:concept><ml:concept>Fiscal Reform</ml:concept><ml:concept>Fiscal Rules</ml:concept><ml:concept>Fiscal Sustainability</ml:concept><ml:concept>Macro-Fiscal Policy</ml:concept><ml:concept>Debt Management</ml:concept><ml:concept>Debt Policy</ml:concept><ml:concept>Debt Policy and Management</ml:concept><ml:concept>Public Debt Management</ml:concept><ml:concept>Basic Education</ml:concept><ml:concept>Demographics</ml:concept><ml:concept>Management of Public Finance</ml:concept><ml:concept>Public Finance Management</ml:concept><ml:concept>Public Finances</ml:concept><ml:concept>Public Sector Economics</ml:concept><ml:concept>Public Sector Economics &amp; Finance</ml:concept><ml:concept>Efficiency of Public Expenditures</ml:concept><ml:concept>Public Expenditures</ml:concept><ml:concept>Public Financial Management</ml:concept><ml:concept>Public Spending</ml:concept><ml:concept>Civil Service Employment</ml:concept><ml:concept>Civil Service Reform</ml:concept><ml:concept>Human Capital</ml:concept><ml:concept>Managing People</ml:concept><ml:concept>Public Employment</ml:concept><ml:concept>Analysis &amp; Monitoring</ml:concept><ml:concept>Delivery Units</ml:concept><ml:concept>Grievance Redress</ml:concept><ml:concept>Indicators</ml:concept><ml:concept>M&amp;E</ml:concept><ml:concept>Performance Measurement</ml:concept><ml:concept>Performance Reviews</ml:concept><ml:concept>Rapid Results Approaches</ml:concept><ml:concept>External Debt</ml:concept><ml:concept>Consumption</ml:concept><ml:concept>Income</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Copyright</ml:concept><ml:concept>Fiscal Policy and Growth</ml:concept><ml:concept>Government Expenditure</ml:concept><ml:concept>Infrastructure</ml:concept><ml:concept>Savings</ml:concept><ml:concept>Inflation</ml:concept><ml:concept>Monetary Policy</ml:concept><ml:concept>Fiscal Policy</ml:concept><ml:concept>Debt</ml:concept><ml:concept>Primary Education</ml:concept><ml:concept>Population</ml:concept><ml:concept>Public Finance</ml:concept><ml:concept>Managing Public Finances</ml:concept><ml:concept>Human Resources Management</ml:concept><ml:concept>Monitoring and Evaluation</ml:concept></ml:concepts><ml:geo-regions/></ml:annotations></ml:doc-envelope>

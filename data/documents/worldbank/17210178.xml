@@ -1,0 +1,982 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>ï»¿                                                                     75012&#13;
+                        Toward Universal Coverage:&#13;
+                        Turkeyâ&#128;&#153;s Green Card&#13;
+                        Program for the Poor&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Rekha Menon,&#13;
+Salih Mollahaliloglu,&#13;
+and Iryna Postolovska&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                        Universal Health Coverage Studies Series (UNICO)&#13;
+                        UNICO Studies Series No. 18                        1&#13;
+&amp;#12;&amp;#12;UNICO Studies Series 18&#13;
+Toward Universal Coverage:&#13;
+Turkeyâ&#128;&#153;s Green Card Program for the Poor&#13;
+Rekha Menon, Salih Mollahaliloglu, and Iryna Postolovska1&#13;
+&#13;
+The World Bank, Washington DC, January 2013&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+1&#13;
+  Rekha Menon is a Sr. Economist in the Human Development Sector Unit of the Europe and Central Asia region of&#13;
+the World Bank. Dr. Salih Mollahaliloglu is a National Health Policy Board Member of the Ministry of Health,&#13;
+Turkey. Iryna Postolovska is a consultant to the World Bank. The authors would like to thank Enis Baris, Sector&#13;
+Manager, Middle East and North Africa Region, and Ajay Tandon, Sr. Economist, Human Development Sector&#13;
+Unit, East Asia and Pacific Region, for the insightful comments.&#13;
+&amp;#12;           The World Bankâ&#128;&#153;s Universal Health Coverage Studies Series (UNICO)&#13;
+All people aspire to receive quality, affordable health care. In recent years, this aspiration has&#13;
+spurred calls for universal health coverage (UHC) and has given birth to a global UHC&#13;
+movement. In 2005, this movement led the World Health Assembly to call on governments to&#13;
+â&#128;&#156;develop their health systems, so that all people have access to services and do not suffer&#13;
+financial hardship paying for them.â&#128;? In December 2012, the movement prompted the United&#13;
+Nations General Assembly to call on governments to â&#128;&#156;urgently and significantly scale-up efforts&#13;
+to accelerate the transition towards universal access to affordable and quality healthcare&#13;
+services.â&#128;? Today, some 30 middle-income countries are implementing programs that aim to&#13;
+advance the transition to UHC, and many other low- and middle-income countries are&#13;
+considering launching similar programs.&#13;
+The World Bank supports the efforts of countries to share prosperity by transitioning toward&#13;
+UHC with the objectives of improving health outcomes, reducing the financial risks associated&#13;
+with ill health, and increasing equity. The Bank recognizes that there are many paths toward&#13;
+UHC and does not endorse a particular path or set of organizational or financial arrangements to&#13;
+reach it. Regardless of the path chosen, successful implementation requires that many&#13;
+instruments and institutions be in place. While different paths can be taken to expand coverage,&#13;
+all paths involve implementation challenges. With that in mind, the World Bank launched the&#13;
+Universal Health Coverage Studies Series (UNICO Study Series) to develop knowledge and&#13;
+operational tools designed to help countries tackle these implementation challenges in ways that&#13;
+are fiscally sustainable and that enhance equity and efficiency. The UNICO Studies Series&#13;
+consists of technical papers and country case studies that analyze different issues related to the&#13;
+challenges of UHC policy implementation.&#13;
+The case studies in the series are based on the use of a standardized protocol to analyze the nuts&#13;
+and bolts of programs that have expanded coverage from the bottom upâ&#128;&#148;programs that have&#13;
+started with the poor and vulnerable rather than those initiated in a trickle-down fashion. The&#13;
+protocol consists of nine modules with over 300 questions that are designed to elicit a detailed&#13;
+understanding of how countries are implementing five sets of policies to accomplish the&#13;
+following: (a) manage the benefits package, (b) manage processes to include the poor and&#13;
+vulnerable, (c) nudge efficiency reforms to the provision of care, (d) address new challenges in&#13;
+primary care, and (e) tweak financing mechanisms to align the incentives of different&#13;
+stakeholders in the health sector. To date, the nuts and bolts protocol has been used for two&#13;
+purposes: to create a database comparing programs implemented in different countries, and to&#13;
+produce case studies of programs in 24 developing countries and one high-income â&#128;&#156;comparator,â&#128;?&#13;
+the state of Massachusetts in the United States. The protocol and case studies are being published&#13;
+as part of the UNICO Studies Series, and a comparative analysis will be available in 2013.&#13;
+We trust that the protocol, case studies, and technical papers will provide UHC implementers&#13;
+with an expanded toolbox, make a contribution to discussions about UHC implementation, and&#13;
+that they will inform the UHC movement as it continues to expand worldwide.&#13;
+                                                                               Daniel Cotlear&#13;
+                                                       UNICO Studies Series Task Team Leader&#13;
+                                                                             The World Bank&#13;
+                                                                             Washington, DC&#13;
+&#13;
+                                                                                                ii&#13;
+&amp;#12;                                                          TABLE OF CONTENTS&#13;
+&#13;
+&#13;
+&#13;
+Abbreviations ............................................................................................................................................... iv&#13;
+Executive Summary ...................................................................................................................................... v&#13;
+1. Introduction ............................................................................................................................................ 1&#13;
+2. Transformation of Turkeyâ&#128;&#153;s Health System ........................................................................................... 2&#13;
+3. The Green Card Program for the Poor ................................................................................................... 7&#13;
+4. The Pending Agenda ............................................................................................................................ 12&#13;
+References ................................................................................................................................................... 14&#13;
+&#13;
+&#13;
+FIGURES&#13;
+Figure 1 Timeline of Health Sector Reform in Turkey, 2003â&#128;&#147;12 ................................................................. 4&#13;
+Figure 2 Flow of Funds before 2012............................................................................................................. 6&#13;
+Figure 3 Flow of Funds after 2012................................................................................................................ 6&#13;
+Figure 4 Number of Green Card Beneficiaries, (in millions), Turkey, 2003â&#128;&#147;11 .......................................... 8&#13;
+&#13;
+TABLES&#13;
+Table 1 Health Expenditures, Turkey, 1995â&#128;&#147;2010 ....................................................................................... 3&#13;
+Table 2 Green Card Expenditures as Percent of Public Health Expenditures and GDP, Turkey ................. 7&#13;
+Table 3 Targeting and Coverage of the Green Card, Turkey, 2003â&#128;&#147;08 ...................................................... 12&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                             iii&#13;
+&amp;#12;                                      Abbreviations&#13;
+&#13;
+&#13;
+CCT        Conditional Cash Transfer&#13;
+GDP        gross domestic product&#13;
+HTP        Health Transformation Program&#13;
+MEDULA     Claims and utilization management system&#13;
+MOH        Ministry of Health&#13;
+MOLSS      Ministry of Labor and Social Security&#13;
+OECD       Organisation for Economic Co-operation and Development&#13;
+SAGLIK-NET Health information net or Health-NET&#13;
+SSI        Social Security Institution&#13;
+SSK        Social Insurance Organization for Blue-collar Workers in the Public and&#13;
+           Private Sectors, Sosyal Sigortalar Kurumu&#13;
+TL         Turkish Lira&#13;
+UHI        Universal Health Insurance&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                     iv&#13;
+&amp;#12;Executive Summary&#13;
+&#13;
+In 2003, Turkey launched a comprehensive health reform effort called the â&#128;&#156;Health&#13;
+Transformation Programâ&#128;? (HTP), with a key objective of increasing access to services and&#13;
+eliminating fragmentation in financing by merging the then existing five health insurance&#13;
+schemes (including the Green Card program) into a Universal Health Insurance (UHI) scheme to&#13;
+be managed by the newly created Social Security Institution (SSI).&#13;
+&#13;
+As a result, significant improvements in health system performance and outcomes have been&#13;
+achieved in a relatively short period of time. Formal health insurance coverage of the Turkish&#13;
+population expanded significantly, reaching over 95 percent of the population, while at the same&#13;
+time the government has undertaken the needed capacity building and implementation of&#13;
+incentive structures to assure access and promote efficient use of resources.&#13;
+&#13;
+Key health outcomes, too, have improved. The infant mortality rate has declined from 28.5 per&#13;
+1,000 live births in 2003 to 10.1 per 1,000 live births in 2010. Life expectancy in 2010 was 74.3&#13;
+years compared with 71.8 years in 2002. The maternal mortality ratio fell from 61 deaths per&#13;
+100,000 live births in 2000 to 16.4 deaths per 100,000 live births in 2010.&#13;
+&#13;
+The reforms in the health sector that focused on expanding access to services for the poor and&#13;
+underserved were also accompanied by a significant increase in financial protection for the poor&#13;
+under the HTP. The Green Card program for the Poor, the main flagship social protection&#13;
+program of the Turkish government, played a key role in this aspect.&#13;
+&#13;
+Initially launched in 1992, the Green Card program has seen a rapid expansion in the number of&#13;
+beneficiaries. Since the implementation of the HTP in 2003, the number of beneficiaries has&#13;
+more than tripled, from 2.5 million in 2003 to 9.1 million in 2011.&#13;
+&#13;
+Key to this increase in uptake was the expansion of program benefits. Until 2004, the Green Card&#13;
+program covered only inpatient treatment costs, and uptake was low. In 2004, benefits were&#13;
+expanded to cover both outpatient and inpatient services at public hospitals, and in 2005,&#13;
+outpatient prescription drugs were included. Higher demand for the Green Card ensued and, by&#13;
+2006, 8.3 million people were under the scheme. Over the years, the benefits package has been&#13;
+expanded to align itself with the rest of the UHI scheme.&#13;
+&#13;
+Targeting of the program has also improved substantially. While, in 2003, 55 percent of program&#13;
+benefits accrued to the population in the bottom income quintile, its targeting performance has&#13;
+improved over time, with 71 percent of benefits reaching the bottom income quintile in 2008.&#13;
+Initiated in January 2012 as a separate targeted scheme for the poor, the Green Card program&#13;
+became part of the UHI scheme managed by the Social Security Institution.&#13;
+&#13;
+This case study unravels Turkeyâ&#128;&#153;s path to universal coverage. It outlines both the transformation&#13;
+of the health system and the performance of the Green Card program. The gradual steps taken to&#13;
+expand coverage, improve targeting, and expand benefits of the Green Card program, combined&#13;
+with the improvements in service delivery within a comprehensive reform of the health sector,&#13;
+makes Turkey a unique example of universal coverage providing quality health services.&#13;
+&#13;
+                                                                                               v&#13;
+&amp;#12;vi&#13;
+&amp;#12;1. Introduction&#13;
+&#13;
+In 2002, Turkeyâ&#128;&#153;s health indicators lagged behind those of Organisation for Economic Co-&#13;
+operation and Development (OECD) and other middle-income countries. Life expectancy at 71.9&#13;
+years was significantly lower than the OECD country average of 78.6 years, and the infant&#13;
+mortality rate and maternal mortality ratio (at 28.5 deaths per 1,000 live births and 61 deaths per&#13;
+100,000 live births, 2 respectively) were some of the highest among middle-income countries.&#13;
+Only 64 percent of the population was covered by health insurance, and even those who were&#13;
+insured did not have adequate access to timely health services.&#13;
+&#13;
+The health financing and delivery system was fragmented, with four separate social insurance&#13;
+schemes and the Green Card for the poor, each with different entitlements and rules for access.&#13;
+System stewardship and governance by the Ministry of Health (MOH) was inadequate; there was&#13;
+little coordination between the MOH and Ministry of Labor and Social Security (MOLSS),&#13;
+which were both providers and financiers of the health system.&#13;
+&#13;
+Various governments had made considerable efforts to restructure health service delivery and&#13;
+financing, with limited success. In 2003, there was a unique opportunity when the government&#13;
+outlined its reform objectives under a Health Transformation Program (HTP), which highlighted&#13;
+the need for a broad â&#128;&#156;transformationâ&#128;? in the way health care was financed, delivered, organized,&#13;
+and managed, particularly in extending health coverage to the entire population and reducing the&#13;
+inequalities in access to and utilization of services across the country. A key objective of the&#13;
+HTP was to increase access to services and eliminate fragmentation in financing by merging all&#13;
+health insurance schemes (including the Green Card program) into a Universal Health Insurance&#13;
+(UHI) scheme to be managed by the newly created Social Security Institution (SSI).&#13;
+&#13;
+As a result, health outcomes have improved significantly. By 2010, life expectancy rose to 74.3&#13;
+years. The maternal mortality ratio and infant mortality rates fell to 16.4 deaths per 100,000 live&#13;
+births and 10.1 deaths per 1,000, respectively. Furthermore, through the expansion of benefits&#13;
+and improvements in targeting, Turkey has been able to achieve universal coverage. According&#13;
+to official SSI statistics, today over 95 percent of the population is now covered by health&#13;
+insurance.&#13;
+&#13;
+The last decade has been a period of rapid economic growth and development for Turkey, thanks&#13;
+to sound macroeconomic management and structural reforms implemented since the 2001&#13;
+banking crisis. As a result, the Turkish economy grew by an average of 5.5 percent between&#13;
+2002 and 2011, compared to the pre-2001 average of around 4 percent. Per capita income tripled&#13;
+over the period and was US$10,444 in 2011.&#13;
+&#13;
+This case study unravels Turkeyâ&#128;&#153;s path to universal coverage. It outlines both the transformation&#13;
+of the health system and the performance of the â&#128;&#156;Yesil Kartâ&#128;?â&#128;&#148;the Green Cardâ&#128;&#148;program, a&#13;
+noncontributory health insurance scheme for the poor. Initially launched in 1992, the Green Card&#13;
+program has seen a rapid expansion in the number of beneficiaries and program benefits since&#13;
+the implementation of the HTP in 2003, with the number of beneficiaries more than tripling,&#13;
+&#13;
+&#13;
+2&#13;
+    The maternal mortality ratio is for 2000.&#13;
+&#13;
+                                                                                                 1&#13;
+&amp;#12;from 2.5 million beneficiaries in 2003 to 9.1 million beneficiaries in 2011. In addition, both the&#13;
+coverage and targeting of the program improved substantially.&#13;
+&#13;
+While the Green Card program initially began as a separate targeted scheme for the poor, in&#13;
+January 2012 it became part of the UHI scheme managed by SSI. As this study will show,&#13;
+gradual steps were taken over the years to expand coverage, improve targeting, and expand&#13;
+benefits of the Green Card program to align it with the UHI. This, combined with the&#13;
+improvements in service delivery within a comprehensive reform of the health sector, makes&#13;
+Turkey a unique example of universal coverage for quality health services.&#13;
+&#13;
+The study is organized as follows. Section 2 briefly outlines Turkeyâ&#128;&#153;s health reform and how&#13;
+health care is currently organized and delivered. Section 3 describes the Green Card Program, it&#13;
+evolution, and its performance. The final section discusses the pending agenda.&#13;
+&#13;
+2. Transformation of Turkeyâ&#128;&#153;s Health System&#13;
+&#13;
+Prior to 2003, health financing in Turkey was fragmented into five independent financing&#13;
+schemes, each with different entitlements and rules of access. The Social Insurance Organization&#13;
+for Blue-collar Workers in the Public and Private Sectors (Sosyal Sigortalar Kurumu, SSK)&#13;
+scheme covered employees in the formal sector; the Social Insurance Agency for Merchants,&#13;
+Artisans and Self-employed (Bag-Kur) covered the self-employed; and the Social Insurance&#13;
+Agency for Active and Retired Civil Servants (Emekli Sandigi) covered active and retired civil&#13;
+servants through two separate schemes. In addition, the Green Card scheme covered the poor and&#13;
+was financed by the Ministry of Finance and operated by the MOH. Service delivery, too, was&#13;
+fragmented, since a large portion of public health facilities belonged to the SSK, while the rest&#13;
+belonged to the MOH.&#13;
+&#13;
+The HTP aimed to reduce this fragmentation in both service delivery and financing. The HTP&#13;
+reforms focused on improvements in service delivery through the introduction of family&#13;
+medicine, performance-based payments at levels of service, and increased hospital autonomy and&#13;
+quality.&#13;
+&#13;
+First, in 2005, SSK hospitals were transferred to the MOH hospital system, thus eliminating one&#13;
+major source of fragmentation in the public delivery system. Second, in 2006, the three health&#13;
+insurance schemes (SSK, Bag-Kur, and Emekli Sandigi) were integrated into a single purchaser,&#13;
+the Social Security Institution (SSI). Third, the adoption of the Social Security and Universal&#13;
+Health Insurance Law in 2008 created the legal and institutional basis for a fully harmonized&#13;
+health insurance system, Universal Health Insurance (UHI), the largest social security system in&#13;
+Turkey, under the control of the SSI. Fourth, in January 2010, the Active Civil Servants scheme&#13;
+was transferred to the SSI, and two years later the Green Card program followed. During the&#13;
+same period, significant efforts were made to harmonize the benefits packages of the various&#13;
+schemes. Today, the same benefits package applies to all groups covered under UHI and is&#13;
+guided by a single Health Implementation Guide, which is published annually. Figure 1 provides&#13;
+a timeline of the reforms in health care financing and service delivery in Turkey.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                2&#13;
+&amp;#12;In recent years, there have been radical changes in the level and composition of health funding in&#13;
+Turkey. Total spending on health as a share of gross domestic product (GDP) has increased from&#13;
+4.9 percent in 2000 to 6.7 percent in 2010, 75.2 percent of which is now publicly funded&#13;
+compared with 62.9 percent in 2000 (table 1). Further decomposition shows the various sources&#13;
+of health spending in Turkey; in 2010, 45.2 percent of funds came from UHI, 30 percent from&#13;
+government sources, 16 percent from out-of-pocket payments, and 8.8 percent from other private&#13;
+sources.&#13;
+&#13;
+                            Table 1 Health Expenditures, Turkey, 1995â&#128;&#147;2010&#13;
+                                                   1995        2000          2005         2010&#13;
+ Total Health Spending as a Share of GDP (%)        2.5         4.9           5.4          6.7&#13;
+ Public Health Spending as a Share of GDP (%)       1.8         3.1           3.7          5.1&#13;
+ Private Health Spending as a Share of GDP (%)      0.7         1.8           1.8          1.7&#13;
+ Public Health Spending as a Share of Total&#13;
+ Health Spending (%)                               70.3        62.9          67.8          75.2&#13;
+ Private Health Spending as a Share of Total&#13;
+ Health Spending (%)                               29.7        37.1          32.2          24.8&#13;
+ Out-of-Pocket Health Spending as a Share of&#13;
+ Total Health Spending (%)                         29.7        27.6          22.8         16.0&#13;
+ Total Expenditure on Health Per Capita (US$)       95         205           382           678&#13;
+ Total Expenditure on Health Per Capita (PPP)      179         454           621          1029&#13;
+ Public Health Expenditure as a Share of General&#13;
+ Government Expenditure (%)                        10.7         9.8          11.3          12.8&#13;
+Note: PPP = purchasing power parity.&#13;
+&#13;
+Turkeyâ&#128;&#153;s health spending in 2010 was not excessive, however; it is in line with that of&#13;
+comparable countries at similar levels of income and reflects the prioritzation given to health by&#13;
+the government in the last decade. Further, as shown below, increases in public spending have&#13;
+led to signifcant improvements in service delivery and to improved access for the underserved&#13;
+and rural populations, with a key focus on priority services for mothers and children.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                  3&#13;
+&amp;#12;                                                                   Figure 1 Timeline of Health Sector Reform in Turkey, 2003â&#128;&#147;12&#13;
+&#13;
+&#13;
+              Individual performance-based                                                             No payment required&#13;
+             supplementary payment system                                                                from citizens for&#13;
+            implemented in MOH institutions               Green Card holders covered for               primary care, even if&#13;
+                                                           outpatient prescription drugs                not covered under&#13;
+           Right to choose a physician system                                                             social security                 Amendments to Social&#13;
+             implemented in MOH hospitals                                                                                              Security and UHI law adopted&#13;
+                                                                                                         Ambulance services               by the Grand National&#13;
+                                                                                                        made more accessible            Assembly and signed by the&#13;
+            Green Card holders covered for                SSK pharmacies closed and                    in hard-to-reach areas                    President                               Decree in Force of Law No.&#13;
+                     outpatient                         members allowed to access private                     in winter                                                                 663 on the Organization and&#13;
+                                                                    facilities                             Family medicine             Green Card holders to receive                      Duties of the Ministry of&#13;
+                                                                                                       implemented in Elazig,          same benefits as enrollees in                       Health and its Affiliates&#13;
+ Ambulance services made                                 SSK hospitals transferred to the                 Isparta, Izmir, and             other health insurance                           passed establishing the&#13;
+        free of charge                                                MOH                                 Samsun provinces                 schemes under UHI                            Public Health Institution and&#13;
+ Mechanisms introduced so                                                                                                                                                                Public Hospitals Union and&#13;
+ that the system of patients                                                                                                                                                               moving the MOH into a&#13;
+  being held in hospitals as                                                                                                                                                             stewardship role and away&#13;
+pawns due to nonpayment of                                                                                                                                                             from provision and financing.&#13;
+     fees was abrogated                                                                                                                                                                    Decree also establishes&#13;
+                                                                                                                                                                                             positive incentives&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                        2004                                               2006                                                 2008                                      2010                                           2012&#13;
+ 2003                                           2005                                                 2007                                           2009                                            2011&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                Copayment required for                           New Health Budget Law adopted (SUT)                            Health payments of civil                                   Green Card&#13;
+                                                    Green Card for                            according to which (a) referral requirement                         servants and their                                        program&#13;
+                                                   pharmaceuticals                             from MOH hospital to university hospitals                      dependents relocated to SSI                               transferred to SSI&#13;
+                                                                                            removed for SGK and Ba-Kur; (b) patients with&#13;
+                                             Family medicine pilot first                       chronic condition can refill prescription at                         Family Medicine&#13;
+                                               implemented in Duzce                            pharmacy without pre-authorization from                         implemented countrywide,&#13;
+                                                                                              physician; (c) bundled (fixed-price) payment                      including in Ankara and&#13;
+                                                                                             for outpatient and inpatient procedures based                              Istanbul&#13;
+                                                                                             on CPT and ICD-10 introduced in all MOH and&#13;
+   Performance-based                                                                            university hospitals and private hospitals&#13;
+payments piloted in 10 MOH                                                                     under contract with the SGK; (d) hospitals&#13;
+        hospitals&#13;
+                                                                                            under contract with the SSI required to provide&#13;
+                                                                                            inpatient pharmaceuticals and medical devices&#13;
+                                                                                             (covered by insurance) for free, and would be&#13;
+                                                                                               fined if they charged patients; (e) all MOH,&#13;
+                Reimbursement Commission                                                         university, and private hospitals under&#13;
+                       responsible for                                                       contract with the SSI required to report claims&#13;
+                  reimbursement decisions             Global budget implemented for MoH hospitals            through MEDULA                                  Family Medicine&#13;
+                   established according to                                                                                                                 implemented in the&#13;
+                  Ministry of Finance decree           Implementation of Law 5502 (integration of                                                         provinces of Bursa, Rize,&#13;
+                                                              social security institutions) begins                                                       Trabzon, Tunceli, and UÅ&#159;ak&#13;
+                                                                                                                                                        Contribution share payment&#13;
+                                                        Family medicine implemented in Adiyaman, Denizli,                                               for outpatient physician and&#13;
+                                                           Edirne, Eskisehir, and Gumushane provinces                                                       dentist examinations&#13;
+                                                                                                                                                                 introduced&#13;
+                                                            Pharmaceutical expenditure tracking system&#13;
+                                                        established in SGK and work on an integrated claims&#13;
+                                                            and utilization management system for SGK&#13;
+                                                                         (MEDULA) initiated&#13;
+                                                                                                                                                                                                                                             4&#13;
+&amp;#12;Provision and Financing of Health Services in Turkey&#13;
+&#13;
+Prior to implementation of the HTP, primary care was weak, and the majority of the population&#13;
+sought ambulatory care through outpatient services in hospitals. In addition, large regional&#13;
+disparities in quality and access to health care existed, with health outcomes and utilization rates&#13;
+varying significantly by province. Realizing the need to restructure the primary care system, the&#13;
+government decided to implement the Family Medicine Program. The program, piloted in Duzce&#13;
+in 2005, and was rolled out nationwide by the end of 2010. Family medicine providers provide&#13;
+â&#128;&#156;integrated health servicesâ&#128;? covering a wide range of primary care services, with an increasing&#13;
+emphasis on prevention of chronic diseases. They have also assumed the responsibility for&#13;
+conducting vaccinations, prenatal care, and infant follow-up, activities that were previously&#13;
+conducted primarily by midwives. Today, primary care and preventive care services are&#13;
+delivered mainly through 6,463 family health centers with 20,243 Family Medicine Practice&#13;
+doctors and 20,243 Family Health Personnel (mainly nurses and midwives) and community&#13;
+health centers.&#13;
+&#13;
+Secondary and tertiary health care services are provided by MOH-affiliated public hospitals&#13;
+(including SSK hospitals since 2006), university hospitals, and private hospitals. In 2010, there&#13;
+were 1,439 hospitals in Turkey of which 843 were owned by the MOH, 63 were university&#13;
+hospitals, 489 were private facilities, and 45 were owned by other public establishments and&#13;
+local administrations.&#13;
+&#13;
+In Turkey, primary care and preventive services are financed mainly through the state budget.&#13;
+There are no copayments at the primary-care level. Primary care and preventive services are&#13;
+largely delivered by the Family Medicine Program. Individual doctors and other clinical staff are&#13;
+contracted using performance-based contracts on a capitation basis.&#13;
+&#13;
+Hospital services are financed through a combination of prospective and retrospective payments.&#13;
+The state budget covers the majority of health personnel expenses for public hospitals and, until&#13;
+2012, expenses for the Green Card holders. For MOH hospitals, SSI transfers a global budget for&#13;
+services provided to its beneficiaries. These funds go into the revolving fund of each hospital and&#13;
+cover all other expenses, including performance-based bonuses for providers. In addition,&#13;
+salaries and investment costs for MOH hospitals are covered by the general budget. For the&#13;
+private sector and university hospitals, SSI negotiates and concludes contracts with providers,&#13;
+which usually last for up to a year.&#13;
+&#13;
+University hospitals have a structure similar to MOH hospitals and receive funds from the state&#13;
+to cover salaries and other investments, and have revolving funds from which they generate&#13;
+income from the SSI and patients. Since January 2010, a new classification system for private&#13;
+hospitals has been in place that classifies private hospitals into five categories (from A to E)&#13;
+based on quality indicators such as numbers of beds and patient operations. Private facilities can&#13;
+request extra billing according to their classification. For example, a Category A facility can&#13;
+charge up to an additional 70 percent of the SSI tariff, while category E facilities can bill up to&#13;
+30 percent.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                  5&#13;
+&amp;#12;Cost sharing through copayments has been introduced both as a revenue generation mechanism&#13;
+and to encourage appropriate use of care, and applies to all beneficiaries. Outpatient visits to&#13;
+university and MOH hospitals incur a charge of 8 Turkish Lira (TL), while visits to private&#13;
+hospitals incur a copayment of 15 TL. To reduce overprescription, a 3 TL discount is provided if&#13;
+no medicine is prescribed during a visit to a university, MOH, or private hospital. Copayments&#13;
+for pharmaceuticals are usually 20 percent except for retirees who pay 10 percent.&#13;
+&#13;
+Figure 2 diagrams the flow of funds prior to 2012. As mentioned, on January 1, 2012, the Green&#13;
+Card program was transferred to the SSI. Thus, today, health services for all five schemes are&#13;
+financed through the UHI scheme housed in the SSI (figure 3).&#13;
+                              Figure 2 Flow of Funds before 2012&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                               Figure 3 Flow of Funds after 2012&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                              6&#13;
+&amp;#12;3. The Green Card Program for the Poor&#13;
+&#13;
+The reforms in the health sector that focused on expanding access to services for the poor and&#13;
+underserved were also accompanied by a significant increase in financial protection for the poor&#13;
+under the HTP. The Green Card Program for the Poor, the main flagship social protection&#13;
+program of the Turkish government, played a key role in this aspect.&#13;
+&#13;
+Established in 1992, this program aimed to provide health benefits to the poor who are not&#13;
+covered through formal means of health insurance and are unable to pay for health services. The&#13;
+main legal instrument for its establishment was the Law on Funding Treatment Costs of the Non-&#13;
+Affording Citizens from the Government Budget by Issuing the Green Card Numbered 3816 and&#13;
+Dated 1992. Turkish citizens living within the borders of the Republic of Turkey who were not&#13;
+covered by any social security schemes and who have a per capita household income of less than&#13;
+one-third of the minimum wage threshold (except for taxes and social security premiums), could&#13;
+be eligible for coverage under the Green Card program. In addiiton, pensioners over 65 years of&#13;
+age and people with chronic illnesses (those employed but who have diabetes or are on dialysis)&#13;
+were eligible even if their householdâ&#128;&#153;s per capita income was greater than one-third the&#13;
+minimum wage.&#13;
+&#13;
+How is it Funded?&#13;
+The Green Card program is funded through the national budget. In 2002, the budget allocated&#13;
+toward the program represented only 0.15 percent of GDP and 4.05 percent of public health&#13;
+expenditures. As shown in table 3, the budget expanded significantly, and by 2009 it accounted&#13;
+for 0.40 percent of GDP and 8.43 percent of public health expenditures.&#13;
+&#13;
+                                Table 2 Green Card Expenditures&#13;
+                   as Percent of Public Health Expenditures and GDP, Turkey&#13;
+                    Year        Total      Percent of     Percent of    Percent&#13;
+                            Expenditure      Public      Total Public   of GDP&#13;
+                             (Thousand      Health       Expenditures&#13;
+                                liras)    Expenditures&#13;
+                    2002       537,937        4.05           0.36        0.15&#13;
+                    2003       665,000        3.81           0.39        0.15&#13;
+                    2004       756,000        3.53           1.11        0.14&#13;
+                    2005      2,340,211       9.76           1.07        0.36&#13;
+                    2006      2,651,239       8.80           1.33        0.35&#13;
+                    2007     3,722,207       10.78           1.33        0.44&#13;
+                    2008     3,746,203        8.98           1.20        0.39&#13;
+                    2009     3,845,820        8.43           0.95        0.40&#13;
+                    2010     3,390,083&#13;
+                    2011     3,174,639&#13;
+&#13;
+&#13;
+To pay for Green Card beneficiaries, the Ministry of Finance allocated funds in the MOH budget&#13;
+and these were transferred to hospitals by the MOH in lieu of services used by Green Card&#13;
+&#13;
+&#13;
+                                                                                              7&#13;
+&amp;#12;beneficiaries (see figure 2). In this case, the MOH was both provider and purchaser, except for&#13;
+when Green Card recipients sought care in university hospitals.&#13;
+What are the Entitlements?&#13;
+Until 2004, the Green Card program covered only inpatient treatment costs, and uptake was low.&#13;
+In 2003, only 2.5 million people were registered under the program and targeting was poorâ&#128;&#148;&#13;
+only 20 percent of the beneficiaries belonged to the lowest income quintile. The budget allocated&#13;
+toward the program represented only 0.33 percent of total health spending. In 2004, benefits&#13;
+under the program were expanded to cover both outpatient and inpatient services at MOH and&#13;
+university hospitals, and as of January 2005, outpatient prescription drugs were included in the&#13;
+benefits package. This induced a higher demand for the Green Card and, by 2006, 8.3 million&#13;
+people were under the scheme. Over the years, the benefits package has been expanded to align&#13;
+itself with the rest of the Universal Health Insurance Program. By 2011, the number of&#13;
+beneficiaries reached 9.1 million or 12.7 percent of the total population of Turkey. Figure 4&#13;
+illustrates the expansion in beneficiaries under the program between 2003 and 2011.&#13;
+&#13;
+          Figure 4 Number of Green Card Beneficiaries, (in millions), Turkey, 2003â&#128;&#147;11&#13;
+&#13;
+                                          15&#13;
+&#13;
+&#13;
+&#13;
+                                          10                                           9.6&#13;
+                                                                           9.4   9.3         9.4   9.1&#13;
+                                                                     8.3&#13;
+                   number (in millions)&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                         6.9   7.3&#13;
+                                           5&#13;
+&#13;
+                                                   2.5&#13;
+&#13;
+                                           0&#13;
+                                            2002    2004        2006        2008        2010        2012&#13;
+&#13;
+Today, the basic benefits package is comprehensive and covers health service expenditures for&#13;
+the following:&#13;
+&#13;
+   â&#128;¢   Personal preventive health care including preventive care for addictive substances&#13;
+       harmful to health&#13;
+   â&#128;¢   Outpatient and inpatient services, medical consultations, diagnostic tests, treatment,&#13;
+       dressing, tooth extraction, dental prosthesis, and eyeglasses&#13;
+   â&#128;¢   Outpatient and inpatient maternal health care, medical examinations, diagnostic tests and&#13;
+       procedures, delivery, treatment and emergency care costs of newborns after delivery, and&#13;
+       follow-up services&#13;
+   â&#128;¢   Hospitalization for emergency cases and treatment&#13;
+   â&#128;¢   In-vitro fertilization, up to two attempts&#13;
+   â&#128;¢   Blood and blood products, vaccines, medicines, prosthesis, medical goods, and&#13;
+       equipment&#13;
+   â&#128;¢   Parmaceuticals and medical devices&#13;
+   â&#128;¢   Free health care provision for children under 18 regardless of their insurance status.&#13;
+&#13;
+                                                                                                           8&#13;
+&amp;#12;Green Card beneficiaries are only covered for services received in public facilities at all three&#13;
+levels of care and can only use private facilities in emergency cases or if public facilities are&#13;
+fully occupied. The same copayments apply for the Green Card beneficiaries as for UHI other&#13;
+beneficiaries. In addition, Green Card beneficiaries also share the cost of dental care, prosthetics,&#13;
+and orthotics.&#13;
+&#13;
+How are Beneficiaries Identified and Enrolled?&#13;
+Until 2012, a hybrid targeting scheme was used to identify individuals eligible for the Green&#13;
+Card. Centrally appointed kaymakams (district officers) were given discretion for the distribution&#13;
+of the card following eligibility rules determined by the central government. Enrolment was&#13;
+voluntary and applications were collected at the district-level Green Card offices, which usually&#13;
+reported directly to centrally appointed district or provincial officers (kaymakams or vailâ&#128;&#153;s). The&#13;
+ultimate decisions on the distribution of the cards were made by local committees chaired by the&#13;
+kaymakam (in districts) and the deputy governor in charge of the Green Card in the province&#13;
+center.&#13;
+&#13;
+The application and card allocation process was as follows:&#13;
+&#13;
+       Step 1: For districts and provinces with population exceeding 50,000, the initial&#13;
+       application process was handled through a one-stop service center. The one-stop service&#13;
+       center checked whether the applicant was registered with any of the social security&#13;
+       institutions (Bagkur, Emekli Sandigi, or SSK) or whether the person owned a motor&#13;
+       vehicle (ownership of a car prevented the person from getting a Green Card).&#13;
+&#13;
+       Step 2: The reported income of the person was added to any income estimated from&#13;
+       agricultural landholdings. Total household income was then divided by the number of&#13;
+       people in the household. If the estimated income per capita was less than one-third of the&#13;
+       net minimum wage (less than 295 TL), then all household members were eligible for the&#13;
+       Green Card.&#13;
+&#13;
+       Step 3: The local committee then decided whether the individual should receive a Green&#13;
+       Card. Even if the person was formally eligible for the card, the committee could use&#13;
+       discretion (if they thought the person was not poor) and not provide the card. Once&#13;
+       qualified, each household member received his or her own green booklet, which&#13;
+       registered all interactions with the health system from that point on.&#13;
+&#13;
+Eligibility lasted for a year, and beneficiaries had to be recertified annually.&#13;
+&#13;
+Integrating the Green Card Program into the UHI â&#128;&#147; What are the Changes?&#13;
+Begining on January 1, 2012, the Green Card program was integrated into the UHI scheme. This&#13;
+resulted in changes in the flow of funds and in the identification and enrolment process. In terms&#13;
+of financing, since January 2012, funds for Green Card holders (who are gradually being&#13;
+transferred into the national system for identification of the poor) are transferred from the&#13;
+Ministry of Finance to the SSI (figure 3).&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                   9&#13;
+&amp;#12;The identification of the poor to be covered by the state budget is now based on a national&#13;
+system called the â&#128;&#156;Integrated Social Aid Services System,â&#128;? which is managed by the Ministry of&#13;
+Family Affairs and Social Policies. The system is also used to determine beneficiaries of&#13;
+scholarships, homecare for the elderly, and conditional cash transfers (CCTs), and disabled&#13;
+benefits.&#13;
+&#13;
+Under the new system, individuals are classifiied into one of four groups (G0â&#128;&#147;G3) depending on&#13;
+their income, as follows:&#13;
+&#13;
+   â&#128;¢   G0: Households with per-capita income less than one-third the minimum wage (0 TL to&#13;
+       295 TL) do not pay premiums. Their premiums are covered by the state.&#13;
+   â&#128;¢   G1: Households with per-capita income between one-third the minimum wage and the&#13;
+       minimum wage (295.50 TL to 886.50 TL) pay a premium of 35.46 TL (12 percent of&#13;
+       one-third the minimum wage).&#13;
+   â&#128;¢   G2: Households whose per-capita income falls between the minimum wage and twice the&#13;
+       minimum wage (886.50 TL to 1,773 TL) pay a premium of 106.38 TL (12 percent of&#13;
+       minimum wage).&#13;
+   â&#128;¢   G3: Households whose income is more than twice the minimum wage (&gt;1,773 TL) pay a&#13;
+       premium of 212.76 TL (12 percent of twice the minimum wage).&#13;
+&#13;
+Green Card beneficiaries are now identified based on an income measurement test and fall into&#13;
+the G0 category. Eligibility is described on the basis of per-capita income of a household, and a&#13;
+household member is regarded as poor if the householdâ&#128;&#153;s per-capita income is less than one-third&#13;
+the minimum wage (&lt;295 TL). If these criteria are met, the health expenditures of each member&#13;
+are covered by the government budget.&#13;
+&#13;
+The identification, certification, and monitoring of Green Card holders is regulated by the&#13;
+Regulation on the Rules and Principles of Identifying, Certifying, and Monitoring Income Under&#13;
+the Universal Health Insurance. People whose premiums are paid from the government budget&#13;
+are visited every year for reassessment. The system is also updated under the following&#13;
+conditions:&#13;
+&#13;
+   â&#128;¢   People whose income varies over the year must apply monthly so that the amount of their&#13;
+       premiums can be adjusted accordingly.&#13;
+   â&#128;¢   The system uses data from various databases to compile information on a familyâ&#128;&#153;s&#13;
+       income. If changes in income are identified before an insuree provides a self-statement,&#13;
+       then the system reruns and re-identifies the housheold income and sets new, more&#13;
+       appropriate premium levels.&#13;
+   â&#128;¢   If the system notes that the number of household members has changed due to births,&#13;
+       deaths, marriages, divorces, and so forth, and is recorded in the public databases, the per-&#13;
+       capita household income is revised automatically to reflect this, and appropriate premium&#13;
+       levels are set.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                10&#13;
+&amp;#12;Monitoring and Evaluation&#13;
+There is no separate monitoring and evaluation system to monitor service use and outcomes of&#13;
+Green Card program recipients. Health indicators in Turkey are monitored on the national level&#13;
+through a web-based integrated health information system called â&#128;&#156;SAGLIK-NET,â&#128;? which is used&#13;
+to share electronic health records of individuals among health instituitions. Separate information&#13;
+systems exist for human resources, decision support, family medicine (the Family Medicine&#13;
+Information System), and hospitals (the Hospital Information System), but these are all&#13;
+connected within the â&#128;&#156;SAGLIK-NET.â&#128;? Performance indicators for productivity measurements,&#13;
+utilization management, and quality management are slowly being introduced in this system.&#13;
+&#13;
+The MEDULA system is the main UHI claims processing engine at SSI. The claims process&#13;
+includes identifying beneficiaries; authorizing services; managing referrals; and receiving,&#13;
+adjudicating, and paying claims. Begining in January 2012, services use by Green Card&#13;
+beneficiaries are also being monitored by the MEDULA system. Prior to January 1, 2012, only&#13;
+information about medicines procured at pharamcies by Green Card beneficiaires was available&#13;
+in the MEDULA system. This system, however, is yet to evolve into an effective tool for policy&#13;
+implementation since there is a lack of real-time micro data available on health spending.&#13;
+&#13;
+In addition, as noted above, since 2012, state budget coverage for health insurance is being done&#13;
+under the national system for identification of the poor database called the â&#128;&#156;Integrated Social Aid&#13;
+Services System.â&#128;?&#13;
+&#13;
+Performance of the Green Card Program&#13;
+A 2012 World Bank study (Aran and Hentschel 2012), which analyzes the impact of the Green&#13;
+Card program using the latest Household Budget Surveys from 2003 to 2008, provides further&#13;
+insights into the financial protection and equity engendered by the HTP. These latest data both&#13;
+attest to the effective targeting of the Green Card program and highlight the high and improving&#13;
+levels of financial protection and equity in the Turkish health system.&#13;
+&#13;
+In terms of targeting, despite the rapid rollout of the Green Card program from 2003 to 2008,&#13;
+analysis of Household Budget Surveys from 2003 to 2008 (Aran and Hentschel 2012) shows that&#13;
+there was no deterioration in the targeting performance of the program and, in fact, targeting&#13;
+performance of the Green Card has improved over time in this expansion period. While, in 2003,&#13;
+55 percent of benefits accrued to the bottom quintile (33 percent to the poorest decile and 22&#13;
+percent to the second decile), this targeting performance has improved over time, with 64 percent&#13;
+of benefits reaching this group in 2005, 68 percent in 2007, and 71 percent of benefits reaching&#13;
+the bottom quintile in 2008 (table 4). The targeting performance of the Green Card scheme in&#13;
+Turkey compared well internationally; 60 percent of Chileâ&#128;&#153;s Family Subsidy cash transfers, 39&#13;
+percent of Brazilâ&#128;&#153;s Bolsa Escola CCT program, 34 percent of Mexicoâ&#128;&#153;s Oportunidades CCT&#13;
+program, and 34 percent of Indonesiaâ&#128;&#153;s Kartu Sehat health insurance program benefit the bottom&#13;
+quintile of the population in those countries (CastaÃ±eda and Lindert 2005).&#13;
+&#13;
+Although there are scant data on the impact of the Green Card program on utilization of health&#13;
+services, to assess the protective impact, a unique household survey, the Turkey Welfare&#13;
+Monitoring Survey, fielded during the financial crisis in Turkey, assessed the impact of the&#13;
+&#13;
+                                                                                                11&#13;
+&amp;#12;Green Card in times of economic hardship. Three different methodologies were used to establish&#13;
+the impact of the Green Card on health care utilization during the crisis. Both nonparametric and&#13;
+parametric estimates using the Turkey Welfare Monitoring Survey established that the Green&#13;
+Card program was an effective and functional safety net, protecting the health care utilization of&#13;
+the poor during the crisis period. Propensity score matching estimates and robustness checks&#13;
+using four different matching techniquesâ&#128;&#148;as well as trimming to increase common supportâ&#128;&#148;&#13;
+confirm that access to the Green Card was associated with a positive and significant impact on&#13;
+protecting the health care utilization of poor households through the beginning of the financial&#13;
+crisis (Aran and Hentschel 2012).&#13;
+&#13;
+                Table 3 Targeting and Coverage of the Green Card, Turkey, 2003â&#128;&#147;08&#13;
+Per Capita                           Targeting:                                      Coverage:&#13;
+Expenditure         Percent of People with Green Card Access in        Percent of this Decile Covered by the&#13;
+Deciles                              this Decile                                    Green Card&#13;
+                    2003 2004 2005 2006           2007    2008      2003 2004 2005 2006 2007 2008&#13;
+1 (Poorest)          33      40      37      38      43       46      12     26     43   54     64      62&#13;
+2                    22      25      27      24      25       25      8      17     31   34     36      34&#13;
+3                    14      14      13      15      12       13      5       9     15   22     17      17&#13;
+4                    12      9       9       8        7       6       4       6     10   11     10       8&#13;
+5                    9       6       5       5        5       5       3       4     6     7      7       6&#13;
+6                    5       3       4       3        4       4       2       2     4     5      5       5&#13;
+7                    3       2       2       2        2       2       1       1     2     3      4       2&#13;
+8                    1       0       2       2        1       1       0       0     2     2      2       1&#13;
+9                    1       0       1       1        1       0       0       0     1     1      1       0&#13;
+10                   1       1       1       1        0       0       0       0     1     1      0       0&#13;
+TOTAL               100     100     100     100      100     100      4       7     12   14     15      14&#13;
+Source: Aran and Hentschel 2012 (estimations using the Household Budget Surveys).&#13;
+&#13;
+&#13;
+4. The Pending Agenda&#13;
+&#13;
+As noted, over the last decade, Turkey has achieved significant success in expanding health&#13;
+insurance to a majority of its population, while at the same time undertaking the needed capacity&#13;
+building and implementation of incentive structures to assure access and financial protection, and&#13;
+to promote efficient use of resources. Moving forward, maintaining the sustainability of&#13;
+financing the UHI while ensuring continued access to quality health services will be important.&#13;
+&#13;
+While health spending in Turkey, including funds allocated for Green Card recipients, has&#13;
+increased over the last decade, the Government of Turkey has already been taking the necessary&#13;
+measures to ensure improved efficiency in health spending, that is, â&#128;&#156;value for money,â&#128;? and to&#13;
+contain costs. A key focus in the future will be on the extensiveness of the benefits package.&#13;
+Work is ongoing to define services that would be best covered under a complementary health&#13;
+insurance scheme in the near future. In addition, evaluating the use of new and existing&#13;
+&#13;
+                                                                                                        12&#13;
+&amp;#12;medicines and treatments financed by SSI, including medicines, medical devices, diagnostic&#13;
+techniques, surgical procedures, and health promotion activities, can help improve decision&#13;
+making on the scope of the basic benefits package, and assist in the decision on expanding to&#13;
+new services.&#13;
+&#13;
+The introduction of expenditure caps for MOH, private, and university hospitals and for&#13;
+pharmaceuticals in recent years has been a positive step toward ensuring the fiscal sustainability&#13;
+of the universal health insurance system. In 2007, a fixed global budget for all MOH hospitals&#13;
+was implemented, and to date this has been successful in containing further spending growth in&#13;
+these hospitals. In 2010, the government successfully imposed spending limits for university and&#13;
+private hospitals. While pharmaceutical spending declined between 2009 and 2010, maintaining&#13;
+the pharmaceutical spending limit has not been particularly successful. The SSI is currently&#13;
+working together with pharmaceutical companies to develop mechanisms that can help maintain&#13;
+the spending limit.&#13;
+&#13;
+While Turkey is developing and implementing modern payment methods and efficient service&#13;
+delivery mechanisms, what is missing is the transfer of the financial risk to providers. This&#13;
+would involve implementing utilization management and review processes to assure and monitor&#13;
+appropriate behavior.&#13;
+&#13;
+Effective policy implementation by SSI is constrained by lack of real-time micro data on health&#13;
+spending. The MEDULA data system was designed specifically for this purpose, but four years&#13;
+after its inception it is still not fully operational. Having individual-level claims information is&#13;
+critical for a modern health insurance system to function.&#13;
+&#13;
+There also needs to be better policy coordination between UHI and the MOH in a number of&#13;
+areas including the development of payment systems, determination and application of&#13;
+expenditure caps, medical effectiveness criteria, and a number of pharmaceutical issues.&#13;
+&#13;
+The introduction of a national system to monitor poverty and determine eligibility for all social&#13;
+protection programs is a major step forward. The new system aims to build on the strengths of&#13;
+the old one for determining eligibility by using a hybrid mechanism combining central criteria&#13;
+with local knowledge and assessment. While the system currently has been fairly successful in&#13;
+integrating information from several central databases, use of home visits to countercheck&#13;
+information provided in applications has been more difficult for the new Ministry of Family and&#13;
+Social Affairs. It would, therefore, be crucial to continue monitoring the new identification and&#13;
+enrolment mechanism using Household Budget Surveys to ensure that the program continues to&#13;
+maintain and even improve targeting.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                 13&#13;
+&amp;#12;                                       References&#13;
+&#13;
+&#13;
+Aran, M., and J. Hentschel. 2012. â&#128;&#156;Protection in Good and Bad Times? The Turkey Green Card&#13;
+     Health Program.â&#128;? World Bank, Washington, DC.&#13;
+CastaÃ±eda, Tarsicio, and Kathy Lindert. 2005. â&#128;&#156;Designing and Implementing Household&#13;
+     Targeting Systems: Lessons from Latin America and the United States.â&#128;? World Bank,&#13;
+     Washington, DC.&#13;
+Ministry of Health. 2011. â&#128;&#156;Turkey Health Transformation Program Evaluation Report 2003â&#128;&#147;&#13;
+     2010.â&#128;? Ministry of Health, Ankara.&#13;
+World Bank. 2012. â&#128;&#156;Turkey: Performance Based Contracting in Family Medicine â&#128;&#147; Design and&#13;
+     Achievements.â&#128;? World Bank, Washington, DC.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                       14&#13;
+&amp;#12;15&#13;
+&amp;#12;The World Bank supports the efforts of countries to share prosperity by&#13;
+transitioning toward universal health coverage (UHC) with the objectives of&#13;
+improving health outcomes, reducing the financial risks associated with ill&#13;
+health, and increasing equity. The Bank recognizes that there are many paths&#13;
+toward UHC and does not endorse a particular path or set of organizational or&#13;
+financial arrangements to reach it. Regardless of the path chosen, the quality of&#13;
+the instruments and institutions countries establish to implement UHC are&#13;
+essential to its success. Countries will face a variety of challenges during the&#13;
+implementation phase as they strive to expand health coverage. With that in&#13;
+mind, the World Bank launched the Universal Health Coverage Studies Series&#13;
+(UNICO Studies Series) to develop knowledge and operational tools designed&#13;
+to help countries tackle these implementation challenges in ways that are&#13;
+fiscally sustainable and that enhance equity and efficiency. The UNICO Studies&#13;
+Series consists of technical papers and country case studies that analyze&#13;
+different issues related to the challenges of UHC policy implementation.&#13;
+&#13;
+The case studies in the series are based on the use of a standardized protocol&#13;
+to analyze the nuts and bolts of 27 programs in 25 countries that have&#13;
+expanded coverage from the bottom up, starting with the poor and vulnerable.&#13;
+The protocol consists of 300 questions designed to elicit a detailed&#13;
+understanding of how countries are implementing five sets of policies to&#13;
+accomplish the following:&#13;
+&#13;
+â&#128;¢   Manage the benefits package&#13;
+â&#128;¢   Manage processes to include the poor and vulnerable&#13;
+â&#128;¢   Nudge efficiency reforms to the provision of care&#13;
+â&#128;¢   Address new challenges in primary care&#13;
+â&#128;¢   Tweak financing mechanisms to align the incentives of different stakeholders&#13;
+    in the health sector&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+The UNICO Studies Series aims to provide UHC implementers with an expanded toolbox.&#13;
+The protocol, case studies and technical papers are being published as part of the Series. A&#13;
+comparative analysis of the case studies will be available in 2013.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                               16&#13;
+&amp;#12;</ml:original-txt><ml:search-metadata><doc id="17210178">
+        <url>
+            http://documents.worldbank.org/curated/en/2013/01/17210178/toward-universal-coverage-turkeys-green-card-program-poor
+        </url>
+        <availablein>English</availablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2013/01/17210178/toward-universal-coverage-turkeys-green-card-program-poor</url_friendly_title>
+        <new_url>2013/01/17210178/toward-universal-coverage-turkeys-green-card-program-poor</new_url>
+        <disclosure_date>2013-02-04T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2013-02-04T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/02/04/000333037_20130204152023/Rendered/INDEX/750120NWP0Box300for0the0Poor0TURKEY.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/02/04/000333037_20130204152023/Rendered/PDF/750120NWP0Box300for0the0Poor0TURKEY.pdf</pdfurl>
+        <docdt>2013-01-01T00:00:00Z</docdt>
+        <datestored>2013-02-04T00:00:00Z</datestored>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            Toward universal coverage : Turkey's
+            green card program for the poor
+        </repnme>
+        <abstracts>
+            This case study unravels Turkey's
+            path to universal coverage. It outlines both the
+            transformation of the health system and the performance of
+            the 'Yesil Kart', the Green Card, program, a
+            noncontributory health insurance scheme for the poor.
+            Initially launched in 1992, the Green Card program has seen
+            a rapid expansion in the number of beneficiaries and program
+            benefits since the implementation of the Health
+            Transformation Program, or HTP in 2003, with the number of
+            beneficiaries more than tripling, from 2.5 million
+            beneficiaries in 2003 to 9.1 million beneficiaries in 2011.
+            In addition, both the coverage and targeting of the program
+            improved substantially. While the Green Card program
+            initially began as a separate targeted scheme for the poor,
+            in January 2012 it became part of the UHI scheme managed by
+            Social Security Institution, or SSI. As this study will
+            show, gradual steps were taken over the years to expand
+            coverage, improve targeting, and expand benefits of the
+            Green Card program to align it with the UHI. This, combined
+            with the improvements in service delivery within a
+            comprehensive reform of the health sector, makes Turkey a
+            unique example of universal coverage for quality health
+            services. The study is organized as follows. Section two
+            briefly outlines Turkey's health reform and how health
+            care is currently organized and delivered. Section three
+            describes the Green Card Program, it evolution, and its
+            performance. The final section discusses the pending agenda.
+        </abstracts>
+        <docna>
+            Toward universal coverage : Turkey's
+            green card program for the poor
+        </docna>
+        <display_title>Toward universal coverage :
+            Turkey's green card program for the poor</display_title>
+        <listing_relative_url>/research/2013/01/17210178/toward-universal-coverage-turkeys-green-card-program-poor</listing_relative_url>
+        <docty>Working Paper (Numbered Series)</docty>
+        <subtopic>Health Monitoring &amp; Evaluation,Health Law,Health Economics &amp; Finance,Health Systems Development &amp; Reform,Population Policies</subtopic>
+        <teratopic>Law and Development,Health, Nutrition and Population</teratopic>
+        <count>Turkey</count>
+        <authors>
+            <author>Menon, Rekha</author>
+            <author>Mollahaliloglu, Salih</author>
+            <author>Postolovska, Iryna</author>
+        </authors>
+        <geo_region_mdks>
+            <geo_region_mdk>World!$!80475</geo_region_mdk>
+            <geo_region_mdk>Asia!$!80451</geo_region_mdk>
+            <geo_region_mdk>Eastern Europe!$!107233</geo_region_mdk>
+            <geo_region_mdk>Europe!$!80461</geo_region_mdk>
+            <geo_region_mdk>Middle East!$!80463</geo_region_mdk>
+        </geo_region_mdks>
+        <entityids>
+            <entityid>000333037_20130204152023</entityid>
+        </entityids>
+        <admreg>Europe and Central Asia,Europe and Central Asia</admreg>
+        <colti>Universal Health Coverage (UNICO) studies
+            series ; no. 18</colti>
+        <lang>English</lang>
+        <historic_topic>Law and Development,Health, Nutrition and Population</historic_topic>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            access to health care, access to services,
+            Ambulance, Ambulance services, beds, blood products, Budget
+            Law, capacity building, capitation, capitation basis,
+            certification, chronic condition, chronic diseases,
+            citizens, clinical staff, community health, contracts with
+            providers, Cost sharing, deaths, decision making, delivery
+            mechanisms, delivery system, dental care, dental prosthesis,
+            developing countries, diabetes, diagnostic tests, dialysis,
+            doctors, economic growth, elderly, emergency care, emergency
+            cases, enrollees, family health, financial protection,
+            financial risk, financial risks, Force of Law, gross
+            domestic product, health care, health care financing, health
+            care provision, health care services, health care
+            utilization, health centers, Health Coverage, Health
+            Expenditure, Health Expenditures, health facilities, health
+            financing, health funding, health indicators, Health
+            information, health information system, Health Insurance,
+            health insurance coverage, Health Insurance Program, health
+            insurance scheme, health insurance schemes, health insurance
+            system, health outcomes, Health Policy, health promotion,
+            health promotion activities, health records, health reform,
+            health sector, Health Sector Reform, health service, health
+            service delivery, health services, Health System, health
+            system performance, health systems, healthcare, healthcare
+            services, home visits, hospital, hospital autonomy, Hospital
+            services, hospital system, Hospitalization, hospitals,
+            household income, Human Development, human resources, ill
+            health, illnesses, incentive structures, income, income
+            countries, infant, infant mortality, infant mortality rate,
+            infant mortality rates, information systems, inpatient
+            treatment, Insurance, integration, Life expectancy, live
+            births, maternal health, maternal health care, maternal
+            mortality, maternal mortality ratio, medical devices,
+            medical examinations, medical goods, medicines, midwives,
+            Ministry of Health, mortality, National Health, National
+            Health Policy, national level, newborns, number of people,
+            nurses, outpatient services, patient, patients,
+            pharmaceutical companies, Pharmaceutical expenditure,
+            pharmaceutical spending, pharmacies, pharmacy, physician,
+            pocket payments, prenatal care, prescription drugs,
+            preventive care, preventive health care, primary care,
+            private hospitals, private sector, Private Sectors,
+            provision of care, Public Health, Public Health Expenditure,
+            Public Health Expenditures, Public Health Spending, public
+            hospitals, public spending, purchasing power, purchasing
+            power parity, referrals, reform effort, rural populations,
+            safety net, Social Affairs, Social Insurance, Social
+            Policies, Social Security, social security schemes,
+            treatments, universal access, use of resources,
+            vaccinations, vaccines, visits, Workers
+        </keywd>
+        <owner>Health Sector (LCSHH)</owner>
+        <geo_regions>
+            <geo_region>World</geo_region>
+            <geo_region>Asia</geo_region>
+            <geo_region>Eastern Europe</geo_region>
+            <geo_region>Europe</geo_region>
+            <geo_region>Middle East</geo_region>
+        </geo_regions>
+        <repnb>75012</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Economic Management</ml:concept><ml:concept>Macroeconomic Management</ml:concept><ml:concept>Macroeconomic Policy</ml:concept><ml:concept>Macroeconomics Policy</ml:concept><ml:concept>Macroeconomics and Economic Growth</ml:concept><ml:concept>Macroeconomics and Growth</ml:concept><ml:concept>Teaching and Learning</ml:concept><ml:concept>Social Protections and Labor</ml:concept><ml:concept>City Development Strategies</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Agriculture and Food Security</ml:concept><ml:concept>Macroeconomic and Structural Policies</ml:concept><ml:concept>Education</ml:concept><ml:concept>Health, Nutrition and Population</ml:concept><ml:concept>Social Protection and Labor</ml:concept><ml:concept>Urban Development</ml:concept><ml:concept>Health Monitoring and Evaluation</ml:concept><ml:concept>Structural Measures</ml:concept><ml:concept>Structural Reform</ml:concept><ml:concept>UHI</ml:concept><ml:concept>Delivery of Health Care</ml:concept><ml:concept>Health Care Delivery</ml:concept><ml:concept>Health Service Management and Delivery</ml:concept><ml:concept>Health Systems</ml:concept><ml:concept>Preventive Services</ml:concept><ml:concept>Primary and Secondary Prevention</ml:concept><ml:concept>Ambulance</ml:concept><ml:concept>EMS</ml:concept><ml:concept>Emergency Systems</ml:concept><ml:concept>Medical Transport</ml:concept><ml:concept>Urgent Care</ml:concept><ml:concept>Medical Supplies, Drugs</ml:concept><ml:concept>Pharmaceutical Industry</ml:concept><ml:concept>Medical Devices</ml:concept><ml:concept>Insurance &amp; Risk Mitigation</ml:concept><ml:concept>Payment Instruments</ml:concept><ml:concept>Payment Systems &amp; Infrastructure</ml:concept><ml:concept>Securities Settlement Systems</ml:concept><ml:concept>Settlement Systems</ml:concept><ml:concept>Demographics</ml:concept><ml:concept>Compulsory Pension and Unemployment Insurance</ml:concept><ml:concept>Non-Compulsory Pensions and Insurance</ml:concept><ml:concept>Social Insurance (pension,unemployment benefits)</ml:concept><ml:concept>CCT</ml:concept><ml:concept>Health Indicators</ml:concept><ml:concept>Health Monitoring &amp; Evaluation</ml:concept><ml:concept>Income</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Structural Policy and Reform</ml:concept><ml:concept>Health Insurance</ml:concept><ml:concept>Universal Health Insurance</ml:concept><ml:concept>Health Services Delivery</ml:concept><ml:concept>Preventive Care</ml:concept><ml:concept>Primary Care</ml:concept><ml:concept>Emergency Medical Services</ml:concept><ml:concept>Pharmaceuticals</ml:concept><ml:concept>Medical Equipment</ml:concept><ml:concept>Examinations</ml:concept><ml:concept>Minimum Wages</ml:concept><ml:concept>Insurance</ml:concept><ml:concept>Payment Systems</ml:concept><ml:concept>Public Health</ml:concept><ml:concept>Population</ml:concept><ml:concept>Social Insurance</ml:concept><ml:concept>Conditional Cash Transfers</ml:concept><ml:concept>Access to Services</ml:concept></ml:concepts><ml:geo-regions><ml:geo-region>Asia</ml:geo-region><ml:geo-region>Central Asia</ml:geo-region><ml:geo-region>Turkey</ml:geo-region></ml:geo-regions></ml:annotations></ml:doc-envelope>

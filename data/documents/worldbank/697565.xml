@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>At a Glance&#13;
+The World Bank         FPD Note No. 37                                          March 1995&#13;
+Project Design for Payment Systems&#13;
+Fernando Montes-Negret and Robert Keppler&#13;
+$&gt;    Time is money                        er processing. Electronic payments are instructions&#13;
+As economies develop and economic     passed between banks without paper processing or&#13;
+activity becomes increasingly specialized and decen-  shipment. Electronic payments are not always cost-&#13;
+tralized, they require an acceptable medium of ex-   effective for low-value payments that are not time-&#13;
+change for discharging obligations efficiently and  sensitive, particularly in emerging market economies&#13;
+securely. There are costs if a payment system is defi-  with limited access to technology. Card-based pay-&#13;
+cient in some way. Weaknesses in a payment system  ments, relying on automated teller machine (ATM),&#13;
+can result in inefficient use of the available money    credit, and debit cards, for example, are widely used&#13;
+stock, inequitable risk sharing between trading par-  for consumer payments at the point of sale.&#13;
+ties, lack of confidence in the banking system, and&#13;
+inadequate support for the development of other  Many different payment instruments can be created to&#13;
+essential financial services. Moreover, because of the  serve different user needs. Each payment instrument&#13;
+opportunity cost of money, lags between the sale of  will have a unique set of standards and processing&#13;
+goods and services and the receipt of funds are cost-  rules. These rules are determined by several factors,&#13;
+ly. In a very real sense, time is money. To minimize  including the payment media (paper, plastic card, or&#13;
+these lags, different instruments and systems have    electronic), the processing method (on-line or&#13;
+been developed to facilitate the movement of mon-   batched), and the settlement requirements (immediate&#13;
+ey between the participants in a transaction, when-   or provisional, net or gross). For example, payments&#13;
+ever and wherever required, both within a country   requiring immediate transfer of funds are made using&#13;
+and internationally.                           electronic credit instruments that are processed on a&#13;
+transaction-by-transaction (gross settlement) basis by&#13;
+Payment instruments and services               specially designed, secure on-line computer systems&#13;
+Cash is convenient and easy to use for small, point-   to provide immediate finality of payment. Less time-&#13;
+of-sale transactions in which buyer and seller meet    critical needs may be satisfied by debit or credit in-&#13;
+face to face. But most large transactions require some  struments that are processed in batches in paper or&#13;
+form of payment instrument, such as a paper check    electronic form to minimize costs.&#13;
+or an electronic payment order, to move funds. These&#13;
+noncash payments also require the use of one or  To meet market demands, four payment services&#13;
+more banks, as they are accomplished by transferring  may be justified: local clearinghouse arrangements&#13;
+deposit money between the payer's bank and the  to process local interbank debit and credit pay-&#13;
+payee's bank.                                  ments, a capability to process nonlocal inter- and&#13;
+intrabank debit and credit payments, a separate ca-&#13;
+Paper-based payments, such as checks or payment   pability to process high-value and other time-sensi-&#13;
+orders, are processed manually or, if they contain    tive credit payments, and a capability to process&#13;
+machine-readable characters, by high-speed comput-  international payments in a variety of currencies.&#13;
+m m pOFinancial Sector Development Department&#13;
+0          FPD         Vice Presidency for Finance and Private Sector Development&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+Payment systems                            ~~~~~~payment systems must always be designed to satisfy&#13;
+Payment systems comprise the rules, standards, in-         the unique requirements of a particular country, expe-&#13;
+struments, institutions, and technical means for ex-       rience has shown that there are a number of common&#13;
+changing financial value between two parties. While    factors that significantly influence the success of these&#13;
+____________________________________ systems, including speed of payment, certainty and&#13;
+-s -                                    ~~~~~~~~~~~~finality of payment, system reliability, safety and secu-&#13;
+-  *   --        S.                   ~~~~~~~~rity, convenience, and costs. The challenge is to strike&#13;
+current                                 ~~~~~~~~~~the right balan-ce across these factors, depending on-&#13;
+pa~nR~ssteI  lacia~ystnt  nfrstru~tue *  user needs.&#13;
+De6i~/mdit   rasp~t systm  Cen~atI~Speed. Each payment need not be transferred instan-&#13;
+Proi,*ss~~~~~ng    ~       ~             taneously between payer and payee. Although mod-&#13;
+Bat~ih   Mail syem     nstitu1~n&amp;emn technology would permit such rapid transfer, the&#13;
+£~~~ ~cost of moving all payments in this way would be&#13;
+TraffW   t~ws/r~gut0twns  tayoutprohibitive. Even in industrial countries, onl large,&#13;
+~~ilat&amp;raI  ~~~~~~~                      critical payments are made in real time. But in many&#13;
+CIeari~ighusei  Enfo*ement  si~developing countries, the problem is that payments&#13;
+Setttesun~    ~ S~t~ndsion  um~1wnsmay take as long as 30 days. These delays create un-&#13;
+ned~~~~~~ate ~~~~certainty about the eventual completion of the trans-&#13;
+A~ounni~stss   Wistoixers:  fer, introduce significant risk of loss of value in highly&#13;
+tThritrat bank   Timelines&amp;             ~~~inflationary economies, and limnit th   eneficIais&#13;
+Settien~enbank       With~tr~ bai~]c     ability to reinvest the funds. Users must be confident&#13;
+~~d4S~~i1~~~aionPL ~~that a payment that has been initiated will be com-&#13;
+~ayrnetnleda  StrngThs  ories&amp;d~nr      pleted to the right party for the correct amount and&#13;
+Electwni  EfTh~iecy  ~ Tocheioijlrwithin a prescribed time. If users are not confident&#13;
+tooperaife  :toiuatwnabout the certainty of final payment, they will contin-&#13;
+'Procesing  Conlict   Catra 28due to use and demand cash for payments.&#13;
+t3Wne Shtp  E4ucalMm                    ~~~Certainty. A critical requirement in any payment sys-&#13;
+Slails                     ~~~~~tem concems certainty of payment-that is, the point&#13;
+Trataing  taceetivosat which funds are irrevocably available for use, or&#13;
+~~Natio a payments  z     ~~~settlement finality. Payments can carry im-mediate&#13;
+Cemmand  ~ a dware   i~~vepr'cesfinality, so that the funds are immediately and irrevo-&#13;
+Co~isenaal  Sof~~e  ~  lab~ eaPitatcably available for use. Or the funds can be available&#13;
+Mpmtena ce    ~ npetitlo#on a provisional basis until some later time or date.&#13;
+Provisional settlement generally is used with batch&#13;
+Airborization.       &lt;1Time1ine~s ~      processing or debit payments to allow time to con-&#13;
+~~Audit  ~ ~   ~       1~e~~ates    ~     firm funding. Imimediate finality is most often used&#13;
+$UpervlslOfl    ~ ~ ~ ~ ~ ~              with credit payments, which allow the funding to be&#13;
+Migratiwi                               ~~~~~~~~validated before the transaction is processed. Immnedi-&#13;
+~~Two~~~~~track ~~~~ate finality presents less credit risk to the payer and&#13;
+rementa                               ~~~~~~~~~payee, but more risk to banks. Settlement finality is&#13;
+Ctmvaee                                 ~~~~~~~~~guaranteed by the system operator and system partic-&#13;
+~~~RiSk ~~~~~~~~~ipants in accordance with previously agreed rules.&#13;
+Wimngneasto                             ~~~~~~~But despite these rules, the speed at which transac-&#13;
+Pdontres                               ~~~~~~~~~~tions take place can result in significant potential risk.&#13;
+CistsIf~~~~~~~es ~~Notwithstanding the risk, immediate finality is essen-&#13;
+2&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+tial for high-value payment systems that must be able   developing a payment system is an initial stocktaking&#13;
+to transfer (and retransfer) funds rapidly.               to assess the strengths and weaknesses of the starting&#13;
+position (table 1). This stocktaking should help clarify&#13;
+Reliability. A payment system must be reliable if it is  and quantify the sought-after improvements. And it&#13;
+to maintain user confidence. Although no system           should identify the needs of consumers, businesses,&#13;
+will always operate faultlessly, all systems must have   and the financial sector for improved payment servic-&#13;
+adequate contingency provisions and controls, and         es and the way in which these needs are being met&#13;
+adequate backup capabilities in case one or more          or could be met in the short and longer term. Typical&#13;
+major processing stations fail. These elements are        objectives for well-defined payment system projects&#13;
+critical in emerging market economies where the           might include the following:&#13;
+reliability of basic infrastructure (electricity, telecom-   * Strengthening the central bank's macroeconomic&#13;
+munications, vendor support, technical maintenance          management capacity.&#13;
+staff, transport for workers and physical documents)   * Reducing banks' float, speeding up the circulation&#13;
+is not guaranteed.                                           of funds, and increasing the efficiency of funds&#13;
+transmission.&#13;
+Safety and security. The safety and security of pay-      * Improving convenience and service for users.&#13;
+ments also are important. Attention must be given to   * Achieving high levels of reliability, particularly&#13;
+fraud control, credit risk control, laws and rules to       with regard to the integrity and security of data, to&#13;
+resolve disputes promptly and fairly, adequate ar-           meet the needs of a growing economy.&#13;
+rangements to protect against unauthorized access         * Ensuring an ability to expand in a flexible and&#13;
+or tampering with payment system data, and mecha-            modular way to accommodate future changes in&#13;
+nisms to minimize the exposure between partici-             volume.&#13;
+pants and to ensure confidentiality.                      - Allowing for universal access for all financial&#13;
+institutions.&#13;
+Framework for a modernization project                     * Minimizing costs in system design and operational&#13;
+Although a country can leam valuable lessons from            arrangements.&#13;
+the experience of other countries, each must devise&#13;
+its own payment system. Simply importing another          If the stocktaking phase identifies worthwhile bene-&#13;
+country's system without adjusting for the target         fits, a structured approach should be adopted for the&#13;
+country's geography, infrastructure, banking and legal  subsequent project preparation stages. Modernization&#13;
+structures, business practices, culture, and needs        initiatives involve a range of complex issues that af-&#13;
+could lead to a suboptimal system. The first step in      fect all sectors of an economy, so coordination is&#13;
+Figure 1. Sample organizational structure&#13;
+Executive dimetor             Legal and reulatory cmmittee (CB,&#13;
+- a8Hi CB staff    .       National payments council rutes - Regulations - Caringhouse rules - Access - Legal framework&#13;
+Operations conmiftee (CO)&#13;
+1'Nationat payments council      Instruments - Accounting standards - Transportation - Services - Security&#13;
+board chaiman (Cut&#13;
+Automation commitee (CO)&#13;
+Hardware - Software - Telecommunications&#13;
+;Stadards committee ICB)&#13;
+Consultant                 Documentstandards - Formats (paper and electronic) - Telecom protocols - Electronic media&#13;
+Note: CB = central bank, CO = commercial bank. The allocation of the chairs of the proposed committees&#13;
+between the central bank and the commercial banks can vary from country to country.&#13;
+3&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+The resulting vision should bring to life the character-&#13;
+Centr~f bank     Wy i~dne~te~1     Aet0ea        g       istics of the new environment and describe phased&#13;
+thimplementation plans that reflect relative priorities.&#13;
+Table 2 gives a checklist for developing an appropri-&#13;
+SysI~n{liig-w-V~ie ~/pttialtaub-ate payment system vision.&#13;
+ress ir'ential  Frtebestrslts,~ ieven the smlloestwo       iebdigdcmns   swt   te  ye   fpo&#13;
+countries  should adopt aformalprojectmanagOn the basis of an agreed vision, the project can&#13;
+structure,n~     Se~lerueritT,sk~  ~     ohbe artproceed into the conceptual and final design phases.&#13;
+rolediisl~ in- e-sf~lf                 The purpose of a conceptual design is to describe a&#13;
+preliminary cost-effective architecture and operation-&#13;
+spect. e Interntihona Monetary Fund, consultants,   al infrastructure for the envisaged systems. Some&#13;
+fine-tuning of the conceptual design nonrally takes&#13;
+supportings rlthu anneaoa dv r                           place before the final design document is produced;&#13;
+this document contains technical specifications at a&#13;
+level of detail sufficient for. preparing comprehen-&#13;
+essential. For the best results, even the smallest of       sive bidding documents. As with other types of pro-&#13;
+countries should adopt a formal project management   ject, the next step is procurement.&#13;
+structure, and the central bank should play a key&#13;
+role in coordinating reform (see figure 1 for a possi-    A caveat&#13;
+ble organizational structure). There should also be a    Many emerging market economies lack the infra-&#13;
+project manager able to command action and re-              structure and banking sophistication required to&#13;
+spect. The International Monetary Fund, consultants,   leapfrog from basic payment systems to state-of-the-&#13;
+and cooperating central banks can play important            art systems. A two-track approach to project design&#13;
+supporting roles through an intemrational advisory          often is the best way to go. The first task is to fix the&#13;
+panel or by providing direct technical assistance. And   most serious problems and then gradually upgrade&#13;
+any initiative to moderize a payment system must            the current system to meet basic minimum standards&#13;
+involve users. Payment system projects have shown a   of timeliness, security, and reliability. As these im-&#13;
+clear relation between active user involvement and          provements are made, emerging market economies&#13;
+project success. Users can best be involved at two          can turn their attention to long-term, advanced solu-&#13;
+levels: at the policy level-on the steering committee   tions. This two-track approach must be carefully&#13;
+or national payments council, to provide overall di-        controlled to prevent the short-term improvements&#13;
+rection to the project-and at the working level-on    from derailing the long-term  solution.&#13;
+committees staffed with competent personnel capa-    -              __&#13;
+ble of making decisions on behalf of their institu-         A more detailed discussion of these issues can be found in Robert&#13;
+tions. These committees will control the pace of the        Listfield and Fernando Montes-Negret, "Modernizing Payment Systemns in&#13;
+project and the quality of the outcomes.                    Emerging Economies," Policy Research Working Paper 1336 (World&#13;
+Bank, Financial Sector Development Department, Washington, D.C.,&#13;
+The complexity and scope of the necessary work              19)&#13;
+quirmed.    tha ta visionudevlop n pase would dcent   Fernando Montes-Negret, Principal Financial Economist, and Robert&#13;
+quired. A vision development phase would document  Keppler, Senior Payment Systems Specialist, Financial Sector Develop-&#13;
+the results sought over a five-year planning horizon.    ment Department&#13;
+This series is published to share ideas and invite discussion. It covers financial and private sector development as well as&#13;
+industry and energy. The views expressed are those of the authors and are not intended to represent an official statement of&#13;
+Bank policy or strategy. e Printed on recycled paper.&#13;
+Comments are welcome. Please call the FPD Note line to leave a message: 202-458-1111; or contact Suzanne Smith, editor, Room&#13;
+G8105, The World Bank, 1818 H Street, NW, Washington, DC 20433, or Internet address ssmith7@worldbank.org.&#13;
+4&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+</ml:original-txt><ml:search-metadata><doc id="697565">
+        <url>
+            http://documents.worldbank.org/curated/en/1995/03/697565/project-design-payment-systems
+        </url>
+        <availablein>English</availablein>
+        <virt_coll>Knowledge Notes</virt_coll>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/1995/03/697565/project-design-payment-systems</url_friendly_title>
+        <new_url>1995/03/697565/project-design-payment-systems</new_url>
+        <disclosure_date>2010-07-01T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2010-07-01T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/1995/03/01/000009265_3971229181419/Rendered/INDEX/multi_page.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/1995/03/01/000009265_3971229181419/Rendered/PDF/multi_page.pdf</pdfurl>
+        <docdt>1995-03-31T00:00:00Z</docdt>
+        <datestored>1995-03-01T00:00:00Z</datestored>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            Project design for payment systems
+        </repnme>
+        <abstracts>
+            Weaknesses in a payment system can
+            result in inefficient use of the available money stock,
+            inequitable risk sharing between trading parties, lack of
+            confidence in the banking system, and inadequate support for
+            the development of other essential financial services.
+            Moreover, because of the opportunity cost of money, lags
+            between the sale of goods and services and the receipt of
+            funds are costly.  To meet market demand, this Note
+            recommends four payment services: local clearinghouse
+            arrangements to process local interbank debit and credit
+            payments, a capability to process nonlocal inter- and
+            intrabank debit and credit payments, a separate capability
+            to process high-value and other time-sensitive credit
+            payments, and a capability to process international payments
+            in a variety of currencies.  The common factors that
+            influence the success of the payment systems are: speed of
+            payment, certainty and finality of payment, system
+            reliability, safety and security, convenience, and cost.
+            The challenge is to strike the right balance across these
+            factors, depending on user needs.  This Note also includes a
+            framework for modernizing the payment system.  Any
+            initiative for such project must involve users--at the
+            policy level and at the working level.
+        </abstracts>
+        <docna>
+            Project design for payment systems
+        </docna>
+        <display_title>Project design for payment systems</display_title>
+        <listing_relative_url>/research/1995/03/697565/project-design-payment-systems</listing_relative_url>
+        <docty>Viewpoint</docty>
+        <subtopic>Payment Systems &amp; Infrastructure,Environmental Economics &amp; Policies,Economic Theory &amp; Research,Information Technology,Banks &amp; Banking Reform</subtopic>
+        <teratopic>Finance and Financial Sector Development,Information and Communication Technologies,Macroeconomics and Economic Growth,Environment</teratopic>
+        <count>World</count>
+        <authors>
+            <author>Montes-Negret, Fernando</author>
+            <author>Keppler, Robert</author>
+        </authors>
+        <entityids>
+            <entityid>000009265_3971229181419</entityid>
+        </entityids>
+        <subsc>Financial Sector Development</subsc>
+        <admreg>The World Region,The World Region</admreg>
+        <colti>At a glance ; FPD note no. 37,Public policy for the private sector ; Note
+            no. 37</colti>
+        <lang>English</lang>
+        <historic_topic>Finance and Financial Sector Development,Information and Communication Technologies,Macroeconomics and Economic Growth,Environment</historic_topic>
+        <sectr>Finance</sectr>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            Banking; Payments systems; Clearing
+            agreements; International payments; Reliability; Safety;
+            Security; Modernization; Payments arrangements; Currencies;
+            Electronic payment; Lags; Payment instruments
+            Accounting,Accounting
+            standards,ATM,Automation,banking system,basic,central
+            bank,central banks,clearinghouse,commercial banks,computer
+            systems,confidentiality,consumers,credit risk,electronic
+            payment,Electronic payments,emerging market
+            economies,financial institutions,financial sector,financial
+            services,gross settlement,laws,Legal framework,opportunity
+            cost,organizational structure,payment instruments,payment
+            systems,point of sale,protocols,Provisional settlement,real
+            time,system design,technical assistance,Telecommunications,transport
+        </keywd>
+        <owner>Off of Sr VP Dev Econ/Chief Econ (DECVP)</owner>
+        <repnb>16981</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>ICT</ml:concept><ml:concept>ICT for Development</ml:concept><ml:concept>Information Technology</ml:concept><ml:concept>Information and Communication Technologies (ICT)</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Economic Management</ml:concept><ml:concept>Macroeconomic Management</ml:concept><ml:concept>Macroeconomic Policy</ml:concept><ml:concept>Macroeconomics Policy</ml:concept><ml:concept>Macroeconomics and Economic Growth</ml:concept><ml:concept>Macroeconomics and Growth</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Social Protections and Labor</ml:concept><ml:concept>Information and Communication Technologies</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Arts and Culture</ml:concept><ml:concept>Macroeconomic and Structural Policies</ml:concept><ml:concept>Economic Growth</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Social Protection and Labor</ml:concept><ml:concept>Central Banks</ml:concept><ml:concept>Central Banking</ml:concept><ml:concept>Commercial Banks</ml:concept><ml:concept>Retail Banking</ml:concept><ml:concept>Infrastructure and Networks (National; State; Local)</ml:concept><ml:concept>Telecommunication and Network Services</ml:concept><ml:concept>Telecommunications</ml:concept><ml:concept>Payment Instruments</ml:concept><ml:concept>Payment Systems &amp; Infrastructure</ml:concept><ml:concept>Securities Settlement Systems</ml:concept><ml:concept>Settlement Systems</ml:concept><ml:concept>Electronic Payment</ml:concept><ml:concept>Mobile Money</ml:concept><ml:concept>Mobile Payments</ml:concept><ml:concept>Emerging Markets</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Media</ml:concept><ml:concept>Central Banking Institutional Set-up</ml:concept><ml:concept>Commercial Banking</ml:concept><ml:concept>Infrastructure</ml:concept><ml:concept>Telecommunications and Broadband Access</ml:concept><ml:concept>Payment Systems</ml:concept><ml:concept>Electronic Payments</ml:concept></ml:concepts><ml:geo-regions/></ml:annotations></ml:doc-envelope>

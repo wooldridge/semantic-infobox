@@ -1,0 +1,1012 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>Price Distortions in Agriculture and Their Effects:&#13;
+Arn International Comparison&#13;
+SWP-359&#13;
+Wol ld Bank Staff Working Paper No. 359&#13;
+OctDber 1979&#13;
+y: Malcolm D. Bale and Ernst Lutz&#13;
+J 2C * *     Economic Analysis and Projections Department&#13;
+HF        Development Policy Staff&#13;
+541 6. 5 © 1979&#13;
+P5  Bank&#13;
+2 .   eet, N.W.&#13;
+n, D.C. 20433, U.S.A.&#13;
+*  ethose of the authors&#13;
+i ts aff ilIiated&#13;
+ehalf.&#13;
+SLCO1 8366&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+The views and interpretations in this document are those of the author and&#13;
+should not be attributed to the World Bank, to its affiliated organizations,&#13;
+or to any individual acting in their behalf.&#13;
+WORLD BANK                           ..&#13;
+Staff Working Paper No. 359&#13;
+October 1979                p\gG &#13;
+PRICE DISTORTIONS IN AGRICULTURE AND THEIR EFFECTS:&#13;
+AN INTERNATIONAL COMPARISON&#13;
+The central thesis of this paper is that agricultural pricing policies&#13;
+pursued by developing countries produce effects which are diametrically&#13;
+opposite to those produced by the pricing policies of many developed coun-&#13;
+tries, and that the policies of both are costly in terms of global welfare.&#13;
+In general, the agricultural sector in developing countries is heavily taxed&#13;
+while that in the developed countries receives substantial price protection.&#13;
+The effects of agricultural price distortions on output, consumption, trade&#13;
+and rural employment are estimated for nine countries. In addition, the&#13;
+effects of priee distortidns on the distribution of income between producers&#13;
+and consumers, on goverunment revenue and foreign exchange, and the net social&#13;
+losses of the policies are calculated. The results indicate that there are&#13;
+large income transfers and impacts on migration from the rural to the urban&#13;
+sector in developing countries and from the urban to the rural sector in&#13;
+developed economies.&#13;
+To insure proper interpretation of this paper and its policy implications,&#13;
+attention is drawn to the following caveats: some secondary data is of question-&#13;
+able quality and could be improved; specific methodological questions raised&#13;
+in the course of this research have been inadequately addressed; the results&#13;
+are based on only one year (1976); and some personal judgements were required&#13;
+for determining certain data input. For these reasons the results should be&#13;
+interpreted with caution. They represent orders of magnitude and should be&#13;
+considered tentative. The paper is the.first phase of work in progress on&#13;
+the issue of agricultural price distortions.&#13;
+Prepared by: Malcolm D. Bale and Ernst Lutz&#13;
+Economic Analysis and Projections Department&#13;
+Development Policy Staff&#13;
+Copyright   1979&#13;
+The World Bank&#13;
+1818 H Street, N.W.&#13;
+Washington, D.C.    20433&#13;
+USA&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+PRICE DISTORTIONS IN AGRICULTURE AND THEIR EFFECTS:&#13;
+AN INTERNATIONAL COMPARISON&#13;
+Introduction&#13;
+Agriculture is the main source of food for the world, and food&#13;
+is the basic input in the daily sustenance of humans. Yet in many parts&#13;
+of the world there is insufficient food which in turn implies inadequate&#13;
+agricultural output. The reasons for inadequate agricultural production&#13;
+are many and varied, ranging from poor distribution and poor production&#13;
+techniques to political intervention at various levels in the global agri-&#13;
+cultural complex. The most important reason for deficient agricultural&#13;
+output is difficult to ascertain, but T.W. Schultz in the first Elmhurst&#13;
+Memorial Lecture to the International Association of Agricultural Econo-&#13;
+mists left no doubt as to his ranking of the causes.   He suggested that&#13;
+the level of agricultural production depends not so much on technical con-&#13;
+siderations, but in large measure "on what governments do to agriculture." 1/&#13;
+That governments intervene in the agricultural price setting&#13;
+mechanism in many different ways and for assorted reasons is so obvious&#13;
+as to be pedestrian. Export taxes on agricultural products provide govern-&#13;
+ment revenue and keep domestic prices low, product price supports in developed&#13;
+countries maintain farm incomes and provide surpluses which in turn find their&#13;
+way to developing country markets to further depress domestic farm prices,&#13;
+and agricultural inputs are frequently either taxed or subsidized. Yet the&#13;
+magnitude of these effects on agricultural output, income distribution&#13;
+between producers and consumers, efficiency and on rural employment is&#13;
+often not fully appreciated.&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+Government alteration of market incentives in agriculture can&#13;
+be classified in three ways based on the output effects of the interven-&#13;
+tion (after Schultz, 1978). First, there are economic policies which&#13;
+are neutral with respect to the opportunity cost of agricultural production.&#13;
+Second, there are cases where agricultural production is overvalued, and&#13;
+finally, there are cases where agricultural production is undervalued.&#13;
+There are few countries that meet the first classification and we do not&#13;
+attempt to identify them here. Typically high income developed countries&#13;
+fall into the second category. In this study, we examine Japan, West Germany,&#13;
+France and Britain, countries where high levies are placed on grain imports,&#13;
+where sugar, meat and dairy imports are highly restricted by quotas, and&#13;
+where, in the case of Japan, rice is greatly overpriced. The immediate&#13;
+consequence of these policies is that there is overproduction and under-&#13;
+consumption of agricultural output. The third category is typically made&#13;
+up of low-income developing national. Here, as examples, we examine the&#13;
+pricing policies of Thailand, Egypt, Argentina and Pakistan, where export&#13;
+taxes and price controls often undervalue agricultural output resulting&#13;
+in underproduction. The food situation in many of these nations is such&#13;
+that they cannot afford to forego such production opportunities. Finally,&#13;
+we consider the case of Yugoslavia, sometimes classified as a developing&#13;
+country and sometimes classified as a centrally planned economy.&#13;
+This paper discusses government intervention in agricultural&#13;
+price determination, drawing on welfare theory to quantify the economic&#13;
+impacts on output, income distribution, efficiency and employment. The&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+general theme is that the agricultural policies pursued by developing&#13;
+countries produce effects which are diametrically opposite to those pro-&#13;
+duced by the policies of many developed countries, and that the policies&#13;
+of both are costly in terms of global welfare. 2/ The paper begins with&#13;
+a description of the theoretical model on which the analysis is based then&#13;
+continues by detailing the data sources. The results are presented in&#13;
+Section 4, followed by some concluding thoughts.&#13;
+Method and Theoretical Basis&#13;
+The results of the paper are derived using standard partial equi-&#13;
+librium analysis in the Marshallian economic surplus framework. The method&#13;
+is well known for both its usefulness and limitations. Details are not&#13;
+presented here, but the reader is referred to Currie, et al for an excellent&#13;
+review of the concept, to Bale and Greenshields for an application of the&#13;
+method, and to Lutz and Scandizzo for a review of other studies. In this&#13;
+paper the real and pecuniary effects of agricultural price distortions in&#13;
+a small country case are analyzed using nominal protection coefficients to&#13;
+measure the disparity between domestic prices and border prices. Typical causes of&#13;
+price distortions are producer price supports, tariffs, quotas, export taxes,&#13;
+input subsidies, etc. In each case, the distortion drives a wedge between&#13;
+the domestic price and the world or "border" price. Domestic prices are&#13;
+defined as the prices at farm and consumer levels, and border prices are&#13;
+the existing "world" price at the same point in the marketing chain. Border&#13;
+prices are used as the point of reference for the evaluation because they&#13;
+represent the opportunity cost of the traded commodities. 3/ They are also&#13;
+conveniently available as they are observed in the international market-&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+-4 -&#13;
+place. Nominal protection coefficients (NPCs) prgvide a metric of the&#13;
+disparity between domestic prices and international prices, and are defined&#13;
+as:&#13;
+NPC = 1 + -drP&#13;
+rP&#13;
+w&#13;
+where Pd   = domestic price, P   = border price, and r = the official exchange&#13;
+rate (Balassa). The basic analytic structure of the model is represented&#13;
+by equations 1 through 7.&#13;
+Net social loss in production, NSL     . . . . . . (1)&#13;
+=1/2 (Qw %     Q) (Pw - P ) = 1/2 t  n  V&#13;
+w  p         p     s&#13;
+Net social loss in conumption, NSL         . .   . . . .  (2)&#13;
+1/2 (C  - C) (P   -P p)   1/2 t   n  W&#13;
+w         c    w          c  d&#13;
+Welfare gain of producers, Gp          . . . . . . (3)&#13;
+= Q (P   -P) - NSL&#13;
+Welfare gain of consumer, G             . . . . . . (4)&#13;
+=C (P    -P) -NSL&#13;
+w     c       c&#13;
+Change in foreign exchange earnings, dF . . . . .(5)&#13;
+-w (Qw - Q + C - Cw)&#13;
+Change in government revenue, dG          . . . . .  (6)&#13;
+= (NSL  +NSLc) - Gp- Gc = -(1) - (2) - (3) - (4)&#13;
+Change in rural employment, dL = dQ. L/Q . . . . (7)&#13;
+where: Qw    production at world prices, Q = production at domestic prices,&#13;
+Pw = border prices, P   = price faced by domestic producers, P     = price faced&#13;
+by domestic consumers, t , tp = proportion of tariff in domestic price at&#13;
+the consumer (t c) or the producer (t p) level, n   = elasticity of domestic&#13;
+supply, nd = elasticity of domestic demand, V = value of production at Pp,&#13;
+W = value of consumption at P c, C   = consumption at world prices, C = con-&#13;
+sumption at domestic prices and L/Q = labor/output coefficient.&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+-5-&#13;
+Data Sources&#13;
+The FAO Production Yearbook is used as a source of production&#13;
+levels, and imports and exports are obtained from the FAO Trade Yearbook.&#13;
+Supply and demand elasticities are from Rojko et. al. with the exception&#13;
+of those for rubber in Thailand that are from Behrman. Since elasticity&#13;
+estimates differ widely from researcher to researcher, and because we wish&#13;
+to demonstrate the sensitivity of the results to changes in elasticities,&#13;
+the supply and demand elasticities presented in Table 1 are + 0.5 times&#13;
+the point estimates given by Rojko et. al. and Behrman. Nominal protectior&#13;
+coefficients for developing countries are based on coefficients from detailed&#13;
+country case studies by Bertrand (Thailand), Cuddihy (Egypt), Gotsch and&#13;
+Brown (Pakistan), Reca (Argentina), and ULG Consultants Limited (Yugoslavia).&#13;
+Since some coefficients had only been estimated to 1975, adjustments were&#13;
+made to obtain the nominal protection coefficients that were used in this study.&#13;
+The nominal protection coefficients for developed countries were&#13;
+calculated from the International Wheat Council, International Sugar&#13;
+Organization, U.S. Department of Agriculture, 1979, and the World Bank, 1978a.&#13;
+Note that despite the Common Agricultural Policy of the EC, NPC's of members&#13;
+are not identical. This is due to the "Monetary Compensatory Amounts" (MCAs)&#13;
+and "green" currencies where internal EC exchange rates in agriculture differ&#13;
+from official exchange rates.&#13;
+Labor/Output Coefficients are constructed from Bartsch, Palacpac,&#13;
+International Cotton Advisory Committee, U.S. Department of Agriculture, 1978a,,b,&#13;
+U.K. Ministry of Agriculture, Forestry and Fisheries, European Communities&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+- 6 -&#13;
+Commission, and the World Bank, 1978b. In the case of developing countries,&#13;
+marginal labor/output coefficients are derived from a labor-&#13;
+intensive technology such as hand-harvesting with a bullock-drawn cart&#13;
+and hand threshing. Average coefficients are simply the average of coefficients&#13;
+taken from two or three different production techniques on irrigated and&#13;
+non-irrigated farms. In developed countries, only average coefficients&#13;
+are available.  Marginal coefficients are arbitrarily calculated as 1.5&#13;
+average coefficients. The conversion rates of man-hours to full-time&#13;
+worker equivalents, in hours per year, are: France, 1964; West Germany, 2315;&#13;
+United Kingdom, 2269; Japan, 2450; Yugoslavia, 2450; and developing countries,&#13;
+2980.&#13;
+Results&#13;
+A. Production, Consumption and Trade Effects&#13;
+Agricultural pricing policies in developed and developing countries&#13;
+show significant differences. While agricultural commodity prices in developed&#13;
+countries generally have positive rates of protection, the agricultural sector&#13;
+in developing countries is being taxed through price intervention measures.&#13;
+As a result, the levels of agricultural production in industrialized nations&#13;
+are higher than without intervention whereas agricultural output in less&#13;
+developed countries are significantly smaller than what it would be in the&#13;
+absence of distortions. In the high elasticity case, for example, France&#13;
+and Germany are producing an increment of 4.3 and 2.8 million tons of wheat&#13;
+respectively due to the price protection, whereas the production in Argentina&#13;
+and Pakistan is discouraged with a resulting estimated decrease of 7.0 and&#13;
+1.3 million tons, respectively (Table 2).&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+-7-&#13;
+On the other hand with consumption the picture is reversed;&#13;
+developing countries consume more and developed'countries less than they&#13;
+would in the absence of price intervention measures. Thus the pricing&#13;
+policies clearly have a beneficial effect in providing more food for the&#13;
+malnourished non-agricultural population in LDCs. If this is one of the&#13;
+policy objectives of price intervention, it is achieved at the expense of&#13;
+the agricultural sector.&#13;
+Trade effects are merely the combination of production and&#13;
+consumption effects. For the general case we find that through the pricing&#13;
+policies, exports of developing countries are reduced (for exported&#13;
+commodities with NPC's smaller than 1) and that for the industrialized&#13;
+nations their imports are curtailed (for imported commodities with NPC's&#13;
+larger than 1). In the case of imports of developing countries with NPC's&#13;
+of less than 1, imports are increased by the sum of the absolute values of&#13;
+the production and consumption effects. This case implies government sub-&#13;
+sidies; for example for wheat and maize in Egypt. 4/ On the other hand,&#13;
+export commodities with NPC's larger than 1 imply that dumping is taking&#13;
+place with export subsidies necessary to bridge the gap between the internal&#13;
+price and world market price. All five commodities analyzed for France&#13;
+are examples of this policy.&#13;
+On the basis of a small sample of countries, it is difficult to&#13;
+determine what the aggregate effects of the agricultural policies are at&#13;
+the world market-level. Even for a standard case where developing countries&#13;
+are exporters using export taxes and where developed countries are importers&#13;
+with positive rates of protection, the sign of the price impact on the world&#13;
+market cannot be determined a priori since both net exports adid net imports&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+- 8 -&#13;
+are being reduced simultaneously. Hence, it would be necessary to analyze&#13;
+the policies of all trading countries of a particular commodity before the&#13;
+world market price impact could be estimated.&#13;
+B. Employment/Migration Effects&#13;
+The process of economic development is typically associated&#13;
+with internal migration from the primary sector in rural areas, to industrial&#13;
+and service sectors in urban centers (Kuznets, p. 48). Economic theories&#13;
+of internal human migration conceive the process as a response to differences&#13;
+in employment opportunities between regions where potential migrants evaluate&#13;
+costs and benefits associated with relocation and make their decision&#13;
+accordingly. A primary determinant in such a decision is the relative income&#13;
+opportunities in rural versus urban locations (Sjaastad, Falario). In spite&#13;
+of (or because of) 5/ massive development efforts over the last decade, rural&#13;
+poverty persists in many parts of the world and recent work has demonstrated&#13;
+that low real income levels of farm households have in some cases declined&#13;
+(Rajaraman), while various price-support measures to maintain farm incomes&#13;
+are prevelant in other parts of the world. A common explanation for&#13;
+rural poverty is that agricultural productivity is low because of tenancy&#13;
+arrangements and limited access to modern inputs such as controlled irrigation,&#13;
+chemical fertilizers, pesticides, mechanization, new varieties, credit,&#13;
+extension services, etc. (Mellor). Yet such explanations avoid the issue of&#13;
+the effect that product prices have on agricultural productivity and therefore&#13;
+on employment and migration. Here we attempt to quantify the extent to which&#13;
+product prices that are undervalued contribute to a sub-optimal rural pop-&#13;
+ulation and the extent to which product prices that are overvalued contribute&#13;
+to a larger-than-optimal rural population.&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+- 9 -&#13;
+We present four estimates of the agricultural employment impacts&#13;
+of price distortions in Table 2. Two are based on average labor/output&#13;
+coefficients using production changes calculated from high and low supply&#13;
+elasticity estimates. The other two employment changes are calculated using&#13;
+marginal labor/output coefficients where production changes are based on&#13;
+high and low supply elasticities. There are three reasons for presenting&#13;
+the results in this manner. First, we wish to demonstrate the sensitivity&#13;
+of the employment effects to changes in assumptions. Second, labor coefficients&#13;
+tend to be rather gross estimates from numerous secondary sources using&#13;
+different assumptions and typically vary by more than 100 percent within&#13;
+developing countries for different production techniques of the same crop.&#13;
+Our results may be regarded as capturing the upper and lower bounds of employ-&#13;
+ment changes. Third, it can be argued that under a regime of distorted prices,&#13;
+the marginal operators will be displaced or expanded in response to price&#13;
+changes. Thus, marginal labor/output coefficients are more appropriate in&#13;
+estimating agricultural employment impacts.&#13;
+Referring to the developed countries in Table 2, we see that&#13;
+existing agricultural pricing policies retain significant numbers of workers&#13;
+in agriculture. Japanese rice pricing policies are particularly significant,&#13;
+retaining from between one half of a million workers (low supply elasticity,&#13;
+average coefficient) to 2 million workers (high supply elasticity, marginal&#13;
+coefficient). As a proportion of farm population, these numbers are large&#13;
+(2.1 to 9.6%), and even expressed as a proportion of total population (0.4 to&#13;
+1.9%) the numbers are significant. In the European countries presented here,&#13;
+workers retained in agriculture are somewhat smaller both absolutely and relatively.&#13;
+For example, in France, if free market prices prevailed for the five&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+- 10 -&#13;
+commodities, between 52,987 and 241,200 workers in an agricultural labor&#13;
+force of 8.6 million would be displaced. 6/ In terms of absorption into&#13;
+the total work force, the numbers amount to 0.16 to 0.75%. While this may seem&#13;
+to be a rather small percentage it is, nonetheless, significant. In a period&#13;
+of high general unemployment even one or two points change in the unemployment&#13;
+rate can involve heavy social and political costs.&#13;
+In developing countries, agricultural price distortions have&#13;
+the effect of reducing farm employment from that which would exist under&#13;
+free market prices. In general, the absolute value of the employment effects&#13;
+are larger for developing countries than for developed countries, partly&#13;
+because of the labor-intensive production methods used in developing countries.&#13;
+The numbers suggest the extent to which price distortions create unemployment&#13;
+and stimulate migration. Using the high supply elasticity and marginal labor&#13;
+coefficients in Egypt, for example, the total reduction in agricultural employment&#13;
+for the four commodities is 1.15 million workers or around five percent of&#13;
+the rural population. Employment in rice production accounts for a large por-&#13;
+tion of this. No doubt the numbers would be considerably larger if secondary&#13;
+(multiplier) effects were considered and if all commodities were covered.&#13;
+Unemployment and rates of rural to urban migration that exceed&#13;
+rates of urban job creation are serious problems in developing countries.&#13;
+While overt unemployment is pronounced in urban centers, disguised&#13;
+unemployment is prevalent in rural areas    (Todaro, Wonnacott).  Thus,&#13;
+any policies that contribute to the problem, such as agricultural product&#13;
+pricing policies, need to be carefully examined. The conventional lay&#13;
+wisdom that if farm product prices were to increase in developing countries&#13;
+poor people would be hurt needs to be scrutinized. Many of the poor are&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+rural poor or former-rural residents who have migrated to urban areas in&#13;
+search of better employment opportunities. Higher agricultural prices&#13;
+could only assist them as farmers, landless laborers, or farm-related&#13;
+workers. Viewed in a longer run dynamic context, as farmers and farm&#13;
+laborers realize higher incomes their demand for urban-produced goods&#13;
+and services will increase, so stimulating employment in urban areas. 7/&#13;
+C. Welfare Effects&#13;
+Our results indicate that the economies of the countries analyzed&#13;
+incur large annual welfare losses due to a misallocation of resources&#13;
+resulting from the existing agricultural pricing policies (Table 3). The&#13;
+losses depend linearly on the assumed elasticities and quadratically on&#13;
+the size of the price distortion as measured by a proportional tariff rate.&#13;
+Total net social losses are the sum of net social losses in production and&#13;
+in consumption. They range from $26 million (US) for the United Kingdom&#13;
+(the low elasticity assumption) to $4,119 million for Japan (the high elasticity&#13;
+case).     Even though the sample of commodities used in this analysis is&#13;
+small, it is interesting to compare the estimated welfare losses to the GNP&#13;
+of the countries. The results show that compared to economic output,&#13;
+distortions are generally more costly in developing countries than in&#13;
+industrialized nations (Table 4). 8/ Further, the results are obtained from&#13;
+a partial equilibrium model. Using a general equilibrium analysis that&#13;
+takes long-run consequences of the price distortions into account, the&#13;
+estimated social costs would typically be considerably larger.&#13;
+As our results in Table 5 indicate, the most sizeable effects&#13;
+of the different agricultural policies are the welfare transfers between&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+- 12 -&#13;
+consumers and producers. While the farm sector of the developing countries&#13;
+studied was taxed from about $700 million to about $2 billion annually,&#13;
+the producers in developed countries receive large transfers due to&#13;
+protection. In Japan, where the average rate of protection is the highest,&#13;
+farmers gain between $2.6 and $5.1 billion for the total of the five major&#13;
+commodities analyzed. 9/ Consumers in the developed countries incur&#13;
+large welfare losses due to price protection whereas the consumers in&#13;
+developing countries generally gain from this type of price intervention.&#13;
+With the exception of France , all countries acquire increased&#13;
+government revenues from their interventionist policies. Thus, the fact&#13;
+that most governments gain from price distortions confirms that government&#13;
+revenue generation is an objective of price intervention.&#13;
+The effects on foreign exchange earnings are again clearly&#13;
+divided along different levels of development. While industrialized nations&#13;
+gain foreign exchange through protectionist policies, developing countries&#13;
+lose foreign exchange earnings. This is particularly serious in that foreign&#13;
+exchange availabilities represent a major bottleneck for developing countries&#13;
+in their efforts to increase growth and alleviate poverty.&#13;
+Conclusions&#13;
+What emerges from this paper is the vital role that farm product&#13;
+prices play in achieving optimum output and productivity growth. Because&#13;
+"incorrect" price signals are being given to farmers, allocative, production,&#13;
+and consumption potentials are not being realized. In many cases, the estimated&#13;
+changes in production greatly alter trade patterns, in some cases causing&#13;
+importing countries to become self-sufficient, and in other cases causing&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+- 13 -&#13;
+"would-be exporters" to become importers. The magnitude of income transfers&#13;
+and efficiency losses (net social losses) is also impressive, both as an&#13;
+absolute number and as a proportion of national income. The rural employment&#13;
+effects of price distortions, while perhaps less impressive than the welfare&#13;
+losses, are nonetheless serious, given the high unemployment rates in&#13;
+developing countries and the political sensitivity of agricultural&#13;
+employment in developed countries.&#13;
+The ultimate question about agricultural pricing policies is their&#13;
+dynamic effects. Here we have seen the size of the static effects but our&#13;
+model (and the state of technology of our profession) does not allow us to&#13;
+estimate accurately price distorting effects on income and industrial growth,&#13;
+adoption of technology, investment in agriculture, social consequences, etc.&#13;
+While decision-making at the public level is not by agricultural economists,&#13;
+but by politicians, our profession plays a vital role in defining and&#13;
+quantifying the issues involved, and in extending these findings to appropriate&#13;
+officials. Our hope is that this paper is in that tradition.&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+- 14 -&#13;
+Footnotes&#13;
+1/ Schultz has long been the most ardent and eloquent spokesman of this&#13;
+position.  See, for example, Schultz 1964, 1976 and 1978.&#13;
+2/ A recent study which addresses the developing country side of this&#13;
+question in a somewhat different manner is Peterson.&#13;
+3/ We recognize that the general equilibrium effects of removing price&#13;
+distortions on a global basis would alter border prices and therefore&#13;
+alter the magnitude of the distorting effects. However, it is extremely&#13;
+difficult to estimate "shadow free market prices" in a first-best&#13;
+world, and we do not suppose that we will ever be operating in a&#13;
+first- or even second-best environment.&#13;
+4/ Parts of the imports may not be subsidized directly by the government&#13;
+of Egypt but may be the result of shipments at concessionary terms.&#13;
+5/  "....  the most promising attack on employment problems in developing&#13;
+countries is in efforts to redress the present urban bias in development:&#13;
+strategies" (Edwards).&#13;
+6/ We do not wish to render the labor estimates useless by presenting&#13;
+numbers which have such a large variance, but we do want to present&#13;
+realistic upper and lower bounds. We invite the interested reader to&#13;
+select his "most-likely" elasticity and labor/output estimates and&#13;
+thereby generate a deterministic labor number.&#13;
+7/ We are indebted to Willis Peterson for suggesting this point.&#13;
+8/ The distortions may or may not be a larger proportion of the agricultural&#13;
+sector in developing countries than in developed countries. Figures on&#13;
+gross agricultural product could not be obtained.&#13;
+9/ c.f. Bale, who estimates the producer gain to farmers for these products,&#13;
+except sugar, as $5.29 billion in 1975/76.&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+- 15 -&#13;
+'able 1: BASIC DATA USED FOR T11E ANiAlrSIS, 1976&#13;
+Country             Border                 Range of Supply   Range of Demand&#13;
+Price      NPC la      Elasticities      Elasticities      Production   Consumption   Exports   Labor Caefficieats&#13;
+Commwdity       US$/mt                 low       high    low        high                                        Average    Marginal&#13;
+-------'000 metric tons--       --   (man-hours per ton)&#13;
+FRANCE&#13;
+Wh4eat              143       1.26       .42        1.28   .10         .30     16,150        7,785       8,365       25        37.5&#13;
+Maize               152       1.31       .17         .52   .20         .60      5,603        4,486       1,117       37        55.5&#13;
+Barley              137       1.39      .42         1.28   .10         .30      8,530        5,637       2,893       25        37.5&#13;
+Sugar               289      1.35       .81         2.44   .12         .36      2,974        1,957       1,017       52        78.0&#13;
+Beef              2,365       1.27       .20         .60   .35        1.05      1,821        1,706         115       40        60.0&#13;
+GERMWNY&#13;
+Wheat                143      1.49       .42        1.28   .10         .30      6,702         7,252       -550       25        37.5&#13;
+Maize               150.      1.57       .17         .53   .20         .60        480        3,776      -3,296       37        55.5&#13;
+Barley              137      1.51       .42         1.28   .10         .30      6,487        7,973      -1,486       25        37.5&#13;
+Sugar               289      1.77       .43         1.30   .08         .24      2,733        2,584        149        52        78.0&#13;
+Beef              1,970      1.42        .20         .60   .35        1.05      1,365        1,435        -70       40         60.0&#13;
+UNITED KINGDOM&#13;
+WhEat                156      1.15       .47        1.42   .10         .30      4,740         8,419     -3,679       25        37.5&#13;
+Maize                131      1.28       .45        1.35   .20         .60          2         3,720     -3,718       37        55.5&#13;
+Balley              132      1.01       .47         1.42   .10         .30      7,648        8,096        -448       25        37.5&#13;
+SuEar               283      1.39       .22          .66   .10         .30        746        2,558      -1,812       52        78.0&#13;
+Beef              1,542      1.17        .20         .60   .35        1.05      1,064        1,177        -113       40        60.0&#13;
+JAPAt'&#13;
+WhEat fb             189      2.81       .BO        2.41   .08         .24        222        6,043      -5,821       54        81.0&#13;
+Baleyl7b            160      3.14        .80        2.41   .08         .24        210        1,971      -1,761       54        81.0&#13;
+Suj,ar              306      1.36        .21         .64   .11         .33        560        2,986      -2,426      110       165.0&#13;
+Beef              2,252      1.30        .33         .99   .40        1.20        298          390         -92       58        87.0&#13;
+Ric'e               380      2.03        .08         .24   .06         .18     15,292      .15,314        -22       185       277.5&#13;
+YUGOSLAVIA&#13;
+Whc at               177       .54       .28         .75   .12         .37      5,979         5,118        861       25        37.5&#13;
+Ma: ze              185        .71       .24         .72   .17         .52      9,106        8,647         459       37        55.5&#13;
+Beitf             1,832      1.08        .20         .60   .40        1.20        326          266          60       40        60.0&#13;
+ARGEnITINA&#13;
+Wh4!at               136       .54       .25         .75   .05         .15     11,000         7,736      3,264       25        50.0&#13;
+Rice                194        .81       .27         .82   .10         .30        309          222          87       78       156.0&#13;
+MaFze               118        .49       .22         .67   .11         .33      5,855        2,775       3,080       55       110.0&#13;
+Be!f                927        .72       .25         .75   .20         .60      2,811        2,410        401        18        36.0&#13;
+EGYP C&#13;
+Wh,!at               166       .48       .12         .37   .17         .52      1,960        4,878      -2,918      220       508.0&#13;
+Rice                375        .35       .25         .75   .12         .37      2,300        2,089         211      360       520.6&#13;
+MaLze               171        .52       .16         .18   .12         .37      3,047        3,506        -459      240       480.0&#13;
+Co:t0n            2,397       .34        .05         .15   .10         .30        396          231         165    8,440    10,000.0&#13;
+PAKI 3TAN&#13;
+Wh at                152       .78       .17         .53   .20         .60      8,691         9,877     -1,186      247       533.0&#13;
+Ri2e                320        .57       .15         .45   .15         .45      4,106        3,324        782       290       350.0&#13;
+MaLze                171       .94       .10         .30   .17         .52        764           764          0      300       480.0&#13;
+Co:ton              876        .58       .82        2.47   .10         .30        418          305         113    2,240     3,950.0&#13;
+,HAI .AND&#13;
+Ri:e                218        .74       .07         .22   .03         .07     15,068       13,143       1,925      400       580.0&#13;
+Maize                115      1.02       .10         .30   .05         .15      2,675           287      2,388      240       480.0&#13;
+Su;ar               298      1.65       .08          .24   .15         .45      1,757          633       1,124      338       507.0&#13;
+Ru3ber              695        .49       .09         .28   .00         .02        400           27         373       54        81.0&#13;
+/a Nominal Protection Coefficient.&#13;
+/b  rhese coefficients represent distortions in production only; the corresponding NPCs in consumption are 1.18    for wheat and .90&#13;
+for barley.&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+- 16 -&#13;
+Table 2: REAL EFFECTS OF PRICE DISTORTIONS, 1976&#13;
+Country             Estimated Change      Estimated Change      Estimated Change         Estimated Change in Agricultural Employment&#13;
+in Production         in Consumption          in Exports         (average coefficients)    (marginal coefficients)&#13;
+Commodity       low         high      low'        high      low         high      low             high       low               high&#13;
+&#133;             _       000-------------- n oo metric tons---------------------  -------------full time workers---------------&#13;
+FRAN(E&#13;
+Wheat              1,400     4,266       -161       -482       1,560     4,748       17,821       54,302        26,731         81,454&#13;
+Maize                225       689       -212       -637         438     1,326        4,239       12,980         6,358         19,470&#13;
+Baiiley            1,005     3,063       -158       -474       1,163     3,538       12,793       38,989        19,189         58,484&#13;
+Suj.ar               625     1,881        -61       -183         685     2,064       16,548       49,802        24,822        74,704&#13;
+Becf                  77       232       -127       -381         204       613        1,568        4,725         2,352          7,088&#13;
+GERMJNY, F.R.&#13;
+Wliat                926     2,821       -238       -715       1,164     3,537       10,000       30,464        15,000         45,697&#13;
+Maize                 30        92       -274       -823         304       915          479        1,470           719          2,206&#13;
+Bailey               920     2,804       -269       -808       1,189     3,612        9,935       30,281        14,903         45,421&#13;
+Sul,ar               511     1,546        -90       -270         601     1,815       11,478       34,727        17,217         52,090&#13;
+Belf                  81       242       -149       -446         229       688        1,400        4,181         2,099          6,772&#13;
+UNITID KINGDOMI&#13;
+Whvat                291       878       -110       -329         400     1,207        3,206        9,674         4,809         14,511&#13;
+Ma:.ze                 0          1      -163       -488         163       489            0            16            0             24&#13;
+Ba::ley               36       108         -8        -24          44       132          397         1,190          595          1,785&#13;
+Su8ar                 46       138        -72       -215         118       353        1.054        3,163         1,581         4,744&#13;
+Be,-f                 31        93        -60       -180          91       272          546        1,639           820         2,459&#13;
+JAP Al&#13;
+Wha~at               114       345        -74       -221         188        566       2,513        7,604         3,769         11,406&#13;
+Barley               114       345         18         53          96       292        2,513        7,604         3,769        11,406&#13;
+Su,ar                 31        95        -87       -261         118       356        1,392        4,265         2,088         6,396&#13;
+Beaf                  23        68        -36       -108          59       17.6         544        1,610           817         2,415&#13;
+Ri e               6,207    18,622       -466     -1,399       7,606    20,020      468,692    1,406,151       703,038     2,109,227&#13;
+YUGO3LAVIA&#13;
+Wheat             -1,273    -3,820        523      1,613      -1,796    -5,433      -12,990      -38,980       -19,485       -58,469&#13;
+Maize               -893    -2,678        600      1,837      -1,493    -4,515      -13,486      -40,443       -20,229       -60,665&#13;
+Beef                   5         14        -8        -24          13        38           82          229           122            343&#13;
+ARGE iTINA&#13;
+Wheat             -2,343    -7,028        329        988      -2,672    -8,016      -19,525      -58,567       -39,050      -117,133&#13;
+Rice                 -20       -59          5         16         -25       -75         -520       -1,534        -1,040        -3,068&#13;
+Maize             -1,341    -4,083        318        953      -1,658    -5,036      -24,585      -74,855       -49,170        149,710&#13;
+Beef                -273      -820        187        562        -461    -1,382       -1,638       -4,920        -3,276        -9,840&#13;
+EGYPT&#13;
+Wheat               -255      -786        898      2,748      -1,153    -3,534     -18,700      -133,096       -43,180      -13:3,096&#13;
+Rice              -1,068    -3,204        466      1,435     -1,533     -4,639    -128,160      -384,480      -185,120      -555,360&#13;
+MEize               -450      -506        388      1,197        -838    -1,704      -36,000      -40,480       -72,000       -80,960&#13;
+Cctton               -38      -115         45        135         -83      -250    -106,907      -323,533      -126,667      -383,333&#13;
+PAKISTAN&#13;
+Wteat               -417    -1,299        557      1,671        -974    -2,971      -34,333     -106,951       -74,087      -230,789&#13;
+Rice                -465    -1,394        376      1,128        -841    -2,522      -44,950     -134,753       -54,250      -162,633&#13;
+MH.ize                -5       -15          8         25         -1.3      -40         -500       -1,500          -800        -2,400&#13;
+Cotton              -246      -748         22         66        -270      -814    -185,173      -558,507      -326,533      -984,867&#13;
+THALLAND&#13;
+R:.ce               -371    -1,165        139        323       -509     -1,488     -49,467      -155,333       -71,727      -225,233&#13;
+Mulize                 5        16          0         -1           6        17          400        1,280           800         2,560&#13;
+Suigar                55       166        -37       -112          93       278        6,197       18,703         9,295        28,054&#13;
+Rutbber              -37      -117          0          1         -37      -117        -666        -2,106         -999         -3,159&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+- 17 -&#13;
+Table 3: NET SOCIAL LOSSES OF PRICE DISTORTIONS 1976&#13;
+(in  '000 US dollars)&#13;
+Country              Net Social LosE            Net Social Loss                 Total&#13;
+in Production              in Consumption           Net Social Loss&#13;
+Conmodity       low               high     low              high      low              high&#13;
+FRANCE&#13;
+Wheat                26,020      79,298         2,986        8,959        29,006      88,258&#13;
+Maize                 5,310      16,244         5,002       15,006        10,313      31,250&#13;
+Barley               26,854      81,840         4,225       12,676        31,079      94,515&#13;
+Sugar               31,586       95,148         3,079        9,238        34,665     104,386&#13;
+Beef                24,721       74,163        40,530      121,589        65,251     195,752&#13;
+TOTAL            113,491      346,693        55,822     167,468        160,314     514,161&#13;
+GERMANY, F.R.&#13;
+Wheat                32,341      98,839         8,355       25,066        40,696     123,905&#13;
+Maize                 1,266       3,948        11,721       35,164        12,988      39,112&#13;
+Barley              32,147       97,973         9,408       28,223        41,555     126,196&#13;
+Sugar               56,883      171,973        10,006       30.018        66,889     201,990&#13;
+Beef                33.405      100,214        61,456     184,369         94,861     284,583&#13;
+TOTAL            156,042      472,947       100,946     302,840        256,989     775,786&#13;
+UNITED KINGDOM&#13;
+Wheat                 3,400      10,272         1,285        3,854         4,685      14,126&#13;
+Maize                     4          11         2,985        8,955         2,988       8,965&#13;
+Barley                  23           71             5           16            29          87&#13;
+Sugar                2,541        7,623         3,961      11,882          6,502      19,506&#13;
+Beef                 4,053       12,158         7,845      23,536         11,898      35,694&#13;
+TOTAL             10,021       30,135        16,081      48,243         26,102      78,378&#13;
+JAPAN&#13;
+Wheat                19,567      58,946         1,254        3,763        20,821      62,709&#13;
+Barley              19,602       59,051           140          420        19,742      59,471&#13;
+Sugar                1,715        5,225         4,789      14,367          6,504      19,592&#13;
+Beef                 7,666       22,998        12,161      36,482         19,827      59,480&#13;
+Rice             2,035,883    3,644,244        91,237     273,712      2,127,120   3,917,956&#13;
+TOTAL          2,084,433    3,790,464       109,581     328,744      2,194,014   4,119,208&#13;
+YUGOSLAVIA&#13;
+Wheat               51,836      155,509        21,298      65,670         73,135     221,179&#13;
+Maize               23,945       71,836        16,106      49,266         40,051     121,102&#13;
+Beef                   354        1,062           578       1,733            931       2,794&#13;
+TOTAL             76,135      228,407        37,982     116,669        114,117     345,075&#13;
+ARGENTINA&#13;
+Wheat                73,276     219,829        10,307       30,920        83,583     250,749&#13;
+Rice                    361       1,095            96          288           457       1,383&#13;
+Maize               40,341      122,856         9,560       28,680        49,901     151,536&#13;
+Beef                35,468      106,403        24,327       72,980        59,794     179,383&#13;
+TOTAL            149,446      450,183        44,290     132,868        193,735     583,051&#13;
+EGYPT&#13;
+Wheat                10,997      33,908        38,773      118,601        49,771     152,509&#13;
+Rice               130,145      390,435        56,739      174,944       186,884     565,380&#13;
+Maize                18,469      20,777        15,938       49,143        34,407      69,920&#13;
+Cotton              30,403       91,208        35,470     106,409         65,873     197,618&#13;
+TOTAL            190,014      536,328       146,920     449,097        336,935     985,427&#13;
+PAKISTAN&#13;
+Wheat                 6,968      21,723          9,316      27,947        16,283      49,670&#13;
+Rice                 31,966      95,899        25,878      77,635         57,845     173,534&#13;
+Maize                    25          75            43          130            68         205&#13;
+Cotton              45,660      137,536         4,063      12,189         49,723     149,725&#13;
+TOTAL             84,619      255,233        39,300      117,901       123,919     373,134&#13;
+THAILAND&#13;
+Rice                10,503       33,008         3,926        9,161        14,429      42,169&#13;
+Maize                     6          18             0            1             6           19&#13;
+Sugar                 5,363      16,088         3,623       10,868         8,985      26,956&#13;
+Rubber                6,641      20,659             0          100         6,641      20,759&#13;
+TOTAL              22,513      69,773         7,549       20,130        30,061      89,903&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+- 18 -&#13;
+Table 4: ESTIMATED TOTAL NET SOCIAL LOSSES AS A PERCENT&#13;
+OF GNP FOR SELECTED COMMODITIES&#13;
+Social Losses in % of GNP&#13;
+Low                         High&#13;
+France                        0.05                        0.16&#13;
+Germany                       0.06                        0.19&#13;
+United Kingdom                0.01                        0.04&#13;
+Japan                         0.43                        0.80&#13;
+Yugoslavia                    0.34                        1.03&#13;
+Argentina                     0.48                        1.46&#13;
+Egypt                         3.62                       10.58&#13;
+Pakistan                      1.01                        3.04&#13;
+Thailand                      0.21                        0.62&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+- 19 -&#13;
+Table 5: MONETARY EFFECTS OF PRICE DISTORTIONS 1976&#13;
+(in '000 US dollars)&#13;
+Country              Welfare Gain of            Welfare Gain of.         Change in       Change in Foreigr.&#13;
+Producers /a               Consumers la          Government      Exchange Earnings /a&#13;
+Commodity      low                high    low                 high     Revenue      low                high&#13;
+FRANCE&#13;
+Wheat              574,437      521,159    -   292,433   -  298,405    -  311,011       223,124      678,904&#13;
+Maize              258,703      247,769     -  216,382   -  226,387    -   52,633        66,533      201,615&#13;
+Barley             428,904      373,918    -   305,410   -  313,861    -  154,573       159,379      484,695&#13;
+Sugar              269,234      205,672    -   201,030   -  207,188    - 102,870        198,088      596,491&#13;
+Beef             1,138,079    1,088,637    -1,129,896    -1,210,955    -   73,433       483,337    1,450,011&#13;
+TOTAL          2,669,357    2,437,155     -2,145,151   -2,256,796    - 694,520      1,130,461    3,411,716&#13;
+GERMANY&#13;
+Wheat              437,178      370,771     -  516,503   -  533,214        38,539       166,477      505,734&#13;
+Maize               39,774       37,092     -  334,569   -  358,012       281,808        45,571      137,236&#13;
+Barley             421,099      355,273     -  566,481   -  585,296       103,827       162,961      494,886&#13;
+Sugar              551,291      436,202    -  585,023    -  605,035    -   33,157       173,738      524,650&#13;
+Beef             1,095,996    1,029,187    -1,248,775    -1,371,688        57,918       451,720    1,355,159&#13;
+TOTAL          2,545,338    2,228,525    -3,251,351    -3,453,245       448,935     1,000,467    3,017,665&#13;
+UNITED KINGDOM&#13;
+Whleat             107,516      100,644    -   198,289   -  200,859        86,089        62,462      188,350&#13;
+Maize                   70           63     -  139,434   -  145,404       136,376        21,346       64,038&#13;
+Barley              10,072       10,024    -    10,692   -   10,703           591         5,756       17,368&#13;
+Sugar               79,795       74,713    -  286,287    -  294,209       199,990        33,343      100,029&#13;
+Beef               274,864      266,759        316,384   -  332,075        29,622       139,976      419,928&#13;
+TOTAL            472,317      452,203     -  951,086   -  983,250       452,668       262,883      789,713&#13;
+JAPAN&#13;
+Wheat               56,377       16,998     -  206,837   -  209,346       129,639        35,532      106,974&#13;
+Barley              52,302       12,853         31,396       31,116    - 103,440         15,360       46,720&#13;
+Sugar               59,975       56,464    -  333,727    -  343,305       267,248        36,131      108,846&#13;
+Beef               193,663      178,331     -  275,645   - 299,966         62,155       132,179      396,536&#13;
+Rice             4,770,541    2,341,044    -6,085,137    -6,267,611         8,611     2,535,894    7,607,682&#13;
+TOTAL          5,132,858    2,605,690    -6,869,950    -7,089,112       364,213     2,755,096    8,266,758&#13;
+YUGOSLAVIA&#13;
+Wheat           -  538,646   - 642,319         395,409      351,038        70,103    -  317,977   -  961,647&#13;
+Maize           -  512,482   -  560,372        447,805      414,645        24,625    -  276,217   -  835,184&#13;
+Beef                47,425       46,717    -    39,563   -   40,718    -    8,794        23,287       69,860&#13;
+TOTAL         -1,003,703   -1,155,974        803,651      724,965        85,934    -  570,907   -1,726,971&#13;
+ARGENTINA&#13;
+Wheat           -  761,436   -  907,989        473,658      453,044       204,196    -  363,404   -1,090,212&#13;
+Rice            -   11,750   -   12,845          8,087        7,895         3,207    -    4,807   -   14,561&#13;
+Maize           -  392,695   -  475,210        157,440      138,320       185,354    -  195,689   -  594,259&#13;
+Beef            -  765,091   -  836,027        601,213      552,560       104,084    - 427,102    -1,281,307&#13;
+TOTAL         -1,930,972   -2,232,071      1,240,398    1,151,819       496,841    -  991,002   -2,980,339&#13;
+EGYPT&#13;
+Wheat           -  180,184   -  203,095        382,296      302,468    -  251,882    -  191,425   -  586,573&#13;
+Rice            -  690,770   -  951,060       452,455       334,249        51,431    -  575,027   -1,739,630&#13;
+Maize           -  268,567   -  270,875        271,834      238,630    -   37,675    -  143,362   -  291,333&#13;
+Cotton          -  656,883   -  717,688        329,977      259,037       261,033    - 199,614    -  598,841&#13;
+TOTAL         -1,796,404   -2,142,718      1,436,562    1,134,384        22,907     1,109,428   -3,216,377&#13;
+PAKISTAN&#13;
+Wheat           -  297,595   -  312,350       320,971       302,340       -39,660    -  148,031   -  451,544&#13;
+Rice            -  596,952   -  660,884       431,504       379,748       107,603    -  269,044   -  807,133&#13;
+Maize           -    7,864   -    7,914          7,796        7,709             0    -    2,252   -    6,838&#13;
+Cotton          -  199,450   - 291,327        108,153       100,027        41,575    -  236,776   -  712,978&#13;
+TOTAL         -1,101,861   -1,272,475       868,424       789,824       109,518    -  895,665   -1,978,493&#13;
+THAILAND&#13;
+Rice            -  864,557   -  887,062        741,019      735,784       109,109    -  110,989   -  324,376&#13;
+Maize                6,146        6,134     -      660   -      661         5,492           636        1,907&#13;
+Sugar              334,968      324,243    - 126,235     -  133,480    - 217,719         27,647       82,942&#13;
+Rubber          -  148,421   -  162,439          9,570        9,471       132,210    -   26,041   -   81,408&#13;
+TOTAL         -  671,864   -  719,124        623,694      611,114        18,108    -  108,747   -  320,935&#13;
+/a  The "low  and "high" refer to the low and high elasticity assumption and do not necessarily&#13;
+correspond to the lows or highs of the respective monetary effects.&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+- 20 -&#13;
+References&#13;
+Balassa, Bela, The Structure of Protection in Developing Countries, Baltimore:&#13;
+Johns Hopkins University Press, 1971.&#13;
+Bale, M.D., and B.L. Greenshields, "Japanese Agricultural Distortions and&#13;
+their Welfare Value," Amer. J. Agr. Econ. 60(1978): 59-64.&#13;
+, "Distributional Aspects of Price Intervention," Amer. J. Agr.&#13;
+Econ. 61(1979): 348-50.&#13;
+Bartsch, W.H., Employment and Technology Choice in Asian Agriculture, N.Y.:&#13;
+Praeger, 1977.&#13;
+Bertrand, T.J., "The Rural Sector in Thailand--A Preliminary Report,"&#13;
+Economics and Policy Division, Agriculture and Rural Development&#13;
+Department, World Bank, 1977, (unpublished).&#13;
+Cuddihy, B., "Egypt--Farm Prices, Taxes and Subsidies," Economics and Policy&#13;
+Division, Agriculture and Rural Development Department, World Bank,&#13;
+1977, (unpublished).&#13;
+Currie, J.M., J.A. Martin, and A. Schmitz, "The Concept of Economic Surplus&#13;
+and its Use in Economic Analysis," Econ. J. 81(1971): 741-99.&#13;
+Edwards, E.0. (ed.), Employment In Developing Nations, N.Y., Ford Foundation,&#13;
+1974.&#13;
+European Communities Commission, "Earnings in Agriculture," Brussels,&#13;
+1976.&#13;
+Falaris, E.M., "The Determinants of Internal Migration in Peru: An Economic&#13;
+Analysis," Econ. Devel. and Cult. Change, 27(1979): 327-41.&#13;
+Gotsch, C.H. and G.T. Brown, "Pakistan Agricultural Prices Study," Economics&#13;
+and Policy Division, Agriculture and Rural Development Department,&#13;
+World Bank, 1977, (unpublished).&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+- 21 -&#13;
+International Cotton Advisory Committee, Survey of Cost of Production of&#13;
+Raw Cotton, London: 1975 and 1976.&#13;
+International Sugar Organization, Sugar Yearbook, London: 1977.&#13;
+International Wheat Council, World Wheat Statistics, London: 1978.&#13;
+Kuznets, Simon, Six Lectures on Economic Growth, N.Y.: Free Press, 1959.&#13;
+Lutz, E., and P.L. Scandizzo, "Price. Distortions in Developing Countries:&#13;
+A Bias Against Agriculture," Europ. Rev. Agr. Econ. (forthcoming).&#13;
+Mellor, J.W., The New Economics of Growth, Ithaca: Cornell University&#13;
+Press, 1976.&#13;
+Mundlak, Y., "Occupational Migration Out of Agriculture - A Cross Country&#13;
+Analysis," Rev. Econ. and Stat. 60(1978): 392-8.&#13;
+Palacpac, A.C., World Rice Statistics, Los Banos, Philippines, International&#13;
+Rice Research Institute, 1978.&#13;
+Peterson, W.L., "International Farm Prices and the Social Cost of Cheap&#13;
+Food Policies," Amer. J. Agr. Econ. 61(1979): 12-21.&#13;
+Rajaraman, I., "Poverty, Inequality and Economic Growth: Rural Punjab,"&#13;
+J. Devel. Stud. 11(1975): 278-90.&#13;
+Reca, L.G., "Argentina: Country Case Study of Agricultural Prices and Subsidies,"&#13;
+Economics and Policy Division, Agriculture and Rural Development&#13;
+Department, World Bank, 1977 (unpublished).&#13;
+Rojko, A. et. al., Alternative Futures for World Food in 1985, ESCS, USDA&#13;
+Foreign Agricultural Economics Report No. 146, 1978.&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+- 22 -&#13;
+Schultz, T.W., Transforming Traditional Agriculture, New Haven, Yale University&#13;
+Press, 1964.&#13;
+-_  , "On Economics, Agriculture and the Political Ec-aomy," First&#13;
+Elmhirst Lecture, in Decision-Making and Agriculture, T. Dams and&#13;
+K.E. Hunt (eds.), Lincoln: University of Nebraska Press, 1977.&#13;
+, "Constraints on Agricultural Production," in Distortions of&#13;
+Agricultural Incentives, T.W. Schultz, (ed.), Bloomington: Indiana&#13;
+University Press, 1978.&#13;
+Shaw, R. D'A., Jobs and Agricultural Development, N.Y.: Overseas&#13;
+Development Council, Monograph 3, 1970.&#13;
+Sjaastad, L.A., "The Costs and Returns of Human Migration," J. Polit. Econ.&#13;
+70(1962): 80-93.&#13;
+Todaro, M.P., Internal Migration in Developing Countries: A Review of&#13;
+Theory and Evidence, Geneva: International Labor Organization, 1976.&#13;
+UK Ministry of Agriculture, Forestry and Fisheries, Standard Man-Day Require-&#13;
+ments for Livestock, London, 1973.&#13;
+ULG Consultants Limited, in association with Economic Consultants Limited,&#13;
+"Yugoslavia: Agricultural Prices and Subsidies Case Study," Economics&#13;
+and Policy Division, Agriculture and Rural Development Department,&#13;
+World Bank, 1977 (unpublished).&#13;
+U.S. Department of Agriculture, 1979, Feed Situation, ESCS, Washington,&#13;
+May 1979.&#13;
+, 1978a, Sugar and Sweetener Report, ESCS,&#13;
+Washington, September 1978.&#13;
+, 1978b, Costs of Producing Selected Crops in the&#13;
+United States, 1976-78, ESCS, Washington, 1978.&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+- 23 -&#13;
+Wonnacott, P., "Disguised and Overt Unemployment in Underdeveloped Economies,"&#13;
+Quart. J. Econ., 24(May 1962): 279-88.&#13;
+World Bank, 1978a, "Price Prospects for Major Primary Commodities," Report&#13;
+No. 814/78, 1978.&#13;
+, 1978b, "SAPH Rubber Project," Appraisal Report, 1978.&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+I M=     PAPERS IN THIS SERIES&#13;
+110.                   TITLE OF PAPER                      AUTHOR&#13;
+325     Costs and Scale of Bus Services               A.A. Walters&#13;
+326     Social and Cultural Dimensions of             R. Noronha&#13;
+Tourism                                       (consultant)&#13;
+327     Investment in Indian Education:               S. Heyneman&#13;
+Uneconomic ?&#13;
+.328    Nutrition and Food Needs in Developing        0. Knudsen&#13;
+Countries                                    P.L. Scandizzo&#13;
+329     The Changing International Division of       B. Balassa&#13;
+Labor in Manufactured Goods&#13;
+330     Application of Shadow Pricing to Country     L. Squire&#13;
+Economic Analysis with an Illustration        I.M.D. Little&#13;
+from Pakistan                                M. Durdag&#13;
+331     A Survey of the Fertilizer Sector in         B. Bumb (consultant)&#13;
+India&#13;
+332     Monitoring and Evaluation in the PIDER       M. Cernea&#13;
+Rural Development Project - Mexico&#13;
+333     Determinants of Private Industrial           A. Pinell-Siles&#13;
+Investment in India&#13;
+334     The "Graduation" Issue in Trade Policy        I. Frank&#13;
+Toward LDCs                                   .(consultant)&#13;
+335     Balancing Trickle Down and Basic             M. Selowsky&#13;
+Needs Strategies: Income Distribution&#13;
+Issues in Large Middle-Income Countries&#13;
+with Special Reference to Latin America&#13;
+336     Labor Force, Employment and Labor             L. Squire&#13;
+Markets in the Course of Economic&#13;
+Development&#13;
+337     The Population of Thailand:   Its Growth      S. Cochrane&#13;
+and Welfare&#13;
+338     Capital Market Imperfections and              V.V. Bhatt,&#13;
+Economic Development                         A.A. Roe&#13;
+339     Behaviour of Foodgrain Production             J. Sarma&#13;
+and Consumption in India, 1960-77            S. Roy&#13;
+340     Electric Power Pricing Policy                 M. Munasinghe&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+No.                    TITLE OF PAPER                     AUTHOR&#13;
+341      State Intervention in the Industrializatior,  A. Choksi&#13;
+of Developing Countries: Selected Issues&#13;
+342      Policies for Efficient and Equitable          J. Linn&#13;
+Growth of Cities in Developin.g Countries&#13;
+343      The Capital Goods Sector in LDCs: A Case      J. Datta Mitra&#13;
+for State Intervention?&#13;
+344      International Technology Transfer:  Issues    F. Stewart&#13;
+and Policy Options&#13;
+345      Family Planning Programs: An Evaluation       R. Cuca&#13;
+of Experience&#13;
+346      Prospects for Traditional and Non-            D. liughart&#13;
+Conventional Energy Sources in Developing&#13;
+Countries&#13;
+347      National Urbanization Policies in             B. Renaud&#13;
+Developing Countries&#13;
+348      Private Direct Foreign Investment in          K. B3illerbeck&#13;
+Developing Countries                          Y. Yasugi&#13;
+349      Adjustment Policies and ProbXems in           M. Wolf&#13;
+Developed Countries&#13;
+350      Energy Options and Policy Issues in           D. Fallen-EBailey&#13;
+Developing Countries                          T. IByer&#13;
+351      Growth and Equity in Semi-Industrialized      J. Bergsman&#13;
+Countries&#13;
+352      Capital Flows and Developing Country De:bt    J. KXatz&#13;
+353      Trade Policy for Developing Countries         D. Keesing&#13;
+354      Development Problems of Mineral-Exporting     G. Na.nkaani&#13;
+Countries&#13;
+355      The Global Framework                          R. Cheetham&#13;
+S. (Gu pta&#13;
+A. Schwartz&#13;
+356      The Distribution of Income in Brazil          G. Pfeffermian,&#13;
+R. Webb&#13;
+357      Estimating Shadow Prices for Colombia in      W. Schohl&#13;
+an Input-Output Table Framework&#13;
+358      Inter-Country Comparison of "Real" (PPP)      P. Isemnan&#13;
+Incomes: 'Revised Estimates and Unresolved&#13;
+Questions&#13;
+&#13;
+&#13;
+&amp;#12;&#13;
+</ml:original-txt><ml:search-metadata><doc id="1555076">
+        <url>
+            http://documents.worldbank.org/curated/en/1979/10/1555076/price-distortions-agriculture-effects-international-comparison
+        </url>
+        <availablein>English</availablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/1979/10/1555076/price-distortions-agriculture-effects-international-comparison</url_friendly_title>
+        <new_url>1979/10/1555076/price-distortions-agriculture-effects-international-comparison</new_url>
+        <disclosure_date>2010-07-01T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2010-07-01T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2002/07/09/000178830_9810190340348/Rendered/INDEX/multi0page.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2002/07/09/000178830_9810190340348/Rendered/PDF/multi0page.pdf</pdfurl>
+        <datestored>2002-07-19T00:00:00Z</datestored>
+        <docdt>1979-10-31T00:00:00Z</docdt>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            Price distortions in agriculture and their
+            effects : an international comparison
+        </repnme>
+        <abstracts>
+            The central thesis of this paper is that
+            agricultural pricing policies pursued by developing
+            countries produce effects which are diametrically opposite
+            to those produced by the pricing policies of many developed
+            countries, and that the policies of both are costly in terms
+            of global welfare. In general, the agricultural sector in
+            developing countries is heavily taxed while that in the
+            developed countries receives substantial price protection.
+            The effects of agricultural price distortions on output,
+            consumption, trade and rural employment are estimated for
+            nine countries. In addition, the effects of price
+            distortions on the distribution of income between producers
+            and consumers, on government revenue and foreign exchange,
+            and the net social losses of the policies are calculated.
+            The results indicate that there are large income transfers
+            and impacts on migration from the rural to the urban sector
+            in developing countries and from the urban to the rural
+            sector in developed economies.
+        </abstracts>
+        <docna>
+            Price distortions in agriculture and their
+            effects : an international comparison
+        </docna>
+        <display_title>Price distortions in agriculture
+            and their effects : an international comparison</display_title>
+        <listing_relative_url>/research/1979/10/1555076/price-distortions-agriculture-effects-international-comparison</listing_relative_url>
+        <docty>Staff Working Paper</docty>
+        <subtopic>Crops and Crop Management Systems,Environmental Economics &amp; Policies,Economic Theory &amp; Research,Markets and Market Access,Agricultural Research</subtopic>
+        <teratopic>Agriculture</teratopic>
+        <authors>
+            <author>BALE, M.</author>
+            <author>LUTZ, E.</author>
+        </authors>
+        <entityids>
+            <entityid>000178830_9810190340348</entityid>
+        </entityids>
+        <subsc>AY</subsc>
+        <colti>Staff working paper ; no. SWP 359</colti>
+        <lang>English</lang>
+        <historic_topic>Agriculture</historic_topic>
+        <sectr>Agriculture, fishing, and forestry</sectr>
+        <majdocty>Publications,Publications &amp; Research</majdocty>
+        <keywd>
+            Agricultural prices; Agricultural
+            production; Agricultural workers; Employment; Food
+            consumption; Government role; Rural-urban migrations;
+            Allocation of resources
+            agricultural employment,agricultural
+            inputs,agricultural labor,agricultural output,agricultural
+            policies,agricultural prices,agricultural pricing
+            policies,agricultural production,agricultural
+            productivity,agricultural
+            products,agriculture,Barley,Beef,border price,centrally
+            planned economy,chemical
+            fertilizers,commodities,commodity,commodity
+            prices,consumers,Cotton,crop,developed
+            countries,dumping,Economic Analysis,economic
+            development,economic policies,Economic
+            theories,economists,elasticities,elasticity,employment,equilibrium,exchange
+            rate,exchange rates,exports,FAO,farm,farm employment,farm
+            households,farm
+            incomes,farmers,farms,Fisheries,Forestry,free market
+            prices,general equilibrium analysis,GNP,grain,hand
+            threshing,harvesting,high unemployment,imports,income,income
+            distribution,income levels,irrigation,labor force,landless
+            laborers,LDCs,less developed countries,maize,market
+            incentives,market prices,marketing,meat,national income,net
+            exports,net imports,opportunity cost,pesticides,price
+            changes,price controls,Price distortions,price
+            protection,price setting,price
+            supports,produce,producers,product
+            pricing,productivity,productivity growth,quotas,real
+            income,rice,rice production,rural employment,rural
+            population,rural poverty,social costs,sugar,supply
+            elasticity,surplus,surpluses,unemployment,unemployment
+            rate,unemployment rates,urban bias,Welfare Effects,Wheat
+        </keywd>
+        <owner>DEC</owner>
+        <repnb>SWP359</repnb>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>Water Resources</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Environment</ml:concept><ml:concept>Poverty Reduction</ml:concept><ml:concept>Poverty Reduction and Distributional Analysis</ml:concept><ml:concept>Poverty Reduction and Equity</ml:concept><ml:concept>Poverty and Inequality</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Social Protections and Labor</ml:concept><ml:concept>International Competitiveness</ml:concept><ml:concept>International Economics and Trade</ml:concept><ml:concept>Trade Liberalization</ml:concept><ml:concept>Trade Liberalization and Regional Integration</ml:concept><ml:concept>Trade Restrictiveness</ml:concept><ml:concept>Trade and Integration</ml:concept><ml:concept>Water</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Agriculture and Food Security</ml:concept><ml:concept>Economic Growth</ml:concept><ml:concept>Environment and Natural Resources</ml:concept><ml:concept>Health, Nutrition and Population</ml:concept><ml:concept>Poverty</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Social Protection and Labor</ml:concept><ml:concept>Trade</ml:concept><ml:concept>Economic Policy</ml:concept><ml:concept>Growth Policy Approaches</ml:concept><ml:concept>Growth Policy Formulation</ml:concept><ml:concept>Growth Policy Implementation</ml:concept><ml:concept>Growth Strategies</ml:concept><ml:concept>Productivity-Led Growth</ml:concept><ml:concept>Commodities</ml:concept><ml:concept>Commodity Prices</ml:concept><ml:concept>Commodity Rich Countries</ml:concept><ml:concept>Natural Resources</ml:concept><ml:concept>Agriculture and Rural Development</ml:concept><ml:concept>Agricultural Policy, Strategy and Institutions</ml:concept><ml:concept>Crop Management</ml:concept><ml:concept>Crop Production</ml:concept><ml:concept>Crops</ml:concept><ml:concept>Livestock</ml:concept><ml:concept>Livestock and Animal Husbandry</ml:concept><ml:concept>Integrated Pest Management</ml:concept><ml:concept>Pest Control</ml:concept><ml:concept>Pesticides</ml:concept><ml:concept>Capital Flows</ml:concept><ml:concept>Capital Markets and Capital Flows</ml:concept><ml:concept>Forest and Forestry</ml:concept><ml:concept>Demographics</ml:concept><ml:concept>Market Access</ml:concept><ml:concept>Crops and Crop Management Systems</ml:concept><ml:concept>Consumption</ml:concept><ml:concept>Economic Development</ml:concept><ml:concept>Income</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Agriculture</ml:concept><ml:concept>Copyright</ml:concept><ml:concept>Economic Growth Policy</ml:concept><ml:concept>Commodities and Resources</ml:concept><ml:concept>Water Supply</ml:concept><ml:concept>Agricultural Policies</ml:concept><ml:concept>Fertilizers</ml:concept><ml:concept>Animal Production</ml:concept><ml:concept>Pest Management</ml:concept><ml:concept>Subsidies</ml:concept><ml:concept>Price Controls</ml:concept><ml:concept>Price Controls </ml:concept><ml:concept>Capital Markets</ml:concept><ml:concept>Forestry</ml:concept><ml:concept>Population</ml:concept><ml:concept>Trade Policy</ml:concept></ml:concepts><ml:geo-regions/></ml:annotations></ml:doc-envelope>

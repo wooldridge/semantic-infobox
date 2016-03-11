@@ -1,0 +1,1227 @@
+<?xml version="1.0" encoding="UTF-8"?><ml:doc-envelope xmlns:ml="http://marklogic.com/poolparty/worldbank"><ml:original-txt>                                                           89806&#13;
+                                                 Access to Finance&#13;
+                                                          Forum&#13;
+                                          Reports by CGAP and Its Partners&#13;
+                                                         No. 3, May 2012&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+ Volume Growth and Valuation Contraction&#13;
+Global Microfinance Equity Valuation Survey 2012&#13;
+                               Jasmina Glisovic, Henry GonzÃ¡lez,&#13;
+                   Yasemin Saltuk, and Frederic Rozeira de Mariz&#13;
+&amp;#12;E&#13;
+      quity capital flows into microfinance have been increasing for many years, with both retail&#13;
+      and institutional investors showing interest in this sector of financial services. Despite&#13;
+      this growth, the vast majority of equity investments are still made in the form of private&#13;
+placements, as there are only three publicly traded microfinance institutions (Equity Bank in&#13;
+Kenya, Compartamos in Mexico, and SKS in India). The difficulty in accessing private data&#13;
+and the scarcity of publicly listed entities have limited the scope of the market research&#13;
+available to equity investors in microfinance institutions.&#13;
+&#13;
+To address this research gap, CGAP and J.P. Morgan joined efforts in 2009 to publish&#13;
+an annual Global Microfinance Equity Valuation Survey Report. This partnership benefits&#13;
+from the deep microfinance market knowledge of CGAP and the emerging markets equity&#13;
+research skills of J.P. Morgan. In the past two years, it has also benefited from the support&#13;
+and industry experience of the Council of Microfinance Equity Funds (CMEF). The aim of&#13;
+these yearly publications is to provide benchmarks for the valuation of microfinance&#13;
+equity, both private and publicly listed, to promote market transparency and identify&#13;
+industry trends.&#13;
+&#13;
+This yearâ&#128;&#153;s report is the fourth edition of this research partnership. Previous editions of&#13;
+the report are available on the J.P. Morgan and CGAP Web sites.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Â© 2012 Consultative Group to Assist the Poor/The World Bank&#13;
+All rights reserved.&#13;
+&#13;
+Consultative Group to Assist the Poor&#13;
+1818 H Street, N.W.&#13;
+Washington, DC 20433 USA&#13;
+&#13;
+Internet: www.cgap.org&#13;
+Email: cgap@worldbank.org&#13;
+Telephone: +1 202 473 9594&#13;
+&#13;
+The authors of this paper are Jasmina Glisovic and Henry GonzÃ¡lez (for CGAP) and Yasemin Saltuk&#13;
+and Frederic Rozeira de Mariz (for J.P. Morgan). Deborah Drake (Council of Microfinance Equity&#13;
+Fundsâ&#128;&#148; CMEF) provided invaluable guidance throughout the research. The authors also would like&#13;
+to acknowledge the contributions of Greg Chen and Mayada El-Zoghbi from CGAP, Danielle Donza&#13;
+from CMEF, Aditya Srinath, Head of Indonesia Research at J.P. Morgan, Mervin Naidoo, Head of&#13;
+South Africa Financials Research at J.P. Morgan, and Sunil Garg, Head of Equity Research for Asia-&#13;
+Pacific at J.P. Morgan. Senayit Mesfin, CGAP consultant, provided excellent research assistance.&#13;
+We thank the investors and MFIs who contributed to CGAPâ&#128;&#153;s confidential equity valuation survey&#13;
+(see the appendix for the full list of contributing institutions). The authors remain responsible for&#13;
+the opinions expressed in this report and for any inaccuracies.&#13;
+This report is the result of a collaborative effort between CGAP and J.P. Morgan. J.P. Morgan analysts&#13;
+are solely responsible for the investment opinions and recommendations, if any, in this report.&#13;
+See page 17 for important disclosures.&#13;
+&amp;#12;Introduction&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+T&#13;
+       oward the end of 2010, the asset quality of many microfinance&#13;
+       institutions (MFIs) began to recover from a crisis of client over-&#13;
+       indebtedness and unsustainable growth, particularly in India,&#13;
+Bosnia, and Nicaragua.1 During 2011 and into 2012, this recovery con-&#13;
+tinued to bring higher microfinance equity transaction volumes.2 Based&#13;
+on the responses gathered in this yearâ&#128;&#153;s survey, the private equity (PE)&#13;
+markets experienced an important increase in deal activity from the&#13;
+slower pace recorded in 2010. Large transactions in Latin America and&#13;
+the Caribbean (LAC) as well as strong flows from development finance&#13;
+institutions (DFIs) in India drove the increase in both the volume and&#13;
+the number of transactions.&#13;
+    While asset quality improved and transaction volumes increased,&#13;
+equity valuations continued to decline in 2011 from their peak in 2010,&#13;
+reversing the multiple expansion that had taken place up until then.&#13;
+This is likely due to lingering uncertainties about asset quality in some&#13;
+markets and continued public scrutiny, which was most pronounced in&#13;
+a few countries making up a significant portion of our sample (and the&#13;
+market), such as India. In 2011, our comparables in the public market&#13;
+also declined with a drop in the average valuation of the Lower Income&#13;
+Finance Institutions (LIFIs) Index.3 We believe this reflects a wider&#13;
+trend where LIFI and microfinance valuations in the public and pri-&#13;
+vate markets are beginning to converge toward those of traditional fi-&#13;
+nancial institutions in emerging markets.&#13;
+    Section 1 of this report examines the landscape of PE deals. It fol-&#13;
+lows the methodology of previous surveys and discusses valuation&#13;
+trends and new market developments (see Box 1 for more details on&#13;
+this methodology). This section also delves into deeper regional analy-&#13;
+sis and key country developments. We estimate that our sample covers&#13;
+70â&#128;&#147;80 percent of the microfinance PE activity in 2011.&#13;
+    Section 2 looks at the valuation trends in the public market for LIFIs&#13;
+in developing countries. This analysis includes banks that are not ex-&#13;
+clusively offering microfinance but are also offering consumer loans&#13;
+and other financial services. Since LIFIs serve similar markets to mi-&#13;
+crofinance, their valuation can be a useful comparable for MFIs. This&#13;
+report looks at the same 11 constituents of the LIFI Index that were&#13;
+reviewed in the 2011 edition.&#13;
+&#13;
+   As evidenced by the percentage of loan portfolios where the loans are 30 days in ar-&#13;
+1. &amp;#7;&#13;
+   rears (known as portfolio-at-risk or PAR 30) for the average of 50 MFIs with signifi-&#13;
+   cant foreign capital investments (as measured by Symbiotics SYM 50 index).&#13;
+   For example, the average PAR 30 dropped from a high of 5.5% in early 2010 to its cur-&#13;
+2. &amp;#7;&#13;
+   rent level at 3.5%, as measured by Symbiotics SYM 50 index.&#13;
+   &amp;#7; s measured by the Price/Book Value ratio in this report and the previous editions.&#13;
+3. A&#13;
+&#13;
+&#13;
+&#13;
+                                                                                           1&#13;
+&amp;#12;     Box 1&#13;
+&#13;
+    Methodology and sources&#13;
+&#13;
+    The analysis in this paper is based on two original samples: (1) a private transac-&#13;
+    tion data set that includes 68 transactions in 24 countries during 2011 and (2) a&#13;
+    sample of 11 publicly traded LIFIs. We estimate that this sample of PE transac-&#13;
+    tions represents 70â&#128;&#147;80 percent of the PE market. Combined with surveys from&#13;
+    prior years, our sample now covers 302 transactions that occurred between&#13;
+    January 2005 and December 2011, with an aggregate value close to US$1,057&#13;
+    million. We believe this is the most comprehensive data set on PE investments&#13;
+    in microfinance to date.&#13;
+&#13;
+    Private transaction data set&#13;
+    This yearâ&#128;&#153;s data on PE transactions were collected and processed by CGAP in a&#13;
+    strictly confidential survey conducted in the first quarter of 2012. Twenty-nine&#13;
+    investors comprised of asset managers of microfinance investment vehicles&#13;
+    (MIVs) and DFIs provided data on their PE transactions for 2011 (for a list of&#13;
+    contributors see Appendix 1). During this survey cycle, covering Januaryâ&#128;&#147;&#13;
+    December 2011, CGAP collected data on 84 individual transactions that&#13;
+    amounted to US$382 million. However, only 68 transactions were included in&#13;
+    our sample. Transactions were dropped if they were executed at nominal value&#13;
+    where no valuation process could be assumed; were part of loans being con-&#13;
+    verted into equity; were part of a preagreed investment stage, the price of&#13;
+    which had been set during prior years; or were other deal types where valuation&#13;
+    was not done during this cycle. Transactions that involved several parties that&#13;
+    had done the valuation jointly are treated as one single transaction. This avoids&#13;
+    a potential bias caused by including the same transaction information several&#13;
+    times in the database.&#13;
+        CGAP followed strict procedures to ensure full confidentiality of the data&#13;
+    reported. These included confidentiality agreements with all survey participants&#13;
+    and restricted access policies to the database. Only three CGAP staff and con-&#13;
+    sultants had access to the underlying data. CGAP was responsible for quality&#13;
+    control of the data and preliminary analysis. Only aggregated benchmarks were&#13;
+    shared with J.P. Morganâ&#128;&#153;s team, and the team did not have access to the under-&#13;
+    lying database.&#13;
+&#13;
+    Publicly traded LIFIs&#13;
+    LIFIs are publicly traded commercial institutions that provide financial services&#13;
+    to customers who overlap significantly with those of MFIsâ&#128;&#148;the lower income&#13;
+    population in emerging markets. However, in many cases LIFIs do not necessar-&#13;
+    ily have an explicit social agenda, and their loan portfolios tend to feature more&#13;
+    consumer loans than microenterprise loans. The companies selected as LIFIs&#13;
+    must meet the following conditions: (1) offer financial services; (2) serve the low-&#13;
+    income segment; and (3) be listed on an exchange, with daily liquidity of at least&#13;
+    US$0.1 million.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+2&#13;
+&amp;#12;                                                                                                                                   1&#13;
+                                                                                                                       Pa r t&#13;
+&#13;
+&#13;
+&#13;
+Valuation of Private Equity Transactions&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+F&#13;
+     or this yearâ&#128;&#153;s report, we gathered data from 29              Table 1â&#128;&#148;Historical        private equity transactions&#13;
+     investors who are asset managers of MIVs as&#13;
+                                                                  	                      Transactions	Transactions&#13;
+     well as of bilateral and multilateral DFIs.4                 Year	                      (no.)	    (US$ mm)&#13;
+This section examines the following questions:&#13;
+                                                                  2005	 28	106&#13;
+â&#128;¢	 What are the global growth and valuation trends                2006	37	20&#13;
+   for PE microfinance transactions in 2011?                      2007	37	60&#13;
+â&#128;¢	 What trends in growth and valuation emerge at                  2008	 63	144&#13;
+   the regional or country levels?                                2009	 32	230&#13;
+                                                                  2010	 37	205&#13;
+                                                                  2011	 68	292&#13;
+1.1. &amp;#7;Overall Growth and&#13;
+                                                                  Total	 302	1057&#13;
+     Valuation Trends&#13;
+                                                                  Source: CGAP Research, Global Microfinance Equity Survey 2012.&#13;
+&#13;
+This yearâ&#128;&#153;s survey of PE investments in microfi-&#13;
+nance included 84 transactions totaling US$382                       PE activity resumed in India in 2011. However,&#13;
+million. For the analysis in this report, we selected a              market participants remain sensitive to the prog-&#13;
+sample of 68 transactions totaling US$292 million                    ress of the Microfinance Institutions Bill cur-&#13;
+to include only direct investments into MFIs where                   rently under discussion.&#13;
+a valuation methodology was used as part of the in-&#13;
+                                                                  3.	 Lower valuations. In most regions, except East-&#13;
+vestment process (for more information, see Box 1).&#13;
+                                                                      ern Europe and Central Asia (ECA), valuations&#13;
+    Overall, the microfinance PE market experienced&#13;
+                                                                      compressed year-over-year in 2011, which had a&#13;
+stronger deal flow in 2011, with almost twice the&#13;
+                                                                      positive effect on the number and size of transac-&#13;
+number of transactions compared to 2010. In 2011,&#13;
+                                                                      tions.&#13;
+there was also a 43 percent increase in capital from&#13;
+the previous year and the largest flow of capital re-             Note that the number of respondents for this yearâ&#128;&#153;s&#13;
+ported to date. The key drivers that contributed to               survey was higher (29 compared to 21 in 2010),&#13;
+the strong growth in the number of transactions and               which also slightly impacted the reported volume&#13;
+investment amounts in 2011 were as follows:                       of capital flows.&#13;
+                                                                     While transaction volumes rebounded in 2011,&#13;
+1.	 Several large transactions. The increase in vol-&#13;
+                                                                  the valuations for those transactions remained&#13;
+    ume of flows was supported by several very large&#13;
+                                                                  compressed. Valuations contracted in 2011, as mea-&#13;
+    transactions where existing MFIs or networks&#13;
+                                                                  sured by the forward book value multiple. This con-&#13;
+    tapped new markets, mainly in LAC, as part of an&#13;
+                                                                  traction began in 2010 after several years of steady&#13;
+    international expansion strategy mostly to sus-&#13;
+                                                                  rise. The forward book value multiple, the key&#13;
+    tain growth.&#13;
+                                                                  benchmark for equity valuation in the microfinance&#13;
+2.	 Expectations of an improved regulatory envi-                  PE market,5 dropped to an average of 1.4x book&#13;
+    ronment in India. Investors welcomed progress                 value from a high of 1.7x in 2009. This recent aver-&#13;
+    toward a more stable regulatory framework, and                age is at the same level as in 2008.&#13;
+&#13;
+   Unless otherwise noted, all amounts are in U.S. dollars, and&#13;
+4. &amp;#7;                                                                 &amp;#7; or more discussion on valuation methodologies, see&#13;
+                                                                  5. F&#13;
+   comparisons are between 2011 and 2010.                            Oâ&#128;&#153;Donohoe et al. (2009).&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                       3&#13;
+&amp;#12;    Table 2â&#128;&#130; P/E     multiples have reversed since 2010, while P/BV multiples decreased&#13;
+    	                Historical P/E	                                                              Forward P/BV&#13;
+     Year	             Average	                    Median	                                  Average	         Median&#13;
+&#13;
+    2005	9.1	                                         7.9	                                      1.1	0.9&#13;
+&#13;
+    2006	8.5	                                         7.3	                                      1.0	0.9&#13;
+&#13;
+    2007	10.4	                                        7.2	                                      1.2	 1.0&#13;
+&#13;
+    2008	10.3	                                        8.1	                                      1.4	 1.1&#13;
+&#13;
+    2009	12.8	                                      13.0	                                       1.7	 1.4&#13;
+&#13;
+    2010	20.1	                                      23.4	                                       1.6	 1.4&#13;
+    2011*	11.4	                                     11.3	                                       1.4	                  1.2&#13;
+    *2011 calculations reflect data from 44 transactions where valuation information was provided for both Historical P/E and Forward P/BV.&#13;
+    Source: CGAP Research, Global Microfinance Equity Survey 2012.&#13;
+&#13;
+&#13;
+&#13;
+       The key drivers that contributed to the contrac-                       1.2.â&#128;&#130;&amp;#7;Regional Growth and&#13;
+    tion in valuation multiples in 2011 were continued&#13;
+                                                                                   Valuation Trends&#13;
+    uncertainties about asset quality seen in some mar-&#13;
+    kets since 2009 and the ongoing regulatory uncer-                         Share and growth of equity investments&#13;
+    tainties in India (discussed later in the paper).6                        In dollar terms, LAC accounts for more than half of&#13;
+                                                                              the total amount of investments followed by Asia&#13;
+    Type of Deals7                                                            (notably India with over 92 percent of all invest-&#13;
+    In terms of total volume of transactions, secondary                       ments in Asia), as shown in Figure 2. The highest&#13;
+    issuances continued to dominate the PE space in                           growth in investments since 2009 was experienced&#13;
+    microfinance following the 2010 trend, but at a                           by sub-Saharan Africa (SSA). Despite coming from&#13;
+    slower pace. In 2011, the secondary markets repre-                        a low base in absolute terms, the volume of invest-&#13;
+    sented 56 percent of total transaction volume in U.S.                     ments in SSA has more than tripled compared to&#13;
+    dollar terms, a decrease from 69 percent in 2010, as                      2009. Asia also had important growth, while LAC&#13;
+    shown in Figure 1. LAC overwhelmingly captured                            has recovered from the drop in volume experienced&#13;
+    the most volume of secondary issuanceâ&#128;&#148;perhaps                             in 2010, and continues to lead as the region with the&#13;
+    due to its more mature nature. In addition, LAC                           largest share of capital flows. ECA lagged behind all&#13;
+    continued its wave of acquisitions, and three of                          the other regions this year.&#13;
+    these larger acquisition transactions in the second-                         Regarding median transaction size in 2011, LAC&#13;
+    ary markets contributed over US$99 million (62                            experienced an increase, SSA and Asia experienced&#13;
+    percent of total amount transacted in LAC). As for                        a decrease, while ECA remained at the same level&#13;
+    primary issuance, the volume of activity globally                         compared to 2010, as illustrated by Figure 3.&#13;
+    grew more than 13 percent, with an important con-                            The following are some key trends in the most&#13;
+    centration in India.                                                      active regions that impacted PE flows in 2011.&#13;
+&#13;
+                                                                              LAC. The bulk of the investments channeled to&#13;
+    6. F&amp;#7; or more information about MFI performance, see&#13;
+        MixMarket (http://www.mixmarket.org/ ).                               LAC (70 percent of the total amount invested in the&#13;
+    7. &amp;#7;&#13;
+       Primary issuance refers to the issuance of new shares to               region) was represented by capital flows that came&#13;
+       increase the MFI capital base; secondary issuance is the               from established microfinance players growing into&#13;
+       exchange (buy or sell) of existing shares of MFIs.&#13;
+                                                                              new international markets as majority sharehold-&#13;
+                                                                              ers. Within the region, Peru again had the most&#13;
+                                                                              transactions and the largest size of investments.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+4&#13;
+&amp;#12;FIGURE 1â&#128;&#130; Volume              of transactions, by type of deals&#13;
+           180                                                   75%&#13;
+&#13;
+           160&#13;
+           140                                                                69%&#13;
+                                                                                           56%&#13;
+           120&#13;
+Millions&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+           100       88%                                 68%                                     44%&#13;
+&#13;
+            80&#13;
+                                            88%                        25%          31%                   Existing shares $&#13;
+            60                                     32%&#13;
+                                                                                                          New shares $&#13;
+            40&#13;
+            20          12%   40% 60% 12%&#13;
+             0&#13;
+                     2005      2006      2007        2008        2009         2010          2011&#13;
+&#13;
+Source: CGAP Research, Global Microfinance Equity Survey 2012.&#13;
+&#13;
+&#13;
+&#13;
+FIGURE 2â&#128;&#130; Regional             share of microfinance equity investments (volume US$)&#13;
+           350&#13;
+&#13;
+           300&#13;
+&#13;
+           250&#13;
+Millions&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+           200                                                                                                   LAC&#13;
+&#13;
+           150                                                                                                   ECA&#13;
+&#13;
+           100                                                                                                   Asia&#13;
+&#13;
+                                                                                                                 Africa&#13;
+            50&#13;
+&#13;
+             0&#13;
+                       2005      2006       2007         2008          2009         2010           2011&#13;
+Source: CGAP Research, Global Microfinance Equity Survey 2012.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+FIGURE 3â&#128;&#130; Median              transaction size 2005â&#128;&#147;2011 (US$)&#13;
+           3,500&#13;
+&#13;
+           3,000&#13;
+&#13;
+           2,500&#13;
+                                                                                                               Africa&#13;
+Millions&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+           2,000                                                                                               Asia&#13;
+&#13;
+           1,500                                                                                               ECA&#13;
+&#13;
+                                                                                                               LAC&#13;
+           1,000&#13;
+&#13;
+            500&#13;
+&#13;
+                 0&#13;
+                       2005      2006       2007         2008      2009         2010             2011&#13;
+&#13;
+Source: CGAP Research, Global Microfinance Equity Survey 2012.&#13;
+&#13;
+&#13;
+                                                                                                                              5&#13;
+&amp;#12;    Table 3â&#128;&#130; Key     acquisitions in LAC in 2011&#13;
+     Month 2011	        Target	                            Acquirer	                          Transaction Amount US$ mm&#13;
+&#13;
+    June	 Financiera Crear 	                               Compartamos SAB de CV	                           63&#13;
+    	(Peru)	                                               (Mexico)&#13;
+&#13;
+    April	 Financiera Confianza (Peru)	                    FundaciÃ³n Microfinanzas BBVA 	                   33&#13;
+    	(Peru)	                                               (Spain)	&#13;
+    May	 Fondo Esperanza 	                                 FundaciÃ³n Microfinanzas BBVA	                    13&#13;
+    	(Chile)	                                              (Spain)&#13;
+    Source: MicroCapital Monitor.&#13;
+&#13;
+&#13;
+&#13;
+    Table 4â&#128;&#130; Countries        with more than 5 transactions in 2011&#13;
+     	                       Total #	            Transaction Amount	          4-yr average	            2011 average&#13;
+    	                     Transactions	               (US$ mm)	                P/BV (fwd)	              P/BV (fwd)&#13;
+&#13;
+    Peru	10	116.5	1.5	1.8&#13;
+&#13;
+    India	19	 88.4	2.0	1.9&#13;
+    Mongolia	7	 7.7	1.3	1.0&#13;
+    Source: CGAP Research, Global Microfinance Equity Survey 2012.&#13;
+&#13;
+&#13;
+&#13;
+    Asia. Investments reported in Asia mainly in-                      However, greenfield transactions, usually valued&#13;
+    cluded deals in India (92 percent of the total vol-                nominally at book value, are excluded from the sur-&#13;
+    ume in the region) with a few other transactions                   vey analysis so as not to skew the survey valuation&#13;
+    in Pakistan, Indonesia, and Cambodia. Despite                      results downward.&#13;
+    the microfinance crisis in the Indian state of&#13;
+    Andhra Pradesh, India had 19 deals closed and                      Country-specific trends. India and Peru were once&#13;
+    priced, amounting to over US$88 million com-                       again the leading markets accounting for around 70&#13;
+    pared to 10 deals that amounted to over US$45                      percent of the total volume. Several large acquisi-&#13;
+    million in 2010. The composition of investors in                   tions took place, making Peru the single country&#13;
+    India included a mix of commercial banks, MIVs,                    with the largest volume transacted. India attracted&#13;
+    and DFIs, but the most significant share in terms                  the second highest volume of all capital flows per&#13;
+    of volume of transactions came from DFIs (74                       country. Most of that capital was concentrated in a&#13;
+    percent).                                                          few transactions funded by DFIs. Mongolia was the&#13;
+                                                                       third country that attracted most deals; however,&#13;
+    SSA. Public and private microfinance investors                     the total amount was significantly lower compared&#13;
+    made more efforts to channel investments to SSA in                 to India and Peru.&#13;
+    2011, and they are expecting an increase in their&#13;
+    SSA portfolio in 2012. However, there is still a high              Valuations: Trends and breakdown by region&#13;
+    concentration of capital flowing into a few African                Overall, SSA and LAC each showed lower average&#13;
+    countries.8 In addition, SSA continued to be an ac-                valuations in 2011, Asia remained stable, while ECA&#13;
+    tive region in the number of greenfield operations.9               showed a slight increase compared to 2010.&#13;
+&#13;
+&#13;
+       &amp;#7; n 2011, flows were mostly to mature MFIs in Tanzania and Zambia.&#13;
+    8. I&#13;
+       &amp;#7; Greenfield MFI is a new MFI built from scratch, without pre-existing structures, that uses a set of standard operating&#13;
+    9. A&#13;
+       procedures disseminated by a central group. The central groupâ&#128;&#148;a holding company or international networkâ&#128;&#148;typically&#13;
+       provides equity finance and technical assistance to the greenfield entity and holds a majority stake in its investees.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+6&#13;
+&amp;#12;Table 5â&#128;&#130; Historical      valuation breakdown, by region&#13;
+	           Average Forward P/BV	                                                                                  # of Deals&#13;
+	 2005	2006	2007	2008	2009	2010	2011	                                                                                2011&#13;
+&#13;
+SSA	0.6	0.8	1.5	1.5	1.0	1.1	0.8	                                                                                        5&#13;
+&#13;
+Asia	1.3	1.7	1.5	1.5	1.9	1.8	1.8	                                                                                       19&#13;
+&#13;
+ECA	1.1	1.1	1.0	1.6	2.1	0.9	1.1	                                                                                        10&#13;
+LAC	1.2	0.8	1.0	1.2	1.2	1.5	1.4	                                                                                        10&#13;
+Source: CGAP Research, Global Microfinance Equity Survey 2012.&#13;
+&#13;
+&#13;
+   The microfinance industry in India continued                  FIGURE 4â&#128;&#130; India    median and average forward&#13;
+to be impacted by the crisis that erupted in the                 P/BV&#13;
+state of Andhra Pradesh in October 2010. As illus-               2.5&#13;
+trated in Figure 4, the average and median multi-                            2.1                         Average&#13;
+                                                                                                   2.0 Forward P/BV&#13;
+                                                                                                                            1.9&#13;
+ple of price-to-book value dropped in 2011, though                 2         2.1&#13;
+by a smaller degree than between the years 2009&#13;
+                                                                 1.5                              1.7 Median&#13;
+and 2010. Note that several of the MFIs that at-                                                         Forward P/BV&#13;
+                                                                                                                         1.6&#13;
+tracted capital in 2011 had distressed portfolios,&#13;
+                                                                   1&#13;
+especially in Andhra Pradesh, and this likely re-&#13;
+duced valuations.                                                0.5&#13;
+&#13;
+                                                                   0&#13;
+                                                                             2009                 2010                  2011&#13;
+                                                                 Source: CGAP Research, Global Microfinance Equity Survey 2012.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                  7&#13;
+&amp;#12;      2&#13;
+Pa r t&#13;
+&#13;
+&#13;
+&#13;
+          Valuation of Publicly Listed Companies: LIFIs&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+          L&#13;
+               IFIs provide financial services (consumer, mi-                    The individual weightings of each stock depend on&#13;
+               croenterprise loans, payments, savings, and in-                   the market capitalization of the companies. That&#13;
+               surance) to lower-income segments of the                          said, the weight of some stocks was reduced in the&#13;
+          population, but they do not necessarily have a stat-                   index to reflect the percentage of the operations of&#13;
+          ed social mission. As they operate largely in the                      the company that correspond to lower income fi-&#13;
+          same market as MFIs, they offer interesting compa-                     nance. For example, the weight of Bank Rakyat is&#13;
+          rables for MFI valuations.                                             only 50 percent of what its actual market cap would&#13;
+             Based on these criteria, 11 listed LIFIs that have                  correspond to in the index, as roughly 50 percent of&#13;
+          a broad microfinance focus were identified. The                        the bankâ&#128;&#153;s operations and revenues correspond to&#13;
+          purpose of this section is to answer the following                     lower income finance.&#13;
+          key questions:                                                             Indonesian stocks constitute the highest weight&#13;
+                                                                                 ~56 percent, while stocks listed in Kenya and India&#13;
+          â&#128;¢	 What is the current composition of the LIFI In-&#13;
+                                                                                 comprise 4 percent and 1 percent of the basket, re-&#13;
+             dex?&#13;
+                                                                                 spectively. The resulting weights show that Indo-&#13;
+          â&#128;¢	 What is the performance of the LIFI Index in                        nesia combines one of the most mature markets for&#13;
+             absolute and relative terms?                                        public equity in microfinance (Bank Rakyat was&#13;
+          â&#128;¢	 Do LIFIs continue to outperform traditional                         founded in 1895) with an especially well-developed&#13;
+             banks?                                                              stock market (unlike Bangladesh, for example).&#13;
+                                                                                     The breakdown of countries in the LIFI Index&#13;
+                                                                                 (i.e., on public markets) is different from the break-&#13;
+          Composition of the LIFI Index                                          down on the PE market described in the first sec-&#13;
+                                                                                 tion of this report. The countries attracting mean-&#13;
+          The LIFI Index is a market cap-weighted index of                       ingful interest from PE players in microfinanceâ&#128;&#148;&#13;
+          11 companies, encompassing various geographies                         such as India or Peruâ&#128;&#148;are not represented with the&#13;
+          and business models. The index includes banks that                     same weight in the LIFI Index. Indiaâ&#128;&#148;a major mar-&#13;
+          are not exclusively offering working capital loans to                  ket for PE until recentlyâ&#128;&#148;represents only 1 percent&#13;
+          microentrepreneurs, broadening the scope to in-                        of the index (via SKS,the only listed LIFI in India).&#13;
+          clude consumer loans and other financial services.                     The weight of SKS reached a peak of 10 percent of&#13;
+          It includes the same 11 constituent list of LIFIs as                   the index in September 2010, but its market capital-&#13;
+          discussed in last yearâ&#128;&#153;s report.                                       ization, and hence weight in the index, fell signifi-&#13;
+                                                                                 cantly due to the Andhra Pradesh crisis in October&#13;
+          Basket Methodology and Composition                                     2010.&#13;
+          Companies selected as LIFIs must meet the follow-                          Figures 5 and 6 show the current breakdown of&#13;
+          ing conditions:                                                        the LIFI Index, by stock and by country.&#13;
+          1.	 Offer financial services                                           Table 6 includes the main country of operations of&#13;
+                                                                                 those LIFIs as well as their focus. The last column&#13;
+          2.	 Serve the lower-income segment of the population                   indicates the current weight of each institution in&#13;
+          3.	 Be listed on an exchange, with daily liquidity of                  the index.&#13;
+              at least US$0.1 million10&#13;
+&#13;
+          10. &amp;#7;Stock liquidity ensures that the price reported by data provid-&#13;
+               ers, such as Bloomberg, is not distorted by temporary imbal-&#13;
+               ances between supply and demand of shares.&#13;
+&#13;
+  8&#13;
+&amp;#12;FIGURE 5â&#128;&#130; Stock        breakdown of the LIFI Index                  FIGURE 6â&#128;&#130; Country          breakdown of the LIFI Index&#13;
+&#13;
+                            IPF 2%&#13;
+              Tabungan               Findep 1%                                                   India 1%&#13;
+                   2%                                                                            Other 4%&#13;
+                                      SKS 1%                                        Kenya&#13;
+             Equity 4%                                                                4%&#13;
+   First Cash 5%                                                         Mexico&#13;
+                                                                           11%&#13;
+Comparc 8%&#13;
+                                                   Rakyat&#13;
+                                                    38%&#13;
+&#13;
+Capitec 12%&#13;
+                                                                                                                   Indonesia&#13;
+                                                                    South Africa                                   56%&#13;
+                                                                           24%&#13;
+     Danamon 12%&#13;
+                                  African Bk 16%&#13;
+&#13;
+Source: J.P. Morgan, as of April 24, 2012.                          Source: J.P. Morgan, as of April 24, 2012.11&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Table 6â&#128;&#130; Institutions        in the LIFI Index&#13;
+ Company	                         Country	                  Focus&#13;
+&#13;
+ Bank Rakyat	                     Indonesia	&amp;#7;Government-owned bank (57%) focusing on rural microlending&#13;
+                                             (&gt;4,400 outlets across Indonesia). Micro- and payroll loans represent&#13;
+                                             ~50% of the loan book, but a higher stake in revenues.&#13;
+&#13;
+ Bank Danamon	                    Indonesia	&amp;#7;Consumer mass market lending, with more than 1,000 outlets.&#13;
+                                             Self-employed entrepreneurs are ~20% of loans, while segment&#13;
+                                             of 2- and 4-wheelers represents ~40% of total loans.&#13;
+&#13;
+ Bank Tabungan	 Indonesia	                                  Mostly focused on pensioners, while ~20% of loans go to&#13;
+ Pensiunan 		                                               microborrowers.&#13;
+&#13;
+ SKS	                             India	&amp;#7;Largest MFI in India, with loan growth of ~15x before the crisis.&#13;
+                                         Andhra Pradesh represents ~30% of total loans of SKS.&#13;
+&#13;
+ African Bank	                    South Africa	&amp;#7;Individual consumer lending. African Bank owns a furniture retailer&#13;
+                                                (~25% of groupâ&#128;&#153;s revenues).&#13;
+&#13;
+ Capitec	                         South Africa	&amp;#7;Individual consumer lending. Capitec offers a full suite of&#13;
+                                                transactional banking services.&#13;
+&#13;
+ Equity Bank	                     Kenya	&amp;#7;Microlender offering credit, savings, and fund transfer services in&#13;
+                                         Kenya, southern Sudan, and Uganda. The bank accounts for roughly&#13;
+                                         half of Kenyan bank accounts.&#13;
+&#13;
+ Compartamos	                     Mexico/Peru	&amp;#7;Microloans to entrepreneurs in Mexico, Peru, and a greenfield&#13;
+                                               operation in Guatemala; group lending methodology (more than&#13;
+                                               80% of total loans).&#13;
+&#13;
+ Financiera Independencia	 Mexico	&amp;#7;Microloans to individual consumers (~80% of total) and group&#13;
+                                   lending to entrepreneurs (~20% of total loans).&#13;
+&#13;
+ First Cash Financial	            Mexico/USA	&amp;#7;Pawn store, with half of revenues coming from interest income&#13;
+                                              and half coming from inventory sales.&#13;
+ IPF	                             Eastern Europe/Mexico	&amp;#7;Consumer lending present in six countries, originated through&#13;
+                                                         independent workforce.&#13;
+Source: J.P. Morgan.&#13;
+&#13;
+11. &amp;#7;Others include the operations of International Personal Finance (IPF), present in six countries in Eastern Europe and Mexico. The&#13;
+    category also includes the revenues derived from the U.S. operations of First Cash Financial (approximately half of the total for&#13;
+    First Cash).&#13;
+&#13;
+&#13;
+                                                                                                                                         9&#13;
+&amp;#12;     LIFI Index generally outperforms,                        July 2011). South African banks did well in 2011 on&#13;
+                                                              resilient earnings and stable revenue delivery. Indo-&#13;
+     but not in the first months of 2012&#13;
+                                                              nesian banks remained immune to Europe-related&#13;
+     The LIFI Index has outperformed significantly the        stress in 2011 and received positive impetus from&#13;
+     MSCI World Financials Index and the MSCI EM              the central bank moving to an easing bias in the&#13;
+     Banks Index since its inception and over different       fourth quarter of 2011, and a sovereign upgrade to&#13;
+     time periods. In Figure 7, the performance of the        investment grade.&#13;
+     LIFI Index is compared to global financial institu-         The top three underperformers were SKS (In-&#13;
+     tions (as measured by the MSCI World Financials          dia, -69 percent), Findep (Mexico, -51 percent), and&#13;
+     Index) and emerging markets banks (as measured           Compartamos (Mexico, -33 percent). The microfi-&#13;
+     by the MSCI EM Banks Index).                             nance crisis in India continued, with significant&#13;
+         The annualized return of the LIFI Index was          write-offs in banksâ&#128;&#153; portfolios, despite new deci-&#13;
+     +26 percent since its inception in November 2003,        sions taken by the Reserve Bank of India (RBI) to&#13;
+     while the annualized MSCI World Financials In-           help the sector following the Andhra Pradesh crisis&#13;
+     dex and the MSCI EM Banks Index during the               of October 2010. In Mexico, the focus over the past&#13;
+     same period were -3 percent and +13 percent, re-         few months has been on increasing competition in&#13;
+     spectively.                                              the sector, increasing loan delinquencies (still at a&#13;
+         As in previous editions of this report, LIFIs have   relatively low level, however), and general elections&#13;
+     generally outperformed both emerging markets             (due July 2012).&#13;
+     and developed markets banks over different time&#13;
+     periods. Table 7 summarizes the compound annual          LIFIs show a high correlation with EM Banks&#13;
+     growth rate (CAGR) of the three indices over four        The correlation of the LIFI Index to the MSCI EM&#13;
+     distinct time periods: since its inception (Novem-       Banks Index returns has been 66 percent on aver-&#13;
+     ber 2003), since the precrisis peak (November            age since November 2003. Figures 9 and 10 show&#13;
+     2007), since the Lehman failure (September 2008),        the correlation of the LIFI Index to the MSCI EM&#13;
+     and since the Andhra Pradesh crisis (October 2010).      Banks Index. The correlation between the two indi-&#13;
+     In those four time periods, the LIFI Index mostly        ces decreased meaningfully in the second half of&#13;
+     outperformed the other two indices.                      2011 to reach a low of 41 percent and is now back to&#13;
+         Table 8 shows the annual performance of the          average levels of 89 percent. This was mostly due to&#13;
+     indices considered (LIFI, MSCI World Finan-              the LIFI Index being relatively resilient to global&#13;
+     cials, and MSCI EM Banks) since January 2004.            turmoil (U.S. rating downgrade and European sov-&#13;
+     LIFIs outperformed World Financials and EM               ereign crisis) in August and September 2011.&#13;
+     banks for six of the nine years since 2004, all but&#13;
+     2005 and 2007.&#13;
+         Figure 8 shows the performance of each of the        Current Valuation of the LIFI Index&#13;
+     11 individual stocks comprising the LIFI Index&#13;
+     since the last edition of this report (July 2011). The   Table 9 shows the current valuation of the constitu-&#13;
+     chart shows that the performance of stocks has           ents of the index and of the index itself. We also&#13;
+     been unequal and mostly driven by country spe-           compare these to global financial companies.12&#13;
+     cific factors.                                              The LIFI Index currently trades at 13.5x 2011A&#13;
+         The top three outperformers since 1 July 2011        earnings and 2.7x 2012E book value.13 This repre-&#13;
+     were Capitec (South Africa, +42 percent), Dana-&#13;
+     mon (Indonesia, +19 percent), and Tabungan (In-              For the historical valuation of the LIFI Index, please see the&#13;
+                                                              12. &amp;#7;&#13;
+     donesia, +13 percent). South African and Indone-             previous editions of this report.&#13;
+     sian stock markets were up, outperforming global             2012E stands for â&#128;&#156;expectedâ&#128;&#157; at the end of 2012 and is used for&#13;
+                                                              13. &amp;#7;&#13;
+                                                                  future expectations of earnings or book value. By contrast,&#13;
+     markets, at +6 percent and +6 percent versus +2              2011A corresponds to actual data, as financial information for&#13;
+     percent for the S&amp;P500 (all performance since 1              2011 is already known.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+10&#13;
+&amp;#12;             Index outperformed has other&#13;
+FIGURE 7â&#128;&#130; LIFI                                                                        Table 7â&#128;&#130; Annualized performance of indices over four&#13;
+banks indices since inception (November 2003)                                         time periods (%)&#13;
+1000            LIFI Index                                                            		                                              MSCI World	      MSCI&#13;
+ 800            MSCI Global Fin                                                       	 LIFI Index	                                    Financials 	   EM Banks&#13;
+                MSCI EM Banks&#13;
+ 600                                                                                  Since launch 	                   26	                 â&#128;&#147;3	           13&#13;
+                                                                                      (November 2003)	&#13;
+ 400&#13;
+                                                                                      Since precrisis peak 	           6	                 â&#128;&#147;14	           â&#128;&#147;4&#13;
+ 200&#13;
+                                                                                      (November 2007)	&#13;
+     0&#13;
+      Nov Nov Nov Nov Nov Nov Nov Nov Nov                                             Since Lehman	                    20	                 â&#128;&#147;6	           7&#13;
+     2003 2004 2005 2006 2007 2008 2009 2010 2011                                     (September 2008)	&#13;
+                                                                                      Since AP crisis 	                â&#128;&#147;4	                 â&#128;&#147;2	           â&#128;&#147;9&#13;
+Source: J.P. Morgan, Bloomberg, as of April 24, 2012. The index is set                (October 2010)	&#13;
+with a value of 100 in November 2003.&#13;
+                                                                                      Source: J.P. Morgan, Bloomberg prices as of April 24, 2012.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Table 8â&#128;&#130; Annualized          performance of indices for each year (%)&#13;
+ 	                           2004	         2005	        2006	            2007	      2008	      2009	       2010	        2011	       2012 YTD&#13;
+&#13;
+ LIFI Index	                   108	           10	           53	            14	        â&#128;&#147;42	         93	         46	           â&#128;&#147;13	          13&#13;
+&#13;
+ MSCI World Financials	         15	            9	           21	           â&#128;&#147;11	        â&#128;&#147;56	         28	            2	         â&#128;&#147;21	          11&#13;
+ MSCI EM Banks	                 39	           32	           32	            23	        â&#128;&#147;53	         83	         17	           â&#128;&#147;24	          10&#13;
+Source: J.P. Morgan, Bloomberg, prices as of April 24, 2012. We highlight the top performing index for each year. * year-to-date (YTD)&#13;
+performance.&#13;
+&#13;
+&#13;
+&#13;
+FIGURE 8â&#128;&#130; Performance             of the underlying stocks in the LIFI Index&#13;
+Since July 2011 (the last edition of this report)&#13;
+&#13;
+180&#13;
+&#13;
+160&#13;
+&#13;
+140                                                                                              ABL SJ Equity&#13;
+                                                                                                 CPI SJ Equity&#13;
+120                                                                                              COMPARC* Equity&#13;
+                                                                                                 FINDEP* Equity&#13;
+100&#13;
+                                                                                                 BBRI IJ Equity&#13;
+                                                                                                 BDMN IJ Equity&#13;
+ 80&#13;
+                                                                                                 BTPN IJ Equity&#13;
+ 60                                                                                              IPF LN Equity&#13;
+                                                                                                 FCFS US Equity&#13;
+ 40                                                                                              SKSM IN Equity&#13;
+                                                                                                 EQBNK KN Equity&#13;
+ 20&#13;
+&#13;
+     0&#13;
+ Jun 2011                       Oct 2011                          Feb 2012&#13;
+&#13;
+Source: J.P. Morgan, Bloomberg data since July 1, 2011, as of April 24, 2012. ABL: African Bank; CPI: Capitec; COMPARC*: Compartamos;&#13;
+FINDEP*: Financiera Independencia; BBRI IJ: Bank Rakyat Indonesia; BDMN IJ: Danamon; BTPN IJ: Tabungan; IPF: International Personal&#13;
+Finance; FCFS: First Cash Financial; SKSM IN: SKS; EQBNK KN: Equity Bank.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                                 11&#13;
+&amp;#12;            Index vs. MSCI EM Banks:&#13;
+FIGURE 9â&#128;&#130; LIFI                                                                       returns of the LIFI Index vs.&#13;
+                                                                         FIGURE 10â&#128;&#130; Daily&#13;
+12M correlation is currently 89%                                         MSCI EM Banks Index returns: Average correlation of 66%&#13;
+&#13;
+100%                                                                                            15%&#13;
+ 80%&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                        LIFI daily return (%)&#13;
+                                                                                                10%&#13;
+ 60%                                                                                             5%&#13;
+ 40%                                                                                             0%&#13;
+ 20%&#13;
+                                                                                                â&#128;&#147;5%&#13;
+  0%&#13;
+                                                                                                â&#128;&#147;10%&#13;
+â&#128;&#147;20%&#13;
+    Nov            Nov          Nov           Nov                                               â&#128;&#147;15%&#13;
+   2004            2006         2008          2010                                                  â&#128;&#147;20%       â&#128;&#147;10%        0%       10%         20%&#13;
+                                                                                                            MSCI EM Banks Daily Return (%)&#13;
+Source: J.P. Morgan, Bloomberg prices through Apriil 24, 2012.&#13;
+                                                                         Source: J.P. Morgan, Bloomberg prices through April 24, 2012. Sample since November 2003.&#13;
+&#13;
+&#13;
+&#13;
+Table 9â&#128;&#130; Valuation        summary: Comparing the LIFI index with traditional banks&#13;
+						                                                        EPS			ROE&#13;
+		               Country of	  Mkt. Cap	   ADTV	  Local	 growth (%)	  P/E	 P/BV	  (%)&#13;
+Company	 Ticker	 Listing	    (US$ mm)	 (US$ mm)	 Price	  2011â&#128;&#147;12E	  11A	   12E	 12E&#13;
+&#13;
+African Bank	             ABL SJ	                 S. Africa	             3,965 	                           18.8 	    3,845.00 	           25	    12.9x 	   2.1x 	    21&#13;
+&#13;
+Capitec	                  CPI SJ	                 S. Africa	             2,852 	                            4.2 	   22,400.00 	           44	    30.3x 	   4.7x 	    26&#13;
+&#13;
+Equity Bank	              EQBNK KN	               Kenya	                               905 	                0.7 	       20.25 	           14	     7.4x 	   2.1x 	    35&#13;
+&#13;
+Bank Rakyat	              BBRI IJ	                Indonesia	           18,526 	                            23.4 	    6,900.00 	           17	    12.7x 	   2.8x 	    29&#13;
+&#13;
+Danamon	                  BDMN IJ	                Indonesia	             6,572 	                            4.5 	    6,300.00 	           10	    16.9x 	   2.1x 	    15&#13;
+&#13;
+Tabungan	                 BTPN IJ	                Indonesia	             2,272 	                            0.2 	    3,575.00 	           25	    15.6x 	   2.8x 	    26&#13;
+&#13;
+SKS	                      SKSM IN	                India	                               147 	                3.0 	      106.80 	        -86	      (1.0)x	   0.8x 	   NA&#13;
+&#13;
+Compartamos	              COMPARTO MM	            Mexico 	               1,924 	                            7.2 	       15.68 	            8	    12.4x 	   2.9x 	    32&#13;
+&#13;
+Fin. Independencia	       FINDEP*	                Mexico 	                             272 	                0.1 	        5.00 	           59	    17.2x 	   1.3x 	    16&#13;
+&#13;
+First Cash Financial	     FCFS US	                USA / Mexico	          1,153 	                           13.1 	       39.13 	           20	    17.4x 	   3.1x 	    22&#13;
+&#13;
+IPF	                      IPF LN	                 UK	                    1,017 	                            0.9 	      245.00 	        -12	       8.2x 	   1.7x 	    19&#13;
+&#13;
+LIFI Index						                                                                                                                          17	    13.5x	    2.7x	     27&#13;
+&#13;
+Market Cap. Weighted Averages for Banks Covered by J.P. Morgan				                                                                2011â&#128;&#147;12E	       12E	     12E	     12E&#13;
+&#13;
+Middle East/Africa						                                                                                                                  15	 11.0x	       1.8x	     17&#13;
+Developed Asia Pacific						                                                                                                               5	 11.2x	       1.5x	     14&#13;
+Emerging Asia Pacific						                                                                                                               15	  7.9x	       1.6x	     21&#13;
+Emerging Europe						                                                                                                                     23	  9.4x	       1.1x	     17&#13;
+LAC						                                                                                                                                 12	10.9x	        1.8x	     19&#13;
+Source: J.P. Morgan, Bloomberg estimates, prices as of April 24, 2012. ADTV = average daily trading volume for the past three months; EPS = earnings per share; ROE =&#13;
+return on equity.&#13;
+Notes for the LIFI Index: We used Bloomberg consensus estimates (EPS GAAP, and ROE) for the individual stocks composing the LIFI Index. LIFI is a market capitaliza-&#13;
+tion-weighted index. Notes for Global Emerging Markets Banks: We show market capitalization-weighted averages of banks covered by J.P. Morgan analysts,&#13;
+representing a sample of 109 banks across global markets.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+12&#13;
+&amp;#12;sents higher earnings and book multiples than tra-                         Interestingly, the main difference from last year&#13;
+ditional global banks. We focus more on the book                       is that the expected ROE of institutions included&#13;
+value multiples, as earnings of traditional banks                      in the LIFI Index is relatively stable around 27&#13;
+have been under pressure, therefore inflating earn-                    percent, but book value valuations contracted&#13;
+ings multiples. In fact, global banks, as measured by                  from 4.2x in last yearâ&#128;&#153;s edition to 2.7x using most&#13;
+an average of 109 banks covered by J.P. Morgan ana-                    recent data.&#13;
+lysts, trade at average multiples of 10.1x 2012E earn-                     We think this correction in average multiples&#13;
+ings and 1.6x 2012E book value.                                        is mostly due to the pressure on the individual&#13;
+   The LIFI Index currently trades at 2.7x 2012E                       stock valuations of Bank Rakyat (38 percent of&#13;
+book value, for an average expected return on eq-                      the LIFI Index) and Compartamos (8 percent of&#13;
+uity (ROE) in 2012 of 27 percent. As Figure 11 shows,                  the index). In the case of Bank Rakyat, the P/BV&#13;
+this suggests that the valuation of the index is close                 multiple contracted from 4.7x actual book in last&#13;
+to fair value (i.e., close to the trend line) in 2012. In              yearâ&#128;&#153;s edition of this report to 3.6x actual book.&#13;
+2010 and 2011, the LIFI Index was above the trend                      For Compartamos, the multiple decreased from&#13;
+line, suggesting a slight overvaluation. This indi-                    6.6x to 3.4x actual book. Other stocksâ&#128;&#153; multiples&#13;
+cates that current valuations are in line with the                     were also down, although not as much as the two&#13;
+broader emerging market banks universe reflected                       banks mentioned.&#13;
+in the regression.&#13;
+&#13;
+&#13;
+Table 10â&#128;&#130; Matrix      of equivalence for global banks                         Figure 11â&#128;&#130; LIFIs are below the regression line;&#13;
+                                                                              i.e., LIFIs are undervalued&#13;
+    Theoretical ROE (%)	               Corresponding P/BV&#13;
+                                                                              Regression of ROE and price-to-book multiples for&#13;
+	           0	                                   0.4x                         109 banks across global markets&#13;
+	           5	                                   0.6x                                                    6&#13;
+	           10	                                  0.9x&#13;
+&#13;
+	           15	                                  1.3x                                                    5&#13;
+                                                                        Forward Price-to-Book Multiple&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                2011&#13;
+	           20	                                  1.8x&#13;
+                                                                                                         4&#13;
+	           25	                                  2.7x&#13;
+	           30	                                  3.9x                                                                                2010              2012&#13;
+                                                                                                         3&#13;
+Source: J.P. Morgan estimates, using the relation between ROE and&#13;
+price-to- book multiples. The correlation reaches 68%.&#13;
+Note: According to this matrix, a bank with a ROE of 20% would trade                                     2                                  2009&#13;
+at a fair multiple of 2.0x book.&#13;
+&#13;
+&#13;
+                                                                                                         1&#13;
+&#13;
+&#13;
+                                                                                                         0&#13;
+                                                                                                          0%   5%   10%    15%      20%        25%      30%    35%&#13;
+                                                                                                                      ROE (Average 2012â&#128;&#147;13E)&#13;
+&#13;
+                                                                           Source: J.P. Morgan estimates, Bloomberg. Prices as of April 24, 2012. Price-to-book&#13;
+                                                                           multiples use the current price divided by 2012-end estimated book value per share. The&#13;
+                                                                           axis for ROE uses the average of ROE for those institutions for 2012e and 2013e.	&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                                                                                                                     13&#13;
+&amp;#12;     Conclusion&#13;
+&#13;
+&#13;
+&#13;
+     Overall, the microfinance PE market experienced stronger activity in&#13;
+     2011, picking up from 2010, with an increase in the volume of transac-&#13;
+     tions. However, some lingering effects of the crisis remain, and 2011&#13;
+     saw the continued compression of valuation multiples for MFIs and&#13;
+     LIFIs from the highs in 2009. We believe there is a wider convergence&#13;
+     trend between the valuation of emerging market banks and microfi-&#13;
+     nance providers, be it specialized MFIs or LIFIs.&#13;
+        For 2012, we do not expect microfinance equity valuations to de-&#13;
+     couple significantly from the valuation of emerging market banks. We&#13;
+     expect valuations to be stable in most markets, with the exception of&#13;
+     SSA and certain countries of LAC, which could see some increase in&#13;
+     valuations.&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+14&#13;
+&amp;#12;References&#13;
+&#13;
+&#13;
+&#13;
+De Mariz, Frederic, Xavier Reille, Daniel Rozas. 2011. â&#128;&#156;Discovering Limits:&#13;
+Global Microfinance Valuation Survey 2011.â&#128;&#157; Washington, D.C.: J.P. Morgan&#13;
+and CGAP, July.&#13;
+&#13;
+Reille, Xavier, Christoph Kneiding, Daniel Rozas, Nick Oâ&#128;&#153;Donohoe, and&#13;
+Frederic Rozeira de Mariz. 2010. â&#128;&#156;All Eyes on Asset Quality: Microfinance&#13;
+Global Valuation Survey 2010.â&#128;&#157; Occasional Paper 16. Washington, D.C.: CGAP&#13;
+and J.P. Morgan, March.&#13;
+&#13;
+Oâ&#128;&#153;Donohoe, Nicholas P., Frederic Rozeira de Mariz, Elizabeth Littlefield,&#13;
+Xavier Reille, and Christoph Kneiding. 2009. â&#128;&#156;Microfinance: Shedding Light&#13;
+on Microfinance Equity Valuation Past and Present.â&#128;&#157; Occasional Paper 14.&#13;
+Washington, D.C.: CGAP and J.P. Morgan, February.&#13;
+â&#128;&#131;&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+                                                                              15&#13;
+&amp;#12;     Appendix: Survey Participants&#13;
+&#13;
+&#13;
+&#13;
+     We would like to thank the following survey participants for contributing valu-&#13;
+     able data for the 2012 Global Microfinance Equity Valuation Report. Data pub-&#13;
+     lished in this report is only at the aggregate level.&#13;
+&#13;
+      Aavishkaar Goodwell India Microfinance Development Company&#13;
+&#13;
+      ACCION&#13;
+&#13;
+      Advans SA SICAR&#13;
+&#13;
+      BlueOrchard Investments&#13;
+&#13;
+      CAF Development Bank of Latin America&#13;
+&#13;
+      Caspian Advisors Private Limited&#13;
+&#13;
+      Compartamos SAB de CV&#13;
+&#13;
+      Creation Investments Capital Management, LLC&#13;
+&#13;
+      Developing World Markets (DWM)&#13;
+&#13;
+      DÃ©veloppement International Desjardins (DID)&#13;
+&#13;
+      Elevar Equity, LLC&#13;
+&#13;
+      European Bank for Reconstruction and Development (EBRD)&#13;
+&#13;
+      FINCA&#13;
+&#13;
+      FMO, Netherlands Development Finance Company&#13;
+&#13;
+      FundaciÃ³n Microfinanzas BBVA&#13;
+&#13;
+      Incofin Investment Management&#13;
+&#13;
+      MicroCred&#13;
+&#13;
+      MicroVentures Investment SICAR&#13;
+&#13;
+      MicroVest Capital Management, LLC&#13;
+&#13;
+      Norwegian Investment Fund for Developing Countries (Norfund)&#13;
+&#13;
+      Norwegian Microfinance Initiative AS (NMI)&#13;
+&#13;
+      Omidyar-Tufts Microfinance Fund&#13;
+&#13;
+      OXUS Group&#13;
+&#13;
+      PROPARCO&#13;
+&#13;
+      Prospero Microfinanzas GP&#13;
+&#13;
+      responsAbility Social Investments AG&#13;
+&#13;
+      SolidaritÃ© Internationale pour le DÃ©veloppement et lâ&#128;&#153;Investissement&#13;
+      (SIDI)&#13;
+&#13;
+      Triodos&#13;
+&#13;
+      Triple Jump B.V&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+16&#13;
+&amp;#12;Important Disclosures&#13;
+J.P. Morgan (â&#128;&#156;JPMâ&#128;&#157;) is the global brand name for J.P. Morgan Securities LLC                persons regarded as professional investors (or equivalent) in their home jurisdic-&#13;
+(â&#128;&#156;JPMSâ&#128;&#157;) and its affiliates worldwide. This research is written by Social Finance          tion. Australia: This material is issued and distributed by JPMSAL in Australia to&#13;
+Research and is not the product of J.P. Morganâ&#128;&#153;s research departments.                     â&#128;&#156;wholesale clientsâ&#128;&#157; only. JPMSAL does not issue or distribute this material to â&#128;&#156;retail&#13;
+                                                                                           clientsâ&#128;&#157;. The recipient of this material must not distribute it to any third party or&#13;
+MSCI: The MSCI sourced information is the exclusive property of Morgan Stanley             outside Australia without the prior written consent of JPMSAL. For the purposes of&#13;
+Capital International Inc. (MSCI). Without prior written permission of MSCI, this          this paragraph the terms â&#128;&#156;wholesale clientâ&#128;&#157; and â&#128;&#156;retail clientâ&#128;&#157; have the meanings&#13;
+information and any other MSCI intellectual property may not be reproduced, redis-         given to them in section 761G of the Corporations Act 2001. Germany: This material&#13;
+seminated or used to create any financial products, including any indices. This infor-     is distributed in Germany by J.P. Morgan Securities Ltd., Frankfurt Branch and&#13;
+mation is provided on an â&#128;&#152;as isâ&#128;&#153; basis. The user assumes the entire risk of any use        J.P.Morgan Chase Bank, N.A., Frankfurt Branch which are regulated by the Bunde-&#13;
+made of this information. MSCI, its affiliates and any third party involved in, or re-     sanstalt fÃ¼r Finanzdienstleistungsaufsicht. Hong Kong: The 1% ownership disclo-&#13;
+lated to, computing or compiling the information hereby expressly disclaim all war-        sure as of the previous month end satisfies the requirements under Paragraph 16.5(a)&#13;
+ranties of originality, accuracy, completeness, merchantability or fitness for a par-      of the Hong Kong Code of Conduct for Persons Licensed by or Registered with the&#13;
+ticular purpose with respect to any of this information. Without limiting any of the       Securities and Futures Commission. (For research published within the first ten&#13;
+foregoing, in no event shall MSCI, any of its affiliates or any third party involved in,   days of the month, the disclosure may be based on the month end data from two&#13;
+or related to, computing or compiling the information have any liability for any dam-      months prior.) J.P. Morgan Broking (Hong Kong) Limited is the liquidity provider/&#13;
+ages of any kind. MSCI, Morgan Stanley Capital International and the MSCI indexes          market maker for derivative warrants, callable bull bear contracts and stock options&#13;
+are services marks of MSCI and its affiliates.                                             listed on the Stock Exchange of Hong Kong Limited. An updated list can be found on&#13;
+                                                                                           HKEx website: http://www.hkex.com.hk. Japan: There is a risk that a loss may oc-&#13;
+Legal Entities Disclosures                                                                 cur due to a change in the price of the shares in the case of share trading, and that a&#13;
+U.S.: JPMS is a member of NYSE, FINRA, SIPC and the NFA. JPMorgan Chase                    loss may occur due to the exchange rate in the case of foreign share trading. In the&#13;
+Bank, N.A. is a member of FDIC and is authorized and regulated in the UK by the            case of share trading, JPMorgan Securities Japan Co., Ltd., will be receiving a bro-&#13;
+Financial Services Authority. U.K.: J.P. Morgan Securities Ltd. (JPMSL) is a member        kerage fee and consumption tax (shouhizei) calculated by multiplying the executed&#13;
+of the London Stock Exchange and is authorized and regulated by the Financial Ser-         price by the commission rate which was individually agreed between JPMorgan&#13;
+vices Authority. Registered in England &amp; Wales No. 2711006. Registered Office 125          Securities Japan Co., Ltd., and the customer in advance. Financial Instruments&#13;
+London Wall, London EC2Y 5AJ. South Africa: J.P. Morgan Equities Limited is a              Firms: JPMorgan Securities Japan Co., Ltd., Kanto Local Finance Bureau (kinsho)&#13;
+member of the Johannesburg Securities Exchange and is regulated by the FSB.                No. 82 Participating Association / Japan Securities Dealers Association, The Finan-&#13;
+Hong Kong: J.P. Morgan Securities (Asia Pacific) Limited (CE number AAJ321) is             cial Futures Association of Japan, Type II Financial Instruments Firms Association&#13;
+regulated by the Hong Kong Monetary Authority and the Securities and Futures               and Japan Securities Investment Advisers Association. Korea: This report may have&#13;
+Commission in Hong Kong. Korea: J.P. Morgan Securities (Far East) Ltd, Seoul               been edited or contributed to from time to time by affiliates of J.P. Morgan Securities&#13;
+Branch, is regulated by the Korea Financial Supervisory Service. Australia: J.P. Mor-      (Far East) Ltd, Seoul Branch. Singapore: JPMSS and/or its affiliates may have a&#13;
+gan Australia Limited (ABN 52 002 888 011/AFS Licence No: 238188) is regulated by          holding in any of the securities discussed in this report; for securities where the&#13;
+ASIC and J.P. Morgan Securities Australia Limited (ABN 61 003 245 234/AFS Li-              holding is 1% or greater, the specific holding is disclosed in the Important Disclo-&#13;
+cence No: 238066) is a Market Participant with the ASX and regulated by ASIC.              sures section above. India: For private circulation only, not for sale. Pakistan: For&#13;
+Taiwan: J.P.Morgan Securities (Taiwan) Limited is a participant of the Taiwan Stock        private circulation only, not for sale. New Zealand: This material is issued and dis-&#13;
+Exchange (company-type) and regulated by the Taiwan Securities and Futures Bu-             tributed by JPMSAL in New Zealand only to persons whose principal business is the&#13;
+reau. India: J.P. Morgan India Private Limited, having its registered office at J.P.       investment of money or who, in the course of and for the purposes of their business,&#13;
+Morgan Tower, Off. C.S.T. Road, Kalina, Santacruz East, Mumbai - 400098, is a mem-         habitually invest money. JPMSAL does not issue or distribute this material to mem-&#13;
+ber of the National Stock Exchange of India Limited (SEBI Registration Number -            bers of â&#128;&#156;the publicâ&#128;&#157; as determined in accordance with section 3 of the Securities Act&#13;
+INB 230675231/INF 230675231/INE 230675231) and Bombay Stock Exchange Lim-                  1978. The recipient of this material must not distribute it to any third party or outside&#13;
+ited (SEBI Registration Number - INB 010675237/INF 010675237) and is regulated             New Zealand without the prior written consent of JPMSAL. Canada: The informa-&#13;
+by Securities and Exchange Board of India. Thailand: JPMorgan Securities (Thai-            tion contained herein is not, and under no circumstances is to be construed as, a&#13;
+land) Limited is a member of the Stock Exchange of Thailand and is regulated by the        prospectus, an advertisement, a public offering, an offer to sell securities described&#13;
+Ministry of Finance and the Securities and Exchange Commission. Indonesia: PT              herein, or solicitation of an offer to buy securities described herein, in Canada or any&#13;
+J.P. Morgan Securities Indonesia is a member of the Indonesia Stock Exchange and           province or territory thereof. Any offer or sale of the securities described herein in&#13;
+is regulated by the BAPEPAM LK. Philippines: J.P. Morgan Securities Philippines            Canada will be made only under an exemption from the requirements to file a pro-&#13;
+Inc. is a member of the Philippine Stock Exchange and is regulated by the Securities       spectus with the relevant Canadian securities regulators and only by a dealer prop-&#13;
+and Exchange Commission. Brazil: Banco J.P. Morgan S.A. is regulated by the                erly registered under applicable securities laws or, alternatively, pursuant to an ex-&#13;
+Comissao de Valores Mobiliarios (CVM) and by the Central Bank of Brazil. Mexico:           emption from the dealer registration requirement in the relevant province or&#13;
+J.P. Morgan Casa de Bolsa, S.A. de C.V., J.P. Morgan Grupo Financiero is a member of       territory of Canada in which such offer or sale is made. The information contained&#13;
+the Mexican Stock Exchange and authorized to act as a broker dealer by the Na-             herein is under no circumstances to be construed as investment advice in any prov-&#13;
+tional Banking and Securities Exchange Commission. Singapore: This material is             ince or territory of Canada and is not tailored to the needs of the recipient. To the&#13;
+issued and distributed in Singapore by J.P. Morgan Securities Singapore Private            extent that the information contained herein references securities of an issuer incor-&#13;
+Limited (JPMSS) [MICA (P) 088/04/2012 and Co. Reg. No.: 199405335R] which is a             porated, formed or created under the laws of Canada or a province or territory of&#13;
+member of the Singapore Exchange Securities Trading Limited and is regulated by            Canada, any trades in such securities must be conducted through a dealer registered&#13;
+the Monetary Authority of Singapore (MAS) and/or JPMorgan Chase Bank, N.A.,                in Canada. No securities commission or similar regulatory authority in Canada has&#13;
+Singapore branch (JPMCB Singapore) which is regulated by the MAS. Malaysia:                reviewed or in any way passed judgment upon these materials, the information con-&#13;
+This material is issued and distributed in Malaysia by JPMorgan Securities (Malay-         tained herein or the merits of the securities described herein, and any representa-&#13;
+sia) Sdn Bhd (18146-X) which is a Participating Organization of Bursa Malaysia Ber-        tion to the contrary is an offence. Dubai: This report has been issued to persons re-&#13;
+had and a holder of Capital Markets Services License issued by the Securities Com-         garded as professional clients as defined under the DFSA rules.&#13;
+mission in Malaysia. Pakistan: J. P. Morgan Pakistan Broking (Pvt.) Ltd is a member&#13;
+of the Karachi Stock Exchange and regulated by the Securities and Exchange Com-            General: Additional information is available upon request. Information has been&#13;
+mission of Pakistan. Saudi Arabia: J.P. Morgan Saudi Arabia Ltd. is authorized by the      obtained from sources believed to be reliable but JPMorgan Chase &amp; Co. or its affili-&#13;
+Capital Market Authority of the Kingdom of Saudi Arabia (CMA) to carry out deal-           ates and/or subsidiaries (collectively J.P. Morgan) do not warrant its completeness&#13;
+ing as an agent, arranging, advising and custody, with respect to securities business      or accuracy except with respect to any disclosures relative to JPMS and/or its affili-&#13;
+under licence number 35-07079 and its registered address is at 8th Floor, Al Faisali-      ates and the analystâ&#128;&#153;s involvement with the issuer that is the subject of the research.&#13;
+yah Tower, King Fahad Road, P.O. Box 51907, Riyadh 11553, Kingdom of Saudi Arabia.         All pricing is as of the close of market for the securities discussed, unless otherwise&#13;
+Dubai: JPMorgan Chase Bank, N.A., Dubai Branch is regulated by the Dubai Finan-            stated. Opinions and estimates constitute our judgment as of the date of this mate-&#13;
+cial Services Authority (DFSA) and its registered address is Dubai International Fi-       rial and are subject to change without notice. Past performance is not indicative of&#13;
+nancial Centre - Building 3, Level 7, PO Box 506551, Dubai, UAE.                           future results. This material is not intended as an offer or solicitation for the pur-&#13;
+                                                                                           chase or sale of any financial instrument. The opinions and recommendations herein&#13;
+Country and Region Specific Disclosures                                                    do not take into account individual client circumstances, objectives, or needs and are&#13;
+U.K. and European Economic Area (EEA): Unless specified to the contrary, issued            not intended as recommendations of particular securities, financial instruments or&#13;
+and approved for distribution in the U.K. and the EEA by JPMSL. Investment re-             strategies to particular clients. The recipient of this report must make its own inde-&#13;
+search issued by JPMSL has been prepared in accordance with JPMSLâ&#128;&#153;s policies for           pendent decisions regarding any securities or financial instruments mentioned&#13;
+managing conflicts of interest arising as a result of publication and distribution of      herein. JPMS distributes in the U.S. research published by non-U.S. affiliates and&#13;
+investment research. Many European regulators require a firm to establish, imple-          accepts responsibility for its contents. Periodic updates may be provided on compa-&#13;
+ment and maintain such a policy. This report has been issued in the U.K. only to           nies/industries based on company specific developments or announcements, mar-&#13;
+persons of a kind described in Article 19 (5), 38, 47 and 49 of the Financial Services     ket conditions or any other publicly available information. Clients should contact&#13;
+and Markets Act 2000 (Financial Promotion) Order 2005 (all such persons being              analysts and execute transactions through a J.P. Morgan subsidiary or affiliate in&#13;
+referred to as â&#128;&#156;relevant personsâ&#128;&#157;). This document must not be acted on or relied on        their home jurisdiction unless governing law permits otherwise.&#13;
+by persons who are not relevant persons. Any investment or investment activity to&#13;
+which this document relates is only available to relevant persons and will be engaged      â&#128;&#156;Other Disclosuresâ&#128;&#157; last revised April 18, 2012.&#13;
+in only with relevant persons. In other EEA countries, the report has been issued to       Copyright 2012 JPMorgan Chase &amp; Co. and CGAP.&#13;
+&amp;#12;&amp;#12;</ml:original-txt><ml:search-metadata><doc id="19903110">
+        <url>
+            http://documents.worldbank.org/curated/en/2012/05/19903110/volume-growth-valuation-contractioon-global-microfinance-equity-valuation-survey-2012
+        </url>
+        <availablein>Spanish,English</availablein>
+        <fullavailablein>
+            <available_in lang="Spanish" entityid="000470435_20140731105910" node_id="19903110"/>
+        </fullavailablein>
+        <url_friendly_title>http://documents.worldbank.org/curated/en/2012/05/19903110/volume-growth-valuation-contractioon-global-microfinance-equity-valuation-survey-2012</url_friendly_title>
+        <new_url>2012/05/19903110/volume-growth-valuation-contractioon-global-microfinance-equity-valuation-survey-2012</new_url>
+        <disclosure_date>2014-07-31T00:00:00Z</disclosure_date>
+        <disclosure_type>NA</disclosure_type>
+        <ext_pub_date>2014-07-31T00:00:00Z</ext_pub_date>
+        <disclstat>Disclosed</disclstat>
+        <txturl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/07/31/000470435_20140731105309/Rendered/INDEX/898060NWP0CGAP00Box385295B00PUBLIC0.txt</txturl>
+        <pdfurl>http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/07/31/000470435_20140731105309/Rendered/PDF/898060NWP0CGAP00Box385295B00PUBLIC0.pdf</pdfurl>
+        <docdt>2012-05-01T00:00:00Z</docdt>
+        <datestored>2014-07-31T00:00:00Z</datestored>
+        <totvolnb>1</totvolnb>
+        <versiontyp>Final</versiontyp>
+        <versiontyp_key>1309935</versiontyp_key>
+        <volnb>1</volnb>
+        <repnme>
+            Volume growth and valuation contraction :
+            global microfinance equity valuation survey 2012
+        </repnme>
+        <abstracts>
+            Toward the end of 2010, the asset
+            quality of many microfinance institutions (MFIs) began to
+            recover from a crisis of client over indebtedness and
+            unsustainable growth, particularly in India, Bosnia, and
+            Nicaragua.1 During 2011 and into 2012, this recovery
+            continued to bring higher microfinance equity transaction
+            volumes.2 Based on the responses gathered in this year&#146;s
+            survey, the private equity (PE) markets experienced an
+            important increase in deal activity from the slower pace
+            recorded in 2010. Large transactions in Latin America and
+            the Caribbean (LAC) as well as strong flows from development
+            finance institutions (DFIs) in India drove the increase in
+            both the volume and the number of transactions. While asset
+            quality improved and transaction volumes increased, equity
+            valuations continued to decline in 2011 from their peak in
+            2010, reversing the multiple expansions that had taken place
+            up until then. This is likely due to lingering uncertainties
+            about asset quality in some markets and continued public
+            scrutiny, which was most pronounced in a few countries
+            making up a significant portion of our sample (and the
+            market), such as India. In 2011, our comparables in the
+            public market also declined with a drop in the average
+            valuation of the Lower Income Finance Institutions (LIFIs)
+            Index. We believe this reflects a wider trend where LIFI and
+            microfinance valuations in the public and private markets
+            are beginning to converge toward those of traditional
+            financial institutions in emerging markets. Section 1 of
+            this report examines the landscape of PE deals. It follows
+            the methodology of previous surveys and discusses valuation
+            trends and new market developments (see Box 1 for more
+            details on this methodology). This section also delves into
+            deeper regional analysis and key country developments. We
+            estimate that our sample covers 70&#150;80 percent of the
+            microfinance PE activity in 2011. Section 2 looks at the
+            valuation trends in the public market for LIFIs in
+            developing countries. This analysis includes banks that are
+            not exclusively offering microfinance but are also offering
+            consumer loans and other financial services. Since LIFIs
+            serve similar markets to microfinance, their valuation can
+            be a useful comparable for MFIs. This report looks at the
+            same 11 constituents of the LIFI Index that were reviewed in
+            the 2011 edition.
+        </abstracts>
+        <docna>
+            Volume growth and valuation contraction :
+            global microfinance equity valuation survey 2012
+        </docna>
+        <display_title>Volume growth and valuation
+            contraction : global microfinance equity valuation survey 2012</display_title>
+        <listing_relative_url>/research/2012/05/19903110/volume-growth-valuation-contraction-global-microfinance-equity-valuation-survey-2012</listing_relative_url>
+        <topic>Microfinance m1327227 367,Equity Markets m1327686 334,Debt m1326503 450,Access to Finance m1327464 1249,Economic Growth m1326241 471</topic>
+        <subtopic>Access to Finance,Banks &amp; Banking Reform,Emerging Markets,Non Bank Financial Institutions,Debt Markets</subtopic>
+        <docty>Working Paper (Numbered Series)</docty>
+        <teratopic>Private Sector Development,Finance and Financial Sector Development</teratopic>
+        <count>World</count>
+        <authors>
+            <author>Glisovic, Jasmina ; González, Henry ;
+            Saltuk, Yasemin ; Rozeira de Mariz, Frederic</author>
+        </authors>
+        <entityids>
+            <entityid>000470435_20140731105309</entityid>
+        </entityids>
+        <admreg>The World Region,The World Region</admreg>
+        <colti>CGAP Access to Finance Forum ; no. 3</colti>
+        <lang>English</lang>
+        <historic_topic>Private Sector Development,Finance and Financial Sector Development</historic_topic>
+        <topicv3>Microfinance m1327227 367,Equity Markets m1327686 334,Debt m1326503 450,Access to Finance m1327464 1249,Economic Growth m1326241 471</topicv3>
+        <majdocty>Publications &amp; Research</majdocty>
+        <keywd>
+            Access to Finance, accounting, affiliate,
+            affiliates, arrears, asset managers, asset quality, bank
+            accounts, Bank Indonesia, banking, banking services, bias,
+            book value, book value per share, broker, broker dealer,
+            brokerage, brokerage fee, capital base, capital flows,
+            capital investments, capital loans, Capital Market, Capital
+            Markets, central bank, Code of Conduct, commercial banks,
+            competition, confidentiality, conflicts of interest,
+            consumer lending, consumer loans, contracts, country
+            developments, credit, criteria, custody, customer,
+            customers, derivative, developing countries, Development
+            Bank, Development Company, development finance, Development
+            Finance Company, development finance institutions, direct
+            investments, earnings, earnings per share, emerging market,
+            emerging markets, entrepreneurs, Equities, Equity, equity
+            finance, Equity Funds, equity investments, equity investors,
+            Equity Valuation, equity valuations, exchange, Exchange
+            Board, Exchange Commission, exchange rate, fair value,
+            Finance, Finance Company, financial companies, Financial
+            Futures, financial information, financial institutions,
+            financial instrument, Financial Instruments, financial
+            products, financial services, flow of capital, foreign
+            capital, foreign share, future, Futures, global markets,
+            group lending, growth rate, holding, holding company,
+            industry, institutional investors, insurance, intellectual
+            property, interest, interest income, international markets,
+            inventory, investment, investment activity, Investment Fund,
+            Investment Management, investment process, investment
+            vehicles, issuance, issuances, jurisdiction, law, liability,
+            liquidity, LLC, loan, loan delinquencies, loan portfolios,
+            Local Finance, majority shareholders, market, market cap,
+            market capitalization, market conditions, market
+            developments, market lending, market maker, Market
+            Participant, market participants, market transparency,
+            mature markets, MFI, MFIs, microborrowers, Microfinance,
+            microfinance institutions, Monetary Authority, National
+            Stock Exchange, new market, new markets, Pawn, payments,
+            Personal Finance, policies, portfolio, price, prices,
+            pricing, principal, private equity, private markets, private
+            placements, professional investors, property, public equity,
+            public market, public markets, public offering, registration
+            requirement, regulators, regulatory authority, regulatory
+            environment, regulatory framework, Reserve, Reserve Bank,
+            Reserve Bank of India, return, return on equity, returns,
+            revenue, revenues, risk, savings, secondary markets,
+            Securities, Securities Dealers, Securities Exchange,
+            securities laws, securities regulators, Share, share of
+            capital, share trading, shareholders, shares, Social
+            Investments, social mission, stock, Stock Exchange, stock
+            market, stock markets, stock options, stocks, strategies,
+            subsidiaries, subsidiary, tax, technical assistance, trade,
+            trades, trading, trading volume, traditional financial
+            institutions, transaction, transaction information,
+            transactions, Valuation, warrants, working capital, World Markets
+        </keywd>
+        <owner>Finance &amp; Markets - GP - IBRD (GFMDR)</owner>
+        <repnb>89806</repnb>
+        <alt_title>
+            Crecimiento del volumen y contracción de
+            la valuación : Estudio mundial sobre la valuación del
+            capital social en las microfinanzas 2012
+        </alt_title>
+    </doc></ml:search-metadata><ml:annotations><ml:concepts><ml:concept>ICT</ml:concept><ml:concept>ICT for Development</ml:concept><ml:concept>Information Technology</ml:concept><ml:concept>Information and Communication Technologies (ICT)</ml:concept><ml:concept>Finance and Development</ml:concept><ml:concept>Finance and Financial Sector Development</ml:concept><ml:concept>Economic Management</ml:concept><ml:concept>Macroeconomic Management</ml:concept><ml:concept>Macroeconomic Policy</ml:concept><ml:concept>Macroeconomics Policy</ml:concept><ml:concept>Macroeconomics and Economic Growth</ml:concept><ml:concept>Macroeconomics and Growth</ml:concept><ml:concept>General Public Administration Sector</ml:concept><ml:concept>Governance and Public Sector Management</ml:concept><ml:concept>Government</ml:concept><ml:concept>Institutions</ml:concept><ml:concept>Public Administration</ml:concept><ml:concept>Public Sector Development</ml:concept><ml:concept>Public Sector Management and Reform</ml:concept><ml:concept>Public Sector and Governance</ml:concept><ml:concept>Social Protections and Labor</ml:concept><ml:concept>International Competitiveness</ml:concept><ml:concept>International Economics and Trade</ml:concept><ml:concept>Trade Liberalization</ml:concept><ml:concept>Trade Liberalization and Regional Integration</ml:concept><ml:concept>Trade Restrictiveness</ml:concept><ml:concept>Trade and Integration</ml:concept><ml:concept>City Development Strategies</ml:concept><ml:concept>Information and Communication Technologies</ml:concept><ml:concept>Financial Sector Development</ml:concept><ml:concept>Private Sector Development</ml:concept><ml:concept>Macroeconomic and Structural Policies</ml:concept><ml:concept>Economic Growth</ml:concept><ml:concept>Health, Nutrition and Population</ml:concept><ml:concept>Public Sector Management</ml:concept><ml:concept>Social Protection and Labor</ml:concept><ml:concept>Trade</ml:concept><ml:concept>Urban Development</ml:concept><ml:concept>Alternative Sentencing Options</ml:concept><ml:concept>Community Policing</ml:concept><ml:concept>Community based Policing</ml:concept><ml:concept>Correctional Services and Facilities</ml:concept><ml:concept>Corrections</ml:concept><ml:concept>Crime Policies</ml:concept><ml:concept>Crime Prevention</ml:concept><ml:concept>Crime and Society</ml:concept><ml:concept>Defense Services</ml:concept><ml:concept>Detention</ml:concept><ml:concept>Enforcement Policies and Oversight Mechanism</ml:concept><ml:concept>Forensic</ml:concept><ml:concept>Forensic Services</ml:concept><ml:concept>Investigation</ml:concept><ml:concept>Investigative Task Force Police</ml:concept><ml:concept>Juvenile Justice</ml:concept><ml:concept>Law Enforcement</ml:concept><ml:concept>Offender Reintegration</ml:concept><ml:concept>Police Administration and Management</ml:concept><ml:concept>Police Reform</ml:concept><ml:concept>Problem solving Policing</ml:concept><ml:concept>Prosecution</ml:concept><ml:concept>Restorative Justice</ml:concept><ml:concept>Therapeutic Justice</ml:concept><ml:concept>Victim Assistance</ml:concept><ml:concept>Victim Services</ml:concept><ml:concept>Victim-Offender Mediation</ml:concept><ml:concept>Central Banks</ml:concept><ml:concept>Central Banking</ml:concept><ml:concept>Commercial Banks</ml:concept><ml:concept>Retail Banking</ml:concept><ml:concept>MM</ml:concept><ml:concept>Business Models</ml:concept><ml:concept>Capital Flows</ml:concept><ml:concept>Capital Markets and Capital Flows</ml:concept><ml:concept>Demographics</ml:concept><ml:concept>Longevity</ml:concept><ml:concept>Local Finance Management</ml:concept><ml:concept>Local Government Finance</ml:concept><ml:concept>Municipal Finance</ml:concept><ml:concept>Securities Law</ml:concept><ml:concept>Consumption</ml:concept><ml:concept>Income</ml:concept><ml:concept>Emerging Markets</ml:concept><ml:concept>Banking</ml:concept><ml:concept>Criminal Justice</ml:concept><ml:concept>Copyright</ml:concept><ml:concept>Central Banking Institutional Set-up</ml:concept><ml:concept>Commercial Banking</ml:concept><ml:concept>Access to Finance</ml:concept><ml:concept>Maternal Mortality and Morbidity</ml:concept><ml:concept>Placement</ml:concept><ml:concept>Telecommunications Organizational Design</ml:concept><ml:concept>Capital Markets</ml:concept><ml:concept>Investment Funds</ml:concept><ml:concept>Microfinance</ml:concept><ml:concept>Savings</ml:concept><ml:concept>Population</ml:concept><ml:concept>Aging</ml:concept><ml:concept>Local Finance</ml:concept><ml:concept>Capital Markets Law and Regulation</ml:concept></ml:concepts><ml:geo-regions/></ml:annotations></ml:doc-envelope>
