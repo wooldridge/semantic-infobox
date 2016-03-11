@@ -25,12 +25,8 @@ function formatSnippet(matches) {
 function processTriples(items) {
   // Predicates to search for
   var map = {}
-  map['http://xmlns.com/foaf/0.1/name'] = 'name';
-  map['http://dbpedia.org/ontology/abstract'] = 'description';
-  map['http://dbpedia.org/ontology/thumbnail'] = 'thumbnail';
-  map['http://dbpedia.org/ontology/Work/runtime'] = 'runtime';
-  map['http://dbpedia.org/ontology/gross'] = 'gross';
-  map['http://dbpedia.org/ontology/budget'] = 'budget';
+  map['http://dbpedia.org/ontology/abstract'] = 'abstract';
+  map['http://dbpedia.org/property/cities'] = 'cities';
   var result = {};
   // Cycle through result items
   for (var subj in items) {
@@ -126,12 +122,12 @@ $( "#submit" ).on( "click", function(event) {
         // Get infobox data
         var q = '"' + first + '"@en';
         var results2 = '';
-        var sparql = 'PREFIX foaf: <http://xmlns.com/foaf/0.1/> ' +
-                     'CONSTRUCT { ?subj ?pred ?obj } ' +
+        var sparql = 'CONSTRUCT { ?subj ?pred ?obj } ' +
                      'WHERE ' +
                      '{ ' +
-                     '  ?subj foaf:name ' + q + ' . ' +
+                     '  ?subj <http://dbpedia.org/property/title> ' + q + ' . ' +
                      '?subj ?pred ?obj . ' +
+                     'FILTER ( lang(?obj) = "en") ' +
                      '}';
         $.ajax({
             method: 'POST',
