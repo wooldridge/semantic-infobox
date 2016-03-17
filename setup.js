@@ -132,10 +132,10 @@ function loadDocs() {
   rp(options)
     .then(function (parsedBody) {
       console.log('Documents loaded: ' + count);
-      if (docsFiles.length > 0) {
+      if (docsFiles.length > 0 && count < 100) {
         loadDocs();
       } else {
-        loadTriples();
+        loadTriples2();
       }
     })
     .catch(function (err) {
@@ -176,6 +176,29 @@ function loadTriples() {
     });
 }
 
+var triples2Path = config.path + 'data/triples/dbpedia/dbpedia_countries.ttl';
+
+function loadTriples2() {
+  var content = fs.readFileSync(triples2Path);
+  var options = {
+    method: 'PUT',
+    uri: 'http://' + config.host + ':8554/v1/graphs?default',
+    body: content,
+    headers: {
+      'Content-Type': 'text/turtle'
+    },
+    auth: config.auth
+  };
+  rp(options)
+    .then(function (response) {
+      console.log('Triples2 loaded');
+      loadApp();
+    })
+    .catch(function (err) {
+      console.log(err);
+    });
+}
+
 var appPath = config.path + 'app/'
     appFiles = fs.readdirSync(appPath);
 
@@ -206,7 +229,7 @@ function loadApp() {
 }
 
 function start() {
-  createDatabase();
+  loadApp();
 }
 
 start();
