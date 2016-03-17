@@ -19,6 +19,24 @@ function formatSnippet(matches) {
 }
 
 /**
+ * Get region metadata string from results.
+ * @param {object} results - search results.
+ */
+function getRegion(results) {
+  var result = [];
+  // Cycle through result items
+  for (var r in results) {
+    var metadata = results[r].metadata;
+    for (var m in metadata) {
+      if (metadata[m]["region"]) {
+        result.push(metadata[m]["region"]);
+      }
+    }
+  }
+  return result;
+}
+
+/**
  * Extract useful infobox data from triple results.
  * @param {object} items - triple results from SPARQL endpoint.
  */
@@ -51,7 +69,7 @@ function processTriples(items) {
       }
     }
   }
-  return result;
+  return $.unique(result);
 }
 
 /**
@@ -71,19 +89,21 @@ $( "#submit" ).on( "click", function(event) {
     "query": {
       "queries": [{
         "and-query": {
-          "queries": [{
-            "container-query": {
-              // include only oscar docs...
-              "element": {
-                "name": "nominee",
-                "ns": "http://marklogic.com/wikipedia"
-              },
-              // with search-box term
-              "term-query": {
-                "text": [ term ]
+          "queries": [
+            {
+              "container-query": {
+                // constrain to documents
+                "element": {
+                  "name": "search-metadata",
+                  "ns": "http://marklogic.com/poolparty/worldbank"
+                },
+                // with search-box term
+                "term-query": {
+                  "text": [ term ]
+                }
               }
             }
-          }]
+          ]
         }
       }]
     }
@@ -91,7 +111,7 @@ $( "#submit" ).on( "click", function(event) {
   // Get search results
   $.ajax({
     method: 'POST',
-    url: '/v1/search?options=infobox&format=json',
+    url: '/v1/search?options=infobox&directory=/worldbank/documents/&format=json',
     headers: {
       'Accept': 'application/json',
       'Content-Type': 'application/json'
@@ -103,16 +123,12 @@ $( "#submit" ).on( "click", function(event) {
       $('#spinner').hide();
       $('#summary').html('Results found: ' + data.total);
       if (data.total > 0) {
-        var first = data.results[0].metadata[8].film;
+        var region = getRegion(data.results);
+        console.dir('Region: ' + region);
         for (var res of data.results) {
           results += '<div class="result">';
           results += '<div class="result-title">';
-          // Actor vs. Film
-          if (res.metadata[7]) {
-            results += res.metadata[7].name + ' - "' + res.metadata[8].film + '"';
-          } else {
-            results += '"' + res.metadata[6].film + '"';
-          }
+          results += res.metadata[0].display_title + ' - "' + res.metadata[1].lang + '"';
           results += '</div>';
           results += '<div class="result-uri">' + res.uri + '</div>';
           results += formatSnippet(res.matches);
@@ -120,15 +136,16 @@ $( "#submit" ).on( "click", function(event) {
         }
         $('#results').html(results);
         // Get infobox data
-        var q = '"' + first + '"@en';
+        var q = '"' + region[0] + '"@en';
         var results2 = '';
-        var sparql = 'CONSTRUCT { ?subj ?pred ?obj } ' +
-                     'WHERE ' +
-                     '{ ' +
-                     '  ?subj <http://dbpedia.org/property/title> ' + q + ' . ' +
-                     '?subj ?pred ?obj . ' +
-                     'FILTER ( lang(?obj) = "en") ' +
-                     '}';
+        var sparql = 'SELECT ?geo ?abstract ?thumbnail ?externalLink ' +
+                     'WHERE { ' +
+                     'bind("' + region[0] + '" AS ?label) . ' +
+                     '?geo <http://www.w3.org/2000/01/rdf-schema#label> ' + q + ' ; ' +
+                          '<http://dbpedia.org/ontology/abstract> ?abstract ; ' +
+                          '<http://dbpedia.org/ontology/thumbnail> ?thumbnail ; ' +
+                          '<http://www.w3.org/ns/prov#wasDerivedFrom> ?externalLink ' +
+                     '} LIMIT 1 ';
         $.ajax({
             method: 'POST',
             url: '/v1/graphs/sparql',
@@ -139,15 +156,17 @@ $( "#submit" ).on( "click", function(event) {
             data: sparql
           }).done(
             function(data2) {
-              var results = processTriples(data2);
-              if (results.name) {
-                $('#infobox').show();
-                results2 += '<div class="infobox-heading">Spotlight</div>';
-                results2 += '<div class="infobox-title">' + results.name + '</div>';
-                var desc = $.trim(results.description).substring(0, 300)
-                  .split(' ').slice(0, -1).join(' ') + '...';
-                results2 += '<div class="infobox-desc">' + desc + '</div>';
-                $('#infobox').html(results2);
+              if (data2.results) {
+                var results = data2.results.bindings[0];
+                if (results) {
+                  $('#infobox').show();
+                  results2 += '<div class="infobox-heading">Spotlight</div>';
+                  results2 += '<div class="infobox-title">' + region + '</div>';
+                  var desc = $.trim(results.abstract.value).substring(0, 300)
+                    .split(' ').slice(0, -1).join(' ') + '...';
+                  results2 += '<div class="infobox-desc">' + desc + '</div>';
+                  $('#infobox').html(results2);
+                }
               }
             }).fail(function(jqXHR2, textStatus2) {
               console.dir(jqXHR2);
