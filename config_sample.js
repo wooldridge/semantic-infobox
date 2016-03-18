@@ -281,13 +281,13 @@ config.searchSetup = {
       "preferred-elements": {
         "element": [
           {
-            "ns": "http://www.w3.org/1999/xhtml",
-            "name": "p"
+            "ns": "http://marklogic.com/poolparty/worldbank",
+            "name": "original-txt"
           }
         ]
       },
-      "max-matches": "2",
-      "max-snippet-chars": "150",
+      "max-matches": "3",
+      "max-snippet-chars": "250",
       "per-match-tokens": "20"
     },
     "return-query": true,
