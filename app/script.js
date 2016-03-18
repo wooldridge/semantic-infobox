@@ -19,10 +19,30 @@ function formatSnippet(matches) {
 }
 
 /**
- * Get region metadata string from results.
+ * Construct snippet HTML from match values.
+ * @param {object} matches - matches data from search result.
+ */
+function formatMeta(metadata) {
+  var arr = [];
+  var result = '<div class="metadata">';
+  for (var meta of metadata) {
+    if (meta.concept) {
+      arr.push(meta.concept);
+    }
+  }
+  if (arr.length > 0) {
+    result += 'Concepts: ' + arr.join(', ');
+  }
+  result += '</div>';
+  return result;
+}
+
+
+/**
+ * Get array of region metadata strings from results.
  * @param {object} results - search results.
  */
-function getRegion(results) {
+function getRegions(results) {
   var result = [];
   // Cycle through result items
   for (var r in results) {
@@ -34,42 +54,6 @@ function getRegion(results) {
     }
   }
   return result;
-}
-
-/**
- * Extract useful infobox data from triple results.
- * @param {object} items - triple results from SPARQL endpoint.
- */
-function processTriples(items) {
-  // Predicates to search for
-  var map = {}
-  map['http://dbpedia.org/ontology/abstract'] = 'abstract';
-  map['http://dbpedia.org/property/cities'] = 'cities';
-  var result = {};
-  // Cycle through result items
-  for (var subj in items) {
-    for (var pred in items[subj]) {
-      var obj = items[subj][pred][0];
-      // If predicate matches, store object value in results
-      if (map[pred]) {
-        // Can be an object or string
-        if (obj.value) {
-          result[map[pred]] = obj.value;
-        } else {
-          result[map[pred]] = obj;
-        }
-      }
-      // Handle 8.0-3 API (value props)
-      if (map[pred.value]) {
-        if (obj.value) {
-          result[map[pred.value]] = obj.value;
-        } else {
-          result[map[pred.value]] = obj;
-        }
-      }
-    }
-  }
-  return $.unique(result);
 }
 
 /**
@@ -94,7 +78,7 @@ $( "#submit" ).on( "click", function(event) {
               "container-query": {
                 // constrain to documents
                 "element": {
-                  "name": "search-metadata",
+                  "name": "original-txt",
                   "ns": "http://marklogic.com/poolparty/worldbank"
                 },
                 // with search-box term
@@ -123,8 +107,8 @@ $( "#submit" ).on( "click", function(event) {
       $('#spinner').hide();
       $('#summary').html('Results found: ' + data.total);
       if (data.total > 0) {
-        var region = getRegion(data.results);
-        console.dir('Region: ' + region);
+        var regions = getRegions(data.results);
+        console.dir('Region: ' + regions);
         for (var res of data.results) {
           results += '<div class="result">';
           results += '<div class="result-title">';
@@ -132,20 +116,24 @@ $( "#submit" ).on( "click", function(event) {
           results += '</div>';
           results += '<div class="result-uri">' + res.uri + '</div>';
           results += formatSnippet(res.matches);
+          results += formatMeta(res.metadata);
           results += '</div>';
         }
         $('#results').html(results);
         // Get infobox data
-        var q = '"' + region[0] + '"@en';
+        var newArr = regions.map(function (curr, index, arr) {
+          return '"' + curr + '"@en';
+        });
+        var regionsStr = newArr.join(', ');
         var results2 = '';
-        var sparql = 'SELECT ?geo ?abstract ?thumbnail ?externalLink ' +
+        var sparql = 'SELECT ?label ?geo ?abstract ?thumbnail ?externalLink ' +
                      'WHERE { ' +
-                     'bind("' + region[0] + '" AS ?label) . ' +
-                     '?geo <http://www.w3.org/2000/01/rdf-schema#label> ' + q + ' ; ' +
+                     '?geo <http://www.w3.org/2000/01/rdf-schema#label> ?label ; ' +
                           '<http://dbpedia.org/ontology/abstract> ?abstract ; ' +
                           '<http://dbpedia.org/ontology/thumbnail> ?thumbnail ; ' +
-                          '<http://www.w3.org/ns/prov#wasDerivedFrom> ?externalLink ' +
-                     '} LIMIT 1 ';
+                          '<http://www.w3.org/ns/prov#wasDerivedFrom> ?externalLink . ' +
+                          'FILTER (?label IN  (' + regionsStr + '))' +
+                     '}';
         $.ajax({
             method: 'POST',
             url: '/v1/graphs/sparql',
@@ -160,8 +148,8 @@ $( "#submit" ).on( "click", function(event) {
                 var results = data2.results.bindings[0];
                 if (results) {
                   $('#infobox').show();
-                  results2 += '<div class="infobox-heading">Spotlight</div>';
-                  results2 += '<div class="infobox-title">' + region + '</div>';
+                  results2 += '<div class="infobox-heading">Related</div>';
+                  results2 += '<div class="infobox-title">' + results.label.value + '</div>';
                   var desc = $.trim(results.abstract.value).substring(0, 300)
                     .split(' ').slice(0, -1).join(' ') + '...';
                   results2 += '<div class="infobox-desc">' + desc + '</div>';
