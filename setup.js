@@ -132,10 +132,10 @@ function loadDocs() {
   rp(options)
     .then(function (parsedBody) {
       console.log('Documents loaded: ' + count);
-      if (docsFiles.length > 0 && count < 100) {
+      if (docsFiles.length > 0) {
         loadDocs();
       } else {
-        loadTriples2();
+        loadTriples();
       }
     })
     .catch(function (err) {
@@ -168,7 +168,7 @@ function loadTriples() {
       if (triplesFiles.length > 0) {
         loadTriples();
       } else {
-        loadApp();
+        loadTriples2();
       }
     })
     .catch(function (err) {
@@ -229,7 +229,7 @@ function loadApp() {
 }
 
 function start() {
-  loadApp();
+  createDatabase();
 }
 
 start();
