@@ -102,7 +102,33 @@ config.searchSetup = {
     },
     "constraint": [
       {
-        "name": "award",
+        "name": "display_title",
+        "range": {
+          "collation": "http://marklogic.com/collation/",
+          "type": "xs:string",
+          "facet": false,
+          "element": {
+            "ns": "",
+            "name": "display_title"
+          }
+        }
+      },
+      {
+        "name": "region",
+        "range": {
+          "type": "xs:string",
+          "facet": true,
+          "facet-option": [
+            "limit=10"
+          ],
+          "element": {
+            "ns": "http://marklogic.com/poolparty/worldbank",
+            "name": "geo-region"
+          }
+        }
+      },
+      {
+        "name": "lang",
         "range": {
           "collation": "http://marklogic.com/collation/",
           "type": "xs:string",
@@ -110,109 +136,14 @@ config.searchSetup = {
           "facet-option": [
             "limit=10"
           ],
-          "attribute": {
-            "ns": "",
-            "name": "award"
-          },
           "element": {
-            "ns": "http://marklogic.com/wikipedia",
-            "name": "nominee"
+            "ns": "",
+            "name": "lang"
           }
         }
       },
       {
-        "name": "decade",
-        "range": {
-          "type": "xs:gYear",
-          "facet": true,
-          "bucket": [
-            {
-              "ge": "2000",
-              "name": "2000s",
-              "label": "2000s"
-            },
-            {
-              "lt": "2000",
-              "ge": "1990",
-              "name": "1990s",
-              "label": "1990s"
-            },
-            {
-              "lt": "1990",
-              "ge": "1980",
-              "name": "1980s",
-              "label": "1980s"
-            },
-            {
-              "lt": "1980",
-              "ge": "1970",
-              "name": "1970s",
-              "label": "1970s"
-            },
-            {
-              "lt": "1970",
-              "ge": "1960",
-              "name": "1960s",
-              "label": "1960s"
-            },
-            {
-              "lt": "1960",
-              "ge": "1950",
-              "name": "1950s",
-              "label": "1950s"
-            },
-            {
-              "lt": "1950",
-              "ge": "1940",
-              "name": "1940s",
-              "label": "1940s"
-            },
-            {
-              "lt": "1940",
-              "ge": "1930",
-              "name": "1930s",
-              "label": "1930s"
-            },
-            {
-              "lt": "1930",
-              "name": "1920s",
-              "label": "1920s"
-            }
-          ],
-          "facet-option": [
-            "limit=10"
-          ],
-          "attribute": {
-            "ns": "",
-            "name": "year"
-          },
-          "element": {
-            "ns": "http://marklogic.com/wikipedia",
-            "name": "nominee"
-          }
-        }
-      },
-      {
-        "name": "win",
-        "range": {
-          "collation": "http://marklogic.com/collation/",
-          "type": "xs:string",
-          "facet": true,
-          "facet-option": [
-            "limit=10"
-          ],
-          "attribute": {
-            "ns": "",
-            "name": "winner"
-          },
-          "element": {
-            "ns": "http://marklogic.com/wikipedia",
-            "name": "nominee"
-          }
-        }
-      },
-      {
-        "name": "name",
+        "name": "country",
         "range": {
           "collation": "http://marklogic.com/collation/",
           "type": "xs:string",
@@ -223,13 +154,13 @@ config.searchSetup = {
             "limit=10"
           ],
           "element": {
-            "ns": "http://marklogic.com/wikipedia",
-            "name": "name"
+            "ns": "",
+            "name": "count"
           }
         }
       },
       {
-        "name": "film",
+        "name": "concept",
         "range": {
           "collation": "http://marklogic.com/collation/",
           "type": "xs:string",
@@ -240,40 +171,10 @@ config.searchSetup = {
             "limit=10"
           ],
           "element": {
-            "ns": "http://marklogic.com/wikipedia",
-            "name": "film-title"
+            "ns": "http://marklogic.com/poolparty/worldbank",
+            "name": "concept"
           }
         }
-      },
-      {
-        "name": "inname",
-        "word": {
-          "element": {
-            "ns": "http://marklogic.com/wikipedia",
-            "name": "name"
-          },
-          "term-option": [
-            "punctuation-insensitive"
-          ]
-        },
-        "annotation": [
-          ""
-        ]
-      },
-      {
-        "name": "intitle",
-        "word": {
-          "element": {
-            "ns": "http://marklogic.com/wikipedia",
-            "name": "film-title"
-          },
-          "term-option": [
-            "punctuation-insensitive"
-          ]
-        },
-        "annotation": [
-          ""
-        ]
       }
     ],
     "transform-results": {
@@ -282,8 +183,16 @@ config.searchSetup = {
         "element": [
           {
             "ns": "http://marklogic.com/poolparty/worldbank",
+            "name": "display_title"
+          },
+          {
+            "ns": "http://marklogic.com/poolparty/worldbank",
+            "name": "abstracts"
+          },
+          {
+            "ns": "http://marklogic.com/poolparty/worldbank",
             "name": "original-txt"
-          }
+          },
         ]
       },
       "max-matches": "3",
@@ -292,43 +201,21 @@ config.searchSetup = {
     },
     "return-query": true,
     "extract-metadata": {
-      "qname": [
-        {
-          "elem-ns": "http://marklogic.com/wikipedia",
-          "elem-name": "name"
-        },
-        {
-          "elem-ns": "http://marklogic.com/wikipedia",
-          "elem-name": "film-title"
-        },
-        {
-          "elem-ns": "http://marklogic.com/wikipedia",
-          "elem-name": "nominee",
-          "attr-ns": "",
-          "attr-name": "award"
-        },
-        {
-          "elem-ns": "http://marklogic.com/wikipedia",
-          "elem-name": "nominee",
-          "attr-ns": "",
-          "attr-name": "year"
-        }
-      ],
       "constraint-value": [
         {
-          "ref": "award"
+          "ref": "display_title"
         },
         {
-          "ref": "decade"
+          "ref": "lang"
         },
         {
-          "ref": "win"
+          "ref": "country"
         },
         {
-          "ref": "name"
+          "ref": "region"
         },
         {
-          "ref": "film"
+          "ref": "concept"
         }
       ]
     }
