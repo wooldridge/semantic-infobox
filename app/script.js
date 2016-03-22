@@ -37,7 +37,6 @@ function formatMeta(metadata) {
   return result;
 }
 
-
 /**
  * Get array of region metadata strings from results.
  * @param {object} results - search results.
@@ -57,6 +56,18 @@ function getRegions(results) {
 }
 
 /**
+ * Get most important topic from result facets.
+ * @param {object} results - search results.
+ */
+function getTopic(facets) {
+  var result = '';
+  if (facets.concept) {
+    result = facets.concept.facetValues[0].name;
+  }
+  return result;
+}
+
+/**
  * Handle UI search submission by performing search and getting infobox data.
  */
 $( "#submit" ).on( "click", function(event) {
@@ -64,7 +75,8 @@ $( "#submit" ).on( "click", function(event) {
   // Dismiss any previous results
   $('#summary').html('');
   $('#results').html('');
-  $('#infobox').html('').hide();
+  $('#info_region').html('').hide();
+  $('#info_topic').html('').hide();
   $('#spinner').show();
   var results = '';
   // Build structured query
@@ -108,6 +120,7 @@ $( "#submit" ).on( "click", function(event) {
       $('#summary').html('Results found: ' + data.total);
       if (data.total > 0) {
         var regions = getRegions(data.results);
+        var topic = getTopic(data.facets);
         console.dir('Region: ' + regions);
         for (var res of data.results) {
           results += '<div class="result">';
@@ -120,7 +133,7 @@ $( "#submit" ).on( "click", function(event) {
           results += '</div>';
         }
         $('#results').html(results);
-        // Get infobox data
+        // Get GEO infobox data
         var newArr = regions.map(function (curr, index, arr) {
           return '"' + curr + '"@en';
         });
@@ -129,38 +142,102 @@ $( "#submit" ).on( "click", function(event) {
         var sparql = 'SELECT ?label ?geo ?abstract ?thumbnail ?externalLink ' +
                      'WHERE { ' +
                      '?geo <http://www.w3.org/2000/01/rdf-schema#label> ?label ; ' +
+                          '<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> ; ' +
                           '<http://dbpedia.org/ontology/abstract> ?abstract ; ' +
                           '<http://dbpedia.org/ontology/thumbnail> ?thumbnail ; ' +
                           '<http://www.w3.org/ns/prov#wasDerivedFrom> ?externalLink . ' +
-                          'FILTER (?label IN  (' + regionsStr + '))' +
+                          'FILTER (?label IN  (' + regionsStr + ')) . ' +
+                          'FILTER (lang(?label) = "en") . ' +
+                          'FILTER (lang(?abstract) = "en") . ' +
                      '}';
         $.ajax({
-            method: 'POST',
-            url: '/v1/graphs/sparql',
-            headers: {
-              'Accept': 'application/rdf+json',
-              'Content-Type': 'application/sparql-query'
-            },
-            data: sparql
-          }).done(
-            function(data2) {
-              if (data2.results) {
-                var results = data2.results.bindings[0];
-                if (results) {
-                  $('#infobox').show();
-                  results2 += '<div class="infobox-heading">Related</div>';
-                  results2 += '<div class="infobox-title">' + results.label.value + '</div>';
-                  var desc = $.trim(results.abstract.value).substring(0, 300)
-                    .split(' ').slice(0, -1).join(' ') + '...';
-                  results2 += '<div class="infobox-desc">' + desc + '</div>';
-                  $('#infobox').html(results2);
-                }
+          method: 'POST',
+          url: '/v1/graphs/sparql',
+          headers: {
+            'Accept': 'application/rdf+json',
+            'Content-Type': 'application/sparql-query'
+          },
+          data: sparql
+        }).done(
+          function(data2) {
+            if (data2.results) {
+              var results = data2.results.bindings[0];
+              if (results) {
+                $('#info_region').show();
+                results2 += '<div class="infobox-heading">Related</div>';
+                results2 += '<div class="infobox-title">' + results.label.value + '</div>';
+                var desc = $.trim(results.abstract.value).substring(0, 300)
+                  .split(' ').slice(0, -1).join(' ') + '...';
+                results2 += '<div class="infobox-desc">' + desc + '</div>';
+                $('#info_region').html(results2);
               }
-            }).fail(function(jqXHR2, textStatus2) {
-              console.dir(jqXHR2);
-            });
+            }
+          }).fail(function(jqXHR2, textStatus2) {
+            console.dir(jqXHR2);
+          });
+
+        // Get TOPIC infobox data
+        console.log(topic);
+        var topic_formatted = '"' + topic + '"@en';
+        var results3 = '';
+        console.log
+        var sparql2 = 'PREFIX skos:<http://www.w3.org/2004/02/skos/core#> ' +
+                      'PREFIX dbo:<http://dbpedia.org/ontology/> ' +
+                      'SELECT ?filterLabel ?abstract ?thumbnail ' +
+                        '(GROUP_CONCAT(DISTINCT ?altLabel ; separator=", ") AS ?altLabels) ' +
+                        '(GROUP_CONCAT(DISTINCT ?relLabel ; separator=", ") AS ?relLabels) ' +
+                        '(GROUP_CONCAT(DISTINCT ?externalLink ; separator=", ") AS ?externalLinks) ' +
+                      'WHERE { ' +
+                        'BIND(' + topic_formatted + ' AS ?filterLabel) . ' +
+                        '?concept skos:prefLabel|skos:altLabel ?filterLabel . ' +
+                        'OPTIONAL { ' +
+                          '?concept skos:prefLabel|skos:altLabel ?altLabel . ' +
+                          'FILTER(?altLabel != ?filterLabel) ' +
+                          'FILTER(lang(?altLabel) = "en") ' +
+                        '} ' +
+                        'OPTIONAL { ' +
+                          '?concept skos:related ?related . ' +
+                          '?related skos:prefLabel ?relLabel . ' +
+                          'FILTER(lang(?relLabel) = "en") ' +
+                        '} ' +
+                        'OPTIONAL {  ?concept skos:exactMatch ?dbpedia . ' +
+                          'GRAPH <http://en.dbpedia.org> ' +
+                            '{ OPTIONAL { ?dbpedia dbo:abstract ?abstract . } } ' +
+                            '{ OPTIONAL { ?dbpedia dbo:thumbnail ?thumbnail . } } ' +
+                            '{ OPTIONAL { ?dbpedia dbo:wikiPageExternalLink ?externalLink .} } ' +
+                        '} ' +
+                      '} LIMIT 5 ';
+        $.ajax({
+          method: 'POST',
+          url: '/v1/graphs/sparql',
+          headers: {
+            'Accept': 'application/rdf+json',
+            'Content-Type': 'application/sparql-query'
+          },
+          data: sparql2
+        }).done(
+          function(data3) {
+            if (data3.results) {
+              var results = data3.results.bindings[0];
+              console.dir(results);
+              if (results && results.filterLabel) {
+                $('#info_topic').show();
+                results3 += '<div class="infobox-heading">Related</div>';
+                results3 += '<div class="infobox-title">' + results.filterLabel.value + '</div>';
+                var list = results.altLabels.value.split(',').reduce(function (prev, curr, index, arr) {
+                  return prev + '<li>' + curr + '</li>';
+                }, '');
+                results3 += '<div>' + list + '</div>';
+                $('#info_topic').html(results3);
+              }
+            }
+          }).fail(function(jqXHR3, textStatus3) {
+            console.dir(jqXHR3);
+          });
       }
   }).fail(function(jqXHR, textStatus) {
     console.dir(jqXHR);
   });
 });
+
+
