@@ -10,7 +10,8 @@ CONSTRUCT {
   ?s rdfs:label ?label .
   ?s dbo:abstract ?abstract .
   ?s dbo:thumbnail ?thumb .
-  ?s prov:wasDerivedFrom ?from
+  ?s prov:wasDerivedFrom ?from .
+  ?s a dbo:Country
 }
 where {
 ?s rdfs:label ?label .
