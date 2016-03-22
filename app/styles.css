@@ -75,9 +75,15 @@ h1 {
   font-size: 0.8em;
 }
 
-#infobox {
+#infoboxes {
   position: relative;
   float: right;
+  width: 340px;
+  padding: 10px;
+}
+
+.infobox {
+  position: relative;
   width: 280px;
   padding: 20px;
   margin: 10px;
