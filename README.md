@@ -38,6 +38,6 @@ https://developer.marklogic.com/learn/semantic-infopanel
 
 6. Access the application here:
 
-   http://localhost:8554/app/
+   http://localhost:8554
 
 7. To remove the REST service, databases, and forests, you can run `node teardown`. Then you can edit the project files and run `node setup` again.
