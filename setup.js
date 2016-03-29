@@ -2,6 +2,16 @@ var config = require('./config'),
     rp = require('request-promise'),
     fs = require('fs');
 
+function handleError(err) {
+  if (err.error &&
+      err.error.errorResponse &&
+      err.error.errorResponse.message) {
+    console.log('Error: ' + err.error.errorResponse.message);
+  } else {
+    console.log(JSON.stringify(err, null, 2));
+  }
+}
+
 function createDatabase() {
   var options = {
     method: 'POST',
@@ -19,7 +29,7 @@ function createDatabase() {
       getHost();
     })
     .catch(function (err) {
-      console.log(err);
+      handleError(err);
     });
 }
 
@@ -42,7 +52,7 @@ function getHost() {
       createForest(hostName);
     })
     .catch(function (err) {
-      console.log(err);
+      handleError(err);
     });
 }
 
@@ -64,7 +74,7 @@ function createForest(hostName) {
       createREST();
     })
     .catch(function (err) {
-      console.log(err);
+      handleError(err);
     });
 }
 
@@ -85,7 +95,7 @@ function createREST() {
       createOptions();
     })
     .catch(function (err) {
-      console.log(err);
+      handleError(err);
     });
 }
 
@@ -106,7 +116,7 @@ function createOptions() {
       loadDocs();
     })
     .catch(function (err) {
-      console.log(err);
+      handleError(err);
     });
 }
 
@@ -139,7 +149,7 @@ function loadDocs() {
       }
     })
     .catch(function (err) {
-      console.log(err);
+      handleError(err);
     });
 }
 
@@ -172,7 +182,7 @@ function loadTriples() {
       }
     })
     .catch(function (err) {
-      console.log(err);
+      handleError(err);
     });
 }
 
@@ -195,7 +205,7 @@ function loadTriples2() {
       loadApp();
     })
     .catch(function (err) {
-      console.log(err);
+      handleError(err);
     });
 }
 
@@ -224,12 +234,18 @@ function loadApp() {
       }
     })
     .catch(function (err) {
-      console.log(err);
+      handleError(err);
     });
 }
 
+var args = process.argv;
+
 function start() {
-  createDatabase();
+  if (args[2] === 'module') {
+    loadApp()
+  } else {
+    createDatabase();
+  }
 }
 
 start();

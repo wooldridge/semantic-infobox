@@ -1,6 +1,16 @@
 var config = require('./config'),
     rp = require('request-promise');
 
+function handleError(err) {
+  if (err.error &&
+      err.error.errorResponse &&
+      err.error.errorResponse.message) {
+    console.log('Error: ' + err.error.errorResponse.message);
+  } else {
+    console.log(JSON.stringify(err, null, 2));
+  }
+}
+
 function deleteREST() {
   var options = {
     method: 'DELETE',
@@ -15,10 +25,9 @@ function deleteREST() {
   rp(options)
     .then(function (parsedBody) {
       console.log('REST instance deleted: ' + config.database.name + "-rest");
-      //deleteDatabases();
     })
     .catch(function (err) {
-      console.log(err);
+      handleError(err)
     });
 }
 
