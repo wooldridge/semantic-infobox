@@ -41,3 +41,5 @@ https://developer.marklogic.com/learn/semantic-infopanel
    http://localhost:8554/app/
 
 7. To remove the REST service, databases, and forests, you can run `node teardown`. Then you can edit the project files and run `node setup` again.
+
+   To load the module files (HTML, JavaScript, and CSS) and not the document and triple data, you can run `node setup module`.
