@@ -21,48 +21,56 @@ config.databaseSetup = {
   "range-element-index": [
     {
       "scalar-type": "string",
-      "namespace-uri": "http://marklogic.com/wikipedia",
-      "localname": "name",
+      "namespace-uri": "",
+      "localname": "url",
       "collation": "http://marklogic.com/collation/",
       "range-value-positions": false,
       "invalid-values": "reject"
     },
     {
       "scalar-type": "string",
-      "namespace-uri": "http://marklogic.com/wikipedia",
-      "localname": "film-title",
-      "collation": "http://marklogic.com/collation/",
-      "range-value-positions": false,
-      "invalid-values": "reject"
-    }
-  ],
-  "range-element-attribute-index": [
-    {
-      "scalar-type": "gYear",
-      "parent-namespace-uri": "http://marklogic.com/wikipedia",
-      "parent-localname": "nominee",
       "namespace-uri": "",
-      "localname": "year",
-      "collation": "",
-      "range-value-positions": false,
-      "invalid-values": "reject"
-    },
-    {
-      "scalar-type": "string",
-      "parent-namespace-uri": "http://marklogic.com/wikipedia",
-      "parent-localname": "nominee",
-      "namespace-uri": "",
-      "localname": "award",
+      "localname": "abstracts",
       "collation": "http://marklogic.com/collation/",
       "range-value-positions": false,
       "invalid-values": "reject"
     },
     {
       "scalar-type": "string",
-      "parent-namespace-uri": "http://marklogic.com/wikipedia",
-      "parent-localname": "nominee",
       "namespace-uri": "",
-      "localname": "winner",
+      "localname": "lang",
+      "collation": "http://marklogic.com/collation/",
+      "range-value-positions": false,
+      "invalid-values": "reject"
+    },
+    {
+      "scalar-type": "string",
+      "namespace-uri": "",
+      "localname": "count",
+      "collation": "http://marklogic.com/collation/",
+      "range-value-positions": false,
+      "invalid-values": "reject"
+    },
+    {
+      "scalar-type": "string",
+      "namespace-uri": "",
+      "localname": "display_title",
+      "collation": "http://marklogic.com/collation/",
+      "range-value-positions": false,
+      "invalid-values": "reject"
+    },
+    {
+      "scalar-type": "string",
+      "namespace-uri": "http://marklogic.com/poolparty/worldbank",
+      "localname": "geo-region",
+      "collation": "http://marklogic.com/collation/",
+      "range-value-positions": false,
+      "invalid-values": "reject"
+    },
+    {
+      "scalar-type": "string",
+      "namespace-uri": "http://marklogic.com/poolparty/worldbank",
+      "localname": "concept",
       "collation": "http://marklogic.com/collation/",
       "range-value-positions": false,
       "invalid-values": "reject"
