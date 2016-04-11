@@ -34,12 +34,10 @@ https://developer.marklogic.com/learn/semantic-infopanel
    - example documents and semantic triples
    - HTML, JavaScript, and CSS
 
-5. Restart MarkLogic to load the application.
-
-6. Access the application here:
+5. Access the application here:
 
    http://localhost:8554
 
-7. To remove the REST service, databases, and forests, you can run `node teardown`. Then you can edit the project files and run `node setup` again.
+6. To remove the REST service, databases, and forests, you can run `node teardown`. Then you can edit the project files and run `node setup` again.
 
-   To load the module files (HTML, JavaScript, and CSS) and not the document and triple data, you can run `node setup module`.
+   To load the module files (HTML, JavaScript, and CSS) and not the document and triple data, you can run `node setup module`. This avoids the long data loading step.
